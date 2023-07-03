@@ -14,5 +14,5 @@ Authors:
 <ul>
   <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">Thomas Schmidt</a></li>
   <li><a href="https://www.germanistik.uni-wuerzburg.de/ndl1/mitarbeiter/dennerlein/">Katrin Dennerlein</a></li>
-  <li><a href="go.ur.de/christian-wolff">Christian Wolff</a></li>
+  <li><a href="https://go.ur.de/christian-wolff">Christian Wolff</a></li>
 </ul>
