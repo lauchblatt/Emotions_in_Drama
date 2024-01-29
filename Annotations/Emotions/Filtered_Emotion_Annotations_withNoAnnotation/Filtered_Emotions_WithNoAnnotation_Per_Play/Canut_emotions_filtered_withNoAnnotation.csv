@@ -1,0 +1,1574 @@
+,Unnamed: 0,Gemeinte_Source:_Experiencer,Gemeinte_Source:_Zuschreibende_Instanz,Gemeintes_Target:_Charakter,Gemeintes_Target:_Nicht-Charakter,Polarität,annotator,base_polarity,end,id,length_in_tokens,main_emotion_class,polarity,start,tag_type,text,tokens
+0,0,,,,,,ER,negativ,10657.0,CATMA_231FD788-51F6-482F-8808-B8C1EC675602,72,Emotionen der Ablehnung,negativ,10296.0,Abscheu,"Erwarte weiter nichts. Dein Wunsch ist dir gewährt.
+Ich habe dich geführt, wohin du es begehrt.
+Du siehst nun Dännemarks berühmte Hauptstadt wieder.
+Geh, wirf dich, wenn du willst, vor deinem Bruder nieder;
+Ersuche den Canut um gnädiges Verzeihn;
+Bereu, entschuldige, ja, mische Thränen ein;
+Heiß meine That vor ihm ein übereilt Verbrechen,
+Erniedrige dich nur:","['Erwarte', 'weiter', 'nichts', '.', 'Dein', 'Wunsch', 'ist', 'dir', 'gewährt', '.', 'Ich', 'habe', 'dich', 'geführt', ',', 'wohin', 'du', 'es', 'begehrt', '.', 'Du', 'siehst', 'nun', 'Dännemarks', 'berühmte', 'Hauptstadt', 'wieder', '.', 'Geh', ',', 'wirf', 'dich', ',', 'wenn', 'du', 'willst', ',', 'vor', 'deinem', 'Bruder', 'nieder', ';', 'Ersuche', 'den', 'Canut', 'um', 'gnädiges', 'Verzeihn', ';', 'Bereu', ',', 'entschuldige', ',', 'ja', ',', 'mische', 'Thränen', 'ein', ';', 'Heiß', 'meine', 'That', 'vor', 'ihm', 'ein', 'übereilt', 'Verbrechen', ',', 'Erniedrige', 'dich', 'nur', ':']"
+1,1,,ulfo,,,,ER,negativ,10656.0,CATMA_A7332902-9D88-44CC-BB80-067EE823421A,43,Emotionen des Leids,negativ,10445.0,Leid,"Geh, wirf dich, wenn du willst, vor deinem Bruder nieder;
+Ersuche den Canut um gnädiges Verzeihn;
+Bereu, entschuldige, ja, mische Thränen ein;
+Heiß meine That vor ihm ein übereilt Verbrechen,
+Erniedrige dich nur","['Geh', ',', 'wirf', 'dich', ',', 'wenn', 'du', 'willst', ',', 'vor', 'deinem', 'Bruder', 'nieder', ';', 'Ersuche', 'den', 'Canut', 'um', 'gnädiges', 'Verzeihn', ';', 'Bereu', ',', 'entschuldige', ',', 'ja', ',', 'mische', 'Thränen', 'ein', ';', 'Heiß', 'meine', 'That', 'vor', 'ihm', 'ein', 'übereilt', 'Verbrechen', ',', 'Erniedrige', 'dich', 'nur']"
+2,2,,,,,,ER,negativ,10848.0,CATMA_A20A6E8A-6DE1-4277-9FFF-1ACB642519EB,32,Emotionen des Leids,negativ,10700.0,Leid,"Ach! Ulfo! kannst du mich so grausam hintergehn?
+Hast du mich hergeführt, hier deinen Tod zu sehn?
+Bedenke, was du schon für deinen Trutz gelitten.
+","['Ach', '!', 'Ulfo', '!', 'kannst', 'du', 'mich', 'so', 'grausam', 'hintergehn', '?', 'Hast', 'du', 'mich', 'hergeführt', ',', 'hier', 'deinen', 'Tod', 'zu', 'sehn', '?', 'Bedenke', ',', 'was', 'du', 'schon', 'für', 'deinen', 'Trutz', 'gelitten', '.']"
+3,4,,,,,,ER,positiv,11070.0,CATMA_89F9E9EF-1C65-44AD-979C-ECFD332EDE1E,11,Emotionen der Zuneigung,positiv,11026.0,Liebe,": seit mein Herz, da ich es dir geschenket,
+","[':', 'seit', 'mein', 'Herz', ',', 'da', 'ich', 'es', 'dir', 'geschenket', ',']"
+4,6,,,,,,ER,negativ,11654.0,CATMA_97A3F27E-7CBD-42BC-B58C-4CBBE59415E2_0,14,Emotionen der Ablehnung,negativ,11581.0,Abscheu,"Es schwimmen in der Fluth
+Durch meine List ersäufft die Völker des Canut.","['Es', 'schwimmen', 'in', 'der', 'Fluth', 'Durch', 'meine', 'List', 'ersäufft', 'die', 'Völker', 'des', 'Canut', '.']"
+5,10,,,,,,ER,positiv,12285.0,CATMA_37EFA2C1-7CA2-466C-93CD-33CE0E419AB2,45,Emotionen der Zuneigung,positiv,12076.0,Liebe,"Hab ich nicht, seit Canut mein Herz dir übergeben,
+Mir zum Gesetz gemacht, nach deinem Wink zu leben?
+Wie willig floh ich mit zu Nordens tiefstem Schnee?
+Durch Wälder folgt ich dir, und gieng mit dir zur See.
+","['Hab', 'ich', 'nicht', ',', 'seit', 'Canut', 'mein', 'Herz', 'dir', 'übergeben', ',', 'Mir', 'zum', 'Gesetz', 'gemacht', ',', 'nach', 'deinem', 'Wink', 'zu', 'leben', '?', 'Wie', 'willig', 'floh', 'ich', 'mit', 'zu', 'Nordens', 'tiefstem', 'Schnee', '?', 'Durch', 'Wälder', 'folgt', 'ich', 'dir', ',', 'und', 'gieng', 'mit', 'dir', 'zur', 'See', '.']"
+6,11,,,,,,ER,negativ,12383.0,CATMA_6D0ACA60-62A7-4C63-8A38-192FF9DCBEDB,20,Emotionen des Leids,negativ,12286.0,Leid,"ch sah, um den Canut undankbar zu bestreiten,
+Die Schiffe fertig stehn, die Heere sich bereiten:
+","['ch', 'sah', ',', 'um', 'den', 'Canut', 'undankbar', 'zu', 'bestreiten', ',', 'Die', 'Schiffe', 'fertig', 'stehn', ',', 'die', 'Heere', 'sich', 'bereiten', ':']"
+7,15,,,,,,ER,negativ,13910.0,CATMA_1F2EBEEE-B025-45F9-90C0-DFD7053572FE,9,Emotionen des Leids,negativ,13861.0,Leid,"Wie qvälest du mich nicht mit deiner Ruhmbegier?
+","['Wie', 'qvälest', 'du', 'mich', 'nicht', 'mit', 'deiner', 'Ruhmbegier', '?']"
+8,19,ulfo,,,,,ER,negativ,14190.0,CATMA_69538E07-8004-482E-8EFA-3DC0E842699E,24,Emotionen des Leids,negativ,14087.0,Leid,"Das Unglück, daß er bringt, sey wichtig oder klein!
+Kein Unglück ist so groß, als lebend todt zu seyn.
+","['Das', 'Unglück', ',', 'daß', 'er', 'bringt', ',', 'sey', 'wichtig', 'oder', 'klein', '!', 'Kein', 'Unglück', 'ist', 'so', 'groß', ',', 'als', 'lebend', 'todt', 'zu', 'seyn', '.']"
+9,20,,,,,,ER,positiv,14497.0,CATMA_092D623F-BFC6-4E33-9314-C12336C3D485,42,Emotionen der Zuneigung,positiv,14292.0,Verehrung,"Zur Ehre hab ich schon den ersten Schritt gethan.
+Die Welt sieht meinen Sieg schon mit Bewundrung an.
+Man sagt schon daß Canut, den sonst nichts überwunden,
+Am Ulfo einen Feind, der siegen kann, gefunden.
+","['Zur', 'Ehre', 'hab', 'ich', 'schon', 'den', 'ersten', 'Schritt', 'gethan', '.', 'Die', 'Welt', 'sieht', 'meinen', 'Sieg', 'schon', 'mit', 'Bewundrung', 'an', '.', 'Man', 'sagt', 'schon', 'daß', 'Canut', ',', 'den', 'sonst', 'nichts', 'überwunden', ',', 'Am', 'Ulfo', 'einen', 'Feind', ',', 'der', 'siegen', 'kann', ',', 'gefunden', '.']"
+10,22,,ulfo,,,,ER,negativ,14773.0,CATMA_E06FF125-0AB8-4A88-BB3D-A93A11260119,12,Emotionen des Leids,negativ,14725.0,Leid,"Geh nur, und bitte du bey ihm für mein Vergehn;
+","['Geh', 'nur', ',', 'und', 'bitte', 'du', 'bey', 'ihm', 'für', 'mein', 'Vergehn', ';']"
+11,23,,ulfo,,,,ER,negativ,14829.0,CATMA_53C65499-FAEB-443B-9B98-D2C758510FAE,12,Emotionen des Leids,negativ,14773.0,Leid,"Du sollst es bald gehäufft, und ihn selbst bittend sehn.","['Du', 'sollst', 'es', 'bald', 'gehäufft', ',', 'und', 'ihn', 'selbst', 'bittend', 'sehn', '.']"
+12,24,,,,,,ER,positiv,15024.0,CATMA_ECA74CDE-ECDA-4F45-BD45-4CF1B678D3A0,11,Emotionen der Zuneigung,positiv,14977.0,Verehrung,"Mich nenne denn die Welt, den Sieger des Canut.","['Mich', 'nenne', 'denn', 'die', 'Welt', ',', 'den', 'Sieger', 'des', 'Canut', '.']"
+13,25,,gunilde,,,,ER,negativ,15177.0,CATMA_4F8E19CD-6EAF-42C5-817D-EA669CD2CD0F,9,Emotionen des Leids,negativ,15130.0,Leid,"Des Ulfo Wiederkehr hat ihm das Herz genommen.
+","['Des', 'Ulfo', 'Wiederkehr', 'hat', 'ihm', 'das', 'Herz', 'genommen', '.']"
+14,26,gunilde,,,,,ER,positiv,15277.0,CATMA_28BD8B29-4B4A-4220-A096-9B71CB46FEC8,20,Emotionen der Zuneigung,positiv,15177.0,Verehrung,"Canut ist immer noch der Held voll Gütigkeit,
+Der nur aus Zwange zürnt, aus Neigung stets verzeiht.
+","['Canut', 'ist', 'immer', 'noch', 'der', 'Held', 'voll', 'Gütigkeit', ',', 'Der', 'nur', 'aus', 'Zwange', 'zürnt', ',', 'aus', 'Neigung', 'stets', 'verzeiht', '.']"
+15,27,,godewin,,,,ER,positiv,15378.0,CATMA_E7B369CE-4726-450C-9258-28F0FF979D24,22,Emotionen der Zuneigung,positiv,15277.0,Liebe,"Er wird von seiner Huld dich itzt versichern lassen,
+Und zeigen, wie bereit er sey, dich zu umfassen.","['Er', 'wird', 'von', 'seiner', 'Huld', 'dich', 'itzt', 'versichern', 'lassen', ',', 'Und', 'zeigen', ',', 'wie', 'bereit', 'er', 'sey', ',', 'dich', 'zu', 'umfassen', '.']"
+16,28,,,canut,,,ER,negativ,15488.0,CATMA_CD5305AD-BD05-446A-9710-F3F4E65E08D2,17,Emotionen des Leids,negativ,15391.0,Leid,"Ach! wär ich wiederum in Wäldern tief versteckt,
+Vom Mangel unterdrückt und von Gefahr erschreckt","['Ach', '!', 'wär', 'ich', 'wiederum', 'in', 'Wäldern', 'tief', 'versteckt', ',', 'Vom', 'Mangel', 'unterdrückt', 'und', 'von', 'Gefahr', 'erschreckt']"
+17,30,gunilde,,,,,ER,Emotionale Bewegtheit,15799.0,CATMA_246A2FB1-F987-4DCB-ACD5-AEB03CC202B1,13,Emotionale Bewegtheit,Emotionale Bewegtheit,15745.0,Emotionale Bewegtheit,"Die Gnade beut sich an, und er will sie nicht nehmen?
+","['Die', 'Gnade', 'beut', 'sich', 'an', ',', 'und', 'er', 'will', 'sie', 'nicht', 'nehmen', '?']"
+18,31,,godewin,ulfo,,,ER,negativ,16168.0,CATMA_BEC87360-7B51-4630-B942-26DA306F7479,9,Emotionen der Ablehnung,negativ,16121.0,Abscheu,"Verachtet vom Canut und selbst sein König war;
+","['Verachtet', 'vom', 'Canut', 'und', 'selbst', 'sein', 'König', 'war', ';']"
+19,32,,gunilde,,,,ER,negativ,16374.0,CATMA_01C38280-E095-4188-BC29-BEED27F11909,44,Emotionen des Leids,negativ,16168.0,Leid,"Wo ihn kein andrer Feind als Frost und Mangel drükte,
+Da war es Zeit zu sehn, ob Flehn sich für ihn schickte;
+Da stund ihm noch die Wahl von seinem Schicksal frey,
+Ob Elend reitzender als der Gehorsam sey.
+","['Wo', 'ihn', 'kein', 'andrer', 'Feind', 'als', 'Frost', 'und', 'Mangel', 'drükte', ',', 'Da', 'war', 'es', 'Zeit', 'zu', 'sehn', ',', 'ob', 'Flehn', 'sich', 'für', 'ihn', 'schickte', ';', 'Da', 'stund', 'ihm', 'noch', 'die', 'Wahl', 'von', 'seinem', 'Schicksal', 'frey', ',', 'Ob', 'Elend', 'reitzender', 'als', 'der', 'Gehorsam', 'sey', '.']"
+20,33,,,,,,ER,negativ,17102.0,CATMA_B94C0D53-D65F-49BD-B138-C1F667A869EA,110,Emotionen des Leids,negativ,16558.0,Leid,"Ach! nichts als dieser Stolz hat ihn hieher gebracht.
+Indeß daß ich geglaubt, er höre mein Verlangen,
+Gunilde, so hat mich der Falsche hintergangen.
+Du weißt, wie oft ich ihm mit Thränen zugesetzt,
+Wie ich ihm vorgestellt, daß er die Pflicht verletzt.
+Wie deutlich zeigt ich ihm des Stolzes Folgerungen,
+Dadurch er statt des Ruhms nur Schand und Noth errungen,
+Sein wüster Aufenthalt, sein Heer, daß ihn verließ,
+Bezeugten, daß ich ihm nichts als die Wahrheit wies,
+Ich rieth ihm, wiederum zu seiner Pflicht zu kehren.
+Wievielmal bath ich ihn! ","['Ach', '!', 'nichts', 'als', 'dieser', 'Stolz', 'hat', 'ihn', 'hieher', 'gebracht', '.', 'Indeß', 'daß', 'ich', 'geglaubt', ',', 'er', 'höre', 'mein', 'Verlangen', ',', 'Gunilde', ',', 'so', 'hat', 'mich', 'der', 'Falsche', 'hintergangen', '.', 'Du', 'weißt', ',', 'wie', 'oft', 'ich', 'ihm', 'mit', 'Thränen', 'zugesetzt', ',', 'Wie', 'ich', 'ihm', 'vorgestellt', ',', 'daß', 'er', 'die', 'Pflicht', 'verletzt', '.', 'Wie', 'deutlich', 'zeigt', 'ich', 'ihm', 'des', 'Stolzes', 'Folgerungen', ',', 'Dadurch', 'er', 'statt', 'des', 'Ruhms', 'nur', 'Schand', 'und', 'Noth', 'errungen', ',', 'Sein', 'wüster', 'Aufenthalt', ',', 'sein', 'Heer', ',', 'daß', 'ihn', 'verließ', ',', 'Bezeugten', ',', 'daß', 'ich', 'ihm', 'nichts', 'als', 'die', 'Wahrheit', 'wies', ',', 'Ich', 'rieth', 'ihm', ',', 'wiederum', 'zu', 'seiner', 'Pflicht', 'zu', 'kehren', '.', 'Wievielmal', 'bath', 'ich', 'ihn', '!']"
+21,39,gunilde,,,,,ER,positiv,17952.0,CATMA_0C8CFF1E-1571-44DF-8845-C85F867BA268,9,Emotionen der Zuneigung,positiv,17903.0,Verehrung,"Das heiligste Gesetz ist stets des Königs Leben.
+","['Das', 'heiligste', 'Gesetz', 'ist', 'stets', 'des', 'Königs', 'Leben', '.']"
+22,40,,,,,,ER,positiv,18206.0,CATMA_0B1470C0-B857-4C25-BD4B-2B326A734E55,21,Emotionen der Zuneigung,positiv,18108.0,Liebe,"Es mußte Godewin, der erst mein Herz besessen,
+Von mir vergessen seyn; Ich hab ihn auch vergessen.","['Es', 'mußte', 'Godewin', ',', 'der', 'erst', 'mein', 'Herz', 'besessen', ',', 'Von', 'mir', 'vergessen', 'seyn', ';', 'Ich', 'hab', 'ihn', 'auch', 'vergessen', '.']"
+23,41,,,,,,ER,positiv,18406.0,CATMA_6FBE2785-84BB-4D88-8591-7290FFCEB429,41,Emotionen der Zuneigung,positiv,18207.0,Liebe,"Mein Ehgemahl zu seyn ward Ulfo werthgeschätzt;
+Drum hab ich meine Ruh, ja mich ihm nachgesetzt.
+Es war des Königs Wink, den Ulfo mir entdecket;
+Ich ehrte diesen Wink: Drum hab ich ihn vollstrecket.
+","['Mein', 'Ehgemahl', 'zu', 'seyn', 'ward', 'Ulfo', 'werthgeschätzt', ';', 'Drum', 'hab', 'ich', 'meine', 'Ruh', ',', 'ja', 'mich', 'ihm', 'nachgesetzt', '.', 'Es', 'war', 'des', 'Königs', 'Wink', ',', 'den', 'Ulfo', 'mir', 'entdecket', ';', 'Ich', 'ehrte', 'diesen', 'Wink', ':', 'Drum', 'hab', 'ich', 'ihn', 'vollstrecket', '.']"
+24,46,estrithe,gunilde,,,,ER,positiv,19668.0,CATMA_F15B31BE-29B2-484D-8970-E80D65493141,17,Emotionen der Zuneigung,positiv,19570.0,Liebe,"daß die Zärtlichkeit, die deine Brust entzündet,
+In Ulfons Herzen doch nicht gleiche Regung findet","['daß', 'die', 'Zärtlichkeit', ',', 'die', 'deine', 'Brust', 'entzündet', ',', 'In', 'Ulfons', 'Herzen', 'doch', 'nicht', 'gleiche', 'Regung', 'findet']"
+25,47,ulfo,estrithe,canut,,,ER,negativ,19778.0,CATMA_6AAAB966-574C-436E-8656-D01D4DE1A148,8,Emotionen der Ablehnung,negativ,19736.0,Ärger,"Eh seine Raserey sich aller Welt erklärt.
+","['Eh', 'seine', 'Raserey', 'sich', 'aller', 'Welt', 'erklärt', '.']"
+26,48,,,,,,ER,Emotionale Bewegtheit,20206.0,CATMA_DF4C0401-0DB4-4DB6-9D6A-9F8BB992487E,17,Emotionale Bewegtheit,Emotionale Bewegtheit,20131.0,Emotionale Bewegtheit," Wer kömmt hier? Godewin!
+O Himmel! soll ich wohl ihn sprechen oder fliehn?","['Wer', 'kömmt', 'hier', '?', 'Godewin', '!', 'O', 'Himmel', '!', 'soll', 'ich', 'wohl', 'ihn', 'sprechen', 'oder', 'fliehn', '?']"
+27,53,,godewin,,,,ER,positiv,20836.0,CATMA_E7DAD1A7-6975-4646-A75B-D8DFF69AD11B,11,Emotionen der Zuneigung,positiv,20789.0,Liebe,"Auch Ulfo, da du ihm dein ganzes Herz geweyht,
+","['Auch', 'Ulfo', ',', 'da', 'du', 'ihm', 'dein', 'ganzes', 'Herz', 'geweyht', ',']"
+28,56,,,,,,ER,negativ,21418.0,CATMA_DC73FB0A-F291-462C-B204-20CA50245160,43,Emotionen des Leids,negativ,21218.0,Leid,"Doch da er, was geschehn, so großmuthsvoll vergißt,
+Weiß ich, daß meine Pflicht es zu erwähnen ist.
+Darf ich ie sein Geboth zu brechen mich erkühnen,
+So ists, um seine Huld durch Bitten zu verdienen.
+","['Doch', 'da', 'er', ',', 'was', 'geschehn', ',', 'so', 'großmuthsvoll', 'vergißt', ',', 'Weiß', 'ich', ',', 'daß', 'meine', 'Pflicht', 'es', 'zu', 'erwähnen', 'ist', '.', 'Darf', 'ich', 'ie', 'sein', 'Geboth', 'zu', 'brechen', 'mich', 'erkühnen', ',', 'So', 'ists', ',', 'um', 'seine', 'Huld', 'durch', 'Bitten', 'zu', 'verdienen', '.']"
+29,57,,,,,,ER,positiv,21473.0,CATMA_FAA49CB7-E8BD-4B5B-B8D1-34387CF0C225_0,11,Emotionen der Zuneigung,positiv,21418.0,Liebe,"Hätt ich dem Ulfo gleich mein Herz auch nicht geweyht,
+","['Hätt', 'ich', 'dem', 'Ulfo', 'gleich', 'mein', 'Herz', 'auch', 'nicht', 'geweyht', ',']"
+30,58,,,,,,ER,positiv,21624.0,CATMA_FAA49CB7-E8BD-4B5B-B8D1-34387CF0C225_1,9,Emotionen der Zuneigung,positiv,21575.0,Liebe,"Darf Ulfo noch vielmehr auf gleiche Güte hoffen.
+","['Darf', 'Ulfo', 'noch', 'vielmehr', 'auf', 'gleiche', 'Güte', 'hoffen', '.']"
+31,59,,,,,,ER,positiv,21575.0,CATMA_51B3EB00-3609-4CA0-952B-B40603A8BD81,9,Emotionen der Zuneigung,positiv,21530.0,Liebe,"Da ich dich, Godewin, begnadigt angetroffen.
+","['Da', 'ich', 'dich', ',', 'Godewin', ',', 'begnadigt', 'angetroffen', '.']"
+32,64,,,,,,ER,positiv,21837.0,CATMA_E9531241-38B4-452C-9E7B-893B36C0A587_4,4,Emotionen der Zuneigung,positiv,21821.0,Liebe,dir meine Liebe.,"['dir', 'meine', 'Liebe', '.']"
+33,65,,,,,,ER,positiv,21838.0,CATMA_E9531241-38B4-452C-9E7B-893B36C0A587_5,3,Emotionen der Zuneigung,positiv,21824.0,Liebe," meine Liebe.
+","['meine', 'Liebe', '.']"
+34,68,,,,,,ER,positiv,22154.0,CATMA_9845E1F2-AA47-4664-9A45-117ED67E243C_1,51,Emotionen der Zuneigung,positiv,21886.0,Verehrung,"Die erste steht noch fest, und nichts hat sie verletzt.
+Mein Ehrgeitz treibt mich nicht aus des Gehorsams Schranken,
+Kein unbiegsamer Stolz bekrönt mich in Gedanken.
+Canut, der meine Treu stets zu erkennen schien,
+Hat oft mir Gunst erzeigt, doch niemals mir verziehn.
+","['Die', 'erste', 'steht', 'noch', 'fest', ',', 'und', 'nichts', 'hat', 'sie', 'verletzt', '.', 'Mein', 'Ehrgeitz', 'treibt', 'mich', 'nicht', 'aus', 'des', 'Gehorsams', 'Schranken', ',', 'Kein', 'unbiegsamer', 'Stolz', 'bekrönt', 'mich', 'in', 'Gedanken', '.', 'Canut', ',', 'der', 'meine', 'Treu', 'stets', 'zu', 'erkennen', 'schien', ',', 'Hat', 'oft', 'mir', 'Gunst', 'erzeigt', ',', 'doch', 'niemals', 'mir', 'verziehn', '.']"
+35,69,,godewin,,,,ER,positiv,21884.0,CATMA_752E40B0-AA50-44E0-B072-F14000093799,8,Emotionen der Zuneigung,positiv,21838.0,Liebe,Die letzte hast du selbst dem Ulfo nachgesetzt,"['Die', 'letzte', 'hast', 'du', 'selbst', 'dem', 'Ulfo', 'nachgesetzt']"
+36,74,,,,,,ER,negativ,23020.0,CATMA_344E6450-F79B-4650-A2A2-D982503D57E4,11,Emotionen der Ablehnung,negativ,22964.0,Abscheu,"Die Schmach rührt nicht von mir, du selbst entehrest dic","['Die', 'Schmach', 'rührt', 'nicht', 'von', 'mir', ',', 'du', 'selbst', 'entehrest', 'dic']"
+37,78,,,,,,ER,positiv,23435.0,CATMA_ACCFB7C7-AF8F-46CA-9F16-2629775CC562,6,Emotionen der Zuneigung,positiv,23405.0,Verehrung," soll ich dich noch verehren.
+","['soll', 'ich', 'dich', 'noch', 'verehren', '.']"
+38,85,,,,,,ER,negativ,25136.0,CATMA_0CB2D63D-066C-4BD8-A8A6-D7D9ED1D81CA,10,Emotionen des Leids,negativ,25084.0,Leid,"Soll ich beschuldigt seyn, und kein Gehör erlangen?
+","['Soll', 'ich', 'beschuldigt', 'seyn', ',', 'und', 'kein', 'Gehör', 'erlangen', '?']"
+39,87,,,,,,ER,negativ,25330.0,CATMA_479608BF-76A5-41C7-AF65-A89F087805AA,10,Emotionen des Leids,negativ,25281.0,Leid,"O Himmel! mußte mir noch diese Schmach geschehn!
+","['O', 'Himmel', '!', 'mußte', 'mir', 'noch', 'diese', 'Schmach', 'geschehn', '!']"
+40,88,,,,,,ER,positiv,25443.0,CATMA_B21F1888-7EFE-429C-ACAB-654AD63A39B7_0,12,Emotionen der Zuneigung,positiv,25389.0,Liebe,"So glaubst du, daß in ihr die Zärtlichkeit sich rühre?","['So', 'glaubst', 'du', ',', 'daß', 'in', 'ihr', 'die', 'Zärtlichkeit', 'sich', 'rühre', '?']"
+41,89,,,,,,ER,positiv,25594.0,CATMA_B21F1888-7EFE-429C-ACAB-654AD63A39B7_1,10,Emotionen der Zuneigung,positiv,25543.0,Liebe,"Sie selbst mir noch geneigt und noch Estrithe sey.
+","['Sie', 'selbst', 'mir', 'noch', 'geneigt', 'und', 'noch', 'Estrithe', 'sey', '.']"
+42,90,,,,,,ER,positiv,25650.0,CATMA_B21F1888-7EFE-429C-ACAB-654AD63A39B7_2,12,Emotionen der Zuneigung,positiv,25595.0,Liebe,"hr Herz war nicht gemacht, den Bruder stets zu hassen;
+","['hr', 'Herz', 'war', 'nicht', 'gemacht', ',', 'den', 'Bruder', 'stets', 'zu', 'hassen', ';']"
+43,91,,godewin,,,,ER,positiv,25824.0,CATMA_1A2794B0-F979-498D-8EB7-6BD1841A66A0,9,Emotionen der Zuneigung,positiv,25783.0,Liebe,"Herr, für dich ist sie voll Zärtlichkeit.","['Herr', ',', 'für', 'dich', 'ist', 'sie', 'voll', 'Zärtlichkeit', '.']"
+44,94,,,,,,ER,negativ,26256.0,CATMA_DD015810-6188-44D1-8DDC-F549A0910269,45,Emotionen des Leids,negativ,26045.0,Leid,"Hat sie, nachdem sie sich von dir auf stets entzweyet,
+Was sie nicht ändern kann, nicht wenigstens gereuet?
+Und hat ihr nicht ihr Herz, das sich zur Tugend neigt,
+Ihr Unrecht gegen dich, wie gegen mich gezeigt.
+","['Hat', 'sie', ',', 'nachdem', 'sie', 'sich', 'von', 'dir', 'auf', 'stets', 'entzweyet', ',', 'Was', 'sie', 'nicht', 'ändern', 'kann', ',', 'nicht', 'wenigstens', 'gereuet', '?', 'Und', 'hat', 'ihr', 'nicht', 'ihr', 'Herz', ',', 'das', 'sich', 'zur', 'Tugend', 'neigt', ',', 'Ihr', 'Unrecht', 'gegen', 'dich', ',', 'wie', 'gegen', 'mich', 'gezeigt', '.']"
+45,96,,,,,,ER,positiv,26539.0,CATMA_A9A6C857-CAA3-4D61-8481-9E9A4FCD764E,5,Emotionen der Zuneigung,positiv,26518.0,Liebe," wie du mich liebst.
+","['wie', 'du', 'mich', 'liebst', '.']"
+46,97,,,,,,ER,positiv,26665.0,CATMA_0E9BD415-192D-445B-9569-99545CB6C55D,26,Emotionen der Zuneigung,positiv,26548.0,Liebe,"Die Liebe, die du rühmst, braucht dich nicht zu beschämen,
+Die geh ich dir nicht erst, nichts konnte dir sie nehmen.
+","['Die', 'Liebe', ',', 'die', 'du', 'rühmst', ',', 'braucht', 'dich', 'nicht', 'zu', 'beschämen', ',', 'Die', 'geh', 'ich', 'dir', 'nicht', 'erst', ',', 'nichts', 'konnte', 'dir', 'sie', 'nehmen', '.']"
+47,98,,estrithe,estrithe,,,ER,negativ,26731.0,CATMA_80D3DD9F-EE48-4D1C-8EED-826F29A8128F,10,Emotionen der Ablehnung,negativ,26677.0,Ärger,"So sehr dich meine Flucht mit Recht erzürnen kann ...
+","['So', 'sehr', 'dich', 'meine', 'Flucht', 'mit', 'Recht', 'erzürnen', 'kann', '...']"
+48,99,,,estrithe,,,ER,negativ,26765.0,CATMA_5093F984-BE31-4AB1-A223-ED92A1750622,5,Emotionen der Ablehnung,negativ,26739.0,Ärger,Sie hat mich nicht erzürnt,"['Sie', 'hat', 'mich', 'nicht', 'erzürnt']"
+49,100,,,estrithe,,,ER,negativ,26790.0,CATMA_AC2B9D2E-263B-43C6-8C5A-536E40B0EE10,5,Emotionen des Leids,negativ,26767.0,Leid,"sie hat mir wehgethan.
+","['sie', 'hat', 'mir', 'wehgethan', '.']"
+50,101,,,,,,ER,negativ,27112.0,CATMA_FD3D447C-E31D-44FE-AC01-98225081FC72_0,67,Emotionen des Leids,negativ,26801.0,Leid,"So sehr auch mein Vergehn mich zu verklagen scheinet,
+So glaub, ich hab es mehr, als du wohl denkst, beweinet.
+Erlaube, daß ich dir den Grund verhehlen darf,
+Warum ich aus dem Glück mich in dieß Unglück warf,
+Ob Lieb, ob Raserey, ob Ehrsucht mich bewogen,
+Daß ich mich deiner Gunst und meiner Pflicht entzogen.
+","['So', 'sehr', 'auch', 'mein', 'Vergehn', 'mich', 'zu', 'verklagen', 'scheinet', ',', 'So', 'glaub', ',', 'ich', 'hab', 'es', 'mehr', ',', 'als', 'du', 'wohl', 'denkst', ',', 'beweinet', '.', 'Erlaube', ',', 'daß', 'ich', 'dir', 'den', 'Grund', 'verhehlen', 'darf', ',', 'Warum', 'ich', 'aus', 'dem', 'Glück', 'mich', 'in', 'dieß', 'Unglück', 'warf', ',', 'Ob', 'Lieb', ',', 'ob', 'Raserey', ',', 'ob', 'Ehrsucht', 'mich', 'bewogen', ',', 'Daß', 'ich', 'mich', 'deiner', 'Gunst', 'und', 'meiner', 'Pflicht', 'entzogen', '.']"
+51,102,,,,,,ER,negativ,27729.0,CATMA_FD3D447C-E31D-44FE-AC01-98225081FC72_1,56,Emotionen des Leids,negativ,27470.0,Leid,"ch bin es itzt allein, die um Vergebung bittet.
+Du brauchest keinem sonst als mir nur zu verzeihn:
+Sonst niemand hat gefehlt, und alle Schuld ist mein.
+Mein war des Ulfo Flucht, von mir kam sein Empören,
+Ich führte Krieg zur See, ich stand bey seinen Heeren.
+","['ch', 'bin', 'es', 'itzt', 'allein', ',', 'die', 'um', 'Vergebung', 'bittet', '.', 'Du', 'brauchest', 'keinem', 'sonst', 'als', 'mir', 'nur', 'zu', 'verzeihn', ':', 'Sonst', 'niemand', 'hat', 'gefehlt', ',', 'und', 'alle', 'Schuld', 'ist', 'mein', '.', 'Mein', 'war', 'des', 'Ulfo', 'Flucht', ',', 'von', 'mir', 'kam', 'sein', 'Empören', ',', 'Ich', 'führte', 'Krieg', 'zur', 'See', ',', 'ich', 'stand', 'bey', 'seinen', 'Heeren', '.']"
+52,103,,,,,,ER,negativ,27934.0,CATMA_FD3D447C-E31D-44FE-AC01-98225081FC72_2,23,Emotionen des Leids,negativ,27824.0,Leid,"Ich selbst verwundre mich, wie vieles ich verbrochen.
+Doch, Herr, es ist geschehn, und ich bin losgesprochen.
+","['Ich', 'selbst', 'verwundre', 'mich', ',', 'wie', 'vieles', 'ich', 'verbrochen', '.', 'Doch', ',', 'Herr', ',', 'es', 'ist', 'geschehn', ',', 'und', 'ich', 'bin', 'losgesprochen', '.']"
+53,106,,,,,,ER,Emotionale Bewegtheit,27878.0,CATMA_C4D2D1C2-5E1A-4E04-A276-A72C7F42C123_1,10,Emotionale Bewegtheit,Emotionale Bewegtheit,27824.0,Emotionale Bewegtheit,"Ich selbst verwundre mich, wie vieles ich verbrochen.
+","['Ich', 'selbst', 'verwundre', 'mich', ',', 'wie', 'vieles', 'ich', 'verbrochen', '.']"
+54,107,,,,,,ER,positiv,27419.0,CATMA_EF46663C-42DB-4A31-9025-1E01188316AC,21,Emotionen der Zuneigung,positiv,27322.0,Liebe,"Nur sieh den Ulfo nicht als den Verbrecher an.
+Glaub, alles was geschehn, hab ich allein gethan.
+","['Nur', 'sieh', 'den', 'Ulfo', 'nicht', 'als', 'den', 'Verbrecher', 'an', '.', 'Glaub', ',', 'alles', 'was', 'geschehn', ',', 'hab', 'ich', 'allein', 'gethan', '.']"
+55,108,,,,,,ER,positiv,27469.0,CATMA_82EFD893-E055-43A7-A0D9-2F8E363805FD_0,9,Emotionen der Zuneigung,positiv,27419.0,Liebe,"Ich, die du lebenslang mit Wohlthun überschüttet,
+","['Ich', ',', 'die', 'du', 'lebenslang', 'mit', 'Wohlthun', 'überschüttet', ',']"
+56,109,,,,,,ER,positiv,28362.0,CATMA_82EFD893-E055-43A7-A0D9-2F8E363805FD_1,42,Emotionen der Zuneigung,positiv,28147.0,Liebe,"Dein Auge, das mich sonst voll Lieb und Ehrfurcht fand,
+Soll stets mich wiedersehn, wie es mich erst gekannt:
+Bis endlich dieß mein Herz durchs künftige vertheidigt,
+Dich überreden wird, als wärst du nie beleidigt.
+","['Dein', 'Auge', ',', 'das', 'mich', 'sonst', 'voll', 'Lieb', 'und', 'Ehrfurcht', 'fand', ',', 'Soll', 'stets', 'mich', 'wiedersehn', ',', 'wie', 'es', 'mich', 'erst', 'gekannt', ':', 'Bis', 'endlich', 'dieß', 'mein', 'Herz', 'durchs', 'künftige', 'vertheidigt', ',', 'Dich', 'überreden', 'wird', ',', 'als', 'wärst', 'du', 'nie', 'beleidigt', '.']"
+57,110,,,,,,ER,negativ,28147.0,CATMA_F724A600-68DD-4F39-A16E-F81A8869390B,46,Emotionen des Leids,negativ,27934.0,Mitleid,"Du fragst, um zu verzeyhn, nicht was begangen sey,
+Den größten Fehler tilgt bey dir die kleinste Reu.
+Gieb zu, daß diese Reu den Irrthum gantz durchstreiche,
+Der nur so kurz gewährt, und da ich mir nicht gleiche.
+","['Du', 'fragst', ',', 'um', 'zu', 'verzeyhn', ',', 'nicht', 'was', 'begangen', 'sey', ',', 'Den', 'größten', 'Fehler', 'tilgt', 'bey', 'dir', 'die', 'kleinste', 'Reu', '.', 'Gieb', 'zu', ',', 'daß', 'diese', 'Reu', 'den', 'Irrthum', 'gantz', 'durchstreiche', ',', 'Der', 'nur', 'so', 'kurz', 'gewährt', ',', 'und', 'da', 'ich', 'mir', 'nicht', 'gleiche', '.']"
+58,112,,,,,,ER,negativ,28767.0,CATMA_BEE18156-3420-4C8C-8DA1-7B4B4DB28C88,39,Emotionen des Leids,negativ,28568.0,Leid," Es sey genug an dem, was mich bisher gekränkt,
+Daß meiner Schwester Herz sich von mir abgelenkt,
+Und alles mein Bemühn sich fruchtlos enden mußte,
+Weil es mir dein Vertraun nicht zu erwerben wußte.
+","['Es', 'sey', 'genug', 'an', 'dem', ',', 'was', 'mich', 'bisher', 'gekränkt', ',', 'Daß', 'meiner', 'Schwester', 'Herz', 'sich', 'von', 'mir', 'abgelenkt', ',', 'Und', 'alles', 'mein', 'Bemühn', 'sich', 'fruchtlos', 'enden', 'mußte', ',', 'Weil', 'es', 'mir', 'dein', 'Vertraun', 'nicht', 'zu', 'erwerben', 'wußte', '.']"
+59,116,,canut,,,,ER,positiv,29140.0,CATMA_ACB8F18B-7CC1-45BA-BC1D-3F63DAA3695F,6,Emotionen der Zuneigung,positiv,29118.0,Liebe,"Behalt sie, lieb ihn.
+","['Behalt', 'sie', ',', 'lieb', 'ihn', '.']"
+60,117,,,,Ereignis,,ER,Emotionale Bewegtheit,29196.0,CATMA_B2F21127-B346-486A-A7CE-9F1BE395FE67,2,Emotionale Bewegtheit,Emotionale Bewegtheit,29192.0,Emotionale Bewegtheit,"ch?
+","['ch', '?']"
+61,118,,,,,,ER,positiv,29302.0,CATMA_99A0F7ED-8CD5-4C76-888C-10065AF83737_0,12,Emotionen der Zuneigung,positiv,29254.0,Liebe,"Er ward mir darum lieb. Er kam von deiner Hand.
+","['Er', 'ward', 'mir', 'darum', 'lieb', '.', 'Er', 'kam', 'von', 'deiner', 'Hand', '.']"
+62,119,,,,,,ER,positiv,29617.0,CATMA_99A0F7ED-8CD5-4C76-888C-10065AF83737_1,13,Emotionen der Zuneigung,positiv,29559.0,Liebe,"So war mein Herz erlangt, und sein Glück ward mein eigen.
+","['So', 'war', 'mein', 'Herz', 'erlangt', ',', 'und', 'sein', 'Glück', 'ward', 'mein', 'eigen', '.']"
+63,120,,,,,,ER,positiv,30036.0,CATMA_99A0F7ED-8CD5-4C76-888C-10065AF83737_2,22,Emotionen der Zuneigung,positiv,29931.0,Liebe,"Und laß mich nur noch dieß von deiner Huld erlangen,
+Zu glauben, was geschehn, hat Ulfo nicht begangen.
+
+","['Und', 'laß', 'mich', 'nur', 'noch', 'dieß', 'von', 'deiner', 'Huld', 'erlangen', ',', 'Zu', 'glauben', ',', 'was', 'geschehn', ',', 'hat', 'Ulfo', 'nicht', 'begangen', '.']"
+64,124,,,canut,,,ER,negativ,30210.0,CATMA_EC537DC8-5137-46BA-9D95-A65867BCAC55,12,Emotionen der Ablehnung,negativ,30158.0,Ärger,"Ach! so ist mir für ihn zu sprechen nicht erlaubet?
+","['Ach', '!', 'so', 'ist', 'mir', 'für', 'ihn', 'zu', 'sprechen', 'nicht', 'erlaubet', '?']"
+65,125,,,,,,ER,negativ,30273.0,CATMA_C9D7B461-4C55-4E94-88A5-9FC2131DD504,13,Emotionen der Ablehnung,negativ,30218.0,Ärger,"So strafbar, als er ist, hätt ich ihn nicht geglaubet.
+","['So', 'strafbar', ',', 'als', 'er', 'ist', ',', 'hätt', 'ich', 'ihn', 'nicht', 'geglaubet', '.']"
+66,126,estrithe,,,,,ER,Emotionale Bewegtheit,30338.0,CATMA_9E230B34-3854-45B6-B844-3782B37B767A,12,Emotionale Bewegtheit,Emotionale Bewegtheit,30284.0,Emotionale Bewegtheit,"Kann er noch strafbar seyn, da du ihm schon verziehn?
+","['Kann', 'er', 'noch', 'strafbar', 'seyn', ',', 'da', 'du', 'ihm', 'schon', 'verziehn', '?']"
+67,127,,,,,,ER,negativ,30462.0,CATMA_38420995-781B-4A7B-841B-9D0E4D0C34F9,15,Emotionen der Ablehnung,negativ,30405.0,Ärger,"Ich kann, was er gethan, und was du sagst, nicht fassen.
+","['Ich', 'kann', ',', 'was', 'er', 'gethan', ',', 'und', 'was', 'du', 'sagst', ',', 'nicht', 'fassen', '.']"
+68,128,,canut,,,,ER,positiv,30547.0,CATMA_E4BCDA4B-6B13-439E-86F5-E18A887214D1,6,Emotionen der Zuneigung,positiv,30525.0,Liebe,Da du den Ulfo liebst:,"['Da', 'du', 'den', 'Ulfo', 'liebst', ':']"
+69,129,,,,,,ER,positiv,30620.0,CATMA_434E1E4B-9693-43D7-9DBC-177EAA73638E,10,Emotionen der Zuneigung,positiv,30573.0,Liebe,Dein Bruder sieht ihn bloß mit deinen Augen an.,"['Dein', 'Bruder', 'sieht', 'ihn', 'bloß', 'mit', 'deinen', 'Augen', 'an', '.']"
+70,130,,,,,,ER,negativ,30842.0,CATMA_AF1E08A6-2779-4AD2-A5FB-0BE0101BA375,11,Emotionen der Angst,negativ,30792.0,Angst,"O Himmel! läßt er mich in Angst und zweifelsvoll?
+","['O', 'Himmel', '!', 'läßt', 'er', 'mich', 'in', 'Angst', 'und', 'zweifelsvoll', '?']"
+71,132,,,,,,ER,negativ,31192.0,CATMA_B604DAE0-6F4C-418F-9C60-063790F9AAAE,54,Emotionen der Ablehnung,negativ,30934.0,Ärger,"Verräther, du hast ihn wohl mehr als ich verklaget.
+Ich kenne schon die Art der Menschen ohne Muth,
+Den Schaden thut ihr Mund, den uns ihr Arm nicht thut.
+Sie scheuen die Gefahr, sich Rache zu verschaffen
+Und an des Schwerdtes statt, sind Reden ihre Waffen.
+","['Verräther', ',', 'du', 'hast', 'ihn', 'wohl', 'mehr', 'als', 'ich', 'verklaget', '.', 'Ich', 'kenne', 'schon', 'die', 'Art', 'der', 'Menschen', 'ohne', 'Muth', ',', 'Den', 'Schaden', 'thut', 'ihr', 'Mund', ',', 'den', 'uns', 'ihr', 'Arm', 'nicht', 'thut', '.', 'Sie', 'scheuen', 'die', 'Gefahr', ',', 'sich', 'Rache', 'zu', 'verschaffen', 'Und', 'an', 'des', 'Schwerdtes', 'statt', ',', 'sind', 'Reden', 'ihre', 'Waffen', '.']"
+72,137,,,,,,ER,negativ,31822.0,CATMA_BA4F5545-DED6-4A62-B64F-A073572B1468_0,83,Emotionen des Leids,negativ,31419.0,Leid,"Bey dieser Qvaal, von dir nicht hochgeschätzt zu seyn,
+Ist selber dein Verlust mir nur geringe Pein.
+Und doch um diese Qvaal noch härter zu empfinden,
+Muß ich dich ohne Schuld und edelmuthig finden.
+Prinzeßin, hätt ich wohl mein Unglück ie geglaubt?
+So ists kein Trieb von dir, der mir dein Herz geraubt?
+So haben Ruff, Betrug und Irrthum sich verschworen,
+Daß ich das Edelste, was ich besaß, verloren?
+","['Bey', 'dieser', 'Qvaal', ',', 'von', 'dir', 'nicht', 'hochgeschätzt', 'zu', 'seyn', ',', 'Ist', 'selber', 'dein', 'Verlust', 'mir', 'nur', 'geringe', 'Pein', '.', 'Und', 'doch', 'um', 'diese', 'Qvaal', 'noch', 'härter', 'zu', 'empfinden', ',', 'Muß', 'ich', 'dich', 'ohne', 'Schuld', 'und', 'edelmuthig', 'finden', '.', 'Prinzeßin', ',', 'hätt', 'ich', 'wohl', 'mein', 'Unglück', 'ie', 'geglaubt', '?', 'So', 'ists', 'kein', 'Trieb', 'von', 'dir', ',', 'der', 'mir', 'dein', 'Herz', 'geraubt', '?', 'So', 'haben', 'Ruff', ',', 'Betrug', 'und', 'Irrthum', 'sich', 'verschworen', ',', 'Daß', 'ich', 'das', 'Edelste', ',', 'was', 'ich', 'besaß', ',', 'verloren', '?']"
+73,138,,,,,,ER,negativ,32139.0,CATMA_BA4F5545-DED6-4A62-B64F-A073572B1468_1,48,Emotionen des Leids,negativ,31921.0,Leid,"Und da es deine Gunst mir mit der Ehr entrissen,
+So hat uns ein Betrug auf ewig trennen müssen?
+So ist des Ulfo Glück kein Werk von deiner Wahl?
+So gab Canuts Geboth dir ihn zum Ehgemahl?
+Und ach! ein solch Geboth ...
+","['Und', 'da', 'es', 'deine', 'Gunst', 'mir', 'mit', 'der', 'Ehr', 'entrissen', ',', 'So', 'hat', 'uns', 'ein', 'Betrug', 'auf', 'ewig', 'trennen', 'müssen', '?', 'So', 'ist', 'des', 'Ulfo', 'Glück', 'kein', 'Werk', 'von', 'deiner', 'Wahl', '?', 'So', 'gab', 'Canuts', 'Geboth', 'dir', 'ihn', 'zum', 'Ehgemahl', '?', 'Und', 'ach', '!', 'ein', 'solch', 'Geboth', '...']"
+74,139,estrithe,,godewin,,,ER,negativ,32175.0,CATMA_7E5FCB0B-4B12-418C-8738-53CD183AF53D,4,Emotionen der Ablehnung,negativ,32151.0,Ärger,"Antworte meinen Fragen,
+","['Antworte', 'meinen', 'Fragen', ',']"
+75,140,,,,,,ER,negativ,32330.0,CATMA_5BE05EB4-629A-4675-AF51-8AB4AC626F01,34,Emotionen des Leids,negativ,32175.0,Leid,"Sprich, hab ich was gesagt, den Ulfo zu verklagen?
+Sprach ich den König nicht für ihn mit Demuth an?
+Drückt ich nicht deutlich aus, er habe nichts gethan.
+","['Sprich', ',', 'hab', 'ich', 'was', 'gesagt', ',', 'den', 'Ulfo', 'zu', 'verklagen', '?', 'Sprach', 'ich', 'den', 'König', 'nicht', 'für', 'ihn', 'mit', 'Demuth', 'an', '?', 'Drückt', 'ich', 'nicht', 'deutlich', 'aus', ',', 'er', 'habe', 'nichts', 'gethan', '.']"
+76,142,,,,,,ER,positiv,32846.0,CATMA_CA162222-277B-4221-A74E-98B14651DF5F_0,18,Emotionen der Zuneigung,positiv,32743.0,Liebe," Erlaube daß ich dir den grossen Dienst erzeige,
+Und was Canut verschweigt, dir ebenfalls verschweige.
+","['Erlaube', 'daß', 'ich', 'dir', 'den', 'grossen', 'Dienst', 'erzeige', ',', 'Und', 'was', 'Canut', 'verschweigt', ',', 'dir', 'ebenfalls', 'verschweige', '.']"
+77,144,,,,,,ER,positiv,33777.0,CATMA_CA162222-277B-4221-A74E-98B14651DF5F_2,12,Emotionen der Zuneigung,positiv,33717.0,Liebe,Die Wahrheit spricht für mich: Ich bleib stets deiner werth.,"['Die', 'Wahrheit', 'spricht', 'für', 'mich', ':', 'Ich', 'bleib', 'stets', 'deiner', 'werth', '.']"
+78,145,,godewin,,,,ER,positiv,33043.0,CATMA_020DCFF7-AE70-418B-8E78-3F72DA0E63BE,43,Emotionen der Zuneigung,positiv,32846.0,Liebe,"Prinzeßin, forsche nicht, und schone deiner Ruh.
+Es ist des Ulfo Fehl, drum schließ die Augen zu.
+Halt diese Rechte hoch, die dich und ihn verbinden,
+Und hüte dich dafür, ihn strafbar zu befinden.
+","['Prinzeßin', ',', 'forsche', 'nicht', ',', 'und', 'schone', 'deiner', 'Ruh', '.', 'Es', 'ist', 'des', 'Ulfo', 'Fehl', ',', 'drum', 'schließ', 'die', 'Augen', 'zu', '.', 'Halt', 'diese', 'Rechte', 'hoch', ',', 'die', 'dich', 'und', 'ihn', 'verbinden', ',', 'Und', 'hüte', 'dich', 'dafür', ',', 'ihn', 'strafbar', 'zu', 'befinden', '.']"
+79,147,,,ulfo,,,ER,positiv,34260.0,CATMA_B2821A7B-F013-4AE2-AEC5-2FD8A3C7F6BF,45,Emotionen der Zuneigung,positiv,34036.0,Verehrung,"Komm! ich darf ohne Furcht mich auf dein Zeugniß stützen,
+Wer selbst nach Ehre strebt, muß andrer Ehre schützen.
+Komm, sprich hier als ein Held, der Lügen schimpflich heißt,
+Der die Verläumdung haßt und iedem Recht erweist:
+","['Komm', '!', 'ich', 'darf', 'ohne', 'Furcht', 'mich', 'auf', 'dein', 'Zeugniß', 'stützen', ',', 'Wer', 'selbst', 'nach', 'Ehre', 'strebt', ',', 'muß', 'andrer', 'Ehre', 'schützen', '.', 'Komm', ',', 'sprich', 'hier', 'als', 'ein', 'Held', ',', 'der', 'Lügen', 'schimpflich', 'heißt', ',', 'Der', 'die', 'Verläumdung', 'haßt', 'und', 'iedem', 'Recht', 'erweist', ':']"
+80,148,,godewin,,,,ER,negativ,34259.0,CATMA_EC38084B-CE88-4C3A-8842-CE4C415F26DF,9,Emotionen der Ablehnung,negativ,34210.0,Abscheu,Der die Verläumdung haßt und iedem Recht erweist:,"['Der', 'die', 'Verläumdung', 'haßt', 'und', 'iedem', 'Recht', 'erweist', ':']"
+81,149,,,,,,ER,negativ,35121.0,CATMA_A6E1D4BD-268A-41CA-BC98-FC916A702830,43,Emotionen der Ablehnung,negativ,34902.0,Abscheu,"Wo ist der Lästrer nun, der meinen Schimpf erdichtet,
+Der meinen Ruhm befleckt, und der mein Glück zernichtet?
+Wer hat den Ruff erdacht, als hätt ich durch die Flucht
+Die Rettung meines Bluts in meiner Schmach gesucht?
+","['Wo', 'ist', 'der', 'Lästrer', 'nun', ',', 'der', 'meinen', 'Schimpf', 'erdichtet', ',', 'Der', 'meinen', 'Ruhm', 'befleckt', ',', 'und', 'der', 'mein', 'Glück', 'zernichtet', '?', 'Wer', 'hat', 'den', 'Ruff', 'erdacht', ',', 'als', 'hätt', 'ich', 'durch', 'die', 'Flucht', 'Die', 'Rettung', 'meines', 'Bluts', 'in', 'meiner', 'Schmach', 'gesucht', '?']"
+82,150,,,,,,ER,negativ,35226.0,CATMA_AEBE2A41-A46B-4B99-B946-B71F6CE142BB,21,Emotionen des Leids,negativ,35121.0,Leid,"Prinzeßin, dieser Ruff hat mir dein Herz entrissen,
+Laß mich mit dir zugleich nicht auch die Ehre missen.","['Prinzeßin', ',', 'dieser', 'Ruff', 'hat', 'mir', 'dein', 'Herz', 'entrissen', ',', 'Laß', 'mich', 'mit', 'dir', 'zugleich', 'nicht', 'auch', 'die', 'Ehre', 'missen', '.']"
+83,151,godewin,,,,,ER,Emotionale Bewegtheit,35352.0,CATMA_19ED061C-DC47-42F2-A3C4-1236C75E4560,2,Emotionale Bewegtheit,Emotionale Bewegtheit,35348.0,Emotionale Bewegtheit,"Du?
+","['Du', '?']"
+84,153,godewin,,,,,ER,negativ,35480.0,CATMA_49A94B2F-9161-40F2-A89E-8EEFDC56EDF7,12,Emotionen des Leids,negativ,35423.0,Leid,"Mein Kunstgriff reut mich nicht; er war zu wohl erwogen.
+","['Mein', 'Kunstgriff', 'reut', 'mich', 'nicht', ';', 'er', 'war', 'zu', 'wohl', 'erwogen', '.']"
+85,155,,,,,,ER,negativ,36225.0,CATMA_2C720227-A48B-452C-A78C-95891F6D666B,151,Emotionen der Ablehnung,negativ,35530.0,Abscheu,"Du warst dieß Herz nicht werth, nur mir hat es gebührt.
+Ich wiederruffe nicht, was ich von dir gesaget,
+Du bist bey allem Muth ein Herz, das sklavisch zaget,
+Der Ruff von deiner Flucht sey immerhin Betrug.
+Die That nur ist erdacht, dein Schimpf ist wahr genug.
+Dein Arm, der nur gehorcht, übt sich umsonst im Streiten:
+Die Ehre, die dich flieht, die kennst du nur von weiten.
+Du hast nicht das Gefühl, das sich in Helden regt.
+Kein Ruhm hat dich gereitzt, kein Schimpf hat dich bewegt.
+Du machst dein feiles Blut zu andrer Eigenthume,
+Du lebst zu deiner Schmach und nur zu fremdem Ruhme,
+Du thust aus blöder Furcht, was auch ein Sklave thut.
+Dein Arm kann tapfer seyn, dein Geist ist ohne Muth.
+","['Du', 'warst', 'dieß', 'Herz', 'nicht', 'werth', ',', 'nur', 'mir', 'hat', 'es', 'gebührt', '.', 'Ich', 'wiederruffe', 'nicht', ',', 'was', 'ich', 'von', 'dir', 'gesaget', ',', 'Du', 'bist', 'bey', 'allem', 'Muth', 'ein', 'Herz', ',', 'das', 'sklavisch', 'zaget', ',', 'Der', 'Ruff', 'von', 'deiner', 'Flucht', 'sey', 'immerhin', 'Betrug', '.', 'Die', 'That', 'nur', 'ist', 'erdacht', ',', 'dein', 'Schimpf', 'ist', 'wahr', 'genug', '.', 'Dein', 'Arm', ',', 'der', 'nur', 'gehorcht', ',', 'übt', 'sich', 'umsonst', 'im', 'Streiten', ':', 'Die', 'Ehre', ',', 'die', 'dich', 'flieht', ',', 'die', 'kennst', 'du', 'nur', 'von', 'weiten', '.', 'Du', 'hast', 'nicht', 'das', 'Gefühl', ',', 'das', 'sich', 'in', 'Helden', 'regt', '.', 'Kein', 'Ruhm', 'hat', 'dich', 'gereitzt', ',', 'kein', 'Schimpf', 'hat', 'dich', 'bewegt', '.', 'Du', 'machst', 'dein', 'feiles', 'Blut', 'zu', 'andrer', 'Eigenthume', ',', 'Du', 'lebst', 'zu', 'deiner', 'Schmach', 'und', 'nur', 'zu', 'fremdem', 'Ruhme', ',', 'Du', 'thust', 'aus', 'blöder', 'Furcht', ',', 'was', 'auch', 'ein', 'Sklave', 'thut', '.', 'Dein', 'Arm', 'kann', 'tapfer', 'seyn', ',', 'dein', 'Geist', 'ist', 'ohne', 'Muth', '.']"
+86,156,godewin,,,,,ER,negativ,36347.0,CATMA_3AEAA849-4B35-407B-B6E7-68F5305D5939,23,Emotionen der Ablehnung,negativ,36236.0,Ärger,"Wenn diese Schmähungen dich selbst nicht treffen sollen,
+So komm, so weißt du schon, wie wir sie enden wollen.
+","['Wenn', 'diese', 'Schmähungen', 'dich', 'selbst', 'nicht', 'treffen', 'sollen', ',', 'So', 'komm', ',', 'so', 'weißt', 'du', 'schon', ',', 'wie', 'wir', 'sie', 'enden', 'wollen', '.']"
+87,167,,,,,,ER,negativ,38082.0,CATMA_8812F83E-4E66-404C-9689-0B7EA9144A43_3,22,Emotionen der Ablehnung,negativ,37984.0,Abscheu,"Erkläre dich mit mir als Feind von dem Canut,
+Was du aus Haß nicht thust, das thu aus Heldenmuth.
+","['Erkläre', 'dich', 'mit', 'mir', 'als', 'Feind', 'von', 'dem', 'Canut', ',', 'Was', 'du', 'aus', 'Haß', 'nicht', 'thust', ',', 'das', 'thu', 'aus', 'Heldenmuth', '.']"
+88,169,,,,,,ER,negativ,38544.0,CATMA_1628EB3B-4A09-44BA-AAA3-F1498E2BCCD7_0,51,Emotionen der Ablehnung,negativ,38291.0,Abscheu,"ch fodre keinen Ruhm, der aus dem Unrecht grünet,
+Der sich durch Unglück nährt, und der nur Fluch verdienet.
+Eh roste dieses Schwerdt in unberühmter Ruh,
+Eh es bekannt zu seyn der Pflicht zuwider thu.
+Such nur aus Heldenmuth des Landes Glück zu stören:
+","['ch', 'fodre', 'keinen', 'Ruhm', ',', 'der', 'aus', 'dem', 'Unrecht', 'grünet', ',', 'Der', 'sich', 'durch', 'Unglück', 'nährt', ',', 'und', 'der', 'nur', 'Fluch', 'verdienet', '.', 'Eh', 'roste', 'dieses', 'Schwerdt', 'in', 'unberühmter', 'Ruh', ',', 'Eh', 'es', 'bekannt', 'zu', 'seyn', 'der', 'Pflicht', 'zuwider', 'thu', '.', 'Such', 'nur', 'aus', 'Heldenmuth', 'des', 'Landes', 'Glück', 'zu', 'stören', ':']"
+89,170,,,,,,ER,negativ,38813.0,CATMA_1628EB3B-4A09-44BA-AAA3-F1498E2BCCD7_1,21,Emotionen der Ablehnung,negativ,38700.0,Abscheu,"Vielleicht wird dich und mich dereinst die Nachwelt nennen,
+Mich wird sie als getreu, dich als Verräther kennen.
+","['Vielleicht', 'wird', 'dich', 'und', 'mich', 'dereinst', 'die', 'Nachwelt', 'nennen', ',', 'Mich', 'wird', 'sie', 'als', 'getreu', ',', 'dich', 'als', 'Verräther', 'kennen', '.']"
+90,172,,,,,,ER,negativ,38929.0,CATMA_7F9EA9CA-0F16-4610-BF94-F365CFCC7517,24,Emotionen der Ablehnung,negativ,38821.0,Abscheu,"Ich seh schon, daß dein Geist nie edle Thaten wagt.
+Ich nannte dich mit Recht, feig, sklavisch und verzagt.
+","['Ich', 'seh', 'schon', ',', 'daß', 'dein', 'Geist', 'nie', 'edle', 'Thaten', 'wagt', '.', 'Ich', 'nannte', 'dich', 'mit', 'Recht', ',', 'feig', ',', 'sklavisch', 'und', 'verzagt', '.']"
+91,177,,,,,,ER,negativ,39951.0,CATMA_87E1B51D-DE70-4B84-8321-0ABEFF70713E,23,Emotionen der Angst,negativ,39837.0,Angst,"Ists möglich zwar vielleicht, daß noch dein Herz sich scheut,
+Du fürchtest wohl, daß ich mich nur beklagen wollte,","['Ists', 'möglich', 'zwar', 'vielleicht', ',', 'daß', 'noch', 'dein', 'Herz', 'sich', 'scheut', ',', 'Du', 'fürchtest', 'wohl', ',', 'daß', 'ich', 'mich', 'nur', 'beklagen', 'wollte', ',']"
+92,178,,,,,,ER,negativ,40009.0,CATMA_FFCC5E30-01E2-46CD-BCE4-A9B1FD6BC107,13,Emotionen der Ablehnung,negativ,39952.0,Abscheu,"Und meynst, ich hasse dich, weil ich dich hassen sollte.
+","['Und', 'meynst', ',', 'ich', 'hasse', 'dich', ',', 'weil', 'ich', 'dich', 'hassen', 'sollte', '.']"
+93,182,,,,,,ER,positiv,41376.0,CATMA_34D7A13E-7405-40AF-A9D4-E7435AF5689E_3,23,Emotionen der Zuneigung,positiv,41277.0,Liebe,"Doch da ich ihm erwähnt, um ihn gerührt zu sehn,
+Daß ich dich liebe, sey auf seinen Wink geschehn,
+","['Doch', 'da', 'ich', 'ihm', 'erwähnt', ',', 'um', 'ihn', 'gerührt', 'zu', 'sehn', ',', 'Daß', 'ich', 'dich', 'liebe', ',', 'sey', 'auf', 'seinen', 'Wink', 'geschehn', ',']"
+94,186,,,,,,ER,positiv,41836.0,CATMA_0D9C84B0-E586-4712-AA34-6015EE3E28D8,21,Emotionen der Zuneigung,positiv,41744.0,Liebe,"Dieses Glück, daß du mein eigen bist,
+Daß ich dein Herz erhielt, dank ich bloß meiner List.
+","['Dieses', 'Glück', ',', 'daß', 'du', 'mein', 'eigen', 'bist', ',', 'Daß', 'ich', 'dein', 'Herz', 'erhielt', ',', 'dank', 'ich', 'bloß', 'meiner', 'List', '.']"
+95,187,,,,,,ER,positiv,42147.0,CATMA_6D787140-812B-492F-A552-1ED1372BCA15,34,Emotionen der Zuneigung,positiv,41992.0,Liebe,"Ich wüßte seinen Wink und sey an dich gesandt.
+Dieß Wort, dieß mußte mir zu besserm Zwecke nützen,
+Und kurz, ich liebte dich, drum mußt ich dich besitzen.
+","['Ich', 'wüßte', 'seinen', 'Wink', 'und', 'sey', 'an', 'dich', 'gesandt', '.', 'Dieß', 'Wort', ',', 'dieß', 'mußte', 'mir', 'zu', 'besserm', 'Zwecke', 'nützen', ',', 'Und', 'kurz', ',', 'ich', 'liebte', 'dich', ',', 'drum', 'mußt', 'ich', 'dich', 'besitzen', '.']"
+96,191,,,,,,ER,negativ,42805.0,CATMA_424D16A6-1490-4DC8-A9E2-165730A90F37,24,Emotionen des Leids,negativ,42689.0,Leid,"Ach! was wird künftig seyn? was kann mir Trost versprechen?
+Selbst daß ich dieses litt, war auch noch ein Verbrechen","['Ach', '!', 'was', 'wird', 'künftig', 'seyn', '?', 'was', 'kann', 'mir', 'Trost', 'versprechen', '?', 'Selbst', 'daß', 'ich', 'dieses', 'litt', ',', 'war', 'auch', 'noch', 'ein', 'Verbrechen']"
+97,192,estrithe,,,,,ER,negativ,42829.0,CATMA_B3584079-1129-432E-98FE-54E41B21E325,2,Emotionen des Leids,negativ,42822.0,Leid, Canut!,"['Canut', '!']"
+98,193,estrithe,,,,,ER,negativ,42843.0,CATMA_A97A1C4B-B074-431E-9896-37527CFBCF58,4,Emotionen des Leids,negativ,42830.0,Leid,ach! Pflicht!,"['ach', '!', 'Pflicht', '!']"
+99,194,estrithe,,,,,ER,negativ,42858.0,CATMA_8F58FC08-5DCE-4302-ACF6-D239C7BB55A4,4,Emotionen des Leids,negativ,42844.0,Leid,"ach! Godewin!
+","['ach', '!', 'Godewin', '!']"
+100,196,estrithe,,,,,ER,negativ,43108.0,CATMA_E5AD0B24-851C-46B3-B9EE-CFCFA485F274,6,Emotionen des Leids,negativ,43079.0,Leid,"Gemahl! ach schwere Pflicht!
+","['Gemahl', '!', 'ach', 'schwere', 'Pflicht', '!']"
+101,207,estrithe,,,,,ER,negativ,44637.0,CATMA_C0F7826A-8130-4C10-8060-279A01015C80,36,Emotionen des Leids,negativ,44428.0,Leid,"Vielleicht eilt ihre Brust den Schwerdtern schon entgegen.
+Es rauchen schon vielleicht die blutbespritzte Degen,
+Und wenn ihr Arm erfüllt, was ihre Wut gedroht,
+Ist dieser Augenblick vielleicht des einen Tod.
+","['Vielleicht', 'eilt', 'ihre', 'Brust', 'den', 'Schwerdtern', 'schon', 'entgegen', '.', 'Es', 'rauchen', 'schon', 'vielleicht', 'die', 'blutbespritzte', 'Degen', ',', 'Und', 'wenn', 'ihr', 'Arm', 'erfüllt', ',', 'was', 'ihre', 'Wut', 'gedroht', ',', 'Ist', 'dieser', 'Augenblick', 'vielleicht', 'des', 'einen', 'Tod', '.']"
+102,208,,haqvin,,,,ER,negativ,45064.0,CATMA_E3E885CF-12CE-435B-8EDB-52F77C181337,22,Emotionen der Ablehnung,negativ,44958.0,Abscheu,"Die Kämpfer, die voll Zorn so wie voll Großmuth sind,
+Bestimmten ihren Platz, und theilten Sonn und Wind.
+","['Die', 'Kämpfer', ',', 'die', 'voll', 'Zorn', 'so', 'wie', 'voll', 'Großmuth', 'sind', ',', 'Bestimmten', 'ihren', 'Platz', ',', 'und', 'theilten', 'Sonn', 'und', 'Wind', '.']"
+103,209,"['godewin', 'ulfo']",haqvin,,,,ER,negativ,45116.0,CATMA_D042B9C6-82FF-4407-9AA2-BA8136279F8F,8,Emotionen der Angst,negativ,45064.0,Angst,"Ihr unerschrockener Arm ficht über grossen Rechten.
+","['Ihr', 'unerschrockener', 'Arm', 'ficht', 'über', 'grossen', 'Rechten', '.']"
+104,212,estrithe,,,,,ER,negativ,46221.0,CATMA_544DDBEF-860E-4D78-9096-EFCFA7D1397E,19,Emotionen der Ablehnung,negativ,46119.0,Abscheu,"Doch dieses schimpfliche, dieß ungerechte Wüten,
+Dieß macht Entsetzen, Herr, dieß eile zu verbiethen.
+","['Doch', 'dieses', 'schimpfliche', ',', 'dieß', 'ungerechte', 'Wüten', ',', 'Dieß', 'macht', 'Entsetzen', ',', 'Herr', ',', 'dieß', 'eile', 'zu', 'verbiethen', '.']"
+105,213,,,,,,ER,negativ,46382.0,CATMA_42419AAD-E0A9-4320-81B9-62C4F2922652_0,12,Emotionen der Ablehnung,negativ,46327.0,Abscheu,"Daß ich den wilden Muth, der Zwietracht suchet, hasse,
+","['Daß', 'ich', 'den', 'wilden', 'Muth', ',', 'der', 'Zwietracht', 'suchet', ',', 'hasse', ',']"
+106,214,,,,,,ER,negativ,46637.0,CATMA_42419AAD-E0A9-4320-81B9-62C4F2922652_1,21,Emotionen der Ablehnung,negativ,46530.0,Abscheu,"Ich will nicht, daß mit mir Gewalt und Zwist regieren,
+Und Bürger meines Reichs mit Bürgern Kriege führen.
+","['Ich', 'will', 'nicht', ',', 'daß', 'mit', 'mir', 'Gewalt', 'und', 'Zwist', 'regieren', ',', 'Und', 'Bürger', 'meines', 'Reichs', 'mit', 'Bürgern', 'Kriege', 'führen', '.']"
+107,215,canut,,,,,ER,negativ,47045.0,CATMA_B41937E5-892D-4DC2-87C5-259968A09D6B,78,Emotionen der Ablehnung,negativ,46637.0,Abscheu,"Und daß man den erhebt und noch mit Ruhm bekrönt,
+Der der Geselligkeit geweythe Rechte höhnt.
+Den soll mein ganzes Reich aus seinen Gränzen jagen,
+Die Erde soll ihn nur zu andrer Abscheu tragen,
+Und an der Ehre statt, die er durch Unrecht sucht,
+Sey er für nichts geschätzt, beschimpfet und verflucht.
+Wer sein zanksüchtig Schwerdt aus falschem Heldenmuthe
+Mit anderm Blute färbt, als mit des Feindes Blute.
+","['Und', 'daß', 'man', 'den', 'erhebt', 'und', 'noch', 'mit', 'Ruhm', 'bekrönt', ',', 'Der', 'der', 'Geselligkeit', 'geweythe', 'Rechte', 'höhnt', '.', 'Den', 'soll', 'mein', 'ganzes', 'Reich', 'aus', 'seinen', 'Gränzen', 'jagen', ',', 'Die', 'Erde', 'soll', 'ihn', 'nur', 'zu', 'andrer', 'Abscheu', 'tragen', ',', 'Und', 'an', 'der', 'Ehre', 'statt', ',', 'die', 'er', 'durch', 'Unrecht', 'sucht', ',', 'Sey', 'er', 'für', 'nichts', 'geschätzt', ',', 'beschimpfet', 'und', 'verflucht', '.', 'Wer', 'sein', 'zanksüchtig', 'Schwerdt', 'aus', 'falschem', 'Heldenmuthe', 'Mit', 'anderm', 'Blute', 'färbt', ',', 'als', 'mit', 'des', 'Feindes', 'Blute', '.']"
+108,222,,,,,,ER,negativ,48678.0,CATMA_BDB5539A-9204-4835-9D51-2E2085D2F2CD,50,Emotionen des Leids,negativ,48469.0,Leid,"Ach! leider! weiß ich wohl, was ich verhindern wollte,
+Was ich nicht sagen kann, und ach! doch sagen sollte.
+Ach! soll ich Klägerin bey seinem Frevel seyn?
+Doch er betrifft ja dich. Ach! soll ich reden? Nein!
+","['Ach', '!', 'leider', '!', 'weiß', 'ich', 'wohl', ',', 'was', 'ich', 'verhindern', 'wollte', ',', 'Was', 'ich', 'nicht', 'sagen', 'kann', ',', 'und', 'ach', '!', 'doch', 'sagen', 'sollte', '.', 'Ach', '!', 'soll', 'ich', 'Klägerin', 'bey', 'seinem', 'Frevel', 'seyn', '?', 'Doch', 'er', 'betrifft', 'ja', 'dich', '.', 'Ach', '!', 'soll', 'ich', 'reden', '?', 'Nein', '!']"
+109,227,,estrithe,,,,ER,negativ,50145.0,CATMA_A1F31BB5-38FF-4E3A-A4D3-16D531266958_0,41,Emotionen der Ablehnung,negativ,49943.0,Abscheu,"Er suche, wen er kann, zum Aufruhr zu entzünden;
+Nennt er sich deinen Feind, wo wird er Freunde finden?
+Sein Haß wird gegen dich ohnmächtig und allein
+Verabscheut von der Welt und dir verächtlich seyn.
+","['Er', 'suche', ',', 'wen', 'er', 'kann', ',', 'zum', 'Aufruhr', 'zu', 'entzünden', ';', 'Nennt', 'er', 'sich', 'deinen', 'Feind', ',', 'wo', 'wird', 'er', 'Freunde', 'finden', '?', 'Sein', 'Haß', 'wird', 'gegen', 'dich', 'ohnmächtig', 'und', 'allein', 'Verabscheut', 'von', 'der', 'Welt', 'und', 'dir', 'verächtlich', 'seyn', '.']"
+110,229,,estrithe,,,,ER,positiv,50340.0,CATMA_1DA85BE7-8E3E-4755-AAE9-AF2177C9724B,37,Emotionen der Zuneigung,positiv,50145.0,Verehrung,"Und wenn ihn Jedermann erstaunt zurücke weiset,
+Und statt ihm beyzustehn noch deinen Zepter preiset;
+Wenn er aus deiner Huld und deines Volkes Treu,
+Gezwungen sehen muß, wie groß sein König sey:
+","['Und', 'wenn', 'ihn', 'Jedermann', 'erstaunt', 'zurücke', 'weiset', ',', 'Und', 'statt', 'ihm', 'beyzustehn', 'noch', 'deinen', 'Zepter', 'preiset', ';', 'Wenn', 'er', 'aus', 'deiner', 'Huld', 'und', 'deines', 'Volkes', 'Treu', ',', 'Gezwungen', 'sehen', 'muß', ',', 'wie', 'groß', 'sein', 'König', 'sey', ':']"
+111,232,canut,,,,,ER,Emotionale Bewegtheit,52636.0,CATMA_952DC18D-237C-48DD-BCC7-9D8F6006EF15,6,Emotionale Bewegtheit,Emotionale Bewegtheit,52606.0,Emotionale Bewegtheit,Doch wessen ist dieß Schwerdt?,"['Doch', 'wessen', 'ist', 'dieß', 'Schwerdt', '?']"
+112,233,canut,,,Ereignis,,ER,Emotionale Bewegtheit,52681.0,CATMA_F99786E0-B2ED-4DBE-AC1A-FA8E587CFFA8,3,Emotionale Bewegtheit,Emotionale Bewegtheit,52673.0,Emotionale Bewegtheit,"Und er?
+","['Und', 'er', '?']"
+113,234,,,,,,ER,Emotionale Bewegtheit,53260.0,CATMA_FECD2E49-06C9-46C2-84E8-40667D2FDC0B,12,Emotionale Bewegtheit,Emotionale Bewegtheit,53208.0,Emotionale Bewegtheit,"Was seh ich hier für Blut, das deine Kleider netzt?
+","['Was', 'seh', 'ich', 'hier', 'für', 'Blut', ',', 'das', 'deine', 'Kleider', 'netzt', '?']"
+114,235,canut,,,,,ER,negativ,53609.0,CATMA_95F5C4F7-562A-447E-9F56-C80BA85338B1,12,Emotionen des Leids,negativ,53556.0,Mitleid,"Um es gestillt zu sehn, darfst du dich nur entfernen.","['Um', 'es', 'gestillt', 'zu', 'sehn', ',', 'darfst', 'du', 'dich', 'nur', 'entfernen', '.']"
+115,236,,,,,,ER,negativ,53676.0,CATMA_3341EB52-4105-44E4-B3A8-4E62595ED9D2,12,Emotionen der Ablehnung,negativ,53617.0,Abscheu,"Du weißt, daß ich mein Blut schon längst verachten lernen.
+","['Du', 'weißt', ',', 'daß', 'ich', 'mein', 'Blut', 'schon', 'längst', 'verachten', 'lernen', '.']"
+116,238,,,,,,ER,positiv,55817.0,CATMA_61791822-7E38-49AD-B99A-136CB244A078,51,Emotionen der Zuneigung,positiv,55565.0,Verehrung,"Der Sache ganzes Glück leg ich in deine Hand.
+Des Prinzen jungen Muth bezähme dein Verstand.
+Dein Beyspiel und dein Rath soll ihm zur Richtschnur dienen,
+Und ohne deinen Wink soll niemand was erkühnen.
+Hier, Ulfo, hast du nun ein Feld für deinen Ruhm;
+","['Der', 'Sache', 'ganzes', 'Glück', 'leg', 'ich', 'in', 'deine', 'Hand', '.', 'Des', 'Prinzen', 'jungen', 'Muth', 'bezähme', 'dein', 'Verstand', '.', 'Dein', 'Beyspiel', 'und', 'dein', 'Rath', 'soll', 'ihm', 'zur', 'Richtschnur', 'dienen', ',', 'Und', 'ohne', 'deinen', 'Wink', 'soll', 'niemand', 'was', 'erkühnen', '.', 'Hier', ',', 'Ulfo', ',', 'hast', 'du', 'nun', 'ein', 'Feld', 'für', 'deinen', 'Ruhm', ';']"
+117,239,,,,,,ER,positiv,56451.0,CATMA_487EB1CF-CBB1-42E5-A492-58692E07B105,130,Emotionen der Freude,positiv,55817.0,Freude,"Der Lorbeer, den du brichst, ist ganz dein Eigenthum.
+Hier laß nun deinen Muth und deine Klugheit blicken.
+Hier kann, was dich erhebt, kein andrer unterdrücken.
+Hier hast du über dir kein neidisch Oberhaupt,
+Das stets dir einen Theil von deinen Thaten raubt.
+Du selbst wirst nun die Frucht von andrer Schweiß gemessen,
+Nur dir zur Ehre wird dein Heer sein Blut vergiessen,
+Ja wenn man einst den Ruhm des Prinzen schallen hört,
+Sagt noch die späthe Welt, er sey durch dich gelehrt,
+Und mir bleibt von dem Werk, das ich dir anbefehle,
+Kein Lob, als daß ich dich dabey zum Führer wähle.
+Sprich ob dich diese Wahl zufrieden stellen wird.
+","['Der', 'Lorbeer', ',', 'den', 'du', 'brichst', ',', 'ist', 'ganz', 'dein', 'Eigenthum', '.', 'Hier', 'laß', 'nun', 'deinen', 'Muth', 'und', 'deine', 'Klugheit', 'blicken', '.', 'Hier', 'kann', ',', 'was', 'dich', 'erhebt', ',', 'kein', 'andrer', 'unterdrücken', '.', 'Hier', 'hast', 'du', 'über', 'dir', 'kein', 'neidisch', 'Oberhaupt', ',', 'Das', 'stets', 'dir', 'einen', 'Theil', 'von', 'deinen', 'Thaten', 'raubt', '.', 'Du', 'selbst', 'wirst', 'nun', 'die', 'Frucht', 'von', 'andrer', 'Schweiß', 'gemessen', ',', 'Nur', 'dir', 'zur', 'Ehre', 'wird', 'dein', 'Heer', 'sein', 'Blut', 'vergiessen', ',', 'Ja', 'wenn', 'man', 'einst', 'den', 'Ruhm', 'des', 'Prinzen', 'schallen', 'hört', ',', 'Sagt', 'noch', 'die', 'späthe', 'Welt', ',', 'er', 'sey', 'durch', 'dich', 'gelehrt', ',', 'Und', 'mir', 'bleibt', 'von', 'dem', 'Werk', ',', 'das', 'ich', 'dir', 'anbefehle', ',', 'Kein', 'Lob', ',', 'als', 'daß', 'ich', 'dich', 'dabey', 'zum', 'Führer', 'wähle', '.', 'Sprich', 'ob', 'dich', 'diese', 'Wahl', 'zufrieden', 'stellen', 'wird', '.']"
+118,240,,,,,,ER,positiv,56609.0,CATMA_D80C8370-396D-46C0-8F71-D534CAA53ACE,33,Emotionen der Freude,positiv,56459.0,Freude,"In dieser Wahl, Canut, hast du dich nicht geirrt.
+Gieb mir nur dieses Heer; auch ohne dein Ermahnen
+Will ich mir schon damit den Weg zur Ehre bahnen.
+","['In', 'dieser', 'Wahl', ',', 'Canut', ',', 'hast', 'du', 'dich', 'nicht', 'geirrt', '.', 'Gieb', 'mir', 'nur', 'dieses', 'Heer', ';', 'auch', 'ohne', 'dein', 'Ermahnen', 'Will', 'ich', 'mir', 'schon', 'damit', 'den', 'Weg', 'zur', 'Ehre', 'bahnen', '.']"
+119,242,,,,,,ER,positiv,56799.0,CATMA_FE349864-F2F8-40FD-A115-DC25B8E5476B,7,Emotionen der Zuneigung,positiv,56775.0,Liebe,"Die, so ich lieben soll,","['Die', ',', 'so', 'ich', 'lieben', 'soll', ',']"
+120,244,,canut,,,,ER,negativ,57313.0,CATMA_41F1F0DF-73BA-4FA5-BC35-AB35FF7B6D2D,9,Emotionen des Leids,negativ,57262.0,Leid,"Er kostet euren Ruhm und meiner Schwester Thränen.
+","['Er', 'kostet', 'euren', 'Ruhm', 'und', 'meiner', 'Schwester', 'Thränen', '.']"
+121,248,,,,,,ER,positiv,59288.0,CATMA_981312D6-9A5D-426D-A2E6-0A3EC19FEE50,22,Emotionen der Zuneigung,positiv,59190.0,Verehrung,"Und treff ich nur den Weg mich dir zu zeigen an,
+Gestehn, daß man besiegt noch edel bleiben kann.
+","['Und', 'treff', 'ich', 'nur', 'den', 'Weg', 'mich', 'dir', 'zu', 'zeigen', 'an', ',', 'Gestehn', ',', 'daß', 'man', 'besiegt', 'noch', 'edel', 'bleiben', 'kann', '.']"
+122,249,canut,,,Ereignis,,ER,positiv,59354.0,CATMA_8CCC0E74-66A5-4DFD-B683-2CC7FFB06B78,12,Emotionen der Freude,positiv,59297.0,Freude,"Kommt! laßt uns dieß zum Trost auch nun Estrithen sagen.
+","['Kommt', '!', 'laßt', 'uns', 'dieß', 'zum', 'Trost', 'auch', 'nun', 'Estrithen', 'sagen', '.']"
+123,252,,estrithe,,,,ER,negativ,60919.0,CATMA_C4A7736E-3199-4023-A1B9-37E5C0A42AD3,67,Emotionen der Ablehnung,negativ,60576.0,Abscheu,"Entdeckst, er rühme sich als Sieger des Canut,
+Und muntre durch das Lob von seinen eignen Thaten
+Viel hundert Helden auf die Treue zu verrathen?
+Umsonst beschreibest du den Trieb, von dem er brennt,
+Wie er sonst keinen Feind als seinen König kennt,
+Und wie beredt er noch vor kurzer Zeit geschworen,
+Ihn zu besänftigen sey alle Huld verloren.
+","['Entdeckst', ',', 'er', 'rühme', 'sich', 'als', 'Sieger', 'des', 'Canut', ',', 'Und', 'muntre', 'durch', 'das', 'Lob', 'von', 'seinen', 'eignen', 'Thaten', 'Viel', 'hundert', 'Helden', 'auf', 'die', 'Treue', 'zu', 'verrathen', '?', 'Umsonst', 'beschreibest', 'du', 'den', 'Trieb', ',', 'von', 'dem', 'er', 'brennt', ',', 'Wie', 'er', 'sonst', 'keinen', 'Feind', 'als', 'seinen', 'König', 'kennt', ',', 'Und', 'wie', 'beredt', 'er', 'noch', 'vor', 'kurzer', 'Zeit', 'geschworen', ',', 'Ihn', 'zu', 'besänftigen', 'sey', 'alle', 'Huld', 'verloren', '.']"
+124,253,estrithe,,ulfo,,,ER,positiv,61128.0,CATMA_C5AA4E9D-E25B-4622-8BEC-D05D6F9B3319,41,Emotionen der Zuneigung,positiv,60919.0,Verehrung,"Du kennest nicht, Haqvin, des Wohlthuns starke Kraft,
+Wie schnell es Aenderung in edlen Seelen schafft,
+Und das beschämte Herz, das dann den Feind verehret,
+Wen es aus Stolz gehaßt aus Großmuth lieben lehret.
+","['Du', 'kennest', 'nicht', ',', 'Haqvin', ',', 'des', 'Wohlthuns', 'starke', 'Kraft', ',', 'Wie', 'schnell', 'es', 'Aenderung', 'in', 'edlen', 'Seelen', 'schafft', ',', 'Und', 'das', 'beschämte', 'Herz', ',', 'das', 'dann', 'den', 'Feind', 'verehret', ',', 'Wen', 'es', 'aus', 'Stolz', 'gehaßt', 'aus', 'Großmuth', 'lieben', 'lehret', '.']"
+125,254,,haqvin,,,,ER,negativ,61566.0,CATMA_75B31DE3-8350-4E8F-805F-DEE9617A467F,64,Emotionen der Ablehnung,negativ,61252.0,Abscheu,"Mit Unmuth fühlet er sich fremde Gunst vonnöthen.
+Wer Dank von ihm verdient, der machet ihn erröthen.
+Er sieht des Feindes Huld, die er gezwungen preist,
+Nur für ein Denkmal an, das seine Schwäche weist,
+Und glaubt, daß er alsdann erst diesem Schimpf entgangen,
+ Wenn er den unterdrückt, von dem er ihn empfangen.
+","['Mit', 'Unmuth', 'fühlet', 'er', 'sich', 'fremde', 'Gunst', 'vonnöthen', '.', 'Wer', 'Dank', 'von', 'ihm', 'verdient', ',', 'der', 'machet', 'ihn', 'erröthen', '.', 'Er', 'sieht', 'des', 'Feindes', 'Huld', ',', 'die', 'er', 'gezwungen', 'preist', ',', 'Nur', 'für', 'ein', 'Denkmal', 'an', ',', 'das', 'seine', 'Schwäche', 'weist', ',', 'Und', 'glaubt', ',', 'daß', 'er', 'alsdann', 'erst', 'diesem', 'Schimpf', 'entgangen', ',', 'Wenn', 'er', 'den', 'unterdrückt', ',', 'von', 'dem', 'er', 'ihn', 'empfangen', '.']"
+126,255,estrithe,,,,,ER,negativ,61800.0,CATMA_C11F885F-391F-4E0E-81E8-68A94D4715DB,45,Emotionen der Ablehnung,negativ,61578.0,Ärger,"Was ist das für ein Trieb, der dich zum Kläger macht?
+Wer bloß aus Eifer warnt, stützt sich nicht auf Verdacht,
+Du willst vom künftigen aus dem vergangnen sprechen:
+Sprich, wenn du sprechen willst, von itzigen Verbrechen.
+","['Was', 'ist', 'das', 'für', 'ein', 'Trieb', ',', 'der', 'dich', 'zum', 'Kläger', 'macht', '?', 'Wer', 'bloß', 'aus', 'Eifer', 'warnt', ',', 'stützt', 'sich', 'nicht', 'auf', 'Verdacht', ',', 'Du', 'willst', 'vom', 'künftigen', 'aus', 'dem', 'vergangnen', 'sprechen', ':', 'Sprich', ',', 'wenn', 'du', 'sprechen', 'willst', ',', 'von', 'itzigen', 'Verbrechen', '.']"
+127,257,,estrithe,canut,,,ER,positiv,62101.0,CATMA_4FFF2C86-17DD-4269-831A-C8E617B70A0B,31,Emotionen der Zuneigung,positiv,61947.0,Verehrung,"Die Huld hat mehr in ihm, als er gewollt, erreichet.
+Ein Strahl der Dankbarkeit, der unvermerkt erwacht,
+Hat wider Willen ihn zu seiner Pflicht gebracht.
+","['Die', 'Huld', 'hat', 'mehr', 'in', 'ihm', ',', 'als', 'er', 'gewollt', ',', 'erreichet', '.', 'Ein', 'Strahl', 'der', 'Dankbarkeit', ',', 'der', 'unvermerkt', 'erwacht', ',', 'Hat', 'wider', 'Willen', 'ihn', 'zu', 'seiner', 'Pflicht', 'gebracht', '.']"
+128,259,,,,,,ER,negativ,63140.0,CATMA_E0FD9D68-8291-43F3-A2E5-451B9EC80DF3,45,Emotionen der Angst,negativ,62925.0,Angst,"Die Zeichen schrecken mich, die dich so sehr erfreuen.
+Ein Ehrgeitz, der sich zwingt, ist allezeit zu scheuen.
+Daß er geschmeidig weicht, geschieht nie ohne Frucht,
+Er läßt sich nur herab, wenn er zu steigen sucht.
+","['Die', 'Zeichen', 'schrecken', 'mich', ',', 'die', 'dich', 'so', 'sehr', 'erfreuen', '.', 'Ein', 'Ehrgeitz', ',', 'der', 'sich', 'zwingt', ',', 'ist', 'allezeit', 'zu', 'scheuen', '.', 'Daß', 'er', 'geschmeidig', 'weicht', ',', 'geschieht', 'nie', 'ohne', 'Frucht', ',', 'Er', 'läßt', 'sich', 'nur', 'herab', ',', 'wenn', 'er', 'zu', 'steigen', 'sucht', '.']"
+129,260,,,,,,ER,negativ,63488.0,CATMA_E8F734E3-5D06-476B-8D19-7825E8E07145,22,Emotionen des Leids,negativ,63385.0,Leid,"Nun sollst du ferner nicht dich über mich beklagen,
+Estrithe, hör nun auf, dein eignes Herz zu plagen.
+","['Nun', 'sollst', 'du', 'ferner', 'nicht', 'dich', 'über', 'mich', 'beklagen', ',', 'Estrithe', ',', 'hör', 'nun', 'auf', ',', 'dein', 'eignes', 'Herz', 'zu', 'plagen', '.']"
+130,264,estrithe,,,,,ER,positiv,64552.0,CATMA_8B663B60-25B5-4348-8457-969C4E5C4881,23,Emotionen der Zuneigung,positiv,64447.0,Liebe,"O möchten doch einmal so vieler [Güte] Zeichen,
+Geliebtester, dein Herz, nach dem man strebt, erreichen!
+","['O', 'möchten', 'doch', 'einmal', 'so', 'vieler', '[', 'Güte', ']', 'Zeichen', ',', 'Geliebtester', ',', 'dein', 'Herz', ',', 'nach', 'dem', 'man', 'strebt', ',', 'erreichen', '!']"
+131,267,,,,,,ER,positiv,64981.0,CATMA_18A4ED54-DB96-48FF-9375-1860DB328BC4,22,Emotionen der Zuneigung,positiv,64869.0,Liebe,"Doch da mich Ruhm und Pflicht von deiner Seite trennen,
+Sprich, wirst du mich auch noch abwesend lieben können?
+","['Doch', 'da', 'mich', 'Ruhm', 'und', 'Pflicht', 'von', 'deiner', 'Seite', 'trennen', ',', 'Sprich', ',', 'wirst', 'du', 'mich', 'auch', 'noch', 'abwesend', 'lieben', 'können', '?']"
+132,271,,,,,,ER,positiv,66788.0,CATMA_728D3F03-6136-46B9-9057-F59334936598,42,Emotionen der Zuneigung,positiv,66582.0,Liebe,"Doch weil du es begehrst, erfüll ich dein Begehren.
+Ich suche nichts so sehr, als deinen Ruhm zu mehren,
+Wenn nur nicht dieser Ruhm den Pflichten widerstrebt,
+Und andrer Unglück wird, indem er dich erhebt.
+","['Doch', 'weil', 'du', 'es', 'begehrst', ',', 'erfüll', 'ich', 'dein', 'Begehren', '.', 'Ich', 'suche', 'nichts', 'so', 'sehr', ',', 'als', 'deinen', 'Ruhm', 'zu', 'mehren', ',', 'Wenn', 'nur', 'nicht', 'dieser', 'Ruhm', 'den', 'Pflichten', 'widerstrebt', ',', 'Und', 'andrer', 'Unglück', 'wird', ',', 'indem', 'er', 'dich', 'erhebt', '.']"
+133,272,ulfo,,,,,ER,positiv,67342.0,CATMA_D8484B65-AFDB-49E4-8ABE-C8D3D7434E9F,102,Emotionen der Freude,positiv,66832.0,Freude,"Sprich, Godschalk, sind nunmehr die Schaaren, die uns dienen,
+Auf meinen Wink bereit, sich alles zu erkühnen?
+Hast du in ihrer Brust ein Feuer angefacht,
+Das die Gefahren trutzt und selbst den Tod verlacht?
+Hast du sie angeführt, als ob sie schon den Heeren,
+Die deine Rachbegier bedroht, vor Augen wären?
+Ist ihnen eingeprägt, daß sich ihr tapfrer Geist
+Zum Denken zu umschränkt bloß durch Gehorchen weist,
+Und daß ihr Führer bloß den Schluß zu fassen wisse,
+Wen man bekriegen soll, wen man verschonen müsse?
+","['Sprich', ',', 'Godschalk', ',', 'sind', 'nunmehr', 'die', 'Schaaren', ',', 'die', 'uns', 'dienen', ',', 'Auf', 'meinen', 'Wink', 'bereit', ',', 'sich', 'alles', 'zu', 'erkühnen', '?', 'Hast', 'du', 'in', 'ihrer', 'Brust', 'ein', 'Feuer', 'angefacht', ',', 'Das', 'die', 'Gefahren', 'trutzt', 'und', 'selbst', 'den', 'Tod', 'verlacht', '?', 'Hast', 'du', 'sie', 'angeführt', ',', 'als', 'ob', 'sie', 'schon', 'den', 'Heeren', ',', 'Die', 'deine', 'Rachbegier', 'bedroht', ',', 'vor', 'Augen', 'wären', '?', 'Ist', 'ihnen', 'eingeprägt', ',', 'daß', 'sich', 'ihr', 'tapfrer', 'Geist', 'Zum', 'Denken', 'zu', 'umschränkt', 'bloß', 'durch', 'Gehorchen', 'weist', ',', 'Und', 'daß', 'ihr', 'Führer', 'bloß', 'den', 'Schluß', 'zu', 'fassen', 'wisse', ',', 'Wen', 'man', 'bekriegen', 'soll', ',', 'wen', 'man', 'verschonen', 'müsse', '?']"
+134,273,,ulfo,,,,ER,negativ,67138.0,CATMA_2D556929-BE3B-4FF3-A9F7-5CCCC3BF0570,21,Emotionen der Ablehnung,negativ,67039.0,Abscheu,"Hast du sie angeführt, als ob sie schon den Heeren,
+Die deine Rachbegier bedroht, vor Augen wären?
+","['Hast', 'du', 'sie', 'angeführt', ',', 'als', 'ob', 'sie', 'schon', 'den', 'Heeren', ',', 'Die', 'deine', 'Rachbegier', 'bedroht', ',', 'vor', 'Augen', 'wären', '?']"
+135,274,ulfo,,canut,,,ER,positiv,67622.0,CATMA_23FC0C4B-8D73-4BE7-984E-0176921382F5,11,Emotionen der Freude,positiv,67574.0,Schadenfreude,"Sie sollen ihren Feind, eh sie vermuthet, sehn.
+","['Sie', 'sollen', 'ihren', 'Feind', ',', 'eh', 'sie', 'vermuthet', ',', 'sehn', '.']"
+136,275,ulfo,,canut,,,ER,positiv,68112.0,CATMA_9CCD16E3-A073-4717-92A8-F41D27943578,25,Emotionen der Freude,positiv,68000.0,Schadenfreude,"Dieß sagst du, weil dein Geist, der ohn Erfahrung denkt,
+Den Weg noch nicht erkannt, der dich zum Zwecke lenkt.
+","['Dieß', 'sagst', 'du', ',', 'weil', 'dein', 'Geist', ',', 'der', 'ohn', 'Erfahrung', 'denkt', ',', 'Den', 'Weg', 'noch', 'nicht', 'erkannt', ',', 'der', 'dich', 'zum', 'Zwecke', 'lenkt', '.']"
+137,276,godschalk,,unpersönlich,,,ER,negativ,68304.0,CATMA_9F960F00-DC41-4248-8B45-AE5959E7E351,7,Emotionen der Ablehnung,negativ,68268.0,Abscheu," Doch dabey vergiß die Rache nicht.
+","['Doch', 'dabey', 'vergiß', 'die', 'Rache', 'nicht', '.']"
+138,277,canut,,,,,ER,positiv,68362.0,CATMA_4A782DDC-4749-4236-ABBF-92BB760E06F6,11,Emotionen der Freude,positiv,68311.0,Schadenfreude,"Lern einen Weg von mir, der beydes dir verspricht.
+","['Lern', 'einen', 'Weg', 'von', 'mir', ',', 'der', 'beydes', 'dir', 'verspricht', '.']"
+139,278,,,,,,ER,Emotionale Bewegtheit,68789.0,CATMA_AF0594D2-FB14-495E-B44A-2B8977AF0AB4,20,Emotionale Bewegtheit,Emotionale Bewegtheit,68694.0,Emotionale Bewegtheit,"Du fragest, ob mein Herz nach Ruhme streben kann?
+Die Frage hat man mir nie ungestraft gethan?
+","['Du', 'fragest', ',', 'ob', 'mein', 'Herz', 'nach', 'Ruhme', 'streben', 'kann', '?', 'Die', 'Frage', 'hat', 'man', 'mir', 'nie', 'ungestraft', 'gethan', '?']"
+140,279,,ulfo,,,,ER,negativ,69205.0,CATMA_9332F3F6-5AD4-4AAB-BD38-45B52406519E,39,Emotionen des Leids,negativ,69001.0,Leid,"Zuletzt wird man dahin mit Schaaren über Schaaren,
+Dir anfangs beyzustehn, dann dich zu stürzen, fahren,
+Dein Volk wird nicht zu erst so listig unterdrückt,
+Und an der Hülfe statt ihm Fessel zugeschickt.
+","['Zuletzt', 'wird', 'man', 'dahin', 'mit', 'Schaaren', 'über', 'Schaaren', ',', 'Dir', 'anfangs', 'beyzustehn', ',', 'dann', 'dich', 'zu', 'stürzen', ',', 'fahren', ',', 'Dein', 'Volk', 'wird', 'nicht', 'zu', 'erst', 'so', 'listig', 'unterdrückt', ',', 'Und', 'an', 'der', 'Hülfe', 'statt', 'ihm', 'Fessel', 'zugeschickt', '.']"
+141,280,ulfo,,,,,ER,negativ,69729.0,CATMA_99C9E3A8-C36B-46CF-AB11-5A617B965D13,96,Emotionen der Ablehnung,negativ,69256.0,Abscheu,"Nun trifft dein kleines Land die Reyh, es zu besiegen.
+Und dennoch nimmst du den zu deinem Helfer an,
+Der dich als Nachbar haßt, als mächtig schaden kann.
+Itzt eile diesem Schlag durch Klugheit vorzukommen,
+Bald ist dir auch die Macht dir vorzusehn benommen.
+Itzt ist der Augenblick. Ein Schluß, ein Wort, ein Streich
+Erobert deinem Volk der Dänen ganzes Reich.
+Denn hast du Zeit genug, des Vaters Tod zu rächen,
+Dann, Godschalk, laß uns erst von unserm Aufbruch sprechen.
+","['Nun', 'trifft', 'dein', 'kleines', 'Land', 'die', 'Reyh', ',', 'es', 'zu', 'besiegen', '.', 'Und', 'dennoch', 'nimmst', 'du', 'den', 'zu', 'deinem', 'Helfer', 'an', ',', 'Der', 'dich', 'als', 'Nachbar', 'haßt', ',', 'als', 'mächtig', 'schaden', 'kann', '.', 'Itzt', 'eile', 'diesem', 'Schlag', 'durch', 'Klugheit', 'vorzukommen', ',', 'Bald', 'ist', 'dir', 'auch', 'die', 'Macht', 'dir', 'vorzusehn', 'benommen', '.', 'Itzt', 'ist', 'der', 'Augenblick', '.', 'Ein', 'Schluß', ',', 'ein', 'Wort', ',', 'ein', 'Streich', 'Erobert', 'deinem', 'Volk', 'der', 'Dänen', 'ganzes', 'Reich', '.', 'Denn', 'hast', 'du', 'Zeit', 'genug', ',', 'des', 'Vaters', 'Tod', 'zu', 'rächen', ',', 'Dann', ',', 'Godschalk', ',', 'laß', 'uns', 'erst', 'von', 'unserm', 'Aufbruch', 'sprechen', '.']"
+142,281,godschalk,,,,,ER,Emotionale Bewegtheit,69756.0,CATMA_CA58D3C1-221A-47C0-9992-1410AE561DF2,4,Emotionale Bewegtheit,Emotionale Bewegtheit,69742.0,Emotionale Bewegtheit,"Was sagst du?
+","['Was', 'sagst', 'du', '?']"
+143,284,,,,,,ER,positiv,70178.0,CATMA_2E7C515C-B5A5-47F1-940A-C7310A2CC3EA,23,Emotionen der Freude,positiv,70073.0,Freude,"Ich suche nichts für mich, und find ein wahr Ergötzen,
+Nicht König selbst zu seyn, nur Könige zu setzen.
+","['Ich', 'suche', 'nichts', 'für', 'mich', ',', 'und', 'find', 'ein', 'wahr', 'Ergötzen', ',', 'Nicht', 'König', 'selbst', 'zu', 'seyn', ',', 'nur', 'Könige', 'zu', 'setzen', '.']"
+144,285,ulfo,,,,,ER,negativ,70439.0,CATMA_B4AFF80B-67C6-4C65-AA41-699644D73C89,21,Emotionen der Ablehnung,negativ,70342.0,Abscheu,"Er wird ins Lager gehn; behalt ihn da gefangen.
+Es hat dein Heer und dich ein Vaterland erzeugt.
+","['Er', 'wird', 'ins', 'Lager', 'gehn', ';', 'behalt', 'ihn', 'da', 'gefangen', '.', 'Es', 'hat', 'dein', 'Heer', 'und', 'dich', 'ein', 'Vaterland', 'erzeugt', '.']"
+145,286,,ulfo,,,,ER,positiv,70594.0,CATMA_03F7D7BA-8C2A-4B7A-9653-37E515AD3D35,33,Emotionen der Zuneigung,positiv,70439.0,Verehrung,"Wen liebte sonst dieß Heer, war es nicht dir geneigt?
+Es wird, lehrst du es nur sein wahres Wohl ermessen,
+Wem es bisher gedient, im Augenblick vergessen.
+","['Wen', 'liebte', 'sonst', 'dieß', 'Heer', ',', 'war', 'es', 'nicht', 'dir', 'geneigt', '?', 'Es', 'wird', ',', 'lehrst', 'du', 'es', 'nur', 'sein', 'wahres', 'Wohl', 'ermessen', ',', 'Wem', 'es', 'bisher', 'gedient', ',', 'im', 'Augenblick', 'vergessen', '.']"
+146,290,,ulfo,,,,ER,negativ,71854.0,CATMA_806A8F61-1A8F-44C2-9047-632B84792B75,6,Emotionen der Angst,negativ,71821.0,Angst," die Frucht sollst du geniessen.
+","['die', 'Frucht', 'sollst', 'du', 'geniessen', '.']"
+147,291,,,,,,ER,positiv,72319.0,CATMA_ADEABE5E-367C-480A-B062-63ED8720B605,12,Emotionen der Freude,positiv,72264.0,Freude,"Ich wünsche kund zu thun, wie leicht ich mich begnüge,
+","['Ich', 'wünsche', 'kund', 'zu', 'thun', ',', 'wie', 'leicht', 'ich', 'mich', 'begnüge', ',']"
+148,294,,,,,,ER,negativ,73201.0,CATMA_BFD420C3-8E58-4FB0-90D2-E6412C37F66C,22,Emotionen der Ablehnung,negativ,73093.0,Ärger,"Du würdest, wollt ich sie statt deiner siegen lehren,
+Als raubt ich deinen Ruhm, dich über mich beschweren.
+","['Du', 'würdest', ',', 'wollt', 'ich', 'sie', 'statt', 'deiner', 'siegen', 'lehren', ',', 'Als', 'raubt', 'ich', 'deinen', 'Ruhm', ',', 'dich', 'über', 'mich', 'beschweren', '.']"
+149,296,,,canut,,,ER,negativ,74138.0,CATMA_42FECDB0-E793-4A1D-A6CF-CF404CFE6D4C,16,Emotionen der Angst,negativ,74080.0,Angst,"O! Himmel! Herr, wohin? ... Nein! dieß gestatt ich nicht.
+","['O', '!', 'Himmel', '!', 'Herr', ',', 'wohin', '?', '...', 'Nein', '!', 'dieß', 'gestatt', 'ich', 'nicht', '.']"
+150,297,canut,,,,,ER,Emotionale Bewegtheit,74195.0,CATMA_D8409265-6B8E-419C-9148-526735648850,10,Emotionale Bewegtheit,Emotionale Bewegtheit,74146.0,Emotionale Bewegtheit,"Wie? Ulfo fodert es, und Godschalk widerspricht?
+","['Wie', '?', 'Ulfo', 'fodert', 'es', ',', 'und', 'Godschalk', 'widerspricht', '?']"
+151,302,canut,,,,,ER,negativ,74421.0,CATMA_E137162A-413E-4EA0-ACC9-154E435F0FFB,7,Emotionen der Angst,negativ,74390.0,Angst,"Und sprich! was für Gefahr ...
+","['Und', 'sprich', '!', 'was', 'für', 'Gefahr', '...']"
+152,303,godschalk,,,,,ER,negativ,74458.0,CATMA_FA888E22-71F7-4176-9FEC-CC6F8F01CEBB,4,Emotionen der Angst,negativ,74433.0,Angst,"Herr, die Gefangenschaft ","['Herr', ',', 'die', 'Gefangenschaft']"
+153,304,,,,,,ER,Emotionale Bewegtheit,74585.0,CATMA_6102F28B-0911-48EA-89C9-F10185D592BB,11,Emotionale Bewegtheit,Emotionale Bewegtheit,74530.0,Emotionale Bewegtheit,"Sprich! warum soll ich nicht mein eignes Heer besehen?
+","['Sprich', '!', 'warum', 'soll', 'ich', 'nicht', 'mein', 'eignes', 'Heer', 'besehen', '?']"
+154,308,canut,,,,,ER,negativ,75117.0,CATMA_D03F2E95-6E63-4D1D-8D21-8016F5BB1C0B,13,Emotionen der Ablehnung,negativ,75062.0,Ärger,"Haqvin, befiehl der Wacht, daß sie ihn mit sich führt.
+","['Haqvin', ',', 'befiehl', 'der', 'Wacht', ',', 'daß', 'sie', 'ihn', 'mit', 'sich', 'führt', '.']"
+155,313,,,,,,ER,negativ,76043.0,CATMA_3FCEA084-DA7B-4893-B64A-C2F0CD481DEC,14,Emotionen der Ablehnung,negativ,75977.0,Ärger,"Wie? Godewin,
+So schimpflich nahm ich dir den Degen nicht vorhin.
+","['Wie', '?', 'Godewin', ',', 'So', 'schimpflich', 'nahm', 'ich', 'dir', 'den', 'Degen', 'nicht', 'vorhin', '.']"
+156,314,,,,,,ER,negativ,76258.0,CATMA_0CDEAC10-4B2A-488C-8E39-BFB60EF99A93,10,Emotionen der Angst,negativ,76204.0,Angst,"Sonst furchtet ihr mich mehr dort bey dem Helgafluß.
+
+","['Sonst', 'furchtet', 'ihr', 'mich', 'mehr', 'dort', 'bey', 'dem', 'Helgafluß', '.']"
+157,316,,,ulfo,,,ER,negativ,76445.0,CATMA_3D08F023-BDB2-4BB7-B32A-78DEA49173C0,13,Emotionen der Ablehnung,negativ,76382.0,Abscheu,"Sein Frevel, nicht mein Zorn, heißt mich die Schärfe brauchen.
+","['Sein', 'Frevel', ',', 'nicht', 'mein', 'Zorn', ',', 'heißt', 'mich', 'die', 'Schärfe', 'brauchen', '.']"
+158,318,godschalk,,canut,,,ER,positiv,77007.0,CATMA_C7CE64FF-220C-451D-B445-72AB87FD9AEB,19,Emotionen der Zuneigung,positiv,76911.0,Verehrung,"Dieß Heer wird ewig fest in seiner Treu bestehn,
+Und mit Verlangen nur nach Ulfons Strafe sehn.
+","['Dieß', 'Heer', 'wird', 'ewig', 'fest', 'in', 'seiner', 'Treu', 'bestehn', ',', 'Und', 'mit', 'Verlangen', 'nur', 'nach', 'Ulfons', 'Strafe', 'sehn', '.']"
+159,319,"['godschalk', 'unpersönlich']",,,,,ER,negativ,77007.0,CATMA_1E2D808E-59B0-454E-998B-4DF70B0027F3,9,Emotionen der Ablehnung,negativ,76960.0,Abscheu,"Und mit Verlangen nur nach Ulfons Strafe sehn.
+","['Und', 'mit', 'Verlangen', 'nur', 'nach', 'Ulfons', 'Strafe', 'sehn', '.']"
+160,320,godewin,,,,,ER,negativ,77070.0,CATMA_1D90BC40-10A3-4314-9D98-86147A42A4D0,10,Emotionen des Leids,negativ,77018.0,Mitleid,"Herr, denke du bestrafst in ihm zugleich Estrithen.
+","['Herr', ',', 'denke', 'du', 'bestrafst', 'in', 'ihm', 'zugleich', 'Estrithen', '.']"
+161,324,,godewin,,,,ER,negativ,77722.0,CATMA_BEC9A498-BEDB-40AC-92C2-B0304D97A655_1,34,Emotionen des Leids,negativ,77568.0,Leid,"Die That ist schon geschenkt, er darf sie nur bereuen.
+Ein einzig Wort von ihm, daß er sich schuldig nennt,
+Soll alle Strafe seyn, die man ihm zuerkennt.
+","['Die', 'That', 'ist', 'schon', 'geschenkt', ',', 'er', 'darf', 'sie', 'nur', 'bereuen', '.', 'Ein', 'einzig', 'Wort', 'von', 'ihm', ',', 'daß', 'er', 'sich', 'schuldig', 'nennt', ',', 'Soll', 'alle', 'Strafe', 'seyn', ',', 'die', 'man', 'ihm', 'zuerkennt', '.']"
+162,325,,godewin,,,,ER,negativ,77840.0,CATMA_BEC9A498-BEDB-40AC-92C2-B0304D97A655_2,12,Emotionen des Leids,negativ,77780.0,Leid,"Ich weiß, sein eignes Herz zeigt ihm schon sein Verbrechen?
+","['Ich', 'weiß', ',', 'sein', 'eignes', 'Herz', 'zeigt', 'ihm', 'schon', 'sein', 'Verbrechen', '?']"
+163,326,,godewin,,,,ER,negativ,77947.0,CATMA_BEC9A498-BEDB-40AC-92C2-B0304D97A655_3,24,Emotionen des Leids,negativ,77841.0,Leid,"hn rührt des Königs Huld und daß er dich betrübt,
+Und meynst du, daß ein Held nicht auch das Leben liebt?
+","['hn', 'rührt', 'des', 'Königs', 'Huld', 'und', 'daß', 'er', 'dich', 'betrübt', ',', 'Und', 'meynst', 'du', ',', 'daß', 'ein', 'Held', 'nicht', 'auch', 'das', 'Leben', 'liebt', '?']"
+164,327,,godewin,estrithe,,,ER,positiv,78149.0,CATMA_E44B72A6-F577-4956-94EF-E51F76C746C4,41,Emotionen der Zuneigung,positiv,77947.0,Liebe,"Wie sollt er fühllos seyn, wenn sich mit deinem Weinen
+ Erkenntlichkeit und Recht und die Natur vereinen,
+Und alles, was nur ie ein Herz gefangen nimmt,
+Und was nur Reu erweckt, in ihm zusammen stimmt?
+","['Wie', 'sollt', 'er', 'fühllos', 'seyn', ',', 'wenn', 'sich', 'mit', 'deinem', 'Weinen', 'Erkenntlichkeit', 'und', 'Recht', 'und', 'die', 'Natur', 'vereinen', ',', 'Und', 'alles', ',', 'was', 'nur', 'ie', 'ein', 'Herz', 'gefangen', 'nimmt', ',', 'Und', 'was', 'nur', 'Reu', 'erweckt', ',', 'in', 'ihm', 'zusammen', 'stimmt', '?']"
+165,328,,estrithe,,,,ER,negativ,78472.0,CATMA_64D04DDD-97BA-4E22-AEC1-088EE51A68AB,34,Emotionen des Leids,negativ,78312.0,Leid,"Sein Herz ist nicht geschickt, um etwas zu bereun.
+Er weiß nichts schimpflichers, als sich verzeyhn zu lassen,
+Und eh er bitten wird, eh wählt er zu erblassen.
+","['Sein', 'Herz', 'ist', 'nicht', 'geschickt', ',', 'um', 'etwas', 'zu', 'bereun', '.', 'Er', 'weiß', 'nichts', 'schimpflichers', ',', 'als', 'sich', 'verzeyhn', 'zu', 'lassen', ',', 'Und', 'eh', 'er', 'bitten', 'wird', ',', 'eh', 'wählt', 'er', 'zu', 'erblassen', '.']"
+166,329,,,,,,ER,negativ,78776.0,CATMA_92E2CD9C-2F5F-49D7-A2CF-737BFD3FCE9D,30,Emotionen des Leids,negativ,78627.0,Leid,"O Himmel! so vielmal hat er mich hintergangen!
+Gelobt er nicht erst itzt, da er auf Bosheit sann,
+Mit falscher Freundlichkeit mir die Versöhnung an?
+","['O', 'Himmel', '!', 'so', 'vielmal', 'hat', 'er', 'mich', 'hintergangen', '!', 'Gelobt', 'er', 'nicht', 'erst', 'itzt', ',', 'da', 'er', 'auf', 'Bosheit', 'sann', ',', 'Mit', 'falscher', 'Freundlichkeit', 'mir', 'die', 'Versöhnung', 'an', '?']"
+167,330,,,,,,ER,negativ,79077.0,CATMA_45A4E35D-8F85-41BA-BB2F-86020ED10C16,49,Emotionen des Leids,negativ,78825.0,Leid,"Was thät ich, hätte sie dießmal ihr Ziel getroffen?
+Verführt ich den Canut nicht selbst zu soviel Huld?
+Wenn er ins Lager gieng: so war es meine Schuld.
+Betrübte Willigkeit! bald hätte mein Gewissen
+Von mir des Bruders Blut verzweifelnd fodern müssen.
+","['Was', 'thät', 'ich', ',', 'hätte', 'sie', 'dießmal', 'ihr', 'Ziel', 'getroffen', '?', 'Verführt', 'ich', 'den', 'Canut', 'nicht', 'selbst', 'zu', 'soviel', 'Huld', '?', 'Wenn', 'er', 'ins', 'Lager', 'gieng', ':', 'so', 'war', 'es', 'meine', 'Schuld', '.', 'Betrübte', 'Willigkeit', '!', 'bald', 'hätte', 'mein', 'Gewissen', 'Von', 'mir', 'des', 'Bruders', 'Blut', 'verzweifelnd', 'fodern', 'müssen', '.']"
+168,340,,,,,,ER,negativ,81365.0,CATMA_8A90BED2-E36F-4524-B1D7-D5D8D1E38B0B_0,3,Emotionen des Leids,negativ,81347.0,Mitleid,Aus Mitleid rufft ,"['Aus', 'Mitleid', 'rufft']"
+169,341,,,,,,ER,negativ,81368.0,CATMA_8A90BED2-E36F-4524-B1D7-D5D8D1E38B0B_1,4,Emotionen des Leids,negativ,81348.0,Mitleid,us Mitleid rufft man,"['us', 'Mitleid', 'rufft', 'man']"
+170,342,,,,,,ER,negativ,81369.0,CATMA_8A90BED2-E36F-4524-B1D7-D5D8D1E38B0B_2,1,Emotionen des Leids,negativ,81365.0,Mitleid,man ,['man']
+171,343,,,,,,ER,negativ,81373.0,CATMA_8A90BED2-E36F-4524-B1D7-D5D8D1E38B0B_3,1,Emotionen des Leids,negativ,81368.0,Mitleid, dich,['dich']
+172,344,,,,,,ER,negativ,81383.0,CATMA_8A90BED2-E36F-4524-B1D7-D5D8D1E38B0B_4,4,Emotionen des Leids,negativ,81369.0,Mitleid,"dich, bloß um ","['dich', ',', 'bloß', 'um']"
+173,345,,,,,,ER,negativ,81387.0,CATMA_8A90BED2-E36F-4524-B1D7-D5D8D1E38B0B_5,4,Emotionen des Leids,negativ,81373.0,Mitleid,", bloß um dich","[',', 'bloß', 'um', 'dich']"
+174,346,,,,,,ER,negativ,81401.0,CATMA_8A90BED2-E36F-4524-B1D7-D5D8D1E38B0B_6,4,Emotionen des Leids,negativ,81383.0,Mitleid,"dich zu befreyen.
+","['dich', 'zu', 'befreyen', '.']"
+175,347,,,,,,ER,negativ,81431.0,CATMA_8A90BED2-E36F-4524-B1D7-D5D8D1E38B0B_7,9,Emotionen des Leids,negativ,81387.0,Mitleid," zu befreyen.
+Dein Fehl ist schon verziehn.
+","['zu', 'befreyen', '.', 'Dein', 'Fehl', 'ist', 'schon', 'verziehn', '.']"
+176,348,godewin,,,,,ER,positiv,82119.0,CATMA_2F338F65-BEE4-4346-B606-53E85C0B30FB,91,Emotionen der Zuneigung,positiv,81647.0,Verehrung,"Der Himmel konnte sie nie einem Grössern geben.
+Zum Herrschen braucht man mehr, als Ruhmbegier und Muth.
+Die Wut entstellet dich, die Huld schmückt den Canut.
+In wem die Billigkeit bey edlem Ehrgeitz wohnet,
+Wer stets voll Mitleid straft, stets freudenvoll belohnet,
+Wer aus der Menschen Wohl sich selbst Gesetze nimmt,
+Den hat selbst die Natur zum Throne schon bestimmt.
+Wo hast du einen Feind von dem Canut gefunden?
+Dem, welchen alles liebt, gieb dich doch überwunden.
+","['Der', 'Himmel', 'konnte', 'sie', 'nie', 'einem', 'Grössern', 'geben', '.', 'Zum', 'Herrschen', 'braucht', 'man', 'mehr', ',', 'als', 'Ruhmbegier', 'und', 'Muth', '.', 'Die', 'Wut', 'entstellet', 'dich', ',', 'die', 'Huld', 'schmückt', 'den', 'Canut', '.', 'In', 'wem', 'die', 'Billigkeit', 'bey', 'edlem', 'Ehrgeitz', 'wohnet', ',', 'Wer', 'stets', 'voll', 'Mitleid', 'straft', ',', 'stets', 'freudenvoll', 'belohnet', ',', 'Wer', 'aus', 'der', 'Menschen', 'Wohl', 'sich', 'selbst', 'Gesetze', 'nimmt', ',', 'Den', 'hat', 'selbst', 'die', 'Natur', 'zum', 'Throne', 'schon', 'bestimmt', '.', 'Wo', 'hast', 'du', 'einen', 'Feind', 'von', 'dem', 'Canut', 'gefunden', '?', 'Dem', ',', 'welchen', 'alles', 'liebt', ',', 'gieb', 'dich', 'doch', 'überwunden', '.']"
+177,352,,,,,,ER,negativ,82663.0,CATMA_4DD1B452-9487-44ED-923B-5D893B71CD9A,12,Emotionen des Leids,negativ,82612.0,Leid,"Wohin? ach! Grausamer! du gönnst mir keinen Blick?
+","['Wohin', '?', 'ach', '!', 'Grausamer', '!', 'du', 'gönnst', 'mir', 'keinen', 'Blick', '?']"
+178,355,,estrithe,,,,ER,positiv,83529.0,CATMA_2DAFFB43-D454-4B51-A9FA-DE54C58F8D35,41,Emotionen der Freude,positiv,83324.0,Freude,"Doch hätte dieses Glück dich, wie du willst, geehret,
+Und deinen schändlichen, verfluchten Wunsch erhöret;
+Hätt es dir den Canut in Ketten vorgestellt:
+Dann war es erst gerecht, dann priese dich die Welt.
+","['Doch', 'hätte', 'dieses', 'Glück', 'dich', ',', 'wie', 'du', 'willst', ',', 'geehret', ',', 'Und', 'deinen', 'schändlichen', ',', 'verfluchten', 'Wunsch', 'erhöret', ';', 'Hätt', 'es', 'dir', 'den', 'Canut', 'in', 'Ketten', 'vorgestellt', ':', 'Dann', 'war', 'es', 'erst', 'gerecht', ',', 'dann', 'priese', 'dich', 'die', 'Welt', '.']"
+179,356,estrithe,,,,,ER,positiv,83839.0,CATMA_96B49FD0-8735-4710-84D0-B679E13233B7,23,Emotionen der Zuneigung,positiv,83731.0,Verehrung,"Es läßt dich, da dein Herz sich selbst zum Schaden wütet,
+Stets einen König sehn, der dir Vergebung bietet.
+","['Es', 'läßt', 'dich', ',', 'da', 'dein', 'Herz', 'sich', 'selbst', 'zum', 'Schaden', 'wütet', ',', 'Stets', 'einen', 'König', 'sehn', ',', 'der', 'dir', 'Vergebung', 'bietet', '.']"
+180,358,,,,,,ER,negativ,84400.0,CATMA_EEBDAC40-B3BA-4BFD-9C45-E56B2ECBE6D7,12,Emotionen der Ablehnung,negativ,84351.0,Abscheu,"Glaub, wär ich Godewin, ich hätt es schon gethan.","['Glaub', ',', 'wär', 'ich', 'Godewin', ',', 'ich', 'hätt', 'es', 'schon', 'gethan', '.']"
+181,359,,,,,,ER,positiv,84713.0,CATMA_57E7D1B9-A189-40A2-923C-CEF06A7F9E32,13,Emotionen der Zuneigung,positiv,84656.0,Liebe,"Sieh! wie viel Herzen sind, die dich zu retten trachten.
+","['Sieh', '!', 'wie', 'viel', 'Herzen', 'sind', ',', 'die', 'dich', 'zu', 'retten', 'trachten', '.']"
+182,360,,,,,,ER,negativ,84774.0,CATMA_C89B52F7-C57D-42C5-A3EF-059411C7E223,11,Emotionen der Ablehnung,negativ,84720.0,Abscheu,"Wenn ich mich retten ließ, ihr würdet mich verachten.
+","['Wenn', 'ich', 'mich', 'retten', 'ließ', ',', 'ihr', 'würdet', 'mich', 'verachten', '.']"
+183,362,,,,,,ER,negativ,84947.0,CATMA_AD761B7E-F4CC-4582-9F00-BBADC3BD02DD_0,9,Emotionen der Ablehnung,negativ,84914.0,Abscheu,"Wie falsch ist doch der Ruhm [!]
+","['Wie', 'falsch', 'ist', 'doch', 'der', 'Ruhm', '[', '!', ']']"
+184,371,,,,,,ER,positiv,86733.0,CATMA_E669110B-DD39-40D5-918C-59FE1CE3C10B,18,Emotionen der Zuneigung,positiv,86633.0,Liebe,"Drum will ich der Natur mein gnug gebrauchtes Leben,
+Dem König Sicherheit, dir Frieden wiedergeben.
+","['Drum', 'will', 'ich', 'der', 'Natur', 'mein', 'gnug', 'gebrauchtes', 'Leben', ',', 'Dem', 'König', 'Sicherheit', ',', 'dir', 'Frieden', 'wiedergeben', '.']"
+185,373,godewin,,,,,ER,positiv,87704.0,CATMA_3DEDBE0F-3381-4E9E-AA0D-87973D437A6B_0,20,Emotionen der Zuneigung,positiv,87607.0,Verehrung,"Auch sein Verzug bezeigt noch seine Gütigkeit,
+Er läßt noch dir zur Reu und uns zum Bitten Zeit.
+","['Auch', 'sein', 'Verzug', 'bezeigt', 'noch', 'seine', 'Gütigkeit', ',', 'Er', 'läßt', 'noch', 'dir', 'zur', 'Reu', 'und', 'uns', 'zum', 'Bitten', 'Zeit', '.']"
+186,375,,,,,,ER,negativ,88598.0,CATMA_2B843734-99C6-4C88-A552-A99BDB49A338,52,Emotionen der Ablehnung,negativ,88347.0,Abscheu,"Wo ich durch List und Muth dein Schrecken worden bin,
+Wo, da du nach dem Streit, als zum Triumph, gekommen,
+Die Leichen deines Volks an deine Schiffe schwommen,
+Wo mir zuerst der Sieg dann Sicherheit gelung,
+Und fodre da von mir Reu und Erniedrigung.
+","['Wo', 'ich', 'durch', 'List', 'und', 'Muth', 'dein', 'Schrecken', 'worden', 'bin', ',', 'Wo', ',', 'da', 'du', 'nach', 'dem', 'Streit', ',', 'als', 'zum', 'Triumph', ',', 'gekommen', ',', 'Die', 'Leichen', 'deines', 'Volks', 'an', 'deine', 'Schiffe', 'schwommen', ',', 'Wo', 'mir', 'zuerst', 'der', 'Sieg', 'dann', 'Sicherheit', 'gelung', ',', 'Und', 'fodre', 'da', 'von', 'mir', 'Reu', 'und', 'Erniedrigung', '.']"
+187,376,,ulfo,,,,ER,negativ,88684.0,CATMA_8CB809A2-E332-4ABF-8FE8-34CA60DF721B,6,Emotionen des Leids,negativ,88655.0,Leid,Der dir nur Schmerz und Scham,"['Der', 'dir', 'nur', 'Schmerz', 'und', 'Scham']"
+188,378,,,,,,ER,positiv,89424.0,CATMA_40A71323-0C52-4C01-AFF0-FAFE1A8E1E39,42,Emotionen der Freude,positiv,89213.0,Freude,"So schnell ist kaum der Blitz, indem er schlägt, verschwunden:
+Ich hatte dich besiegt, und ward nicht mehr gefunden.
+Den unbezwinglichen, den mächtigen Canut
+Zwang Ulfo ohne Macht, wodurch? durch List und Muth.
+","['So', 'schnell', 'ist', 'kaum', 'der', 'Blitz', ',', 'indem', 'er', 'schlägt', ',', 'verschwunden', ':', 'Ich', 'hatte', 'dich', 'besiegt', ',', 'und', 'ward', 'nicht', 'mehr', 'gefunden', '.', 'Den', 'unbezwinglichen', ',', 'den', 'mächtigen', 'Canut', 'Zwang', 'Ulfo', 'ohne', 'Macht', ',', 'wodurch', '?', 'durch', 'List', 'und', 'Muth', '.']"
+189,379,canut,,,,,ER,negativ,90181.0,CATMA_75B59500-AB50-4833-A306-1FC94B8D4931,40,Emotionen der Ablehnung,negativ,89976.0,Abscheu,"Nehmt den Unwürdigen vor meinen Augen fort.
+Der Tod ersticke noch sein letztes stolzes Wort
+Er müsse durch sein Blut der Welt die Lehre geben,
+Wer nicht will menschlich seyn, sey auch nicht werth zu leben.","['Nehmt', 'den', 'Unwürdigen', 'vor', 'meinen', 'Augen', 'fort', '.', 'Der', 'Tod', 'ersticke', 'noch', 'sein', 'letztes', 'stolzes', 'Wort', 'Er', 'müsse', 'durch', 'sein', 'Blut', 'der', 'Welt', 'die', 'Lehre', 'geben', ',', 'Wer', 'nicht', 'will', 'menschlich', 'seyn', ',', 'sey', 'auch', 'nicht', 'werth', 'zu', 'leben', '.']"
+190,380,,,,,,ER,positiv,90397.0,CATMA_20CE8D6C-F9AD-4CD3-A722-D19D26E2F126,37,Emotionen der Freude,positiv,90190.0,Freude,"Nun bin ich erst vergnügt: nun sagt die späthe Zeit:
+Canut hielt Ulfons Tod für seine Sicherheit.
+Der Fürsten Richterschwerdt, der Uebelthaten Rächer,
+Macht Helden groß und schimpft nur niedrige Verbrecher.
+","['Nun', 'bin', 'ich', 'erst', 'vergnügt', ':', 'nun', 'sagt', 'die', 'späthe', 'Zeit', ':', 'Canut', 'hielt', 'Ulfons', 'Tod', 'für', 'seine', 'Sicherheit', '.', 'Der', 'Fürsten', 'Richterschwerdt', ',', 'der', 'Uebelthaten', 'Rächer', ',', 'Macht', 'Helden', 'groß', 'und', 'schimpft', 'nur', 'niedrige', 'Verbrecher', '.']"
+191,382,estrithe,,ulfo,,,ER,negativ,90512.0,CATMA_3FAD6890-74A3-4A22-823C-997B8A17E328_1,7,Emotionen des Leids,negativ,90485.0,Leid,"Nein, verzieh,
+Und sprich!
+","['Nein', ',', 'verzieh', ',', 'Und', 'sprich', '!']"
+192,383,,,,,,ER,positiv,90557.0,CATMA_B70EC811-C77C-4174-BA01-8B0D9677CCFB,8,Emotionen der Freude,positiv,90520.0,Freude,"Was ich gesagt, das widerruff ich nie","['Was', 'ich', 'gesagt', ',', 'das', 'widerruff', 'ich', 'nie']"
+193,384,estrithe,,,,,ER,negativ,90675.0,CATMA_67496E29-5486-4D9D-B219-1568CEBE5825,13,Emotionen des Leids,negativ,90616.0,Leid,"Ach! eilt man denn so schnell, dein Urtheil zu vollführen?
+","['Ach', '!', 'eilt', 'man', 'denn', 'so', 'schnell', ',', 'dein', 'Urtheil', 'zu', 'vollführen', '?']"
+194,385,canut,,,,,ER,negativ,90704.0,CATMA_676F0759-7BE8-481F-B7AE-D68AAC2492E9,5,Emotionen der Ablehnung,negativ,90683.0,Abscheu,"Er selber fället es.
+","['Er', 'selber', 'fället', 'es', '.']"
+195,389,,,,,,ER,positiv,91976.0,CATMA_A1620EB6-733F-4CA3-A85F-0E510578A71C,47,Emotionen der Zuneigung,positiv,91763.0,Verehrung,"Herr, wenn ich strafbar bin, ist es des Glücks Verbrechen.
+Dieß zwang mich mit Gewalt, am Ulfo dich zu rächen.
+Der Degen, den mein Arm dir willig übergiebt,
+Ist von dem Blut gefärbt, das dich so schlecht geliebt.
+","['Herr', ',', 'wenn', 'ich', 'strafbar', 'bin', ',', 'ist', 'es', 'des', 'Glücks', 'Verbrechen', '.', 'Dieß', 'zwang', 'mich', 'mit', 'Gewalt', ',', 'am', 'Ulfo', 'dich', 'zu', 'rächen', '.', 'Der', 'Degen', ',', 'den', 'mein', 'Arm', 'dir', 'willig', 'übergiebt', ',', 'Ist', 'von', 'dem', 'Blut', 'gefärbt', ',', 'das', 'dich', 'so', 'schlecht', 'geliebt', '.']"
+196,392,,,,,,ER,negativ,92424.0,CATMA_F7071772-90E7-4C58-B616-0C7A599B776C,39,Emotionen der Ablehnung,negativ,92228.0,Abscheu,"ch nahte mich hieher mit unbesorgtem Schritte,
+Zu sagen, daß mein Heer um Ulfons Strafe bitte,
+Und wie voll Abscheu es sich vor der Wut entsetzt,
+Zu deren Werkzeug er es schlecht genug geschätzt.
+","['ch', 'nahte', 'mich', 'hieher', 'mit', 'unbesorgtem', 'Schritte', ',', 'Zu', 'sagen', ',', 'daß', 'mein', 'Heer', 'um', 'Ulfons', 'Strafe', 'bitte', ',', 'Und', 'wie', 'voll', 'Abscheu', 'es', 'sich', 'vor', 'der', 'Wut', 'entsetzt', ',', 'Zu', 'deren', 'Werkzeug', 'er', 'es', 'schlecht', 'genug', 'geschätzt', '.']"
+197,393,ulfo,godschalk,godschalk,,,ER,negativ,92530.0,CATMA_7D66CA5F-27D5-416C-AF11-7B4C06A59674,10,Emotionen der Ablehnung,negativ,92472.0,Abscheu," Doch seine Rachbegier wußt ihm ein Schwerdt zu schaffen.
+","['Doch', 'seine', 'Rachbegier', 'wußt', 'ihm', 'ein', 'Schwerdt', 'zu', 'schaffen', '.']"
+198,394,,,,,,ER,negativ,93181.0,CATMA_58D9E82D-9632-49F1-A016-D31E3503EFBA,29,Emotionen der Ablehnung,negativ,93026.0,Abscheu,"Zum Himmel zornig blickt, und dem Geschicke flucht,
+Das ihn noch endlich zwingt, besieget zu erblassen,
+Und mich nicht wenigstens mit ihm erliegen lassen.
+","['Zum', 'Himmel', 'zornig', 'blickt', ',', 'und', 'dem', 'Geschicke', 'flucht', ',', 'Das', 'ihn', 'noch', 'endlich', 'zwingt', ',', 'besieget', 'zu', 'erblassen', ',', 'Und', 'mich', 'nicht', 'wenigstens', 'mit', 'ihm', 'erliegen', 'lassen', '.']"
+199,395,estrithe,,,Ereignis,,ER,negativ,93206.0,CATMA_A744D45A-5D7E-41B9-8FC5-E1D7836E0CD2,3,Emotionen des Leids,negativ,93193.0,Leid,"Ach Schmerz!
+","['Ach', 'Schmerz', '!']"
+200,400,estrithe,estrithe,,,,VH,negativ,11549.0,CATMA_E44441A9-DF26-43D8-B93D-11DB2F603006,20,Emotionen der Angst,negativ,11450.0,Angst,"Wo sind die Feinde nun, die sich mit dir verbunden?
+ Norwegens Haupt ist todt und Omud überwunden.
+","['Wo', 'sind', 'die', 'Feinde', 'nun', ',', 'die', 'sich', 'mit', 'dir', 'verbunden', '?', 'Norwegens', 'Haupt', 'ist', 'todt', 'und', 'Omud', 'überwunden', '.']"
+201,403,,estrithe,,,,VH,negativ,12076.0,CATMA_F106A649-0236-476D-83ED-293B63661CB0_0,24,Emotionen des Leids,negativ,11975.0,Leid,"Ach! Ulfo find ich stets dieß harte Herz bey dir?
+Je mehr ich dir gehorcht, ie mehr versagst du mir.
+","['Ach', '!', 'Ulfo', 'find', 'ich', 'stets', 'dieß', 'harte', 'Herz', 'bey', 'dir', '?', 'Je', 'mehr', 'ich', 'dir', 'gehorcht', ',', 'ie', 'mehr', 'versagst', 'du', 'mir', '.']"
+202,404,,estrithe,,,,VH,negativ,12599.0,CATMA_F106A649-0236-476D-83ED-293B63661CB0_1,45,Emotionen des Leids,negativ,12383.0,Leid,"Und doch beschwert ich nie dein unerbittlich Ohr.
+Gelassen stellt ich dir dein und mein Unglück vor.
+Ich seufzte, daß du dich durch Untreu schimpfen solltest.
+Ich haßte, was du thatst, und that doch, was du wolltest.","['Und', 'doch', 'beschwert', 'ich', 'nie', 'dein', 'unerbittlich', 'Ohr', '.', 'Gelassen', 'stellt', 'ich', 'dir', 'dein', 'und', 'mein', 'Unglück', 'vor', '.', 'Ich', 'seufzte', ',', 'daß', 'du', 'dich', 'durch', 'Untreu', 'schimpfen', 'solltest', '.', 'Ich', 'haßte', ',', 'was', 'du', 'thatst', ',', 'und', 'that', 'doch', ',', 'was', 'du', 'wolltest', '.']"
+203,405,,estrithe,,,,VH,negativ,12902.0,CATMA_F106A649-0236-476D-83ED-293B63661CB0_2,67,Emotionen des Leids,negativ,12600.0,Leid,"Dieß ist nunmehr der Dank für alles, was ich that.
+Du schlägst mir ab, was ich zu deinem Wohlseyn bath;
+Du führest mich hieher, Grausamer, mir zu sagen,
+Du wollest hier durch Trutz dein Glück, dein Leben wagen.
+Ist denn nicht, was du bist, des Königs Eigenthum?
+Was hat dich wieder ihn so aufgebracht?
+","['Dieß', 'ist', 'nunmehr', 'der', 'Dank', 'für', 'alles', ',', 'was', 'ich', 'that', '.', 'Du', 'schlägst', 'mir', 'ab', ',', 'was', 'ich', 'zu', 'deinem', 'Wohlseyn', 'bath', ';', 'Du', 'führest', 'mich', 'hieher', ',', 'Grausamer', ',', 'mir', 'zu', 'sagen', ',', 'Du', 'wollest', 'hier', 'durch', 'Trutz', 'dein', 'Glück', ',', 'dein', 'Leben', 'wagen', '.', 'Ist', 'denn', 'nicht', ',', 'was', 'du', 'bist', ',', 'des', 'Königs', 'Eigenthum', '?', 'Was', 'hat', 'dich', 'wieder', 'ihn', 'so', 'aufgebracht', '?']"
+204,408,,estrithe,,,,VH,negativ,12902.0,CATMA_E47DCEF8-A451-413D-BAC4-22820E7B5E1A,8,Emotionen der Ablehnung,negativ,12862.0,Ärger,"Was hat dich wieder ihn so aufgebracht?
+","['Was', 'hat', 'dich', 'wieder', 'ihn', 'so', 'aufgebracht', '?']"
+205,411,,estrithe,,,,VH,negativ,13910.0,CATMA_4A5EE54E-1AFB-4C86-8EAC-511A3DF7204F,9,Emotionen des Leids,negativ,13861.0,Leid,"Wie qvälest du mich nicht mit deiner Ruhmbegier?
+","['Wie', 'qvälest', 'du', 'mich', 'nicht', 'mit', 'deiner', 'Ruhmbegier', '?']"
+206,415,,ulfo,,,,VH,positiv,14497.0,CATMA_050916C3-3C1E-4EA3-A442-D8B92E39CD4C,42,Emotionen der Zuneigung,positiv,14292.0,Verehrung,"Zur Ehre hab ich schon den ersten Schritt gethan.
+Die Welt sieht meinen Sieg schon mit Bewundrung an.
+Man sagt schon daß Canut, den sonst nichts überwunden,
+Am Ulfo einen Feind, der siegen kann, gefunden.
+","['Zur', 'Ehre', 'hab', 'ich', 'schon', 'den', 'ersten', 'Schritt', 'gethan', '.', 'Die', 'Welt', 'sieht', 'meinen', 'Sieg', 'schon', 'mit', 'Bewundrung', 'an', '.', 'Man', 'sagt', 'schon', 'daß', 'Canut', ',', 'den', 'sonst', 'nichts', 'überwunden', ',', 'Am', 'Ulfo', 'einen', 'Feind', ',', 'der', 'siegen', 'kann', ',', 'gefunden', '.']"
+207,418,,gunilde,,,,VH,positiv,15379.0,CATMA_1B865800-902C-4225-93BD-C16EF23BF115,22,Emotionen der Zuneigung,positiv,15277.0,Liebe,"Er wird von seiner Huld dich itzt versichern lassen,
+Und zeigen, wie bereit er sey, dich zu umfassen.
+","['Er', 'wird', 'von', 'seiner', 'Huld', 'dich', 'itzt', 'versichern', 'lassen', ',', 'Und', 'zeigen', ',', 'wie', 'bereit', 'er', 'sey', ',', 'dich', 'zu', 'umfassen', '.']"
+208,419,,estrithe,,,,VH,negativ,15490.0,CATMA_08D07779-8DEF-418E-A9FD-3780E0F8CF18,18,Emotionen des Leids,negativ,15391.0,Leid,"Ach! wär ich wiederum in Wäldern tief versteckt,
+Vom Mangel unterdrückt und von Gefahr erschreckt!
+","['Ach', '!', 'wär', 'ich', 'wiederum', 'in', 'Wäldern', 'tief', 'versteckt', ',', 'Vom', 'Mangel', 'unterdrückt', 'und', 'von', 'Gefahr', 'erschreckt', '!']"
+209,421,,estrithe,,,,VH,negativ,15616.0,CATMA_579E0FA7-1AC5-4172-841F-3240C4064ABF,12,Emotionen des Leids,negativ,15564.0,Leid,"Wie kann es ruhig seyn, da ich doch nichts erlange?
+","['Wie', 'kann', 'es', 'ruhig', 'seyn', ',', 'da', 'ich', 'doch', 'nichts', 'erlange', '?']"
+210,427,,estrithe,,,,VH,positiv,18207.0,CATMA_11AA7C5B-6C83-4CC0-A89F-9BAC9CD37061,21,Emotionen der Zuneigung,positiv,18108.0,Liebe,"Es mußte Godewin, der erst mein Herz besessen,
+Von mir vergessen seyn; Ich hab ihn auch vergessen.
+","['Es', 'mußte', 'Godewin', ',', 'der', 'erst', 'mein', 'Herz', 'besessen', ',', 'Von', 'mir', 'vergessen', 'seyn', ';', 'Ich', 'hab', 'ihn', 'auch', 'vergessen', '.']"
+211,432,,estrithe,,,,VH,Emotionale Bewegtheit,20207.0,CATMA_74507CB1-A464-4FFB-BFCF-6F14669FFDE0,13,Emotionale Bewegtheit,Emotionale Bewegtheit,20148.0,Emotionale Bewegtheit,"Godewin!
+O Himmel! soll ich wohl ihn sprechen oder fliehn?
+","['Godewin', '!', 'O', 'Himmel', '!', 'soll', 'ich', 'wohl', 'ihn', 'sprechen', 'oder', 'fliehn', '?']"
+212,437,,godewin,,,,VH,positiv,20836.0,CATMA_676EC1D4-C1B7-4C3B-9761-5E9F571C1D03,11,Emotionen der Zuneigung,positiv,20789.0,Liebe,"Auch Ulfo, da du ihm dein ganzes Herz geweyht,
+","['Auch', 'Ulfo', ',', 'da', 'du', 'ihm', 'dein', 'ganzes', 'Herz', 'geweyht', ',']"
+213,441,,godewin,,,,VH,positiv,22100.0,CATMA_57B588A8-47A8-4033-A866-1C03D87F4E88_1,40,Emotionen der Zuneigung,positiv,21886.0,Verehrung,"Die erste steht noch fest, und nichts hat sie verletzt.
+Mein Ehrgeitz treibt mich nicht aus des Gehorsams Schranken,
+Kein unbiegsamer Stolz bekrönt mich in Gedanken.
+Canut, der meine Treu stets zu erkennen schien,
+","['Die', 'erste', 'steht', 'noch', 'fest', ',', 'und', 'nichts', 'hat', 'sie', 'verletzt', '.', 'Mein', 'Ehrgeitz', 'treibt', 'mich', 'nicht', 'aus', 'des', 'Gehorsams', 'Schranken', ',', 'Kein', 'unbiegsamer', 'Stolz', 'bekrönt', 'mich', 'in', 'Gedanken', '.', 'Canut', ',', 'der', 'meine', 'Treu', 'stets', 'zu', 'erkennen', 'schien', ',']"
+214,443,,godewin,,,,VH,positiv,21838.0,CATMA_7531202E-8907-43B1-AD37-E997EBDF3CD5_1,6,Emotionen der Zuneigung,positiv,21814.0,Liebe,"so wie dir meine Liebe.
+","['so', 'wie', 'dir', 'meine', 'Liebe', '.']"
+215,447,,estrithe,,,,VH,negativ,22813.0,CATMA_15293CE7-8D81-45F4-887D-2088C60D18D4,20,Emotionen der Angst,negativ,22712.0,Angst,"Die Fehler, Godewin, sind nicht stets einerley,
+Und auch durch zaghaft seyn verletzt man seine Treu.
+","['Die', 'Fehler', ',', 'Godewin', ',', 'sind', 'nicht', 'stets', 'einerley', ',', 'Und', 'auch', 'durch', 'zaghaft', 'seyn', 'verletzt', 'man', 'seine', 'Treu', '.']"
+216,468,,godewin,estrithe,,,VH,negativ,25136.0,CATMA_FEAAA56D-DD11-4373-9ABD-71B01B4E9F97,10,Emotionen des Leids,negativ,25084.0,Leid,"Soll ich beschuldigt seyn, und kein Gehör erlangen?
+","['Soll', 'ich', 'beschuldigt', 'seyn', ',', 'und', 'kein', 'Gehör', 'erlangen', '?']"
+217,470,,godewin,estrithe,,,VH,negativ,25330.0,CATMA_8923539C-A2A6-4405-BB8C-F9109CAEA282,10,Emotionen des Leids,negativ,25281.0,Leid,"O Himmel! mußte mir noch diese Schmach geschehn!
+","['O', 'Himmel', '!', 'mußte', 'mir', 'noch', 'diese', 'Schmach', 'geschehn', '!']"
+218,471,,canut,,,,VH,positiv,25772.0,CATMA_AD63EB01-C0DA-48ED-9F37-123D9EFDAB7F,80,Emotionen der Zuneigung,positiv,25389.0,Liebe,"So glaubst du, daß in ihr die Zärtlichkeit sich rühre?
+Daß nicht ihr Unglück bloß sie wieder zu mir führe,
+Daß ihre Wiederkunft nicht bloß erzwungne Reu,
+Sie selbst mir noch geneigt und noch Estrithe sey.
+Ihr Herz war nicht gemacht, den Bruder stets zu hassen;
+Die Tugend konnte sie auf immer nicht verlassen.
+Ein Geist, der denkt und fühlt, der irrt nur kurze Zeit.
+Dieß hofft ich.
+","['So', 'glaubst', 'du', ',', 'daß', 'in', 'ihr', 'die', 'Zärtlichkeit', 'sich', 'rühre', '?', 'Daß', 'nicht', 'ihr', 'Unglück', 'bloß', 'sie', 'wieder', 'zu', 'mir', 'führe', ',', 'Daß', 'ihre', 'Wiederkunft', 'nicht', 'bloß', 'erzwungne', 'Reu', ',', 'Sie', 'selbst', 'mir', 'noch', 'geneigt', 'und', 'noch', 'Estrithe', 'sey', '.', 'Ihr', 'Herz', 'war', 'nicht', 'gemacht', ',', 'den', 'Bruder', 'stets', 'zu', 'hassen', ';', 'Die', 'Tugend', 'konnte', 'sie', 'auf', 'immer', 'nicht', 'verlassen', '.', 'Ein', 'Geist', ',', 'der', 'denkt', 'und', 'fühlt', ',', 'der', 'irrt', 'nur', 'kurze', 'Zeit', '.', 'Dieß', 'hofft', 'ich', '.']"
+219,472,,godewin,,,,VH,positiv,25825.0,CATMA_C8396FC5-72FF-4B25-9937-35F68D2C3AC4,9,Emotionen der Zuneigung,positiv,25783.0,Liebe,"Herr, für dich ist sie voll Zärtlichkeit.
+","['Herr', ',', 'für', 'dich', 'ist', 'sie', 'voll', 'Zärtlichkeit', '.']"
+220,475,godewin,godewin,,,,VH,negativ,26377.0,CATMA_3A80523F-FCD7-44D7-A12F-EF1E7F9FA549,26,Emotionen des Leids,negativ,26267.0,Leid,"Da dich die Großmuth treibt, dein Unrecht ihr zu schenken,
+So ist das meine, Herr, zu klein, daran zu denken.
+","['Da', 'dich', 'die', 'Großmuth', 'treibt', ',', 'dein', 'Unrecht', 'ihr', 'zu', 'schenken', ',', 'So', 'ist', 'das', 'meine', ',', 'Herr', ',', 'zu', 'klein', ',', 'daran', 'zu', 'denken', '.']"
+221,477,,canut,,,,VH,positiv,26665.0,CATMA_8E1C26DE-CD80-411C-A79A-F82E0F8B89DA,26,Emotionen der Zuneigung,positiv,26548.0,Liebe,"Die Liebe, die du rühmst, braucht dich nicht zu beschämen,
+Die geh ich dir nicht erst, nichts konnte dir sie nehmen.
+","['Die', 'Liebe', ',', 'die', 'du', 'rühmst', ',', 'braucht', 'dich', 'nicht', 'zu', 'beschämen', ',', 'Die', 'geh', 'ich', 'dir', 'nicht', 'erst', ',', 'nichts', 'konnte', 'dir', 'sie', 'nehmen', '.']"
+222,478,,estrithe,estrithe,,,VH,negativ,26731.0,CATMA_C44BA2A5-B2D9-4CE5-B29C-2861464D97CC,10,Emotionen der Ablehnung,negativ,26677.0,Ärger,"So sehr dich meine Flucht mit Recht erzürnen kann ...
+","['So', 'sehr', 'dich', 'meine', 'Flucht', 'mit', 'Recht', 'erzürnen', 'kann', '...']"
+223,479,,canut,,,,VH,negativ,26766.0,CATMA_57268DAD-7B8F-4A55-B080-56BCAE336490,6,Emotionen der Ablehnung,negativ,26739.0,Ärger,"Sie hat mich nicht erzürnt,","['Sie', 'hat', 'mich', 'nicht', 'erzürnt', ',']"
+224,480,,canut,,,,VH,negativ,26790.0,CATMA_FBD753BD-BB58-4531-B765-3C50A011BE12,5,Emotionen des Leids,negativ,26767.0,Leid,"sie hat mir wehgethan.
+","['sie', 'hat', 'mir', 'wehgethan', '.']"
+225,484,,canut,,,,VH,negativ,28767.0,CATMA_A7A2C24D-DF42-4C73-B509-0C7CF123079F,39,Emotionen des Leids,negativ,28569.0,Leid,"Es sey genug an dem, was mich bisher gekränkt,
+Daß meiner Schwester Herz sich von mir abgelenkt,
+Und alles mein Bemühn sich fruchtlos enden mußte,
+Weil es mir dein Vertraun nicht zu erwerben wußte.
+","['Es', 'sey', 'genug', 'an', 'dem', ',', 'was', 'mich', 'bisher', 'gekränkt', ',', 'Daß', 'meiner', 'Schwester', 'Herz', 'sich', 'von', 'mir', 'abgelenkt', ',', 'Und', 'alles', 'mein', 'Bemühn', 'sich', 'fruchtlos', 'enden', 'mußte', ',', 'Weil', 'es', 'mir', 'dein', 'Vertraun', 'nicht', 'zu', 'erwerben', 'wußte', '.']"
+226,486,,estrithe,,,,VH,positiv,29277.0,CATMA_C354E1E0-FE47-4CA8-9E2A-1DE7769C533D,6,Emotionen der Zuneigung,positiv,29254.0,Liebe,Er ward mir darum lieb.,"['Er', 'ward', 'mir', 'darum', 'lieb', '.']"
+227,490,,estrithe,,,,VH,positiv,30035.0,CATMA_F1ECEBBC-52EA-41FF-AABC-3BA3D87A0915,22,Emotionen der Zuneigung,positiv,29931.0,Liebe,"Und laß mich nur noch dieß von deiner Huld erlangen,
+Zu glauben, was geschehn, hat Ulfo nicht begangen.
+","['Und', 'laß', 'mich', 'nur', 'noch', 'dieß', 'von', 'deiner', 'Huld', 'erlangen', ',', 'Zu', 'glauben', ',', 'was', 'geschehn', ',', 'hat', 'Ulfo', 'nicht', 'begangen', '.']"
+228,491,,estrithe,canut,,,VH,negativ,30210.0,CATMA_9A09C8CA-72A6-45CB-A5DD-9CC633DF0472,12,Emotionen der Ablehnung,negativ,30158.0,Ärger,"Ach! so ist mir für ihn zu sprechen nicht erlaubet?
+","['Ach', '!', 'so', 'ist', 'mir', 'für', 'ihn', 'zu', 'sprechen', 'nicht', 'erlaubet', '?']"
+229,492,,canut,,,,VH,positiv,30741.0,CATMA_FA38A86A-4CC1-4085-947F-50E26A6566DA,48,Emotionen der Zuneigung,positiv,30525.0,Liebe,"Da du den Ulfo liebst: so hat er nichts gethan.
+Dein Bruder sieht ihn bloß mit deinen Augen an.
+Du weist nicht seine Schuld: ich will daran nicht denken,
+Du nennst ihn mein Geschenk: wohl! ich will dir ihn schenken.
+","['Da', 'du', 'den', 'Ulfo', 'liebst', ':', 'so', 'hat', 'er', 'nichts', 'gethan', '.', 'Dein', 'Bruder', 'sieht', 'ihn', 'bloß', 'mit', 'deinen', 'Augen', 'an', '.', 'Du', 'weist', 'nicht', 'seine', 'Schuld', ':', 'ich', 'will', 'daran', 'nicht', 'denken', ',', 'Du', 'nennst', 'ihn', 'mein', 'Geschenk', ':', 'wohl', '!', 'ich', 'will', 'dir', 'ihn', 'schenken', '.']"
+230,494,,estrithe,,,,VH,negativ,31192.0,CATMA_05DCDF2A-4ACF-4EE1-BB44-383DEAE21235,54,Emotionen der Ablehnung,negativ,30934.0,Ärger,"Verräther, du hast ihn wohl mehr als ich verklaget.
+Ich kenne schon die Art der Menschen ohne Muth,
+Den Schaden thut ihr Mund, den uns ihr Arm nicht thut.
+Sie scheuen die Gefahr, sich Rache zu verschaffen
+Und an des Schwerdtes statt, sind Reden ihre Waffen.
+","['Verräther', ',', 'du', 'hast', 'ihn', 'wohl', 'mehr', 'als', 'ich', 'verklaget', '.', 'Ich', 'kenne', 'schon', 'die', 'Art', 'der', 'Menschen', 'ohne', 'Muth', ',', 'Den', 'Schaden', 'thut', 'ihr', 'Mund', ',', 'den', 'uns', 'ihr', 'Arm', 'nicht', 'thut', '.', 'Sie', 'scheuen', 'die', 'Gefahr', ',', 'sich', 'Rache', 'zu', 'verschaffen', 'Und', 'an', 'des', 'Schwerdtes', 'statt', ',', 'sind', 'Reden', 'ihre', 'Waffen', '.']"
+231,498,,godewin,estrithe,,,VH,positiv,33309.0,CATMA_9E7AD18D-097D-4970-80F3-75F39E6B074B,12,Emotionen der Zuneigung,positiv,33255.0,Liebe,"Wahr ists, ich wünschte mir noch itzt des Ulfo Glück.
+","['Wahr', 'ists', ',', 'ich', 'wünschte', 'mir', 'noch', 'itzt', 'des', 'Ulfo', 'Glück', '.']"
+232,504,godewin,godewin,,,,VH,negativ,36347.0,CATMA_B103A94A-DE9C-4A06-B944-D32F16238B56,23,Emotionen der Ablehnung,negativ,36236.0,Ärger,"Wenn diese Schmähungen dich selbst nicht treffen sollen,
+So komm, so weißt du schon, wie wir sie enden wollen.
+","['Wenn', 'diese', 'Schmähungen', 'dich', 'selbst', 'nicht', 'treffen', 'sollen', ',', 'So', 'komm', ',', 'so', 'weißt', 'du', 'schon', ',', 'wie', 'wir', 'sie', 'enden', 'wollen', '.']"
+233,509,,ulfo,,,,VH,negativ,36881.0,CATMA_AF3CFFF0-FA49-4D52-B61C-9D3649A23B4E,10,Emotionen der Ablehnung,negativ,36835.0,Abscheu,"Doch ieder höret mich mit Haß und Schauer an.
+","['Doch', 'ieder', 'höret', 'mich', 'mit', 'Haß', 'und', 'Schauer', 'an', '.']"
+234,511,,ulfo,,,,VH,negativ,38977.0,CATMA_7D227A77-AC22-410F-BA97-D885C0DEB241,34,Emotionen der Ablehnung,negativ,38821.0,Abscheu,"Ich seh schon, daß dein Geist nie edle Thaten wagt.
+Ich nannte dich mit Recht, feig, sklavisch und verzagt.
+Begehrest du Beweis, nimm ihn von meinem Degen.
+","['Ich', 'seh', 'schon', ',', 'daß', 'dein', 'Geist', 'nie', 'edle', 'Thaten', 'wagt', '.', 'Ich', 'nannte', 'dich', 'mit', 'Recht', ',', 'feig', ',', 'sklavisch', 'und', 'verzagt', '.', 'Begehrest', 'du', 'Beweis', ',', 'nimm', 'ihn', 'von', 'meinem', 'Degen', '.']"
+235,514,,estrithe,,,,VH,negativ,39237.0,CATMA_A35D24EB-CBAF-4D9E-9AD9-A8127420341D,8,Emotionen der Angst,negativ,39206.0,Angst,"Nein! itzt mußt du mich hören.
+","['Nein', '!', 'itzt', 'mußt', 'du', 'mich', 'hören', '.']"
+236,515,,ulfo,estrithe,,,VH,negativ,39299.0,CATMA_7A24B389-95BE-4E2F-88E2-4C45DC36302F,12,Emotionen der Ablehnung,negativ,39244.0,Ärger,"Man ruffet mich zum Kampf, und ich soll mich entehren?
+","['Man', 'ruffet', 'mich', 'zum', 'Kampf', ',', 'und', 'ich', 'soll', 'mich', 'entehren', '?']"
+237,523,,estrithe,,,,VH,negativ,41678.0,CATMA_7895BDB0-D6D5-4A83-AF22-489E6EC62733,18,Emotionen der Angst,negativ,41599.0,Angst,"Und sein Befehl zu thun, was du von mir begehret,
+Die Schrift von seiner Hand?
+","['Und', 'sein', 'Befehl', 'zu', 'thun', ',', 'was', 'du', 'von', 'mir', 'begehret', ',', 'Die', 'Schrift', 'von', 'seiner', 'Hand', '?']"
+238,526,,ulfo,,,,VH,positiv,42147.0,CATMA_A079294E-3D76-47AF-A356-DB9026D1E8B9,13,Emotionen der Zuneigung,positiv,42091.0,Liebe,"Und kurz, ich liebte dich, drum mußt ich dich besitzen.
+","['Und', 'kurz', ',', 'ich', 'liebte', 'dich', ',', 'drum', 'mußt', 'ich', 'dich', 'besitzen', '.']"
+239,537,,estrithe,,,,VH,positiv,44300.0,CATMA_F1D211FD-E40E-444B-BADC-0A7537B5EB7A,31,Emotionen der Zuneigung,positiv,44158.0,Verehrung,"Ich eile, Grausamer, und bitte den Canut
+Um Hülfe für euch selbst und wider eure Wut.
+Ich weiß, er ist gerecht und wird die Mordgier dämpfen.
+","['Ich', 'eile', ',', 'Grausamer', ',', 'und', 'bitte', 'den', 'Canut', 'Um', 'Hülfe', 'für', 'euch', 'selbst', 'und', 'wider', 'eure', 'Wut', '.', 'Ich', 'weiß', ',', 'er', 'ist', 'gerecht', 'und', 'wird', 'die', 'Mordgier', 'dämpfen', '.']"
+240,538,,estrithe,,,,VH,negativ,44737.0,CATMA_BE61B3FA-C5F1-440F-AD64-9916C473E357,57,Emotionen des Leids,negativ,44428.0,Leid,"Vielleicht eilt ihre Brust den Schwerdtern schon entgegen.
+Es rauchen schon vielleicht die blutbespritzte Degen,
+Und wenn ihr Arm erfüllt, was ihre Wut gedroht,
+Ist dieser Augenblick vielleicht des einen Tod.
+Mit Bitten hab ich kaum, eh sie den Streit begonnen,
+Ein Wort voll Ungeduld vom Ulfo noch gewonnen.
+","['Vielleicht', 'eilt', 'ihre', 'Brust', 'den', 'Schwerdtern', 'schon', 'entgegen', '.', 'Es', 'rauchen', 'schon', 'vielleicht', 'die', 'blutbespritzte', 'Degen', ',', 'Und', 'wenn', 'ihr', 'Arm', 'erfüllt', ',', 'was', 'ihre', 'Wut', 'gedroht', ',', 'Ist', 'dieser', 'Augenblick', 'vielleicht', 'des', 'einen', 'Tod', '.', 'Mit', 'Bitten', 'hab', 'ich', 'kaum', ',', 'eh', 'sie', 'den', 'Streit', 'begonnen', ',', 'Ein', 'Wort', 'voll', 'Ungeduld', 'vom', 'Ulfo', 'noch', 'gewonnen', '.']"
+241,541,,estrithe,,,,VH,negativ,46221.0,CATMA_2840B8A1-F40B-45B5-AD9A-D7B00B2DC235_1,19,Emotionen der Ablehnung,negativ,46119.0,Abscheu,"Doch dieses schimpfliche, dieß ungerechte Wüten,
+Dieß macht Entsetzen, Herr, dieß eile zu verbiethen.
+","['Doch', 'dieses', 'schimpfliche', ',', 'dieß', 'ungerechte', 'Wüten', ',', 'Dieß', 'macht', 'Entsetzen', ',', 'Herr', ',', 'dieß', 'eile', 'zu', 'verbiethen', '.']"
+242,542,,estrithe,ulfo,,positiv,VH,negativ,46068.0,CATMA_CFE0DC96-6FB0-4122-AFBC-B454145508AE,9,Emotionen des Leids,positiv,46018.0,Leid,"Dann will ich seinem Tod zufriedne Thränen weyhn.
+","['Dann', 'will', 'ich', 'seinem', 'Tod', 'zufriedne', 'Thränen', 'weyhn', '.']"
+243,543,,canut,,,,VH,negativ,47045.0,CATMA_200B934C-B0E7-473F-9D1E-FADD2D7BA3EA,60,Emotionen der Ablehnung,negativ,46731.0,Abscheu,"Den soll mein ganzes Reich aus seinen Gränzen jagen,
+Die Erde soll ihn nur zu andrer Abscheu tragen,
+Und an der Ehre statt, die er durch Unrecht sucht,
+Sey er für nichts geschätzt, beschimpfet und verflucht.
+Wer sein zanksüchtig Schwerdt aus falschem Heldenmuthe
+Mit anderm Blute färbt, als mit des Feindes Blute.
+","['Den', 'soll', 'mein', 'ganzes', 'Reich', 'aus', 'seinen', 'Gränzen', 'jagen', ',', 'Die', 'Erde', 'soll', 'ihn', 'nur', 'zu', 'andrer', 'Abscheu', 'tragen', ',', 'Und', 'an', 'der', 'Ehre', 'statt', ',', 'die', 'er', 'durch', 'Unrecht', 'sucht', ',', 'Sey', 'er', 'für', 'nichts', 'geschätzt', ',', 'beschimpfet', 'und', 'verflucht', '.', 'Wer', 'sein', 'zanksüchtig', 'Schwerdt', 'aus', 'falschem', 'Heldenmuthe', 'Mit', 'anderm', 'Blute', 'färbt', ',', 'als', 'mit', 'des', 'Feindes', 'Blute', '.']"
+244,551,,estrithe,,,,VH,negativ,48678.0,CATMA_8A5D91C8-2F36-42F1-B79F-08AB5B9A6126,50,Emotionen des Leids,negativ,48469.0,Leid,"Ach! leider! weiß ich wohl, was ich verhindern wollte,
+Was ich nicht sagen kann, und ach! doch sagen sollte.
+Ach! soll ich Klägerin bey seinem Frevel seyn?
+Doch er betrifft ja dich. Ach! soll ich reden? Nein!
+","['Ach', '!', 'leider', '!', 'weiß', 'ich', 'wohl', ',', 'was', 'ich', 'verhindern', 'wollte', ',', 'Was', 'ich', 'nicht', 'sagen', 'kann', ',', 'und', 'ach', '!', 'doch', 'sagen', 'sollte', '.', 'Ach', '!', 'soll', 'ich', 'Klägerin', 'bey', 'seinem', 'Frevel', 'seyn', '?', 'Doch', 'er', 'betrifft', 'ja', 'dich', '.', 'Ach', '!', 'soll', 'ich', 'reden', '?', 'Nein', '!']"
+245,555,,estrithe,,,,VH,negativ,50145.0,CATMA_B7C210A6-1CBA-4AEE-9D63-693A49EEDD3E,59,Emotionen der Ablehnung,negativ,49848.0,Abscheu,"Und sein vergebliches, sein thörichtes Bemühn,
+Ist nur zu deinem Ruhm und seiner Schande kühn.
+Er suche, wen er kann, zum Aufruhr zu entzünden;
+Nennt er sich deinen Feind, wo wird er Freunde finden?
+Sein Haß wird gegen dich ohnmächtig und allein
+Verabscheut von der Welt und dir verächtlich seyn.
+","['Und', 'sein', 'vergebliches', ',', 'sein', 'thörichtes', 'Bemühn', ',', 'Ist', 'nur', 'zu', 'deinem', 'Ruhm', 'und', 'seiner', 'Schande', 'kühn', '.', 'Er', 'suche', ',', 'wen', 'er', 'kann', ',', 'zum', 'Aufruhr', 'zu', 'entzünden', ';', 'Nennt', 'er', 'sich', 'deinen', 'Feind', ',', 'wo', 'wird', 'er', 'Freunde', 'finden', '?', 'Sein', 'Haß', 'wird', 'gegen', 'dich', 'ohnmächtig', 'und', 'allein', 'Verabscheut', 'von', 'der', 'Welt', 'und', 'dir', 'verächtlich', 'seyn', '.']"
+246,556,,estrithe,,,,VH,positiv,50340.0,CATMA_C2E161A5-068A-413F-B6E5-0E39EFC1A6FC,29,Emotionen der Zuneigung,positiv,50193.0,Verehrung,"Und statt ihm beyzustehn noch deinen Zepter preiset;
+Wenn er aus deiner Huld und deines Volkes Treu,
+Gezwungen sehen muß, wie groß sein König sey:
+","['Und', 'statt', 'ihm', 'beyzustehn', 'noch', 'deinen', 'Zepter', 'preiset', ';', 'Wenn', 'er', 'aus', 'deiner', 'Huld', 'und', 'deines', 'Volkes', 'Treu', ',', 'Gezwungen', 'sehen', 'muß', ',', 'wie', 'groß', 'sein', 'König', 'sey', ':']"
+247,566,,canut,,,,VH,positiv,51823.0,CATMA_C21A492A-1349-40BC-9B90-D37743931A33,42,Emotionen der Zuneigung,positiv,51608.0,Freundschaft,"So muß ich, dich als Freund versöhnet zu umfassen,
+Dir selbst entgegen gehn und erst dich ruffen lassen?
+Du brauchst nicht mein Gesicht zu meiden noch zu scheun.
+Mein Herz ist stets gewohnt, aufrichtig zu verzeyhn.
+","['So', 'muß', 'ich', ',', 'dich', 'als', 'Freund', 'versöhnet', 'zu', 'umfassen', ',', 'Dir', 'selbst', 'entgegen', 'gehn', 'und', 'erst', 'dich', 'ruffen', 'lassen', '?', 'Du', 'brauchst', 'nicht', 'mein', 'Gesicht', 'zu', 'meiden', 'noch', 'zu', 'scheun', '.', 'Mein', 'Herz', 'ist', 'stets', 'gewohnt', ',', 'aufrichtig', 'zu', 'verzeyhn', '.']"
+248,567,,canut,,,,VH,negativ,51926.0,CATMA_870E0083-AB91-4681-9CFA-36BC7E815260,19,Emotionen der Ablehnung,negativ,51823.0,Ärger,"Vom abgelegten Zorn bleibt mir kein Ernst im Blicke,
+Im Herzen kein Verdruß und kein Verdacht zurücke.
+","['Vom', 'abgelegten', 'Zorn', 'bleibt', 'mir', 'kein', 'Ernst', 'im', 'Blicke', ',', 'Im', 'Herzen', 'kein', 'Verdruß', 'und', 'kein', 'Verdacht', 'zurücke', '.']"
+249,568,,canut,,,,VH,positiv,52132.0,CATMA_C0A70F18-3D0F-4F21-8297-6C21634400EF,39,Emotionen der Zuneigung,positiv,51926.0,Freundschaft,"Wer die verletzte Treu mir ernstlich wiedergiebt,
+Und wer sie niemals brach, sind beyde gleich geliebt,
+Und keiner, der mich sucht, ist meines Blicks beraubet,
+Wem sein Gewissen nur mich anzusehn erlaubet.
+","['Wer', 'die', 'verletzte', 'Treu', 'mir', 'ernstlich', 'wiedergiebt', ',', 'Und', 'wer', 'sie', 'niemals', 'brach', ',', 'sind', 'beyde', 'gleich', 'geliebt', ',', 'Und', 'keiner', ',', 'der', 'mich', 'sucht', ',', 'ist', 'meines', 'Blicks', 'beraubet', ',', 'Wem', 'sein', 'Gewissen', 'nur', 'mich', 'anzusehn', 'erlaubet', '.']"
+250,569,,canut,,,,VH,positiv,52188.0,CATMA_42FA3BB3-2355-4BFD-A2B3-A9FD0D7B5D37,11,Emotionen der Freude,positiv,52132.0,Freude,"Du weißt, wie gern mein Blick vergnügte Menschen sieht,
+","['Du', 'weißt', ',', 'wie', 'gern', 'mein', 'Blick', 'vergnügte', 'Menschen', 'sieht', ',']"
+251,570,,canut,,,,VH,positiv,52289.0,CATMA_4CE4187D-CF5A-4E18-B095-1C85929158BD,12,Emotionen der Zuneigung,positiv,52237.0,Liebe,"Und du, der mich noch mehr als andre lieben sollte,
+","['Und', 'du', ',', 'der', 'mich', 'noch', 'mehr', 'als', 'andre', 'lieben', 'sollte', ',']"
+252,571,,canut,,,,VH,negativ,53493.0,CATMA_AD6FE25F-41B2-482F-8232-001A0AAF7092,10,Emotionen des Leids,negativ,53444.0,Leid,"Du leidest, daß dieß Blut so ungehindert fließt?
+","['Du', 'leidest', ',', 'daß', 'dieß', 'Blut', 'so', 'ungehindert', 'fließt', '?']"
+253,573,,canut,,,,VH,positiv,54660.0,CATMA_C0673FD2-A1FA-481E-AE24-A6DE5C4CCD10,6,Emotionen der Freude,positiv,54629.0,Freude,"das kann dich nicht vergnügen.
+","['das', 'kann', 'dich', 'nicht', 'vergnügen', '.']"
+254,574,,canut,,,,VH,negativ,55052.0,CATMA_A473A2D6-EBC6-4950-8983-042A5E12AE17,32,Emotionen der Ablehnung,negativ,54884.0,Ärger,"Der muntre Gottschalk, will des Vaters Mörder strafen,
+Den Harnisch, den er itzt zum erstenmale trägt,
+Hat er voll Rachbegier mit Drohen angelegt.
+Um dem gerechten Zorn","['Der', 'muntre', 'Gottschalk', ',', 'will', 'des', 'Vaters', 'Mörder', 'strafen', ',', 'Den', 'Harnisch', ',', 'den', 'er', 'itzt', 'zum', 'erstenmale', 'trägt', ',', 'Hat', 'er', 'voll', 'Rachbegier', 'mit', 'Drohen', 'angelegt', '.', 'Um', 'dem', 'gerechten', 'Zorn']"
+255,575,,canut,,,,VH,positiv,56451.0,CATMA_079F116C-68F8-4563-8122-1D7F7022B01E,9,Emotionen der Freude,positiv,56401.0,Freude,"Sprich ob dich diese Wahl zufrieden stellen wird.
+","['Sprich', 'ob', 'dich', 'diese', 'Wahl', 'zufrieden', 'stellen', 'wird', '.']"
+256,576,,ulfo,,,,VH,positiv,56609.0,CATMA_59015C40-AEA0-4727-8255-C47BE2D33F02,33,Emotionen der Freude,positiv,56459.0,Freude,"In dieser Wahl, Canut, hast du dich nicht geirrt.
+Gieb mir nur dieses Heer; auch ohne dein Ermahnen
+Will ich mir schon damit den Weg zur Ehre bahnen.
+","['In', 'dieser', 'Wahl', ',', 'Canut', ',', 'hast', 'du', 'dich', 'nicht', 'geirrt', '.', 'Gieb', 'mir', 'nur', 'dieses', 'Heer', ';', 'auch', 'ohne', 'dein', 'Ermahnen', 'Will', 'ich', 'mir', 'schon', 'damit', 'den', 'Weg', 'zur', 'Ehre', 'bahnen', '.']"
+257,577,,canut,,,,VH,positiv,56724.0,CATMA_BA60DB5F-F0E4-4F35-AF89-E596BA6D122D,13,Emotionen der Zuneigung,positiv,56668.0,Freundschaft,"Nicht anders, als versöhnt, laß ich dich von mir ziehn.
+","['Nicht', 'anders', ',', 'als', 'versöhnt', ',', 'laß', 'ich', 'dich', 'von', 'mir', 'ziehn', '.']"
+258,584,,canut,,Zustand,,VH,negativ,57313.0,CATMA_4E2A8C6B-4991-4B82-8925-B5FD5FAF8E66,4,Emotionen des Leids,negativ,57287.0,Leid,"meiner Schwester Thränen.
+","['meiner', 'Schwester', 'Thränen', '.']"
+259,587,,canut,godewin,,,VH,negativ,58195.0,CATMA_91491F78-A071-4DD6-9870-ECDB72349014,35,Emotionen der Ablehnung,negativ,58030.0,Ärger,"Hier stecke dir ein Ziel, die Feindschaft zu verlassen.
+Wer nicht beleidigt ist, der hat kein Recht zu hassen.
+Dem andern Unrecht thun, und noch sein Feind zu seyn,
+","['Hier', 'stecke', 'dir', 'ein', 'Ziel', ',', 'die', 'Feindschaft', 'zu', 'verlassen', '.', 'Wer', 'nicht', 'beleidigt', 'ist', ',', 'der', 'hat', 'kein', 'Recht', 'zu', 'hassen', '.', 'Dem', 'andern', 'Unrecht', 'thun', ',', 'und', 'noch', 'sein', 'Feind', 'zu', 'seyn', ',']"
+260,588,,ulfo,,,,VH,positiv,58354.0,CATMA_B82FAC0F-8905-4016-A76B-19D60D8ACA58,21,Emotionen der Zuneigung,positiv,58251.0,Freundschaft,"Der ist nicht mehr mein Feind, den ich schon überwunden.
+Daß ich versöhnet sey, hat Godewin empfunden.
+","['Der', 'ist', 'nicht', 'mehr', 'mein', 'Feind', ',', 'den', 'ich', 'schon', 'überwunden', '.', 'Daß', 'ich', 'versöhnet', 'sey', ',', 'hat', 'Godewin', 'empfunden', '.']"
+261,591,,canut,,,,VH,positiv,59354.0,CATMA_ABD4B747-7433-48C3-994F-3BDF249F3281,12,Emotionen der Freude,positiv,59297.0,Freude,"Kommt! laßt uns dieß zum Trost auch nun Estrithen sagen.
+","['Kommt', '!', 'laßt', 'uns', 'dieß', 'zum', 'Trost', 'auch', 'nun', 'Estrithen', 'sagen', '.']"
+262,592,ulfo,ulfo,,,,VH,positiv,59636.0,CATMA_0EDA114F-4DC6-40F6-8657-01139FA89CA3,43,Emotionen der Freude,positiv,59436.0,Freude,"O Ehre! wer nur dich einmal geschmecket hat,
+Wird stets von dir gereitzt und niemals von dir satt.
+Ein Sieg ist nicht genug, um Helden zu vergnügen.
+Sie sammlen Sieg zu Sieg und wählen in den Siegen.
+","['O', 'Ehre', '!', 'wer', 'nur', 'dich', 'einmal', 'geschmecket', 'hat', ',', 'Wird', 'stets', 'von', 'dir', 'gereitzt', 'und', 'niemals', 'von', 'dir', 'satt', '.', 'Ein', 'Sieg', 'ist', 'nicht', 'genug', ',', 'um', 'Helden', 'zu', 'vergnügen', '.', 'Sie', 'sammlen', 'Sieg', 'zu', 'Sieg', 'und', 'wählen', 'in', 'den', 'Siegen', '.']"
+263,595,,estrithe,,,,VH,positiv,60425.0,CATMA_4F9F4A05-9332-4160-BEDD-3FA84FEE5661,13,Emotionen der Freude,positiv,60368.0,Freude,"Und ihm, vergnügt zu seyn, nur noch sein Aufbruch fehlt:
+","['Und', 'ihm', ',', 'vergnügt', 'zu', 'seyn', ',', 'nur', 'noch', 'sein', 'Aufbruch', 'fehlt', ':']"
+264,596,estrithe,estrithe,,,,VH,negativ,61800.0,CATMA_1D08AD85-96AD-40AB-9308-A3CD9EDCEB20,45,Emotionen der Ablehnung,negativ,61578.0,Ärger,"Was ist das für ein Trieb, der dich zum Kläger macht?
+Wer bloß aus Eifer warnt, stützt sich nicht auf Verdacht,
+Du willst vom künftigen aus dem vergangnen sprechen:
+Sprich, wenn du sprechen willst, von itzigen Verbrechen.
+","['Was', 'ist', 'das', 'für', 'ein', 'Trieb', ',', 'der', 'dich', 'zum', 'Kläger', 'macht', '?', 'Wer', 'bloß', 'aus', 'Eifer', 'warnt', ',', 'stützt', 'sich', 'nicht', 'auf', 'Verdacht', ',', 'Du', 'willst', 'vom', 'künftigen', 'aus', 'dem', 'vergangnen', 'sprechen', ':', 'Sprich', ',', 'wenn', 'du', 'sprechen', 'willst', ',', 'von', 'itzigen', 'Verbrechen', '.']"
+265,600,,estrithe,,,,VH,positiv,62711.0,CATMA_4B09F011-3BE8-4EF8-B303-2C287B442244,20,Emotionen der Zuneigung,positiv,62614.0,Freundschaft,"Sein Herz, das dem Canut nur zu gefallen denkt,
+Hat ihm auch seinen Zwist mit Godewin geschenkt.
+","['Sein', 'Herz', ',', 'das', 'dem', 'Canut', 'nur', 'zu', 'gefallen', 'denkt', ',', 'Hat', 'ihm', 'auch', 'seinen', 'Zwist', 'mit', 'Godewin', 'geschenkt', '.']"
+266,613,,ulfo,,,,VH,positiv,64981.0,CATMA_D580646A-B80B-45ED-860D-73010D028601,11,Emotionen der Zuneigung,positiv,64925.0,Liebe,"Sprich, wirst du mich auch noch abwesend lieben können?
+","['Sprich', ',', 'wirst', 'du', 'mich', 'auch', 'noch', 'abwesend', 'lieben', 'können', '?']"
+267,618,,estrithe,,,,VH,positiv,65714.0,CATMA_97BA5F04-766B-4972-B73F-7D07A3A61950_1,32,Emotionen der Freude,positiv,65575.0,Freude," mich mit dir zu vergnügen.
+Wie werd ich mich erfreun, wenn du, von Muth erhitzt,
+Den Arm, so würdig brauchst, der so viel Krafft besitzt,
+","['mich', 'mit', 'dir', 'zu', 'vergnügen', '.', 'Wie', 'werd', 'ich', 'mich', 'erfreun', ',', 'wenn', 'du', ',', 'von', 'Muth', 'erhitzt', ',', 'Den', 'Arm', ',', 'so', 'würdig', 'brauchst', ',', 'der', 'so', 'viel', 'Krafft', 'besitzt', ',']"
+268,619,,estrithe,,,,VH,positiv,65847.0,CATMA_97BA5F04-766B-4972-B73F-7D07A3A61950_2,6,Emotionen der Freude,positiv,65821.0,Freude,"Wie werd ich mich erfreun,","['Wie', 'werd', 'ich', 'mich', 'erfreun', ',']"
+269,620,,estrithe,,,,VH,positiv,66154.0,CATMA_97BA5F04-766B-4972-B73F-7D07A3A61950_3,19,Emotionen der Freude,positiv,66049.0,Freude,"Und wenn ich ihm entzückt die Bürgschaft leisten kann,
+Es sey sein größter Held sein treuster Unterthan!
+","['Und', 'wenn', 'ich', 'ihm', 'entzückt', 'die', 'Bürgschaft', 'leisten', 'kann', ',', 'Es', 'sey', 'sein', 'größter', 'Held', 'sein', 'treuster', 'Unterthan', '!']"
+270,623,,estrithe,,,,VH,positiv,66685.0,CATMA_26BFECF8-1416-4AB4-8A61-0259C54D3D38,22,Emotionen der Zuneigung,positiv,66582.0,Liebe,"Doch weil du es begehrst, erfüll ich dein Begehren.
+Ich suche nichts so sehr, als deinen Ruhm zu mehren","['Doch', 'weil', 'du', 'es', 'begehrst', ',', 'erfüll', 'ich', 'dein', 'Begehren', '.', 'Ich', 'suche', 'nichts', 'so', 'sehr', ',', 'als', 'deinen', 'Ruhm', 'zu', 'mehren']"
+271,624,,godschalk,,,,VH,negativ,67453.0,CATMA_4EEF3CAA-E115-4567-BC72-2D4FEA0E08C7,8,Emotionen der Ablehnung,negativ,67405.0,Ärger,"Ihr Murmeln hat darauf mein Mistraun angeklagt,
+","['Ihr', 'Murmeln', 'hat', 'darauf', 'mein', 'Mistraun', 'angeklagt', ',']"
+272,625,,ulfo,,,,VH,negativ,68523.0,CATMA_B8407EDA-A51E-416A-853F-445BBADBFD14,10,Emotionen der Angst,negativ,68471.0,Angst,"Das keine steile Höh, kein tiefer Abgrund schreckt,
+","['Das', 'keine', 'steile', 'Höh', ',', 'kein', 'tiefer', 'Abgrund', 'schreckt', ',']"
+273,629,ulfo,ulfo,,,,VH,negativ,71033.0,CATMA_D5DFB786-4E34-491A-A653-84BD76C9473F,45,Emotionen der Ablehnung,negativ,70815.0,Ärger,"Wie? scheint dir der Entschluß, den solch ein Werk begehrt,
+Die Klugheit, die Gefahr nicht edler Seelen werth?
+Ist dir es denn so klein, ein ganzes Reich erbeuten,
+Mit einer Hand voll Volks so manches Heer bestreiten?
+","['Wie', '?', 'scheint', 'dir', 'der', 'Entschluß', ',', 'den', 'solch', 'ein', 'Werk', 'begehrt', ',', 'Die', 'Klugheit', ',', 'die', 'Gefahr', 'nicht', 'edler', 'Seelen', 'werth', '?', 'Ist', 'dir', 'es', 'denn', 'so', 'klein', ',', 'ein', 'ganzes', 'Reich', 'erbeuten', ',', 'Mit', 'einer', 'Hand', 'voll', 'Volks', 'so', 'manches', 'Heer', 'bestreiten', '?']"
+274,631,,ulfo,,,,VH,negativ,71709.0,CATMA_61E27AB1-3690-4741-9E35-17BD7C7761AF,5,Emotionen der Angst,negativ,71681.0,Angst,Hier kann man furchtsam seyn,"['Hier', 'kann', 'man', 'furchtsam', 'seyn']"
+275,632,,ulfo,,,,VH,positiv,72180.0,CATMA_21494ACB-9E9F-4040-8E26-7AF42EFD7F88_0,7,Emotionen der Freude,positiv,72154.0,Freude,"Herr, heute brech ich auf.","['Herr', ',', 'heute', 'brech', 'ich', 'auf', '.']"
+276,635,,canut,,,,VH,negativ,73201.0,CATMA_DF148541-F4F0-4C92-875A-D32741A164FD,22,Emotionen der Ablehnung,negativ,73093.0,Ärger,"Du würdest, wollt ich sie statt deiner siegen lehren,
+Als raubt ich deinen Ruhm, dich über mich beschweren.
+","['Du', 'würdest', ',', 'wollt', 'ich', 'sie', 'statt', 'deiner', 'siegen', 'lehren', ',', 'Als', 'raubt', 'ich', 'deinen', 'Ruhm', ',', 'dich', 'über', 'mich', 'beschweren', '.']"
+277,636,,ulfo,ulfo,,,VH,positiv,73290.0,CATMA_E21B8A20-123C-43F5-9B60-75AF0A648C66_0,5,Emotionen der Zuneigung,positiv,73265.0,Liebe,Wer macht es von Vertraun,"['Wer', 'macht', 'es', 'von', 'Vertraun']"
+278,637,,ulfo,ulfo,,,VH,positiv,73316.0,CATMA_E21B8A20-123C-43F5-9B60-75AF0A648C66_1,3,Emotionen der Zuneigung,positiv,73303.0,Liebe,und Liebe vol,"['und', 'Liebe', 'vol']"
+279,638,,ulfo,ulfo,,,VH,negativ,73281.0,CATMA_62F9692B-DB5E-43C5-A1F5-5E6D58F163C6_0,4,Emotionen der Angst,negativ,73265.0,Angst,Wer macht es von,"['Wer', 'macht', 'es', 'von']"
+280,639,,ulfo,ulfo,,,VH,negativ,73302.0,CATMA_62F9692B-DB5E-43C5-A1F5-5E6D58F163C6_1,1,Emotionen der Angst,negativ,73296.0,Angst,Furcht,['Furcht']
+281,640,,ulfo,ulfo,,,VH,negativ,73317.0,CATMA_62F9692B-DB5E-43C5-A1F5-5E6D58F163C6_2,1,Emotionen der Angst,negativ,73313.0,Angst,voll,['voll']
+282,641,,ulfo,,,,VH,negativ,73614.0,CATMA_285CD066-0E8B-4642-8A6B-41EF9530D6F5,4,Emotionen der Angst,negativ,73591.0,Angst,Ich kenne keine Furcht ,"['Ich', 'kenne', 'keine', 'Furcht']"
+283,642,,canut,,,,VH,positiv,73901.0,CATMA_189D13C0-263D-4B47-8B88-3414FEF3E9BF,12,Emotionen der Zuneigung,positiv,73847.0,Verehrung,"So komm denn, wird mein Lob von dir so hochgeschätzt,
+","['So', 'komm', 'denn', ',', 'wird', 'mein', 'Lob', 'von', 'dir', 'so', 'hochgeschätzt', ',']"
+284,644,,godschalk,,,,VH,negativ,74138.0,CATMA_E0D76DD9-F48E-47C8-AD56-222755A25695,16,Emotionen der Angst,negativ,74080.0,Angst,"O! Himmel! Herr, wohin? ... Nein! dieß gestatt ich nicht.
+","['O', '!', 'Himmel', '!', 'Herr', ',', 'wohin', '?', '...', 'Nein', '!', 'dieß', 'gestatt', 'ich', 'nicht', '.']"
+285,657,godewin,godewin,ulfo,,,VH,negativ,75970.0,CATMA_8E494512-69C4-4B0B-B27E-DC4FBD455044,3,Emotionen des Leids,negativ,75960.0,Mitleid,"Halt ein!
+","['Halt', 'ein', '!']"
+286,658,,ulfo,,,,VH,negativ,76043.0,CATMA_D052DBE6-EB40-4548-9F83-4F6F1AF7FF4B,14,Emotionen der Ablehnung,negativ,75977.0,Ärger,"Wie? Godewin,
+So schimpflich nahm ich dir den Degen nicht vorhin.
+","['Wie', '?', 'Godewin', ',', 'So', 'schimpflich', 'nahm', 'ich', 'dir', 'den', 'Degen', 'nicht', 'vorhin', '.']"
+287,659,,ulfo,,,,VH,negativ,76258.0,CATMA_6C54DD2F-0B21-4A3A-89D3-157C47AE4CC0,10,Emotionen der Angst,negativ,76204.0,Angst,"Sonst furchtet ihr mich mehr dort bey dem Helgafluß.
+
+","['Sonst', 'furchtet', 'ihr', 'mich', 'mehr', 'dort', 'bey', 'dem', 'Helgafluß', '.']"
+288,661,godewin,godewin,ulfo,,,VH,negativ,76508.0,CATMA_F9AA7922-7758-4487-9576-7796248E87EA,12,Emotionen des Leids,negativ,76455.0,Mitleid,"Er ist der Strafe werth, doch du kannst ja verzeyhn.
+","['Er', 'ist', 'der', 'Strafe', 'werth', ',', 'doch', 'du', 'kannst', 'ja', 'verzeyhn', '.']"
+289,662,,canut,,,,VH,negativ,76571.0,CATMA_82A7EA56-2E3F-4B5F-8248-5B77F9C6ABDB,11,Emotionen des Leids,negativ,76516.0,Leid,"Die Strenge schmerzet mich: die Huld wird mich gereun.
+","['Die', 'Strenge', 'schmerzet', 'mich', ':', 'die', 'Huld', 'wird', 'mich', 'gereun', '.']"
+290,664,godewin,godewin,,,,VH,negativ,77070.0,CATMA_80166B64-B6CB-4D4E-B67D-DCEC53C2F4E7,10,Emotionen des Leids,negativ,77018.0,Mitleid,"Herr, denke du bestrafst in ihm zugleich Estrithen.
+","['Herr', ',', 'denke', 'du', 'bestrafst', 'in', 'ihm', 'zugleich', 'Estrithen', '.']"
+291,667,,godewin,,,,VH,negativ,77947.0,CATMA_F2AE2E30-D7EE-4E92-9D17-1F4EC9B6D232,36,Emotionen des Leids,negativ,77780.0,Leid,"Ich weiß, sein eignes Herz zeigt ihm schon sein Verbrechen?
+Ihn rührt des Königs Huld und daß er dich betrübt,
+Und meynst du, daß ein Held nicht auch das Leben liebt?
+","['Ich', 'weiß', ',', 'sein', 'eignes', 'Herz', 'zeigt', 'ihm', 'schon', 'sein', 'Verbrechen', '?', 'Ihn', 'rührt', 'des', 'Königs', 'Huld', 'und', 'daß', 'er', 'dich', 'betrübt', ',', 'Und', 'meynst', 'du', ',', 'daß', 'ein', 'Held', 'nicht', 'auch', 'das', 'Leben', 'liebt', '?']"
+292,673,estrithe,estrithe,ulfo,,,VH,negativ,81167.0,CATMA_62B41CC9-2385-4655-81E4-1B91E818AA1D,11,Emotionen des Leids,negativ,81109.0,Leid,"O Himmel! welcher Stolz blickt noch aus seinen Schritten.
+","['O', 'Himmel', '!', 'welcher', 'Stolz', 'blickt', 'noch', 'aus', 'seinen', 'Schritten', '.']"
+293,675,,godewin,,,,VH,negativ,81431.0,CATMA_8F98806F-DA7E-4AAC-868C-44BCB02FD3C1,18,Emotionen des Leids,negativ,81347.0,Mitleid,"Aus Mitleid rufft man dich, bloß um dich zu befreyen.
+Dein Fehl ist schon verziehn.
+","['Aus', 'Mitleid', 'rufft', 'man', 'dich', ',', 'bloß', 'um', 'dich', 'zu', 'befreyen', '.', 'Dein', 'Fehl', 'ist', 'schon', 'verziehn', '.']"
+294,676,,ulfo,,,,VH,negativ,81583.0,CATMA_1874B76D-48BC-4BA4-966D-105ABC58562F,19,Emotionen der Ablehnung,negativ,81496.0,Ärger,"Bloß die Macht erhebt ihn über mich.
+Hat er mehr Ruhmbegier, hat er mehr Muth als ich?
+","['Bloß', 'die', 'Macht', 'erhebt', 'ihn', 'über', 'mich.', 'Hat', 'er', 'mehr', 'Ruhmbegier', ',', 'hat', 'er', 'mehr', 'Muth', 'als', 'ich', '?']"
+295,677,godewin,godewin,,,,VH,positiv,81752.0,CATMA_B399B903-DE56-4E80-9D0B-6EAF295A10FD_0,32,Emotionen der Zuneigung,positiv,81594.0,Verehrung,"Verehr die Macht, zu der ihn Recht und Gott erheben.
+Der Himmel konnte sie nie einem Grössern geben.
+Zum Herrschen braucht man mehr, als Ruhmbegier und Muth.
+","['Verehr', 'die', 'Macht', ',', 'zu', 'der', 'ihn', 'Recht', 'und', 'Gott', 'erheben', '.', 'Der', 'Himmel', 'konnte', 'sie', 'nie', 'einem', 'Grössern', 'geben', '.', 'Zum', 'Herrschen', 'braucht', 'man', 'mehr', ',', 'als', 'Ruhmbegier', 'und', 'Muth', '.']"
+296,678,godewin,godewin,,,,VH,positiv,81805.0,CATMA_B399B903-DE56-4E80-9D0B-6EAF295A10FD_1,6,Emotionen der Zuneigung,positiv,81777.0,Verehrung,die Huld schmückt den Canut.,"['die', 'Huld', 'schmückt', 'den', 'Canut', '.']"
+297,681,,ulfo,godewin,,,VH,negativ,82601.0,CATMA_5091675D-9E69-4F6A-8D65-A55C0831EC73,10,Emotionen der Ablehnung,negativ,82554.0,Abscheu,"Spar deine Thränen nur. Man führe mich zurück.
+","['Spar', 'deine', 'Thränen', 'nur', '.', 'Man', 'führe', 'mich', 'zurück', '.']"
+298,682,,estrithe,,,,VH,negativ,82663.0,CATMA_D0E5F1E3-821D-4839-ABEA-AAF36BFA5E00,12,Emotionen des Leids,negativ,82612.0,Leid,"Wohin? ach! Grausamer! du gönnst mir keinen Blick?
+","['Wohin', '?', 'ach', '!', 'Grausamer', '!', 'du', 'gönnst', 'mir', 'keinen', 'Blick', '?']"
+299,685,,ulfo,,,,VH,negativ,84097.0,CATMA_D150F816-1299-470D-8D9F-81FC1CFEEE52,13,Emotionen der Ablehnung,negativ,84049.0,Ärger,"So hör ich denn von dir erst, was die Ehre sey?
+","['So', 'hör', 'ich', 'denn', 'von', 'dir', 'erst', ',', 'was', 'die', 'Ehre', 'sey', '?']"
+300,687,,ulfo,,,,VH,negativ,84401.0,CATMA_D34A543E-C24B-4F8A-BE3E-238DE5502D0D,12,Emotionen der Ablehnung,negativ,84351.0,Abscheu,"Glaub, wär ich Godewin, ich hätt es schon gethan.
+","['Glaub', ',', 'wär', 'ich', 'Godewin', ',', 'ich', 'hätt', 'es', 'schon', 'gethan', '.']"
+301,688,,estrithe,,,,VH,positiv,84713.0,CATMA_B885DAAA-90DA-4AB4-8CA4-4BF70527B44B,13,Emotionen der Zuneigung,positiv,84656.0,Liebe,"Sieh! wie viel Herzen sind, die dich zu retten trachten.
+","['Sieh', '!', 'wie', 'viel', 'Herzen', 'sind', ',', 'die', 'dich', 'zu', 'retten', 'trachten', '.']"
+302,689,,ulfo,,,,VH,negativ,84774.0,CATMA_D399ACD2-4785-49AE-BDBF-3BABECD41CD9,11,Emotionen der Ablehnung,negativ,84720.0,Abscheu,"Wenn ich mich retten ließ, ihr würdet mich verachten.
+","['Wenn', 'ich', 'mich', 'retten', 'ließ', ',', 'ihr', 'würdet', 'mich', 'verachten', '.']"
+303,691,,ulfo,,,,VH,positiv,84903.0,CATMA_2CC16474-EAD9-4444-9AD8-33BC4A40977A,12,Emotionen der Zuneigung,positiv,84847.0,Verehrung,"Doch das bewundert man, das selbst der Tod nicht beugt.
+","['Doch', 'das', 'bewundert', 'man', ',', 'das', 'selbst', 'der', 'Tod', 'nicht', 'beugt', '.']"
+304,696,,estrithe,,,,VH,negativ,85989.0,CATMA_18FA90EE-9BEA-42CB-8660-2EF4659F59CE,81,Emotionen der Angst,negativ,85581.0,Angst,"Fühl einen Augenblick die Angst, die ich empfunden,
+So oft du einen Weg zu deinem Ruhm erfunden,
+Die ich dir theils verbarg und theils dich sehen ließ,
+Und gegen die dein Herz doch nie Erbarmen wies.
+Wie einer, der voll Angst, mit festgebundnen Händen,
+Den Dolch am Herzen fühlt, und nicht weiß abzuwenden:
+Sah ich stets deinen Arm zum Unglück ausgestreckt,
+Und ohne Hülfe mich durch deinen Fall geschreckt.
+","['Fühl', 'einen', 'Augenblick', 'die', 'Angst', ',', 'die', 'ich', 'empfunden', ',', 'So', 'oft', 'du', 'einen', 'Weg', 'zu', 'deinem', 'Ruhm', 'erfunden', ',', 'Die', 'ich', 'dir', 'theils', 'verbarg', 'und', 'theils', 'dich', 'sehen', 'ließ', ',', 'Und', 'gegen', 'die', 'dein', 'Herz', 'doch', 'nie', 'Erbarmen', 'wies', '.', 'Wie', 'einer', ',', 'der', 'voll', 'Angst', ',', 'mit', 'festgebundnen', 'Händen', ',', 'Den', 'Dolch', 'am', 'Herzen', 'fühlt', ',', 'und', 'nicht', 'weiß', 'abzuwenden', ':', 'Sah', 'ich', 'stets', 'deinen', 'Arm', 'zum', 'Unglück', 'ausgestreckt', ',', 'Und', 'ohne', 'Hülfe', 'mich', 'durch', 'deinen', 'Fall', 'geschreckt', '.']"
+305,697,estrithe,ulfo,ulfo,,,VH,negativ,86419.0,CATMA_44261107-34D2-4E51-843F-F930E64CC079,12,Emotionen des Leids,negativ,86363.0,Leid,"Die Thränen sind zu viel. Nun schließt sich deine Pein.
+","['Die', 'Thränen', 'sind', 'zu', 'viel', '.', 'Nun', 'schließt', 'sich', 'deine', 'Pein', '.']"
+306,699,ulfo,ulfo,,,,VH,positiv,87542.0,CATMA_4F00A3FA-F1A4-4F0A-AF78-6892B024F67B,11,Emotionen der Zuneigung,positiv,87492.0,Liebe,"Geliebteste, steh auf, und schäme dich zu weinen!
+","['Geliebteste', ',', 'steh', 'auf', ',', 'und', 'schäme', 'dich', 'zu', 'weinen', '!']"
+307,700,godewin,godewin,,,,VH,positiv,87923.0,CATMA_4D66E81A-FBDF-4CD9-AE8A-5797B102DC5F,67,Emotionen der Zuneigung,positiv,87607.0,Verehrung,"Auch sein Verzug bezeigt noch seine Gütigkeit,
+Er läßt noch dir zur Reu und uns zum Bitten Zeit.
+Hier kömmt er. Hat die Huld, die seine Stirne zieret,
+Für dich nur keinen Strahl, der dich mit Ehrfurcht rühret?
+Ist denn die Majestät, das Bild der Göttlichkeit,
+Das doch der Erdkreiß ehrt, für dich nur nicht geweyht?
+","['Auch', 'sein', 'Verzug', 'bezeigt', 'noch', 'seine', 'Gütigkeit', ',', 'Er', 'läßt', 'noch', 'dir', 'zur', 'Reu', 'und', 'uns', 'zum', 'Bitten', 'Zeit', '.', 'Hier', 'kömmt', 'er', '.', 'Hat', 'die', 'Huld', ',', 'die', 'seine', 'Stirne', 'zieret', ',', 'Für', 'dich', 'nur', 'keinen', 'Strahl', ',', 'der', 'dich', 'mit', 'Ehrfurcht', 'rühret', '?', 'Ist', 'denn', 'die', 'Majestät', ',', 'das', 'Bild', 'der', 'Göttlichkeit', ',', 'Das', 'doch', 'der', 'Erdkreiß', 'ehrt', ',', 'für', 'dich', 'nur', 'nicht', 'geweyht', '?']"
+308,703,,ulfo,,,,VH,positiv,90288.0,CATMA_0BD7DBE0-5EA1-4E84-818C-6CFA1B6F6C6D,20,Emotionen der Freude,positiv,90190.0,Freude,"Nun bin ich erst vergnügt: nun sagt die späthe Zeit:
+Canut hielt Ulfons Tod für seine Sicherheit.
+","['Nun', 'bin', 'ich', 'erst', 'vergnügt', ':', 'nun', 'sagt', 'die', 'späthe', 'Zeit', ':', 'Canut', 'hielt', 'Ulfons', 'Tod', 'für', 'seine', 'Sicherheit', '.']"
+309,705,estrithe,estrithe,ulfo,,,VH,negativ,90675.0,CATMA_3639AB18-3AED-4A5D-B8A5-D8D51545EF79,13,Emotionen des Leids,negativ,90616.0,Leid,"Ach! eilt man denn so schnell, dein Urtheil zu vollführen?
+","['Ach', '!', 'eilt', 'man', 'denn', 'so', 'schnell', ',', 'dein', 'Urtheil', 'zu', 'vollführen', '?']"
+310,711,godewin,godewin,ulfo,,,VH,negativ,92059.0,CATMA_DDED3D13-BB78-4870-86A6-716BDF052742,2,Emotionen des Leids,negativ,92054.0,Mitleid,"Ach!
+","['Ach', '!']"
+311,712,,godschalk,,,,VH,negativ,92424.0,CATMA_0DD0399C-7108-4A5E-A8AA-FC76175757E9,31,Emotionen der Ablehnung,negativ,92275.0,Abscheu,"Zu sagen, daß mein Heer um Ulfons Strafe bitte,
+Und wie voll Abscheu es sich vor der Wut entsetzt,
+Zu deren Werkzeug er es schlecht genug geschätzt.
+","['Zu', 'sagen', ',', 'daß', 'mein', 'Heer', 'um', 'Ulfons', 'Strafe', 'bitte', ',', 'Und', 'wie', 'voll', 'Abscheu', 'es', 'sich', 'vor', 'der', 'Wut', 'entsetzt', ',', 'Zu', 'deren', 'Werkzeug', 'er', 'es', 'schlecht', 'genug', 'geschätzt', '.']"
+312,713,estrithe,estrithe,ulfo,,,VH,negativ,93206.0,CATMA_B75AB481-D1CE-49D7-9A6B-1F966C872FB9,3,Emotionen des Leids,negativ,93193.0,Leid,"Ach Schmerz!
+","['Ach', 'Schmerz', '!']"
+0,0,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation," Ich will als Sieger sprechen.
+",
+1,1,,,,,,,no_annotation,,,22,no_annotation,no_annotation,,no_annotation,"Nein! deinen Ehgemahl soll niemand bitten sehn.
+Des Ulfo Schicksal ist zu streiten, nicht zu flehn.
+Sprich selber",
+2,2,,,,,,,no_annotation,,,9,no_annotation,no_annotation,,no_annotation,"Der Knechtschaft abgesagt und sich nach Ehre lenket,
+",
+3,3,,,,,,,no_annotation,,,5,no_annotation,no_annotation,,no_annotation,Doch ich bin ungebeugt. ,
+4,4,,,,,,,no_annotation,,,9,no_annotation,no_annotation,,no_annotation,"
+Trotzt ich nicht ungestraft die Stärke seiner Flotten?
+",
+5,5,,,,,,,no_annotation,,,23,no_annotation,no_annotation,,no_annotation,"Und ich, ich käme selbst und wollt um Gnade bitten,
+Dieß heißt zu viel verlangt, wofür hätt ich gestritten?
+",
+6,6,,,,,,,no_annotation,,,1,no_annotation,no_annotation,,no_annotation,I,
+7,7,,,,,,,no_annotation,,,20,no_annotation,no_annotation,,no_annotation,"Wenn unsre Thaten uns nicht aus dem dunkeln heben,
+Was für ein Unterscheid ist leben und nicht leben?
+",
+8,8,,,,,,,no_annotation,,,33,no_annotation,no_annotation,,no_annotation,"
+Er mag mir meine That zurechnen oder schenken:
+Es werden Helden seyn, die mit mir edel denken.
+Ich such sie, sey gewiß, daß dieser Arm nicht ruht,
+",
+9,9,,,,,,,no_annotation,,,3,no_annotation,no_annotation,,no_annotation,"Geht ab.
+",
+10,10,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Gunilde, Estrithe.
+",
+11,11,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Der König wußte schon, daß du hier angekommen.
+",
+12,12,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,Was hör ich? ,
+13,13,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Du seufzest, da Canut sich so versöhnlich zeigt?
+",
+14,14,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Wenn er sich beugen läßt, ist Ulfo drum gebeugt?
+",
+15,15,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Er meynt, ein edler Geist muß sich zu bitten schämen.
+",
+16,16,,,,,,,no_annotation,,,50,no_annotation,no_annotation,,no_annotation,"Und dieser edle Geist hat dieß nicht eh bedacht?
+Ist dieß der Augenblick, da erst sein Stolz erwacht?
+Ihn, da er hergeeilt und vor des Thrones Stuffen
+Itzt niederfallen soll, zu späth zurückzuruffen?
+In Norden, wo er noch entfernt von der Gefahr,
+",
+17,17,,,,,,,no_annotation,,,26,no_annotation,no_annotation,,no_annotation,"Doch hier, wo man den Trutz kann durch ein Wort bezähmen,
+Hier darf, wer strafbar ist, sich nicht zu bitten schämen.
+",
+18,18,,,,,,,no_annotation,,,33,no_annotation,no_annotation,,no_annotation,"Er hat mir den Gemahl, der es verfolgt, gegeben.
+ Er selber schickte mir den Undankbaren zu,
+Und schrieb mir den Befehl: Was Ulfo sagt, das thu.
+",
+19,19,,,,,,,no_annotation,,,41,no_annotation,no_annotation,,no_annotation,"Wie meynst du, daß Canut nun von mir fordern darf,
+Die Pflicht zu hintergehn, der er mich unterwarf,
+Und aus strafbarem Haß für Ulfons Uebelthaten,
+Ihn, dem ich meine Treu geheiligt, zu verrathen?
+",
+20,20,,,,,,,no_annotation,,,19,no_annotation,no_annotation,,no_annotation,"Erhalt den Ulfo denn, und stürze den Canut,
+Erkauff dir den Gemahl durch deines Bruders Blut.
+",
+21,21,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Was ich verschweigen muß, kann ich zu hindern suchen.
+",
+22,22,,,,,,,no_annotation,,,13,no_annotation,no_annotation,,no_annotation,"Geh, daß er meinen Schluß, weil Rettung ist, erfährt,
+",
+23,23,,,,,,,no_annotation,,,73,no_annotation,no_annotation,,no_annotation,"Sprich, will er nur nicht selbst der Straf entgegen lauffen,
+Er braucht die Gnade nicht durch Bitten zu erkauften,
+Sein Fehl soll unerwähnt und ungeschehen seyn:
+Ja! man erspart ihm auch den Schimpf ihn zu verzeihn.
+Er sage dem Canut: Nur mein sey das Verbrechen.
+Mich schimpft das Bitten nicht: Ich will mich schuldig sprechen.
+Geh! eile, sag ihm dieß.",
+24,24,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Godewin, Estrithe.
+",
+25,25,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Verdient durch deine Gunst, daß ihm Canut verzeyht.
+",
+26,26,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Der Ehrgeitz ist ein Fehl, dem leicht ein Held verzeiht.
+",
+27,27,,,,,,,no_annotation,,,21,no_annotation,no_annotation,,no_annotation,"Daß ich begnadigt sey, Prinzeßin, weiß ich nicht,
+Vergebung braucht nur der, der seine Pflichten bricht.
+",
+28,28,,,,,,,no_annotation,,,1,no_annotation,no_annotation,,no_annotation,":
+",
+29,29,,,,,,,no_annotation,,,25,no_annotation,no_annotation,,no_annotation,"Zwar dich, Prinzeßin, rührt der Glanz weit höhrer Dinge;
+Der Ruhm, getreu zu seyn, scheint bey dir nur geringe.
+",
+30,30,,,,,,,no_annotation,,,20,no_annotation,no_annotation,,no_annotation,"Doch selbst die Ehrbegier seh ich für schimpflich an,
+Die mich vergessen lehrt, ich sey ein Unterthan.
+",
+31,31,,,,,,,no_annotation,,,22,no_annotation,no_annotation,,no_annotation,"Ich glaub es, daß dich nicht der Herrschsucht Triebe qvälen,
+Nicht ieder ist geschickt, aus Ehrbegier zu fehlen.
+",
+32,32,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Kann ich dich herzhaft nennen?
+",
+33,33,,,,,,,no_annotation,,,2,no_annotation,no_annotation,,no_annotation,"h.
+",
+34,34,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Wie unrecht du mir thust, kann ich dich leicht belehren.
+",
+35,35,,,,,,,no_annotation,,,5,no_annotation,no_annotation,,no_annotation,"Was kannst du sagen?
+",
+36,36,,,,,,,no_annotation,,,7,no_annotation,no_annotation,,no_annotation,"Dieß: Ich habe nichts begangen.
+",
+37,37,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Canut, Godewin.
+",
+38,38,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Estrithe, Canut, Godewin.
+",
+39,39,,,,,,,no_annotation,,,0,no_annotation,no_annotation,,no_annotation, ,
+40,40,,,,,,,no_annotation,,,1,no_annotation,no_annotation,,no_annotation,I,
+41,41,,,,,,,no_annotation,,,23,no_annotation,no_annotation,,no_annotation,"Erstaunest du, daß ich so kühn zu der Gefahr,
+Und mehr, als du geglaubt, zum Hassen fähig war?
+",
+42,42,,,,,,,no_annotation,,,32,no_annotation,no_annotation,,no_annotation,"Warum hast du zuvor dein Herz vor mir verhehlt?
+Da du ihn dir ersehn, hätt ich ihn auch gewählt.
+Die Herrschaft über dich ist dir stets frey gewesen.
+",
+43,43,,,,,,,no_annotation,,,8,no_annotation,no_annotation,,no_annotation,"Herr, du hast mir ihn erlesen.
+",
+44,44,,,,,,,no_annotation,,,1,no_annotation,no_annotation,,no_annotation,I,
+45,45,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Ja! du hast ihn selbst mir als Gemahl gesandt.
+",
+46,46,,,,,,,no_annotation,,,23,no_annotation,no_annotation,,no_annotation,"Sollt auch gleich diese Wahl dir itzt zuwider seyn:
+So war es doch dein Werk, erkenn es noch als dein.
+",
+47,47,,,,,,,no_annotation,,,24,no_annotation,no_annotation,,no_annotation,"Itzt eben, da du mir von seiner Unschuld sagst,
+So weißt du nicht, wie sehr du ihn vor mir verklagst.
+",
+48,48,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Doch, da ich ihm verzeyh, beschuldigest du ihn.
+",
+49,49,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Dein Irrthum dienet dir, drum will ich dir ihn lassen.
+",
+50,50,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Godewin, Estrithe.
+",
+51,51,,,,,,,no_annotation,,,21,no_annotation,no_annotation,,no_annotation,"Verlaß dich doch darauf, daß ihn Canut vergißt.
+Was suchst du eine Schuld, die schon getilget ist?
+",
+52,52,,,,,,,no_annotation,,,44,no_annotation,no_annotation,,no_annotation,"Glaub nur, ich schätze mich zu edel für das Amt,
+Der Zwietracht Mund zu seyn, der Zorn und Haß entflammt,
+Mit andern zu entzweyn, wen ich nicht kann gewinnen,
+Und in der Eintracht Schooß Unfrieden zu entspinnen.
+",
+53,53,,,,,,,no_annotation,,,43,no_annotation,no_annotation,,no_annotation,"
+Befrag nur den Canut, befrage tausend Zeugen,
+Such meine Fehler auf, von andern laß uns schweigen.
+Hier kömmt auch dein Gemahl, der für mich zeugen kann,
+Befrag ihn, ob ich was zu meinem Schimpf gethan.
+",
+54,54,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Godewin, Ulfo, Estrithe.
+",
+55,55,,,,,,,no_annotation,,,72,no_annotation,no_annotation,,no_annotation,"Du kennst mich, und du warst oft mein Gehülf im Streite,
+Hier stand ich an Canuts und hier an deiner Seite,
+Mit dir eilt ich zugleich ins Mittel der Gefahr,
+Mit dir kam ich zurück, wenn sie besieget war.
+Erinnerst du dich noch der unvergeßnen Schlachten,
+Die unserm Könige der Schotten Krone brachten?
+Sag der Prinzeßin doch, wie that ich meine Pflicht?
+",
+56,56,,,,,,,no_annotation,,,13,no_annotation,no_annotation,,no_annotation,"Du fochtest, wie man soll, wenn man um Ehre ficht.
+",
+57,57,,,,,,,no_annotation,,,33,no_annotation,no_annotation,,no_annotation,"Wer sah mich einen Schritt iemals zurückekehren,
+Eh man ein froh Geschrey den Sieg ausruffen hören?
+ Wenn hab ich meinem Feind den Rücken zugewandt?
+Wenn floh ich, Ulfo?
+",
+58,58,,,,,,,no_annotation,,,8,no_annotation,no_annotation,,no_annotation,"Nie, so lang ich dich gekannt.
+",
+59,59,,,,,,,no_annotation,,,15,no_annotation,no_annotation,,no_annotation,"
+Sprich, wer entdeckte dir dieß alles wider mich?
+Wer hintergieng dich so?
+",
+60,60,,,,,,,no_annotation,,,9,no_annotation,no_annotation,,no_annotation,"Der, den du suchst, bin ich.
+",
+61,61,,,,,,,no_annotation,,,2,no_annotation,no_annotation,,no_annotation,"Ich.
+",
+62,62,,,,,,,no_annotation,,,40,no_annotation,no_annotation,,no_annotation,"Gieb wenigstens von dir der Nachwelt was zu melden.
+Sie sag einst: diese Zeit war unfruchtbar an Helden;
+Drey Geister waren doch zu grossen Thaten kühn,
+Erst Ulfo, denn Canut, und endlich Godewin.
+",
+63,63,,,,,,,no_annotation,,,1,no_annotation,no_annotation,,no_annotation,I,
+64,64,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Ich fodre den Beweis, und will ihn widerlegen.
+",
+65,65,,,,,,,no_annotation,,,7,no_annotation,no_annotation,,no_annotation,"Komm, Ulfo, folge mir.
+",
+66,66,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Ich will dich wieder sehn.
+",
+67,67,,,,,,,no_annotation,,,9,no_annotation,no_annotation,,no_annotation,"Ein Augenblick Verzug thut nichts zu deiner Schmach?
+",
+68,68,,,,,,,no_annotation,,,13,no_annotation,no_annotation,,no_annotation,"So geh denn, Godewin, und glaub, ich folge nach.
+",
+69,69,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Ulfo, Estrithe.
+",
+70,70,,,,,,,no_annotation,,,20,no_annotation,no_annotation,,no_annotation,"Ich will nicht dem Gesetz der Ehre wiederstehen.
+Du hast den Streit erregt und darfst ihm nicht entgehen.
+",
+71,71,,,,,,,no_annotation,,,2,no_annotation,no_annotation,,no_annotation,"Nein!
+",
+72,72,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Die hab ich falsch erkläret.
+",
+73,73,,,,,,,no_annotation,,,33,no_annotation,no_annotation,,no_annotation,"Ich sollte, wo du warst, des Sveno Aufruhr stören,
+Durch dich und ohne Heer versprach ich ihm zu wehren.
+Ein Wort verlangt ich nur von deines Bruders Hand,
+",
+74,74,,,,,,,no_annotation,,,41,no_annotation,no_annotation,,no_annotation,"Ist der nicht liebenswerth, der nur nach Ruhme jaget?
+Verdient der keinen Ruhm, der grosse Thaten waget?
+Ich eile, du sollst sehn, daß Ulfo deiner Treu
+Weit mehr als Godewin und einzig würdig sey.
+",
+75,75,,,,,,,no_annotation,,,23,no_annotation,no_annotation,,no_annotation,"Die Ehre sieht sein Blut schon als ihr Opfer an.
+Wie meynst du, daß ich es der Liebe schenken kann?
+",
+76,76,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Da du zu bitten gehst, geh ich indeß zu kämpfen.
+",
+77,77,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Canut, Estrithe, Haqvin.
+",
+78,78,,,,,,,no_annotation,,,42,no_annotation,no_annotation,,no_annotation,"Hier ist bey deinem Schloß der Schauplatz von dem Streit.
+Herr, es sieht alles Volk auf ihre Tapferkeit.
+Ich sah, es stund umher, mit aufmerksamen Schweigen,
+In einen Kreyß gedrängt ein ganzes Heer von Zeugen.
+ ",
+79,79,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Denn der muß seinen Ruhm, und der sein Wort verfechten.
+",
+80,80,,,,,,,no_annotation,,,21,no_annotation,no_annotation,,no_annotation,"Haqvin, ruft aus dem Kampf sie beyde gleich herbey.
+Sag ihnen, daß ihr Blut des Vaterlandes sey,
+",
+81,81,,,,,,,no_annotation,,,28,no_annotation,no_annotation,,no_annotation,"Und niemand Unrecht thun noch Unrecht leiden lasse,
+Daß den Beleidiger mein Arm zur Strafe zieht,
+Und dessen Sache führt, der sich beleidigt sieht.
+",
+82,82,,,,,,,no_annotation,,,23,no_annotation,no_annotation,,no_annotation,"Dieß sage, ruff sie her. Gieb keinem Aufenthalt.
+Folgt Ulfo dir nicht nach: so führ ihn mit Gewalt.
+",
+83,83,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Canut, Estrithe.
+",
+84,84,,,,,,,no_annotation,,,61,no_annotation,no_annotation,,no_annotation,"Glaub, ich will, um den Trutz des Ulfo zu bezähmen,
+Ihn an der Strenge statt durch Güte nur beschämen.
+Ja er soll nicht einmal erfahren, was ich weiß.
+Sein härtestes Vergehn verberg ich ihm mit Fleiß.
+Estrithe, solltest du sein ganzes Herz erst kennen,
+Du würdest gegen ihn mich allzugütig nennen.
+",
+85,85,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Du weißt noch nicht genug.
+",
+86,86,,,,,,,no_annotation,,,28,no_annotation,no_annotation,,no_annotation,"Wahr ists. Sein Fehl ist groß. Doch, Herr! so sehr er wütet,
+Ein Thron steht allzufest, den so viel Gunst behütet,
+",
+87,87,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Du kannst wohl ruhig seyn, so lang ich ruhig bin.
+",
+88,88,,,,,,,no_annotation,,,24,no_annotation,no_annotation,,no_annotation,"Ich seh, daß Ulfo kömmt. Estrithe, laß mich nun.
+Itzt will ich auf sein Herz allein den Angriff thun.
+",
+89,89,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Canut, Ulfo.
+",
+90,90,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Und ieden, der mir dient, zu kennen sich bemüht:
+",
+91,91,,,,,,,no_annotation,,,68,no_annotation,no_annotation,,no_annotation,"Du wärest es allein, der mich nicht sprechen wollte.
+Glaub, Ulfo, dieses Band, das dich mit mir vereint,
+Erfodert ein Vertraun, das dir zu fehlen scheint.
+Du hast dieß Band geknüpft, ich will es nicht zerreissen.
+Eh du mich drum ersucht, hab ich es gut geheissen.
+Dieß Band wird deine Treu noch künftig fester ziehn.
+",
+92,92,,,,,,,no_annotation,,,5,no_annotation,no_annotation,,no_annotation,"Es ist des Godewin.
+",
+93,93,,,,,,,no_annotation,,,18,no_annotation,no_annotation,,no_annotation,"Mir ist genug, daß ich ihm dieß genommen.
+Entwafnet ist durch mich noch niemand umgekommen.
+",
+94,94,,,,,,,no_annotation,,,64,no_annotation,no_annotation,,no_annotation,"Die Großmuth seh ich zwar: wo ist die Bürgertreu?
+Ich will, daß dieser Sieg hinfort der letzte sey,
+Wo Glieder eines Staats gewinnen und verlieren,
+Und Bürger im Triumph die Nebenbürger führen.
+Ein Sieg verdienet Ruhm, iedoch nicht iederzeit;
+Dem Feinde zeige Muth, dem Freund Verträglichkeit.
+Du sollst dem Godewin dieß Schwerdt zurückegeben.
+",
+95,95,,,,,,,no_annotation,,,14,no_annotation,no_annotation,,no_annotation,"Ich gab ihm mehr als dieß: denn ich schenkt ihm das Leben.
+",
+96,96,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Eh ich dieß Schwerdt ersiegt: so hat es mich verletzt.
+",
+97,97,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"So hast du deinen Sieg nicht ohne Müh gefunden?
+",
+98,98,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Er bringt mir Ruhm genug, und kostet wenig Wunden.
+",
+99,99,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Es fliesset ohne Schimpf, weil es gerächet ist.
+",
+100,100,,,,,,,no_annotation,,,42,no_annotation,no_annotation,,no_annotation,"Vor Wunden ist noch nie mein Angesicht verblaßt.
+Fahr fort, und rede nur, was du zu sprechen hast.
+Zu thun, wozu mich Muth und Ehrbegierde treiben,
+Wird stets noch Blut genug in mir zurücke bleiben.
+",
+101,101,,,,,,,no_annotation,,,23,no_annotation,no_annotation,,no_annotation,"Für diesen Muth, der stets zu deiner Ehre wacht,
+Hab ich ein würdig Werk, das ihn vergnügt, erdacht.
+",
+102,102,,,,,,,no_annotation,,,53,no_annotation,no_annotation,,no_annotation,"Du weißt, ob ich das Lob, das ich vielleicht ereile,
+Nicht, so wie Sorg und Schweiß, mit meinen Helden theile,
+Ob iemand unbelohnt was grosses sich erkühnt,
+Und ob der Dank dem fehlt, der Dank von mir verdient.
+Doch andern gleich zu seyn, ",
+103,103,,,,,,,no_annotation,,,49,no_annotation,no_annotation,,no_annotation,"Der Ruhm ist dir zu schlecht, nur unter mir zu siegen.
+Ein Sieg scheint dir kein Sieg, ist er nicht gänzlich dein.
+Du selbst willst Oberhaupt und andrer Führer seyn.
+So nimm denn, was du suchst. Ein junger Prinz der Slaven,
+",
+104,104,,,,,,,no_annotation,,,56,no_annotation,no_annotation,,no_annotation," den Nachdruk zu verschaffen:
+So stütz ich seinen Muth durch meines Heeres Waffen.
+Ein Hauffe, der schon längst bey meinen Fahnen stand,
+Von Kriegern seines Volks, die sich zu mir gewandt,
+Ist ihm von mir geschenkt, und will mit edlen Werken
+Den hier erlangten Ruhm im Vaterland bestärken.
+",
+105,105,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Und dieß erlesne Heer hast du schon fertig stehn?
+",
+106,106,,,,,,,no_annotation,,,35,no_annotation,no_annotation,,no_annotation,"Es lieget vor der Stadt, und wünscht zur See zu gehn.
+Den Prinzen und dieß Heer geb ich dir zu regieren.
+Zur Rache sollst du sie und auch zum Ruhme führen.
+ ",
+107,107,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Es hat schon den Befehl. Doch hier kömmt Godewin.
+",
+108,108,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Canut, Ulfo, Godewin.
+",
+109,109,,,,,,,no_annotation,,,50,no_annotation,no_annotation,,no_annotation,"Tritt näher, Godewin, hier nimm dein Schwerdt zurück,
+Dieß fiel aus deiner Hand durch ein gerechtes Glück.
+Es war dir rühmlicher, dieß Schwerdt besiegt verlieren,
+Als es zum Untergang des Nebenbürgers führen.
+Brauch künftig es allein für mich und für mein Reich,
+",
+110,110,,,,,,,no_annotation,,,48,no_annotation,no_annotation,,no_annotation,"So viel er dir erst nahm, hat er dir itzt gegeben.
+Sieht dich dein König nur für treu und tapfer an,
+Was rächest du ein Wort, das dich nicht schimpfen kann?
+ Und du, bey dem das Glück das Recht ersetzen müssen,
+",
+111,111,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Ist nur dem Volk erlaubt, für Helden zu gemein.
+",
+112,112,,,,,,,no_annotation,,,90,no_annotation,no_annotation,,no_annotation,"Ich weiß, ein Unglücksfall entwandte mir mein Schwerdt;
+Des deinen Spitze war auf meine Brust gekehrt;
+Es stund in deiner Macht das Leben mir zu nehmen;
+Ich bin von dir besiegt, und darf es mich nicht schämen.
+Besiegt seyn ist kein Schimpf, und stark seyn ist kein Ruhm.
+Die Ehre bleibt allein des Herzens Eigenthum.
+Nicht immer kann der Arm dem Muth an Stärke gleichen.
+Ist dieser unbewegt, so muß doch jener weichen.
+Es wich mein Arm. ",
+113,113,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Ich eil erst zu dem Heer, das du mir angetragen.
+",
+114,114,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Estrithe, Haqvin.
+",
+115,115,,,,,,,no_annotation,,,28,no_annotation,no_annotation,,no_annotation,"So kömmst du noch, Haqvin, den Grund von seinem Herzen
+Bey seinem Könige durch Argwohn anzuschwärzen,
+Verklagest nun zu späth die schon gestillte Wut,
+",
+116,116,,,,,,,no_annotation,,,22,no_annotation,no_annotation,,no_annotation,"Prinzeßin, sprich vielmehr du kennst den Ehrgeitz nicht,
+Wenn du dir schmeicheln kannst, daß ihn die Güte bricht.
+",
+117,117,,,,,,,no_annotation,,,42,no_annotation,no_annotation,,no_annotation,"Wie? dieser stolze Geist wird nun so leicht geführet?
+Hat Ulfo nun ein Herz, das bloß ein Wink regieret?
+Der unbiegsame Trutz, den nichts erweichen kann,
+Soll nun verwandelt seyn, und nimmt Ermahnung an?
+",
+118,118,,,,,,,no_annotation,,,40,no_annotation,no_annotation,,no_annotation,"Ich geh, um iedem Schritt aufmerksam nachzustellen,
+Er soll, wen er bedroht, nicht ungewarnet fällen.
+Hier kömmt er? Prüfe selbst indessen seine Treu,
+Und sieh aus welchem Trieb ich sein Verkläger sey.
+",
+119,119,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Ulfo, Estrithe.
+",
+120,120,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Wie zweifelst du an dem, was du vor Augen siehst?
+",
+121,121,,,,,,,no_annotation,,,65,no_annotation,no_annotation,,no_annotation,"Nur daß auch dieses Heer, als dessen Haupt ich ziehe,
+Sich mit mir um den Ruhm, auf den du hoffst, bemühe:
+So bitte den Canut, daß er ins Lager geh,
+Und dieß erlesne Volk beym Aufbruch noch beseh;
+Die Hauffen, die indeß um die gepflanzten Fahnen
+Schon dicht versammlet stehn, zum Eifer zu ermahnen.
+",
+122,122,,,,,,,no_annotation,,,21,no_annotation,no_annotation,,no_annotation,"Ein so gerechter Wunsch braucht meinen Vorspruch nicht.
+Er wird erhöret seyn, so bald dein Mund nur spricht.
+",
+123,123,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Ulfo, Godschalk.
+",
+124,124,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Dieß alles und noch mehr hab ich dem Heer gesagt.
+",
+125,125,,,,,,,no_annotation,,,24,no_annotation,no_annotation,,no_annotation,"Daß man, da uns vom Feind noch weite Fluthen trennen,
+Schon itzt von Pflichten spricht, die sie so lange kennen.
+",
+126,126,,,,,,,no_annotation,,,78,no_annotation,no_annotation,,no_annotation,"Um ihn zu sehn, laß uns nur bald zu Schiffe gehn.
+Was hilft es, daß wir uns entfernet schon bereiten?
+Die Zeit, die hier vergeht, verlieren wir zum Streiten.
+Was hilft es, daß man hier Muth und Gehorsam preist,
+ Eh sich Gelegenheit sie auszuüben weist?
+Wenn wir das Land erreicht, nach welchem wir uns sähnen,
+Dann ist es Zeit genug, dieß alles zu erwähnen.
+",
+127,127,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Ist denn nicht dieser Zweck, des Vaters Mord zu strafen?
+",
+128,128,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Ist dieser Zweck denn nicht die Wohlfarth deiner Slaven?
+",
+129,129,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,Er ist es.,
+130,130,,,,,,,no_annotation,,,23,no_annotation,no_annotation,,no_annotation,"Doch, hast du auch ein Herz, das wahre Grösse schätzet?
+Das kein gewohnter Glanz, kein niedrig Lob ergötzet?
+",
+131,131,,,,,,,no_annotation,,,29,no_annotation,no_annotation,,no_annotation,"An deren Aeusserstem für dich ein Lorbeer steckt?
+Das für gleich schimpflich hält, sich alles Ruhms begeben,
+Als in der dunkeln Schaar gemeiner Helden leben?
+",
+132,132,,,,,,,no_annotation,,,37,no_annotation,no_annotation,,no_annotation,"Und gleichwohl führest du von hier zu deiner Schande
+Das Joch der Dienstbarkeit nach deinem Vaterlande.
+Zeig nur mit diesem Volk die Wege durch das Meer,
+Dem Heere folget bald vielleicht ein andres Heer.
+",
+133,133,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Sieh alle Reich umher, die schon in Ketten liegen!
+",
+134,134,,,,,,,no_annotation,,,2,no_annotation,no_annotation,,no_annotation,Getrost! ,
+135,135,,,,,,,no_annotation,,,38,no_annotation,no_annotation,,no_annotation,"Reitzt dich die Macht, der Ruhm, die Krone des Canut,
+Zu werden, was er ist, brauchst du nichts mehr als Muth.
+Die Bahn ist kurz und leicht dieß alles zu erlangen.
+",
+136,136,,,,,,,no_annotation,,,21,no_annotation,no_annotation,,no_annotation,"Mit Recht erbeutet es nun an des Lohnes statt
+Dieß Reich, für das es oft sein Blut gewaget hat.
+",
+137,137,,,,,,,no_annotation,,,36,no_annotation,no_annotation,,no_annotation,"Sich überall umringt auf fremdem Boden sehn?
+Der überlegnen Zahl doch selbst entgegen gehn,
+Und ohne Beystand sonst vom Schrecken bloß gestützet,
+Sich einem Throne nahn, den so ein Held besitzet?
+",
+138,138,,,,,,,no_annotation,,,54,no_annotation,no_annotation,,no_annotation,"Ist nun noch die Gefahr für deinen Muth zu klein?
+Soll dieses noch ein Rath für träge Seelen seyn?
+Ein grosses übergiebt die List zwar unsern Händen:
+Doch was die List beginnt, das muß der Muth vollenden.
+Prüf, ob du stark genug um dieß zu wagen bist.
+",
+139,139,,,,,,,no_annotation,,,26,no_annotation,no_annotation,,no_annotation,", auch wenn man tapfer ist.
+Doch laß die Sorge mir, mich soll kein Fleiß verdriessen.
+Die Müh nehm ich auf mich:",
+140,140,,,,,,,no_annotation,,,47,no_annotation,no_annotation,,no_annotation,"Hier, Godschalk, stellet sich schon dein Gefangner ein.
+Dieß Ansehn, diese Macht, dieß Reich sind nun bald dein.
+Itzt laß den edlen Muth durch keinen Zweifel beugen,
+Entschließ dich, und wo nicht, entschließ dich nur zu schweigen.
+",
+141,141,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Canut, Godewin, Haqvin, Ulfo, Godschalk.
+",
+142,142,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation," Was nützen wir noch hier?
+",
+143,143,,,,,,,no_annotation,,,51,no_annotation,no_annotation,,no_annotation,"Es ruht allein auf dir, so bald du willst, zu reisen,
+Denn Völker, die du führst, darf ich nicht unterweisen.
+Dir hab ich sie vertraut. Die Sorg ist gänzlich dein,
+Die Glut, von der du sprichst, in ihnen zu verneun.
+",
+144,144,,,,,,,no_annotation,,,12,no_annotation,no_annotation,,no_annotation,"Doch kennt mich auch dieß Heer, das mir gehorchen soll?
+",
+145,145,,,,,,,no_annotation,,,2,no_annotation,no_annotation,,no_annotation,", von ",
+146,146,,,,,,,no_annotation,,,0,no_annotation,no_annotation,,no_annotation, ,
+147,147,,,,,,,no_annotation,,,61,no_annotation,no_annotation,,no_annotation,",
+Wenn du nicht dieß Vertraun erst durch mein Lob erweckest,
+Und ihm, wie du mich ehrst und wer ich sey, entdeckest?
+Lehr es durch deinen Mund, wem es zu folgen hat;
+Mir sey dein Schwerdt vertraut, ich steh an deiner statt;
+Ich habe schon gezeigt, daß ich zu kriegen wisse;
+",
+148,148,,,,,,,no_annotation,,,44,no_annotation,no_annotation,,no_annotation,"und keine Hindernisse;
+Darum befählest du ihm den Gehorsam an,
+Ohn den kein grosses Werk zum Zweck gelangen kann.
+Kennt mich sodann das Heer, und weiß es seine Pflichten,
+So kann ich sie zum Ruhm mit Nachdruck unterrichten.
+",
+149,149,,,,,,,no_annotation,,,1,no_annotation,no_annotation,,no_annotation,"...
+",
+150,150,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Lehre mich doch, was du sagst, verstehen.
+",
+151,151,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Und du gestehst die That?
+",
+152,152,,,,,,,no_annotation,,,3,no_annotation,no_annotation,,no_annotation,"Weich zurück!
+",
+153,153,,,,,,,no_annotation,,,34,no_annotation,no_annotation,,no_annotation,"Canut! nun kann einmal dein Thron gesichert prangen.
+Hier ist die Wache. Kommt, und führt mich nur gefangen.
+Verwundert ihr euch nicht, daß ich euch folgen muß?
+",
+154,154,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Canut, Godewin, Godschalk.
+",
+155,155,,,,,,,no_annotation,,,7,no_annotation,no_annotation,,no_annotation,"Komm! folge mir zu ihr.
+",
+156,156,,,,,,,no_annotation,,,4,no_annotation,no_annotation,,no_annotation,"Godewin, Estrithe.
+",
+157,157,,,,,,,no_annotation,,,8,no_annotation,no_annotation,,no_annotation,"Der gütigste Canut verspricht ihm zu verzeyhen.
+",
+158,158,,,,,,,no_annotation,,,13,no_annotation,no_annotation,,no_annotation,"Itzt wird er hergeführt: bitt ihn, dieß Wort zu sprechen.
+",
+159,159,,,,,,,no_annotation,,,28,no_annotation,no_annotation,,no_annotation,"Umsonst bemühst du dich für sein verlornes Leben.
+Wenn alles dich erhört, wird er dir widerstreben.
+Zu großmuthsvoller Freund, stell deinen Eifer ein;
+",
+160,160,,,,,,,no_annotation,,,9,no_annotation,no_annotation,,no_annotation,"Estrithe, Godewin, Ulfo von Wache begleitet.
+",
+161,161,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Und wer soll mir verzeyhen?
+",
+162,162,,,,,,,no_annotation,,,3,no_annotation,no_annotation,,no_annotation,"Dein König.
+",
+163,163,,,,,,,no_annotation,,,23,no_annotation,no_annotation,,no_annotation,"Wenn dir es rühmlich scheint, nicht der Gewalt zu weichen:
+Durch Huld besiegt zu seyn ist ja der Großmuth Zeichen.
+",
+164,164,,,,,,,no_annotation,,,23,no_annotation,no_annotation,,no_annotation,"So trutze das Geschick, trutz es durch dein Verderben.
+Ist denn der Ruhm so groß, als ein Verbrecher sterben?
+",
+165,165,,,,,,,no_annotation,,,41,no_annotation,no_annotation,,no_annotation,"Erkenn, Undankbarer, die Gunst von deinem Glücke.
+So vielmal hält es dich vom Frevel schon zurücke,
+Läßt dich nicht lasterhaft, als nur im Willen, seyn,
+Und stürzet mit Gewalt der Bosheit Anschlag ein.
+",
+166,166,,,,,,,no_annotation,,,44,no_annotation,no_annotation,,no_annotation,"Wie lange suchst du Ruhm auf einer falschen Bahn?
+Wähl einen Weg, wo dich das Glück nicht hindern kann.
+Was klagst du um das Lob, das dir so oft entgangen?
+Durch Tugend würdest du es ohne Müh erlangen.
+",
+167,167,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Ihr Grund ist Redlichkeit, und nicht verletzte Treu.
+",
+168,168,,,,,,,no_annotation,,,24,no_annotation,no_annotation,,no_annotation,"Mein Ruhm kennt seinen Grund, er ruht auf kühnen Werken,
+Durch Reue schwächt ich ihn, mein Tod soll ihn bestärken.
+",
+169,169,,,,,,,no_annotation,,,13,no_annotation,no_annotation,,no_annotation,"Vielleicht, ohn daß du sprichst, schenkt dir Canut das Leben.
+",
+170,170,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Doch wer wird mir Vertraun, Gewalt und Völker geben.
+",
+171,171,,,,,,,no_annotation,,,21,no_annotation,no_annotation,,no_annotation,"Verlösch durch deine Treu, was dich darum gebracht:
+So hat Canut für dich Vertrauen, Volk und Macht.
+",
+172,172,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Den will ich sterbend suchen.
+",
+173,173,,,,,,,no_annotation,,,11,no_annotation,no_annotation,,no_annotation,"Du tadelst meinen Muth. Lern von mir standhaft seyn.
+",
+174,174,,,,,,,no_annotation,,,46,no_annotation,no_annotation,,no_annotation,"Vor meiner Ruhmbegier hast du umsonst gebebet.
+Das Glück schützt den Canut. Du siehst, ich sterb, er lebet.
+Die Macht ist mir geraubt, was grosses mehr zu thun.
+Ich kann nicht auf der Welt als ein Verzagter ruhn.
+ ",
+175,175,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Wenn seh ich den Canut?
+",
+176,176,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Itzt wird er hier erscheinen.
+",
+177,177,,,,,,,no_annotation,,,8,no_annotation,no_annotation,,no_annotation,"Canut, Estrithe, Godewin, Ulfo.
+",
+178,178,,,,,,,no_annotation,,,69,no_annotation,no_annotation,,no_annotation,"Weil mich des Glückes Zorn in deine Hand gegeben,
+Begehrst du meine Reu zum Preise für mein Leben.
+Kein niederträchtig Wort hat meinen Mund befleckt,
+So lang mein freyer Arm den Feind durchs Schwerdt geschreckt:
+Auch itzt hoff diesen Sieg von mir nicht zu erlangen.
+Mein Muth ist nicht zugleich mit meinem Arm gefangen.
+Stell mich erst wiederum zu jenen Ufern hin,
+",
+179,179,,,,,,,no_annotation,,,44,no_annotation,no_annotation,,no_annotation,"Sie bebten, drängten sich, es brachen unter ihnen
+Der Brücken Bande los, so bald ich nur erschienen;
+Ihr halbersticktes Schreyn rief dich noch in der Fluth.
+Zur Rache rief es dich: doch wo war ich? Canut!
+",
+180,180,,,,,,,no_annotation,,,43,no_annotation,no_annotation,,no_annotation,"Die Welt muß, wenn sie nicht der Billigkeit vergessen,
+Zum mindsten meinen Ruhm einst mit dem deinen messen.
+Und wenn sie auch bey dir der Siege Menge zählt,
+Gestehn, daß nur das Glück zur Grösse mir gefehlt.
+",
+181,181,,,,,,,no_annotation,,,18,no_annotation,no_annotation,,no_annotation,"Du sprichst von deinem Ruhm, und schweigest vom Vergehen.
+Sprich! reut dich dein Versehn?
+",
+182,182,,,,,,,no_annotation,,,45,no_annotation,no_annotation,,no_annotation,"Ich kenne kein Versehen.
+Erkenn entwaffnet noch des Ueberwinders Hand,
+Den nicht die Tapferkeit, nur Macht und Menge band.
+Was meinen Ruhm erhebt, hab ich mich stets erkühnet,
+Thu nun, was deinem Ruhm und deinem Throne dienet.
+",
+183,183,,,,,,,no_annotation,,,3,no_annotation,no_annotation,,no_annotation,"Leb wohl!
+",
+184,184,,,,,,,no_annotation,,,2,no_annotation,no_annotation,,no_annotation,"Wohin?
+",
+185,185,,,,,,,no_annotation,,,3,no_annotation,no_annotation,,no_annotation,"Zum Ruhme.
+",
+186,186,,,,,,,no_annotation,,,1,no_annotation,no_annotation,,no_annotation,".
+",
+187,187,,,,,,,no_annotation,,,6,no_annotation,no_annotation,,no_annotation,"Estrithe, Canut, Godewin.
+",
+188,188,,,,,,,no_annotation,,,8,no_annotation,no_annotation,,no_annotation,"Canut, Godschalk, Godewin, Estrithe.
+",
+189,189,,,,,,,no_annotation,,,8,no_annotation,no_annotation,,no_annotation,"Doch wer hatte dir das Rachschwerdt übergeben?
+",
+190,190,,,,,,,no_annotation,,,24,no_annotation,no_annotation,,no_annotation,"Ich riß nur durch sein Blut mich selbst aus der Gefahr,
+Und gab ihm einen Tod, der mir gedrohet war.
+I",
+191,191,,,,,,,no_annotation,,,10,no_annotation,no_annotation,,no_annotation,"Man führet ihn von dir umringt und ohne Waffen,
+",
+192,192,,,,,,,no_annotation,,,107,no_annotation,no_annotation,,no_annotation,"Er reißt der nächsten Wacht es rasend aus der Hand;
+Er eilet auf mich zu, ich sah ihn, und ich stand.
+Kaum hatt ich Zeit genug, den Degen zu entblössen,
+So ängstet mich sein Schwerdt mit wiederholten Stössen.
+Die Wacht, die nach ihm eilt, kömmt nicht so schnell herbey:
+So stürzt er schon sich selbst durch blinde Raserey:
+Die Brust, die sich nicht schont, fällt in des Degens Spitze,
+Der nicht auf Schaden zielt, mit dem ich nur mich schütze.
+Er stirbt, indem er noch mich zu durchbohren sucht,
+",
+193,193,,,,,,,no_annotation,,,21,no_annotation,no_annotation,,no_annotation,"Doch ach! die Ruhmbegier, der edelste der Triebe,
+Ist nichts als Raserey, zähmt ihn nicht Menschenliebe.
+
+
+
+
+
+
+
+",
