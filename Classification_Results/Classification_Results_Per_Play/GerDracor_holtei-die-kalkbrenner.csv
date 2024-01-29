@@ -1,0 +1,1093 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/holtei-die-kalkbrenner.xml,Kotzeluch.,0,10,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+1,1,GerDracor/holtei-die-kalkbrenner.xml,Franz.,11,17,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+2,2,GerDracor/holtei-die-kalkbrenner.xml,Louise.,18,25,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+3,3,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,1,speech_part,,#franz #louise,1.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+4,4,GerDracor/holtei-die-kalkbrenner.xml,: Hier sitz' ich auf Rasen etc.,4,35,stage_direction,1,1,speech_part,,#franz #louise,1.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+5,5,GerDracor/holtei-die-kalkbrenner.xml,"
+            Uns trennet kein Schicksal, uns trennet kein Schmerz,
+            Uns trennet kein Schmerz;
+            Wir halten zusammen,
+            In Fluthen und Flammen,
+            In Freuden und Leiden bewährt sich das Herz.",0,230,character_speech,1,1,,FRANZ. LOUISE.,#franz #louise,1.0,UNKNOWN,joy,K,,1825.0,positive,emotions of pleasure
+6,6,GerDracor/holtei-die-kalkbrenner.xml,"
+            Ich will dich schon trennen, rebellische Brut,
+            Rebellische Brut!",0,89,character_speech,1,1,,KOTZELUCH.,#kotzeluch,2.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+7,7,GerDracor/holtei-die-kalkbrenner.xml,"Dich schick' ich zurücke,
+            Ihr brech' ich das Genicke,
+            Wenn sie nicht, was ich ihr geboten hab', thut.",102,227,character_speech,1,1,,KOTZELUCH.,#kotzeluch,2.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+8,8,GerDracor/holtei-die-kalkbrenner.xml,"Hören Sie, lieber Vater, wir haben, wie Sie wissen, jetzt gerade die langen Ferien, da
+            kehrt der Bursch nicht so leicht zurück.",0,139,character_speech,1,1,,FRANZ.,#franz,3.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+9,9,GerDracor/holtei-die-kalkbrenner.xml,"Ich bleib' in Süptitz, bis der letzte Tag da
+            ist.",140,201,character_speech,1,1,,FRANZ.,#franz,3.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+10,10,GerDracor/holtei-die-kalkbrenner.xml,Muß den Winter noch lange genug im Kollegium sitzen und schwitzen.,202,268,character_speech,1,1,,FRANZ.,#franz,3.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+11,11,GerDracor/holtei-die-kalkbrenner.xml,Aber ich befehle Dir –,0,22,character_speech,1,1,,KOTZELUCH.,#kotzeluch,4.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+12,12,GerDracor/holtei-die-kalkbrenner.xml,"Piano, mein Vater!",0,18,character_speech,1,1,,FRANZ.,#franz,5.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+13,13,GerDracor/holtei-die-kalkbrenner.xml,"Der Bursch steht unter Niemand's Befehlen, als unter denen seines
+            Senates.",19,105,character_speech,1,1,,FRANZ.,#franz,5.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+14,14,GerDracor/holtei-die-kalkbrenner.xml,"Bei dem müssen Sie Ihre Klage anbringen, wenn Sie an mich wollen.",106,171,character_speech,1,1,,FRANZ.,#franz,5.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+15,15,GerDracor/holtei-die-kalkbrenner.xml,"Uebrigens
+            gebührt Ihnen, weil Sie mein Vater sind, der Rang jeder andern Civilbehörde und meine
+            Karte ist jederzeit zu Ihren Diensten.",172,330,character_speech,1,1,,FRANZ.,#franz,5.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+16,16,GerDracor/holtei-die-kalkbrenner.xml,hitzig.,0,7,stage_direction,1,1,speech_part,,#kotzeluch,6.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+17,17,GerDracor/holtei-die-kalkbrenner.xml,Bursch!,0,7,character_speech,1,1,,KOTZELUCH,#kotzeluch,6.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+18,18,GerDracor/holtei-die-kalkbrenner.xml,Bürschchen!,8,19,character_speech,1,1,,KOTZELUCH,#kotzeluch,6.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+19,19,GerDracor/holtei-die-kalkbrenner.xml,Du nicht unter meinen Befehlen?,20,51,character_speech,1,1,,KOTZELUCH,#kotzeluch,6.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+20,20,GerDracor/holtei-die-kalkbrenner.xml,Du?,52,55,character_speech,1,1,,KOTZELUCH,#kotzeluch,6.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+21,21,GerDracor/holtei-die-kalkbrenner.xml,"Sag' das noch ein Mal, und ich
+            will Dir zeigen, daß meine Hände nicht blos zum Orgel- und Klavierspielen auf der Welt
+            sind.",56,203,character_speech,1,1,,KOTZELUCH,#kotzeluch,6.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+22,22,GerDracor/holtei-die-kalkbrenner.xml,"Ihr Glück, daß zwei Stunden von der Universität kein Komment gilt, sonst wüßt' ich –
+            aber freilich, von Eltern und Mädchen zieht kein Tusch.",0,152,character_speech,1,1,,FRANZ.,#franz,7.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+23,23,GerDracor/holtei-die-kalkbrenner.xml,Was der Kerl für eine Sprache spricht?,0,38,character_speech,1,1,,KOTZELUCH.,#kotzeluch,8.0,MALE,being moved,K,,1825.0,being moved,being moved
+24,24,GerDracor/holtei-die-kalkbrenner.xml,"»Tusch – Komment – zieht?« Ist das deutsch oder
+            griechisch?",39,110,character_speech,1,1,,KOTZELUCH.,#kotzeluch,8.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+25,25,GerDracor/holtei-die-kalkbrenner.xml,Es ist burschikos.,0,18,character_speech,1,1,,LOUISE.,#louise,9.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+26,26,GerDracor/holtei-die-kalkbrenner.xml,Das ist ja eine neue Sprache.,0,29,character_speech,1,1,,KOTZELUCH.,#kotzeluch,10.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+27,27,GerDracor/holtei-die-kalkbrenner.xml,Welches Volk redet die?,30,53,character_speech,1,1,,KOTZELUCH.,#kotzeluch,10.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+28,28,GerDracor/holtei-die-kalkbrenner.xml,"Auf welcher Insel wohnen die
+            Burschikosen?",54,108,character_speech,1,1,,KOTZELUCH.,#kotzeluch,10.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+29,29,GerDracor/holtei-die-kalkbrenner.xml,Auf der Insel der Freiheit!,0,27,character_speech,1,1,,LOUISE.,#louise,11.0,FEMALE,joy,K,,1825.0,positive,emotions of pleasure
+30,30,GerDracor/holtei-die-kalkbrenner.xml,Nun hör' Einer das Mädel!,0,25,character_speech,1,1,,KOTZELUCH.,#kotzeluch,12.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+31,31,GerDracor/holtei-die-kalkbrenner.xml,Hat er Dich  auch schon beschwindelt?,26,63,character_speech,1,1,,KOTZELUCH.,#kotzeluch,12.0,MALE,being moved,K,,1825.0,being moved,being moved
+32,32,GerDracor/holtei-die-kalkbrenner.xml,"Ich
+            glaube, sie würde am liebsten selbst ein Bruder Studio?",64,135,character_speech,1,1,,KOTZELUCH.,#kotzeluch,12.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+33,33,GerDracor/holtei-die-kalkbrenner.xml,Warum nicht?,0,12,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+34,34,GerDracor/holtei-die-kalkbrenner.xml,Von Herzen gern.,13,29,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,joy,K,,1825.0,positive,emotions of pleasure
+35,35,GerDracor/holtei-die-kalkbrenner.xml,"Ich wollte mit Franz in die Auditorien geh'n und die
+            Herren Professoren, wenn sie nicht gar zu alt und sauertöpfisch wären, würden mein
+              vis-à-vis eben so angenehm finden, als das der jungen Schnurrbärte.",30,259,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,joy,K,,1825.0,positive,emotions of pleasure
+36,36,GerDracor/holtei-die-kalkbrenner.xml,"Meinen Sie etwa, das Studentenleben wäre mir fremd?",272,323,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+37,37,GerDracor/holtei-die-kalkbrenner.xml,"Sie irren, Herr Vormund; Sie sind
+            auf höllischen Holzwegen.",324,395,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+38,38,GerDracor/holtei-die-kalkbrenner.xml,Zum Exempel:,396,408,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+39,39,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,1,speech_part,,#louise,13.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+40,40,GerDracor/holtei-die-kalkbrenner.xml,: Voll Zärtlichkeit will ich der Dirne sagen etc.,4,53,stage_direction,1,1,speech_part,,#louise,13.0,FEMALE,anger,K,,1825.0,negative,emotions of rejection
+41,41,GerDracor/holtei-die-kalkbrenner.xml,"
+            Kaum ist die Sonne lächelnd aufgegangen,
+            Sieht's mich zur Arbeit hin,
+            Und ich erfaß' mit sehnendem Verlangen
+            Der Wissenschaften hohen Sinn.",0,188,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,joy,K,,1825.0,positive,emotions of pleasure
+42,42,GerDracor/holtei-die-kalkbrenner.xml,"Ein Mann wie ich horcht die gelehrten Männer aus,
+            Ein Mann wie ich geht täglich klüger aus dem Haus;
+            Als Bursche nehm' ich ohne viel zu fragen,
+            Die Weisheit mit nach Haus.",201,408,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+43,43,GerDracor/holtei-die-kalkbrenner.xml,"
+            Mein Kniff ist gut, ich speise beim Philister,
+            Er liebt den Bruder Studio;
+            Und sing' ich Ein's, wahrhaftig doppelt ißt er,
+            Und ißt und trinkt sich jung und froh.",0,210,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,love,K,,1825.0,positive,emotions of affection
+44,44,GerDracor/holtei-die-kalkbrenner.xml,"Ein Mann wie ich geht stets willkommen ein und aus,
+            Ein Mann wie ich nimmt manche Gurke sich heraus;
+            Als Bursche trink' ich ohne viel zu fragen,
+            Den besten Wein ihm aus.",223,428,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+45,45,GerDracor/holtei-die-kalkbrenner.xml,"
+            Vom Essen geht's, in ungezähmten Sprüngen,
+            Im Arm das blinkende Rapier,
+            Zum schönen, wilden Liebesspiel der Klingen,
+            Gott's Blitz, da schlagen Burschen wir.",0,205,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+46,46,GerDracor/holtei-die-kalkbrenner.xml,"Ein Mann wie ich nimmt manche Freiheit sich heraus,
+            Ein Mann wie ich wischt manche Quart und Prime aus;
+            Als Bursche trag' ich ohne viel zu fragen,
+            Selbst eine Schmarre mit nach Haus.",219,437,character_speech,1,1,,LOUISE.,#louise,13.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+47,47,GerDracor/holtei-die-kalkbrenner.xml,"Mir sollst Du keine Schmarre schlagen und meinen Wein sollst Du nicht austrinken, dafür
+            steh' ich Dir.",0,114,character_speech,1,1,,KOTZELUCH.,#kotzeluch,14.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+48,48,GerDracor/holtei-die-kalkbrenner.xml,Weil Sie keinen auf den Tisch geben.,0,36,character_speech,1,1,,FRANZ.,#franz,15.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+49,49,GerDracor/holtei-die-kalkbrenner.xml,"Stoßen Sie nur einmal eine anständige Condition;
+            setzen Sie mich nur einmal auf einen Korb guten Rheinwein; Sie werden die aschgraue
+            Möglichkeit sehen.",37,212,character_speech,1,1,,FRANZ.,#franz,15.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+50,50,GerDracor/holtei-die-kalkbrenner.xml,Jetzt soll ich ihn auf einen Korb setzen!,0,41,character_speech,1,1,,KOTZELUCH.,#kotzeluch,16.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+51,51,GerDracor/holtei-die-kalkbrenner.xml,"Sei froh, daß Du immer einen Stuhl hast; wenn
+            ich Dich an meinem Tische sitzen lasse; wenn ich Dich nicht zum Hause hinaus jage!",42,182,character_speech,1,1,,KOTZELUCH.,#kotzeluch,16.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+52,52,GerDracor/holtei-die-kalkbrenner.xml,"Es
+            gehen curiose Gerüchte von Dir hier in Süptitz.",183,245,character_speech,1,1,,KOTZELUCH.,#kotzeluch,16.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+53,53,GerDracor/holtei-die-kalkbrenner.xml,"Die Wäscherin ist die Frau vom
+            Amtsboten.",246,299,character_speech,1,1,,KOTZELUCH.,#kotzeluch,16.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+54,54,GerDracor/holtei-die-kalkbrenner.xml,"Der Mann hat ihr das letzte Verzeichniß der fertigen Wäsche weggenommen, – da
+            steh'st Du auch notiert, und danke Gott, leichtsinniger Bube, daß der Bürgermeister Dein
+            Vater ist, sonst wär' es vielleicht um Deine Gurgel und alle die tollen Lieder, die Du
+            mit selbiger anstimmst, geschehen.",300,624,character_speech,1,1,,KOTZELUCH.,#kotzeluch,16.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+55,55,GerDracor/holtei-die-kalkbrenner.xml,"Louise, verstehst Du den Vater?",0,31,character_speech,1,1,,FRANZ.,#franz,17.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+56,56,GerDracor/holtei-die-kalkbrenner.xml,"Wenn ich anders die Fährte errathe, auf welcher sein inquisitorischer Geist umherspürt,
+            so hat die mangelhafte Orthographie der Frau Amtsbotin Alles zu vertreten.",0,174,character_speech,1,1,,LOUISE.,#louise,18.0,FEMALE,abhorrence,K,,1825.0,negative,emotions of rejection
+57,57,GerDracor/holtei-die-kalkbrenner.xml,"Eines Deiner
+            Tücher, mein lieber Franz, ein blutig-rothes noch dazu, ist auf dem
+            Wäschezettel nach Stand und Würde als ein buntes aufgeführt.",175,340,character_speech,1,1,,LOUISE.,#louise,18.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+58,58,GerDracor/holtei-die-kalkbrenner.xml,"Die  Wäscherin aber, die wahrscheinlich nicht weit von der sächsischen Grenze
+            herstammt, hat das harte T in ein weiches D verwandelt und so lasen seine Gestrengen
+            durch den Amtsboten stutzig gemacht: ein Bundestuch, anstatt: ein
+              buntes, was denn freilich bei gegenwärtigen Zeitläuften und dermaliger
+            Farbe des Tuches ein bitterböser Umstand ist.",341,736,character_speech,1,1,,LOUISE.,#louise,18.0,FEMALE,being moved,K,,1825.0,being moved,being moved
+59,59,GerDracor/holtei-die-kalkbrenner.xml,"Wie sie das wendet und dreht, die kleine Hexe.",0,46,character_speech,1,1,,KOTZELUCH.,#kotzeluch,19.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+60,60,GerDracor/holtei-die-kalkbrenner.xml,lachend.,0,8,stage_direction,1,1,speech_part,,#franz,20.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+61,61,GerDracor/holtei-die-kalkbrenner.xml,Sie ist advocatus diaboli.,0,26,character_speech,1,1,,FRANZ,#franz,20.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+62,62,GerDracor/holtei-die-kalkbrenner.xml,Was heißt das?,0,14,character_speech,1,1,,LOUISE.,#louise,21.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+63,63,GerDracor/holtei-die-kalkbrenner.xml,"Das heißt: Du bist ein Vertheidiger aller schlechten Sachen; Du bist ein Advokat, der
+            den Teufel im Leibe hat.",0,122,character_speech,1,1,,KOTZELUCH.,#kotzeluch,22.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+64,64,GerDracor/holtei-die-kalkbrenner.xml,Aber all' Eure Schwänke und Ränke sollen Euch nichts helfen.,123,183,character_speech,1,1,,KOTZELUCH.,#kotzeluch,22.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+65,65,GerDracor/holtei-die-kalkbrenner.xml,Ihr kriegt Euch nicht.,196,218,character_speech,1,1,,KOTZELUCH.,#kotzeluch,22.0,MALE,being moved,K,,1825.0,being moved,being moved
+66,66,GerDracor/holtei-die-kalkbrenner.xml,"Du nimmst den Dir von Deiner alten verstorbenen
+            Pflegemutter bestimmten Mann!",219,308,character_speech,1,1,,KOTZELUCH.,#kotzeluch,22.0,MALE,love,K,,1825.0,positive,emotions of affection
+67,67,GerDracor/holtei-die-kalkbrenner.xml,– Du gehst auf die hohe Schule zurück!,309,347,character_speech,1,1,,KOTZELUCH.,#kotzeluch,22.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+68,68,GerDracor/holtei-die-kalkbrenner.xml,"–
+            Punktum.",348,370,character_speech,1,1,,KOTZELUCH.,#kotzeluch,22.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+69,69,GerDracor/holtei-die-kalkbrenner.xml,"Wenn nur der mir Bestimmte schon da wäre, daß man ihn eines prüfenden Blickes würdigen
+            könnte?",0,106,character_speech,1,1,,LOUISE.,#louise,23.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+70,70,GerDracor/holtei-die-kalkbrenner.xml,"Er wird kommen, ehe Du Dich seiner versieh'st; wie die heulende Windsbraut wird er da
+            sein.",0,103,character_speech,1,1,,KOTZELUCH.,#kotzeluch,24.0,MALE,despair,K,,1825.0,negative,emotions of anxiety
+71,71,GerDracor/holtei-die-kalkbrenner.xml,In allen Blättern hab' ich bekannt gemacht:,104,147,character_speech,1,1,,KOTZELUCH.,#kotzeluch,24.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+72,72,GerDracor/holtei-die-kalkbrenner.xml,"Sucht ein altes Zeitungsblatt
+              hervor.",0,51,stage_direction,1,1,inner_speech,,#kotzeluch,24.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+73,73,GerDracor/holtei-die-kalkbrenner.xml," »Nachdem die Wittfrau Anna Rosina Kegel allhier Todes verblichen ist
+            und ihren seit funfzehn Jahren verschollenen Sohn Lorenz zum Erben ihres hinterlassenen
+            Vermögens unter der Bedingung eingesetzt hat, daß er ihrer geliebten Pflegetochter
+            Louise Linse seine Hand",0,300,character_speech,1,1,,KOTZELUCH.,#kotzeluch,24.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+74,74,GerDracor/holtei-die-kalkbrenner.xml," reiche, so wird genannter Lorenz hierdurch
+            aufgefordert, sich binnen hier und sechs Monaten vor dem hiesigen Gericht zu melden, zu
+            beweisen, daß er",0,172,character_speech,1,1,,KOTZELUCH.,#kotzeluch,24.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+75,75,GerDracor/holtei-die-kalkbrenner.xml,ihn unterbrechend.,0,18,stage_direction,1,1,speech_part,,#louise,25.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+76,76,GerDracor/holtei-die-kalkbrenner.xml,Halten Sie ein!,0,15,character_speech,1,1,,LOUISE,#louise,25.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+77,77,GerDracor/holtei-die-kalkbrenner.xml,"Mich überfällt der Gedanke, daß er wirklich eintreffen und mich erben
+            könne, mit Riesengewalt.",16,122,character_speech,1,1,,LOUISE,#louise,25.0,FEMALE,joy,K,,1825.0,positive,emotions of pleasure
+78,78,GerDracor/holtei-die-kalkbrenner.xml,Siehst Du?,0,10,character_speech,1,1,,KOTZELUCH.,#kotzeluch,26.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+79,79,GerDracor/holtei-die-kalkbrenner.xml,Recht muß Recht bleiben.,11,35,character_speech,1,1,,KOTZELUCH.,#kotzeluch,26.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+80,80,GerDracor/holtei-die-kalkbrenner.xml,"Aber es hätte doch in Ihrer Gewalt gestanden, die Sache zu mildern.",0,67,character_speech,1,1,,FRANZ.,#franz,27.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+81,81,GerDracor/holtei-die-kalkbrenner.xml,"Möchte jener Kegel,
+            – den meine Kugel nicht verfehlen wird!",68,139,character_speech,1,1,,FRANZ.,#franz,27.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+82,82,GerDracor/holtei-die-kalkbrenner.xml,"– Louisens Geld nehmen, sie selbst
+            sollten Sie dem verlornen Sohne doch nicht an den Hals werfen, um so weniger, als Ihr
+            eigner Sohn sie liebt.",140,307,character_speech,1,1,,FRANZ.,#franz,27.0,MALE,love,K,,1825.0,positive,emotions of affection
+83,83,GerDracor/holtei-die-kalkbrenner.xml,Ei!,0,3,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,being moved,K,,1825.0,being moved,being moved
+84,84,GerDracor/holtei-die-kalkbrenner.xml,Erwartest Du solche Gefälligkeiten von mir?,4,47,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+85,85,GerDracor/holtei-die-kalkbrenner.xml,Welche hast Du mir denn erwiesen?,48,81,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+86,86,GerDracor/holtei-die-kalkbrenner.xml,"–
+            Erst bitt' ich ihn, er soll Schulmeister und Kantor in Süptiz, und auf diese Weise Stab
+            und Stütze seines musikliebenden Vaters werden?",82,243,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+87,87,GerDracor/holtei-die-kalkbrenner.xml,Gott behüte!,244,256,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+88,88,GerDracor/holtei-die-kalkbrenner.xml,"Er studiert, legt sich auf
+            die Juristerei und musicirt mit den Akten.",257,338,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+89,89,GerDracor/holtei-die-kalkbrenner.xml,Aber ein Instrument will er doch lernen.,339,379,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+90,90,GerDracor/holtei-die-kalkbrenner.xml,"Nun
+            geh' ich ihn an, um Orgel und Klavier; – vergebens!",380,447,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+91,91,GerDracor/holtei-die-kalkbrenner.xml,"Er hat keinen Sinn dafür, daß ein
+            Klavier das erste Instrument der Welt ist.",448,536,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+92,92,GerDracor/holtei-die-kalkbrenner.xml,"Ich will nicht einmal in Anschlag bringen,
+            daß man auf diesem Universal-Ding Alles spielen und ein ganzes Orchester entbehren kann;
+            das ist nicht Jedermanns Sache.",537,724,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+93,93,GerDracor/holtei-die-kalkbrenner.xml,Nur von,725,732,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+94,94,GerDracor/holtei-die-kalkbrenner.xml," grollen, hüpfen, schlüpfen,
+            necken, sich recken, schillern und trillern; wie solch ein Concert gar kein Ende nimmt,
+            sich immer wieder aus sich selbst gebiert, ... das verschmäht er zu lernen, und lernt, –
+            man sollt's nicht glauben!",0,268,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+95,95,GerDracor/holtei-die-kalkbrenner.xml,und lernt das Violoncello!,269,295,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+96,96,GerDracor/holtei-die-kalkbrenner.xml,Verächtlich.,0,12,stage_direction,1,1,inner_speech,,#kotzeluch,28.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+97,97,GerDracor/holtei-die-kalkbrenner.xml," solch
+            ein kleines, jämmerliches, zwischen die Kniee gepreßtes, knurriges Möbel; ein
+            quitschendes Mittelding zwischen Contrabaß und Geige; ein musikalisches Amphibium!",0,191,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+98,98,GerDracor/holtei-die-kalkbrenner.xml,"– Auf
+            vier Saiten, was willst Du denn da herausbringen?",192,259,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+99,99,GerDracor/holtei-die-kalkbrenner.xml,'S ist nur lächerlich und auch,260,290,character_speech,1,1,,KOTZELUCH.,#kotzeluch,28.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+100,100,GerDracor/holtei-die-kalkbrenner.xml,Wir gehorchen!,0,14,character_speech,1,1,,FRANZ.,#franz,29.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+101,101,GerDracor/holtei-die-kalkbrenner.xml,Aber Hand in Hand!,15,33,character_speech,1,1,,FRANZ.,#franz,29.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+102,102,GerDracor/holtei-die-kalkbrenner.xml,Hand in Hand!,0,13,character_speech,1,1,,LOUISE.,#louise,30.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+103,103,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,1,speech_part,,#franz,31.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+104,104,GerDracor/holtei-die-kalkbrenner.xml,: Hoch vom Olymp herab kam uns etc.,4,39,stage_direction,1,1,speech_part,,#franz,31.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+105,105,GerDracor/holtei-die-kalkbrenner.xml,"
+            Ich schwöre, reich an Liebe für Louisen,
+            Nur ihr mein ganzes Herz zu weihn;
+            Die Treu' zu halten, die ich stets bewiesen,
+            Und keiner Andern gut zu sein!",0,200,character_speech,1,1,,FRANZ.,#franz,31.0,MALE,love,K,,1825.0,positive,emotions of affection
+106,106,GerDracor/holtei-die-kalkbrenner.xml,"Ja, feierlich schalle der heilige Schwur
+            Ewiger Liebe durch Küche und Flur!",213,300,character_speech,1,1,,FRANZ.,#franz,31.0,MALE,love,K,,1825.0,positive,emotions of affection
+107,107,GerDracor/holtei-die-kalkbrenner.xml,"
+            Ja, feierlich schalle der heilige Schwur
+            Ewiger Liebe durch Küche und Flur.",0,100,character_speech,1,1,,LOUISE. FRANZ.,#louise #franz,32.0,UNKNOWN,love,K,,1825.0,positive,emotions of affection
+108,108,GerDracor/holtei-die-kalkbrenner.xml,Beide ab.,0,9,stage_direction,1,1,speech_part,,#louise #franz,32.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+109,109,GerDracor/holtei-die-kalkbrenner.xml,allein.,0,7,stage_direction,1,2,speech_part,,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+110,110,GerDracor/holtei-die-kalkbrenner.xml,Albernes junges Volk!,0,21,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+111,111,GerDracor/holtei-die-kalkbrenner.xml,"– Sie lieben sich, aber höchst unmusikalisch.",22,67,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+112,112,GerDracor/holtei-die-kalkbrenner.xml,"Ihr ganzes Dasein
+            ist eine Dissonanz, und die Auflösung läßt sich nicht anders bewerkstelligen, als wenn
+            man sie trennt.",68,212,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+113,113,GerDracor/holtei-die-kalkbrenner.xml,"Auseinander, ihr Quinten!",213,238,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+114,114,GerDracor/holtei-die-kalkbrenner.xml,– höchstens könnte man sie Octaven nennen!,239,281,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+115,115,GerDracor/holtei-die-kalkbrenner.xml,Am Fenster.,0,11,stage_direction,1,2,inner_speech,,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+116,116,GerDracor/holtei-die-kalkbrenner.xml, Was seh' ich?,0,14,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+117,117,GerDracor/holtei-die-kalkbrenner.xml,der Briefbote schwebt über den Platzt?,15,53,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,being moved,K,,1825.0,being moved,being moved
+118,118,GerDracor/holtei-die-kalkbrenner.xml,"– er
+            neigt sich hierher; er kommt zu mir!",54,107,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+119,119,GerDracor/holtei-die-kalkbrenner.xml,"Gewiß Nachrichten von großen musikalischen
+            Ereignissen in der Berliner Welt: entweder haben sie ein neues Ballet gegeben; oder
+            meine Cantate aufgeführt, zum Besten irgend einer Anstalt für ungeborne Kinder; oder es
+            ist ein Concert zu erwarten!?",108,388,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+120,120,GerDracor/holtei-die-kalkbrenner.xml,"O, wie freu' ich mich auf den Brief!",389,425,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+121,121,GerDracor/holtei-die-kalkbrenner.xml,"Es geht nichts über
+            Briefe!",426,465,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+122,122,GerDracor/holtei-die-kalkbrenner.xml,– Briefe!,466,475,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+123,123,GerDracor/holtei-die-kalkbrenner.xml,– Briefe!,476,485,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+124,124,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,2,speech_part,,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+125,125,GerDracor/holtei-die-kalkbrenner.xml,: In diesen heil'gen Hallen etc.,4,36,stage_direction,1,2,speech_part,,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+126,126,GerDracor/holtei-die-kalkbrenner.xml,"
+            Es dient zu meinem Spaße
+            Und ist mir herzlich lieb,
+            Rennt über unsre Straße
+            Der Bote wie ein Dieb.",0,147,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+127,127,GerDracor/holtei-die-kalkbrenner.xml,"Er biegt zur Hausthür schnell herein, –
+            Von wem mag wohl das Schreiben sein?",160,248,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+128,128,GerDracor/holtei-die-kalkbrenner.xml,"Man bricht es auf und liest geschwind,
+            Ist seelensfroh, wenn's zweie sind,
+            Und fühlt sich doppelt contentiert,
+            Sind sie recht lang, – und auch frankiert.",261,450,character_speech,1,2,,KOTZELUCH,#kotzeluch,33.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+129,129,GerDracor/holtei-die-kalkbrenner.xml,Der Briefträger.,0,16,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+130,130,GerDracor/holtei-die-kalkbrenner.xml,Kotzeluch.,17,27,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+131,131,GerDracor/holtei-die-kalkbrenner.xml,Ist was an mir?,0,15,character_speech,1,3,,KOTZELUCH.,#kotzeluch,34.0,MALE,being moved,K,,1825.0,being moved,being moved
+132,132,GerDracor/holtei-die-kalkbrenner.xml,"Ne, an Ihnen ist diesmal nichts nich'!",0,38,character_speech,1,3,,BRIEFTRÄGER.,#brieftraeger,35.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+133,133,GerDracor/holtei-die-kalkbrenner.xml,Aber da ist ein Brief für Mamsell Linse.,39,79,character_speech,1,3,,BRIEFTRÄGER.,#brieftraeger,35.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+134,134,GerDracor/holtei-die-kalkbrenner.xml,Her damit!,0,10,character_speech,1,3,,KOTZELUCH.,#kotzeluch,36.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+135,135,GerDracor/holtei-die-kalkbrenner.xml,"Das Mädel soll keine Briefe lesen, eh' ich sie nicht angelesen habe.",11,79,character_speech,1,3,,KOTZELUCH.,#kotzeluch,36.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+136,136,GerDracor/holtei-die-kalkbrenner.xml,"Ich
+            will nicht nur ihr Vormund, sondern auch ihr Vor-Ohr und
+              Vor-Auge sein.",80,181,character_speech,1,3,,KOTZELUCH.,#kotzeluch,36.0,MALE,love,K,,1825.0,positive,emotions of affection
+137,137,GerDracor/holtei-die-kalkbrenner.xml,Zwölf Groschen sechs Pfennig!,0,29,character_speech,1,3,,BRIEFTRÄGER.,#brieftraeger,37.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+138,138,GerDracor/holtei-die-kalkbrenner.xml,Das ist ja furchtbar theuer.,0,28,character_speech,1,3,,KOTZELUCH.,#kotzeluch,38.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+139,139,GerDracor/holtei-die-kalkbrenner.xml,Dickes Papier!,0,14,character_speech,1,3,,BRIEFTRÄGER.,#brieftraeger,39.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+140,140,GerDracor/holtei-die-kalkbrenner.xml,– Hier ist auch die letzte Zeitung.,15,50,character_speech,1,3,,BRIEFTRÄGER.,#brieftraeger,39.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+141,141,GerDracor/holtei-die-kalkbrenner.xml,Ab.,0,3,stage_direction,1,3,speech_part,,#brieftraeger,39.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+142,142,GerDracor/holtei-die-kalkbrenner.xml,allein.,0,7,stage_direction,1,3,speech_part,,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+143,143,GerDracor/holtei-die-kalkbrenner.xml,"Na, nu wollen wir doch sehen –",0,30,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+144,144,GerDracor/holtei-die-kalkbrenner.xml,Öffnet den Brief.,0,17,stage_direction,1,3,inner_speech,,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+145,145,GerDracor/holtei-die-kalkbrenner.xml," »Meine liebe Jungfer
+            Braut!",0,40,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+146,146,GerDracor/holtei-die-kalkbrenner.xml,"(Aha, endlich.)",41,56,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+147,147,GerDracor/holtei-die-kalkbrenner.xml,"Ich bin recht gesund; es soll mich freuen, wenn Sie auch gesund
+            sind.",57,138,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+148,148,GerDracor/holtei-die-kalkbrenner.xml,"Ich bin Ihr Vetter, wo meine Mutter seelige befohlen hat, daß Sie ihn heirathen
+            sollen, weil Sie sonst von der ganzen Erbschaft nichts kriegen.",139,294,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+149,149,GerDracor/holtei-die-kalkbrenner.xml,"Da denk' ich wohl, daß
+            Sie mich nehmen werden, denn ich bin 28 Jahr alt, sonst bin ich ein Handlanger, der um's
+            Tagelohn arbeiten thut.",295,454,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+150,150,GerDracor/holtei-die-kalkbrenner.xml,"Deswegen war mir's sehr lieb, wie in den Zeitungen stand, daß
+            meine Mutter tod wäre.",455,551,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+151,151,GerDracor/holtei-die-kalkbrenner.xml,Grüßen Sie mir den Herrn Vormund sehr viele mal.,552,600,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,friendship,K,,1825.0,positive,emotions of affection
+152,152,GerDracor/holtei-die-kalkbrenner.xml,"Ich danke ihm
+            für seine An-Onkse in die Zeitungen, denn ich bin ein Handlanger, der um's Tagelohn
+            arbeiten thut, und grüße ihn sehr viele mal.",601,767,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+153,153,GerDracor/holtei-die-kalkbrenner.xml,"Ich grüße Sie viele mal, liebe Lowisel, Sie
+            sind ja meine Pflegeschwester, und",768,858,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+154,154,GerDracor/holtei-die-kalkbrenner.xml," wenn Sie mich heirathen, werde ich ihr
+            Mann sein.",0,62,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+155,155,GerDracor/holtei-die-kalkbrenner.xml,"Ich grüße Sie alle und auch meine Mutter, der ich stets verbleibe als dero
+            Freund, Lorenz Kegel, Handlanger in Breslau; wohnhaftig in Breslau vor dem Ziegelthore,
+            auf dem Wege nach Grüneiche in den Hundshäusern, die Nummer weiß ich nicht, es steht
+            aber ein Nußbaum vor der Thüre.",63,378,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,friendship,K,,1825.0,positive,emotions of affection
+156,156,GerDracor/holtei-die-kalkbrenner.xml,"Bostskript: da ich mir eben besinnen thu', daß meine
+            Mutter tod ist, so lasse ich sie nicht grüßen.",379,490,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+157,157,GerDracor/holtei-die-kalkbrenner.xml,"Noch Eins: meine Adresse hätten Sie nicht
+            gebraucht, denn ich komme ja selber bei Sie.",491,589,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+158,158,GerDracor/holtei-die-kalkbrenner.xml,"Diesen Brief habe ich nicht geschrieben,
+            denn ich habe mir die rechte Hand ein Bissel verbrannt.",590,698,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+159,159,GerDracor/holtei-die-kalkbrenner.xml,"Ich kann auch überhaupt nicht
+            schreiben, denn weil ich es nicht gelernt habe, denn weil ich frühzeitig unter dem
+            Militair-Wesen kam.",699,855,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+160,160,GerDracor/holtei-die-kalkbrenner.xml,"Diesen Brief schreibt die Lehnel von Knaut's drummen, die ist meine
+            gute Freundin und grüßt Ihnen schöne.",856,973,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,friendship,K,,1825.0,positive,emotions of affection
+161,161,GerDracor/holtei-die-kalkbrenner.xml,Ich grüße Sie vielmals.,974,997,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+162,162,GerDracor/holtei-die-kalkbrenner.xml,"Meinen Namen hab' ich
+            allein geschrieben.",998,1051,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+163,163,GerDracor/holtei-die-kalkbrenner.xml,Bostskript: Lorenz Kegel!«,1052,1078,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+164,164,GerDracor/holtei-die-kalkbrenner.xml,– – Daß dich das Wetter: das ist ein Brief.,0,43,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+165,165,GerDracor/holtei-die-kalkbrenner.xml,"Den will ich für's Erste doch für mich
+            behalten, denn wenn Louise ihn sieht, faßt sie schon im Voraus eine ungünstige Meinung
+            gegen Vetter Lorenz.",44,214,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+166,166,GerDracor/holtei-die-kalkbrenner.xml,Nun die Zeitungen!,215,233,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+167,167,GerDracor/holtei-die-kalkbrenner.xml,Fliegt sie schnell durch.,0,25,stage_direction,1,3,inner_speech,,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+168,168,GerDracor/holtei-die-kalkbrenner.xml,"
+            Osmanisches Reich, – Hydrioten – Pascha – Dauphin – Lord Mayor – König Jagd gehalten, –
+            linke Seite, – die Kammern haben – (hol' euch der Teufel!)",0,171,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+169,169,GerDracor/holtei-die-kalkbrenner.xml,"– Wissenschaftliche und
+            Kunst-Nachrichten, – ha, seh' ich Recht?",172,248,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+170,170,GerDracor/holtei-die-kalkbrenner.xml,"Kalkbrenner, – aus London, Concert in Berlin!",249,294,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+171,171,GerDracor/holtei-die-kalkbrenner.xml,"–
+            und ich kann nicht hin!",295,332,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+172,172,GerDracor/holtei-die-kalkbrenner.xml,Ich darf den Jungen nicht allein mit Louisen im Hause lassen;,333,394,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+173,173,GerDracor/holtei-die-kalkbrenner.xml," ich muß den Lümmel erwarten, den Kegel!",0,40,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+174,174,GerDracor/holtei-die-kalkbrenner.xml,"Unterdessen rückt der festliche
+            Tag heran, die Stunde schlägt, der Saal wird immer voller, – immer voller, immer voller!",41,173,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+175,175,GerDracor/holtei-die-kalkbrenner.xml,"Es wogt und drängt und harrt, – er kommt an; man reckt die Köpfe, ihn zu sehen; die
+            Instrumente werden gestimmt; die Ouvertüre geht an.",186,333,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+176,176,GerDracor/holtei-die-kalkbrenner.xml,O wie lang!,334,345,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+177,177,GerDracor/holtei-die-kalkbrenner.xml,Schließt doch!,346,360,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+178,178,GerDracor/holtei-die-kalkbrenner.xml,"schließt
+            doch!",361,387,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+179,179,GerDracor/holtei-die-kalkbrenner.xml,Er steht ja schon gerüstet!,388,415,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+180,180,GerDracor/holtei-die-kalkbrenner.xml,Noch ein Schluß!,416,432,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+181,181,GerDracor/holtei-die-kalkbrenner.xml,"Und noch ein Accord; noch ein Mal: da
+            hat der Componist noch ein Stückchen Papier leer gehabt; drum, drum, schrum, schrum.",433,567,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+182,182,GerDracor/holtei-die-kalkbrenner.xml,Endlich!,580,588,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+183,183,GerDracor/holtei-die-kalkbrenner.xml,Nun setzt er sich hin: vielilerile vilerilerie!,589,636,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+184,184,GerDracor/holtei-die-kalkbrenner.xml,– Ha!,637,642,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+185,185,GerDracor/holtei-die-kalkbrenner.xml,"Kalkbrenner spielt in
+            Berlin – und ich bin nichts, als ein gefesselt Weib!",643,729,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+186,186,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,3,speech_part,,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+187,187,GerDracor/holtei-die-kalkbrenner.xml,: Chinoise des Seiltänzers Foureaux.,4,40,stage_direction,1,3,speech_part,,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+188,188,GerDracor/holtei-die-kalkbrenner.xml,"
+            Ach, ich wollt', ich wär' in Berlin,
+            Wo der Kalkbrenner Alles entzückt und beglückt,
+            Könnt' ich hin zu dem Saale nur ziehn,
+            Den der weibliche Blumenflor schmückt.",0,211,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+189,189,GerDracor/holtei-die-kalkbrenner.xml,"Nein, kein Opfer wär' mir zu groß und zu schwer,
+            Einen Thaler Entree gäb' ich wonnevoll her,
+            Könnt' ich hin zu dem Saale nur ziehn;
+            Ach, ich wollt', ich wär' in Berlin, in Berlin,
+            Könnt' ich hin zu dem Saale nur ziehn,
+            Ach, ich wollt', ich wär' in Berlin!",224,539,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+190,190,GerDracor/holtei-die-kalkbrenner.xml,"
+            Ach, ich wollt', ich wär' in Berlin!",0,49,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+191,191,GerDracor/holtei-die-kalkbrenner.xml,"Glücklicher wär' ich ja heute als Herzog und Prinz,
+            Wären Flügel mir Aermsten verliehn!",62,161,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+192,192,GerDracor/holtei-die-kalkbrenner.xml,Hol' der Teufel die dumme Provinz!,174,208,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+193,193,GerDracor/holtei-die-kalkbrenner.xml,"In der Hauptstadt allein ist das Leben 'was werth,
+            Denn es jagt ein Concert dort das andre Concert;
+            Könnt' ich hin etc.",221,364,character_speech,1,3,,KOTZELUCH,#kotzeluch,40.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+194,194,GerDracor/holtei-die-kalkbrenner.xml,Ab zur Seite.,0,13,stage_direction,1,3,speech_part,,#kotzeluch,40.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+195,195,GerDracor/holtei-die-kalkbrenner.xml,"Lorenz Kegel tritt ein, durch die Mitte, einen Ranzen auf dem Rücken.",0,69,stage_direction,1,4,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+196,196,GerDracor/holtei-die-kalkbrenner.xml,Is das a Gasthaus?,0,18,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+197,197,GerDracor/holtei-die-kalkbrenner.xml,Man sitt keenen Wirth und nischte nich?,19,58,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+198,198,GerDracor/holtei-die-kalkbrenner.xml,– Malkehr??,59,70,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+199,199,GerDracor/holtei-die-kalkbrenner.xml,"– 's wird doch
+            ärnd Eener derheeme sein?",71,123,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+200,200,GerDracor/holtei-die-kalkbrenner.xml,"– Malkehr, ich will annen Schnaps!",124,158,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+201,201,GerDracor/holtei-die-kalkbrenner.xml,Oder 's kümmt Keener nich.,159,185,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+202,202,GerDracor/holtei-die-kalkbrenner.xml,Se wer'n wul wu andersch sein!,198,228,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+203,203,GerDracor/holtei-die-kalkbrenner.xml,?,228,229,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+204,204,GerDracor/holtei-die-kalkbrenner.xml,Gähnend.,0,8,stage_direction,1,4,inner_speech,,#lorenz,41.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+205,205,GerDracor/holtei-die-kalkbrenner.xml, Ich bin ucksig müde.,0,21,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+206,206,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,4,speech_part,,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+207,207,GerDracor/holtei-die-kalkbrenner.xml,": Hitze, Hitze, große Hitze etc., von Fink.",4,47,stage_direction,1,4,speech_part,,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+208,208,GerDracor/holtei-die-kalkbrenner.xml,"
+            In der allergrößten Hitze
+            Kumm' ich sieben Meilen her!",0,79,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+209,209,GerDracor/holtei-die-kalkbrenner.xml,"Meine Schuhe sein nischt nütze
+            Und mein Ranzen drückt su schwer.",92,168,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+210,210,GerDracor/holtei-die-kalkbrenner.xml,"Die verflischte Pustkarrethe
+            Fuhr su flink bei mir vurbei, didl dum!",181,261,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+211,211,GerDracor/holtei-die-kalkbrenner.xml,"Oder ich, wie tumb im Heete,
+            Immer duslich hingerdrei.",274,340,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+212,212,GerDracor/holtei-die-kalkbrenner.xml,"Didl dum, didl dum, dum,
+            Immer duslich hingerdrei.",353,415,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+213,213,GerDracor/holtei-die-kalkbrenner.xml,"Er legt den Ranzen unter den Kopf und setzt sich entschlafend auf den
+            Stuhl.",0,88,stage_direction,1,4,speech_part,,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+214,214,GerDracor/holtei-die-kalkbrenner.xml,"
+            Sol mich Der und Jener strofen,
+            Mir fällt's Ogelid schun zu.",0,85,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+215,215,GerDracor/holtei-die-kalkbrenner.xml,Ich will ock a Brünkel schlofen.,98,130,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+216,216,GerDracor/holtei-die-kalkbrenner.xml,"Fliegezeug, luss' mich in Ruh!",143,173,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,being moved,K,,1825.0,being moved,being moved
+217,217,GerDracor/holtei-die-kalkbrenner.xml,"Ach, ma kan sich artlich strecken –
+            Und kümmt Eener 'rei geprascht, didl dum!",186,275,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+218,218,GerDracor/holtei-die-kalkbrenner.xml,"Wird a mich wul irschte wecken,
+            Eh' b' a uf mich 'nei kallascht,
+            Didl dum, didl dum, dum,
+            Eh' b' a uf mich 'nei kallascht.",288,446,character_speech,1,4,,LORENZ.,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+219,219,GerDracor/holtei-die-kalkbrenner.xml,Er schläft.,0,11,stage_direction,1,4,speech_part,,#lorenz,41.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+220,220,GerDracor/holtei-die-kalkbrenner.xml,Lorenz schlafend.,0,17,stage_direction,1,5,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+221,221,GerDracor/holtei-die-kalkbrenner.xml,Fritz.,18,24,stage_direction,1,5,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+222,222,GerDracor/holtei-die-kalkbrenner.xml,Es hat mir Eener jerufen!,0,25,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+223,223,GerDracor/holtei-die-kalkbrenner.xml,– Da liegt er und schläft.,26,52,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+224,224,GerDracor/holtei-die-kalkbrenner.xml,"O Jott, wie sanfte!",53,72,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,love,K,,1825.0,positive,emotions of affection
+225,225,GerDracor/holtei-die-kalkbrenner.xml,"Des is en
+            Reisender von die englische Ratze: allens zu Fuße.",73,145,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+226,226,GerDracor/holtei-die-kalkbrenner.xml,"Mensch, wie liegst Du da?",146,171,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,being moved,K,,1825.0,being moved,being moved
+227,227,GerDracor/holtei-die-kalkbrenner.xml,"Wie'n
+            bleierner Vogel.",172,206,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+228,228,GerDracor/holtei-die-kalkbrenner.xml,"Wenn der Träume hat, so träumt ihn jewiss von eine jroße Mahlzeit, wo
+            er an Tische sitzt und nichts zu essen kriegt.",207,335,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+229,229,GerDracor/holtei-die-kalkbrenner.xml,"– Hier wirst Du och nicht satt werden,
+            armer Wanderer!",336,402,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,compassion,K,,1825.0,negative,emotions of suffering and empathy
+230,230,GerDracor/holtei-die-kalkbrenner.xml,"Wie mir der Deibel hierher in diese Kneipe verschlagen hat, des wees er
+            alleene nich mehr.",403,505,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+231,231,GerDracor/holtei-die-kalkbrenner.xml,"Und wenn er es weeß, kann er's nicht verantworten.",506,556,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+232,232,GerDracor/holtei-die-kalkbrenner.xml,"Ach Berlin,
+            Berlin, in Deine Jefilde jing es anders zu: Ehre, Reichthum, Liebe, Essen, Trinken,
+            Weißbier, Wurst: die Hülle und die Fülle!",557,718,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+233,233,GerDracor/holtei-die-kalkbrenner.xml,"– Aber na nu, Herr Mensch, wachen Sie auf!",719,761,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+234,234,GerDracor/holtei-die-kalkbrenner.xml,Haben Sie mir jerufen?,774,796,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+235,235,GerDracor/holtei-die-kalkbrenner.xml,Nu bin ick da.,797,811,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+236,236,GerDracor/holtei-die-kalkbrenner.xml,Was steht in Ihre Wünsche?,812,838,character_speech,1,5,,FRITZ.,#fritz,42.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+237,237,GerDracor/holtei-die-kalkbrenner.xml,halb im Schlafe.,0,16,stage_direction,1,5,speech_part,,#lorenz,43.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+238,238,GerDracor/holtei-die-kalkbrenner.xml,Was giebt's denn?,0,17,character_speech,1,5,,LORENZ,#lorenz,43.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+239,239,GerDracor/holtei-die-kalkbrenner.xml,Hot's ke Feuer meh' im Ufen?,18,46,character_speech,1,5,,LORENZ,#lorenz,43.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+240,240,GerDracor/holtei-die-kalkbrenner.xml,für sich.,0,9,stage_direction,1,5,speech_part,,#fritz,44.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+241,241,GerDracor/holtei-die-kalkbrenner.xml,Jute Sprache spricht die Bolle so weit.,0,39,character_speech,1,5,,FRITZ,#fritz,44.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+242,242,GerDracor/holtei-die-kalkbrenner.xml,– Seind Sie en Ausländer?,40,65,character_speech,1,5,,FRITZ,#fritz,44.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+243,243,GerDracor/holtei-die-kalkbrenner.xml,der sich ermuntert.,0,19,stage_direction,1,5,speech_part,,#lorenz,45.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+244,244,GerDracor/holtei-die-kalkbrenner.xml,"Ne, ich bin a Schlesinger.",0,26,character_speech,1,5,,LORENZ,#lorenz,45.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+245,245,GerDracor/holtei-die-kalkbrenner.xml,für sich.,0,9,stage_direction,1,5,speech_part,,#fritz,46.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+246,246,GerDracor/holtei-die-kalkbrenner.xml,Der Kerl is nich bitter.,0,24,character_speech,1,5,,FRITZ,#fritz,46.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+247,247,GerDracor/holtei-die-kalkbrenner.xml,Laut.,0,5,stage_direction,1,5,inner_speech,,#fritz,46.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+248,248,GerDracor/holtei-die-kalkbrenner.xml, Was wollen Sie denn aber hier?,0,31,character_speech,1,5,,FRITZ,#fritz,46.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+249,249,GerDracor/holtei-die-kalkbrenner.xml,listig.,0,7,stage_direction,1,5,speech_part,,#lorenz,47.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+250,250,GerDracor/holtei-die-kalkbrenner.xml,Das sa't ma nich a su.,0,22,character_speech,1,5,,LORENZ,#lorenz,47.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+251,251,GerDracor/holtei-die-kalkbrenner.xml,– Jetzunder will ich an'n Schnaps.,23,57,character_speech,1,5,,LORENZ,#lorenz,47.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+252,252,GerDracor/holtei-die-kalkbrenner.xml,Flasche etc.,0,12,stage_direction,1,5,speech_part,,#fritz,48.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+253,253,GerDracor/holtei-die-kalkbrenner.xml,vom Schenktisch holend.,13,36,stage_direction,1,5,speech_part,,#fritz,48.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+254,254,GerDracor/holtei-die-kalkbrenner.xml,Diesen können Sie besehen.,0,26,character_speech,1,5,,FRITZ,#fritz,48.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+255,255,GerDracor/holtei-die-kalkbrenner.xml,Trink' a mite.,0,14,character_speech,1,5,,LORENZ.,#lorenz,49.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+256,256,GerDracor/holtei-die-kalkbrenner.xml,Setz' a sich zu mir!,15,35,character_speech,1,5,,LORENZ.,#lorenz,49.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+257,257,GerDracor/holtei-die-kalkbrenner.xml,"Ich thu's immer mit a Malkehren halten thun, thu'
+            ich, wenn ich, daß ich uf der Landstraße bin.",36,143,character_speech,1,5,,LORENZ.,#lorenz,49.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+258,258,GerDracor/holtei-die-kalkbrenner.xml,"Denn meiner Muhme ihr Mann hot an'n Bruder
+            geha't, dam seine dritte Frau war annes Malkehrsch Wittib; – ne, Wittwe wullt' ich
+            sagen.",144,300,character_speech,1,5,,LORENZ.,#lorenz,49.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+259,259,GerDracor/holtei-die-kalkbrenner.xml,"Na, Wittwe oder Wittib, des, dächt' ich, wäre Mus wie Mine.",0,59,character_speech,1,5,,FRITZ.,#fritz,50.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+260,260,GerDracor/holtei-die-kalkbrenner.xml,"Ne, das is nich Mis wie Mume.",0,29,character_speech,1,5,,LORENZ.,#lorenz,51.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+261,261,GerDracor/holtei-die-kalkbrenner.xml,"Eine Wittib wil nich meh heirathen; – oder
+            eine Wittwe die wil!",30,105,character_speech,1,5,,LORENZ.,#lorenz,51.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+262,262,GerDracor/holtei-die-kalkbrenner.xml,Was?,0,4,character_speech,1,5,,FRITZ.,#fritz,52.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+263,263,GerDracor/holtei-die-kalkbrenner.xml,"Ja, die wil!",0,12,character_speech,1,5,,LORENZ.,#lorenz,53.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+264,264,GerDracor/holtei-die-kalkbrenner.xml,Sie sind eenzig!,0,16,character_speech,1,5,,FRITZ.,#fritz,54.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+265,265,GerDracor/holtei-die-kalkbrenner.xml,"– Sagen Sie, wer sind Sie denn eejentlich?",17,59,character_speech,1,5,,FRITZ.,#fritz,54.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+266,266,GerDracor/holtei-die-kalkbrenner.xml,Wie heeßen Sie denn?,60,80,character_speech,1,5,,FRITZ.,#fritz,54.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+267,267,GerDracor/holtei-die-kalkbrenner.xml,Aus der Taufe heeß ich Lorenz.,0,30,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+268,268,GerDracor/holtei-die-kalkbrenner.xml,"Oder ich ha meinen Namen amol a'm kleenen Pathel abgeben
+            müssen; nu loof' ich derweile a su rüm.",31,139,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+269,269,GerDracor/holtei-die-kalkbrenner.xml,"Ich bin a Kalkbrenner, aus der Kalkbrennerei in
+            Grüneiche bei Breslau.",140,222,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+270,270,GerDracor/holtei-die-kalkbrenner.xml,"In frühern Zeiten stund ich wul bei a'm Mohler in Kundition; do
+            ging mersch gutt; do hatt' ich mich schund vom Farbereiber bis zum Stubenmohler empor
+            geschwungen; denn ich wußte mit a Kaleren umzugihn, wusst' ich.",223,460,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+271,271,GerDracor/holtei-die-kalkbrenner.xml,"Su a Bukettel aber a
+            Galandel an de Wand zu schmeissen, das war mir wie gemaust.",461,553,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+272,272,GerDracor/holtei-die-kalkbrenner.xml,"Meine Parforsche bestund
+            aber im Marmelieren; do dermite hätt' ich mich künnen in allen Ländern sehen lussen; eb
+            gleich jedes Land seine eegenthümlichen Kaleren hot.",554,743,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+273,273,GerDracor/holtei-die-kalkbrenner.xml,"Denn wenn nich ein jedes Land seine
+            Kaleren hätte, wie wär' denn dazumalen der Franzose ei  Rußland derfroren,
+            frog' ich?",744,889,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+274,274,GerDracor/holtei-die-kalkbrenner.xml,"Denn wenn a wär' ei's Murgenland gegangen, do wär' a nich derfroren, denn
+            durte is's heeßer; vunzemol wenn de Sunne scheint; oder ei Rußland is's rasnige kalt,
+            vunzemol im Winter, und der Franzose is halt übertrieben weechkatschig Zeug; do derfrur
+            a haldig; und do hatt' a verspielt; und su hot jedes Land seine Kaleren.",890,1246,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+275,275,GerDracor/holtei-die-kalkbrenner.xml,"Ader was ich
+            eegentlich sagen wullte: wie ich als Stubenmohler meine Sachen machte, do kam ich doch
+            amol schrecklich sihr in de Verlegenheet.",1247,1412,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+276,276,GerDracor/holtei-die-kalkbrenner.xml,"Ich sullte bei Eenem de Stube mohlen, – ich
+            weeß's noch wie heute, 's war kaiseraugenblau, – und do verlangt' ich ein Frühstücke.",1413,1554,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+277,277,GerDracor/holtei-die-kalkbrenner.xml,"Do
+            drüber wurde der Mensch reene tücksch und nu wusst' a gar nich, wie a mich kujenieren
+            sullte.",1555,1675,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+278,278,GerDracor/holtei-die-kalkbrenner.xml,"Alle queer Finger lang kummandiert' a 'was Andersch und uf de Letzte verlangt' a
+            gor, ich sellt' ihm eenen Engel an de Decke mohlen.",1676,1820,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,love,K,,1825.0,positive,emotions of affection
+279,279,GerDracor/holtei-die-kalkbrenner.xml,"Nu künnen Se mersch globen, nu stund
+            ich do wie a Oelgötze.",1821,1892,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+280,280,GerDracor/holtei-die-kalkbrenner.xml,"Uf's Englische hatt' ich mich noch nich verlegt; wu sullt' ich nu
+            a Engel herkriegen.",1893,1990,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+281,281,GerDracor/holtei-die-kalkbrenner.xml,"Und wie ich mich in meiner Herzensangst zum Fenster 'nauslege und
+            simmeliere, do kümmt a kleener Junge de Gasse 'rufgetapert, barbsbeenig und überhaupt
+            halb nackigt – do ging mer a Licht uf.",1991,2205,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+282,282,GerDracor/holtei-die-kalkbrenner.xml,"Dan Jungen ruf' ich mer und versprech' em a paar
+            Gröschel.",2206,2276,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+283,283,GerDracor/holtei-die-kalkbrenner.xml,"Nu nehm' ich Berliner roth und Kremser weiß, mansch mer Beedes untersammen, –
+            's wurde eine Fleeschfarbe zum küssen!",2277,2405,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,Schadenfreude,K,,1825.0,positive,emotions of pleasure
+284,284,GerDracor/holtei-die-kalkbrenner.xml,"Nu zieh' ich mer meinen kleenen Jungen vollends
+            aus, krieg' en beim Kribse, tunk' mer'n ei de Fleeschfarbe, rühr' mer'n an Weilchen
+            drinne rum, dernoch steig' ich mit ihm de Leiter empor und schmeiss' en gegen a Plafon.",2406,2649,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+285,285,GerDracor/holtei-die-kalkbrenner.xml,"Der Junge fiel gleich wieder 'runder, ader der Engel blieb  kleben.",2662,2729,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+286,286,GerDracor/holtei-die-kalkbrenner.xml,"Nu
+            steckt' ich em ane gelbe Trompete ei's Maul und zug a Bissel Gewölke drüm 'rüm, – und
+            wenn Sie, daß Sie jetzunder 'nei kummen, da möchten Se druf schwären, daß der Engel
+            Gabriel an'n Tusch bläst.",2730,2964,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,Schadenfreude,K,,1825.0,positive,emotions of pleasure
+287,287,GerDracor/holtei-die-kalkbrenner.xml,"Und do bläst a, do bläst a und do bläst a!",2965,3007,character_speech,1,5,,LORENZ.,#lorenz,55.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+288,288,GerDracor/holtei-die-kalkbrenner.xml,"Aber bei diese Jelejenheet weeß ick immer noch nich, wie Sie heeßen?",0,68,character_speech,1,5,,FRITZ.,#fritz,56.0,MALE,being moved,K,,1825.0,being moved,being moved
+289,289,GerDracor/holtei-die-kalkbrenner.xml,Ich ha's ja schund gesa't.,0,26,character_speech,1,5,,LORENZ.,#lorenz,57.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+290,290,GerDracor/holtei-die-kalkbrenner.xml,"Eh'b ich meinen Vornamen dam kleenen Pathel gegeben hatte,
+            hieß ich Lorenz; und mit meinem Zunamen heess' ich Kegel.",27,155,character_speech,1,5,,LORENZ.,#lorenz,57.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+291,291,GerDracor/holtei-die-kalkbrenner.xml,Lorenz Kegel aus Breslau.,156,181,character_speech,1,5,,LORENZ.,#lorenz,57.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+292,292,GerDracor/holtei-die-kalkbrenner.xml,Was?,0,4,character_speech,1,5,,FRITZ.,#fritz,58.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+293,293,GerDracor/holtei-die-kalkbrenner.xml,Sie sind?,5,14,character_speech,1,5,,FRITZ.,#fritz,58.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+294,294,GerDracor/holtei-die-kalkbrenner.xml,Für sich.,0,9,stage_direction,1,5,inner_speech,,#fritz,58.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+295,295,GerDracor/holtei-die-kalkbrenner.xml," Donnerwetter, das muß ich dem jungen Herrn
+            melden, da kann ich jutes Trinkjeld fassen.",0,99,character_speech,1,5,,FRITZ.,#fritz,58.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+296,296,GerDracor/holtei-die-kalkbrenner.xml,"Er will schnell ab, an der Thüre begegnet ihm.",0,46,stage_direction,1,5,speech_part,,#fritz,58.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+297,297,GerDracor/holtei-die-kalkbrenner.xml,Kotzeluch.,0,10,stage_direction,1,6,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+298,298,GerDracor/holtei-die-kalkbrenner.xml,Vorige.,11,18,stage_direction,1,6,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+299,299,GerDracor/holtei-die-kalkbrenner.xml,Dann Franz und Louise.,19,41,stage_direction,1,6,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+300,300,GerDracor/holtei-die-kalkbrenner.xml,Wer ist der Fremde?,0,19,character_speech,1,6,,KOTZELUCH.,#kotzeluch,59.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+301,301,GerDracor/holtei-die-kalkbrenner.xml,"indem er sich fortschleicht, sehr verlegen.",0,43,stage_direction,1,6,speech_part,,#fritz,60.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+302,302,GerDracor/holtei-die-kalkbrenner.xml,"Ich weeß nich; er spricht so komisch; er sagt, er wäre en Kalkbrenner.",0,70,character_speech,1,6,,FRITZ,#fritz,60.0,MALE,being moved,K,,1825.0,being moved,being moved
+303,303,GerDracor/holtei-die-kalkbrenner.xml,Schnell ab.,0,11,stage_direction,1,6,speech_part,,#fritz,60.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+304,304,GerDracor/holtei-die-kalkbrenner.xml,Kalkbrenner?,0,12,character_speech,1,6,,KOTZELUCH.,#kotzeluch,61.0,MALE,being moved,K,,1825.0,being moved,being moved
+305,305,GerDracor/holtei-die-kalkbrenner.xml,– Wie?,13,19,character_speech,1,6,,KOTZELUCH.,#kotzeluch,61.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+306,306,GerDracor/holtei-die-kalkbrenner.xml,– Wär's möglich?,20,36,character_speech,1,6,,KOTZELUCH.,#kotzeluch,61.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+307,307,GerDracor/holtei-die-kalkbrenner.xml,– Der wunderbare Anzug?,37,60,character_speech,1,6,,KOTZELUCH.,#kotzeluch,61.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+308,308,GerDracor/holtei-die-kalkbrenner.xml,Zu Fuße?,61,69,character_speech,1,6,,KOTZELUCH.,#kotzeluch,61.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+309,309,GerDracor/holtei-die-kalkbrenner.xml,Englisch?,70,79,character_speech,1,6,,KOTZELUCH.,#kotzeluch,61.0,MALE,being moved,K,,1825.0,being moved,being moved
+310,310,GerDracor/holtei-die-kalkbrenner.xml,"–
+            Kalkbrenner?",80,106,character_speech,1,6,,KOTZELUCH.,#kotzeluch,61.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+311,311,GerDracor/holtei-die-kalkbrenner.xml,"Nu jekersch, stell' a sich ock nich a su taprich.",0,49,character_speech,1,6,,LORENZ.,#lorenz,62.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+312,312,GerDracor/holtei-die-kalkbrenner.xml,Sol' ich's ärnd nich sein?,50,76,character_speech,1,6,,LORENZ.,#lorenz,62.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+313,313,GerDracor/holtei-die-kalkbrenner.xml,Er redet englisch: er ist's!,0,28,character_speech,1,6,,KOTZELUCH.,#kotzeluch,63.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+314,314,GerDracor/holtei-die-kalkbrenner.xml,Heil ist meinem Hause widerfahren!,29,63,character_speech,1,6,,KOTZELUCH.,#kotzeluch,63.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+315,315,GerDracor/holtei-die-kalkbrenner.xml,erscheinen horchend an der Thür.,0,32,stage_direction,1,6,speech_part,,#franz #louise,64.0,UNKNOWN,abhorrence,K,,1825.0,negative,emotions of rejection
+316,316,GerDracor/holtei-die-kalkbrenner.xml,Mann!,0,5,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+317,317,GerDracor/holtei-die-kalkbrenner.xml,Künstler!,6,15,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+318,318,GerDracor/holtei-die-kalkbrenner.xml,"Ihren hohen Genium verehrend, nah' ich mich Ihnen im Staube!",16,76,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+319,319,GerDracor/holtei-die-kalkbrenner.xml,"Wie kommen
+            Sie so schnell von Berlin hierher?",77,134,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+320,320,GerDracor/holtei-die-kalkbrenner.xml,Wann folgt Ihr Fortepiano nach?,135,166,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+321,321,GerDracor/holtei-die-kalkbrenner.xml,"Werden Sie lange hier
+            verweilen?",167,211,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+322,322,GerDracor/holtei-die-kalkbrenner.xml,"Würden Sie sich vielleicht gar erflehen lassen, ein Konzert zu geben?",212,281,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+323,323,GerDracor/holtei-die-kalkbrenner.xml,"Ich
+            stehe für einen vollen Saal!",282,326,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+324,324,GerDracor/holtei-die-kalkbrenner.xml,Ich bin hier ein Mann von Bedeutung.,327,363,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+325,325,GerDracor/holtei-die-kalkbrenner.xml,"Die Leute
+              müssen Billets kaufen.",364,410,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+326,326,GerDracor/holtei-die-kalkbrenner.xml,"Ich habe Mittel in Händen, sie zu zwingen.",411,453,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+327,327,GerDracor/holtei-die-kalkbrenner.xml,"Ich
+            allein schon nehme ein Dutzend für mich und mein Haus.",454,524,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+328,328,GerDracor/holtei-die-kalkbrenner.xml,– Reden Sie!,525,537,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+329,329,GerDracor/holtei-die-kalkbrenner.xml,Ich beschwöre Sie!,538,556,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,being moved,K,,1825.0,being moved,being moved
+330,330,GerDracor/holtei-die-kalkbrenner.xml,"Und wenn Sie Ihre Muttersprache in London verlernt haben, reden Sie Englisch; und wenn
+            Sie noch nicht Englisch können, reden Sie gar nicht; nur einen, irgend einen Ton geben
+            Sie von sich; wir werden uns schon verständigen.",569,815,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+331,331,GerDracor/holtei-die-kalkbrenner.xml,Mensch – Kalkbrenner –,816,838,character_speech,1,6,,KOTZELUCH.,#kotzeluch,65.0,MALE,being moved,K,,1825.0,being moved,being moved
+332,332,GerDracor/holtei-die-kalkbrenner.xml,der schon abwechselnd mit Furcht und Zorn gekämpft.,0,51,stage_direction,1,6,speech_part,,#lorenz,66.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+333,333,GerDracor/holtei-die-kalkbrenner.xml,"Hir' a, jetzunder giht a, – oder ich ... der Kerle is wul gar tälsch?",0,69,character_speech,1,6,,LORENZ,#lorenz,66.0,MALE,being moved,K,,1825.0,being moved,being moved
+334,334,GerDracor/holtei-die-kalkbrenner.xml,Er drückt sich fortwährend Englisch aus.,0,40,character_speech,1,6,,KOTZELUCH.,#kotzeluch,67.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+335,335,GerDracor/holtei-die-kalkbrenner.xml,Franz und Louise erblickend.,0,28,stage_direction,1,6,inner_speech,,#kotzeluch,67.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+336,336,GerDracor/holtei-die-kalkbrenner.xml,"
+            Kinder, kommt mir zu Hilfe!",0,40,character_speech,1,6,,KOTZELUCH.,#kotzeluch,67.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+337,337,GerDracor/holtei-die-kalkbrenner.xml,"Hier steht der große Meister, der Kalkbrenner, von dem alle
+            Blätter sprechen; der in London für seine Unterrichtstunden pfundweise bezahlt worden
+            ist und in seinen Conzerten immer viele Centner eingenommen hat.",41,275,character_speech,1,6,,KOTZELUCH.,#kotzeluch,67.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+338,338,GerDracor/holtei-die-kalkbrenner.xml,"Bittet ihn, daß er uns
+            hier mit Tönen beglücke.",276,335,character_speech,1,6,,KOTZELUCH.,#kotzeluch,67.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+339,339,GerDracor/holtei-die-kalkbrenner.xml,leise.,0,6,stage_direction,1,6,speech_part,,#franz,68.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+340,340,GerDracor/holtei-die-kalkbrenner.xml,Glücklicher Irrthum!,0,20,character_speech,1,6,,FRANZ,#franz,68.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+341,341,GerDracor/holtei-die-kalkbrenner.xml,eben so.,0,8,stage_direction,1,6,speech_part,,#louise,69.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+342,342,GerDracor/holtei-die-kalkbrenner.xml,Wir wollen ihn nähren.,0,22,character_speech,1,6,,LOUISE,#louise,69.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+343,343,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,6,speech_part,,#louise #franz #kotzeluch,70.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+344,344,GerDracor/holtei-die-kalkbrenner.xml,: Mahadöh der Herr der Erde etc.,4,36,stage_direction,1,6,speech_part,,#louise #franz #kotzeluch,70.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+345,345,GerDracor/holtei-die-kalkbrenner.xml,"
+            Großer Mann, lass' Dich erflehen,
+            Gieb den Bitten gütig nach!",0,86,character_speech,1,6,,LOUISE. FRANZ. KOTZELUCH.,#louise #franz #kotzeluch,70.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+346,346,GerDracor/holtei-die-kalkbrenner.xml,"Magst Du uns hier winseln sehen,
+            Hörst Du kalt ein flehend: Ach??",99,176,character_speech,1,6,,LOUISE. FRANZ. KOTZELUCH.,#louise #franz #kotzeluch,70.0,UNKNOWN,suffering,K,,1825.0,negative,emotions of suffering and empathy
+347,347,GerDracor/holtei-die-kalkbrenner.xml,"Könnt' es Deinen Ruhm verringern,
+            Wenn Du, eh' Du weiter strebst,
+            Mit den kunstgelenken Fingern
+            Dieser Stadt die Weihe gäbst?",189,350,character_speech,1,6,,LOUISE. FRANZ. KOTZELUCH.,#louise #franz #kotzeluch,70.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+348,348,GerDracor/holtei-die-kalkbrenner.xml,"Wir werfen vor Dir uns im Staube danieder,
+            O, sei doch barmherzig, erhebe uns wieder,
+            O, gieb hier in Süptiz, o, gieb ein Concert!",363,517,character_speech,1,6,,LOUISE. FRANZ. KOTZELUCH.,#louise #franz #kotzeluch,70.0,UNKNOWN,suffering,K,,1825.0,negative,emotions of suffering and empathy
+349,349,GerDracor/holtei-die-kalkbrenner.xml,!,517,518,character_speech,1,6,,LOUISE. FRANZ. KOTZELUCH.,#louise #franz #kotzeluch,70.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+350,350,GerDracor/holtei-die-kalkbrenner.xml,halb für sich.,0,14,stage_direction,1,6,speech_part,,#lorenz,71.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+351,351,GerDracor/holtei-die-kalkbrenner.xml,Nu sein se alle Drei verruckt gewur'n.,0,38,character_speech,1,6,,LORENZ,#lorenz,71.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+352,352,GerDracor/holtei-die-kalkbrenner.xml,"Ich sa lieber gar nischte mehr, suste schnapp'
+            ich ooch über.",39,112,character_speech,1,6,,LORENZ,#lorenz,71.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+353,353,GerDracor/holtei-die-kalkbrenner.xml,leise zu ihm.,0,13,stage_direction,1,6,speech_part,,#franz,72.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+354,354,GerDracor/holtei-die-kalkbrenner.xml,Geben Sie nach: Sie können Ihr Glück machen.,0,44,character_speech,1,6,,FRANZ,#franz,72.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+355,355,GerDracor/holtei-die-kalkbrenner.xml,"Sie sagen, Sie wären Kalkbrenner, Sie wollen ein Concert geben, Sie verdienen viel
+            Geld.",0,100,character_speech,1,6,,LOUISE.,#louise,73.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+356,356,GerDracor/holtei-die-kalkbrenner.xml,Oder ich kann ju nich –,0,23,character_speech,1,6,,LORENZ.,#lorenz,74.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+357,357,GerDracor/holtei-die-kalkbrenner.xml,Das wird sich Alles finden.,0,27,character_speech,1,6,,FRANZ.,#franz,75.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+358,358,GerDracor/holtei-die-kalkbrenner.xml,Sagen Sie nur ja.,28,45,character_speech,1,6,,FRANZ.,#franz,75.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+359,359,GerDracor/holtei-die-kalkbrenner.xml,noch auf den Knieen.,0,20,stage_direction,1,6,speech_part,,#kotzeluch,76.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+360,360,GerDracor/holtei-die-kalkbrenner.xml,Was entscheidet er über mein Geschick?,0,38,character_speech,1,6,,KOTZELUCH,#kotzeluch,76.0,MALE,being moved,K,,1825.0,being moved,being moved
+361,361,GerDracor/holtei-die-kalkbrenner.xml,Er giebt nach.,0,14,character_speech,1,6,,FRANZ.,#franz,77.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+362,362,GerDracor/holtei-die-kalkbrenner.xml,Er will!,0,8,character_speech,1,6,,LOUISE.,#louise,78.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+363,363,GerDracor/holtei-die-kalkbrenner.xml,"Nu, – wenn's nicht andersch sein kan, – do wil' ich.",0,52,character_speech,1,6,,LORENZ.,#lorenz,79.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+364,364,GerDracor/holtei-die-kalkbrenner.xml,aufspringend.,0,13,stage_direction,1,6,speech_part,,#kotzeluch,80.0,MALE,being moved,K,,1825.0,being moved,being moved
+365,365,GerDracor/holtei-die-kalkbrenner.xml,Er will!,0,8,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+366,366,GerDracor/holtei-die-kalkbrenner.xml,– Himmel!,9,18,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+367,367,GerDracor/holtei-die-kalkbrenner.xml,Musen!,19,25,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+368,368,GerDracor/holtei-die-kalkbrenner.xml,Olymp!,26,32,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+369,369,GerDracor/holtei-die-kalkbrenner.xml,Er will!,33,41,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+370,370,GerDracor/holtei-die-kalkbrenner.xml,Ihm die Hand küssend.,0,21,stage_direction,1,6,inner_speech,,#kotzeluch,80.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+371,371,GerDracor/holtei-die-kalkbrenner.xml," Nun
+            seht, Kinder, seht diese Hände an, – diese Hornhäute!",0,70,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+372,372,GerDracor/holtei-die-kalkbrenner.xml,"Wie muß der Mann auf dem Klavier
+            herumgearbeitet haben!",71,138,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,being moved,K,,1825.0,being moved,being moved
+373,373,GerDracor/holtei-die-kalkbrenner.xml,Förmliche Hühneraugen hat er auf den Fingern.,139,184,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+374,374,GerDracor/holtei-die-kalkbrenner.xml,"– Dank, tausend
+            Dank, hoher Meister.",185,233,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+375,375,GerDracor/holtei-die-kalkbrenner.xml,Augenblicklich soll ein Instrument gebracht werden.,234,285,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+376,376,GerDracor/holtei-die-kalkbrenner.xml,"– In der Stadt
+            muß man es austrommeln lassen; – die Sturmglocke muß man läuten.",286,377,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+377,377,GerDracor/holtei-die-kalkbrenner.xml,"– Ach, so schnell
+            erfüllen sich meine kühnsten Wünsche.",378,445,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+378,378,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,6,speech_part,,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+379,379,GerDracor/holtei-die-kalkbrenner.xml,: Es ist nichts mit den alten Weibern etc.,4,46,stage_direction,1,6,speech_part,,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+380,380,GerDracor/holtei-die-kalkbrenner.xml,"
+            Ha, mir strahlt nun die größte Wonne,
+            Dieser Künstler giebt ein Concert;
+            Leuchte heller, Du hohe Sonne,
+            Auf den Gastwirth zur goldnen Tonne,
+            Wer's nicht fühlt, ist ein dummes Pferd.",0,242,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+381,381,GerDracor/holtei-die-kalkbrenner.xml,"
+            Vom Dezember zum ersten Jänner,
+            Denk' ich täglich an diesen Tag,
+            Wo zur Freude für alle Kenner,
+            Der unsterbliche Kalkbrenner
+            Bei mir im Quartiere lag.",0,211,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+382,382,GerDracor/holtei-die-kalkbrenner.xml,"
+            Streicht die Bogen und spannt die Saiten!",0,54,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+383,383,GerDracor/holtei-die-kalkbrenner.xml,"Ich lauf' in der Stadt herum:
+            Jeder Bürger muß subscribieren,
+            In's Concert will ich Alle führen,
+            Unser ganzes Publikum.",67,222,character_speech,1,6,,KOTZELUCH,#kotzeluch,80.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+384,384,GerDracor/holtei-die-kalkbrenner.xml,Schnell ab.,0,11,stage_direction,1,6,speech_part,,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+385,385,GerDracor/holtei-die-kalkbrenner.xml,Lorenz.,0,7,stage_direction,1,6,speech_part,,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+386,386,GerDracor/holtei-die-kalkbrenner.xml,Louise.,8,15,stage_direction,1,6,speech_part,,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+387,387,GerDracor/holtei-die-kalkbrenner.xml,Franz.,16,22,stage_direction,1,6,speech_part,,#kotzeluch,80.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+388,388,GerDracor/holtei-die-kalkbrenner.xml,"Nu sa'n se mer ock um Alles in der Welt, was hot denn dieser Man im Kuppe?",0,74,character_speech,1,6,,LORENZ.,#lorenz,81.0,MALE,being moved,K,,1825.0,being moved,being moved
+389,389,GerDracor/holtei-die-kalkbrenner.xml,"Ihr Bestes, Freund.",0,19,character_speech,1,6,,FRANZ.,#franz,82.0,MALE,friendship,K,,1825.0,positive,emotions of affection
+390,390,GerDracor/holtei-die-kalkbrenner.xml,"Man wird in Sie dringen, ein Conzert zu geben.",20,66,character_speech,1,6,,FRANZ.,#franz,82.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+391,391,GerDracor/holtei-die-kalkbrenner.xml,"Lassen Sie sich's
+            gefallen.",67,106,character_speech,1,6,,FRANZ.,#franz,82.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+392,392,GerDracor/holtei-die-kalkbrenner.xml,Man wird Ihnen Billets abkaufen; das lassen Sie sich auch gefallen.,107,174,character_speech,1,6,,FRANZ.,#franz,82.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+393,393,GerDracor/holtei-die-kalkbrenner.xml,"Wenn es
+            aber dazu kommt, daß Sie wirklich spielen sollen, so machen Sie sich mit dem Gelde
+            heimlich aus dem Staube und kehren Sie nie wieder in diese Stadt.",175,355,character_speech,1,6,,FRANZ.,#franz,82.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+394,394,GerDracor/holtei-die-kalkbrenner.xml,"Wir wollen Ihnen zur
+            Flucht behilflich sein.",356,412,character_speech,1,6,,FRANZ.,#franz,82.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+395,395,GerDracor/holtei-die-kalkbrenner.xml,Und das gewiß von ganzem Herzen.,0,32,character_speech,1,6,,FRANZ.,#franz,83.0,MALE,love,K,,1825.0,positive,emotions of affection
+396,396,GerDracor/holtei-die-kalkbrenner.xml,vertraulich.,0,12,stage_direction,1,6,speech_part,,#lorenz,84.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+397,397,GerDracor/holtei-die-kalkbrenner.xml,Ich muß ja in der Stadt bleiben; ich ha' eene Braut hie!,0,56,character_speech,1,6,,LORENZ,#lorenz,84.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+398,398,GerDracor/holtei-die-kalkbrenner.xml,leise zu Louisen.,0,17,stage_direction,1,6,speech_part,,#franz,85.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+399,399,GerDracor/holtei-die-kalkbrenner.xml,Hörst Du's?,0,11,character_speech,1,6,,FRANZ,#franz,85.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+400,400,GerDracor/holtei-die-kalkbrenner.xml,Laut.,0,5,stage_direction,1,6,inner_speech,,#franz,85.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+401,401,GerDracor/holtei-die-kalkbrenner.xml, Eine Braut?,0,12,character_speech,1,6,,FRANZ,#franz,85.0,MALE,being moved,K,,1825.0,being moved,being moved
+402,402,GerDracor/holtei-die-kalkbrenner.xml,"Ei der Tausend, das mag ein schönes
+            Gewächs sein!",13,74,character_speech,1,6,,FRANZ,#franz,85.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+403,403,GerDracor/holtei-die-kalkbrenner.xml,drohend.,0,8,stage_direction,1,6,speech_part,,#louise,86.0,FEMALE,anger,K,,1825.0,negative,emotions of rejection
+404,404,GerDracor/holtei-die-kalkbrenner.xml,Du?,0,3,character_speech,1,6,,LOUISE,#louise,86.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+405,405,GerDracor/holtei-die-kalkbrenner.xml,Ich ha' se noch gar nich gesehn.,0,32,character_speech,1,6,,LORENZ.,#lorenz,87.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+406,406,GerDracor/holtei-die-kalkbrenner.xml,"Ich thät' mer och nischte nich draus machen, wenn
+            mer'sch nich um's Geld wär'!",33,123,character_speech,1,6,,LORENZ.,#lorenz,87.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+407,407,GerDracor/holtei-die-kalkbrenner.xml,"Uem das Geld, was se hot, bin ich nu hieher gekummen, durch
+            Dick und Dünne.",124,211,character_speech,1,6,,LORENZ.,#lorenz,87.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+408,408,GerDracor/holtei-die-kalkbrenner.xml,"Nu kan' ich doch nich wieder weglofen, wie a Narr?",212,262,character_speech,1,6,,LORENZ.,#lorenz,87.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+409,409,GerDracor/holtei-die-kalkbrenner.xml,Wenn Sie Herr Lorenz Kegel aus Breslau sind –,0,45,character_speech,1,6,,LOUISE.,#louise,88.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+410,410,GerDracor/holtei-die-kalkbrenner.xml,"Meiner Sieben, der bin ich.",0,27,character_speech,1,6,,LORENZ.,#lorenz,89.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+411,411,GerDracor/holtei-die-kalkbrenner.xml,"Derselbe, der vermöge des Testaments seiner Mutter, deren Pflegetochter, die Louise
+            Linse heirathen soll –",0,118,character_speech,1,6,,FRANZ.,#franz,90.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+412,412,GerDracor/holtei-die-kalkbrenner.xml,"Meiner Sieben, der bin ich –",0,28,character_speech,1,6,,LORENZ.,#lorenz,91.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+413,413,GerDracor/holtei-die-kalkbrenner.xml,"Dieselbe Louise, die, wie ich höre, bereits eine ganz ernsthafte Liaison mit einem
+            jungen Windbeutel hat –",0,118,character_speech,1,6,,LOUISE.,#louise,92.0,FEMALE,abhorrence,K,,1825.0,negative,emotions of rejection
+414,414,GerDracor/holtei-die-kalkbrenner.xml,Oho!,0,4,character_speech,1,6,,LORENZ.,#lorenz,93.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+415,415,GerDracor/holtei-die-kalkbrenner.xml,"So rath' ich Ihnen, als aufrichtige Freundin, sie fahren zu lassen.",0,67,character_speech,1,6,,LOUISE.,#louise,94.0,FEMALE,friendship,K,,1825.0,positive,emotions of affection
+416,416,GerDracor/holtei-die-kalkbrenner.xml,"Ihr
+            Liebhaber ist ein junger, wilder Mensch, voll von Tücken und Uebermuth.",68,155,character_speech,1,6,,LOUISE.,#louise,94.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+417,417,GerDracor/holtei-die-kalkbrenner.xml,"Es kommt ihm gar
+            nicht darauf an, Sie herauszufordern und sich mit Ihnen zu schießen.",156,253,character_speech,1,6,,LOUISE.,#louise,94.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+418,418,GerDracor/holtei-die-kalkbrenner.xml,"Ja, er könnte sogar
+            kapabel sein, Sie todt zu schießen.",254,321,character_speech,1,6,,LOUISE.,#louise,94.0,FEMALE,fear,K,,1825.0,negative,emotions of anxiety
+419,419,GerDracor/holtei-die-kalkbrenner.xml,–,322,323,character_speech,1,6,,LOUISE.,#louise,94.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+420,420,GerDracor/holtei-die-kalkbrenner.xml,Oho!,0,4,character_speech,1,6,,LORENZ.,#lorenz,95.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+421,421,GerDracor/holtei-die-kalkbrenner.xml,"Und dann zu thun, als ob es aus Versehen vorgefallen wäre.",0,58,character_speech,1,6,,LOUISE.,#louise,96.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+422,422,GerDracor/holtei-die-kalkbrenner.xml,"Er hat schon mehrere
+            Menschen Puff!",59,106,character_speech,1,6,,LOUISE.,#louise,96.0,FEMALE,Schadenfreude,K,,1825.0,positive,emotions of pleasure
+423,423,GerDracor/holtei-die-kalkbrenner.xml,– Sie verstehn mich?,107,127,character_speech,1,6,,LOUISE.,#louise,96.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+424,424,GerDracor/holtei-die-kalkbrenner.xml,Oho!,0,4,character_speech,1,6,,LORENZ.,#lorenz,97.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+425,425,GerDracor/holtei-die-kalkbrenner.xml,"Und wenn er gleich seine Braut gar nicht liebt, ihr nicht im Geringsten treu ist, so
+            läßt er doch schon aus Eigensinn nicht von ihr ab, weil's sein Vater nicht haben will,
+            daß sie sich lieben sollen.",0,223,character_speech,1,6,,LOUISE.,#louise,98.0,FEMALE,love,K,,1825.0,positive,emotions of affection
+426,426,GerDracor/holtei-die-kalkbrenner.xml,Demoiselle entwirft Ihnen da ein lebendiges Bild Ihres Nebenbuhlers.,0,68,character_speech,1,6,,FRANZ.,#franz,99.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+427,427,GerDracor/holtei-die-kalkbrenner.xml,"Sollte der aber
+            noch so schonend mit Ihnen umgehn, – immer danken Sie dem Himmel, wenn Sie Ihre Braut
+            los werden!",69,206,character_speech,1,6,,FRANZ.,#franz,99.0,MALE,compassion,K,,1825.0,negative,emotions of suffering and empathy
+428,428,GerDracor/holtei-die-kalkbrenner.xml,"Das ist, so schön sie aussieht, mit Respekt zu vermelden, ein wahrer Teufel!",207,283,character_speech,1,6,,FRANZ.,#franz,99.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+429,429,GerDracor/holtei-die-kalkbrenner.xml,Keine Hecke ist ihr zu hoch und keine Bosheit zu boshaft.,296,353,character_speech,1,6,,FRANZ.,#franz,99.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+430,430,GerDracor/holtei-die-kalkbrenner.xml,"Sie ist kokett, zänkisch,
+            eitel, verschwenderisch, launenhaft, unbeständig, naseweis.",354,451,character_speech,1,6,,FRANZ.,#franz,99.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+431,431,GerDracor/holtei-die-kalkbrenner.xml,–,452,453,character_speech,1,6,,FRANZ.,#franz,99.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+432,432,GerDracor/holtei-die-kalkbrenner.xml,Genug!,0,6,character_speech,1,6,,LOUISE.,#louise,100.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+433,433,GerDracor/holtei-die-kalkbrenner.xml,genug!,7,13,character_speech,1,6,,LOUISE.,#louise,100.0,FEMALE,anger,K,,1825.0,negative,emotions of rejection
+434,434,GerDracor/holtei-die-kalkbrenner.xml,"Ich glaube, Sie werden nichts weiter zu hören wünschen?",14,69,character_speech,1,6,,LOUISE.,#louise,100.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+435,435,GerDracor/holtei-die-kalkbrenner.xml,Ne!,0,3,character_speech,1,6,,LORENZ.,#lorenz,101.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+436,436,GerDracor/holtei-die-kalkbrenner.xml,Fur heute ha ich genung vo allen Beeden!,4,44,character_speech,1,6,,LORENZ.,#lorenz,101.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+437,437,GerDracor/holtei-die-kalkbrenner.xml,Das sein ju a paar recht eseme Dingriche!,45,86,character_speech,1,6,,LORENZ.,#lorenz,101.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+438,438,GerDracor/holtei-die-kalkbrenner.xml,"Wenn mir ock, daß er mir nischte thäte thun, denn vur ihr ha ich keene
+            Bange nich.",99,193,character_speech,1,6,,LORENZ.,#lorenz,101.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+439,439,GerDracor/holtei-die-kalkbrenner.xml,"Ihr wölld' ich schund a Kuller vertreiben, wenn sie wöllde rebellern.",194,263,character_speech,1,6,,LORENZ.,#lorenz,101.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+440,440,GerDracor/holtei-die-kalkbrenner.xml,zu Louisen.,0,11,stage_direction,1,6,speech_part,,#franz,102.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+441,441,GerDracor/holtei-die-kalkbrenner.xml,Glänzende Aussichten!,0,21,character_speech,1,6,,FRANZ,#franz,102.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+442,442,GerDracor/holtei-die-kalkbrenner.xml,"verzweifelt, bei Seite.",0,23,stage_direction,1,6,speech_part,,#louise,103.0,FEMALE,despair,K,,1825.0,negative,emotions of anxiety
+443,443,GerDracor/holtei-die-kalkbrenner.xml,Wir gehn durch!,0,15,character_speech,1,6,,LOUISE,#louise,103.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+444,444,GerDracor/holtei-die-kalkbrenner.xml,leise.,0,6,stage_direction,1,6,speech_part,,#franz,104.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+445,445,GerDracor/holtei-die-kalkbrenner.xml,Wird nicht nöthig sein.,0,23,character_speech,1,6,,FRANZ,#franz,104.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+446,446,GerDracor/holtei-die-kalkbrenner.xml,Laut.,0,5,stage_direction,1,6,inner_speech,,#franz,104.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+447,447,GerDracor/holtei-die-kalkbrenner.xml," Freund, mein Rath ist der: Sie erwarten
+            hier meinen Vater, der Ihnen, wie ich seinen Eifer für die Musik kenne, gewiß sogleich
+            das Eintrittsgeld für Ihr zu gebendes Concert, von allen Nachbarn überbringt.",0,229,character_speech,1,6,,FRANZ,#franz,104.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+448,448,GerDracor/holtei-die-kalkbrenner.xml,"Sie nehmen
+            es –",230,257,character_speech,1,6,,FRANZ,#franz,104.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+449,449,GerDracor/holtei-die-kalkbrenner.xml,"I nu ja, das wil ich schund dermachen.",0,38,character_speech,1,6,,LORENZ.,#lorenz,105.0,MALE,Schadenfreude,K,,1825.0,positive,emotions of pleasure
+450,450,GerDracor/holtei-die-kalkbrenner.xml,"Und fordern, daß er Ihnen sobald als möglich eine Probe auf dem Saale oben arrangieren
+            soll.",0,104,character_speech,1,6,,FRANZ.,#franz,106.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+451,451,GerDracor/holtei-die-kalkbrenner.xml,"Dazu wird er augenblicklich bereit sein, und während er damit beschäftigt ist,
+            fliehen Sie, und lassen sich nie mehr in dieser Stadt sehen.",105,256,character_speech,1,6,,FRANZ.,#franz,106.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+452,452,GerDracor/holtei-die-kalkbrenner.xml,"Ja, das is schun gutt.",0,22,character_speech,1,6,,LORENZ.,#lorenz,107.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+453,453,GerDracor/holtei-die-kalkbrenner.xml,– Oder de Braut?,23,39,character_speech,1,6,,LORENZ.,#lorenz,107.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+454,454,GerDracor/holtei-die-kalkbrenner.xml,"Sehn Se, was wird Er mir denn bringen?",40,78,character_speech,1,6,,LORENZ.,#lorenz,107.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+455,455,GerDracor/holtei-die-kalkbrenner.xml,"A paar
+            lumpige Thaler.",79,113,character_speech,1,6,,LORENZ.,#lorenz,107.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+456,456,GerDracor/holtei-die-kalkbrenner.xml,Die nützen mir nischte nich.,114,142,character_speech,1,6,,LORENZ.,#lorenz,107.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+457,457,GerDracor/holtei-die-kalkbrenner.xml,Hingegen das Testamente ...,143,170,character_speech,1,6,,LORENZ.,#lorenz,107.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+458,458,GerDracor/holtei-die-kalkbrenner.xml,Wollen Sie von Ihrem Nebenbuhler umgebracht sein?,0,49,character_speech,1,6,,LOUISE.,#louise,108.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+459,459,GerDracor/holtei-die-kalkbrenner.xml,Ne!,0,3,character_speech,1,6,,LORENZ.,#lorenz,109.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+460,460,GerDracor/holtei-die-kalkbrenner.xml,Vertrau'n Sie mir.,0,18,character_speech,1,6,,FRANZ.,#franz,110.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+461,461,GerDracor/holtei-die-kalkbrenner.xml,"Sie können nichts Besseres thun, als entfliehn; und das geschieht
+            doch immer leichter mit Geld, als ohne?",19,136,character_speech,1,6,,FRANZ.,#franz,110.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+462,462,GerDracor/holtei-die-kalkbrenner.xml,Ja!,0,3,character_speech,1,6,,LORENZ.,#lorenz,111.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+463,463,GerDracor/holtei-die-kalkbrenner.xml,Also: Muth!,0,11,character_speech,1,6,,FRANZ.,#franz,112.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+464,464,GerDracor/holtei-die-kalkbrenner.xml,"Fahren Sie nur fort, recht fremdartig zu reden.",12,59,character_speech,1,6,,FRANZ.,#franz,112.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+465,465,GerDracor/holtei-die-kalkbrenner.xml,"Ja, ich wil reden, wie in Frankreich; wie ich unterm Militairwesen war.",0,71,character_speech,1,6,,LORENZ.,#lorenz,113.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+466,466,GerDracor/holtei-die-kalkbrenner.xml,"Und wenn Sie in Breslau angekommen sind,  schreiben Sie, daß Sie nicht
+            kommen könnten; daß Sie schon anderweitige Herzensbande geschlossen hätten.",0,158,character_speech,1,6,,FRANZ.,#franz,114.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+467,467,GerDracor/holtei-die-kalkbrenner.xml,vertraulich.,0,12,stage_direction,1,6,speech_part,,#lorenz,115.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+468,468,GerDracor/holtei-die-kalkbrenner.xml,"Ja, das is och wahr.",0,20,character_speech,1,6,,LORENZ,#lorenz,115.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+469,469,GerDracor/holtei-die-kalkbrenner.xml,Knaut's Lehnel thut mer schun lange nachstellen.,21,69,character_speech,1,6,,LORENZ,#lorenz,115.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+470,470,GerDracor/holtei-die-kalkbrenner.xml,sich vergessend.,0,16,stage_direction,1,6,speech_part,,#louise,116.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+471,471,GerDracor/holtei-die-kalkbrenner.xml,"Sehen Sie, dann ist uns ja Allen geholfen!",0,42,character_speech,1,6,,LOUISE,#louise,116.0,FEMALE,joy,K,,1825.0,positive,emotions of pleasure
+472,472,GerDracor/holtei-die-kalkbrenner.xml,Uns?,0,4,character_speech,1,6,,LORENZ.,#lorenz,117.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+473,473,GerDracor/holtei-die-kalkbrenner.xml,– Was ha'n Sie denn derbeine zu thun?,5,42,character_speech,1,6,,LORENZ.,#lorenz,117.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+474,474,GerDracor/holtei-die-kalkbrenner.xml,Meine Schwester meint –,0,23,character_speech,1,6,,FRANZ.,#franz,118.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+475,475,GerDracor/holtei-die-kalkbrenner.xml,verlegen.,0,9,stage_direction,1,6,speech_part,,#louise,119.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+476,476,GerDracor/holtei-die-kalkbrenner.xml,Weil –,0,6,character_speech,1,6,,LOUISE,#louise,119.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+477,477,GerDracor/holtei-die-kalkbrenner.xml,Sie denkt nur –,0,15,character_speech,1,6,,FRANZ.,#franz,120.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+478,478,GerDracor/holtei-die-kalkbrenner.xml,Weil unser Antheil –,0,20,character_speech,1,6,,LOUISE.,#louise,121.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+479,479,GerDracor/holtei-die-kalkbrenner.xml,"Nu, so mähren Se doch nich eine Ewigkeit und drei Minuten.",0,58,character_speech,1,6,,LORENZ.,#lorenz,122.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+480,480,GerDracor/holtei-die-kalkbrenner.xml,Für sich.,0,9,stage_direction,1,6,inner_speech,,#lorenz,122.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+481,481,GerDracor/holtei-die-kalkbrenner.xml," Hie
+            ei dam Hause is ju rechtes Rindviehzeug beisammen.",0,67,character_speech,1,6,,LORENZ.,#lorenz,122.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+482,482,GerDracor/holtei-die-kalkbrenner.xml,Vorige.,0,7,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+483,483,GerDracor/holtei-die-kalkbrenner.xml,Kotzeluch.,8,18,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+484,484,GerDracor/holtei-die-kalkbrenner.xml,Nu kummt der alte Taperhanns och derzune.,0,41,character_speech,1,7,,LORENZ.,#lorenz,123.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+485,485,GerDracor/holtei-die-kalkbrenner.xml,"Hier bring' ich, was die nächsten Nachbarn an Billets gekauft.",0,62,character_speech,1,7,,KOTZELUCH.,#kotzeluch,124.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+486,486,GerDracor/holtei-die-kalkbrenner.xml,Wo haben Sie denn die Billets hergenommen?,0,42,character_speech,1,7,,FRANZ.,#franz,125.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+487,487,GerDracor/holtei-die-kalkbrenner.xml,Ich habe die Einlaßkarten vom letzten Schützengildenball benützt.,0,65,character_speech,1,7,,KOTZELUCH.,#kotzeluch,126.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+488,488,GerDracor/holtei-die-kalkbrenner.xml,"Nun werden aber die Abonnenten glauben, sie sollen tanzen?",0,58,character_speech,1,7,,LOUISE.,#louise,127.0,FEMALE,Schadenfreude,K,,1825.0,positive,emotions of pleasure
+489,489,GerDracor/holtei-die-kalkbrenner.xml,Mögen sie das glauben.,0,22,character_speech,1,7,,KOTZELUCH.,#kotzeluch,128.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+490,490,GerDracor/holtei-die-kalkbrenner.xml,Sie dürfen es glauben.,23,45,character_speech,1,7,,KOTZELUCH.,#kotzeluch,128.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+491,491,GerDracor/holtei-die-kalkbrenner.xml,"Sie werden auch tanzen; ja, das Herz im
+            Leibe wird ihnen vor Freuden tanzen, wenn sie diesen Mann  werden spielen
+            hören.",46,190,character_speech,1,7,,KOTZELUCH.,#kotzeluch,128.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+492,492,GerDracor/holtei-die-kalkbrenner.xml,"– Hier, Herr Kalkbrenner, empfangen Sie diese kleine Summe, nur vorläufig, als
+            Huldigung der Herzen.",191,303,character_speech,1,7,,KOTZELUCH.,#kotzeluch,128.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+493,493,GerDracor/holtei-die-kalkbrenner.xml,"Es ist freilich nicht viel, aber glauben Sie mir, tausendfingriger
+            Künstler, Mancher schon hat in Berlin Concert gegeben und hat eben so viel auf die
+            Unkosten zulegen müssen, als Sie hier an Ueberschuß empfangen.",304,540,character_speech,1,7,,KOTZELUCH.,#kotzeluch,128.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+494,494,GerDracor/holtei-die-kalkbrenner.xml,"Denn Kosten sollen Sie
+            gar nicht haben.",541,592,character_speech,1,7,,KOTZELUCH.,#kotzeluch,128.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+495,495,GerDracor/holtei-die-kalkbrenner.xml,Wir nehmen Alles auf uns.,593,618,character_speech,1,7,,KOTZELUCH.,#kotzeluch,128.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+496,496,GerDracor/holtei-die-kalkbrenner.xml,der hastig das Geld nimmt.,0,26,stage_direction,1,7,speech_part,,#lorenz,129.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+497,497,GerDracor/holtei-die-kalkbrenner.xml,'s is schun gutt!,0,17,character_speech,1,7,,LORENZ,#lorenz,129.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+498,498,GerDracor/holtei-die-kalkbrenner.xml,–,18,19,character_speech,1,7,,LORENZ,#lorenz,129.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+499,499,GerDracor/holtei-die-kalkbrenner.xml,Indem er Franz anblickt und diesem zuwinkt.,0,43,stage_direction,1,7,inner_speech,,#lorenz,129.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+500,500,GerDracor/holtei-die-kalkbrenner.xml,für sich.,0,9,stage_direction,1,7,speech_part,,#kotzeluch,130.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+501,501,GerDracor/holtei-die-kalkbrenner.xml,"Jetzt, scheint mir, redet er französisch mang unter.",0,52,character_speech,1,7,,KOTZELUCH,#kotzeluch,130.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+502,502,GerDracor/holtei-die-kalkbrenner.xml,"– Aber wie er nach dem Gelde
+            gegriffen hat!",53,108,character_speech,1,7,,KOTZELUCH,#kotzeluch,130.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+503,503,GerDracor/holtei-die-kalkbrenner.xml,"'S ist doch curios, daß alle Virtuosen so happig sind.",109,163,character_speech,1,7,,KOTZELUCH,#kotzeluch,130.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+504,504,GerDracor/holtei-die-kalkbrenner.xml,"Wären vielleicht noch Anstalten zu treffen, in denen wir Ihnen behülflich sein
+            könnten?",0,99,character_speech,1,7,,FRANZ.,#franz,131.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+505,505,GerDracor/holtei-die-kalkbrenner.xml,leise zu Lorenz.,0,16,stage_direction,1,7,speech_part,,#louise,132.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+506,506,GerDracor/holtei-die-kalkbrenner.xml,Die Probe!,0,10,character_speech,1,7,,LOUISE,#louise,132.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+507,507,GerDracor/holtei-die-kalkbrenner.xml,– Sonst werden Sie ihn nicht los.,11,44,character_speech,1,7,,LOUISE,#louise,132.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+508,508,GerDracor/holtei-die-kalkbrenner.xml,"Ja, de Profe!",0,13,character_speech,1,7,,LORENZ.,#lorenz,133.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+509,509,GerDracor/holtei-die-kalkbrenner.xml,Ich muß eine Profe ha'n!,14,38,character_speech,1,7,,LORENZ.,#lorenz,133.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+510,510,GerDracor/holtei-die-kalkbrenner.xml,Sehr heftig.,0,12,stage_direction,1,7,inner_speech,,#lorenz,133.0,MALE,being moved,K,,1825.0,being moved,being moved
+511,511,GerDracor/holtei-die-kalkbrenner.xml, Eine Profe,0,11,character_speech,1,7,,LORENZ.,#lorenz,133.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+512,512,GerDracor/holtei-die-kalkbrenner.xml,Was befehlen Herr –,0,19,character_speech,1,7,,KOTZELUCH.,#kotzeluch,134.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+513,513,GerDracor/holtei-die-kalkbrenner.xml,Herr Kalkbrenner wünschen eine Probe zu halten.,0,47,character_speech,1,7,,FRANZ.,#franz,135.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+514,514,GerDracor/holtei-die-kalkbrenner.xml,"Ei, das versteht sich.",0,22,character_speech,1,7,,KOTZELUCH.,#kotzeluch,136.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+515,515,GerDracor/holtei-die-kalkbrenner.xml,"Die Musiker sind schon bestellt, sich oben im Saale zu
+            versammeln.",23,101,character_speech,1,7,,KOTZELUCH.,#kotzeluch,136.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+516,516,GerDracor/holtei-die-kalkbrenner.xml,"Es geht freilich etwas langsam, denn unsere Kapelle besteht aus Handwerkern
+            und Ackerbürgern; aber Beide ergreifen mit gleicher Liebe Klarinett oder Flauto.",102,270,character_speech,1,7,,KOTZELUCH.,#kotzeluch,136.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+517,517,GerDracor/holtei-die-kalkbrenner.xml,"– Ich
+            werde gehen und treiben.",271,313,character_speech,1,7,,KOTZELUCH.,#kotzeluch,136.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+518,518,GerDracor/holtei-die-kalkbrenner.xml,"Folgt mir, Kinder!",314,332,character_speech,1,7,,KOTZELUCH.,#kotzeluch,136.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+519,519,GerDracor/holtei-die-kalkbrenner.xml,"– Aber wir  können unsern Gast
+            doch nicht allein lassen!",333,401,character_speech,1,7,,KOTZELUCH.,#kotzeluch,136.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+520,520,GerDracor/holtei-die-kalkbrenner.xml,"Wollen Sie uns vielleicht die Ehre erweisen, mit hinauf zu
+            ...",402,476,character_speech,1,7,,KOTZELUCH.,#kotzeluch,136.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+521,521,GerDracor/holtei-die-kalkbrenner.xml,"Ne, ne!",0,7,character_speech,1,7,,LORENZ.,#lorenz,137.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+522,522,GerDracor/holtei-die-kalkbrenner.xml,Ich wil hiebleiben.,8,27,character_speech,1,7,,LORENZ.,#lorenz,137.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+523,523,GerDracor/holtei-die-kalkbrenner.xml,Ich wer' mer schun de Zeit vertreiben.,28,66,character_speech,1,7,,LORENZ.,#lorenz,137.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+524,524,GerDracor/holtei-die-kalkbrenner.xml,"Mach' er ock, daß er
+            furtkümmt.",67,110,character_speech,1,7,,LORENZ.,#lorenz,137.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+525,525,GerDracor/holtei-die-kalkbrenner.xml,"Wenn Sie denn durchaus befehlen, so will ich gehn!",0,50,character_speech,1,7,,KOTZELUCH.,#kotzeluch,138.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+526,526,GerDracor/holtei-die-kalkbrenner.xml,"– Nein, nein, ich kann's noch gar
+            nicht glauben; es ist mir ein Traum.",51,133,character_speech,1,7,,KOTZELUCH.,#kotzeluch,138.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+527,527,GerDracor/holtei-die-kalkbrenner.xml,"Heute erst in der Zeitung Ihren Namen zu lesen, –
+            und nun Sie selbst zu sehen!",134,224,character_speech,1,7,,KOTZELUCH.,#kotzeluch,138.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+528,528,GerDracor/holtei-die-kalkbrenner.xml,– Heut' Abend Sie selbst zu hören.,225,259,character_speech,1,7,,KOTZELUCH.,#kotzeluch,138.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+529,529,GerDracor/holtei-die-kalkbrenner.xml,"O Herr von Kalkbrenner,
+            ich bedaure, mich nicht auf Englisch exprimieren zu können; – gewiß; – goddam!",260,374,character_speech,1,7,,KOTZELUCH.,#kotzeluch,138.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+530,530,GerDracor/holtei-die-kalkbrenner.xml,"ei
+              bläk you!",375,401,character_speech,1,7,,KOTZELUCH.,#kotzeluch,138.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+531,531,GerDracor/holtei-die-kalkbrenner.xml,– weri well!,402,414,character_speech,1,7,,KOTZELUCH.,#kotzeluch,138.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+532,532,GerDracor/holtei-die-kalkbrenner.xml,Mylord!,415,422,character_speech,1,7,,KOTZELUCH.,#kotzeluch,138.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+533,533,GerDracor/holtei-die-kalkbrenner.xml,– ikle mei 's hundleson!,423,447,character_speech,1,7,,KOTZELUCH.,#kotzeluch,138.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+534,534,GerDracor/holtei-die-kalkbrenner.xml,dettle dau!,448,459,character_speech,1,7,,KOTZELUCH.,#kotzeluch,138.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+535,535,GerDracor/holtei-die-kalkbrenner.xml,Geht ab.,0,8,stage_direction,1,7,speech_part,,#kotzeluch,138.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+536,536,GerDracor/holtei-die-kalkbrenner.xml,der sich artig gegen ihn verbeugt.,0,34,stage_direction,1,7,speech_part,,#lorenz,139.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+537,537,GerDracor/holtei-die-kalkbrenner.xml,Sakranundediö!!,0,15,character_speech,1,7,,LORENZ,#lorenz,139.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+538,538,GerDracor/holtei-die-kalkbrenner.xml,"– Na, was Du von mir hören wirscht, das wird Dir a Magen och nich'
+            abdrücken.",16,105,character_speech,1,7,,LORENZ,#lorenz,139.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+539,539,GerDracor/holtei-die-kalkbrenner.xml,"Nun, Freund, lese von dannen.",0,29,character_speech,1,7,,FRANZ.,#franz,140.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+540,540,GerDracor/holtei-die-kalkbrenner.xml,"Hier, nehmen Sie Ihren Ranzen.",0,30,character_speech,1,7,,LOUISE.,#louise,141.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+541,541,GerDracor/holtei-die-kalkbrenner.xml,Das Geld –,0,10,character_speech,1,7,,FRANZ.,#franz,142.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+542,542,GerDracor/holtei-die-kalkbrenner.xml,Das ha' ich schun!,0,18,character_speech,1,7,,LORENZ.,#lorenz,143.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+543,543,GerDracor/holtei-die-kalkbrenner.xml,"– Aber wenn der Alte hinter mir herschreit, ich wär' a Dieb,
+            hernachern –",19,104,character_speech,1,7,,LORENZ.,#lorenz,143.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+544,544,GerDracor/holtei-die-kalkbrenner.xml,Werd' ich Ihre Vertheidigung übernehmen.,0,40,character_speech,1,7,,FRANZ.,#franz,144.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+545,545,GerDracor/holtei-die-kalkbrenner.xml,Nun Adieu!,41,51,character_speech,1,7,,FRANZ.,#franz,144.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+546,546,GerDracor/holtei-die-kalkbrenner.xml,"Suchen Sie unbemerkt
+            zu entfliehen.",52,99,character_speech,1,7,,FRANZ.,#franz,144.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+547,547,GerDracor/holtei-die-kalkbrenner.xml,"Sollten Leute im Hausflur sein, so warten Sie hinter dem Treppengeländer, bis die Luft
+            rein ist.",0,108,character_speech,1,7,,LOUISE.,#louise,145.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+548,548,GerDracor/holtei-die-kalkbrenner.xml,Sie schieben ihn hinaus.,0,24,stage_direction,1,7,speech_part,,#louise,145.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+549,549,GerDracor/holtei-die-kalkbrenner.xml,Haben Sie etwas an Ihre gewesene Braut zu bestellen?,0,52,character_speech,1,7,,FRANZ.,#franz,146.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+550,550,GerDracor/holtei-die-kalkbrenner.xml,Oder an den Nebenbuhler?,0,24,character_speech,1,7,,LOUISE.,#louise,147.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+551,551,GerDracor/holtei-die-kalkbrenner.xml,Ich will's ausrichten.,0,22,character_speech,1,7,,FRANZ.,#franz,148.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+552,552,GerDracor/holtei-die-kalkbrenner.xml,Ich will's bestellen.,0,21,character_speech,1,7,,LOUISE.,#louise,149.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+553,553,GerDracor/holtei-die-kalkbrenner.xml,wird zur Tür hinausgedrückt.,0,28,stage_direction,1,7,speech_part,,#lorenz,150.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+554,554,GerDracor/holtei-die-kalkbrenner.xml,Fort ist er!,0,12,character_speech,1,7,,FRANZ.,#franz,151.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+555,555,GerDracor/holtei-die-kalkbrenner.xml,Und mög' er niemals wiederkehren!,0,33,character_speech,1,7,,LOUISE.,#louise,152.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+556,556,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,7,speech_part,,#louise,152.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+557,557,GerDracor/holtei-die-kalkbrenner.xml,des bekannten Studentenliedes.,5,35,stage_direction,1,7,speech_part,,#louise,152.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+558,558,GerDracor/holtei-die-kalkbrenner.xml,"
+            Gaudeamus igitur,
+            Er ist ex gekniffen.",0,63,character_speech,1,7,,FRANZ.,#franz,153.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+559,559,GerDracor/holtei-die-kalkbrenner.xml,–,64,65,character_speech,1,7,,FRANZ.,#franz,153.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+560,560,GerDracor/holtei-die-kalkbrenner.xml,ihn im Singen unterbrechend.,0,28,stage_direction,1,7,speech_part,,#louise,154.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+561,561,GerDracor/holtei-die-kalkbrenner.xml,"Sag' mir nur, was das heißt: Gaudeamus igitur?",0,46,character_speech,1,7,,LOUISE,#louise,154.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+562,562,GerDracor/holtei-die-kalkbrenner.xml,"Das hab' ich schon
+            hundertmal gehört, auch im Stillen mitgesungen – und weiß nicht, was es bedeutet?",47,159,character_speech,1,7,,LOUISE,#louise,154.0,FEMALE,being moved,K,,1825.0,being moved,being moved
+563,563,GerDracor/holtei-die-kalkbrenner.xml,"Dies ist der Anfang eines alten, schönen Liedes, und will so viel sagen, als: So laßt
+            uns also freudig sein!",0,120,character_speech,1,7,,FRANZ.,#franz,155.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+564,564,GerDracor/holtei-die-kalkbrenner.xml,"O, es kommen allerlei Strophen vor.",121,156,character_speech,1,7,,FRANZ.,#franz,155.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+565,565,GerDracor/holtei-die-kalkbrenner.xml,Zum Beispiel:,157,170,character_speech,1,7,,FRANZ.,#franz,155.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+566,566,GerDracor/holtei-die-kalkbrenner.xml,"
+            Vivant omnes virgines,
+            Jene und auch Diese.",0,68,character_speech,1,7,,FRANZ.,#franz,155.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+567,567,GerDracor/holtei-die-kalkbrenner.xml,–,69,70,character_speech,1,7,,FRANZ.,#franz,155.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+568,568,GerDracor/holtei-die-kalkbrenner.xml,Was?,0,4,character_speech,1,7,,LOUISE.,#louise,156.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+569,569,GerDracor/holtei-die-kalkbrenner.xml,Jene und Diese?,5,20,character_speech,1,7,,LOUISE.,#louise,156.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+570,570,GerDracor/holtei-die-kalkbrenner.xml,"Das heißt ja so viel, als: Diese und Jene?",21,63,character_speech,1,7,,LOUISE.,#louise,156.0,FEMALE,being moved,K,,1825.0,being moved,being moved
+571,571,GerDracor/holtei-die-kalkbrenner.xml,"
+            Aber leben sollst vor Allen,
+            Die mir einzig hat gefallen,
+            Du, mein Kind, Louise!",0,117,character_speech,1,7,,FRANZ.,#franz,157.0,MALE,love,K,,1825.0,positive,emotions of affection
+572,572,GerDracor/holtei-die-kalkbrenner.xml,Vorige.,0,7,stage_direction,1,8,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+573,573,GerDracor/holtei-die-kalkbrenner.xml,Lorenz.,8,15,stage_direction,1,8,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+574,574,GerDracor/holtei-die-kalkbrenner.xml,Fritz.,16,22,stage_direction,1,8,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+575,575,GerDracor/holtei-die-kalkbrenner.xml,"der Lorenzen mit Gewalt am Kragen hereinzerrt, ohne Jene zu bemerken.",0,69,stage_direction,1,8,speech_part,,#fritz,158.0,MALE,abhorrence,K,,1825.0,negative,emotions of rejection
+576,576,GerDracor/holtei-die-kalkbrenner.xml,Man 'rin!,0,9,character_speech,1,8,,FRITZ,#fritz,158.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+577,577,GerDracor/holtei-die-kalkbrenner.xml,– Er will durchjehn?,10,30,character_speech,1,8,,FRITZ,#fritz,158.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+578,578,GerDracor/holtei-die-kalkbrenner.xml,"Des Stück kann nich ufjeführt werden, injetretener
+            Hindernisse wegen.",31,112,character_speech,1,8,,FRITZ,#fritz,158.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+579,579,GerDracor/holtei-die-kalkbrenner.xml,Ein Hinderniß bin ich.,113,135,character_speech,1,8,,FRITZ,#fritz,158.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+580,580,GerDracor/holtei-die-kalkbrenner.xml,"So 'ne Visite will  hier mit des
+            baare Jeld abziehn, von die Armee?",136,215,character_speech,1,8,,FRITZ,#fritz,158.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+581,581,GerDracor/holtei-die-kalkbrenner.xml,"Ne, mon ami!",216,228,character_speech,1,8,,FRITZ,#fritz,158.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+582,582,GerDracor/holtei-die-kalkbrenner.xml,"Hir' a ock, Musje –",0,19,character_speech,1,8,,LORENZ.,#lorenz,159.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+583,583,GerDracor/holtei-die-kalkbrenner.xml,"I was, Musje is en Kuchenjunge; ich heeße Fritz.",0,48,character_speech,1,8,,FRITZ.,#fritz,160.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+584,584,GerDracor/holtei-die-kalkbrenner.xml,Hir' a ock –,0,12,character_speech,1,8,,LORENZ.,#lorenz,161.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+585,585,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,8,speech_part,,#lorenz,161.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+586,586,GerDracor/holtei-die-kalkbrenner.xml,: Die Binsgauer wollten wallfahrten gehn.,4,45,stage_direction,1,8,speech_part,,#lorenz,161.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+587,587,GerDracor/holtei-die-kalkbrenner.xml,Wo will Er mit des Jeld hier zur Thüre hin?,0,43,character_speech,1,8,,FRITZ.,#fritz,162.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+588,588,GerDracor/holtei-die-kalkbrenner.xml,"Gleich luss' a mich lus, was kümmert's denn ihn?",0,48,character_speech,1,8,,LORENZ.,#lorenz,163.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+589,589,GerDracor/holtei-die-kalkbrenner.xml,Oho!,0,4,character_speech,1,8,,FRITZ.,#fritz,164.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+590,590,GerDracor/holtei-die-kalkbrenner.xml,Oho!,0,4,character_speech,1,8,,LORENZ.,#lorenz,165.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+591,591,GerDracor/holtei-die-kalkbrenner.xml,"
+            Oho, oho, oho!",0,27,character_speech,1,8,,BEIDE.,#fritz #lorenz,166.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+592,592,GerDracor/holtei-die-kalkbrenner.xml,Er ist ein rechter Schlingel!,40,69,character_speech,1,8,,BEIDE.,#fritz #lorenz,166.0,UNKNOWN,anger,K,,1825.0,negative,emotions of rejection
+593,593,GerDracor/holtei-die-kalkbrenner.xml,Ein Esel!,0,9,character_speech,1,8,,LORENZ.,#lorenz,167.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+594,594,GerDracor/holtei-die-kalkbrenner.xml,Ein Schlingel!,0,14,character_speech,1,8,,FRITZ.,#fritz,168.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+595,595,GerDracor/holtei-die-kalkbrenner.xml,Ein Esel!,0,9,character_speech,1,8,,LORENZ.,#lorenz,169.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+596,596,GerDracor/holtei-die-kalkbrenner.xml,"
+            So lang wie er ist,
+            So lang wie er ist!",0,64,character_speech,1,8,,BEIDE.,#fritz #lorenz,170.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+597,597,GerDracor/holtei-die-kalkbrenner.xml,"Nu ruf' ick den Herrn, und wir sperren ihn ein!",0,47,character_speech,1,8,,FRITZ.,#fritz,171.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+598,598,GerDracor/holtei-die-kalkbrenner.xml,"Eh'b ich mich fürchte, müst' a größer sein!",0,43,character_speech,1,8,,LORENZ.,#lorenz,172.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+599,599,GerDracor/holtei-die-kalkbrenner.xml,Oho!,0,4,character_speech,1,8,,FRITZ.,#fritz,173.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+600,600,GerDracor/holtei-die-kalkbrenner.xml,etc.,5,9,character_speech,1,8,,FRITZ.,#fritz,173.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+601,601,GerDracor/holtei-die-kalkbrenner.xml,etc.,10,14,character_speech,1,8,,FRITZ.,#fritz,173.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+602,602,GerDracor/holtei-die-kalkbrenner.xml,Franz und Louise treten vor.,0,28,stage_direction,1,8,speech_part,,#fritz,173.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+603,603,GerDracor/holtei-die-kalkbrenner.xml,"Fritz, bist Du toll?",0,20,character_speech,1,8,,FRANZ.,#franz,174.0,MALE,being moved,K,,1825.0,being moved,being moved
+604,604,GerDracor/holtei-die-kalkbrenner.xml,– Warum läßt Du den ehrlichen Kerl nicht entwischen?,21,73,character_speech,1,8,,FRANZ.,#franz,174.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+605,605,GerDracor/holtei-die-kalkbrenner.xml,Ich wußte ja nicht –,0,20,character_speech,1,8,,FRITZ.,#fritz,175.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+606,606,GerDracor/holtei-die-kalkbrenner.xml,Nun ist Alles vorbei.,0,21,character_speech,1,8,,LOUISE.,#louise,176.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+607,607,GerDracor/holtei-die-kalkbrenner.xml,Vater kommt schon zurück.,22,47,character_speech,1,8,,LOUISE.,#louise,176.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+608,608,GerDracor/holtei-die-kalkbrenner.xml,Vorige.,0,7,stage_direction,1,9,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+609,609,GerDracor/holtei-die-kalkbrenner.xml,Kotzeluch.,8,18,stage_direction,1,9,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+610,610,GerDracor/holtei-die-kalkbrenner.xml,Zwei Träger die ein Fortepiano hereinbringen.,19,64,stage_direction,1,9,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+611,611,GerDracor/holtei-die-kalkbrenner.xml,"Ach, du verflischte Mode, do brengt a de Musicke!",0,49,character_speech,1,9,,LORENZ.,#lorenz,177.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+612,612,GerDracor/holtei-die-kalkbrenner.xml,Will entwischen.,0,16,stage_direction,1,9,inner_speech,,#lorenz,177.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+613,613,GerDracor/holtei-die-kalkbrenner.xml,"hält ihn am Rockschoß, zieht ihn zurück und schließt die Thür.",0,62,stage_direction,1,9,speech_part,,#kotzeluch,178.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+614,614,GerDracor/holtei-die-kalkbrenner.xml,"Halt, nicht von der Stelle!",0,27,character_speech,1,9,,KOTZELUCH,#kotzeluch,178.0,MALE,being moved,K,,1825.0,being moved,being moved
+615,615,GerDracor/holtei-die-kalkbrenner.xml,– Sie haben mit dem Eintrittsgeld entschlüpfen wollen.,28,82,character_speech,1,9,,KOTZELUCH,#kotzeluch,178.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+616,616,GerDracor/holtei-die-kalkbrenner.xml,"War
+            das eine bloße Künstlercaprice, und sind Sie veritabel der, für den wir Sie gehalten
+            haben, so mögen Sie verzeihen.",83,226,character_speech,1,9,,KOTZELUCH,#kotzeluch,178.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+617,617,GerDracor/holtei-die-kalkbrenner.xml,"Aber ich muß mich auf alle Fälle sichern; mir ist ein
+            Gedanke aufgestiegen: meine Köchin, die ein paar Jahre in Schlesien zubrachte,
+            behauptet, sie reden Schlesisch-, nicht Englisch-Deutsch; – (sie hat aus der Küche
+            vernommen, wie Sie vor der Hausthür gefragt haben, ob hier ein Gasthaus sei?)",227,556,character_speech,1,9,,KOTZELUCH,#kotzeluch,178.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+618,618,GerDracor/holtei-die-kalkbrenner.xml,"– Sie
+            könnten ein",557,586,character_speech,1,9,,KOTZELUCH,#kotzeluch,178.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+619,619,GerDracor/holtei-die-kalkbrenner.xml,Zu den Trägern.,0,15,stage_direction,1,9,inner_speech,,#kotzeluch,178.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+620,620,GerDracor/holtei-die-kalkbrenner.xml, Bewacht die Thür!,0,18,character_speech,1,9,,KOTZELUCH,#kotzeluch,178.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+621,621,GerDracor/holtei-die-kalkbrenner.xml,– Hier steht das Clavicembalo!,19,49,character_speech,1,9,,KOTZELUCH,#kotzeluch,178.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+622,622,GerDracor/holtei-die-kalkbrenner.xml,"Hier
+            ist ein Stuhl!",50,81,character_speech,1,9,,KOTZELUCH,#kotzeluch,178.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+623,623,GerDracor/holtei-die-kalkbrenner.xml,"– Jetzt legen Sie los, – oder",82,111,character_speech,1,9,,KOTZELUCH,#kotzeluch,178.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+624,624,GerDracor/holtei-die-kalkbrenner.xml,leise zu ihm.,0,13,stage_direction,1,9,speech_part,,#franz,179.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+625,625,GerDracor/holtei-die-kalkbrenner.xml,Nur Muth!,0,9,character_speech,1,9,,FRANZ,#franz,179.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+626,626,GerDracor/holtei-die-kalkbrenner.xml,eben so.,0,8,stage_direction,1,9,speech_part,,#louise,180.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+627,627,GerDracor/holtei-die-kalkbrenner.xml,Setzen Sie sich hin.,0,20,character_speech,1,9,,LOUISE,#louise,180.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+628,628,GerDracor/holtei-die-kalkbrenner.xml,Spielen Sie dreist: er hört nicht gut.,0,38,character_speech,1,9,,FRANZ.,#franz,181.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+629,629,GerDracor/holtei-die-kalkbrenner.xml,sich setzend.,0,13,stage_direction,1,9,speech_part,,#lorenz,182.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+630,630,GerDracor/holtei-die-kalkbrenner.xml,"Nu, das wird doch ooch keene Hexerei sein, uf dam Klimperkasten werd ma doch a Brinkel
+            rüm grammeln können!",0,119,character_speech,1,9,,LORENZ,#lorenz,182.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+631,631,GerDracor/holtei-die-kalkbrenner.xml,?,119,120,character_speech,1,9,,LORENZ,#lorenz,182.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+632,632,GerDracor/holtei-die-kalkbrenner.xml,"im Vorgrunde, allein.",0,21,stage_direction,1,9,speech_part,,#kotzeluch,183.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+633,633,GerDracor/holtei-die-kalkbrenner.xml,Er setzt sich.,0,14,character_speech,1,9,,KOTZELUCH,#kotzeluch,183.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+634,634,GerDracor/holtei-die-kalkbrenner.xml,Er ist's doch wohl; er redet wieder entschieden Englisch.,15,72,character_speech,1,9,,KOTZELUCH,#kotzeluch,183.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+635,635,GerDracor/holtei-die-kalkbrenner.xml,Pause.,0,6,stage_direction,1,9,speech_part,,#kotzeluch,183.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+636,636,GerDracor/holtei-die-kalkbrenner.xml,"der durch seine Pantomime zeigt, da er nicht deutlich hört.",0,59,stage_direction,1,9,speech_part,,#kotzeluch,184.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+637,637,GerDracor/holtei-die-kalkbrenner.xml,"Bravo, Bravo!",0,13,character_speech,1,9,,KOTZELUCH,#kotzeluch,184.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+638,638,GerDracor/holtei-die-kalkbrenner.xml,"Seht, Kinder, das bringt er durch Kunst hervor: er spielt Posthorn auf
+            dem Piano und es hat nur einen Fagott-Zug.",14,139,character_speech,1,9,,KOTZELUCH,#kotzeluch,184.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+639,639,GerDracor/holtei-die-kalkbrenner.xml,streicht mit den Fingern über die Tasten.,0,41,stage_direction,1,9,speech_part,,#lorenz,185.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+640,640,GerDracor/holtei-die-kalkbrenner.xml,"Ungeheure Fertigkeit, aber schwacher Anschlag.",0,46,character_speech,1,9,,KOTZELUCH.,#kotzeluch,186.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+641,641,GerDracor/holtei-die-kalkbrenner.xml,leise zu Lorenz.,0,16,stage_direction,1,9,speech_part,,#franz,187.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+642,642,GerDracor/holtei-die-kalkbrenner.xml,Etwas stärker!,0,14,character_speech,1,9,,FRANZ,#franz,187.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+643,643,GerDracor/holtei-die-kalkbrenner.xml,gehorcht.,0,9,stage_direction,1,9,speech_part,,#lorenz,188.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+644,644,GerDracor/holtei-die-kalkbrenner.xml,"Ach, nun kommt er in's Feuer!",0,29,character_speech,1,9,,KOTZELUCH.,#kotzeluch,189.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+645,645,GerDracor/holtei-die-kalkbrenner.xml,Bravissimo!,30,41,character_speech,1,9,,KOTZELUCH.,#kotzeluch,189.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+646,646,GerDracor/holtei-die-kalkbrenner.xml,Wunderbare Uebergänge!,42,64,character_speech,1,9,,KOTZELUCH.,#kotzeluch,189.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+647,647,GerDracor/holtei-die-kalkbrenner.xml,"Kühn, sehr kühn!",65,81,character_speech,1,9,,KOTZELUCH.,#kotzeluch,189.0,MALE,being moved,K,,1825.0,being moved,being moved
+648,648,GerDracor/holtei-die-kalkbrenner.xml,"– Da
+            habt Ihr's nun, was der Ruf macht!",82,133,character_speech,1,9,,KOTZELUCH.,#kotzeluch,189.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+649,649,GerDracor/holtei-die-kalkbrenner.xml,"Wenn ein And'rer so spielte, zum Beispiel ich, –
+            würden Kenner Mancherlei auszusetzen haben, aber solch ein Künstler ... sein Name tödtet
+            die Kritik!",134,307,character_speech,1,9,,KOTZELUCH.,#kotzeluch,189.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+650,650,GerDracor/holtei-die-kalkbrenner.xml,Mir wird sehr unwohl.,0,21,character_speech,1,9,,FRITZ.,#fritz,190.0,MALE,being moved,K,,1825.0,being moved,being moved
+651,651,GerDracor/holtei-die-kalkbrenner.xml,Es klopft stark an die Thüre.,0,29,stage_direction,1,9,speech_part,,#fritz,190.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+652,652,GerDracor/holtei-die-kalkbrenner.xml,wollen öffnen.,0,14,stage_direction,1,9,speech_part,,#die_traeger,191.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+653,653,GerDracor/holtei-die-kalkbrenner.xml,Nichts da.,0,10,character_speech,1,9,,KOTZELUCH.,#kotzeluch,192.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+654,654,GerDracor/holtei-die-kalkbrenner.xml,Laßt klopfen!,11,24,character_speech,1,9,,KOTZELUCH.,#kotzeluch,192.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+655,655,GerDracor/holtei-die-kalkbrenner.xml,Jetzt darf mich Niemand stören.,25,56,character_speech,1,9,,KOTZELUCH.,#kotzeluch,192.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+656,656,GerDracor/holtei-die-kalkbrenner.xml,von außen.,0,10,stage_direction,1,9,speech_part,,#magd,193.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+657,657,GerDracor/holtei-die-kalkbrenner.xml,"Um des Himmels Willen, machen Sie auf!",0,38,character_speech,1,9,,DIE MAGD,#magd,193.0,FEMALE,fear,K,,1825.0,negative,emotions of anxiety
+658,658,GerDracor/holtei-die-kalkbrenner.xml,"Ach, das Unglück!",39,56,character_speech,1,9,,DIE MAGD,#magd,193.0,FEMALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+659,659,GerDracor/holtei-die-kalkbrenner.xml,Ein Unglück?,0,12,character_speech,1,9,,ALLE.,#franz #louise #lorenz #fritz #kotzeluch,194.0,UNKNOWN,being moved,K,,1825.0,being moved,being moved
+660,660,GerDracor/holtei-die-kalkbrenner.xml,Es wird geöffnet.,0,17,stage_direction,1,9,speech_part,,#franz #louise #lorenz #fritz #kotzeluch,194.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+661,661,GerDracor/holtei-die-kalkbrenner.xml,Vorige.,0,7,stage_direction,1,10,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+662,662,GerDracor/holtei-die-kalkbrenner.xml,Die Magd.,8,17,stage_direction,1,10,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+663,663,GerDracor/holtei-die-kalkbrenner.xml,"Ach, das ist eine fürchterliche Geschichte!",0,43,character_speech,1,10,,MAGD.,#magd,195.0,FEMALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+664,664,GerDracor/holtei-die-kalkbrenner.xml,"Das ist noch nicht begegnet, so lange ich
+            beim Herrn Posthalter diene.",44,126,character_speech,1,10,,MAGD.,#magd,195.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+665,665,GerDracor/holtei-die-kalkbrenner.xml,Was giebt's denn?,0,17,character_speech,1,10,,ALLE.,#franz #louise #lorenz #fritz #kotzeluch,196.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+666,666,GerDracor/holtei-die-kalkbrenner.xml,schluchzend.,0,12,stage_direction,1,10,speech_part,,#magd,197.0,FEMALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+667,667,GerDracor/holtei-die-kalkbrenner.xml,Denken Sie nur: der Herr Bürgermeister –,0,40,character_speech,1,10,,MAGD,#magd,197.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+668,668,GerDracor/holtei-die-kalkbrenner.xml,Nun was denn?,0,13,character_speech,1,10,,ALLE.,#franz #louise #lorenz #fritz #kotzeluch,198.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+669,669,GerDracor/holtei-die-kalkbrenner.xml,Der Herr Bürgermeister haben eine Stachete bekommen.,0,52,character_speech,1,10,,MAGD.,#magd,199.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+670,670,GerDracor/holtei-die-kalkbrenner.xml,Eine Staffette?,0,15,character_speech,1,10,,ALLE.,#franz #louise #lorenz #fritz #kotzeluch,200.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+671,671,GerDracor/holtei-die-kalkbrenner.xml,Eine Estaffette?,0,16,character_speech,1,10,,KOTZELUCH.,#kotzeluch,201.0,MALE,being moved,K,,1825.0,being moved,being moved
+672,672,GerDracor/holtei-die-kalkbrenner.xml,"Ei, das ist ja ein merkwürdiger Tag: Kalkbrenner – und eine
+            Staffette?!",17,100,character_speech,1,10,,KOTZELUCH.,#kotzeluch,201.0,MALE,being moved,K,,1825.0,being moved,being moved
+673,673,GerDracor/holtei-die-kalkbrenner.xml,Wo ist der Brief?,101,118,character_speech,1,10,,KOTZELUCH.,#kotzeluch,201.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+674,674,GerDracor/holtei-die-kalkbrenner.xml,"Hier, Herr Bürgermeister!",0,25,character_speech,1,10,,MAGD.,#magd,202.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+675,675,GerDracor/holtei-die-kalkbrenner.xml,Ich hab' ihn in meine Schürze gewickelt.,26,66,character_speech,1,10,,MAGD.,#magd,202.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+676,676,GerDracor/holtei-die-kalkbrenner.xml,"Ach, das Unglück!",67,84,character_speech,1,10,,MAGD.,#magd,202.0,FEMALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+677,677,GerDracor/holtei-die-kalkbrenner.xml,Sie geht ab.,0,12,stage_direction,1,10,inner_speech,,#magd,202.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+678,678,GerDracor/holtei-die-kalkbrenner.xml,Meine Empfehlung an den Herrn Postmeister.,0,42,character_speech,1,10,,KOTZELUCH.,#kotzeluch,203.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+679,679,GerDracor/holtei-die-kalkbrenner.xml,Er öffnet.,0,10,stage_direction,1,10,inner_speech,,#kotzeluch,203.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+680,680,GerDracor/holtei-die-kalkbrenner.xml,"Während des Lesens wirft
+              er wüthende Blicke auf Lorenz.",11,80,stage_direction,1,10,inner_speech,,#kotzeluch,203.0,MALE,anger,K,,1825.0,negative,emotions of rejection
+681,681,GerDracor/holtei-die-kalkbrenner.xml,"der Kotzeluch's Blicke bemerkt, bemerkt zugleich, daß die offene Thüre jetzt bei
+            der allgemeinen Erwartung unbewacht ist.",0,133,stage_direction,1,10,speech_part,,#lorenz,204.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+682,682,GerDracor/holtei-die-kalkbrenner.xml,"Das Augenspiel zwischen Kotzeluch und ihm
+            dauert fort und da derselbe plötzlich den Brief fallen läßt, wirft ihm Lorenz das Geld
+            hin und nimmt Reißaus.",134,309,stage_direction,1,10,speech_part,,#lorenz,204.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+683,683,GerDracor/holtei-die-kalkbrenner.xml,Kotzeluch folgt ihm schnell.,310,338,stage_direction,1,10,speech_part,,#lorenz,204.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+684,684,GerDracor/holtei-die-kalkbrenner.xml,"Hinter ihnen Fritz und die
+            Träger.",339,385,stage_direction,1,10,speech_part,,#lorenz,204.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+685,685,GerDracor/holtei-die-kalkbrenner.xml,hebt den Brief auf und lieset.,0,30,stage_direction,1,10,speech_part,,#franz,205.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+686,686,GerDracor/holtei-die-kalkbrenner.xml,»Lieber Bruder!,0,15,character_speech,1,10,,FRANZ,#franz,205.0,MALE,friendship,K,,1825.0,positive,emotions of affection
+687,687,GerDracor/holtei-die-kalkbrenner.xml,"Da ich Deine Leidenschaft für Clavierconcerte kenne, eil' ich Dir zu
+            melden, daß der berühmte Kalkbrenner, der heute hier abreiset, gegen Abend durch Euer
+            Oertchen kommt.",16,210,character_speech,1,10,,FRANZ,#franz,205.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+688,688,GerDracor/holtei-die-kalkbrenner.xml,Triff danach Deine Anstalten.,211,240,character_speech,1,10,,FRANZ,#franz,205.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+689,689,GerDracor/holtei-die-kalkbrenner.xml,"Ferdinand Klöppel, Paukist.«",241,269,character_speech,1,10,,FRANZ,#franz,205.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+690,690,GerDracor/holtei-die-kalkbrenner.xml,So soll ihm das geträumte Glück noch in Erfüllung gehn.,0,55,character_speech,1,10,,LOUISE.,#louise,206.0,FEMALE,joy,K,,1825.0,positive,emotions of pleasure
+691,691,GerDracor/holtei-die-kalkbrenner.xml,"Ich gönn' es ihm von
+            Herzen.",56,96,character_speech,1,10,,LOUISE.,#louise,206.0,FEMALE,joy,K,,1825.0,positive,emotions of pleasure
+692,692,GerDracor/holtei-die-kalkbrenner.xml,Franz.,0,6,stage_direction,1,11,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+693,693,GerDracor/holtei-die-kalkbrenner.xml,Louise.,7,14,stage_direction,1,11,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+694,694,GerDracor/holtei-die-kalkbrenner.xml,Kotzeluch.,15,25,stage_direction,1,11,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+695,695,GerDracor/holtei-die-kalkbrenner.xml,Fritz.,26,32,stage_direction,1,11,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+696,696,GerDracor/holtei-die-kalkbrenner.xml,Lorenz.,33,40,stage_direction,1,11,pre_speech,,,,,no_annotation,K,,1825.0,no_annotation,no_annotation
+697,697,GerDracor/holtei-die-kalkbrenner.xml,Er hat Alles bekannt!,0,21,character_speech,1,11,,KOTZELUCH.,#kotzeluch,207.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+698,698,GerDracor/holtei-die-kalkbrenner.xml,Alles!,22,28,character_speech,1,11,,KOTZELUCH.,#kotzeluch,207.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+699,699,GerDracor/holtei-die-kalkbrenner.xml,"– Kerl, dort steht Deine Braut, – Deine",29,68,character_speech,1,11,,KOTZELUCH.,#kotzeluch,207.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+700,700,GerDracor/holtei-die-kalkbrenner.xml,Auf Franz zueilend.,0,19,stage_direction,1,11,inner_speech,,#kotzeluch,207.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+701,701,GerDracor/holtei-die-kalkbrenner.xml," Ich
+            werd' ihn heut' noch erblicken.",0,48,character_speech,1,11,,KOTZELUCH.,#kotzeluch,207.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+702,702,GerDracor/holtei-die-kalkbrenner.xml,Das is se?,0,10,character_speech,1,11,,LORENZ.,#lorenz,208.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+703,703,GerDracor/holtei-die-kalkbrenner.xml,Und je's is ihr Liebster?,11,36,character_speech,1,11,,LORENZ.,#lorenz,208.0,MALE,being moved,K,,1825.0,being moved,being moved
+704,704,GerDracor/holtei-die-kalkbrenner.xml,Dessenthalben ha'n se mich weg perschwadiert?,37,82,character_speech,1,11,,LORENZ.,#lorenz,208.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+705,705,GerDracor/holtei-die-kalkbrenner.xml,"Nu,
+            Ihr ha't mich scheene belämmert; ich war wul a rechtes Schöpsekristel.",83,169,character_speech,1,11,,LORENZ.,#lorenz,208.0,MALE,suffering,K,,1825.0,negative,emotions of suffering and empathy
+706,706,GerDracor/holtei-die-kalkbrenner.xml,Es ist Ernst?,0,13,character_speech,1,11,,LOUISE.,#louise,209.0,FEMALE,being moved,K,,1825.0,being moved,being moved
+707,707,GerDracor/holtei-die-kalkbrenner.xml,Ich darf den Kalkbrenner nicht heirathen?,14,55,character_speech,1,11,,LOUISE.,#louise,209.0,FEMALE,being moved,K,,1825.0,being moved,being moved
+708,708,GerDracor/holtei-die-kalkbrenner.xml,Nein.,0,5,character_speech,1,11,,KOTZELUCH.,#kotzeluch,210.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+709,709,GerDracor/holtei-die-kalkbrenner.xml,Aber auch den Juristen nicht.,6,35,character_speech,1,11,,KOTZELUCH.,#kotzeluch,210.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+710,710,GerDracor/holtei-die-kalkbrenner.xml,Ich gebe meine Einwilligung nicht –,36,71,character_speech,1,11,,KOTZELUCH.,#kotzeluch,210.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+711,711,GerDracor/holtei-die-kalkbrenner.xml,Was?,0,4,character_speech,1,11,,LOUISE.,#louise,211.0,FEMALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+712,712,GerDracor/holtei-die-kalkbrenner.xml,Wie?,0,4,character_speech,1,11,,FRANZ.,#franz,212.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+713,713,GerDracor/holtei-die-kalkbrenner.xml,"Nicht eher, bis ich Kalkbrenner wirklich gehört!",0,48,character_speech,1,11,,KOTZELUCH.,#kotzeluch,213.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+714,714,GerDracor/holtei-die-kalkbrenner.xml,Juchhe!,0,7,character_speech,1,11,,BEIDE.,#louise #franz,214.0,UNKNOWN,joy,K,,1825.0,positive,emotions of pleasure
+715,715,GerDracor/holtei-die-kalkbrenner.xml,Heut Abend ist Verlobung!,8,33,character_speech,1,11,,BEIDE.,#louise #franz,214.0,UNKNOWN,love,K,,1825.0,positive,emotions of affection
+716,716,GerDracor/holtei-die-kalkbrenner.xml,"Wenn ich ihm sage, was davon abhängt, spielt er gewiß einem Liebes-Paare zu Liebe.",0,82,character_speech,1,11,,LOUISE.,#louise,215.0,FEMALE,love,K,,1825.0,positive,emotions of affection
+717,717,GerDracor/holtei-die-kalkbrenner.xml,"Suste, wenn ock blußig gespielt sein sol, do wil ich mich noch amol hinsetzen.",0,78,character_speech,1,11,,LORENZ.,#lorenz,216.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+718,718,GerDracor/holtei-die-kalkbrenner.xml,"Ne, ich danke Ihnen.",0,20,character_speech,1,11,,FRITZ.,#fritz,217.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+719,719,GerDracor/holtei-die-kalkbrenner.xml,Seind Sie so jut.,21,38,character_speech,1,11,,FRITZ.,#fritz,217.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+720,720,GerDracor/holtei-die-kalkbrenner.xml,"Ich habe mir von Ihre Leistung noch nich
+            erholt.",39,99,character_speech,1,11,,FRITZ.,#fritz,217.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+721,721,GerDracor/holtei-die-kalkbrenner.xml,Herr Lorenz Kegel wird nun wohl nach Breslau heimkehren?,0,56,character_speech,1,11,,FRANZ.,#franz,218.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+722,722,GerDracor/holtei-die-kalkbrenner.xml,"Nu jekersch, jekersch, jagen Se mich nur nich gleich aus 'em Hause.",0,67,character_speech,1,11,,LORENZ.,#lorenz,219.0,MALE,fear,K,,1825.0,negative,emotions of anxiety
+723,723,GerDracor/holtei-die-kalkbrenner.xml,"A Maul vull
+            Abendessen wer'n Se mer doch vergünnen?",68,131,character_speech,1,11,,LORENZ.,#lorenz,219.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+724,724,GerDracor/holtei-die-kalkbrenner.xml,"Mensch, verstumme!",0,18,character_speech,1,11,,KOTZELUCH.,#kotzeluch,220.0,MALE,being moved,K,,1825.0,being moved,being moved
+725,725,GerDracor/holtei-die-kalkbrenner.xml,"Schlesien mag ein schönes gesegnetes Land sein, aber Eurer Sprache
+            werd' ich's nie vergessen, daß sie mich so angeführt hat.",19,155,character_speech,1,11,,KOTZELUCH.,#kotzeluch,220.0,MALE,"admiration, reverence",K,,1825.0,positive,emotions of affection
+726,726,GerDracor/holtei-die-kalkbrenner.xml,Warum Sein Se a su ohne Bildung ufgewachsen?,0,44,character_speech,1,11,,LORENZ.,#lorenz,221.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+727,727,GerDracor/holtei-die-kalkbrenner.xml,"Uense Sproche is nur scheene; es is meine
+            Muttersproche, ich ha' se vun meinem Vater geerbt, und Ihrenthalben wil ich se nich
+            verleekeln!",45,206,character_speech,1,11,,LORENZ.,#lorenz,221.0,MALE,love,K,,1825.0,positive,emotions of affection
+728,728,GerDracor/holtei-die-kalkbrenner.xml,"Ader nu machen Se, daß was zu schnabelieren kümmt; bei'm Essen wer' ich
+            Ihnen meine ganze Reese verzählen.",207,325,character_speech,1,11,,LORENZ.,#lorenz,221.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+729,729,GerDracor/holtei-die-kalkbrenner.xml,Mel.,0,4,stage_direction,1,11,speech_part,,#lorenz,221.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+730,730,GerDracor/holtei-die-kalkbrenner.xml,": Ich wußt' mir 'mal nichts anzufangen, von Fink.",4,53,stage_direction,1,11,speech_part,,#lorenz,221.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+731,731,GerDracor/holtei-die-kalkbrenner.xml,"
+            Ich wußt' amol nischt anzufangen,
+            's war eines Sunntags in der Früh';
+            Da bin ich bis hiehär gegangen,
+            Da ging mer 'sch nu, – Sie wissen, wie?",0,190,character_speech,1,11,,LORENZ.,#lorenz,221.0,MALE,no_annotation,K,,1825.0,no_annotation,no_annotation
+732,732,GerDracor/holtei-die-kalkbrenner.xml,"Ei ei trala purli,
+            Das Ding vergess' ich nie,
+            Ei ei trala purli,
+            Purli purli, purli purli,
+            Das Ding vergess' ich nie, das Ding
+            Das Ding-der-ling
+            Das Ding vergess' ich nie.",203,446,character_speech,1,11,,LORENZ.,#lorenz,221.0,MALE,joy,K,,1825.0,positive,emotions of pleasure
+733,733,GerDracor/holtei-die-kalkbrenner.xml,Ei ei trala purli etc.,0,22,character_speech,1,11,,ALLE.,#franz #louise #lorenz #fritz #kotzeluch,222.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation
+734,734,GerDracor/holtei-die-kalkbrenner.xml,etc.,23,27,character_speech,1,11,,ALLE.,#franz #louise #lorenz #fritz #kotzeluch,222.0,UNKNOWN,no_annotation,K,,1825.0,no_annotation,no_annotation

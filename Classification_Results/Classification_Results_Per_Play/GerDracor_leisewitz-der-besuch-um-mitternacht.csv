@@ -1,0 +1,68 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Der Fürst und Der Kammerherr am Schachbrett.,0,44,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1774.0,no_annotation,no_annotation
+1,1,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,nach einigen Zügen.,0,19,stage_direction,1,1,speech_part,,#der_fuerst,1.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+2,2,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Schachmatt ... Wahrhaftig es ist Mitternacht, und die Gorgone ist noch nicht da!",0,80,character_speech,1,1,,DER FÜRST,#der_fuerst,1.0,MALE,being moved,S,,1774.0,being moved,being moved
+3,3,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Weiß
+            sie denn nicht, daß ich morgen mit dem frühesten mustre?",81,154,character_speech,1,1,,DER FÜRST,#der_fuerst,1.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+4,4,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"... Eh ich's vergesse, Herr
+            Kammerherr, ziehn Sie mir morgen die Halsbinde etwas fest.",155,253,character_speech,1,1,,DER FÜRST,#der_fuerst,1.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+5,5,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Man sieht bei dergleichen
+            Gelegenheiten gerne ein bißchen braun \150\ ein bißchen martialisch aus.",254,364,character_speech,1,1,,DER FÜRST,#der_fuerst,1.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+6,6,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Die Gorgone
+            hält doch nie Wort!",365,408,character_speech,1,1,,DER FÜRST,#der_fuerst,1.0,MALE,being moved,S,,1774.0,being moved,being moved
+7,7,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Eure Durchlauchten belieben sich zu erinnern, daß Ihre Gemahlin noch auf ist, und daß
+            sie dorten vorbei muß.",0,120,character_speech,1,1,,DER KAMMERHERR.,#der_kammerherr,2.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+8,8,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Sie haben recht.,0,16,character_speech,1,1,,DER FÜRST.,#der_fuerst,3.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+9,9,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Und ich muß jetzt mit meiner Frau so behutsam umgehen, wie mit einem
+            überlaufenden Gefäße.",17,119,character_speech,1,1,,DER FÜRST.,#der_fuerst,3.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+10,10,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Aber in der Tat, ich begreife nicht, was die gute Dame will.",0,60,character_speech,1,1,,DER KAMMERHERR.,#der_kammerherr,4.0,MALE,being moved,S,,1774.0,being moved,being moved
+11,11,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Sie haben ja einmal einen
+            Erbprinzen von ihr: und wenn Sie den auf eine andre Weise hätten bekommen können, so
+            hätten Sie keine Gemahlin genommen.",61,231,character_speech,1,1,,DER KAMMERHERR.,#der_kammerherr,4.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+12,12,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Ich weiß nicht.,0,15,character_speech,1,1,,DER FÜRST.,#der_fuerst,5.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+13,13,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Eine Gemahlin ist doch immer eine,16,49,character_speech,1,1,,DER FÜRST.,#der_fuerst,5.0,MALE,love,S,,1774.0,positive,emotions of affection
+14,14,GerDracor/leisewitz-der-besuch-um-mitternacht.xml, Mätresse mehr.,0,15,character_speech,1,1,,DER FÜRST.,#der_fuerst,5.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+15,15,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Freilich von einer andern Seite ...,28,63,character_speech,1,1,,DER FÜRST.,#der_fuerst,5.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+16,16,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Es erscheint ein Geist.,0,23,stage_direction,1,1,inner_speech,,#der_fuerst,5.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+17,17,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Der Fürst fällt in
+              Ohnmacht.",24,66,stage_direction,1,1,inner_speech,,#der_fuerst,5.0,MALE,despair,S,,1774.0,negative,emotions of anxiety
+18,18,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Wie er sich nach einer langen Pause erholt, zum Kammerherrn.",67,127,stage_direction,1,1,inner_speech,,#der_fuerst,5.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+19,19,GerDracor/leisewitz-der-besuch-um-mitternacht.xml, Gott!,0,6,character_speech,1,1,,DER FÜRST.,#der_fuerst,5.0,MALE,being moved,S,,1774.0,being moved,being moved
+20,20,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,wer ist das?,19,31,character_speech,1,1,,DER FÜRST.,#der_fuerst,5.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+21,21,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Hermann, der Cherusker!",0,23,character_speech,1,1,,DER GEIST.,#der_geist,6.0,UNKNOWN,"admiration, reverence",S,,1774.0,positive,emotions of affection
+22,22,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Siehe, hier klebt das Blut des Varus, und hier das meinige;
+            beides nicht vergossen, daß du der Tyrann von Sklaven, und der Sklave einer Hure
+            seist!",24,195,character_speech,1,1,,DER GEIST.,#der_geist,6.0,UNKNOWN,suffering,S,,1774.0,negative,emotions of suffering and empathy
+23,23,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,ganz leise.,0,11,stage_direction,1,1,speech_part,,#der_kammerherr,7.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+24,24,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Ein respektwidriger Ausdruck!,0,29,character_speech,1,1,,DER KAMMERHERR,#der_kammerherr,7.0,MALE,anger,S,,1774.0,negative,emotions of rejection
+25,25,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,zum Fürsten.,0,12,stage_direction,1,1,speech_part,,#der_geist,8.0,UNKNOWN,no_annotation,S,,1774.0,no_annotation,no_annotation
+26,26,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Edelknabe, hast du je die geweihte Last gefühlt, die auf deinen Schultern ruhen sollte?",0,87,character_speech,1,1,,DER GEIST,#der_geist,8.0,UNKNOWN,suffering,S,,1774.0,negative,emotions of suffering and empathy
+27,27,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Glaubst du, daß süßer essen und trinken wie andre, sein Leben unter Weibern,
+            verschnittenen und unverschnittenen Halbmännern vertändeln – daß das heiße ein Fürst
+            sein?",100,291,character_speech,1,1,,DER GEIST,#der_geist,8.0,UNKNOWN,anger,S,,1774.0,negative,emotions of rejection
+28,28,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Und diese Üppigkeit in einem Lande, wo man in keinem Hause lacht, als in deinem!",292,372,character_speech,1,1,,DER GEIST,#der_geist,8.0,UNKNOWN,Schadenfreude,S,,1774.0,positive,emotions of pleasure
+29,29,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Und doch deucht mir das Jauchzen deines Hofes in deinem verwüsteten Gebiete, wie der
+            Schall einer Trompete in einem Lazarett, daß man das Winseln der Sterbenden und
+            Verstümmelten nicht höre!",385,599,character_speech,1,1,,DER GEIST,#der_geist,8.0,UNKNOWN,suffering,S,,1774.0,negative,emotions of suffering and empathy
+30,30,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Geist, warum kamst du zu mir?",0,29,character_speech,1,1,,DER FÜRST.,#der_fuerst,9.0,MALE,being moved,S,,1774.0,being moved,being moved
+31,31,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Um zu reden!,0,12,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,anger,S,,1774.0,negative,emotions of rejection
+32,32,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,– Hier hat noch niemand geredet!,13,45,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,no_annotation,S,,1774.0,no_annotation,no_annotation
+33,33,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Alles, was du je gehört hast, war
+            Widerschall deiner Begierden.",46,121,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,no_annotation,S,,1774.0,no_annotation,no_annotation
+34,34,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Dies verdient es, daß ein Geist sichtbaren Stoff anziehe,
+            und die Sonne noch einmal sehe.",122,223,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,no_annotation,S,,1774.0,no_annotation,no_annotation
+35,35,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"– Sie ist das einzige in Deutschland, was ich noch
+            kenne!",224,293,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,love,S,,1774.0,positive,emotions of affection
+36,36,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Aber Jüngling, höre, was ich rede!",294,328,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,no_annotation,S,,1774.0,no_annotation,no_annotation
+37,37,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"So gewiß jetzt dein Knie vor einem Geist und
+            der Wahrheit zittert, so gewiß kommt eine Zeit, in der es Hermannen nicht gereuen wird,
+            daß er für Deutschland starb!",329,515,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,"admiration, reverence",S,,1774.0,positive,emotions of affection
+38,38,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Verstehst du mich?,516,534,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,no_annotation,S,,1774.0,no_annotation,no_annotation
+39,39,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,– Nicht?,535,543,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,no_annotation,S,,1774.0,no_annotation,no_annotation
+40,40,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"– Despotismus ist der Vater
+            der Freiheit!",544,597,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,no_annotation,S,,1774.0,no_annotation,no_annotation
+41,41,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,– Verstehst du mich jetzt?,598,624,character_speech,1,1,,DER GEIST.,#der_geist,10.0,UNKNOWN,no_annotation,S,,1774.0,no_annotation,no_annotation
+42,42,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Er verschwindet.,0,16,stage_direction,1,1,speech_part,,#der_geist,10.0,UNKNOWN,no_annotation,S,,1774.0,no_annotation,no_annotation
+43,43,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Ungarisch Wasser, Herr Kammerherr!",0,34,character_speech,1,1,,DER FÜRST.,#der_fuerst,11.0,MALE,no_annotation,S,,1774.0,no_annotation,no_annotation
+44,44,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,Ich – ich – habe nichts bei mir.,0,32,character_speech,1,1,,DER KAMMERHERR.,#der_kammerherr,12.0,MALE,being moved,S,,1774.0,being moved,being moved
+45,45,GerDracor/leisewitz-der-besuch-um-mitternacht.xml,"Sie sind ein Freigeist, und haben in der Gespensterstunde kein ungarisch Wasser!",0,80,character_speech,1,1,,DER FÜRST.,#der_fuerst,13.0,MALE,abhorrence,S,,1774.0,negative,emotions of rejection

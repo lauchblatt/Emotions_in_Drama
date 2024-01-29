@@ -1,0 +1,1326 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/beer-der-paria.xml,Gadhi.,0,6,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+1,1,GerDracor/beer-der-paria.xml,Maja.,7,12,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+2,2,GerDracor/beer-der-paria.xml,"Gadhi ist beschäftigt, mit Matten und Buschwerk eine Lücke der
+          Hinterwand zu verstopfen.",13,111,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+3,3,GerDracor/beer-der-paria.xml,erschreckt und ängstlich ausrufend.,0,35,stage_direction,1,1,speech_part,,#maja,1.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+4,4,GerDracor/beer-der-paria.xml,Mein Kind!,0,10,character_speech,1,1,,MAJA,#maja,1.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+5,5,GerDracor/beer-der-paria.xml,Sie eilt in die Kammer und kommt bald etwas beruhigter zurück.,0,62,stage_direction,1,1,speech_part,,#maja,1.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+6,6,GerDracor/beer-der-paria.xml,Geliebtes Weib!,0,15,character_speech,1,1,,GADHI.,#gadhi,2.0,MALE,love,T,,1823.0,positive,emotions of affection
+7,7,GerDracor/beer-der-paria.xml,schläft unser Knabe?,16,36,character_speech,1,1,,GADHI.,#gadhi,2.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+8,8,GerDracor/beer-der-paria.xml,"
+            Er schläft.",0,24,character_speech,1,1,,MAJA.,#maja,3.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+9,9,GerDracor/beer-der-paria.xml,"Horch, wie die Stürme brausen!",25,55,character_speech,1,1,,MAJA.,#maja,3.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+10,10,GerDracor/beer-der-paria.xml,"Fürchterlich
+            Dräut das Gewitter, und der Regen gießt
+            In Strömen nieder.",56,151,character_speech,1,1,,MAJA.,#maja,3.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+11,11,GerDracor/beer-der-paria.xml,"Was die schwache Hand
+            Des Menschen baut, kann heute nicht beschützen.",152,233,character_speech,1,1,,MAJA.,#maja,3.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+12,12,GerDracor/beer-der-paria.xml,"
+            Wie ich's vermocht, hab' ich die Wand gesichert,
+            Ein ew'ges Dach wölbt uns der heil'ge Baum;
+            Sein greises Haupt hat oft das Flammenauge
+            Des Blitzes unversehrt geschaut.",0,217,character_speech,1,1,,GADHI.,#gadhi,4.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+13,13,GerDracor/beer-der-paria.xml,"Der Donner
+            Rollt machtlos über ihm, – ich zitt're nicht.",218,286,character_speech,1,1,,GADHI.,#gadhi,4.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+14,14,GerDracor/beer-der-paria.xml,"
+            O wär' ich stark wie du, und schlüge frei,
+            Sich keiner Schuld bewußt, dies bange Herz!",0,111,character_speech,1,1,,MAJA.,#maja,5.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+15,15,GerDracor/beer-der-paria.xml,"Dein edler Blick, der in die reinen Tiefen
+            Der eignen Brust geschaut, darf muthgestählt
+            Sich zu des Himmels dunkelm Antlitz wenden.",124,279,character_speech,1,1,,MAJA.,#maja,5.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+16,16,GerDracor/beer-der-paria.xml,"Ich aber zitt're, wenn die Erde zittert;
+            Und wie der Sturmwind durch die Wipfel saust,
+            Bewegt ein nimmer schlummerndes Gefühl
+            Dies schuld'ge Herz.",292,474,character_speech,1,1,,MAJA.,#maja,5.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+17,17,GerDracor/beer-der-paria.xml,–,475,476,character_speech,1,1,,MAJA.,#maja,5.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+18,18,GerDracor/beer-der-paria.xml,"
+            Geliebte, frevle nicht!",0,36,character_speech,1,1,,GADHI.,#gadhi,6.0,MALE,love,T,,1823.0,positive,emotions of affection
+19,19,GerDracor/beer-der-paria.xml,"Wer nennt sich rein, wenn du dein edles Selbst
+            Mit strengem Worte unbedachtsam schmähst?",49,149,character_speech,1,1,,GADHI.,#gadhi,6.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+20,20,GerDracor/beer-der-paria.xml,"Nicht, was du Frevel nennst, erschüttert dich
+            Bei dieses Donners Schlägen; nicht den Muth,
+            Der freudlos mich beseelt, ersehne dir.",163,317,character_speech,1,1,,GADHI.,#gadhi,6.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+21,21,GerDracor/beer-der-paria.xml,"Den herben Keim zu dieser bittern Frucht
+            Hat Schmach gesät auf öden Lebenssteppen.",330,424,character_speech,1,1,,GADHI.,#gadhi,6.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+22,22,GerDracor/beer-der-paria.xml,"Ihr Thau sind Thränen, und dem Jammer nur
+            Wächst sie zum blutigen Genuß empor.",437,527,character_speech,1,1,,GADHI.,#gadhi,6.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+23,23,GerDracor/beer-der-paria.xml,"Nicht die gemeinen Schrecken der Natur,
+            Gleichmäßig dräuend jeglichem Geschöpf,
+            Nicht feindlich offene Gewalt befürcht' ich.",540,688,character_speech,1,1,,GADHI.,#gadhi,6.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+24,24,GerDracor/beer-der-paria.xml,"Hinausgetrieben aus des Lebens Reihen,
+            Geschleudert aus der Welt gesell'gem Strome,
+            Bin ich befreundet in der Wälder Nacht,
+            Wo die Hyäne und das Pantherthier
+            In friedlich blutiger Gemeinschaft hausen.",701,949,character_speech,1,1,,GADHI.,#gadhi,6.0,MALE,friendship,T,,1823.0,positive,emotions of affection
+25,25,GerDracor/beer-der-paria.xml,"Mein Leben wag' ich täglich, es zu fristen,
+            Und furchtlos, nicht der Felsen steile Höh',
+            Nicht list'ger Tiger blut'ge Nähe scheuend,
+            Jag' ich der Beute nach: doch tief entsetzt
+            Erbebt mein Herz, wenn des Maquarah Schall
+            In diesem gräßlich ungeheuern Kampf
+            Des Menschen fürchterliche Näh' verkündigt,
+            Die Trommel dröhnt, und von verborg'ner Senne
+            Des list'gen Jägers schwirrt der ehrne Pfeil,
+            Das Unthier schreckend mit durchbohrten Weichen,
+            Da theilt's noch einmal die bewegten Lüfte,
+            Ein zweiter Pfeil, – er trifft mein zuckend Herz –
+            Der Jäger jauchzt und schlägt den Freudenwirbel;
+            Denn Brama lächelt, wenn ein Paria fällt.",962,1744,character_speech,1,1,,GADHI.,#gadhi,6.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+26,26,GerDracor/beer-der-paria.xml,Heftiger Blitz und Donner.,0,26,stage_direction,1,1,speech_part,,#gadhi,6.0,MALE,being moved,T,,1823.0,being moved,being moved
+27,27,GerDracor/beer-der-paria.xml,"
+            O Gadhi!",0,21,character_speech,1,1,,MAJA.,#maja,7.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+28,28,GerDracor/beer-der-paria.xml,"Donn're nicht, gewalt'ger Gott!",22,53,character_speech,1,1,,MAJA.,#maja,7.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+29,29,GerDracor/beer-der-paria.xml,Dein Zorn ist furchtbar.,66,90,character_speech,1,1,,MAJA.,#maja,7.0,FEMALE,anger,T,,1823.0,negative,emotions of rejection
+30,30,GerDracor/beer-der-paria.xml,"
+            Furchtbar!",0,23,character_speech,1,1,,GADHI.,#gadhi,8.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+31,31,GerDracor/beer-der-paria.xml,"Weine, weine,
+            Unglücklich Weib, und dank dem Himmel noch,
+            Daß er dir Thränen ließ, – ich habe keine.",24,148,character_speech,1,1,,GADHI.,#gadhi,8.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+32,32,GerDracor/beer-der-paria.xml,"Mein Leben ist ein elendes Gewimmer,
+            Der leise Seufzer des getret'nen Wurms,
+            Den vor dem Dasein schon ein ew'ger Fluch
+            Verdammt, im Staub sich ächzend hinzuwenden,
+            Indeß vor seinem Blick in Sonnenhöhe
+            Die Mitgeschöpfe, reich beflügelt, schwinden,
+            Laß diese Thränen der Erinn'rung fließen;
+            Einst hast auch du des Lebens Glanz geschaut,
+            Und deine Kindheit sah beglückte Tage.",161,630,character_speech,1,1,,GADHI.,#gadhi,8.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+33,33,GerDracor/beer-der-paria.xml,"
+            Nicht jene Tage sehn' ich mir zurück;
+            Dein ist dies Leben, das du mir gerettet;
+            Und säh' ich dich zufrieden, wähnst du wohl,
+            Mich drückten diese niedrigen Beschwerden?",0,216,character_speech,1,1,,MAJA.,#maja,9.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+34,34,GerDracor/beer-der-paria.xml,Was kümmert mich der äußern Güter Schein?,229,270,character_speech,1,1,,MAJA.,#maja,9.0,FEMALE,anger,T,,1823.0,negative,emotions of rejection
+35,35,GerDracor/beer-der-paria.xml,"Des Weibes Herz kennt nur ein Glück auf Erden;
+            Dies Glück heißt: lieben und geliebt zu sein.",283,387,character_speech,1,1,,MAJA.,#maja,9.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+36,36,GerDracor/beer-der-paria.xml,"
+            O meine Liebe ist ein elend Glück!",0,47,character_speech,1,1,,GADHI.,#gadhi,10.0,MALE,love,T,,1823.0,positive,emotions of affection
+37,37,GerDracor/beer-der-paria.xml,Verworfen –,60,71,character_speech,1,1,,GADHI.,#gadhi,10.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+38,38,GerDracor/beer-der-paria.xml,Du – verworfen?,0,15,character_speech,1,1,,MAJA.,#maja,11.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+39,39,GerDracor/beer-der-paria.xml,–,16,17,character_speech,1,1,,MAJA.,#maja,11.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+40,40,GerDracor/beer-der-paria.xml,"
+            Bin ich's nicht?",0,29,character_speech,1,1,,GADHI.,#gadhi,12.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+41,41,GerDracor/beer-der-paria.xml,"Ist's nicht das Kind, das deine Brüste säugten?",42,89,character_speech,1,1,,GADHI.,#gadhi,12.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+42,42,GerDracor/beer-der-paria.xml,"–
+            Wird's nicht der Enkel mit gebeugtem Haupt,
+            Wird's nicht mit heißen Thränen der Bedrückung
+            Ein ganzes folgendes Geschlecht beweinen,
+            Daß unsre Liebe ihm das Dasein gab?",90,308,character_speech,1,1,,GADHI.,#gadhi,12.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+43,43,GerDracor/beer-der-paria.xml,"–
+            Wenn deine Stimme Donner ist, dein Name
+            Gerechtigkeit und Langmuth, großer Brama,
+            Gieb Antwort: Warum folgt dein ew'ger Haß
+            Dem unglücksel'gen Stamm, der mich erzeugt?",309,526,character_speech,1,1,,GADHI.,#gadhi,12.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+44,44,GerDracor/beer-der-paria.xml,"Weil einst, vielleicht in grauer Fabelzeit,
+            Ein Paria die Huld'gung dir geweigert,
+            Den Gott verhöhnt, der zu der Erde Prüfung
+            Sein lichtes Dasein mit Gestalt umgürtet,
+            Lehrt deiner Priester Schar, so weit die Fluth
+            Des Ganges wogt, daß unsre Nähe schändet,
+            Daß sich allein von uns in Zornes Gluth
+            Dein heilig, Gnade strömend Antlitz wendet.",539,963,character_speech,1,1,,GADHI.,#gadhi,12.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+45,45,GerDracor/beer-der-paria.xml,"
+            Nein, nein!",0,24,character_speech,1,1,,MAJA.,#maja,13.0,FEMALE,anger,T,,1823.0,negative,emotions of rejection
+46,46,GerDracor/beer-der-paria.xml,"das Meisterwerk der Schöpfung ist
+            Ein Herz, das edel fühlt wie deines.",25,107,character_speech,1,1,,MAJA.,#maja,13.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+47,47,GerDracor/beer-der-paria.xml,"– Der Schöpfer nicht
+            Wird solch ein Herz mit seinen Flüchen drücken;
+            Die Priester lügen.",108,220,character_speech,1,1,,MAJA.,#maja,13.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+48,48,GerDracor/beer-der-paria.xml,"
+            Ja, sie lügen, Maja,
+            Und glaubt' ich's nicht, mein Glaube würde irr'
+            An dem, dem ihre Opfer Läst'rung dampfen.",0,147,character_speech,1,1,,GADHI.,#gadhi,14.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+49,49,GerDracor/beer-der-paria.xml,"Brama ist gut und freundlich: strömt sein Blick
+            Nicht den befruchtend segensreichen Strahl?",160,263,character_speech,1,1,,GADHI.,#gadhi,14.0,MALE,friendship,T,,1823.0,positive,emotions of affection
+50,50,GerDracor/beer-der-paria.xml,"Hat seine Hand mit sturmesfesten Zweigen
+            Nicht der Banane schützend Dach gewölbt?",276,369,character_speech,1,1,,GADHI.,#gadhi,14.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+51,51,GerDracor/beer-der-paria.xml,"Ist er der Vater nicht der ew'gen Mutter,
+            Der allumfassend liebenden Natur?",382,469,character_speech,1,1,,GADHI.,#gadhi,14.0,MALE,love,T,,1823.0,positive,emotions of affection
+52,52,GerDracor/beer-der-paria.xml,"Ihr heiliges Gesetz heißt Lieb' und Duldung,
+            Und was sie gleich gebildet an Gestalt,
+            Knüpft friedlich auch ein gleiches Band der Seele.",482,641,character_speech,1,1,,GADHI.,#gadhi,14.0,MALE,love,T,,1823.0,positive,emotions of affection
+53,53,GerDracor/beer-der-paria.xml,"In ihrem Reich ist nichts gering und fremd:
+            Das weite Meer verschmäht den Tropfen nicht,
+            Den dieser Regen gießt aus trüben Wolken;
+            Mit brüderlichen Armen wälzt der Strom
+            Ihn fort und fort in seinen ew'gen Wellen,
+            Gleich seiner bergentstürzten Silberfluth.",654,969,character_speech,1,1,,GADHI.,#gadhi,14.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+54,54,GerDracor/beer-der-paria.xml,"Der Mensch allein zerstört mit frecher Hand
+            Den gleichen Spiegel seines edeln Wesens,
+            Und Glauben, – Glauben nennt er seinen Wahn.",982,1136,character_speech,1,1,,GADHI.,#gadhi,14.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+55,55,GerDracor/beer-der-paria.xml,"Doch Brama lächelt schonend, sich ins Licht
+            Der Wahrheit tauchend, bis auch wir zum Tag
+            Des Wissens aus der Nacht des Irrthums scheiden.",1149,1309,character_speech,1,1,,GADHI.,#gadhi,14.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+56,56,GerDracor/beer-der-paria.xml,"
+            So will ich dich, mein Gadhi!",0,42,character_speech,1,1,,MAJA.,#maja,15.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+57,57,GerDracor/beer-der-paria.xml,"Du entbehrst
+            Das Schlecht're nur; des Lebens bess're Güter
+            Sind dein in unvergänglichem Besitze!",43,163,character_speech,1,1,,MAJA.,#maja,15.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+58,58,GerDracor/beer-der-paria.xml,"Dein edler Glaube und mein treues Herz,
+            Das mit dir fühlt und mit dir glaubt und leidet.",177,277,character_speech,1,1,,MAJA.,#maja,15.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+59,59,GerDracor/beer-der-paria.xml,sie umfassend.,0,14,stage_direction,1,1,speech_part,,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+60,60,GerDracor/beer-der-paria.xml,"
+            Zwei Edelsteine unschätzbaren Werths,
+            Die ich gefunden in dem Schacht des Elends.",0,106,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+61,61,GerDracor/beer-der-paria.xml,"Ihr Glanz erleuchtet meine dunkle Bahn,
+            Beglückt mein Herz, erfüllt, was ich bedarf
+            Als Mensch; doch ich bin Mann – der Mann will mehr.",119,278,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,love,T,,1823.0,positive,emotions of affection
+62,62,GerDracor/beer-der-paria.xml,"Im Männerbusen drängend wohnt die Kraft,
+            Die nur am Licht der That sich kann entfalten.",291,390,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+63,63,GerDracor/beer-der-paria.xml,Dürft' ich nur Mensch sein unter Menschen!,403,445,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+64,64,GerDracor/beer-der-paria.xml,– Ach!,446,452,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+65,65,GerDracor/beer-der-paria.xml,"Es ist so wenig doch begehrt, so wenig!",465,504,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+66,66,GerDracor/beer-der-paria.xml,"Sie schmeicheln ihrem Hund und ihrem Rosse,
+            Und scheuen uns, als hätt' uns die Natur
+            Zur Larve Menschenbildung nur gegeben.",517,664,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+67,67,GerDracor/beer-der-paria.xml,"Stellt mich euch gleich und seht, ob ich euch gleiche!",677,731,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+68,68,GerDracor/beer-der-paria.xml,Mit steigender Kraft.,0,21,stage_direction,1,1,speech_part,,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+69,69,GerDracor/beer-der-paria.xml,"
+            Ich hab' ein Vaterland, ich will's beschützen.",0,59,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+70,70,GerDracor/beer-der-paria.xml,"Gebt mir ein Leben und ich zahl's mit Wucher,
+            Wo die Gefahr der Schlacht mit ehrnen Zungen
+            Die Opfer heischt, und an des Lebens Fülle
+            Sich bis zur Uebersätt'gung nährt und stirbt.",72,287,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+71,71,GerDracor/beer-der-paria.xml,Wagt's und erprobt des Unterdrückten Kraft!,300,343,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+72,72,GerDracor/beer-der-paria.xml,"Schon seh' ich mich mit thatensücht'gem Muth
+            Hinstürzen in das tödtlichste Gewühl,
+            Umsaust von Speeren und umblitzt von Pfeilen;
+            Fest steh' ich, wie beim Donner des Gewölks.",356,565,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+73,73,GerDracor/beer-der-paria.xml,"Mir nach, mir nach!",578,597,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+74,74,GerDracor/beer-der-paria.xml,"– Seht ihr den Knaben mir
+            Zur Seite steh'n?",598,653,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+75,75,GerDracor/beer-der-paria.xml,Das ist mein Kind – mein Kind!,654,684,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+76,76,GerDracor/beer-der-paria.xml,"Aus meinem Blut ist er entsprossen; seht,
+            Wie er die Lanzen wirft!",698,776,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+77,77,GerDracor/beer-der-paria.xml,"getroffen sinkt
+            Der Feind, ihm fluchend: – segn' ihn, Vaterland,
+            Es ist mein Kind; es hat für dich gestritten,
+            Sein Vater ist für dich gefallen.",777,957,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+78,78,GerDracor/beer-der-paria.xml,–,958,959,character_speech,1,1,,GADHI,#gadhi,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+79,79,GerDracor/beer-der-paria.xml,"
+            Nein,
+            Du bleibst – verlaß mich nicht – du kannst nicht fort,
+            Und wenn du's könntest, nimmer solltest du's.",0,143,character_speech,1,1,,MAJA.,#maja,17.0,FEMALE,despair,T,,1823.0,negative,emotions of anxiety
+80,80,GerDracor/beer-der-paria.xml,"Was ist dir, Maja?",0,18,character_speech,1,1,,GADHI.,#gadhi,18.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+81,81,GerDracor/beer-der-paria.xml,Was ergreift dich?,19,37,character_speech,1,1,,GADHI.,#gadhi,18.0,MALE,being moved,T,,1823.0,being moved,being moved
+82,82,GerDracor/beer-der-paria.xml,Weh!,0,4,character_speech,1,1,,MAJA.,#maja,19.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+83,83,GerDracor/beer-der-paria.xml,"
+            Dich ängstet nur ein Traum – ein Paria bin ich,
+            Ich darf nicht streiten für mein Vaterland.",0,116,character_speech,1,1,,GADHI.,#gadhi,20.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+84,84,GerDracor/beer-der-paria.xml,"
+            Kein Traum – mich ängstet Wirklichkeit – ich kann,
+            Ich darf dir's länger nicht verschweigen – mich
+            Ergreift die Ahnung von Gefahren –",0,170,character_speech,1,1,,MAJA.,#maja,21.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+85,85,GerDracor/beer-der-paria.xml,"Rede, rede!",0,11,character_speech,1,1,,GADHI.,#gadhi,22.0,MALE,being moved,T,,1823.0,being moved,being moved
+86,86,GerDracor/beer-der-paria.xml,"
+            Erzitt're und vergieb mir, mein Geliebter – –
+            Dies Felsenthal, das unsre Hütt' umschließt –",0,116,character_speech,1,1,,MAJA.,#maja,23.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+87,87,GerDracor/beer-der-paria.xml,Das ich dich nimmer zu verlassen bat?,0,37,character_speech,1,1,,GADHI.,#gadhi,24.0,MALE,love,T,,1823.0,positive,emotions of affection
+88,88,GerDracor/beer-der-paria.xml,Verlassen hab' ich es –,0,23,character_speech,1,1,,MAJA.,#maja,25.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+89,89,GerDracor/beer-der-paria.xml,in höchster Angst.,0,18,stage_direction,1,1,speech_part,,#gadhi,26.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+90,90,GerDracor/beer-der-paria.xml,Und wardst gesehen.,0,19,character_speech,1,1,,GADHI,#gadhi,26.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+91,91,GerDracor/beer-der-paria.xml,bejaht es schweigend.,0,21,stage_direction,1,1,speech_part,,#maja,27.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+92,92,GerDracor/beer-der-paria.xml,wendet sich mit einem Laute des Entsetzens ab.,0,46,stage_direction,1,1,speech_part,,#gadhi,28.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+93,93,GerDracor/beer-der-paria.xml,nach einer Pause.,0,17,stage_direction,1,1,speech_part,,#maja,29.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+94,94,GerDracor/beer-der-paria.xml,"
+            Kaum sind sechs Sonnen unter – und ich ging
+            Ins nahe Gärtchen, Früchte suchend.",0,104,character_speech,1,1,,MAJA,#maja,29.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+95,95,GerDracor/beer-der-paria.xml,"Ruhig
+            Ließ ich den Knaben, auf der Matte schlummernd,
+            In unsrer Hütte.",105,199,character_speech,1,1,,MAJA,#maja,29.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+96,96,GerDracor/beer-der-paria.xml,"– Als ich wiederkehre,
+            Ist Matt' und Hütte leer, das Kind ist fort.",200,279,character_speech,1,1,,MAJA,#maja,29.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+97,97,GerDracor/beer-der-paria.xml,"Umsonst durchsuch' ich Thal und Garten, ruf' umsonst
+            Den theuren Namen, leer bringt mir die Luft
+            Die eig'nen Jammertöne nur zurück.",292,447,character_speech,1,1,,MAJA,#maja,29.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+98,98,GerDracor/beer-der-paria.xml,"Da, mich ergriff die fürchterlichste Angst,
+            Mit scheuem Blick rings an der Felswand späh' ich –",460,567,character_speech,1,1,,MAJA,#maja,29.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+99,99,GerDracor/beer-der-paria.xml,Wir sind verloren!,0,18,character_speech,1,1,,GADHI.,#gadhi,30.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+100,100,GerDracor/beer-der-paria.xml,"
+            Wir?",0,17,character_speech,1,1,,MAJA.,#maja,31.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+101,101,GerDracor/beer-der-paria.xml,"Fragt eine Mutter,
+            Was außer ihrem Kind noch lebt und wünscht,
+            Wenn sie ihr Kind vermißt?",18,131,character_speech,1,1,,MAJA.,#maja,31.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+102,102,GerDracor/beer-der-paria.xml,"– Ein steiler Pfad
+            Führt aufwärts; raschen Schritts erklimm' ich ihn,
+            Und finde jenseits mich des Thals, umschattet
+            Von einem Hain, der seine Palmendächer
+            Weit über viel verschlung'nen Wegen breitet.",132,379,character_speech,1,1,,MAJA.,#maja,31.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+103,103,GerDracor/beer-der-paria.xml,"Nicht Mühe scheu' ich noch Gefahren, winde
+            Mich durchs Gebüsch, und plötzlich vor mir seh' ich
+            Mein Kind – und einen Jäger neben ihm
+            Vom Stamm der Rajahs, Früchte mit ihm theilend.",392,608,character_speech,1,1,,MAJA.,#maja,31.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+104,104,GerDracor/beer-der-paria.xml,"Hin stürz' ich, meinen Knaben fest umschlingend,
+            Und halt' ihn lang' – bis des Entzückens Gluth
+            Den Quell des Aug's, den mir die Angst erstarrte,
+            In reichen Strömen heißer Thränen löste.",621,843,character_speech,1,1,,MAJA.,#maja,31.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+105,105,GerDracor/beer-der-paria.xml,"Aufblickend endlich trifft mein feuchtes Auge
+            Das glühende des Jägers; Angst ergreift mich;
+            Dank stammelnd, meinen Knaben fassend, will
+            Ich flieh'n; er aber, fest mich haltend, ruft:
+            »Weib!",856,1093,character_speech,1,1,,MAJA.,#maja,31.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+106,106,GerDracor/beer-der-paria.xml,"wunderbar ergriff dein Anblick mich,
+            Mein Herz durchzucken nie gefühlte Flammen,
+            Wer du auch seist – du folgest mir.«",1094,1235,character_speech,1,1,,MAJA.,#maja,31.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+107,107,GerDracor/beer-der-paria.xml,"Hörst du's, Brama!",0,18,character_speech,1,1,,GADHI.,#gadhi,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+108,108,GerDracor/beer-der-paria.xml,"
+            Ich aber ihm erwiedernd: »Herr!",0,44,character_speech,1,1,,MAJA.,#maja,33.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+109,109,GerDracor/beer-der-paria.xml,"mein harrt
+            Und meines Kindes der besorgte Gatte
+             In ferner Hütte« – will entwinden mich
+            Den starken Armen, doch nur fester drückt
+            Der Rasende mich an sein wallend Herz,
+            Bestürmend mich mit frechen Liebesworten.",45,315,character_speech,1,1,,MAJA.,#maja,33.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+110,110,GerDracor/beer-der-paria.xml,"Die Angst der Mutter – jetzt der Gattin Qual –
+            Ein Nebel deckte mir die Sinne – da
+            Zischt eine Natter aus dem Grase auf,
+            Die giftigste von allen – streckt das Haupt
+            Mit Gier nach meinem Kinde aus: ich seh's,
+            Und Mutterliebe giebt mir Riesenkraft.",328,634,character_speech,1,1,,MAJA.,#maja,33.0,FEMALE,despair,T,,1823.0,negative,emotions of anxiety
+111,111,GerDracor/beer-der-paria.xml,"Weit von mir schleudr' ich den gewalt'gen Mann,
+            Und hoch mein Kind mit beiden Händen schwingend,
+            Flieh' ich, das Unthier deutend dem Verweg'nen.",647,815,character_speech,1,1,,MAJA.,#maja,33.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+112,112,GerDracor/beer-der-paria.xml,"Nichts hemmt die Eil' der Flucht, und als ich scheu
+            Die Blicke wende, den Verfolger fürchtend,
+            War er entschwunden in der Nacht des Waldes.",828,991,character_speech,1,1,,MAJA.,#maja,33.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+113,113,GerDracor/beer-der-paria.xml,"
+            Entschwunden!",0,26,character_speech,1,1,,GADHI.,#gadhi,34.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+114,114,GerDracor/beer-der-paria.xml,wenn er's nicht auf immer wäre?,27,58,character_speech,1,1,,GADHI.,#gadhi,34.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+115,115,GerDracor/beer-der-paria.xml,"Wenn ihn die List der wüthenden Begier
+            Den Weg zu unsrer Hütte finden lehrte!",71,160,character_speech,1,1,,GADHI.,#gadhi,34.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+116,116,GerDracor/beer-der-paria.xml,"Halt' fest, mein Herz – ich kenne diese Rajahs,
+            Sie scheuen uns, gleich wie der Pest Berühren;
+            Doch wallt ihr Blut von frecher Lust durchglüht,
+            Gleich gilt es diesem rasenden Geschlecht,
+            Ob es Befried'gung findet im Palast,
+            Ob in des Paria fluchbelad'ner Hütte.",173,494,character_speech,1,1,,GADHI.,#gadhi,34.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+117,117,GerDracor/beer-der-paria.xml,Er komme nur – er wag' es nur zu nahen!,0,39,character_speech,1,1,,MAJA.,#maja,35.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+118,118,GerDracor/beer-der-paria.xml,"
+            Es rächt ein Gott mit unverhofften Blitzen,
+            Doch wenn er dem verworf'nen Bettler droht
+            Sein letztes Gut zu rauben – –",0,154,character_speech,1,1,,GADHI.,#gadhi,36.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+119,119,GerDracor/beer-der-paria.xml,ihm in die Arme sinkend.,0,24,stage_direction,1,1,speech_part,,#maja,37.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+120,120,GerDracor/beer-der-paria.xml,"
+            Soll's der Tod
+            Eh' als der Räuber unsers Glücks besitzen.",0,82,character_speech,1,1,,MAJA,#maja,37.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+121,121,GerDracor/beer-der-paria.xml,Mein Weib!,0,10,character_speech,1,1,,GADHI.,#gadhi,38.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+122,122,GerDracor/beer-der-paria.xml,"mein theures, heißgeliebtes Weib!",11,44,character_speech,1,1,,GADHI.,#gadhi,38.0,MALE,love,T,,1823.0,positive,emotions of affection
+123,123,GerDracor/beer-der-paria.xml,aus seinen Armen aufschreckend.,0,31,stage_direction,1,1,speech_part,,#maja,39.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+124,124,GerDracor/beer-der-paria.xml,"Horch, Gadhi!",0,13,character_speech,1,1,,MAJA,#maja,39.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+125,125,GerDracor/beer-der-paria.xml,hörst du nichts?,14,30,character_speech,1,1,,MAJA,#maja,39.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+126,126,GerDracor/beer-der-paria.xml,"
+            Das dumpfe Rollen
+            Des fernen Donners.",0,62,character_speech,1,1,,GADHI.,#gadhi,40.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+127,127,GerDracor/beer-der-paria.xml,"
+            Schrecklicher als Donner
+            Schallt's näher mir und näher –",0,81,character_speech,1,1,,MAJA.,#maja,41.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+128,128,GerDracor/beer-der-paria.xml,"
+            Stimmen!",0,21,character_speech,1,1,,GADHI.,#gadhi,42.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+129,129,GerDracor/beer-der-paria.xml,"horch,
+            Und Tritte naher Menschen!",22,67,character_speech,1,1,,GADHI.,#gadhi,42.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+130,130,GerDracor/beer-der-paria.xml,von außen.,0,10,stage_direction,1,1,speech_part,,#stimmen_1,43.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+131,131,GerDracor/beer-der-paria.xml,Hierher!,0,8,character_speech,1,1,,STIMMEN,#stimmen_1,43.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+132,132,GerDracor/beer-der-paria.xml,Licht!,9,15,character_speech,1,1,,STIMMEN,#stimmen_1,43.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+133,133,GerDracor/beer-der-paria.xml,Wir sind verloren!,0,18,character_speech,1,1,,MAJA.,#maja,44.0,FEMALE,despair,T,,1823.0,negative,emotions of anxiety
+134,134,GerDracor/beer-der-paria.xml,"Schütz' uns, großer Brama!",19,45,character_speech,1,1,,MAJA.,#maja,44.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+135,135,GerDracor/beer-der-paria.xml,"In jener Kammer, theures Weib, verbirg dich.",0,44,character_speech,1,1,,GADHI.,#gadhi,45.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+136,136,GerDracor/beer-der-paria.xml,Nicht ohne dich.,0,16,character_speech,1,1,,MAJA.,#maja,46.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+137,137,GerDracor/beer-der-paria.xml,Hier will ich weilen.,0,21,character_speech,1,1,,GADHI.,#gadhi,47.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+138,138,GerDracor/beer-der-paria.xml,"
+            Nimmer!",0,20,character_speech,1,1,,MAJA.,#maja,48.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+139,139,GerDracor/beer-der-paria.xml,"Schnell reizt die Rohen der unsel'ge Anblick
+            Des Paria zu rascher Wuth.",33,116,character_speech,1,1,,MAJA.,#maja,48.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+140,140,GerDracor/beer-der-paria.xml,– Verbirg dich!,117,132,character_speech,1,1,,MAJA.,#maja,48.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+141,141,GerDracor/beer-der-paria.xml,"Ein Blick auf diese Hütte wird sie's lehren,
+            Wer sie bewohnt, und wenn ihr Auge nicht
+            Dem Wirth begegnet, flieh'n sie rasch von dannen.",145,304,character_speech,1,1,,MAJA.,#maja,48.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+142,142,GerDracor/beer-der-paria.xml,Wenn sie verirrt –,0,18,character_speech,1,1,,GADHI.,#gadhi,49.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+143,143,GerDracor/beer-der-paria.xml,"
+            Nicht der erzürnte Himmel,
+            Nicht das Entsetzen öder Wildniß schreckt
+            Sie mehr als deine unheilvolle Nähe.",0,142,character_speech,1,1,,MAJA.,#maja,50.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+144,144,GerDracor/beer-der-paria.xml,Hinweg!,155,162,character_speech,1,1,,MAJA.,#maja,50.0,FEMALE,anger,T,,1823.0,negative,emotions of rejection
+145,145,GerDracor/beer-der-paria.xml,sie nah'n!,163,173,character_speech,1,1,,MAJA.,#maja,50.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+146,146,GerDracor/beer-der-paria.xml,Dort sind wir sicher.,174,195,character_speech,1,1,,MAJA.,#maja,50.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+147,147,GerDracor/beer-der-paria.xml,ihr mit Widerstreben folgend.,0,29,stage_direction,1,1,speech_part,,#gadhi,51.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+148,148,GerDracor/beer-der-paria.xml,"
+            Sicher?",0,20,character_speech,1,1,,GADHI,#gadhi,51.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+149,149,GerDracor/beer-der-paria.xml,Entsetzenvolle Sicherheit der Schmach!,33,71,character_speech,1,1,,GADHI,#gadhi,51.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+150,150,GerDracor/beer-der-paria.xml,Beide ab ins zweite Gemach.,0,27,stage_direction,1,1,speech_part,,#gadhi,51.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+151,151,GerDracor/beer-der-paria.xml,"Man hört von außen ein verworrenes Geräusch; kurz darauf stürzen mehrere Indianer,
+          einer nach dem andern, in die Hütte, scheu umherblickend.",0,150,stage_direction,1,2,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+152,152,GerDracor/beer-der-paria.xml,Indianer.,0,9,stage_direction,1,2,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+153,153,GerDracor/beer-der-paria.xml,Gleich darauf Benascar.,10,33,stage_direction,1,2,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+154,154,GerDracor/beer-der-paria.xml,hereinstürzend.,0,15,stage_direction,1,2,speech_part,,#erster_indianer,52.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+155,155,GerDracor/beer-der-paria.xml,Hier Licht und Niemand hier – kommt Alle – kommt!,0,49,character_speech,1,2,,ERSTER INDIANER,#erster_indianer,52.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+156,156,GerDracor/beer-der-paria.xml,Wir sind geborgen.,0,18,character_speech,1,2,,ZWEITER INDIANER.,#zweiter_indianer,53.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+157,157,GerDracor/beer-der-paria.xml,nachdem er sich umgesehen und die Bauart genau betrachtet.,0,58,stage_direction,1,2,speech_part,,#erster_indianer,54.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+158,158,GerDracor/beer-der-paria.xml,"
+            Fort, wir sind verloren!",0,37,character_speech,1,2,,ERSTER INDIANER,#erster_indianer,54.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+159,159,GerDracor/beer-der-paria.xml,Hier wohnt ein Paria.,50,71,character_speech,1,2,,ERSTER INDIANER,#erster_indianer,54.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+160,160,GerDracor/beer-der-paria.xml,"Hilf, Brama, hilf!",0,18,character_speech,1,2,,ZWEITER INDIANER.,#zweiter_indianer,55.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+161,161,GerDracor/beer-der-paria.xml,gegen den Eingang fliehend.,0,27,stage_direction,1,2,speech_part,,#die_indianer,56.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+162,162,GerDracor/beer-der-paria.xml,Ein Paria!,0,10,character_speech,1,2,,ALLE,#die_indianer,56.0,UNKNOWN,abhorrence,T,,1823.0,negative,emotions of rejection
+163,163,GerDracor/beer-der-paria.xml,ein Paria!,11,21,character_speech,1,2,,ALLE,#die_indianer,56.0,UNKNOWN,abhorrence,T,,1823.0,negative,emotions of rejection
+164,164,GerDracor/beer-der-paria.xml,an der Thür.,0,12,stage_direction,1,2,speech_part,,#erster_indianer,57.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+165,165,GerDracor/beer-der-paria.xml,"Flieh', Herr!",0,13,character_speech,1,2,,ERSTER INDIANER,#erster_indianer,57.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+166,166,GerDracor/beer-der-paria.xml,hier muß ein Paria hausen.,14,40,character_speech,1,2,,ERSTER INDIANER,#erster_indianer,57.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+167,167,GerDracor/beer-der-paria.xml,"von zwei Indianern geführt, am linken Arm verwundet, erschöpft eintretend.",0,74,stage_direction,1,2,speech_part,,#benascar,58.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+168,168,GerDracor/beer-der-paria.xml,"
+            Laßt mich!",0,23,character_speech,1,2,,BENASCAR,#benascar,58.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+169,169,GerDracor/beer-der-paria.xml,"Und müßt' ich auch hier begegnen
+            Dem Geist des Unheils selbst; ich kann nicht weiter,
+            Mein Blut entströmt und meine Kraft verläßt mich.",36,195,character_speech,1,2,,BENASCAR,#benascar,58.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+170,170,GerDracor/beer-der-paria.xml,Er sinkt auf den Sitz ermattet nieder.,0,38,stage_direction,1,2,speech_part,,#benascar,58.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+171,171,GerDracor/beer-der-paria.xml,"Schmerzt dich die Wunde, Herr?",0,30,character_speech,1,2,,ERSTER INDIANER.,#erster_indianer,59.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+172,172,GerDracor/beer-der-paria.xml,Sie brennt wie Feuer.,0,21,character_speech,1,2,,BENASCAR.,#benascar,60.0,MALE,being moved,T,,1823.0,being moved,being moved
+173,173,GerDracor/beer-der-paria.xml,"Die Jagd war heiß, und grimmig war der Tiger.",0,45,character_speech,1,2,,ERSTER INDIANER.,#erster_indianer,61.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+174,174,GerDracor/beer-der-paria.xml,"
+            Fehl ging des Speeres Wurf, und gierig schnappte
+            Das Unthier nach der vorgestreckten Rechten;
+            Ich stieß dafür ihm bis ans Heft das Schwert
+            In den verruchten Schlund.",0,214,character_speech,1,2,,BENASCAR.,#benascar,62.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+175,175,GerDracor/beer-der-paria.xml,Er sank getroffen.,0,18,character_speech,1,2,,ERSTER INDIANER.,#erster_indianer,63.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+176,176,GerDracor/beer-der-paria.xml,–,19,20,character_speech,1,2,,ERSTER INDIANER.,#erster_indianer,63.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+177,177,GerDracor/beer-der-paria.xml,"
+            Und sank, denk' ich, nie wieder aufzusteh'n.",0,57,character_speech,1,2,,BENASCAR.,#benascar,64.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+178,178,GerDracor/beer-der-paria.xml,"Jetzt aber geht und schaut, wohin die Nacht
+             Die dunkelstürmende uns irr' geleitet.",70,165,character_speech,1,2,,BENASCAR.,#benascar,64.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+179,179,GerDracor/beer-der-paria.xml,"Die Hälfte eurer Schar umstellt die Hütte,
+            Daß sie mich schütze vor Verrath; die and're
+            Durchstreife spähend dieser Felsen Grund;
+            Und bietet euch ein Mann von reinem Stamm
+            Ein gastlich Dach, so fleht für mich um Hülfe.",178,444,character_speech,1,2,,BENASCAR.,#benascar,64.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+180,180,GerDracor/beer-der-paria.xml,"Hier willst du weilen, Herr?",0,28,character_speech,1,2,,ERSTER INDIANER.,#erster_indianer,65.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+181,181,GerDracor/beer-der-paria.xml,"
+            Ich kann nicht weiter.",0,35,character_speech,1,2,,BENASCAR.,#benascar,66.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+182,182,GerDracor/beer-der-paria.xml,"Doch nicht um meinetwillen sollt ihr euch
+            Bestecken mit des Gottverhaßten Nähe.",48,139,character_speech,1,2,,BENASCAR.,#benascar,66.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+183,183,GerDracor/beer-der-paria.xml,"Ich selber will – wenn anders nicht der Tod
+            Den Willen mit dem morschen Leben bricht –
+            Mich neunmal tauchen in die heil'gen Fluthen,
+            Und streng es büßen, wie man's büßen kann,
+            Daß ich geruht, wo die Verworf'nen ruhten.",152,418,character_speech,1,2,,BENASCAR.,#benascar,66.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+184,184,GerDracor/beer-der-paria.xml,Doch Herr!,0,10,character_speech,1,2,,ERSTER INDIANER.,#erster_indianer,67.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+185,185,GerDracor/beer-der-paria.xml,"allein, verlassen –",11,30,character_speech,1,2,,ERSTER INDIANER.,#erster_indianer,67.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+186,186,GerDracor/beer-der-paria.xml,Krank und hülflos –,0,19,character_speech,1,2,,ZWEITER INDIANER.,#zweiter_indianer,68.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+187,187,GerDracor/beer-der-paria.xml,"
+            Geht, sag' ich, geht!",0,34,character_speech,1,2,,BENASCAR.,#benascar,69.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+188,188,GerDracor/beer-der-paria.xml,"– Jedweder Augenblick
+             Häuft eure Schmach und mein Vergeh'n an euch.",35,115,character_speech,1,2,,BENASCAR.,#benascar,69.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+189,189,GerDracor/beer-der-paria.xml,"Thut, wie ich euch gesagt – ich bleibe hier.",128,172,character_speech,1,2,,BENASCAR.,#benascar,69.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+190,190,GerDracor/beer-der-paria.xml,ziehen sich besorgt zurück.,0,27,stage_direction,1,2,speech_part,,#die_indianer,70.0,UNKNOWN,fear,T,,1823.0,negative,emotions of anxiety
+191,191,GerDracor/beer-der-paria.xml,allein.,0,7,stage_direction,1,3,speech_part,,#benascar,71.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+192,192,GerDracor/beer-der-paria.xml,"
+            Wenn du's beschlossen, Brama, jetzt die Blüthe
+            Des Lebens, eh' sie Früchte trug, zu brechen,
+            Wenn mir der Tod bereitet ist, – er komme!",0,172,character_speech,1,3,,BENASCAR,#benascar,71.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+193,193,GerDracor/beer-der-paria.xml,"Nicht scheut' ich ihn in dem Gewühl der Schlachten;
+            Doch Eins nur fleh' ich, Eins, Gewaltiger:
+            In deinem Zorn nicht rufe mich zu dir,
+            Nicht in des Paria Hütte laß mich sterben!",185,397,character_speech,1,3,,BENASCAR,#benascar,71.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+194,194,GerDracor/beer-der-paria.xml,Weh'!,410,415,character_speech,1,3,,BENASCAR,#benascar,71.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+195,195,GerDracor/beer-der-paria.xml,"welche Schmerzen, wehe!",416,439,character_speech,1,3,,BENASCAR,#benascar,71.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+196,196,GerDracor/beer-der-paria.xml,wehe!,440,445,character_speech,1,3,,BENASCAR,#benascar,71.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+197,197,GerDracor/beer-der-paria.xml,weh'!,446,451,character_speech,1,3,,BENASCAR,#benascar,71.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+198,198,GerDracor/beer-der-paria.xml,Gadhi.,0,6,stage_direction,1,4,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+199,199,GerDracor/beer-der-paria.xml,Benascar.,7,16,stage_direction,1,4,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+200,200,GerDracor/beer-der-paria.xml,leise auftretend.,0,17,stage_direction,1,4,speech_part,,#gadhi,72.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+201,201,GerDracor/beer-der-paria.xml,"
+            Fort sind sie Alle, und doch schien es mir,
+            Als hört' ich ächzen –",0,91,character_speech,1,4,,GADHI,#gadhi,72.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+202,202,GerDracor/beer-der-paria.xml,Benascar erblickend und den Bogen spannend.,0,43,stage_direction,1,4,speech_part,,#gadhi,72.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+203,203,GerDracor/beer-der-paria.xml,"
+            Ha!",0,16,character_speech,1,4,,GADHI,#gadhi,72.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+204,204,GerDracor/beer-der-paria.xml,dort!,17,22,character_speech,1,4,,GADHI,#gadhi,72.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+205,205,GerDracor/beer-der-paria.xml,"dort – ein Kranker,
+            Verwundet, hülflos und allein.",23,85,character_speech,1,4,,GADHI,#gadhi,72.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+206,206,GerDracor/beer-der-paria.xml,"– Hinab
+            In deinen Abgrund, dunkler Geist der Rache!",86,149,character_speech,1,4,,GADHI,#gadhi,72.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+207,207,GerDracor/beer-der-paria.xml,Die Senne abspannend.,0,21,stage_direction,1,4,speech_part,,#gadhi,72.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+208,208,GerDracor/beer-der-paria.xml,"
+            Hernieder perlenhelles Mitleid, lösche
+             Mit Himmelsthau die Flammen dieser Brust.",0,106,character_speech,1,4,,GADHI,#gadhi,72.0,MALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+209,209,GerDracor/beer-der-paria.xml,"Vergebung, Herr – –",119,138,character_speech,1,4,,GADHI,#gadhi,72.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+210,210,GerDracor/beer-der-paria.xml,"
+            Fort!",0,18,character_speech,1,4,,BENASCAR.,#benascar,73.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+211,211,GerDracor/beer-der-paria.xml,Ungeheuer!,19,29,character_speech,1,4,,BENASCAR.,#benascar,73.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+212,212,GerDracor/beer-der-paria.xml,Fort!,30,35,character_speech,1,4,,BENASCAR.,#benascar,73.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+213,213,GerDracor/beer-der-paria.xml,Nimm dies für deine gottverhaßte Brust!,48,87,character_speech,1,4,,BENASCAR.,#benascar,73.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+214,214,GerDracor/beer-der-paria.xml,"Er schleudert einen Dolch nach ihm, der vor Gadhi niederfällt.",0,62,stage_direction,1,4,speech_part,,#benascar,73.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+215,215,GerDracor/beer-der-paria.xml,den Dolch emporhebend.,0,22,stage_direction,1,4,speech_part,,#gadhi,74.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+216,216,GerDracor/beer-der-paria.xml,"
+            Sieh, Herr!",0,24,character_speech,1,4,,GADHI,#gadhi,74.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+217,217,GerDracor/beer-der-paria.xml,"so schwach, so machtlos bist du, daß
+            Des Hasses Waffe, die mich tödten sollte,
+            Zur Wehr in meiner Hand wird gegen dich.",25,168,character_speech,1,4,,GADHI,#gadhi,74.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+218,218,GerDracor/beer-der-paria.xml,"
+            Mit diesen Fäusten selbst zerreiß' ich dich,
+            Wenn du dich nah'st.",0,90,character_speech,1,4,,BENASCAR.,#benascar,75.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+219,219,GerDracor/beer-der-paria.xml,"
+            Befürcht' es nicht, du sollst
+            Mit meinem Blute nicht die Hand beflecken.",0,97,character_speech,1,4,,GADHI.,#gadhi,76.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+220,220,GerDracor/beer-der-paria.xml,Ihm den Dolch zurückschleudernd.,0,32,stage_direction,1,4,speech_part,,#gadhi,76.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+221,221,GerDracor/beer-der-paria.xml,"
+            Nimm deinen Stahl zurück und lohn' mit Mord
+            Dem Wirth, der dir ein gastlich Dach gewährt.",0,114,character_speech,1,4,,GADHI.,#gadhi,76.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+222,222,GerDracor/beer-der-paria.xml,"Vergebend scheidet er, und seine Rache
+            Trägt in sich selbst des Undanks schwarze That.",127,225,character_speech,1,4,,GADHI.,#gadhi,76.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+223,223,GerDracor/beer-der-paria.xml,"der sich aufrichtete, den Dolch zu verbergen, sinkt nun in großer Erschöpfung auf
+            den Sitz zurück.",0,110,stage_direction,1,4,speech_part,,#benascar,77.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+224,224,GerDracor/beer-der-paria.xml,"
+            Du zitterst und erbleichst; der nahe Tod
+            Löscht von den Wangen deines Zornes Gluth.",0,108,character_speech,1,4,,GADHI.,#gadhi,78.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+225,225,GerDracor/beer-der-paria.xml,Sei mild und scheide mit versöhntem Blick.,121,163,character_speech,1,4,,GADHI.,#gadhi,78.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+226,226,GerDracor/beer-der-paria.xml,Ich lebe noch; willst du mich höhnen?,0,37,character_speech,1,4,,BENASCAR.,#benascar,79.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+227,227,GerDracor/beer-der-paria.xml,"
+            Höhnen?",0,20,character_speech,1,4,,GADHI.,#gadhi,80.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+228,228,GerDracor/beer-der-paria.xml,"Dir helfen möcht' ich, wenn – –",33,64,character_speech,1,4,,GADHI.,#gadhi,80.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+229,229,GerDracor/beer-der-paria.xml,Er hat sich Benascar genähert und seinen Arm ergriffen.,0,55,stage_direction,1,4,speech_part,,#gadhi,80.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+230,230,GerDracor/beer-der-paria.xml,"
+            Ja, noch, ich seh' es,
+            Gelobt sei Brama!",0,65,character_speech,1,4,,GADHI.,#gadhi,80.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+231,231,GerDracor/beer-der-paria.xml,"noch ist Hülfe möglich;
+            Noch rettet dich ein Balsam, den mein Weib
+            Aus segensvollem Kraut des Thals bereitet.",66,199,character_speech,1,4,,GADHI.,#gadhi,80.0,MALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+232,232,GerDracor/beer-der-paria.xml,"In wen'gen Augenblicken ist's zu spät,
+            Schon färbt dein Blut ein Tod verkündend Schwarz.",212,312,character_speech,1,4,,GADHI.,#gadhi,80.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+233,233,GerDracor/beer-der-paria.xml,"Wenn du zu retten mich vermagst, – so rette.",0,44,character_speech,1,4,,BENASCAR.,#benascar,81.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+234,234,GerDracor/beer-der-paria.xml,für sich.,0,9,stage_direction,1,4,speech_part,,#gadhi,82.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+235,235,GerDracor/beer-der-paria.xml,"
+            Nicht Edelmuth und Wohlthat nicht verkehrt
+            Zu Taubensinn der Schlangen gift'ge Art.",0,108,character_speech,1,4,,GADHI,#gadhi,82.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+236,236,GerDracor/beer-der-paria.xml,Dem Feinde meines Stamms erzeig' ich Gutes!,121,164,character_speech,1,4,,GADHI,#gadhi,82.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+237,237,GerDracor/beer-der-paria.xml,"Ob's weis', ob's thöricht ist, ich weiß es nicht;
+            Doch folgen muß ich dem gewalt'gen Drang,
+            Dem lauten Schlag des tiefbewegten Herzens.",177,336,character_speech,1,4,,GADHI,#gadhi,82.0,MALE,being moved,T,,1823.0,being moved,being moved
+238,238,GerDracor/beer-der-paria.xml,Er eilt in die Kammer.,0,22,stage_direction,1,4,speech_part,,#gadhi,82.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+239,239,GerDracor/beer-der-paria.xml,allein.,0,7,stage_direction,1,5,speech_part,,#benascar,83.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+240,240,GerDracor/beer-der-paria.xml,"Er geht, und –",0,14,character_speech,1,5,,BENASCAR,#benascar,83.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+241,241,GerDracor/beer-der-paria.xml,Sich mühsam emporrichtend und in die Scene rufend.,0,50,stage_direction,1,5,speech_part,,#benascar,83.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+242,242,GerDracor/beer-der-paria.xml,Auf!,0,4,character_speech,1,5,,BENASCAR,#benascar,83.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+243,243,GerDracor/beer-der-paria.xml,Gefährten!,5,15,character_speech,1,5,,BENASCAR,#benascar,83.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+244,244,GerDracor/beer-der-paria.xml,von außen.,0,10,stage_direction,1,5,speech_part,,#stimmen_5,84.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+245,245,GerDracor/beer-der-paria.xml,Herr!,0,5,character_speech,1,5,,STIMMEN,#stimmen_5,84.0,UNKNOWN,anger,T,,1823.0,negative,emotions of rejection
+246,246,GerDracor/beer-der-paria.xml,"
+            Seid wachsam,
+            Gewärtig meines Rufs – mir droht Verrath!",0,80,character_speech,1,5,,BENASCAR.,#benascar,85.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+247,247,GerDracor/beer-der-paria.xml,Man hört zum Zeichen der Antwort Schwerter an einander schlagen.,0,64,stage_direction,1,5,speech_part,,#benascar,85.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+248,248,GerDracor/beer-der-paria.xml,"Gadhi tritt ein, Maja führend, die verschleiert ist und ein Gefäß und Linnen in der
+          Hand trägt.",0,105,stage_direction,1,6,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+249,249,GerDracor/beer-der-paria.xml,Benascar.,0,9,stage_direction,1,6,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+250,250,GerDracor/beer-der-paria.xml,Gadhi.,10,16,stage_direction,1,6,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+251,251,GerDracor/beer-der-paria.xml,Maja.,17,22,stage_direction,1,6,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+252,252,GerDracor/beer-der-paria.xml,zu Gadhi.,0,9,stage_direction,1,6,speech_part,,#maja,86.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+253,253,GerDracor/beer-der-paria.xml,Was thatest du!,0,15,character_speech,1,6,,MAJA,#maja,86.0,FEMALE,anger,T,,1823.0,negative,emotions of rejection
+254,254,GerDracor/beer-der-paria.xml,wenn's jener Fremdling –,16,40,character_speech,1,6,,MAJA,#maja,86.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+255,255,GerDracor/beer-der-paria.xml,"
+            Straft
+            Mit gleichem Blitz der Himmel Schuld und Wohlthat?",0,82,character_speech,1,6,,GADHI.,#gadhi,87.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+256,256,GerDracor/beer-der-paria.xml,Ich will's nicht denken – nein – er wird's nicht sein.,95,149,character_speech,1,6,,GADHI.,#gadhi,87.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+257,257,GerDracor/beer-der-paria.xml,"
+            Sieh, Herr, mein Weib, das mit dem kund'gen Blick
+            Das Kraut erspäht, das heilende, im Thale;
+            Sie wird den Balsam träufeln in die Wunde
+            Und dich mit sanfter Hand vom Schmerz befrei'n.",0,231,character_speech,1,6,,GADHI.,#gadhi,87.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+258,258,GerDracor/beer-der-paria.xml,So komm!,0,8,character_speech,1,6,,BENASCAR.,#benascar,88.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+259,259,GerDracor/beer-der-paria.xml,für sich.,0,9,stage_direction,1,6,speech_part,,#maja,89.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+260,260,GerDracor/beer-der-paria.xml,Er ist's!,0,9,character_speech,1,6,,MAJA,#maja,89.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+261,261,GerDracor/beer-der-paria.xml,gerechter Brama!,10,26,character_speech,1,6,,MAJA,#maja,89.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+262,262,GerDracor/beer-der-paria.xml,Fassung!,27,35,character_speech,1,6,,MAJA,#maja,89.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+263,263,GerDracor/beer-der-paria.xml,"Sie ermannt sich und geht mit schnellen Schritten zu Benascar, der auf dem Sitze
+            ruht, indeß sie vor ihm hinknieet und die Wunde verbindet.",0,151,stage_direction,1,6,speech_part,,#maja,89.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+264,264,GerDracor/beer-der-paria.xml,"
+            Wenn ihr Verrath und List, Verworf'ne, sinnt,
+            Und jetzt vielleicht mit heißem Gift mein Blut
+            Zu Leben fressender Empörung reizt,
+            So wisset: eine Schar umstellt die Hütte,
+            Mir unterthan, die das Verbrechen rächt
+            Und euren Mord mit tausendfachem Tod
+            Euch lohnen wird.",0,350,character_speech,1,6,,BENASCAR.,#benascar,90.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+265,265,GerDracor/beer-der-paria.xml,"
+            Sucht den Verrath bei euch!",0,40,character_speech,1,6,,GADHI.,#gadhi,91.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+266,266,GerDracor/beer-der-paria.xml,"Verworfen nennt ihr uns – erkennet jetzt,
+            Ob wir es sind.",53,122,character_speech,1,6,,GADHI.,#gadhi,91.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+267,267,GerDracor/beer-der-paria.xml,"zu Maja, die von sichtbarer Angst bewegt wird.",0,46,stage_direction,1,6,speech_part,,#benascar,92.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+268,268,GerDracor/beer-der-paria.xml,Was zitterst du?,0,16,character_speech,1,6,,BENASCAR,#benascar,92.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+269,269,GerDracor/beer-der-paria.xml,–,17,18,character_speech,1,6,,BENASCAR,#benascar,92.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+270,270,GerDracor/beer-der-paria.xml,hat den Verband vollendet und will sich entfernen.,0,50,stage_direction,1,6,speech_part,,#maja,93.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+271,271,GerDracor/beer-der-paria.xml,ihre Hand ergreifend.,0,21,stage_direction,1,6,speech_part,,#benascar,94.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+272,272,GerDracor/beer-der-paria.xml,"
+            Dein Balsam
+            Kühlt lindernd mir den Schmerz; doch fühl' ich mich
+            Erschöpft, mich dürstet.",0,125,character_speech,1,6,,BENASCAR,#benascar,94.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+273,273,GerDracor/beer-der-paria.xml,– Ach!,126,132,character_speech,1,6,,BENASCAR,#benascar,94.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+274,274,GerDracor/beer-der-paria.xml,nur einen Trunk!,133,149,character_speech,1,6,,BENASCAR,#benascar,94.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+275,275,GerDracor/beer-der-paria.xml,will gehen.,0,11,stage_direction,1,6,speech_part,,#gadhi,95.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+276,276,GerDracor/beer-der-paria.xml,"
+            Weh' mir!",0,22,character_speech,1,6,,BENASCAR.,#benascar,96.0,MALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+277,277,GerDracor/beer-der-paria.xml,"Verworf'ner, bleib!",23,42,character_speech,1,6,,BENASCAR.,#benascar,96.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+278,278,GerDracor/beer-der-paria.xml,"der Trank,
+            Den du mir reichst, kann mir nicht Labsal sein.",43,113,character_speech,1,6,,BENASCAR.,#benascar,96.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+279,279,GerDracor/beer-der-paria.xml,"Die Quelle ist verflucht, aus der du schöpfst,
+            Und die krystallene Erquickung trübt
+            Zu schnödem Gift sich in verworf'ner Hand.",126,276,character_speech,1,6,,BENASCAR.,#benascar,96.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+280,280,GerDracor/beer-der-paria.xml,Dank sei's dem Himmel!,289,311,character_speech,1,6,,BENASCAR.,#benascar,96.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+281,281,GerDracor/beer-der-paria.xml,"hier bewahr' ich mir
+            Noch eine Frucht, die ich im Walde pflückte;
+            Sie labe mich –",312,417,character_speech,1,6,,BENASCAR.,#benascar,96.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+282,282,GerDracor/beer-der-paria.xml,ihm die Frucht entreißend.,0,26,stage_direction,1,6,speech_part,,#maja,97.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+283,283,GerDracor/beer-der-paria.xml,"
+            Unglücklicher, halt ein!",0,37,character_speech,1,6,,MAJA,#maja,97.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+284,284,GerDracor/beer-der-paria.xml,Du bist des Todes!,50,68,character_speech,1,6,,MAJA,#maja,97.0,FEMALE,despair,T,,1823.0,negative,emotions of anxiety
+285,285,GerDracor/beer-der-paria.xml,giftig ist die Frucht.,69,91,character_speech,1,6,,MAJA,#maja,97.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+286,286,GerDracor/beer-der-paria.xml,"
+            Was hör' ich!",0,26,character_speech,1,6,,BENASCAR.,#benascar,98.0,MALE,being moved,T,,1823.0,being moved,being moved
+287,287,GerDracor/beer-der-paria.xml,welche Stimme!,27,41,character_speech,1,6,,BENASCAR.,#benascar,98.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+288,288,GerDracor/beer-der-paria.xml,"Ja, sie ist's!",42,56,character_speech,1,6,,BENASCAR.,#benascar,98.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+289,289,GerDracor/beer-der-paria.xml,"Das ist die hohe, reizende Gestalt!",69,104,character_speech,1,6,,BENASCAR.,#benascar,98.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+290,290,GerDracor/beer-der-paria.xml,"Den Schleier nieder, daß ich bebend schaue
+            Den Blick, der, wie der Sonn' umwölktes Licht,
+            Das Leben weckt im tiefen Schooß der Erde,
+             Von Thränen schwer, dies Herz entflammend traf.",117,334,character_speech,1,6,,BENASCAR.,#benascar,98.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+291,291,GerDracor/beer-der-paria.xml,Herab den Schleier –.,347,368,character_speech,1,6,,BENASCAR.,#benascar,98.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+292,292,GerDracor/beer-der-paria.xml,"
+            Was ergreift dich, Herr?",0,37,character_speech,1,6,,GADHI.,#gadhi,99.0,MALE,being moved,T,,1823.0,being moved,being moved
+293,293,GerDracor/beer-der-paria.xml,Dies ist mein Weib!,50,69,character_speech,1,6,,GADHI.,#gadhi,99.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+294,294,GerDracor/beer-der-paria.xml,"
+            Dein Weib, Verworf'ner?",0,36,character_speech,1,6,,BENASCAR.,#benascar,100.0,MALE,being moved,T,,1823.0,being moved,being moved
+295,295,GerDracor/beer-der-paria.xml,Fort!,37,42,character_speech,1,6,,BENASCAR.,#benascar,100.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+296,296,GerDracor/beer-der-paria.xml,Den Schleier nieder –,55,76,character_speech,1,6,,BENASCAR.,#benascar,100.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+297,297,GerDracor/beer-der-paria.xml,"
+            Gadhi, schütze mich!",0,33,character_speech,1,6,,MAJA.,#maja,101.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+298,298,GerDracor/beer-der-paria.xml,Er ist's.,46,55,character_speech,1,6,,MAJA.,#maja,101.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+299,299,GerDracor/beer-der-paria.xml,Der Fremdling?,0,14,character_speech,1,6,,GADHI.,#gadhi,102.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+300,300,GerDracor/beer-der-paria.xml,Wehe!,0,5,character_speech,1,6,,MAJA.,#maja,103.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+301,301,GerDracor/beer-der-paria.xml,weh'!,6,11,character_speech,1,6,,MAJA.,#maja,103.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+302,302,GerDracor/beer-der-paria.xml,er ist's.,12,21,character_speech,1,6,,MAJA.,#maja,103.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+303,303,GerDracor/beer-der-paria.xml,"
+            Du bist's, und wieder kennst du mich, und birgst
+            Voll Schauder dein Gesicht?",0,101,character_speech,1,6,,BENASCAR.,#benascar,104.0,MALE,being moved,T,,1823.0,being moved,being moved
+304,304,GerDracor/beer-der-paria.xml,"Ich habe dein
+            In flammend heißer Sehnsucht stets gedacht,
+            Und will dich schauen, kostet es mein Leben.",102,228,character_speech,1,6,,BENASCAR.,#benascar,104.0,MALE,love,T,,1823.0,positive,emotions of affection
+305,305,GerDracor/beer-der-paria.xml,"
+            Hinweg, sag' ich, Verwegener!",0,42,character_speech,1,6,,GADHI.,#gadhi,105.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+306,306,GerDracor/beer-der-paria.xml,"dies Weib
+            Ist mein, und Keiner soll es wagen,
+             Die freche Hand an dieses Haupt zu legen.",43,155,character_speech,1,6,,GADHI.,#gadhi,105.0,MALE,love,T,,1823.0,positive,emotions of affection
+307,307,GerDracor/beer-der-paria.xml,"Es gab den Schwächsten Waffen die Natur,
+            Und diese schwache Hand hier wird zur Keule,
+            Die dich zerschmettern soll, wenn du dich nahst.",168,326,character_speech,1,6,,GADHI.,#gadhi,105.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+308,308,GerDracor/beer-der-paria.xml,"
+            Mir trotzest du, Verworf'ner, feiger Sklave!",0,57,character_speech,1,6,,BENASCAR.,#benascar,106.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+309,309,GerDracor/beer-der-paria.xml,So nimm den Tod –,70,87,character_speech,1,6,,BENASCAR.,#benascar,106.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+310,310,GerDracor/beer-der-paria.xml,Er will den Dolch nach ihm schleudern.,0,38,stage_direction,1,6,speech_part,,#benascar,106.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+311,311,GerDracor/beer-der-paria.xml,sich zwischen Beide werfend.,0,28,stage_direction,1,6,speech_part,,#maja,107.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+312,312,GerDracor/beer-der-paria.xml,Halt' ein!,0,10,character_speech,1,6,,MAJA,#maja,107.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+313,313,GerDracor/beer-der-paria.xml,mich schauen willst du?,11,34,character_speech,1,6,,MAJA,#maja,107.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+314,314,GerDracor/beer-der-paria.xml,Sich entschleiernd.,0,19,stage_direction,1,6,speech_part,,#maja,107.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+315,315,GerDracor/beer-der-paria.xml,"
+            So schaue, Wüth'rich, die unsel'gen Züge;
+            Und legte jetzt erbarmend die Natur
+            Des Basilisken Mordkraft mir ins Auge,
+            Erwiedern wollt' ich dir mit raschem Blick
+            Die freche Gluth, die dich durchflammt.",0,260,character_speech,1,6,,MAJA,#maja,107.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+316,316,GerDracor/beer-der-paria.xml,"
+            Sie ist's!",0,23,character_speech,1,6,,BENASCAR.,#benascar,108.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+317,317,GerDracor/beer-der-paria.xml,"Und Liebe fordert mit gewalt'gem Schlag
+            Dies tief bewegte Herz.",36,111,character_speech,1,6,,BENASCAR.,#benascar,108.0,MALE,love,T,,1823.0,positive,emotions of affection
+318,318,GerDracor/beer-der-paria.xml,"
+            Begehrst du Liebe,
+            Du – du von mir, Wahnwitz'ger, so vernimm,
+            Daß ich dich hasse wie die Nacht der Sünde.",0,142,character_speech,1,6,,MAJA.,#maja,109.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+319,319,GerDracor/beer-der-paria.xml,"Und wie ich hier mit bangen Armen fest
+            Den Heißgeliebten an den Busen drücke,
+             So bin ich sein auf ewig.",155,283,character_speech,1,6,,MAJA.,#maja,109.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+320,320,GerDracor/beer-der-paria.xml,"Meine Liebe
+            Folgt treu, nach Brama's heiligem Gebot,
+            Wie durch das Leben ihm, bis in den Tod.",284,401,character_speech,1,6,,MAJA.,#maja,109.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+321,321,GerDracor/beer-der-paria.xml,"
+            Wie dieses Zornes Purpur, gleich dem Roth
+            Des Morgens, das der Sonne Glanz erhöht,
+            Mit unnennbarem Reize dich verklärt!",0,156,character_speech,1,6,,BENASCAR.,#benascar,110.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+322,322,GerDracor/beer-der-paria.xml,Wie schön bist du!,169,187,character_speech,1,6,,BENASCAR.,#benascar,110.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+323,323,GerDracor/beer-der-paria.xml,"wie fühl' ich ganz zu dir
+            Mit schwellendem Gefühl mich hingezogen!",188,266,character_speech,1,6,,BENASCAR.,#benascar,110.0,MALE,love,T,,1823.0,positive,emotions of affection
+324,324,GerDracor/beer-der-paria.xml,Mit erwachendem Stolze.,0,23,stage_direction,1,6,speech_part,,#benascar,110.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+325,325,GerDracor/beer-der-paria.xml,"
+            Doch war's nicht Haß, was du mir zugeschworen?",0,59,character_speech,1,6,,BENASCAR.,#benascar,110.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+326,326,GerDracor/beer-der-paria.xml,Verschmähst du nicht des freien Mannes Triebe?,72,118,character_speech,1,6,,BENASCAR.,#benascar,110.0,MALE,love,T,,1823.0,positive,emotions of affection
+327,327,GerDracor/beer-der-paria.xml,"So siege denn Gewalt, wenn nicht die Liebe!",131,174,character_speech,1,6,,BENASCAR.,#benascar,110.0,MALE,love,T,,1823.0,positive,emotions of affection
+328,328,GerDracor/beer-der-paria.xml,Zu meiner Sklavin hab ich dich erkoren!,187,226,character_speech,1,6,,BENASCAR.,#benascar,110.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+329,329,GerDracor/beer-der-paria.xml,In die Scene rufend.,0,20,stage_direction,1,6,speech_part,,#benascar,110.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+330,330,GerDracor/beer-der-paria.xml,"Herbei, Gefährten!",0,18,character_speech,1,6,,BENASCAR.,#benascar,110.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+331,331,GerDracor/beer-der-paria.xml,Was beginnt er –,0,16,character_speech,1,6,,MAJA.,#maja,111.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+332,332,GerDracor/beer-der-paria.xml,mit einem Blick gen Himmel.,0,27,stage_direction,1,6,speech_part,,#gadhi,112.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+333,333,GerDracor/beer-der-paria.xml,"
+            Brama!",0,19,character_speech,1,6,,GADHI,#gadhi,112.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+334,334,GerDracor/beer-der-paria.xml,Jetzt wär's zu donnern Zeit – und du bist stumm!,32,80,character_speech,1,6,,GADHI,#gadhi,112.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+335,335,GerDracor/beer-der-paria.xml,Die Indianer.,0,13,stage_direction,1,7,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+336,336,GerDracor/beer-der-paria.xml,Die Vorigen.,14,26,stage_direction,1,7,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+337,337,GerDracor/beer-der-paria.xml,"zu den eintretenden Indianern, die sich beim Anblick des Paria nicht zu nähern
+            wagen.",0,97,stage_direction,1,7,speech_part,,#benascar,113.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+338,338,GerDracor/beer-der-paria.xml,Ergreift dies Weib!,0,19,character_speech,1,7,,BENASCAR,#benascar,113.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+339,339,GerDracor/beer-der-paria.xml,Des Paria Weib?,0,15,character_speech,1,7,,ERSTER INDIANER.,#erster_indianer,114.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+340,340,GerDracor/beer-der-paria.xml,!,15,16,character_speech,1,7,,ERSTER INDIANER.,#erster_indianer,114.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+341,341,GerDracor/beer-der-paria.xml,"
+            Wer murrt hier?",0,28,character_speech,1,7,,BENASCAR.,#benascar,115.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+342,342,GerDracor/beer-der-paria.xml,Zum Sklavendienst erkor ich sie.,41,73,character_speech,1,7,,BENASCAR.,#benascar,115.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+343,343,GerDracor/beer-der-paria.xml,Hinweg!,74,81,character_speech,1,7,,BENASCAR.,#benascar,115.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+344,344,GerDracor/beer-der-paria.xml,zu Maja.,0,8,stage_direction,1,7,speech_part,,#gadhi,116.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+345,345,GerDracor/beer-der-paria.xml,"Umklamm're dich nur fester, fester noch.",0,40,character_speech,1,7,,GADHI,#gadhi,116.0,MALE,love,T,,1823.0,positive,emotions of affection
+346,346,GerDracor/beer-der-paria.xml,"zu den Indianern, indem er Maja aus ihres Gatten Armen reißt.",0,61,stage_direction,1,7,speech_part,,#benascar,117.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+347,347,GerDracor/beer-der-paria.xml,Was zögert ihr?,0,15,character_speech,1,7,,BENASCAR,#benascar,117.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+348,348,GerDracor/beer-der-paria.xml,vor ihm niederstürzend.,0,23,stage_direction,1,7,speech_part,,#gadhi,118.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+349,349,GerDracor/beer-der-paria.xml,"
+            Barmherzigkeit!",0,28,character_speech,1,7,,GADHI,#gadhi,118.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+350,350,GerDracor/beer-der-paria.xml,"ich flehe;
+            Ich lieg' im Staub vor meines Glückes Räuber,
+            Ich habe Haß mit Liebe dir vergolten,
+            Und wie vergiltst du meine Liebe mir?",29,197,character_speech,1,7,,GADHI,#gadhi,118.0,MALE,love,T,,1823.0,positive,emotions of affection
+351,351,GerDracor/beer-der-paria.xml,"Eindringst du in des Bettlers arme Hütte,
+             Das letzte Kleinod ihm hinweg zu stehlen.",210,306,character_speech,1,7,,GADHI,#gadhi,118.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+352,352,GerDracor/beer-der-paria.xml,"Nichts nenn' ich mein auf dieser weiten Welt,
+            Als dies geliebte Weib – –",319,403,character_speech,1,7,,GADHI,#gadhi,118.0,MALE,love,T,,1823.0,positive,emotions of affection
+353,353,GerDracor/beer-der-paria.xml,"
+            Du nennst nichts dein!",0,35,character_speech,1,7,,BENASCAR.,#benascar,119.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+354,354,GerDracor/beer-der-paria.xml,Du bist ein Paria.,48,66,character_speech,1,7,,BENASCAR.,#benascar,119.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+355,355,GerDracor/beer-der-paria.xml,"
+            Ha!",0,16,character_speech,1,7,,GADHI.,#gadhi,120.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+356,356,GerDracor/beer-der-paria.xml,"ist's dies allein,
+            Was dir zur Schandthat Muth giebt, so vernimm –",17,95,character_speech,1,7,,GADHI.,#gadhi,120.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+357,357,GerDracor/beer-der-paria.xml,zu Gadhi.,0,9,stage_direction,1,7,speech_part,,#maja,121.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+358,358,GerDracor/beer-der-paria.xml,Was willst du thun?,0,19,character_speech,1,7,,MAJA,#maja,121.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+359,359,GerDracor/beer-der-paria.xml,"
+            Dich retten und mich tödten.",0,41,character_speech,1,7,,GADHI.,#gadhi,122.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+360,360,GerDracor/beer-der-paria.xml,"Vernehmt, sie ist aus meinem Stamme nicht.",54,96,character_speech,1,7,,GADHI.,#gadhi,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+361,361,GerDracor/beer-der-paria.xml,"Frei laßt sie, Sklaven, werft euch bebend nieder
+            Und fleht im Staube, daß sie euch vergebe:
+            Denn eines Rajahs Tochter nennt sie sich.",109,266,character_speech,1,7,,GADHI.,#gadhi,122.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+362,362,GerDracor/beer-der-paria.xml,Was hör' ich!–,0,14,character_speech,1,7,,BENASCAR.,#benascar,123.0,MALE,being moved,T,,1823.0,being moved,being moved
+363,363,GerDracor/beer-der-paria.xml,"
+            Wahrheit – und die Wahrheit tödtet:
+            Denn wie die Flamme der verschwieg'nen Erde
+            Den Mutterschooß zerberstend auf sich wälzt,
+            So wird das Wort der lang verschloss'nen Brust,
+             Das jetzt verräth'risch von den Lippen flieht,
+            Mich selbst verdammend, mir den Tod bereiten.",0,339,character_speech,1,7,,GADHI.,#gadhi,124.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+364,364,GerDracor/beer-der-paria.xml,Sprich!,0,7,character_speech,1,7,,BENASCAR.,#benascar,125.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+365,365,GerDracor/beer-der-paria.xml,sprich!,8,15,character_speech,1,7,,BENASCAR.,#benascar,125.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+366,366,GerDracor/beer-der-paria.xml,mich foltert grauenvolle Ahnung.,16,48,character_speech,1,7,,BENASCAR.,#benascar,125.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+367,367,GerDracor/beer-der-paria.xml,Ihr seht dies Weib –,0,20,character_speech,1,7,,GADHI.,#gadhi,126.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+368,368,GerDracor/beer-der-paria.xml,Von Rührung überwältigt.,0,24,stage_direction,1,7,speech_part,,#gadhi,126.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+369,369,GerDracor/beer-der-paria.xml,"
+            O komm an dieses Herz!",0,35,character_speech,1,7,,GADHI.,#gadhi,126.0,MALE,love,T,,1823.0,positive,emotions of affection
+370,370,GerDracor/beer-der-paria.xml,"Vergönnt mir nur noch einmal, sie zu drücken
+            An diese Brust.",48,120,character_speech,1,7,,GADHI.,#gadhi,126.0,MALE,love,T,,1823.0,positive,emotions of affection
+371,371,GerDracor/beer-der-paria.xml,O mein geliebter Freund!,0,24,character_speech,1,7,,MAJA.,#maja,127.0,FEMALE,friendship,T,,1823.0,positive,emotions of affection
+372,372,GerDracor/beer-der-paria.xml,"
+            Mein Weib!",0,23,character_speech,1,7,,GADHI.,#gadhi,128.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+373,373,GerDracor/beer-der-paria.xml,"– einst hatt' ich Muth, dich zu erretten;
+            Dich zu verlieren, fühl' ich mich zu schwach.",24,123,character_speech,1,7,,GADHI.,#gadhi,128.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+374,374,GerDracor/beer-der-paria.xml,Gefaßter zu Benascar.,0,21,stage_direction,1,7,speech_part,,#gadhi,128.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+375,375,GerDracor/beer-der-paria.xml,"
+            Verflucht ist mein Geschlecht.",0,43,character_speech,1,7,,GADHI.,#gadhi,128.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+376,376,GerDracor/beer-der-paria.xml,"Wo sich das Leben
+            In friedlicher Gemeinschaft fröhlich eint,
+            Wo Haus an Haus, wo Mensch an Mensch sich reiht,
+            Wo sich der Tempel heil'ge Dächer wölben,
+            Darf nimmer ein Verworfener sich nah'n.",44,283,character_speech,1,7,,GADHI.,#gadhi,128.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+377,377,GerDracor/beer-der-paria.xml,"Mir hat der Tag nur in der Wälder Nacht,
+            Nur in der Höhlen dunkelm Grund geleuchtet,
+            Doch drängend zog mich's zu des Lebens Freuden;
+            Denn menschlich wie mein Antlitz ist mein Herz.",296,512,character_speech,1,7,,GADHI.,#gadhi,128.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+378,378,GerDracor/beer-der-paria.xml,"Und wenn des Tags verrätherischer Glanz
+             Erlosch, die Nacht sich hüllend niedersenkte,
+            Dann schlich ich bebend in der Städte Nähe,
+            Und weilte gern, wo auf dem Feld des Friedens
+            Die Menschen schlummern sonder Lieb' und Haß
+            Den Schlaf des Todes in dem dunkeln Bette.",525,849,character_speech,1,7,,GADHI.,#gadhi,128.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+379,379,GerDracor/beer-der-paria.xml,Einst – –,862,871,character_speech,1,7,,GADHI.,#gadhi,128.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+380,380,GerDracor/beer-der-paria.xml,Weh' uns!,0,9,character_speech,1,7,,MAJA.,#maja,129.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+381,381,GerDracor/beer-der-paria.xml,"
+            Heil uns, ruf' ich, Heil!",0,38,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+382,382,GerDracor/beer-der-paria.xml,"Wir haben einen kurzen Tag gelebt,
+            Doch war's ein Tag an heißer Liebe reich.",51,139,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,love,T,,1823.0,positive,emotions of affection
+383,383,GerDracor/beer-der-paria.xml,"Einst ruht' ich so; die Nacht war rein und mild,
+            Und vor den Blicken weitgebreitet lag
+            Das herrliche Benares, leicht verhüllt
+            Vom Silberschleier der gestirnten Nacht.",152,354,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+384,384,GerDracor/beer-der-paria.xml,"Erstorben war das tosende Gewühl,
+            Und tiefe Stille herrschte rings umher.",367,452,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+385,385,GerDracor/beer-der-paria.xml,"Selbst die geschwätz'ge Luft entführte leise
+            Dem vollen Kelche reich durchwürzte Düfte.",465,564,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+386,386,GerDracor/beer-der-paria.xml,"Nur ferne her aus leuchtenden Pagoden
+            Klang der Braminen nächtliches Gebet,
+            Und friedlich an die blüh'nden Ufer trieb
+            Des Ganges edler Strom die Silberwellen,
+            Treu in der vielbewegten Wogenbrust
+            Das ew'ge Bild des bleichen Lichtes tragend.",577,876,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+387,387,GerDracor/beer-der-paria.xml,"So trug auch ich ein ewiges Gefühl
+            In dem zerriss'nen Herzen.",889,962,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+388,388,GerDracor/beer-der-paria.xml,"Sehnsucht war's
+             Nach Liebe und Erbarmen.",963,1016,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,love,T,,1823.0,positive,emotions of affection
+389,389,GerDracor/beer-der-paria.xml,"Diese Schöpfung,
+            Die mich verwarf, war so unendlich schön!",1017,1087,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+390,390,GerDracor/beer-der-paria.xml,"Ich war ein Fremdling unter gleichen Wesen,
+            Und doch vertilget, wie mit einem Hauch,
+            War all mein Haß – mein ganzes Wesen Liebe.",1100,1252,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,love,T,,1823.0,positive,emotions of affection
+391,391,GerDracor/beer-der-paria.xml,"Ein Thränenstrom drang aus dem heißen Aug',
+            Da blickt' ich auf, und vor mir hingegossen
+            In tiefem Schmerz, auf einem Grabe seh' ich
+            In namenloser Schönheit – dieses Weib.",1265,1471,character_speech,1,7,,GADHI.,#gadhi,130.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+392,392,GerDracor/beer-der-paria.xml,"
+            Halt ein!",0,22,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+393,393,GerDracor/beer-der-paria.xml,Die Wunden bluten der gequälten Brust.,35,73,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+394,394,GerDracor/beer-der-paria.xml,Entsetzliche Erinn'rung!,86,110,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+395,395,GerDracor/beer-der-paria.xml,Meine Mutter!,111,124,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+396,396,GerDracor/beer-der-paria.xml,"Auf ihrem Grabe war's, wo er mich sah.",137,175,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+397,397,GerDracor/beer-der-paria.xml,"Verloren früh hatt' ich die Eltern beide,
+            Und war verbunden einem greisen Gatten,
+            Dem Pflicht, nicht Liebe mich zu eigen gab.",188,337,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+398,398,GerDracor/beer-der-paria.xml,Krank lag er mir daheim.,350,374,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+399,399,GerDracor/beer-der-paria.xml,"Ein gräßlich Uebel
+            Brach ihm die morschen Glieder, und der Tod
+            Traf uns, nach furchtbarem Gesetz, vereint.",375,505,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+400,400,GerDracor/beer-der-paria.xml,"Ich sah das Flammengrab, die frische Jugend
+            Dahingegeben gräßlicher Verwesung,
+            Und in der stillen Nacht, mit heißen Thränen,
+            Verzweiflungsvoll, netzt' ich der Mutter Grab.",518,725,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+401,401,GerDracor/beer-der-paria.xml,Da sah ich ihn.,738,753,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+402,402,GerDracor/beer-der-paria.xml,"Nur einen Augenblick
+            Entsetzte mich die angeborne Scheu
+            Vor der Verworf'nen Stamm.",754,860,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+403,403,GerDracor/beer-der-paria.xml,"Der Wahrheit Licht
+            Traf sonnenhell den nachtumhüllten Blick.",861,933,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+404,404,GerDracor/beer-der-paria.xml,"Bald, bald erkannt' ich dieses schöne Herz.",946,989,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+405,405,GerDracor/beer-der-paria.xml,"Und wie den innersten Gedanken schnell
+            Das Wort zurückgiebt mit beredtem Flügel,
+            So leuchtete die Liebe wahr und hell
+            Aus seines Auges demantreinem Spiegel.",1003,1195,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+406,406,GerDracor/beer-der-paria.xml,"Allnächtlich schmückt' er mir mit frischen Blumen
+            Der Mutter theures Grab, und bebend wand ich,
+            Bethaut vom Perlenschmucke meines Jammers,
+            Die stillen Zeichen edler Lieb' zum Kranz,
+            Mein elend Haupt zu krönen in der Stunde,
+            Die mich zum Tode rief mit glüh'ndem Munde.",1208,1535,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+407,407,GerDracor/beer-der-paria.xml,"Neun Nächte harrt' ich – und die Stunde kam,
+            Mein Gatte starb –",1548,1623,character_speech,1,7,,MAJA.,#maja,131.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+408,408,GerDracor/beer-der-paria.xml,"
+            Und du, Unglückliche,
+            Du lebst?",0,56,character_speech,1,7,,BENASCAR.,#benascar,132.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+409,409,GerDracor/beer-der-paria.xml,"
+            Entsetzlicher!",0,27,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+410,410,GerDracor/beer-der-paria.xml,"klagst du sie an,
+            Daß sie des Daseins allgewalt'gem Ruf,
+            Dem ew'gen Trieb gehorcht der ird'schen Brust?",28,155,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+411,411,GerDracor/beer-der-paria.xml,"Durchspähe die Natur: welch ein Geschöpf
+            Verleugnete in wüthender Verblendung
+            Der Selbsterhaltung angeborne Wehr?",168,305,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+412,412,GerDracor/beer-der-paria.xml,"–
+            Sie kam in jener Nacht, ein bleiches Bild
+            Des blühenden Entsetzens.",306,399,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+413,413,GerDracor/beer-der-paria.xml,"Dunkle Locken,
+            Gelöst von der Verzweiflung Schreckenshand,
+            Umschlugen, Geißeln ähnlich, ihr die Brust,
+            Und hoch auf wallte der empörte Busen,
+            Und schlug im Wettstreit mit den frechen Lüften
+             Zurück des Hauptes fessellose Zier.",400,686,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+414,414,GerDracor/beer-der-paria.xml,"Das glüh'nde Auge starrte kalt und todt
+            In die erhellte Nacht, und lautlos zuckten
+            Die bleichen Lippen – da erblickt sie mich,
+            Und plötzlich in gewalt'gen Jammerschrei
+            Löst sich der starre Schmerz – »Mein Gatte starb!«
+            Ruft die Unglückliche – »und ich, Geliebter,
+            Ich sterbe mit ihm!«",699,1055,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+415,415,GerDracor/beer-der-paria.xml,Zu Benascar.,0,12,stage_direction,1,7,speech_part,,#gadhi,133.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+416,416,GerDracor/beer-der-paria.xml,"
+            Zücke deinen Dolch,
+            Zeig mir den Tod in jeglicher Gestalt;
+            Was ich empfand bei jenem Schreckenswort,
+            Empfind' ich nie mehr – nie.",0,178,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+417,417,GerDracor/beer-der-paria.xml,"Kein Laut, kein Wort
+            Erschütterte die grauenvolle Nacht;
+            Mit stummen Thränen netzten wir das Grab.",179,301,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+418,418,GerDracor/beer-der-paria.xml,"Da schwand das Dunkel, – und mit glüh'nden Sohlen
+            Und Purpurwangen, wie ein festlich Kind
+            Beschritt der Tag die Höh'n, mit heißen Lippen
+            Hinweg die nächt'gen Thränen alle küssend
+            Der lichtberaubten Erde.",314,565,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+419,419,GerDracor/beer-der-paria.xml,"Wir allein
+            Wir blickten weinend noch empor – da strahlte
+            Mit blut'gem Schein, das heit're Licht entsetzend,
+            Ein zweiter, ferner, dampfumhüllter Tag.",566,750,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+420,420,GerDracor/beer-der-paria.xml,"Der Holzstoß flammte, er schlug empor,
+            Und schien hochlodernd zu begehren
+            Die köstliche Beute zu verzehren.",763,894,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+421,421,GerDracor/beer-der-paria.xml,"–
+            Schauerlich hallten die Todtengesänge,
+            Aber schon wogte in gräßlichem Chor
+            Fernher die Opfer suchende Menge,
+            Listige Priester mit heiligem Munde
+             Luden segnend zum feurigen Bunde,
+            Und die Weiber mit jubelndem Schrei'n.",895,1187,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+422,422,GerDracor/beer-der-paria.xml,"Drängen sich in die entsetzlichen Reih'n,
+            Alle umschlungen die wallenden Locken
+            Mit dem fröhlichen Immergrün.",1200,1333,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+423,423,GerDracor/beer-der-paria.xml,"Aber wir sehen sie näher zieh'n,
+            Und fühlen das Blut uns wie Flammen glüh'n,
+            Und fühlen's wie Eis in den Adern stocken.",1346,1489,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+424,424,GerDracor/beer-der-paria.xml,"Sie erbleichte und wankte und stöhnte: »Erbarmen!«
+            Da rief ich ihr zu: »Genügt dir ein Herz
+            Voll unendlicher Lieb' und ein Dasein voll Schmerz,
+            So trag' ich dich fort mit männlichen Armen.«
+            Sie blickte empor, sie sprach keinen Laut,
+            Doch fühlt' ich's lebendig, sie hatte vertraut.",1502,1842,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+425,425,GerDracor/beer-der-paria.xml,"Fest umschlang ich den sinkenden Leib,
+            Rettend entführt' ich die Flammengeweihte,
+            Und mir gehörte, mir die Befreite,
+            Sie ward mein – ward mein liebendes Weib.",1855,2049,character_speech,1,7,,GADHI.,#gadhi,133.0,MALE,love,T,,1823.0,positive,emotions of affection
+426,426,GerDracor/beer-der-paria.xml,"
+            Sie ward dein Weib, und Brama's Rache schwieg!",0,59,character_speech,1,7,,BENASCAR.,#benascar,134.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+427,427,GerDracor/beer-der-paria.xml,"Wie durch des Himmels Plan die Wetterwolke,
+            Durchzieht ein Unheil kündendes Gefühl
+            Die ahnungsvolle Brust.",72,202,character_speech,1,7,,BENASCAR.,#benascar,134.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+428,428,GerDracor/beer-der-paria.xml,"– Verworf'ner, nenne
+            Den Namen ihres Vaters mir.",203,263,character_speech,1,7,,BENASCAR.,#benascar,134.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+429,429,GerDracor/beer-der-paria.xml,–,264,265,character_speech,1,7,,BENASCAR.,#benascar,134.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+430,430,GerDracor/beer-der-paria.xml,"
+            Halt ein!",0,22,character_speech,1,7,,MAJA.,#maja,135.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+431,431,GerDracor/beer-der-paria.xml,"In dunkeln Kreisen wälzet nah und näher
+            Sich die Erinn'rung lang vergang'ner Zeit.",35,129,character_speech,1,7,,MAJA.,#maja,135.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+432,432,GerDracor/beer-der-paria.xml,"Die Ahnung ist ein dräuendes Gespenst,
+            Sie ist der Tod, wenn sie die Wahrheit ist.",143,237,character_speech,1,7,,MAJA.,#maja,135.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+433,433,GerDracor/beer-der-paria.xml,"O schweig, Geliebter, nenn' den Namen nicht!",250,294,character_speech,1,7,,MAJA.,#maja,135.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+434,434,GerDracor/beer-der-paria.xml,zu Gadhi.,0,9,stage_direction,1,7,speech_part,,#benascar,136.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+435,435,GerDracor/beer-der-paria.xml,"
+            Nenn' ihn!",0,23,character_speech,1,7,,BENASCAR,#benascar,136.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+436,436,GerDracor/beer-der-paria.xml,"soll ich nicht eitel Truggespinnst
+            Die list'ge Rede halten.",24,95,character_speech,1,7,,BENASCAR,#benascar,136.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+437,437,GerDracor/beer-der-paria.xml,"
+            So vernimm:
+            Die ich mein Weib mit stolzer Liebe nenne,
+            Des Rajahs Tochter ist's – Delhi-Benascar.",0,134,character_speech,1,7,,GADHI.,#gadhi,137.0,MALE,love,T,,1823.0,positive,emotions of affection
+438,438,GerDracor/beer-der-paria.xml,stößt einen Schrei des Entsetzens aus.,0,38,stage_direction,1,7,speech_part,,#benascar,138.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+439,439,GerDracor/beer-der-paria.xml,wenden sich bestürzt ab.,0,24,stage_direction,1,7,speech_part,,#die_indianer,139.0,UNKNOWN,fear,T,,1823.0,negative,emotions of anxiety
+440,440,GerDracor/beer-der-paria.xml,verhüllt sich.,0,14,stage_direction,1,7,speech_part,,#maja,140.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+441,441,GerDracor/beer-der-paria.xml,zu Benascar.,0,12,stage_direction,1,7,speech_part,,#gadhi,141.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+442,442,GerDracor/beer-der-paria.xml,"
+            So groß einst – jetzt so elend, und du willst
+            Sie tiefer stürzen in unnennbar Leid?",0,108,character_speech,1,7,,GADHI,#gadhi,141.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+443,443,GerDracor/beer-der-paria.xml,"Dich rührt, ich seh's, der Treue heil'ge Macht,
+            Du bist gerührt –",121,198,character_speech,1,7,,GADHI,#gadhi,141.0,MALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+444,444,GerDracor/beer-der-paria.xml,"
+            Gerührt?",0,21,character_speech,1,7,,BENASCAR.,#benascar,142.0,MALE,being moved,T,,1823.0,being moved,being moved
+445,445,GerDracor/beer-der-paria.xml,"– es ist die Wuth,
+            Die auf den Lippen mir das Wort erstarrt.",22,94,character_speech,1,7,,BENASCAR.,#benascar,142.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+446,446,GerDracor/beer-der-paria.xml,Zu Maja.,0,8,stage_direction,1,7,speech_part,,#benascar,142.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+447,447,GerDracor/beer-der-paria.xml,"
+            Verruchte, rede: lebt denn Keiner dir,
+             Der Rechenschaft von deinem Handeln fordern
+            Und deiner Väter Ehre rächen darf?",0,155,character_speech,1,7,,BENASCAR.,#benascar,142.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+448,448,GerDracor/beer-der-paria.xml,"
+            Was fragst du?",0,27,character_speech,1,7,,MAJA.,#maja,143.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+449,449,GerDracor/beer-der-paria.xml,"Die Eltern starben früh; den einz'gen Bruder
+            Entführte mir in früher Kindheit schon
+            Ein ferner Krieg, ich sah ihn niemals wieder.",40,193,character_speech,1,7,,MAJA.,#maja,143.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+450,450,GerDracor/beer-der-paria.xml,"
+            Wenn du ihn wiedersähest, wenn er käme
+            Und fragte: »Weib!",0,82,character_speech,1,7,,BENASCAR.,#benascar,144.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+451,451,GerDracor/beer-der-paria.xml,was hast du mir gethan?,83,106,character_speech,1,7,,BENASCAR.,#benascar,144.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+452,452,GerDracor/beer-der-paria.xml,Wo ist das Kleinod meiner Ehre?,119,150,character_speech,1,7,,BENASCAR.,#benascar,144.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+453,453,GerDracor/beer-der-paria.xml,"Wo
+            Der unbefleckte Name meiner Väter?«",151,201,character_speech,1,7,,BENASCAR.,#benascar,144.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+454,454,GerDracor/beer-der-paria.xml,Mein Blut erstarrt.,0,19,character_speech,1,7,,MAJA.,#maja,145.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+455,455,GerDracor/beer-der-paria.xml,"
+            Laß seine rothen Wellen
+            Den Frost des Todes überfliegen.",0,81,character_speech,1,7,,BENASCAR.,#benascar,146.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+456,456,GerDracor/beer-der-paria.xml,"Rede,
+            Gieb Antwort, wenn du kannst, – ich bin dein Bruder.",82,152,character_speech,1,7,,BENASCAR.,#benascar,146.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+457,457,GerDracor/beer-der-paria.xml,stürzt zu Boden.,0,16,stage_direction,1,7,speech_part,,#maja,147.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+458,458,GerDracor/beer-der-paria.xml,nach einer Pause zu Benascar.,0,29,stage_direction,1,7,speech_part,,#gadhi,148.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+459,459,GerDracor/beer-der-paria.xml,"Herr, ich bin schuldig, tödte mich!",0,35,character_speech,1,7,,GADHI,#gadhi,148.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+460,460,GerDracor/beer-der-paria.xml,Das will ich.,0,13,character_speech,1,7,,BENASCAR.,#benascar,149.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+461,461,GerDracor/beer-der-paria.xml,"Doch rasch, eh' sie erwacht!",0,28,character_speech,1,7,,GADHI.,#gadhi,150.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+462,462,GerDracor/beer-der-paria.xml,"
+            Der Rath ist gut,
+            Er sei dein letztes Wort!",0,68,character_speech,1,7,,BENASCAR.,#benascar,151.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+463,463,GerDracor/beer-der-paria.xml,"Indem er mit gezücktem Dolche auf Gadhi eindringen will, erwacht Maja.",0,70,stage_direction,1,7,speech_part,,#benascar,151.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+464,464,GerDracor/beer-der-paria.xml,"abwesend, starr auf Benascar blickend.",0,38,stage_direction,1,7,speech_part,,#maja,152.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+465,465,GerDracor/beer-der-paria.xml,"
+            Wo bin ich?",0,24,character_speech,1,7,,MAJA,#maja,152.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+466,466,GerDracor/beer-der-paria.xml,Weh'!,25,30,character_speech,1,7,,MAJA,#maja,152.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+467,467,GerDracor/beer-der-paria.xml,"Die Gräber geben ihren Raub zurück,
+            Mit bleichem Antlitz, zürnend naht mein Vater,
+            Das ist sein Geist!",43,169,character_speech,1,7,,MAJA,#maja,152.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+468,468,GerDracor/beer-der-paria.xml,Mit zurückkehrendem Bewußtsein.,0,31,stage_direction,1,7,speech_part,,#maja,152.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+469,469,GerDracor/beer-der-paria.xml,"
+            Mein Bruder – ja – mein Bruder!",0,44,character_speech,1,7,,MAJA,#maja,152.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+470,470,GerDracor/beer-der-paria.xml,"O wie so süß der ungewohnte Klang
+            Des theuren Namens mir zum Herzen dringt!",57,144,character_speech,1,7,,MAJA,#maja,152.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+471,471,GerDracor/beer-der-paria.xml,"Mein Bruder, du wirst menschlich sein –",157,196,character_speech,1,7,,MAJA,#maja,152.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+472,472,GerDracor/beer-der-paria.xml,Den Dolch in seiner Hand erblickend.,0,36,stage_direction,1,7,speech_part,,#maja,152.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+473,473,GerDracor/beer-der-paria.xml,"
+            Weh' mir!",0,22,character_speech,1,7,,MAJA,#maja,152.0,FEMALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+474,474,GerDracor/beer-der-paria.xml,"Dein Herz ist Eisen, deine Blicke Mord,
+            Und dein Umfangen Tod.",35,109,character_speech,1,7,,MAJA,#maja,152.0,FEMALE,despair,T,,1823.0,negative,emotions of anxiety
+475,475,GerDracor/beer-der-paria.xml,zu Benascar.,0,12,stage_direction,1,7,speech_part,,#gadhi,153.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+476,476,GerDracor/beer-der-paria.xml,"
+            Was zögerst du?",0,28,character_speech,1,7,,GADHI,#gadhi,153.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+477,477,GerDracor/beer-der-paria.xml,Ich bin bereit zu sterben.,41,67,character_speech,1,7,,GADHI,#gadhi,153.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+478,478,GerDracor/beer-der-paria.xml,"
+            Ich zu tödten.",0,27,character_speech,1,7,,BENASCAR.,#benascar,154.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+479,479,GerDracor/beer-der-paria.xml,Empfange deinen Lohn!,40,61,character_speech,1,7,,BENASCAR.,#benascar,154.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+480,480,GerDracor/beer-der-paria.xml,sich zwischen Beide werfend.,0,28,stage_direction,1,7,speech_part,,#maja,155.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+481,481,GerDracor/beer-der-paria.xml,"
+            Entsetzlicher!",0,27,character_speech,1,7,,MAJA,#maja,155.0,FEMALE,despair,T,,1823.0,negative,emotions of anxiety
+482,482,GerDracor/beer-der-paria.xml,Halt' ein!,40,50,character_speech,1,7,,MAJA,#maja,155.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+483,483,GerDracor/beer-der-paria.xml,was willst du thun?,51,70,character_speech,1,7,,MAJA,#maja,155.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+484,484,GerDracor/beer-der-paria.xml,"
+            Die Gottheit rächen,
+            Die du geschändet hast, wie meine Ehre.",0,85,character_speech,1,7,,BENASCAR.,#benascar,156.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+485,485,GerDracor/beer-der-paria.xml,"
+            Entweiht' ich diesen Gott durch Lieb' und will
+            Er Blut dafür, so sag' dich los von ihm
+            Und stell' dir in dein gold'nes Heiligthum
+            Ein friedlich Lamm, es knieend anzubeten.",0,220,character_speech,1,7,,MAJA.,#maja,157.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+486,486,GerDracor/beer-der-paria.xml,"Es ist mehr Göttliches in ihm als in
+            Dem Rachedürstenden, den du verehrst.",233,319,character_speech,1,7,,MAJA.,#maja,157.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+487,487,GerDracor/beer-der-paria.xml,Weh'!,0,5,character_speech,1,7,,DIE INDIANER.,#die_indianer,158.0,UNKNOWN,suffering,T,,1823.0,negative,emotions of suffering and empathy
+488,488,GerDracor/beer-der-paria.xml,Fluch dir!,0,10,character_speech,1,7,,BENASCAR.,#benascar,159.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+489,489,GerDracor/beer-der-paria.xml,"
+            Ja, auf mich die Flüche!",0,37,character_speech,1,7,,MAJA.,#maja,160.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+490,490,GerDracor/beer-der-paria.xml,Auf mich die Rache!,50,69,character_speech,1,7,,MAJA.,#maja,160.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+491,491,GerDracor/beer-der-paria.xml,mein ist das Verbrechen!,70,94,character_speech,1,7,,MAJA.,#maja,160.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+492,492,GerDracor/beer-der-paria.xml,"Und freveln werd' ich, ist die Liebe Sünde,
+            So lang' ein Hauch des Lebens mich beseelt!",107,206,character_speech,1,7,,MAJA.,#maja,160.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+493,493,GerDracor/beer-der-paria.xml,"Denn dieses Herz ist ein unsterblich Buch,
+            Deß voller Inhalt Liebe ist für ihn,
+             Für ihn, für den Verworf'nen.",219,353,character_speech,1,7,,MAJA.,#maja,160.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+494,494,GerDracor/beer-der-paria.xml,"Hörst du's, Bruder?",354,373,character_speech,1,7,,MAJA.,#maja,160.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+495,495,GerDracor/beer-der-paria.xml,Triff rasch und räche deine Schmach.,386,422,character_speech,1,7,,MAJA.,#maja,160.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+496,496,GerDracor/beer-der-paria.xml,zu Benascar.,0,12,stage_direction,1,7,speech_part,,#gadhi,161.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+497,497,GerDracor/beer-der-paria.xml,"
+            Sie ras't.",0,23,character_speech,1,7,,GADHI,#gadhi,161.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+498,498,GerDracor/beer-der-paria.xml,O höre sie nicht an!,36,56,character_speech,1,7,,GADHI,#gadhi,161.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+499,499,GerDracor/beer-der-paria.xml,Mein ist der Frevel.,57,77,character_speech,1,7,,GADHI,#gadhi,161.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+500,500,GerDracor/beer-der-paria.xml,"Beredet hab' ich sie und überlistet,
+            Verführt zum Bruch des heiligen Gesetzes,
+            Gekettet an mich mit den Zauberbanden
+            Verweg'ner Lieb', und deiner Rache Donner
+            Entlade sich auf dieses Haupt.",90,327,character_speech,1,7,,GADHI,#gadhi,161.0,MALE,love,T,,1823.0,positive,emotions of affection
+501,501,GerDracor/beer-der-paria.xml,"Sei gnädig
+            Und tödte rasch!",328,367,character_speech,1,7,,GADHI,#gadhi,161.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+502,502,GerDracor/beer-der-paria.xml,Er wirft sich vor ihm nieder.,0,29,stage_direction,1,7,speech_part,,#gadhi,161.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+503,503,GerDracor/beer-der-paria.xml,sich ebenfalls vor Benascar hinwerfend.,0,39,stage_direction,1,7,speech_part,,#maja,162.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+504,504,GerDracor/beer-der-paria.xml,"
+            Du wirst barmherzig sein
+            Und nicht die einz'ge Gunst der Schwester weigern.",0,100,character_speech,1,7,,MAJA,#maja,162.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+505,505,GerDracor/beer-der-paria.xml,"Der Rasende mit thatensücht'ger Wuth
+            Stürzt sich in diesen Tod: ich aber lebe,
+            Ein traurig Angedenken deiner Schmach.",113,254,character_speech,1,7,,MAJA,#maja,162.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+506,506,GerDracor/beer-der-paria.xml,"Du bist entehrt, wenn nicht im stummen Grabe
+            Mit meinem Dasein meine Schande schläft;
+            Drum end' es, – wähle – –",267,402,character_speech,1,7,,MAJA,#maja,162.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+507,507,GerDracor/beer-der-paria.xml,einfallend.,0,11,stage_direction,1,7,speech_part,,#gadhi,163.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+508,508,GerDracor/beer-der-paria.xml,Wähle mich zum Opfer.,0,21,character_speech,1,7,,GADHI,#gadhi,163.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+509,509,GerDracor/beer-der-paria.xml,"Ich bin's, nur ich bin schuldig.",0,32,character_speech,1,7,,MAJA.,#maja,164.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+510,510,GerDracor/beer-der-paria.xml,Beide seid ihr's.,0,17,character_speech,1,7,,BENASCAR.,#benascar,165.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+511,511,GerDracor/beer-der-paria.xml,Zu Maja.,0,8,stage_direction,1,7,speech_part,,#benascar,165.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+512,512,GerDracor/beer-der-paria.xml,"
+            Drängst du dich zu dem Tod der Schande?",0,52,character_speech,1,7,,BENASCAR.,#benascar,165.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+513,513,GerDracor/beer-der-paria.xml,"Lebe,
+            Ein stilles Leben reuevoller Buße,
+            Und dank' es meiner unnennbaren Liebe,
+            Dem mächtig ungeheueren Gefühl,
+            Das auf für dich in diesem Busen flammte,
+            Seit ich zum ersten Mal dich sah.",53,300,character_speech,1,7,,BENASCAR.,#benascar,165.0,MALE,love,T,,1823.0,positive,emotions of affection
+514,514,GerDracor/beer-der-paria.xml,Zu Gadhi.,0,9,stage_direction,1,7,speech_part,,#benascar,165.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+515,515,GerDracor/beer-der-paria.xml,"
+            Du stirbst!",0,24,character_speech,1,7,,BENASCAR.,#benascar,165.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+516,516,GerDracor/beer-der-paria.xml,"Und wie sich hier vor den Gefährten frei
+            Die Schmach enthüllt, die mein Geschlecht getroffen,
+            So will ich auch, daß sichtbar jedem Auge
+            Das Schreckensbeispiel meiner Rache sei.",37,249,character_speech,1,7,,BENASCAR.,#benascar,165.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+517,517,GerDracor/beer-der-paria.xml,Zu seinen Gefährten.,0,20,stage_direction,1,7,speech_part,,#benascar,165.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+518,518,GerDracor/beer-der-paria.xml,"
+            Nicht mich allein, Gott selbst hat er geschändet,
+            Und wenn er fällt, und wenn er blutig endet,
+            Sei's am Altare durch des Priesters Beil.",0,173,character_speech,1,7,,BENASCAR.,#benascar,165.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+519,519,GerDracor/beer-der-paria.xml,"Gadhi und Maja sinken einander in die Arme und halten sich fest
+            umschlungen.",0,88,stage_direction,1,7,speech_part,,#benascar,165.0,MALE,being moved,T,,1823.0,being moved,being moved
+520,520,GerDracor/beer-der-paria.xml,zu den Indianern.,0,17,stage_direction,1,7,speech_part,,#benascar,166.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+521,521,GerDracor/beer-der-paria.xml,"
+            Der Morgen graut.",0,30,character_speech,1,7,,BENASCAR,#benascar,166.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+522,522,GerDracor/beer-der-paria.xml,"Ihr eilt hinweg und sucht
+            Den Diener Brama's in dem nahen Tempel.",31,108,character_speech,1,7,,BENASCAR,#benascar,166.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+523,523,GerDracor/beer-der-paria.xml,"Bescheidet ihn hierher; aus meiner Hand
+            Empfang' er dieses Opfer.",121,198,character_speech,1,7,,BENASCAR,#benascar,166.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+524,524,GerDracor/beer-der-paria.xml,gehen ab.,0,9,stage_direction,1,7,speech_part,,#die_indianer,167.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+525,525,GerDracor/beer-der-paria.xml,für sich.,0,9,stage_direction,1,7,speech_part,,#benascar,168.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+526,526,GerDracor/beer-der-paria.xml,"
+            Fassung, Herz!",0,27,character_speech,1,7,,BENASCAR,#benascar,168.0,MALE,being moved,T,,1823.0,being moved,being moved
+527,527,GerDracor/beer-der-paria.xml,"Er ist gekämpft, der schwere Kampf der Pflicht.",40,87,character_speech,1,7,,BENASCAR,#benascar,168.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+528,528,GerDracor/beer-der-paria.xml,Gadhi.,0,6,stage_direction,1,8,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+529,529,GerDracor/beer-der-paria.xml,Maja.,7,12,stage_direction,1,8,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+530,530,GerDracor/beer-der-paria.xml,Benascar.,13,22,stage_direction,1,8,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+531,531,GerDracor/beer-der-paria.xml,zu Maja.,0,8,stage_direction,1,8,speech_part,,#benascar,169.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+532,532,GerDracor/beer-der-paria.xml,Unglückliche!,0,13,character_speech,1,8,,BENASCAR,#benascar,169.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+533,533,GerDracor/beer-der-paria.xml,"
+            Kein Wort des Trostes, Bruder!",0,43,character_speech,1,8,,MAJA.,#maja,170.0,FEMALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+534,534,GerDracor/beer-der-paria.xml,"Geschehen muß, ich fühl' es, was geschieht.",56,99,character_speech,1,8,,MAJA.,#maja,170.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+535,535,GerDracor/beer-der-paria.xml,Nur eine Bitte hab' ich.,112,136,character_speech,1,8,,MAJA.,#maja,170.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+536,536,GerDracor/beer-der-paria.xml,Ich bin Mutter.,137,152,character_speech,1,8,,MAJA.,#maja,170.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+537,537,GerDracor/beer-der-paria.xml,O woran mahnst du mich!,0,23,character_speech,1,8,,GADHI.,#gadhi,171.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+538,538,GerDracor/beer-der-paria.xml,mein Kind!,24,34,character_speech,1,8,,GADHI.,#gadhi,171.0,MALE,being moved,T,,1823.0,being moved,being moved
+539,539,GerDracor/beer-der-paria.xml,mein Sohn!,35,45,character_speech,1,8,,GADHI.,#gadhi,171.0,MALE,being moved,T,,1823.0,being moved,being moved
+540,540,GerDracor/beer-der-paria.xml,"
+            Sein Sohn – doch auch der meine.",0,45,character_speech,1,8,,MAJA.,#maja,172.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+541,541,GerDracor/beer-der-paria.xml,Rett' ihn mir.,46,60,character_speech,1,8,,MAJA.,#maja,172.0,FEMALE,despair,T,,1823.0,negative,emotions of anxiety
+542,542,GerDracor/beer-der-paria.xml,"Du wirst ihm Vater werden, wirst ihn lehren
+            Erkennen deinen Gott und sein Erbarmen.",73,168,character_speech,1,8,,MAJA.,#maja,172.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+543,543,GerDracor/beer-der-paria.xml,"Mein Gatte sterbe, nur den Knaben nicht
+            Gieb Preis dem opferlechzenden Braminen.",181,273,character_speech,1,8,,MAJA.,#maja,172.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+544,544,GerDracor/beer-der-paria.xml,"
+            Was willst du ihm ein traurig Leben fristen?",0,57,character_speech,1,8,,GADHI.,#gadhi,173.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+545,545,GerDracor/beer-der-paria.xml,Laß den Verwaisten sterben.,70,97,character_speech,1,8,,GADHI.,#gadhi,173.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+546,546,GerDracor/beer-der-paria.xml,"
+            Nein, er lebe!",0,27,character_speech,1,8,,MAJA.,#maja,174.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+547,547,GerDracor/beer-der-paria.xml,Ich soll ja leben; gönne mir den Trost.,40,79,character_speech,1,8,,MAJA.,#maja,174.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+548,548,GerDracor/beer-der-paria.xml,Zu Benascar.,0,12,stage_direction,1,8,speech_part,,#maja,174.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+549,549,GerDracor/beer-der-paria.xml,"
+            Dort schläft das Kind den sorgenlosen Schlummer
+            Und ahnet nicht, daß um die blüh'nde Stirne
+            Der Todesengel schon den Fittich schlägt.",0,170,character_speech,1,8,,MAJA.,#maja,174.0,FEMALE,despair,T,,1823.0,negative,emotions of anxiety
+550,550,GerDracor/beer-der-paria.xml,"O sei barmherzig, Bruder, rett' ihn mir;
+            Durch treue Diener send' ihn rasch hinweg,
+            Eh' der Bramine naht.",183,312,character_speech,1,8,,MAJA.,#maja,174.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+551,551,GerDracor/beer-der-paria.xml,"
+            Welch ein Gefühl
+            Hat in der starken Brust mein Herz gewandelt!",0,87,character_speech,1,8,,BENASCAR.,#benascar,175.0,MALE,being moved,T,,1823.0,being moved,being moved
+552,552,GerDracor/beer-der-paria.xml,–,88,89,character_speech,1,8,,BENASCAR.,#benascar,175.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+553,553,GerDracor/beer-der-paria.xml,"
+            Die Stimme der Natur, der Menschlichkeit
+            Spricht laut zu dir; vernimm den heil'gen Ruf
+            Und rette mir den Sohn.",0,147,character_speech,1,8,,MAJA.,#maja,176.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+554,554,GerDracor/beer-der-paria.xml,in die Kammer eilend.,0,21,stage_direction,1,8,speech_part,,#benascar,177.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+555,555,GerDracor/beer-der-paria.xml,Ich will ihn retten.,0,20,character_speech,1,8,,BENASCAR,#benascar,177.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+556,556,GerDracor/beer-der-paria.xml,"Vorige, ohne Benascar.",0,22,stage_direction,1,9,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+557,557,GerDracor/beer-der-paria.xml,Was thatest du?,0,15,character_speech,1,9,,GADHI.,#gadhi,178.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+558,558,GerDracor/beer-der-paria.xml,"die sich mit der Freude eines gelungenen Entwurfs aus ihres Gatten Arm
+            gerissen.",0,92,stage_direction,1,9,speech_part,,#maja,179.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+559,559,GerDracor/beer-der-paria.xml,Was mir der Himmel eingab.,0,26,character_speech,1,9,,MAJA,#maja,179.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+560,560,GerDracor/beer-der-paria.xml,Die brennende Fackel vom Baumstamme reißend.,0,44,stage_direction,1,9,speech_part,,#maja,179.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+561,561,GerDracor/beer-der-paria.xml,"
+            Die Fackel schleudern will ich in die Kammer,
+            Und Vater, Mutter, Kind und Feind verderben.",0,115,character_speech,1,9,,MAJA,#maja,179.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+562,562,GerDracor/beer-der-paria.xml,ihr die Fackel entreißend.,0,26,stage_direction,1,9,speech_part,,#gadhi,180.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+563,563,GerDracor/beer-der-paria.xml,"
+            Weh' dir!",0,22,character_speech,1,9,,GADHI,#gadhi,180.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+564,564,GerDracor/beer-der-paria.xml,"das ist des Unglücks höchster Jammer,
+            Daß es zur Rettung das Verbrechen ruft.",23,112,character_speech,1,9,,GADHI,#gadhi,180.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+565,565,GerDracor/beer-der-paria.xml,Die Fackel umstürzend.,0,22,stage_direction,1,9,speech_part,,#gadhi,180.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+566,566,GerDracor/beer-der-paria.xml,"
+            Stirb, Flamme!",0,27,character_speech,1,9,,GADHI,#gadhi,180.0,MALE,love,T,,1823.0,positive,emotions of affection
+567,567,GerDracor/beer-der-paria.xml,"Wie ich lebte, will ich sterben,
+            Versöhnt und rein geh' ich hinab zur Gruft.",28,116,character_speech,1,9,,GADHI,#gadhi,180.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+568,568,GerDracor/beer-der-paria.xml,Großherziger!,0,13,character_speech,1,9,,MAJA.,#maja,181.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+569,569,GerDracor/beer-der-paria.xml,Gewalt'ger!,14,25,character_speech,1,9,,MAJA.,#maja,181.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+570,570,GerDracor/beer-der-paria.xml,Die giftige Frucht am Boden erblickend; für sich.,0,49,stage_direction,1,9,speech_part,,#maja,181.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+571,571,GerDracor/beer-der-paria.xml,"
+            Dank dir, Himmel!",0,30,character_speech,1,9,,MAJA.,#maja,181.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+572,572,GerDracor/beer-der-paria.xml,"So bleibt ein and'res Mittel, wir sind frei.",43,87,character_speech,1,9,,MAJA.,#maja,181.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+573,573,GerDracor/beer-der-paria.xml,"Sie verbirgt die Frucht, ohne daß es Gadhi bemerkt.",0,51,stage_direction,1,9,speech_part,,#maja,181.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+574,574,GerDracor/beer-der-paria.xml,Vorige.,0,7,stage_direction,1,10,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+575,575,GerDracor/beer-der-paria.xml,Das Kind.,8,17,stage_direction,1,10,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+576,576,GerDracor/beer-der-paria.xml,Benascar.,18,27,stage_direction,1,10,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+577,577,GerDracor/beer-der-paria.xml,von innen.,0,10,stage_direction,1,10,speech_part,,#benascar,182.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+578,578,GerDracor/beer-der-paria.xml,Wer löscht das Licht?,0,21,character_speech,1,10,,BENASCAR,#benascar,182.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+579,579,GerDracor/beer-der-paria.xml,"
+            Der Tag ist angebrochen,
+            Die Nacht ist aus, was braucht's der Leuchte mehr?",0,100,character_speech,1,10,,GADHI.,#gadhi,183.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+580,580,GerDracor/beer-der-paria.xml,vor Benascar fliehend.,0,22,stage_direction,1,10,speech_part,,#das_kind,184.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+581,581,GerDracor/beer-der-paria.xml,O!,0,2,character_speech,1,10,,DAS KIND,#das_kind,184.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+582,582,GerDracor/beer-der-paria.xml,Vater!,3,9,character_speech,1,10,,DAS KIND,#das_kind,184.0,MALE,being moved,T,,1823.0,being moved,being moved
+583,583,GerDracor/beer-der-paria.xml,Mutter!,10,17,character_speech,1,10,,DAS KIND,#das_kind,184.0,MALE,being moved,T,,1823.0,being moved,being moved
+584,584,GerDracor/beer-der-paria.xml,Gott!,0,5,character_speech,1,10,,MAJA.,#maja,185.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+585,585,GerDracor/beer-der-paria.xml,mein Kind!,6,16,character_speech,1,10,,MAJA.,#maja,185.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+586,586,GerDracor/beer-der-paria.xml,Mein Sohn!,0,10,character_speech,1,10,,GADHI.,#gadhi,186.0,MALE,being moved,T,,1823.0,being moved,being moved
+587,587,GerDracor/beer-der-paria.xml,"
+            Schnell!",0,21,character_speech,1,10,,BENASCAR.,#benascar,187.0,MALE,being moved,T,,1823.0,being moved,being moved
+588,588,GerDracor/beer-der-paria.xml,Schnell!,22,30,character_speech,1,10,,BENASCAR.,#benascar,187.0,MALE,being moved,T,,1823.0,being moved,being moved
+589,589,GerDracor/beer-der-paria.xml,"Verzug ist Tod, nur Eile rettet.",43,75,character_speech,1,10,,BENASCAR.,#benascar,187.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+590,590,GerDracor/beer-der-paria.xml,den Knaben fest umklammernd.,0,28,stage_direction,1,10,speech_part,,#maja,188.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+591,591,GerDracor/beer-der-paria.xml,Weh' mir!,0,9,character_speech,1,10,,MAJA,#maja,188.0,FEMALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+592,592,GerDracor/beer-der-paria.xml,Ich will nicht mit dem fremden Manne.,0,37,character_speech,1,10,,DAS KIND.,#das_kind,189.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+593,593,GerDracor/beer-der-paria.xml,"
+            Folg' ihm:
+            Er führt dich in das helle, grüne Thal
+            Des Lebens ein.",0,102,character_speech,1,10,,GADHI.,#gadhi,190.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+594,594,GerDracor/beer-der-paria.xml,"Wie hold es ist und schön,
+            Weiß Der allein, der es verlassen soll.",103,181,character_speech,1,10,,GADHI.,#gadhi,190.0,MALE,love,T,,1823.0,positive,emotions of affection
+595,595,GerDracor/beer-der-paria.xml,"hat sich indessen entfernt, und kehrt nun zurück.",0,49,stage_direction,1,10,speech_part,,#benascar,191.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+596,596,GerDracor/beer-der-paria.xml,ihn erblickend.,0,15,stage_direction,1,10,speech_part,,#maja,192.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+597,597,GerDracor/beer-der-paria.xml,Er kommt!,0,9,character_speech,1,10,,MAJA,#maja,192.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+598,598,GerDracor/beer-der-paria.xml,er kommt!,10,19,character_speech,1,10,,MAJA,#maja,192.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+599,599,GerDracor/beer-der-paria.xml,er will ihn mir entreißen.,20,46,character_speech,1,10,,MAJA,#maja,192.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+600,600,GerDracor/beer-der-paria.xml,"
+            Der Tag bricht an, und Brama's Diener naht:
+            Gebt mir den Knaben.",0,89,character_speech,1,10,,BENASCAR.,#benascar,193.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+601,601,GerDracor/beer-der-paria.xml,niedersinkend und das Kind an sich pressend.,0,44,stage_direction,1,10,speech_part,,#maja,194.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+602,602,GerDracor/beer-der-paria.xml,Meine Kraft verläßt mich.,0,25,character_speech,1,10,,MAJA,#maja,194.0,FEMALE,despair,T,,1823.0,negative,emotions of anxiety
+603,603,GerDracor/beer-der-paria.xml,ihr den Knaben entreißend.,0,26,stage_direction,1,10,speech_part,,#benascar,195.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+604,604,GerDracor/beer-der-paria.xml,So tödtest du dein Kind.,0,24,character_speech,1,10,,BENASCAR,#benascar,195.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+605,605,GerDracor/beer-der-paria.xml,Mein Kind!,0,10,character_speech,1,10,,MAJA.,#maja,196.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+606,606,GerDracor/beer-der-paria.xml,Benascar mit dem Knaben ab.,0,27,stage_direction,1,10,speech_part,,#maja,196.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+607,607,GerDracor/beer-der-paria.xml,Gadhi.,0,6,stage_direction,1,11,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+608,608,GerDracor/beer-der-paria.xml,Maja.,7,12,stage_direction,1,11,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+609,609,GerDracor/beer-der-paria.xml,aufspringend.,0,13,stage_direction,1,11,speech_part,,#maja,197.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+610,610,GerDracor/beer-der-paria.xml,Jetzt Muth!,0,11,character_speech,1,11,,MAJA,#maja,197.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+611,611,GerDracor/beer-der-paria.xml,Was hast du vor?,0,16,character_speech,1,11,,GADHI.,#gadhi,198.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+612,612,GerDracor/beer-der-paria.xml,ihm die Frucht zeigend.,0,23,stage_direction,1,11,speech_part,,#maja,199.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+613,613,GerDracor/beer-der-paria.xml,"
+            Sieh, Gadhi, diese Frucht:
+             Entrissen hab' ich sie dem Wütherich,
+            Den die Natur zum Bruder mir gegeben.",0,140,character_speech,1,11,,MAJA,#maja,199.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+614,614,GerDracor/beer-der-paria.xml,Mitleidig gönnt' ich ihm ein feindlich Leben.,153,198,character_speech,1,11,,MAJA,#maja,199.0,FEMALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+615,615,GerDracor/beer-der-paria.xml,"Ich sä'te Liebe, und ich ernte Tod.",211,246,character_speech,1,11,,MAJA,#maja,199.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+616,616,GerDracor/beer-der-paria.xml,Versteh' ich dich –,0,19,character_speech,1,11,,GADHI.,#gadhi,200.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+617,617,GerDracor/beer-der-paria.xml,"
+            Du wähntest doch wohl nicht,
+            Ich könnte leben ohne dich?",0,81,character_speech,1,11,,MAJA.,#maja,201.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+618,618,GerDracor/beer-der-paria.xml,"Mein Freund,
+            Das – sage nein – das hast du nie geglaubt.",82,150,character_speech,1,11,,MAJA.,#maja,201.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+619,619,GerDracor/beer-der-paria.xml,"In dieser kleinen Frucht ist für uns Beide
+            Des Todes gnug.",163,233,character_speech,1,11,,MAJA.,#maja,201.0,FEMALE,despair,T,,1823.0,negative,emotions of anxiety
+620,620,GerDracor/beer-der-paria.xml,Ich theile sie mit dir.,234,257,character_speech,1,11,,MAJA.,#maja,201.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+621,621,GerDracor/beer-der-paria.xml,"
+            Weib!",0,18,character_speech,1,11,,GADHI.,#gadhi,202.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+622,622,GerDracor/beer-der-paria.xml,heldenmüth'ges Weib!,19,39,character_speech,1,11,,GADHI.,#gadhi,202.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+623,623,GerDracor/beer-der-paria.xml,Und ich – ich murrte.,40,61,character_speech,1,11,,GADHI.,#gadhi,202.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+624,624,GerDracor/beer-der-paria.xml,"Wem neid' ich jetzt das schönste Dasein noch,
+            Wenn solch ein Tod der Wonne mir beschieden!",74,176,character_speech,1,11,,GADHI.,#gadhi,202.0,MALE,love,T,,1823.0,positive,emotions of affection
+625,625,GerDracor/beer-der-paria.xml,hat den Saft der Frucht in einen Becher gedrückt; ihn emporhebend.,0,66,stage_direction,1,11,speech_part,,#maja,203.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+626,626,GerDracor/beer-der-paria.xml,"
+            Willkommen, Tod der Wonne!",0,39,character_speech,1,11,,MAJA,#maja,203.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+627,627,GerDracor/beer-der-paria.xml,"nur die Schuld
+            Erbleicht, wenn sich die dunkle Stunde naht.",40,111,character_speech,1,11,,MAJA,#maja,203.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+628,628,GerDracor/beer-der-paria.xml,Mit hellem Blick und muthvoll stirbt die Treue.,124,171,character_speech,1,11,,MAJA,#maja,203.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+629,629,GerDracor/beer-der-paria.xml,"Auf Wiederseh'n, mein Freund!",184,213,character_speech,1,11,,MAJA,#maja,203.0,FEMALE,friendship,T,,1823.0,positive,emotions of affection
+630,630,GerDracor/beer-der-paria.xml,Sie trinkt.,0,11,stage_direction,1,11,speech_part,,#maja,203.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+631,631,GerDracor/beer-der-paria.xml,O Gott!,0,7,character_speech,1,11,,GADHI.,#gadhi,204.0,MALE,being moved,T,,1823.0,being moved,being moved
+632,632,GerDracor/beer-der-paria.xml,ihm den Becher reichend.,0,24,stage_direction,1,11,speech_part,,#maja,205.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+633,633,GerDracor/beer-der-paria.xml,Und dies für dich.,0,18,character_speech,1,11,,MAJA,#maja,205.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+634,634,GerDracor/beer-der-paria.xml,leert den Becher.,0,17,stage_direction,1,11,speech_part,,#gadhi,206.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+635,635,GerDracor/beer-der-paria.xml,Dank!,0,5,character_speech,1,11,,GADHI,#gadhi,206.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+636,636,GerDracor/beer-der-paria.xml,Sie sinken einander in die Arme.,0,32,stage_direction,1,11,speech_part,,#gadhi,206.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+637,637,GerDracor/beer-der-paria.xml,Vorige.,0,7,stage_direction,1,12,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+638,638,GerDracor/beer-der-paria.xml,Benascar.,8,17,stage_direction,1,12,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+639,639,GerDracor/beer-der-paria.xml,Geborgen ist der Knab' –,0,24,character_speech,1,12,,BENASCAR.,#benascar,207.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+640,640,GerDracor/beer-der-paria.xml,"
+            So fliege muthig
+            Aus deiner dunkeln Haft, gebeugte Seele,
+            Du wandelst dich zu glänzender Gestalt
+            Und schwebst mit schützend hellen Flügeln dann
+            Um des geliebten Kindes Haupt.",0,235,character_speech,1,12,,MAJA.,#maja,208.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+641,641,GerDracor/beer-der-paria.xml,"
+            Jetzt – trennt euch!",0,33,character_speech,1,12,,BENASCAR.,#benascar,209.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+642,642,GerDracor/beer-der-paria.xml,"Der Priester naht, und eurer Hütte Wand
+            Stürzt nieder unter schnell geschäft'ger Axt;
+            Daß nicht beflecke auf verworf'ner Schwelle
+            Den reinen Fuß der Diener des Gewalt'gen,
+            Der neunmal deinem Stamm und dir geflucht.",46,308,character_speech,1,12,,BENASCAR.,#benascar,209.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+643,643,GerDracor/beer-der-paria.xml,"
+            Dein Gott des Fluches ist ein Gott des Abscheus.",0,61,character_speech,1,12,,GADHI.,#gadhi,210.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+644,644,GerDracor/beer-der-paria.xml,"Ich glaub' an seine Lieb'; von seinem Haß
+            Spricht Blödsinn, Habgier oder Frevel nur.",75,171,character_speech,1,12,,GADHI.,#gadhi,210.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+645,645,GerDracor/beer-der-paria.xml,"Wer sich's von seinen Priestern überliefern,
+            Von ihren Ammenmährchen lehren läßt,
+            Was Glaube sei und Gott, der schmäht sich selbst.",184,339,character_speech,1,12,,GADHI.,#gadhi,210.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+646,646,GerDracor/beer-der-paria.xml,"Er ist unleugbar wie sein himmlisch Licht;
+            Des eignen Busens flammende Erkenntniß
+            Macht seine Welt zum Spiegel seines Wesens.",352,501,character_speech,1,12,,GADHI.,#gadhi,210.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+647,647,GerDracor/beer-der-paria.xml,"Und hast du ihn erkannt, – mußt du ihn – glauben;
+            Nothwendiger ist Dasein nicht und Tod.",514,614,character_speech,1,12,,GADHI.,#gadhi,210.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+648,648,GerDracor/beer-der-paria.xml,"Ich war verworfen, und mit reinem Herzen
+            Blick' ich zurück auf meines Lebens Bahn.",627,721,character_speech,1,12,,GADHI.,#gadhi,210.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+649,649,GerDracor/beer-der-paria.xml,"Gefunden hab' ich, was des Bettlers Hütte
+            Zum Paradiese stiller Lust geschaffen;
+            In treuer Brust für mich ein glühend Herz ...",734,884,character_speech,1,12,,GADHI.,#gadhi,210.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+650,650,GerDracor/beer-der-paria.xml,droht zu sinken.,0,16,stage_direction,1,12,speech_part,,#maja,211.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+651,651,GerDracor/beer-der-paria.xml,Weh' mir!,0,9,character_speech,1,12,,GADHI.,#gadhi,212.0,MALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+652,652,GerDracor/beer-der-paria.xml,Die Gluth wird kalt.,0,20,character_speech,1,12,,MAJA.,#maja,213.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+653,653,GerDracor/beer-der-paria.xml,Wie bleich du wirst!,0,20,character_speech,1,12,,BENASCAR.,#benascar,214.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+654,654,GerDracor/beer-der-paria.xml,zu Benascar.,0,12,stage_direction,1,12,speech_part,,#maja,215.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+655,655,GerDracor/beer-der-paria.xml,"
+            Was starrst du so?",0,31,character_speech,1,12,,MAJA,#maja,215.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+656,656,GerDracor/beer-der-paria.xml,Es war dein eigner Wille.,32,57,character_speech,1,12,,MAJA,#maja,215.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+657,657,GerDracor/beer-der-paria.xml,"Du wähnst, ich liebte, und ich könnte nicht
+            Für meine Liebe sterben – –",71,154,character_speech,1,12,,MAJA,#maja,215.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+658,658,GerDracor/beer-der-paria.xml,Welche Ahnung!,0,14,character_speech,1,12,,BENASCAR.,#benascar,216.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+659,659,GerDracor/beer-der-paria.xml,Die Frucht – die gift'ge –,0,26,character_speech,1,12,,MAJA.,#maja,217.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+660,660,GerDracor/beer-der-paria.xml,Die du mir entrissen?,0,21,character_speech,1,12,,BENASCAR.,#benascar,218.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+661,661,GerDracor/beer-der-paria.xml,Sie giebt uns Beiden jetzt den Tod.,0,35,character_speech,1,12,,GADHI.,#gadhi,219.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+662,662,GerDracor/beer-der-paria.xml,zu Gadhi.,0,9,stage_direction,1,12,speech_part,,#benascar,220.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+663,663,GerDracor/beer-der-paria.xml,"Ha, Ungeheuer!",0,14,character_speech,1,12,,BENASCAR,#benascar,220.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+664,664,GerDracor/beer-der-paria.xml,das hast du gethan!,15,34,character_speech,1,12,,BENASCAR,#benascar,220.0,MALE,Schadenfreude,T,,1823.0,positive,emotions of pleasure
+665,665,GerDracor/beer-der-paria.xml,"Ich selbst – ich selbst – oh, wie das schmerzt – wie's brennt!",0,62,character_speech,1,12,,MAJA.,#maja,221.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+666,666,GerDracor/beer-der-paria.xml,Schleier und Stirnband abreißend.,0,33,stage_direction,1,12,speech_part,,#maja,221.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+667,667,GerDracor/beer-der-paria.xml,"
+            Hinab den ird'schen Tand – ah!",0,43,character_speech,1,12,,MAJA.,#maja,221.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+668,668,GerDracor/beer-der-paria.xml,Freiheit!,44,53,character_speech,1,12,,MAJA.,#maja,221.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+669,669,GerDracor/beer-der-paria.xml,Luft!,54,59,character_speech,1,12,,MAJA.,#maja,221.0,FEMALE,anger,T,,1823.0,negative,emotions of rejection
+670,670,GerDracor/beer-der-paria.xml,"Das Leben ist ein Feuermeer und sprengt
+            Gewaltsam mir die Adern, um hinaus,
+            Hinauszuströmen in die ew'gen Lüfte.",72,208,character_speech,1,12,,MAJA.,#maja,221.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+671,671,GerDracor/beer-der-paria.xml,Mir wird die Welt zu eng.,221,246,character_speech,1,12,,MAJA.,#maja,221.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+672,672,GerDracor/beer-der-paria.xml,in die Hütte stürzend.,0,22,stage_direction,1,12,speech_part,,#die_indianer,222.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+673,673,GerDracor/beer-der-paria.xml,"
+            Nieder mit des Paria Hütte!",0,40,character_speech,1,12,,INDIANER,#die_indianer,222.0,UNKNOWN,abhorrence,T,,1823.0,negative,emotions of rejection
+674,674,GerDracor/beer-der-paria.xml,Nieder mit dem Paria selbst!,54,82,character_speech,1,12,,INDIANER,#die_indianer,222.0,UNKNOWN,abhorrence,T,,1823.0,negative,emotions of rejection
+675,675,GerDracor/beer-der-paria.xml,Heil Brama!,95,106,character_speech,1,12,,INDIANER,#die_indianer,222.0,UNKNOWN,joy,T,,1823.0,positive,emotions of pleasure
+676,676,GerDracor/beer-der-paria.xml,Heil!,107,112,character_speech,1,12,,INDIANER,#die_indianer,222.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+677,677,GerDracor/beer-der-paria.xml,Die Hütte wird niedergerissen.,0,30,stage_direction,1,12,speech_part,,#die_indianer,222.0,UNKNOWN,suffering,T,,1823.0,negative,emotions of suffering and empathy
+678,678,GerDracor/beer-der-paria.xml,Man erblickt ein reizendes Thal.,31,63,stage_direction,1,12,speech_part,,#die_indianer,222.0,UNKNOWN,joy,T,,1823.0,positive,emotions of pleasure
+679,679,GerDracor/beer-der-paria.xml,Morgenröthe.,64,76,stage_direction,1,12,speech_part,,#die_indianer,222.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+680,680,GerDracor/beer-der-paria.xml,"Aus
+            dem Hintergrunde naht langsam, unter rauschender Musik, der Zug mit dem
+            Braminen.",77,186,stage_direction,1,12,speech_part,,#die_indianer,222.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+681,681,GerDracor/beer-der-paria.xml,"
+            Mein theurer Freund,
+            Du schauderst!",0,60,character_speech,1,12,,MAJA.,#maja,223.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+682,682,GerDracor/beer-der-paria.xml,"– O geliebte Sonne, komm,
+            Laß deiner gold'nen Wangen Purpurglanz
+            Erröthen mir das bleiche Angesicht;
+            Daß ihn der Tod, den er erleiden soll,
+            In dieser Ungestalt nicht schrecke.",61,284,character_speech,1,12,,MAJA.,#maja,223.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+683,683,GerDracor/beer-der-paria.xml,Gott!,0,5,character_speech,1,12,,GADHI.,#gadhi,224.0,MALE,being moved,T,,1823.0,being moved,being moved
+684,684,GerDracor/beer-der-paria.xml,"
+            Es war ein kurzer Kampf – es ist vorbei!",0,53,character_speech,1,12,,MAJA.,#maja,225.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+685,685,GerDracor/beer-der-paria.xml,"Kein Schmerz – Entzücken – Freiheit – Licht –
+            Mein Gadhi – folge mir – –",66,150,character_speech,1,12,,MAJA.,#maja,225.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+686,686,GerDracor/beer-der-paria.xml,Sie stirbt.,0,11,stage_direction,1,12,speech_part,,#maja,225.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+687,687,GerDracor/beer-der-paria.xml,"
+            Ich folge bald – ich fühle schon – den Tod.",0,56,character_speech,1,12,,GADHI.,#gadhi,226.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+688,688,GerDracor/beer-der-paria.xml,"– –
+            So recht – laßt unter diesem Dach das Leben
+            Sich schmerzenfreier lösen; diese Lust
+            Und dieses Licht ist Allen gleiche Wohlthat.",57,224,character_speech,1,12,,GADHI.,#gadhi,226.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+689,689,GerDracor/beer-der-paria.xml,"Ueberall
+            Nur Liebe, Lieb' – und ihr seid nichts als Haß.",225,293,character_speech,1,12,,GADHI.,#gadhi,226.0,MALE,love,T,,1823.0,positive,emotions of affection
+690,690,GerDracor/beer-der-paria.xml,So dunkel – Nacht – dort!,307,332,character_speech,1,12,,GADHI.,#gadhi,226.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+691,691,GerDracor/beer-der-paria.xml,dort!,333,338,character_speech,1,12,,GADHI.,#gadhi,226.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+692,692,GerDracor/beer-der-paria.xml,"das Licht,
+            Und Alle – Alle – gleich – mein Kind –",339,400,character_speech,1,12,,GADHI.,#gadhi,226.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+693,693,GerDracor/beer-der-paria.xml,"an Maja's Leiche, von seinem Gefühl überwältigt, ihm die Hand reichend.",0,71,stage_direction,1,12,speech_part,,#benascar,227.0,MALE,being moved,T,,1823.0,being moved,being moved
+694,694,GerDracor/beer-der-paria.xml,Ich schütz' es dir.,0,19,character_speech,1,12,,BENASCAR,#benascar,227.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+695,695,GerDracor/beer-der-paria.xml,heftet den Blick starr auf ihn und stirbt.,0,42,stage_direction,1,12,speech_part,,#gadhi,228.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+696,696,GerDracor/beer-der-paria.xml,Vorige.,0,7,stage_direction,1,13,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+697,697,GerDracor/beer-der-paria.xml,"Der Zug mit dem Braminen, der auf einem Palankin getragen wird, ist in den
+          Vordergrund gekommen.",8,114,stage_direction,1,13,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+698,698,GerDracor/beer-der-paria.xml,Wo ist das Opfer?,0,17,character_speech,1,13,,BRAMINE.,#bramine,229.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+699,699,GerDracor/beer-der-paria.xml,"
+            Zwei für eins, Bramin':
+            Frag' deinen Brama, ob sie ihm gefallen!",0,89,character_speech,1,13,,BENASCAR.,#benascar,230.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation

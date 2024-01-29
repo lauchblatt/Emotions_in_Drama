@@ -1,0 +1,1461 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/heine-william-ratcliff.xml,Margarete (kauert bewegungslos in einer Ecke).,0,46,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+1,1,GerDracor/heine-william-ratcliff.xml,Mac-Gregor.,0,11,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2,2,GerDracor/heine-william-ratcliff.xml,Maria.,12,18,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+3,3,GerDracor/heine-william-ratcliff.xml,Douglas.,19,27,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+4,4,GerDracor/heine-william-ratcliff.xml,er legt Douglas' und Marias Hände ineinander.,0,45,stage_direction,1,1,speech_part,,#mac-gregor,1.0,MALE,love,positive,emotions of affection
+5,5,GerDracor/heine-william-ratcliff.xml,"
+            Ihr seid jetzt Mann und Weib.",0,42,character_speech,1,1,,MAC-GREGOR,#mac-gregor,1.0,MALE,no_annotation,no_annotation,no_annotation
+6,6,GerDracor/heine-william-ratcliff.xml,"Wie eure Hände
+            Vereinigt sind, so sollen auch die Herzen,
+            In Leid und Freud, vereinigt sein auf immer.",43,169,character_speech,1,1,,MAC-GREGOR,#mac-gregor,1.0,MALE,love,positive,emotions of affection
+7,7,GerDracor/heine-william-ratcliff.xml,"Zwei mächt'ge Sakramente, das der Kirche
+            Und das der Liebe, haben euch verbunden;
+            Ein Doppelsegen ruht auf euren Häuptern;
+            Und auch den Vatersegen leg ich drauf.",182,379,character_speech,1,1,,MAC-GREGOR,#mac-gregor,1.0,MALE,love,positive,emotions of affection
+8,8,GerDracor/heine-william-ratcliff.xml,Er legt segnend seine Hände auf beider Haupt.,0,45,stage_direction,1,1,speech_part,,#mac-gregor,1.0,MALE,"admiration, reverence",positive,emotions of affection
+9,9,GerDracor/heine-william-ratcliff.xml,"Mit Stolz, Mylord, nenn ich Euch heute: Vater.",0,46,character_speech,1,1,,DOUGLAS.,#douglas,2.0,MALE,"admiration, reverence",positive,emotions of affection
+10,10,GerDracor/heine-william-ratcliff.xml,Mit noch weit größerm Stolz nenn ich Euch: Sohn.,0,48,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,3.0,MALE,"admiration, reverence",positive,emotions of affection
+11,11,GerDracor/heine-william-ratcliff.xml,Sie umarmen sich.,0,17,stage_direction,1,1,speech_part,,#mac-gregor,3.0,MALE,joy,positive,emotions of pleasure
+12,12,GerDracor/heine-william-ratcliff.xml,singt im abgebrochenen Wahnsinntone.,0,36,stage_direction,1,1,speech_part,,#margarete,4.0,FEMALE,no_annotation,no_annotation,no_annotation
+13,13,GerDracor/heine-william-ratcliff.xml,"
+            »Was ist von Blut dein Schwert so rot?",0,51,character_speech,1,1,,MARGARETE,#margarete,4.0,FEMALE,no_annotation,no_annotation,no_annotation
+14,14,GerDracor/heine-william-ratcliff.xml,"Edward, Edward?«",64,80,character_speech,1,1,,MARGARETE,#margarete,4.0,FEMALE,being moved,being moved,being moved
+15,15,GerDracor/heine-william-ratcliff.xml,erschrocken auffahrend und nach Margarete schauend.,0,51,stage_direction,1,1,speech_part,,#douglas,5.0,MALE,being moved,being moved,being moved
+16,16,GerDracor/heine-william-ratcliff.xml,"
+            Um Gott, Mylord, welch gläsern geller Laut?",0,56,character_speech,1,1,,DOUGLAS,#douglas,5.0,MALE,suffering,negative,emotions of suffering and empathy
+17,17,GerDracor/heine-william-ratcliff.xml,"Es fängt zu singen an, das stumme Bild –",69,109,character_speech,1,1,,DOUGLAS,#douglas,5.0,MALE,no_annotation,no_annotation,no_annotation
+18,18,GerDracor/heine-william-ratcliff.xml,mit erzwungenem Lächeln.,0,24,stage_direction,1,1,speech_part,,#mac-gregor,6.0,MALE,no_annotation,no_annotation,no_annotation
+19,19,GerDracor/heine-william-ratcliff.xml,"
+            Stört Euch nicht dran.",0,35,character_speech,1,1,,MAC-GREGOR,#mac-gregor,6.0,MALE,anger,negative,emotions of rejection
+20,20,GerDracor/heine-william-ratcliff.xml,"Es ist die tolle Margarete,
+            Gehört zum Schloß.",36,94,character_speech,1,1,,MAC-GREGOR,#mac-gregor,6.0,MALE,no_annotation,no_annotation,no_annotation
+21,21,GerDracor/heine-william-ratcliff.xml,"Sie leidet an der Starrsucht,
+            Seit Jahr und Tag.",95,155,character_speech,1,1,,MAC-GREGOR,#mac-gregor,6.0,MALE,suffering,negative,emotions of suffering and empathy
+22,22,GerDracor/heine-william-ratcliff.xml,"Mit stieren Augen liegt sie
+            Gekauert, manch unheimlich lange Stunde;
+            Und dann und wann, wie 'n Stein, der sprechen kann,
+            Bewegungslos, quäkt sie ein altes Lied –",156,353,character_speech,1,1,,MAC-GREGOR,#mac-gregor,6.0,MALE,no_annotation,no_annotation,no_annotation
+23,23,GerDracor/heine-william-ratcliff.xml,Warum behaltet Ihr im Schloß solch Schrecknis?,0,46,character_speech,1,1,,DOUGLAS.,#douglas,7.0,MALE,fear,negative,emotions of anxiety
+24,24,GerDracor/heine-william-ratcliff.xml,leise zu ihm.,0,13,stage_direction,1,1,speech_part,,#mac-gregor,8.0,MALE,no_annotation,no_annotation,no_annotation
+25,25,GerDracor/heine-william-ratcliff.xml,"
+            Still, still.",0,26,character_speech,1,1,,MAC-GREGOR,#mac-gregor,8.0,MALE,no_annotation,no_annotation,no_annotation
+26,26,GerDracor/heine-william-ratcliff.xml,"Sie hört jedwedes Wort; – schon lange
+            Hätt ich sie fortgeschafft – doch darf ich nicht.",27,126,character_speech,1,1,,MAC-GREGOR,#mac-gregor,8.0,MALE,no_annotation,no_annotation,no_annotation
+27,27,GerDracor/heine-william-ratcliff.xml,"
+            Laßt ruhn die arme, gute Margarete.",0,48,character_speech,1,1,,MARIA.,#maria,9.0,FEMALE,compassion,negative,emotions of suffering and empathy
+28,28,GerDracor/heine-william-ratcliff.xml,"Erzählt mir lieber etwas Neues, Douglas.",61,101,character_speech,1,1,,MARIA.,#maria,9.0,FEMALE,no_annotation,no_annotation,no_annotation
+29,29,GerDracor/heine-william-ratcliff.xml,Wie sieht's in London aus?,114,140,character_speech,1,1,,MARIA.,#maria,9.0,FEMALE,no_annotation,no_annotation,no_annotation
+30,30,GerDracor/heine-william-ratcliff.xml,"Bei uns in Schottland
+            Erfährt man nichts.",141,194,character_speech,1,1,,MARIA.,#maria,9.0,FEMALE,no_annotation,no_annotation,no_annotation
+31,31,GerDracor/heine-william-ratcliff.xml,"
+            Noch ist's das alte Treiben.",0,41,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,no_annotation,no_annotation,no_annotation
+32,32,GerDracor/heine-william-ratcliff.xml,"Man rennt, und fährt, und jagt, Straß' auf, Straß' ab.",54,108,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,no_annotation,no_annotation,no_annotation
+33,33,GerDracor/heine-william-ratcliff.xml,"Man schläft des Tags, und macht zum Tag die Nacht.",121,171,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,no_annotation,no_annotation,no_annotation
+34,34,GerDracor/heine-william-ratcliff.xml,"Vauxhall und Routs und Picknicks drängen sich;
+            Und Drurylane und Coventgarden locken.",184,281,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,no_annotation,no_annotation,no_annotation
+35,35,GerDracor/heine-william-ratcliff.xml,Die Oper rauscht.,294,311,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,no_annotation,no_annotation,no_annotation
+36,36,GerDracor/heine-william-ratcliff.xml,"Pfundnoten wechselt man
+            Für Musiknoten ein.",312,367,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,no_annotation,no_annotation,no_annotation
+37,37,GerDracor/heine-william-ratcliff.xml,"»God save the King«
+            Wird mitgebrüllt.",368,417,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,fear,negative,emotions of anxiety
+38,38,GerDracor/heine-william-ratcliff.xml,"Die Patrioten liegen
+            In dunkeln Schenken und politisieren,
+            Und subskribieren, wetten, fluchen, gähnen,
+            Und saufen auf das Wohl des Vaterlands.",418,596,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,joy,positive,emotions of pleasure
+39,39,GerDracor/heine-william-ratcliff.xml,"Roastbeef und Pudding dampft, der Porter schäumt,
+            Und sein Rezept schreibt lächelnd der Quacksalber.",609,721,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,Schadenfreude,positive,emotions of pleasure
+40,40,GerDracor/heine-william-ratcliff.xml,Die Taschendiebe drängen.,734,759,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,no_annotation,no_annotation,no_annotation
+41,41,GerDracor/heine-william-ratcliff.xml,"Gauner quälen
+            Mit ihrer Höflichkeit.",760,808,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,anger,negative,emotions of rejection
+42,42,GerDracor/heine-william-ratcliff.xml,"Der Bettler quält
+            Mit seinem Jammeranblick und Gewimmer.",809,877,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,suffering,negative,emotions of suffering and empathy
+43,43,GerDracor/heine-william-ratcliff.xml,"Vor allem quält die unbequeme Tracht,
+             Der enge Wespenrock, das steife Halsband,
+            Und gar der babylonisch hohe Turmhut.",890,1032,character_speech,1,1,,DOUGLAS.,#douglas,10.0,MALE,suffering,negative,emotions of suffering and empathy
+44,44,GerDracor/heine-william-ratcliff.xml,"
+            Da lob ich mir mein Plaid und meine Mütze.",0,55,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,11.0,MALE,joy,positive,emotions of pleasure
+45,45,GerDracor/heine-william-ratcliff.xml,"Ihr tatet gut, daß Ihr die Narrenkleider
+            Vom Leib geworfen habt.",68,144,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,11.0,MALE,anger,negative,emotions of rejection
+46,46,GerDracor/heine-william-ratcliff.xml,"Ein Douglas muß
+            Im Äußern auch ein Schotte sein, und heute
+            Lacht mir das Herz im Leib, wenn ich Euch schaue,
+            Euch alle, in der lieben Schottentracht.",145,330,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,11.0,MALE,joy,positive,emotions of pleasure
+47,47,GerDracor/heine-william-ratcliff.xml,"Erzählt mir was von Eurer Reise, Douglas.",0,41,character_speech,1,1,,MARIA.,#maria,12.0,FEMALE,no_annotation,no_annotation,no_annotation
+48,48,GerDracor/heine-william-ratcliff.xml,"
+            Zu Wagen fuhr ich bis an Schottlands Grenze.",0,57,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,no_annotation,no_annotation,no_annotation
+49,49,GerDracor/heine-william-ratcliff.xml,Das ging mir viel zu langsam.,70,99,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,no_annotation,no_annotation,no_annotation
+50,50,GerDracor/heine-william-ratcliff.xml,"In Old-Jedburgh
+            Nahm ich ein Pferd.",100,147,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,no_annotation,no_annotation,no_annotation
+51,51,GerDracor/heine-william-ratcliff.xml,Ich gab dem Tier die Spor'n.,148,176,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,no_annotation,no_annotation,no_annotation
+52,52,GerDracor/heine-william-ratcliff.xml,Mich selber aber spornte Liebessehnsucht.,189,230,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,love,positive,emotions of affection
+53,53,GerDracor/heine-william-ratcliff.xml,"Ich dachte nur an Euch, Marie, und pfeilschnell,
+            Durch Busch und Berg und Feld, trug mich mein Roß.",243,354,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,love,positive,emotions of affection
+54,54,GerDracor/heine-william-ratcliff.xml,"Im Wald bei Invernes wär mir's bald schlecht
+            Bekommen, daß ich in Gedanken ritt.",367,459,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,suffering,negative,emotions of suffering and empathy
+55,55,GerDracor/heine-william-ratcliff.xml,Piff!,472,477,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,no_annotation,no_annotation,no_annotation
+56,56,GerDracor/heine-william-ratcliff.xml,Paff!,478,483,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,no_annotation,no_annotation,no_annotation
+57,57,GerDracor/heine-william-ratcliff.xml,"erweckten mich aus meinen Träumen
+            Die Kugeln, die mir um die Ohren pfiffen.",484,571,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,no_annotation,no_annotation,no_annotation
+58,58,GerDracor/heine-william-ratcliff.xml,Drei Straßenräuber stürzten auf mich ein.,584,625,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,anger,negative,emotions of rejection
+59,59,GerDracor/heine-william-ratcliff.xml,Ein Kampf begann.,638,655,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,no_annotation,no_annotation,no_annotation
+60,60,GerDracor/heine-william-ratcliff.xml,Es regneten die Hiebe.,656,678,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,no_annotation,no_annotation,no_annotation
+61,61,GerDracor/heine-william-ratcliff.xml,"Ich wehrte mich der Haut; doch unterliegen
+            Hätt ich wohl müssen –
+            O weh!",691,787,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,suffering,negative,emotions of suffering and empathy
+62,62,GerDracor/heine-william-ratcliff.xml,"Marie erbleicht,
+            Und wankt, und sinkt –",788,839,character_speech,1,1,,DOUGLAS.,#douglas,13.0,MALE,no_annotation,no_annotation,no_annotation
+63,63,GerDracor/heine-william-ratcliff.xml,"Margarete springt hastig auf und hält die in Ohnmacht fallende Maria in ihren
+            Armen.",0,96,stage_direction,1,1,speech_part,,#douglas,13.0,MALE,being moved,being moved,being moved
+64,64,GerDracor/heine-william-ratcliff.xml,"
+            O weh!",0,19,character_speech,1,1,,MARGARETE.,#margarete,14.0,FEMALE,suffering,negative,emotions of suffering and empathy
+65,65,GerDracor/heine-william-ratcliff.xml,"mein rotes Püppchen
+            Ist kreideblaß, und kalt wie Stein.",20,87,character_speech,1,1,,MARGARETE.,#margarete,14.0,FEMALE,suffering,negative,emotions of suffering and empathy
+66,66,GerDracor/heine-william-ratcliff.xml,O weh!,88,94,character_speech,1,1,,MARGARETE.,#margarete,14.0,FEMALE,suffering,negative,emotions of suffering and empathy
+67,67,GerDracor/heine-william-ratcliff.xml,"Halb singend, halb sprechend und Maria streichelnd.",0,51,stage_direction,1,1,speech_part,,#margarete,14.0,FEMALE,joy,positive,emotions of pleasure
+68,68,GerDracor/heine-william-ratcliff.xml,"
+            »Püppchen klein, Püppchen mein,
+            Schließe auf die Äugelein!",0,83,character_speech,1,1,,MARGARETE.,#margarete,14.0,FEMALE,love,positive,emotions of affection
+69,69,GerDracor/heine-william-ratcliff.xml,"
+            Püppchen fein, du mußt sein
+            Nicht so kalt wie Marmelstein.",0,83,character_speech,1,1,,MARGARETE.,#margarete,14.0,FEMALE,"admiration, reverence",positive,emotions of affection
+70,70,GerDracor/heine-william-ratcliff.xml,"
+            Rosenschein will ich streun
+            Auf die weißen Wängelein.« –",0,81,character_speech,1,1,,MARGARETE.,#margarete,14.0,FEMALE,no_annotation,no_annotation,no_annotation
+71,71,GerDracor/heine-william-ratcliff.xml,"
+            Halt ein, verrücktes Weib, mit Wahnsinnsprüchen
+            Betörst du ihr noch mehr das kranke Haupt –",0,116,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,15.0,MALE,suffering,negative,emotions of suffering and empathy
+72,72,GerDracor/heine-william-ratcliff.xml,mit dem Finger drohend.,0,23,stage_direction,1,1,speech_part,,#margarete,16.0,FEMALE,anger,negative,emotions of rejection
+73,73,GerDracor/heine-william-ratcliff.xml,"
+            Du?",0,16,character_speech,1,1,,MARGARETE,#margarete,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+74,74,GerDracor/heine-william-ratcliff.xml,du?,17,20,character_speech,1,1,,MARGARETE,#margarete,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+75,75,GerDracor/heine-william-ratcliff.xml,willst schelten?,21,37,character_speech,1,1,,MARGARETE,#margarete,16.0,FEMALE,anger,negative,emotions of rejection
+76,76,GerDracor/heine-william-ratcliff.xml,"Wasch dir erst die Hände,
+            Die roten Hände; du befleckst mit Blut
+            Klein Püppchens weißes Hochzeitkleid.",38,164,character_speech,1,1,,MARGARETE,#margarete,16.0,FEMALE,suffering,negative,emotions of suffering and empathy
+77,77,GerDracor/heine-william-ratcliff.xml,Geh fort.,165,174,character_speech,1,1,,MARGARETE,#margarete,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+78,78,GerDracor/heine-william-ratcliff.xml,Ich rat dir gut.,187,203,character_speech,1,1,,MARGARETE,#margarete,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+79,79,GerDracor/heine-william-ratcliff.xml,ängstlich.,0,10,stage_direction,1,1,speech_part,,#mac-gregor,17.0,MALE,fear,negative,emotions of anxiety
+80,80,GerDracor/heine-william-ratcliff.xml,Die tolle Alte faselt!,0,22,character_speech,1,1,,MAC-GREGOR,#mac-gregor,17.0,MALE,being moved,being moved,being moved
+81,81,GerDracor/heine-william-ratcliff.xml,–,23,24,character_speech,1,1,,MAC-GREGOR,#mac-gregor,17.0,MALE,no_annotation,no_annotation,no_annotation
+82,82,GerDracor/heine-william-ratcliff.xml,singend.,0,8,stage_direction,1,1,speech_part,,#margarete,18.0,FEMALE,no_annotation,no_annotation,no_annotation
+83,83,GerDracor/heine-william-ratcliff.xml,"
+            »Püppchen klein, Püppchen mein,
+            Schließe auf die Äugelein!«",0,84,character_speech,1,1,,MARGARETE,#margarete,18.0,FEMALE,no_annotation,no_annotation,no_annotation
+84,84,GerDracor/heine-william-ratcliff.xml,sie erwacht aus ihrer Ohnmacht und lehnt sich an Margarete.,0,59,stage_direction,1,1,speech_part,,#maria,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+85,85,GerDracor/heine-william-ratcliff.xml,"Erzählt nur weiter, wie es ging.",0,32,character_speech,1,1,,MARIA,#maria,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+86,86,GerDracor/heine-william-ratcliff.xml,Ich höre.,33,42,character_speech,1,1,,MARIA,#maria,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+87,87,GerDracor/heine-william-ratcliff.xml,"
+            Es tut mir leid – was ich erzählt – doch hört:
+            Ein andrer Reiter sprengte rasch herbei,
+            Fiel jenen Räubern plötzlich in den Rücken,
+            Und hieb drauflos mit Kraft.",0,209,character_speech,1,1,,DOUGLAS.,#douglas,20.0,MALE,no_annotation,no_annotation,no_annotation
+88,88,GerDracor/heine-william-ratcliff.xml,"Ich selbst bekam
+            Jetzt neuen Mut und freies Spiel.",210,272,character_speech,1,1,,DOUGLAS.,#douglas,20.0,MALE,joy,positive,emotions of pleasure
+89,89,GerDracor/heine-william-ratcliff.xml,"Wir schlugen
+            Die Hunde in die Flucht.",273,322,character_speech,1,1,,DOUGLAS.,#douglas,20.0,MALE,abhorrence,negative,emotions of rejection
+90,90,GerDracor/heine-william-ratcliff.xml,"Ich wollte danken
+            Dem edlen Retter.",323,370,character_speech,1,1,,DOUGLAS.,#douglas,20.0,MALE,"admiration, reverence",positive,emotions of affection
+91,91,GerDracor/heine-william-ratcliff.xml,"Aber dieser rief:
+            »Ich habe keine Zeit«, und jagte weiter.",371,441,character_speech,1,1,,DOUGLAS.,#douglas,20.0,MALE,anger,negative,emotions of rejection
+92,92,GerDracor/heine-william-ratcliff.xml,lächelnd.,0,9,stage_direction,1,1,speech_part,,#maria,21.0,FEMALE,joy,positive,emotions of pleasure
+93,93,GerDracor/heine-william-ratcliff.xml,"
+            Ach, Gott sei Dank!",0,32,character_speech,1,1,,MARIA,#maria,21.0,FEMALE,suffering,negative,emotions of suffering and empathy
+94,94,GerDracor/heine-william-ratcliff.xml,Ihr habt mich sehr geängstigt.,33,63,character_speech,1,1,,MARIA,#maria,21.0,FEMALE,fear,negative,emotions of anxiety
+95,95,GerDracor/heine-william-ratcliff.xml,Jetzt bin ich wieder wohl.,76,102,character_speech,1,1,,MARIA,#maria,21.0,FEMALE,joy,positive,emotions of pleasure
+96,96,GerDracor/heine-william-ratcliff.xml,"Margarete, führ mich.",103,124,character_speech,1,1,,MARIA,#maria,21.0,FEMALE,no_annotation,no_annotation,no_annotation
+97,97,GerDracor/heine-william-ratcliff.xml,Freundinnen warten meiner in dem Saal.,137,175,character_speech,1,1,,MARIA,#maria,21.0,FEMALE,no_annotation,no_annotation,no_annotation
+98,98,GerDracor/heine-william-ratcliff.xml,ängstlich zu Mac-Gregor.,0,24,stage_direction,1,1,speech_part,,#margarete,22.0,FEMALE,fear,negative,emotions of anxiety
+99,99,GerDracor/heine-william-ratcliff.xml,"
+            Du, sei nicht bös.",0,31,character_speech,1,1,,MARGARETE,#margarete,22.0,FEMALE,anger,negative,emotions of rejection
+100,100,GerDracor/heine-william-ratcliff.xml,"Die arme Margarete ist
+            Nicht immer toll.",32,84,character_speech,1,1,,MARGARETE,#margarete,22.0,FEMALE,compassion,negative,emotions of suffering and empathy
+101,101,GerDracor/heine-william-ratcliff.xml,"Geht nur, wir folgen gleich.",0,28,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,23.0,MALE,no_annotation,no_annotation,no_annotation
+102,102,GerDracor/heine-william-ratcliff.xml,Maria und Margarete gehen ab.,0,29,stage_direction,1,1,speech_part,,#mac-gregor,23.0,MALE,no_annotation,no_annotation,no_annotation
+103,103,GerDracor/heine-william-ratcliff.xml,Mac-Gregor.,0,11,stage_direction,1,1,speech_part,,#mac-gregor,23.0,MALE,no_annotation,no_annotation,no_annotation
+104,104,GerDracor/heine-william-ratcliff.xml,Douglas.,12,20,stage_direction,1,1,speech_part,,#mac-gregor,23.0,MALE,no_annotation,no_annotation,no_annotation
+105,105,GerDracor/heine-william-ratcliff.xml,"
+            Ich staune, ist Marie so krankhaft reizbar?",0,56,character_speech,1,1,,DOUGLAS.,#douglas,24.0,MALE,being moved,being moved,being moved
+106,106,GerDracor/heine-william-ratcliff.xml,"Sie ist so ängstlich heute; sie erbleicht
+            Und zittert bei dem leisesten Geräusch –",69,163,character_speech,1,1,,DOUGLAS.,#douglas,24.0,MALE,fear,negative,emotions of anxiety
+107,107,GerDracor/heine-william-ratcliff.xml,"
+            Douglas!",0,21,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,25.0,MALE,being moved,being moved,being moved
+108,108,GerDracor/heine-william-ratcliff.xml,"ich will und darf's Euch nicht verhehlen,
+            Was heut so sehr Mariens Seele ängstigt.",22,116,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,25.0,MALE,fear,negative,emotions of anxiety
+109,109,GerDracor/heine-william-ratcliff.xml,"Verzeiht, daß ich's Euch früher nicht eröffnet.",129,176,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,25.0,MALE,no_annotation,no_annotation,no_annotation
+110,110,GerDracor/heine-william-ratcliff.xml,"Tollkühn ist Euer Mut, und die Gefahr,
+            Die ich mit Klugheit von Euch abgewendet,
+            Hättet Ihr selber rastlos aufgesucht;
+            Fort hätt es Euch getrieben, ihn zu zücht'gen,
+            Den Frevler, der Mariens Ruhe störte.",189,440,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,25.0,MALE,no_annotation,no_annotation,no_annotation
+111,111,GerDracor/heine-william-ratcliff.xml,"Wer darf Mariens Ruh' gefährden, sprecht?",0,41,character_speech,1,1,,DOUGLAS.,#douglas,26.0,MALE,no_annotation,no_annotation,no_annotation
+112,112,GerDracor/heine-william-ratcliff.xml,"
+            Hört ruhig an die traurige Geschichte.",0,51,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,27.0,MALE,no_annotation,no_annotation,no_annotation
+113,113,GerDracor/heine-william-ratcliff.xml,"Sechs Jahre sind es jetzt, da kehrte ein
+            Bei uns ins Schloß ein fahrender Student
+            Aus Edinburgh, mit Namen William Ratcliff.",64,212,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,27.0,MALE,no_annotation,no_annotation,no_annotation
+114,114,GerDracor/heine-william-ratcliff.xml,"Den Vater hatt ich einst gekannt, recht gut,
+            Recht gut, recht gut, er hieß Sir Edward Ratcliff.",226,333,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,27.0,MALE,no_annotation,no_annotation,no_annotation
+115,115,GerDracor/heine-william-ratcliff.xml,"Gastfreundlich nahm ich also auf den Sohn,
+            Und gab ihm Speis' und Obdach, vierzehn Tage.",346,446,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,27.0,MALE,no_annotation,no_annotation,no_annotation
+116,116,GerDracor/heine-william-ratcliff.xml,"Er sah Marie, und sah ihr in die Augen,
+            Und sah dort viel zu tief, begann zu seufzen,
+            Zu schmachten und zu ächzen – bis Maria
+            Ihm rund erklärte: daß er lästig sei.",459,658,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,27.0,MALE,suffering,negative,emotions of suffering and empathy
+117,117,GerDracor/heine-william-ratcliff.xml,Die Liebe packt' er in den Korb und ging.,671,712,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,27.0,MALE,love,positive,emotions of affection
+118,118,GerDracor/heine-william-ratcliff.xml,–,713,714,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,27.0,MALE,no_annotation,no_annotation,no_annotation
+119,119,GerDracor/heine-william-ratcliff.xml,"
+            Zwei Jahre drauf kam Philipp Macdonald,
+            Der Earl von Ais, warb um Mariens Hand,
+            Und warb mit gutem Glück, und nach sechs Monden
+            Stand am Altare, hochzeitlich geschmückt,
+            Die holde Braut – der Bräut'gam aber fehlte.",0,275,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,27.0,MALE,no_annotation,no_annotation,no_annotation
+120,120,GerDracor/heine-william-ratcliff.xml,"Wir suchten überall, in allen Zimmern,
+            Im Hof, im Stall, im Garten – Ach!",288,373,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,27.0,MALE,suffering,negative,emotions of suffering and empathy
+121,121,GerDracor/heine-william-ratcliff.xml,"da fand man
+            Am Schwarzenstein den Leichnam Macdonalds.",374,440,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,27.0,MALE,no_annotation,no_annotation,no_annotation
+122,122,GerDracor/heine-william-ratcliff.xml,Wer war der Mörder?,0,19,character_speech,1,1,,DOUGLAS.,#douglas,28.0,MALE,no_annotation,no_annotation,no_annotation
+123,123,GerDracor/heine-william-ratcliff.xml,"
+            Lange war vergeblich
+            All unser Forschen – da gestand Maria,
+            Daß sie den Mörder kenne, und erzählte:
+            In jener Nacht, die auf den Mordtag folgte,
+            Sei William Ratcliff in ihr Schlafgemach
+            Plötzlich getreten, habe lachend ihr
+            Die Hand gezeigt, noch rot vom Blut des Bräut'gams,
+            Und habe Macdonalds Verlobungsring
+            Ihr dargereicht mit zierlicher Verbeugung.",0,460,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,29.0,MALE,no_annotation,no_annotation,no_annotation
+124,124,GerDracor/heine-william-ratcliff.xml,Verruchtheit!,0,13,character_speech,1,1,,DOUGLAS.,#douglas,30.0,MALE,being moved,being moved,being moved
+125,125,GerDracor/heine-william-ratcliff.xml,Welcher Hohn!,14,27,character_speech,1,1,,DOUGLAS.,#douglas,30.0,MALE,anger,negative,emotions of rejection
+126,126,GerDracor/heine-william-ratcliff.xml,Was tatet Ihr?,28,42,character_speech,1,1,,DOUGLAS.,#douglas,30.0,MALE,no_annotation,no_annotation,no_annotation
+127,127,GerDracor/heine-william-ratcliff.xml,"
+            Ich ließ den Leichnam Macdonalds beisetzen
+            In seines eignen Schlosses Ahnengruft,
+             Und an der Stätte, wo der Mord geschah,
+            Pflanzt ich ein Kreuz, zum ewigen Gedächtnis.",0,217,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,31.0,MALE,no_annotation,no_annotation,no_annotation
+128,128,GerDracor/heine-william-ratcliff.xml,"
+            Den Mörder Ratcliff suchte ich vergebens.",0,54,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,31.0,MALE,no_annotation,no_annotation,no_annotation
+129,129,GerDracor/heine-william-ratcliff.xml,"Man hatte ihn zuletzt gesehn in London,
+            Wo er, nach seiner Mutter Tod, sein Erbteil
+            In Saus und Braus verpraßte, und nachher
+            Von Spiel und Borg, und gar, wie ein'ge sagen,
+            Vom ritterlichen Straßenraube lebte.",67,323,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,31.0,MALE,abhorrence,negative,emotions of rejection
+130,130,GerDracor/heine-william-ratcliff.xml,"
+            Verstrichen waren seit der Zeit zwei Jahre,
+            Und Mord und Mörder waren fast vergessen,
+            Da kam hierher in unser Schloß Lord Duncan,
+            Hielt bei mir an um meiner Tochter Hand.",0,219,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,31.0,MALE,no_annotation,no_annotation,no_annotation
+131,131,GerDracor/heine-william-ratcliff.xml,"Ich will'gte ein, und mir gelang es auch,
+            Marias Jawort einem Mann zu schaffen,
+            Der aus dem Stamm der Schottenkön'ge sproßt.",232,380,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,31.0,MALE,no_annotation,no_annotation,no_annotation
+132,132,GerDracor/heine-william-ratcliff.xml,Doch wehe uns!,393,407,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,31.0,MALE,abhorrence,negative,emotions of rejection
+133,133,GerDracor/heine-william-ratcliff.xml,"Bald stand am Hochaltar,
+            Festlich geschmückt, die heimlich bange Braut –
+            Und Duncan lag am Schwarzenstein erschlagen!",408,549,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,31.0,MALE,fear,negative,emotions of anxiety
+134,134,GerDracor/heine-william-ratcliff.xml,Entsetzlich!,0,12,character_speech,1,1,,DOUGLAS.,#douglas,32.0,MALE,fear,negative,emotions of anxiety
+135,135,GerDracor/heine-william-ratcliff.xml,"
+            »Auf!",0,18,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,33.0,MALE,no_annotation,no_annotation,no_annotation
+136,136,GerDracor/heine-william-ratcliff.xml,"Steigt auf zu Roß!« rief ich
+            Den Knechten, und wir jagten und wir suchten,
+            In Busch und Feld, in Wäldern und in Klüften,
+            Drei Tage lang, jedoch umsonst, wir fanden
+            Die Spur des Mörders nirgends.",19,261,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,33.0,MALE,suffering,negative,emotions of suffering and empathy
+137,137,GerDracor/heine-william-ratcliff.xml,Ach!,274,278,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,33.0,MALE,suffering,negative,emotions of suffering and empathy
+138,138,GerDracor/heine-william-ratcliff.xml,"und dennoch,
+            Dieselbe Nacht von jenem Schreckenstag
+            Schlich William Ratcliff in Mariens Kammer,
+            Verhöhnte sie, und gab ihr zierlich grüßend
+            Des Bräutigams Verlobungsring zurück.",279,504,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,33.0,MALE,no_annotation,no_annotation,no_annotation
+139,139,GerDracor/heine-william-ratcliff.xml,Bei Gott!,0,9,character_speech,1,1,,DOUGLAS.,#douglas,34.0,MALE,being moved,being moved,being moved
+140,140,GerDracor/heine-william-ratcliff.xml,der Mensch ist kühn!,10,30,character_speech,1,1,,DOUGLAS.,#douglas,34.0,MALE,"admiration, reverence",positive,emotions of affection
+141,141,GerDracor/heine-william-ratcliff.xml,den möcht ich treffen.,31,53,character_speech,1,1,,DOUGLAS.,#douglas,34.0,MALE,friendship,positive,emotions of affection
+142,142,GerDracor/heine-william-ratcliff.xml,"
+            Er war's gewiß, den Ihr schon habt getroffen
+            Im Wald bei Invernes.",0,91,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,35.0,MALE,no_annotation,no_annotation,no_annotation
+143,143,GerDracor/heine-william-ratcliff.xml,"Nur wundr' ich mich,
+            Daß keiner meiner Späher ihn gesehn; –
+            Denn, Graf, ich hab dafür gesorgt, daß ich
+            Nicht Euren Namen auch zu setzen brauche –
+            Auf das Gedächtniskreuz am Schwarzenstein.",92,328,character_speech,1,1,,MAC-GREGOR.,#mac-gregor,35.0,MALE,suffering,negative,emotions of suffering and empathy
+144,144,GerDracor/heine-william-ratcliff.xml,Er geht ab.,0,11,stage_direction,1,1,speech_part,,#mac-gregor,35.0,MALE,no_annotation,no_annotation,no_annotation
+145,145,GerDracor/heine-william-ratcliff.xml,allein.,0,7,stage_direction,1,1,speech_part,,#douglas,36.0,MALE,no_annotation,no_annotation,no_annotation
+146,146,GerDracor/heine-william-ratcliff.xml,"
+            Aus Klugheit hat's Mac-Gregor mir verschwiegen
+            Bis nach der Trauung.",0,93,character_speech,1,1,,DOUGLAS,#douglas,36.0,MALE,no_annotation,no_annotation,no_annotation
+147,147,GerDracor/heine-william-ratcliff.xml,"Oh, das ist ein Fuchs!",94,116,character_speech,1,1,,DOUGLAS,#douglas,36.0,MALE,being moved,being moved,being moved
+148,148,GerDracor/heine-william-ratcliff.xml,"Doch messen möcht ich mich mit jenem Trotzkopf,
+            Der finster grollend stets Marien ängstigt.",129,232,character_speech,1,1,,DOUGLAS,#douglas,36.0,MALE,fear,negative,emotions of anxiety
+149,149,GerDracor/heine-william-ratcliff.xml,"Mir soll er nicht den Ring vom Finger ziehen,
+            Denn wo mein Finger ist, ist auch die Hand.",245,346,character_speech,1,1,,DOUGLAS,#douglas,36.0,MALE,love,positive,emotions of affection
+150,150,GerDracor/heine-william-ratcliff.xml,"Ich liebe nicht Marien, und ich bin
+            Auch nicht geliebt von ihr.",359,434,character_speech,1,1,,DOUGLAS,#douglas,36.0,MALE,love,positive,emotions of affection
+151,151,GerDracor/heine-william-ratcliff.xml,"Die Konvenienz
+            Hat unsern heut'gen Ehebund geschlossen.",435,502,character_speech,1,1,,DOUGLAS,#douglas,36.0,MALE,no_annotation,no_annotation,no_annotation
+152,152,GerDracor/heine-william-ratcliff.xml,Doch herzlich gut bin ich dem sanften Mädchen.,515,561,character_speech,1,1,,DOUGLAS,#douglas,36.0,MALE,love,positive,emotions of affection
+153,153,GerDracor/heine-william-ratcliff.xml,Ich möcht von Dornen ihre Pfade säubern –,574,615,character_speech,1,1,,DOUGLAS,#douglas,36.0,MALE,abhorrence,negative,emotions of rejection
+154,154,GerDracor/heine-william-ratcliff.xml,"Lesley, im Mantel gehüllt und sich vorsichtig umsehend, tritt herein.",0,69,stage_direction,1,1,speech_part,,#douglas,36.0,MALE,no_annotation,no_annotation,no_annotation
+155,155,GerDracor/heine-william-ratcliff.xml,Douglas.,0,8,stage_direction,1,1,speech_part,,#douglas,36.0,MALE,no_annotation,no_annotation,no_annotation
+156,156,GerDracor/heine-william-ratcliff.xml,Lesley.,9,16,stage_direction,1,1,speech_part,,#douglas,36.0,MALE,no_annotation,no_annotation,no_annotation
+157,157,GerDracor/heine-william-ratcliff.xml,Seid Ihr Graf Douglas?,0,22,character_speech,1,1,,LESLEY.,#lesley,37.0,MALE,no_annotation,no_annotation,no_annotation
+158,158,GerDracor/heine-william-ratcliff.xml,"Ja, ich bin's, was wollt Ihr?",0,29,character_speech,1,1,,DOUGLAS.,#douglas,38.0,MALE,no_annotation,no_annotation,no_annotation
+159,159,GerDracor/heine-william-ratcliff.xml,er gibt ihm einen Brief.,0,24,stage_direction,1,1,speech_part,,#lesley,39.0,MALE,no_annotation,no_annotation,no_annotation
+160,160,GerDracor/heine-william-ratcliff.xml,So ist an Euch dies niedliche Billett.,0,38,character_speech,1,1,,LESLEY,#lesley,39.0,MALE,joy,positive,emotions of pleasure
+161,161,GerDracor/heine-william-ratcliff.xml,er hat den Brief gelesen.,0,25,stage_direction,1,1,speech_part,,#douglas,40.0,MALE,no_annotation,no_annotation,no_annotation
+162,162,GerDracor/heine-william-ratcliff.xml,"Ja, ja!",0,7,character_speech,1,1,,DOUGLAS,#douglas,40.0,MALE,no_annotation,no_annotation,no_annotation
+163,163,GerDracor/heine-william-ratcliff.xml,"Sagt ihm, ich komm.",8,27,character_speech,1,1,,DOUGLAS,#douglas,40.0,MALE,no_annotation,no_annotation,no_annotation
+164,164,GerDracor/heine-william-ratcliff.xml,Am Schwarzenstein!,28,46,character_speech,1,1,,DOUGLAS,#douglas,40.0,MALE,no_annotation,no_annotation,no_annotation
+165,165,GerDracor/heine-william-ratcliff.xml,Beide gehn ab.,0,14,stage_direction,1,1,speech_part,,#douglas,40.0,MALE,no_annotation,no_annotation,no_annotation
+166,166,GerDracor/heine-william-ratcliff.xml,Im Hintergrunde liegen schlafende Menschen.,0,43,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+167,167,GerDracor/heine-william-ratcliff.xml,Ein Heiligenbild hängt an der Wand.,44,79,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+168,168,GerDracor/heine-william-ratcliff.xml,"Die
+          Wanduhr pickt.",80,108,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+169,169,GerDracor/heine-william-ratcliff.xml,Abenddämmerung.,109,124,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+170,170,GerDracor/heine-william-ratcliff.xml,William Ratcliff sitzt brütend in einer Ecke des Zimmers.,125,182,stage_direction,1,2,pre_speech,,,,,being moved,being moved,being moved
+171,171,GerDracor/heine-william-ratcliff.xml,"In der andern Ecke sitzt Tom, der Wirt, und hält sein Söhnchen Willie zwischen den
+          Knien.",193,292,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+172,172,GerDracor/heine-william-ratcliff.xml,leise.,0,6,stage_direction,1,2,speech_part,,#tom,41.0,MALE,no_annotation,no_annotation,no_annotation
+173,173,GerDracor/heine-william-ratcliff.xml,"Willie, kannst du das Vaterunser sagen?",0,39,character_speech,1,2,,TOM,#tom,41.0,MALE,no_annotation,no_annotation,no_annotation
+174,174,GerDracor/heine-william-ratcliff.xml,lachend und laut.,0,17,stage_direction,1,2,speech_part,,#willie,42.0,MALE,joy,positive,emotions of pleasure
+175,175,GerDracor/heine-william-ratcliff.xml,Wie 'n Donnerwetter.,0,20,character_speech,1,2,,WILLIE,#willie,42.0,MALE,no_annotation,no_annotation,no_annotation
+176,176,GerDracor/heine-william-ratcliff.xml,"
+            Sprich nur nicht so laut,
+            Du weckst mir ja die müden Leute auf.",0,88,character_speech,1,2,,TOM.,#tom,43.0,MALE,no_annotation,no_annotation,no_annotation
+177,177,GerDracor/heine-william-ratcliff.xml,"Nun, soll's jetzt losgehn?",0,26,character_speech,1,2,,WILLIE.,#willie,44.0,MALE,no_annotation,no_annotation,no_annotation
+178,178,GerDracor/heine-william-ratcliff.xml,"Ja, doch nicht zu rasch.",0,24,character_speech,1,2,,TOM.,#tom,45.0,MALE,no_annotation,no_annotation,no_annotation
+179,179,GerDracor/heine-william-ratcliff.xml,schnell.,0,8,stage_direction,1,2,speech_part,,#willie,46.0,MALE,no_annotation,no_annotation,no_annotation
+180,180,GerDracor/heine-william-ratcliff.xml,"»Vater unser im Himmel, dein Name werde geheiligt.",0,50,character_speech,1,2,,WILLIE,#willie,46.0,MALE,"admiration, reverence",positive,emotions of affection
+181,181,GerDracor/heine-william-ratcliff.xml,Dein Reich komme.,51,68,character_speech,1,2,,WILLIE,#willie,46.0,MALE,no_annotation,no_annotation,no_annotation
+182,182,GerDracor/heine-william-ratcliff.xml,"Dein Wille
+            geschehe auf Erden, wie im Himmel.",69,126,character_speech,1,2,,WILLIE,#willie,46.0,MALE,no_annotation,no_annotation,no_annotation
+183,183,GerDracor/heine-william-ratcliff.xml,Gib uns unser täglich Brot immerdar.,127,163,character_speech,1,2,,WILLIE,#willie,46.0,MALE,no_annotation,no_annotation,no_annotation
+184,184,GerDracor/heine-william-ratcliff.xml,"Und vergib uns
+            unsre Sünden; denn auch wir vergeben allen, die uns schuldig sind.",164,257,character_speech,1,2,,WILLIE,#willie,46.0,MALE,no_annotation,no_annotation,no_annotation
+185,185,GerDracor/heine-william-ratcliff.xml,Und führe uns nicht –,258,279,character_speech,1,2,,WILLIE,#willie,46.0,MALE,no_annotation,no_annotation,no_annotation
+186,186,GerDracor/heine-william-ratcliff.xml,Stottert.,0,9,stage_direction,1,2,inner_speech,,#willie,46.0,MALE,no_annotation,no_annotation,no_annotation
+187,187,GerDracor/heine-william-ratcliff.xml, – führe uns nicht – führe uns nicht –«,0,39,character_speech,1,2,,WILLIE,#willie,46.0,MALE,no_annotation,no_annotation,no_annotation
+188,188,GerDracor/heine-william-ratcliff.xml,Siehst du?,0,10,character_speech,1,2,,TOM.,#tom,47.0,MALE,no_annotation,no_annotation,no_annotation
+189,189,GerDracor/heine-william-ratcliff.xml,du stotterst.,11,24,character_speech,1,2,,TOM.,#tom,47.0,MALE,fear,negative,emotions of anxiety
+190,190,GerDracor/heine-william-ratcliff.xml,»Führe uns nicht in Versuchung«; Fang wieder an von vorn.,25,82,character_speech,1,2,,TOM.,#tom,47.0,MALE,no_annotation,no_annotation,no_annotation
+191,191,GerDracor/heine-william-ratcliff.xml,sieht immer nach William Ratcliff und spricht ängstlich und unsicher.,0,69,stage_direction,1,2,speech_part,,#willie,48.0,MALE,fear,negative,emotions of anxiety
+192,192,GerDracor/heine-william-ratcliff.xml,"»Vater unser im Himmel, dein Name werde geheiligt.",0,50,character_speech,1,2,,WILLIE,#willie,48.0,MALE,"admiration, reverence",positive,emotions of affection
+193,193,GerDracor/heine-william-ratcliff.xml,Dein Reich komme.,51,68,character_speech,1,2,,WILLIE,#willie,48.0,MALE,no_annotation,no_annotation,no_annotation
+194,194,GerDracor/heine-william-ratcliff.xml,"Dein Wille
+            geschehe auf Erden, wie im Himmel.",69,126,character_speech,1,2,,WILLIE,#willie,48.0,MALE,no_annotation,no_annotation,no_annotation
+195,195,GerDracor/heine-william-ratcliff.xml,Gib uns unser täglich Brot immerdar.,127,163,character_speech,1,2,,WILLIE,#willie,48.0,MALE,no_annotation,no_annotation,no_annotation
+196,196,GerDracor/heine-william-ratcliff.xml,"Und vergib uns
+            unsre Sünden; denn auch wir vergeben allen, die uns schuldig sind.",164,257,character_speech,1,2,,WILLIE,#willie,48.0,MALE,no_annotation,no_annotation,no_annotation
+197,197,GerDracor/heine-william-ratcliff.xml,Und führe uns nicht –,258,279,character_speech,1,2,,WILLIE,#willie,48.0,MALE,no_annotation,no_annotation,no_annotation
+198,198,GerDracor/heine-william-ratcliff.xml,Stottert.,0,9,stage_direction,1,2,inner_speech,,#willie,48.0,MALE,no_annotation,no_annotation,no_annotation
+199,199,GerDracor/heine-william-ratcliff.xml, – führe uns nicht – führe uns nicht –«,0,39,character_speech,1,2,,WILLIE,#willie,48.0,MALE,no_annotation,no_annotation,no_annotation
+200,200,GerDracor/heine-william-ratcliff.xml,ärgerlich.,0,10,stage_direction,1,2,speech_part,,#tom,49.0,MALE,anger,negative,emotions of rejection
+201,201,GerDracor/heine-william-ratcliff.xml,»In Versuchung!«,0,16,character_speech,1,2,,TOM,#tom,49.0,MALE,no_annotation,no_annotation,no_annotation
+202,202,GerDracor/heine-william-ratcliff.xml,weinend.,0,8,stage_direction,1,2,speech_part,,#willie,50.0,MALE,suffering,negative,emotions of suffering and empathy
+203,203,GerDracor/heine-william-ratcliff.xml,"
+            Lieber Vater, sonst ging mir's
+            Vom Maul wie Wasser.",0,76,character_speech,1,2,,WILLIE,#willie,50.0,MALE,love,positive,emotions of affection
+204,204,GerDracor/heine-william-ratcliff.xml,Aber der dort sitzt –,77,98,character_speech,1,2,,WILLIE,#willie,50.0,MALE,no_annotation,no_annotation,no_annotation
+205,205,GerDracor/heine-william-ratcliff.xml,Er zeigt auf William Ratcliff.,0,30,stage_direction,1,2,speech_part,,#willie,50.0,MALE,no_annotation,no_annotation,no_annotation
+206,206,GerDracor/heine-william-ratcliff.xml,Der sieht mich immer an mit schlimmen Augen.,0,44,character_speech,1,2,,WILLIE,#willie,50.0,MALE,suffering,negative,emotions of suffering and empathy
+207,207,GerDracor/heine-william-ratcliff.xml,"Heut abend, Willie, kriegst du keine Fische, – –",0,48,character_speech,1,2,,TOM.,#tom,51.0,MALE,no_annotation,no_annotation,no_annotation
+208,208,GerDracor/heine-william-ratcliff.xml,Drohend.,0,8,stage_direction,1,2,speech_part,,#tom,51.0,MALE,anger,negative,emotions of rejection
+209,209,GerDracor/heine-william-ratcliff.xml,Und stiehlst du sie mir wieder aus dem Kasten –,0,47,character_speech,1,2,,TOM.,#tom,51.0,MALE,no_annotation,no_annotation,no_annotation
+210,210,GerDracor/heine-william-ratcliff.xml,weinend und im Vaterunsertone.,0,30,stage_direction,1,2,speech_part,,#willie,52.0,MALE,suffering,negative,emotions of suffering and empathy
+211,211,GerDracor/heine-william-ratcliff.xml,»Führe uns nicht in Versuchung!«,0,32,character_speech,1,2,,WILLIE,#willie,52.0,MALE,no_annotation,no_annotation,no_annotation
+212,212,GerDracor/heine-william-ratcliff.xml,"
+            Laßt nur den Buben gehn.",0,37,character_speech,1,2,,RATCLIFF.,#ratcliff,53.0,MALE,no_annotation,no_annotation,no_annotation
+213,213,GerDracor/heine-william-ratcliff.xml,"Auch ich hab nie
+            Im Kopf behalten können diese Stelle.",38,104,character_speech,1,2,,RATCLIFF.,#ratcliff,53.0,MALE,suffering,negative,emotions of suffering and empathy
+214,214,GerDracor/heine-william-ratcliff.xml,–,105,106,character_speech,1,2,,RATCLIFF.,#ratcliff,53.0,MALE,no_annotation,no_annotation,no_annotation
+215,215,GerDracor/heine-william-ratcliff.xml,Schmerzlich.,0,12,stage_direction,1,2,speech_part,,#ratcliff,53.0,MALE,suffering,negative,emotions of suffering and empathy
+216,216,GerDracor/heine-william-ratcliff.xml,–,13,14,stage_direction,1,2,speech_part,,#ratcliff,53.0,MALE,no_annotation,no_annotation,no_annotation
+217,217,GerDracor/heine-william-ratcliff.xml,»Führe uns nicht in Versuchung!«,0,32,character_speech,1,2,,RATCLIFF.,#ratcliff,53.0,MALE,no_annotation,no_annotation,no_annotation
+218,218,GerDracor/heine-william-ratcliff.xml,"
+            Auch tät mir's leid, wenn einst der Bube würde
+            Wie Ihr und diese dort.",0,95,character_speech,1,2,,TOM.,#tom,54.0,MALE,compassion,negative,emotions of suffering and empathy
+219,219,GerDracor/heine-william-ratcliff.xml,–,96,97,character_speech,1,2,,TOM.,#tom,54.0,MALE,no_annotation,no_annotation,no_annotation
+220,220,GerDracor/heine-william-ratcliff.xml,Zeigt nach den Schlafenden.,0,27,stage_direction,1,2,speech_part,,#tom,54.0,MALE,no_annotation,no_annotation,no_annotation
+221,221,GerDracor/heine-william-ratcliff.xml,–,28,29,stage_direction,1,2,speech_part,,#tom,54.0,MALE,no_annotation,no_annotation,no_annotation
+222,222,GerDracor/heine-william-ratcliff.xml,"Jetzt geh nur, Willie.",0,22,character_speech,1,2,,TOM.,#tom,54.0,MALE,no_annotation,no_annotation,no_annotation
+223,223,GerDracor/heine-william-ratcliff.xml,abgehend und weinerlich vor sich hinmurmelnd.,0,45,stage_direction,1,2,speech_part,,#willie,55.0,MALE,suffering,negative,emotions of suffering and empathy
+224,224,GerDracor/heine-william-ratcliff.xml,»Führe uns nicht in Versuchung!«,0,32,character_speech,1,2,,WILLIE,#willie,55.0,MALE,no_annotation,no_annotation,no_annotation
+225,225,GerDracor/heine-william-ratcliff.xml,lächelnd.,0,9,stage_direction,1,2,speech_part,,#ratcliff,56.0,MALE,joy,positive,emotions of pleasure
+226,226,GerDracor/heine-william-ratcliff.xml,Wie meint Ihr das?,0,18,character_speech,1,2,,RATCLIFF,#ratcliff,56.0,MALE,no_annotation,no_annotation,no_annotation
+227,227,GerDracor/heine-william-ratcliff.xml,"
+            Fromm, christlich soll er werden;
+            Kein solcher Galgenstrick wie ich, sein Vater.",0,105,character_speech,1,2,,TOM.,#tom,57.0,MALE,no_annotation,no_annotation,no_annotation
+228,228,GerDracor/heine-william-ratcliff.xml,spöttisch.,0,10,stage_direction,1,2,speech_part,,#ratcliff,58.0,MALE,abhorrence,negative,emotions of rejection
+229,229,GerDracor/heine-william-ratcliff.xml,Ihr seid so schlimm noch nicht.,0,31,character_speech,1,2,,RATCLIFF,#ratcliff,58.0,MALE,compassion,negative,emotions of suffering and empathy
+230,230,GerDracor/heine-william-ratcliff.xml,"
+            Jetzt freilich bin ich
+            Ein zahmes Tier, und zapfe Bier, ein Wirt.",0,90,character_speech,1,2,,TOM.,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+231,231,GerDracor/heine-william-ratcliff.xml,"Und weil mein Häuschen hübsch versteckt im Wald liegt,
+            Beherberg ich nur große Herrn wie Ihr,
+            Die gerne das Inkognito behaupten,
+            Am Tage schlafen und des Abends ausgehn.",103,308,character_speech,1,2,,TOM.,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+232,232,GerDracor/heine-william-ratcliff.xml,Ich gebe Tagsquartier statt Nachtquartier.,321,363,character_speech,1,2,,TOM.,#tom,59.0,MALE,anger,negative,emotions of rejection
+233,233,GerDracor/heine-william-ratcliff.xml,"Ja, einst mondsüchtelte ich auch und schwärmte",376,422,character_speech,1,2,,TOM.,#tom,59.0,MALE,love,positive,emotions of affection
+234,234,GerDracor/heine-william-ratcliff.xml,Macht eine Fingerbewegung.,0,26,stage_direction,1,2,speech_part,,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+235,235,GerDracor/heine-william-ratcliff.xml,"
+            In fremde Häuser und in fremde Taschen.",0,52,character_speech,1,2,,TOM.,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+236,236,GerDracor/heine-william-ratcliff.xml,Doch nie hab ich's so toll gemacht wie diese.,65,110,character_speech,1,2,,TOM.,#tom,59.0,MALE,"admiration, reverence",positive,emotions of affection
+237,237,GerDracor/heine-william-ratcliff.xml,Er zeigt nach den Schlafenden.,0,30,stage_direction,1,2,speech_part,,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+238,238,GerDracor/heine-william-ratcliff.xml,"
+            Seht diesen Fuchskopf.",0,35,character_speech,1,2,,TOM.,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+239,239,GerDracor/heine-william-ratcliff.xml,Das ist ein Genie!,36,54,character_speech,1,2,,TOM.,#tom,59.0,MALE,"admiration, reverence",positive,emotions of affection
+240,240,GerDracor/heine-william-ratcliff.xml,"Der hat ein angeborenes Gelüste
+            Nach fremden Taschentüchern.",67,139,character_speech,1,2,,TOM.,#tom,59.0,MALE,abhorrence,negative,emotions of rejection
+241,241,GerDracor/heine-william-ratcliff.xml,Stiehlt wie 'n Rabe.,140,160,character_speech,1,2,,TOM.,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+242,242,GerDracor/heine-william-ratcliff.xml,"Ei, seht, wie er im Schlafe hastig fingert!",173,216,character_speech,1,2,,TOM.,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+243,243,GerDracor/heine-william-ratcliff.xml,Er stiehlt sogar im Traum.,229,255,character_speech,1,2,,TOM.,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+244,244,GerDracor/heine-william-ratcliff.xml,"Seht nur, er schmunzelt.",256,280,character_speech,1,2,,TOM.,#tom,59.0,MALE,joy,positive,emotions of pleasure
+245,245,GerDracor/heine-william-ratcliff.xml,"Der Lange dort, mit magern Heuschreckbeinen,
+            War einst ein Schneider; mauste anfangs Läppchen,
+            Bald aber Lappen, endlich Stücke Tuch.",293,450,character_speech,1,2,,TOM.,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+246,246,GerDracor/heine-william-ratcliff.xml,"Mit Not ist er dem Hängen einst entronnen;
+            Seitdem hat er das Zucken in den Beinen.",463,558,character_speech,1,2,,TOM.,#tom,59.0,MALE,suffering,negative,emotions of suffering and empathy
+247,247,GerDracor/heine-william-ratcliff.xml,"Seht, wie er zappelt!",571,592,character_speech,1,2,,TOM.,#tom,59.0,MALE,anger,negative,emotions of rejection
+248,248,GerDracor/heine-william-ratcliff.xml,"Oh, ich wett, er träumt
+            Von einer Leiter, wie der Vater Jakob.",593,667,character_speech,1,2,,TOM.,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+249,249,GerDracor/heine-william-ratcliff.xml,"Doch seht mal dort den alten, dicken Robin,
+            Wie er so ruhig liegt und schnarcht, und ach!",680,781,character_speech,1,2,,TOM.,#tom,59.0,MALE,suffering,negative,emotions of suffering and empathy
+250,250,GerDracor/heine-william-ratcliff.xml,"
+            Der hat schon zehn Mordtaten auf der Seele.",0,56,character_speech,1,2,,TOM.,#tom,59.0,MALE,abhorrence,negative,emotions of rejection
+251,251,GerDracor/heine-william-ratcliff.xml,"Ja, wenn er noch katholisch wär, wie wir,
+            Und absolvieren könnt!",69,145,character_speech,1,2,,TOM.,#tom,59.0,MALE,no_annotation,no_annotation,no_annotation
+252,252,GerDracor/heine-william-ratcliff.xml,"Er ist ein Ketzer,
+            Und nach dem Hängen muß er dort noch brennen.",146,222,character_speech,1,2,,TOM.,#tom,59.0,MALE,abhorrence,negative,emotions of rejection
+253,253,GerDracor/heine-william-ratcliff.xml,"er ist immer unruhig im Zimmer auf und ab gegangen und sieht beständig nach der
+            Uhr.",0,96,stage_direction,1,2,speech_part,,#ratcliff,60.0,MALE,being moved,being moved,being moved
+254,254,GerDracor/heine-william-ratcliff.xml,"
+            Glaubt's nicht, der alte Robin wird nicht brennen.",0,63,character_speech,1,2,,RATCLIFF,#ratcliff,60.0,MALE,fear,negative,emotions of anxiety
+255,255,GerDracor/heine-william-ratcliff.xml,"Dort oben gibt es eine andre Jury
+            Als hier in Großbritannien.",76,149,character_speech,1,2,,RATCLIFF,#ratcliff,60.0,MALE,no_annotation,no_annotation,no_annotation
+256,256,GerDracor/heine-william-ratcliff.xml,"Robin ist
+            Ein Mann; und einen Mann ergreift der Zorn,
+            Wenn er betrachtet, wie die Pfennigseelen,
+            Die Buben, oft im Überflusse schwelgen,
+            In Samt und Seide schimmern, Austern schlürfen,
+            Sich in Champagner baden, in dem Bette
+            Des Doktor Graham ihre Kurzweil treiben,
+            In goldnen Wagen durch die Straßen rasseln,
+            Und stolz herabsehn auf den Hungerleider,
+            Der, mit dem letzten Hemde unterm Arm,
+            Langsam und seufzend nach dem Leihhaus wandert.",150,707,character_speech,1,2,,RATCLIFF,#ratcliff,60.0,MALE,anger,negative,emotions of rejection
+257,257,GerDracor/heine-william-ratcliff.xml,Bitter lachend.,0,15,stage_direction,1,2,speech_part,,#ratcliff,60.0,MALE,joy,positive,emotions of pleasure
+258,258,GerDracor/heine-william-ratcliff.xml,"
+            O seht mir doch die klugen, satten Leute,
+            Wie sie mit einem Walle von Gesetzen
+            Sich wohlverwahret gegen allen Andrang
+            Der schreiend überläst'gen Hungerleider!",0,207,character_speech,1,2,,RATCLIFF,#ratcliff,60.0,MALE,joy,positive,emotions of pleasure
+259,259,GerDracor/heine-william-ratcliff.xml,"Weh dem, der diesen Wall durchbricht!",220,257,character_speech,1,2,,RATCLIFF,#ratcliff,60.0,MALE,abhorrence,negative,emotions of rejection
+260,260,GerDracor/heine-william-ratcliff.xml,"Bereit sind Richter, Henker, Stricke, Galgen –
+            Je nun!",270,336,character_speech,1,2,,RATCLIFF,#ratcliff,60.0,MALE,Schadenfreude,positive,emotions of pleasure
+261,261,GerDracor/heine-william-ratcliff.xml,"manchmal gibt's Leut', die das nicht scheun.",337,381,character_speech,1,2,,RATCLIFF,#ratcliff,60.0,MALE,fear,negative,emotions of anxiety
+262,262,GerDracor/heine-william-ratcliff.xml,"
+            So dacht ich auch, und teilte ein die Menschen
+            In zwei Nationen, die sich wild bekriegen;
+            Nämlich in Satte und in Hungerleider.",0,164,character_speech,1,2,,TOM.,#tom,61.0,MALE,suffering,negative,emotions of suffering and empathy
+263,263,GerDracor/heine-william-ratcliff.xml,"Weil ich zu letzterer Partei gehörte,
+            So mußt ich mit den Satten oft mich balgen.",177,270,character_speech,1,2,,TOM.,#tom,61.0,MALE,no_annotation,no_annotation,no_annotation
+264,264,GerDracor/heine-william-ratcliff.xml,"Doch hab ich eingesehn, der Kampf ist ungleich,
+             Und zieh allmählich mich zurück vom Handwerk.",283,389,character_speech,1,2,,TOM.,#tom,61.0,MALE,no_annotation,no_annotation,no_annotation
+265,265,GerDracor/heine-william-ratcliff.xml,"Ich bin es müd': unstet herumzustreichen,
+            Niemand ins Aug' zu schaun, das Licht zu fliehn,
+            An jedem Galgen, im Vorbeigehn, ängstlich
+            Hinaufzuschaun, ob ich nicht selbst dran hänge,
+            Und nur zu träumen von Botany-Bay,
+            Vom Zuchthaus und vom ew'gen Wollespinnen.",402,720,character_speech,1,2,,TOM.,#tom,61.0,MALE,fear,negative,emotions of anxiety
+266,266,GerDracor/heine-william-ratcliff.xml,"
+            Wahrhaftig, das ist nur ein Hundeleben!",0,52,character_speech,1,2,,TOM.,#tom,61.0,MALE,suffering,negative,emotions of suffering and empathy
+267,267,GerDracor/heine-william-ratcliff.xml,"Man wird durch Busch und Feld gehetzt wie 'n Wild,
+            In jedem Baume sieht man einen Häscher,
+            Und sitzt man auch in still verborgner Kammer,
+            Erschrickt man, wenn die Tür sich öffnet –",65,281,character_speech,1,2,,TOM.,#tom,61.0,MALE,no_annotation,no_annotation,no_annotation
+268,268,GerDracor/heine-william-ratcliff.xml,Lesley tritt hastig ein.,0,24,stage_direction,1,2,speech_part,,#tom,61.0,MALE,no_annotation,no_annotation,no_annotation
+269,269,GerDracor/heine-william-ratcliff.xml,Ratcliff stürzt ihm entgegen.,25,54,stage_direction,1,2,speech_part,,#tom,61.0,MALE,fear,negative,emotions of anxiety
+270,270,GerDracor/heine-william-ratcliff.xml,"Tom fährt erschrocken zurück
+            mit dem Ausruf »Jesus«.",55,119,stage_direction,1,2,speech_part,,#tom,61.0,MALE,being moved,being moved,being moved
+271,271,GerDracor/heine-william-ratcliff.xml,Er kömmt!,0,9,character_speech,1,2,,LESLEY.,#lesley,62.0,MALE,fear,negative,emotions of anxiety
+272,272,GerDracor/heine-william-ratcliff.xml,Er kömmt!,10,19,character_speech,1,2,,LESLEY.,#lesley,62.0,MALE,fear,negative,emotions of anxiety
+273,273,GerDracor/heine-william-ratcliff.xml,Er kömmt?,0,9,character_speech,1,2,,RATCLIFF.,#ratcliff,63.0,MALE,fear,negative,emotions of anxiety
+274,274,GerDracor/heine-william-ratcliff.xml,"Wohlan, so gilt's.",10,28,character_speech,1,2,,RATCLIFF.,#ratcliff,63.0,MALE,no_annotation,no_annotation,no_annotation
+275,275,GerDracor/heine-william-ratcliff.xml,ängstlich.,0,10,stage_direction,1,2,speech_part,,#tom,64.0,MALE,fear,negative,emotions of anxiety
+276,276,GerDracor/heine-william-ratcliff.xml,Wer kömmt?,0,10,character_speech,1,2,,TOM,#tom,64.0,MALE,no_annotation,no_annotation,no_annotation
+277,277,GerDracor/heine-william-ratcliff.xml,Seit ein'ger Zeit bin ich so schreckhaft –,11,53,character_speech,1,2,,TOM,#tom,64.0,MALE,fear,negative,emotions of anxiety
+278,278,GerDracor/heine-william-ratcliff.xml,zu Tom.,0,7,stage_direction,1,2,speech_part,,#lesley,65.0,MALE,no_annotation,no_annotation,no_annotation
+279,279,GerDracor/heine-william-ratcliff.xml,"Beruh'ge dich, und laß uns jetzt allein.",0,40,character_speech,1,2,,LESLEY,#lesley,65.0,MALE,no_annotation,no_annotation,no_annotation
+280,280,GerDracor/heine-william-ratcliff.xml,mit pfiffiger Miene.,0,20,stage_direction,1,2,speech_part,,#tom,66.0,MALE,no_annotation,no_annotation,no_annotation
+281,281,GerDracor/heine-william-ratcliff.xml,Ha!,0,3,character_speech,1,2,,TOM,#tom,66.0,MALE,no_annotation,no_annotation,no_annotation
+282,282,GerDracor/heine-william-ratcliff.xml,ich versteh.,4,16,character_speech,1,2,,TOM,#tom,66.0,MALE,no_annotation,no_annotation,no_annotation
+283,283,GerDracor/heine-william-ratcliff.xml,Ihr habt jetzt was zu teilen.,17,46,character_speech,1,2,,TOM,#tom,66.0,MALE,joy,positive,emotions of pleasure
+284,284,GerDracor/heine-william-ratcliff.xml,Er geht ab.,0,11,stage_direction,1,2,speech_part,,#tom,66.0,MALE,no_annotation,no_annotation,no_annotation
+285,285,GerDracor/heine-william-ratcliff.xml,Die Vorigen ohne Tom.,0,21,stage_direction,1,2,speech_part,,#tom,66.0,MALE,no_annotation,no_annotation,no_annotation
+286,286,GerDracor/heine-william-ratcliff.xml,Er kömmt?,0,9,character_speech,1,2,,RATCLIFF.,#ratcliff,67.0,MALE,fear,negative,emotions of anxiety
+287,287,GerDracor/heine-william-ratcliff.xml,So will ich gehn.,10,27,character_speech,1,2,,RATCLIFF.,#ratcliff,67.0,MALE,no_annotation,no_annotation,no_annotation
+288,288,GerDracor/heine-william-ratcliff.xml,Er greift nach Hut und Degen.,0,29,stage_direction,1,2,speech_part,,#ratcliff,67.0,MALE,no_annotation,no_annotation,no_annotation
+289,289,GerDracor/heine-william-ratcliff.xml,hält ihn zurück.,0,16,stage_direction,1,2,speech_part,,#lesley,68.0,MALE,no_annotation,no_annotation,no_annotation
+290,290,GerDracor/heine-william-ratcliff.xml,"
+            Ho!",0,16,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,no_annotation,no_annotation,no_annotation
+291,291,GerDracor/heine-william-ratcliff.xml,ho!,17,20,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,no_annotation,no_annotation,no_annotation
+292,292,GerDracor/heine-william-ratcliff.xml,so geht's nicht.,21,37,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,anger,negative,emotions of rejection
+293,293,GerDracor/heine-william-ratcliff.xml,Erst muß es dunkler sein.,50,75,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,no_annotation,no_annotation,no_annotation
+294,294,GerDracor/heine-william-ratcliff.xml,Man paßt dir auf.,76,93,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,no_annotation,no_annotation,no_annotation
+295,295,GerDracor/heine-william-ratcliff.xml,Mac-Gregors Knechte lauern.,106,133,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,fear,negative,emotions of anxiety
+296,296,GerDracor/heine-william-ratcliff.xml,"Wie du aussiehst,
+            Weiß jedes Kind; man hat dich gut beschrieben.",134,210,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,no_annotation,no_annotation,no_annotation
+297,297,GerDracor/heine-william-ratcliff.xml,"Wahrhaftig, sag mir mal, was soll der Spaß?",223,266,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,anger,negative,emotions of rejection
+298,298,GerDracor/heine-william-ratcliff.xml,"Du suchst Gefahr, Gefahr, die dir nicht nützt.",279,325,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,no_annotation,no_annotation,no_annotation
+299,299,GerDracor/heine-william-ratcliff.xml,Geh mit zurück nach London; bist dort sicher.,338,383,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,no_annotation,no_annotation,no_annotation
+300,300,GerDracor/heine-william-ratcliff.xml,Du solltest meiden diese schlimme Gegend.,396,437,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,fear,negative,emotions of anxiety
+301,301,GerDracor/heine-william-ratcliff.xml,"Man weiß es, daß du Macdonald und Duncan
+            So abgemurkst.",450,517,character_speech,1,2,,LESLEY,#lesley,68.0,MALE,abhorrence,negative,emotions of rejection
+302,302,GerDracor/heine-william-ratcliff.xml,mit trotziger Würde.,0,20,stage_direction,1,2,speech_part,,#ratcliff,69.0,MALE,suffering,negative,emotions of suffering and empathy
+303,303,GerDracor/heine-william-ratcliff.xml,"
+            Nicht abgemurkst.",0,30,character_speech,1,2,,RATCLIFF,#ratcliff,69.0,MALE,no_annotation,no_annotation,no_annotation
+304,304,GerDracor/heine-william-ratcliff.xml,"Im Zweikampf
+            Fiel Macdonald und Duncan.",31,82,character_speech,1,2,,RATCLIFF,#ratcliff,69.0,MALE,no_annotation,no_annotation,no_annotation
+305,305,GerDracor/heine-william-ratcliff.xml,"Ehrlich focht ich;
+            Und auch mit Douglas will ich ehrlich fechten.",83,160,character_speech,1,2,,RATCLIFF,#ratcliff,69.0,MALE,no_annotation,no_annotation,no_annotation
+306,306,GerDracor/heine-william-ratcliff.xml,Erleichtre dir's.,0,17,character_speech,1,2,,LESLEY.,#lesley,70.0,MALE,no_annotation,no_annotation,no_annotation
+307,307,GerDracor/heine-william-ratcliff.xml,Verstehst ja Italienisch.,18,43,character_speech,1,2,,LESLEY.,#lesley,70.0,MALE,no_annotation,no_annotation,no_annotation
+308,308,GerDracor/heine-william-ratcliff.xml,Macht eine Banditenbewegung.,0,28,stage_direction,1,2,speech_part,,#lesley,70.0,MALE,no_annotation,no_annotation,no_annotation
+309,309,GerDracor/heine-william-ratcliff.xml,"
+            Doch sprich, wo trat dir Douglas in den Weg?",0,57,character_speech,1,2,,LESLEY.,#lesley,70.0,MALE,no_annotation,no_annotation,no_annotation
+310,310,GerDracor/heine-william-ratcliff.xml,Was tat er dir?,70,85,character_speech,1,2,,LESLEY.,#lesley,70.0,MALE,no_annotation,no_annotation,no_annotation
+311,311,GerDracor/heine-william-ratcliff.xml,"Woher dein Groll, dein Haß?",86,113,character_speech,1,2,,LESLEY.,#lesley,70.0,MALE,abhorrence,negative,emotions of rejection
+312,312,GerDracor/heine-william-ratcliff.xml,"
+            Ich sah ihn nie; ich sprach ihn nie; er tat
+            Mir niemals was zuleid'; ich haß ihn nicht.",0,112,character_speech,1,2,,RATCLIFF.,#ratcliff,71.0,MALE,abhorrence,negative,emotions of rejection
+313,313,GerDracor/heine-william-ratcliff.xml,"
+            Und doch willst du sein Lebenslicht auslöschen?",0,60,character_speech,1,2,,LESLEY.,#lesley,72.0,MALE,no_annotation,no_annotation,no_annotation
+314,314,GerDracor/heine-william-ratcliff.xml,Bist du verrückt?,73,90,character_speech,1,2,,LESLEY.,#lesley,72.0,MALE,being moved,being moved,being moved
+315,315,GerDracor/heine-william-ratcliff.xml,Bin ich verrückt?,91,108,character_speech,1,2,,LESLEY.,#lesley,72.0,MALE,being moved,being moved,being moved
+316,316,GerDracor/heine-william-ratcliff.xml,"daß ich
+            Behilflich bin zu solchem Tollhausstreich!",109,171,character_speech,1,2,,LESLEY.,#lesley,72.0,MALE,Schadenfreude,positive,emotions of pleasure
+317,317,GerDracor/heine-william-ratcliff.xml,"
+            Weh dir, wenn du begriffest solche Dinge!",0,54,character_speech,1,2,,RATCLIFF.,#ratcliff,73.0,MALE,anger,negative,emotions of rejection
+318,318,GerDracor/heine-william-ratcliff.xml,"Weh deinem Hirnfuttral, es müßte bersten,
+            Und Wahnsinn würde gucken aus den Ritzen!",67,162,character_speech,1,2,,RATCLIFF.,#ratcliff,73.0,MALE,abhorrence,negative,emotions of rejection
+319,319,GerDracor/heine-william-ratcliff.xml,"Wie eine Eierschale würde bersten
+             Dein armer Kopf, und war er so geräumig
+            Als wie die Kuppel der Sankt-Paulus-Kirche.",175,317,character_speech,1,2,,RATCLIFF.,#ratcliff,73.0,MALE,suffering,negative,emotions of suffering and empathy
+320,320,GerDracor/heine-william-ratcliff.xml,fühlt sich ironisch ängstlich den Kopf.,0,39,stage_direction,1,2,speech_part,,#lesley,74.0,MALE,fear,negative,emotions of anxiety
+321,321,GerDracor/heine-william-ratcliff.xml,Du machst mich bang; o schweige lieber still!,0,45,character_speech,1,2,,LESLEY,#lesley,74.0,MALE,fear,negative,emotions of anxiety
+322,322,GerDracor/heine-william-ratcliff.xml,"
+            Glaub nicht, ich sei ein weicher Mondscheinheld,
+            Ein Bilderjäger, der vom eignen Windhund,
+            Von Phantasie durch Nacht und Höll' gehetzt wird,
+            Ein magenkrank schwindsüchtelnder Poet,
+            Der mit den Sternen Unzucht treibt, der Leibschmerz
+            Vor Rührung kriegt, wenn Nachtigallen trillern,
+            Der sich aus Seufzern eine Leiter baut,
+            Und endlich mit dem Strick verschlungner Reime
+            Sich aufhängt an der Säule seines Ruhms.",0,517,character_speech,1,2,,RATCLIFF.,#ratcliff,75.0,MALE,suffering,negative,emotions of suffering and empathy
+323,323,GerDracor/heine-william-ratcliff.xml,Das könnt ich selbst im Notfall wohl beschwören.,0,48,character_speech,1,2,,LESLEY.,#lesley,76.0,MALE,no_annotation,no_annotation,no_annotation
+324,324,GerDracor/heine-william-ratcliff.xml,"
+            Und doch gesteh ich – spaßhaft mag dir's klingen –,
+            Es gibt entsetzlich seltsame Gewalten,
+            Die mich beherrschen; dunkle Mächte gibt's,
+            Die meinen Willen lenken, die mich treiben
+            Zu jeder Tat, die meinen Arm regieren,
+            Und die schon in der Kindheit mich umschauert.",0,336,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,being moved,being moved,being moved
+325,325,GerDracor/heine-william-ratcliff.xml,"
+            Als Knabe schon, wenn ich alleine spielte,
+            Gewahrt ich oft zwei neblichte Gestalten,
+            Die weit ausstreckten ihre Nebelarme,
+            Sehnsüchtig sich in Lieb' umfangen wollten,
+            Und doch nicht konnten, und sich schmerzlich ansahn!",0,280,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+326,326,GerDracor/heine-william-ratcliff.xml,"Wie luftig und verschwimmend sie auch schienen,
+            Bemerkt ich dennoch auf dem einen Antlitz
+            Die stolzverzerrten Züge eines Mannes,
+            Und auf dem andern milde Frauenschönheit.",293,499,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+327,327,GerDracor/heine-william-ratcliff.xml,"Oft sah ich auch im Traum die beiden Bilder,
+            Und schaute dann noch deutlicher die Züge:
+            Mit Wehmut sah mich an der Nebelmann,
+            Mit Liebe sah mich an das Nebelweib.",513,711,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,suffering,negative,emotions of suffering and empathy
+328,328,GerDracor/heine-william-ratcliff.xml,"–
+            Doch als ich auf die hohe Schule kam,
+            Zu Edinburgh, sah ich die Bilder seltner,
+            Und in dem Strudel des Studentenlebens
+            Verschwammen meine bleichen Traumgesichte.",712,923,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,no_annotation,no_annotation,no_annotation
+329,329,GerDracor/heine-william-ratcliff.xml,"Da brachte mich auf einer Ferienreise
+            Zufall hierher und nach Mac-Gregors Schloß.",936,1029,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,no_annotation,no_annotation,no_annotation
+330,330,GerDracor/heine-william-ratcliff.xml,"
+            Maria sah ich dort!",0,32,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+331,331,GerDracor/heine-william-ratcliff.xml,"Mein Herz durchzuckte
+            Ein rascher Blitz bei ihrem ersten Anblick.",33,110,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+332,332,GerDracor/heine-william-ratcliff.xml,"Es waren ja des Nebelweibes Züge,
+            Die schönen, stillen, liebefrommen Züge,
+            Die mich so oft im Traume angelächelt!",123,260,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+333,333,GerDracor/heine-william-ratcliff.xml,"Nur war Mariens Wange nicht so bleich,
+            Nur war Mariens Auge nicht so starr.",273,360,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,no_annotation,no_annotation,no_annotation
+334,334,GerDracor/heine-william-ratcliff.xml,"Die Wange blühte und das Auge blitzte;
+            Der Himmel hatte allen Liebeszauber
+            Auf dieses holde Bild herabgegossen;
+            Die Hochgebenedeite selber war
+            Gewiß nicht schöner als die Namensschwester;
+            Und von der Liebe Sehnsuchtweh ergriffen,
+            Streckt ich die Arme aus, sie zu umfangen –",373,718,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+335,335,GerDracor/heine-william-ratcliff.xml,Pause.,0,6,stage_direction,1,2,speech_part,,#ratcliff,77.0,MALE,no_annotation,no_annotation,no_annotation
+336,336,GerDracor/heine-william-ratcliff.xml,"
+            Ich weiß nicht, wie es kam: im nahen Spiegel
+            Sah ich mich selbst – Ich war der Nebelmann,
+            Der nach dem Nebelweib die Arme ausgestreckt!",0,172,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,being moved,being moved,being moved
+337,337,GerDracor/heine-william-ratcliff.xml,"
+            War's eitel Traum?",0,31,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,no_annotation,no_annotation,no_annotation
+338,338,GerDracor/heine-william-ratcliff.xml,War's Phantasientrug?,32,53,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,being moved,being moved,being moved
+339,339,GerDracor/heine-william-ratcliff.xml,"Maria sah mich an so mild, so freundlich,
+            So liebend, so verheißend!",66,146,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+340,340,GerDracor/heine-william-ratcliff.xml,"Aug' in Auge
+            Und Seel' in Seele tauchten wir.",147,204,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+341,341,GerDracor/heine-william-ratcliff.xml,O Gott!,205,212,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,being moved,being moved,being moved
+342,342,GerDracor/heine-william-ratcliff.xml,"Das dunkle Urgeheimnis meines Lebens
+            War plötzlich mir erschlossen, und verständlich
+            War mir der Sang der Vögel, und die Sprache
+            Der Blumen, und der Liebesgruß der Sterne,
+            Der Hauch des Zephirs und des Baches Murmeln,
+            Und meiner eignen Brust geheimes Seufzen!",226,545,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+343,343,GerDracor/heine-william-ratcliff.xml,"Wie Kinder jauchzten wir, und spielten wir.",558,601,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,joy,positive,emotions of pleasure
+344,344,GerDracor/heine-william-ratcliff.xml,"Wir suchten uns, und fanden uns im Garten.",614,656,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,no_annotation,no_annotation,no_annotation
+345,345,GerDracor/heine-william-ratcliff.xml,"Sie gab mir Blumen, Myrten, Locken, Küsse;
+            Die Küsse gab ich doppelt ihr zurück.",669,761,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+346,346,GerDracor/heine-william-ratcliff.xml,"Und endlich sank ich hin vor ihr aufs Knie,
+            Und bat: »O sprich, Maria, liebst du mich?«",774,873,character_speech,1,2,,RATCLIFF.,#ratcliff,77.0,MALE,love,positive,emotions of affection
+347,347,GerDracor/heine-william-ratcliff.xml,Versinkt in Träumerei.,0,22,stage_direction,1,2,speech_part,,#ratcliff,77.0,MALE,no_annotation,no_annotation,no_annotation
+348,348,GerDracor/heine-william-ratcliff.xml,"
+            Da hätt ich dich doch sehen mögen, Ratcliff,
+            Die starken Fäuste bittend fromm gefaltet,
+            Das funkelnd wilde Aug' sehnsüchtig schmachtend,
+            Und zärtlich sanft die Stimm', die auf der Landstraß'
+            Dem reichen Lord so schrecklich ins Gehör schallt.",0,302,character_speech,1,2,,LESLEY.,#lesley,78.0,MALE,love,positive,emotions of affection
+349,349,GerDracor/heine-william-ratcliff.xml,wild ausbrechend.,0,17,stage_direction,1,2,speech_part,,#ratcliff,79.0,MALE,being moved,being moved,being moved
+350,350,GerDracor/heine-william-ratcliff.xml,"
+            Verfluchte Schlang'!",0,33,character_speech,1,2,,RATCLIFF,#ratcliff,79.0,MALE,anger,negative,emotions of rejection
+351,351,GerDracor/heine-william-ratcliff.xml,"Mit seltsam scheuen Blicken
+            Und Widerwillen fast sah sie mich an,
+            Und höhnisch knicksend sprach sie frostig: »Nein!«
+            Noch hör ich's lachen unter mir: Nein!",34,225,character_speech,1,2,,RATCLIFF,#ratcliff,79.0,MALE,anger,negative,emotions of rejection
+352,352,GerDracor/heine-william-ratcliff.xml,nein!,226,231,character_speech,1,2,,RATCLIFF,#ratcliff,79.0,MALE,no_annotation,no_annotation,no_annotation
+353,353,GerDracor/heine-william-ratcliff.xml,Noch hör ich's seufzen über mir: Nein!,244,282,character_speech,1,2,,RATCLIFF,#ratcliff,79.0,MALE,suffering,negative,emotions of suffering and empathy
+354,354,GerDracor/heine-william-ratcliff.xml,nein!,283,288,character_speech,1,2,,RATCLIFF,#ratcliff,79.0,MALE,no_annotation,no_annotation,no_annotation
+355,355,GerDracor/heine-william-ratcliff.xml,Und klirrend schlagen zu des Himmels Pforte!,301,345,character_speech,1,2,,RATCLIFF,#ratcliff,79.0,MALE,suffering,negative,emotions of suffering and empathy
+356,356,GerDracor/heine-william-ratcliff.xml,Das war ja ganz infam und niederträchtig.,0,41,character_speech,1,2,,LESLEY.,#lesley,80.0,MALE,anger,negative,emotions of rejection
+357,357,GerDracor/heine-william-ratcliff.xml,"
+            Mac-Gregors Schloß verließ ich, und ich reiste
+            Von dort nach London; im Gewühl der Hauptstadt
+            Dacht ich des Herzens Qual zu übertäuben.",0,172,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,suffering,negative,emotions of suffering and empathy
+358,358,GerDracor/heine-william-ratcliff.xml,"Ich war mein eigner Herr, denn meine Eltern
+            Verlor ich früh, noch eh' ich sie gekannt hab.",186,288,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,no_annotation,no_annotation,no_annotation
+359,359,GerDracor/heine-william-ratcliff.xml,"Schlecht, schlecht gelang mir der Betäubungsplan.",301,350,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,suffering,negative,emotions of suffering and empathy
+360,360,GerDracor/heine-william-ratcliff.xml,"Portwein, Champagner, alles wollt nicht fruchten;
+            Nach jedem Glase ward mein Herz betrübter.",363,467,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,suffering,negative,emotions of suffering and empathy
+361,361,GerDracor/heine-william-ratcliff.xml,"Blondinen und Brünetten, keine konnt
+            Forttändeln und fortlächeln meinen Schmerz.",480,572,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,suffering,negative,emotions of suffering and empathy
+362,362,GerDracor/heine-william-ratcliff.xml,Sogar beim Pharo fand ich keine Ruh'.,585,622,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,suffering,negative,emotions of suffering and empathy
+363,363,GerDracor/heine-william-ratcliff.xml,"Marias Aug' schwamm auf dem grünen Tische;
+            Marias Hand bog mir die Parolis;
+            Und in dem Bild der eckigen Cœur-Dame
+            Sah ich Marias himmelschöne Züge!",635,818,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,love,positive,emotions of affection
+364,364,GerDracor/heine-william-ratcliff.xml,"Maria war's, kein dünnes Kartenblatt;
+            Maria war's, ich fühlte ihren Atem;
+            Sie winkte: ja!",831,944,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,being moved,being moved,being moved
+365,365,GerDracor/heine-william-ratcliff.xml,sie nickte: ja!,945,960,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,no_annotation,no_annotation,no_annotation
+366,366,GerDracor/heine-william-ratcliff.xml,– va banque!,961,973,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,no_annotation,no_annotation,no_annotation
+367,367,GerDracor/heine-william-ratcliff.xml,"–
+            Zum Teufel war mein Geld, die Liebe blieb.",974,1030,character_speech,1,2,,RATCLIFF.,#ratcliff,81.0,MALE,love,positive,emotions of affection
+368,368,GerDracor/heine-william-ratcliff.xml,lacht.,0,6,stage_direction,1,2,speech_part,,#lesley,82.0,MALE,joy,positive,emotions of pleasure
+369,369,GerDracor/heine-william-ratcliff.xml,"
+            Ha!",0,16,character_speech,1,2,,LESLEY,#lesley,82.0,MALE,no_annotation,no_annotation,no_annotation
+370,370,GerDracor/heine-william-ratcliff.xml,ha!,17,20,character_speech,1,2,,LESLEY,#lesley,82.0,MALE,no_annotation,no_annotation,no_annotation
+371,371,GerDracor/heine-william-ratcliff.xml,"da zogst du aus dem Stall dein Rößlein,
+            Schwangst dich hinauf, wie's Schottlands Rittern ziemt,
+            Und wie die Ahnen lebtest du vom Stegreif.",21,183,character_speech,1,2,,LESLEY,#lesley,82.0,MALE,no_annotation,no_annotation,no_annotation
+372,372,GerDracor/heine-william-ratcliff.xml,"Die Liebe ist dir jetzt gewiß vergangen;
+            Man wird schon nüchtern, wenn man oft des Nachts
+            Durch Wind und Wetter reitet, und beim Galgen
+            Vorbeikömmt, und dort gute Freunde sieht,
+            Die pendulartig mit den Beinen grüßen.",196,460,character_speech,1,2,,LESLEY,#lesley,82.0,MALE,friendship,positive,emotions of affection
+373,373,GerDracor/heine-william-ratcliff.xml,"
+            Öl kam ins Feuer.",0,30,character_speech,1,2,,RATCLIFF.,#ratcliff,83.0,MALE,anger,negative,emotions of rejection
+374,374,GerDracor/heine-william-ratcliff.xml,"Wilder nur entbrannte
+            In mir die wilde Sehnsucht nach Marien.",31,104,character_speech,1,2,,RATCLIFF.,#ratcliff,83.0,MALE,love,positive,emotions of affection
+375,375,GerDracor/heine-william-ratcliff.xml,"In England ward's mir oft zu eng; nach Schottland
+            Zog's mich mit unsichtbaren Eisenarmen.",117,218,character_speech,1,2,,RATCLIFF.,#ratcliff,83.0,MALE,suffering,negative,emotions of suffering and empathy
+376,376,GerDracor/heine-william-ratcliff.xml,"Nur in Mariens Nähe schlaf ich ruhig,
+            Und atm' ich frei, und ist mir nicht so ängstlich,
+            Und ist mir wohl – denn höre mein Geheimnis:
+             Geschworen hab ich bei dem Wort des Herrn,
+            Und bei der Macht des Himmels und der Hölle,
+            Und hab mit grausem Fluch den Schwur besiegelt –
+            »Von dieser Hand soll fallen der Vermeßne,
+            Der's wagt, Marien bräutlich zu umfangen.«
+            Die Stimm' in meiner Brust sprach diesen Schwur,
+            Und blindlings dien ich jener dunklen Macht,
+            Die mit mir kämpft, wenn ich Mariens Freiern
+            Am Schwarzenstein ein Rosenbett bereite.",231,900,character_speech,1,2,,RATCLIFF.,#ratcliff,83.0,MALE,love,positive,emotions of affection
+377,377,GerDracor/heine-william-ratcliff.xml,Jetzt erst versteh ich dich; doch bill'g ich nichts.,0,52,character_speech,1,2,,LESLEY.,#lesley,84.0,MALE,no_annotation,no_annotation,no_annotation
+378,378,GerDracor/heine-william-ratcliff.xml,"
+            Bill'g ich's denn selbst?",0,38,character_speech,1,2,,RATCLIFF.,#ratcliff,85.0,MALE,no_annotation,no_annotation,no_annotation
+379,379,GerDracor/heine-william-ratcliff.xml,"Nur jene Stimme hier,
+            Die fremde Stimm', die sich hier eingenistet,
+            Sagt: ja; nur jene Bilder nicken Beifall,
+            Die ich im Traume seh –",39,208,character_speech,1,2,,RATCLIFF.,#ratcliff,85.0,MALE,no_annotation,no_annotation,no_annotation
+380,380,GerDracor/heine-william-ratcliff.xml,Aufschreiend.,0,13,stage_direction,1,2,speech_part,,#ratcliff,85.0,MALE,fear,negative,emotions of anxiety
+381,381,GerDracor/heine-william-ratcliff.xml,–,14,15,stage_direction,1,2,speech_part,,#ratcliff,85.0,MALE,no_annotation,no_annotation,no_annotation
+382,382,GerDracor/heine-william-ratcliff.xml,"
+            Jesus Maria!",0,25,character_speech,1,2,,RATCLIFF.,#ratcliff,85.0,MALE,being moved,being moved,being moved
+383,383,GerDracor/heine-william-ratcliff.xml,Dort!,38,43,character_speech,1,2,,RATCLIFF.,#ratcliff,85.0,MALE,no_annotation,no_annotation,no_annotation
+384,384,GerDracor/heine-william-ratcliff.xml,dort!,44,49,character_speech,1,2,,RATCLIFF.,#ratcliff,85.0,MALE,no_annotation,no_annotation,no_annotation
+385,385,GerDracor/heine-william-ratcliff.xml,siehst du?,50,60,character_speech,1,2,,RATCLIFF.,#ratcliff,85.0,MALE,no_annotation,no_annotation,no_annotation
+386,386,GerDracor/heine-william-ratcliff.xml,"dort, dort!",61,72,character_speech,1,2,,RATCLIFF.,#ratcliff,85.0,MALE,no_annotation,no_annotation,no_annotation
+387,387,GerDracor/heine-william-ratcliff.xml,Die Nebelmenschen!,73,91,character_speech,1,2,,RATCLIFF.,#ratcliff,85.0,MALE,being moved,being moved,being moved
+388,388,GerDracor/heine-william-ratcliff.xml,Es ist dunkel geworden.,0,23,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+389,389,GerDracor/heine-william-ratcliff.xml,"Man sieht zwei neblichte Gestalten über die Bühne schwanken
+          und verschwinden.",24,111,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+390,390,GerDracor/heine-william-ratcliff.xml,"– Die im Hintergrunde liegenden Räuber und Gauner, durch Ratcliffs
+          Schrei aus dem Schlafe geweckt, springen auf mit dem Ausrufe.",112,250,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+391,391,GerDracor/heine-william-ratcliff.xml,Was gibt's?,0,11,character_speech,1,2,,RATCLIFF.,#alle-mehrere,86.0,MALE,no_annotation,no_annotation,no_annotation
+392,392,GerDracor/heine-william-ratcliff.xml,Was gibt's?,12,23,character_speech,1,2,,RATCLIFF.,#alle-mehrere,86.0,MALE,no_annotation,no_annotation,no_annotation
+393,393,GerDracor/heine-william-ratcliff.xml,"
+            Bist du des Teufels, Ratcliff?",0,43,character_speech,1,2,,LESLEY.,#lesley,87.0,MALE,being moved,being moved,being moved
+394,394,GerDracor/heine-william-ratcliff.xml,Ich sehe nichts.,56,72,character_speech,1,2,,LESLEY.,#lesley,87.0,MALE,no_annotation,no_annotation,no_annotation
+395,395,GerDracor/heine-william-ratcliff.xml,Was sieht er?,0,13,character_speech,1,2,,MEHRERE.,#alle-mehrere,88.0,MALE,no_annotation,no_annotation,no_annotation
+396,396,GerDracor/heine-william-ratcliff.xml,Sieht er Häscher?,14,31,character_speech,1,2,,MEHRERE.,#alle-mehrere,88.0,MALE,no_annotation,no_annotation,no_annotation
+397,397,GerDracor/heine-william-ratcliff.xml,Nein!,0,5,character_speech,1,2,,LESLEY.,#lesley,89.0,MALE,no_annotation,no_annotation,no_annotation
+398,398,GerDracor/heine-william-ratcliff.xml,"just das Gegenteil, denn Geister sieht er.",6,48,character_speech,1,2,,LESLEY.,#lesley,89.0,MALE,no_annotation,no_annotation,no_annotation
+399,399,GerDracor/heine-william-ratcliff.xml,Alle lachen.,0,12,stage_direction,1,2,speech_part,,#lesley,89.0,MALE,joy,positive,emotions of pleasure
+400,400,GerDracor/heine-william-ratcliff.xml,verdrießlich.,0,13,stage_direction,1,2,speech_part,,#robin,90.0,MALE,suffering,negative,emotions of suffering and empathy
+401,401,GerDracor/heine-william-ratcliff.xml,God damn!,0,9,character_speech,1,2,,ROBIN,#robin,90.0,MALE,no_annotation,no_annotation,no_annotation
+402,402,GerDracor/heine-william-ratcliff.xml,Man hat auch keine Ruh' am Tag.,10,41,character_speech,1,2,,ROBIN,#robin,90.0,MALE,suffering,negative,emotions of suffering and empathy
+403,403,GerDracor/heine-william-ratcliff.xml,Es dunkelt; ich will gehn.,0,26,character_speech,1,2,,RATCLIFF.,#ratcliff,91.0,MALE,no_annotation,no_annotation,no_annotation
+404,404,GerDracor/heine-william-ratcliff.xml,Ich gehe mit.,0,13,character_speech,1,2,,LESLEY.,#lesley,92.0,MALE,no_annotation,no_annotation,no_annotation
+405,405,GerDracor/heine-william-ratcliff.xml,Das leid ich nicht.,0,19,character_speech,1,2,,RATCLIFF.,#ratcliff,93.0,MALE,anger,negative,emotions of rejection
+406,406,GerDracor/heine-william-ratcliff.xml,"
+            Nur bis zum Schwarzenstein;
+            Vielleicht stehn Wachen dort.",0,82,character_speech,1,2,,LESLEY.,#lesley,94.0,MALE,no_annotation,no_annotation,no_annotation
+407,407,GerDracor/heine-william-ratcliff.xml,"
+            Die Angst treibt sie
+            Schon weg; dort ist es nicht geheu'r des Nachts.",0,94,character_speech,1,2,,RATCLIFF.,#ratcliff,95.0,MALE,fear,negative,emotions of anxiety
+408,408,GerDracor/heine-william-ratcliff.xml,"Lebt wohl, ihr Herrn!",0,21,character_speech,1,2,,LESLEY.,#lesley,96.0,MALE,suffering,negative,emotions of suffering and empathy
+409,409,GerDracor/heine-william-ratcliff.xml,Lebt wohl!,0,10,character_speech,1,2,,RATCLIFF.,#ratcliff,97.0,MALE,suffering,negative,emotions of suffering and empathy
+410,410,GerDracor/heine-william-ratcliff.xml,Gott segne euch!,0,16,character_speech,1,2,,ALLE.,#alle-mehrere,98.0,MALE,"admiration, reverence",positive,emotions of affection
+411,411,GerDracor/heine-william-ratcliff.xml,Ratcliff und Lesley gehn ab.,0,28,stage_direction,1,2,speech_part,,#alle-mehrere,98.0,MALE,no_annotation,no_annotation,no_annotation
+412,412,GerDracor/heine-william-ratcliff.xml,Die Vorigen ohne Ratcliff und Lesley.,0,37,stage_direction,1,2,speech_part,,#alle-mehrere,98.0,MALE,no_annotation,no_annotation,no_annotation
+413,413,GerDracor/heine-william-ratcliff.xml,God damn!,0,9,character_speech,1,2,,ROBIN.,#robin,99.0,MALE,no_annotation,no_annotation,no_annotation
+414,414,GerDracor/heine-william-ratcliff.xml,der ist besoffen oder toll.,10,37,character_speech,1,2,,ROBIN.,#robin,99.0,MALE,anger,negative,emotions of rejection
+415,415,GerDracor/heine-william-ratcliff.xml,"
+            So war er immer, denn ich kenn ihn noch
+            Von London her.",0,80,character_speech,1,2,,DICK.,#dick,100.0,MALE,no_annotation,no_annotation,no_annotation
+416,416,GerDracor/heine-william-ratcliff.xml,"In Rascal-Tavern hab ich
+            Ihn oft gesehn.",81,133,character_speech,1,2,,DICK.,#dick,100.0,MALE,no_annotation,no_annotation,no_annotation
+417,417,GerDracor/heine-william-ratcliff.xml,"Er pflegte stundenlang
+            Mit krauser Stirn zu sitzen in der Ecke
+            Und immer still und stumm ins Licht zu starr'n.",134,268,character_speech,1,2,,DICK.,#dick,100.0,MALE,suffering,negative,emotions of suffering and empathy
+418,418,GerDracor/heine-william-ratcliff.xml,"Oft saß er zwischen uns vergnügt und lachend –
+            Nur lacht' er gar zu hell – erzählte Späße –
+            Nur gar zu wilde Späße – und er war
+            Vergnügt und lachte – Oh, da zuckte plötzlich
+            Und gräßlich spöttisch seine Oberlippe,
+            Ein Ton des Schmerzes pfiff aus seiner Brust,
+             Und wütend sprang er auf: »Johann, mein Pferd!« –
+            Und ritt zum Teufel, und er kam nach ein'gen
+            Monaten erst zurück.",281,753,character_speech,1,2,,DICK.,#dick,100.0,MALE,suffering,negative,emotions of suffering and empathy
+419,419,GerDracor/heine-william-ratcliff.xml,"Nach Schottland, sagt man,
+            Pflegt er alsdann zu reiten, Tag und Nacht.",754,836,character_speech,1,2,,DICK.,#dick,100.0,MALE,no_annotation,no_annotation,no_annotation
+420,420,GerDracor/heine-william-ratcliff.xml,"Oh, der ist krank.",0,18,character_speech,1,2,,ROBIN.,#robin,101.0,MALE,no_annotation,no_annotation,no_annotation
+421,421,GerDracor/heine-william-ratcliff.xml,Was kümmert's mich?,0,19,character_speech,1,2,,DICK.,#dick,102.0,MALE,anger,negative,emotions of rejection
+422,422,GerDracor/heine-william-ratcliff.xml,Lebt wohl.,20,30,character_speech,1,2,,DICK.,#dick,102.0,MALE,no_annotation,no_annotation,no_annotation
+423,423,GerDracor/heine-william-ratcliff.xml,Geht ab.,0,8,stage_direction,1,2,speech_part,,#dick,102.0,MALE,no_annotation,no_annotation,no_annotation
+424,424,GerDracor/heine-william-ratcliff.xml,"Es ist schon Zeit, daß man zur Arbeit geht.",0,43,character_speech,1,2,,BILL.,#bill,103.0,MALE,no_annotation,no_annotation,no_annotation
+425,425,GerDracor/heine-william-ratcliff.xml,Betend vor dem Heiligenbilde.,0,29,stage_direction,1,2,speech_part,,#bill,103.0,MALE,suffering,negative,emotions of suffering and empathy
+426,426,GerDracor/heine-william-ratcliff.xml,Beschütz mich in Gefahr und gib mir Segen!,0,42,character_speech,1,2,,BILL.,#bill,103.0,MALE,joy,positive,emotions of pleasure
+427,427,GerDracor/heine-william-ratcliff.xml,Er und mehrere gehn ab.,0,23,stage_direction,1,2,speech_part,,#bill,103.0,MALE,no_annotation,no_annotation,no_annotation
+428,428,GerDracor/heine-william-ratcliff.xml,hält sich seine Faust vorm Gesicht.,0,35,stage_direction,1,2,speech_part,,#robin,104.0,MALE,no_annotation,no_annotation,no_annotation
+429,429,GerDracor/heine-william-ratcliff.xml,"Mein Schutzpatron, beschütz mich in Gefahr.",0,43,character_speech,1,2,,ROBIN,#robin,104.0,MALE,fear,negative,emotions of anxiety
+430,430,GerDracor/heine-william-ratcliff.xml,Geht ab.,0,8,stage_direction,1,2,speech_part,,#robin,104.0,MALE,no_annotation,no_annotation,no_annotation
+431,431,GerDracor/heine-william-ratcliff.xml,Zwei Gauner bleiben schlafend liegen.,0,37,stage_direction,1,2,speech_part,,#robin,104.0,MALE,no_annotation,no_annotation,no_annotation
+432,432,GerDracor/heine-william-ratcliff.xml,"Tom, der Wirt, schleicht herein und stiehlt
+            ihnen das Geld aus der Tasche.",38,124,stage_direction,1,2,speech_part,,#robin,104.0,MALE,no_annotation,no_annotation,no_annotation
+433,433,GerDracor/heine-william-ratcliff.xml,mit schlauer Miene.,0,19,stage_direction,1,2,speech_part,,#tom,105.0,MALE,no_annotation,no_annotation,no_annotation
+434,434,GerDracor/heine-william-ratcliff.xml,Sie dürfen mich nicht vor Gericht verklagen.,0,44,character_speech,1,2,,TOM,#tom,105.0,MALE,no_annotation,no_annotation,no_annotation
+435,435,GerDracor/heine-william-ratcliff.xml,Er geht ab.,0,11,stage_direction,1,2,speech_part,,#tom,105.0,MALE,no_annotation,no_annotation,no_annotation
+436,436,GerDracor/heine-william-ratcliff.xml,John und Taddie wachen auf.,0,27,stage_direction,1,2,speech_part,,#tom,105.0,MALE,no_annotation,no_annotation,no_annotation
+437,437,GerDracor/heine-william-ratcliff.xml,gähnend.,0,8,stage_direction,1,2,speech_part,,#john,106.0,MALE,suffering,negative,emotions of suffering and empathy
+438,438,GerDracor/heine-william-ratcliff.xml,Der Schlaf ist doch die köstlichste Erfindung!,0,46,character_speech,1,2,,JOHN,#john,106.0,MALE,joy,positive,emotions of pleasure
+439,439,GerDracor/heine-william-ratcliff.xml,gähnend.,0,8,stage_direction,1,2,speech_part,,#taddie,107.0,MALE,suffering,negative,emotions of suffering and empathy
+440,440,GerDracor/heine-william-ratcliff.xml,"Komm, John, zum Frühstück.",0,26,character_speech,1,2,,TADDIE,#taddie,107.0,MALE,no_annotation,no_annotation,no_annotation
+441,441,GerDracor/heine-william-ratcliff.xml,Frühstück!,0,10,character_speech,1,2,,JOHN.,#john,108.0,MALE,no_annotation,no_annotation,no_annotation
+442,442,GerDracor/heine-william-ratcliff.xml,Was gibt's Neues?,11,28,character_speech,1,2,,JOHN.,#john,108.0,MALE,no_annotation,no_annotation,no_annotation
+443,443,GerDracor/heine-william-ratcliff.xml,Gewiß hat man Freund Riffel heut gehängt.,0,41,character_speech,1,2,,TADDIE.,#taddie,109.0,MALE,abhorrence,negative,emotions of rejection
+444,444,GerDracor/heine-william-ratcliff.xml,Das Hängen ist die schlechteste Erfindung.,0,42,character_speech,1,2,,JOHN.,#john,110.0,MALE,no_annotation,no_annotation,no_annotation
+445,445,GerDracor/heine-william-ratcliff.xml,Trollen beide fort.,0,19,stage_direction,1,2,speech_part,,#john,110.0,MALE,no_annotation,no_annotation,no_annotation
+446,446,GerDracor/heine-william-ratcliff.xml,Links abenteuerliche Felsenmassen und Baumstämme.,0,49,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+447,447,GerDracor/heine-william-ratcliff.xml,"Rechts ein Denkmal in der Form
+          eines Kreuzes.",50,105,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+448,448,GerDracor/heine-william-ratcliff.xml,Der Wind braust.,106,122,stage_direction,1,3,pre_speech,,,,,joy,positive,emotions of pleasure
+449,449,GerDracor/heine-william-ratcliff.xml,"Man sieht zwei weiße Nebelgestalten, die sehnsüchtig die
+          Arme gegeneinander ausstrecken, sich nahen, immer wieder auseinanderfahren und endlich
+          verschwinden.",123,300,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+450,450,GerDracor/heine-william-ratcliff.xml,Ratcliff tritt auf.,301,320,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+451,451,GerDracor/heine-william-ratcliff.xml,allein.,0,7,stage_direction,1,3,speech_part,,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+452,452,GerDracor/heine-william-ratcliff.xml,"
+            Hui, wie das pfeift!",0,33,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,anger,negative,emotions of rejection
+453,453,GerDracor/heine-william-ratcliff.xml,"Die Hölle hat all ihre
+            Querpfeifer ausgesandt.",34,92,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,abhorrence,negative,emotions of rejection
+454,454,GerDracor/heine-william-ratcliff.xml,Die spielen auf.,93,109,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+455,455,GerDracor/heine-william-ratcliff.xml,"Der Mond hüllt sich in seinen weiten Plaid,
+            Und schüttelt nur ein sparsam Licht herab.",122,220,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+456,456,GerDracor/heine-william-ratcliff.xml,"
+            Ha!",0,16,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+457,457,GerDracor/heine-william-ratcliff.xml,ha!,17,20,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+458,458,GerDracor/heine-william-ratcliff.xml,meinthalb kann er sich ganz verhüllen.,21,59,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+459,459,GerDracor/heine-william-ratcliff.xml,"Denn wie's auch dunkel sei, die Schneelawine
+            Bedarf nicht der Laterne, um zu schaun,
+            Wohin sie rollen soll; es wird das Eisen
+            Den Weg zu dem Magnet von selber finden;
+            Und ohne Meilenzeiger findet Ratcliffs
+            Erprobtes Schwert den Weg zu Douglas' Brust.",72,382,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+460,460,GerDracor/heine-william-ratcliff.xml,Ob auch das Gräflein kömmt?,395,422,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+461,461,GerDracor/heine-william-ratcliff.xml,"Ob nicht der Sturm,
+            Die Furcht vor Schnupfen, Husten und Erkältung
+            Es gar zurückhält?",423,532,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,fear,negative,emotions of anxiety
+462,462,GerDracor/heine-william-ratcliff.xml,"Und es denkt vielleicht:
+            Ich will's auf morgen nacht verschieben.",533,610,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+463,463,GerDracor/heine-william-ratcliff.xml,Ha!,623,626,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+464,464,GerDracor/heine-william-ratcliff.xml,ha!,627,630,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+465,465,GerDracor/heine-william-ratcliff.xml,"–
+            Und just um diese Nacht ist's mir zu tun.",631,686,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+466,466,GerDracor/heine-william-ratcliff.xml,"Kömmt er nicht her, so komme ich zu ihm
+            Ins Schloß.",699,762,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+467,467,GerDracor/heine-william-ratcliff.xml,–,763,764,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+468,468,GerDracor/heine-william-ratcliff.xml,An sein Schwert schlagend.,0,26,stage_direction,1,3,speech_part,,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+469,469,GerDracor/heine-william-ratcliff.xml,–,27,28,stage_direction,1,3,speech_part,,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+470,470,GerDracor/heine-william-ratcliff.xml,"
+            Der Schlüssel paßt für alle Zimmer;
+             Und diese Freunde –",0,81,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+471,471,GerDracor/heine-william-ratcliff.xml,Legt die Hand an die Pistolen im Gürtel.,0,40,stage_direction,1,3,speech_part,,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+472,472,GerDracor/heine-william-ratcliff.xml,–,41,42,stage_direction,1,3,speech_part,,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+473,473,GerDracor/heine-william-ratcliff.xml,decken mir den Rücken.,0,22,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,suffering,negative,emotions of suffering and empathy
+474,474,GerDracor/heine-william-ratcliff.xml,Nimmt eine Pistole heraus und betrachtet sie.,0,45,stage_direction,1,3,speech_part,,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+475,475,GerDracor/heine-william-ratcliff.xml,"
+            Der sieht mich an so ehrlich; gerne möcht ich
+            Auf seinen Mund festdrücken meinen Mund,
+            Und drücken –
+            Ach, nach solchem Feuerkusse,
+            Da wär mir wohl, und wich' mein wildes Weh!",0,235,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,love,positive,emotions of affection
+476,476,GerDracor/heine-william-ratcliff.xml,Sinnend.,0,8,stage_direction,1,3,speech_part,,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+477,477,GerDracor/heine-william-ratcliff.xml,"
+            Vielleicht im selben Augenblick drückt Douglas
+            Gleichfalls den Mund fest auf Mariens Mund –",0,116,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,love,positive,emotions of affection
+478,478,GerDracor/heine-william-ratcliff.xml,"
+            Ha!",0,16,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+479,479,GerDracor/heine-william-ratcliff.xml,ha!,17,20,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+480,480,GerDracor/heine-william-ratcliff.xml,das ist's.,21,31,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+481,481,GerDracor/heine-william-ratcliff.xml,Deshalb darf ich nicht sterben.,32,63,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,despair,negative,emotions of anxiety
+482,482,GerDracor/heine-william-ratcliff.xml,"Ich müßt allnächtlich aus dem Grabe steigen,
+            Und als ohnmächt'ger Schatten knirschend zusehn:
+            Wie 'n Gimpel, mit dem lüstern' Mopsgesicht,
+            Beschnüffelt und begafft Mariens Reize.",76,290,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,love,positive,emotions of affection
+483,483,GerDracor/heine-william-ratcliff.xml,Ich darf nicht sterben.,303,326,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,despair,negative,emotions of anxiety
+484,484,GerDracor/heine-william-ratcliff.xml,"Kam ich in den Himmel
+            Und schaute, durch den Ritz der Himmelsdecke,
+            Zufällig in Graf Douglas' Schlafgemach –
+            Ich würde fluchen, daß den frommen Englein
+            Erblassen würden ihre roten Backen,
+            Und ängstlich in der Kehle steckenbliebe
+            Das lange, wässerige Halleluja.",327,659,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,despair,negative,emotions of anxiety
+485,485,GerDracor/heine-william-ratcliff.xml,"Und bin ich mal verdammt zur ew'gen Hölle,
+            Wohlan, so will ich auch ein Teufel sein,
+            Und nicht ein jämmerlicher, armer Sünder.",672,822,character_speech,1,3,,RATCLIFF,#ratcliff,111.0,MALE,despair,negative,emotions of anxiety
+486,486,GerDracor/heine-william-ratcliff.xml,Ratcliff.,0,9,stage_direction,1,3,speech_part,,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+487,487,GerDracor/heine-william-ratcliff.xml,Douglas.,10,18,stage_direction,1,3,speech_part,,#ratcliff,111.0,MALE,no_annotation,no_annotation,no_annotation
+488,488,GerDracor/heine-william-ratcliff.xml,"Horch, horch, ich höre Tritte!",0,30,character_speech,1,3,,RATCLIFF.,#ratcliff,112.0,MALE,fear,negative,emotions of anxiety
+489,489,GerDracor/heine-william-ratcliff.xml,–,31,32,character_speech,1,3,,RATCLIFF.,#ratcliff,112.0,MALE,no_annotation,no_annotation,no_annotation
+490,490,GerDracor/heine-william-ratcliff.xml,Ruft laut.,0,10,stage_direction,1,3,speech_part,,#ratcliff,112.0,MALE,no_annotation,no_annotation,no_annotation
+491,491,GerDracor/heine-william-ratcliff.xml,–,11,12,stage_direction,1,3,speech_part,,#ratcliff,112.0,MALE,no_annotation,no_annotation,no_annotation
+492,492,GerDracor/heine-william-ratcliff.xml,"
+            Holla!",0,19,character_speech,1,3,,RATCLIFF.,#ratcliff,112.0,MALE,being moved,being moved,being moved
+493,493,GerDracor/heine-william-ratcliff.xml,holla!,20,26,character_speech,1,3,,RATCLIFF.,#ratcliff,112.0,MALE,anger,negative,emotions of rejection
+494,494,GerDracor/heine-william-ratcliff.xml,"–
+            Wer bist du, der sich dorten naht?",27,75,character_speech,1,3,,RATCLIFF.,#ratcliff,112.0,MALE,no_annotation,no_annotation,no_annotation
+495,495,GerDracor/heine-william-ratcliff.xml,Gib Antwort!,76,88,character_speech,1,3,,RATCLIFF.,#ratcliff,112.0,MALE,no_annotation,no_annotation,no_annotation
+496,496,GerDracor/heine-william-ratcliff.xml,"
+            Die Stimm' ist mir bekannt.",0,40,character_speech,1,3,,DOUGLAS.,#douglas,113.0,MALE,no_annotation,no_annotation,no_annotation
+497,497,GerDracor/heine-william-ratcliff.xml,"Es ist die Stimme
+            Des edlen Reiters, der mich jüngst gerettet
+            Aus Räuberklaun im Wald bei Invernes.",41,164,character_speech,1,3,,DOUGLAS.,#douglas,113.0,MALE,no_annotation,no_annotation,no_annotation
+498,498,GerDracor/heine-william-ratcliff.xml,Nähert sich ihm.,0,16,stage_direction,1,3,speech_part,,#douglas,113.0,MALE,no_annotation,no_annotation,no_annotation
+499,499,GerDracor/heine-william-ratcliff.xml,"
+            Ja, ja, Ihr seid's, jetzt könnt Ihr nicht entrinnen.",0,65,character_speech,1,3,,DOUGLAS.,#douglas,113.0,MALE,joy,positive,emotions of pleasure
+500,500,GerDracor/heine-william-ratcliff.xml,Ich muß Euch danken für die edle Tat.,78,115,character_speech,1,3,,DOUGLAS.,#douglas,113.0,MALE,"admiration, reverence",positive,emotions of affection
+501,501,GerDracor/heine-william-ratcliff.xml,"
+            Oh, spart den Dank.",0,32,character_speech,1,3,,RATCLIFF.,#ratcliff,114.0,MALE,no_annotation,no_annotation,no_annotation
+502,502,GerDracor/heine-william-ratcliff.xml,"Es war nur eine Grille,
+            Daß ich Euch half.",33,87,character_speech,1,3,,RATCLIFF.,#ratcliff,114.0,MALE,no_annotation,no_annotation,no_annotation
+503,503,GerDracor/heine-william-ratcliff.xml,Drei lagen über Euch.,88,109,character_speech,1,3,,RATCLIFF.,#ratcliff,114.0,MALE,no_annotation,no_annotation,no_annotation
+504,504,GerDracor/heine-william-ratcliff.xml,Das war zuviel.,122,137,character_speech,1,3,,RATCLIFF.,#ratcliff,114.0,MALE,no_annotation,no_annotation,no_annotation
+505,505,GerDracor/heine-william-ratcliff.xml,"Wär's einer nur gewesen,
+            Bei Gott!",138,184,character_speech,1,3,,RATCLIFF.,#ratcliff,114.0,MALE,no_annotation,no_annotation,no_annotation
+506,506,GerDracor/heine-william-ratcliff.xml,ich wäre still vorbeigeritten.,185,215,character_speech,1,3,,RATCLIFF.,#ratcliff,114.0,MALE,no_annotation,no_annotation,no_annotation
+507,507,GerDracor/heine-william-ratcliff.xml,Seid nicht so grämlich.,0,23,character_speech,1,3,,DOUGLAS.,#douglas,115.0,MALE,anger,negative,emotions of rejection
+508,508,GerDracor/heine-william-ratcliff.xml,Laßt uns Freunde werden.,24,48,character_speech,1,3,,DOUGLAS.,#douglas,115.0,MALE,friendship,positive,emotions of affection
+509,509,GerDracor/heine-william-ratcliff.xml,"
+            Wohlan, es sei.",0,28,character_speech,1,3,,RATCLIFF.,#ratcliff,116.0,MALE,no_annotation,no_annotation,no_annotation
+510,510,GerDracor/heine-william-ratcliff.xml,"Doch als Beweis der Freundschaft
+            Müßt Ihr mir eine Bitte gleich gewähren.",29,114,character_speech,1,3,,RATCLIFF.,#ratcliff,116.0,MALE,no_annotation,no_annotation,no_annotation
+511,511,GerDracor/heine-william-ratcliff.xml,Sprecht nur.,0,12,character_speech,1,3,,DOUGLAS.,#douglas,117.0,MALE,no_annotation,no_annotation,no_annotation
+512,512,GerDracor/heine-william-ratcliff.xml,Mit Leib und Seel' gehör ich Euch.,13,47,character_speech,1,3,,DOUGLAS.,#douglas,117.0,MALE,love,positive,emotions of affection
+513,513,GerDracor/heine-william-ratcliff.xml,"Mein neuer Freund, verlaßt jetzt diesen Platz; –",0,48,character_speech,1,3,,RATCLIFF.,#ratcliff,118.0,MALE,no_annotation,no_annotation,no_annotation
+514,514,GerDracor/heine-william-ratcliff.xml,Lachend.,0,8,stage_direction,1,3,speech_part,,#ratcliff,118.0,MALE,joy,positive,emotions of pleasure
+515,515,GerDracor/heine-william-ratcliff.xml,–,9,10,stage_direction,1,3,speech_part,,#ratcliff,118.0,MALE,no_annotation,no_annotation,no_annotation
+516,516,GerDracor/heine-william-ratcliff.xml,"Es seie denn, daß Ihr Graf Douglas hießet.",0,42,character_speech,1,3,,RATCLIFF.,#ratcliff,118.0,MALE,no_annotation,no_annotation,no_annotation
+517,517,GerDracor/heine-william-ratcliff.xml,befremdet.,0,10,stage_direction,1,3,speech_part,,#douglas,119.0,MALE,being moved,being moved,being moved
+518,518,GerDracor/heine-william-ratcliff.xml,"Bei Gott, so heiß ich.",0,22,character_speech,1,3,,DOUGLAS,#douglas,119.0,MALE,being moved,being moved,being moved
+519,519,GerDracor/heine-william-ratcliff.xml,Was?,0,4,character_speech,1,3,,RATCLIFF.,#ratcliff,120.0,MALE,no_annotation,no_annotation,no_annotation
+520,520,GerDracor/heine-william-ratcliff.xml,Ihr heißt Graf Douglas?,5,28,character_speech,1,3,,RATCLIFF.,#ratcliff,120.0,MALE,being moved,being moved,being moved
+521,521,GerDracor/heine-william-ratcliff.xml,Lachend.,0,8,stage_direction,1,3,speech_part,,#ratcliff,120.0,MALE,joy,positive,emotions of pleasure
+522,522,GerDracor/heine-william-ratcliff.xml,"
+            Oh, das ist schlimm, so ist es ja schon aus
+            Mit unsrer hübschen, neugebacknen Freundschaft;
+            Denn wißt, Herr Graf, ich heiße – William Ratcliff.",0,180,character_speech,1,3,,RATCLIFF.,#ratcliff,120.0,MALE,no_annotation,no_annotation,no_annotation
+523,523,GerDracor/heine-william-ratcliff.xml,wild und das Schwert ziehend.,0,29,stage_direction,1,3,speech_part,,#douglas,121.0,MALE,abhorrence,negative,emotions of rejection
+524,524,GerDracor/heine-william-ratcliff.xml,Du bist der Mörder Macdonalds und Duncans?,0,42,character_speech,1,3,,DOUGLAS,#douglas,121.0,MALE,being moved,being moved,being moved
+525,525,GerDracor/heine-william-ratcliff.xml,zieht sein Schwert.,0,19,stage_direction,1,3,speech_part,,#ratcliff,122.0,MALE,no_annotation,no_annotation,no_annotation
+526,526,GerDracor/heine-william-ratcliff.xml,"
+            Ich bin's, und um das Kleeblatt vollzumachen,
+            Hab ich auch Euch, Herr Graf, hierher beschieden.",0,120,character_speech,1,3,,RATCLIFF,#ratcliff,122.0,MALE,no_annotation,no_annotation,no_annotation
+527,527,GerDracor/heine-william-ratcliff.xml,stürzt auf ihn ein.,0,19,stage_direction,1,3,speech_part,,#douglas,123.0,MALE,no_annotation,no_annotation,no_annotation
+528,528,GerDracor/heine-william-ratcliff.xml,"Verruchter Mörder, wehr dich deiner Haut.",0,41,character_speech,1,3,,DOUGLAS,#douglas,123.0,MALE,abhorrence,negative,emotions of rejection
+529,529,GerDracor/heine-william-ratcliff.xml,Gefecht.,0,8,stage_direction,1,3,speech_part,,#douglas,123.0,MALE,no_annotation,no_annotation,no_annotation
+530,530,GerDracor/heine-william-ratcliff.xml,Ha!,0,3,character_speech,1,3,,RATCLIFF.,#ratcliff,124.0,MALE,no_annotation,no_annotation,no_annotation
+531,531,GerDracor/heine-william-ratcliff.xml,ha!,4,7,character_speech,1,3,,RATCLIFF.,#ratcliff,124.0,MALE,no_annotation,no_annotation,no_annotation
+532,532,GerDracor/heine-william-ratcliff.xml,"ich schlag, so gut ich kann.",8,36,character_speech,1,3,,RATCLIFF.,#ratcliff,124.0,MALE,no_annotation,no_annotation,no_annotation
+533,533,GerDracor/heine-william-ratcliff.xml,Ha!,37,40,character_speech,1,3,,RATCLIFF.,#ratcliff,124.0,MALE,no_annotation,no_annotation,no_annotation
+534,534,GerDracor/heine-william-ratcliff.xml,ha!,41,44,character_speech,1,3,,RATCLIFF.,#ratcliff,124.0,MALE,no_annotation,no_annotation,no_annotation
+535,535,GerDracor/heine-william-ratcliff.xml,Lach nicht so gräßlich auf.,0,27,character_speech,1,3,,DOUGLAS.,#douglas,125.0,MALE,anger,negative,emotions of rejection
+536,536,GerDracor/heine-william-ratcliff.xml,lachend.,0,8,stage_direction,1,3,speech_part,,#ratcliff,126.0,MALE,joy,positive,emotions of pleasure
+537,537,GerDracor/heine-william-ratcliff.xml,"
+            Ich lache nicht,
+            Das tun die bleichen Nebelmenschen dort –",0,83,character_speech,1,3,,RATCLIFF,#ratcliff,126.0,MALE,no_annotation,no_annotation,no_annotation
+538,538,GerDracor/heine-william-ratcliff.xml,"
+            Lach, wie du willst.",0,33,character_speech,1,3,,DOUGLAS.,#douglas,127.0,MALE,joy,positive,emotions of pleasure
+539,539,GerDracor/heine-william-ratcliff.xml,"Ihr, Schatten Macdonalds
+            Und Duncans, steht mir bei!",34,98,character_speech,1,3,,DOUGLAS.,#douglas,127.0,MALE,"admiration, reverence",positive,emotions of affection
+540,540,GerDracor/heine-william-ratcliff.xml,"
+            Teufel und Hölle!",0,30,character_speech,1,3,,RATCLIFF.,#ratcliff,128.0,MALE,abhorrence,negative,emotions of rejection
+541,541,GerDracor/heine-william-ratcliff.xml,Der tote Duncan fängt die Quarten auf.,43,81,character_speech,1,3,,RATCLIFF.,#ratcliff,128.0,MALE,no_annotation,no_annotation,no_annotation
+542,542,GerDracor/heine-william-ratcliff.xml,"Misch dich nicht ein, verfluchter toter Fechter!",94,142,character_speech,1,3,,RATCLIFF.,#ratcliff,128.0,MALE,abhorrence,negative,emotions of rejection
+543,543,GerDracor/heine-william-ratcliff.xml,Ha!,0,3,character_speech,1,3,,DOUGLAS.,#douglas,129.0,MALE,no_annotation,no_annotation,no_annotation
+544,544,GerDracor/heine-william-ratcliff.xml,ha!,4,7,character_speech,1,3,,DOUGLAS.,#douglas,129.0,MALE,no_annotation,no_annotation,no_annotation
+545,545,GerDracor/heine-william-ratcliff.xml,"der Hieb, der saß!",8,26,character_speech,1,3,,DOUGLAS.,#douglas,129.0,MALE,joy,positive,emotions of pleasure
+546,546,GerDracor/heine-william-ratcliff.xml,"
+            Tod und Verrat!",0,28,character_speech,1,3,,RATCLIFF.,#ratcliff,130.0,MALE,despair,negative,emotions of anxiety
+547,547,GerDracor/heine-william-ratcliff.xml,"Jetzt kommt der Macdonald noch obendrein –
+            Das ist zuviel – Drei gegen einen –",41,131,character_speech,1,3,,RATCLIFF.,#ratcliff,130.0,MALE,anger,negative,emotions of rejection
+548,548,GerDracor/heine-william-ratcliff.xml,Er weicht zurück und stolpert über das Piedestal des Monuments.,0,63,stage_direction,1,3,speech_part,,#ratcliff,130.0,MALE,fear,negative,emotions of anxiety
+549,549,GerDracor/heine-william-ratcliff.xml,"
+            Ha!",0,16,character_speech,1,3,,RATCLIFF.,#ratcliff,130.0,MALE,no_annotation,no_annotation,no_annotation
+550,550,GerDracor/heine-william-ratcliff.xml,Fluch und Verdammnis!,29,50,character_speech,1,3,,RATCLIFF.,#ratcliff,130.0,MALE,abhorrence,negative,emotions of rejection
+551,551,GerDracor/heine-william-ratcliff.xml,"Ratcliff liegt am Boden –
+            Stoßt zu, stoßt zu!",51,108,character_speech,1,3,,RATCLIFF.,#ratcliff,130.0,MALE,fear,negative,emotions of anxiety
+552,552,GerDracor/heine-william-ratcliff.xml,ich bin Eu'r größter Feind.,109,136,character_speech,1,3,,RATCLIFF.,#ratcliff,130.0,MALE,abhorrence,negative,emotions of rejection
+553,553,GerDracor/heine-william-ratcliff.xml,kalt.,0,5,stage_direction,1,3,speech_part,,#douglas,131.0,MALE,suffering,negative,emotions of suffering and empathy
+554,554,GerDracor/heine-william-ratcliff.xml,"
+            Ihr habt jetzund des Douglas Schwert erprobt.",0,58,character_speech,1,3,,DOUGLAS,#douglas,131.0,MALE,no_annotation,no_annotation,no_annotation
+555,555,GerDracor/heine-william-ratcliff.xml,Vielleicht verdankte ich Euch jüngst das Leben.,71,118,character_speech,1,3,,DOUGLAS,#douglas,131.0,MALE,no_annotation,no_annotation,no_annotation
+556,556,GerDracor/heine-william-ratcliff.xml,Jetzt sollt Ihr's mir verdanken.,131,163,character_speech,1,3,,DOUGLAS,#douglas,131.0,MALE,joy,positive,emotions of pleasure
+557,557,GerDracor/heine-william-ratcliff.xml,Wir sind quitt.,164,179,character_speech,1,3,,DOUGLAS,#douglas,131.0,MALE,anger,negative,emotions of rejection
+558,558,GerDracor/heine-william-ratcliff.xml,"Ich denk, Ihr kennt mich jetzt, und die Lektion
+            Hat Euch vielleicht das böse Herz gebessert.",192,296,character_speech,1,3,,DOUGLAS,#douglas,131.0,MALE,no_annotation,no_annotation,no_annotation
+559,559,GerDracor/heine-william-ratcliff.xml,Er geht stolz ab.,0,17,stage_direction,1,3,speech_part,,#douglas,131.0,MALE,"admiration, reverence",positive,emotions of affection
+560,560,GerDracor/heine-william-ratcliff.xml,Ratcliff liegt regungslos am Fuße des Monuments.,0,48,stage_direction,1,3,speech_part,,#douglas,131.0,MALE,no_annotation,no_annotation,no_annotation
+561,561,GerDracor/heine-william-ratcliff.xml,Der Wind heult wilder.,49,71,stage_direction,1,3,speech_part,,#douglas,131.0,MALE,fear,negative,emotions of anxiety
+562,562,GerDracor/heine-william-ratcliff.xml,"Die zwei
+            Nebelgestalten erscheinen, nahen sich mit ausgestreckten Armen, fahren wieder
+            auseinander und verschwinden.",72,212,stage_direction,1,3,speech_part,,#douglas,131.0,MALE,no_annotation,no_annotation,no_annotation
+563,563,GerDracor/heine-william-ratcliff.xml,er steht langsam und betäubt auf.,0,33,stage_direction,1,3,speech_part,,#ratcliff,132.0,MALE,suffering,negative,emotions of suffering and empathy
+564,564,GerDracor/heine-william-ratcliff.xml,"
+            War's eine Menschenstimme?",0,39,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+565,565,GerDracor/heine-william-ratcliff.xml,War's der Wind?,40,55,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+566,566,GerDracor/heine-william-ratcliff.xml,Ein wahnsinnschwangres Wort summt mir im Ohr.,68,113,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,being moved,being moved,being moved
+567,567,GerDracor/heine-william-ratcliff.xml,War es ein toller Traum?,126,150,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+568,568,GerDracor/heine-william-ratcliff.xml,Wo bin ich denn?,151,167,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+569,569,GerDracor/heine-william-ratcliff.xml,"Was ist das für ein Kreuz, und was steht drauf?",180,227,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+570,570,GerDracor/heine-william-ratcliff.xml,Er liest die Inschrift des Monuments.,0,37,stage_direction,1,3,speech_part,,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+571,571,GerDracor/heine-william-ratcliff.xml,"
+            »Graf Duncan und Lord Macdonald sind hier
+            Von gottverfluchter Hand ermordet worden.«",0,109,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+572,572,GerDracor/heine-william-ratcliff.xml,Auffahrend.,0,11,stage_direction,1,3,speech_part,,#ratcliff,132.0,MALE,being moved,being moved,being moved
+573,573,GerDracor/heine-william-ratcliff.xml,"
+            Es ist kein Traum.",0,31,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+574,574,GerDracor/heine-william-ratcliff.xml,"Ich bin am Schwarzenstein,
+            Und bin besiegt, verspottet und verachtet!",32,113,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,suffering,negative,emotions of suffering and empathy
+575,575,GerDracor/heine-william-ratcliff.xml,"Boshafte Winde kichern mir ins Ohr:
+            »Hier steht der Mann, der starke Riesengeist,
+            Der Großbritanniens Menschen und Gesetze
+            Verhöhnt, der trotzig mit dem Himmel rechtet –
+            Nun kann er's nicht verhindern, daß Graf Douglas
+            Heut nacht in seines Liebchens Armen liegt,
+            Und lachend ihr erzählet, wie der Wurm,
+            Der William Ratcliff heißt, am Schwarzenstein
+            Sich krümmte, jämmerlich am Boden krümmte,
+             Und wie des Douglas Fuß ihn nicht zertreten,
+            Um sich nicht zu besudeln« –",126,712,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,abhorrence,negative,emotions of rejection
+576,576,GerDracor/heine-william-ratcliff.xml,In Wut ausbrechend.,0,19,stage_direction,1,3,speech_part,,#ratcliff,132.0,MALE,anger,negative,emotions of rejection
+577,577,GerDracor/heine-william-ratcliff.xml,–,20,21,stage_direction,1,3,speech_part,,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+578,578,GerDracor/heine-william-ratcliff.xml,"
+            Oh, verfluchte,
+            Verdammte Hexen, lacht nicht so entsetzlich,
+            Reibt nicht verhöhnend eure Zeigefinger!",0,138,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,abhorrence,negative,emotions of rejection
+579,579,GerDracor/heine-william-ratcliff.xml,"Ich werfe Felsen auf eu'r scheußlich Haupt,
+            Ich reiße Schottlands Tannenwälder aus,
+            Und geißle euch damit den gelben Rücken,
+            Und mit dem Fuß stampf ich das schwarze Gift
+            Aus euren dürren, gottverhaßten Leibern!",151,409,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,abhorrence,negative,emotions of rejection
+580,580,GerDracor/heine-william-ratcliff.xml,"Nordwind, zerzause und zerreiß die Welt!",422,462,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,abhorrence,negative,emotions of rejection
+581,581,GerDracor/heine-william-ratcliff.xml,"Brich, Himmelsdecke, und zermalme mich!",475,514,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,despair,negative,emotions of anxiety
+582,582,GerDracor/heine-william-ratcliff.xml,"Erde, vernachte und verschlinge mich!",527,564,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,suffering,negative,emotions of suffering and empathy
+583,583,GerDracor/heine-william-ratcliff.xml,"Halb wild, halb ängstlich, und in einen geheimnisvollen Ton übergehend.",0,71,stage_direction,1,3,speech_part,,#ratcliff,132.0,MALE,fear,negative,emotions of anxiety
+584,584,GerDracor/heine-william-ratcliff.xml,"
+            Verdammter Doppelgänger, Nebelmensch,
+            Anglotze mich nicht mit den stieren Augen –
+            Mit deinen Augen saugst du aus mein Blut,
+            Erstarren machst du mich, Eiswasser gießt du
+            In meine glühnden Adern, machst mich selbst
+            Zum toten Nachtgespenst – du zeigst dorthin?",0,330,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,despair,negative,emotions of anxiety
+585,585,GerDracor/heine-william-ratcliff.xml,Mit langem Nebelarm zeigst du dorthin?,343,381,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+586,586,GerDracor/heine-william-ratcliff.xml,Soll ich?,394,403,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+587,587,GerDracor/heine-william-ratcliff.xml,Marie?,404,410,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,being moved,being moved,being moved
+588,588,GerDracor/heine-william-ratcliff.xml,Die weiße Taube?,411,427,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+589,589,GerDracor/heine-william-ratcliff.xml,Blut?,428,433,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,being moved,being moved,being moved
+590,590,GerDracor/heine-william-ratcliff.xml,Soll ich?,446,455,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+591,591,GerDracor/heine-william-ratcliff.xml,"Holla, wer spricht?",456,475,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,being moved,being moved,being moved
+592,592,GerDracor/heine-william-ratcliff.xml,Das war kein Wind.,476,494,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+593,593,GerDracor/heine-william-ratcliff.xml,Maria soll ich mit mir nehmen?,507,537,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+594,594,GerDracor/heine-william-ratcliff.xml,Nickst du?,538,548,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+595,595,GerDracor/heine-william-ratcliff.xml,"Es sei, es sei, mein Wille ist von Eisen,
+            Und ist allmächt'ger noch als Gott und Teufel.",561,661,character_speech,1,3,,RATCLIFF,#ratcliff,132.0,MALE,love,positive,emotions of affection
+596,596,GerDracor/heine-william-ratcliff.xml,Er stürzt fort.,0,15,stage_direction,1,3,speech_part,,#ratcliff,132.0,MALE,no_annotation,no_annotation,no_annotation
+597,597,GerDracor/heine-william-ratcliff.xml,Erleuchtetes Zimmer mit einem verhängten Kabinette in der Mitte.,0,64,stage_direction,1,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+598,598,GerDracor/heine-william-ratcliff.xml,"Man hört verhallende
+          Tanzmusik und Mädchengekicher.",65,126,stage_direction,1,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+599,599,GerDracor/heine-william-ratcliff.xml,"Maria, festlich geschmückt, und Margarete treten eben
+          herein.",127,198,stage_direction,1,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+600,600,GerDracor/heine-william-ratcliff.xml,Ach Gott!,0,9,character_speech,1,4,,MARIA.,#maria,133.0,FEMALE,being moved,being moved,being moved
+601,601,GerDracor/heine-william-ratcliff.xml,mir ist so ängstlich –,10,32,character_speech,1,4,,MARIA.,#maria,133.0,FEMALE,fear,negative,emotions of anxiety
+602,602,GerDracor/heine-william-ratcliff.xml,"
+            's tut der Schnürleib.",0,35,character_speech,1,4,,MARGARETE.,#margarete,134.0,FEMALE,no_annotation,no_annotation,no_annotation
+603,603,GerDracor/heine-william-ratcliff.xml,"Komm her, ich will dich ausziehn, liebes Püppchen.",48,98,character_speech,1,4,,MARGARETE.,#margarete,134.0,FEMALE,love,positive,emotions of affection
+604,604,GerDracor/heine-william-ratcliff.xml,Sie hilft Marien beim Auskleiden.,0,33,stage_direction,1,4,speech_part,,#margarete,134.0,FEMALE,no_annotation,no_annotation,no_annotation
+605,605,GerDracor/heine-william-ratcliff.xml,Das Herz ist mir beklommen.,0,27,character_speech,1,4,,MARIA.,#maria,135.0,FEMALE,being moved,being moved,being moved
+606,606,GerDracor/heine-william-ratcliff.xml,"
+            Ei, mein Püppchen,
+            Graf Douglas ist ein hübscher Mann.",0,79,character_speech,1,4,,MARGARETE.,#margarete,136.0,FEMALE,"admiration, reverence",positive,emotions of affection
+607,607,GerDracor/heine-william-ratcliff.xml,heiter lachend.,0,15,stage_direction,1,4,speech_part,,#maria,137.0,FEMALE,joy,positive,emotions of pleasure
+608,608,GerDracor/heine-william-ratcliff.xml,"
+            Das ist er!",0,24,character_speech,1,4,,MARIA,#maria,137.0,FEMALE,no_annotation,no_annotation,no_annotation
+609,609,GerDracor/heine-william-ratcliff.xml,"Und lustig, und verträglich, und ein Mann!",37,79,character_speech,1,4,,MARIA,#maria,137.0,FEMALE,being moved,being moved,being moved
+610,610,GerDracor/heine-william-ratcliff.xml,Ist Püppchen auch verliebt?,0,27,character_speech,1,4,,MARGARETE.,#margarete,138.0,FEMALE,love,positive,emotions of affection
+611,611,GerDracor/heine-william-ratcliff.xml,"
+            Verliebt?",0,22,character_speech,1,4,,MARIA.,#maria,139.0,FEMALE,love,positive,emotions of affection
+612,612,GerDracor/heine-william-ratcliff.xml,verliebt?,23,32,character_speech,1,4,,MARIA.,#maria,139.0,FEMALE,love,positive,emotions of affection
+613,613,GerDracor/heine-william-ratcliff.xml,"Oh, das ist dumm.",45,62,character_speech,1,4,,MARIA.,#maria,139.0,FEMALE,no_annotation,no_annotation,no_annotation
+614,614,GerDracor/heine-william-ratcliff.xml,Man muß sich leiden können.,63,90,character_speech,1,4,,MARIA.,#maria,139.0,FEMALE,friendship,positive,emotions of affection
+615,615,GerDracor/heine-william-ratcliff.xml,Man sprach nicht immer so.,0,26,character_speech,1,4,,MARGARETE.,#margarete,140.0,FEMALE,no_annotation,no_annotation,no_annotation
+616,616,GerDracor/heine-william-ratcliff.xml,Als William Ratcliff –,27,49,character_speech,1,4,,MARGARETE.,#margarete,140.0,FEMALE,no_annotation,no_annotation,no_annotation
+617,617,GerDracor/heine-william-ratcliff.xml,hält ihr ängstlich den Mund zu.,0,31,stage_direction,1,4,speech_part,,#maria,141.0,FEMALE,fear,negative,emotions of anxiety
+618,618,GerDracor/heine-william-ratcliff.xml,"
+            Oh, bitte, bitte, bitte, sprich nicht aus
+            Den bösen Namen, es ist Nacht und spät –",0,107,character_speech,1,4,,MARIA,#maria,141.0,FEMALE,fear,negative,emotions of anxiety
+619,619,GerDracor/heine-william-ratcliff.xml,Mein Püppchen war verliebt.,0,27,character_speech,1,4,,MARGARETE.,#margarete,142.0,FEMALE,love,positive,emotions of affection
+620,620,GerDracor/heine-william-ratcliff.xml,"
+            Ach nein!",0,22,character_speech,1,4,,MARIA.,#maria,143.0,FEMALE,no_annotation,no_annotation,no_annotation
+621,621,GerDracor/heine-william-ratcliff.xml,"Im Anfang,
+            Da schien er lämmchensanft, und sein Gesicht,
+            Das schien mir so bekannt, und seine Stimme
+            Klang mir so weich, und auch sein Odem
+            Tat meiner Wange heimlich wohl, sein Auge,
+            Das schaute gar zu spaßhaft lieb und fromm –",23,310,character_speech,1,4,,MARIA.,#maria,143.0,FEMALE,love,positive,emotions of affection
+622,622,GerDracor/heine-william-ratcliff.xml,Zusammenschauernd.,0,18,stage_direction,1,4,speech_part,,#maria,143.0,FEMALE,being moved,being moved,being moved
+623,623,GerDracor/heine-william-ratcliff.xml,"
+            Doch plötzlich sah er aus wie ein Gespenst,
+            So blaß, so starr und wild verzerrt und blutig,
+            Und drohend grimm, als wollt er mich ermorden –
+            Er sah fast ähnlich jenem Nebelmann,
+            Der oft im Traum die Arme nach mir ausstreckt,
+            Und mich so lang entsetzlich zärtlich anschaut,
+            Bis daß ich selbst ein luft'ges Bildnis werde,
+            Und neblicht selbst ausbreite meine Arme.",0,457,character_speech,1,4,,MARIA.,#maria,143.0,FEMALE,fear,negative,emotions of anxiety
+624,624,GerDracor/heine-william-ratcliff.xml,"
+            Du bist doch just wie deine sel'ge Mutter;
+            Sie tat so bös, und doch wie eine Katz'
+            War sie verliebt in Ratcliff –",0,150,character_speech,1,4,,MARGARETE.,#margarete,144.0,FEMALE,love,positive,emotions of affection
+625,625,GerDracor/heine-william-ratcliff.xml,"Wie, in Ratcliff?",0,17,character_speech,1,4,,MARIA.,#maria,145.0,FEMALE,no_annotation,no_annotation,no_annotation
+626,626,GerDracor/heine-william-ratcliff.xml,"
+            In Edward Ratcliff, William Ratcliffs Vater –
+            Oh, deine Mutter war so hübsch, so hübsch!",0,113,character_speech,1,4,,MARGARETE.,#margarete,146.0,FEMALE,no_annotation,no_annotation,no_annotation
+627,627,GerDracor/heine-william-ratcliff.xml,Sie hieß Schön-Betty.,126,147,character_speech,1,4,,MARGARETE.,#margarete,146.0,FEMALE,no_annotation,no_annotation,no_annotation
+628,628,GerDracor/heine-william-ratcliff.xml,"Locken hatte sie
+            Wie pures Gold, und Händ' wie Marmelstein,
+            Und Augen – Oh, die kannte Edward Ratcliff!",148,275,character_speech,1,4,,MARGARETE.,#margarete,146.0,FEMALE,"admiration, reverence",positive,emotions of affection
+629,629,GerDracor/heine-william-ratcliff.xml,"Der sah den ganzen Tag hinein, und hat
+            Sich fast die eignen Augen ausgeguckt –
+            Und singen konnt sie wie die Nachtigall;
+            Und wenn sie an dem Herde saß und sang:",288,483,character_speech,1,4,,MARGARETE.,#margarete,146.0,FEMALE,no_annotation,no_annotation,no_annotation
+630,630,GerDracor/heine-william-ratcliff.xml,Sie singt.,0,10,stage_direction,1,4,speech_part,,#margarete,146.0,FEMALE,no_annotation,no_annotation,no_annotation
+631,631,GerDracor/heine-william-ratcliff.xml,"
+             »Was ist von Blut dein Schwert so rot, Edward?",0,60,character_speech,1,4,,MARGARETE.,#margarete,146.0,FEMALE,no_annotation,no_annotation,no_annotation
+632,632,GerDracor/heine-william-ratcliff.xml,"Edward?«
+            So blieb die Köchin stillstehn, und der Braten
+            Verbrannte jedesmal – Ach Gott!",61,172,character_speech,1,4,,MARGARETE.,#margarete,146.0,FEMALE,suffering,negative,emotions of suffering and empathy
+633,633,GerDracor/heine-william-ratcliff.xml,"ich wollte,
+            Ich hätt ihr nie das böse Lied gelehrt.",173,236,character_speech,1,4,,MARGARETE.,#margarete,146.0,FEMALE,anger,negative,emotions of rejection
+634,634,GerDracor/heine-william-ratcliff.xml,–,237,238,character_speech,1,4,,MARGARETE.,#margarete,146.0,FEMALE,no_annotation,no_annotation,no_annotation
+635,635,GerDracor/heine-william-ratcliff.xml,Sie weint.,0,10,stage_direction,1,4,speech_part,,#margarete,146.0,FEMALE,suffering,negative,emotions of suffering and empathy
+636,636,GerDracor/heine-william-ratcliff.xml,"Oh, liebe Margarete, o erzähl mir das.",0,38,character_speech,1,4,,MARIA.,#maria,147.0,FEMALE,no_annotation,no_annotation,no_annotation
+637,637,GerDracor/heine-william-ratcliff.xml,"
+            Schön-Betty, deine Mutter, saß allein
+            Und sang: –",0,74,character_speech,1,4,,MARGARETE.,#margarete,148.0,FEMALE,no_annotation,no_annotation,no_annotation
+638,638,GerDracor/heine-william-ratcliff.xml,Sie singt.,0,10,stage_direction,1,4,speech_part,,#margarete,148.0,FEMALE,no_annotation,no_annotation,no_annotation
+639,639,GerDracor/heine-william-ratcliff.xml,"
+            »Wie ist von Blut dein Schwert so rot,
+            Edward?",0,71,character_speech,1,4,,MARGARETE.,#margarete,148.0,FEMALE,no_annotation,no_annotation,no_annotation
+640,640,GerDracor/heine-william-ratcliff.xml,"Edward?« –
+            Da sprang ins Zimmer plötzlich Edward Ratcliff,
+            Und sang im selben Tone trotzig weiter: –",72,196,character_speech,1,4,,MARGARETE.,#margarete,148.0,FEMALE,anger,negative,emotions of rejection
+641,641,GerDracor/heine-william-ratcliff.xml,Sie singt.,0,10,stage_direction,1,4,speech_part,,#margarete,148.0,FEMALE,no_annotation,no_annotation,no_annotation
+642,642,GerDracor/heine-william-ratcliff.xml,"
+            »Ich habe geschlagen mein Liebchen tot –
+            Mein Liebchen war so schön, oh!«
+            Da hat Schön-Betty sich so sehr entsetzt,
+            Daß sie den armen, wilden Edward nimmer
+            Wollt wiedersehn; und um ihn noch zu ärgern,
+            Heiratete sie deinen Vater.",0,301,character_speech,1,4,,MARGARETE.,#margarete,148.0,FEMALE,suffering,negative,emotions of suffering and empathy
+643,643,GerDracor/heine-william-ratcliff.xml,"Edward Ratcliff,
+            Der wurde toll vor Wut, und um zu zeigen,
+            Daß er Schön-Betty leicht entbehren könne,
+            Nahm er zur Frau, ganz aus Verzweiflungstrotz,
+            Lord Campbels Jenny, und der William Ratcliff,
+            Das ist der Sohn aus dieser tollen Ehe.",302,597,character_speech,1,4,,MARGARETE.,#margarete,148.0,FEMALE,anger,negative,emotions of rejection
+644,644,GerDracor/heine-william-ratcliff.xml,Die arme Mutter!,0,16,character_speech,1,4,,MARIA.,#maria,149.0,FEMALE,compassion,negative,emotions of suffering and empathy
+645,645,GerDracor/heine-william-ratcliff.xml,"
+            Ei, Schön-Betty war
+            Ein eigensinnig Ding.",0,66,character_speech,1,4,,MARGARETE.,#margarete,150.0,FEMALE,being moved,being moved,being moved
+646,646,GerDracor/heine-william-ratcliff.xml,"Ein ganzes Jahr lang
+            Hat sie den Namen Ratcliff nie genannt.",67,139,character_speech,1,4,,MARGARETE.,#margarete,150.0,FEMALE,no_annotation,no_annotation,no_annotation
+647,647,GerDracor/heine-william-ratcliff.xml,"Doch wie zum zweitenmal Oktober kam –
+            Ich glaub, es war just Ratcliffs Namenstag –,
+            Da frug sie, wie von ungefähr: »Margarete,
+             Hast du von Edward nichts gehört?« – »Oh«, sagt ich,
+            »Der hat die Jenny Campbel sich zur Frau
+            Genommen.« – »Campbels Jenny?« rief Schön-Betty,
+            Und wurde blaß und rot, und bitterlich
+            Fing sie zu weinen an – dich hielt ich just
+            Im Schoß, Marie, drei Monat' warst du alt –
+            Und du fingst auch zu weinen an – und ich,
+            Um nur Schön-Bettys Tränen fortzuschwatzen,
+            Erzählte ihr: der Edward könne doch nicht
+            Ablassen von Schön-Betty, Tag und Nacht
+            Säh man ihn schleichen hier ums Schloß, man sähe,
+            Wie er die Arme nach Schön-Bettys Fenster
+            Sehnsüchtig ausstreckt.",152,1014,character_speech,1,4,,MARGARETE.,#margarete,150.0,FEMALE,suffering,negative,emotions of suffering and empathy
+648,648,GerDracor/heine-william-ratcliff.xml,"– »Oh, das wußt ich längst!«
+            Rief jetzt Schön-Betty lachend; hastig flog sie
+            Ans Fenster, streckte aus die Arm' nach Edward –
+            Oh, das war schlimm, Mac-Gregor sah das just,
+            Dein eifersücht'ger Vater –",1015,1262,character_speech,1,4,,MARGARETE.,#margarete,150.0,FEMALE,no_annotation,no_annotation,no_annotation
+649,649,GerDracor/heine-william-ratcliff.xml,Hält erschrocken ein.,0,21,stage_direction,1,4,speech_part,,#margarete,150.0,FEMALE,fear,negative,emotions of anxiety
+650,650,GerDracor/heine-william-ratcliff.xml,"Nun, und da?",0,12,character_speech,1,4,,MARIA.,#maria,151.0,FEMALE,no_annotation,no_annotation,no_annotation
+651,651,GerDracor/heine-william-ratcliff.xml,Erzähl doch weiter.,13,32,character_speech,1,4,,MARIA.,#maria,151.0,FEMALE,no_annotation,no_annotation,no_annotation
+652,652,GerDracor/heine-william-ratcliff.xml,"Nun, und da ist's aus.",0,22,character_speech,1,4,,MARGARETE.,#margarete,152.0,FEMALE,no_annotation,no_annotation,no_annotation
+653,653,GerDracor/heine-william-ratcliff.xml,Erzähl doch weiter.,0,19,character_speech,1,4,,MARIA.,#maria,153.0,FEMALE,no_annotation,no_annotation,no_annotation
+654,654,GerDracor/heine-william-ratcliff.xml,ängstlich.,0,10,stage_direction,1,4,speech_part,,#margarete,154.0,FEMALE,fear,negative,emotions of anxiety
+655,655,GerDracor/heine-william-ratcliff.xml,"
+            Nun, am andern Morgen
+            Lag, bei der alten Schloßmau'r, tot und blutig
+            Der Edward Ratcliff –",0,127,character_speech,1,4,,MARGARETE,#margarete,154.0,FEMALE,no_annotation,no_annotation,no_annotation
+656,656,GerDracor/heine-william-ratcliff.xml,Und die arme Mutter?,0,20,character_speech,1,4,,MARIA.,#maria,155.0,FEMALE,compassion,negative,emotions of suffering and empathy
+657,657,GerDracor/heine-william-ratcliff.xml,"Je nun, die starb, vor Schreck, drei Tage drauf.",0,48,character_speech,1,4,,MARGARETE.,#margarete,156.0,FEMALE,fear,negative,emotions of anxiety
+658,658,GerDracor/heine-william-ratcliff.xml,O das ist gräßlich!,0,19,character_speech,1,4,,MARIA.,#maria,157.0,FEMALE,anger,negative,emotions of rejection
+659,659,GerDracor/heine-william-ratcliff.xml,"im kalten, höhnischen Wahnsinntone.",0,35,stage_direction,1,4,speech_part,,#margarete,158.0,FEMALE,abhorrence,negative,emotions of rejection
+660,660,GerDracor/heine-william-ratcliff.xml,"
+            Hättest du erst selbst
+            Gesehn mit deinen kleinen Augen, Püppchen,
+             Wie an der Schloßmau'r Edward Ratcliff lag –
+            Hu, hu, das blut'ge Bild klebt mir im Kopf!",0,204,character_speech,1,4,,MARGARETE,#margarete,158.0,FEMALE,suffering,negative,emotions of suffering and empathy
+661,661,GerDracor/heine-william-ratcliff.xml,"Und weil ich weiß, wer ihn erschlagen hat,
+            Und weil ich das niemanden sagen darf,
+            Und weil ich toll bin – hu!",217,350,character_speech,1,4,,MARGARETE,#margarete,158.0,FEMALE,joy,positive,emotions of pleasure
+662,662,GerDracor/heine-william-ratcliff.xml,"kann ich nicht schlafen,
+            Und überall seh ich den Edward Ratcliff,
+            Den bleichen, blutigen, mit seinen starren,
+            Dolchspitzen Augen, mit dem Zeigefinger
+            Gespenstisch aufgehoben, langsam schreitend –",351,594,character_speech,1,4,,MARGARETE,#margarete,158.0,FEMALE,suffering,negative,emotions of suffering and empathy
+663,663,GerDracor/heine-william-ratcliff.xml,"William Ratcliff, bleich, verstört und blutig, tritt herein.",0,60,stage_direction,1,4,speech_part,,#margarete,158.0,FEMALE,despair,negative,emotions of anxiety
+664,664,GerDracor/heine-william-ratcliff.xml,Die Vorigen.,0,12,stage_direction,1,4,speech_part,,#margarete,158.0,FEMALE,no_annotation,no_annotation,no_annotation
+665,665,GerDracor/heine-william-ratcliff.xml,wild aufschreiend.,0,18,stage_direction,1,4,speech_part,,#margarete,159.0,FEMALE,being moved,being moved,being moved
+666,666,GerDracor/heine-william-ratcliff.xml,"Jesus Marie, der tote Edward Ratcliff!",0,38,character_speech,1,4,,MARGARETE,#margarete,159.0,FEMALE,despair,negative,emotions of anxiety
+667,667,GerDracor/heine-william-ratcliff.xml,"Sie kauert nieder in einer Ecke des Zimmers und bleibt dort starr und regungslos
+            sitzen.",0,100,stage_direction,1,4,speech_part,,#margarete,159.0,FEMALE,being moved,being moved,being moved
+668,668,GerDracor/heine-william-ratcliff.xml,aufschreiend.,0,13,stage_direction,1,4,speech_part,,#maria,160.0,FEMALE,fear,negative,emotions of anxiety
+669,669,GerDracor/heine-william-ratcliff.xml,Entsetzlicher!,0,14,character_speech,1,4,,MARIA,#maria,160.0,FEMALE,despair,negative,emotions of anxiety
+670,670,GerDracor/heine-william-ratcliff.xml,Bringst du mir Douglas' Ring?,15,44,character_speech,1,4,,MARIA,#maria,160.0,FEMALE,no_annotation,no_annotation,no_annotation
+671,671,GerDracor/heine-william-ratcliff.xml,bitter lachend.,0,15,stage_direction,1,4,speech_part,,#ratcliff,161.0,MALE,Schadenfreude,positive,emotions of pleasure
+672,672,GerDracor/heine-william-ratcliff.xml,"
+            Das Karussell, das Ringestechen, ist
+            Jetzt aus.",0,72,character_speech,1,4,,RATCLIFF,#ratcliff,161.0,MALE,no_annotation,no_annotation,no_annotation
+673,673,GerDracor/heine-william-ratcliff.xml,"Zwei Ringe stach ich, doch der dritte
+            Wollt sich nicht stechen lassen, und ich stürzte
+            Hinunter von dem Holzpferd.",73,211,character_speech,1,4,,RATCLIFF,#ratcliff,161.0,MALE,no_annotation,no_annotation,no_annotation
+674,674,GerDracor/heine-william-ratcliff.xml,plötzlich im vertraulich ängstlichen Tone.,0,42,stage_direction,1,4,speech_part,,#maria,162.0,FEMALE,fear,negative,emotions of anxiety
+675,675,GerDracor/heine-william-ratcliff.xml,"
+            William!",0,21,character_speech,1,4,,MARIA,#maria,162.0,FEMALE,being moved,being moved,being moved
+676,676,GerDracor/heine-william-ratcliff.xml,William!,22,30,character_speech,1,4,,MARIA,#maria,162.0,FEMALE,being moved,being moved,being moved
+677,677,GerDracor/heine-william-ratcliff.xml,Du blutest ja.,43,57,character_speech,1,4,,MARIA,#maria,162.0,FEMALE,suffering,negative,emotions of suffering and empathy
+678,678,GerDracor/heine-william-ratcliff.xml,"Komm her, ich will die Wunde
+            Verbinden.",58,109,character_speech,1,4,,MARIA,#maria,162.0,FEMALE,no_annotation,no_annotation,no_annotation
+679,679,GerDracor/heine-william-ratcliff.xml,–,110,111,character_speech,1,4,,MARIA,#maria,162.0,FEMALE,no_annotation,no_annotation,no_annotation
+680,680,GerDracor/heine-william-ratcliff.xml,Sie zerreißt ihren weißen Hochzeitschleier.,0,43,stage_direction,1,4,speech_part,,#maria,162.0,FEMALE,no_annotation,no_annotation,no_annotation
+681,681,GerDracor/heine-william-ratcliff.xml,–,44,45,stage_direction,1,4,speech_part,,#maria,162.0,FEMALE,no_annotation,no_annotation,no_annotation
+682,682,GerDracor/heine-william-ratcliff.xml,"
+            Gott!",0,18,character_speech,1,4,,MARIA,#maria,162.0,FEMALE,being moved,being moved,being moved
+683,683,GerDracor/heine-william-ratcliff.xml,Wo bin ich?,19,30,character_speech,1,4,,MARIA,#maria,162.0,FEMALE,no_annotation,no_annotation,no_annotation
+684,684,GerDracor/heine-william-ratcliff.xml,"Böser William –
+            Nein, du bist Edward, ich, ich bin Schön-Betty –
+            Dein armer Kopf ist blutig, und der mein'ge
+            Ist so verwirrt – Ich weiß nicht, was ich tu –
+            Komm her; wenn du mich liebhast, kniee nieder –",31,282,character_speech,1,4,,MARIA,#maria,162.0,FEMALE,being moved,being moved,being moved
+685,685,GerDracor/heine-william-ratcliff.xml,Sie will ihm die Kopfwunde verbinden.,0,37,stage_direction,1,4,speech_part,,#maria,162.0,FEMALE,no_annotation,no_annotation,no_annotation
+686,686,GerDracor/heine-william-ratcliff.xml,stürzt zu ihren Füßen.,0,22,stage_direction,1,4,speech_part,,#ratcliff,163.0,MALE,fear,negative,emotions of anxiety
+687,687,GerDracor/heine-william-ratcliff.xml,Schmerzhaft zärtlich.,23,44,stage_direction,1,4,speech_part,,#ratcliff,163.0,MALE,suffering,negative,emotions of suffering and empathy
+688,688,GerDracor/heine-william-ratcliff.xml,"
+            Neckt mich ein Traum?",0,34,character_speech,1,4,,RATCLIFF,#ratcliff,163.0,MALE,no_annotation,no_annotation,no_annotation
+689,689,GerDracor/heine-william-ratcliff.xml,Ich liege vor Marien?,35,56,character_speech,1,4,,RATCLIFF,#ratcliff,163.0,MALE,being moved,being moved,being moved
+690,690,GerDracor/heine-william-ratcliff.xml,Liege zu ihren Füßen?,69,90,character_speech,1,4,,RATCLIFF,#ratcliff,163.0,MALE,no_annotation,no_annotation,no_annotation
+691,691,GerDracor/heine-william-ratcliff.xml,"Kleine Füße,
+            Seid ihr nicht Nebel, die der Wahnsinn bildet,
+            Und die zerrinnen, wenn ich sie umfasse?",91,215,character_speech,1,4,,RATCLIFF,#ratcliff,163.0,MALE,suffering,negative,emotions of suffering and empathy
+692,692,GerDracor/heine-william-ratcliff.xml,beschwichtigend und ihm den Kopf mit dem Schleier verbindend.,0,61,stage_direction,1,4,speech_part,,#maria,164.0,FEMALE,no_annotation,no_annotation,no_annotation
+693,693,GerDracor/heine-william-ratcliff.xml,"
+            Bleib ruhig.",0,25,character_speech,1,4,,MARIA,#maria,164.0,FEMALE,no_annotation,no_annotation,no_annotation
+694,694,GerDracor/heine-william-ratcliff.xml,"An den goldnen, hübschen Locken
+            Klebt Blut.",26,81,character_speech,1,4,,MARIA,#maria,164.0,FEMALE,"admiration, reverence",positive,emotions of affection
+695,695,GerDracor/heine-william-ratcliff.xml,Lieg still; du machst mich selber blutig.,82,123,character_speech,1,4,,MARIA,#maria,164.0,FEMALE,anger,negative,emotions of rejection
+696,696,GerDracor/heine-william-ratcliff.xml,"Ja, wenn du still liegst, küß ich dich aufs Auge.",136,185,character_speech,1,4,,MARIA,#maria,164.0,FEMALE,love,positive,emotions of affection
+697,697,GerDracor/heine-william-ratcliff.xml,Sie küßt ihn.,0,13,stage_direction,1,4,speech_part,,#maria,164.0,FEMALE,love,positive,emotions of affection
+698,698,GerDracor/heine-william-ratcliff.xml,"
+            Mir ist die Nacht vom Auge fortgeküßt;
+            Die Sonne kann ich wieder sehn – Maria!",0,103,character_speech,1,4,,RATCLIFF.,#ratcliff,165.0,MALE,joy,positive,emotions of pleasure
+699,699,GerDracor/heine-william-ratcliff.xml,wie aus einem Traume aufgeschreckt.,0,35,stage_direction,1,4,speech_part,,#maria,166.0,FEMALE,being moved,being moved,being moved
+700,700,GerDracor/heine-william-ratcliff.xml,Maria?,0,6,character_speech,1,4,,MARIA,#maria,166.0,FEMALE,being moved,being moved,being moved
+701,701,GerDracor/heine-william-ratcliff.xml,Und du bist auch der William Ratcliff?,7,45,character_speech,1,4,,MARIA,#maria,166.0,FEMALE,being moved,being moved,being moved
+702,702,GerDracor/heine-william-ratcliff.xml,Hält sich die Augen zu.,0,23,stage_direction,1,4,speech_part,,#maria,166.0,FEMALE,no_annotation,no_annotation,no_annotation
+703,703,GerDracor/heine-william-ratcliff.xml,O das ist gar zu traurig!,0,25,character_speech,1,4,,MARIA,#maria,166.0,FEMALE,suffering,negative,emotions of suffering and empathy
+704,704,GerDracor/heine-william-ratcliff.xml,–,26,27,character_speech,1,4,,MARIA,#maria,166.0,FEMALE,no_annotation,no_annotation,no_annotation
+705,705,GerDracor/heine-william-ratcliff.xml,Schaudernd.,0,11,stage_direction,1,4,speech_part,,#maria,166.0,FEMALE,being moved,being moved,being moved
+706,706,GerDracor/heine-william-ratcliff.xml,–,12,13,stage_direction,1,4,speech_part,,#maria,166.0,FEMALE,no_annotation,no_annotation,no_annotation
+707,707,GerDracor/heine-william-ratcliff.xml,Fort!,0,5,character_speech,1,4,,MARIA,#maria,166.0,FEMALE,no_annotation,no_annotation,no_annotation
+708,708,GerDracor/heine-william-ratcliff.xml,geh fort!,6,15,character_speech,1,4,,MARIA,#maria,166.0,FEMALE,abhorrence,negative,emotions of rejection
+709,709,GerDracor/heine-william-ratcliff.xml,springt auf und umschlingt sie.,0,31,stage_direction,1,4,speech_part,,#ratcliff,167.0,MALE,love,positive,emotions of affection
+710,710,GerDracor/heine-william-ratcliff.xml,"
+            Ich weiche nicht!",0,30,character_speech,1,4,,RATCLIFF,#ratcliff,167.0,MALE,anger,negative,emotions of rejection
+711,711,GerDracor/heine-william-ratcliff.xml,"Ich hab dich lieb, Maria,
+            Und du hast William lieb –",31,95,character_speech,1,4,,RATCLIFF,#ratcliff,167.0,MALE,love,positive,emotions of affection
+712,712,GerDracor/heine-william-ratcliff.xml,Vertraulich.,0,12,stage_direction,1,4,speech_part,,#ratcliff,167.0,MALE,no_annotation,no_annotation,no_annotation
+713,713,GerDracor/heine-william-ratcliff.xml,–,13,14,stage_direction,1,4,speech_part,,#ratcliff,167.0,MALE,no_annotation,no_annotation,no_annotation
+714,714,GerDracor/heine-william-ratcliff.xml,"
+            Im Traum hast du's
+            Mir oft gesagt.",0,59,character_speech,1,4,,RATCLIFF,#ratcliff,167.0,MALE,no_annotation,no_annotation,no_annotation
+715,715,GerDracor/heine-william-ratcliff.xml,"Weißt du, wir sehn uns ähnlich?",60,91,character_speech,1,4,,RATCLIFF,#ratcliff,167.0,MALE,no_annotation,no_annotation,no_annotation
+716,716,GerDracor/heine-william-ratcliff.xml,Schau in den Spiegel.,104,125,character_speech,1,4,,RATCLIFF,#ratcliff,167.0,MALE,no_annotation,no_annotation,no_annotation
+717,717,GerDracor/heine-william-ratcliff.xml,Er führt sie an einen Spiegel und zeigt nach beiden Spiegelbildern.,0,67,stage_direction,1,4,speech_part,,#ratcliff,167.0,MALE,no_annotation,no_annotation,no_annotation
+718,718,GerDracor/heine-william-ratcliff.xml,"
+            Deine Züge sind
+            Zwar schöner, edler, reiner als die mein'gen;
+            Doch sind sie ihnen ähnlich.",0,127,character_speech,1,4,,RATCLIFF,#ratcliff,167.0,MALE,no_annotation,no_annotation,no_annotation
+719,719,GerDracor/heine-william-ratcliff.xml,"Diese Lippen
+            Umzuckt derselbe Stolz, derselbe Trotz.",128,192,character_speech,1,4,,RATCLIFF,#ratcliff,167.0,MALE,being moved,being moved,being moved
+720,720,GerDracor/heine-william-ratcliff.xml,Hier sitzt der Leichtsinn ebenso wie dort.,205,247,character_speech,1,4,,RATCLIFF,#ratcliff,167.0,MALE,abhorrence,negative,emotions of rejection
+721,721,GerDracor/heine-william-ratcliff.xml,Sprich mal ein Wörtchen!,260,284,character_speech,1,4,,RATCLIFF,#ratcliff,167.0,MALE,no_annotation,no_annotation,no_annotation
+722,722,GerDracor/heine-william-ratcliff.xml,sich sträubend.,0,15,stage_direction,1,4,speech_part,,#maria,168.0,FEMALE,being moved,being moved,being moved
+723,723,GerDracor/heine-william-ratcliff.xml,Laß mich!,0,9,character_speech,1,4,,MARIA,#maria,168.0,FEMALE,no_annotation,no_annotation,no_annotation
+724,724,GerDracor/heine-william-ratcliff.xml,laß mich!,10,19,character_speech,1,4,,MARIA,#maria,168.0,FEMALE,no_annotation,no_annotation,no_annotation
+725,725,GerDracor/heine-william-ratcliff.xml,"
+            Hörst du?",0,22,character_speech,1,4,,RATCLIFF.,#ratcliff,169.0,MALE,no_annotation,no_annotation,no_annotation
+726,726,GerDracor/heine-william-ratcliff.xml,"Die Stimm' klingt wie die mein'ge, nur weit sanfter.",35,87,character_speech,1,4,,RATCLIFF.,#ratcliff,169.0,MALE,no_annotation,no_annotation,no_annotation
+727,727,GerDracor/heine-william-ratcliff.xml,"Das tiefe Blau des Auges ist dasselbe;
+            Nur glänzender bei dir.",100,174,character_speech,1,4,,RATCLIFF.,#ratcliff,169.0,MALE,"admiration, reverence",positive,emotions of affection
+728,728,GerDracor/heine-william-ratcliff.xml,Gib her die Hand.,175,192,character_speech,1,4,,RATCLIFF.,#ratcliff,169.0,MALE,no_annotation,no_annotation,no_annotation
+729,729,GerDracor/heine-william-ratcliff.xml,Nimmt ihre Hand und vergleicht sie mit der seinigen.,0,52,stage_direction,1,4,speech_part,,#ratcliff,169.0,MALE,no_annotation,no_annotation,no_annotation
+730,730,GerDracor/heine-william-ratcliff.xml,Siehst du dieselben Linien?,0,27,character_speech,1,4,,RATCLIFF.,#ratcliff,169.0,MALE,no_annotation,no_annotation,no_annotation
+731,731,GerDracor/heine-william-ratcliff.xml,–,28,29,character_speech,1,4,,RATCLIFF.,#ratcliff,169.0,MALE,no_annotation,no_annotation,no_annotation
+732,732,GerDracor/heine-william-ratcliff.xml,Erschrickt.,0,11,stage_direction,1,4,speech_part,,#ratcliff,169.0,MALE,fear,negative,emotions of anxiety
+733,733,GerDracor/heine-william-ratcliff.xml,–,12,13,stage_direction,1,4,speech_part,,#ratcliff,169.0,MALE,no_annotation,no_annotation,no_annotation
+734,734,GerDracor/heine-william-ratcliff.xml,"
+            Sieh mal her,
+            Die Lebenslinie ist so kurz wie hier –",0,77,character_speech,1,4,,RATCLIFF.,#ratcliff,169.0,MALE,no_annotation,no_annotation,no_annotation
+735,735,GerDracor/heine-william-ratcliff.xml,"
+            O laß mich, William, und entflieh!",0,47,character_speech,1,4,,MARIA.,#maria,170.0,FEMALE,fear,negative,emotions of anxiety
+736,736,GerDracor/heine-william-ratcliff.xml,entflieh!,48,57,character_speech,1,4,,MARIA.,#maria,170.0,FEMALE,fear,negative,emotions of anxiety
+737,737,GerDracor/heine-william-ratcliff.xml,"–
+            Nur schnell, sie kommen gleich –",58,104,character_speech,1,4,,MARIA.,#maria,170.0,FEMALE,no_annotation,no_annotation,no_annotation
+738,738,GerDracor/heine-william-ratcliff.xml,"
+            Ja, du hast recht,
+            Wir wollen fliehn.",0,62,character_speech,1,4,,RATCLIFF.,#ratcliff,171.0,MALE,no_annotation,no_annotation,no_annotation
+739,739,GerDracor/heine-william-ratcliff.xml,"Komm, folge mir, mein Lieb.",63,90,character_speech,1,4,,RATCLIFF.,#ratcliff,171.0,MALE,no_annotation,no_annotation,no_annotation
+740,740,GerDracor/heine-william-ratcliff.xml,"Komm, folge mir.",103,119,character_speech,1,4,,RATCLIFF.,#ratcliff,171.0,MALE,no_annotation,no_annotation,no_annotation
+741,741,GerDracor/heine-william-ratcliff.xml,"Gesattelt steht mein Roß,
+            Das schnellste in ganz Schottland.",120,192,character_speech,1,4,,RATCLIFF.,#ratcliff,171.0,MALE,"admiration, reverence",positive,emotions of affection
+742,742,GerDracor/heine-william-ratcliff.xml,Zieht sein Schwert hervor.,0,26,stage_direction,1,4,speech_part,,#ratcliff,171.0,MALE,no_annotation,no_annotation,no_annotation
+743,743,GerDracor/heine-william-ratcliff.xml,"
+            Hier, mein Schwert
+            Bahnt uns den Weg.",0,62,character_speech,1,4,,RATCLIFF.,#ratcliff,171.0,MALE,no_annotation,no_annotation,no_annotation
+744,744,GerDracor/heine-william-ratcliff.xml,"Sieh mal, wie's funkelt!",63,87,character_speech,1,4,,RATCLIFF.,#ratcliff,171.0,MALE,joy,positive,emotions of pleasure
+745,745,GerDracor/heine-william-ratcliff.xml,Horch!,88,94,character_speech,1,4,,RATCLIFF.,#ratcliff,171.0,MALE,being moved,being moved,being moved
+746,746,GerDracor/heine-william-ratcliff.xml,wahnsinnig singend.,0,19,stage_direction,1,4,speech_part,,#margarete,172.0,FEMALE,no_annotation,no_annotation,no_annotation
+747,747,GerDracor/heine-william-ratcliff.xml,"
+            »Was ist von Blut dein Schwert so rot, Edward?",0,59,character_speech,1,4,,MARGARETE,#margarete,172.0,FEMALE,no_annotation,no_annotation,no_annotation
+748,748,GerDracor/heine-william-ratcliff.xml,Edward?,60,67,character_speech,1,4,,MARGARETE,#margarete,172.0,FEMALE,being moved,being moved,being moved
+749,749,GerDracor/heine-william-ratcliff.xml,"Ich habe geschlagen mein Liebchen tot –
+            Mein Liebchen war so schön, oh!«",80,164,character_speech,1,4,,MARGARETE,#margarete,172.0,FEMALE,suffering,negative,emotions of suffering and empathy
+750,750,GerDracor/heine-william-ratcliff.xml,"
+            Wer sprach das blut'ge Wort?",0,41,character_speech,1,4,,RATCLIFF.,#ratcliff,173.0,MALE,no_annotation,no_annotation,no_annotation
+751,751,GerDracor/heine-william-ratcliff.xml,"War's dort die Eule,
+            Die sich ans Fenster klammert?",42,105,character_speech,1,4,,RATCLIFF.,#ratcliff,173.0,MALE,no_annotation,no_annotation,no_annotation
+752,752,GerDracor/heine-william-ratcliff.xml,"War's der Wind,
+            Der im Kamin pfeift?",106,154,character_speech,1,4,,RATCLIFF.,#ratcliff,173.0,MALE,no_annotation,no_annotation,no_annotation
+753,753,GerDracor/heine-william-ratcliff.xml,"War's die bleiche Hexe,
+            Die in der Ecke kauert?",155,214,character_speech,1,4,,RATCLIFF.,#ratcliff,173.0,MALE,being moved,being moved,being moved
+754,754,GerDracor/heine-william-ratcliff.xml,"Ja, die war es;
+            Ihr Leib ist marmorstarr, doch aus der Brust
+            Schrillt ihr der heisre Sang.",215,329,character_speech,1,4,,RATCLIFF.,#ratcliff,173.0,MALE,no_annotation,no_annotation,no_annotation
+755,755,GerDracor/heine-william-ratcliff.xml,Ich soll mein Liebchen,330,352,character_speech,1,4,,RATCLIFF.,#ratcliff,173.0,MALE,love,positive,emotions of affection
+756,756,GerDracor/heine-william-ratcliff.xml,Im höchsten Schmerz.,0,20,stage_direction,1,4,speech_part,,#ratcliff,173.0,MALE,suffering,negative,emotions of suffering and empathy
+757,757,GerDracor/heine-william-ratcliff.xml,"Totschlagen, singt sie – Oh, das muß ich ja –",0,45,character_speech,1,4,,RATCLIFF.,#ratcliff,173.0,MALE,no_annotation,no_annotation,no_annotation
+758,758,GerDracor/heine-william-ratcliff.xml,"
+            Entsetzlich rollt dein Aug', dein Odem brennt –
+            Dein Wahnsinn steckt mich an – verlaß mich!",0,116,character_speech,1,4,,MARIA.,#maria,174.0,FEMALE,despair,negative,emotions of anxiety
+759,759,GerDracor/heine-william-ratcliff.xml,laß mich!,117,126,character_speech,1,4,,MARIA.,#maria,174.0,FEMALE,no_annotation,no_annotation,no_annotation
+760,760,GerDracor/heine-william-ratcliff.xml,"
+            O sträub dich nicht, mein Lieb.",0,44,character_speech,1,4,,RATCLIFF.,#ratcliff,175.0,MALE,no_annotation,no_annotation,no_annotation
+761,761,GerDracor/heine-william-ratcliff.xml,"Der Tod ist ja
+            So süß.",45,79,character_speech,1,4,,RATCLIFF.,#ratcliff,175.0,MALE,joy,positive,emotions of pleasure
+762,762,GerDracor/heine-william-ratcliff.xml,"Ich nehm dich mit ins schöne Land,
+            Wovon wir oft geträumt.",80,150,character_speech,1,4,,RATCLIFF.,#ratcliff,175.0,MALE,no_annotation,no_annotation,no_annotation
+763,763,GerDracor/heine-william-ratcliff.xml,"Komm mit, mein Lieb.",151,171,character_speech,1,4,,RATCLIFF.,#ratcliff,175.0,MALE,love,positive,emotions of affection
+764,764,GerDracor/heine-william-ratcliff.xml,sich von ihm losreißend.,0,24,stage_direction,1,4,speech_part,,#maria,176.0,FEMALE,no_annotation,no_annotation,no_annotation
+765,765,GerDracor/heine-william-ratcliff.xml,Entflieh!,0,9,character_speech,1,4,,MARIA,#maria,176.0,FEMALE,fear,negative,emotions of anxiety
+766,766,GerDracor/heine-william-ratcliff.xml,Entflieh!,10,19,character_speech,1,4,,MARIA,#maria,176.0,FEMALE,fear,negative,emotions of anxiety
+767,767,GerDracor/heine-william-ratcliff.xml,Denn trifft dich hier Graf Douglas –,20,56,character_speech,1,4,,MARIA,#maria,176.0,FEMALE,no_annotation,no_annotation,no_annotation
+768,768,GerDracor/heine-william-ratcliff.xml,in Wut ausbrechend.,0,19,stage_direction,1,4,speech_part,,#ratcliff,177.0,MALE,anger,negative,emotions of rejection
+769,769,GerDracor/heine-william-ratcliff.xml,"
+            Verfluchter Name!",0,30,character_speech,1,4,,RATCLIFF,#ratcliff,177.0,MALE,fear,negative,emotions of anxiety
+770,770,GerDracor/heine-william-ratcliff.xml,Losungswort des Todes!,31,53,character_speech,1,4,,RATCLIFF,#ratcliff,177.0,MALE,no_annotation,no_annotation,no_annotation
+771,771,GerDracor/heine-william-ratcliff.xml,Kein Gott soll dich besitzen.,66,95,character_speech,1,4,,RATCLIFF,#ratcliff,177.0,MALE,love,positive,emotions of affection
+772,772,GerDracor/heine-william-ratcliff.xml,Mir gehörst du –,96,112,character_speech,1,4,,RATCLIFF,#ratcliff,177.0,MALE,no_annotation,no_annotation,no_annotation
+773,773,GerDracor/heine-william-ratcliff.xml,Er will sie erstechen.,0,22,stage_direction,1,4,speech_part,,#ratcliff,177.0,MALE,no_annotation,no_annotation,no_annotation
+774,774,GerDracor/heine-william-ratcliff.xml,sich in das verhängte Kabinett flüchtend.,0,41,stage_direction,1,4,speech_part,,#maria,178.0,FEMALE,no_annotation,no_annotation,no_annotation
+775,775,GerDracor/heine-william-ratcliff.xml,William!,0,8,character_speech,1,4,,MARIA,#maria,178.0,FEMALE,being moved,being moved,being moved
+776,776,GerDracor/heine-william-ratcliff.xml,du willst mich morden –,9,32,character_speech,1,4,,MARIA,#maria,178.0,FEMALE,abhorrence,negative,emotions of rejection
+777,777,GerDracor/heine-william-ratcliff.xml,stürzt ihr nach ins Kabinett.,0,29,stage_direction,1,4,speech_part,,#ratcliff,179.0,MALE,no_annotation,no_annotation,no_annotation
+778,778,GerDracor/heine-william-ratcliff.xml,"
+            Mir gehörst du –
+            Mein ist Maria –",0,58,character_speech,1,4,,RATCLIFF,#ratcliff,179.0,MALE,love,positive,emotions of affection
+779,779,GerDracor/heine-william-ratcliff.xml,Man hört Marias Stimme.,0,23,stage_direction,1,4,speech_part,,#ratcliff,179.0,MALE,no_annotation,no_annotation,no_annotation
+780,780,GerDracor/heine-william-ratcliff.xml,William!,0,8,character_speech,1,4,,MARIA.,#maria,180.0,FEMALE,being moved,being moved,being moved
+781,781,GerDracor/heine-william-ratcliff.xml,Hülfe!,9,15,character_speech,1,4,,MARIA.,#maria,180.0,FEMALE,fear,negative,emotions of anxiety
+782,782,GerDracor/heine-william-ratcliff.xml,William!,16,24,character_speech,1,4,,MARIA.,#maria,180.0,FEMALE,being moved,being moved,being moved
+783,783,GerDracor/heine-william-ratcliff.xml,singt.,0,6,stage_direction,1,4,speech_part,,#margarete,181.0,FEMALE,no_annotation,no_annotation,no_annotation
+784,784,GerDracor/heine-william-ratcliff.xml,"
+            »Ich habe geschlagen mein Liebchen tot –
+            Mein Liebchen war so schön, oh!«",0,98,character_speech,1,4,,MARGARETE,#margarete,181.0,FEMALE,suffering,negative,emotions of suffering and empathy
+785,785,GerDracor/heine-william-ratcliff.xml,"Die zwei Nebelmenschen erscheinen von entgegengesetzten Seiten, stellen sich an den
+            Eingang des Kabinetts, strecken die Arme nacheinander aus und verschwinden bei Ratcliffs
+            Hervortreten.",0,210,stage_direction,1,4,speech_part,,#margarete,181.0,FEMALE,no_annotation,no_annotation,no_annotation
+786,786,GerDracor/heine-william-ratcliff.xml,"das blutige Schwert in der Hand, stürzt aus dem Kabinette.",0,58,stage_direction,1,4,speech_part,,#ratcliff,182.0,MALE,abhorrence,negative,emotions of rejection
+787,787,GerDracor/heine-william-ratcliff.xml,"
+            Halt!",0,18,character_speech,1,4,,RATCLIFF,#ratcliff,182.0,MALE,being moved,being moved,being moved
+788,788,GerDracor/heine-william-ratcliff.xml,halt!,19,24,character_speech,1,4,,RATCLIFF,#ratcliff,182.0,MALE,no_annotation,no_annotation,no_annotation
+789,789,GerDracor/heine-william-ratcliff.xml,"entweich mir nicht, mein Doppelgänger!",25,63,character_speech,1,4,,RATCLIFF,#ratcliff,182.0,MALE,fear,negative,emotions of anxiety
+790,790,GerDracor/heine-william-ratcliff.xml,"Du bleiches Nachtgespenst, du hast's getan.",76,119,character_speech,1,4,,RATCLIFF,#ratcliff,182.0,MALE,abhorrence,negative,emotions of rejection
+791,791,GerDracor/heine-william-ratcliff.xml,An deiner Nebelhand klebt rotes Blut.,132,169,character_speech,1,4,,RATCLIFF,#ratcliff,182.0,MALE,abhorrence,negative,emotions of rejection
+792,792,GerDracor/heine-william-ratcliff.xml,"Komm, ficht mit mir, du hast Marie ermordet –",182,227,character_speech,1,4,,RATCLIFF,#ratcliff,182.0,MALE,fear,negative,emotions of anxiety
+793,793,GerDracor/heine-william-ratcliff.xml,Die Vorigen.,0,12,stage_direction,1,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+794,794,GerDracor/heine-william-ratcliff.xml,Um Hülfe rief's –,0,17,character_speech,1,4,,MAC-GREGOR.,#mac-gregor,183.0,MALE,no_annotation,no_annotation,no_annotation
+795,795,GerDracor/heine-william-ratcliff.xml,Erblickt Ratcliff.,0,18,stage_direction,1,4,speech_part,,#mac-gregor,183.0,MALE,no_annotation,no_annotation,no_annotation
+796,796,GerDracor/heine-william-ratcliff.xml,–,19,20,stage_direction,1,4,speech_part,,#mac-gregor,183.0,MALE,no_annotation,no_annotation,no_annotation
+797,797,GerDracor/heine-william-ratcliff.xml,"
+            Dich treff ich hier, Verruchter,
+            Verhaßter Mörder, Störer meiner Ruh' –",0,96,character_speech,1,4,,MAC-GREGOR.,#mac-gregor,183.0,MALE,abhorrence,negative,emotions of rejection
+798,798,GerDracor/heine-william-ratcliff.xml,wild auflachend.,0,16,stage_direction,1,4,speech_part,,#ratcliff,184.0,MALE,Schadenfreude,positive,emotions of pleasure
+799,799,GerDracor/heine-william-ratcliff.xml,"
+            Das bin ich, und auch du bist mir verhaßt,
+            Weiß nicht warum, doch bist du mir verhaßt,
+            Nach deinem Blute lechz ich –",0,153,character_speech,1,4,,RATCLIFF,#ratcliff,184.0,MALE,abhorrence,negative,emotions of rejection
+800,800,GerDracor/heine-william-ratcliff.xml,Sie stürzen fechtend aufeinander ein.,0,37,stage_direction,1,4,pre_speech,,,,,fear,negative,emotions of anxiety
+801,801,GerDracor/heine-william-ratcliff.xml,Bösewicht!,0,10,character_speech,1,4,,MAC-GREGOR.,#mac-gregor,185.0,MALE,anger,negative,emotions of rejection
+802,802,GerDracor/heine-william-ratcliff.xml,Ha!,0,3,character_speech,1,4,,RATCLIFF.,#ratcliff,186.0,MALE,no_annotation,no_annotation,no_annotation
+803,803,GerDracor/heine-william-ratcliff.xml,ha!,4,7,character_speech,1,4,,RATCLIFF.,#ratcliff,186.0,MALE,no_annotation,no_annotation,no_annotation
+804,804,GerDracor/heine-william-ratcliff.xml,ha!,8,11,character_speech,1,4,,RATCLIFF.,#ratcliff,186.0,MALE,no_annotation,no_annotation,no_annotation
+805,805,GerDracor/heine-william-ratcliff.xml,singt.,0,6,stage_direction,1,4,speech_part,,#margarete,187.0,FEMALE,no_annotation,no_annotation,no_annotation
+806,806,GerDracor/heine-william-ratcliff.xml,"»Was ist von Blut dein Schwert so rot, Edward?",0,46,character_speech,1,4,,MARGARETE,#margarete,187.0,FEMALE,no_annotation,no_annotation,no_annotation
+807,807,GerDracor/heine-william-ratcliff.xml,Edward?«,47,55,character_speech,1,4,,MARGARETE,#margarete,187.0,FEMALE,being moved,being moved,being moved
+808,808,GerDracor/heine-william-ratcliff.xml,stürzt nieder.,0,14,stage_direction,1,4,speech_part,,#mac-gregor,188.0,MALE,no_annotation,no_annotation,no_annotation
+809,809,GerDracor/heine-william-ratcliff.xml,Verfluchtes Lied!,0,17,character_speech,1,4,,MAC-GREGOR,#mac-gregor,188.0,MALE,anger,negative,emotions of rejection
+810,810,GerDracor/heine-william-ratcliff.xml,–,18,19,character_speech,1,4,,MAC-GREGOR,#mac-gregor,188.0,MALE,no_annotation,no_annotation,no_annotation
+811,811,GerDracor/heine-william-ratcliff.xml,Er stirbt.,0,10,stage_direction,1,4,speech_part,,#mac-gregor,188.0,MALE,no_annotation,no_annotation,no_annotation
+812,812,GerDracor/heine-william-ratcliff.xml,erschöpft.,0,10,stage_direction,1,4,speech_part,,#ratcliff,189.0,MALE,being moved,being moved,being moved
+813,813,GerDracor/heine-william-ratcliff.xml,"
+            Die gift'ge Schlang' ist tot.",0,42,character_speech,1,4,,RATCLIFF,#ratcliff,189.0,MALE,no_annotation,no_annotation,no_annotation
+814,814,GerDracor/heine-william-ratcliff.xml,Nun ist mir's leicht ums Herz.,55,85,character_speech,1,4,,RATCLIFF,#ratcliff,189.0,MALE,joy,positive,emotions of pleasure
+815,815,GerDracor/heine-william-ratcliff.xml,"Den Vorgeschmack
+            Der Ruh' genieß ich schon.",86,141,character_speech,1,4,,RATCLIFF,#ratcliff,189.0,MALE,joy,positive,emotions of pleasure
+816,816,GerDracor/heine-william-ratcliff.xml,Marie ist mein.,142,157,character_speech,1,4,,RATCLIFF,#ratcliff,189.0,MALE,no_annotation,no_annotation,no_annotation
+817,817,GerDracor/heine-william-ratcliff.xml,Mein Tagwerk ist vollbracht.,170,198,character_speech,1,4,,RATCLIFF,#ratcliff,189.0,MALE,joy,positive,emotions of pleasure
+818,818,GerDracor/heine-william-ratcliff.xml,"Ich komm, Marie.",199,215,character_speech,1,4,,RATCLIFF,#ratcliff,189.0,MALE,no_annotation,no_annotation,no_annotation
+819,819,GerDracor/heine-william-ratcliff.xml,Er geht ins Kabinett; man hört inwendig seine Stimme.,0,53,stage_direction,1,4,speech_part,,#ratcliff,189.0,MALE,no_annotation,no_annotation,no_annotation
+820,820,GerDracor/heine-william-ratcliff.xml,"Hier bin ich, süßes, weißes Lieb.",0,33,character_speech,1,4,,RATCLIFF,#ratcliff,189.0,MALE,love,positive,emotions of affection
+821,821,GerDracor/heine-william-ratcliff.xml,Maria!,34,40,character_speech,1,4,,RATCLIFF,#ratcliff,189.0,MALE,being moved,being moved,being moved
+822,822,GerDracor/heine-william-ratcliff.xml,Es fällt ein Schuß im Kabinette.,0,32,stage_direction,1,4,speech_part,,#ratcliff,189.0,MALE,no_annotation,no_annotation,no_annotation
+823,823,GerDracor/heine-william-ratcliff.xml,"Die zwei Nebelbilder erscheinen von beiden Seiten, stürzen sich hastig in die Arme,
+            halten sich fest umschlungen und verschwinden.",0,142,stage_direction,1,4,speech_part,,#ratcliff,189.0,MALE,being moved,being moved,being moved
+824,824,GerDracor/heine-william-ratcliff.xml,"Man hört lautes Rufen und verworrene
+            Stimmen.",143,200,stage_direction,1,4,speech_part,,#ratcliff,189.0,MALE,being moved,being moved,being moved
+825,825,GerDracor/heine-william-ratcliff.xml,Die Vorigen.,0,12,stage_direction,1,4,speech_part,,#ratcliff,189.0,MALE,no_annotation,no_annotation,no_annotation
+826,826,GerDracor/heine-william-ratcliff.xml,Jesus Marie!,0,12,character_speech,1,4,,EIN DIENER.,#ein_diener,190.0,MALE,being moved,being moved,being moved
+827,827,GerDracor/heine-william-ratcliff.xml,hier liegt der edle Herr!,13,38,character_speech,1,4,,EIN DIENER.,#ein_diener,190.0,MALE,"admiration, reverence",positive,emotions of affection
+828,828,GerDracor/heine-william-ratcliff.xml,Mac-Gregor!,0,11,character_speech,1,4,,VIELE STIMMEN.,#viele_stimmen-alle,191.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+829,829,GerDracor/heine-william-ratcliff.xml,"
+            Tot!",0,17,character_speech,1,4,,DOUGLAS.,#douglas,192.0,MALE,despair,negative,emotions of anxiety
+830,830,GerDracor/heine-william-ratcliff.xml,tot ist der edle Laird.,18,41,character_speech,1,4,,DOUGLAS.,#douglas,192.0,MALE,no_annotation,no_annotation,no_annotation
+831,831,GerDracor/heine-william-ratcliff.xml,Sucht nur den Mörder.,54,75,character_speech,1,4,,DOUGLAS.,#douglas,192.0,MALE,no_annotation,no_annotation,no_annotation
+832,832,GerDracor/heine-william-ratcliff.xml,Schließt des Schlosses Pforte.,76,106,character_speech,1,4,,DOUGLAS.,#douglas,192.0,MALE,no_annotation,no_annotation,no_annotation
+833,833,GerDracor/heine-william-ratcliff.xml,"richtet sich langsam in die Höhe, nähert sich der Leiche Mac-Gregors und spricht im
+            wahnsinnigen Tone.",0,114,stage_direction,1,4,speech_part,,#margarete,193.0,FEMALE,being moved,being moved,being moved
+834,834,GerDracor/heine-william-ratcliff.xml,"
+            Ei!",0,16,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,being moved,being moved,being moved
+835,835,GerDracor/heine-william-ratcliff.xml,ei!,17,20,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+836,836,GerDracor/heine-william-ratcliff.xml,"so blutig und so bleich lag auch
+            Der tote Edward Ratcliff an der Schloßmau'r.",21,110,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,suffering,negative,emotions of suffering and empathy
+837,837,GerDracor/heine-william-ratcliff.xml,"Der böse, zornige Mac-Gregor hatte
+            Den armen Edward Ratcliff totgeschlagen!",123,210,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,anger,negative,emotions of rejection
+838,838,GerDracor/heine-william-ratcliff.xml,–,211,212,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+839,839,GerDracor/heine-william-ratcliff.xml,Weinend.,0,8,stage_direction,1,4,speech_part,,#margarete,193.0,FEMALE,suffering,negative,emotions of suffering and empathy
+840,840,GerDracor/heine-william-ratcliff.xml,–,9,10,stage_direction,1,4,speech_part,,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+841,841,GerDracor/heine-william-ratcliff.xml,"
+            Ich hab es nicht getan, hab's nur gewußt.",0,54,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+842,842,GerDracor/heine-william-ratcliff.xml,Und den –,67,76,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+843,843,GerDracor/heine-william-ratcliff.xml,Zeigt nach Mac-Gregors Leiche.,0,30,stage_direction,1,4,speech_part,,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+844,844,GerDracor/heine-william-ratcliff.xml,–,31,32,stage_direction,1,4,speech_part,,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+845,845,GerDracor/heine-william-ratcliff.xml,"
+            hat William Ratcliff totgeschlagen –
+            Und auch der William hat jetzt Ruh'.",0,98,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+846,846,GerDracor/heine-william-ratcliff.xml,"Er schläft
+            Jetzt bei Marie – still!",99,146,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+847,847,GerDracor/heine-william-ratcliff.xml,still!,147,153,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,anger,negative,emotions of rejection
+848,848,GerDracor/heine-william-ratcliff.xml,– weckt sie nicht auf –,154,177,character_speech,1,4,,MARGARETE,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+849,849,GerDracor/heine-william-ratcliff.xml,Sie geht auf den Fußzehen nach dem Kabinette und hebt die Gardine desselben auf.,0,80,stage_direction,1,4,speech_part,,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+850,850,GerDracor/heine-william-ratcliff.xml,Man sieht die Leichen von Maria und William Ratcliff.,93,146,stage_direction,1,4,speech_part,,#margarete,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+851,851,GerDracor/heine-william-ratcliff.xml,Entsetzlich!,0,12,character_speech,1,4,,ALLE.,#viele_stimmen-alle,194.0,UNKNOWN,fear,negative,emotions of anxiety
+852,852,GerDracor/heine-william-ratcliff.xml,vergnügt lachend.,0,17,stage_direction,1,4,speech_part,,#margarete,195.0,FEMALE,joy,positive,emotions of pleasure
+853,853,GerDracor/heine-william-ratcliff.xml,Sie sehn fast aus wie Edward und Schön-Betty!,0,45,character_speech,1,4,,MARGARETE,#margarete,195.0,FEMALE,no_annotation,no_annotation,no_annotation

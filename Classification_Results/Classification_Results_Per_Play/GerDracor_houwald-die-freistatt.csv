@@ -1,0 +1,888 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/houwald-die-freistatt.xml,"Ein kleines hallenartiges Zimmer, durch eine von der Decke herabhangende Ampel nur
+          matt erleuchtet.",0,109,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+1,1,GerDracor/houwald-die-freistatt.xml,An der Seite eine Ruhebank.,110,137,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+2,2,GerDracor/houwald-die-freistatt.xml,"Im Hintergrunde ein großer Vorhang, der einen
+          weiten Ausgang verdeckt.",138,218,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+3,3,GerDracor/houwald-die-freistatt.xml,Sara v. Ulstrade.,0,17,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+4,4,GerDracor/houwald-die-freistatt.xml,Johannes Bruck.,18,33,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+5,5,GerDracor/houwald-die-freistatt.xml,Ich hab' Euch eine Leiche hergebracht.,0,38,character_speech,1,1,,Sara.,#sara,1.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+6,6,GerDracor/houwald-die-freistatt.xml,Vorgestern Nacht,0,16,character_speech,1,1,,Sara.,#sara,1.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+7,7,GerDracor/houwald-die-freistatt.xml,Ist jene arme Frau verschieden.,0,31,character_speech,1,1,,Sara.,#sara,1.0,FEMALE,compassion,T,,1817.0,negative,emotions of suffering and empathy
+8,8,GerDracor/houwald-die-freistatt.xml,–,32,33,character_speech,1,1,,Sara.,#sara,1.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+9,9,GerDracor/houwald-die-freistatt.xml,"Und nun, mein Freund, gebt sorgsam acht,",0,40,character_speech,1,1,,Sara.,#sara,1.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+10,10,GerDracor/houwald-die-freistatt.xml,"Ob zu befürchten steht, daß sie hienieden",0,41,character_speech,1,1,,Sara.,#sara,1.0,FEMALE,fear,T,,1817.0,negative,emotions of anxiety
+11,11,GerDracor/houwald-die-freistatt.xml,Vielleicht doch noch einmal erwacht!,0,36,character_speech,1,1,,Sara.,#sara,1.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+12,12,GerDracor/houwald-die-freistatt.xml,Befürchten?,0,11,character_speech,1,1,,Johannes.,#johannes,2.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+13,13,GerDracor/houwald-die-freistatt.xml,"– paßt es nicht in Euren Kram,",12,42,character_speech,1,1,,Johannes.,#johannes,2.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+14,14,GerDracor/houwald-die-freistatt.xml,"Wenn er, der ihr das Leben nahm,",0,32,character_speech,1,1,,Johannes.,#johannes,2.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+15,15,GerDracor/houwald-die-freistatt.xml,Es noch einmal auf kurze Zeit verliehe?,0,39,character_speech,1,1,,Johannes.,#johannes,2.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+16,16,GerDracor/houwald-die-freistatt.xml,–,40,41,character_speech,1,1,,Johannes.,#johannes,2.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+17,17,GerDracor/houwald-die-freistatt.xml,Das wohl!,0,9,character_speech,1,1,,Sara.,#sara,3.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+18,18,GerDracor/houwald-die-freistatt.xml,Die Freundin starb mir viel zu frühe!,10,47,character_speech,1,1,,Sara.,#sara,3.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+19,19,GerDracor/houwald-die-freistatt.xml,"Doch soll der Schiffer immer noch nicht landen,",0,47,character_speech,1,1,,Sara.,#sara,3.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+20,20,GerDracor/houwald-die-freistatt.xml,Der schon die Arme nach dem Ufer streckt?,0,41,character_speech,1,1,,Sara.,#sara,3.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+21,21,GerDracor/houwald-die-freistatt.xml,–,42,43,character_speech,1,1,,Sara.,#sara,3.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+22,22,GerDracor/houwald-die-freistatt.xml,"Freund, wer einmal den heissen Kampf bestanden,",0,47,character_speech,1,1,,Sara.,#sara,3.0,FEMALE,friendship,T,,1817.0,positive,emotions of affection
+23,23,GerDracor/houwald-die-freistatt.xml,"Dem gönn' ich, daß man ihn nicht wieder weckt.",0,46,character_speech,1,1,,Sara.,#sara,3.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+24,24,GerDracor/houwald-die-freistatt.xml,Ihr habt wohl Recht!,0,20,character_speech,1,1,,Johannes.,#johannes,4.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+25,25,GerDracor/houwald-die-freistatt.xml,"– es wäre fast, als führte",21,47,character_speech,1,1,,Johannes.,#johannes,4.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+26,26,GerDracor/houwald-die-freistatt.xml,Man vom Schaffot aus Todesangst und Pein,0,40,character_speech,1,1,,Johannes.,#johannes,4.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+27,27,GerDracor/houwald-die-freistatt.xml,"Den armen Sünder wieder heim, und rührte",0,40,character_speech,1,1,,Johannes.,#johannes,4.0,MALE,compassion,T,,1817.0,negative,emotions of suffering and empathy
+28,28,GerDracor/houwald-die-freistatt.xml,Ihm noch einmal die Henkersmahlzeit ein.,0,40,character_speech,1,1,,Johannes.,#johannes,4.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+29,29,GerDracor/houwald-die-freistatt.xml,"Drum mag sie ruh'n, und ich will Wache halten;",0,46,character_speech,1,1,,Johannes.,#johannes,4.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+30,30,GerDracor/houwald-die-freistatt.xml,"Doch schläft sie fest, so daß sie nichts mehr weckt,",0,52,character_speech,1,1,,Johannes.,#johannes,4.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+31,31,GerDracor/houwald-die-freistatt.xml,Dann sey das Kissen leicht auf sie gedeckt.,0,43,character_speech,1,1,,Johannes.,#johannes,4.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+32,32,GerDracor/houwald-die-freistatt.xml,Ein schauerliches Amt müßt Ihr verwalten.,0,41,character_speech,1,1,,Sara.,#sara,5.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+33,33,GerDracor/houwald-die-freistatt.xml,Fühlt Ihr Euch nie von Geisterfurcht erschreckt?,0,48,character_speech,1,1,,Sara.,#sara,5.0,FEMALE,fear,T,,1817.0,negative,emotions of anxiety
+34,34,GerDracor/houwald-die-freistatt.xml,Nein!,0,5,character_speech,1,1,,Johannes.,#johannes,6.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+35,35,GerDracor/houwald-die-freistatt.xml,"Geister, o!",6,17,character_speech,1,1,,Johannes.,#johannes,6.0,MALE,being moved,T,,1817.0,being moved,being moved
+36,36,GerDracor/houwald-die-freistatt.xml,sie wären mir willkommen!,18,43,character_speech,1,1,,Johannes.,#johannes,6.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+37,37,GerDracor/houwald-die-freistatt.xml,"Ich wohne hier so einsam, so allein!",0,36,character_speech,1,1,,Johannes.,#johannes,6.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+38,38,GerDracor/houwald-die-freistatt.xml,– –,37,40,character_speech,1,1,,Johannes.,#johannes,6.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+39,39,GerDracor/houwald-die-freistatt.xml,"Doch wen das Jenseit einmal aufgenommen,",0,40,character_speech,1,1,,Johannes.,#johannes,6.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+40,40,GerDracor/houwald-die-freistatt.xml,Der mag nicht mehr den Gräbern nahe seyn.,0,41,character_speech,1,1,,Johannes.,#johannes,6.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+41,41,GerDracor/houwald-die-freistatt.xml,"Glaubt nur, ich lauscht' an jener dunklen Pforte,",0,49,character_speech,1,1,,Johannes.,#johannes,6.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+42,42,GerDracor/houwald-die-freistatt.xml,"Neugierig oft und horchend, wie ein Kind,",0,41,character_speech,1,1,,Johannes.,#johannes,6.0,MALE,being moved,T,,1817.0,being moved,being moved
+43,43,GerDracor/houwald-die-freistatt.xml,Doch nimmermehr vernahm ich leise Worte.,0,40,character_speech,1,1,,Johannes.,#johannes,6.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+44,44,GerDracor/houwald-die-freistatt.xml,Sie ruh'n wohl all' in Friede!,0,30,character_speech,1,1,,Sara.,#sara,7.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+45,45,GerDracor/houwald-die-freistatt.xml,"– Selig sind,",31,44,character_speech,1,1,,Sara.,#sara,7.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+46,46,GerDracor/houwald-die-freistatt.xml,Die in dem Herrn entschliefen!,0,30,character_speech,1,1,,Sara.,#sara,7.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+47,47,GerDracor/houwald-die-freistatt.xml,– Darum gönn',31,44,character_speech,1,1,,Sara.,#sara,7.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+48,48,GerDracor/houwald-die-freistatt.xml,Ich meiner armen Freundin auch die Ruh.,0,39,character_speech,1,1,,Sara.,#sara,7.0,FEMALE,friendship,T,,1817.0,positive,emotions of affection
+49,49,GerDracor/houwald-die-freistatt.xml,"O nennt mir sie, auf daß auch ich sie kenne,",0,44,character_speech,1,1,,Johannes.,#johannes,8.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+50,50,GerDracor/houwald-die-freistatt.xml,Eh' ich sie deck' auf ewig zu.,0,30,character_speech,1,1,,Johannes.,#johannes,8.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+51,51,GerDracor/houwald-die-freistatt.xml,Ich kann Euch nicht den theuren Namen sagen!,0,44,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+52,52,GerDracor/houwald-die-freistatt.xml,–,45,46,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+53,53,GerDracor/houwald-die-freistatt.xml,"Es wird Euch doch hier Niemand fragen,",0,38,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+54,54,GerDracor/houwald-die-freistatt.xml,Wo Ihr sie einsam scharrtet ein?,0,32,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+55,55,GerDracor/houwald-die-freistatt.xml,– –,33,36,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+56,56,GerDracor/houwald-die-freistatt.xml,"Ach, dieses Weib hat viel verloren,",0,35,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+57,57,GerDracor/houwald-die-freistatt.xml,"Und schien vom Schicksal doch erkoren,",0,38,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+58,58,GerDracor/houwald-die-freistatt.xml,Die Glücklichste der Glücklichen zu seyn!,0,41,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+59,59,GerDracor/houwald-die-freistatt.xml,–,42,43,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+60,60,GerDracor/houwald-die-freistatt.xml,"Hold war sie, wie die Ros' im Lenze,",0,36,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+61,61,GerDracor/houwald-die-freistatt.xml,Und ihre schönsten Myrthen-Kränze,0,33,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+62,62,GerDracor/houwald-die-freistatt.xml,Flocht früh die Lieb' ihr durch das Haar.,0,41,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+63,63,GerDracor/houwald-die-freistatt.xml,"Es hatte sie ein Mann zum Weib' erkiesen,",0,41,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+64,64,GerDracor/houwald-die-freistatt.xml,"Der von dem Vaterland gepriesen,",0,32,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+65,65,GerDracor/houwald-die-freistatt.xml,"Als Held, als Mensch, als Gatte war.",0,36,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+66,66,GerDracor/houwald-die-freistatt.xml,Ein lieblich Kind ward ihr gegeben;,0,35,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+67,67,GerDracor/houwald-die-freistatt.xml,Sein junges Leben,0,17,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+68,68,GerDracor/houwald-die-freistatt.xml,Ging wie ein goldner Morgen auf.,0,32,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+69,69,GerDracor/houwald-die-freistatt.xml,–,33,34,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+70,70,GerDracor/houwald-die-freistatt.xml,"So stand sie in der Freunde Mitte,",0,34,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+71,71,GerDracor/houwald-die-freistatt.xml,Und Segen floß auf ihre Tritte,0,30,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+72,72,GerDracor/houwald-die-freistatt.xml,Wie Himmelsthau auf Blumen drauf.,0,33,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+73,73,GerDracor/houwald-die-freistatt.xml,– –,34,37,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+74,74,GerDracor/houwald-die-freistatt.xml,Das alles hat man ihr genommen!,0,31,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+75,75,GerDracor/houwald-die-freistatt.xml,– –,32,35,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+76,76,GerDracor/houwald-die-freistatt.xml,Zu mir gekommen,0,15,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+77,77,GerDracor/houwald-die-freistatt.xml,Ist sie als eine Bettlerin.,0,27,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,abhorrence,T,,1817.0,negative,emotions of rejection
+78,78,GerDracor/houwald-die-freistatt.xml,– –,28,31,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+79,79,GerDracor/houwald-die-freistatt.xml,"Von allem war ihr nichts geblieben,",0,35,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+80,80,GerDracor/houwald-die-freistatt.xml,"Als nur das treue Herz zum Lieben,",0,34,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+81,81,GerDracor/houwald-die-freistatt.xml,Als der ergeb'ne fromme Sinn.,0,29,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+82,82,GerDracor/houwald-die-freistatt.xml,–,30,31,character_speech,1,1,,Sara.,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+83,83,GerDracor/houwald-die-freistatt.xml,Sie trocknet die Augen.,0,23,stage_direction,1,1,speech_part,,#sara,9.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+84,84,GerDracor/houwald-die-freistatt.xml,abgewendet für sich.,0,20,stage_direction,1,1,speech_part,,#johannes,10.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+85,85,GerDracor/houwald-die-freistatt.xml,"Von allem ist mir nichts geblieben,",0,35,character_speech,1,1,,"Johannes,",#johannes,10.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+86,86,GerDracor/houwald-die-freistatt.xml,"Und in der heissen Kraft zu lieben,",0,35,character_speech,1,1,,"Johannes,",#johannes,10.0,MALE,love,T,,1817.0,positive,emotions of affection
+87,87,GerDracor/houwald-die-freistatt.xml,Sinkt still verzehrt das Herz dahin!,0,36,character_speech,1,1,,"Johannes,",#johannes,10.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+88,88,GerDracor/houwald-die-freistatt.xml,– –,37,40,character_speech,1,1,,"Johannes,",#johannes,10.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+89,89,GerDracor/houwald-die-freistatt.xml,Zu Sara.,0,8,stage_direction,1,1,speech_part,,#johannes,10.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+90,90,GerDracor/houwald-die-freistatt.xml,Weint nicht!,0,12,character_speech,1,1,,"Johannes,",#johannes,10.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+91,91,GerDracor/houwald-die-freistatt.xml,Sie ruht!,13,22,character_speech,1,1,,"Johannes,",#johannes,10.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+92,92,GerDracor/houwald-die-freistatt.xml,– der Sturm des Lebens,23,45,character_speech,1,1,,"Johannes,",#johannes,10.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+93,93,GerDracor/houwald-die-freistatt.xml,"Schlägt an die Feste hier vergebens,",0,36,character_speech,1,1,,"Johannes,",#johannes,10.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+94,94,GerDracor/houwald-die-freistatt.xml,In welcher ich der Schirmvogt bin.,0,34,character_speech,1,1,,"Johannes,",#johannes,10.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+95,95,GerDracor/houwald-die-freistatt.xml,"Freund, eben darum, ach!",0,24,character_speech,1,1,,Sara.,#sara,11.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+96,96,GerDracor/houwald-die-freistatt.xml,beneide,25,32,character_speech,1,1,,Sara.,#sara,11.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+97,97,GerDracor/houwald-die-freistatt.xml,Ich die Verblichne!,0,19,character_speech,1,1,,Sara.,#sara,11.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+98,98,GerDracor/houwald-die-freistatt.xml,"– Glaubt es mir,",20,36,character_speech,1,1,,Sara.,#sara,11.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+99,99,GerDracor/houwald-die-freistatt.xml,Fast läg' ich gern im Sterbekleide,0,34,character_speech,1,1,,Sara.,#sara,11.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+100,100,GerDracor/houwald-die-freistatt.xml,Statt ihrer auf der Bahre hier.,0,31,character_speech,1,1,,Sara.,#sara,11.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+101,101,GerDracor/houwald-die-freistatt.xml,Wie kommt Ihr zu den Grabgedanken?,0,34,character_speech,1,1,,Johannes.,#johannes,12.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+102,102,GerDracor/houwald-die-freistatt.xml,"Ihr seyd ja noch so jung und schön,",0,35,character_speech,1,1,,Johannes.,#johannes,12.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+103,103,GerDracor/houwald-die-freistatt.xml,Und habt wohl kaum des Lebens Schranken,0,39,character_speech,1,1,,Johannes.,#johannes,12.0,MALE,love,T,,1817.0,positive,emotions of affection
+104,104,GerDracor/houwald-die-freistatt.xml,Sich Eurem Blick erst öffnen seh'n.,0,35,character_speech,1,1,,Johannes.,#johannes,12.0,MALE,love,T,,1817.0,positive,emotions of affection
+105,105,GerDracor/houwald-die-freistatt.xml,Ach!,0,4,character_speech,1,1,,Sara.,#sara,13.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+106,106,GerDracor/houwald-die-freistatt.xml,"wer das Kleinod, ihm vor allem theuer,",5,43,character_speech,1,1,,Sara.,#sara,13.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+107,107,GerDracor/houwald-die-freistatt.xml,"So unverschuldet früh verlor, wie ich,",0,38,character_speech,1,1,,Sara.,#sara,13.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+108,108,GerDracor/houwald-die-freistatt.xml,"Der kehrt sich von des Lebens Festtagsfeier,",0,44,character_speech,1,1,,Sara.,#sara,13.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+109,109,GerDracor/houwald-die-freistatt.xml,Und wendet zu den Gräbern sich.,0,31,character_speech,1,1,,Sara.,#sara,13.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+110,110,GerDracor/houwald-die-freistatt.xml,Noch blüh'n der Blumen wohl für Eure Pfade!,0,43,character_speech,1,1,,Johannes.,#johannes,14.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+111,111,GerDracor/houwald-die-freistatt.xml,"Doch, edle Frau, nennt Euren Namen mir.",0,39,character_speech,1,1,,Johannes.,#johannes,14.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+112,112,GerDracor/houwald-die-freistatt.xml,Ich heiße Sara von Ulstrade.,0,28,character_speech,1,1,,Sara.,#sara,15.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+113,113,GerDracor/houwald-die-freistatt.xml,erstaunt.,0,9,stage_direction,1,1,speech_part,,#johannes,16.0,MALE,being moved,T,,1817.0,being moved,being moved
+114,114,GerDracor/houwald-die-freistatt.xml,Ulstradens Gattin?,0,18,character_speech,1,1,,"Johannes,",#johannes,16.0,MALE,being moved,T,,1817.0,being moved,being moved
+115,115,GerDracor/houwald-die-freistatt.xml,– des Senators hier?,19,39,character_speech,1,1,,"Johannes,",#johannes,16.0,MALE,being moved,T,,1817.0,being moved,being moved
+116,116,GerDracor/houwald-die-freistatt.xml,Desselben.,0,10,character_speech,1,1,,Sara.,#sara,17.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+117,117,GerDracor/houwald-die-freistatt.xml,"– Doch behaltet ja den Glauben,",11,42,character_speech,1,1,,Sara.,#sara,17.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+118,118,GerDracor/houwald-die-freistatt.xml,Ich wäre eine hochbeglückte Frau.,0,33,character_speech,1,1,,Sara.,#sara,17.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+119,119,GerDracor/houwald-die-freistatt.xml,Ihr seyd es auch!,0,17,character_speech,1,1,,Johannes.,#johannes,18.0,MALE,love,T,,1817.0,positive,emotions of affection
+120,120,GerDracor/houwald-die-freistatt.xml,ich lass' ihn mir nicht rauben!,18,49,character_speech,1,1,,Johannes.,#johannes,18.0,MALE,love,T,,1817.0,positive,emotions of affection
+121,121,GerDracor/houwald-die-freistatt.xml,Ich kenne Euren Ehgemahl genau.,0,31,character_speech,1,1,,Johannes.,#johannes,18.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+122,122,GerDracor/houwald-die-freistatt.xml,"Dann liebt Ihr ihn, dann müßt Ihr ihn verehren!",0,47,character_speech,1,1,,Sara.,#sara,19.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+123,123,GerDracor/houwald-die-freistatt.xml,"Wer ist, wie er, der Lieb' und Achtung werth?",0,45,character_speech,1,1,,Sara.,#sara,19.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+124,124,GerDracor/houwald-die-freistatt.xml,–,46,47,character_speech,1,1,,Sara.,#sara,19.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+125,125,GerDracor/houwald-die-freistatt.xml,"Drum, was ein armes Frauenherz beschwert,",0,41,character_speech,1,1,,Sara.,#sara,19.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+126,126,GerDracor/houwald-die-freistatt.xml,Soll Euren Glauben an ihn nicht zerstören.,0,42,character_speech,1,1,,Sara.,#sara,19.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+127,127,GerDracor/houwald-die-freistatt.xml,–,43,44,character_speech,1,1,,Sara.,#sara,19.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+128,128,GerDracor/houwald-die-freistatt.xml,Gehabt Euch wohl!,0,17,character_speech,1,1,,Sara.,#sara,19.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+129,129,GerDracor/houwald-die-freistatt.xml,– Vergesset meine Worte!,18,42,character_speech,1,1,,Sara.,#sara,19.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+130,130,GerDracor/houwald-die-freistatt.xml,"Wer Gräber baut, wird ja verschwiegen seyn!",0,43,character_speech,1,1,,Sara.,#sara,19.0,FEMALE,abhorrence,T,,1817.0,negative,emotions of rejection
+131,131,GerDracor/houwald-die-freistatt.xml,Gestrenge Frau!,0,15,character_speech,1,1,,Johannes.,#johannes,20.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+132,132,GerDracor/houwald-die-freistatt.xml,"Ihr wollet mir verzeih'n,",16,41,character_speech,1,1,,Johannes.,#johannes,20.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+133,133,GerDracor/houwald-die-freistatt.xml,Ich lass' Euch nicht von diesem stillen Orte;,0,45,character_speech,1,1,,Johannes.,#johannes,20.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+134,134,GerDracor/houwald-die-freistatt.xml,Will Eurem Kummer erst in's Auge sehen.,0,39,character_speech,1,1,,Johannes.,#johannes,20.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+135,135,GerDracor/houwald-die-freistatt.xml,"Glaubt nur, in eines Todtengräbers Brust",0,40,character_speech,1,1,,Johannes.,#johannes,20.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+136,136,GerDracor/houwald-die-freistatt.xml,"Schlägt auch ein Herz, das Eure zu verstehen,",0,45,character_speech,1,1,,Johannes.,#johannes,20.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+137,137,GerDracor/houwald-die-freistatt.xml,"Und seyd Ihr selbst Euch keiner Schuld bewußt,",0,46,character_speech,1,1,,Johannes.,#johannes,20.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+138,138,GerDracor/houwald-die-freistatt.xml,Verheiß' ich Rath und Hülfe.,0,28,character_speech,1,1,,Johannes.,#johannes,20.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+139,139,GerDracor/houwald-die-freistatt.xml,Euer Wille,0,10,character_speech,1,1,,Sara.,#sara,21.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+140,140,GerDracor/houwald-die-freistatt.xml,Gilt für die That.,0,18,character_speech,1,1,,Sara.,#sara,21.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+141,141,GerDracor/houwald-die-freistatt.xml,"– Doch, guter Mann,",19,38,character_speech,1,1,,Sara.,#sara,21.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+142,142,GerDracor/houwald-die-freistatt.xml,Ein schuldlos Herz erduldet in der Stille;,0,42,character_speech,1,1,,Sara.,#sara,21.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+143,143,GerDracor/houwald-die-freistatt.xml,"Der liebt nur rein, wer schweigen kann.",0,39,character_speech,1,1,,Sara.,#sara,21.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+144,144,GerDracor/houwald-die-freistatt.xml,So?,0,3,character_speech,1,1,,Johannes.,#johannes,22.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+145,145,GerDracor/houwald-die-freistatt.xml,– Nun dann kann ich Euer Leid nicht enden.,4,46,character_speech,1,1,,Johannes.,#johannes,22.0,MALE,compassion,T,,1817.0,negative,emotions of suffering and empathy
+146,146,GerDracor/houwald-die-freistatt.xml,"Wär's Ehekummer, hätt' ich doch gehofft,",0,40,character_speech,1,1,,Johannes.,#johannes,22.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+147,147,GerDracor/houwald-die-freistatt.xml,"Ihn durch Vertrau'n leicht wieder abzuwenden,",0,45,character_speech,1,1,,Johannes.,#johannes,22.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+148,148,GerDracor/houwald-die-freistatt.xml,"Denn Euren Ehgemahl, ihn sprech' ich oft.",0,41,character_speech,1,1,,Johannes.,#johannes,22.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+149,149,GerDracor/houwald-die-freistatt.xml,Wie?,0,4,character_speech,1,1,,Sara.,#sara,23.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+150,150,GerDracor/houwald-die-freistatt.xml,meinen Mann?,5,17,character_speech,1,1,,Sara.,#sara,23.0,FEMALE,being moved,T,,1817.0,being moved,being moved
+151,151,GerDracor/houwald-die-freistatt.xml,– Wann könnte dieß geschehen?,18,47,character_speech,1,1,,Sara.,#sara,23.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+152,152,GerDracor/houwald-die-freistatt.xml,Ist er denn nimmer von Euch fern?,0,33,character_speech,1,1,,Johannes.,#johannes,24.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+153,153,GerDracor/houwald-die-freistatt.xml,Habt Ihr sein Schlafgemach nie leer gesehen?,0,44,character_speech,1,1,,Johannes.,#johannes,24.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+154,154,GerDracor/houwald-die-freistatt.xml,bewegt.,0,7,stage_direction,1,1,speech_part,,#sara,25.0,FEMALE,being moved,T,,1817.0,being moved,being moved
+155,155,GerDracor/houwald-die-freistatt.xml,"Ich bitt' Euch, sprecht, wo sah't Ihr meinen Herrn?",0,51,character_speech,1,1,,"Sara,",#sara,25.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+156,156,GerDracor/houwald-die-freistatt.xml,–,52,53,character_speech,1,1,,"Sara,",#sara,25.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+157,157,GerDracor/houwald-die-freistatt.xml,Hier sah' ich ihn.,0,18,character_speech,1,1,,Johannes.,#johannes,26.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+158,158,GerDracor/houwald-die-freistatt.xml,– In diesen stillen Mauern,19,45,character_speech,1,1,,Johannes.,#johannes,26.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+159,159,GerDracor/houwald-die-freistatt.xml,Weilt er allnächtlich – aber nicht allein.,0,42,character_speech,1,1,,Johannes.,#johannes,26.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+160,160,GerDracor/houwald-die-freistatt.xml,Schweigt!,0,9,character_speech,1,1,,Sara.,#sara,27.0,FEMALE,anger,T,,1817.0,negative,emotions of rejection
+161,161,GerDracor/houwald-die-freistatt.xml,"– ich mag sein Geheimniß nicht erlauern,",10,50,character_speech,1,1,,Sara.,#sara,27.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+162,162,GerDracor/houwald-die-freistatt.xml,Und bitte Gott: er möge schuldlos seyn!,0,39,character_speech,1,1,,Sara.,#sara,27.0,FEMALE,compassion,T,,1817.0,negative,emotions of suffering and empathy
+163,163,GerDracor/houwald-die-freistatt.xml,–,40,41,character_speech,1,1,,Sara.,#sara,27.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+164,164,GerDracor/houwald-die-freistatt.xml,Ist dieß vielleicht der Kummer Eurer Seele?,0,43,character_speech,1,1,,Johannes.,#johannes,28.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+165,165,GerDracor/houwald-die-freistatt.xml,–,44,45,character_speech,1,1,,Johannes.,#johannes,28.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+166,166,GerDracor/houwald-die-freistatt.xml,Ward nicht in Euch ein leiser Argwohn laut?,0,43,character_speech,1,1,,Johannes.,#johannes,28.0,MALE,being moved,T,,1817.0,being moved,being moved
+167,167,GerDracor/houwald-die-freistatt.xml,–,44,45,character_speech,1,1,,Johannes.,#johannes,28.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+168,168,GerDracor/houwald-die-freistatt.xml,"Zürnt nicht, wenn ich Euch das Geheimniß stehle;",0,48,character_speech,1,1,,Johannes.,#johannes,28.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+169,169,GerDracor/houwald-die-freistatt.xml,"Ich glaub', ich hab' Euch tief durchschaut.",0,43,character_speech,1,1,,Johannes.,#johannes,28.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+170,170,GerDracor/houwald-die-freistatt.xml,"Da Sara schweigt, fährt er fort.",0,32,stage_direction,1,1,speech_part,,#johannes,28.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+171,171,GerDracor/houwald-die-freistatt.xml,"Entdeckt Euch mir, fühlt Ihr Euch rein im Herzen!",0,49,character_speech,1,1,,Johannes.,#johannes,28.0,MALE,love,T,,1817.0,positive,emotions of affection
+172,172,GerDracor/houwald-die-freistatt.xml,"Ich steh' Euch näher, als Ihr denkt,",0,36,character_speech,1,1,,Johannes.,#johannes,28.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+173,173,GerDracor/houwald-die-freistatt.xml,"Und schwör' es Euch, ich tilge Eure Schmerzen,",0,46,character_speech,1,1,,Johannes.,#johannes,28.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+174,174,GerDracor/houwald-die-freistatt.xml,Eh' sich der Tag noch einmal senkt.,0,35,character_speech,1,1,,Johannes.,#johannes,28.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+175,175,GerDracor/houwald-die-freistatt.xml,schüchtern.,0,11,stage_direction,1,1,speech_part,,#sara,29.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+176,176,GerDracor/houwald-die-freistatt.xml,Wer aber seyd Ihr?,0,18,character_speech,1,1,,"Sara,",#sara,29.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+177,177,GerDracor/houwald-die-freistatt.xml,– daß ich Euch vertraue?,19,43,character_speech,1,1,,"Sara,",#sara,29.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+178,178,GerDracor/houwald-die-freistatt.xml,–,44,45,character_speech,1,1,,"Sara,",#sara,29.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+179,179,GerDracor/houwald-die-freistatt.xml,Fragt nicht!,0,12,character_speech,1,1,,Johannes.,#johannes,30.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+180,180,GerDracor/houwald-die-freistatt.xml,"– Jetzt bin der Todtengräber ich,",13,46,character_speech,1,1,,Johannes.,#johannes,30.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+181,181,GerDracor/houwald-die-freistatt.xml,"Und weil ich feste, ew'ge Häuser baue,",0,38,character_speech,1,1,,Johannes.,#johannes,30.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+182,182,GerDracor/houwald-die-freistatt.xml,So baut auch nur getrost auf mich.,0,34,character_speech,1,1,,Johannes.,#johannes,30.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+183,183,GerDracor/houwald-die-freistatt.xml,Liebt Ihr Ulstraden auch?,0,25,character_speech,1,1,,Sara.,#sara,31.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+184,184,GerDracor/houwald-die-freistatt.xml,–,26,27,character_speech,1,1,,Sara.,#sara,31.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+185,185,GerDracor/houwald-die-freistatt.xml,In vollem Sinne!,0,16,character_speech,1,1,,Johannes.,#johannes,32.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+186,186,GerDracor/houwald-die-freistatt.xml,"Ich fragt' Euch nimmer, wär' ich nicht sein Freund!",0,51,character_speech,1,1,,Johannes.,#johannes,32.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+187,187,GerDracor/houwald-die-freistatt.xml,"Freund meines Herrn, so hör', und dann beginne",0,46,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+188,188,GerDracor/houwald-die-freistatt.xml,"Dein Werk, das wieder uns vereint.",0,34,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+189,189,GerDracor/houwald-die-freistatt.xml,"Ich war ein glücklich Weib, und es zu bleiben",0,45,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+190,190,GerDracor/houwald-die-freistatt.xml,Fühlt' ich im Herzen Muth und Kraft.,0,36,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+191,191,GerDracor/houwald-die-freistatt.xml,"Ich will Euch nicht mein herrlich Loos beschreiben,",0,51,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+192,192,GerDracor/houwald-die-freistatt.xml,"Ihr kennt den Gatten, der mir's schafft.",0,40,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+193,193,GerDracor/houwald-die-freistatt.xml,"Nicht Liebe war's allein, wornach ich strebte,",0,46,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+194,194,GerDracor/houwald-die-freistatt.xml,"Auf meines Gatten unbedingt Vertrau'n,",0,38,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+195,195,GerDracor/houwald-die-freistatt.xml,"Das ich durch mein's in seiner Brust belebte,",0,45,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+196,196,GerDracor/houwald-die-freistatt.xml,Hofft' ich fest unser Glück zu bau'n.,0,37,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+197,197,GerDracor/houwald-die-freistatt.xml,"Und seht, es war mir endlich ja gelungen,",0,41,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+198,198,GerDracor/houwald-die-freistatt.xml,"Ich wußt' um alles, was er dacht' und that.",0,43,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+199,199,GerDracor/houwald-die-freistatt.xml,"Galt es in wicht'ger Zeit verschwieg'ne Zungen,",0,47,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+200,200,GerDracor/houwald-die-freistatt.xml,So saß ich dennoch mit zu Rath.,0,31,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+201,201,GerDracor/houwald-die-freistatt.xml,–,32,33,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+202,202,GerDracor/houwald-die-freistatt.xml,"Und blutete das arme Vaterland,",0,31,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+203,203,GerDracor/houwald-die-freistatt.xml,"Und reichten sich die Männer treu die Hand,",0,43,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+204,204,GerDracor/houwald-die-freistatt.xml,"Entgegen den Bedrängern kühn zu gehen,",0,38,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+205,205,GerDracor/houwald-die-freistatt.xml,"So durft' auch ich in ihrem Kreise stehen,",0,42,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+206,206,GerDracor/houwald-die-freistatt.xml,Zu segnen ihr geheiligt Band.,0,29,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+207,207,GerDracor/houwald-die-freistatt.xml,– –,30,33,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+208,208,GerDracor/houwald-die-freistatt.xml,Ach!,0,4,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+209,209,GerDracor/houwald-die-freistatt.xml,"aber schon seit Monden hingegangen,",5,40,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+210,210,GerDracor/houwald-die-freistatt.xml,Ruht ein Geheimniß in des Gatten Brust.,0,39,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+211,211,GerDracor/houwald-die-freistatt.xml,Ein düst'rer Ernst wohnt ihm auf Stirn und Wangen;,0,50,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+212,212,GerDracor/houwald-die-freistatt.xml,"Oft schleicht er nächtlich fort, mir kaum bewußt.",0,49,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+213,213,GerDracor/houwald-die-freistatt.xml,Was will er nicht auf meine Seele bauen?,0,40,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,being moved,T,,1817.0,being moved,being moved
+214,214,GerDracor/houwald-die-freistatt.xml,–,41,42,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+215,215,GerDracor/houwald-die-freistatt.xml,Was hält er diesem Herzen für zu schwer?,0,40,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+216,216,GerDracor/houwald-die-freistatt.xml,–,41,42,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+217,217,GerDracor/houwald-die-freistatt.xml,Ach!,0,4,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+218,218,GerDracor/houwald-die-freistatt.xml,ich verzeihe!,5,18,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+219,219,GerDracor/houwald-die-freistatt.xml,"– faßt' er nur Vertrauen,",19,44,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+220,220,GerDracor/houwald-die-freistatt.xml,Und sagt' es frei: »ich liebe Dich nicht mehr!« –,0,49,character_speech,1,1,,Sara.,#sara,33.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+221,221,GerDracor/houwald-die-freistatt.xml,"Nein, edle Frau!",0,16,character_speech,1,1,,Johannes.,#johannes,34.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+222,222,GerDracor/houwald-die-freistatt.xml,"– nein, in Ulstradens Seele",17,44,character_speech,1,1,,Johannes.,#johannes,34.0,MALE,love,T,,1817.0,positive,emotions of affection
+223,223,GerDracor/houwald-die-freistatt.xml,Wohnt einzig Sara's heißgeliebtes Bild.,0,39,character_speech,1,1,,Johannes.,#johannes,34.0,MALE,love,T,,1817.0,positive,emotions of affection
+224,224,GerDracor/houwald-die-freistatt.xml,"Doch will sie sein Vertrau'n, nun dann verhehle",0,47,character_speech,1,1,,Johannes.,#johannes,34.0,MALE,being moved,T,,1817.0,being moved,being moved
+225,225,GerDracor/houwald-die-freistatt.xml,"Auch sie ihm nicht, was ihre Brust erfüllt.",0,43,character_speech,1,1,,Johannes.,#johannes,34.0,MALE,love,T,,1817.0,positive,emotions of affection
+226,226,GerDracor/houwald-die-freistatt.xml,Auch Ihr habt ein Geheimniß auszutauschen.,0,42,character_speech,1,1,,Johannes.,#johannes,34.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+227,227,GerDracor/houwald-die-freistatt.xml,Wo weilt Ihr oft bei stiller Nacht?,0,35,character_speech,1,1,,Johannes.,#johannes,34.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+228,228,GerDracor/houwald-die-freistatt.xml,–,36,37,character_speech,1,1,,Johannes.,#johannes,34.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+229,229,GerDracor/houwald-die-freistatt.xml,"Ulstrade ist zu stolz, Euch zu belauschen,",0,42,character_speech,1,1,,Johannes.,#johannes,34.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+230,230,GerDracor/houwald-die-freistatt.xml,Ob man gleich viel ihm hinterbracht.,0,36,character_speech,1,1,,Johannes.,#johannes,34.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+231,231,GerDracor/houwald-die-freistatt.xml,War dieß sein Gram?,0,19,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+232,232,GerDracor/houwald-die-freistatt.xml,"Er soll es jetzt erfahren,",20,46,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+233,233,GerDracor/houwald-die-freistatt.xml,Was ich aus Lieb' und Schonung ihm verbarg.,0,43,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+234,234,GerDracor/houwald-die-freistatt.xml,"Ich brauch' es länger nicht mehr zu bewahren,",0,45,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+235,235,GerDracor/houwald-die-freistatt.xml,Viel sich'rer dort bewahrt's der Sarg.,0,38,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+236,236,GerDracor/houwald-die-freistatt.xml,"Dieß Weib, verlassen und verfolgt von allen,",0,44,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+237,237,GerDracor/houwald-die-freistatt.xml,"Mit einer Gramesbürde, ach!",0,27,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+238,238,GerDracor/houwald-die-freistatt.xml,so schwer!,28,38,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+239,239,GerDracor/houwald-die-freistatt.xml,"Das arme Leben Henkern selbst verfallen,",0,40,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+240,240,GerDracor/houwald-die-freistatt.xml,"Sie kam, um Schutz zu suchen, zu mir her.",0,41,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+241,241,GerDracor/houwald-die-freistatt.xml,"Und eingedenk der frühern Jugendliebe,",0,38,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+242,242,GerDracor/houwald-die-freistatt.xml,"Nahm ich sie auf bei mir,",0,25,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+243,243,GerDracor/houwald-die-freistatt.xml,"Und, daß es ja ein tief Geheimniß bliebe,",0,41,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+244,244,GerDracor/houwald-die-freistatt.xml,Stahl ich mich nur die Nacht zu ihr.,0,36,character_speech,1,1,,Sara.,#sara,35.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+245,245,GerDracor/houwald-die-freistatt.xml,Und weshalb durft' es Euer Herr nicht wissen?,0,45,character_speech,1,1,,Johannes.,#johannes,36.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+246,246,GerDracor/houwald-die-freistatt.xml,Sie wurde ja verfolgt von Schritt zu Schritt.,0,45,character_speech,1,1,,Sara.,#sara,37.0,FEMALE,fear,T,,1817.0,negative,emotions of anxiety
+247,247,GerDracor/houwald-die-freistatt.xml,"Wüßt' er's, dann hätt' er sie beschützen müssen,",0,48,character_speech,1,1,,Sara.,#sara,37.0,FEMALE,fear,T,,1817.0,negative,emotions of anxiety
+248,248,GerDracor/houwald-die-freistatt.xml,Dann ward ihr Unglück auch das seine mit.,0,41,character_speech,1,1,,Sara.,#sara,37.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+249,249,GerDracor/houwald-die-freistatt.xml,Ihr hattet recht!,0,17,character_speech,1,1,,Johannes.,#johannes,38.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+250,250,GerDracor/houwald-die-freistatt.xml,"– Geächtete zu schützen,",18,42,character_speech,1,1,,Johannes.,#johannes,38.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+251,251,GerDracor/houwald-die-freistatt.xml,Ist ein undankbar und gefährlich Ding.,0,38,character_speech,1,1,,Johannes.,#johannes,38.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+252,252,GerDracor/houwald-die-freistatt.xml,"Doch im Geheim konnt' ich der Freundin nützen,",0,46,character_speech,1,1,,Sara.,#sara,39.0,FEMALE,friendship,T,,1817.0,positive,emotions of affection
+253,253,GerDracor/houwald-die-freistatt.xml,Bis sie in meinem Arm zur Ruhe ging.,0,36,character_speech,1,1,,Sara.,#sara,39.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+254,254,GerDracor/houwald-die-freistatt.xml,Ihr seyd ein edles Weib!,0,24,character_speech,1,1,,Johannes.,#johannes,40.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+255,255,GerDracor/houwald-die-freistatt.xml,und Euer Gatte,25,39,character_speech,1,1,,Johannes.,#johannes,40.0,MALE,love,T,,1817.0,positive,emotions of affection
+256,256,GerDracor/houwald-die-freistatt.xml,"Ist Eurer werth, auch er ist rein wie Ihr!",0,42,character_speech,1,1,,Johannes.,#johannes,40.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+257,257,GerDracor/houwald-die-freistatt.xml,–,43,44,character_speech,1,1,,Johannes.,#johannes,40.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+258,258,GerDracor/houwald-die-freistatt.xml,"Wenn dieß nur zwischen Euch gestellt sich hatte,",0,48,character_speech,1,1,,Johannes.,#johannes,40.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+259,259,GerDracor/houwald-die-freistatt.xml,So endigt Euer Kummer hier.,0,27,character_speech,1,1,,Johannes.,#johannes,40.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+260,260,GerDracor/houwald-die-freistatt.xml,So hätt' ich wirklich bei Euch Trost gefunden?,0,46,character_speech,1,1,,Sara.,#sara,41.0,FEMALE,being moved,T,,1817.0,being moved,being moved
+261,261,GerDracor/houwald-die-freistatt.xml,–,47,48,character_speech,1,1,,Sara.,#sara,41.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+262,262,GerDracor/houwald-die-freistatt.xml,Von Gräbern ging ich fast beruhigt fort?,0,40,character_speech,1,1,,Sara.,#sara,41.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+263,263,GerDracor/houwald-die-freistatt.xml,–,41,42,character_speech,1,1,,Sara.,#sara,41.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+264,264,GerDracor/houwald-die-freistatt.xml,Hier heilen ja am leicht'sten Herzenswunden!,0,44,character_speech,1,1,,Johannes.,#johannes,42.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+265,265,GerDracor/houwald-die-freistatt.xml,–,45,46,character_speech,1,1,,Johannes.,#johannes,42.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+266,266,GerDracor/houwald-die-freistatt.xml,"Und glaubt' es nur, ich halte Wort,",0,35,character_speech,1,1,,Johannes.,#johannes,42.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+267,267,GerDracor/houwald-die-freistatt.xml,"Denn eh' die Sonne wieder senkt sich nieder,",0,44,character_speech,1,1,,Johannes.,#johannes,42.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+268,268,GerDracor/houwald-die-freistatt.xml,Seyd Ihr versöhnt mit dem Gemahl.,0,33,character_speech,1,1,,Johannes.,#johannes,42.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+269,269,GerDracor/houwald-die-freistatt.xml,"Doch aber sprecht, wann kommt Ihr morgen wieder?",0,48,character_speech,1,1,,Johannes.,#johannes,42.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+270,270,GerDracor/houwald-die-freistatt.xml,–,49,50,character_speech,1,1,,Johannes.,#johannes,42.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+271,271,GerDracor/houwald-die-freistatt.xml,Wenn bei dem ersten Frührothsstrahl,0,35,character_speech,1,1,,Sara.,#sara,43.0,FEMALE,joy,T,,1817.0,positive,emotions of pleasure
+272,272,GerDracor/houwald-die-freistatt.xml,"Vom Thurm des Doms man bläst den Morgensegen,",0,45,character_speech,1,1,,Sara.,#sara,43.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+273,273,GerDracor/houwald-die-freistatt.xml,Stell' ich mich wieder bei Euch ein;,0,36,character_speech,1,1,,Sara.,#sara,43.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+274,274,GerDracor/houwald-die-freistatt.xml,Dann woll'n die Todte wir zur Ruhe legen.,0,41,character_speech,1,1,,Sara.,#sara,43.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+275,275,GerDracor/houwald-die-freistatt.xml,Gut!,0,4,character_speech,1,1,,Johannes.,#johannes,44.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+276,276,GerDracor/houwald-die-freistatt.xml,ich will Eurer dann gewärtig seyn.,5,39,character_speech,1,1,,Johannes.,#johannes,44.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+277,277,GerDracor/houwald-die-freistatt.xml,–,40,41,character_speech,1,1,,Johannes.,#johannes,44.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+278,278,GerDracor/houwald-die-freistatt.xml,Gehabt Euch wohl!,0,17,character_speech,1,1,,Sara.,#sara,45.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+279,279,GerDracor/houwald-die-freistatt.xml,Sie geht ab.,18,30,character_speech,1,1,,Sara.,#sara,45.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+280,280,GerDracor/houwald-die-freistatt.xml,"Johannes Bruck, allein.",0,23,stage_direction,1,2,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+281,281,GerDracor/houwald-die-freistatt.xml,"So treu hast Du geschwiegen,",0,28,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+282,282,GerDracor/houwald-die-freistatt.xml,"So treu, mein Conrad, als ich's kaum geglaubt!",0,46,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,love,T,,1817.0,positive,emotions of affection
+283,283,GerDracor/houwald-die-freistatt.xml,–,47,48,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+284,284,GerDracor/houwald-die-freistatt.xml,Der stille Gram in Deiner Sara Zügen,0,36,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+285,285,GerDracor/houwald-die-freistatt.xml,Hat selbst Dir mein Geheimniß nicht geraubt?,0,44,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+286,286,GerDracor/houwald-die-freistatt.xml,–,45,46,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+287,287,GerDracor/houwald-die-freistatt.xml,"Ich kannte wohl das Herz, auf das ich baute!",0,44,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,love,T,,1817.0,positive,emotions of affection
+288,288,GerDracor/houwald-die-freistatt.xml,–,45,46,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+289,289,GerDracor/houwald-die-freistatt.xml,Doch Eure Liebe sollt' ich stören?,0,34,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,being moved,T,,1817.0,being moved,being moved
+290,290,GerDracor/houwald-die-freistatt.xml,– nein!,35,42,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+291,291,GerDracor/houwald-die-freistatt.xml,Ein solches Weib verdient wohl die Vertraute,0,44,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+292,292,GerDracor/houwald-die-freistatt.xml,Von tiefem Männergram zu seyn.,0,30,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+293,293,GerDracor/houwald-die-freistatt.xml,–,31,32,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+294,294,GerDracor/houwald-die-freistatt.xml,Und warum wollt' ich auch noch sorgen?,0,38,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+295,295,GerDracor/houwald-die-freistatt.xml,–,39,40,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+296,296,GerDracor/houwald-die-freistatt.xml,Hier sucht mich nicht mehr des Tyrannen Blick.,0,46,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+297,297,GerDracor/houwald-die-freistatt.xml,"Vor dieser Feste bebt er scheu zurück,",0,38,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+298,298,GerDracor/houwald-die-freistatt.xml,"Wo er das Volk, durch sichern Wall geborgen,",0,44,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+299,299,GerDracor/houwald-die-freistatt.xml,Nicht mehr mit seinem Krieg kann überziehn;,0,43,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+300,300,GerDracor/houwald-die-freistatt.xml,"Wo die Verwesung durch die Hügel schreitet,",0,43,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+301,301,GerDracor/houwald-die-freistatt.xml,"Wie Wolkenschatten über Gletscher fliehn,",0,41,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+302,302,GerDracor/houwald-die-freistatt.xml,Und ihm sein Heereslager zubereitet.,0,36,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+303,303,GerDracor/houwald-die-freistatt.xml,– –,37,40,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+304,304,GerDracor/houwald-die-freistatt.xml,"Ich fühl' es auch, an dieses Herzens Schlägen,",0,46,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,love,T,,1817.0,positive,emotions of affection
+305,305,GerDracor/houwald-die-freistatt.xml,Bald wird die Sanduhr abgelaufen seyn;,0,38,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+306,306,GerDracor/houwald-die-freistatt.xml,"Ich werde bald den Spaten niederlegen,",0,38,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+307,307,GerDracor/houwald-die-freistatt.xml,Und bei der Arbeit schlummern ein.,0,34,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+308,308,GerDracor/houwald-die-freistatt.xml,"Und morgens weckt mich dann Eleonore,",0,37,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+309,309,GerDracor/houwald-die-freistatt.xml,Sie steht mit ihrem Sohn am Strahlen-Thore,0,42,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+310,310,GerDracor/houwald-die-freistatt.xml,Der Ewigkeit und harret mein.,0,29,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,love,T,,1817.0,positive,emotions of affection
+311,311,GerDracor/houwald-die-freistatt.xml,– –,30,33,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+312,312,GerDracor/houwald-die-freistatt.xml,"Doch nicht wie ich, – wie Du willst, Herr der Gnade!",0,52,character_speech,1,2,,Johannes.,#johannes,46.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+313,313,GerDracor/houwald-die-freistatt.xml,Johannes Bruck und Conrad v. Ulstrade.,0,38,stage_direction,1,3,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+314,314,GerDracor/houwald-die-freistatt.xml,rasch hereintretend.,0,20,stage_direction,1,3,speech_part,,#conrad,47.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+315,315,GerDracor/houwald-die-freistatt.xml,Hier bin ich endlich!,0,21,character_speech,1,3,,"Conrad,",#conrad,47.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+316,316,GerDracor/houwald-die-freistatt.xml,– ist es spät?,22,36,character_speech,1,3,,"Conrad,",#conrad,47.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+317,317,GerDracor/houwald-die-freistatt.xml,–,37,38,character_speech,1,3,,"Conrad,",#conrad,47.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+318,318,GerDracor/houwald-die-freistatt.xml,Schon Mitternacht!,0,18,character_speech,1,3,,Johannes.,#johannes,48.0,MALE,being moved,T,,1817.0,being moved,being moved
+319,319,GerDracor/houwald-die-freistatt.xml,"Doch, mein Ulstrade,",19,39,character_speech,1,3,,Johannes.,#johannes,48.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+320,320,GerDracor/houwald-die-freistatt.xml,"Was kümmert's uns, wie schnell die Zeit vergeht?",0,48,character_speech,1,3,,Johannes.,#johannes,48.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+321,321,GerDracor/houwald-die-freistatt.xml,–,49,50,character_speech,1,3,,Johannes.,#johannes,48.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+322,322,GerDracor/houwald-die-freistatt.xml,"O, könnt' ich Monden jetzt zusammen fassen,",0,43,character_speech,1,3,,Conrad.,#conrad,49.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+323,323,GerDracor/houwald-die-freistatt.xml,"In einem Griff, und hinter mir sie weit",0,39,character_speech,1,3,,Conrad.,#conrad,49.0,MALE,love,T,,1817.0,positive,emotions of affection
+324,324,GerDracor/houwald-die-freistatt.xml,Mit ihrer Zentnerlast versinken lassen!,0,39,character_speech,1,3,,Conrad.,#conrad,49.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+325,325,GerDracor/houwald-die-freistatt.xml,–,40,41,character_speech,1,3,,Conrad.,#conrad,49.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+326,326,GerDracor/houwald-die-freistatt.xml,Mir graut vor meines Lebens nächster Zeit.,0,42,character_speech,1,3,,Conrad.,#conrad,49.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+327,327,GerDracor/houwald-die-freistatt.xml,–,43,44,character_speech,1,3,,Conrad.,#conrad,49.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+328,328,GerDracor/houwald-die-freistatt.xml,Mein Freund!,0,12,character_speech,1,3,,Johannes.,#johannes,50.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+329,329,GerDracor/houwald-die-freistatt.xml,– So hab' ich nimmer Dich gesehen!,13,47,character_speech,1,3,,Johannes.,#johannes,50.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+330,330,GerDracor/houwald-die-freistatt.xml,–,48,49,character_speech,1,3,,Johannes.,#johannes,50.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+331,331,GerDracor/houwald-die-freistatt.xml,Was ist Dir?,0,12,character_speech,1,3,,Johannes.,#johannes,50.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+332,332,GerDracor/houwald-die-freistatt.xml,daß Du so bekümmert bist?,13,38,character_speech,1,3,,Johannes.,#johannes,50.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+333,333,GerDracor/houwald-die-freistatt.xml,–,39,40,character_speech,1,3,,Johannes.,#johannes,50.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+334,334,GerDracor/houwald-die-freistatt.xml,War'st Du bei Sara?,0,19,character_speech,1,3,,Johannes.,#johannes,50.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+335,335,GerDracor/houwald-die-freistatt.xml,"– woll' es mir gestehen,",20,44,character_speech,1,3,,Johannes.,#johannes,50.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+336,336,GerDracor/houwald-die-freistatt.xml,Nicht wahr?,0,11,character_speech,1,3,,Johannes.,#johannes,50.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+337,337,GerDracor/houwald-die-freistatt.xml,– heut' wieder hast Du sie vermißt.,12,47,character_speech,1,3,,Johannes.,#johannes,50.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+338,338,GerDracor/houwald-die-freistatt.xml,"Johannes, ja!",0,13,character_speech,1,3,,Conrad.,#conrad,51.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+339,339,GerDracor/houwald-die-freistatt.xml,– auch dieß noch kommt hinzu!,14,43,character_speech,1,3,,Conrad.,#conrad,51.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+340,340,GerDracor/houwald-die-freistatt.xml,–,44,45,character_speech,1,3,,Conrad.,#conrad,51.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+341,341,GerDracor/houwald-die-freistatt.xml,"Wo fass' ich Muth, mein schweres Loos zu tragen?",0,48,character_speech,1,3,,Conrad.,#conrad,51.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+342,342,GerDracor/houwald-die-freistatt.xml,"An meinem Herzen suche Deine Ruh',",0,34,character_speech,1,3,,Johannes.,#johannes,52.0,MALE,love,T,,1817.0,positive,emotions of affection
+343,343,GerDracor/houwald-die-freistatt.xml,"Denn, freudig kann ich Dir es sagen,",0,36,character_speech,1,3,,Johannes.,#johannes,52.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+344,344,GerDracor/houwald-die-freistatt.xml,"Dein Weib ist schuldlos, oder Deine Seele",0,41,character_speech,1,3,,Johannes.,#johannes,52.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+345,345,GerDracor/houwald-die-freistatt.xml,Ist selbst voll Schuld!,0,23,character_speech,1,3,,Johannes.,#johannes,52.0,MALE,compassion,T,,1817.0,negative,emotions of suffering and empathy
+346,346,GerDracor/houwald-die-freistatt.xml,– Ich sprach sie hier.,24,46,character_speech,1,3,,Johannes.,#johannes,52.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+347,347,GerDracor/houwald-die-freistatt.xml,Du sprachst sie hier?,0,21,character_speech,1,3,,Conrad.,#conrad,53.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+348,348,GerDracor/houwald-die-freistatt.xml,– Johannes!,22,33,character_speech,1,3,,Conrad.,#conrad,53.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+349,349,GerDracor/houwald-die-freistatt.xml,"o, erzähle,",34,45,character_speech,1,3,,Conrad.,#conrad,53.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+350,350,GerDracor/houwald-die-freistatt.xml,Was war's?,0,10,character_speech,1,3,,Conrad.,#conrad,53.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+351,351,GerDracor/houwald-die-freistatt.xml,was führte sie zu Dir?,11,33,character_speech,1,3,,Conrad.,#conrad,53.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+352,352,GerDracor/houwald-die-freistatt.xml,Von mir nicht!,0,14,character_speech,1,3,,Johannes.,#johannes,54.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+353,353,GerDracor/houwald-die-freistatt.xml,"Nein, aus ihrem eignen Munde",15,43,character_speech,1,3,,Johannes.,#johannes,54.0,MALE,love,T,,1817.0,positive,emotions of affection
+354,354,GerDracor/houwald-die-freistatt.xml,"Vernimm, wie glücklich Du als Gatte bist!",0,41,character_speech,1,3,,Johannes.,#johannes,54.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+355,355,GerDracor/houwald-die-freistatt.xml,–,42,43,character_speech,1,3,,Johannes.,#johannes,54.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+356,356,GerDracor/houwald-die-freistatt.xml,"Und dann verstatte, daß bei Eurem Bunde",0,39,character_speech,1,3,,Johannes.,#johannes,54.0,MALE,love,T,,1817.0,positive,emotions of affection
+357,357,GerDracor/houwald-die-freistatt.xml,Auch Euer Freund zugegen ist.,0,29,character_speech,1,3,,Johannes.,#johannes,54.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+358,358,GerDracor/houwald-die-freistatt.xml,Willkommen sey mir die ersehnte Stunde!,0,39,character_speech,1,3,,Conrad.,#conrad,55.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+359,359,GerDracor/houwald-die-freistatt.xml,Doch Sara darf von Dir noch nichts erfahren!,0,44,character_speech,1,3,,Conrad.,#conrad,55.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+360,360,GerDracor/houwald-die-freistatt.xml,Was forderst Du?,0,16,character_speech,1,3,,Conrad.,#conrad,55.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+361,361,GerDracor/houwald-die-freistatt.xml,– Wo denkst Du hin!,17,36,character_speech,1,3,,Conrad.,#conrad,55.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+362,362,GerDracor/houwald-die-freistatt.xml,Vor einem solchen hohen Frauen-Sinn,0,35,character_speech,1,3,,Johannes.,#johannes,56.0,MALE,love,T,,1817.0,positive,emotions of affection
+363,363,GerDracor/houwald-die-freistatt.xml,Brauchst Du nicht mein Geheimniß zu bewahren.,0,45,character_speech,1,3,,Johannes.,#johannes,56.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+364,364,GerDracor/houwald-die-freistatt.xml,Das fühl' auch ich!,0,19,character_speech,1,3,,Conrad.,#conrad,57.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+365,365,GerDracor/houwald-die-freistatt.xml,"– Doch aber Thür' und Wände,",20,48,character_speech,1,3,,Conrad.,#conrad,57.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+366,366,GerDracor/houwald-die-freistatt.xml,"Sie haben Ohren, bringen uns Verrath!",0,37,character_speech,1,3,,Conrad.,#conrad,57.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+367,367,GerDracor/houwald-die-freistatt.xml,– –,38,41,character_speech,1,3,,Conrad.,#conrad,57.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+368,368,GerDracor/houwald-die-freistatt.xml,"Mein Freund, Dein Schicksal ist noch nicht zu Ende;",0,51,character_speech,1,3,,Conrad.,#conrad,57.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+369,369,GerDracor/houwald-die-freistatt.xml,"Weit aus, hoff' ich, läuft noch Dein Pfad.",0,42,character_speech,1,3,,Conrad.,#conrad,57.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+370,370,GerDracor/houwald-die-freistatt.xml,Weit aus?,0,9,character_speech,1,3,,Johannes.,#johannes,58.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+371,371,GerDracor/houwald-die-freistatt.xml,– Du irrst!,10,21,character_speech,1,3,,Johannes.,#johannes,58.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+372,372,GerDracor/houwald-die-freistatt.xml,Hier ist das Ziel gefunden.,22,49,character_speech,1,3,,Johannes.,#johannes,58.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+373,373,GerDracor/houwald-die-freistatt.xml,"Hier steh' und wart' ich, bis der Vorhang sinkt.",0,48,character_speech,1,3,,Johannes.,#johannes,58.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+374,374,GerDracor/houwald-die-freistatt.xml,Nein!,0,5,character_speech,1,3,,Conrad.,#conrad,59.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+375,375,GerDracor/houwald-die-freistatt.xml,Nein!,6,11,character_speech,1,3,,Conrad.,#conrad,59.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+376,376,GerDracor/houwald-die-freistatt.xml,"Dein Leben bringt noch große Stunden,",12,49,character_speech,1,3,,Conrad.,#conrad,59.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+377,377,GerDracor/houwald-die-freistatt.xml,In denen Dir Vergeltung winkt.,0,30,character_speech,1,3,,Conrad.,#conrad,59.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+378,378,GerDracor/houwald-die-freistatt.xml,Vergeltung wohnt dort oben!,0,27,character_speech,1,3,,Johannes.,#johannes,60.0,MALE,love,T,,1817.0,positive,emotions of affection
+379,379,GerDracor/houwald-die-freistatt.xml,O ich mahne,0,11,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+380,380,GerDracor/houwald-die-freistatt.xml,"Dich an das Vaterland, das Dein bedarf!",0,39,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+381,381,GerDracor/houwald-die-freistatt.xml,"Soll sie denn wehn des Unterdrückers Fahne,",0,43,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+382,382,GerDracor/houwald-die-freistatt.xml,Der alles Recht zu Boden warf?,0,30,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,being moved,T,,1817.0,being moved,being moved
+383,383,GerDracor/houwald-die-freistatt.xml,"Wo ist Johann v. Bruckthal, der im Rathe",0,40,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+384,384,GerDracor/houwald-die-freistatt.xml,Der Väter als der erste stand?,0,30,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+385,385,GerDracor/houwald-die-freistatt.xml,–,31,32,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+386,386,GerDracor/houwald-die-freistatt.xml,"Der, als der Feind den Männern nahte,",0,37,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+387,387,GerDracor/houwald-die-freistatt.xml,Ihn züchtigte mit starker Hand?,0,31,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+388,388,GerDracor/houwald-die-freistatt.xml,–,32,33,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+389,389,GerDracor/houwald-die-freistatt.xml,"Du hast noch nicht das ganze Spiel verloren,",0,44,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+390,390,GerDracor/houwald-die-freistatt.xml,Vom Schicksal bist Du auserkoren,0,32,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+391,391,GerDracor/houwald-die-freistatt.xml,"Zum Held, der für die Unschuld ficht.",0,37,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+392,392,GerDracor/houwald-die-freistatt.xml,"Steh auf, mein Freund, als wär'st Du neu geboren,",0,49,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+393,393,GerDracor/houwald-die-freistatt.xml,Und stelle Dich zum Gott'sgericht!,0,34,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+394,394,GerDracor/houwald-die-freistatt.xml,–,35,36,character_speech,1,3,,Conrad.,#conrad,61.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+395,395,GerDracor/houwald-die-freistatt.xml,Ich kann nicht!,0,15,character_speech,1,3,,Johannes.,#johannes,62.0,MALE,despair,T,,1817.0,negative,emotions of anxiety
+396,396,GerDracor/houwald-die-freistatt.xml,– Herz und Kraft sind mir gebrochen!,16,52,character_speech,1,3,,Johannes.,#johannes,62.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+397,397,GerDracor/houwald-die-freistatt.xml,"Schon gab ich alles, was ich nannte mein.",0,41,character_speech,1,3,,Johannes.,#johannes,62.0,MALE,love,T,,1817.0,positive,emotions of affection
+398,398,GerDracor/houwald-die-freistatt.xml,Nein!,0,5,character_speech,1,3,,Conrad.,#conrad,63.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+399,399,GerDracor/houwald-die-freistatt.xml,"unter Gräbern, unter Todtenknochen",6,40,character_speech,1,3,,Conrad.,#conrad,63.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+400,400,GerDracor/houwald-die-freistatt.xml,Soll Brukthal länger nicht verborgen seyn.,0,42,character_speech,1,3,,Conrad.,#conrad,63.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+401,401,GerDracor/houwald-die-freistatt.xml,An einen würdigern und sich'rern Ort,0,36,character_speech,1,3,,Conrad.,#conrad,63.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+402,402,GerDracor/houwald-die-freistatt.xml,"Führ' ich Dich, wo Du freudig wirst empfangen!",0,46,character_speech,1,3,,Conrad.,#conrad,63.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+403,403,GerDracor/houwald-die-freistatt.xml,"Johannes, zögre nicht!",0,22,character_speech,1,3,,Conrad.,#conrad,63.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+404,404,GerDracor/houwald-die-freistatt.xml,– Du mußt hier fort!,23,43,character_speech,1,3,,Conrad.,#conrad,63.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+405,405,GerDracor/houwald-die-freistatt.xml,–,44,45,character_speech,1,3,,Conrad.,#conrad,63.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+406,406,GerDracor/houwald-die-freistatt.xml,"Dein Freund hat Gründ', es dringend zu verlangen.",0,49,character_speech,1,3,,Conrad.,#conrad,63.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+407,407,GerDracor/houwald-die-freistatt.xml,"Ich war ein Mann, als ich die Bürger alle",0,41,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+408,408,GerDracor/houwald-die-freistatt.xml,Für ihre Freiheit einst zum Kampfe rief!,0,40,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+409,409,GerDracor/houwald-die-freistatt.xml,–,41,42,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+410,410,GerDracor/houwald-die-freistatt.xml,"Als ich die Nacht verwachte auf dem Walle,",0,42,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+411,411,GerDracor/houwald-die-freistatt.xml,Indeß die Stadt in sichrem Frieden schlief.,0,43,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+412,412,GerDracor/houwald-die-freistatt.xml,Als ich im Rath für die gerechte Sache,0,38,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+413,413,GerDracor/houwald-die-freistatt.xml,"Das Wort geführt, und dann das Schwert;",0,39,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+414,414,GerDracor/houwald-die-freistatt.xml,Als unterm theuren väterlichen Dache,0,36,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+415,415,GerDracor/houwald-die-freistatt.xml,"Ein Weib noch mein war, noch ein Kind, ein Heerd!",0,49,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,love,T,,1817.0,positive,emotions of affection
+416,416,GerDracor/houwald-die-freistatt.xml,–,50,51,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+417,417,GerDracor/houwald-die-freistatt.xml,Seit aber ich an jenem Schreckenstag,0,36,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+418,418,GerDracor/houwald-die-freistatt.xml,Lag blutend unter Feindes Rossen;,0,33,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+419,419,GerDracor/houwald-die-freistatt.xml,Seit unsre arme Stadt dem Feind erlag,0,37,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+420,420,GerDracor/houwald-die-freistatt.xml,"Und unsrer Bürger edles Blut geflossen,",0,39,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+421,421,GerDracor/houwald-die-freistatt.xml,"Seit mir der Tod des Kindes Blüthe brach,",0,41,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+422,422,GerDracor/houwald-die-freistatt.xml,Seit jene Würger auch mein Weib erschossen – –,0,46,character_speech,1,3,,Johannes.,#johannes,64.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+423,423,GerDracor/houwald-die-freistatt.xml,Er bedeckt das Gesicht mit den Händen.,0,38,stage_direction,1,3,speech_part,,#johannes,64.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+424,424,GerDracor/houwald-die-freistatt.xml,Johannes!,0,9,character_speech,1,3,,Conrad.,#conrad,65.0,MALE,being moved,T,,1817.0,being moved,being moved
+425,425,GerDracor/houwald-die-freistatt.xml,die Erinn'rungen erweichen,10,36,character_speech,1,3,,Conrad.,#conrad,65.0,MALE,being moved,T,,1817.0,being moved,being moved
+426,426,GerDracor/houwald-die-freistatt.xml,Dein Herz zu stark!,0,19,character_speech,1,3,,Conrad.,#conrad,65.0,MALE,being moved,T,,1817.0,being moved,being moved
+427,427,GerDracor/houwald-die-freistatt.xml,"– Was einmal hin, ist hin!",20,46,character_speech,1,3,,Conrad.,#conrad,65.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+428,428,GerDracor/houwald-die-freistatt.xml,"O laß mich immer mein Geschick vergleichen,",0,43,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+429,429,GerDracor/houwald-die-freistatt.xml,"Um zu vergleichen, was ich war und bin.",0,39,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+430,430,GerDracor/houwald-die-freistatt.xml,"Denkst Du des Abends, wo am Bettlerstabe",0,40,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+431,431,GerDracor/houwald-die-freistatt.xml,Ich zitternd heimlich zu Dir kam?,0,33,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+432,432,GerDracor/houwald-die-freistatt.xml,–,34,35,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+433,433,GerDracor/houwald-die-freistatt.xml,Und unerkannt die mir gereichte Gabe,0,36,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+434,434,GerDracor/houwald-die-freistatt.xml,Lautweinend nahm?,0,17,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+435,435,GerDracor/houwald-die-freistatt.xml,–,18,19,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+436,436,GerDracor/houwald-die-freistatt.xml,Die Freunde hatten mit Gefahr des Lebens,0,40,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+437,437,GerDracor/houwald-die-freistatt.xml,"Mich zwar durch Flucht befreit aus Henkershand,",0,47,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+438,438,GerDracor/houwald-die-freistatt.xml,"Allein wohin ich floh, ich floh vergebens,",0,42,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,despair,T,,1817.0,negative,emotions of anxiety
+439,439,GerDracor/houwald-die-freistatt.xml,Denn Gram und Wahnsinn kamen nachgerannt.,0,41,character_speech,1,3,,Johannes.,#johannes,66.0,MALE,despair,T,,1817.0,negative,emotions of anxiety
+440,440,GerDracor/houwald-die-freistatt.xml,"Wohl denk' ich jenes Abends, die vertrauten",0,43,character_speech,1,3,,Conrad.,#conrad,67.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+441,441,GerDracor/houwald-die-freistatt.xml,Geliebten Züge kannt' ich fast nicht mehr;,0,42,character_speech,1,3,,Conrad.,#conrad,67.0,MALE,love,T,,1817.0,positive,emotions of affection
+442,442,GerDracor/houwald-die-freistatt.xml,"Die bleichen Lippen bebten, und es schauten",0,43,character_speech,1,3,,Conrad.,#conrad,67.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+443,443,GerDracor/houwald-die-freistatt.xml,Die treuen frommen Augen wild umher.,0,36,character_speech,1,3,,Conrad.,#conrad,67.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+444,444,GerDracor/houwald-die-freistatt.xml,"Und meine Wunden heilt' Dein zartes Sorgen,",0,43,character_speech,1,3,,Johannes.,#johannes,68.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+445,445,GerDracor/houwald-die-freistatt.xml,Die Schwert und Rosseshuf mir schlug.,0,37,character_speech,1,3,,Johannes.,#johannes,68.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+446,446,GerDracor/houwald-die-freistatt.xml,"Du hast mich dem Tyrannen treu verborgen,",0,41,character_speech,1,3,,Johannes.,#johannes,68.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+447,447,GerDracor/houwald-die-freistatt.xml,Der Rache dürstend nach dem Flüchtling frug;,0,44,character_speech,1,3,,Johannes.,#johannes,68.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+448,448,GerDracor/houwald-die-freistatt.xml,"Und als ich endlich wiederum genesen,",0,37,character_speech,1,3,,Johannes.,#johannes,68.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+449,449,GerDracor/houwald-die-freistatt.xml,"Bist Du's, mein treuer Conrad, nicht gewesen,",0,45,character_speech,1,3,,Johannes.,#johannes,68.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+450,450,GerDracor/houwald-die-freistatt.xml,Der mich in diesen sichern Hafen trug?,0,38,character_speech,1,3,,Johannes.,#johannes,68.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+451,451,GerDracor/houwald-die-freistatt.xml,dringend.,0,9,stage_direction,1,3,speech_part,,#conrad,69.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+452,452,GerDracor/houwald-die-freistatt.xml,Doch nicht für immer.,0,21,character_speech,1,3,,"Conrad,",#conrad,69.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+453,453,GerDracor/houwald-die-freistatt.xml,Ach!,22,26,character_speech,1,3,,"Conrad,",#conrad,69.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+454,454,GerDracor/houwald-die-freistatt.xml,"Johannes, frage",27,42,character_speech,1,3,,"Conrad,",#conrad,69.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+455,455,GerDracor/houwald-die-freistatt.xml,"Mich länger nicht, fort mußt Du, es ist Zeit!",0,45,character_speech,1,3,,"Conrad,",#conrad,69.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+456,456,GerDracor/houwald-die-freistatt.xml,–,46,47,character_speech,1,3,,"Conrad,",#conrad,69.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+457,457,GerDracor/houwald-die-freistatt.xml,Nein!,0,5,character_speech,1,3,,Johannes.,#johannes,70.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+458,458,GerDracor/houwald-die-freistatt.xml,"störe nicht die letzten Tage,",6,35,character_speech,1,3,,Johannes.,#johannes,70.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+459,459,GerDracor/houwald-die-freistatt.xml,"Denn glaube nur, mein Ziel ist nicht mehr weit.",0,47,character_speech,1,3,,Johannes.,#johannes,70.0,MALE,despair,T,,1817.0,negative,emotions of anxiety
+460,460,GerDracor/houwald-die-freistatt.xml,"Für Deine Hand paßt länger nicht der Spaten,",0,44,character_speech,1,3,,Conrad.,#conrad,71.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+461,461,GerDracor/houwald-die-freistatt.xml,Der Dich auf eine kurze Zeit geschützt.,0,39,character_speech,1,3,,Conrad.,#conrad,71.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+462,462,GerDracor/houwald-die-freistatt.xml,"Ich aber kann ihn jetzt nicht mehr entrathen,",0,45,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,love,T,,1817.0,positive,emotions of affection
+463,463,GerDracor/houwald-die-freistatt.xml,"Er ist der Stab, auf den mein Arm sich stützt.",0,46,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+464,464,GerDracor/houwald-die-freistatt.xml,"Wenn ich des Tages meine Gräber baue,",0,37,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+465,465,GerDracor/houwald-die-freistatt.xml,"Wenn bei der Arbeit Ruhe sinkt auf mich,",0,40,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+466,466,GerDracor/houwald-die-freistatt.xml,"Wenn Abends ich mein stilles Feld beschaue,",0,43,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+467,467,GerDracor/houwald-die-freistatt.xml,Und dann allnächtlich harr' auf Dich; –,0,39,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+468,468,GerDracor/houwald-die-freistatt.xml,"Wenn wir dann beide im Geheim berathen,",0,39,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+469,469,GerDracor/houwald-die-freistatt.xml,"Was Deinem Vaterland ist noth,",0,30,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+470,470,GerDracor/houwald-die-freistatt.xml,"Du von mir eilst zu streu'n die neuen Saaten,",0,45,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+471,471,GerDracor/houwald-die-freistatt.xml,Und ich die Saat bestelle für den Tod – –,0,41,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+472,472,GerDracor/houwald-die-freistatt.xml,"Dann preis' ich kniend oft den Herrn des Lebens,",0,48,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+473,473,GerDracor/houwald-die-freistatt.xml,"Denn halbzerknickt, athm' ich doch nicht vergebens,",0,51,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+474,474,GerDracor/houwald-die-freistatt.xml,Weil er Dein Herz und Deinen Arm mir bot.,0,41,character_speech,1,3,,Johannes.,#johannes,72.0,MALE,love,T,,1817.0,positive,emotions of affection
+475,475,GerDracor/houwald-die-freistatt.xml,unruhig.,0,8,stage_direction,1,3,speech_part,,#conrad,73.0,MALE,being moved,T,,1817.0,being moved,being moved
+476,476,GerDracor/houwald-die-freistatt.xml,Doch sicher darfst Du hier Dich nimmer halten.,0,46,character_speech,1,3,,"Conrad,",#conrad,73.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+477,477,GerDracor/houwald-die-freistatt.xml,–,47,48,character_speech,1,3,,"Conrad,",#conrad,73.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+478,478,GerDracor/houwald-die-freistatt.xml,"Man weiß, Du bist nach unsrer Stadt geflohn.",0,44,character_speech,1,3,,"Conrad,",#conrad,73.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+479,479,GerDracor/houwald-die-freistatt.xml,–,45,46,character_speech,1,3,,"Conrad,",#conrad,73.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+480,480,GerDracor/houwald-die-freistatt.xml,"Ich habe leider Kunde heut erhalten,",0,36,character_speech,1,3,,"Conrad,",#conrad,73.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+481,481,GerDracor/houwald-die-freistatt.xml,Die Feinde suchen Dich auf's neue schon.,0,40,character_speech,1,3,,"Conrad,",#conrad,73.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+482,482,GerDracor/houwald-die-freistatt.xml,So laß sie immer!,0,17,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+483,483,GerDracor/houwald-die-freistatt.xml,"hier sucht doch mich keiner,",18,46,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+484,484,GerDracor/houwald-die-freistatt.xml,"Den Todtengräber Bruck kennt ja nur einer,",0,42,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+485,485,GerDracor/houwald-die-freistatt.xml,Und dieser treu verschwiegne Freund bist Du.,0,44,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+486,486,GerDracor/houwald-die-freistatt.xml,O lass mich hier!,0,17,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+487,487,GerDracor/houwald-die-freistatt.xml,"– hier wehet mir viel reiner,",18,47,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+488,488,GerDracor/houwald-die-freistatt.xml,Als irgendwo des Himmels Friede zu.,0,35,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+489,489,GerDracor/houwald-die-freistatt.xml,"Wenn ich der Leichen stilles Antlitz schaue,",0,44,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+490,490,GerDracor/houwald-die-freistatt.xml,"Bei ihnen wache, eh' das Grab sie deckt,",0,40,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+491,491,GerDracor/houwald-die-freistatt.xml,"Dann ist's dem bangen Herzen so, als graue",0,42,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+492,492,GerDracor/houwald-die-freistatt.xml,"Der Morgen schon, wo mich Lenoren weckt.",0,40,character_speech,1,3,,Johannes.,#johannes,74.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+493,493,GerDracor/houwald-die-freistatt.xml,in höchster Bewegung.,0,21,stage_direction,1,3,speech_part,,#conrad,75.0,MALE,being moved,T,,1817.0,being moved,being moved
+494,494,GerDracor/houwald-die-freistatt.xml,So darf ich Dir's denn länger nicht verhehlen!,0,46,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+495,495,GerDracor/houwald-die-freistatt.xml,–,47,48,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+496,496,GerDracor/houwald-die-freistatt.xml,Es ist heut ein Commando eingerückt;,0,36,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+497,497,GerDracor/houwald-die-freistatt.xml,"Mit Grüßen zwar, doch eigentlich Befehlen,",0,42,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+498,498,GerDracor/houwald-die-freistatt.xml,Die der Tyrann an unsre Stadt geschickt:,0,40,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+499,499,GerDracor/houwald-die-freistatt.xml,"»Er hab' erfahren, daß der Hochverräther",0,40,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+500,500,GerDracor/houwald-die-freistatt.xml,"Johann v. Bruckthal bei uns sey,",0,32,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+501,501,GerDracor/houwald-die-freistatt.xml,"Und stell' es aus besond'rer Gnad' uns frei,",0,44,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+502,502,GerDracor/houwald-die-freistatt.xml,"Selbst auszuliefern jenen Uebertreter,",0,38,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+503,503,GerDracor/houwald-die-freistatt.xml,"Wo nicht, doch ohne Weig'rung zu gestatten,",0,43,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+504,504,GerDracor/houwald-die-freistatt.xml,Daß er ihn suche!« – Als nun schnell hierauf,0,44,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+505,505,GerDracor/houwald-die-freistatt.xml,"Wir Senatoren uns versammelt hatten,",0,36,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+506,506,GerDracor/houwald-die-freistatt.xml,"Stand ernst der Bürgermeister auf,",0,34,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+507,507,GerDracor/houwald-die-freistatt.xml,Uns diese Ford'rung vorzutragen.,0,32,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+508,508,GerDracor/houwald-die-freistatt.xml,Und als er schwieg – schwieg alles um ihn her;,0,46,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+509,509,GerDracor/houwald-die-freistatt.xml,"Es wagte keiner nur ein Wort zu sagen,",0,38,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+510,510,GerDracor/houwald-die-freistatt.xml,Denn jedem Busen ward das Athmen schwer.,0,40,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+511,511,GerDracor/houwald-die-freistatt.xml,So saßen lange schweigend wir im Kreise,0,39,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,being moved,T,,1817.0,being moved,being moved
+512,512,GerDracor/houwald-die-freistatt.xml,"In unsre schwarzen Mäntel eingehüllt,",0,37,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+513,513,GerDracor/houwald-die-freistatt.xml,"Und eine Ahndung überschlich mich leise,",0,40,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+514,514,GerDracor/houwald-die-freistatt.xml,Als säh' ich Deines Todtenzuges Bild.,0,37,character_speech,1,3,,"Conrad,",#conrad,75.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+515,515,GerDracor/houwald-die-freistatt.xml,"Und was beschloßt Ihr, daß nun soll geschehen?",0,46,character_speech,1,3,,Johannes.,#johannes,76.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+516,516,GerDracor/houwald-die-freistatt.xml,Saßt Ihr als Väter auch zu Rath?,0,32,character_speech,1,3,,Johannes.,#johannes,76.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+517,517,GerDracor/houwald-die-freistatt.xml,Brauchst Du erröthend nicht vor mir zu stehen?,0,46,character_speech,1,3,,Johannes.,#johannes,76.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+518,518,GerDracor/houwald-die-freistatt.xml,–,47,48,character_speech,1,3,,Johannes.,#johannes,76.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+519,519,GerDracor/houwald-die-freistatt.xml,Was hättest Du gethan an unsrer Statt?,0,38,character_speech,1,3,,Conrad.,#conrad,77.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+520,520,GerDracor/houwald-die-freistatt.xml,hastig.,0,7,stage_direction,1,3,speech_part,,#johannes,78.0,MALE,being moved,T,,1817.0,being moved,being moved
+521,521,GerDracor/houwald-die-freistatt.xml,Auf jeden Fall den Bruckthal preisgegeben!,0,42,character_speech,1,3,,"Johannes,",#johannes,78.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+522,522,GerDracor/houwald-die-freistatt.xml,Was gilt für's Ganze denn ein einzeln Leben!,0,44,character_speech,1,3,,"Johannes,",#johannes,78.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+523,523,GerDracor/houwald-die-freistatt.xml,–,45,46,character_speech,1,3,,"Johannes,",#johannes,78.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+524,524,GerDracor/houwald-die-freistatt.xml,Weh' dem!,0,9,character_speech,1,3,,"Johannes,",#johannes,78.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+525,525,GerDracor/houwald-die-freistatt.xml,der ander Ding gerathen hat!,10,38,character_speech,1,3,,"Johannes,",#johannes,78.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+526,526,GerDracor/houwald-die-freistatt.xml,Mein Freund!,0,12,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+527,527,GerDracor/houwald-die-freistatt.xml,so sind wir Deiner werth geblieben!,13,48,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+528,528,GerDracor/houwald-die-freistatt.xml,Wir schwiegen lange fort und fort.,0,34,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,being moved,T,,1817.0,being moved,being moved
+529,529,GerDracor/houwald-die-freistatt.xml,–,35,36,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+530,530,GerDracor/houwald-die-freistatt.xml,Da nahm der Consul wiederum das Wort:,0,37,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+531,531,GerDracor/houwald-die-freistatt.xml,"»Die Antwort, sprach er, ist nicht zu verschieben,",0,50,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+532,532,GerDracor/houwald-die-freistatt.xml,"Wir dürfen's nicht mit jener Macht verderben,",0,45,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+533,533,GerDracor/houwald-die-freistatt.xml,Denn noch beruht das Wohl der Stadt darauf.,0,43,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+534,534,GerDracor/houwald-die-freistatt.xml,"Ein Einzelner mag für das Ganze sterben,",0,40,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+535,535,GerDracor/houwald-die-freistatt.xml,Das Ganze opfre sich nicht einem auf!,0,37,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+536,536,GerDracor/houwald-die-freistatt.xml,–,38,39,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+537,537,GerDracor/houwald-die-freistatt.xml,"Doch laßt uns nicht das alte Gastrecht schmähen,",0,48,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+538,538,GerDracor/houwald-die-freistatt.xml,"Ausliefern nicht den edlen Mann,",0,32,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+539,539,GerDracor/houwald-die-freistatt.xml,"Mag man ihn suchen, selber ihn erspähen,",0,40,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+540,540,GerDracor/houwald-die-freistatt.xml,"Und, daß ein Freund noch helfen kann,",0,37,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+541,541,GerDracor/houwald-die-freistatt.xml,"Laßt unsern Schluß uns öffentlich gestehen,",0,43,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+542,542,GerDracor/houwald-die-freistatt.xml,Vielleicht wagt einer noch sein Leben d'ran!« –,0,47,character_speech,1,3,,Conrad.,#conrad,79.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+543,543,GerDracor/houwald-die-freistatt.xml,Du wackrer Mann!,0,16,character_speech,1,3,,Johannes.,#johannes,80.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+544,544,GerDracor/houwald-die-freistatt.xml,– Du Vater Deiner Bürger!,17,42,character_speech,1,3,,Johannes.,#johannes,80.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+545,545,GerDracor/houwald-die-freistatt.xml,Dich segne Freund und Vaterland!,0,32,character_speech,1,3,,Johannes.,#johannes,80.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+546,546,GerDracor/houwald-die-freistatt.xml,Mein Bruckthal!,0,15,character_speech,1,3,,Conrad.,#conrad,81.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+547,547,GerDracor/houwald-die-freistatt.xml,– ach!,16,22,character_speech,1,3,,Conrad.,#conrad,81.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+548,548,GerDracor/houwald-die-freistatt.xml,schon halten Deine Würger,23,48,character_speech,1,3,,Conrad.,#conrad,81.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+549,549,GerDracor/houwald-die-freistatt.xml,Des Raths Bewill'gung in der Hand.,0,34,character_speech,1,3,,Conrad.,#conrad,81.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+550,550,GerDracor/houwald-die-freistatt.xml,"Ihr Geierblick wird hier auch Dich erspähen,",0,44,character_speech,1,3,,Conrad.,#conrad,81.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+551,551,GerDracor/houwald-die-freistatt.xml,"Drum folg' dem Freunde, der Dich retten will.",0,45,character_speech,1,3,,Conrad.,#conrad,81.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+552,552,GerDracor/houwald-die-freistatt.xml,Zu Deiner Flucht hab' ich schon in der Still',0,45,character_speech,1,3,,Conrad.,#conrad,81.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+553,553,GerDracor/houwald-die-freistatt.xml,Dir sichre Wege ausersehen.,0,27,character_speech,1,3,,Conrad.,#conrad,81.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+554,554,GerDracor/houwald-die-freistatt.xml,"Und Du willst seine Rache auf dich laden,",0,41,character_speech,1,3,,Johannes.,#johannes,82.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+555,555,GerDracor/houwald-die-freistatt.xml,Daß Du das Opfer ihm entreiß'st?,0,32,character_speech,1,3,,Johannes.,#johannes,82.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+556,556,GerDracor/houwald-die-freistatt.xml,Du mußt entfliehn!,0,18,character_speech,1,3,,Conrad.,#conrad,83.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+557,557,GerDracor/houwald-die-freistatt.xml,"– Mir kann sein Zorn nichts schaden,",19,55,character_speech,1,3,,Conrad.,#conrad,83.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+558,558,GerDracor/houwald-die-freistatt.xml,Ich spotte seiner Allmacht dreust!,0,34,character_speech,1,3,,Conrad.,#conrad,83.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+559,559,GerDracor/houwald-die-freistatt.xml,–,35,36,character_speech,1,3,,Conrad.,#conrad,83.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+560,560,GerDracor/houwald-die-freistatt.xml,Du mußt entfliehn!,0,18,character_speech,1,3,,Conrad.,#conrad,83.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+561,561,GerDracor/houwald-die-freistatt.xml,und sollt' ich Dich nicht rühren,19,51,character_speech,1,3,,Conrad.,#conrad,83.0,MALE,love,T,,1817.0,positive,emotions of affection
+562,562,GerDracor/houwald-die-freistatt.xml,"Durch mein Bitten, bleibst Du trotzig, kalt,",0,44,character_speech,1,3,,Conrad.,#conrad,83.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+563,563,GerDracor/houwald-die-freistatt.xml,"Nun wohl, so werd' ich mit Gewalt",0,33,character_speech,1,3,,Conrad.,#conrad,83.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+564,564,GerDracor/houwald-die-freistatt.xml,Dich weg von diesen Gräbern führen.,0,35,character_speech,1,3,,Conrad.,#conrad,83.0,MALE,despair,T,,1817.0,negative,emotions of anxiety
+565,565,GerDracor/houwald-die-freistatt.xml,Mein Conrad!,0,12,character_speech,1,3,,Johannes.,#johannes,84.0,MALE,being moved,T,,1817.0,being moved,being moved
+566,566,GerDracor/houwald-die-freistatt.xml,fasse Dich!,13,24,character_speech,1,3,,Johannes.,#johannes,84.0,MALE,being moved,T,,1817.0,being moved,being moved
+567,567,GerDracor/houwald-die-freistatt.xml,ich will ja gehen!,25,43,character_speech,1,3,,Johannes.,#johannes,84.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+568,568,GerDracor/houwald-die-freistatt.xml,–,44,45,character_speech,1,3,,Johannes.,#johannes,84.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+569,569,GerDracor/houwald-die-freistatt.xml,Doch warte nur bis morgen Nacht.,0,32,character_speech,1,3,,Johannes.,#johannes,84.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+570,570,GerDracor/houwald-die-freistatt.xml,–,33,34,character_speech,1,3,,Johannes.,#johannes,84.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+571,571,GerDracor/houwald-die-freistatt.xml,Gut!,0,4,character_speech,1,3,,Conrad.,#conrad,85.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+572,572,GerDracor/houwald-die-freistatt.xml,"diese Frist will ich Dir zugestehen,",5,41,character_speech,1,3,,Conrad.,#conrad,85.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+573,573,GerDracor/houwald-die-freistatt.xml,Dann aber frisch ans Werk gedacht.,0,34,character_speech,1,3,,Conrad.,#conrad,85.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+574,574,GerDracor/houwald-die-freistatt.xml,"Bis dahin, hoff' ich, bleibst Du noch verborgen.",0,48,character_speech,1,3,,Conrad.,#conrad,85.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+575,575,GerDracor/houwald-die-freistatt.xml,Jetzt geh' nur heim!,0,20,character_speech,1,3,,Johannes.,#johannes,86.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+576,576,GerDracor/houwald-die-freistatt.xml,vorbei ist Mitternacht.,21,44,character_speech,1,3,,Johannes.,#johannes,86.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+577,577,GerDracor/houwald-die-freistatt.xml,Ich will mein Amt noch einmal hier besorgen.,0,44,character_speech,1,3,,Johannes.,#johannes,86.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+578,578,GerDracor/houwald-die-freistatt.xml,Wenn aber bei dem ersten Frührothsstrahl,0,40,character_speech,1,3,,Johannes.,#johannes,86.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+579,579,GerDracor/houwald-die-freistatt.xml,"Vom Thurm des Doms man bläst den Morgensegen,",0,45,character_speech,1,3,,Johannes.,#johannes,86.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+580,580,GerDracor/houwald-die-freistatt.xml,"Dann, Conrad, eile zu mir noch einmal;",0,38,character_speech,1,3,,Johannes.,#johannes,86.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+581,581,GerDracor/houwald-die-freistatt.xml,Ich habe viel Dir an das Herz zu legen.,0,39,character_speech,1,3,,Johannes.,#johannes,86.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+582,582,GerDracor/houwald-die-freistatt.xml,Warum nicht jetzt?,0,18,character_speech,1,3,,Conrad.,#conrad,87.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+583,583,GerDracor/houwald-die-freistatt.xml,–,19,20,character_speech,1,3,,Conrad.,#conrad,87.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+584,584,GerDracor/houwald-die-freistatt.xml,"Nein, g'rad' an jener Stunde",0,28,character_speech,1,3,,Johannes.,#johannes,88.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+585,585,GerDracor/houwald-die-freistatt.xml,Hängt Deine Ruh.,0,16,character_speech,1,3,,Johannes.,#johannes,88.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+586,586,GerDracor/houwald-die-freistatt.xml,"Versprich mir, daß Du kommst, mit Hand und Munde.",0,49,character_speech,1,3,,Johannes.,#johannes,88.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+587,587,GerDracor/houwald-die-freistatt.xml,Ich sag' es zu!,0,15,character_speech,1,3,,Conrad.,#conrad,89.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+588,588,GerDracor/houwald-die-freistatt.xml,Geht ab.,16,24,character_speech,1,3,,Conrad.,#conrad,89.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+589,589,GerDracor/houwald-die-freistatt.xml,allein.,0,7,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+590,590,GerDracor/houwald-die-freistatt.xml,Der Tieger hat das mattgejagte Wild,0,35,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+591,591,GerDracor/houwald-die-freistatt.xml,In sichrer Höhle wieder aufgefunden!,0,36,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+592,592,GerDracor/houwald-die-freistatt.xml,–,37,38,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+593,593,GerDracor/houwald-die-freistatt.xml,"Das warme Blut, aus meines Herzenswunden",0,40,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,love,T,,1817.0,positive,emotions of affection
+594,594,GerDracor/houwald-die-freistatt.xml,Hat seinen Durst noch nicht gestillt.,0,37,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+595,595,GerDracor/houwald-die-freistatt.xml,Und neue Flucht sollt' ich auf's neue wagen?,0,44,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+596,596,GerDracor/houwald-die-freistatt.xml,"Dem Tod entrinnen, der schon nah' mir steht?",0,44,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,despair,T,,1817.0,negative,emotions of anxiety
+597,597,GerDracor/houwald-die-freistatt.xml,Ich müßte selber mich verwundernd fragen:,0,41,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,being moved,T,,1817.0,being moved,being moved
+598,598,GerDracor/houwald-die-freistatt.xml,"Du fliehst, Du, den die Füße kaum mehr tragen,",0,46,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,despair,T,,1817.0,negative,emotions of anxiety
+599,599,GerDracor/houwald-die-freistatt.xml,"Ein Leben rettend, das schon still vergeht?",0,43,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,being moved,T,,1817.0,being moved,being moved
+600,600,GerDracor/houwald-die-freistatt.xml,–,44,45,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+601,601,GerDracor/houwald-die-freistatt.xml,Erkaufen sollt' ich diese Hand voll Stunden,0,43,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+602,602,GerDracor/houwald-die-freistatt.xml,Vielleicht mit eines edlen Freundes Glück?,0,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+603,603,GerDracor/houwald-die-freistatt.xml,–,43,44,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+604,604,GerDracor/houwald-die-freistatt.xml,"Der Tieger krallt sich jedem ins Genick,",0,40,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+605,605,GerDracor/houwald-die-freistatt.xml,Durch den die Beute sichre Flucht gefunden!,0,43,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+606,606,GerDracor/houwald-die-freistatt.xml,Ach!,0,4,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+607,607,GerDracor/houwald-die-freistatt.xml,eine Stimme wiederholt es laut:,5,36,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+608,608,GerDracor/houwald-die-freistatt.xml,"Wär' ich nicht dort entronnen seinen Krallen,",0,45,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+609,609,GerDracor/houwald-die-freistatt.xml,"Als er das Blutgerüst für mich gebaut,",0,38,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+610,610,GerDracor/houwald-die-freistatt.xml,So wär' mein Weib als Opfer nicht gefallen!,0,43,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+611,611,GerDracor/houwald-die-freistatt.xml,–,44,45,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+612,612,GerDracor/houwald-die-freistatt.xml,Doch kurz will ich das Spiel zu Ende führen.,0,44,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+613,613,GerDracor/houwald-die-freistatt.xml,–,45,46,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+614,614,GerDracor/houwald-die-freistatt.xml,"Das Bischen Leben ist es nicht mehr werth,",0,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+615,615,GerDracor/houwald-die-freistatt.xml,"Nur eine Thräne d'rüber zu verlieren,",0,37,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+616,616,GerDracor/houwald-die-freistatt.xml,Und daß die Sorge drob den Freund verzehrt.,0,43,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+617,617,GerDracor/houwald-die-freistatt.xml,Hab' ich nur in den nächsten Morgenstunden,0,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+618,618,GerDracor/houwald-die-freistatt.xml,"Mit seiner Sara erst versöhnt den Freund,",0,41,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+619,619,GerDracor/houwald-die-freistatt.xml,"Hat er sie wieder, und sie ihn gefunden,",0,40,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+620,620,GerDracor/houwald-die-freistatt.xml,"Hab' ich, die nie sich trennten, nun vereint,",0,45,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+621,621,GerDracor/houwald-die-freistatt.xml,Dann überliefr' ich selbst mich in der Stille.,0,46,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+622,622,GerDracor/houwald-die-freistatt.xml,–,47,48,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+623,623,GerDracor/houwald-die-freistatt.xml,"Die Rachegöttin hält das Sündenmaaß,",0,36,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+624,624,GerDracor/houwald-die-freistatt.xml,"So ströme denn mein Blut hinein, auf daß",0,40,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,love,T,,1817.0,positive,emotions of affection
+625,625,GerDracor/houwald-die-freistatt.xml,Es schneller sich bis an den Rand erfülle!,0,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+626,626,GerDracor/houwald-die-freistatt.xml,–,43,44,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+627,627,GerDracor/houwald-die-freistatt.xml,"Die Saat mit Blut gedüngt keimt herrlich auf,",0,45,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+628,628,GerDracor/houwald-die-freistatt.xml,Und wird dereinst noch reiche Früchte tragen.,0,45,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+629,629,GerDracor/houwald-die-freistatt.xml,"Prophetisch seh' ich in der Jahre Lauf,",0,39,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+630,630,GerDracor/houwald-die-freistatt.xml,"Die alte goldne Zeit noch einmal tagen,",0,39,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+631,631,GerDracor/houwald-die-freistatt.xml,"Wo Fürsten sich auf freie Völker stützen,",0,41,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+632,632,GerDracor/houwald-die-freistatt.xml,"Und Friede halten fern und nah',",0,32,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+633,633,GerDracor/houwald-die-freistatt.xml,"Und der Gesetze heil'ge Tafeln schützen,",0,40,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+634,634,GerDracor/houwald-die-freistatt.xml,Als stünde noch die Bundeslade da;,0,34,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+635,635,GerDracor/houwald-die-freistatt.xml,Wo blutige und gleissende Tyrannen,0,34,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,abhorrence,T,,1817.0,negative,emotions of rejection
+636,636,GerDracor/houwald-die-freistatt.xml,Wie böse Geister sind geflohn von dannen!,0,41,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+637,637,GerDracor/houwald-die-freistatt.xml,–,42,43,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+638,638,GerDracor/houwald-die-freistatt.xml,Er sinkt auf die Ruhebank nieder.,0,33,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+639,639,GerDracor/houwald-die-freistatt.xml,Wo war ich?,0,11,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+640,640,GerDracor/houwald-die-freistatt.xml,– was erschauten meine Blicke?,12,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,being moved,T,,1817.0,being moved,being moved
+641,641,GerDracor/houwald-die-freistatt.xml,–,43,44,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+642,642,GerDracor/houwald-die-freistatt.xml,Floh denn mein Geist schon himmelwärts?,0,39,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+643,643,GerDracor/houwald-die-freistatt.xml,–,40,41,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+644,644,GerDracor/houwald-die-freistatt.xml,"Ach, noch zieht ihn die Erde kalt zurücke,",0,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+645,645,GerDracor/houwald-die-freistatt.xml,"Und bänger, matter schlägt das Herz!",0,36,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+646,646,GerDracor/houwald-die-freistatt.xml,–,37,38,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+647,647,GerDracor/houwald-die-freistatt.xml,Er steht auf.,0,13,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+648,648,GerDracor/houwald-die-freistatt.xml,"Doch, Todtengräber!",0,19,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+649,649,GerDracor/houwald-die-freistatt.xml,nun zu Deiner Pflicht!,20,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+650,650,GerDracor/houwald-die-freistatt.xml,Er fülle sie zum letztenmale.,0,29,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+651,651,GerDracor/houwald-die-freistatt.xml,"Er zieht den schwarzen Vorhang im Hintergrunde weg; man erblickt eine zweite kleine
+            Halle, hinten mit einer Thür.",0,125,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+652,652,GerDracor/houwald-die-freistatt.xml,"In derselben steht ein offner Sarg, worin eine weibliche
+            Leiche liegt, die von oben her bis an die Brust mit einem Tuche verdeckt ist; die Hände,
+            die sie gefaltet hält, sind frei.",126,329,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+653,653,GerDracor/houwald-die-freistatt.xml,"Von der Decke herab hängt über der Leiche eine seidne
+            Schnur herab, wie dieß in Leichenhäusern gewöhnlich ist, um das Wiedererwachen der
+            Todten durch eine Klingel, an welche die Schnur befestigt ist, zu vernehmen.",330,567,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+654,654,GerDracor/houwald-die-freistatt.xml,"Der Sarg
+            steht der Länge nach in der Halle, mit dem Fußende gegen die Zuschauer, am Hauptende
+            etwas erhöht.",568,699,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+655,655,GerDracor/houwald-die-freistatt.xml,Der Sargdeckel liegt daneben.,700,729,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+656,656,GerDracor/houwald-die-freistatt.xml,"Johannes zündet eine Kerze an, und stellt
+            sie so zu Häupten des Sarges, daß die Leiche völlig beleuchtet wird.",730,852,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+657,657,GerDracor/houwald-die-freistatt.xml,"Schlaf ruhig, armes Kind!",0,25,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,compassion,T,,1817.0,negative,emotions of suffering and empathy
+658,658,GerDracor/houwald-die-freistatt.xml,– erwache nicht!,26,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+659,659,GerDracor/houwald-die-freistatt.xml,Die Mutter wiegt Dich ein im Todesthale.,0,40,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,despair,T,,1817.0,negative,emotions of anxiety
+660,660,GerDracor/houwald-die-freistatt.xml,–,41,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+661,661,GerDracor/houwald-die-freistatt.xml,"Wie innig mich die Sehnsucht jetzt ergreift,",0,44,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,love,T,,1817.0,positive,emotions of affection
+662,662,GerDracor/houwald-die-freistatt.xml,Mit Dir hinab den dunklen Weg zu wallen!,0,40,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+663,663,GerDracor/houwald-die-freistatt.xml,"Ich fühl's, das matte Herz, es ist gereift,",0,43,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+664,664,GerDracor/houwald-die-freistatt.xml,Als Frucht vom Baum des Lebens abzufallen.,0,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+665,665,GerDracor/houwald-die-freistatt.xml,Er will der Leiche die Schnur in die Hände geben.,0,49,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+666,666,GerDracor/houwald-die-freistatt.xml,Nimm noch einmal in Deine kalten Hände,0,38,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+667,667,GerDracor/houwald-die-freistatt.xml,Des großen Schauspielvorhangs Schnur;,0,37,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+668,668,GerDracor/houwald-die-freistatt.xml,"Und ist Dein Trauerspiel noch nicht zu Ende,",0,44,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+669,669,GerDracor/houwald-die-freistatt.xml,"Und kommt ein neuer Act, – so klingle nur.",0,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+670,670,GerDracor/houwald-die-freistatt.xml,–,43,44,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+671,671,GerDracor/houwald-die-freistatt.xml,Er findet einen Brief in ihren Händen.,0,38,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+672,672,GerDracor/houwald-die-freistatt.xml,Ein Briefchen?,0,14,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,being moved,T,,1817.0,being moved,being moved
+673,673,GerDracor/houwald-die-freistatt.xml,"– Sind es des Geliebten Worte,",15,45,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+674,674,GerDracor/houwald-die-freistatt.xml,Die Deine Hand noch hält?,0,25,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,love,T,,1817.0,positive,emotions of affection
+675,675,GerDracor/houwald-die-freistatt.xml,–,26,27,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+676,676,GerDracor/houwald-die-freistatt.xml,Auf daß mit ihnen am verschwiegnen Orte,0,39,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+677,677,GerDracor/houwald-die-freistatt.xml,Dein Herz in eine Asche sanft zerfällt?,0,39,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+678,678,GerDracor/houwald-die-freistatt.xml,–,40,41,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+679,679,GerDracor/houwald-die-freistatt.xml,"O, lass' mich doch Dein treues Antlitz schauen!",0,47,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,love,T,,1817.0,positive,emotions of affection
+680,680,GerDracor/houwald-die-freistatt.xml,"Was noch geheim auf Stirn und Lippe steht,",0,42,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+681,681,GerDracor/houwald-die-freistatt.xml,"Kannst Du mir immer anvertrauen,",0,32,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+682,682,GerDracor/houwald-die-freistatt.xml,Eh es mit Dir zu Bette geht.,0,28,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+683,683,GerDracor/houwald-die-freistatt.xml,"Er deckt das Tuch von der Leiche ab, und bebt zurück, als er sie
+            betrachtet.",0,88,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,being moved,T,,1817.0,being moved,being moved
+684,684,GerDracor/houwald-die-freistatt.xml,Was ist das?,0,12,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+685,685,GerDracor/houwald-die-freistatt.xml,– Tod!,13,19,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+686,686,GerDracor/houwald-die-freistatt.xml,willst Du mich hier belügen?,20,48,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+687,687,GerDracor/houwald-die-freistatt.xml,"Die Leiche grüßt mich mit vertrauten Zügen,",0,43,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+688,688,GerDracor/houwald-die-freistatt.xml,Als hätte sie mich längst gekannt.,0,34,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+689,689,GerDracor/houwald-die-freistatt.xml,–,35,36,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+690,690,GerDracor/houwald-die-freistatt.xml,Hat nicht dieß Auge einst mein Bild gespiegelt?,0,47,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,love,T,,1817.0,positive,emotions of affection
+691,691,GerDracor/houwald-die-freistatt.xml,"Hat dieser Mund, so fest versiegelt,",0,36,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+692,692,GerDracor/houwald-die-freistatt.xml,Nicht liebend mich bei Namen sonst genannt?,0,43,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,love,T,,1817.0,positive,emotions of affection
+693,693,GerDracor/houwald-die-freistatt.xml,"Er öffnet in größter Bewegung den Brief, und als er hineingeblickt, wankt er matt
+            zurück.",0,101,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,being moved,T,,1817.0,being moved,being moved
+694,694,GerDracor/houwald-die-freistatt.xml,Es sind die letzten Zeilen meiner Hand –,0,40,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+695,695,GerDracor/houwald-die-freistatt.xml,Es ist mein Weib!,0,17,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,being moved,T,,1817.0,being moved,being moved
+696,696,GerDracor/houwald-die-freistatt.xml,– es ist Eleonore!,18,36,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+697,697,GerDracor/houwald-die-freistatt.xml,–,37,38,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+698,698,GerDracor/houwald-die-freistatt.xml,Willkommen!,0,11,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+699,699,GerDracor/houwald-die-freistatt.xml,"Bist Du hergesandt,",12,31,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+700,700,GerDracor/houwald-die-freistatt.xml,Mich zu empfangen an dem dunklen Thore?,0,39,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,being moved,T,,1817.0,being moved,being moved
+701,701,GerDracor/houwald-die-freistatt.xml,–,40,41,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+702,702,GerDracor/houwald-die-freistatt.xml,Bist Du dem Blutgerüst wie ich entkommen?,0,41,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+703,703,GerDracor/houwald-die-freistatt.xml,"Hast Du mich, wie ich Dich beweint?",0,35,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,compassion,T,,1817.0,negative,emotions of suffering and empathy
+704,704,GerDracor/houwald-die-freistatt.xml,–,36,37,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+705,705,GerDracor/houwald-die-freistatt.xml,Und führst mir jetzt in Deiner stillen frommen,0,46,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+706,706,GerDracor/houwald-die-freistatt.xml,Gestalt den Tod herbei als Freund?,0,34,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+707,707,GerDracor/houwald-die-freistatt.xml,"Er starrt sie lange an, dann mit sinkender Stimme.",0,50,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,being moved,T,,1817.0,being moved,being moved
+708,708,GerDracor/houwald-die-freistatt.xml,"Ich fühl's, sanft löst er ab des Herzens Jammer.",0,48,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+709,709,GerDracor/houwald-die-freistatt.xml,–,49,50,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+710,710,GerDracor/houwald-die-freistatt.xml,"Er löscht die Kerze aus, und hält sich mühsam am Sarge.",0,55,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+711,711,GerDracor/houwald-die-freistatt.xml,Das Auge bricht!,0,16,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+712,712,GerDracor/houwald-die-freistatt.xml,– – Es sinkt der Tag!,17,38,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+713,713,GerDracor/houwald-die-freistatt.xml,–,39,40,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+714,714,GerDracor/houwald-die-freistatt.xml,Zu Bette dann!,0,14,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+715,715,GerDracor/houwald-die-freistatt.xml,– – Es öffnet sich die Kammer –,15,46,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+716,716,GerDracor/houwald-die-freistatt.xml,Er faßt die Hand der Leiche.,0,28,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+717,717,GerDracor/houwald-die-freistatt.xml,"Gieb Deine Hand, mein Weib!",0,27,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,love,T,,1817.0,positive,emotions of affection
+718,718,GerDracor/houwald-die-freistatt.xml,– und zieh' mich nach!,28,50,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+719,719,GerDracor/houwald-die-freistatt.xml,–,51,52,character_speech,1,4,,"Johannes,",#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+720,720,GerDracor/houwald-die-freistatt.xml,Er sinkt langsam auf die Leiche hin.,0,36,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+721,721,GerDracor/houwald-die-freistatt.xml,"Indeß ein leises Zucken sein Hinscheiden
+            verkündigt, hört man aus der Ferne vom Dom den Choral blasen.",37,151,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+722,722,GerDracor/houwald-die-freistatt.xml,"Die dunkle Halle wird
+            lichter, und auf die Gruppe der Todten fallen die ersten Strahlen der
+            Morgenröthe.",152,280,stage_direction,1,4,speech_part,,#johannes,90.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+723,723,GerDracor/houwald-die-freistatt.xml,Sara von Ulstrade.,0,18,stage_direction,1,5,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+724,724,GerDracor/houwald-die-freistatt.xml,den Johannes erblickend.,0,24,stage_direction,1,5,speech_part,,#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+725,725,GerDracor/houwald-die-freistatt.xml,Sieh!,0,5,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+726,726,GerDracor/houwald-die-freistatt.xml,bei dem Wachen ist er eingeschlafen.,6,42,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+727,727,GerDracor/houwald-die-freistatt.xml,–,43,44,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+728,728,GerDracor/houwald-die-freistatt.xml,Ich will verziehn.,0,18,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+729,729,GerDracor/houwald-die-freistatt.xml,Sie setzt sich auf die Ruhebank.,0,32,stage_direction,1,5,speech_part,,#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+730,730,GerDracor/houwald-die-freistatt.xml,Wie sanft er ruht!,0,18,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+731,731,GerDracor/houwald-die-freistatt.xml,–,19,20,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+732,732,GerDracor/houwald-die-freistatt.xml,"Der müde Steuermann in diesem Hafen,",0,36,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+733,733,GerDracor/houwald-die-freistatt.xml,Schläft selbst auf starrer Leiche gut.,0,38,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+734,734,GerDracor/houwald-die-freistatt.xml,– –,39,42,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+735,735,GerDracor/houwald-die-freistatt.xml,Doch horch!,0,11,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+736,736,GerDracor/houwald-die-freistatt.xml,– wer naht!,12,23,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+737,737,GerDracor/houwald-die-freistatt.xml,– ich höre Tritte schallen!,24,51,character_speech,1,5,,"Sara,",#sara,91.0,FEMALE,anger,T,,1817.0,negative,emotions of rejection
+738,738,GerDracor/houwald-die-freistatt.xml,"Die Vorige, und Conrad von Ulstrade.",0,36,stage_direction,1,6,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+739,739,GerDracor/houwald-die-freistatt.xml,im raschen Hereintreten.,0,24,stage_direction,1,6,speech_part,,#conrad,92.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+740,740,GerDracor/houwald-die-freistatt.xml,Hier bin ich!,0,13,character_speech,1,6,,"Conrad,",#conrad,92.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+741,741,GerDracor/houwald-die-freistatt.xml,"Erstaunend, als er Sara erblickt.",0,33,stage_direction,1,6,speech_part,,#conrad,92.0,MALE,being moved,T,,1817.0,being moved,being moved
+742,742,GerDracor/houwald-die-freistatt.xml,Ha!,0,3,character_speech,1,6,,"Conrad,",#conrad,92.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+743,743,GerDracor/houwald-die-freistatt.xml,Dich treff' ich hier?,4,25,character_speech,1,6,,"Conrad,",#conrad,92.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+744,744,GerDracor/houwald-die-freistatt.xml,"Was willst Du, Weib!",0,20,character_speech,1,6,,"Conrad,",#conrad,92.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+745,745,GerDracor/houwald-die-freistatt.xml,in diesen Todtenhallen?,21,44,character_speech,1,6,,"Conrad,",#conrad,92.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+746,746,GerDracor/houwald-die-freistatt.xml,freundlich auf ihn zutretend.,0,29,stage_direction,1,6,speech_part,,#sara,93.0,FEMALE,friendship,T,,1817.0,positive,emotions of affection
+747,747,GerDracor/houwald-die-freistatt.xml,Mein Conrad!,0,12,character_speech,1,6,,"Sara,",#sara,93.0,FEMALE,being moved,T,,1817.0,being moved,being moved
+748,748,GerDracor/houwald-die-freistatt.xml,wie?,13,17,character_speech,1,6,,"Sara,",#sara,93.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+749,749,GerDracor/houwald-die-freistatt.xml,– mißtraust Du mir?,18,37,character_speech,1,6,,"Sara,",#sara,93.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+750,750,GerDracor/houwald-die-freistatt.xml,–,38,39,character_speech,1,6,,"Sara,",#sara,93.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+751,751,GerDracor/houwald-die-freistatt.xml,Nein!,0,5,character_speech,1,6,,Conrad.,#conrad,94.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+752,752,GerDracor/houwald-die-freistatt.xml,wahrlich nein!,6,20,character_speech,1,6,,Conrad.,#conrad,94.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+753,753,GerDracor/houwald-die-freistatt.xml,– Doch eine Zentnerlast – –,21,48,character_speech,1,6,,Conrad.,#conrad,94.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+754,754,GerDracor/houwald-die-freistatt.xml,"Er vollendet nicht, und wendet sich bekümmert ab.",0,49,stage_direction,1,6,speech_part,,#conrad,94.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+755,755,GerDracor/houwald-die-freistatt.xml,Welch' eine Last liegt auf dem treuen Herzen?,0,45,character_speech,1,6,,Sara.,#sara,95.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+756,756,GerDracor/houwald-die-freistatt.xml,–,46,47,character_speech,1,6,,Sara.,#sara,95.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+757,757,GerDracor/houwald-die-freistatt.xml,"So wisse denn, ich kann es nicht verschmerzen,",0,46,character_speech,1,6,,Conrad.,#conrad,96.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+758,758,GerDracor/houwald-die-freistatt.xml,Daß Du für mich Geheimniß hast.,0,31,character_speech,1,6,,Conrad.,#conrad,96.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+759,759,GerDracor/houwald-die-freistatt.xml,–,32,33,character_speech,1,6,,Conrad.,#conrad,96.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+760,760,GerDracor/houwald-die-freistatt.xml,"Es ist mir fast, als hätt' ich Dich verloren!",0,45,character_speech,1,6,,Conrad.,#conrad,96.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+761,761,GerDracor/houwald-die-freistatt.xml,–,46,47,character_speech,1,6,,Conrad.,#conrad,96.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+762,762,GerDracor/houwald-die-freistatt.xml,So ist mir's auch in meiner bangen Brust.,0,41,character_speech,1,6,,Sara.,#sara,97.0,FEMALE,fear,T,,1817.0,negative,emotions of anxiety
+763,763,GerDracor/houwald-die-freistatt.xml,"Geliebter Mann, bist Du Dir's nicht bewußt,",0,43,character_speech,1,6,,Sara.,#sara,97.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+764,764,GerDracor/houwald-die-freistatt.xml,Daß auch Du viel verborgen meinen Ohren?,0,40,character_speech,1,6,,Sara.,#sara,97.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+765,765,GerDracor/houwald-die-freistatt.xml,–,41,42,character_speech,1,6,,Sara.,#sara,97.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+766,766,GerDracor/houwald-die-freistatt.xml,Wohl!,0,5,character_speech,1,6,,Conrad.,#conrad,98.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+767,767,GerDracor/houwald-die-freistatt.xml,Doch nicht um es sichrer zu bewahren;,6,43,character_speech,1,6,,Conrad.,#conrad,98.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+768,768,GerDracor/houwald-die-freistatt.xml,Ich kenne Deinen treu verschwiegnen Mund.,0,41,character_speech,1,6,,Conrad.,#conrad,98.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+769,769,GerDracor/houwald-die-freistatt.xml,Nur meine Sorgen wollt' ich Dir ersparen;,0,41,character_speech,1,6,,Conrad.,#conrad,98.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+770,770,GerDracor/houwald-die-freistatt.xml,"Bald aber, Sara, wird es nun Dir kund.",0,38,character_speech,1,6,,Conrad.,#conrad,98.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+771,771,GerDracor/houwald-die-freistatt.xml,"So sind wir beide einen Weg gegangen,",0,37,character_speech,1,6,,Sara.,#sara,99.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+772,772,GerDracor/houwald-die-freistatt.xml,Dasselbe hat zum Schweigen mich bewegt.,0,39,character_speech,1,6,,Sara.,#sara,99.0,FEMALE,being moved,T,,1817.0,being moved,being moved
+773,773,GerDracor/houwald-die-freistatt.xml,Doch meine Sorge hat der Tod empfangen;,0,39,character_speech,1,6,,Sara.,#sara,99.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+774,774,GerDracor/houwald-die-freistatt.xml,"Dort liegt die Freundin, die ich still gepflegt.",0,48,character_speech,1,6,,Sara.,#sara,99.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+775,775,GerDracor/houwald-die-freistatt.xml,da er Johannes erblickt.,0,24,stage_direction,1,6,speech_part,,#conrad,100.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+776,776,GerDracor/houwald-die-freistatt.xml,Sieh da!,0,8,character_speech,1,6,,"Conrad,",#conrad,100.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+777,777,GerDracor/houwald-die-freistatt.xml,er schläft!,9,20,character_speech,1,6,,"Conrad,",#conrad,100.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+778,778,GerDracor/houwald-die-freistatt.xml,"– Ich werd' ihn wecken müssen,",21,51,character_speech,1,6,,"Conrad,",#conrad,100.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+779,779,GerDracor/houwald-die-freistatt.xml,Denn uns're edle Zeit verstreicht.,0,34,character_speech,1,6,,"Conrad,",#conrad,100.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+780,780,GerDracor/houwald-die-freistatt.xml,Sie treten näher.,0,17,stage_direction,1,6,speech_part,,#conrad,100.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+781,781,GerDracor/houwald-die-freistatt.xml,"Wach auf, mein Freund!",0,22,character_speech,1,6,,"Conrad,",#conrad,100.0,MALE,friendship,T,,1817.0,positive,emotions of affection
+782,782,GerDracor/houwald-die-freistatt.xml,– Du hast ein kaltes Kissen!,23,51,character_speech,1,6,,"Conrad,",#conrad,100.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+783,783,GerDracor/houwald-die-freistatt.xml,Bald schlummerst weicher Du vielleicht.,0,39,character_speech,1,6,,"Conrad,",#conrad,100.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+784,784,GerDracor/houwald-die-freistatt.xml,O lass' ihn!,0,12,character_speech,1,6,,Sara.,#sara,101.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+785,785,GerDracor/houwald-die-freistatt.xml,–,13,14,character_speech,1,6,,Sara.,#sara,101.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+786,786,GerDracor/houwald-die-freistatt.xml,"als er seine Hand faßt, erschrocken.",0,36,stage_direction,1,6,speech_part,,#conrad,102.0,MALE,being moved,T,,1817.0,being moved,being moved
+787,787,GerDracor/houwald-die-freistatt.xml,Gott!,0,5,character_speech,1,6,,"Conrad,",#conrad,102.0,MALE,being moved,T,,1817.0,being moved,being moved
+788,788,GerDracor/houwald-die-freistatt.xml,was ist hier vorgegangen?,6,31,character_speech,1,6,,"Conrad,",#conrad,102.0,MALE,being moved,T,,1817.0,being moved,being moved
+789,789,GerDracor/houwald-die-freistatt.xml,–,32,33,character_speech,1,6,,"Conrad,",#conrad,102.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+790,790,GerDracor/houwald-die-freistatt.xml,Das ist kein Schlaf; kalt ist die Hand wie Eis!,0,47,character_speech,1,6,,"Conrad,",#conrad,102.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+791,791,GerDracor/houwald-die-freistatt.xml,–,48,49,character_speech,1,6,,"Conrad,",#conrad,102.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+792,792,GerDracor/houwald-die-freistatt.xml,"Er will ihn aufheben, läßt ihn aber, da er ihn todt findet, sanft neben dem Sarge
+            nieder.",0,101,stage_direction,1,6,speech_part,,#conrad,102.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+793,793,GerDracor/houwald-die-freistatt.xml,So bist Du heimlich mir davon gegangen?,0,39,character_speech,1,6,,"Conrad,",#conrad,102.0,MALE,being moved,T,,1817.0,being moved,being moved
+794,794,GerDracor/houwald-die-freistatt.xml,–,40,41,character_speech,1,6,,"Conrad,",#conrad,102.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+795,795,GerDracor/houwald-die-freistatt.xml,Eh' ich Dich noch zu retten weiß?,0,33,character_speech,1,6,,"Conrad,",#conrad,102.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+796,796,GerDracor/houwald-die-freistatt.xml,–,34,35,character_speech,1,6,,"Conrad,",#conrad,102.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+797,797,GerDracor/houwald-die-freistatt.xml,Wie?,0,4,character_speech,1,6,,Sara.,#sara,103.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+798,798,GerDracor/houwald-die-freistatt.xml,ist er todt?,5,17,character_speech,1,6,,Sara.,#sara,103.0,FEMALE,despair,T,,1817.0,negative,emotions of anxiety
+799,799,GerDracor/houwald-die-freistatt.xml,–,18,19,character_speech,1,6,,Sara.,#sara,103.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+800,800,GerDracor/houwald-die-freistatt.xml,"Das Herz hat ausgeschlagen,",0,27,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+801,801,GerDracor/houwald-die-freistatt.xml,"Das große Herz, wie keins mehr ist!",0,35,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,love,T,,1817.0,positive,emotions of affection
+802,802,GerDracor/houwald-die-freistatt.xml,–,36,37,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+803,803,GerDracor/houwald-die-freistatt.xml,O kann nicht mehr Dein bleicher Mund mir's sagen;,0,49,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+804,804,GerDracor/houwald-die-freistatt.xml,Warum Du mir so schnell entflohen bist?,0,39,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+805,805,GerDracor/houwald-die-freistatt.xml,–,40,41,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+806,806,GerDracor/houwald-die-freistatt.xml,"Sie stehn in seinen Anblick versunken, dann fährt Conrad fort.",0,62,stage_direction,1,6,speech_part,,#conrad,104.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+807,807,GerDracor/houwald-die-freistatt.xml,"Nun Sara, brauch' ich länger nicht zu schweigen, –",0,50,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+808,808,GerDracor/houwald-die-freistatt.xml,Sieh diese starren edlen Züge an.,0,33,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+809,809,GerDracor/houwald-die-freistatt.xml,– –,34,37,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+810,810,GerDracor/houwald-die-freistatt.xml,"Du magst Dich tief vor seinem Namen beugen,",0,43,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+811,811,GerDracor/houwald-die-freistatt.xml,Johann von Bruckthal hieß der Mann!,0,35,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+812,812,GerDracor/houwald-die-freistatt.xml,–,36,37,character_speech,1,6,,Conrad.,#conrad,104.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+813,813,GerDracor/houwald-die-freistatt.xml,Wie?,0,4,character_speech,1,6,,Sara.,#sara,105.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+814,814,GerDracor/houwald-die-freistatt.xml,"und die Freundin, die ich heimlich barg,",5,45,character_speech,1,6,,Sara.,#sara,105.0,FEMALE,friendship,T,,1817.0,positive,emotions of affection
+815,815,GerDracor/houwald-die-freistatt.xml,"Weil der Entflohnen Schmach und Tod bedrohten,",0,46,character_speech,1,6,,Sara.,#sara,105.0,FEMALE,fear,T,,1817.0,negative,emotions of anxiety
+816,816,GerDracor/houwald-die-freistatt.xml,"Die neben ihm dort friedlich schläft im Sarg,",0,45,character_speech,1,6,,Sara.,#sara,105.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+817,817,GerDracor/houwald-die-freistatt.xml,"Lenore ists, die Gattin Deines Todten!",0,38,character_speech,1,6,,Sara.,#sara,105.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+818,818,GerDracor/houwald-die-freistatt.xml,–,39,40,character_speech,1,6,,Sara.,#sara,105.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+819,819,GerDracor/houwald-die-freistatt.xml,Lenore?,0,7,character_speech,1,6,,Conrad.,#conrad,106.0,MALE,being moved,T,,1817.0,being moved,being moved
+820,820,GerDracor/houwald-die-freistatt.xml,– O nun sieht mein Auge klar!,8,37,character_speech,1,6,,Conrad.,#conrad,106.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+821,821,GerDracor/houwald-die-freistatt.xml,–,38,39,character_speech,1,6,,Conrad.,#conrad,106.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+822,822,GerDracor/houwald-die-freistatt.xml,"Ihr habt Euch unverhofft hier wiederfunden,",0,43,character_speech,1,6,,Conrad.,#conrad,106.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+823,823,GerDracor/houwald-die-freistatt.xml,"Noch einmal, doch am ernstern Traualtar,",0,40,character_speech,1,6,,Conrad.,#conrad,106.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+824,824,GerDracor/houwald-die-freistatt.xml,Hat Euch der Todesengel hier verbunden!,0,39,character_speech,1,6,,Conrad.,#conrad,106.0,MALE,love,T,,1817.0,positive,emotions of affection
+825,825,GerDracor/houwald-die-freistatt.xml,–,40,41,character_speech,1,6,,Conrad.,#conrad,106.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+826,826,GerDracor/houwald-die-freistatt.xml,Zu Sara.,0,8,stage_direction,1,6,speech_part,,#conrad,106.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+827,827,GerDracor/houwald-die-freistatt.xml,"Kannst Du es nun in meinem Innern lesen,",0,40,character_speech,1,6,,Conrad.,#conrad,106.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+828,828,GerDracor/houwald-die-freistatt.xml,Was mein Geheimniß und mein Gram gewesen?,0,41,character_speech,1,6,,Conrad.,#conrad,106.0,MALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+829,829,GerDracor/houwald-die-freistatt.xml,Durchschaust auch Du mein Herz nun klar?,0,40,character_speech,1,6,,Sara.,#sara,107.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+830,830,GerDracor/houwald-die-freistatt.xml,–,41,42,character_speech,1,6,,Sara.,#sara,107.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+831,831,GerDracor/houwald-die-freistatt.xml,Mein Weib!,0,10,character_speech,1,6,,Conrad.,#conrad,108.0,MALE,anger,T,,1817.0,negative,emotions of rejection
+832,832,GerDracor/houwald-die-freistatt.xml,– wir haben uns bewährt gefunden!,11,44,character_speech,1,6,,Conrad.,#conrad,108.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+833,833,GerDracor/houwald-die-freistatt.xml,So hat auch uns ein Engel neu verbunden,0,39,character_speech,1,6,,Sara.,#sara,109.0,FEMALE,love,T,,1817.0,positive,emotions of affection
+834,834,GerDracor/houwald-die-freistatt.xml,An diesem ernsten Traualtar!,0,28,character_speech,1,6,,Sara.,#sara,109.0,FEMALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+835,835,GerDracor/houwald-die-freistatt.xml,Sie sinken sich in die Arme.,0,28,stage_direction,1,6,speech_part,,#sara,109.0,FEMALE,suffering,T,,1817.0,negative,emotions of suffering and empathy
+836,836,GerDracor/houwald-die-freistatt.xml,"Es ist Tag geworden, und beide Hallen haben volles Licht.",0,57,stage_direction,1,7,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+837,837,GerDracor/houwald-die-freistatt.xml,"Ein Officier tritt mit vier
+          Mann Wache herein.",58,114,stage_direction,1,7,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+838,838,GerDracor/houwald-die-freistatt.xml,Conrad und Sara gehen ihm in den Vordergrund entgegen.,115,169,stage_direction,1,7,pre_speech,,,,,no_annotation,T,,1817.0,no_annotation,no_annotation
+839,839,GerDracor/houwald-die-freistatt.xml,Was wollt Ihr hier?,0,19,character_speech,1,7,,Conrad.,#conrad,110.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+840,840,GerDracor/houwald-die-freistatt.xml,–,20,21,character_speech,1,7,,Conrad.,#conrad,110.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+841,841,GerDracor/houwald-die-freistatt.xml,zur Wache.,0,10,stage_direction,1,7,speech_part,,#officier,111.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+842,842,GerDracor/houwald-die-freistatt.xml,Besetzt die Thüren.,0,19,character_speech,1,7,,"Officier,",#officier,111.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+843,843,GerDracor/houwald-die-freistatt.xml,"Hierauf gehen zwei Soldaten nach dem Eingange ab, durch welchen sie hereingekommen,
+            die beiden andern besetzen die Thüre im Hintergrund der zweiten Halle, und bleiben
+            sichtbar.",0,200,stage_direction,1,7,speech_part,,#officier,111.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+844,844,GerDracor/houwald-die-freistatt.xml,Johann von Bruckthal such' ich hier!,0,36,character_speech,1,7,,"Officier,",#officier,111.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+845,845,GerDracor/houwald-die-freistatt.xml,"Ich habe Ordre, ihn hinwegzuführen,",0,35,character_speech,1,7,,"Officier,",#officier,111.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+846,846,GerDracor/houwald-die-freistatt.xml,Denn die Verkleidung kennen wir.,0,32,character_speech,1,7,,"Officier,",#officier,111.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+847,847,GerDracor/houwald-die-freistatt.xml,"Ihr kommt zu spät, er ist Euch schon entgangen!",0,47,character_speech,1,7,,Conrad.,#conrad,112.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+848,848,GerDracor/houwald-die-freistatt.xml,"Wir wissen es genau, hier lebt er jetzt.",0,40,character_speech,1,7,,Officier.,#officier,113.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+849,849,GerDracor/houwald-die-freistatt.xml,"Er gebe sich gutwillig mir gefangen,",0,36,character_speech,1,7,,Officier.,#officier,113.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+850,850,GerDracor/houwald-die-freistatt.xml,Das ganze Haus ist schon besetzt.,0,33,character_speech,1,7,,Officier.,#officier,113.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+851,851,GerDracor/houwald-die-freistatt.xml,"Auf Frührothsstrahlen ist er hingeflogen,",0,41,character_speech,1,7,,Conrad.,#conrad,114.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+852,852,GerDracor/houwald-die-freistatt.xml,Wo Ihr vergeblich ihn bedroht.,0,30,character_speech,1,7,,Conrad.,#conrad,114.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+853,853,GerDracor/houwald-die-freistatt.xml,–,31,32,character_speech,1,7,,Conrad.,#conrad,114.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+854,854,GerDracor/houwald-die-freistatt.xml,Der Tod hat um das Opfer Euch betrogen –,0,40,character_speech,1,7,,Conrad.,#conrad,114.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+855,855,GerDracor/houwald-die-freistatt.xml,Dort schläft er!,0,16,character_speech,1,7,,Conrad.,#conrad,114.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+856,856,GerDracor/houwald-die-freistatt.xml,– Rechtet mit dem Tod!,17,39,character_speech,1,7,,Conrad.,#conrad,114.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+857,857,GerDracor/houwald-die-freistatt.xml,"Er tritt in die Halle, und betrachtet die Leiche.",0,49,stage_direction,1,7,speech_part,,#officier,115.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+858,858,GerDracor/houwald-die-freistatt.xml,Er ist's!,0,9,character_speech,1,7,,Officier.,#officier,115.0,MALE,joy,T,,1817.0,positive,emotions of pleasure
+859,859,GerDracor/houwald-die-freistatt.xml,– Ich kannt' ihn einst in Kraft der Jugend.,10,53,character_speech,1,7,,Officier.,#officier,115.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+860,860,GerDracor/houwald-die-freistatt.xml,Das Herz ist starr!,0,19,character_speech,1,7,,Officier.,#officier,115.0,MALE,being moved,T,,1817.0,being moved,being moved
+861,861,GerDracor/houwald-die-freistatt.xml,– Die Hand ist kalt!,20,40,character_speech,1,7,,Officier.,#officier,115.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+862,862,GerDracor/houwald-die-freistatt.xml,–,41,42,character_speech,1,7,,Officier.,#officier,115.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+863,863,GerDracor/houwald-die-freistatt.xml,"Ich weiche hier der höheren Gewalt,",0,35,character_speech,1,7,,Officier.,#officier,115.0,MALE,fear,T,,1817.0,negative,emotions of anxiety
+864,864,GerDracor/houwald-die-freistatt.xml,Und ehr' im Feind auch ächte Heldentugend!,0,42,character_speech,1,7,,Officier.,#officier,115.0,MALE,"admiration, reverence",T,,1817.0,positive,emotions of affection
+865,865,GerDracor/houwald-die-freistatt.xml,"Er zieht den Degen und winkt, worauf die an der Thüre stehende Wache ins Gewehr
+            tritt; dann entblößt er sein Haupt, und legt seinen Degen auf die Leiche.",0,165,stage_direction,1,7,speech_part,,#officier,115.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation
+866,866,GerDracor/houwald-die-freistatt.xml,Der Vorhang fällt.,0,18,stage_direction,1,7,speech_part,,#officier,115.0,MALE,no_annotation,T,,1817.0,no_annotation,no_annotation

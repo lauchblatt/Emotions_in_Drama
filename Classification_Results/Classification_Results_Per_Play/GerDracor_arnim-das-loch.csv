@@ -1,0 +1,1073 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/arnim-das-loch.xml,Kaiser und Kaiserin.,0,20,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1811.0,no_annotation,no_annotation
+1,1,GerDracor/arnim-das-loch.xml,"Nicht wahr, es sitzt sich gut auf dem Thron?",0,44,character_speech,1,1,,KAISER.,#kaiser,1.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+2,2,GerDracor/arnim-das-loch.xml,"
+              Ich sitze nicht gern, das wißt ihr schon,
+              Tanzen und Springen war mein Entzücken,
+              Das Regieren will mich gar nicht beglücken.",0,168,character_speech,1,1,,KAISERIN.,#kaiserin,2.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+3,3,GerDracor/arnim-das-loch.xml,"
+              Ja, liebes Kind, man muß sich genieren,
+              Wann man die ganze Welt will regieren,
+              Es ist kein Spas, es fordert Knochen.",0,159,character_speech,1,1,,KAISER.,#kaiser,3.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+4,4,GerDracor/arnim-das-loch.xml,So ward mir noch nie vom Regieren gesprochen.,0,45,character_speech,1,1,,KAISERIN.,#kaiserin,4.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+5,5,GerDracor/arnim-das-loch.xml,"
+              Du kennst auch noch nicht die schwersten Pflichten,
+              Du kennst bis jetzt nur die lustgen Geschichten,
+              Wie einer den andern läßt köpfen und schinden,
+              Die Städte verbrennt, den Krieg zu verkünden,
+              Ja wäre es damit abgethan,
+              Da wäre gar mancher ein großer Mann,
+              Doch dann kommt erst das Gesetzegeben,
+              Das greifet dem Klügsten in das Leben.",0,448,character_speech,1,1,,KAISER.,#kaiser,5.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+6,6,GerDracor/arnim-das-loch.xml,"Wenn du in deiner Kammer verschlossen,
+              Da wird die Regierungsmaschine gestoßen,
+              Wie mancher Tropfen Schweiß wird vergossen,
+              Bis wir die Gesetze herausgestoßen.",463,664,character_speech,1,1,,KAISER.,#kaiser,5.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+7,7,GerDracor/arnim-das-loch.xml,"
+              Kann ich euch bei der Arbeit nicht nützen,
+              Fast fürchte ich mich, hier zu versitzen,
+              Bewegung kann die Gesundheit schützen.",0,166,character_speech,1,1,,KAISERIN.,#kaiserin,6.0,FEMALE,fear,S,,1811.0,negative,emotions of anxiety
+8,8,GerDracor/arnim-das-loch.xml,"
+              Kein Weib hat die Kraft und den hohen Muth,
+              Der die Gesetze recht greifen thut,
+              Oft muß ich ganze Tage drauf lauern,
+              Und dann will wenig Minuten nur dauern
+              Die Kraft der hohen Begeisterung:
+              Sie kommt, sie kommt, entfliehe im Sprung.",0,317,character_speech,1,1,,KAISER.,#kaiser,7.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+9,9,GerDracor/arnim-das-loch.xml,"
+              Ich ziehe mich willig zurück in die Kammer,
+              Doch endet, o Kaiser, des Herzens Jammer,
+              Gedenket, wie langsam die Tage verfließen,
+              Ach, soll ich in Einsamkeit immer büßen!",0,226,character_speech,1,1,,KAISERIN.,#kaiserin,8.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+10,10,GerDracor/arnim-das-loch.xml,"
+              Was kannst du verlangen, was kannst du vermissen,
+              Geh schlafen auf deinen sammtenen Kissen,
+              Und Kasper soll mir heut Spässe aufschreiben,
+              Womit ich dir kann die Zeit vertreiben.",0,234,character_speech,1,1,,KAISER.,#kaiser,9.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+11,11,GerDracor/arnim-das-loch.xml,"
+              Ich möchte auch gerne ins Freie gehen,
+              Die Ritter der Tafelrunde besehen.",0,102,character_speech,1,1,,KAISERIN.,#kaiserin,10.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+12,12,GerDracor/arnim-das-loch.xml,"
+              Das schicket sich nicht in glücklichen Ehen.",0,59,character_speech,1,1,,KAISER.,#kaiser,11.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+13,13,GerDracor/arnim-das-loch.xml,Flugs steige die Treppe zu deinem Thurm.,74,114,character_speech,1,1,,KAISER.,#kaiser,11.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+14,14,GerDracor/arnim-das-loch.xml,"Ich arme Prinzessin, ich armer Wurm.",0,36,character_speech,1,1,,KAISERIN.,#kaiserin,12.0,FEMALE,compassion,S,,1811.0,negative,emotions of suffering and empathy
+15,15,GerDracor/arnim-das-loch.xml,Er führt sie zur Treppe und schließt sie ein.,0,45,stage_direction,1,1,speech_part,,#kaiserin,12.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+16,16,GerDracor/arnim-das-loch.xml,"He Kasper, Tintenklecker, seyd ihr noch nicht fertig.",0,53,character_speech,1,2,,KAISER.,#kaiser,13.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+17,17,GerDracor/arnim-das-loch.xml,kommt.,0,6,stage_direction,1,2,speech_part,,#kasper,14.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+18,18,GerDracor/arnim-das-loch.xml,Ich bin des kaiserlichen Worts gewärtig.,0,40,character_speech,1,2,,KASPER,#kasper,14.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+19,19,GerDracor/arnim-das-loch.xml,"
+              So schieb die Regierungsmaschine herbei,
+              Ich fühle in mir Begeisterung,
+              Die macht mich wieder in Freuden jung.",0,153,character_speech,1,2,,KAISER.,#kaiser,15.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+20,20,GerDracor/arnim-das-loch.xml,schiebt sie herbei.,0,19,stage_direction,1,2,speech_part,,#kasper,16.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+21,21,GerDracor/arnim-das-loch.xml,Die Räder machen ein wenig Geschrei.,0,36,character_speech,1,2,,KASPER,#kasper,16.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+22,22,GerDracor/arnim-das-loch.xml,Ihr müsset die Räder ein wenig schmieren.,0,41,character_speech,1,2,,KAISER.,#kaiser,17.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+23,23,GerDracor/arnim-das-loch.xml,"
+              Das nennen wir dann das Regeneriren,
+              Das Fett, das geben die Unterthanen,
+              Die Verarmten stecken wir unter die Fahnen,
+              Die müssen für's Vaterland billig bluten.",0,216,character_speech,1,2,,KASPER.,#kasper,18.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+24,24,GerDracor/arnim-das-loch.xml,Das Sterben erfreuet alle Guten.,0,32,character_speech,1,2,,KAISER.,#kaiser,19.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+25,25,GerDracor/arnim-das-loch.xml,"
+              Nun steht die Maschine uns eben recht,
+              Hier sind die Würfel, sie fallen nicht schlecht,
+              Sie zeigen uns eben recht viele Augen,
+              Da werden die Gesetze zur Aufsicht taugen,
+              Wie alle Steuern rasch einzutreiben,
+              Daß kein Kreuzer in der Tasche kann bleiben.",0,336,character_speech,1,2,,KASPER.,#kasper,20.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+26,26,GerDracor/arnim-das-loch.xml,Was wollen wir diesmal die Leut' überraschen.,351,396,character_speech,1,2,,KASPER.,#kasper,20.0,MALE,being moved,S,,1811.0,being moved,being moved
+27,27,GerDracor/arnim-das-loch.xml,Es füllt uns der Geist der Zeit die Taschen.,0,44,character_speech,1,2,,KAISER.,#kaiser,21.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+28,28,GerDracor/arnim-das-loch.xml,"
+              Es ist eine ganz besondre Laune,
+              So gute Gesetze bricht man nicht vom Zaune.",0,105,character_speech,1,2,,KASPER.,#kasper,22.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+29,29,GerDracor/arnim-das-loch.xml,Nummer neune ist eben der Würfel gefallen.,0,42,character_speech,1,2,,KAISER.,#kaiser,23.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+30,30,GerDracor/arnim-das-loch.xml,"
+              Da steht ein herrlich Gesetz vor allen:
+              Jede Lichtputz ein für allemal
+              Einen Blaffert zu der Taxe bezahl.",0,148,character_speech,1,2,,KASPER.,#kasper,24.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+31,31,GerDracor/arnim-das-loch.xml,"Aber Herr, wer nun putzt das Licht mit den Fingern,
+              Da wird sich die Einnahme schmälig verringern.",163,275,character_speech,1,2,,KASPER.,#kasper,24.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+32,32,GerDracor/arnim-das-loch.xml,"
+              Finger?",0,22,character_speech,1,2,,KAISER.,#kaiser,25.0,MALE,being moved,S,,1811.0,being moved,being moved
+33,33,GerDracor/arnim-das-loch.xml,"Die sollen auch wie Lichtputze bezahlen,
+              Wir stempeln ein jedes Paar Finger mit Zahlen,
+              Und setzen jedem einen Aufseher dabei,
+              Daß im Gebrauche auch Ordnung sey,
+              Daß kein Paar früher wird abgenutzt,
+              Und daß das Volk nicht der Ordnung trutzt,
+              Und über den Aufseher setzen wir zwei,
+              Damit er thut seine Pflicht dabei.",23,436,character_speech,1,2,,KAISER.,#kaiser,25.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+34,34,GerDracor/arnim-das-loch.xml,"
+              Da können wir viele Leute anstellen,
+              Da nehm ich von meinen guten Gesellen,
+              Von meinen alten Schulkammeraden,
+              Die kommen mir sonst in Faulheit zu Schaden,
+              Das Stempeln wird etwas den Fingern schmerzen,
+              Doch gute Bürger die leiden von Herzen,
+              Und wir im Dienste des Staats sind frei,
+              So ist es mir eben ganz einerlei.",0,429,character_speech,1,2,,KASPER.,#kasper,26.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+35,35,GerDracor/arnim-das-loch.xml,"
+              Du bist ein zweiter Solon, welch Glück,
+              Daß du mir geschenkt durch hohes Geschick,
+              Jetzt wollen wir die Gesetze aufschreiben.",0,168,character_speech,1,2,,KAISER.,#kaiser,27.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+36,36,GerDracor/arnim-das-loch.xml,"Während sie sich da hinsetzen, tritt die Kaiserin ans Fenster des Thurms und
+              sieht aufs Meer nach den Schiffen, die vorüberziehn.",0,143,stage_direction,1,2,speech_part,,#kaiser,27.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+37,37,GerDracor/arnim-das-loch.xml,"
+              Winkt mir nicht, ihr flüchtgen Schiffe,
+              Winkt mir nicht, ihr leichten Wellen,
+              Hier an diesem Felsenriffe
+              Seh ich täglich euch zerschellen,
+              Kann mich nicht euch anvertrauen,
+              Mich, die ärmste aller Frauen.",0,288,character_speech,1,3,,KAISERIN.,#kaiserin,28.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+38,38,GerDracor/arnim-das-loch.xml,"In dem Herzen wohnt ein Hoffen,
+              Daß Er mich noch nicht vergessen,
+              Reicher Liebe steh ich offen,
+              Träumend hab ich Ihn besessen,
+              Wellen rauscht bei meinen Träumen,
+              Möchte diesen Tag versäumen.",318,578,character_speech,1,3,,KAISERIN.,#kaiserin,28.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+39,39,GerDracor/arnim-das-loch.xml,"legt unter dem Felsen, worauf das Schloß erbaut ist, unbemerkt sein Schiff an und
+              steigt ans Land.",0,112,stage_direction,1,3,speech_part,,#der_ritter,29.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+40,40,GerDracor/arnim-das-loch.xml,"
+              Gefährten, haltet euch ganz still in dieser Bucht,
+              Daß ihr bereit zur Gegenwehr und Flucht.",0,120,character_speech,1,3,,DER RITTER,#der_ritter,29.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+41,41,GerDracor/arnim-das-loch.xml,"So führte mich die Liebe zum Rhabarberschloß,
+              O Mißgeschick – mich trifft dein ganz Geschoß,
+              Du triebst mich erst zu der Hypekakuana,
+              Bis ich dies gelbbraun widerliche Schloß ersah,
+              Und hier muß sie, die Zarte aller Zarten, wohnen,
+              So schrecklich will sich Edelmuth belohnen!",135,480,character_speech,1,3,,DER RITTER,#der_ritter,29.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+42,42,GerDracor/arnim-das-loch.xml,"Die Edle opferte sich ihrem Landeswohl,
+              Und der Rhabarberkaiser sie der Liebe stohl;
+              Rhabarberkaiser, ärger als Barbar,
+              Sie ist nun dein, schon länger als ein Jahr.",495,701,character_speech,1,3,,DER RITTER,#der_ritter,29.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+43,43,GerDracor/arnim-das-loch.xml,"Ach war sie glücklich, mit Vergnügen
+              Wollt ich verzweifeln, doch in Handschriftszügen,
+              Die sie posttäglich in das Vaterhaus gesandt,
+              Hab' ich die Beimischung von Thränen wohl erkannt,
+              Die Tinte war so blaß und keiner konnte lesen,
+              Obs Griechisch oder Deutsch gewesen.",716,1053,character_speech,1,3,,DER RITTER,#der_ritter,29.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+44,44,GerDracor/arnim-das-loch.xml,"Ihr Götter, wie geschieht mir, ach dort steht
+              Die Sonn', von der mein Auge übergeht,
+              Sie übersieht die Wonne ihrer Liebe,
+              Und blendet sich in höhrer Sonne trübe.",1068,1271,character_speech,1,3,,DER RITTER,#der_ritter,29.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+45,45,GerDracor/arnim-das-loch.xml,erblickt ihn und bat die letzten Worte gehört.,0,46,stage_direction,1,3,speech_part,,#kaiserin,30.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+46,46,GerDracor/arnim-das-loch.xml,"
+              Vergebens meiner Blicke Blüthe
+              Sich opfert hohem Sonnenlauf,
+              Ich schmachte einsam im Gemüthe,
+              Geht aller Welt mein Glanzbild auf,
+              Und ist mein Auge ganz geblendet,
+              Verschwand die Erd' in Strahlenduft,
+              Da hat mein Sehnen sich gewendet
+              Zu eines Schäfers Schattenkluft.",0,379,character_speech,1,3,,KAISERIN,#kaiserin,30.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+47,47,GerDracor/arnim-das-loch.xml,"
+              Du schwankst in einsam tiefen Schmerzen,
+              Und Schwindel stürzen meinen Blick,
+              O neige dich zu meinem Herzen,
+              
+              Du findest hier ein sichres Glück,
+              Das alte Glück in frühen Tagen,
+              Der Kindheit holde Schäferwelt,
+              Eh du, vor allen hochzuragen,
+              Auf einen hohen Thron gestellt.",0,396,character_speech,1,3,,RITTER.,#der_ritter,31.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+48,48,GerDracor/arnim-das-loch.xml,"
+              Wo sind die weißen Lämmerheerden
+              Mit bunten Bändern schön geschmückt,
+              Ein goldner Kerker sollt mir werden,
+              Ein Scepter, der mich niederdrückt,
+              Und eine Krone muß ich tragen,
+              Die beugt mein Haupt noch vor der Zeit,
+              Wenn du, mein Schäfer, nichts willst wagen,
+              Wenn mich dein Muth nicht bald befreit.",0,410,character_speech,1,3,,KAISERIN.,#kaiserin,32.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+49,49,GerDracor/arnim-das-loch.xml,"
+              O meine Kaiserin, ich bin bereit,
+              Zu großer That, doch ohne Krieg und Streit,
+              Denn dazu bin ich gar nicht ausgerüstet,
+              Wenn mir gleich sehr nach Heldenruhm gelüstet.",0,222,character_speech,1,3,,RITTER.,#der_ritter,33.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+50,50,GerDracor/arnim-das-loch.xml,"Ja wenn du keine besondre Heldenkraft hast, werther Freund, so kann das viele Hin-
+              und Herreden nichts helfen und du mußt meinem Rathe folgsam seyn, den ich dir in aller
+              Kürze mittheilen will.",0,220,character_speech,1,3,,KAISERIN.,#kaiserin,34.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+51,51,GerDracor/arnim-das-loch.xml,"Mein Gemahl, dem ich nicht vermählt bin, weil er mit der
+              Regierungsmaschine Tag und Nacht spielt und keine Zeit zur Vermählungsfeier übrig hat,
+              braucht einen Thürsteher, erbiete dich zu diesem Dienste, baue dir eine Hütte unter
+              diesem Thurme, breche ein Loch durch die Mauer, so kann ich zu dir herabkommen und mit
+              dir zu den Schäfern nach Arcadien entfliehen, um auf mein Grabmahl schreiben zu
+              lassen: Auch ich war in Arcadien.",221,719,character_speech,1,3,,KAISERIN.,#kaiserin,34.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+52,52,GerDracor/arnim-das-loch.xml,"
+              Von Eifersflammen muß ich brennen,
+              Ich möchte Mauern und Thürme einrennen,
+              Dich meiner Liebe zu gewinnen,
+              Es schickt sich gar nicht das Besinnen.",0,202,character_speech,1,3,,RITTER.,#der_ritter,35.0,MALE,love,S,,1811.0,positive,emotions of affection
+53,53,GerDracor/arnim-das-loch.xml,Er klopft an die Thür.,203,225,character_speech,1,3,,RITTER.,#der_ritter,35.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+54,54,GerDracor/arnim-das-loch.xml,von innen.,0,10,stage_direction,1,4,speech_part,,#kaiser,36.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+55,55,GerDracor/arnim-das-loch.xml,Wer klopft?,0,11,character_speech,1,4,,KAISER,#kaiser,36.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+56,56,GerDracor/arnim-das-loch.xml,Wer ist vorm Schloß erschienen?,12,43,character_speech,1,4,,KAISER,#kaiser,36.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+57,57,GerDracor/arnim-das-loch.xml,Ich möchte dem Kaiser gerne dienen.,0,35,character_speech,1,4,,RITTER.,#der_ritter,37.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+58,58,GerDracor/arnim-das-loch.xml,Es fehlet mir nicht an gutem Gesinde.,0,37,character_speech,1,4,,KAISER.,#kaiser,38.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+59,59,GerDracor/arnim-das-loch.xml,"
+              Doch da ich keinen Thorsteher finde,
+              So mein ich, es könnte der Platz mir passen.",0,110,character_speech,1,4,,RITTER.,#der_ritter,39.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+60,60,GerDracor/arnim-das-loch.xml,Wird er auch keine Feinde einlassen?,0,36,character_speech,1,4,,KAISER.,#kaiser,40.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+61,61,GerDracor/arnim-das-loch.xml,"
+              Ich bin ein Ritter von altem Adel,
+              Ich bin der Ritter ohne Furcht und Tadel,
+              Ich bin ein Ritter von der Tafelrund.",0,157,character_speech,1,4,,RITTER.,#der_ritter,41.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+62,62,GerDracor/arnim-das-loch.xml,"
+              Da ist ihm Essen und Trinken gesund.",0,51,character_speech,1,4,,KAISER.,#kaiser,42.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+63,63,GerDracor/arnim-das-loch.xml,"Es ist mir lieb, ich kann ihn brauchen,
+              Wenn er keinen Taback will rauchen.",66,155,character_speech,1,4,,KAISER.,#kaiser,42.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+64,64,GerDracor/arnim-das-loch.xml,"
+              Ade, geliebte Pfeife, ich werf dich ins Meer,
+              Meinem Kaiser zu Ehren, rauch ich nicht mehr.",0,120,character_speech,1,4,,RITTER.,#der_ritter,43.0,MALE,love,S,,1811.0,positive,emotions of affection
+65,65,GerDracor/arnim-das-loch.xml,"
+              Nun wird er mir ganz zum Thürsteher taugen,
+              Er hat ein paar große gesunde Augen.",0,109,character_speech,1,4,,KAISER.,#kaiser,44.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+66,66,GerDracor/arnim-das-loch.xml,"Er kann sich gleich hier ein Wachthaus bauen,
+              Daß er die Straße kann fleißig beschauen.",124,225,character_speech,1,4,,KAISER.,#kaiser,44.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+67,67,GerDracor/arnim-das-loch.xml,Wo aber soll ich einen Maurer finden?,0,37,character_speech,1,4,,RITTER.,#der_ritter,45.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+68,68,GerDracor/arnim-das-loch.xml,"
+              Der Kasper ist Maurer vom reinsten System,
+              Läßt Kalk sich bezahlen und nimmt nur den Lehm.",0,119,character_speech,1,4,,KAISER.,#kaiser,46.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+69,69,GerDracor/arnim-das-loch.xml,"Die Steine könnt ihr vom Felsen brechen,
+              Ein altes Dach kann ich euch versprechen,
+              Der Wald steht voll Bäume in Morgengefühlen,
+              Draus könnet ihr schneiden Balken und Dielen,
+              He Kasper, bind deine Schürze mit dem blauen Bande um,
+              Was machst du für Zeichen und stehst da so stumm.",134,482,character_speech,1,4,,KAISER.,#kaiser,46.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+70,70,GerDracor/arnim-das-loch.xml,"bringt ein Glas und klopft damit auf den Tisch, drückt dem Ritter die Hand, macht
+              seltsame Sprünge, dann spricht er zum Kaiser.",0,141,stage_direction,1,4,speech_part,,#kasper,47.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+71,71,GerDracor/arnim-das-loch.xml,"
+              Er ist kein Maurer, ich wollte drauf schwören,
+              Er will mir auf alle meine Zeichen nicht hören.",0,123,character_speech,1,4,,KASPER,#kasper,47.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+72,72,GerDracor/arnim-das-loch.xml,"
+              Laß deine Sprünge und deine Zeichen.",0,51,character_speech,1,4,,KAISER.,#kaiser,48.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+73,73,GerDracor/arnim-das-loch.xml,"Du mußt hier Steine und Holz ihm reichen,
+              Du mußt ihm helfen ein Häuschen bauen,
+              Damit er kann auf die Straße schauen.",66,212,character_speech,1,4,,KAISER.,#kaiser,48.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+74,74,GerDracor/arnim-das-loch.xml,Ab.,213,216,character_speech,1,4,,KAISER.,#kaiser,48.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+75,75,GerDracor/arnim-das-loch.xml,"Nun lieber Hofrath, greift rasch zum Werke.",0,43,character_speech,1,5,,RITTER.,#der_ritter,49.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+76,76,GerDracor/arnim-das-loch.xml,"
+              Ach hätt ich nur Schnaps, noch fehlt mir die Stärke,
+              Ich habe mich heute so müde regiert,
+              Ein neues Gesetzbuch zu Ende geführt.",0,170,character_speech,1,5,,KASPER.,#kasper,50.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+77,77,GerDracor/arnim-das-loch.xml,"
+              Das nenn ich ja recht im Großen spaßen,
+              Da mag das Volk euch hier weidlich hassen.",0,111,character_speech,1,5,,RITTER.,#der_ritter,51.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+78,78,GerDracor/arnim-das-loch.xml,"
+              Das Volk ist in uns, wir sind im Volke!",0,54,character_speech,1,5,,KASPER.,#kasper,52.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+79,79,GerDracor/arnim-das-loch.xml,"Das Volk ist eine ungestaltete Wolke,
+              Ich und der Kaiser, wir sind die Winde,
+              Wir blasen bald stark und bald gelinde,
+              Und wenn wir einander entgegenblasen,
+              Da stehet sie stille mitten im Rasen.",69,318,character_speech,1,5,,KASPER.,#kasper,52.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+80,80,GerDracor/arnim-das-loch.xml,Das schiene mir noch besonders gescheidt.,0,41,character_speech,1,5,,RITTER.,#der_ritter,53.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+81,81,GerDracor/arnim-das-loch.xml,"
+              Auch ist es das Beste in unsrer Zeit,
+              Wer stehen bleibt, kann der andern lachen,
+              Die fielen und sich die Hälse brachen.",0,162,character_speech,1,5,,KASPER.,#kasper,54.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+82,82,GerDracor/arnim-das-loch.xml,"Nun seht nur, wie bei Regierungsgedanken
+              Die Arbeit sich fördert, vereint sind die Blanken,
+              Der Dachstuhl beendet, mit Ziegeln behangen,
+              Jetzt thuts mir recht nach Ruhe verlangen.",177,398,character_speech,1,5,,KASPER.,#kasper,54.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+83,83,GerDracor/arnim-das-loch.xml,"
+              Das Haus ist gut, jetzt möcht ich nur noch,
+              Daß du mir stießest in den Thurm ein Loch.",0,115,character_speech,1,5,,RITTER.,#der_ritter,55.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+84,84,GerDracor/arnim-das-loch.xml,"
+              Wozu denn das?",0,29,character_speech,1,5,,KASPER.,#kasper,56.0,MALE,being moved,S,,1811.0,being moved,being moved
+85,85,GerDracor/arnim-das-loch.xml,"Da kämen wir ja
+              Dem Bette der hohen Kaiserin nah.",30,93,character_speech,1,5,,KASPER.,#kasper,56.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+86,86,GerDracor/arnim-das-loch.xml,"
+              Ich möchte so gern die Kaiserin sehen,
+              Der Kopf soll ihr nicht auf dem Rumpfe stehen,
+              Sie soll ihn nach Gefallen, um ihn zu kühlen,
+              Herunter nehmen und damit spielen.",0,223,character_speech,1,5,,RITTER.,#der_ritter,57.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+87,87,GerDracor/arnim-das-loch.xml,"
+              Das ist ja erstaunlich, das muß ich gestehen,
+              Das Wunder möchte ich gerne ansehen.",0,111,character_speech,1,5,,KASPER.,#kasper,58.0,MALE,being moved,S,,1811.0,being moved,being moved
+88,88,GerDracor/arnim-das-loch.xml,"Er hält sie so heimlich, daß keiner sie sah,
+              Ich meinte schon oftmals, sie sey gar nicht da.",126,232,character_speech,1,5,,KASPER.,#kasper,58.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+89,89,GerDracor/arnim-das-loch.xml,"
+              Dies Spiel mit dem Kopf solls eben seyn,
+              Warum er niemand zu ihr läßt herein.",0,106,character_speech,1,5,,RITTER.,#der_ritter,59.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+90,90,GerDracor/arnim-das-loch.xml,"
+              Ich muß sie sehen, ich breche das Loch,
+              Es koste mein Leben, ich thue es doch.",0,107,character_speech,1,5,,KASPER.,#kasper,60.0,MALE,love,S,,1811.0,positive,emotions of affection
+91,91,GerDracor/arnim-das-loch.xml,"Das Loch ist schon fertig, o Glück sie zu sehen.",0,48,character_speech,1,5,,RITTER.,#der_ritter,61.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+92,92,GerDracor/arnim-das-loch.xml,"
+              Ich kann an dem Kopf nichts besondres sehen,
+              Ich möchte ihr einen Stoß mit der Kelle geben,
+              Ob ich ihr könnte den Kopf abheben.",0,170,character_speech,1,5,,KASPER.,#kasper,62.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+93,93,GerDracor/arnim-das-loch.xml,er zerhaut ihn mit dem Schwerdt.,0,32,stage_direction,1,5,speech_part,,#der_ritter,63.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+94,94,GerDracor/arnim-das-loch.xml,"Du wolltest sie schlagen, du dummer Tropf.",0,42,character_speech,1,5,,RITTER,#der_ritter,63.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+95,95,GerDracor/arnim-das-loch.xml,beide Hälften schreien.,0,23,stage_direction,1,5,speech_part,,#kasper,64.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+96,96,GerDracor/arnim-das-loch.xml,"
+              Ich will nur probiren den Kopf.",0,46,character_speech,1,5,,KASPERS,#kasper,64.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+97,97,GerDracor/arnim-das-loch.xml,Ich will nur probiren den Kopf.,61,92,character_speech,1,5,,KASPERS,#kasper,64.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+98,98,GerDracor/arnim-das-loch.xml,"
+              Ich bin verwundert, wo steht nur der Kopf.",0,57,character_speech,1,5,,RITTER.,#der_ritter,65.0,MALE,being moved,S,,1811.0,being moved,being moved
+99,99,GerDracor/arnim-das-loch.xml,"Je mehr ich Stücken aus ihm mag hauen,
+              Je mehr sie fragen und wollen schauen,
+              Ich will euch stecken in meinen Suppentopf,
+              Den ich für die ganze Schiffskompagnie trage,
+              So läßt er doch endlich die neugierige Frage.",72,341,character_speech,1,5,,RITTER.,#der_ritter,65.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+100,100,GerDracor/arnim-das-loch.xml,Im Topf.,0,8,stage_direction,1,5,speech_part,,#kasper,66.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+101,101,GerDracor/arnim-das-loch.xml,Kopf!,0,5,character_speech,1,5,,KASPER.,#kasper,66.0,MALE,being moved,S,,1811.0,being moved,being moved
+102,102,GerDracor/arnim-das-loch.xml,Kopf!,6,11,character_speech,1,5,,KASPER.,#kasper,66.0,MALE,being moved,S,,1811.0,being moved,being moved
+103,103,GerDracor/arnim-das-loch.xml,Kopf!,12,17,character_speech,1,5,,KASPER.,#kasper,66.0,MALE,being moved,S,,1811.0,being moved,being moved
+104,104,GerDracor/arnim-das-loch.xml,"
+              Das klinget wie kochendes Wasser am Feuer,
+              Das will ich ihm gönnen zur fröhlichen Feier.",0,117,character_speech,1,5,,RITTER.,#der_ritter,67.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+105,105,GerDracor/arnim-das-loch.xml,"Denn jetzt, wo das schwerste Werk ist vollbracht,
+              Die Liebesflamme gedoppelt erwacht.",132,231,character_speech,1,5,,RITTER.,#der_ritter,67.0,MALE,love,S,,1811.0,positive,emotions of affection
+106,106,GerDracor/arnim-das-loch.xml,von oben.,0,9,stage_direction,1,6,speech_part,,#kaiserin,68.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+107,107,GerDracor/arnim-das-loch.xml,"
+              Da will ich eilig zu dir gehen,
+              Sie könnte ausgehen.",0,81,character_speech,1,6,,KAISERIN,#kaiserin,68.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+108,108,GerDracor/arnim-das-loch.xml,"
+              Das fürcht ich selber und rathe zur Eile,
+              Die Liebe vergeht durch die Langeweile.",0,110,character_speech,1,6,,RITTER.,#der_ritter,69.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+109,109,GerDracor/arnim-das-loch.xml,"
+              Ich rutsche durchs Loch, jetzt bleib ich stecken,
+              Die Krone bleibt hängen an allen Ecken.",0,118,character_speech,1,6,,KAISERIN.,#kaiserin,70.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+110,110,GerDracor/arnim-das-loch.xml,"
+              Ich flehe, die Krone rasch abzulegen,
+              Die Kronen sind nicht der Liebe Segen.",0,105,character_speech,1,6,,RITTER.,#der_ritter,71.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+111,111,GerDracor/arnim-das-loch.xml,"
+              Ein edles Herz kann Kronen vermissen,
+              Ich habe sie unter das Bette geschmissen.",0,108,character_speech,1,6,,KAISERIN.,#kaiserin,72.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+112,112,GerDracor/arnim-das-loch.xml,"Ich häng in der Luft, stell dich hier unter,
+              Auf deinen Kopf, da springe ich munter.",123,221,character_speech,1,6,,KAISERIN.,#kaiserin,72.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+113,113,GerDracor/arnim-das-loch.xml,"
+              Mein Kopf kriegt einen gewaltigen Stoß,
+              Mir wars, als schlug mich mein schwerstes Roß,
+              O wäre der Liebe die Schwere genommen,
+              Sie wäre so leicht zum Himmel gekommen.",0,222,character_speech,1,6,,RITTER.,#der_ritter,73.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+114,114,GerDracor/arnim-das-loch.xml,"
+              Ich fühle mich freudig gen Himmel getragen,
+              Dein Rücken mir scheinet ein himmlischer Wagen.",0,120,character_speech,1,6,,KAISERIN.,#kaiserin,74.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+115,115,GerDracor/arnim-das-loch.xml,"
+              Ich fühle mich wie ein Streiter munter,
+              Es geht mir die Welt in den Röcken unter.",0,110,character_speech,1,6,,RITTER.,#der_ritter,75.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+116,116,GerDracor/arnim-das-loch.xml,"
+              Der Kaiser hat mich nie so getragen.",0,51,character_speech,1,6,,KAISERIN.,#kaiserin,76.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+117,117,GerDracor/arnim-das-loch.xml,"Ich möchte ihn von dem Throne verjagen,
+              Der Eifersüchtge ließ mich verschmachten,
+              Den Kaiser muß ich von Herzen verachten.",66,216,character_speech,1,6,,KAISERIN.,#kaiserin,76.0,FEMALE,abhorrence,S,,1811.0,negative,emotions of rejection
+118,118,GerDracor/arnim-das-loch.xml,"
+              Der Kaiser scheint ein gemeiner Hund,
+              Der gar nicht paßt an die Tafelrund.",0,103,character_speech,1,6,,RITTER.,#der_ritter,77.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+119,119,GerDracor/arnim-das-loch.xml,"
+              Er ist ein alter Krippensetzer,
+              Ich entsage hiemit dem alten Schwätzer,
+              Und schenk dir den Ring, den er mir schenkte,
+              Als er mich mit der Verlobung kränkte.",0,213,character_speech,1,6,,KAISERIN.,#kaiserin,78.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+120,120,GerDracor/arnim-das-loch.xml,"
+              Der Ring hat uns verbunden
+              Zu heimlich selgen Stunden.",0,83,character_speech,1,6,,BEIDE.,#kaiserin #der_ritter,79.0,UNKNOWN,joy,S,,1811.0,positive,emotions of pleasure
+121,121,GerDracor/arnim-das-loch.xml,Die Vorsicht soll uns schützen.,0,31,character_speech,1,6,,RITTER.,#der_ritter,80.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+122,122,GerDracor/arnim-das-loch.xml,Die Ohren will ich spitzen.,0,27,character_speech,1,6,,KAISERIN.,#kaiserin,81.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+123,123,GerDracor/arnim-das-loch.xml,"
+              Daß niemand uns beschleiche,
+              Wenn ich den Mund dir reiche.",0,87,character_speech,1,6,,BEIDE.,#kaiserin #der_ritter,82.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+124,124,GerDracor/arnim-das-loch.xml,Ich höre etwas gehen.,0,21,character_speech,1,6,,RITTER.,#der_ritter,83.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+125,125,GerDracor/arnim-das-loch.xml,Es wär' um mich geschehen.,0,26,character_speech,1,6,,KAISERIN.,#kaiserin,84.0,FEMALE,fear,S,,1811.0,negative,emotions of anxiety
+126,126,GerDracor/arnim-das-loch.xml,"
+              Ich hör, daß einer poche,
+              Jetzt eilig zu dem Loche.",0,80,character_speech,1,6,,BEIDE.,#kaiserin #der_ritter,85.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+127,127,GerDracor/arnim-das-loch.xml,Die Kaiserin steigt durch das Loch nach ihrer Kammer.,0,53,stage_direction,1,6,speech_part,,#kaiserin #der_ritter,85.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+128,128,GerDracor/arnim-das-loch.xml,von innen.,0,10,stage_direction,1,7,speech_part,,#kaiser,86.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+129,129,GerDracor/arnim-das-loch.xml,Wie könnt ihr denn die Thüre zumachen?,0,38,character_speech,1,7,,KAISER,#kaiser,86.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+130,130,GerDracor/arnim-das-loch.xml,Ich soll ja des Kaisers Thüre bewachen.,0,39,character_speech,1,7,,RITTER.,#der_ritter,87.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+131,131,GerDracor/arnim-das-loch.xml,"
+              Daß niemand zur Thür hinein soll kommen,
+              Dafür seyd ihr hier angenommen.",0,101,character_speech,1,7,,KAISER.,#kaiser,88.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+132,132,GerDracor/arnim-das-loch.xml,"
+              Wer weiß, ob ihr nicht des Kaisers Stimme nachmacht,
+              Da werd ich von euch nachher ausgelacht,
+              Will erst durchs Schlüsselloch euch besehen,
+              Eh ich den Schlüssel wage umzudrehen.",0,233,character_speech,1,7,,RITTER.,#der_ritter,89.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+133,133,GerDracor/arnim-das-loch.xml,Nun sehet nur recht mein kaiserlich Gesicht.,0,44,character_speech,1,7,,KAISER.,#kaiser,90.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+134,134,GerDracor/arnim-das-loch.xml,"
+              Ich sehe ein dickes Fleisch, das spricht,
+              Jetzt seh ich die Krone, und öffne die Thür.",0,115,character_speech,1,7,,RITTER.,#der_ritter,91.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+135,135,GerDracor/arnim-das-loch.xml,"
+              Für diese Vorsicht empfange von mir,
+              Den großen Orden vom Hosenträger,
+              Du scheinest mir gar ein tapferer Schläger.",0,157,character_speech,1,7,,KAISER.,#kaiser,92.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+136,136,GerDracor/arnim-das-loch.xml,"Sag an, hast du nicht den Kanzler gesehen,
+              Ich kann allein die Maschine nicht drehen.",172,271,character_speech,1,7,,KAISER.,#kaiser,92.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+137,137,GerDracor/arnim-das-loch.xml,"
+              Er ist gegangen zum dunkelen Wald,
+              Er holt noch Bauholz und kommt wohl bald.",0,105,character_speech,1,7,,RITTER.,#der_ritter,93.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+138,138,GerDracor/arnim-das-loch.xml,"Ich meine, das Haus sey schon beendet.",0,38,character_speech,1,7,,KAISER.,#kaiser,94.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+139,139,GerDracor/arnim-das-loch.xml,"
+              Es fehlt noch die Kunst, die alles vollendet,
+              Die Widderköpfe an allen Säulen,
+              Die müssen die Ritzen der Balken ausheilen;
+              Wir schmückens in reinem griechischen Styl,
+              Hier koch ich im Topfe der Zierrathen viel.",0,281,character_speech,1,7,,RITTER.,#der_ritter,95.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+140,140,GerDracor/arnim-das-loch.xml,"
+              Der Widderkopf hier, ich muß es gestehen,
+              Thut meinem Rathe etwas ähnlich sehen.",0,109,character_speech,1,7,,KAISER.,#kaiser,96.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+141,141,GerDracor/arnim-das-loch.xml,"
+              Ein jeder Mensch hat etwas vom Thiere,
+              Damit er sich nicht zu edel aufführe.",0,105,character_speech,1,7,,RITTER.,#der_ritter,97.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+142,142,GerDracor/arnim-das-loch.xml,"
+              Nun sagt mir Freund, ich staune schon lange,
+              Was dort für ein Ringlein am Finger euch prange.",0,122,character_speech,1,7,,KAISER.,#kaiser,98.0,MALE,being moved,S,,1811.0,being moved,being moved
+143,143,GerDracor/arnim-das-loch.xml,"
+              Die liebliche Braut, sie hat ihn geschenkt,
+              Und wie ich ihn küsse, sie meiner gedenkt.",0,115,character_speech,1,7,,RITTER.,#der_ritter,99.0,MALE,love,S,,1811.0,positive,emotions of affection
+144,144,GerDracor/arnim-das-loch.xml,"
+              Das ist doch gar ein kurioses Ding,
+              Meiner Frau verehrt ich einen gleichen Ring.",0,109,character_speech,1,7,,KAISER.,#kaiser,100.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+145,145,GerDracor/arnim-das-loch.xml,"So ähnlich hab ich noch gar nichts gesehen,
+              Ich muß zu meiner Gattin gleich gehen,
+              Ja nehmt es nicht übel, ein Spas fiel mir ein,
+              Ich werde gleich wieder bei euch seyn.",124,334,character_speech,1,7,,KAISER.,#kaiser,100.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+146,146,GerDracor/arnim-das-loch.xml,"
+              Frau Kaiserin, ich reich dir durchs Loch den Ring,
+              Unser Leben am seidenen Faden hing,
+              Gleich leg dich mit Krone und Ring in das Bette.",0,178,character_speech,1,8,,RITTER.,#der_ritter,101.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+147,147,GerDracor/arnim-das-loch.xml,von oben.,0,9,stage_direction,1,8,speech_part,,#kaiserin,102.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+148,148,GerDracor/arnim-das-loch.xml,"Der Alte soll kommen, er dient zum Gespötte.",0,44,character_speech,1,8,,KAISERIN,#kaiserin,102.0,FEMALE,abhorrence,S,,1811.0,negative,emotions of rejection
+149,149,GerDracor/arnim-das-loch.xml,tritt in das Zimmer der Kaiserin.,0,33,stage_direction,1,8,speech_part,,#kaiser,103.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+150,150,GerDracor/arnim-das-loch.xml,"
+              Die Kaiserin schnarcht, nur Unschuld kann schnarchen,
+              Die Sünde träumet ganz stille vom Argen,
+              Ich will mit Vorsicht zum Bette hinschreiten,
+              
+              Ich möchte nicht gern mit ihr mich streiten,
+              Und manche Leute, wenn sie schnell erwachen,
+              So schlagen sie um sich wie die Drachen,
+              Liebes Kind, ich küsse dir gerne die Hand.",0,428,character_speech,1,8,,KAISER,#kaiser,103.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+151,151,GerDracor/arnim-das-loch.xml,"Ich geh dir eine, die ist verwandt.",0,35,character_speech,1,8,,KAISERIN.,#kaiserin,104.0,FEMALE,anger,S,,1811.0,negative,emotions of rejection
+152,152,GerDracor/arnim-das-loch.xml,"
+              Victoria, die Ohrfeig that weh,
+              Doch meinen Ring ich wiederseh,
+              Schon dacht ich, es sey ein Liebeszeichen,
+              Das sie dem fremden Ritter thät reichen.",0,204,character_speech,1,8,,KAISER.,#kaiser,105.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+153,153,GerDracor/arnim-das-loch.xml,Nun gute Nacht.,219,234,character_speech,1,8,,KAISER.,#kaiser,105.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+154,154,GerDracor/arnim-das-loch.xml,Ab.,235,238,character_speech,1,8,,KAISER.,#kaiser,105.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+155,155,GerDracor/arnim-das-loch.xml,"
+              Jetzt bin ich erwacht,
+              Und rufe dir nach, statt Lebewohl,
+              Daß dich der Teufel hol.",0,125,character_speech,1,8,,KAISERIN.,#kaiserin,106.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+156,156,GerDracor/arnim-das-loch.xml,"Hört, Ritter, der Alte war richtig betrogen,
+              Ein neuer Anschlag sey jetzt vollzogen,
+              Ich ziehe gleich an verkehrte Kleider,
+              Die gute Seite, die kennet er leider,
+              Dann komm ich zu euch durchs Loch ins Haus,
+              Und ihr bereitet da einen Schmaus,
+              Und bittet den Kaiser und ihm erzählt,
+              Ich sey die Braut, die ihr erwählt,
+              Die auf dem Schiffe jetzt nachgekommen,
+              Und euch zum Manne sich angenommen,
+              Er möchte uns segnen mit guten Gaben,
+              Dann können wir auf dem Schiffe abtraben.",140,765,character_speech,1,8,,KAISERIN.,#kaiserin,106.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+157,157,GerDracor/arnim-das-loch.xml,"
+              Du bist gescheidt, mein Herz schlägt munter,
+              Nur komme eilig durchs Loch herunter.",0,111,character_speech,1,8,,RITTER.,#der_ritter,107.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+158,158,GerDracor/arnim-das-loch.xml,kommt herab.,0,12,stage_direction,1,8,speech_part,,#kaiserin,108.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+159,159,GerDracor/arnim-das-loch.xml,"
+              Jetzt ging es leicht, weil ich mich nicht geziert,
+              Gewohnheit ists, was die Welt regiert.",0,118,character_speech,1,8,,KAISERIN,#kaiserin,108.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+160,160,GerDracor/arnim-das-loch.xml,"Jetzt sorge nur rasch für Küch und Keller,
+              Der König segnet aus Eßlust viel schneller.",133,233,character_speech,1,8,,KAISERIN,#kaiserin,108.0,FEMALE,joy,S,,1811.0,positive,emotions of pleasure
+161,161,GerDracor/arnim-das-loch.xml,"
+              Da haben wir ja den zerstückten Rath,
+              Verzehret stört er uns nicht durch Verrath.",0,110,character_speech,1,8,,RITTER.,#der_ritter,109.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+162,162,GerDracor/arnim-das-loch.xml,"
+              Nein, das ist gegen alles Gefühl,
+              Menschenfleisch ekelt selbst im Schattenspiel.",0,109,character_speech,1,8,,KAISERIN.,#kaiserin,110.0,FEMALE,abhorrence,S,,1811.0,negative,emotions of rejection
+163,163,GerDracor/arnim-das-loch.xml,"
+              Da find ich noch Krümeln von Schiffszwieback,
+              Wer weiß, ob er die nicht essen mag.",0,111,character_speech,1,8,,RITTER.,#der_ritter,111.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+164,164,GerDracor/arnim-das-loch.xml,"
+              So lade den Kaiser ganz eilig ein,
+              Und bitte ihn selbst um etwas Wein,
+              Der wird uns auf dem Meere behagen,
+              Ich kann die Seefahrt nicht gut vertragen.",0,206,character_speech,1,8,,KAISERIN.,#kaiserin,112.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+165,165,GerDracor/arnim-das-loch.xml,geht durch die Schloßthüre ins Thronzimmer.,0,43,stage_direction,1,9,speech_part,,#der_ritter,113.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+166,166,GerDracor/arnim-das-loch.xml,"
+              O Glück und Wonne in lichter Sonne,
+              O liebliche Luft voll Blumenduft!",0,98,character_speech,1,9,,RITTER,#der_ritter,113.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+167,167,GerDracor/arnim-das-loch.xml,"Luft, die meine Geliebte getrieben,
+              Und in die weissen Segel blies,
+              Die muß ich vor allem auf Erden lieben,
+              Und sie mit schönstem Tone begrüß,
+              Wellen, die meine Geliebte getragen,
+              Und sie gespiegelt in schimmernder Lust,
+              Die seh ich im Meere noch heftig schlagen,
+              So schlägt mir das Herz in meiner Brust,
+              O freundliche Wellen, ihr wollt uns gesellen,
+              O lieblicher Wind, du führtest mein Kind.",113,631,character_speech,1,9,,RITTER,#der_ritter,113.0,MALE,love,S,,1811.0,positive,emotions of affection
+168,168,GerDracor/arnim-das-loch.xml,"
+              Ich hab kein Wort von dir verstanden,
+              Ach warum kam der Kasper mir abhanden.",0,105,character_speech,1,9,,KAISER.,#kaiser,114.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+169,169,GerDracor/arnim-das-loch.xml,"
+              Nun, gnädger Herr, mit dem Dienst ists aus,
+              Ich muß heut wieder zurück nach Haus,
+              Die Braut ist eben mir nachgekommen,
+              Und hat mich gleich zum Manne genommen,
+              Ich wollte euch bitten auf Schiffszwieback
+              Und auf eine gute Prise Taback,
+              Und daß ihr den Wein könnt selber mitbringen,
+              Damit die Gläser recht fröhlig erklingen.",0,434,character_speech,1,9,,RITTER.,#der_ritter,115.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+170,170,GerDracor/arnim-das-loch.xml,"
+              Ich komme sogleich, ich stelle mich ein,
+              Ich meine euch toll, mags selber wohl seyn.",0,113,character_speech,1,9,,KAISER.,#kaiser,116.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+171,171,GerDracor/arnim-das-loch.xml,Vergesset nur nicht den herrlichen Wein.,0,40,character_speech,1,9,,RITTER.,#der_ritter,117.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+172,172,GerDracor/arnim-das-loch.xml,Ab.,41,44,character_speech,1,9,,RITTER.,#der_ritter,117.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+173,173,GerDracor/arnim-das-loch.xml,kommt zurück ins Thürsteherhaus.,0,32,stage_direction,1,10,speech_part,,#der_ritter,118.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+174,174,GerDracor/arnim-das-loch.xml,"Der Kaiser und der Wein, sie werden gleich kommen.",0,50,character_speech,1,10,,RITTER,#der_ritter,118.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+175,175,GerDracor/arnim-das-loch.xml,"Ich schnüre mich auf, ich werde beklommen.",0,42,character_speech,1,10,,KAISERIN.,#kaiserin,119.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+176,176,GerDracor/arnim-das-loch.xml,"
+              Fast habt ihr mich zu solchem Spaße verführt,
+              Wobei ihr nun alle Haltung verliert,
+              Eure Ärme fächeln wie Windmühlenflügel,
+              Ich höre den Kaiser, er öffnet den Riegel.",0,222,character_speech,1,10,,RITTER.,#der_ritter,120.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+177,177,GerDracor/arnim-das-loch.xml,kommt.,0,6,stage_direction,1,10,speech_part,,#kaiser,121.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+178,178,GerDracor/arnim-das-loch.xml,"
+              Nun seyd mir gegrüßet, schöne Braut,
+              Es ist mir, als hätt ich euch sonst schon geschaut.",0,117,character_speech,1,10,,KAISER,#kaiser,121.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+179,179,GerDracor/arnim-das-loch.xml,"
+              Sie hat ein recht allgemeines Gesicht,
+              Sie ist noch blöde und wenig verspricht,
+              Doch wird sie euch bald viel besser gefallen.",0,168,character_speech,1,10,,RITTER.,#der_ritter,122.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+180,180,GerDracor/arnim-das-loch.xml,vor sich.,0,9,stage_direction,1,10,speech_part,,#kaiser,123.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+181,181,GerDracor/arnim-das-loch.xml,"
+              Die Eifersucht will mich schier anfallen.",0,56,character_speech,1,10,,KAISER,#kaiser,123.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+182,182,GerDracor/arnim-das-loch.xml,Laut.,71,76,character_speech,1,10,,KAISER,#kaiser,123.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+183,183,GerDracor/arnim-das-loch.xml,"Ihr habet so etwas in eurem Wesen,
+              Ich hätte euch selber zur Kaiserin erlesen.",77,169,character_speech,1,10,,KAISER,#kaiser,123.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+184,184,GerDracor/arnim-das-loch.xml,"
+              Ihr wollet nur spotten, ich weiß noch nicht,
+              Wie man zu großen Kaisern spricht,
+              Welcher Fuß im Knien voraus zu setzen,
+              Auch weiß ich von Politik wenig zu schwätzen.",0,221,character_speech,1,10,,KAISERIN.,#kaiserin,124.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+185,185,GerDracor/arnim-das-loch.xml,"
+              Zum Teufel, das Knixen doch endlich laß,
+              Du scheinst ein lebendiges Butterfaß.",0,107,character_speech,1,10,,RITTER.,#der_ritter,125.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+186,186,GerDracor/arnim-das-loch.xml,vor sich.,0,9,stage_direction,1,10,speech_part,,#kaiser,126.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+187,187,GerDracor/arnim-das-loch.xml,"
+              Meine Weisheit kommt noch heimlich von Sinnen,
+              Wär meine Frau nicht im Thurme drinnen,
+              Ich glaubte sie in der Braut zu sehen,
+              Vor Neugier bleibt mir mein Herz still stehen,
+              Ob meine Frau im Bette noch liegt,
+              Oder ob sie mich mit dem Ritter betrügt.",0,333,character_speech,1,10,,KAISER,#kaiser,126.0,MALE,being moved,S,,1811.0,being moved,being moved
+188,188,GerDracor/arnim-das-loch.xml,"Mein gnädiger Herr, ihr scheint nicht vergnügt.",0,47,character_speech,1,10,,RITTER.,#der_ritter,127.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+189,189,GerDracor/arnim-das-loch.xml,"
+              Ein Wunsch, mein Fräulein, im Sinne mir liegt,
+              Es spricht so schön euer rother Mund,
+              Mir wäre ein Küßchen darauf gesund.",0,163,character_speech,1,10,,KAISER.,#kaiser,128.0,MALE,love,S,,1811.0,positive,emotions of affection
+190,190,GerDracor/arnim-das-loch.xml,"
+              Das darfst du dem Kaiser nicht versagen,
+              Ein Küßchen in Ehren kann niemand abschlagen.",0,115,character_speech,1,10,,RITTER.,#der_ritter,129.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+191,191,GerDracor/arnim-das-loch.xml,"So küsset mich, Herr, auf meine Stirn.",0,38,character_speech,1,10,,KAISERIN.,#kaiserin,130.0,FEMALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+192,192,GerDracor/arnim-das-loch.xml,küßt sie.,0,9,stage_direction,1,10,speech_part,,#kaiser,131.0,MALE,love,S,,1811.0,positive,emotions of affection
+193,193,GerDracor/arnim-das-loch.xml,"
+              Sie schmecket so süß wie die beste Birn.",0,55,character_speech,1,10,,KAISER,#kaiser,131.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+194,194,GerDracor/arnim-das-loch.xml,Vor sich.,70,79,character_speech,1,10,,KAISER,#kaiser,131.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+195,195,GerDracor/arnim-das-loch.xml,"Sie schmecket so ganz wie meine Braut,
+              Ich fahre vor Eifersucht aus der Haut.",80,171,character_speech,1,10,,KAISER,#kaiser,131.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+196,196,GerDracor/arnim-das-loch.xml,Laut.,186,191,character_speech,1,10,,KAISER,#kaiser,131.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+197,197,GerDracor/arnim-das-loch.xml,"Es schmeckte der Kuß so trefflich gut,
+              Er hat mir erweckt mein ganzes Blut,
+              Ich will zum Feste die Kaiserin bringen,
+              Sie soll uns heut was Lustiges singen.",192,389,character_speech,1,10,,KAISER,#kaiser,131.0,MALE,desire,S,,1811.0,positive,emotions of affection
+198,198,GerDracor/arnim-das-loch.xml,Ab.,390,393,character_speech,1,10,,KAISER,#kaiser,131.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+199,199,GerDracor/arnim-das-loch.xml,"
+              Jetzt rasch durchs Loch und umgekleidet,
+              Sonst wird uns der ganze Spas verleidet.",0,110,character_speech,1,11,,RITTER.,#der_ritter,132.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+200,200,GerDracor/arnim-das-loch.xml,klettert hinauf.,0,16,stage_direction,1,11,speech_part,,#kaiserin,133.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+201,201,GerDracor/arnim-das-loch.xml,"
+              Der Kaiser eilet auch gar zu sehr,
+              Kaum kann ich mich legen ins Federmeer.",0,103,character_speech,1,11,,KAISERIN,#kaiserin,133.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+202,202,GerDracor/arnim-das-loch.xml,"Es sitzet die Krone noch gar nicht fest,
+              Und schon kommt der Kaiser gestapelt ins Nest.",118,219,character_speech,1,11,,KAISERIN,#kaiserin,133.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+203,203,GerDracor/arnim-das-loch.xml,tritt oben ein.,0,15,stage_direction,1,11,speech_part,,#kaiser,134.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+204,204,GerDracor/arnim-das-loch.xml,"
+              Da liegt sie ganz stille, ich dachte recht schlecht,
+              Das kommt von dem Warnen gegen's schöne Geschlecht,
+              Ich lasse jetzt alle Bücher verbrennen,
+              Worin man ein Weib wagt untreu zu nennen.",0,243,character_speech,1,11,,KAISER,#kaiser,134.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+205,205,GerDracor/arnim-das-loch.xml,Laut.,258,263,character_speech,1,11,,KAISER,#kaiser,134.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+206,206,GerDracor/arnim-das-loch.xml,"Geliebte Kaiserin, jetzt komme herunter,
+              Bei meinem Thürsteher, da ist es munter,
+              Der will, was man nennt, heut Hochzeit machen,
+              Da kannst du mit tanzen, da kannst du mit lachen.",264,484,character_speech,1,11,,KAISER,#kaiser,134.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+207,207,GerDracor/arnim-das-loch.xml,"
+              O sage, du Herrscher, zu welcher Strafe
+              Erweckst du mich stets aus meinem Schlafe,
+              Es würde sich doch für mich nicht schicken,
+              Daß ich da tanzte mit Domesticken.",0,218,character_speech,1,11,,KAISERIN.,#kaiserin,135.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+208,208,GerDracor/arnim-das-loch.xml,"
+              Das nenne ich gute Zucht und Sitten,
+              Nein, Hoheit, ich will dich darum nicht mehr bitten,
+              Weil du die Etikette verstehst,
+              Du nimmermehr im Gespötte vergehst.",0,214,character_speech,1,11,,KAISER.,#kaiser,136.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+209,209,GerDracor/arnim-das-loch.xml,Aus dem Zimmer der Kaiserin ab.,0,31,stage_direction,1,11,speech_part,,#kaiser,136.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+210,210,GerDracor/arnim-das-loch.xml,steht auf.,0,10,stage_direction,1,11,speech_part,,#kaiserin,137.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+211,211,GerDracor/arnim-das-loch.xml,"
+              Jetzt werf ich die Krone in tausend Stücke,
+              Sie war nur zu meinem Glücke die Brücke.",0,113,character_speech,1,11,,KAISERIN,#kaiserin,137.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+212,212,GerDracor/arnim-das-loch.xml,"Den Scepter steck ich mir in die Tasche,
+              Wenn ich den Ritter einst überrasche,
+              Daß er sich meinen Befehlen nicht fügt,
+              Damit ihn dann mein Ansehn besiegt.",128,324,character_speech,1,11,,KAISERIN,#kaiserin,137.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+213,213,GerDracor/arnim-das-loch.xml,"Erfahrung macht uns Weiber klug,
+              Doch klüger macht uns der Betrug.",339,419,character_speech,1,11,,KAISERIN,#kaiserin,137.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+214,214,GerDracor/arnim-das-loch.xml,von unten.,0,10,stage_direction,1,11,speech_part,,#der_ritter,138.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+215,215,GerDracor/arnim-das-loch.xml,"
+              Ach, Kaiserin, bist du noch nicht fertig,
+              Ich bin des Kaisers schon lange gewärtig,
+              Und ihr Matrosen, kommt eilig herbei,
+              Und macht von der Abfahrt großes Geschrei.",0,221,character_speech,1,11,,RITTER,#der_ritter,138.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+216,216,GerDracor/arnim-das-loch.xml,kommt herab.,0,12,stage_direction,1,11,speech_part,,#kaiserin,139.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+217,217,GerDracor/arnim-das-loch.xml,"
+              Wie ein Schornsteinfeger rutsch ich herab,
+              Und kehre nimmer zu diesem Grab,
+              Zu diesem alten gelben Thurm,
+              Bald spielet mit uns der Meeressturm.",0,200,character_speech,1,11,,KAISERIN,#kaiserin,139.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+218,218,GerDracor/arnim-das-loch.xml,kommt ins Wachthaus zurück.,0,27,stage_direction,1,12,speech_part,,#kaiser,140.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+219,219,GerDracor/arnim-das-loch.xml,"
+              Ei, ei, hier war ein Poltern im Haus,
+              Ich glaube, ihr werdet vertraulich beim Schmaus.",0,115,character_speech,1,12,,KAISER,#kaiser,140.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+220,220,GerDracor/arnim-das-loch.xml,"
+              Ach leider, wir weinten so bittere Thränen,
+              Der Seufzer will ich gar nicht erwähnen,
+              Die Schiffsleute treiben uns fort von hier,
+              Der Wind sey günstig, sagten sie mir.",0,223,character_speech,1,12,,RITTER.,#der_ritter,141.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+221,221,GerDracor/arnim-das-loch.xml,kommen.,0,7,stage_direction,1,12,speech_part,,#matrosen,142.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+222,222,GerDracor/arnim-das-loch.xml,"
+              Der Wind ist gut,
+              Das Schiff ist flott,
+              Auf, junges Blut,
+              Vertrau auf Gott,
+              Er führt uns nah, er führt uns weit,
+              Er führt uns in die Ewigkeit.",0,227,character_speech,1,12,,MATROSEN,#matrosen,142.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+223,223,GerDracor/arnim-das-loch.xml,"
+              Zur Ewigkeit ist eine weite Reise,
+              Ei, bleibt noch hier und trinket euch erst weise,
+              Und dieser Wind wird nicht der einzge seyn,
+              Er blaßt wohl morgen auch noch munter drein.",0,230,character_speech,1,12,,KAISER.,#kaiser,143.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+224,224,GerDracor/arnim-das-loch.xml,"
+              Der Wind ist gut,
+              Das Schiff ist flott,
+              Und wer jetzt ruht,
+              Der wird zum Spott,
+              Wer einen guten Wind versäumt,
+              Der hat sein bestes Glück verträumt.",0,232,character_speech,1,12,,MATROSEN.,#matrosen,144.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+225,225,GerDracor/arnim-das-loch.xml,"
+              Ihr seht, mit diesen Leuten ist nicht viel zu spaßen,
+              Sie haben derbe Fäuste zum Anfassen.",0,119,character_speech,1,12,,RITTER.,#der_ritter,145.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+226,226,GerDracor/arnim-das-loch.xml,"
+              Ach Ritter, ich gäbe euch gerne was mit,
+              Euer Fräulein hat Kleider von schlechtem Schnitt.",0,119,character_speech,1,12,,KAISER.,#kaiser,146.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+227,227,GerDracor/arnim-das-loch.xml,"Ich will zu meiner Frau gleich gehen,
+              Die wird sie willig mit bessern versehen.",134,227,character_speech,1,12,,KAISER.,#kaiser,146.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+228,228,GerDracor/arnim-das-loch.xml,"
+              Kein Augenblick
+              Sey mehr versäumt,
+              Des Sturmes Tücke
+              Das Meer jetzt räumt,
+              Und blauer Himmel überall
+              Und aller Vögel Wunderschall.",0,215,character_speech,1,12,,MATROSEN.,#matrosen,147.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+229,229,GerDracor/arnim-das-loch.xml,"
+              Ja wär mein Kasper nur zurück,
+              So störte nichts der Abfahrt Glück,
+              Doch der muß euch erst Pässe geben,
+              Sonst kommt ihr nicht davon mit dem Leben.",0,202,character_speech,1,12,,KAISER.,#kaiser,148.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+230,230,GerDracor/arnim-das-loch.xml,vor sich.,0,9,stage_direction,1,12,speech_part,,#der_ritter,149.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+231,231,GerDracor/arnim-das-loch.xml,"
+              Ich hol den Kanzler aus dem Topf,
+              Er bleibe bei dem armen Tropf.",0,93,character_speech,1,12,,RITTER,#der_ritter,149.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+232,232,GerDracor/arnim-das-loch.xml,Laut.,108,113,character_speech,1,12,,RITTER,#der_ritter,149.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+233,233,GerDracor/arnim-das-loch.xml,"Da kommt der Kanzler schon angegangen,
+              Nach Pässen habe ich kein Verlangen,
+              Weil ich sie alle mir selber kann schreiben,
+              So darf ich länger nicht hier verbleiben.",114,318,character_speech,1,12,,RITTER,#der_ritter,149.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+234,234,GerDracor/arnim-das-loch.xml,"
+              Wenns also ist, so fahrt mit Gott,
+              Aufm Meere scheint mein Name ein Spott,
+              Dieweil ich nicht kann die Seefahrt ertragen,
+              So mögen die Schiffer nicht viel nach mir fragen.",0,227,character_speech,1,12,,KAISER.,#kaiser,150.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+235,235,GerDracor/arnim-das-loch.xml,"
+              So ist es leider, mein gnädiger Kaiser,
+              Doch ihr seyd drüber hinaus als Weiser.",0,108,character_speech,1,12,,RITTER.,#der_ritter,151.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+236,236,GerDracor/arnim-das-loch.xml,Vor sich.,123,132,character_speech,1,12,,RITTER.,#der_ritter,151.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+237,237,GerDracor/arnim-das-loch.xml,"Ich kann das eine Bein noch nicht finden,
+              Sonst thät ich den Kanzler ganz eilig verbinden.",133,237,character_speech,1,12,,RITTER.,#der_ritter,151.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+238,238,GerDracor/arnim-das-loch.xml,"Ihr sehet den Kanzler, ich seh ihn nicht.",0,41,character_speech,1,12,,KAISER.,#kaiser,152.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+239,239,GerDracor/arnim-das-loch.xml,"
+              Jetzt ist er recht nahe euch im Gesicht.",0,55,character_speech,1,12,,RITTER.,#der_ritter,153.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+240,240,GerDracor/arnim-das-loch.xml,Vor sich.,70,79,character_speech,1,12,,RITTER.,#der_ritter,153.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+241,241,GerDracor/arnim-das-loch.xml,"Das Bein ist da und auch das Gesicht,
+              Wir müssen fort, noch ehe er spricht.",80,169,character_speech,1,12,,RITTER.,#der_ritter,153.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+242,242,GerDracor/arnim-das-loch.xml,Laut.,184,189,character_speech,1,12,,RITTER.,#der_ritter,153.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+243,243,GerDracor/arnim-das-loch.xml,Nun werdet ihr ihn doch erblicken.,190,224,character_speech,1,12,,RITTER.,#der_ritter,153.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+244,244,GerDracor/arnim-das-loch.xml,Es will mir wirklich noch nicht glücken.,0,40,character_speech,1,12,,KAISER.,#kaiser,154.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+245,245,GerDracor/arnim-das-loch.xml,Er steht ja vor euch so kurz und so breit.,0,42,character_speech,1,12,,KAISERIN.,#kaiserin,155.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+246,246,GerDracor/arnim-das-loch.xml,"
+              Ich dachte, er käm von jener Seit,
+              Willkommen, du lieber Kasper, mein,
+              Wir sollen nun wieder alleine seyn,
+              Geh, küsse die Hand der gnädgen Frau,
+              Und diesen Wein dem Schiffe vertrau.",0,252,character_speech,1,12,,KAISER.,#kaiser,156.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+247,247,GerDracor/arnim-das-loch.xml,"Wo ist denn der Kopf, sitzt er jetzt fester.",0,44,character_speech,1,12,,KASPER.,#kasper,157.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+248,248,GerDracor/arnim-das-loch.xml,"Ich habe noch nichts getrunken, mein Bester.",0,44,character_speech,1,12,,RITTER.,#der_ritter,158.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+249,249,GerDracor/arnim-das-loch.xml,"
+              Der Kasper spricht ja ganz unverständig,
+              Ich glaube, wir werden regieren elendig!",0,110,character_speech,1,12,,KAISER.,#kaiser,159.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+250,250,GerDracor/arnim-das-loch.xml,"So lebt denn wohl, vergeßt mich nicht.",125,163,character_speech,1,12,,KAISER.,#kaiser,159.0,MALE,love,S,,1811.0,positive,emotions of affection
+251,251,GerDracor/arnim-das-loch.xml,"Das wäre die allerschlimmste Pflicht,",0,37,character_speech,1,12,,KAISERIN.,#kaiserin,160.0,FEMALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+252,252,GerDracor/arnim-das-loch.xml,steigt mit ihr ein.,0,19,stage_direction,1,12,speech_part,,#der_ritter,161.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+253,253,GerDracor/arnim-das-loch.xml,"
+              Lebt wohl, mein Kaiser, grüst eure Frau,
+              Wie kommt es, daß sie nicht niederschau.",0,110,character_speech,1,12,,RITTER,#der_ritter,161.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+254,254,GerDracor/arnim-das-loch.xml,"
+              Das dumme Ding kommt nicht ans Fenster,
+              Der Hochmuth macht ihr solche Gespenster,
+              Es ist doch lustig anzusehn,
+              Wie sich die Segel alle drehn!",0,198,character_speech,1,12,,KAISER.,#kaiser,162.0,MALE,Schadenfreude,S,,1811.0,positive,emotions of pleasure
+255,255,GerDracor/arnim-das-loch.xml,"
+              Aber Herr, die Kaiserin zieht ja fort,
+              Wie kann sie denn sehen aus dem Schlosse dort.",0,114,character_speech,1,12,,KASPER.,#kasper,163.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+256,256,GerDracor/arnim-das-loch.xml,"
+              Nicht wahr, sie gleicht der Kaiserin sehr
+              Erst dachte ich auch, daß sie es wär,
+              Doch meine Frau, die schnarcht jetzt im Schlosse,
+              Der Ritter wär ihr ein schlechter Genosse,
+              Sie liebet so hübsche runde Leute,
+              Wie ich es bin – ich heirath sie heute.",0,332,character_speech,1,12,,KAISER.,#kaiser,164.0,MALE,love,S,,1811.0,positive,emotions of affection
+257,257,GerDracor/arnim-das-loch.xml,Auf dem Meere.,0,14,stage_direction,1,12,speech_part,,#der_ritter,165.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+258,258,GerDracor/arnim-das-loch.xml,"Lebt wohl, eure Braut ich stohl.",0,32,character_speech,1,12,,RITTER.,#der_ritter,165.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+259,259,GerDracor/arnim-das-loch.xml,Allzu lang litt ich eurer Liebe Zwang.,0,38,character_speech,1,12,,KAISERIN.,#kaiserin,166.0,FEMALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+260,260,GerDracor/arnim-das-loch.xml,"
+              Hat der Wind uns erst ergriffen,
+              Lachen wir des festen Lands,
+              Und dies Lied wird da gepfiffen:
+              Wind, der achtet keines Stands;
+              Ob ein Kaiser unterm Segel,
+              Oder ein gemeiner Flegel,
+              Ist dem Winde einerlei,
+              Keinem Menschen ist er treu,
+              Doch vor allen mag er necken
+              Ehekrüppel, Liebesjecken,
+              Führt einst Helena von dannen,
+              Weiß die Griechen lang zu bannen,
+              Die sie suchen auf dem Meer,
+              Liebe führt er leicht daher,
+              Liebe führt er schnell zum Ziel,
+              Nun Ade, du Possenspiel.",0,694,character_speech,1,12,,MATROSEN.,#matrosen,167.0,MALE,love,S,,1811.0,positive,emotions of affection
+261,261,GerDracor/arnim-das-loch.xml,Das Schiff verschwindet.,0,24,stage_direction,1,12,speech_part,,#matrosen,167.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+262,262,GerDracor/arnim-das-loch.xml,Ich werde aus dem allen nicht klug.,0,35,character_speech,1,12,,KAISER.,#kaiser,168.0,MALE,being moved,S,,1811.0,being moved,being moved
+263,263,GerDracor/arnim-das-loch.xml,Die Kaiserin weiß wohl mehr als genug.,0,38,character_speech,1,12,,KASPER.,#kasper,169.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+264,264,GerDracor/arnim-das-loch.xml,Ich will bei ihr nach allem fragen.,0,35,character_speech,1,12,,KAISER.,#kaiser,170.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+265,265,GerDracor/arnim-das-loch.xml,"
+              Ach laßt das in so betrübten Tagen,
+              Wer viel frägt, der muß viel hören,
+              Und schweigen wir, bleiben wir alle bei Ehren,
+              Ich habe doch mehr als ihr ausgestanden,
+              Mir kamen ein Dutzend Glieder abhanden,
+              Und in den andern ist keine Besinnung,
+              Und in dem Kopfe ein großer Sprung.",0,373,character_speech,1,12,,KASPER.,#kasper,171.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+266,266,GerDracor/arnim-das-loch.xml,"
+              Ich ahnde schlimme Verwechselung,
+              Die Kaiserin mir vielleicht entsprung?",0,101,character_speech,1,12,,KAISER.,#kaiser,172.0,MALE,fear,S,,1811.0,negative,emotions of anxiety
+267,267,GerDracor/arnim-das-loch.xml,"Ich meine, ihr habt ganz recht gerathen.",0,40,character_speech,1,12,,KASPER.,#kasper,173.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+268,268,GerDracor/arnim-das-loch.xml,"
+              Was soll ich beginnen bei solchen Unthaten?",0,58,character_speech,1,12,,KAISER.,#kaiser,174.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+269,269,GerDracor/arnim-das-loch.xml,"Mich hält ein jeder künftig zum Narren,
+              Und meinet, ich hätte wie ihr, einen Sparren.",73,172,character_speech,1,12,,KAISER.,#kaiser,174.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+270,270,GerDracor/arnim-das-loch.xml,"Ich meine, wir schleichen uns sachte fort.",0,42,character_speech,1,12,,KASPER.,#kasper,175.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+271,271,GerDracor/arnim-das-loch.xml,Und sehen aus einem versteckten Ort.,0,36,character_speech,1,12,,KAISER.,#kaiser,176.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+272,272,GerDracor/arnim-das-loch.xml,Wer künftig in unserm Schloß wird regieren.,0,43,character_speech,1,12,,KASPER.,#kasper,177.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+273,273,GerDracor/arnim-das-loch.xml,"
+              So werden wir auch die Leute anführen,
+              Wir sind dann die Narren nicht allein,
+              Ein jeder Bürger wird angeführt seyn.",0,158,character_speech,1,12,,KAISER.,#kaiser,178.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+274,274,GerDracor/arnim-das-loch.xml,Beide ab in den Wald.,0,21,stage_direction,1,12,speech_part,,#kaiser,178.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+275,275,GerDracor/arnim-das-loch.xml,"
+              Aus den ersten stürmenden Tagen,
+              Wo der glühende Schöpfungswagen
+              Nahe der gährenden Erde fuhr,
+              Steiget die bildende Kraft der Natur,
+              Was sie thut, das muß sie vollbringen,
+              Ohne Freiheit ein Allesgelingen,
+              Denn sie thut nur, was fordert die Noth.",0,344,character_speech,2,1,,CHOR DER SCHLOSSGEISTER.,#chor_der_schlossgeister,179.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+276,276,GerDracor/arnim-das-loch.xml,"Auch der Mensch folgt ihrem Gebot,
+              Seine Gesetze sind ewige Schranken,
+              Seine Träume ewge Gedanken,
+              So entwickelt sich Menschenkraft,
+              Die in spielender Freiheit schafft,
+              Und es geschieht das göttlich Freie,
+              Und er empfängt des Glaubens Weihe.",359,684,character_speech,2,1,,CHOR DER SCHLOSSGEISTER.,#chor_der_schlossgeister,179.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+277,277,GerDracor/arnim-das-loch.xml,"Herrlich ist nur, was frei geschaffen,
+              Was sich versündgen kann und sich bestrafen,
+              Und so steiget im Menschengeschlecht
+              Frei empor, was nichtig und schlecht,
+              Und die Geschlechter wachsen, vergessen,
+              Was sie einst als Höchstes besessen,
+              Lassen die Erde aus ihrer Haft,
+              Wo sie gebunden von Schöpfungskraft,
+              Und sie tritt zerstörend hinaus,
+              Freies Wirken erlischt in Graus.",699,1196,character_speech,2,1,,CHOR DER SCHLOSSGEISTER.,#chor_der_schlossgeister,179.0,UNKNOWN,joy,S,,1811.0,positive,emotions of pleasure
+278,278,GerDracor/arnim-das-loch.xml,steigt aus der Regierungsmaschine heraus.,0,41,stage_direction,2,1,speech_part,,#der_teufel,180.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+279,279,GerDracor/arnim-das-loch.xml,"
+              Verlassen steht der mächtge Thron,
+              Da kann ich sprechen der Welt Hohn,
+              Die Regierungsmaschine ist unbesetzt,
+              O süße Bosheit, wie wirst du ergötzt,
+              Wie will ich spotten der ganzen Welt,
+              Wenn sie in sich selber zerfällt.",0,303,character_speech,2,1,,DER TEUFEL,#der_teufel,180.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+280,280,GerDracor/arnim-das-loch.xml,"Ich nehme die Krone, ich nehme das Kleid,
+              Und geheiligt erschein ich der Welt zum Leid,
+              Ihr Menschen, kommet einmal herbei.",318,469,character_speech,2,1,,DER TEUFEL,#der_teufel,180.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+281,281,GerDracor/arnim-das-loch.xml,"
+              Sey uns gegrüßt mit Freudengeschrei,
+              In unsern Festen, mit schönen Künsten.",0,104,character_speech,2,1,,MENSCHEN.,#menschen,181.0,UNKNOWN,joy,S,,1811.0,positive,emotions of pleasure
+282,282,GerDracor/arnim-das-loch.xml,"
+              Ihr ehrt mich allein in Feuersbrünsten,
+              Wenn ihr geistige Thorheit vergeßt,
+              Euch unter einander gierig auffreßt
+              Das Eine ist nur nöthig der Welt,
+              Der Krieg allein mir wohlgefällt,
+              Die Taktick ist menschliche Wissenschaft,
+              Die Kunst ist eine niedere Kraft.",0,354,character_speech,2,1,,DER TEUFEL.,#der_teufel,182.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+283,283,GerDracor/arnim-das-loch.xml,"
+              Hohe Weisheit.",0,29,character_speech,2,1,,MENSCHEN.,#menschen,183.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+284,284,GerDracor/arnim-das-loch.xml,"Unsre Kunst war nichts werth,
+              Nur der Waffenklang Menschen belehrt,
+              Fechtet, streitet, wer übrig bleibt,
+              Das Paradies auf Erden beschreibt.",30,211,character_speech,2,1,,MENSCHEN.,#menschen,183.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+285,285,GerDracor/arnim-das-loch.xml,Sie fechten.,212,224,character_speech,2,1,,MENSCHEN.,#menschen,183.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+286,286,GerDracor/arnim-das-loch.xml,"
+              Ha, wie sie sich im Streit ermüden,
+              Bald haben wir nichts als Invaliden,
+              Jetzt, dumme Thiere, kommt eilig herbei,
+              Ich mache euch jetzt vom Menschenjoch frei,
+              Kein Mensch darf mehr euch Ochsen braten,
+              Die Affen dürfen die Menschen heirathen,
+              Die Offenbarung wird abgeschafft,
+              Sie würd' euch schützen, hätte sie Kraft.",0,429,character_speech,2,1,,TEUFEL.,#der_teufel,184.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+287,287,GerDracor/arnim-das-loch.xml,"
+              Wir armen müden lahmen Leute
+              Werden nun sicher der Thiere Beute,
+              Nachdem wir für deinen Thron gestritten,
+              Begeisterung ist uns ganz abgeschnitten.",0,203,character_speech,2,1,,MENSCHEN.,#menschen,185.0,UNKNOWN,suffering,S,,1811.0,negative,emotions of suffering and empathy
+288,288,GerDracor/arnim-das-loch.xml,"
+              Wir danken für die Gerechtigkeit,
+              Die uns versaget so lange Zeit,
+              Jetzt wollen wir uns an Menschen rächen,
+              Und ihnen das hohe Genick zerbrechen,
+              Bis sie auch gehen auf allen vieren,
+              Gleich uns andern edleren Thieren.",0,301,character_speech,2,1,,THIERE.,#thiere,186.0,UNKNOWN,joy,S,,1811.0,positive,emotions of pleasure
+289,289,GerDracor/arnim-das-loch.xml,"
+              Ihr kämpft für den größten unendlichsten Wahn,
+              Und große Seelen erzieht große Bahn.",0,112,character_speech,2,1,,TEUFEL.,#der_teufel,187.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+290,290,GerDracor/arnim-das-loch.xml,"
+              Mein gnädiger Kaiser, ich bin so beschämt,
+              Daß ihr mir jetzt die Nahrung nehmt;
+              Wenn ihr die Menschen laßt alle verderben,
+              So muß ich endlich selbst Hunger sterben.",0,221,character_speech,2,1,,KROKODILL.,#krokodill,188.0,UNKNOWN,suffering,S,,1811.0,negative,emotions of suffering and empathy
+291,291,GerDracor/arnim-das-loch.xml,"
+              Das Krokodil!",0,28,character_speech,2,1,,TEUFEL.,#der_teufel,189.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+292,292,GerDracor/arnim-das-loch.xml,"hat verständige Art,
+              Ich befehl euch, setzt ihm Menschen apart,
+              Es hat sich immer als Leckerbissen,
+              So nach der Mahlzeit einen zerrissen,
+              Das soll man dem lieben Thiere noch gönnen,
+              Es wird ihm dabei so sauer das Rennen,
+              Das liebe Würmchen ist steif in dem Rücken,
+              Da wußten die Menschen es oft zu berücken,
+              Jetzt soll man die Menschen halten und binden,
+              Da kann es sie nach Gefallen schinden.",29,548,character_speech,2,1,,TEUFEL.,#der_teufel,189.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+293,293,GerDracor/arnim-das-loch.xml,"
+              Mein gnädger Kaiser, ich will Gerechtigkeit,
+              Ich bin der Prügel gewohnt zur Zeit.",0,110,character_speech,2,1,,ESEL.,#esel,190.0,UNKNOWN,anger,S,,1811.0,negative,emotions of rejection
+294,294,GerDracor/arnim-das-loch.xml,"Mir juckt der Rücken, wenn sie mir fehlen,
+              Da bitt ich euch, dem Menschen zu befehlen,
+              Daß er mir gebe der Prügel so viel,
+              Als mir nöthig nach meinem Gefühl.",125,324,character_speech,2,1,,ESEL.,#esel,190.0,UNKNOWN,suffering,S,,1811.0,negative,emotions of suffering and empathy
+295,295,GerDracor/arnim-das-loch.xml,"
+              Das ist verständig, ich muß es gestehen,
+              Einem jeden Thiere soll seine Lust geschehen.",0,115,character_speech,2,1,,TEUFEL.,#der_teufel,191.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+296,296,GerDracor/arnim-das-loch.xml,"Kaiser und Kasper werden von einem Affen an einem Strick geführt und müssen
+            Kunststücke machen.",0,107,stage_direction,2,2,pre_speech,,,,,no_annotation,S,,1811.0,no_annotation,no_annotation
+297,297,GerDracor/arnim-das-loch.xml,"
+              Aufgeschaut, ihr lieben Thiere,
+              Seht, wen ich am Stricke führe,
+              Die beiden kleinen dicken Leute,
+              Die fand ich im Walde mit großer Beute,
+              Der eine trug eine goldne Krone,
+              Die trage ich jetzt zu seinem Hohne.",0,291,character_speech,2,2,,AFFE.,#affe,192.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+298,298,GerDracor/arnim-das-loch.xml,"
+              Es sind ja unbegreifliche Dinge,
+              Daß ich nicht befehle und daß ich mich zwinge.",0,108,character_speech,2,2,,KAISER.,#kaiser,193.0,MALE,being moved,S,,1811.0,being moved,being moved
+299,299,GerDracor/arnim-das-loch.xml,"
+              Es muß sich alles geändert haben,
+              Während wir nach den Trüffeln gegraben.",0,102,character_speech,2,2,,KASPER.,#kasper,194.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+300,300,GerDracor/arnim-das-loch.xml,"
+              Ihr Herren, wenn es euch hier nicht gefällt,
+              So hab ich noch drunten die Unterwelt,
+              Der Eingang ist die Regierungsmaschine,
+              Wollt ihr besehen die höllische Bühne.",0,219,character_speech,2,2,,TEUFEL.,#der_teufel,195.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+301,301,GerDracor/arnim-das-loch.xml,"
+              Ich will gar gerne zum Höllengraus,
+              Damit ich nur komme zur Welt hinaus,
+              Ach hätt ich geglaubt, daß solche Noth
+              In aller Welt um das tägliche Brodt,
+              Ich hätte sicher mit Fleiß regiert,
+              Und kein so faules Leben geführt.",0,303,character_speech,2,2,,KAISER.,#kaiser,196.0,MALE,suffering,S,,1811.0,negative,emotions of suffering and empathy
+302,302,GerDracor/arnim-das-loch.xml,"
+              Jetzt ist es zu spät, jetzt geht nur hinein,
+              Wo ihr ins künftge sollt ewig seyn.",0,109,character_speech,2,2,,TEUFEL.,#der_teufel,197.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+303,303,GerDracor/arnim-das-loch.xml,steigt in die Maschine.,0,23,stage_direction,2,2,speech_part,,#kaiser,198.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+304,304,GerDracor/arnim-das-loch.xml,"
+              Ich sage euch meinen verbindlichsten Dank,
+              Doch finde ich etwas enge den Gang.",0,107,character_speech,2,2,,KAISER,#kaiser,198.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+305,305,GerDracor/arnim-das-loch.xml,"
+              Eure gute Braut mußte durch ein engeres Loch,
+              Eh sie aus eurem Schloß zur Freiheit kroch.",0,118,character_speech,2,2,,TEUFEL.,#der_teufel,199.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+306,306,GerDracor/arnim-das-loch.xml,"
+              Der gnädige Kaiser mit seinem Bauch
+              Verstopft mir den Gang, das ist kein Brauch.",0,109,character_speech,2,2,,KASPER.,#kasper,200.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+307,307,GerDracor/arnim-das-loch.xml,"
+              Was brachst du ein Loch, die Kaisrin zu sehen,
+              Jetzt mußt du länger im Dunkeln stehen.",0,115,character_speech,2,2,,TEUFEL.,#der_teufel,201.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+308,308,GerDracor/arnim-das-loch.xml,Seine Majestät bleiben hier schlafend stecken.,0,46,character_speech,2,2,,KASPER.,#kasper,202.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+309,309,GerDracor/arnim-das-loch.xml,So mußt du ihn mit Fußtritten wecken.,0,37,character_speech,2,2,,TEUFEL.,#der_teufel,203.0,MALE,anger,S,,1811.0,negative,emotions of rejection
+310,310,GerDracor/arnim-das-loch.xml,"
+              Jetzt rollet er ganz glatt herunter;
+              Es ist hier in der Hölle doch munter.",0,103,character_speech,2,2,,KASPER.,#kasper,204.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+311,311,GerDracor/arnim-das-loch.xml,"
+              Wir möchten auch gern ein Plätzchen da kriegen,
+              Wir gingen zur Hölle mit rechtem Vergnügen.",0,120,character_speech,2,3,,MENSCHEN.,#menschen,205.0,UNKNOWN,joy,S,,1811.0,positive,emotions of pleasure
+312,312,GerDracor/arnim-das-loch.xml,"
+              Ich will sehn, was ich thun kann,
+              Die Hölle ist nicht für jedermann,
+              Man muß sich Verdienste um mich erwerben,
+              Sonst laß ich euch nicht so leicht hier sterben.",0,216,character_speech,2,3,,TEUFEL.,#der_teufel,206.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+313,313,GerDracor/arnim-das-loch.xml,"
+              Ach gnädger Herr, dich unsrer erbarm,
+              Die Welt ist kalt, die Hölle ist warm.",0,105,character_speech,2,3,,MENSCHEN.,#menschen,207.0,UNKNOWN,despair,S,,1811.0,negative,emotions of anxiety
+314,314,GerDracor/arnim-das-loch.xml,"
+              Ihr sollet dienend zur Hölle mich führen,
+              Zum Zeichen, wie gut ich euch kann regieren.",0,115,character_speech,2,3,,TEUFEL.,#der_teufel,208.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+315,315,GerDracor/arnim-das-loch.xml,Der Siegeswagen ist schon bereitet.,0,35,character_speech,2,3,,MENSCHEN.,#menschen,209.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+316,316,GerDracor/arnim-das-loch.xml,"
+              Auf lustig zum Höllenthor niederschreitet.",0,57,character_speech,2,3,,TEUFEL.,#der_teufel,210.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+317,317,GerDracor/arnim-das-loch.xml,"Ade du Welt, voll wilder und dummer Thiere,
+              Es lohnt nicht der Mühe, daß ich dich regiere.",72,176,character_speech,2,3,,TEUFEL.,#der_teufel,210.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+318,318,GerDracor/arnim-das-loch.xml,Teufel und Menschen ins Höllenthor.,0,35,stage_direction,2,3,speech_part,,#der_teufel,210.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+319,319,GerDracor/arnim-das-loch.xml,"
+              Seitdem mir der Mensch kein Heu mehr reicht,
+              Mir alle Kraft aus den Knochen entweicht.",0,115,character_speech,2,4,,OCHS.,#ochs,211.0,UNKNOWN,suffering,S,,1811.0,negative,emotions of suffering and empathy
+320,320,GerDracor/arnim-das-loch.xml,"
+              Sonst hatten wir's so bequem im Stall,
+              Nun werden die Bissen mir gar zu schmal.",0,108,character_speech,2,4,,ESEL.,#esel,212.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+321,321,GerDracor/arnim-das-loch.xml,"
+              Ich sinke in meinem Honig unter,
+              Sonst ging mir die Arbeit so rasch und munter.",0,108,character_speech,2,4,,BIENE.,#biene,213.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+322,322,GerDracor/arnim-das-loch.xml,"
+              So soll mich doch Gott davor behüten,
+              Daß ich soll all meine Eier ausbrüten.",0,105,character_speech,2,4,,HUHN.,#huhn,214.0,UNKNOWN,fear,S,,1811.0,negative,emotions of anxiety
+323,323,GerDracor/arnim-das-loch.xml,"
+              Wenn die Hechte nicht weggefangen werden,
+              So bleibet kein Weißfisch hier auf der Erden.",0,116,character_speech,2,4,,WEISSFISCH.,#weissfisch,215.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+324,324,GerDracor/arnim-das-loch.xml,"
+              Mir wachsen so entsetzlich lange Geweihe,
+              Daß ich nach dem Tode mit Sehnsucht schreie.",0,115,character_speech,2,4,,HIRSCH.,#hirsch,216.0,UNKNOWN,despair,S,,1811.0,negative,emotions of anxiety
+325,325,GerDracor/arnim-das-loch.xml,"
+              Ich hätte jetzt rechte Lust, dich zu hetzen,
+              Doch ohne Jäger kannst du mich verletzen.",0,115,character_speech,2,4,,HUND.,#hund,217.0,UNKNOWN,abhorrence,S,,1811.0,negative,emotions of rejection
+326,326,GerDracor/arnim-das-loch.xml,"Ach kämen die Menschen doch nur bei Zeiten,
+              Wir wollten sie selbst zum Throne leiten,
+              Und wollten mit allen unsern Kräften
+              Sie schützen in ihren Regierungsgeschäften.",130,338,character_speech,2,4,,HUND.,#hund,217.0,UNKNOWN,suffering,S,,1811.0,negative,emotions of suffering and empathy
+327,327,GerDracor/arnim-das-loch.xml,"Ihr Freunde, ich sehe ein Schiff von weiten.",0,44,character_speech,2,4,,STORCH.,#storch,218.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+328,328,GerDracor/arnim-das-loch.xml,"Ach Jubel, da werden die Menschen mich reiten.",0,46,character_speech,2,4,,PFERD.,#pferd,219.0,UNKNOWN,joy,S,,1811.0,positive,emotions of pleasure
+329,329,GerDracor/arnim-das-loch.xml,Da müssen wir gleich entgegenkommen.,0,36,character_speech,2,4,,OCHS.,#ochs,220.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+330,330,GerDracor/arnim-das-loch.xml,"
+              Damit sie sich fühlen gut aufgenommen,
+              Die Eselinnen kleiden sich weiß,
+              Und tragen ein grünes Friedensreis,",0,150,character_speech,2,4,,ESEL.,#esel,221.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+331,331,GerDracor/arnim-das-loch.xml,"
+              Auf weissem Küssen die Kaiserskron,
+              Die locket Menschen auf unsern Thron.",0,102,character_speech,2,4,,OCHS.,#ochs,222.0,UNKNOWN,"admiration, reverence",S,,1811.0,positive,emotions of affection
+332,332,GerDracor/arnim-das-loch.xml,"Die Engel ziehn das Schiff am Maste gegen das Land, worin der Ritter, die Kaiserin
+            und Matrosen abfuhren.",0,117,stage_direction,2,5,pre_speech,,,,,no_annotation,S,,1811.0,no_annotation,no_annotation
+333,333,GerDracor/arnim-das-loch.xml,"
+              Ihr sehet nicht die hohe Hand,
+              Sie führt euch zum Rhabarberland,
+              Ihr sollt die Thiere zu Menschen erziehen,
+              Das ist ein göttlich reines Bemühen.",0,201,character_speech,2,5,,DIE ENGEL.,#die_engel,223.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+334,334,GerDracor/arnim-das-loch.xml,"
+              Ritter, welch Wunder ich euch verkünd,
+              Es geht das Schiff heut gegen den Wind.",0,107,character_speech,2,5,,MATROSE.,#matrose,224.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+335,335,GerDracor/arnim-das-loch.xml,"So müßt ihr lavieren, das ist das Best'.",0,40,character_speech,2,5,,RITTER.,#der_ritter,225.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+336,336,GerDracor/arnim-das-loch.xml,Eine höhere Hand hält uns hier fest.,0,36,character_speech,2,5,,MATROSE.,#matrose,226.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+337,337,GerDracor/arnim-das-loch.xml,Wir sind verloren an dieser Küste.,0,34,character_speech,2,5,,KAISERIN.,#kaiserin,227.0,FEMALE,despair,S,,1811.0,negative,emotions of anxiety
+338,338,GerDracor/arnim-das-loch.xml,Die gute Sache mit Muth dich rüste.,0,35,character_speech,2,5,,RITTER.,#der_ritter,228.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+339,339,GerDracor/arnim-das-loch.xml,"
+              Umsonst ist unser Widerstand,
+              Uns führet eine höhre Hand.",0,86,character_speech,2,5,,MATROSEN.,#matrosen,229.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+340,340,GerDracor/arnim-das-loch.xml,"
+              Wir sind verloren in diesem Land,
+              Der Kaiser ist sicher von Wuth entbrannt.",0,104,character_speech,2,5,,KAISERIN.,#kaiserin,230.0,FEMALE,abhorrence,S,,1811.0,negative,emotions of rejection
+341,341,GerDracor/arnim-das-loch.xml,"
+              Ich schütze dich, schöne Kaiserin,
+              Mein Leben geh ich für deines hin.",0,98,character_speech,2,5,,RITTER.,#der_ritter,231.0,MALE,"admiration, reverence",S,,1811.0,positive,emotions of affection
+342,342,GerDracor/arnim-das-loch.xml,"
+              Ei seht doch, Herr Ritter, den Kreis von Thieren,
+              Sie halten die Krone in ihren vieren.",0,116,character_speech,2,5,,MATROSEN.,#matrosen,232.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+343,343,GerDracor/arnim-das-loch.xml,"
+              Gewiß war hier eine Staatsaction,
+              Rhabarber herrschet nicht mehr auf dem Thron.",0,108,character_speech,2,5,,RITTER.,#der_ritter,233.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+344,344,GerDracor/arnim-das-loch.xml,"
+              Als Redner bin ich hier vorgetreten,
+              Ihr guten Menschen, seyd freundlich gebeten,
+              Hier anzulegen.",0,140,character_speech,2,5,,ESEL.,#esel,234.0,UNKNOWN,no_annotation,S,,1811.0,no_annotation,no_annotation
+345,345,GerDracor/arnim-das-loch.xml,"Steiget ans Land,
+              Nehmet die Krone aus meiner Hand,
+              Wir fürchten, sie möchte noch endlich platzen,
+              Wenn wir drauf tappen mit unsern Tatzen.",141,322,character_speech,2,5,,ESEL.,#esel,234.0,UNKNOWN,fear,S,,1811.0,negative,emotions of anxiety
+346,346,GerDracor/arnim-das-loch.xml,"
+              Ich setze sie meiner Frau auf das Haupt,
+              Die ihrer Krone durch mich ward beraubt.",0,110,character_speech,2,5,,RITTER.,#der_ritter,235.0,MALE,no_annotation,S,,1811.0,no_annotation,no_annotation
+347,347,GerDracor/arnim-das-loch.xml,"
+              Wir schwören euch Treue, daß alles schallt,
+              Und illuminiren den ganzen Wald,
+              Es lebe der Kaiser, die Kaiserin,
+              Wir gehorchen euch in treuem Sinn.",0,202,character_speech,2,5,,THIERE.,#thiere,236.0,UNKNOWN,"admiration, reverence",S,,1811.0,positive,emotions of affection
+348,348,GerDracor/arnim-das-loch.xml,"
+              Nun saget mir doch, ihr lieben Thiere,
+              Wie kommts, daß ich keine Menschen verspüre.",0,112,character_speech,2,5,,RITTER.,#der_ritter,237.0,MALE,abhorrence,S,,1811.0,negative,emotions of rejection
+349,349,GerDracor/arnim-das-loch.xml,"
+              Den Kaiser, den Kasper, die Menschen alle
+              Hat der Teufel gelockt in eine Falle;
+              Sie gingen in die Maschine hinein,
+              Der Himmel weiß, wo sie jetzt mögen seyn.",0,213,character_speech,2,5,,ESEL.,#esel,238.0,UNKNOWN,abhorrence,S,,1811.0,negative,emotions of rejection
+350,350,GerDracor/arnim-das-loch.xml,"
+              Ihr Freunde, nehmt die Regierungsmaschine,
+              Sie hat vernichtet alles Freie und Kühne,
+              Und werfet sie in das tiefe Meer,
+              Damit uns kein unnütz Gesetz mehr beschwer,
+              Dann leben wir hier wie im Paradies,
+              Das uns der Himmel nach Leiden verhieß.",0,324,character_speech,2,5,,RITTER.,#der_ritter,239.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+351,351,GerDracor/arnim-das-loch.xml,"
+              In deiner Lieb ist mein Paradies,
+              Wo mich sonst jede Freude verließ.",0,97,character_speech,2,5,,KAISERIN.,#kaiserin,240.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+352,352,GerDracor/arnim-das-loch.xml,"Wir wollen in Lieb und Beschaulichkeit
+              Nun treiben unsere Ewigkeit.",112,193,character_speech,2,5,,KAISERIN.,#kaiserin,240.0,FEMALE,love,S,,1811.0,positive,emotions of affection
+353,353,GerDracor/arnim-das-loch.xml,"
+              O selige Fahrt
+              Zum Paradies,
+              Er hat uns bewahrt,
+              Der's allen verhieß.",0,126,character_speech,2,5,,MATROSEN.,#matrosen,241.0,MALE,joy,S,,1811.0,positive,emotions of pleasure
+354,354,GerDracor/arnim-das-loch.xml,"
+              Wie hat sich doch alles zur Freude gewendet,
+              Ihr Hörer, jetzt klatschet, das Spiel ist geendet.",0,124,character_speech,2,5,,THIERE.,#thiere,242.0,UNKNOWN,joy,S,,1811.0,positive,emotions of pleasure

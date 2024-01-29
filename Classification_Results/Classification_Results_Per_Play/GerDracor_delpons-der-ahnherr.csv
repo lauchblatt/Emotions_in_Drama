@@ -1,0 +1,456 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/delpons-der-ahnherr.xml,(allein.),0,9,stage_direction,1,1,speech_part,,#pfiff,1.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+1,1,GerDracor/delpons-der-ahnherr.xml,Ein sauberes Jahrhundert!,0,25,character_speech,1,1,,Pfiff,#pfiff,1.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+2,2,GerDracor/delpons-der-ahnherr.xml,– Mein armer Herr.,26,44,character_speech,1,1,,Pfiff,#pfiff,1.0,MALE,compassion,K,,1819.0,negative,emotions of suffering and empathy
+3,3,GerDracor/delpons-der-ahnherr.xml,"– Die Freunde bleiben aus, die unbezahlten
+            Rechnungen rücken ein.",45,122,character_speech,1,1,,Pfiff,#pfiff,1.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+4,4,GerDracor/delpons-der-ahnherr.xml,"Nun, man muß auch billig seyn, drei Monate Glück in der Liebe,
+            und drei Monate Unglück im Spiel, können freilich die Kraftmänner des neunzehnten
+            Jahrhunderts ein wenig mürbe machen.",123,328,character_speech,1,1,,Pfiff,#pfiff,1.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+5,5,GerDracor/delpons-der-ahnherr.xml,Pfiff.,0,6,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+6,6,GerDracor/delpons-der-ahnherr.xml,Karl.,7,12,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+7,7,GerDracor/delpons-der-ahnherr.xml,(singt).,0,8,stage_direction,1,2,speech_part,,#karl,2.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+8,8,GerDracor/delpons-der-ahnherr.xml,„Zum Borgen kann ich ihn nicht zwingen.“,0,40,character_speech,1,2,,Karl,#karl,2.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+9,9,GerDracor/delpons-der-ahnherr.xml,Das paßt auf den alten Moses.,0,29,character_speech,1,2,,Pfiff.,#pfiff,3.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+10,10,GerDracor/delpons-der-ahnherr.xml,"Das paßt auf alle Geizhälse der ganzen Erde, und deutlicher zu reden, mit Ausnahme der
+            Christen, auf alle Menschen.",0,127,character_speech,1,2,,Karl.,#karl,4.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+11,11,GerDracor/delpons-der-ahnherr.xml,Das paßt noch mehr auf den alten Moses.,0,39,character_speech,1,2,,Pfiff.,#pfiff,5.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+12,12,GerDracor/delpons-der-ahnherr.xml,"Stell Dir vor: Du weißt, daß dieser Bösewicht vor wenig Monaten an mir 5000 Thaler
+            gewonnen hat, um mein väterliches Erbe vier Wochen früher verschwenden zu können.",0,176,character_speech,1,2,,Karl.,#karl,6.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+13,13,GerDracor/delpons-der-ahnherr.xml,Leider weiß ich es nur zu gut.,0,30,character_speech,1,2,,Pfiff.,#pfiff,7.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+14,14,GerDracor/delpons-der-ahnherr.xml,"Denke Dir, gestern begegne ich ihm.",0,35,character_speech,1,2,,Karl.,#karl,8.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+15,15,GerDracor/delpons-der-ahnherr.xml,"Moses, sag’ ich, hilf mir mit zweihundert Ducaten;
+            rathe, Pfiff, rathe das Unglaublichste was deine Phantasie Dir einzugeben im Stande ist,
+            was that er?",36,212,character_speech,1,2,,Karl.,#karl,8.0,MALE,being moved,K,,1819.0,being moved,being moved
+16,16,GerDracor/delpons-der-ahnherr.xml,(besinnt sich),0,14,stage_direction,1,2,speech_part,,#pfiff,9.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+17,17,GerDracor/delpons-der-ahnherr.xml,Er hat sie Ihnen zu fünf Procent gegeben.,0,41,character_speech,1,2,,Pfiff.,#pfiff,9.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+18,18,GerDracor/delpons-der-ahnherr.xml,"Fehlgeschossen, er hat sie mir zu dreißig Procent abgeschlagen.",0,63,character_speech,1,2,,Karl.,#karl,10.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+19,19,GerDracor/delpons-der-ahnherr.xml,"Sonderbar, das pflegen doch sonst nur die Christen zu thun, um mit guter Manier gar
+            nichts zu geben.",0,112,character_speech,1,2,,Pfiff.,#pfiff,11.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+20,20,GerDracor/delpons-der-ahnherr.xml,"Du hast Unrecht, wenn Christen borgen, so borgen sie auch christlich.",0,69,character_speech,1,2,,Karl.,#karl,12.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+21,21,GerDracor/delpons-der-ahnherr.xml,"Aber sie borgen nicht, und wenn man darüber verhungert, so ist es gewöhnlich auch
+            unchristlich.",0,107,character_speech,1,2,,Pfiff.,#pfiff,13.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+22,22,GerDracor/delpons-der-ahnherr.xml,"Pfiff, weißt Du Rath?",0,21,character_speech,1,2,,Karl.,#karl,14.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+23,23,GerDracor/delpons-der-ahnherr.xml,Ich will darauf sinnen.,0,23,character_speech,1,2,,Pfiff.,#pfiff,15.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+24,24,GerDracor/delpons-der-ahnherr.xml,"Aber wenn ich bitten darf, nicht auf eine unchristliche Weise.",0,62,character_speech,1,2,,Karl.,#karl,16.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+25,25,GerDracor/delpons-der-ahnherr.xml,Sie meinen verhungern?,0,22,character_speech,1,2,,Pfiff.,#pfiff,17.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+26,26,GerDracor/delpons-der-ahnherr.xml,O nein!,23,30,character_speech,1,2,,Pfiff.,#pfiff,17.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+27,27,GerDracor/delpons-der-ahnherr.xml,Nun es wäre mit den letzten zwei Sylben auch schon arg genug.,0,61,character_speech,1,2,,Karl.,#karl,18.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+28,28,GerDracor/delpons-der-ahnherr.xml,"Haben Sie keinen Kummer, Pfiff ist ein Genie.",0,45,character_speech,1,2,,Pfiff.,#pfiff,19.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+29,29,GerDracor/delpons-der-ahnherr.xml,"Nur Bedenkzeit, nur Bedenkzeit.",46,77,character_speech,1,2,,Pfiff.,#pfiff,19.0,MALE,being moved,K,,1819.0,being moved,being moved
+30,30,GerDracor/delpons-der-ahnherr.xml,"Zwei Bedingungen mach’ ich mir in Voraus: kein Heyrathsvorschlag und keine Spekulation
+            auf den alten Moses, denn er ist felsenfest.",0,143,character_speech,1,2,,Karl.,#karl,20.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+31,31,GerDracor/delpons-der-ahnherr.xml,Viktoria!,0,9,character_speech,1,2,,Pfiff.,#pfiff,21.0,MALE,being moved,K,,1819.0,being moved,being moved
+32,32,GerDracor/delpons-der-ahnherr.xml,"Herr von Eschendorf, ich hab’s.",10,41,character_speech,1,2,,Pfiff.,#pfiff,21.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+33,33,GerDracor/delpons-der-ahnherr.xml,"Das erste wird zugestanden; aber Moses soll,
+            muß und wird bluten.",42,119,character_speech,1,2,,Pfiff.,#pfiff,21.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+34,34,GerDracor/delpons-der-ahnherr.xml,Wodurch?,0,8,character_speech,1,2,,Karl.,#karl,22.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+35,35,GerDracor/delpons-der-ahnherr.xml,(tragikomisch),0,14,stage_direction,1,2,speech_part,,#pfiff,23.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+36,36,GerDracor/delpons-der-ahnherr.xml,Schicksal!,0,10,character_speech,1,2,,Pfiff.,#pfiff,23.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+37,37,GerDracor/delpons-der-ahnherr.xml,Schicksal!,11,21,character_speech,1,2,,Pfiff.,#pfiff,23.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+38,38,GerDracor/delpons-der-ahnherr.xml,"Pfiff, bist Du verrückt?",0,24,character_speech,1,2,,Karl.,#karl,24.0,MALE,being moved,K,,1819.0,being moved,being moved
+39,39,GerDracor/delpons-der-ahnherr.xml,"Sie wissen, gnädiger Herr, daß wir jetzt in Zeiten leben, wo, wenn es dreimal vor der
+            Thüre klopft, die Urgroßmama nicht weit ist, um den Enkeln in die Töpfe zu schielen;
+            Ahnfrauen und Schicksalsfügungen gründlicher Art sind jetzt an der Tagesordnung.",0,275,character_speech,1,2,,Pfiff.,#pfiff,25.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+40,40,GerDracor/delpons-der-ahnherr.xml,"Die
+            Juden haben schwache Nerven, die Blitz-Materialien sind nicht theuer, und der Donner
+            kostet gar nichts; weiter kann ich vor der Hand nichts sagen.",276,450,character_speech,1,2,,Pfiff.,#pfiff,25.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+41,41,GerDracor/delpons-der-ahnherr.xml,"Ich gehe, brüte meinen
+            Plan vollkommen  aus, und lege ihn ehrfurchtsvoll zur Genehmigung vor.",451,556,character_speech,1,2,,Pfiff.,#pfiff,25.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+42,42,GerDracor/delpons-der-ahnherr.xml,"Närrischer Kerl, was wirst Du wohl wieder ausbrüten?",0,52,character_speech,1,2,,Karl.,#karl,26.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+43,43,GerDracor/delpons-der-ahnherr.xml,Ausbrüten?,0,10,character_speech,1,2,,Pfiff.,#pfiff,27.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+44,44,GerDracor/delpons-der-ahnherr.xml,das war ein schlechter Einfall für meinen genialen Kopf.,11,67,character_speech,1,2,,Pfiff.,#pfiff,27.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+45,45,GerDracor/delpons-der-ahnherr.xml,"Die simplen
+            Verstandsmenschen mögen wohl im Schweiße ihres Angesichts dann und wann etwas ausbrüten,
+            aber das wahrhaft Geniale kann nur der Augenblick geben.",68,249,character_speech,1,2,,Pfiff.,#pfiff,27.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+46,46,GerDracor/delpons-der-ahnherr.xml,"Das muß ich gestehen, Pfiff, Du läßt es an Eigenlob nicht fehlen; nun zur Sache.",0,80,character_speech,1,2,,Karl.,#karl,28.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+47,47,GerDracor/delpons-der-ahnherr.xml,Vorige.,0,7,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+48,48,GerDracor/delpons-der-ahnherr.xml,Wilhelm von Eschendorf.,8,31,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+49,49,GerDracor/delpons-der-ahnherr.xml,Viktoria!,0,9,character_speech,1,3,,Wilhelm.,#wilhelm,29.0,MALE,being moved,K,,1819.0,being moved,being moved
+50,50,GerDracor/delpons-der-ahnherr.xml,"Brüderchen, nur noch wenige Augenblicke, und unsere geschlagenen Börsen sind
+            wieder mobil.",10,112,character_speech,1,3,,Wilhelm.,#wilhelm,29.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+51,51,GerDracor/delpons-der-ahnherr.xml,"Ich fürchte, Wilhelm, daß unsere geschlagenen Börsen geschlagen bleiben.",0,72,character_speech,1,3,,Karl.,#karl,30.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+52,52,GerDracor/delpons-der-ahnherr.xml,"Nein, Brüderchen, höre und staune, ich habe so eben alle mitleidige Herzen der ganzen
+            Stadt in Belagerungs-Zustand erklärt.",0,135,character_speech,1,3,,Wilhelm.,#wilhelm,31.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+53,53,GerDracor/delpons-der-ahnherr.xml,Da werden alle mitleidige Herzen der ganzen Stadt sich sehr wacker vertheidigen.,0,80,character_speech,1,3,,Karl.,#karl,32.0,MALE,compassion,K,,1819.0,negative,emotions of suffering and empathy
+54,54,GerDracor/delpons-der-ahnherr.xml,Drum lassen Sie uns wieder auf den alten Moses zurückkommen.,0,60,character_speech,1,3,,Pfiff.,#pfiff,33.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+55,55,GerDracor/delpons-der-ahnherr.xml,"Stelle dir vor, Wilhelm, Pfiff will den alten Moses prellen, den feinsten
+            durchtriebensten Gauner der lebenden Generation.",0,134,character_speech,1,3,,Karl.,#karl,34.0,MALE,abhorrence,K,,1819.0,negative,emotions of rejection
+56,56,GerDracor/delpons-der-ahnherr.xml,"Pfiff, wenn Du den alten Moses prellst, so bist Du das größte Genie unserer Zeit.",0,81,character_speech,1,3,,Wilhelm.,#wilhelm,35.0,MALE,Schadenfreude,K,,1819.0,positive,emotions of pleasure
+57,57,GerDracor/delpons-der-ahnherr.xml,"Nun, das Compliment ist wenigstens nicht übertrieben.",0,53,character_speech,1,3,,Pfiff.,#pfiff,36.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+58,58,GerDracor/delpons-der-ahnherr.xml,"– Hören Sie – Sie wissen, daß ich
+            in meiner Jugend eine wackere Erziehung genossen; ein gewisser Hang zum Uibernatürlichen
+            zog mir, wenn auch nicht von der verstorbenen  Ahnfrau, doch von meiner
+            lebenden Mutter, so manche Ohrfeige zu.",54,324,character_speech,1,3,,Pfiff.,#pfiff,36.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+59,59,GerDracor/delpons-der-ahnherr.xml,"Was kann wohl jetzt natürlicher seyn, als daß
+            ich, da ich keine Geisel mehr zu fürchten habe, jede Veranlassung nütze, um meinen Hang
+            zu befriedigen.",325,498,character_speech,1,3,,Pfiff.,#pfiff,36.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+60,60,GerDracor/delpons-der-ahnherr.xml,Da werde der Teufel klug.,0,25,character_speech,1,3,,Wilhelm.,#wilhelm,37.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+61,61,GerDracor/delpons-der-ahnherr.xml,"Ahnungen – Ahnfrauen – das sind die Quälgeister jetzt, die durch die widrigen
+            Schickungen, schauderhaften Schicksale, die lebenden Enkel in Furcht und Schrecken
+            setzen, und jeden Plunder, der in der Familie verfällt, einige Posttage vorher
+            verkünden.",0,286,character_speech,1,3,,Pfiff.,#pfiff,38.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+62,62,GerDracor/delpons-der-ahnherr.xml,"Sage, Pfiff, ob Du toll bist; was soll das kauderwälsche Zeug?",0,62,character_speech,1,3,,Karl.,#karl,39.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+63,63,GerDracor/delpons-der-ahnherr.xml,Lassen Sie mich.,0,16,character_speech,1,3,,Pfiff.,#pfiff,40.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+64,64,GerDracor/delpons-der-ahnherr.xml,"Laß ihn, Brüderchen, ich ahne schon, daß Musje Pfiff einen verschmitzten Kniff zu Tage
+            fördern wird.",0,112,character_speech,1,3,,Wilhelm.,#wilhelm,41.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+65,65,GerDracor/delpons-der-ahnherr.xml,"So hoffe ich, wenn es Gottes Wille ist.",0,39,character_speech,1,3,,Pfiff.,#pfiff,42.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+66,66,GerDracor/delpons-der-ahnherr.xml,Also weiter.,40,52,character_speech,1,3,,Pfiff.,#pfiff,42.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+67,67,GerDracor/delpons-der-ahnherr.xml,"Ich gehe, um deutlicher zu reden,
+               heute Abend noch zu Moses, um ihn hieher zu bringen.",53,154,character_speech,1,3,,Pfiff.,#pfiff,42.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+68,68,GerDracor/delpons-der-ahnherr.xml,Er wird nicht kommen wollen.,0,28,character_speech,1,3,,Karl.,#karl,43.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+69,69,GerDracor/delpons-der-ahnherr.xml,"Er wird sicher kommen, das liegt im Schicksal; denn Sie haben von einem Onkel 5000
+            Thaler in guten Papieren bekommen, die natürlicher Weise, und zwar heute Abend noch,
+            umgesetzt werden müssen.",0,216,character_speech,1,3,,Pfiff.,#pfiff,44.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+70,70,GerDracor/delpons-der-ahnherr.xml,"Ja, dann kommt er gewiß.",0,24,character_speech,1,3,,Wilhelm.,#wilhelm,45.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+71,71,GerDracor/delpons-der-ahnherr.xml,"Ich denke auch, – Nun zur Sache.",0,32,character_speech,1,3,,Pfiff.,#pfiff,46.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+72,72,GerDracor/delpons-der-ahnherr.xml,"Ich trete mit Moses ein, und er findet sie –
+            schwermüthig.",33,103,character_speech,1,3,,Pfiff.,#pfiff,46.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+73,73,GerDracor/delpons-der-ahnherr.xml,(lacht).,0,8,stage_direction,1,3,speech_part,,#karl,47.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+74,74,GerDracor/delpons-der-ahnherr.xml,Schwermüthig?,0,13,character_speech,1,3,,Karl.,#karl,47.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+75,75,GerDracor/delpons-der-ahnherr.xml,"Nun, Brüderchen, die Rolle ist nicht schwierig, wenn man keinen Kreuzer in der Tasche
+            hat.",0,102,character_speech,1,3,,Wilhelm.,#wilhelm,48.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+76,76,GerDracor/delpons-der-ahnherr.xml,"Wie ich Ihnen sage, schwermüthig.",0,33,character_speech,1,3,,Pfiff.,#pfiff,49.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+77,77,GerDracor/delpons-der-ahnherr.xml,Aber worüber?,0,13,character_speech,1,3,,Karl.,#karl,50.0,MALE,being moved,K,,1819.0,being moved,being moved
+78,78,GerDracor/delpons-der-ahnherr.xml,worüber?,14,22,character_speech,1,3,,Karl.,#karl,50.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+79,79,GerDracor/delpons-der-ahnherr.xml,(mit komischem Ernst),0,21,stage_direction,1,3,speech_part,,#pfiff,51.0,MALE,being moved,K,,1819.0,being moved,being moved
+80,80,GerDracor/delpons-der-ahnherr.xml,Wegen des Ahnherrn.,0,19,character_speech,1,3,,Pfiff.,#pfiff,51.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+81,81,GerDracor/delpons-der-ahnherr.xml,(lacht).,0,8,stage_direction,1,3,speech_part,,#wilhelm,52.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+82,82,GerDracor/delpons-der-ahnherr.xml,Nun merk’ ich die ganze Geschichte.,0,35,character_speech,1,3,,Wilhelm,#wilhelm,52.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+83,83,GerDracor/delpons-der-ahnherr.xml,"O Pfiff, das ist excellent ausgedacht, das wird
+            einen herrlichen Spaß geben.",36,124,character_speech,1,3,,Wilhelm,#wilhelm,52.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+84,84,GerDracor/delpons-der-ahnherr.xml,Was Teufel soll denn der Ahnherr bei der Sache?,0,47,character_speech,1,3,,Karl.,#karl,53.0,MALE,being moved,K,,1819.0,being moved,being moved
+85,85,GerDracor/delpons-der-ahnherr.xml,"Nur Geduld, der soll hoffentlich die Hauptrolle dabei spielen.",0,62,character_speech,1,3,,Pfiff.,#pfiff,54.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+86,86,GerDracor/delpons-der-ahnherr.xml,"Laß ihn, Brüderchen!",0,20,character_speech,1,3,,Wilhelm.,#wilhelm,55.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+87,87,GerDracor/delpons-der-ahnherr.xml,Nun geben Sie Acht.,0,19,character_speech,1,3,,Pfiff.,#pfiff,56.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+88,88,GerDracor/delpons-der-ahnherr.xml,"Von diesem Augenblick an wird von dem gesunden Menschenverstande
+            Abschied genommen, und Sie erzählen dem Moses mit fürchterlichen Gebehrden, daß Ihr Herr
+            Großvater die Nacht erschienen sey, und Ihnen die größten Beleidigungen gesagt habe, daß
+            Sie an den alten Moses auf die leichtsinnigste Weise einen Theil ihres Vermögens
+            vergeudet hätten.",20,409,character_speech,1,3,,Pfiff.,#pfiff,56.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+89,89,GerDracor/delpons-der-ahnherr.xml,"Pfiff, Du wirst sehen, daß diese Marmorseele sich den Teufel etwas aus einem meiner
+            Urgroßväter macht.",0,114,character_speech,1,3,,Karl.,#karl,57.0,MALE,abhorrence,K,,1819.0,negative,emotions of rejection
+90,90,GerDracor/delpons-der-ahnherr.xml,"Brüderchen, lasse ihn.",0,22,character_speech,1,3,,Wilhelm.,#wilhelm,58.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+91,91,GerDracor/delpons-der-ahnherr.xml,"Weiter, weiter!",23,38,character_speech,1,3,,Wilhelm.,#wilhelm,58.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+92,92,GerDracor/delpons-der-ahnherr.xml,"Von nun an überlasse ich es Ihnen, auf welche Weise Sie ihn einige Augenblicke fesseln;
+            doch muß es auch auf eine gewisse Spannung berechnet seyn, damit der furchtsame Jude
+            empfänglich wird, wenn der Ahnherr erscheint.",0,242,character_speech,1,3,,Pfiff.,#pfiff,59.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+93,93,GerDracor/delpons-der-ahnherr.xml,Herrlich!,0,9,character_speech,1,3,,Wilhelm.,#wilhelm,60.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+94,94,GerDracor/delpons-der-ahnherr.xml,herrlich!,10,19,character_speech,1,3,,Wilhelm.,#wilhelm,60.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+95,95,GerDracor/delpons-der-ahnherr.xml,"Pfiff, ich bin der Ahnherr.",20,47,character_speech,1,3,,Wilhelm.,#wilhelm,60.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+96,96,GerDracor/delpons-der-ahnherr.xml,"Sie haben zu befehlen, um so besser kann ich donnern und blitzen.",0,65,character_speech,1,3,,Pfiff.,#pfiff,61.0,MALE,"admiration, reverence",K,,1819.0,positive,emotions of affection
+97,97,GerDracor/delpons-der-ahnherr.xml,"Du bist ein durchtriebener Spitzbube, Pfiff; aber ich sage es dir, so ein Gauner läßt
+            sich wahrhaftig durch meine Ahnherren nicht verblüffen.",0,153,character_speech,1,3,,Karl.,#karl,62.0,MALE,abhorrence,K,,1819.0,negative,emotions of rejection
+98,98,GerDracor/delpons-der-ahnherr.xml,Wo denken Sie hin.,0,18,character_speech,1,3,,Pfiff.,#pfiff,63.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+99,99,GerDracor/delpons-der-ahnherr.xml,"Sie werden doch nicht glauben, daß ich Ihre ehrwürdigen Urväter in
+               Bewegung setzen werde, um dem geplünderten Enkel einige Münzen zu
+            verschaffen?",19,191,character_speech,1,3,,Pfiff.,#pfiff,63.0,MALE,being moved,K,,1819.0,being moved,being moved
+100,100,GerDracor/delpons-der-ahnherr.xml,"Nun, wer soll denn eigentlich erscheinen?",0,41,character_speech,1,3,,Karl.,#karl,64.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+101,101,GerDracor/delpons-der-ahnherr.xml,Der Ahnherr vom alten Moses.,0,28,character_speech,1,3,,Pfiff.,#pfiff,65.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+102,102,GerDracor/delpons-der-ahnherr.xml,(lacht).,0,8,stage_direction,1,3,speech_part,,#wilhelm,66.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+103,103,GerDracor/delpons-der-ahnherr.xml,Der Ahnherr vom alten Moses?,0,28,character_speech,1,3,,Wilhelm,#wilhelm,66.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+104,104,GerDracor/delpons-der-ahnherr.xml,O!,29,31,character_speech,1,3,,Wilhelm,#wilhelm,66.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+105,105,GerDracor/delpons-der-ahnherr.xml,das ist prächtig.,32,49,character_speech,1,3,,Wilhelm,#wilhelm,66.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+106,106,GerDracor/delpons-der-ahnherr.xml,"Wenn er mich nun für den Messias
+            ansieht, das könnte eine schöne Konfusion geben.",50,143,character_speech,1,3,,Wilhelm,#wilhelm,66.0,MALE,being moved,K,,1819.0,being moved,being moved
+107,107,GerDracor/delpons-der-ahnherr.xml,Ha!,144,147,character_speech,1,3,,Wilhelm,#wilhelm,66.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+108,108,GerDracor/delpons-der-ahnherr.xml,ha!,148,151,character_speech,1,3,,Wilhelm,#wilhelm,66.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+109,109,GerDracor/delpons-der-ahnherr.xml,ha!,152,155,character_speech,1,3,,Wilhelm,#wilhelm,66.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+110,110,GerDracor/delpons-der-ahnherr.xml,(lacht).,0,8,stage_direction,1,3,speech_part,,#karl,67.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+111,111,GerDracor/delpons-der-ahnherr.xml,Das ist wirklich ein Original-Gauner-Kniff.,0,43,character_speech,1,3,,Karl,#karl,67.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+112,112,GerDracor/delpons-der-ahnherr.xml,"Bitte gehorsamst, nur ein schwacher Versuch eines bescheidenen Dilettanten.",0,75,character_speech,1,3,,Pfiff.,#pfiff,68.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+113,113,GerDracor/delpons-der-ahnherr.xml,"Ja, Pfiff; aber ich fürchte, mit der Täuschung wird es auch bescheiden aussehen.",0,80,character_speech,1,3,,Karl.,#karl,69.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+114,114,GerDracor/delpons-der-ahnherr.xml,Lassen Sie mich nur.,0,20,character_speech,1,3,,Pfiff.,#pfiff,70.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+115,115,GerDracor/delpons-der-ahnherr.xml,"Die alte Fallthüre hier im Zimmer, worüber Sie beinahe die Beine
+            gebrochen hätten, führt gerade nach meiner Kammer; auch wohnt ein jüdischer Trödler hier
+            im Hause; nur noch wenige Augenblicke und",21,240,character_speech,1,3,,Pfiff.,#pfiff,70.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+116,116,GerDracor/delpons-der-ahnherr.xml, alle Hauptsachen sind beseitigt.,0,33,character_speech,1,3,,Pfiff.,#pfiff,70.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+117,117,GerDracor/delpons-der-ahnherr.xml,(zu Wilhelm),0,12,stage_direction,1,3,inner_speech,,#pfiff,70.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+118,118,GerDracor/delpons-der-ahnherr.xml," Sie, Herr von Eschendorf, werden gefälligst, so wie ich
+            mit Moses ankomme, sich auf Ihren Posten bemühen.",0,118,character_speech,1,3,,Pfiff.,#pfiff,70.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+119,119,GerDracor/delpons-der-ahnherr.xml,"Ja, Pfiff; Deine Sokratische Weisheit bewundernd, kannst du auf meinen vollkommenen
+            Gehorsam rechnen.",0,113,character_speech,1,3,,Wilhelm.,#wilhelm,71.0,MALE,"admiration, reverence",K,,1819.0,positive,emotions of affection
+120,120,GerDracor/delpons-der-ahnherr.xml,"Nun, ich bin mit Allem zufrieden, wenn der Teufel einmal an die Wand gemahlt werden
+            soll, so mag es denn in Gottes Namen geschehen.",0,143,character_speech,1,3,,Karl.,#karl,72.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+121,121,GerDracor/delpons-der-ahnherr.xml,"So gehe ich und sinne zugleich auf die kräftigen Worte des Ahnherrn, worauf dem Moses
+            der Geldbeutel schicksalsmäßig, und zwar von Rechtswegen, gefegt werden soll.",0,175,character_speech,1,3,,Pfiff.,#pfiff,73.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+122,122,GerDracor/delpons-der-ahnherr.xml,(ab),0,4,stage_direction,1,3,inner_speech,,#pfiff,73.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+123,123,GerDracor/delpons-der-ahnherr.xml,"Vorige, ohne Pfiff.",0,19,stage_direction,1,4,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+124,124,GerDracor/delpons-der-ahnherr.xml,"Brüderchen, das wird ein köstlicher Spaß werden, ich spreche, wie Du weißt, das
+            sogenannte",0,102,character_speech,1,4,,Wilhelm.,#wilhelm,74.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+125,125,GerDracor/delpons-der-ahnherr.xml," Jüdisch-Deutsch nicht übel, und werde den Kerl so lange mit
+            Redensarten martern, bis er Dir die gestohlenen 5000 Thaler wieder herausgibt, wenn er
+            nicht etwa vor Schreck während der Unterhandlung seinen Geist aufgibt.",0,242,character_speech,1,4,,Wilhelm.,#wilhelm,74.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+126,126,GerDracor/delpons-der-ahnherr.xml,"(er thut es; das Theater
+              wird im Hintergrunde etwas dunkel)",0,73,stage_direction,1,4,inner_speech,,#wilhelm,74.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+127,127,GerDracor/delpons-der-ahnherr.xml,.,0,1,character_speech,1,4,,Wilhelm.,#wilhelm,74.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+128,128,GerDracor/delpons-der-ahnherr.xml,"Halbdunkel hat schon an und für sich etwas
+            Schauerliches.",2,71,character_speech,1,4,,Wilhelm.,#wilhelm,74.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+129,129,GerDracor/delpons-der-ahnherr.xml,(lacht).,0,8,stage_direction,1,4,speech_part,,#karl,75.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+130,130,GerDracor/delpons-der-ahnherr.xml,"Merkwürdig wär’s in der That, im Jahre 1827 einen Juden noch zu prellen.",0,72,character_speech,1,4,,Karl,#karl,75.0,MALE,being moved,K,,1819.0,being moved,being moved
+131,131,GerDracor/delpons-der-ahnherr.xml,"Auf mich kannst Du dich verlassen; sieh Du nur zu, daß Du bei Deiner Schwermuth nicht
+            aus der Rolle fällst.",0,119,character_speech,1,4,,Wilhelm.,#wilhelm,76.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+132,132,GerDracor/delpons-der-ahnherr.xml,"Und wenn es uns gelingt, so muß ja ein policirter Staat uns eine
+            extraordinaire Prämie noch obenein auszahlen lassen.",120,249,character_speech,1,4,,Wilhelm.,#wilhelm,76.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+133,133,GerDracor/delpons-der-ahnherr.xml,Die Vorigen.,0,12,stage_direction,1,5,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+134,134,GerDracor/delpons-der-ahnherr.xml,Pfiff.,13,19,stage_direction,1,5,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+135,135,GerDracor/delpons-der-ahnherr.xml,"Nun, meine Herren, wenn nicht der Zufall die glücklichen Ereignisse des Lebens
+            bestimmt, so sind wir alle drei in einem sehr guten Planeten geboren.",0,160,character_speech,1,5,,Pfiff.,#pfiff,77.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+136,136,GerDracor/delpons-der-ahnherr.xml,Sprich.,0,7,character_speech,1,5,,Wilhelm.,#wilhelm,78.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+137,137,GerDracor/delpons-der-ahnherr.xml,Moses wird in wenig Augenblicken hier seyn.,0,43,character_speech,1,5,,Pfiff.,#pfiff,79.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+138,138,GerDracor/delpons-der-ahnherr.xml,"Ich fand ihn vor unserer Thüre, schon von
+            Weitem schüttelte er mit dem Kopf, doch die Nachricht von den angekommenen Papieren
+            magnetisirte ihn, und in wenigen Augenblicken waren wir im schönsten Rapport.",44,271,character_speech,1,5,,Pfiff.,#pfiff,79.0,MALE,being moved,K,,1819.0,being moved,being moved
+139,139,GerDracor/delpons-der-ahnherr.xml,"Dem
+            Trödler habe ich auf gutes Glück eine Menge fabelhafter Kleidungen weggenommen, wobei
+            eine alte polnische Judenmütze meine Aufmerksamkeit ganz besonders auf sich gezogen hat.",272,474,character_speech,1,5,,Pfiff.,#pfiff,79.0,MALE,love,K,,1819.0,positive,emotions of affection
+140,140,GerDracor/delpons-der-ahnherr.xml,Willig gab er Alles für ein versprochenes Trinkgeld.,487,539,character_speech,1,5,,Pfiff.,#pfiff,79.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+141,141,GerDracor/delpons-der-ahnherr.xml,"Jetzt ist aber keine Zeit zu
+            verlieren.",540,591,character_speech,1,5,,Pfiff.,#pfiff,79.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+142,142,GerDracor/delpons-der-ahnherr.xml,(zu Karl),0,9,stage_direction,1,5,inner_speech,,#pfiff,79.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+143,143,GerDracor/delpons-der-ahnherr.xml," Drei fürchterliche Schläge sind das Zeichen, daß wir",0,53,character_speech,1,5,,Pfiff.,#pfiff,79.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+144,144,GerDracor/delpons-der-ahnherr.xml," vorbereitet sind, bis dahin müssen Sie den Moses schon unterhalten.",0,68,character_speech,1,5,,Pfiff.,#pfiff,79.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+145,145,GerDracor/delpons-der-ahnherr.xml,"Nun, Vetterchen, Adieu.",0,23,character_speech,1,5,,Wilhelm.,#wilhelm,80.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+146,146,GerDracor/delpons-der-ahnherr.xml,Im Reich der Schattenwelt sehen wir uns wieder.,24,71,character_speech,1,5,,Wilhelm.,#wilhelm,80.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+147,147,GerDracor/delpons-der-ahnherr.xml,Wenn nur der Ahnherr nicht dummes Zeug macht.,0,45,character_speech,1,5,,Karl.,#karl,81.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+148,148,GerDracor/delpons-der-ahnherr.xml,"Ich fürchte, ich fürchte!",46,71,character_speech,1,5,,Karl.,#karl,81.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+149,149,GerDracor/delpons-der-ahnherr.xml,Dafür bürgt mein Talent – mein Genie.,0,37,character_speech,1,5,,Wilhelm.,#wilhelm,82.0,MALE,"admiration, reverence",K,,1819.0,positive,emotions of affection
+150,150,GerDracor/delpons-der-ahnherr.xml,"Kommen Sie, kommen Sie, es ist die höchste Zeit.",0,48,character_speech,1,5,,Pfiff.,#pfiff,83.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+151,151,GerDracor/delpons-der-ahnherr.xml,Nun in Gottes Namen!,0,20,character_speech,1,5,,Wilhelm.,#wilhelm,84.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+152,152,GerDracor/delpons-der-ahnherr.xml,(Wilhelm und Pfiff rasch ab),0,28,stage_direction,1,5,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+153,153,GerDracor/delpons-der-ahnherr.xml,(allein).,0,9,stage_direction,1,6,speech_part,,#karl,85.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+154,154,GerDracor/delpons-der-ahnherr.xml,"Zu welchen verdammten Possen muß man seine Zuflucht nehmen, wenn man an einer
+            unchristlichen Seele einen christlichen Versuch machen will.",0,150,character_speech,1,6,,Karl,#karl,85.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+155,155,GerDracor/delpons-der-ahnherr.xml,"Wenn es gelingt, so ist es
+            in der That ein Hauptspaß, und wenn es nicht gelingt?",151,243,character_speech,1,6,,Karl,#karl,85.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+156,156,GerDracor/delpons-der-ahnherr.xml,"I nun, eine Posse,
+            die immer noch lächerlich genug ist.",245,312,character_speech,1,6,,Karl,#karl,85.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+157,157,GerDracor/delpons-der-ahnherr.xml,"– Doch stille, ich höre Jemanden kommen.",313,353,character_speech,1,6,,Karl,#karl,85.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+158,158,GerDracor/delpons-der-ahnherr.xml,Karl.,0,5,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+159,159,GerDracor/delpons-der-ahnherr.xml,Moses.,6,12,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+160,160,GerDracor/delpons-der-ahnherr.xml,"Gutten Abend, Herr von Eschendorf; der Herr Pfiff hot mer gesogen, daß Se hoben
+            gekriegt Pepierchen, wo der Moses wieder helfen soll, und der olte Moses, der aus dem
+            Helfen eine wohre Profession macht, is gekümmen, um zu helfen.",0,252,character_speech,1,7,,Moses.,#moses,86.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+161,161,GerDracor/delpons-der-ahnherr.xml,(ganz schwermüthig),0,19,stage_direction,1,7,speech_part,,#karl,87.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+162,162,GerDracor/delpons-der-ahnherr.xml,Moses!,0,6,character_speech,1,7,,Karl.,#karl,87.0,MALE,being moved,K,,1819.0,being moved,being moved
+163,163,GerDracor/delpons-der-ahnherr.xml,– Moses!,7,15,character_speech,1,7,,Karl.,#karl,87.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+164,164,GerDracor/delpons-der-ahnherr.xml,– Moses!,16,24,character_speech,1,7,,Karl.,#karl,87.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+165,165,GerDracor/delpons-der-ahnherr.xml,– Gott!,25,32,character_speech,1,7,,Karl.,#karl,87.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+166,166,GerDracor/delpons-der-ahnherr.xml,– Ach!,33,39,character_speech,1,7,,Karl.,#karl,87.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+167,167,GerDracor/delpons-der-ahnherr.xml,–,40,41,character_speech,1,7,,Karl.,#karl,87.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+168,168,GerDracor/delpons-der-ahnherr.xml,"Gottes Wunder, Se hoben gekriegt de Pepierchen und Se seufzen, was hoben Se gethon
+            gestern, als Se hoben noch nischt gehat de Pepierchen?",0,149,character_speech,1,7,,Moses.,#moses,88.0,MALE,being moved,K,,1819.0,being moved,being moved
+169,169,GerDracor/delpons-der-ahnherr.xml,Sogen Se?,150,159,character_speech,1,7,,Moses.,#moses,88.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+170,170,GerDracor/delpons-der-ahnherr.xml,"Ach, Moses!",0,11,character_speech,1,7,,Karl.,#karl,89.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+171,171,GerDracor/delpons-der-ahnherr.xml,zwischen gestern und heute liegt das Weltgericht.,12,61,character_speech,1,7,,Karl.,#karl,89.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+172,172,GerDracor/delpons-der-ahnherr.xml,"Ich bitte Se, Herr von Eschendorf, was sprechen Se vom Weltgericht, was thu ich mit dem
+            Weltgericht, wenn ich doch will sehen de Pepierchen aus der Weltgeschichte.",0,175,character_speech,1,7,,Moses.,#moses,90.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+173,173,GerDracor/delpons-der-ahnherr.xml,(springt auf),0,13,stage_direction,1,7,speech_part,,#karl,91.0,MALE,being moved,K,,1819.0,being moved,being moved
+174,174,GerDracor/delpons-der-ahnherr.xml,Moses!,0,6,character_speech,1,7,,Karl.,#karl,91.0,MALE,being moved,K,,1819.0,being moved,being moved
+175,175,GerDracor/delpons-der-ahnherr.xml,Moses!,7,13,character_speech,1,7,,Karl.,#karl,91.0,MALE,being moved,K,,1819.0,being moved,being moved
+176,176,GerDracor/delpons-der-ahnherr.xml,siehst Du nichts – dort schleicht er hin – der Geist!,14,67,character_speech,1,7,,Karl.,#karl,91.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+177,177,GerDracor/delpons-der-ahnherr.xml,"siehst Du ihn
+            nicht, Moses?",68,107,character_speech,1,7,,Karl.,#karl,91.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+178,178,GerDracor/delpons-der-ahnherr.xml,– Oh!,108,113,character_speech,1,7,,Karl.,#karl,91.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+179,179,GerDracor/delpons-der-ahnherr.xml,(furchtsam),0,11,stage_direction,1,7,speech_part,,#moses,92.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+180,180,GerDracor/delpons-der-ahnherr.xml,"Herr von Eschendorf, was sprechen Se; Se machen mer Angst, wenn ich nischt wer e braver
+            Mann, ich kennte mich ferchten.",0,131,character_speech,1,7,,Moses.,#moses,92.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+181,181,GerDracor/delpons-der-ahnherr.xml,"Wenn Du Muth hast, so höre meine fürchterliche Geschichte.",0,58,character_speech,1,7,,Karl.,#karl,93.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+182,182,GerDracor/delpons-der-ahnherr.xml,"Herr von Eschendorf, warum sollt’ ich nischt hoben Muth, Se wessen ja, daß mei Sohn,
+            der Schmul, ist mit gewesen, wie die Völker sich hoben geschlogen grausam.",0,171,character_speech,1,7,,Moses.,#moses,94.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+183,183,GerDracor/delpons-der-ahnherr.xml,Nun dann höre und staune!,0,25,character_speech,1,7,,Karl.,#karl,95.0,MALE,being moved,K,,1819.0,being moved,being moved
+184,184,GerDracor/delpons-der-ahnherr.xml,"Ich bin gespannt, wahrhaftig recht gespannt.",0,44,character_speech,1,7,,Moses.,#moses,96.0,MALE,being moved,K,,1819.0,being moved,being moved
+185,185,GerDracor/delpons-der-ahnherr.xml,(höchst schwermüthig),0,21,stage_direction,1,7,speech_part,,#karl,97.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+186,186,GerDracor/delpons-der-ahnherr.xml,"Moses, mir ist mein Urgroßvater erschienen.",0,43,character_speech,1,7,,Karl.,#karl,97.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+187,187,GerDracor/delpons-der-ahnherr.xml,"Verseien Se, wor’s e reicher Herr?",0,34,character_speech,1,7,,Moses.,#moses,98.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+188,188,GerDracor/delpons-der-ahnherr.xml,"(hier fallen drei Schläge, Moses erschrickt)",0,44,stage_direction,1,7,pre_speech,,,,,being moved,K,,1819.0,being moved,being moved
+189,189,GerDracor/delpons-der-ahnherr.xml,"Moses, frevle nicht.",0,20,character_speech,1,7,,Karl.,#karl,99.0,MALE,abhorrence,K,,1819.0,negative,emotions of rejection
+190,190,GerDracor/delpons-der-ahnherr.xml,"Verseien Se, ich wollte sogen: es wor gewiß en recht braver Herr.",0,65,character_speech,1,7,,Moses.,#moses,100.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+191,191,GerDracor/delpons-der-ahnherr.xml,Ein vortrefflicher Mann.,0,24,character_speech,1,7,,Karl.,#karl,101.0,MALE,"admiration, reverence",K,,1819.0,positive,emotions of affection
+192,192,GerDracor/delpons-der-ahnherr.xml,"Doch hat er keine Ruhe im Grabe, bis daß ich wieder den Theil
+            meines väterlichen Vermögens an mich gebracht habe, um den ich betrogen wurde.",25,177,character_speech,1,7,,Karl.,#karl,101.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+193,193,GerDracor/delpons-der-ahnherr.xml,"Do müssen Se nischt druff geben, de alten Leute hoben manchmol wunderliche
+            Gedanken.",0,96,character_speech,1,7,,Moses.,#moses,102.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+194,194,GerDracor/delpons-der-ahnherr.xml,Dann rief er dreimal Wehe!,0,26,character_speech,1,7,,Karl.,#karl,103.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+195,195,GerDracor/delpons-der-ahnherr.xml,über Dich.,27,37,character_speech,1,7,,Karl.,#karl,103.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+196,196,GerDracor/delpons-der-ahnherr.xml,(in höchster Angst),0,19,stage_direction,1,7,speech_part,,#moses,104.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+197,197,GerDracor/delpons-der-ahnherr.xml,"Mein Gott, er hot mer nischt gekennt, wie  kann er rufen Wehe über en armen
+            Juden, den er hot nischt gekennt?",0,121,character_speech,1,7,,Moses.,#moses,104.0,MALE,compassion,K,,1819.0,negative,emotions of suffering and empathy
+198,198,GerDracor/delpons-der-ahnherr.xml,O!,0,2,character_speech,1,7,,Karl.,#karl,105.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+199,199,GerDracor/delpons-der-ahnherr.xml,"frevle nicht, Moses; wer weiß, ob Dir nicht selbst ein gleiches Schicksal wird.",3,82,character_speech,1,7,,Karl.,#karl,105.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+200,200,GerDracor/delpons-der-ahnherr.xml,"Ne, Herr von Eschendorf, davor sind Se sicher, mein Großtate wor och nischt weiter wie
+            e armer Jud, der kann gewiß nischt machen ene so kostspielige Reise.",0,167,character_speech,1,7,,Moses.,#moses,106.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+201,201,GerDracor/delpons-der-ahnherr.xml,(Blitz und Donner.,0,18,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+202,202,GerDracor/delpons-der-ahnherr.xml,Wilhelm kommt aus der Versenkung herauf),19,59,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+203,203,GerDracor/delpons-der-ahnherr.xml,Gott!,0,5,character_speech,1,7,,Karl.,#karl,107.0,MALE,being moved,K,,1819.0,being moved,being moved
+204,204,GerDracor/delpons-der-ahnherr.xml,"Moses, sieh!",6,18,character_speech,1,7,,Karl.,#karl,107.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+205,205,GerDracor/delpons-der-ahnherr.xml,um Gotteswillen sieh!,19,40,character_speech,1,7,,Karl.,#karl,107.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+206,206,GerDracor/delpons-der-ahnherr.xml,(sieht sich ganz erschrocken um),0,32,stage_direction,1,7,speech_part,,#moses,108.0,MALE,being moved,K,,1819.0,being moved,being moved
+207,207,GerDracor/delpons-der-ahnherr.xml,Gottes Wunder!,0,14,character_speech,1,7,,Moses.,#moses,108.0,MALE,being moved,K,,1819.0,being moved,being moved
+208,208,GerDracor/delpons-der-ahnherr.xml,Gottes Wunder!,15,29,character_speech,1,7,,Moses.,#moses,108.0,MALE,being moved,K,,1819.0,being moved,being moved
+209,209,GerDracor/delpons-der-ahnherr.xml,"der Großtate, der alte Moses Schmul, wie er geleibt und
+            gelebt!",30,105,character_speech,1,7,,Moses.,#moses,108.0,MALE,"admiration, reverence",K,,1819.0,positive,emotions of affection
+210,210,GerDracor/delpons-der-ahnherr.xml,(er sinkt halb ohnmächtig in einen Sessel.,0,42,stage_direction,1,7,pre_speech,,,,,suffering,K,,1819.0,negative,emotions of suffering and empathy
+211,211,GerDracor/delpons-der-ahnherr.xml,Donner und Blitz.,43,60,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+212,212,GerDracor/delpons-der-ahnherr.xml,"Wilhelm
+          verschwindet)",61,92,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+213,213,GerDracor/delpons-der-ahnherr.xml,"Moses, sage was ist Dir geschehen?",0,34,character_speech,1,7,,Karl.,#karl,109.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+214,214,GerDracor/delpons-der-ahnherr.xml,(erhohlt sich und sieht sich ängstlich um),0,42,stage_direction,1,7,speech_part,,#moses,110.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+215,215,GerDracor/delpons-der-ahnherr.xml,"Es war e Trom, mer kenn nischt druff geben.",0,43,character_speech,1,7,,Moses.,#moses,110.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+216,216,GerDracor/delpons-der-ahnherr.xml,(es fallen wieder drei Schläge),0,31,stage_direction,1,7,speech_part,,#moses,110.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+217,217,GerDracor/delpons-der-ahnherr.xml,"Ne es war ken Trom, mer kenn wos druff geben.",0,45,character_speech,1,7,,Moses.,#moses,110.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+218,218,GerDracor/delpons-der-ahnherr.xml,"Herrn von Eschendorf, Se hoben mer
+            gebeten gestern um 200 Dukaten, Se kennen Se kriegen.",46,146,character_speech,1,7,,Moses.,#moses,110.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+219,219,GerDracor/delpons-der-ahnherr.xml,"Moses ich sehe, daß meine Lage Dich rührt, gib mir 500 Dukaten, dann hilfst Du mir
+            wahrhaft.",0,104,character_speech,1,7,,Karl.,#karl,111.0,MALE,compassion,K,,1819.0,negative,emotions of suffering and empathy
+220,220,GerDracor/delpons-der-ahnherr.xml,500 Dukaten kenn ich nischt geben.,0,34,character_speech,1,7,,Moses.,#moses,112.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+221,221,GerDracor/delpons-der-ahnherr.xml,"Globen Se mer als ehrlicher Mann, ich schwere Se su,
+            daß ich selbst nischt hobe 500 Dukaten.",35,139,character_speech,1,7,,Moses.,#moses,112.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+222,222,GerDracor/delpons-der-ahnherr.xml,(Blitz und Donner.,0,18,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+223,223,GerDracor/delpons-der-ahnherr.xml,Wilhelm erscheint),19,37,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+224,224,GerDracor/delpons-der-ahnherr.xml,(so wie er den Donner hört),0,27,stage_direction,1,7,speech_part,,#moses,113.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+225,225,GerDracor/delpons-der-ahnherr.xml,"Ich schwöre Se su, daß ich kenn geben de 500 Dukaten.",0,53,character_speech,1,7,,Moses.,#moses,113.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+226,226,GerDracor/delpons-der-ahnherr.xml,(mit hohler Stimme und mit jüdisch-deutschem Accent),0,52,stage_direction,1,7,speech_part,,#wilhelm,114.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+227,227,GerDracor/delpons-der-ahnherr.xml,"Moses, Du bist e Schuft?",0,24,character_speech,1,7,,Wilhelm.,#wilhelm,114.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+228,228,GerDracor/delpons-der-ahnherr.xml,(in höchster Angst),0,19,stage_direction,1,7,speech_part,,#moses,115.0,MALE,fear,K,,1819.0,negative,emotions of anxiety
+229,229,GerDracor/delpons-der-ahnherr.xml,"Herr Moses Schmul, mer hoben gehot schlechte Zeiten.",0,52,character_speech,1,7,,Moses.,#moses,115.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+230,230,GerDracor/delpons-der-ahnherr.xml,(mit steigender Betonung),0,25,stage_direction,1,7,speech_part,,#wilhelm,116.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+231,231,GerDracor/delpons-der-ahnherr.xml,Du bist e Schuft!,0,17,character_speech,1,7,,Wilhelm.,#wilhelm,116.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+232,232,GerDracor/delpons-der-ahnherr.xml,"Mer hoben e schlechten Cors, und sogen Se selbst, ob ich nischt bin e rechtlicher Mann,
+            wenn ich gebe 500 Dukaten uff nischt?",0,137,character_speech,1,7,,Moses.,#moses,117.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+233,233,GerDracor/delpons-der-ahnherr.xml,Du bist e Schuft!,0,17,character_speech,1,7,,Wilhelm.,#wilhelm,118.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+234,234,GerDracor/delpons-der-ahnherr.xml,"(Blitz und Donner, Wilhelm verschwindet)",0,40,stage_direction,1,7,pre_speech,,,,,being moved,K,,1819.0,being moved,being moved
+235,235,GerDracor/delpons-der-ahnherr.xml,(ganz erschöpft),0,16,stage_direction,1,7,speech_part,,#moses,119.0,MALE,being moved,K,,1819.0,being moved,being moved
+236,236,GerDracor/delpons-der-ahnherr.xml,"Herr von Eschendorf, lassen Se mir gehn, Se hoben mer gemacht ene große Fatalität an
+            mei Schicksal, Se müssen mer bezohlen e Schmerzengeld an meine Fäntesie.",0,169,character_speech,1,7,,Moses.,#moses,119.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+237,237,GerDracor/delpons-der-ahnherr.xml,"(will
+              fort)",0,25,stage_direction,1,7,inner_speech,,#moses,119.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+238,238,GerDracor/delpons-der-ahnherr.xml,(hält ihn zurück),0,17,stage_direction,1,7,speech_part,,#karl,120.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+239,239,GerDracor/delpons-der-ahnherr.xml,"Moses, Du wirst mich doch in dieser fürchterlichen Stunde nicht verlassen wollen?",0,81,character_speech,1,7,,Karl.,#karl,120.0,MALE,being moved,K,,1819.0,being moved,being moved
+240,240,GerDracor/delpons-der-ahnherr.xml,"Lassen Se mer gehn, ich geb Se hier gleich de 500 Dukoten.",0,58,character_speech,1,7,,Moses.,#moses,121.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+241,241,GerDracor/delpons-der-ahnherr.xml,"Die arme Seele meines Ahnherrn muß beruhigt  werden, gib mir die 5000
+            Thaler zurück, um die Du mich betrogen hast.",0,126,character_speech,1,7,,Karl.,#karl,122.0,MALE,compassion,K,,1819.0,negative,emotions of suffering and empathy
+242,242,GerDracor/delpons-der-ahnherr.xml,"De 5000 Thaler gebe ich nischt zurück, und wenn der alte Moses Schmul, der Großtate,
+            und wenn er mer serreißt.",0,122,character_speech,1,7,,Moses.,#moses,123.0,MALE,abhorrence,K,,1819.0,negative,emotions of rejection
+243,243,GerDracor/delpons-der-ahnherr.xml,"(starker Donner und Blitz, Wilhelm erscheint)",0,45,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+244,244,GerDracor/delpons-der-ahnherr.xml,"Moses, Du bist verloren.",0,24,character_speech,1,7,,Karl.,#karl,124.0,MALE,despair,K,,1819.0,negative,emotions of anxiety
+245,245,GerDracor/delpons-der-ahnherr.xml,Au wei!,0,7,character_speech,1,7,,Moses.,#moses,125.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+246,246,GerDracor/delpons-der-ahnherr.xml,er serreißt mer.,8,24,character_speech,1,7,,Moses.,#moses,125.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+247,247,GerDracor/delpons-der-ahnherr.xml,"(wirft sich unter komischer Gebehrde auf den
+              Stuhl)",0,65,stage_direction,1,7,inner_speech,,#moses,125.0,MALE,being moved,K,,1819.0,being moved,being moved
+248,248,GerDracor/delpons-der-ahnherr.xml,"Moses Du bist e Schuft, vernimm zum ersten und letzten Mol Dei Schicksal.",0,73,character_speech,1,7,,Wilhelm.,#wilhelm,126.0,MALE,abhorrence,K,,1819.0,negative,emotions of rejection
+249,249,GerDracor/delpons-der-ahnherr.xml,"Herr Moses Schmul, Se sind doch immer gewesen e braver Herr.",0,60,character_speech,1,7,,Moses.,#moses,127.0,MALE,"admiration, reverence",K,,1819.0,positive,emotions of affection
+250,250,GerDracor/delpons-der-ahnherr.xml,"Ich bitte, mochen Se es
+            billig mit mein armes Schicksal, ich will ja gerne eppes thun, wenn dem Herrn Großtate e
+            Gefallen geschieht.",61,217,character_speech,1,7,,Moses.,#moses,127.0,MALE,compassion,K,,1819.0,negative,emotions of suffering and empathy
+251,251,GerDracor/delpons-der-ahnherr.xml,"Seit drei und vierzig Jahren wandle ich uf Erden und hobe im Grabe nischt Ruh, weil ich
+            hobe gethan e Schwur, daß meine Enkel sullen seyn ehrliche Leut.",0,164,character_speech,1,7,,Wilhelm.,#wilhelm,128.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+252,252,GerDracor/delpons-der-ahnherr.xml,"Tate, warum host Du geschworen so e fürchterlichen Schwur?",0,58,character_speech,1,7,,Moses.,#moses,129.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+253,253,GerDracor/delpons-der-ahnherr.xml,Schweig.,0,8,character_speech,1,7,,Wilhelm.,#wilhelm,130.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+254,254,GerDracor/delpons-der-ahnherr.xml,"Du host gemacht e Geschäft, wo Du host betrogen um 5000 Tholer.",9,72,character_speech,1,7,,Wilhelm.,#wilhelm,130.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+255,255,GerDracor/delpons-der-ahnherr.xml,"Du host
+            genommen Zinsen, de mer nischt können vertrogen im Himmel.",73,151,character_speech,1,7,,Wilhelm.,#wilhelm,130.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+256,256,GerDracor/delpons-der-ahnherr.xml,Gottes Wunder!,0,14,character_speech,1,7,,Moses.,#moses,131.0,MALE,being moved,K,,1819.0,being moved,being moved
+257,257,GerDracor/delpons-der-ahnherr.xml,mer kennen se hier unter recht gut vertrogen.,15,60,character_speech,1,7,,Moses.,#moses,131.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+258,258,GerDracor/delpons-der-ahnherr.xml,Was hilft das Gesäure; höre Dei Schicksal.,0,42,character_speech,1,7,,Wilhelm.,#wilhelm,132.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+259,259,GerDracor/delpons-der-ahnherr.xml,"Du mußt geben de 5000 Tholer wieder
+            heraus.",43,98,character_speech,1,7,,Wilhelm.,#wilhelm,132.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+260,260,GerDracor/delpons-der-ahnherr.xml,"Tate, ich kenn nischt geben.",0,28,character_speech,1,7,,Moses.,#moses,133.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+261,261,GerDracor/delpons-der-ahnherr.xml,"Moses, ich gebe Dir den Fluch.",0,30,character_speech,1,7,,Wilhelm.,#wilhelm,134.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+262,262,GerDracor/delpons-der-ahnherr.xml,"Tate, was sprechst Du?",0,22,character_speech,1,7,,Moses.,#moses,135.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+263,263,GerDracor/delpons-der-ahnherr.xml,"Höre mei letztes Wort; wenn Du nischt gleich herausgiebst de verbrecherischen 5000
+            Tholer hier uf de Stell, so findest Du taut Deine Memme.",0,151,character_speech,1,7,,Wilhelm.,#wilhelm,136.0,MALE,abhorrence,K,,1819.0,negative,emotions of rejection
+264,264,GerDracor/delpons-der-ahnherr.xml,Meine Memme taut?,0,17,character_speech,1,7,,Moses.,#moses,137.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+265,265,GerDracor/delpons-der-ahnherr.xml,Den Schmul taut.,0,16,character_speech,1,7,,Wilhelm.,#wilhelm,138.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+266,266,GerDracor/delpons-der-ahnherr.xml,Mein Schmul?,0,12,character_speech,1,7,,Moses.,#moses,139.0,MALE,being moved,K,,1819.0,being moved,being moved
+267,267,GerDracor/delpons-der-ahnherr.xml,Gott!,13,18,character_speech,1,7,,Moses.,#moses,139.0,MALE,being moved,K,,1819.0,being moved,being moved
+268,268,GerDracor/delpons-der-ahnherr.xml,Und Du selber sterbst am Galgen!,0,32,character_speech,1,7,,Wilhelm.,#wilhelm,140.0,MALE,abhorrence,K,,1819.0,negative,emotions of rejection
+269,269,GerDracor/delpons-der-ahnherr.xml,"Gottes Wunder, ich sull sterben am Galgen?",0,42,character_speech,1,7,,Moses.,#moses,141.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+270,270,GerDracor/delpons-der-ahnherr.xml,dos überleb’ ich nischt.,43,67,character_speech,1,7,,Moses.,#moses,141.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+271,271,GerDracor/delpons-der-ahnherr.xml,(pathetisch),0,12,stage_direction,1,7,speech_part,,#wilhelm,142.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+272,272,GerDracor/delpons-der-ahnherr.xml,"Moses, mer wird uf e Mol so nüchtern, foß Dich kurz un soge Dei Entschluß.",0,74,character_speech,1,7,,Wilhelm.,#wilhelm,142.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+273,273,GerDracor/delpons-der-ahnherr.xml,(ganz wehmüthig),0,16,stage_direction,1,7,speech_part,,#moses,143.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+274,274,GerDracor/delpons-der-ahnherr.xml,"Tate, kenn ich appeliren?",0,25,character_speech,1,7,,Moses.,#moses,143.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+275,275,GerDracor/delpons-der-ahnherr.xml,Du kennst nischt appeliren.,0,27,character_speech,1,7,,Wilhelm.,#wilhelm,144.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+276,276,GerDracor/delpons-der-ahnherr.xml,"Tate, ich bezohl de 5000 Thaler freiwillig, wenn Se es nischt mit Gewalt von mer
+            verlangen.",0,103,character_speech,1,7,,Moses.,#moses,145.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+277,277,GerDracor/delpons-der-ahnherr.xml,Nu so zohl aus in Güte.,0,23,character_speech,1,7,,Wilhelm.,#wilhelm,146.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+278,278,GerDracor/delpons-der-ahnherr.xml,(starker Donner),0,16,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+279,279,GerDracor/delpons-der-ahnherr.xml,(nimmt einige Papiere heraus),0,29,stage_direction,1,7,speech_part,,#moses,147.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+280,280,GerDracor/delpons-der-ahnherr.xml,"Hier, Herr von Eschendorf, hoben Se de 5000 Tholer in gutten Peppierchen.",0,73,character_speech,1,7,,Moses.,#moses,147.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+281,281,GerDracor/delpons-der-ahnherr.xml,"Ach, Moses!",0,11,character_speech,1,7,,Karl.,#karl,148.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+282,282,GerDracor/delpons-der-ahnherr.xml,"schweige von deinem Gelde, mir starrt das Blut in den Adern.",12,72,character_speech,1,7,,Karl.,#karl,148.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+283,283,GerDracor/delpons-der-ahnherr.xml,(drohend),0,9,stage_direction,1,7,speech_part,,#wilhelm,149.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+284,284,GerDracor/delpons-der-ahnherr.xml,"Moses, zohl aus.",0,16,character_speech,1,7,,Wilhelm.,#wilhelm,149.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+285,285,GerDracor/delpons-der-ahnherr.xml,(Donner),0,8,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+286,286,GerDracor/delpons-der-ahnherr.xml,"Herr von Eschendorf, seyn se gütig und nehmen Se mei Geld.",0,58,character_speech,1,7,,Moses.,#moses,150.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+287,287,GerDracor/delpons-der-ahnherr.xml,"Nein, Moses, in dieser feierlichen Stunde nicht.",0,48,character_speech,1,7,,Karl.,#karl,151.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+288,288,GerDracor/delpons-der-ahnherr.xml,(stärker drohend),0,17,stage_direction,1,7,speech_part,,#wilhelm,152.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+289,289,GerDracor/delpons-der-ahnherr.xml,"Moses, zohl aus!",0,16,character_speech,1,7,,Wilhelm.,#wilhelm,152.0,MALE,anger,K,,1819.0,negative,emotions of rejection
+290,290,GerDracor/delpons-der-ahnherr.xml,(Donner),0,8,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+291,291,GerDracor/delpons-der-ahnherr.xml,"Herr von Eschendorf, hoben Se de einzige Barmherzigkeit, und nehmen Se mei
+            verbrecherisches Geld.",0,109,character_speech,1,7,,Moses.,#moses,153.0,MALE,compassion,K,,1819.0,negative,emotions of suffering and empathy
+292,292,GerDracor/delpons-der-ahnherr.xml,"Se hören jo selbst, doß de arme  Seele vom Großtate
+            nischt eher werd ruhig im Grab.",110,205,character_speech,1,7,,Moses.,#moses,153.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+293,293,GerDracor/delpons-der-ahnherr.xml,(nimmt das Geld),0,16,stage_direction,1,7,speech_part,,#karl,154.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+294,294,GerDracor/delpons-der-ahnherr.xml,Nun so mag es darum seyn.,0,25,character_speech,1,7,,Karl.,#karl,154.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+295,295,GerDracor/delpons-der-ahnherr.xml,"(während nachstehender Rede, welche mit Zwischenräumen gesprochen wird, hört man
+          einige unharmonische Griffe auf einer Violine.)",0,138,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+296,296,GerDracor/delpons-der-ahnherr.xml,(nach einer kleinen Pause),0,26,stage_direction,1,7,speech_part,,#wilhelm,155.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+297,297,GerDracor/delpons-der-ahnherr.xml,"Moses, ich bin versöhnt.",0,24,character_speech,1,7,,Wilhelm.,#wilhelm,155.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+298,298,GerDracor/delpons-der-ahnherr.xml,"– Lebe wohl – grüß mer de Memme, grüß mer den Schmul, leb
+            wohl!",25,100,character_speech,1,7,,Wilhelm.,#wilhelm,155.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+299,299,GerDracor/delpons-der-ahnherr.xml,(Blitz und Donner.,0,18,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+300,300,GerDracor/delpons-der-ahnherr.xml,Wilhelm verschwindet),19,40,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+301,301,GerDracor/delpons-der-ahnherr.xml,"Moses, Dein Geld kann mich nicht freuen.",0,40,character_speech,1,7,,Karl.,#karl,156.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+302,302,GerDracor/delpons-der-ahnherr.xml,"Ich bin durchdrungen durch mei Mark und mei Bein, ober es kenn mer wahrhaftig och
+            nischt freuen, daß Se hoben mei Geld.",0,131,character_speech,1,7,,Moses.,#moses,157.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+303,303,GerDracor/delpons-der-ahnherr.xml,"Herr von Eschendorf, ich bitte Se gor schain,
+            hoben Se de Güte und sprechen Se nischt su de Leut.",132,241,character_speech,1,7,,Moses.,#moses,157.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+304,304,GerDracor/delpons-der-ahnherr.xml,"Sey ruhig, Moses; die fürchterliche Geschichte bleibt ein Geheimniß.",0,68,character_speech,1,7,,Karl.,#karl,158.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+305,305,GerDracor/delpons-der-ahnherr.xml,"Auch nischt der Herr Pfiff, der muß auch nischt wessen.",0,55,character_speech,1,7,,Moses.,#moses,159.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+306,306,GerDracor/delpons-der-ahnherr.xml,Von mir erfährt er nichts.,0,26,character_speech,1,7,,Karl.,#karl,160.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+307,307,GerDracor/delpons-der-ahnherr.xml,(mit schwacher Stimme),0,22,stage_direction,1,7,speech_part,,#moses,161.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+308,308,GerDracor/delpons-der-ahnherr.xml,"Donn bitt’ ich, sein so gütig und lossen Se mer begleiten bis an de Trepp, es kenn mer
+            wos passiren.",0,112,character_speech,1,7,,Moses.,#moses,161.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+309,309,GerDracor/delpons-der-ahnherr.xml,"He, Pfiff, Pfiff!",0,17,character_speech,1,7,,Karl.,#karl,162.0,MALE,being moved,K,,1819.0,being moved,being moved
+310,310,GerDracor/delpons-der-ahnherr.xml,Die Vorigen.,0,12,stage_direction,1,8,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+311,311,GerDracor/delpons-der-ahnherr.xml,Pfiff.,13,19,stage_direction,1,8,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+312,312,GerDracor/delpons-der-ahnherr.xml,"Pfiff, begleite Herrn Moses, es ist ihm nicht wohl!",0,51,character_speech,1,8,,Karl.,#karl,163.0,MALE,compassion,K,,1819.0,negative,emotions of suffering and empathy
+313,313,GerDracor/delpons-der-ahnherr.xml,"Kommen Sie, Herr Moses!",0,23,character_speech,1,8,,Pfiff.,#pfiff,164.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+314,314,GerDracor/delpons-der-ahnherr.xml,(mit verstellter Freundlichkeit),0,32,stage_direction,1,8,speech_part,,#moses,165.0,MALE,friendship,K,,1819.0,positive,emotions of affection
+315,315,GerDracor/delpons-der-ahnherr.xml,"Herr von Eschendorf, is mer ene grauße Ehre geweßt, daß Se mer hoben machen lossen  e klein Geschäft.",0,101,character_speech,1,8,,Moses.,#moses,165.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+316,316,GerDracor/delpons-der-ahnherr.xml,"Wenn Se künftig wieder etwos brauchen bei Tag und bei
+            Nacht, gehn Se nischt vorbei den alten Moses.",102,213,character_speech,1,8,,Moses.,#moses,165.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+317,317,GerDracor/delpons-der-ahnherr.xml,"Schon gut, Moses, schon gut.",0,28,character_speech,1,8,,Karl.,#karl,166.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+318,318,GerDracor/delpons-der-ahnherr.xml,"Nun, Herr Pfiff, wenn er will hoben de Güte und will mer begleiten.",0,67,character_speech,1,8,,Moses.,#moses,167.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+319,319,GerDracor/delpons-der-ahnherr.xml,(faßt ihn unterm Arm),0,21,stage_direction,1,8,speech_part,,#pfiff,168.0,MALE,"admiration, reverence",K,,1819.0,positive,emotions of affection
+320,320,GerDracor/delpons-der-ahnherr.xml,(im Abgehen),0,12,stage_direction,1,8,speech_part,,#moses,169.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+321,321,GerDracor/delpons-der-ahnherr.xml,Leben Se wohl!,0,14,character_speech,1,8,,Moses.,#moses,169.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+322,322,GerDracor/delpons-der-ahnherr.xml,vergessen Se nicht zu schicken bei Tag und bei Nacht.,15,68,character_speech,1,8,,Moses.,#moses,169.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+323,323,GerDracor/delpons-der-ahnherr.xml,(ab),0,4,stage_direction,1,8,inner_speech,,#moses,169.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+324,324,GerDracor/delpons-der-ahnherr.xml,(allein),0,8,stage_direction,1,9,speech_part,,#karl,170.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+325,325,GerDracor/delpons-der-ahnherr.xml,"Ha, ha, ha!",0,11,character_speech,1,9,,Karl.,#karl,170.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+326,326,GerDracor/delpons-der-ahnherr.xml,Viktoria!,12,21,character_speech,1,9,,Karl.,#karl,170.0,MALE,being moved,K,,1819.0,being moved,being moved
+327,327,GerDracor/delpons-der-ahnherr.xml,Viktoria!,22,31,character_speech,1,9,,Karl.,#karl,170.0,MALE,being moved,K,,1819.0,being moved,being moved
+328,328,GerDracor/delpons-der-ahnherr.xml,"(in seinem jüdischen Aufzuge tritt auf, indem er seinen Anzug abwirft)",0,70,stage_direction,1,9,speech_part,,#wilhelm,171.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+329,329,GerDracor/delpons-der-ahnherr.xml,Es ist vollbracht.,0,18,character_speech,1,9,,Wilhelm.,#wilhelm,171.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+330,330,GerDracor/delpons-der-ahnherr.xml,Die Vorigen.,0,12,stage_direction,1,10,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+331,331,GerDracor/delpons-der-ahnherr.xml,Pfiff.,13,19,stage_direction,1,10,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation
+332,332,GerDracor/delpons-der-ahnherr.xml,(parodirend),0,12,stage_direction,1,10,speech_part,,#karl,172.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+333,333,GerDracor/delpons-der-ahnherr.xml,"Pfiff, Du hast überwunden!",0,26,character_speech,1,10,,Karl.,#karl,172.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+334,334,GerDracor/delpons-der-ahnherr.xml,(komisch ernsthaft),0,19,stage_direction,1,10,speech_part,,#wilhelm,173.0,MALE,being moved,K,,1819.0,being moved,being moved
+335,335,GerDracor/delpons-der-ahnherr.xml,Deine That wird einst von unsern Urenkeln erst nach wahrem Verdienste belohnt.,0,78,character_speech,1,10,,Wilhelm.,#wilhelm,173.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+336,336,GerDracor/delpons-der-ahnherr.xml,"Aber ich hoffe, von den aus der Klemme Geholfenen doch nicht ganz vergessen zu
+            werden?",0,98,character_speech,1,10,,Pfiff.,#pfiff,174.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+337,337,GerDracor/delpons-der-ahnherr.xml,"Nein, sicher nicht.",0,19,character_speech,1,10,,Karl.,#karl,175.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+338,338,GerDracor/delpons-der-ahnherr.xml,"Nun, Wilhelm, sind wir wieder mobil.",20,56,character_speech,1,10,,Karl.,#karl,175.0,MALE,joy,K,,1819.0,positive,emotions of pleasure
+339,339,GerDracor/delpons-der-ahnherr.xml,"Lasse uns vor allen Dingen
+            darauf denken, unsern Pfiff nach Würden zu belohnen.",57,148,character_speech,1,10,,Karl.,#karl,175.0,MALE,"admiration, reverence",K,,1819.0,positive,emotions of affection
+340,340,GerDracor/delpons-der-ahnherr.xml,"Ja, das wollen wir; komm, Brüderchen; Pfiff, rechne auf unsere Erkenntlichkeit.",0,79,character_speech,1,10,,Wilhelm.,#wilhelm,176.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+341,341,GerDracor/delpons-der-ahnherr.xml,(ab),0,4,stage_direction,1,10,inner_speech,,#wilhelm,176.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+342,342,GerDracor/delpons-der-ahnherr.xml,"Da gehen Sie hin, und was bleibt mir?",0,37,character_speech,1,10,,Pfiff.,#pfiff,177.0,MALE,suffering,K,,1819.0,negative,emotions of suffering and empathy
+343,343,GerDracor/delpons-der-ahnherr.xml,"I, nun, die Dankbarkeit guter Menschen, und das
+            Bewußtseyn einer schönen Handlung.",38,132,character_speech,1,10,,Pfiff.,#pfiff,177.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+344,344,GerDracor/delpons-der-ahnherr.xml,(geht ab),0,9,stage_direction,1,10,inner_speech,,#pfiff,177.0,MALE,no_annotation,K,,1819.0,no_annotation,no_annotation
+345,345,GerDracor/delpons-der-ahnherr.xml,(Der Vorhang fällt).,0,20,stage_direction,1,10,pre_speech,,,,,no_annotation,K,,1819.0,no_annotation,no_annotation

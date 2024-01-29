@@ -1,0 +1,794 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/schlegel-alarcos.xml,Ein Zimmer der Infantin.,0,24,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+1,1,GerDracor/schlegel-alarcos.xml,"Solisa, Don Alvaro in Jagdkleidern, Laura; im Hintergrunde noch einige Herren von
+            der Begleitung.",0,109,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+2,2,GerDracor/schlegel-alarcos.xml,Jagdmusik.,110,120,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+3,3,GerDracor/schlegel-alarcos.xml,"
+              So recht!",0,24,character_speech,1,1,,SOLISA.,#solisa,1.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+4,4,GerDracor/schlegel-alarcos.xml,"– Laßt die Trompeten mutig schmettern,
+              So darf der innre Unmut sich nicht zeigen.",25,120,character_speech,1,1,,SOLISA.,#solisa,1.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+5,5,GerDracor/schlegel-alarcos.xml,"–
+              O weh!",121,143,character_speech,1,1,,SOLISA.,#solisa,1.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+6,6,GerDracor/schlegel-alarcos.xml,"Wie nun der lauten Hörner Schallen
+              Mich tief verwundet.",144,213,character_speech,1,1,,SOLISA.,#solisa,1.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+7,7,GerDracor/schlegel-alarcos.xml,Laßt sie endlich schweigen!,214,241,character_speech,1,1,,SOLISA.,#solisa,1.0,FEMALE,anger,T,,1801.0,negative,emotions of rejection
+8,8,GerDracor/schlegel-alarcos.xml,"
+              Wenn sich der Sonne Glanz in Wolken hüllet,
+              Wie sollten Sterbliche sich freuen dürfen?",0,115,character_speech,1,1,,ALVARO.,#alvaro,2.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+9,9,GerDracor/schlegel-alarcos.xml,"–
+              Entfernt euch, Freunde!",116,155,character_speech,1,1,,ALVARO.,#alvaro,2.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+10,10,GerDracor/schlegel-alarcos.xml,"Die erhabne Fürstin
+              Wird nach der wilden Jagdlust Ruh' bedürfen.",156,234,character_speech,1,1,,ALVARO.,#alvaro,2.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+11,11,GerDracor/schlegel-alarcos.xml,Die Begleitung entfernt sich.,0,29,stage_direction,1,1,speech_part,,#alvaro,2.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+12,12,GerDracor/schlegel-alarcos.xml,"
+              Nicht Ruhe, nein!",0,32,character_speech,1,1,,SOLISA.,#solisa,3.0,FEMALE,anger,T,,1801.0,negative,emotions of rejection
+13,13,GerDracor/schlegel-alarcos.xml,"doch Stille laßt mich haben,
+              Und tiefes Schweigen ahnend mich umgeben.",33,117,character_speech,1,1,,SOLISA.,#solisa,3.0,FEMALE,being moved,T,,1801.0,being moved,being moved
+14,14,GerDracor/schlegel-alarcos.xml,"Es mag der König wissen, wie ich traure;
+              Drum soll kein Freudenlaut sich hier erheben.",132,232,character_speech,1,1,,SOLISA.,#solisa,3.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+15,15,GerDracor/schlegel-alarcos.xml,"
+              Zu kriegerisch erklangen diese Töne.",0,51,character_speech,1,1,,LAURA.,#laura,4.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+16,16,GerDracor/schlegel-alarcos.xml,"–
+              Vermöcht' es meine treue Lieb' und Demut,
+              Dich zu erfreun, so wagt' ich dir zu singen
+              Ein altes Lied voll zarter Lieb' und Wehmut.",52,226,character_speech,1,1,,LAURA.,#laura,4.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+17,17,GerDracor/schlegel-alarcos.xml,"So gib die Laute mir, dich zu begleiten.",0,40,character_speech,1,1,,SOLISA.,#solisa,5.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+18,18,GerDracor/schlegel-alarcos.xml,"
+              Hier nimm sie hin, o Herrin!",0,43,character_speech,1,1,,LAURA.,#laura,6.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+19,19,GerDracor/schlegel-alarcos.xml,"– Es verschöne
+              Mit leichtem Zauberschlag der Rosenfinger
+              Die Alabasterhand des Liedes Töne.",44,163,character_speech,1,1,,LAURA.,#laura,6.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+20,20,GerDracor/schlegel-alarcos.xml,Sie singt.,0,10,stage_direction,1,1,speech_part,,#laura,6.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+21,21,GerDracor/schlegel-alarcos.xml,"
+              Traurig stunde da der Ritter,
+              Traurig und von Freuden ferne,
+              Und gedacht' in seinem Sinne
+              Das, was innig er begehrte.",0,174,character_speech,1,1,,LAURA.,#laura,6.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+22,22,GerDracor/schlegel-alarcos.xml,"Tränen flossen aus den Augen,
+              Und die Lippe kam zu reden:
+              »O wo bist du, all mein Leben?",189,305,character_speech,1,1,,LAURA.,#laura,6.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+23,23,GerDracor/schlegel-alarcos.xml,"O wo bist du, meine Herrin?",320,347,character_speech,1,1,,LAURA.,#laura,6.0,FEMALE,fear,T,,1801.0,negative,emotions of anxiety
+24,24,GerDracor/schlegel-alarcos.xml,"–
+              Ja, ich liebte eine Dame,
+              Liebte sie um hoher Ehre;
+              Doch mein bitter Unglück wollte,
+              Daß ich sie nun muß entbehren.",348,521,character_speech,1,1,,LAURA.,#laura,6.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+25,25,GerDracor/schlegel-alarcos.xml,"Auf die Berge will ich steigen,
+              Daß mich niemand wieder sehe;
+              Auf dem höchsten der Gebirge
+              Will ich führen nun mein Leben.«",536,701,character_speech,1,1,,LAURA.,#laura,6.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+26,26,GerDracor/schlegel-alarcos.xml,"
+              So treue Liebe wird nicht mehr gefunden,
+              Daß einer solches Leid um Liebe trüge.",0,108,character_speech,1,1,,SOLISA.,#solisa,7.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+27,27,GerDracor/schlegel-alarcos.xml,"Der heiße Ernst ist aus der Welt verschwunden,
+              Die schöne Dichtung ward zur eitlen Lüge,
+              Weil keiner mehr der Liebe Kraft empfunden.",123,283,character_speech,1,1,,SOLISA.,#solisa,7.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+28,28,GerDracor/schlegel-alarcos.xml,"Zerbrochen liege dann zu meinen Füßen,
+              Du täuschende Sirene, helle Laute,
+              Du, der ich alle Wünsche anvertraute!",298,437,character_speech,1,1,,SOLISA.,#solisa,7.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+29,29,GerDracor/schlegel-alarcos.xml,Sie zerbricht die Laute.,0,24,stage_direction,1,1,speech_part,,#solisa,7.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+30,30,GerDracor/schlegel-alarcos.xml,"
+              Du schuldlos Werkzeug mußt es mir nun büßen,
+              Daß ich dem Silberklange hoffend traute.",0,114,character_speech,1,1,,SOLISA.,#solisa,7.0,FEMALE,compassion,T,,1801.0,negative,emotions of suffering and empathy
+31,31,GerDracor/schlegel-alarcos.xml,"O könnt' ich so wie diese schwachen Saiten,
+              Zerreißen ganz die schon zerriß'ne Seele;
+              So dürft' ich nicht mehr mit den Schmerzen streiten.",129,295,character_speech,1,1,,SOLISA.,#solisa,7.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+32,32,GerDracor/schlegel-alarcos.xml,"
+              Daß nur dein Herz sie länger nicht verhehle,
+              So mag wohl treuer Rat noch Trost bereiten.",0,117,character_speech,1,1,,LAURA.,#laura,8.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+33,33,GerDracor/schlegel-alarcos.xml,"
+              Nein, keinen Trost ist's möglich zu erdenken,
+              Als ihm, auf den sich alle Herzen lenken,
+              Nach dem die stillen Wünsche alle fragen,
+              Dem ewig Einz'gen ewig zu entsagen,
+              Das Herz voll Gram in kalte Nacht zu senken.",0,281,character_speech,1,1,,SOLISA.,#solisa,9.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+34,34,GerDracor/schlegel-alarcos.xml,"Schon freut mich meiner alten Freuden keine;
+              Die Jagdlust selbst kann keine Lust gewähren.",296,400,character_speech,1,1,,SOLISA.,#solisa,9.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+35,35,GerDracor/schlegel-alarcos.xml,"Ich kann mich oft der Tränen nicht erwehren,
+              So daß ich selbst das arme Reh mir scheine,
+              Mir zürnend dann, daß ich so bitter weine.",415,574,character_speech,1,1,,SOLISA.,#solisa,9.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+36,36,GerDracor/schlegel-alarcos.xml,"
+              Mit Staunen, Fürstin, sah ich so dich heute
+              Im kühnsten Lauf des Sieges angehalten,
+              Die Flammen deines Mutes schnell erkalten,
+              Als ob der Sieg zu klein dir, dich gereute,
+              Unwert das Ziel der Blicke, dem sie galten.",0,285,character_speech,1,1,,ALVARO.,#alvaro,10.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+37,37,GerDracor/schlegel-alarcos.xml,"
+              Kannst du des Herzens Wünsche nicht bezwingen,
+              Mußt du der Einbildung ihr Spiel vergönnen,
+              Die Zeichen wieder vor die Augen bringen.",0,175,character_speech,1,1,,LAURA.,#laura,11.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+38,38,GerDracor/schlegel-alarcos.xml,"Den Bildern der Erinn'rung mag's gelingen,
+              Daß sie dir neue Hoffnung noch gewönnen.",190,287,character_speech,1,1,,LAURA.,#laura,11.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+39,39,GerDracor/schlegel-alarcos.xml,"
+              So laß die alte Torheit mich erneuen,
+              Mit Angedenken spielen um mein Leiden,
+              An Ringen, Locken töricht mich erfreuen,
+              An des Geliebten Bild die Blicke weiden,
+               Und hingegeben kein Erröten scheuen.",0,267,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+40,40,GerDracor/schlegel-alarcos.xml,Laura bringt ihr ein Kästchen.,0,30,stage_direction,1,1,speech_part,,#solisa,12.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+41,41,GerDracor/schlegel-alarcos.xml,"
+              Nun komm, Alarcos, sieh die stolze Fürstin,
+              An diesem Schauspiel mag dein Herz sich laben.",0,119,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+42,42,GerDracor/schlegel-alarcos.xml,"Sie kann die Liebe länger ja nicht bergen;
+              Vor ihren Leuten spielt sie die Verlaßne,
+              Die sich mit Sehnsucht an dem Bildnis weidet
+              Des Mannes, dessen Herz für sie einst flammte.",134,352,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+43,43,GerDracor/schlegel-alarcos.xml,Sie nimmt das Bildnis heraus und betrachtet es.,0,47,stage_direction,1,1,speech_part,,#solisa,12.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+44,44,GerDracor/schlegel-alarcos.xml,"
+              Wie schnell ist aller Zorn und Stolz verschwunden,
+              Wenn ich der Züge Hoheit hier betrachte!",0,120,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,anger,T,,1801.0,negative,emotions of rejection
+45,45,GerDracor/schlegel-alarcos.xml,"Alarcos, ich bekenne meine Liebe.",135,168,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+46,46,GerDracor/schlegel-alarcos.xml,"–
+              Was ist das Höchste neben solchem Manne?",169,225,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+47,47,GerDracor/schlegel-alarcos.xml,"–
+              O fraget, wer an Kühnheit, edlen Sitten,
+              An Schönheit aller Fürsten Heldenblume;
+              Der schon in starker Jugend sich erstritten,
+              Sein Haupt umstrahlt zu sehn von solchem Ruhme,
+              Daß keiner wohl ihm noch den Preis bestritten,
+              Er sei der erste Mann im Rittertume?",226,569,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+48,48,GerDracor/schlegel-alarcos.xml,"Es werden alle Einen anerkennen,
+              Einstimmig nur Alarcos Namen nennen.",584,667,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+49,49,GerDracor/schlegel-alarcos.xml,"Ich seh ihn noch vom Rosse siegreich blicken,
+              Den kühnen Federbusch vom Haupt ihm wehen,
+              Das schwarze Feuer in den hohen Blicken; –
+              Oh, wer in diesem Spiegel sich gesehen,
+              Den lockt es ewig nur, auf ihn zu blicken,
+              Der muß in tiefer Liebesglut vergehen,
+              Kann nicht verhüllen seine wilden Schmerzen;
+              Sie strömen allzu heiß vom vollen Herzen.",682,1120,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+50,50,GerDracor/schlegel-alarcos.xml,"Nur die ist Königin, die seine Liebe
+              Anbetend sich zur Herrin auserwählte;
+              Denn königlich hat die Natur mit Liebe
+              Ihn ausgeschmückt, dem keine Tugend fehlte,
+              Wenn er sich selber kennend durch die Liebe,
+              Dem königlichen Glücke sich vermählte,
+               Als König siegend selbst dem Sieg geböte,
+              Und meinen Stolz durch seinen noch erhöhte.",1135,1561,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+51,51,GerDracor/schlegel-alarcos.xml,"Sie gibt das Bildnis an Laura, welche sich damit entfernt.",0,58,stage_direction,1,1,speech_part,,#solisa,12.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+52,52,GerDracor/schlegel-alarcos.xml,"
+              Nun sprich, Alvaro, ob es wohl zu dulden,
+              Daß dieser Herrliche sich so verkannte,
+              Mit einem Kinde töricht sich vermählte,
+              Um eine Königstochter zu verlassen?",0,214,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+53,53,GerDracor/schlegel-alarcos.xml,"Und wär's nicht recht, die Ehe zu vernichten,
+              Den Grafen zu befreien von den Banden,
+              Die ihn von aller Glorie nur entfernen,
+              Um in Gewöhnlichkeit ihn festzuhalten?",229,434,character_speech,1,1,,SOLISA.,#solisa,12.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+54,54,GerDracor/schlegel-alarcos.xml,"
+              Wie magst du jene Torheit Ehe nennen,
+              Die niemals solche Gültigkeit kann haben,
+              Da er ja dir zuvor sich selbst versprochen!",0,166,character_speech,1,1,,ALVARO.,#alvaro,13.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+55,55,GerDracor/schlegel-alarcos.xml,"–
+              Sie ist als nicht geschehen zu betrachten.",167,225,character_speech,1,1,,ALVARO.,#alvaro,13.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+56,56,GerDracor/schlegel-alarcos.xml,"Und hätt' er auch dies Wort dir nicht gegeben,
+              Dein Wille löste wohl noch fest're Bande!",240,342,character_speech,1,1,,ALVARO.,#alvaro,13.0,MALE,love,T,,1801.0,positive,emotions of affection
+57,57,GerDracor/schlegel-alarcos.xml,"Wie glücklich muß der Glückliche sich schätzen,
+              Dem hohe Gunst aus solchen Sonnen strahlet!",357,462,character_speech,1,1,,ALVARO.,#alvaro,13.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+58,58,GerDracor/schlegel-alarcos.xml,"Laß mich die Sache meines Freundes führen,
+              Zu seinem Besten es freimütig wagen,
+              Nicht länger mehr verschweigend, was ich denke,
+              Dich selber bei dir selber anzuklagen.",477,685,character_speech,1,1,,ALVARO.,#alvaro,13.0,MALE,friendship,T,,1801.0,positive,emotions of affection
+59,59,GerDracor/schlegel-alarcos.xml,"O Fürstin, dieses Zaudern, dieses Zögern; –
+              Es wird zerstören meine schönsten Plane.",700,798,character_speech,1,1,,ALVARO.,#alvaro,13.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+60,60,GerDracor/schlegel-alarcos.xml,"Ich habe alles sorgsam vorbereitet,
+              Gesprochen mit dem König, deinem Vater.",813,902,character_speech,1,1,,ALVARO.,#alvaro,13.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+61,61,GerDracor/schlegel-alarcos.xml,"O sag', was hält dich ab, ihm zu vertrauen,
+              Ihm alles, was geschehen, frei zu sagen?",917,1015,character_speech,1,1,,ALVARO.,#alvaro,13.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+62,62,GerDracor/schlegel-alarcos.xml,"
+              Sein wild erschrecklich eisenhart Gemüte.",0,56,character_speech,1,1,,SOLISA.,#solisa,14.0,FEMALE,being moved,T,,1801.0,being moved,being moved
+63,63,GerDracor/schlegel-alarcos.xml,Wie darf ich meine Wünsch' ihm offenbaren?,71,113,character_speech,1,1,,SOLISA.,#solisa,14.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+64,64,GerDracor/schlegel-alarcos.xml,"
+              Wenn diese diesmal nun zu seinen stimmten,
+              So daß er ungeduldig dich erwartet?",0,107,character_speech,1,1,,ALVARO.,#alvaro,15.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+65,65,GerDracor/schlegel-alarcos.xml,"Mir hat er deutlich zu verstehn gegeben,
+              Du sollst dein Recht nur förmlich geltend machen,
+              Wie dir Alarcos einst die Eh' gelobet,
+              Ihm nur bezeugen, dann ihn handeln lassen.",122,336,character_speech,1,1,,ALVARO.,#alvaro,15.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+66,66,GerDracor/schlegel-alarcos.xml,"Doch fürcht' ich, wenn du allzu lange zögerst,
+              Wird, was er jetzt beschlossen, wieder wankend.",351,459,character_speech,1,1,,ALVARO.,#alvaro,15.0,MALE,fear,T,,1801.0,negative,emotions of anxiety
+67,67,GerDracor/schlegel-alarcos.xml,"Wie soll es enden, bleibt die Gräfin leben?",0,43,character_speech,1,1,,SOLISA.,#solisa,16.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+68,68,GerDracor/schlegel-alarcos.xml,"
+              Das darf uns wohl die kleinste Sorge machen.",0,59,character_speech,1,1,,ALVARO.,#alvaro,17.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+69,69,GerDracor/schlegel-alarcos.xml,Ja freilich wird man sie entfernen müssen.,74,116,character_speech,1,1,,ALVARO.,#alvaro,17.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+70,70,GerDracor/schlegel-alarcos.xml,"Den König kann dies nicht zurücke halten;
+              Er liebte wahrlich niemals dies Geschlechte.",131,231,character_speech,1,1,,ALVARO.,#alvaro,17.0,MALE,love,T,,1801.0,positive,emotions of affection
+71,71,GerDracor/schlegel-alarcos.xml,"
+              So ist es wahr denn, was die Menschen sagen,
+              Es sei der Gräfin Bruder, Don Garcia,
+              Mit Eurem Wissen durch den Dolch gefallen?",0,168,character_speech,1,1,,SOLISA.,#solisa,18.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+72,72,GerDracor/schlegel-alarcos.xml,"
+              Er paßte gar nicht in die Welt des Hofes,
+              Und wollte hier mit strenger Tugend prahlen,
+              Bis es dem König wohl mißfallen mußte.",0,168,character_speech,1,1,,ALVARO.,#alvaro,19.0,MALE,anger,T,,1801.0,negative,emotions of rejection
+73,73,GerDracor/schlegel-alarcos.xml,"Doch fürcht' ich, wir gewinnen nicht den Grafen.",0,48,character_speech,1,1,,SOLISA.,#solisa,20.0,FEMALE,fear,T,,1801.0,negative,emotions of anxiety
+74,74,GerDracor/schlegel-alarcos.xml,"
+              Du zweifelst an der Allmacht aller Reize,
+              Die je geblend'te Augen trunken machten?",0,111,character_speech,1,1,,ALVARO.,#alvaro,21.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+75,75,GerDracor/schlegel-alarcos.xml,"Die hoher Geist und kühner Mut erhöhen,
+              Der Fürstenhoheit Sonnenglanz umstrahlet?",127,222,character_speech,1,1,,ALVARO.,#alvaro,21.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+76,76,GerDracor/schlegel-alarcos.xml,"So zweifle, daß die lichten Sterne glänzen,
+              Und zweifle an des Himmels blauer Klarheit!",237,338,character_speech,1,1,,ALVARO.,#alvaro,21.0,MALE,love,T,,1801.0,positive,emotions of affection
+77,77,GerDracor/schlegel-alarcos.xml,"–
+              Ein Wort des Königs öffnet ihm die Augen,
+              Und jene Täuschung muß von selber fallen,
+              Die seinen Geist auf kurze Zeit betörte.",339,507,character_speech,1,1,,ALVARO.,#alvaro,21.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+78,78,GerDracor/schlegel-alarcos.xml,"Er wird mir bald mit heißer Liebe danken,
+              Und mich den treusten seiner Freunde nennen,
+              Weil ich sein wahres Heil allein erkannte.",522,679,character_speech,1,1,,ALVARO.,#alvaro,21.0,MALE,friendship,T,,1801.0,positive,emotions of affection
+79,79,GerDracor/schlegel-alarcos.xml,"
+              So gehe, mich dem König anzumelden;
+              Ich will mich deiner Führung überlassen.",0,105,character_speech,1,1,,SOLISA.,#solisa,22.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+80,80,GerDracor/schlegel-alarcos.xml,Alvaro geht ab.,0,15,stage_direction,1,1,speech_part,,#solisa,22.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+81,81,GerDracor/schlegel-alarcos.xml,"
+              Daß sich sein Herz erweichte,
+              Daß liebend wieder ihn mein Arm erreichte,
+              Ihn ewig zu umschlingen,
+              In Flammen aufgelöst ihn zu durchdringen!",0,196,character_speech,1,1,,SOLISA.,#solisa,22.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+82,82,GerDracor/schlegel-alarcos.xml,"O laß es mir gelingen,
+              Die sel'gen Zeiten uns zurückzubringen,
+              Sie schöner zu erneuern,
+              Dich wieder zu Triumphen zu befeuern!",211,378,character_speech,1,1,,SOLISA.,#solisa,22.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+83,83,GerDracor/schlegel-alarcos.xml,"–
+              Ich kann es hoch beteuern bei der Treue,
+              Die ich mit bittrer Reue oft beweinet;
+              Ich will mit dir vereinet alles dulden,
+              Und jedes Frevels Schulden auf mich laden.",379,599,character_speech,1,1,,SOLISA.,#solisa,22.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+84,84,GerDracor/schlegel-alarcos.xml,"In grausem Blute will ich kühn mich baden,
+              Wirst du, Geliebter, mir zurückgegeben.",614,710,character_speech,1,1,,SOLISA.,#solisa,22.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+85,85,GerDracor/schlegel-alarcos.xml,"Ich will vor keiner argen Tat mehr beben,
+              Um dich zu haben, gern die Seele geben.",725,820,character_speech,1,1,,SOLISA.,#solisa,22.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+86,86,GerDracor/schlegel-alarcos.xml,Ein Zimmer des Königs.,0,22,stage_direction,1,2,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+87,87,GerDracor/schlegel-alarcos.xml,Ricardo.,0,8,stage_direction,1,2,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+88,88,GerDracor/schlegel-alarcos.xml,Octavio.,9,17,stage_direction,1,2,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+89,89,GerDracor/schlegel-alarcos.xml,Habt Ihr den König heute schon gesprochen?,0,42,character_speech,1,2,,RICARDO.,#ricardo,23.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+90,90,GerDracor/schlegel-alarcos.xml,"
+              O nein, noch keiner ist vor ihn gekommen.",0,56,character_speech,1,2,,OCTAVIO.,#octavio,24.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+91,91,GerDracor/schlegel-alarcos.xml,"Er will allein sein, scheint vertieft in Sorgen.",71,119,character_speech,1,2,,OCTAVIO.,#octavio,24.0,MALE,being moved,T,,1801.0,being moved,being moved
+92,92,GerDracor/schlegel-alarcos.xml,"Ein kund'ger Freund hat eben mir beschworen,
+              Daß die Infantin jetzt ihn sprechen wolle,
+              Ein feierlich Gehör bei ihm gefordert,
+              Und man erwartet davon wicht'ge Folgen.",134,342,character_speech,1,2,,OCTAVIO.,#octavio,24.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+93,93,GerDracor/schlegel-alarcos.xml,"
+              Da kommt er.",0,27,character_speech,1,2,,RICARDO.,#ricardo,25.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+94,94,GerDracor/schlegel-alarcos.xml,"– Seht, wie blickt er ernst und zornig!",28,67,character_speech,1,2,,RICARDO.,#ricardo,25.0,MALE,anger,T,,1801.0,negative,emotions of rejection
+95,95,GerDracor/schlegel-alarcos.xml,"So laßt uns gehn, eh' er uns wahrgenommen.",82,124,character_speech,1,2,,RICARDO.,#ricardo,25.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+96,96,GerDracor/schlegel-alarcos.xml,"Sie entfernen sich, indem der König hereintritt.",0,48,stage_direction,1,2,speech_part,,#ricardo,25.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+97,97,GerDracor/schlegel-alarcos.xml,"
+              Wie große Burgen lasten auf dem Boden,
+              Der sich dem schweren Drucke nie entzogen;
+              So auf des Herrschers Haupt die goldne Krone,
+              Und auf den Untertanen die Gebote,
+              Die jener diesen auflegt zu befolgen.",0,271,character_speech,1,2,,DER KÖNIG.,#der_koenig,26.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+98,98,GerDracor/schlegel-alarcos.xml,"Es müssen alle seufzend doch gehorchen,
+              Sich schweigend beugen dem gewalt'gen Joche,
+              Vom König alles leiden, Niedr' und Hohe.",286,439,character_speech,1,2,,DER KÖNIG.,#der_koenig,26.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+99,99,GerDracor/schlegel-alarcos.xml,"Oh, daß mein Haus nur so den Wünschen folgte,
+              Wie meine Länder zittern meinem Zorne!",454,552,character_speech,1,2,,DER KÖNIG.,#der_koenig,26.0,MALE,anger,T,,1801.0,negative,emotions of rejection
+100,100,GerDracor/schlegel-alarcos.xml,"Ich habe nur die eine einz'ge Tochter,
+              Und weiter keinen Erben.",567,644,character_speech,1,2,,DER KÖNIG.,#der_koenig,26.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+101,101,GerDracor/schlegel-alarcos.xml,"Diese Sorge
+              Ist mir ein scharfer Dorn in meiner Krone,
+              Und weckt mit bitterm Schmerz mich jeden Morgen.",645,776,character_speech,1,2,,DER KÖNIG.,#der_koenig,26.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+102,102,GerDracor/schlegel-alarcos.xml,der hereintritt.,0,16,stage_direction,1,2,speech_part,,#alvaro,27.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+103,103,GerDracor/schlegel-alarcos.xml,"Erlaubst du, Herr, daß die Infantin jetzt dir naht?",0,51,character_speech,1,2,,ALVARO,#alvaro,27.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+104,104,GerDracor/schlegel-alarcos.xml,"Sie komme, wie ich dir erlaubt und anbefahl.",0,44,character_speech,1,2,,DER KÖNIG.,#der_koenig,28.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+105,105,GerDracor/schlegel-alarcos.xml,Alvaro führt die Infantin herein.,0,33,stage_direction,1,2,speech_part,,#der_koenig,28.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+106,106,GerDracor/schlegel-alarcos.xml,"Sie läßt sich vor dem König auf ein Knie
+              nieder.",34,96,stage_direction,1,2,speech_part,,#der_koenig,28.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+107,107,GerDracor/schlegel-alarcos.xml,Alvaro tritt in den Hintergrund zurück.,97,136,stage_direction,1,2,speech_part,,#der_koenig,28.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+108,108,GerDracor/schlegel-alarcos.xml,"
+              Zu meines Vaters Füßen such' ich Trost und Rat.",0,62,character_speech,1,2,,SOLISA.,#solisa,29.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+109,109,GerDracor/schlegel-alarcos.xml,"Und wie das Leiden auch den Mut mir niederwarf,
+              So beugt das Knie sich, auszusprechen meine Schmach;
+              Des festen Sinnes, daß ich aufstehn will erst dann,
+              Wenn, was ich bitte, du mir hilfreich zugesagt.",77,319,character_speech,1,2,,SOLISA.,#solisa,29.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+110,110,GerDracor/schlegel-alarcos.xml,"
+              So sag ich, daß du wieder aufstehn kühnlich darfst,
+              Wenn was du bittest, irgend nur in meiner Macht.",0,129,character_speech,1,2,,DER KÖNIG.,#der_koenig,30.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+111,111,GerDracor/schlegel-alarcos.xml,Mein Wort bestätigt diese königliche Hand.,144,186,character_speech,1,2,,DER KÖNIG.,#der_koenig,30.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+112,112,GerDracor/schlegel-alarcos.xml,"
+              Nun Herz!",0,24,character_speech,1,2,,SOLISA.,#solisa,31.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+113,113,GerDracor/schlegel-alarcos.xml,"sei standhaft, waffne mutig dich mit Kraft!",25,68,character_speech,1,2,,SOLISA.,#solisa,31.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+114,114,GerDracor/schlegel-alarcos.xml,"Das Auge schlägt sich nieder vor dem heft'gen Kampf,
+              Es färbt die jungfräulichen Wangen hohe Scham.",83,196,character_speech,1,2,,SOLISA.,#solisa,31.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+115,115,GerDracor/schlegel-alarcos.xml,"Du siehst mich in der vollsten Jugendblüte Glanz; –
+              O hielte nicht die teure Mutter schon das Grab,
+              Sie hätte wohl mich zugeführt schon dem Gemahl,
+              Und festlich hätte mir die Fackel schon gestrahlt!",211,451,character_speech,1,2,,SOLISA.,#solisa,31.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+116,116,GerDracor/schlegel-alarcos.xml,"Ich will's bekennen, es gefällt mir nicht mein Stand,
+              Wo selbst die Hoheit endlich wird zur schweren Last.",466,586,character_speech,1,2,,SOLISA.,#solisa,31.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+117,117,GerDracor/schlegel-alarcos.xml,"
+              Wie muß ich staunen über dem, was du gesagt!",0,59,character_speech,1,2,,DER KÖNIG.,#der_koenig,32.0,MALE,being moved,T,,1801.0,being moved,being moved
+118,118,GerDracor/schlegel-alarcos.xml,"Die höchsten Fürsten warben schon um deine Hand,
+              Von denen mancher aus der fernsten Fremde kam,
+               Weil dort auch deiner Schönheit Ruf sein Ohr durchdrang;
+              Doch keinem gabst du jemals das erwünschte Ja.",74,316,character_speech,1,2,,DER KÖNIG.,#der_koenig,32.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+119,119,GerDracor/schlegel-alarcos.xml,"Und weit entfernt, daß ich die Sorg' um dich vergaß,
+              Gedacht' ich dessen oft mit Schmerz und tiefem Gram.",331,450,character_speech,1,2,,DER KÖNIG.,#der_koenig,32.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+120,120,GerDracor/schlegel-alarcos.xml,"Was hast du jemals noch gewünscht, das nicht geschah?",465,518,character_speech,1,2,,DER KÖNIG.,#der_koenig,32.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+121,121,GerDracor/schlegel-alarcos.xml,"
+              O nein, kein Fremder werde jemals mein Gemahl!",0,61,character_speech,1,2,,SOLISA.,#solisa,33.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+122,122,GerDracor/schlegel-alarcos.xml,"Wie sollt' ich gleich verlassen dies mein Vaterland,
+              Wo Rittertum und hohe Liebe freudig strahlt,
+              Wenn mich zur Frau begehrte irgend ein Barbar,
+              Weil ihm zum Erbteil etwa eine Krone ward?",76,305,character_speech,1,2,,SOLISA.,#solisa,33.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+123,123,GerDracor/schlegel-alarcos.xml,"Es sei der, dem ich folgen soll, ganz meine Wahl.",320,369,character_speech,1,2,,SOLISA.,#solisa,33.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+124,124,GerDracor/schlegel-alarcos.xml,"
+              Ich selber wählte mir für dich nicht solchen Mann,
+              Denn keinen Erben hat der Staat und unser Stamm.",0,128,character_speech,1,2,,DER KÖNIG.,#der_koenig,34.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+125,125,GerDracor/schlegel-alarcos.xml,"Des Zweifels Unmut, Tochter, sei von dir verbannt,
+              Und rasch sogleich der mutige Entschluß gefaßt!",143,255,character_speech,1,2,,DER KÖNIG.,#der_koenig,34.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+126,126,GerDracor/schlegel-alarcos.xml,"Turnier und Feste sollen gleich zur würd'gen Wahl
+              Die Würdigsten versammeln; und der hohe Dank
+              Sei dein Besitz, du selbst des Siegers Ehrenkranz.",270,443,character_speech,1,2,,DER KÖNIG.,#der_koenig,34.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+127,127,GerDracor/schlegel-alarcos.xml,"
+              Es ist zu spät, mein Vater.",0,42,character_speech,1,2,,SOLISA.,#solisa,35.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+128,128,GerDracor/schlegel-alarcos.xml,"– Denn schon ist die Wahl
+              Geschehn, und der mich liebte, meine Seele traf,
+              Mir bald die Freiheit raubte, Graf Alarcos war's.",43,195,character_speech,1,2,,SOLISA.,#solisa,35.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+129,129,GerDracor/schlegel-alarcos.xml,"Er hat, noch eh' er jetzt zur Frau die Gräfin nahm,
+              Mir zugeschworen, er nur werde mein Gemahl.",210,319,character_speech,1,2,,SOLISA.,#solisa,35.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+130,130,GerDracor/schlegel-alarcos.xml,"Ist's möglich, hab' ich deine Worte recht gefaßt?",0,49,character_speech,1,2,,DER KÖNIG.,#der_koenig,36.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+131,131,GerDracor/schlegel-alarcos.xml,"Ich habe alles, was du wissen mußt, gesagt.",0,43,character_speech,1,2,,SOLISA.,#solisa,37.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+132,132,GerDracor/schlegel-alarcos.xml,"Kannst du beteuernd schwören, daß dies alles wahr?",0,50,character_speech,1,2,,DER KÖNIG.,#der_koenig,38.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+133,133,GerDracor/schlegel-alarcos.xml,So helfe ewiglich mir Gottes höchste Macht.,0,43,character_speech,1,2,,SOLISA.,#solisa,39.0,FEMALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+134,134,GerDracor/schlegel-alarcos.xml,"
+              In kurzer Rede hast du Großes mir gesagt.",0,56,character_speech,1,2,,DER KÖNIG.,#der_koenig,40.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+135,135,GerDracor/schlegel-alarcos.xml,"Zum zweitenmal nimm hier die königliche Hand,
+              Und statt der Antwort eil' ich gleich zur Rach' und Tat.",71,187,character_speech,1,2,,DER KÖNIG.,#der_koenig,40.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+136,136,GerDracor/schlegel-alarcos.xml,"Das erstgegeb'ne Wort soll halten dir der Graf,
+              Sonst wird er mit dem Tode billig gleich bestraft.",202,314,character_speech,1,2,,DER KÖNIG.,#der_koenig,40.0,MALE,anger,T,,1801.0,negative,emotions of rejection
+137,137,GerDracor/schlegel-alarcos.xml,"Wie mag doch gegen seinen Herrn der Untertan
+              Sich so vergehen, sich erkühnen solcher Tat?",329,432,character_speech,1,2,,DER KÖNIG.,#der_koenig,40.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+138,138,GerDracor/schlegel-alarcos.xml,Der König und die Infantin gehen von verschiedenen Seiten ab.,0,61,stage_direction,1,2,speech_part,,#der_koenig,40.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+139,139,GerDracor/schlegel-alarcos.xml,"
+              Der größte Schritt ist endlich nun geschehen,
+              Beharrlichkeit hat dennoch überwunden!",0,113,character_speech,1,2,,ALVARO.,#alvaro,41.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+140,140,GerDracor/schlegel-alarcos.xml,"–
+              Alarcos wildes Herz ist leicht zu lenken,
+              Auf ewig die Infantin mir verbunden;
+              So werd' ich einzig im Verborg'nen herrschen,
+              Und Beßres bringen noch die künft'gen Stunden,
+              Oh, wenn des Königs Tod uns bald erfreute,
+              Dann hätt' ich meiner Mühe Lohn gefunden!",114,456,character_speech,1,2,,ALVARO.,#alvaro,41.0,MALE,love,T,,1801.0,positive,emotions of affection
+141,141,GerDracor/schlegel-alarcos.xml,"
+              So nahe nun dem lang ersehnten Ziele,
+              Muß wieder ich in Furcht und Zweifel schweben.",0,113,character_speech,1,2,,ALVARO.,#alvaro,41.0,MALE,fear,T,,1801.0,negative,emotions of anxiety
+142,142,GerDracor/schlegel-alarcos.xml,"Wer andre gern mit Klugheit lenken möchte,
+              Oh, welche Welt von Sorg' ist dem gegeben!",128,227,character_speech,1,2,,ALVARO.,#alvaro,41.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+143,143,GerDracor/schlegel-alarcos.xml,"Er muß der Menschen Leidenschaften nutzen,
+              Und doch vor jeder Laune ängstlich beben,
+              Die seine tiefsten Pläne stören könnte;
+              Ein ewig wacher Zwang nur ist sein Leben.",242,450,character_speech,1,2,,ALVARO.,#alvaro,41.0,MALE,fear,T,,1801.0,negative,emotions of anxiety
+144,144,GerDracor/schlegel-alarcos.xml,Ein anderes Zimmer im Schlosse.,0,31,stage_direction,1,3,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+145,145,GerDracor/schlegel-alarcos.xml,Ricardo.,0,8,stage_direction,1,3,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+146,146,GerDracor/schlegel-alarcos.xml,Octavio.,9,17,stage_direction,1,3,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+147,147,GerDracor/schlegel-alarcos.xml,Alarcos.,18,26,stage_direction,1,3,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+148,148,GerDracor/schlegel-alarcos.xml,"
+              So wollt Ihr stets derselben Dame dienen,
+              Und achtet über alles nur die Treue?",0,107,character_speech,1,3,,RICARDO.,#ricardo,42.0,MALE,love,T,,1801.0,positive,emotions of affection
+149,149,GerDracor/schlegel-alarcos.xml,"
+              Ich denke, leichter Wechsel bringt uns Reue;
+              Den preis' ich glücklich, dem sein Ziel erschienen.",0,125,character_speech,1,3,,ALARCOS.,#alarcos,43.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+150,150,GerDracor/schlegel-alarcos.xml,"Nur der weiß von der Liebe Glück zu sagen,
+              Der seine Einz'ge ewig sich erkoren,
+              Und ewig hält, was er ihr zugeschworen.",140,287,character_speech,1,3,,ALARCOS.,#alarcos,43.0,MALE,love,T,,1801.0,positive,emotions of affection
+151,151,GerDracor/schlegel-alarcos.xml,"
+              Erlaubt mir, werter Graf, nur eins zu fragen;
+              Ihr seid der Dinge Meister, kennt die Liebe.",0,119,character_speech,1,3,,OCTAVIO.,#octavio,44.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+152,152,GerDracor/schlegel-alarcos.xml,"Leicht wird ein rasch Verheißen ausgesprochen,
+              Doch leichter wohl vom Leichtsinn noch gebrochen;
+              Ist's möglich denn, daß Ein' uns alles bliebe?",134,305,character_speech,1,3,,OCTAVIO.,#octavio,44.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+153,153,GerDracor/schlegel-alarcos.xml,"
+              O wollt Ihr das nach meinem Sinn ermessen,
+              Ist Eurem jeder Zweifel bald entschwunden;
+              Und wer bezweifelt's, der sein Glück gefunden?",0,175,character_speech,1,3,,ALARCOS.,#alarcos,45.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+154,154,GerDracor/schlegel-alarcos.xml,"Wer einmal liebte, der kann nie vergessen.",190,232,character_speech,1,3,,ALARCOS.,#alarcos,45.0,MALE,love,T,,1801.0,positive,emotions of affection
+155,155,GerDracor/schlegel-alarcos.xml,"Weg mit den leichten flüchtigen Gefühlen,
+              Die gleich den schnell verwelkten bunten Blüten,
+              Am ersten heißen Sommertag verblühten.",247,404,character_speech,1,3,,ALARCOS.,#alarcos,45.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+156,156,GerDracor/schlegel-alarcos.xml,Ich kann das Ewige nur ewig fühlen.,419,454,character_speech,1,3,,ALARCOS.,#alarcos,45.0,MALE,love,T,,1801.0,positive,emotions of affection
+157,157,GerDracor/schlegel-alarcos.xml,"So lebt ich liebend stets in treuem Bunde,
+              Das mag ich bei dem Teuersten beschwören.",469,567,character_speech,1,3,,ALARCOS.,#alarcos,45.0,MALE,love,T,,1801.0,positive,emotions of affection
+158,158,GerDracor/schlegel-alarcos.xml,der während der letzten Worte hereingetreten ist.,0,49,stage_direction,1,3,speech_part,,#der_koenig,46.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+159,159,GerDracor/schlegel-alarcos.xml,"
+              Ich freue mich, Alarcos, das zu hören,
+              Ein rechtes Ehrenwort aus teurem Munde.",0,107,character_speech,1,3,,DER KÖNIG,#der_koenig,46.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+160,160,GerDracor/schlegel-alarcos.xml,"
+              Ja, Ehre hab' ich, Herr, zum Ziel genommen,
+              Und lebe, wie es ihr Gesetz mich lehrte.",0,113,character_speech,1,3,,ALARCOS.,#alarcos,47.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+161,161,GerDracor/schlegel-alarcos.xml,"
+              Ich wüßte keinen, den ich höher ehrte.",0,53,character_speech,1,3,,DER KÖNIG.,#der_koenig,48.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+162,162,GerDracor/schlegel-alarcos.xml,"Dir dies zu zeigen, war ich jetzt gekommen,
+              Ich will auf deine Tugend Felsen bauen;
+              Du sollst der Erste sein in meinen Reichen,
+              Nur mir allein, sonst keinem andern weichen.",68,282,character_speech,1,3,,DER KÖNIG.,#der_koenig,48.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+163,163,GerDracor/schlegel-alarcos.xml,Jetzt aber will ich Wicht'ges dir vertrauen.,297,341,character_speech,1,3,,DER KÖNIG.,#der_koenig,48.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+164,164,GerDracor/schlegel-alarcos.xml,Ricardo und Octavio entfernen sich.,0,35,stage_direction,1,3,speech_part,,#der_koenig,48.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+165,165,GerDracor/schlegel-alarcos.xml,"
+              Du siehst, wie ich als Vater deiner schone,
+              Und wenn ich löwengleich dir zürnen sollte,
+              Die Schrecken meiner Macht dich fühlen lassen,
+              Treibt mich das Herz, als Liebling dich zu ehren.",0,241,character_speech,1,3,,DER KÖNIG.,#der_koenig,48.0,MALE,love,T,,1801.0,positive,emotions of affection
+166,166,GerDracor/schlegel-alarcos.xml,"Wie mocht' ich solchen Zorn, o Herr, verdienen?",0,47,character_speech,1,3,,ALARCOS.,#alarcos,49.0,MALE,anger,T,,1801.0,negative,emotions of rejection
+167,167,GerDracor/schlegel-alarcos.xml,"
+              So darfst du, Kühner, noch verwegen fragen?",0,58,character_speech,1,3,,DER KÖNIG.,#der_koenig,50.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+168,168,GerDracor/schlegel-alarcos.xml,"Hast du vergessen, was du der Infantin
+              Mit einem teuren Eide einst versprochen,
+              Noch eh' du jene Mißheirat vollzogen
+              Mit dem verhaßten widrigen Geschlechte?",73,271,character_speech,1,3,,DER KÖNIG.,#der_koenig,50.0,MALE,abhorrence,T,,1801.0,negative,emotions of rejection
+169,169,GerDracor/schlegel-alarcos.xml,"
+              Du siehst bestürzt, beschämt mich vor dir stehen.",0,64,character_speech,1,3,,ALARCOS.,#alarcos,51.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+170,170,GerDracor/schlegel-alarcos.xml,"Ich kann, was die Infantin sagt, nicht leugnen.",79,126,character_speech,1,3,,ALARCOS.,#alarcos,51.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+171,171,GerDracor/schlegel-alarcos.xml,"
+              Und dennoch konntest du dich selbst vergessend,
+              Nur eben jetzo deine Treue rühmen?",0,111,character_speech,1,3,,DER KÖNIG.,#der_koenig,52.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+172,172,GerDracor/schlegel-alarcos.xml,"
+              Es war ein Übermut, doch unter Freunden;
+              Ich glaubte nicht, daß uns der König hörte.",0,113,character_speech,1,3,,ALARCOS.,#alarcos,53.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+173,173,GerDracor/schlegel-alarcos.xml,"Auch war das, was ich meinte, treu der Wahrheit;
+              Denn fern war die Infantin meiner Seele,
+              Ich dachte nicht an sie bei diesen Worten.",128,288,character_speech,1,3,,ALARCOS.,#alarcos,53.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+174,174,GerDracor/schlegel-alarcos.xml,"So leicht vergißt du, was du heftig liebtest?",0,45,character_speech,1,3,,DER KÖNIG.,#der_koenig,54.0,MALE,love,T,,1801.0,positive,emotions of affection
+175,175,GerDracor/schlegel-alarcos.xml,"
+              Und wenn wir noch so heftig ernst uns liebten,
+              Wie dürften deine Billigung wir hoffen?",0,115,character_speech,1,3,,ALARCOS.,#alarcos,55.0,MALE,love,T,,1801.0,positive,emotions of affection
+176,176,GerDracor/schlegel-alarcos.xml,"Sie ist dein Blut, ich nur der erste Ritter.",130,174,character_speech,1,3,,ALARCOS.,#alarcos,55.0,MALE,love,T,,1801.0,positive,emotions of affection
+177,177,GerDracor/schlegel-alarcos.xml,"
+              Du bist gemacht, vor aller Welt zu glänzen.",0,58,character_speech,1,3,,DER KÖNIG.,#der_koenig,56.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+178,178,GerDracor/schlegel-alarcos.xml,"Dein tapfer Schwert, dein Ruhm und Herzens Kühnheit
+              Sind königlicher Art, voll Größ' und Würde;
+              Was fehlt dir, als ein König nur zum Vater?",73,240,character_speech,1,3,,DER KÖNIG.,#der_koenig,56.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+179,179,GerDracor/schlegel-alarcos.xml,"Ich will es sein, so du mein Sohn willst werden.",255,303,character_speech,1,3,,DER KÖNIG.,#der_koenig,56.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+180,180,GerDracor/schlegel-alarcos.xml,"
+              Wie sollt ich Mut zu solcher Hoheit fassen,
+              Jetzt da die eigne Schuld mich tief entadelt?",0,118,character_speech,1,3,,ALARCOS.,#alarcos,57.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+181,181,GerDracor/schlegel-alarcos.xml,Ich fühle zwiefach schrecklich mich gebunden!,133,178,character_speech,1,3,,ALARCOS.,#alarcos,57.0,MALE,love,T,,1801.0,positive,emotions of affection
+182,182,GerDracor/schlegel-alarcos.xml,"–
+              Was aber soll aus meinem Weibe werden?",179,233,character_speech,1,3,,ALARCOS.,#alarcos,57.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+183,183,GerDracor/schlegel-alarcos.xml,"
+              Wie kann den künft'gen Fürsten das erschrecken,
+              So kleiner Zweifel deinen Weg dir hemmen,
+               Den ich so hoher Dinge würdig achte?",0,170,character_speech,1,3,,DER KÖNIG.,#der_koenig,58.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+184,184,GerDracor/schlegel-alarcos.xml,"Es gibt gar manche Zuflucht für Verstoß'ne,
+              Und wenn kein schonend Mittel Hilfe leistet,
+              Zerhaut mit einem Streich der Mut den Knoten.",185,347,character_speech,1,3,,DER KÖNIG.,#der_koenig,58.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+185,185,GerDracor/schlegel-alarcos.xml,"
+              So soll ich meine Hand mit Blut beflecken,
+              Und sie so schuldlos für den Schuld'gen büßen?",0,118,character_speech,1,3,,ALARCOS.,#alarcos,59.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+186,186,GerDracor/schlegel-alarcos.xml,"
+              Warum nicht?",0,27,character_speech,1,3,,DER KÖNIG.,#der_koenig,60.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+187,187,GerDracor/schlegel-alarcos.xml,"oder soll ich meine Ehre,
+              Der Tochter Rettung etwa lieber opfern?",28,107,character_speech,1,3,,DER KÖNIG.,#der_koenig,60.0,MALE,love,T,,1801.0,positive,emotions of affection
+188,188,GerDracor/schlegel-alarcos.xml,"Schon mancher hat für seines Königs Ehre
+              Schuldlos, weil's nötig war, den Tod erduldet;
+              So mag dasselb' auch wohl die Gräfin leiden.",122,282,character_speech,1,3,,DER KÖNIG.,#der_koenig,60.0,MALE,friendship,T,,1801.0,positive,emotions of affection
+189,189,GerDracor/schlegel-alarcos.xml,"
+              Ich muß jetzt meine Schuld zu schwer noch fühlen:
+              Es ist mir neu und fremd, es drückt mich nieder.",0,127,character_speech,1,3,,ALARCOS.,#alarcos,61.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+190,190,GerDracor/schlegel-alarcos.xml,"Doch hoff' ich bald mich wieder zu erheben
+              Mit der gewohnten Kraft.",142,223,character_speech,1,3,,ALARCOS.,#alarcos,61.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+191,191,GerDracor/schlegel-alarcos.xml,"Ich muß mich fassen;
+              Doch nimm hier meine Hand, daß ich vollführe,
+              Was ich gelobt, was es auch gelten möge.",224,359,character_speech,1,3,,ALARCOS.,#alarcos,61.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+192,192,GerDracor/schlegel-alarcos.xml,Das einz'ge hab' ich fest sogleich beschlossen.,374,421,character_speech,1,3,,ALARCOS.,#alarcos,61.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+193,193,GerDracor/schlegel-alarcos.xml,"
+              So starke Seelen sind allein am stärksten;
+              Drum überlass' ich jetzo dich dir selber.",0,113,character_speech,1,3,,DER KÖNIG.,#der_koenig,62.0,MALE,love,T,,1801.0,positive,emotions of affection
+194,194,GerDracor/schlegel-alarcos.xml,"Zuvor, vertrauend dem zum zweiten Male
+              Gegebnen Worte, laß mich nun als Vater
+              An meine königliche Brust dich drücken.",128,273,character_speech,1,3,,DER KÖNIG.,#der_koenig,62.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+195,195,GerDracor/schlegel-alarcos.xml,Er umarmt ihn und geht ab.,0,26,stage_direction,1,3,speech_part,,#der_koenig,62.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+196,196,GerDracor/schlegel-alarcos.xml,"
+              Das also war die Absicht, das dein groß' Vertraun?",0,65,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+197,197,GerDracor/schlegel-alarcos.xml,"Du hältst mich deiner würdig, ja und glaubst fürwahr,
+               Ich werde schändlich handeln um den schnöden Lohn,
+              Ist nur die schwarze Sünde mit dem Gold des Throns
+              Zum Schein verhüllt, gedankenlos zufrieden sein,
+              Bis deinen Laster immer kühner folgt mein Schritt.",80,392,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,abhorrence,T,,1801.0,negative,emotions of rejection
+198,198,GerDracor/schlegel-alarcos.xml,"O Greuelbildnis, König ohne Ehr und Scham!",407,449,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,abhorrence,T,,1801.0,negative,emotions of rejection
+199,199,GerDracor/schlegel-alarcos.xml,"Nun glaub' ich, daß du schuld bist an Garcias Tod,
+              Und daß er fiel durch deine Meuchelmörderhand.",464,575,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,abhorrence,T,,1801.0,negative,emotions of rejection
+200,200,GerDracor/schlegel-alarcos.xml,"»Warum nicht?« sagst du, möchtest trinken heißes Blut,
+              Die heil'ge Unschuld töten, so dir Gott vertraut,
+              Das Recht zerbrechend schnöde spotten aller Scham;
+              Und immer noch – »warum nicht?« – früg' dein eifern Herz.",590,845,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+201,201,GerDracor/schlegel-alarcos.xml,"Mir sei die Ehre heilig ohne Wandel stets,
+              Und lieber geb' ich all' mein bestes Gut und Blut,
+              Und träf' auch tödlich recht mein Herz ihr hoher Strahl,
+              Als daß ich mich empörte gegen ihr Gesetz.",860,1095,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,love,T,,1801.0,positive,emotions of affection
+202,202,GerDracor/schlegel-alarcos.xml,"Weh mir, daß dennoch dieser Argen es gelang!",1110,1154,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,compassion,T,,1801.0,negative,emotions of suffering and empathy
+203,203,GerDracor/schlegel-alarcos.xml,"Sie scheut kein Unheil, das nur Sieg bringt ihrem Wunsch.",1169,1226,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,fear,T,,1801.0,negative,emotions of anxiety
+204,204,GerDracor/schlegel-alarcos.xml,"Es wird geschehn, es muß; doch nicht so, wie sie denkt.",1241,1296,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+205,205,GerDracor/schlegel-alarcos.xml,"Weh mir, daß die Verhaßt' ich je mit Augen sah!",1311,1358,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,abhorrence,T,,1801.0,negative,emotions of rejection
+206,206,GerDracor/schlegel-alarcos.xml,Der kurze Wahnsinn wird ein unauflöslich Band.,1373,1419,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+207,207,GerDracor/schlegel-alarcos.xml,"An das Verbrechen kettet mich das eine Wort,
+              In ew'gem Zwiespalt blutet rastlos nun mein Herz.",1434,1542,character_speech,1,3,,ALARCOS.,#alarcos,63.0,MALE,being moved,T,,1801.0,being moved,being moved
+208,208,GerDracor/schlegel-alarcos.xml,Ein Garten bei der Burg Alarcos.,0,32,stage_direction,1,4,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+209,209,GerDracor/schlegel-alarcos.xml,Im Hintergrunde ein Grabmal.,33,61,stage_direction,1,4,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+210,210,GerDracor/schlegel-alarcos.xml,"Donna Clara, Dagobert, nachher Donna Cornelia.",0,46,stage_direction,1,4,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+211,211,GerDracor/schlegel-alarcos.xml,"
+              O möchte unser Herr nun endlich kommen,
+              Und daß er froh und heiter bei uns bliebe,
+              Zufrieden mit der Unschuld meiner Liebe,
+              So wäre aller Wünsche Ziel gekommen.",0,217,character_speech,1,4,,CLARA.,#clara,64.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+212,212,GerDracor/schlegel-alarcos.xml,"Dann wäre alle Sorge weggenommen,
+               Dann dürft' ich Stolze keinen König scheuen,
+              Dann könnt' ich mich erst meiner Blumen freuen,
+              Da nichts ohn' ihn mir Lust und Leben frommen.",232,448,character_speech,1,4,,CLARA.,#clara,64.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+213,213,GerDracor/schlegel-alarcos.xml,"
+              So will ich ihm denn volle Kränze winden,
+              Die schönsten Knospen, sorgsam wählend, brechen,
+              Ihm meine innre Liebe auszusprechen,
+              Wo alle Worte im Gefühl verschwinden.",0,222,character_speech,1,4,,CLARA.,#clara,64.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+214,214,GerDracor/schlegel-alarcos.xml,"Mag er uns hier im grünen Garten finden,
+              Mit Blumen soll das Kind den Helden kränzen,
+              In Ros' und Lilie ihm entgegenglänzen,
+              Daß Zorn und Sorge aus der Seele schwinden.",237,447,character_speech,1,4,,CLARA.,#clara,64.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+215,215,GerDracor/schlegel-alarcos.xml,"
+              Ja, glücklich wär' ich, Dagobert, und heiter,
+              Blieb' unser Herr entfernt vom Glanz des Thrones.",0,124,character_speech,1,4,,CLARA.,#clara,64.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+216,216,GerDracor/schlegel-alarcos.xml,"Alarcos ist zu edel für die Menschen,
+              Die weltlich ganz zur Arglist nur erzogen.",139,233,character_speech,1,4,,CLARA.,#clara,64.0,FEMALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+217,217,GerDracor/schlegel-alarcos.xml,"Die Ehre, die sein großes Herz begeistert,
+              Für die er hochgesinnt das Liebste opfert,
+              Sie ist ein leerer Schall in ihrem Munde,
+              Der kleinen Absicht Werkzeug oft geworden.",248,460,character_speech,1,4,,CLARA.,#clara,64.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+218,218,GerDracor/schlegel-alarcos.xml,"Gott weiß, ob meine Seele richtig ahnet,
+              Ob arges Mißtraun in mein Herz gekommen;
+              Ich denke oft, der König nur war schuldig,
+              An meines Bruders Don Garcias Tode.",475,677,character_speech,1,4,,CLARA.,#clara,64.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+219,219,GerDracor/schlegel-alarcos.xml,"Selbst an Alvaros Treue muß ich zweifeln,
+              Als hätt' auch er das edle Blut vergossen.",692,790,character_speech,1,4,,CLARA.,#clara,64.0,FEMALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+220,220,GerDracor/schlegel-alarcos.xml,"O wenn Alarcos, was er dort verschwendet,
+              Auf dich doch übertrüge, dir nur folgte,
+              Dein graues Haupt zum Licht und Führer wählte,
+              So würde rechte Tugend recht vergolten.",805,1016,character_speech,1,4,,CLARA.,#clara,64.0,FEMALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+221,221,GerDracor/schlegel-alarcos.xml,"
+              Wohl möcht' er keinen treuern Diener finden,
+              Und wenn er alle Herzen prüfen wollte.",0,112,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+222,222,GerDracor/schlegel-alarcos.xml,"Ich lieb' ihn unbegreiflich, ganz sein Eigen;
+               Was er auch sagt, ich würd' ihm blind gehorchen.",127,236,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,love,T,,1801.0,positive,emotions of affection
+223,223,GerDracor/schlegel-alarcos.xml,"Wenn er mit dir, was nie geschehn mag, zürnte;
+              Ich würde trauern, doch ich würd' ihm folgen.",251,357,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,compassion,T,,1801.0,negative,emotions of suffering and empathy
+224,224,GerDracor/schlegel-alarcos.xml,"Ja wenn, was Gott verhüt', ihn Schuld befleckte,
+              Ich müßt' ihm doch die alte Liebe zollen.",372,476,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,love,T,,1801.0,positive,emotions of affection
+225,225,GerDracor/schlegel-alarcos.xml,"Doch weiter hab' ich kein Verdienst als dieses,
+              Daß ich den rechten Sternen treulich folge;
+              Und schenkt er falschen Männern sein Vertrauen,
+              Wie sollte da mein schlichter Mut wohl frommen?",491,720,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+226,226,GerDracor/schlegel-alarcos.xml,"Ich kann nur grade denken, tapfer schlagen;
+              Und weiß ich auch das Rechte, fehlen Worte,
+              Mit sanfter Überredung ihn zu lenken,
+              Wenn er sich selbst verkennt im heißen Zorne.",735,948,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,anger,T,,1801.0,negative,emotions of rejection
+227,227,GerDracor/schlegel-alarcos.xml,"Wahr ist es, daß ich nie zu diesen Männern
+              Aus Herzens Grunde Glauben fassen konnte.",963,1061,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+228,228,GerDracor/schlegel-alarcos.xml,"Wie anders wär' es, mußt' ich oftmals denken,
+              Trüg' unser teurer Herr die goldne Krone,
+              Der immer sich so königlich gebrauchte,
+              Als sei er gleich zum König schon geboren!",1076,1288,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+229,229,GerDracor/schlegel-alarcos.xml,"Dann wäre Recht und Ehre allen heilig,
+              Die Tugend strahlend und die Zeiten golden.",1303,1399,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+230,230,GerDracor/schlegel-alarcos.xml,"Verrat und Mißtraun würde niemand denken,
+              Und keine Mutter an dem Grab des Sohnes,
+              So wie Cornelia, Fluch in Tränen mischen,
+              Gedenkend, daß er heimlich sei ermordet.",1414,1621,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+231,231,GerDracor/schlegel-alarcos.xml,"O schau, wie dort sie an dem Grabmal stehet
+              Im eignen Tiefsinn schmerzlich ganz verloren!",1636,1739,character_speech,1,4,,DAGOBERT.,#dagobert,65.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+232,232,GerDracor/schlegel-alarcos.xml,"
+              Der Schmerz hat ihren Geist entrückt der Erde,
+              Das große Herz nur höher noch erhoben.",0,114,character_speech,1,4,,CLARA.,#clara,66.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+233,233,GerDracor/schlegel-alarcos.xml,"Wenn ich die Hohe so im Gram betrachte,
+              Dann fühl' ich von mir allen Mut genommen,
+              Daß jede Freude nichtig mir erscheinet,
+              Das Leben selbst der Eingang nur zum Tode.",129,336,character_speech,1,4,,CLARA.,#clara,66.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+234,234,GerDracor/schlegel-alarcos.xml,"
+              Sie liebt sich einsam selber zu betrachten:
+              So laßt uns weggehn, ihren Gram verschonen.",0,116,character_speech,1,4,,DAGOBERT.,#dagobert,67.0,MALE,love,T,,1801.0,positive,emotions of affection
+235,235,GerDracor/schlegel-alarcos.xml,"
+              Ich weiß es, ja ich sollte nicht so reden,
+              Für jetzt verscheuchen jede dunkle Sorge,
+              Nur an die Rückkehr des Gemahls gedenken,
+              Und kindlich froh des Frühlings Schönheit loben.",0,232,character_speech,1,4,,CLARA.,#clara,68.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+236,236,GerDracor/schlegel-alarcos.xml,"Doch wer vermag dem Herzen zu gebieten,
+              Des innern Denkens vielverschlungnem Strome?",247,345,character_speech,1,4,,CLARA.,#clara,68.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+237,237,GerDracor/schlegel-alarcos.xml,"
+              Dein Kindlein, Herrin, will nach dir verlangen.",0,62,character_speech,1,4,,EINE WÄRTERIN.,#eine_waerterin,69.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+238,238,GerDracor/schlegel-alarcos.xml,O komm und gib ihm deine Brust zum Troste!,77,119,character_speech,1,4,,EINE WÄRTERIN.,#eine_waerterin,69.0,FEMALE,compassion,T,,1801.0,negative,emotions of suffering and empathy
+239,239,GerDracor/schlegel-alarcos.xml,"
+              Ich eile schon, will es mit Blumen zieren,
+              Und festlich alles schmücken in dem Schlosse.",0,117,character_speech,1,4,,CLARA.,#clara,70.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+240,240,GerDracor/schlegel-alarcos.xml,"O wenn ich in des Mädchens Lächeln schaue,
+              Dann kann ich wieder lebensmutig hoffen.",132,229,character_speech,1,4,,CLARA.,#clara,70.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+241,241,GerDracor/schlegel-alarcos.xml,"Clara, Dagobert und die Wärterin gehen ab.",0,42,stage_direction,1,4,speech_part,,#clara,70.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+242,242,GerDracor/schlegel-alarcos.xml,"
+              Nicht Blumen will ich auf dein Grabmal streuen;
+              Wie auch des Frühlings Schönheit schmeichelnd riefe,
+              Es kann die Eitelkeit dich nicht erfreuen.",0,186,character_speech,1,4,,CORNELIA.,#cornelia,71.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+243,243,GerDracor/schlegel-alarcos.xml,"Der Schmerz, der nie in meiner Brust noch schliefe,
+              Hat ja auch mich getötet und versteinet;
+              In deinem Tod sah ich des Lebens Tiefe.",201,361,character_speech,1,4,,CORNELIA.,#cornelia,71.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+244,244,GerDracor/schlegel-alarcos.xml,"Was andre preisen, wird von mir beweinet;
+              Sie leben nur dem Leben hingegeben,
+              Ich bin im Herzen schon dem Tod vereinet.",376,523,character_speech,1,4,,CORNELIA.,#cornelia,71.0,FEMALE,despair,T,,1801.0,negative,emotions of anxiety
+245,245,GerDracor/schlegel-alarcos.xml,"Die Freude kann mir bittres Leid nur geben,
+              Seit meine Augen durch die Hülle sehen,
+              Der alten Bosheit immer neues Streben:
+               Wie alle sorglos ins Verderben gehen,
+              Kaum einmal träge nach dem Himmel schauen,
+              Bewußtlos in der Hölle Schlingen stehen.",538,853,character_speech,1,4,,CORNELIA.,#cornelia,71.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+246,246,GerDracor/schlegel-alarcos.xml,"O welchem Lichte soll die Hoffnung trauen,
+              Wenn alles täuscht?",868,944,character_speech,1,4,,CORNELIA.,#cornelia,71.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+247,247,GerDracor/schlegel-alarcos.xml,"– Wir finden nirgends Labe,
+              Als dort auf jenen sternenlichten Auen.",945,1026,character_speech,1,4,,CORNELIA.,#cornelia,71.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+248,248,GerDracor/schlegel-alarcos.xml,Drum seid ihr Schmerzen hier mein bestes Habe!,1041,1087,character_speech,1,4,,CORNELIA.,#cornelia,71.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+249,249,GerDracor/schlegel-alarcos.xml,"Die Mutter bringt das Köstlichste dem Sohne,
+              Ihr eigen herzlich Leiden dar zum Grabe,
+              Aus bittern Wunden eine Dornenkrone.",1102,1252,character_speech,1,4,,CORNELIA.,#cornelia,71.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+250,250,GerDracor/schlegel-alarcos.xml,Ein Wald; im Hintergrunde die Burg Alarcos.,0,43,stage_direction,1,5,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+251,251,GerDracor/schlegel-alarcos.xml,Don Alvaro.,0,11,stage_direction,1,5,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+252,252,GerDracor/schlegel-alarcos.xml,Alarcos.,12,20,stage_direction,1,5,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+253,253,GerDracor/schlegel-alarcos.xml,"
+              Der Abend naht, der Wald wird immer dunkler,
+              Im Mond erscheinen dort schon deine Burgen.",0,117,character_speech,1,5,,ALVARO.,#alvaro,72.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+254,254,GerDracor/schlegel-alarcos.xml,"Zum König eil' ich nun zurück im Fluge,
+              Das Unheil abzuwehren, was im Sturme
+              Dort etwa blinde Leidenschaft versuchte,
+              Mit weiser Überredung goldner Zunge,
+              Die schnell oft wiederbringt die milde Ruhe,
+              Wo Zorn und Liebe wild bewegt den Busen.",132,442,character_speech,1,5,,ALVARO.,#alvaro,72.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+255,255,GerDracor/schlegel-alarcos.xml,"Ich lasse dich ansetzt mit sicherm Mute,
+              Weil ich so stark entschlossen dich gefunden.",457,557,character_speech,1,5,,ALVARO.,#alvaro,72.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+256,256,GerDracor/schlegel-alarcos.xml,"Wie wird die Fürstin freun sich dieser Kunde,
+              Daß sie vertrauen dürfe deinem Schwure,
+              Und Hoffnung in das Herz nun wieder rufen,
+              Das liebend in Verzweiflung oft geblutet.",572,784,character_speech,1,5,,ALVARO.,#alvaro,72.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+257,257,GerDracor/schlegel-alarcos.xml,"
+              Ich hab' als rechten Freund dich stets erfunden,
+              So klug als gutgesinnt, im Sturm auch ruhig.",0,122,character_speech,1,5,,ALARCOS.,#alarcos,73.0,MALE,friendship,T,,1801.0,positive,emotions of affection
+258,258,GerDracor/schlegel-alarcos.xml,"
+              So lerne du von mir denn diese Klugheit,
+              Wie ich mich deiner Kühnheit nachgeschwungen.",0,115,character_speech,1,5,,ALVARO.,#alvaro,74.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+259,259,GerDracor/schlegel-alarcos.xml,"Verschmäh' nicht, was so leicht, im Übermute.",130,175,character_speech,1,5,,ALVARO.,#alvaro,74.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+260,260,GerDracor/schlegel-alarcos.xml,"Du stehst im hellen Glanz des höchsten Ruhmes,
+              Den schnell ein einz'ger kleiner Fleck verdunkelt.",190,301,character_speech,1,5,,ALVARO.,#alvaro,74.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+261,261,GerDracor/schlegel-alarcos.xml,"O daß man nicht einst sagt aus einem Munde:
+              Es fehlt ihm nur an dieser einen Tugend,
+              Daß er sich selber hätte überwunden!",316,465,character_speech,1,5,,ALVARO.,#alvaro,74.0,MALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+262,262,GerDracor/schlegel-alarcos.xml,"Ja, handle mäßig, schonend und mit Ruhe;
+              Behutsamkeit heilt oft die schlimmste Wunde.",480,579,character_speech,1,5,,ALVARO.,#alvaro,74.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+263,263,GerDracor/schlegel-alarcos.xml,"Es gibt der Dinge, die das Schwert nicht dulden,
+              Und manches was er tat, weil er es mußte,
+              Hüllt der Verständ'ge in ein weises Dunkel.",594,756,character_speech,1,5,,ALVARO.,#alvaro,74.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+264,264,GerDracor/schlegel-alarcos.xml,Vorsicht hat nie ein Unheil noch verschuldet.,771,816,character_speech,1,5,,ALVARO.,#alvaro,74.0,MALE,fear,T,,1801.0,negative,emotions of anxiety
+265,265,GerDracor/schlegel-alarcos.xml,"Nun lebe wohl, und nimm in diesem Kusse
+              Der Liebe Pfand!",831,901,character_speech,1,5,,ALVARO.,#alvaro,74.0,MALE,love,T,,1801.0,positive,emotions of affection
+266,266,GerDracor/schlegel-alarcos.xml,"– Noch einmal sei umschlungen
+              Von deinem treusten Freunde, Diener, Bruder.",902,990,character_speech,1,5,,ALVARO.,#alvaro,74.0,MALE,friendship,T,,1801.0,positive,emotions of affection
+267,267,GerDracor/schlegel-alarcos.xml,Alvaro geht ab.,0,15,stage_direction,1,5,speech_part,,#alvaro,74.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+268,268,GerDracor/schlegel-alarcos.xml,"
+              Ja geh nur hin!",0,30,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,anger,T,,1801.0,negative,emotions of rejection
+269,269,GerDracor/schlegel-alarcos.xml,"– So milde wie du klüglich denkst,
+              Wird dieses große Unheil wahrlich nicht geschehn.",31,129,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+270,270,GerDracor/schlegel-alarcos.xml,"Dein Herz hat nie der Liebe Flammensturm bewegt;
+              Drum ist die hohe Ehre dir ein kalt Gesetz;
+              Und große Tat dir, so wie groß Verbrechen, fremd.",144,314,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,love,T,,1801.0,positive,emotions of affection
+271,271,GerDracor/schlegel-alarcos.xml,"Ruhm, Liebe, Glorie, Lust sind mir des Lebens Herz,
+              Wo hoch in Flammen all die Kraft vereinigt brennt;
+              So lichter Fackel folgend, hab' ich stets gelebt,
+              Fortan auch mutig will ich vorwärts ferner gehn,
+              In Sturm mich selber reißend, achten keinen Schmerz,
+              Ging auch durch Höll' und Pein und Blut der dunkle Weg!",329,709,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,love,T,,1801.0,positive,emotions of affection
+272,272,GerDracor/schlegel-alarcos.xml,"Des Todes Grimm quillt plötzlich aus der höchsten Lust,
+              Schnell färbt sich rosenlichte Liebe oft in Blut,
+              Und Leichen häuft auf Leichen zorn'ge Ehr' in Wut.",724,908,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+273,273,GerDracor/schlegel-alarcos.xml,"Denn schrecklich rächt oft Ehre noch so kleine Schuld,
+              Und muß sie uneins zürnen gar dem eignen Tun,
+              Reißt unaufhaltsam wachsend alles fort der Fluch,
+              Macht in Verwüstung ihre Allmacht greulich kund.",924,1165,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,abhorrence,T,,1801.0,negative,emotions of rejection
+274,274,GerDracor/schlegel-alarcos.xml,"Wie meine Burg dort glänzend glorreich oben thront,
+              Der Väter Denkmal, sonst Alarcos hoher Stolz,
+              Die nun als Wohnsitz grausen Unheils mich bedroht!",1180,1356,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+275,275,GerDracor/schlegel-alarcos.xml,"Vielleicht daß Donna Clara jetzt um mich besorgt,
+              Auf jeden Fußtritt merkend, sorgsam leise horcht,
+              Mit stiller Sehnsucht auf die Rückkehr dessen hofft,
+              Der heimlich hingab ihrem Feind sein eisern Wort,
+              Der eignen Brust ein ewig schneidendscharfer Dolch.",1371,1681,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,fear,T,,1801.0,negative,emotions of anxiety
+276,276,GerDracor/schlegel-alarcos.xml,"Bald öffnet nun die hohen Pforten dort das Schloß,
+              Mit freud'gem Blick tritt Clara mir entgegen schon;
+              Doch Gruß und Freude geben dem wohl keinen Trost,
+              Der nichts mehr denkt und glaubt und sieht als bittern Tod.",1696,1950,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+277,277,GerDracor/schlegel-alarcos.xml,"So ich verstummt nur tiefer, schweige immer noch,
+              Bis einsam nächtlich alles still im ganzen Schloß.",1965,2079,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+278,278,GerDracor/schlegel-alarcos.xml,"Da bricht der Schmerz aus tiefem Herzen endlich los;
+              »Wie traurig, unglücksel'ge Gräfin, ist dein Los!",2094,2210,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+279,279,GerDracor/schlegel-alarcos.xml,"Wie bitter ist dein Schicksal, fern von allem Trost!",2225,2277,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+280,280,GerDracor/schlegel-alarcos.xml,"'« –
+              »Nein!",2277,2302,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+281,281,GerDracor/schlegel-alarcos.xml,"glücklich, spricht sie, freudenreich ist wohl mein Los,
+              Weil du zur glücklichen Genossin mich erkorst.« –
+              »Das eben, Gräfin, raubt dir wahrlich allen Trost.«
+              Und wie den Lippen diese herbe Red' entflohn,
+              Da hält dann länger nicht der Schmerz, und sieh, es sproßt
+              Aus vollen Augen zwiefach mir der heiße Strom.",2303,2682,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+282,282,GerDracor/schlegel-alarcos.xml,"O weh, es schwillt das Auge wahrer Tränen voll,
+              Indes ich so in Träum' und Mitleid mich verlor;
+              Schmerzübermannt fließt unaufhaltsam fort der Strom
+              Der bittern Zähren aus des Herzens vollem Born.",2697,2934,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+283,283,GerDracor/schlegel-alarcos.xml,Er weint.,0,9,stage_direction,1,5,speech_part,,#alarcos,75.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+284,284,GerDracor/schlegel-alarcos.xml,"
+              Wohlan, Alarcos, mutig nun der Burg genaht!",0,58,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+285,285,GerDracor/schlegel-alarcos.xml,"Und wie dein Wort du rasch entschlossen zweimal gabst,
+              So schreite jetzt auch mutig rasch zur dunkeln Tat.",73,193,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+286,286,GerDracor/schlegel-alarcos.xml,"Ich nahe dir, o Burg, mit innerm Grausen.",209,250,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,despair,T,,1801.0,negative,emotions of anxiety
+287,287,GerDracor/schlegel-alarcos.xml,"Die Mauern sehn mich an wie Grabessteine,
+              Die hohen Fenster mit trübsel'gem Scheine:
+              Es ist, als könnte da nur Unheil hausen.",265,418,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+288,288,GerDracor/schlegel-alarcos.xml,"Und wie im Wind die alten Eichen sausen,
+              Mehrt sich die Angst; ich sehe mich alleine,
+              Die Schrecken alle drohend im Vereine,
+              Und höre dumpf die Hölle unten brausen.",433,639,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,fear,T,,1801.0,negative,emotions of anxiety
+289,289,GerDracor/schlegel-alarcos.xml,"Es ziehn herbei die schwarzen Geisterhorden,
+              Hohnlachend, daß sie bald in Blut sich laben,
+              Seh ich sie all' auf mich die Blicke richten;
+              Im Wahnsinn will ich alles dann vernichten,
+              Den Leib im Schutt der eignen Burg begraben,
+              Und grausam selbst das treue Weib ermorden.",654,993,character_speech,1,5,,ALARCOS.,#alarcos,75.0,MALE,despair,T,,1801.0,negative,emotions of anxiety
+290,290,GerDracor/schlegel-alarcos.xml,Er geht auf die Burg zu.,0,24,stage_direction,1,5,speech_part,,#alarcos,75.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+291,291,GerDracor/schlegel-alarcos.xml,Ein Zimmer der Infantin.,0,24,stage_direction,1,6,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+292,292,GerDracor/schlegel-alarcos.xml,allein.,0,7,stage_direction,1,6,speech_part,,#solisa,76.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+293,293,GerDracor/schlegel-alarcos.xml,"
+              Du bleicher Mond, der von dem hohen Himmel
+              Allein mein einsam Leiden
+              Mitleidig weinend anzuschauen würdigt!",0,150,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+294,294,GerDracor/schlegel-alarcos.xml,"O sei mir freundlich, kühle diese Flammen,
+              Die innerlich das heiße Blut entzünden,
+              Daß ich die Arme glutverlangend öffne
+              Nach dem, der treulos meiner Glut vergessen,
+              Mein Diadem verschmähte,
+              Ein tugendbleiches Kind mir vorgezogen,
+              Statt königlich die Fürstenbraut zu wählen,
+              Und stolz in meinem Sonnenglanz zu strahlen,
+              Von Lust und Glorie trunken,
+              An diese Brust zu sinken,
+              Die ihn nur fühlt, und strebt mit heißen Schlägen
+               Ihn zu umschlingen, liebend zu umfangen,
+              Umarmt an ihm zu hangen,
+              Die Seele von den Lippen ihm zu trinken,
+              In Glut gebadet, immer neu zu fühlen
+              Das brennende Verlangen.",165,969,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+295,295,GerDracor/schlegel-alarcos.xml,"
+              Du himmlisch freundlich milde Kraft des Mondes!",0,62,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+296,296,GerDracor/schlegel-alarcos.xml,"O träufle kühle Lind'rung
+              Nur einen Tropfen, einen einz'gen Tropfen,
+              In dieses Meer von Glut und Scham und Liebe,
+              Das mir die volle Brust bedrängend schwellt!",77,277,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+297,297,GerDracor/schlegel-alarcos.xml,"O wehe kühl und freundlich
+              An diese Stirne, Wangen, Lippen, Augen,
+              Die so von Scham und Unmut schmerzlich brennen,
+              Daß keine Worte solche Schmerzen nennen!",292,489,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+298,298,GerDracor/schlegel-alarcos.xml,"Wenn lang umsonst sich ausgestreckt die Arme,
+              Das Herz umsonst so glühend hat geschlagen;
+              So kann die Kraft es länger nicht ertragen,
+              Dann stockt der Busen plötzlich,
+              Und Todeskälte schleicht durch alle Glieder,
+              Das wilde Feuer drängt sich in die Wangen,
+              Um schamrot meine Schmach mir zu verkünden.",504,886,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+299,299,GerDracor/schlegel-alarcos.xml,"So hält der Schmerz mich inniglich gebunden,
+              Zerstört den stolzen Tempel meiner Schönheit!",901,1005,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+300,300,GerDracor/schlegel-alarcos.xml,"Doch du bist bleich und kalt;
+              Wie konnt' ich Glüh'nde meine Glut dir klagen?",1020,1110,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+301,301,GerDracor/schlegel-alarcos.xml,"Es gleicht dein kranker Schein
+              Der stillen Todeslampe
+              Viel eher als der mut'gen Hochzeitfackel.",1125,1248,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,despair,T,,1801.0,negative,emotions of anxiety
+302,302,GerDracor/schlegel-alarcos.xml,"Vielleicht daß oft dein Blick uns Unheil sendet,
+              Du eben jetzt das Opfer schon erwartest,
+              Das heimlich deinem Neide fallen soll.",1263,1419,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,abhorrence,T,,1801.0,negative,emotions of rejection
+303,303,GerDracor/schlegel-alarcos.xml,"O wenn es doch die Gräfin wäre, daß sie
+              Noch heute diese Nacht, so bleich wie du,
+              Im weißen Leichentuche vor mir läge!",1434,1580,character_speech,1,6,,SOLISA,#solisa,76.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+304,304,GerDracor/schlegel-alarcos.xml,Ein Saal auf dem Schlosse des Grafen.,0,37,stage_direction,2,0,pre_scene,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+305,305,GerDracor/schlegel-alarcos.xml,Alarcos.,0,8,stage_direction,2,0,pre_scene,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+306,306,GerDracor/schlegel-alarcos.xml,Donna Clara.,9,21,stage_direction,2,0,pre_scene,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+307,307,GerDracor/schlegel-alarcos.xml,Dagobert.,22,31,stage_direction,2,0,pre_scene,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation

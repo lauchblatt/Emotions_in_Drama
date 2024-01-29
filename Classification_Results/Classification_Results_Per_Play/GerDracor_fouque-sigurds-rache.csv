@@ -1,0 +1,1236 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/fouque-sigurds-rache.xml,Dichter Wald.,0,13,stage_direction,1,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+1,1,GerDracor/fouque-sigurds-rache.xml,Eine alte Burg im Hintergrunde.,14,45,stage_direction,1,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+2,2,GerDracor/fouque-sigurds-rache.xml,"Gunnar, Högne, Grimhildis treten mit einigem Gefolge und einem Boten auf.",0,73,stage_direction,1,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+3,3,GerDracor/fouque-sigurds-rache.xml,Halle in König Atles Burg.,0,26,stage_direction,2,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+4,4,GerDracor/fouque-sigurds-rache.xml,Morgendämmerung.,27,43,stage_direction,2,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+5,5,GerDracor/fouque-sigurds-rache.xml,König Dietereich mit seinem Knecht.,0,35,stage_direction,2,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+6,6,GerDracor/fouque-sigurds-rache.xml,Zwei Diener tragen einen Weinschlauch.,0,38,stage_direction,3,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+7,7,GerDracor/fouque-sigurds-rache.xml,Setz' ab.,0,9,character_speech,3,1,,EINER.,#erster_diener,1.0,MALE,no_annotation,no_annotation,no_annotation
+8,8,GerDracor/fouque-sigurds-rache.xml,Das wiegt zu schwer.,10,30,character_speech,3,1,,EINER.,#erster_diener,1.0,MALE,no_annotation,no_annotation,no_annotation
+9,9,GerDracor/fouque-sigurds-rache.xml,den Weinschlauch öffnend.,0,25,stage_direction,3,1,speech_part,,#zweiter_diener,2.0,MALE,no_annotation,no_annotation,no_annotation
+10,10,GerDracor/fouque-sigurds-rache.xml,Wir wollen's erleichtern.,0,25,character_speech,3,1,,DER ANDRE,#zweiter_diener,2.0,MALE,no_annotation,no_annotation,no_annotation
+11,11,GerDracor/fouque-sigurds-rache.xml,Du!,0,3,character_speech,3,1,,ERSTER.,#erster_diener,3.0,MALE,abhorrence,negative,emotions of rejection
+12,12,GerDracor/fouque-sigurds-rache.xml,Laß' die Herr'n das merken.,4,31,character_speech,3,1,,ERSTER.,#erster_diener,3.0,MALE,no_annotation,no_annotation,no_annotation
+13,13,GerDracor/fouque-sigurds-rache.xml,"
+              Merken?",0,22,character_speech,3,1,,ZWEITER.,#zweiter_diener,4.0,MALE,no_annotation,no_annotation,no_annotation
+14,14,GerDracor/fouque-sigurds-rache.xml,Die?,23,27,character_speech,3,1,,ZWEITER.,#zweiter_diener,4.0,MALE,being moved,being moved,being moved
+15,15,GerDracor/fouque-sigurds-rache.xml,"In ihren Häuptern summt es ja und schäumt
+              Wie nah' beim Bingerloch der alte Rhein.",42,138,character_speech,3,1,,ZWEITER.,#zweiter_diener,4.0,MALE,no_annotation,no_annotation,no_annotation
+16,16,GerDracor/fouque-sigurds-rache.xml,"Sah'st doch, wie all' die andern Gäste schon
+              Vom Platze wichen, nur die beiden Könige
+              Stand halten, oder Sitz vielmehr, denn's Stehn
+              Möcht' ihnen doch schwer fallen.",153,360,character_speech,3,1,,ZWEITER.,#zweiter_diener,4.0,MALE,suffering,negative,emotions of suffering and empathy
+17,17,GerDracor/fouque-sigurds-rache.xml,"
+              Der Gesandte
+              Des Königs Atle hält auch wacker aus.",0,79,character_speech,3,1,,ERSTER.,#erster_diener,5.0,MALE,no_annotation,no_annotation,no_annotation
+18,18,GerDracor/fouque-sigurds-rache.xml,einen Becher aus dem Schlauche füllend.,0,39,stage_direction,3,1,speech_part,,#zweiter_diener,6.0,MALE,no_annotation,no_annotation,no_annotation
+19,19,GerDracor/fouque-sigurds-rache.xml,"
+              Da!",0,18,character_speech,3,1,,ZWEITER,#zweiter_diener,6.0,MALE,no_annotation,no_annotation,no_annotation
+20,20,GerDracor/fouque-sigurds-rache.xml,Trink' erst 'mal.,19,36,character_speech,3,1,,ZWEITER,#zweiter_diener,6.0,MALE,no_annotation,no_annotation,no_annotation
+21,21,GerDracor/fouque-sigurds-rache.xml,Es komm nachher an mich.,37,61,character_speech,3,1,,ZWEITER,#zweiter_diener,6.0,MALE,no_annotation,no_annotation,no_annotation
+22,22,GerDracor/fouque-sigurds-rache.xml,"Wenn Kön'ge schmausen, muß die Kraft des Weins
+              Ermunternd sprüh'n auf ihre Diener mit.",76,176,character_speech,3,1,,ZWEITER,#zweiter_diener,6.0,MALE,no_annotation,no_annotation,no_annotation
+23,23,GerDracor/fouque-sigurds-rache.xml,"–
+              Ja, der Gesandte, meinst du?",177,221,character_speech,3,1,,ZWEITER,#zweiter_diener,6.0,MALE,no_annotation,no_annotation,no_annotation
+24,24,GerDracor/fouque-sigurds-rache.xml,"– Bruder hör',
+              Der goß dir manchen Becher edlen Tranks
+              Zisch!",222,311,character_speech,3,1,,ZWEITER,#zweiter_diener,6.0,MALE,no_annotation,no_annotation,no_annotation
+25,25,GerDracor/fouque-sigurds-rache.xml,"in des Heerdes lodernd Feuer bald,
+              Bald heimlich auf den glatten Estrich aus,
+              So daß es unsre Herren gar nicht sahn.",312,456,character_speech,3,1,,ZWEITER,#zweiter_diener,6.0,MALE,no_annotation,no_annotation,no_annotation
+26,26,GerDracor/fouque-sigurds-rache.xml,"
+              Der Kerl muß doch ein ausgemachter Narr sein
+              So guten Wein verschütten, – denn, – sieh' an –
+              Ich meine guten Wein –",0,158,character_speech,3,1,,ERSTER.,#erster_diener,7.0,MALE,being moved,being moved,being moved
+27,27,GerDracor/fouque-sigurds-rache.xml,"
+              Aha!",0,19,character_speech,3,1,,ZWEITER.,#zweiter_diener,8.0,MALE,no_annotation,no_annotation,no_annotation
+28,28,GerDracor/fouque-sigurds-rache.xml,"Er steigt
+              Dir auch ein wenig in den kahlen Kopf.",20,82,character_speech,3,1,,ZWEITER.,#zweiter_diener,8.0,MALE,abhorrence,negative,emotions of rejection
+29,29,GerDracor/fouque-sigurds-rache.xml,Was?,0,4,character_speech,3,1,,ERSTER.,#erster_diener,9.0,MALE,no_annotation,no_annotation,no_annotation
+30,30,GerDracor/fouque-sigurds-rache.xml,Die zwei kleinen Becher?,5,29,character_speech,3,1,,ERSTER.,#erster_diener,9.0,MALE,no_annotation,no_annotation,no_annotation
+31,31,GerDracor/fouque-sigurds-rache.xml,– Nennst das Becher?,30,50,character_speech,3,1,,ERSTER.,#erster_diener,9.0,MALE,no_annotation,no_annotation,no_annotation
+32,32,GerDracor/fouque-sigurds-rache.xml,–,51,52,character_speech,3,1,,ERSTER.,#erster_diener,9.0,MALE,no_annotation,no_annotation,no_annotation
+33,33,GerDracor/fouque-sigurds-rache.xml,"
+              Darum ward dir der Schlauch vorhin so schwer.",0,60,character_speech,3,1,,ZWEITER.,#zweiter_diener,10.0,MALE,suffering,negative,emotions of suffering and empathy
+34,34,GerDracor/fouque-sigurds-rache.xml,Nun mach!,75,84,character_speech,3,1,,ZWEITER.,#zweiter_diener,10.0,MALE,no_annotation,no_annotation,no_annotation
+35,35,GerDracor/fouque-sigurds-rache.xml,"Sack' auf, und fort.",85,105,character_speech,3,1,,ZWEITER.,#zweiter_diener,10.0,MALE,anger,negative,emotions of rejection
+36,36,GerDracor/fouque-sigurds-rache.xml,Herrschaften kommen.,106,126,character_speech,3,1,,ZWEITER.,#zweiter_diener,10.0,MALE,no_annotation,no_annotation,no_annotation
+37,37,GerDracor/fouque-sigurds-rache.xml,Sie tragen den Schlauch hinaus.,0,31,stage_direction,3,1,speech_part,,#zweiter_diener,10.0,MALE,no_annotation,no_annotation,no_annotation
+38,38,GerDracor/fouque-sigurds-rache.xml,"
+              Es ist nicht richtig.",0,36,character_speech,3,1,,KOSTBERA.,#kostbera,11.0,FEMALE,no_annotation,no_annotation,no_annotation
+39,39,GerDracor/fouque-sigurds-rache.xml,"Irgend heimlich Uebel
+              Lauscht hinter dieser Botschaft falschem Prunk.",37,120,character_speech,3,1,,KOSTBERA.,#kostbera,11.0,FEMALE,being moved,being moved,being moved
+40,40,GerDracor/fouque-sigurds-rache.xml,"Ach, wer auch immer Arges denken will!",0,38,character_speech,3,1,,GLAMWOR.,#glamwor,12.0,FEMALE,suffering,negative,emotions of suffering and empathy
+41,41,GerDracor/fouque-sigurds-rache.xml,"
+              Nein, wer sich stets in Schlummer wiegen will!",0,61,character_speech,3,1,,KOSTBERA.,#kostbera,13.0,FEMALE,no_annotation,no_annotation,no_annotation
+42,42,GerDracor/fouque-sigurds-rache.xml,"–
+              Sieh' doch die Täflein hier, so der Gesandte
+              Uns eingehändigt von Gudrunens Hand.",62,173,character_speech,3,1,,KOSTBERA.,#kostbera,13.0,FEMALE,no_annotation,no_annotation,no_annotation
+43,43,GerDracor/fouque-sigurds-rache.xml,"
+              Nun ja, was ist da weiter dran zu sehn.",0,54,character_speech,3,1,,GLAMWOR.,#glamwor,14.0,FEMALE,no_annotation,no_annotation,no_annotation
+44,44,GerDracor/fouque-sigurds-rache.xml,Ich sehe Runentafeln guten Inhalts.,69,104,character_speech,3,1,,GLAMWOR.,#glamwor,14.0,FEMALE,no_annotation,no_annotation,no_annotation
+45,45,GerDracor/fouque-sigurds-rache.xml,"
+              Doch schlechter Schrift.",0,39,character_speech,3,1,,KOSTBERA.,#kostbera,15.0,FEMALE,no_annotation,no_annotation,no_annotation
+46,46,GerDracor/fouque-sigurds-rache.xml,"Die Züge ganz verstellt,
+              Verwischt, undeutlich, ja bisweilen falsch.",40,122,character_speech,3,1,,KOSTBERA.,#kostbera,15.0,FEMALE,no_annotation,no_annotation,no_annotation
+47,47,GerDracor/fouque-sigurds-rache.xml,Das that die Eile.,0,18,character_speech,3,1,,GLAMWOR.,#glamwor,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+48,48,GerDracor/fouque-sigurds-rache.xml,"
+              Kennst Gudrunen nicht?",0,37,character_speech,3,1,,KOSTBERA.,#kostbera,17.0,FEMALE,no_annotation,no_annotation,no_annotation
+49,49,GerDracor/fouque-sigurds-rache.xml,"Die vielgelehrt', erfahrne Schreiberin?",52,91,character_speech,3,1,,KOSTBERA.,#kostbera,17.0,FEMALE,no_annotation,no_annotation,no_annotation
+50,50,GerDracor/fouque-sigurds-rache.xml,Wir sah'n sie niemals.,0,22,character_speech,3,1,,GLAMWOR.,#glamwor,18.0,FEMALE,no_annotation,no_annotation,no_annotation
+51,51,GerDracor/fouque-sigurds-rache.xml,"
+              Doch ihr Ruf ist laut.",0,37,character_speech,3,1,,KOSTBERA.,#kostbera,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+52,52,GerDracor/fouque-sigurds-rache.xml,"Und die, die sollte sich so grob verschreiben?",53,99,character_speech,3,1,,KOSTBERA.,#kostbera,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+53,53,GerDracor/fouque-sigurds-rache.xml,"Da, sieh nur hier – und hier –",114,144,character_speech,3,1,,KOSTBERA.,#kostbera,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+54,54,GerDracor/fouque-sigurds-rache.xml,"Ja, seltsam ist's.",0,18,character_speech,3,1,,GLAMWOR.,#glamwor,20.0,FEMALE,no_annotation,no_annotation,no_annotation
+55,55,GerDracor/fouque-sigurds-rache.xml,Verändert hat den Inhalt der Gesandte.,0,38,character_speech,3,1,,KOSTBERA.,#kostbera,21.0,FEMALE,no_annotation,no_annotation,no_annotation
+56,56,GerDracor/fouque-sigurds-rache.xml,Du sprichst ein keckes Wort.,0,28,character_speech,3,1,,GLAMWOR.,#glamwor,22.0,FEMALE,no_annotation,no_annotation,no_annotation
+57,57,GerDracor/fouque-sigurds-rache.xml,Nur ein wahrhaft'ges.,0,21,character_speech,3,1,,KOSTBERA.,#kostbera,23.0,FEMALE,no_annotation,no_annotation,no_annotation
+58,58,GerDracor/fouque-sigurds-rache.xml,"
+              Und weshalb warntest du die Kön'ge nicht?",0,56,character_speech,3,1,,GLAMWOR.,#glamwor,24.0,FEMALE,no_annotation,no_annotation,no_annotation
+59,59,GerDracor/fouque-sigurds-rache.xml,"Wir füllten ja des Mahles Becher stets,
+              Und leicht haucht man ein Wort dabei in's Ohr.",71,171,character_speech,3,1,,GLAMWOR.,#glamwor,24.0,FEMALE,no_annotation,no_annotation,no_annotation
+60,60,GerDracor/fouque-sigurds-rache.xml,"
+              Du siehst doch, wie der Wein sie schon bethört.",0,62,character_speech,3,1,,KOSTBERA.,#kostbera,25.0,FEMALE,no_annotation,no_annotation,no_annotation
+61,61,GerDracor/fouque-sigurds-rache.xml,"Da findet gutes Wort nicht gute Statt;
+              Doch Morgen, wenn die Ueberlegung nüchtern
+              Hereinbricht mit der Frühluft kaltem Hauch,
+              Sprech' ich zu Högne, sprich zu Gunnar du.",77,287,character_speech,3,1,,KOSTBERA.,#kostbera,25.0,FEMALE,no_annotation,no_annotation,no_annotation
+62,62,GerDracor/fouque-sigurds-rache.xml,"
+              Gern.",0,20,character_speech,3,1,,GLAMWOR.,#glamwor,26.0,FEMALE,no_annotation,no_annotation,no_annotation
+63,63,GerDracor/fouque-sigurds-rache.xml,"Denn fürwahr, du hast mir meinen Sinn
+              Ganz aufgeschreckt mit deinem finstern Mistrau'n.",21,122,character_speech,3,1,,GLAMWOR.,#glamwor,26.0,FEMALE,anger,negative,emotions of rejection
+64,64,GerDracor/fouque-sigurds-rache.xml,"Was dran ist, wird sich zeigen.",0,31,character_speech,3,1,,KOSTBERA.,#kostbera,27.0,FEMALE,no_annotation,no_annotation,no_annotation
+65,65,GerDracor/fouque-sigurds-rache.xml,Komm zu Bett.,32,45,character_speech,3,1,,KOSTBERA.,#kostbera,27.0,FEMALE,no_annotation,no_annotation,no_annotation
+66,66,GerDracor/fouque-sigurds-rache.xml,Gehn ab.,0,8,stage_direction,3,1,speech_part,,#kostbera,27.0,FEMALE,no_annotation,no_annotation,no_annotation
+67,67,GerDracor/fouque-sigurds-rache.xml,"
+              Hu!",0,18,character_speech,3,1,,GUNNAR.,#gunnar,28.0,MALE,no_annotation,no_annotation,no_annotation
+68,68,GerDracor/fouque-sigurds-rache.xml,Wie die Hitze durch's Gemach hindampft!,19,58,character_speech,3,1,,GUNNAR.,#gunnar,28.0,MALE,anger,negative,emotions of rejection
+69,69,GerDracor/fouque-sigurds-rache.xml,Wir wollen es lüften.,73,94,character_speech,3,1,,GUNNAR.,#gunnar,28.0,MALE,no_annotation,no_annotation,no_annotation
+70,70,GerDracor/fouque-sigurds-rache.xml,"Vor den läst'gen Zeugen
+              Bedarf es keiner Vorsicht fürderhin.",95,169,character_speech,3,1,,GUNNAR.,#gunnar,28.0,MALE,no_annotation,no_annotation,no_annotation
+71,71,GerDracor/fouque-sigurds-rache.xml,"Denn wir nur in der Burg, wir wachen noch,
+              Die Andern hat, was Heldenflammen anschürt,
+              Der edle Wein, bereits in Schlaf gejagt.",184,339,character_speech,3,1,,GUNNAR.,#gunnar,28.0,MALE,no_annotation,no_annotation,no_annotation
+72,72,GerDracor/fouque-sigurds-rache.xml,Doch soll'n sie erst noch Wein uns schaffen.,354,398,character_speech,3,1,,GUNNAR.,#gunnar,28.0,MALE,no_annotation,no_annotation,no_annotation
+73,73,GerDracor/fouque-sigurds-rache.xml,Rufend.,0,7,stage_direction,3,1,speech_part,,#gunnar,28.0,MALE,no_annotation,no_annotation,no_annotation
+74,74,GerDracor/fouque-sigurds-rache.xml,Wein her!,0,9,character_speech,3,1,,GUNNAR.,#gunnar,28.0,MALE,no_annotation,no_annotation,no_annotation
+75,75,GerDracor/fouque-sigurds-rache.xml,"
+              Laß sein, Herr Bruder.",0,37,character_speech,3,1,,HÖGNE.,#hoegne,29.0,MALE,no_annotation,no_annotation,no_annotation
+76,76,GerDracor/fouque-sigurds-rache.xml,Gieb dich doch zur Ruh'.,38,62,character_speech,3,1,,HÖGNE.,#hoegne,29.0,MALE,no_annotation,no_annotation,no_annotation
+77,77,GerDracor/fouque-sigurds-rache.xml,Hier ist noch Wein.,77,96,character_speech,3,1,,HÖGNE.,#hoegne,29.0,MALE,no_annotation,no_annotation,no_annotation
+78,78,GerDracor/fouque-sigurds-rache.xml,"
+              Das hätt' ich bald vergessen.",0,44,character_speech,3,1,,GUNNAR.,#gunnar,30.0,MALE,no_annotation,no_annotation,no_annotation
+79,79,GerDracor/fouque-sigurds-rache.xml,"–
+              So schenk' doch ein.",45,81,character_speech,3,1,,GUNNAR.,#gunnar,30.0,MALE,no_annotation,no_annotation,no_annotation
+80,80,GerDracor/fouque-sigurds-rache.xml,"– Am Gaumen klebt mir schon
+              Die Zunge.",82,134,character_speech,3,1,,GUNNAR.,#gunnar,30.0,MALE,no_annotation,no_annotation,no_annotation
+81,81,GerDracor/fouque-sigurds-rache.xml,– 'S macht des Heerd's gewaltig Feu'r.,135,173,character_speech,3,1,,GUNNAR.,#gunnar,30.0,MALE,no_annotation,no_annotation,no_annotation
+82,82,GerDracor/fouque-sigurds-rache.xml,"Drum thut' mir den Gefall'n, kommt weiter vor.",188,234,character_speech,3,1,,GUNNAR.,#gunnar,30.0,MALE,no_annotation,no_annotation,no_annotation
+83,83,GerDracor/fouque-sigurds-rache.xml,Hier ist es kühl und frisch.,249,277,character_speech,3,1,,GUNNAR.,#gunnar,30.0,MALE,no_annotation,no_annotation,no_annotation
+84,84,GerDracor/fouque-sigurds-rache.xml,"
+              Nach deinem Willen,
+              Mein hochgewalt'ger Fürst.",0,75,character_speech,3,1,,WINGO.,#wingo,31.0,MALE,no_annotation,no_annotation,no_annotation
+85,85,GerDracor/fouque-sigurds-rache.xml,Er und Högne kommen in den Vorgrund.,0,36,stage_direction,3,1,speech_part,,#wingo,31.0,MALE,no_annotation,no_annotation,no_annotation
+86,86,GerDracor/fouque-sigurds-rache.xml,"
+              Das nenn' ich mir
+              Zwei wackre Zechgesell'n – bringt mit die Becher –
+              'S ist doch des Lebens allerbeste Lust,
+              Mit braven Männern froh bei'm Weine sein.",0,207,character_speech,3,1,,GUNNAR.,#gunnar,32.0,MALE,joy,positive,emotions of pleasure
+87,87,GerDracor/fouque-sigurds-rache.xml,"
+              Mit braven Männern – ja, da hast du Recht,
+              Doch, wenn man in ein lauernd Angesicht
+              Schau'n muß beim Trunk, – da wird der Wein zu Gift.",0,177,character_speech,3,1,,HÖGNE.,#hoegne,33.0,MALE,no_annotation,no_annotation,no_annotation
+88,88,GerDracor/fouque-sigurds-rache.xml,"Das sag' ich auch, mein Fürst; aus ganzem Herzen.",0,49,character_speech,3,1,,WINGO.,#wingo,34.0,MALE,love,positive,emotions of affection
+89,89,GerDracor/fouque-sigurds-rache.xml,So?,0,3,character_speech,3,1,,HÖGNE.,#hoegne,35.0,MALE,no_annotation,no_annotation,no_annotation
+90,90,GerDracor/fouque-sigurds-rache.xml,"
+              Nun ich hoff', du zweifelst nicht daran –
+              Vorhin zwar rauntest du mir Worte zu –",0,109,character_speech,3,1,,GUNNAR.,#gunnar,36.0,MALE,no_annotation,no_annotation,no_annotation
+91,91,GerDracor/fouque-sigurds-rache.xml,"Still, Bruder.",0,14,character_speech,3,1,,HÖGNE.,#hoegne,37.0,MALE,no_annotation,no_annotation,no_annotation
+92,92,GerDracor/fouque-sigurds-rache.xml,"Ja, mit mir hätt'st du's zu schaffen.",0,37,character_speech,3,1,,GUNNAR.,#gunnar,38.0,MALE,fear,negative,emotions of anxiety
+93,93,GerDracor/fouque-sigurds-rache.xml,"
+              Nun, strenger Herr, ich scheu' dich eben nicht,
+              Und möcht' dich nur an jene Sage mahnen,
+              Wie Loke, der gewalt'ge, kluge Feind,
+              Feind aller Götter, aller Menschen auch,
+               Bei Aegers Mahle saß, der Zwietracht Funken
+              In Becher sprüh'nd –",0,318,character_speech,3,1,,HÖGNE.,#hoegne,39.0,MALE,fear,negative,emotions of anxiety
+94,94,GerDracor/fouque-sigurds-rache.xml,"
+              Thu selbst desgleichen nicht.",0,44,character_speech,3,1,,GUNNAR.,#gunnar,40.0,MALE,no_annotation,no_annotation,no_annotation
+95,95,GerDracor/fouque-sigurds-rache.xml,"Wir sind hier einmal froh, seit langen Jahren
+              Ich einmal froh.",59,135,character_speech,3,1,,GUNNAR.,#gunnar,40.0,MALE,joy,positive,emotions of pleasure
+96,96,GerDracor/fouque-sigurds-rache.xml,"
+              Hätt'st du mich eh' gehört,
+              Die Freude wär' dir nicht seit daher fremd.",0,100,character_speech,3,1,,HÖGNE.,#hoegne,41.0,MALE,joy,positive,emotions of pleasure
+97,97,GerDracor/fouque-sigurds-rache.xml,"Laß dein Hofmeistern, denn du bist berauscht.",0,45,character_speech,3,1,,GUNNAR.,#gunnar,42.0,MALE,joy,positive,emotions of pleasure
+98,98,GerDracor/fouque-sigurds-rache.xml,"
+              Ich läugn' es nicht, mir tos't der Wein im Haupt,
+              Jedoch des Sinn's Lichtblicke leuchten durch.",0,124,character_speech,3,1,,HÖGNE.,#hoegne,43.0,MALE,no_annotation,no_annotation,no_annotation
+99,99,GerDracor/fouque-sigurds-rache.xml,"
+              Hör' doch den Unsinn, lieber Abgesandter.",0,56,character_speech,3,1,,GUNNAR.,#gunnar,44.0,MALE,no_annotation,no_annotation,no_annotation
+100,100,GerDracor/fouque-sigurds-rache.xml,"Laß ihn, und sprich zu mir.",71,98,character_speech,3,1,,GUNNAR.,#gunnar,44.0,MALE,no_annotation,no_annotation,no_annotation
+101,101,GerDracor/fouque-sigurds-rache.xml,"Das stör' dich nicht,
+              Was der im Rausche sagt.",99,159,character_speech,3,1,,GUNNAR.,#gunnar,44.0,MALE,anger,negative,emotions of rejection
+102,102,GerDracor/fouque-sigurds-rache.xml,Ich bin vernünftig.,160,179,character_speech,3,1,,GUNNAR.,#gunnar,44.0,MALE,no_annotation,no_annotation,no_annotation
+103,103,GerDracor/fouque-sigurds-rache.xml,Wie klang vorhin das mit der Vormundschaft?,194,237,character_speech,3,1,,GUNNAR.,#gunnar,44.0,MALE,no_annotation,no_annotation,no_annotation
+104,104,GerDracor/fouque-sigurds-rache.xml,"Ja, Herr, mein König wird nun alt und schwach –",0,47,character_speech,3,1,,WINGO.,#wingo,45.0,MALE,suffering,negative,emotions of suffering and empathy
+105,105,GerDracor/fouque-sigurds-rache.xml,"
+              Hör' mal, Gesandter, dazu braucht' es nicht
+              Der weiten Reise, das mir anzusagen.",0,109,character_speech,3,1,,GUNNAR.,#gunnar,46.0,MALE,no_annotation,no_annotation,no_annotation
+106,106,GerDracor/fouque-sigurds-rache.xml,"Das weiß ich besser, als dein König selbst.",124,167,character_speech,3,1,,GUNNAR.,#gunnar,46.0,MALE,no_annotation,no_annotation,no_annotation
+107,107,GerDracor/fouque-sigurds-rache.xml,"Auf hohem Neste sitzt der alte Falk,
+               Das er in kräft'ger Jugend sich erbaut,
+              Doch nun erloschnen Auges, matter Kralle
+              Schaut er im Schwindel um, und hält sich kaum.",182,389,character_speech,3,1,,GUNNAR.,#gunnar,46.0,MALE,no_annotation,no_annotation,no_annotation
+108,108,GerDracor/fouque-sigurds-rache.xml,"
+              Drum eben, liebe Herr'n, kam ich zu Euch.",0,56,character_speech,3,1,,WINGO.,#wingo,47.0,MALE,no_annotation,no_annotation,no_annotation
+109,109,GerDracor/fouque-sigurds-rache.xml,"Ihr wißt, er hütet junger Falken zwei
+              Aus Euerm Stamm –",71,140,character_speech,3,1,,WINGO.,#wingo,47.0,MALE,no_annotation,no_annotation,no_annotation
+110,110,GerDracor/fouque-sigurds-rache.xml,"
+              Du meinst Gudrunens Kinder.",0,42,character_speech,3,1,,GUNNAR.,#gunnar,48.0,MALE,no_annotation,no_annotation,no_annotation
+111,111,GerDracor/fouque-sigurds-rache.xml,"Das merk' ich gleich, denn ich bin nicht berauscht.",57,108,character_speech,3,1,,GUNNAR.,#gunnar,48.0,MALE,no_annotation,no_annotation,no_annotation
+112,112,GerDracor/fouque-sigurds-rache.xml,Behüte!,0,7,character_speech,3,1,,WINGO.,#wingo,49.0,MALE,no_annotation,no_annotation,no_annotation
+113,113,GerDracor/fouque-sigurds-rache.xml,–,8,9,character_speech,3,1,,WINGO.,#wingo,49.0,MALE,no_annotation,no_annotation,no_annotation
+114,114,GerDracor/fouque-sigurds-rache.xml,"Bursch' du lachst, verzerrst den Mund!",0,38,character_speech,3,1,,HÖGNE.,#hoegne,50.0,MALE,Schadenfreude,positive,emotions of pleasure
+115,115,GerDracor/fouque-sigurds-rache.xml,"
+              Ei, lieber Herr, das thut des Heerdes Gluth,
+              Umspielend mein Gesicht mit rothem Flackern.",0,118,character_speech,3,1,,WINGO.,#wingo,51.0,MALE,suffering,negative,emotions of suffering and empathy
+116,116,GerDracor/fouque-sigurds-rache.xml,"Ja, ja; er meint es ehrlich.",0,28,character_speech,3,1,,GUNNAR.,#gunnar,52.0,MALE,no_annotation,no_annotation,no_annotation
+117,117,GerDracor/fouque-sigurds-rache.xml,Das versteht sich.,29,47,character_speech,3,1,,GUNNAR.,#gunnar,52.0,MALE,no_annotation,no_annotation,no_annotation
+118,118,GerDracor/fouque-sigurds-rache.xml,"
+              Die jungen Falken, Eures Stamm's Gesproß,
+              Sollt Ihr ihm hüten und bewahren treu,
+              Vormünder Ihr, und sollt des Land's Einkommen
+              Bis zur Volljährigkeit der Knäblein ziehn.",0,226,character_speech,3,1,,WINGO.,#wingo,53.0,MALE,no_annotation,no_annotation,no_annotation
+119,119,GerDracor/fouque-sigurds-rache.xml,–,227,228,character_speech,3,1,,WINGO.,#wingo,53.0,MALE,no_annotation,no_annotation,no_annotation
+120,120,GerDracor/fouque-sigurds-rache.xml,"
+              Mein Bruder, hör' das steht nicht zu verwerfen.",0,62,character_speech,3,1,,GUNNAR.,#gunnar,54.0,MALE,no_annotation,no_annotation,no_annotation
+121,121,GerDracor/fouque-sigurds-rache.xml,"–
+               Was?",63,84,character_speech,3,1,,GUNNAR.,#gunnar,54.0,MALE,no_annotation,no_annotation,no_annotation
+122,122,GerDracor/fouque-sigurds-rache.xml,Die Verwaltung solches weiten Land's?,85,122,character_speech,3,1,,GUNNAR.,#gunnar,54.0,MALE,no_annotation,no_annotation,no_annotation
+123,123,GerDracor/fouque-sigurds-rache.xml,"Mich hat es schon gar lang' und schwer gekränkt,
+              Daß sich der Abkunft Odins rühmen darf,
+              Wer aus dem Sigurds Stamm entsprossen ist.",137,296,character_speech,3,1,,GUNNAR.,#gunnar,54.0,MALE,suffering,negative,emotions of suffering and empathy
+124,124,GerDracor/fouque-sigurds-rache.xml,Hinunter Odin!,311,325,character_speech,3,1,,GUNNAR.,#gunnar,54.0,MALE,no_annotation,no_annotation,no_annotation
+125,125,GerDracor/fouque-sigurds-rache.xml,"Wir am Himmel auf,
+              Wofern wir Atles Land befehligen!",326,392,character_speech,3,1,,GUNNAR.,#gunnar,54.0,MALE,no_annotation,no_annotation,no_annotation
+126,126,GerDracor/fouque-sigurds-rache.xml,Hei!,407,411,character_speech,3,1,,GUNNAR.,#gunnar,54.0,MALE,no_annotation,no_annotation,no_annotation
+127,127,GerDracor/fouque-sigurds-rache.xml,"Wie schon Alles glüht von Siegesfackeln,
+              Verherrlichen der Niflungen Gewalt.",412,502,character_speech,3,1,,GUNNAR.,#gunnar,54.0,MALE,no_annotation,no_annotation,no_annotation
+128,128,GerDracor/fouque-sigurds-rache.xml,"–
+              Gesandter, ich zieh' mit.",503,544,character_speech,3,1,,GUNNAR.,#gunnar,54.0,MALE,no_annotation,no_annotation,no_annotation
+129,129,GerDracor/fouque-sigurds-rache.xml,Auf Ehrenwort.,545,559,character_speech,3,1,,GUNNAR.,#gunnar,54.0,MALE,no_annotation,no_annotation,no_annotation
+130,130,GerDracor/fouque-sigurds-rache.xml,"So reich' mir, Herr, versichernd deine Hand.",0,44,character_speech,3,1,,WINGO.,#wingo,55.0,MALE,no_annotation,no_annotation,no_annotation
+131,131,GerDracor/fouque-sigurds-rache.xml,Da!,0,3,character_speech,3,1,,GUNNAR.,#gunnar,56.0,MALE,no_annotation,no_annotation,no_annotation
+132,132,GerDracor/fouque-sigurds-rache.xml,"– Nun, der Handschlag war doch treu und derb.",4,49,character_speech,3,1,,GUNNAR.,#gunnar,56.0,MALE,no_annotation,no_annotation,no_annotation
+133,133,GerDracor/fouque-sigurds-rache.xml,So ziemlich.,0,12,character_speech,3,1,,WINGO.,#wingo,57.0,MALE,no_annotation,no_annotation,no_annotation
+134,134,GerDracor/fouque-sigurds-rache.xml,Wie ein Beilhieb traf er mich.,13,43,character_speech,3,1,,WINGO.,#wingo,57.0,MALE,suffering,negative,emotions of suffering and empathy
+135,135,GerDracor/fouque-sigurds-rache.xml,O Bruder mein!,0,14,character_speech,3,1,,HÖGNE.,#hoegne,58.0,MALE,love,positive,emotions of affection
+136,136,GerDracor/fouque-sigurds-rache.xml,O weh!,15,21,character_speech,3,1,,HÖGNE.,#hoegne,58.0,MALE,suffering,negative,emotions of suffering and empathy
+137,137,GerDracor/fouque-sigurds-rache.xml,Was hast gethan!,22,38,character_speech,3,1,,HÖGNE.,#hoegne,58.0,MALE,anger,negative,emotions of rejection
+138,138,GerDracor/fouque-sigurds-rache.xml,Misfällt es Dir?,0,16,character_speech,3,1,,GUNNAR.,#gunnar,59.0,MALE,no_annotation,no_annotation,no_annotation
+139,139,GerDracor/fouque-sigurds-rache.xml,"Ei nun, so bleib' daheim.",17,42,character_speech,3,1,,GUNNAR.,#gunnar,59.0,MALE,no_annotation,no_annotation,no_annotation
+140,140,GerDracor/fouque-sigurds-rache.xml,"
+              Nein, nein.",0,26,character_speech,3,1,,HÖGNE.,#hoegne,60.0,MALE,no_annotation,no_annotation,no_annotation
+141,141,GerDracor/fouque-sigurds-rache.xml,"Ich habe Dich gar treu gewarnt,
+              Du wollt'st nicht hören.",27,97,character_speech,3,1,,HÖGNE.,#hoegne,60.0,MALE,anger,negative,emotions of rejection
+142,142,GerDracor/fouque-sigurds-rache.xml,"Geh's denn an den Fall
+              Für uns allzwei zugleich.",98,160,character_speech,3,1,,HÖGNE.,#hoegne,60.0,MALE,no_annotation,no_annotation,no_annotation
+143,143,GerDracor/fouque-sigurds-rache.xml,Ich zieh' mit Dir.,161,179,character_speech,3,1,,HÖGNE.,#hoegne,60.0,MALE,no_annotation,no_annotation,no_annotation
+144,144,GerDracor/fouque-sigurds-rache.xml,"Her, freud'ger Tod für lang' unrühmlich Leben!",194,240,character_speech,3,1,,HÖGNE.,#hoegne,60.0,MALE,joy,positive,emotions of pleasure
+145,145,GerDracor/fouque-sigurds-rache.xml,"So bist mein Bruder, ein Niflungenkind.",0,39,character_speech,3,1,,GUNNAR.,#gunnar,61.0,MALE,suffering,negative,emotions of suffering and empathy
+146,146,GerDracor/fouque-sigurds-rache.xml,Kennst Du Wolfshaare?,0,21,character_speech,3,1,,HÖGNE.,#hoegne,62.0,MALE,no_annotation,no_annotation,no_annotation
+147,147,GerDracor/fouque-sigurds-rache.xml,"Ach, welch eitles Träumen!",0,26,character_speech,3,1,,WINGO.,#wingo,63.0,MALE,suffering,negative,emotions of suffering and empathy
+148,148,GerDracor/fouque-sigurds-rache.xml,"
+              Ein Wolfshaar war geknüpft an jenen Ring,
+              Den meine Schwester uns hat hergesandt.",0,110,character_speech,3,1,,HÖGNE.,#hoegne,64.0,MALE,no_annotation,no_annotation,no_annotation
+149,149,GerDracor/fouque-sigurds-rache.xml,"Wolfshaare deuten wölfisches Gemüth –
+              Wir haben einen Schwager seltner Art.",125,214,character_speech,3,1,,HÖGNE.,#hoegne,64.0,MALE,no_annotation,no_annotation,no_annotation
+150,150,GerDracor/fouque-sigurds-rache.xml,–,215,216,character_speech,3,1,,HÖGNE.,#hoegne,64.0,MALE,no_annotation,no_annotation,no_annotation
+151,151,GerDracor/fouque-sigurds-rache.xml,"Das mag nun seyn, mag nicht.",0,28,character_speech,3,1,,GUNNAR.,#gunnar,65.0,MALE,no_annotation,no_annotation,no_annotation
+152,152,GerDracor/fouque-sigurds-rache.xml,Ich gab mein Wort.,29,47,character_speech,3,1,,GUNNAR.,#gunnar,65.0,MALE,no_annotation,no_annotation,no_annotation
+153,153,GerDracor/fouque-sigurds-rache.xml,"Ja, bei der Reise bleibt's.",0,27,character_speech,3,1,,HÖGNE.,#hoegne,66.0,MALE,no_annotation,no_annotation,no_annotation
+154,154,GerDracor/fouque-sigurds-rache.xml,"Gut' Nacht, Gesandter.",28,50,character_speech,3,1,,HÖGNE.,#hoegne,66.0,MALE,no_annotation,no_annotation,no_annotation
+155,155,GerDracor/fouque-sigurds-rache.xml,Geht mit Gunnar ab.,0,19,stage_direction,3,1,speech_part,,#hoegne,66.0,MALE,no_annotation,no_annotation,no_annotation
+156,156,GerDracor/fouque-sigurds-rache.xml,"
+              Wie leicht doch ist es, Helden einzufahn!",0,56,character_speech,3,1,,WINGO.,#wingo,67.0,MALE,joy,positive,emotions of pleasure
+157,157,GerDracor/fouque-sigurds-rache.xml,Recht lust'ge Jagd.,71,90,character_speech,3,1,,WINGO.,#wingo,67.0,MALE,joy,positive,emotions of pleasure
+158,158,GerDracor/fouque-sigurds-rache.xml,– O Ihr verlornen Beide!,91,115,character_speech,3,1,,WINGO.,#wingo,67.0,MALE,suffering,negative,emotions of suffering and empathy
+159,159,GerDracor/fouque-sigurds-rache.xml,"–
+              Gut' Nacht nun.",116,147,character_speech,3,1,,WINGO.,#wingo,67.0,MALE,no_annotation,no_annotation,no_annotation
+160,160,GerDracor/fouque-sigurds-rache.xml,Ihr seid mein und meines Herrn.,148,179,character_speech,3,1,,WINGO.,#wingo,67.0,MALE,no_annotation,no_annotation,no_annotation
+161,161,GerDracor/fouque-sigurds-rache.xml,Geht ab.,0,8,stage_direction,3,1,speech_part,,#wingo,67.0,MALE,no_annotation,no_annotation,no_annotation
+162,162,GerDracor/fouque-sigurds-rache.xml,Des Morgens drauf.,0,18,stage_direction,3,1,speech_part,,#wingo,67.0,MALE,no_annotation,no_annotation,no_annotation
+163,163,GerDracor/fouque-sigurds-rache.xml,Kostbera und Högne.,0,19,stage_direction,3,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+164,164,GerDracor/fouque-sigurds-rache.xml,"
+              Ich bitte Dich, gieb meiner Warnung Raum.",0,56,character_speech,3,2,,KOSTBERA.,#kostbera,68.0,FEMALE,no_annotation,no_annotation,no_annotation
+165,165,GerDracor/fouque-sigurds-rache.xml,Die Fahrt gewinnt für Euch kein gutes End'.,71,114,character_speech,3,2,,KOSTBERA.,#kostbera,68.0,FEMALE,no_annotation,no_annotation,no_annotation
+166,166,GerDracor/fouque-sigurds-rache.xml,Das glaub' ich selbst.,0,22,character_speech,3,2,,HÖGNE.,#hoegne,69.0,MALE,no_annotation,no_annotation,no_annotation
+167,167,GerDracor/fouque-sigurds-rache.xml,Jedoch ich gab mein Wort.,23,48,character_speech,3,2,,HÖGNE.,#hoegne,69.0,MALE,no_annotation,no_annotation,no_annotation
+168,168,GerDracor/fouque-sigurds-rache.xml,"
+              Und willst Du mir nicht traun, so trau' den Göttern,
+              Die mir in dieser Nacht unruh'gem Schlaf
+              Der Träume viel gesandt, und schreckliche.",0,179,character_speech,3,2,,KOSTBERA.,#kostbera,70.0,FEMALE,no_annotation,no_annotation,no_annotation
+169,169,GerDracor/fouque-sigurds-rache.xml,Was sahst Du denn?,0,18,character_speech,3,2,,HÖGNE.,#hoegne,71.0,MALE,no_annotation,no_annotation,no_annotation
+170,170,GerDracor/fouque-sigurds-rache.xml,"
+              Zuerst mein Ehebett,
+              So Leilach als Gestell, in Flammen stehn,
+              Ja selbst der Veste Dach davon ergriffen.",0,147,character_speech,3,2,,KOSTBERA.,#kostbera,72.0,FEMALE,suffering,negative,emotions of suffering and empathy
+171,171,GerDracor/fouque-sigurds-rache.xml,"
+              Das deutet wohl auf reichen Ueberfluß,
+              Wo man des läst'gen Leinenzeugs verbrennt.",0,110,character_speech,3,2,,HÖGNE.,#hoegne,73.0,MALE,no_annotation,no_annotation,no_annotation
+172,172,GerDracor/fouque-sigurds-rache.xml,"
+              Dann brach ein grimmer Bär in unsern Hof,
+              Mit seinen Tatzen furchtbarlich zerreissend,
+              Was ihm in seine schlimmen Wege kam.",0,166,character_speech,3,2,,KOSTBERA.,#kostbera,74.0,FEMALE,abhorrence,negative,emotions of rejection
+173,173,GerDracor/fouque-sigurds-rache.xml,Solch ein Gesicht zeigt heft'ge Stürme an.,0,42,character_speech,3,2,,HÖGNE.,#hoegne,75.0,MALE,suffering,negative,emotions of suffering and empathy
+174,174,GerDracor/fouque-sigurds-rache.xml,"
+              Doch was der Adler, der zur Burg herab
+              Verderblich wilden Flügelschlages kam,
+              Blut sprengend auf das Estrich weit umher?",0,163,character_speech,3,2,,KOSTBERA.,#kostbera,76.0,FEMALE,no_annotation,no_annotation,no_annotation
+175,175,GerDracor/fouque-sigurds-rache.xml,"
+              Da siehst Du's.",0,30,character_speech,3,2,,HÖGNE.,#hoegne,77.0,MALE,no_annotation,no_annotation,no_annotation
+176,176,GerDracor/fouque-sigurds-rache.xml,Zubereitungen des Fest's.,31,56,character_speech,3,2,,HÖGNE.,#hoegne,77.0,MALE,no_annotation,no_annotation,no_annotation
+177,177,GerDracor/fouque-sigurds-rache.xml,"In Atles Hofe schlachtet man der Stiere
+              Wohl eine große Zahl, uns zu bewirthen.",72,165,character_speech,3,2,,HÖGNE.,#hoegne,77.0,MALE,no_annotation,no_annotation,no_annotation
+178,178,GerDracor/fouque-sigurds-rache.xml,"In Träumen gilt ein Adler öfters auch
+              Für einen Stier, nachdem der Sternengeist
+              Das Bild der Zukunft eben bunt verzerrt.",180,328,character_speech,3,2,,HÖGNE.,#hoegne,77.0,MALE,no_annotation,no_annotation,no_annotation
+179,179,GerDracor/fouque-sigurds-rache.xml,"
+              Du deutelst mehr, als daß du deutest, Högne,
+              Verschließ'st das Aug' geflissentlich der Noth,
+              Die warnend aufsteigt aus der Zukunft Schlund.",0,182,character_speech,3,2,,KOSTBERA.,#kostbera,78.0,FEMALE,suffering,negative,emotions of suffering and empathy
+180,180,GerDracor/fouque-sigurds-rache.xml,"
+              Das taugt fürwahr auch nicht, dergleichen Dinge
+              In's Auge fassen allzu scharf und schlau.",0,118,character_speech,3,2,,HÖGNE.,#hoegne,79.0,MALE,no_annotation,no_annotation,no_annotation
+181,181,GerDracor/fouque-sigurds-rache.xml,"Was einmal nicht zu ändern ist, gescheh'
+              Und werde nicht im Voraus schon beklagt.",133,228,character_speech,3,2,,HÖGNE.,#hoegne,79.0,MALE,suffering,negative,emotions of suffering and empathy
+182,182,GerDracor/fouque-sigurds-rache.xml,Gunnar und Glamwor treten auf.,0,30,stage_direction,3,2,speech_part,,#hoegne,79.0,MALE,no_annotation,no_annotation,no_annotation
+183,183,GerDracor/fouque-sigurds-rache.xml,"
+              Schön guten Morgen, Bruder.",0,42,character_speech,3,2,,GUNNAR.,#gunnar,80.0,MALE,no_annotation,no_annotation,no_annotation
+184,184,GerDracor/fouque-sigurds-rache.xml,"– Hör' doch an,
+              Was mir mein Weib von unserm Zuge sagt.",43,112,character_speech,3,2,,GUNNAR.,#gunnar,80.0,MALE,no_annotation,no_annotation,no_annotation
+185,185,GerDracor/fouque-sigurds-rache.xml,"Nichts Gutes, denk' ich.",0,24,character_speech,3,2,,HÖGNE.,#hoegne,81.0,MALE,no_annotation,no_annotation,no_annotation
+186,186,GerDracor/fouque-sigurds-rache.xml,Nein.,0,5,character_speech,3,2,,GUNNAR.,#gunnar,82.0,MALE,no_annotation,no_annotation,no_annotation
+187,187,GerDracor/fouque-sigurds-rache.xml,Ob sie wohl Recht hat?,0,22,character_speech,3,2,,HÖGNE.,#hoegne,83.0,MALE,no_annotation,no_annotation,no_annotation
+188,188,GerDracor/fouque-sigurds-rache.xml,"
+              Hm!",0,18,character_speech,3,2,,GUNNAR.,#gunnar,84.0,MALE,no_annotation,no_annotation,no_annotation
+189,189,GerDracor/fouque-sigurds-rache.xml,"– Von den Runentafeln, wie verstellt,
+              Verwischt die Züge drauf – das weiß'st du schon?",19,119,character_speech,3,2,,GUNNAR.,#gunnar,84.0,MALE,no_annotation,no_annotation,no_annotation
+190,190,GerDracor/fouque-sigurds-rache.xml,Nur allzu gut.,0,14,character_speech,3,2,,HÖGNE.,#hoegne,85.0,MALE,no_annotation,no_annotation,no_annotation
+191,191,GerDracor/fouque-sigurds-rache.xml,"
+              Und dann mit ihren Träumen!",0,42,character_speech,3,2,,GUNNAR.,#gunnar,86.0,MALE,no_annotation,no_annotation,no_annotation
+192,192,GerDracor/fouque-sigurds-rache.xml,"Glamwor, erzähl' es doch dem Bruder auch.",57,98,character_speech,3,2,,GUNNAR.,#gunnar,86.0,MALE,no_annotation,no_annotation,no_annotation
+193,193,GerDracor/fouque-sigurds-rache.xml,"
+              Soll ich den Schrecken siebenfach erneu'n?",0,57,character_speech,3,2,,GLAMWOR.,#glamwor,87.0,FEMALE,fear,negative,emotions of anxiety
+194,194,GerDracor/fouque-sigurds-rache.xml,"Kaum mehr entwirr' ich selbst im eignen Sinn
+              Der nächt'gen Warnung schauerlich Geweb'.",72,172,character_speech,3,2,,GLAMWOR.,#glamwor,87.0,FEMALE,fear,negative,emotions of anxiety
+195,195,GerDracor/fouque-sigurds-rache.xml,"Am Hochgericht sah' ich den Eh'gemahl,
+              Und Schlangen, sätt'gend sich von seinem Leib;
+              Dann wieder blutig all' sein Leinenzeug,
+              Und draus ein Schwerdt gewickelt, scharf, sehr scharf –
+              Und Wölfe heulten so um Knauf als Spitze –
+              Zuletzt – o, manches bleibe still und stumm –
+              Denn wie ein endlos Meereswallen drängt sich's.",187,590,character_speech,3,2,,GLAMWOR.,#glamwor,87.0,FEMALE,no_annotation,no_annotation,no_annotation
+196,196,GerDracor/fouque-sigurds-rache.xml,"–
+              Zuletzt sah' ich durch unsre Hallen hin
+              Gespenstisch bleiche Weiber sich ergeh'n,
+              Den Gunnar sich zu ihrem Bräut'gam heischend.",591,762,character_speech,3,2,,GLAMWOR.,#glamwor,87.0,FEMALE,no_annotation,no_annotation,no_annotation
+197,197,GerDracor/fouque-sigurds-rache.xml,"Es war, bedünkt mich, der Walküren Schaar.",777,819,character_speech,3,2,,GLAMWOR.,#glamwor,87.0,FEMALE,no_annotation,no_annotation,no_annotation
+198,198,GerDracor/fouque-sigurds-rache.xml,"
+              Dies eben regt mir die Gedanken auf,
+              Und sagt mir: kurz sei meines Lebens Bahn.",0,108,character_speech,3,2,,GUNNAR.,#gunnar,88.0,MALE,being moved,being moved,being moved
+199,199,GerDracor/fouque-sigurds-rache.xml,Mag sein.,0,9,character_speech,3,2,,HÖGNE.,#hoegne,89.0,MALE,no_annotation,no_annotation,no_annotation
+200,200,GerDracor/fouque-sigurds-rache.xml,Es werden Kriegsherrn selten alt.,10,43,character_speech,3,2,,HÖGNE.,#hoegne,89.0,MALE,no_annotation,no_annotation,no_annotation
+201,201,GerDracor/fouque-sigurds-rache.xml,"Sag' nur, was du von diesem Zuge meinst.",0,40,character_speech,3,2,,GUNNAR.,#gunnar,90.0,MALE,no_annotation,no_annotation,no_annotation
+202,202,GerDracor/fouque-sigurds-rache.xml,"
+              Das Schlimmste, Bruder.",0,38,character_speech,3,2,,HÖGNE.,#hoegne,91.0,MALE,no_annotation,no_annotation,no_annotation
+203,203,GerDracor/fouque-sigurds-rache.xml,"Diese Träume all',
+              Sie logen nicht, die treulich warnenden.",39,112,character_speech,3,2,,HÖGNE.,#hoegne,91.0,MALE,no_annotation,no_annotation,no_annotation
+204,204,GerDracor/fouque-sigurds-rache.xml,Jedoch um Frage Frage.,127,149,character_speech,3,2,,HÖGNE.,#hoegne,91.0,MALE,no_annotation,no_annotation,no_annotation
+205,205,GerDracor/fouque-sigurds-rache.xml,"Dünkt dich nicht
+              Viel wen'ger übel der Niflungen Tod,
+              Als der Niflungen schmählich Wortverdrehn?",150,274,character_speech,3,2,,HÖGNE.,#hoegne,91.0,MALE,anger,negative,emotions of rejection
+206,206,GerDracor/fouque-sigurds-rache.xml,Versteht sich.,0,14,character_speech,3,2,,GUNNAR.,#gunnar,92.0,MALE,no_annotation,no_annotation,no_annotation
+207,207,GerDracor/fouque-sigurds-rache.xml,"
+              Nun, so komm an Atles Hof.",0,41,character_speech,3,2,,HÖGNE.,#hoegne,93.0,MALE,no_annotation,no_annotation,no_annotation
+208,208,GerDracor/fouque-sigurds-rache.xml,"Ich zeigte dir – du warst erst halb berauscht –
+              Ich zeigte dir Gudrunens goldnen Ring,
+              Daran ein Wolfshaar künstlich war geknüpft –
+              Du wolltest nichts verstehn, und gabst dein Wort.",56,279,character_speech,3,2,,HÖGNE.,#hoegne,93.0,MALE,being moved,being moved,being moved
+209,209,GerDracor/fouque-sigurds-rache.xml,"Nun dann hinaus, hinaus nach Atles Burg.",294,334,character_speech,3,2,,HÖGNE.,#hoegne,93.0,MALE,no_annotation,no_annotation,no_annotation
+210,210,GerDracor/fouque-sigurds-rache.xml,"
+              Ganz Recht.",0,26,character_speech,3,2,,GUNNAR.,#gunnar,94.0,MALE,no_annotation,no_annotation,no_annotation
+211,211,GerDracor/fouque-sigurds-rache.xml,"Das Wort gegeben, That gewiß.",27,56,character_speech,3,2,,GUNNAR.,#gunnar,94.0,MALE,no_annotation,no_annotation,no_annotation
+212,212,GerDracor/fouque-sigurds-rache.xml,"Ihr Frau'n, besorgt uns, was zur Fahrt gehört.",71,117,character_speech,3,2,,GUNNAR.,#gunnar,94.0,MALE,no_annotation,no_annotation,no_annotation
+213,213,GerDracor/fouque-sigurds-rache.xml,"
+              Und wenn die Fahrt misglückt, ein Runendenkmal.",0,62,character_speech,3,2,,HÖGNE.,#hoegne,95.0,MALE,no_annotation,no_annotation,no_annotation
+214,214,GerDracor/fouque-sigurds-rache.xml,"Komm, Bruder; Luft geschöpft auf frischer Jagd.",77,124,character_speech,3,2,,HÖGNE.,#hoegne,95.0,MALE,no_annotation,no_annotation,no_annotation
+215,215,GerDracor/fouque-sigurds-rache.xml,"
+              Ja komm.",0,23,character_speech,3,2,,GUNNAR.,#gunnar,96.0,MALE,no_annotation,no_annotation,no_annotation
+216,216,GerDracor/fouque-sigurds-rache.xml,"Ich hab' dir so was zu vertrau'n
+              Vom Faffnersgold –",24,89,character_speech,3,2,,GUNNAR.,#gunnar,96.0,MALE,no_annotation,no_annotation,no_annotation
+217,217,GerDracor/fouque-sigurds-rache.xml,Schon gut.,0,10,character_speech,3,2,,HÖGNE.,#hoegne,97.0,MALE,no_annotation,no_annotation,no_annotation
+218,218,GerDracor/fouque-sigurds-rache.xml,Wir wolln's besprechen.,11,34,character_speech,3,2,,HÖGNE.,#hoegne,97.0,MALE,no_annotation,no_annotation,no_annotation
+219,219,GerDracor/fouque-sigurds-rache.xml,Gehn ab.,0,8,stage_direction,3,2,speech_part,,#hoegne,97.0,MALE,no_annotation,no_annotation,no_annotation
+220,220,GerDracor/fouque-sigurds-rache.xml,"Ach, wenn ich's wüßte, was die Zeiten bringen!",0,46,character_speech,3,2,,GLAMWOR.,#glamwor,98.0,FEMALE,suffering,negative,emotions of suffering and empathy
+221,221,GerDracor/fouque-sigurds-rache.xml,"
+              Wir können's nicht verhindern; laß uns drum
+              Den Geist hinlenken auf das heitre Werk
+              Des Web'stuhls und des Wockens, folgsam fördern
+              Der Männer adlich prächt'gen Heldenzug.",0,228,character_speech,3,2,,KOSTBERA.,#kostbera,99.0,FEMALE,joy,positive,emotions of pleasure
+222,222,GerDracor/fouque-sigurds-rache.xml,So such' mit mir denn die Kleinodien vor.,0,41,character_speech,3,2,,GLAMWOR.,#glamwor,100.0,FEMALE,no_annotation,no_annotation,no_annotation
+223,223,GerDracor/fouque-sigurds-rache.xml,"Ja, und die Fäden, hell an Farb' und Gold.",0,42,character_speech,3,2,,KOSTBERA.,#kostbera,101.0,FEMALE,no_annotation,no_annotation,no_annotation
+224,224,GerDracor/fouque-sigurds-rache.xml,Sie sind im Begriff abzugehn.,0,29,stage_direction,3,2,speech_part,,#kostbera,101.0,FEMALE,no_annotation,no_annotation,no_annotation
+225,225,GerDracor/fouque-sigurds-rache.xml,"
+              O, laß' uns nach der andern Seit' hinaus!",0,56,character_speech,3,2,,GLAMWOR.,#glamwor,102.0,FEMALE,no_annotation,no_annotation,no_annotation
+226,226,GerDracor/fouque-sigurds-rache.xml,"Der häßliche Gesandte Atles kommt,
+              Ein widerwärt'ges Bild für meinen Sinn.",71,159,character_speech,3,2,,GLAMWOR.,#glamwor,102.0,FEMALE,no_annotation,no_annotation,no_annotation
+227,227,GerDracor/fouque-sigurds-rache.xml,"
+              Nein bleib, ertrag' nur die unfrohe Näh'.",0,56,character_speech,3,2,,KOSTBERA.,#kostbera,103.0,FEMALE,suffering,negative,emotions of suffering and empathy
+228,228,GerDracor/fouque-sigurds-rache.xml,"Mich dünkt, ich schaffe draus was Gutes noch,
+              Zu sichern unsrer lieben Eh'herrn Fahrt.",71,171,character_speech,3,2,,KOSTBERA.,#kostbera,103.0,FEMALE,no_annotation,no_annotation,no_annotation
+229,229,GerDracor/fouque-sigurds-rache.xml,"
+              Wenn du das könntest!",0,36,character_speech,3,2,,GLAMWOR.,#glamwor,104.0,FEMALE,no_annotation,no_annotation,no_annotation
+230,230,GerDracor/fouque-sigurds-rache.xml,"Liebe Schwägerin,
+              Versuch's, erdenk's, und was ich soll, gebeut,
+              Denn dies ertrüg' ich drum, und noch weit mehr.",37,177,character_speech,3,2,,GLAMWOR.,#glamwor,104.0,FEMALE,suffering,negative,emotions of suffering and empathy
+231,231,GerDracor/fouque-sigurds-rache.xml,Wingo tritt auf.,0,16,stage_direction,3,2,speech_part,,#glamwor,104.0,FEMALE,no_annotation,no_annotation,no_annotation
+232,232,GerDracor/fouque-sigurds-rache.xml,"
+              Du, Mensch aus unbekannten Landen her,
+              Furchtbarer, dessen Worte Tod und Leben
+              Umschwebt, gieb dieses mal der Wahrheit Raum!",0,167,character_speech,3,2,,KOSTBERA.,#kostbera,105.0,FEMALE,despair,negative,emotions of anxiety
+233,233,GerDracor/fouque-sigurds-rache.xml,"Du sprichst mich seltsam an, o Königin.",0,39,character_speech,3,2,,WINGO.,#wingo,106.0,MALE,no_annotation,no_annotation,no_annotation
+234,234,GerDracor/fouque-sigurds-rache.xml,"
+              Der Wahrheit Raum, – das ist mein ernst Gebot.",0,61,character_speech,3,2,,KOSTBERA.,#kostbera,107.0,FEMALE,no_annotation,no_annotation,no_annotation
+235,235,GerDracor/fouque-sigurds-rache.xml,"Glamwor, belagre du sein taubes Ohr
+              Von jener Seite mit gewalt'gem Ruf;
+              So schmettern wir vielleicht ihm bis in's Herz,
+              Was aller Götter Will'n ist.",76,266,character_speech,3,2,,KOSTBERA.,#kostbera,107.0,FEMALE,no_annotation,no_annotation,no_annotation
+236,236,GerDracor/fouque-sigurds-rache.xml,rufend.,0,7,stage_direction,3,2,speech_part,,#kostbera #glamwor,108.0,UNKNOWN,fear,negative,emotions of anxiety
+237,237,GerDracor/fouque-sigurds-rache.xml,Wahrheit!,0,9,character_speech,3,2,,KOSTBERA UND GLAMWOR,#kostbera #glamwor,108.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+238,238,GerDracor/fouque-sigurds-rache.xml,Wahrheit!,10,19,character_speech,3,2,,KOSTBERA UND GLAMWOR,#kostbera #glamwor,108.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+239,239,GerDracor/fouque-sigurds-rache.xml,"Ihr edlen Frau'n, wenn ich erwiedern darf.",0,42,character_speech,3,2,,WINGO.,#wingo,109.0,MALE,"admiration, reverence",positive,emotions of affection
+240,240,GerDracor/fouque-sigurds-rache.xml,–,43,44,character_speech,3,2,,WINGO.,#wingo,109.0,MALE,no_annotation,no_annotation,no_annotation
+241,241,GerDracor/fouque-sigurds-rache.xml,"
+              Du!",0,18,character_speech,3,2,,KOSTBERA.,#kostbera,110.0,FEMALE,abhorrence,negative,emotions of rejection
+242,242,GerDracor/fouque-sigurds-rache.xml,"glattes Oel fließt wieder trügerisch
+              Auf deiner Zunge.",19,87,character_speech,3,2,,KOSTBERA.,#kostbera,110.0,FEMALE,suffering,negative,emotions of suffering and empathy
+243,243,GerDracor/fouque-sigurds-rache.xml,Hüte dich!,88,98,character_speech,3,2,,KOSTBERA.,#kostbera,110.0,FEMALE,fear,negative,emotions of anxiety
+244,244,GerDracor/fouque-sigurds-rache.xml,Lüg' nicht.,99,110,character_speech,3,2,,KOSTBERA.,#kostbera,110.0,FEMALE,no_annotation,no_annotation,no_annotation
+245,245,GerDracor/fouque-sigurds-rache.xml,"Wir sind zwei Frauen nur, und waffenlos.",125,165,character_speech,3,2,,KOSTBERA.,#kostbera,110.0,FEMALE,no_annotation,no_annotation,no_annotation
+246,246,GerDracor/fouque-sigurds-rache.xml,"Doch weiß'st du wohl, daß solche, denen Kraft
+               Des Arms versagt ward, zwiefach furchtbar sind
+              In der zum Geiste rückgedrängten Macht,
+              Die aller leiblich engen Banden frei,
+              Hinaus sich geußt zu ungezähmtem Fluß,
+              Mit Fluch auch fernen Frevler sicher fassend,
+              O woll' es nicht erproben!",180,547,character_speech,3,2,,KOSTBERA.,#kostbera,110.0,FEMALE,no_annotation,no_annotation,no_annotation
+247,247,GerDracor/fouque-sigurds-rache.xml,"
+              Hüt' dich, Menschlein!",0,37,character_speech,3,2,,GLAMWOR.,#glamwor,111.0,FEMALE,fear,negative,emotions of anxiety
+248,248,GerDracor/fouque-sigurds-rache.xml,"In mir auch quillt die ungemess'ne Fluth,
+              Reißt dich hinab, in ernsten Rachstroms Wirbel.",52,155,character_speech,3,2,,GLAMWOR.,#glamwor,111.0,FEMALE,despair,negative,emotions of anxiety
+249,249,GerDracor/fouque-sigurds-rache.xml,Ihr sprecht mit Worten einer fremden Welt –,0,43,character_speech,3,2,,WINGO.,#wingo,112.0,MALE,no_annotation,no_annotation,no_annotation
+250,250,GerDracor/fouque-sigurds-rache.xml,Und wirst du bleich?,0,20,character_speech,3,2,,GLAMWOR.,#glamwor,113.0,FEMALE,no_annotation,no_annotation,no_annotation
+251,251,GerDracor/fouque-sigurds-rache.xml,Und zittert nicht dein Mund?,0,28,character_speech,3,2,,KOSTBERA.,#kostbera,114.0,FEMALE,fear,negative,emotions of anxiety
+252,252,GerDracor/fouque-sigurds-rache.xml,"
+              Was soll ich?",0,28,character_speech,3,2,,WINGO.,#wingo,115.0,MALE,no_annotation,no_annotation,no_annotation
+253,253,GerDracor/fouque-sigurds-rache.xml,Sprecht!,29,37,character_speech,3,2,,WINGO.,#wingo,115.0,MALE,no_annotation,no_annotation,no_annotation
+254,254,GerDracor/fouque-sigurds-rache.xml,"Wie zwei grau'nvolle Meere
+              Braus't ihr mich an, und düster sieht die Burg
+              Mit ihren hochgewölbten Sälen drein.",38,176,character_speech,3,2,,WINGO.,#wingo,115.0,MALE,suffering,negative,emotions of suffering and empathy
+255,255,GerDracor/fouque-sigurds-rache.xml,Was soll ich?,191,204,character_speech,3,2,,WINGO.,#wingo,115.0,MALE,no_annotation,no_annotation,no_annotation
+256,256,GerDracor/fouque-sigurds-rache.xml,Schwören einen theuern Eid.,0,27,character_speech,3,2,,KOSTBERA.,#kostbera,116.0,FEMALE,suffering,negative,emotions of suffering and empathy
+257,257,GerDracor/fouque-sigurds-rache.xml,Du zauderst?,0,12,character_speech,3,2,,GLAMWOR.,#glamwor,117.0,FEMALE,fear,negative,emotions of anxiety
+258,258,GerDracor/fouque-sigurds-rache.xml,Nein.,0,5,character_speech,3,2,,WINGO.,#wingo,118.0,MALE,no_annotation,no_annotation,no_annotation
+259,259,GerDracor/fouque-sigurds-rache.xml,"Sagt nur, worauf, Ihr Frau'n.",6,35,character_speech,3,2,,WINGO.,#wingo,118.0,MALE,anger,negative,emotions of rejection
+260,260,GerDracor/fouque-sigurds-rache.xml,"
+              Du woll'st heimführen, unversehrt und froh
+              Die Männer uns.",0,87,character_speech,3,2,,KOSTBERA.,#kostbera,119.0,FEMALE,joy,positive,emotions of pleasure
+261,261,GerDracor/fouque-sigurds-rache.xml,"Schau, wie der Falsche bebt!",0,28,character_speech,3,2,,GLAMWOR.,#glamwor,120.0,FEMALE,fear,negative,emotions of anxiety
+262,262,GerDracor/fouque-sigurds-rache.xml,"Ihr seid furchtbar, ihr beiden.",0,31,character_speech,3,2,,WINGO.,#wingo,121.0,MALE,abhorrence,negative,emotions of rejection
+263,263,GerDracor/fouque-sigurds-rache.xml,Laßt mir Zeit.,32,46,character_speech,3,2,,WINGO.,#wingo,121.0,MALE,no_annotation,no_annotation,no_annotation
+264,264,GerDracor/fouque-sigurds-rache.xml,"Nein, jetzt.",0,12,character_speech,3,2,,GLAMWOR.,#glamwor,122.0,FEMALE,no_annotation,no_annotation,no_annotation
+265,265,GerDracor/fouque-sigurds-rache.xml,"Wo nicht, den Raben dein Gebein.",13,45,character_speech,3,2,,GLAMWOR.,#glamwor,122.0,FEMALE,abhorrence,negative,emotions of rejection
+266,266,GerDracor/fouque-sigurds-rache.xml,Ich schwör' ja schon.,0,21,character_speech,3,2,,WINGO.,#wingo,123.0,MALE,no_annotation,no_annotation,no_annotation
+267,267,GerDracor/fouque-sigurds-rache.xml,Laut!,0,5,character_speech,3,2,,GLAMWOR.,#glamwor,124.0,FEMALE,no_annotation,no_annotation,no_annotation
+268,268,GerDracor/fouque-sigurds-rache.xml,Ich vernehm' es nicht.,6,28,character_speech,3,2,,GLAMWOR.,#glamwor,124.0,FEMALE,no_annotation,no_annotation,no_annotation
+269,269,GerDracor/fouque-sigurds-rache.xml,Zu'n Riesen fern will ich verbannt hin seyn.,0,44,character_speech,3,2,,WINGO.,#wingo,125.0,MALE,abhorrence,negative,emotions of rejection
+270,270,GerDracor/fouque-sigurds-rache.xml,–,45,46,character_speech,3,2,,WINGO.,#wingo,125.0,MALE,no_annotation,no_annotation,no_annotation
+271,271,GerDracor/fouque-sigurds-rache.xml,Erleiden auch des Kreutzes Schmachestod?,0,40,character_speech,3,2,,KOSTBERA.,#kostbera,126.0,FEMALE,suffering,negative,emotions of suffering and empathy
+272,272,GerDracor/fouque-sigurds-rache.xml,–,41,42,character_speech,3,2,,KOSTBERA.,#kostbera,126.0,FEMALE,no_annotation,no_annotation,no_annotation
+273,273,GerDracor/fouque-sigurds-rache.xml,Wofern?,0,7,character_speech,3,2,,GLAMWOR.,#glamwor,127.0,FEMALE,no_annotation,no_annotation,no_annotation
+274,274,GerDracor/fouque-sigurds-rache.xml,–,8,9,character_speech,3,2,,GLAMWOR.,#glamwor,127.0,FEMALE,no_annotation,no_annotation,no_annotation
+275,275,GerDracor/fouque-sigurds-rache.xml,"
+              Wofern ich nicht die Kön'ge Euch
+              Heimliefre, frisch, gesund, froh ihrer Fahrt.",0,107,character_speech,3,2,,WINGO.,#wingo,128.0,MALE,no_annotation,no_annotation,no_annotation
+276,276,GerDracor/fouque-sigurds-rache.xml,Gesprochen ist dein Eid.,0,24,character_speech,3,2,,KOSTBERA.,#kostbera,129.0,FEMALE,no_annotation,no_annotation,no_annotation
+277,277,GerDracor/fouque-sigurds-rache.xml,Nun hüt' ihn wohl.,25,43,character_speech,3,2,,KOSTBERA.,#kostbera,129.0,FEMALE,no_annotation,no_annotation,no_annotation
+278,278,GerDracor/fouque-sigurds-rache.xml,Wingo geht ab.,0,14,stage_direction,3,2,speech_part,,#kostbera,129.0,FEMALE,no_annotation,no_annotation,no_annotation
+279,279,GerDracor/fouque-sigurds-rache.xml,"
+              Wie ihm die Kniee zittern!",0,41,character_speech,3,2,,GLAMWOR.,#glamwor,130.0,FEMALE,being moved,being moved,being moved
+280,280,GerDracor/fouque-sigurds-rache.xml,"Schau, er hält sich
+              An allen Wänden fest.",42,97,character_speech,3,2,,GLAMWOR.,#glamwor,130.0,FEMALE,no_annotation,no_annotation,no_annotation
+281,281,GerDracor/fouque-sigurds-rache.xml,"
+              Es rauscht der Tod
+              Nun über ihm, wie über unsern Herr'n.",0,85,character_speech,3,2,,KOSTBERA.,#kostbera,131.0,FEMALE,despair,negative,emotions of anxiety
+282,282,GerDracor/fouque-sigurds-rache.xml,"Wir thaten, was wir sollten, theure Glamwor,
+              Doch denke nicht an glücklichen Erfolg.",100,198,character_speech,3,2,,KOSTBERA.,#kostbera,131.0,FEMALE,no_annotation,no_annotation,no_annotation
+283,283,GerDracor/fouque-sigurds-rache.xml,"O, diese schlimme Reise!",0,24,character_speech,3,2,,GLAMWOR.,#glamwor,132.0,FEMALE,suffering,negative,emotions of suffering and empathy
+284,284,GerDracor/fouque-sigurds-rache.xml,"
+              Komm nur mit.",0,28,character_speech,3,2,,KOSTBERA.,#kostbera,133.0,FEMALE,no_annotation,no_annotation,no_annotation
+285,285,GerDracor/fouque-sigurds-rache.xml,"Noch schmücken Jegliches den Ehgemahl
+              Laß' uns, damit der edle Opferzug
+              Hellglänzend zieh', wie's solchen Opfern ziemt.",43,190,character_speech,3,2,,KOSTBERA.,#kostbera,133.0,FEMALE,no_annotation,no_annotation,no_annotation
+286,286,GerDracor/fouque-sigurds-rache.xml,Den Wittwenschleier such' ich mit heraus.,0,41,character_speech,3,2,,GLAMWOR.,#glamwor,134.0,FEMALE,no_annotation,no_annotation,no_annotation
+287,287,GerDracor/fouque-sigurds-rache.xml,Thust gut.,0,10,character_speech,3,2,,KOSTBERA.,#kostbera,135.0,FEMALE,no_annotation,no_annotation,no_annotation
+288,288,GerDracor/fouque-sigurds-rache.xml,Denn solchen Festen schleppt er nach.,11,48,character_speech,3,2,,KOSTBERA.,#kostbera,135.0,FEMALE,no_annotation,no_annotation,no_annotation
+289,289,GerDracor/fouque-sigurds-rache.xml,Gehn ab.,0,8,stage_direction,3,2,speech_part,,#kostbera,135.0,FEMALE,no_annotation,no_annotation,no_annotation
+290,290,GerDracor/fouque-sigurds-rache.xml,Nacht.,0,6,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+291,291,GerDracor/fouque-sigurds-rache.xml,Gunnar und Högne stehn bei vielem Gepäck am Rande des Stroms.,0,61,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+292,292,GerDracor/fouque-sigurds-rache.xml,"
+              Wir fuhren, schleppten all' die Nacht hindurch,
+               Und kaum, da schon dem grauen Ostgewölk
+              Ein hell'rer Streif entleuchtet, brachten wir
+              Den Goldhort Faffner's endlich hier zur Stelle.",0,239,character_speech,3,3,,GUNNAR.,#gunnar,136.0,MALE,no_annotation,no_annotation,no_annotation
+293,293,GerDracor/fouque-sigurds-rache.xml,"
+              Den trug doch Grane einst, das edle Roß,
+              Mühlos, und seinen Reiter Sigurd mit.",0,107,character_speech,3,3,,HÖGNE.,#hoegne,137.0,MALE,"admiration, reverence",positive,emotions of affection
+294,294,GerDracor/fouque-sigurds-rache.xml,"Damals, o Bruder mein, war beß're Zeit.",0,39,character_speech,3,3,,GUNNAR.,#gunnar,138.0,MALE,suffering,negative,emotions of suffering and empathy
+295,295,GerDracor/fouque-sigurds-rache.xml,"
+              Dieweil ein bess'rer Held, der Sigurd, lebte.",0,60,character_speech,3,3,,HÖGNE.,#hoegne,139.0,MALE,no_annotation,no_annotation,no_annotation
+296,296,GerDracor/fouque-sigurds-rache.xml,Die Zeiten gehn nach ihrer Helden Maaß.,75,114,character_speech,3,3,,HÖGNE.,#hoegne,139.0,MALE,no_annotation,no_annotation,no_annotation
+297,297,GerDracor/fouque-sigurds-rache.xml,Wir sind doch auch nicht übel.,0,30,character_speech,3,3,,GUNNAR.,#gunnar,140.0,MALE,joy,positive,emotions of pleasure
+298,298,GerDracor/fouque-sigurds-rache.xml,"
+              Wie man's nimmt;
+              Wir sind die besten ziemlich dieser Welt,
+              Doch keinen Sigurd giebt's auf Erden mehr.",0,144,character_speech,3,3,,HÖGNE.,#hoegne,141.0,MALE,no_annotation,no_annotation,no_annotation
+299,299,GerDracor/fouque-sigurds-rache.xml,"
+              Mach' mich doch nicht betrübter, als ich bin.",0,60,character_speech,3,3,,GUNNAR.,#gunnar,142.0,MALE,suffering,negative,emotions of suffering and empathy
+300,300,GerDracor/fouque-sigurds-rache.xml,Mir kommt ohn'hin schon Alles traurig vor.,75,117,character_speech,3,3,,GUNNAR.,#gunnar,142.0,MALE,suffering,negative,emotions of suffering and empathy
+301,301,GerDracor/fouque-sigurds-rache.xml,"Zum Beispiel, als bewahrten wir den Schatz
+              Hier in des Rheines dunkeltiefer Fluth,
+              Um nimmermehr ihn wieder anzuschau'n.",132,280,character_speech,3,3,,GUNNAR.,#gunnar,142.0,MALE,no_annotation,no_annotation,no_annotation
+302,302,GerDracor/fouque-sigurds-rache.xml,Was soll das Grübeln!,0,21,character_speech,3,3,,HÖGNE.,#hoegne,143.0,MALE,being moved,being moved,being moved
+303,303,GerDracor/fouque-sigurds-rache.xml,Stößt einen Ballen in den Strom.,0,32,stage_direction,3,3,speech_part,,#hoegne,143.0,MALE,no_annotation,no_annotation,no_annotation
+304,304,GerDracor/fouque-sigurds-rache.xml,"
+              Horch!",0,21,character_speech,3,3,,GUNNAR.,#gunnar,144.0,MALE,being moved,being moved,being moved
+305,305,GerDracor/fouque-sigurds-rache.xml,"– da liegt er nun
+              Begraben in dem unbekannten Bett!",22,87,character_speech,3,3,,GUNNAR.,#gunnar,144.0,MALE,no_annotation,no_annotation,no_annotation
+306,306,GerDracor/fouque-sigurds-rache.xml,"Viel besser dort, als in des Feindes Hand.",0,42,character_speech,3,3,,HÖGNE.,#hoegne,145.0,MALE,no_annotation,no_annotation,no_annotation
+307,307,GerDracor/fouque-sigurds-rache.xml,"
+              Ja, unsre Reise führt vielleicht fernab;
+              Dann halte du, mein Rheinstrom, unser Gut.",0,112,character_speech,3,3,,GUNNAR.,#gunnar,146.0,MALE,no_annotation,no_annotation,no_annotation
+308,308,GerDracor/fouque-sigurds-rache.xml,"
+              Nun sieh dir noch vorher die Gegend an –
+              Die Rüster dort, – der große Feldstein hier –
+              Daß wir rückkehrend nicht den Schatz verfehlen.",0,177,character_speech,3,3,,HÖGNE.,#hoegne,147.0,MALE,no_annotation,no_annotation,no_annotation
+309,309,GerDracor/fouque-sigurds-rache.xml,Rückkehrend?,0,12,character_speech,3,3,,GUNNAR.,#gunnar,148.0,MALE,no_annotation,no_annotation,no_annotation
+310,310,GerDracor/fouque-sigurds-rache.xml,Glaubst du dran?,13,29,character_speech,3,3,,GUNNAR.,#gunnar,148.0,MALE,no_annotation,no_annotation,no_annotation
+311,311,GerDracor/fouque-sigurds-rache.xml,"
+              Was fragst du viel!",0,34,character_speech,3,3,,HÖGNE.,#hoegne,149.0,MALE,anger,negative,emotions of rejection
+312,312,GerDracor/fouque-sigurds-rache.xml,"Wir stell'n uns so, vor Andern und vor uns.",49,92,character_speech,3,3,,HÖGNE.,#hoegne,149.0,MALE,no_annotation,no_annotation,no_annotation
+313,313,GerDracor/fouque-sigurds-rache.xml,Rasch an die Arbeit.,107,127,character_speech,3,3,,HÖGNE.,#hoegne,149.0,MALE,no_annotation,no_annotation,no_annotation
+314,314,GerDracor/fouque-sigurds-rache.xml,Also muß es seyn.,128,145,character_speech,3,3,,HÖGNE.,#hoegne,149.0,MALE,no_annotation,no_annotation,no_annotation
+315,315,GerDracor/fouque-sigurds-rache.xml,Sie wälzen das Gepäck ämsig in den Fluß.,0,40,stage_direction,3,3,speech_part,,#hoegne,149.0,MALE,fear,negative,emotions of anxiety
+316,316,GerDracor/fouque-sigurds-rache.xml,"
+              Wie's schäumt, wie's rauscht,
+              Vom tiefen Schlund
+              Des furchtbar'n Verwahrers auf!",0,123,character_speech,3,3,,GUNNAR.,#gunnar,150.0,MALE,no_annotation,no_annotation,no_annotation
+317,317,GerDracor/fouque-sigurds-rache.xml,Hab's empfangen!,138,154,character_speech,3,3,,GUNNAR.,#gunnar,150.0,MALE,joy,positive,emotions of pleasure
+318,318,GerDracor/fouque-sigurds-rache.xml,"So haucht sein Athem
+              Bezeugend im zischenden Laut.",169,233,character_speech,3,3,,GUNNAR.,#gunnar,150.0,MALE,no_annotation,no_annotation,no_annotation
+319,319,GerDracor/fouque-sigurds-rache.xml,"
+              Roll' hin, roll' hin,
+              Du reiches Gut,
+              Das Vielen werth und lieb war.",0,111,character_speech,3,3,,HÖGNE.,#hoegne,151.0,MALE,suffering,negative,emotions of suffering and empathy
+320,320,GerDracor/fouque-sigurds-rache.xml,"Am Ufer vielleicht
+              Forschen sie künftig,
+              Forschen vergeblich nach dir.",126,224,character_speech,3,3,,HÖGNE.,#hoegne,151.0,MALE,no_annotation,no_annotation,no_annotation
+321,321,GerDracor/fouque-sigurds-rache.xml,"
+              Gunnar und Högne,
+              Die hohen Könige,
+              Sie senken dich ein, du Hort.",0,108,character_speech,3,3,,GUNNAR.,#gunnar,152.0,MALE,no_annotation,no_annotation,no_annotation
+322,322,GerDracor/fouque-sigurds-rache.xml,"Todtengräber,
+              Mächt'ge, Große,
+              Begehn dir dein Begräbniß.",123,208,character_speech,3,3,,GUNNAR.,#gunnar,152.0,MALE,no_annotation,no_annotation,no_annotation
+323,323,GerDracor/fouque-sigurds-rache.xml,"
+              Und das schöne Grab!",0,35,character_speech,3,3,,HÖGNE.,#hoegne,153.0,MALE,joy,positive,emotions of pleasure
+324,324,GerDracor/fouque-sigurds-rache.xml,"Die schäumende Fluth,
+              Verklärt in Mond und Morgenlicht!",50,119,character_speech,3,3,,HÖGNE.,#hoegne,153.0,MALE,no_annotation,no_annotation,no_annotation
+325,325,GerDracor/fouque-sigurds-rache.xml,"Solch ein Bette
+              Flüß'gen Silbers
+              Hätten ja Fürsten und Helden gern.",134,229,character_speech,3,3,,HÖGNE.,#hoegne,153.0,MALE,joy,positive,emotions of pleasure
+326,326,GerDracor/fouque-sigurds-rache.xml,"
+              Schlaf, du Goldner,
+              Tief im Schooße
+              Der Woge bis wir dich wecken.",0,108,character_speech,3,3,,GUNNAR.,#gunnar,154.0,MALE,no_annotation,no_annotation,no_annotation
+327,327,GerDracor/fouque-sigurds-rache.xml,"Rufen wir nicht,
+               So bleib' in Ruh'
+              Dann schlafen auch wir, erwachen nicht.",123,226,character_speech,3,3,,GUNNAR.,#gunnar,154.0,MALE,no_annotation,no_annotation,no_annotation
+328,328,GerDracor/fouque-sigurds-rache.xml,"
+              Du sperre den gähnenden
+              Spalt, o Rheinfluß!",0,72,character_speech,3,3,,HÖGNE.,#hoegne,155.0,MALE,suffering,negative,emotions of suffering and empathy
+329,329,GerDracor/fouque-sigurds-rache.xml,Gleit' in glänzender Welle drob hin.,87,123,character_speech,3,3,,HÖGNE.,#hoegne,155.0,MALE,no_annotation,no_annotation,no_annotation
+330,330,GerDracor/fouque-sigurds-rache.xml,"Fragen dich Fremde –
+              Zeig' freundlich den Spiegel,
+              Daß sie sich selbst schaun, nie den Schatz.",138,260,character_speech,3,3,,HÖGNE.,#hoegne,155.0,MALE,no_annotation,no_annotation,no_annotation
+331,331,GerDracor/fouque-sigurds-rache.xml,"
+              Nun schweigend fort vom schweigenden Geschäft.",0,61,character_speech,3,3,,GUNNAR.,#gunnar,156.0,MALE,no_annotation,no_annotation,no_annotation
+332,332,GerDracor/fouque-sigurds-rache.xml,"Und, Morgenwind, hauch' fort der Tritte Spur.",76,121,character_speech,3,3,,GUNNAR.,#gunnar,156.0,MALE,no_annotation,no_annotation,no_annotation
+333,333,GerDracor/fouque-sigurds-rache.xml,Gehn ab.,0,8,stage_direction,3,3,speech_part,,#gunnar,156.0,MALE,no_annotation,no_annotation,no_annotation
+334,334,GerDracor/fouque-sigurds-rache.xml,Freies Feld vor König Atles Burg.,0,33,stage_direction,4,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+335,335,GerDracor/fouque-sigurds-rache.xml,"Gunnar, Högne, Niflung und vieles Gefolge.",0,42,stage_direction,4,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+336,336,GerDracor/fouque-sigurds-rache.xml,Wingo mit ihnen.,43,59,stage_direction,4,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+337,337,GerDracor/fouque-sigurds-rache.xml,Das Innre der Schlangenhöle.,0,28,stage_direction,5,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+338,338,GerDracor/fouque-sigurds-rache.xml,Weite Felsgewölbe.,29,47,stage_direction,5,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+339,339,GerDracor/fouque-sigurds-rache.xml,"Im dunkeln Hintergrunde ein dumpfes
+          Bewegen der Unthiere.",48,115,stage_direction,5,0,pre_scene,,,,,abhorrence,negative,emotions of rejection
+340,340,GerDracor/fouque-sigurds-rache.xml,"Atle, mit Waidleuten von der Jagd heimkehrend, begegnet Gudrunen mit ihren
+            Jungfrauen.",0,98,stage_direction,6,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+341,341,GerDracor/fouque-sigurds-rache.xml,"Wohin, Gudruna?",0,15,character_speech,6,1,,ATLE.,#atle,157.0,MALE,no_annotation,no_annotation,no_annotation
+342,342,GerDracor/fouque-sigurds-rache.xml,"
+              In den Wald hinaus,
+              Zu wählen mir die schlanksten, höchsten Bäume,
+              Dann selbst zu pflücken das hellblühendste
+              Gezweig, das ich im Forst nur finden kann.",0,209,character_speech,6,1,,GUDRUNA.,#gudruna,158.0,FEMALE,no_annotation,no_annotation,no_annotation
+343,343,GerDracor/fouque-sigurds-rache.xml,Wozu das?,0,9,character_speech,6,1,,ATLE.,#atle,159.0,MALE,being moved,being moved,being moved
+344,344,GerDracor/fouque-sigurds-rache.xml,"
+              Zu des Scheiterhaufens Gluth
+              Die Bäume, und die Blüthen, ihn zu kränzen.",0,101,character_speech,6,1,,GUDRUNA.,#gudruna,160.0,FEMALE,abhorrence,negative,emotions of rejection
+345,345,GerDracor/fouque-sigurds-rache.xml,Was für 'nen Scheiterhaufen meinst Du denn?,0,43,character_speech,6,1,,ATLE.,#atle,161.0,MALE,no_annotation,no_annotation,no_annotation
+346,346,GerDracor/fouque-sigurds-rache.xml,"
+              Fürwahr, das ist ein seltsam kurz Gedächtniß,
+              Wovon noch spät, nach vieler hundert Jahre
+              Verdunkelndem Hinrollen sprechen wird,
+              Wer deutsche Zunge spricht: – den Heldenfall
+              Der rühmlichen Niflungen im Verrath –
+              Das hat er schon vergessen, der es sah',
+              Der's selbst bereitete mit schlimmer List.",0,393,character_speech,6,1,,GUDRUNA.,#gudruna,162.0,FEMALE,no_annotation,no_annotation,no_annotation
+347,347,GerDracor/fouque-sigurds-rache.xml,"
+              Ha so!",0,21,character_speech,6,1,,ATLE.,#atle,163.0,MALE,being moved,being moved,being moved
+348,348,GerDracor/fouque-sigurds-rache.xml,die Überwundnen feierst Du!,22,49,character_speech,6,1,,ATLE.,#atle,163.0,MALE,joy,positive,emotions of pleasure
+349,349,GerDracor/fouque-sigurds-rache.xml,"Ich hab' ein gar verschiednes Fest im Sinn,
+              Zu deren Preis, die siegend sind gefallen.",64,164,character_speech,6,1,,ATLE.,#atle,163.0,MALE,no_annotation,no_annotation,no_annotation
+350,350,GerDracor/fouque-sigurds-rache.xml,"Deshalb zog ich zu Wald auch, so wie Du,
+              Doch Mahles heitre Gabe bracht ich mit,
+              Viel edles Wildpret, durch den Speer gefällt.",179,333,character_speech,6,1,,ATLE.,#atle,163.0,MALE,no_annotation,no_annotation,no_annotation
+351,351,GerDracor/fouque-sigurds-rache.xml,"Such' Du Dir Bäume aus zum Trauermahl,
+              Auch Blum' und Blüthen, ich verhindr' es nicht,
+              Und gönn' Dir solche arme Feier gern.",348,500,character_speech,6,1,,ATLE.,#atle,163.0,MALE,joy,positive,emotions of pleasure
+352,352,GerDracor/fouque-sigurds-rache.xml,"Sei recht vergnügt dabei, Du stolze Wirthin.",515,559,character_speech,6,1,,ATLE.,#atle,163.0,MALE,joy,positive,emotions of pleasure
+353,353,GerDracor/fouque-sigurds-rache.xml,Geht mit dem Gefolge vorüber.,0,29,stage_direction,6,1,speech_part,,#atle,163.0,MALE,no_annotation,no_annotation,no_annotation
+354,354,GerDracor/fouque-sigurds-rache.xml,"
+              Noch höhnen darf er mich!",0,40,character_speech,6,1,,GUDRUNA.,#gudruna,164.0,FEMALE,anger,negative,emotions of rejection
+355,355,GerDracor/fouque-sigurds-rache.xml,"– Das heischt der Rache
+              Gräu'lvollstes Maaß.",41,99,character_speech,6,1,,GUDRUNA.,#gudruna,164.0,FEMALE,no_annotation,no_annotation,no_annotation
+356,356,GerDracor/fouque-sigurds-rache.xml,"– Ihr Jungfrau'n, geht voran.",100,129,character_speech,6,1,,GUDRUNA.,#gudruna,164.0,FEMALE,no_annotation,no_annotation,no_annotation
+357,357,GerDracor/fouque-sigurds-rache.xml,"Mir wägt sich was im meinem tiefsten Sinn,
+              Das keines fremden Hauches Störung duldet.",145,244,character_speech,6,1,,GUDRUNA.,#gudruna,164.0,FEMALE,love,positive,emotions of affection
+358,358,GerDracor/fouque-sigurds-rache.xml,Die Jungfrau'n gehn ab.,0,23,stage_direction,6,1,speech_part,,#gudruna,164.0,FEMALE,no_annotation,no_annotation,no_annotation
+359,359,GerDracor/fouque-sigurds-rache.xml,"
+              Jedwedes hat sein Ziel.",0,38,character_speech,6,1,,GUDRUNA.,#gudruna,165.0,FEMALE,no_annotation,no_annotation,no_annotation
+360,360,GerDracor/fouque-sigurds-rache.xml,"– Beschränke nicht
+              Zu eng' des edlen Flusses Bett, zwing' nicht
+              Dein treues Roß gewissem Sturz entgegen,
+              Nicht gegen Felswand treib' Dein gutes Schwerdt;
+              Sonst fluthet, bäumt, und splittert zum Verderben
+              Die einst getreue Kraft auf Dich zurück.",39,353,character_speech,6,1,,GUDRUNA.,#gudruna,165.0,FEMALE,no_annotation,no_annotation,no_annotation
+361,361,GerDracor/fouque-sigurds-rache.xml,"–
+              Es ist geschehn.",354,386,character_speech,6,1,,GUDRUNA.,#gudruna,165.0,FEMALE,no_annotation,no_annotation,no_annotation
+362,362,GerDracor/fouque-sigurds-rache.xml,"Und aus dem eignen Herzgrund
+              Reiß' ich mit eignem Blut und Todesschmerz
+              Die Rache für den Spötter mir herauf.",387,524,character_speech,6,1,,GUDRUNA.,#gudruna,165.0,FEMALE,suffering,negative,emotions of suffering and empathy
+363,363,GerDracor/fouque-sigurds-rache.xml,Er kann mir nicht entgeh'n.,539,566,character_speech,6,1,,GUDRUNA.,#gudruna,165.0,FEMALE,love,positive,emotions of affection
+364,364,GerDracor/fouque-sigurds-rache.xml,"Ich halt' ihn gut,
+              Ich halt' ihn fest an meinem eignen Jammer,
+              Um solch ein Kaufgeld führt sich Alles aus.",567,701,character_speech,6,1,,GUDRUNA.,#gudruna,165.0,FEMALE,suffering,negative,emotions of suffering and empathy
+365,365,GerDracor/fouque-sigurds-rache.xml,"Ortlieb und Asmund erscheinen im Hintergrunde, ein erlegtes Reh tragend.",0,72,stage_direction,6,1,speech_part,,#gudruna,165.0,FEMALE,no_annotation,no_annotation,no_annotation
+366,366,GerDracor/fouque-sigurds-rache.xml,hinblickend.,0,12,stage_direction,6,1,speech_part,,#gudruna,166.0,FEMALE,no_annotation,no_annotation,no_annotation
+367,367,GerDracor/fouque-sigurds-rache.xml,"
+              Sind's Truggestalten?",0,36,character_speech,6,1,,GUDRUNA,#gudruna,166.0,FEMALE,no_annotation,no_annotation,no_annotation
+368,368,GerDracor/fouque-sigurds-rache.xml,Nein.,37,42,character_speech,6,1,,GUDRUNA,#gudruna,166.0,FEMALE,no_annotation,no_annotation,no_annotation
+369,369,GerDracor/fouque-sigurds-rache.xml,"Die bösen Geister
+              Spüren nur kaum in einer Menschenbrust
+              Was ihnen gleicht, so werfen sie alsbald
+              Die Ausführung des Gräu'ls in unsern Weg.",43,224,character_speech,6,1,,GUDRUNA,#gudruna,166.0,FEMALE,fear,negative,emotions of anxiety
+370,370,GerDracor/fouque-sigurds-rache.xml,"Hab' deinen bösen Will'n, du böse Macht.",239,279,character_speech,6,1,,GUDRUNA,#gudruna,166.0,FEMALE,abhorrence,negative,emotions of rejection
+371,371,GerDracor/fouque-sigurds-rache.xml,Das Rach- und Todtenopfer falle jetzt.,294,332,character_speech,6,1,,GUDRUNA,#gudruna,166.0,FEMALE,no_annotation,no_annotation,no_annotation
+372,372,GerDracor/fouque-sigurds-rache.xml,"
+              Siehst Du?",0,25,character_speech,6,1,,ORTLIEB.,#ortlieb,167.0,MALE,no_annotation,no_annotation,no_annotation
+373,373,GerDracor/fouque-sigurds-rache.xml,Ich schoß es.,26,39,character_speech,6,1,,ORTLIEB.,#ortlieb,167.0,MALE,no_annotation,no_annotation,no_annotation
+374,374,GerDracor/fouque-sigurds-rache.xml,"In der Wunde noch
+              Sitzt fest mein Pfeil, der mit den bunten Federn.",40,121,character_speech,6,1,,ORTLIEB.,#ortlieb,167.0,MALE,no_annotation,no_annotation,no_annotation
+375,375,GerDracor/fouque-sigurds-rache.xml,"
+              Ja, doch ich sing es, wie's in Todesnoth
+              Hinab sich stürzen wollte von den Klippen.",0,112,character_speech,6,1,,ASMUND.,#asmund,168.0,MALE,no_annotation,no_annotation,no_annotation
+376,376,GerDracor/fouque-sigurds-rache.xml,"Dort wär's zerschellt, und nie hätt'st Du's gesehn.",127,178,character_speech,6,1,,ASMUND.,#asmund,168.0,MALE,suffering,negative,emotions of suffering and empathy
+377,377,GerDracor/fouque-sigurds-rache.xml,Der Schuß bleibt immer mein.,0,28,character_speech,6,1,,ORTLIEB.,#ortlieb,169.0,MALE,joy,positive,emotions of pleasure
+378,378,GerDracor/fouque-sigurds-rache.xml,Und mein die Beute.,0,19,character_speech,6,1,,ASMUND.,#asmund,170.0,MALE,no_annotation,no_annotation,no_annotation
+379,379,GerDracor/fouque-sigurds-rache.xml,"Ach, jüng'rer Bruder, gieb in Frieden Dich.",0,43,character_speech,6,1,,ORTLIEB.,#ortlieb,171.0,MALE,suffering,negative,emotions of suffering and empathy
+380,380,GerDracor/fouque-sigurds-rache.xml,"
+              Du!",0,18,character_speech,6,1,,ASMUND.,#asmund,172.0,MALE,abhorrence,negative,emotions of rejection
+381,381,GerDracor/fouque-sigurds-rache.xml,Prahl' mir nicht.,19,36,character_speech,6,1,,ASMUND.,#asmund,172.0,MALE,no_annotation,no_annotation,no_annotation
+382,382,GerDracor/fouque-sigurds-rache.xml,"Ich streu' Dein gelbes Haar
+              In alle Lüfte noch zum Spiel des Wind's.",37,119,character_speech,6,1,,ASMUND.,#asmund,172.0,MALE,"admiration, reverence",positive,emotions of affection
+383,383,GerDracor/fouque-sigurds-rache.xml,"Wag' Dich nur an mich, Du krausköpf'ger Bursch.",0,47,character_speech,6,1,,ORTLIEB.,#ortlieb,173.0,MALE,anger,negative,emotions of rejection
+384,384,GerDracor/fouque-sigurds-rache.xml,"Gudruna tritt zwischen sie, faßt sie hart an, und führt sie mit in den
+              Vorgrund.",0,94,stage_direction,6,1,speech_part,,#ortlieb,173.0,MALE,no_annotation,no_annotation,no_annotation
+385,385,GerDracor/fouque-sigurds-rache.xml,Die Mutter kommt ein heft'ges Zürnen an.,0,40,character_speech,6,1,,ORTLIEB.,#ortlieb,174.0,MALE,suffering,negative,emotions of suffering and empathy
+386,386,GerDracor/fouque-sigurds-rache.xml,"
+              Was aber hadert Ihr um's blut'ge Reh?",0,52,character_speech,6,1,,GUDRUNA.,#gudruna,175.0,FEMALE,compassion,negative,emotions of suffering and empathy
+387,387,GerDracor/fouque-sigurds-rache.xml,"Ihr seid zwei blut'ge Rehe selbst, seid Opfer.",67,113,character_speech,6,1,,GUDRUNA.,#gudruna,175.0,FEMALE,suffering,negative,emotions of suffering and empathy
+388,388,GerDracor/fouque-sigurds-rache.xml,"Nein, grimme Mutter, ich versteh' Dich nicht.",0,45,character_speech,6,1,,ASMUND.,#asmund,176.0,MALE,anger,negative,emotions of rejection
+389,389,GerDracor/fouque-sigurds-rache.xml,"
+              Verstehn, Ihr Atles Kinder, sollt Ihr mich,
+              Wenn Euch mein Messer wühlt am harten Herzen.",0,118,character_speech,6,1,,GUDRUNA.,#gudruna,177.0,FEMALE,suffering,negative,emotions of suffering and empathy
+390,390,GerDracor/fouque-sigurds-rache.xml,"Du willst uns schlachten, Mutter?",0,33,character_speech,6,1,,ORTLIEB.,#ortlieb,178.0,MALE,fear,negative,emotions of anxiety
+391,391,GerDracor/fouque-sigurds-rache.xml,"
+              Ja, zum Mahl,
+              Zum Todesmahl für Eurer Öhme Feier.",0,78,character_speech,6,1,,GUDRUNA.,#gudruna,179.0,FEMALE,no_annotation,no_annotation,no_annotation
+392,392,GerDracor/fouque-sigurds-rache.xml,Das wird Dir selbst gewißlich wehe thun.,0,40,character_speech,6,1,,ASMUND.,#asmund,180.0,MALE,suffering,negative,emotions of suffering and empathy
+393,393,GerDracor/fouque-sigurds-rache.xml,Mag es!,0,7,character_speech,6,1,,GUDRUNA.,#gudruna,181.0,FEMALE,no_annotation,no_annotation,no_annotation
+394,394,GerDracor/fouque-sigurds-rache.xml,Dieß ist für alle Zeit des Weh's.,8,41,character_speech,6,1,,GUDRUNA.,#gudruna,181.0,FEMALE,suffering,negative,emotions of suffering and empathy
+395,395,GerDracor/fouque-sigurds-rache.xml,Und Schade wär's um zwei so wackre Knaben.,0,42,character_speech,6,1,,ASMUND.,#asmund,182.0,MALE,no_annotation,no_annotation,no_annotation
+396,396,GerDracor/fouque-sigurds-rache.xml,"
+              Hat Euch, Ihr kleinen unbewegten Klippen,
+              Hat Euch mein heisser Thränenguß erweicht,
+              Als ich für meiner Brüder Leben bat?",0,164,character_speech,6,1,,GUDRUNA.,#gudruna,183.0,FEMALE,suffering,negative,emotions of suffering and empathy
+397,397,GerDracor/fouque-sigurds-rache.xml,"Nun Wolfsbrut, Schlangenbrut, nun soll auch mich
+              Nicht Euer Fleh'n, Eu'r Weinen nicht erweichen.",179,289,character_speech,6,1,,GUDRUNA.,#gudruna,183.0,FEMALE,suffering,negative,emotions of suffering and empathy
+398,398,GerDracor/fouque-sigurds-rache.xml,"
+              Nein.",0,20,character_speech,6,1,,ORTLIEB.,#ortlieb,184.0,MALE,no_annotation,no_annotation,no_annotation
+399,399,GerDracor/fouque-sigurds-rache.xml,"Mutter, bild' Dir nicht was Schlechtes ein.",21,64,character_speech,6,1,,ORTLIEB.,#ortlieb,184.0,MALE,no_annotation,no_annotation,no_annotation
+400,400,GerDracor/fouque-sigurds-rache.xml,Wir flehen?,79,90,character_speech,6,1,,ORTLIEB.,#ortlieb,184.0,MALE,fear,negative,emotions of anxiety
+401,401,GerDracor/fouque-sigurds-rache.xml,Weinen?,91,98,character_speech,6,1,,ORTLIEB.,#ortlieb,184.0,MALE,suffering,negative,emotions of suffering and empathy
+402,402,GerDracor/fouque-sigurds-rache.xml,"Bitter ist der Tod,
+              So wie es heißt, und manche lust'ge Jagd,
+               Und manch ein lust'ger Krieg stand zu erproben
+              Für Heldensöhne, wie wir beide sind.",99,287,character_speech,6,1,,ORTLIEB.,#ortlieb,184.0,MALE,no_annotation,no_annotation,no_annotation
+403,403,GerDracor/fouque-sigurds-rache.xml,Darum ist's Schade.,302,321,character_speech,6,1,,ORTLIEB.,#ortlieb,184.0,MALE,no_annotation,no_annotation,no_annotation
+404,404,GerDracor/fouque-sigurds-rache.xml,Doch wir winseln nicht.,322,345,character_speech,6,1,,ORTLIEB.,#ortlieb,184.0,MALE,no_annotation,no_annotation,no_annotation
+405,405,GerDracor/fouque-sigurds-rache.xml,"Muß es denn sein, so laß' es gleich geschehn.",360,405,character_speech,6,1,,ORTLIEB.,#ortlieb,184.0,MALE,no_annotation,no_annotation,no_annotation
+406,406,GerDracor/fouque-sigurds-rache.xml,"Es soll, Ihr Trotzigen!",0,23,character_speech,6,1,,GUDRUNA.,#gudruna,185.0,FEMALE,anger,negative,emotions of rejection
+407,407,GerDracor/fouque-sigurds-rache.xml,Es soll alsbald.,24,40,character_speech,6,1,,GUDRUNA.,#gudruna,185.0,FEMALE,no_annotation,no_annotation,no_annotation
+408,408,GerDracor/fouque-sigurds-rache.xml,"
+              Du bist es, die uns unser Leben gab,
+              Und was man gab, kann man zurücke heischen.",0,109,character_speech,6,1,,ASMUND.,#asmund,186.0,MALE,love,positive,emotions of affection
+409,409,GerDracor/fouque-sigurds-rache.xml,"Nimm's nur, Du Mutter.",124,146,character_speech,6,1,,ASMUND.,#asmund,186.0,MALE,no_annotation,no_annotation,no_annotation
+410,410,GerDracor/fouque-sigurds-rache.xml,"
+              Mutter nennst Du mich.",0,37,character_speech,6,1,,GUDRUNA.,#gudruna,187.0,FEMALE,no_annotation,no_annotation,no_annotation
+411,411,GerDracor/fouque-sigurds-rache.xml,"O, lieber Knabe!",52,68,character_speech,6,1,,GUDRUNA.,#gudruna,187.0,FEMALE,suffering,negative,emotions of suffering and empathy
+412,412,GerDracor/fouque-sigurds-rache.xml,Will ihn umarmen.,0,17,stage_direction,6,1,speech_part,,#gudruna,187.0,FEMALE,no_annotation,no_annotation,no_annotation
+413,413,GerDracor/fouque-sigurds-rache.xml,zurückspringend.,0,16,stage_direction,6,1,speech_part,,#asmund,188.0,MALE,no_annotation,no_annotation,no_annotation
+414,414,GerDracor/fouque-sigurds-rache.xml,"
+              Nein, das leid' ich nicht.",0,41,character_speech,6,1,,ASMUND,#asmund,188.0,MALE,anger,negative,emotions of rejection
+415,415,GerDracor/fouque-sigurds-rache.xml,"Wer mich bedroht, dem keinen Kuß zuvor!",56,95,character_speech,6,1,,ASMUND,#asmund,188.0,MALE,anger,negative,emotions of rejection
+416,416,GerDracor/fouque-sigurds-rache.xml,"Recht so, mein Bruder.",0,22,character_speech,6,1,,ORTLIEB.,#ortlieb,189.0,MALE,no_annotation,no_annotation,no_annotation
+417,417,GerDracor/fouque-sigurds-rache.xml,Gieb kein gutes Wort.,23,44,character_speech,6,1,,ORTLIEB.,#ortlieb,189.0,MALE,no_annotation,no_annotation,no_annotation
+418,418,GerDracor/fouque-sigurds-rache.xml,"
+              Des Atle Ingrimm sprüht aus diesen Augen,
+              Des Atle Bosheit wohnt in solcher Brust.",0,111,character_speech,6,1,,GUDRUNA.,#gudruna,190.0,FEMALE,abhorrence,negative,emotions of rejection
+419,419,GerDracor/fouque-sigurds-rache.xml,Was zögr' ich denn?,126,145,character_speech,6,1,,GUDRUNA.,#gudruna,190.0,FEMALE,no_annotation,no_annotation,no_annotation
+420,420,GerDracor/fouque-sigurds-rache.xml,Hinaus zum Rachemahl!,146,167,character_speech,6,1,,GUDRUNA.,#gudruna,190.0,FEMALE,abhorrence,negative,emotions of rejection
+421,421,GerDracor/fouque-sigurds-rache.xml,Eilt mit den Knaben ab.,0,23,stage_direction,6,1,speech_part,,#gudruna,190.0,FEMALE,no_annotation,no_annotation,no_annotation
+422,422,GerDracor/fouque-sigurds-rache.xml,tritt auf.,0,10,stage_direction,6,1,speech_part,,#goldschmidt,191.0,MALE,no_annotation,no_annotation,no_annotation
+423,423,GerDracor/fouque-sigurds-rache.xml,"
+              Wenn Kön'ge fechten, wird der Kaufmann reich.",0,60,character_speech,6,1,,EIN GOLDSCHMIDT,#goldschmidt,191.0,MALE,joy,positive,emotions of pleasure
+424,424,GerDracor/fouque-sigurds-rache.xml,"Es geht wohl im Gewühl mit Einer drauf,
+               Jedoch gewinnt, wer's überlebt, gar viel.",75,171,character_speech,6,1,,EIN GOLDSCHMIDT,#goldschmidt,191.0,MALE,no_annotation,no_annotation,no_annotation
+425,425,GerDracor/fouque-sigurds-rache.xml,"Da giebt es Ehrenmale aufzustell'n
+              Den Todten, Siegesmale Lebenden,
+              Und dann das reiche Gold, und Silber auch,
+              Und köstliches Gestein, so auf den Waffen
+              Erschlagner liegen bleibt – wer das versteht,
+              Dem fällt der schönsten Beute viel anheim.",186,497,character_speech,6,1,,EIN GOLDSCHMIDT,#goldschmidt,191.0,MALE,no_annotation,no_annotation,no_annotation
+426,426,GerDracor/fouque-sigurds-rache.xml,Da hier – und hier –,512,532,character_speech,6,1,,EIN GOLDSCHMIDT,#goldschmidt,191.0,MALE,no_annotation,no_annotation,no_annotation
+427,427,GerDracor/fouque-sigurds-rache.xml,Mitgebrachte Gold- und Silberstangen betrachtend.,0,49,stage_direction,6,1,speech_part,,#goldschmidt,191.0,MALE,no_annotation,no_annotation,no_annotation
+428,428,GerDracor/fouque-sigurds-rache.xml,"verstört zurückkommend, und ihn plötzlich ergreifend.",0,53,stage_direction,6,1,speech_part,,#gudruna,192.0,FEMALE,being moved,being moved,being moved
+429,429,GerDracor/fouque-sigurds-rache.xml,He Du!,0,6,character_speech,6,1,,GUDRUNA,#gudruna,192.0,FEMALE,anger,negative,emotions of rejection
+430,430,GerDracor/fouque-sigurds-rache.xml,Was lau'rst Du hier?,7,27,character_speech,6,1,,GUDRUNA,#gudruna,192.0,FEMALE,no_annotation,no_annotation,no_annotation
+431,431,GerDracor/fouque-sigurds-rache.xml,O mir!,0,6,character_speech,6,1,,GOLDSCHMIDT.,#goldschmidt,193.0,MALE,no_annotation,no_annotation,no_annotation
+432,432,GerDracor/fouque-sigurds-rache.xml,Willst Du mich tödten?,7,29,character_speech,6,1,,GOLDSCHMIDT.,#goldschmidt,193.0,MALE,despair,negative,emotions of anxiety
+433,433,GerDracor/fouque-sigurds-rache.xml,"Sag', wer bist Du?",0,18,character_speech,6,1,,GUDRUNA.,#gudruna,194.0,FEMALE,no_annotation,no_annotation,no_annotation
+434,434,GerDracor/fouque-sigurds-rache.xml,"
+              Ein armer, frommer Kunstmann, Königin –
+              O laß' mich leben – der für Dich des Schmucks
+              Schon viel geformt – In Deiner Augen Gluth
+              Liegt Tod.",0,196,character_speech,6,1,,GOLDSCHMIDT.,#goldschmidt,195.0,MALE,suffering,negative,emotions of suffering and empathy
+435,435,GerDracor/fouque-sigurds-rache.xml,Meinst Du?,0,10,character_speech,6,1,,GUDRUNA.,#gudruna,196.0,FEMALE,no_annotation,no_annotation,no_annotation
+436,436,GerDracor/fouque-sigurds-rache.xml,Er flammt aus meinem Herzen.,11,39,character_speech,6,1,,GUDRUNA.,#gudruna,196.0,FEMALE,love,positive,emotions of affection
+437,437,GerDracor/fouque-sigurds-rache.xml,Ihn los lassend.,0,16,stage_direction,6,1,speech_part,,#gudruna,196.0,FEMALE,no_annotation,no_annotation,no_annotation
+438,438,GerDracor/fouque-sigurds-rache.xml,"
+              Doch das ist nicht für Dich, Du banger Wurm.",0,59,character_speech,6,1,,GUDRUNA.,#gudruna,196.0,FEMALE,fear,negative,emotions of anxiety
+439,439,GerDracor/fouque-sigurds-rache.xml,Sei Du getrost.,74,89,character_speech,6,1,,GUDRUNA.,#gudruna,196.0,FEMALE,no_annotation,no_annotation,no_annotation
+440,440,GerDracor/fouque-sigurds-rache.xml,"Nur dahin trifft der Blitz,
+               Wo ihn verwandte Kraft zum Zorne lockt.",90,172,character_speech,6,1,,GUDRUNA.,#gudruna,196.0,FEMALE,anger,negative,emotions of rejection
+441,441,GerDracor/fouque-sigurds-rache.xml,"–
+              Sprachst Du nicht eben, Schmuck verständest Du
+              Zu bilden, aus des Erzes edlem Glanz?",173,287,character_speech,6,1,,GUDRUNA.,#gudruna,196.0,FEMALE,no_annotation,no_annotation,no_annotation
+442,442,GerDracor/fouque-sigurds-rache.xml,"Ja, Herrin.",0,11,character_speech,6,1,,GOLDSCHMIDT.,#goldschmidt,197.0,MALE,no_annotation,no_annotation,no_annotation
+443,443,GerDracor/fouque-sigurds-rache.xml,"
+              Nun, ich sende Dir zwei Schalen
+              Zu Trinkgefäßen, zwei sehr edle Schalen –",0,102,character_speech,6,1,,GUDRUNA.,#gudruna,198.0,FEMALE,no_annotation,no_annotation,no_annotation
+444,444,GerDracor/fouque-sigurds-rache.xml,Verhüllt ihr Antlitz.,0,21,stage_direction,6,1,speech_part,,#gudruna,198.0,FEMALE,love,positive,emotions of affection
+445,445,GerDracor/fouque-sigurds-rache.xml,"
+              Wie wird ihr?",0,28,character_speech,6,1,,GOLDSCHMIDT.,#goldschmidt,199.0,MALE,no_annotation,no_annotation,no_annotation
+446,446,GerDracor/fouque-sigurds-rache.xml,"Sie bewegt mir meinen Sinn
+              In Furcht und tiefer Wehmuth Schmerz zugleich.",29,116,character_speech,6,1,,GOLDSCHMIDT.,#goldschmidt,199.0,MALE,suffering,negative,emotions of suffering and empathy
+447,447,GerDracor/fouque-sigurds-rache.xml,"
+              Zwei Schalen, sagt' ich Dir.",0,43,character_speech,6,1,,GUDRUNA.,#gudruna,200.0,FEMALE,no_annotation,no_annotation,no_annotation
+448,448,GerDracor/fouque-sigurds-rache.xml,"Die faß' in Silber
+              Zu Trinkgeschirr'n –",44,97,character_speech,6,1,,GUDRUNA.,#gudruna,200.0,FEMALE,no_annotation,no_annotation,no_annotation
+449,449,GerDracor/fouque-sigurds-rache.xml,Du willst sie nicht in Gold?,0,28,character_speech,6,1,,GOLDSCHMIDT.,#goldschmidt,201.0,MALE,no_annotation,no_annotation,no_annotation
+450,450,GerDracor/fouque-sigurds-rache.xml,"
+              Gold?",0,20,character_speech,6,1,,GUDRUNA.,#gudruna,202.0,FEMALE,being moved,being moved,being moved
+451,451,GerDracor/fouque-sigurds-rache.xml,Nein.,21,26,character_speech,6,1,,GUDRUNA.,#gudruna,202.0,FEMALE,no_annotation,no_annotation,no_annotation
+452,452,GerDracor/fouque-sigurds-rache.xml,"Des Silbers bleiches Mondenlicht
+              Geziemt sich solchem Fest.",27,100,character_speech,6,1,,GUDRUNA.,#gudruna,202.0,FEMALE,no_annotation,no_annotation,no_annotation
+453,453,GerDracor/fouque-sigurds-rache.xml,Doch schaff' sie bald.,101,123,character_speech,6,1,,GUDRUNA.,#gudruna,202.0,FEMALE,no_annotation,no_annotation,no_annotation
+454,454,GerDracor/fouque-sigurds-rache.xml,"Gebeut nur, wann.",0,17,character_speech,6,1,,GOLDSCHMIDT.,#goldschmidt,203.0,MALE,no_annotation,no_annotation,no_annotation
+455,455,GerDracor/fouque-sigurds-rache.xml,"
+              Zum ernsten Todtenmahl
+              Das ich um der Niflungen Ende feire.",0,88,character_speech,6,1,,GUDRUNA.,#gudruna,204.0,FEMALE,despair,negative,emotions of anxiety
+456,456,GerDracor/fouque-sigurds-rache.xml,"
+              Zur Werkstatt eil' ich, Alles zu bereiten.",0,57,character_speech,6,1,,GOLDSCHMIDT.,#goldschmidt,205.0,MALE,no_annotation,no_annotation,no_annotation
+457,457,GerDracor/fouque-sigurds-rache.xml,Schick' mir die Schalen hin.,72,100,character_speech,6,1,,GOLDSCHMIDT.,#goldschmidt,205.0,MALE,no_annotation,no_annotation,no_annotation
+458,458,GerDracor/fouque-sigurds-rache.xml,"
+              Sei unbesorgt.",0,29,character_speech,6,1,,GUDRUNA.,#gudruna,206.0,FEMALE,no_annotation,no_annotation,no_annotation
+459,459,GerDracor/fouque-sigurds-rache.xml,"Ach, meine Arbeit dran, weh!",44,72,character_speech,6,1,,GUDRUNA.,#gudruna,206.0,FEMALE,suffering,negative,emotions of suffering and empathy
+460,460,GerDracor/fouque-sigurds-rache.xml,ist gethan.,73,84,character_speech,6,1,,GUDRUNA.,#gudruna,206.0,FEMALE,no_annotation,no_annotation,no_annotation
+461,461,GerDracor/fouque-sigurds-rache.xml,Goldschmidt ab.,0,15,stage_direction,6,1,speech_part,,#gudruna,206.0,FEMALE,no_annotation,no_annotation,no_annotation
+462,462,GerDracor/fouque-sigurds-rache.xml,"
+              Leb' ich denn noch?",0,34,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,being moved,being moved,being moved
+463,463,GerDracor/fouque-sigurds-rache.xml,Bin ich's noch immer selbst?,35,63,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,being moved,being moved,being moved
+464,464,GerDracor/fouque-sigurds-rache.xml,"Oder hat der unheilbeschwingten Dysen
+              Sich eine in Gudrunens Leib verstellt?",78,168,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,fear,negative,emotions of anxiety
+465,465,GerDracor/fouque-sigurds-rache.xml,Man sollt' es denken.,183,204,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,no_annotation,no_annotation,no_annotation
+466,466,GerDracor/fouque-sigurds-rache.xml,"Solche, solche That!",205,225,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,no_annotation,no_annotation,no_annotation
+467,467,GerDracor/fouque-sigurds-rache.xml,Zwei schöne Leichen sind es.,240,268,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,no_annotation,no_annotation,no_annotation
+468,468,GerDracor/fouque-sigurds-rache.xml,"– Neben ihnen
+              Stand ich, wie in der sonst'gen, frommen Zeit,
+              Wenn ich in süßen Schlummer sie gewiegt,
+              Und mich gefreut an ihrer Locken Gold,
+              An ihrer Wangen Roth.",269,487,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,love,positive,emotions of affection
+469,469,GerDracor/fouque-sigurds-rache.xml,"– Die sind heut blaß,
+              Doch Purpurkleider wirkt' ich ihren Leibern.",488,568,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,no_annotation,no_annotation,no_annotation
+470,470,GerDracor/fouque-sigurds-rache.xml,Mir thut das Herz noch von der Arbeit weh.,583,625,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,suffering,negative,emotions of suffering and empathy
+471,471,GerDracor/fouque-sigurds-rache.xml,"–
+              Doch fort.",626,652,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,no_annotation,no_annotation,no_annotation
+472,472,GerDracor/fouque-sigurds-rache.xml,Der Schalen harrt die Hand des Kunstmanns.,653,695,character_speech,6,1,,GUDRUNA.,#gudruna,207.0,FEMALE,no_annotation,no_annotation,no_annotation
+473,473,GerDracor/fouque-sigurds-rache.xml,Will ab.,0,8,stage_direction,6,1,speech_part,,#gudruna,207.0,FEMALE,no_annotation,no_annotation,no_annotation
+474,474,GerDracor/fouque-sigurds-rache.xml,Atle tritt ihr entgegen.,9,33,stage_direction,6,1,speech_part,,#gudruna,207.0,FEMALE,no_annotation,no_annotation,no_annotation
+475,475,GerDracor/fouque-sigurds-rache.xml,Sie schrickt zusammen.,34,56,stage_direction,6,1,speech_part,,#gudruna,207.0,FEMALE,no_annotation,no_annotation,no_annotation
+476,476,GerDracor/fouque-sigurds-rache.xml,"
+              Nein, tritt so zürnend nicht vor mir zurück.",0,59,character_speech,6,1,,ATLE.,#atle,208.0,MALE,anger,negative,emotions of rejection
+477,477,GerDracor/fouque-sigurds-rache.xml,"Ich that Unrecht vorhin mit meinem Spott,
+              Und will es sühnen.",74,149,character_speech,6,1,,ATLE.,#atle,208.0,MALE,no_annotation,no_annotation,no_annotation
+478,478,GerDracor/fouque-sigurds-rache.xml,"
+              Laß' mich, laß' mich gehn,
+              Mich ruft ein wicht'ges Thun.",0,85,character_speech,6,1,,GUDRUNA.,#gudruna,209.0,FEMALE,no_annotation,no_annotation,no_annotation
+479,479,GerDracor/fouque-sigurds-rache.xml,"
+              Zum Todtenmahl
+              Die Vorbereitung?",0,61,character_speech,6,1,,ATLE.,#atle,210.0,MALE,no_annotation,no_annotation,no_annotation
+480,480,GerDracor/fouque-sigurds-rache.xml,"Sieh, ich feir' es mit,
+              Will ehren Deine Brüder noch im Tod.",62,136,character_speech,6,1,,ATLE.,#atle,210.0,MALE,"admiration, reverence",positive,emotions of affection
+481,481,GerDracor/fouque-sigurds-rache.xml,"
+              Ja, merk'st Du's nun, doch merk'st es allzuspät,
+              Daß auch zertretne Schlangen furchtbar sind.",0,122,character_speech,6,1,,GUDRUNA.,#gudruna,211.0,FEMALE,no_annotation,no_annotation,no_annotation
+482,482,GerDracor/fouque-sigurds-rache.xml,Nun möcht'st Du sühnen.,137,160,character_speech,6,1,,GUDRUNA.,#gudruna,211.0,FEMALE,no_annotation,no_annotation,no_annotation
+483,483,GerDracor/fouque-sigurds-rache.xml,"Laß' es jetzt nur werden,
+              Wie's werden kann.",161,219,character_speech,6,1,,GUDRUNA.,#gudruna,211.0,FEMALE,no_annotation,no_annotation,no_annotation
+484,484,GerDracor/fouque-sigurds-rache.xml,Nach einigem Besinnen.,0,22,stage_direction,6,1,speech_part,,#gudruna,211.0,FEMALE,no_annotation,no_annotation,no_annotation
+485,485,GerDracor/fouque-sigurds-rache.xml,"
+              Doch nein, nein!",0,31,character_speech,6,1,,GUDRUNA.,#gudruna,211.0,FEMALE,suffering,negative,emotions of suffering and empathy
+486,486,GerDracor/fouque-sigurds-rache.xml,"Du sollst mit
+              Beim Todtenfeste der Niflungen zechen.",32,98,character_speech,6,1,,GUDRUNA.,#gudruna,211.0,FEMALE,no_annotation,no_annotation,no_annotation
+487,487,GerDracor/fouque-sigurds-rache.xml,Was brach so plötzlich Deinen starren Sinn?,0,43,character_speech,6,1,,ATLE.,#atle,212.0,MALE,being moved,being moved,being moved
+488,488,GerDracor/fouque-sigurds-rache.xml,"
+              Ich bin ja doch ein arm' verlassnes Weib, –
+              Die Brüder tod, der Freunde Macht zerschellt –
+              Ja freilich will ich grüßen Dich als Gast.",0,176,character_speech,6,1,,GUDRUNA.,#gudruna,213.0,FEMALE,suffering,negative,emotions of suffering and empathy
+489,489,GerDracor/fouque-sigurds-rache.xml,"
+              Du thust auch recht.",0,35,character_speech,6,1,,ATLE.,#atle,214.0,MALE,no_annotation,no_annotation,no_annotation
+490,490,GerDracor/fouque-sigurds-rache.xml,"Laß uns hinfürder friedlich
+              Beisammen wohnen.",36,95,character_speech,6,1,,ATLE.,#atle,214.0,MALE,no_annotation,no_annotation,no_annotation
+491,491,GerDracor/fouque-sigurds-rache.xml,"Groll und Hader viel
+              Hab' ich gesehn in meines Lebens Lauf,
+              Und trug mir doch an Früchten Mißwachs nur.",96,227,character_speech,6,1,,ATLE.,#atle,214.0,MALE,suffering,negative,emotions of suffering and empathy
+492,492,GerDracor/fouque-sigurds-rache.xml,So auch mit dieser letzten furchtbar'n Schlacht.,243,291,character_speech,6,1,,ATLE.,#atle,214.0,MALE,no_annotation,no_annotation,no_annotation
+493,493,GerDracor/fouque-sigurds-rache.xml,"Verbergend rauschen Rhein's gewalt'ge Fluthen
+              Ob dem so blutig nachgespäh'ten Gold.",306,403,character_speech,6,1,,ATLE.,#atle,214.0,MALE,suffering,negative,emotions of suffering and empathy
+494,494,GerDracor/fouque-sigurds-rache.xml,"Nein, Friede sei's nun, abgethan der Krieg.",418,461,character_speech,6,1,,ATLE.,#atle,214.0,MALE,no_annotation,no_annotation,no_annotation
+495,495,GerDracor/fouque-sigurds-rache.xml,"
+              Wer das so sagen könnte!",0,39,character_speech,6,1,,GUDRUNA.,#gudruna,215.0,FEMALE,anger,negative,emotions of rejection
+496,496,GerDracor/fouque-sigurds-rache.xml,"Ruf' doch wer
+              Die Wucht zurück, so er vom Fels gerollt!",40,109,character_speech,6,1,,GUDRUNA.,#gudruna,215.0,FEMALE,no_annotation,no_annotation,no_annotation
+497,497,GerDracor/fouque-sigurds-rache.xml,"
+              Warum nicht, wenn sie einmal unten liegt,
+              Sie still zurücketragen?",0,95,character_speech,6,1,,ATLE.,#atle,216.0,MALE,no_annotation,no_annotation,no_annotation
+498,498,GerDracor/fouque-sigurds-rache.xml,"
+              Liegt sie unten?",0,31,character_speech,6,1,,GUDRUNA.,#gudruna,217.0,FEMALE,no_annotation,no_annotation,no_annotation
+499,499,GerDracor/fouque-sigurds-rache.xml,"Mich dünkt, ich hör' ihr Roll'n noch am Gestein.",46,94,character_speech,6,1,,GUDRUNA.,#gudruna,217.0,FEMALE,no_annotation,no_annotation,no_annotation
+500,500,GerDracor/fouque-sigurds-rache.xml,"
+              Laß' ab, zu träumen.",0,35,character_speech,6,1,,ATLE.,#atle,218.0,MALE,no_annotation,no_annotation,no_annotation
+501,501,GerDracor/fouque-sigurds-rache.xml,"Reiche Gaben Dir
+              Halt' ich entschädigend bereit.",36,98,character_speech,6,1,,ATLE.,#atle,218.0,MALE,joy,positive,emotions of pleasure
+502,502,GerDracor/fouque-sigurds-rache.xml,"
+              Die spare.",0,25,character_speech,6,1,,GUDRUNA.,#gudruna,219.0,FEMALE,no_annotation,no_annotation,no_annotation
+503,503,GerDracor/fouque-sigurds-rache.xml,Du bist mein Gast ja schon für's Todtenmahl,40,83,character_speech,6,1,,GUDRUNA.,#gudruna,219.0,FEMALE,joy,positive,emotions of pleasure
+504,504,GerDracor/fouque-sigurds-rache.xml,Die Knaben bring' ich mit.,0,26,character_speech,6,1,,ATLE.,#atle,220.0,MALE,no_annotation,no_annotation,no_annotation
+505,505,GerDracor/fouque-sigurds-rache.xml,So?,0,3,character_speech,6,1,,GUDRUNA.,#gudruna,221.0,FEMALE,no_annotation,no_annotation,no_annotation
+506,506,GerDracor/fouque-sigurds-rache.xml,"
+              Sieh'st Du doch
+               Mit einem Lächeln drein, wie man's von solchen
+              Gewahrt, die Todeskrampf auf's Schlachtfeld streckt.",0,159,character_speech,6,1,,ATLE.,#atle,222.0,MALE,joy,positive,emotions of pleasure
+507,507,GerDracor/fouque-sigurds-rache.xml,'S ist Spiegelleuchten noch vom reichen Wahlplatz.,0,50,character_speech,6,1,,GUDRUNA.,#gudruna,223.0,FEMALE,no_annotation,no_annotation,no_annotation
+508,508,GerDracor/fouque-sigurds-rache.xml,Sah'st Du die Knaben?,0,21,character_speech,6,1,,ATLE.,#atle,224.0,MALE,no_annotation,no_annotation,no_annotation
+509,509,GerDracor/fouque-sigurds-rache.xml,Ja.,0,3,character_speech,6,1,,GUDRUNA.,#gudruna,225.0,FEMALE,no_annotation,no_annotation,no_annotation
+510,510,GerDracor/fouque-sigurds-rache.xml,Sie schlafen fest.,4,22,character_speech,6,1,,GUDRUNA.,#gudruna,225.0,FEMALE,no_annotation,no_annotation,no_annotation
+511,511,GerDracor/fouque-sigurds-rache.xml,Hat sie das Jagen heute so erschöpft?,0,37,character_speech,6,1,,ATLE.,#atle,226.0,MALE,no_annotation,no_annotation,no_annotation
+512,512,GerDracor/fouque-sigurds-rache.xml,Dem Jäger wie dem Wild thut Ruhe Noth.,0,38,character_speech,6,1,,GUDRUNA.,#gudruna,227.0,FEMALE,suffering,negative,emotions of suffering and empathy
+513,513,GerDracor/fouque-sigurds-rache.xml,"
+              Sie zankten, als ich sie zuletzt verließ.",0,56,character_speech,6,1,,ATLE.,#atle,228.0,MALE,anger,negative,emotions of rejection
+514,514,GerDracor/fouque-sigurds-rache.xml,"Uneinig sind sie oftmals unter sich,
+              Und das allein mißfällt mir an den Beiden.",71,164,character_speech,6,1,,ATLE.,#atle,228.0,MALE,abhorrence,negative,emotions of rejection
+515,515,GerDracor/fouque-sigurds-rache.xml,"
+              Sie zanken fürderhin sich nimmermehr,
+              Der Friede hält Jedwedes Haupt umgossen.",0,107,character_speech,6,1,,GUDRUNA.,#gudruna,229.0,FEMALE,no_annotation,no_annotation,no_annotation
+516,516,GerDracor/fouque-sigurds-rache.xml,"
+              Meinst Du?",0,25,character_speech,6,1,,ATLE.,#atle,230.0,MALE,no_annotation,no_annotation,no_annotation
+517,517,GerDracor/fouque-sigurds-rache.xml,"Sie haben's auch um Dich verdient,
+              Daß Du mit treuer Milde sie vertrittst.",26,114,character_speech,6,1,,ATLE.,#atle,230.0,MALE,"admiration, reverence",positive,emotions of affection
+518,518,GerDracor/fouque-sigurds-rache.xml,"Heut' sahn sie in des Jagens bester Lust
+              Jenseit des Strom's sich bunte Vögel wiegen,
+              Hui, sprang das lust'ge Paar gleich in die Fluth.",129,292,character_speech,6,1,,ATLE.,#atle,230.0,MALE,joy,positive,emotions of pleasure
+519,519,GerDracor/fouque-sigurds-rache.xml,"Für Muttern, riefen sie, woll'n wir sie fange,
+              Da soll sich Mutter freu'n!",308,396,character_speech,6,1,,ATLE.,#atle,230.0,MALE,joy,positive,emotions of pleasure
+520,520,GerDracor/fouque-sigurds-rache.xml,–,397,398,character_speech,6,1,,ATLE.,#atle,230.0,MALE,no_annotation,no_annotation,no_annotation
+521,521,GerDracor/fouque-sigurds-rache.xml,O!,0,2,character_speech,6,1,,GUDRUNA.,#gudruna,231.0,FEMALE,no_annotation,no_annotation,no_annotation
+522,522,GerDracor/fouque-sigurds-rache.xml,Sie bricht in Thränen aus.,0,26,stage_direction,6,1,speech_part,,#gudruna,231.0,FEMALE,suffering,negative,emotions of suffering and empathy
+523,523,GerDracor/fouque-sigurds-rache.xml,"Sprich, was weinst Du?",0,22,character_speech,6,1,,ATLE.,#atle,232.0,MALE,suffering,negative,emotions of suffering and empathy
+524,524,GerDracor/fouque-sigurds-rache.xml,"
+              Das Todtenmahl – es will sein ernstes Theil.",0,59,character_speech,6,1,,GUDRUNA.,#gudruna,233.0,FEMALE,no_annotation,no_annotation,no_annotation
+525,525,GerDracor/fouque-sigurds-rache.xml,Mit theuern Perlen mahnt es mich.,74,107,character_speech,6,1,,GUDRUNA.,#gudruna,233.0,FEMALE,suffering,negative,emotions of suffering and empathy
+526,526,GerDracor/fouque-sigurds-rache.xml,– Zum Fest!,108,119,character_speech,6,1,,GUDRUNA.,#gudruna,233.0,FEMALE,no_annotation,no_annotation,no_annotation
+527,527,GerDracor/fouque-sigurds-rache.xml,Antworte nicht.,134,149,character_speech,6,1,,GUDRUNA.,#gudruna,233.0,FEMALE,no_annotation,no_annotation,no_annotation
+528,528,GerDracor/fouque-sigurds-rache.xml,Es muß vollendet sein.,150,172,character_speech,6,1,,GUDRUNA.,#gudruna,233.0,FEMALE,no_annotation,no_annotation,no_annotation
+529,529,GerDracor/fouque-sigurds-rache.xml,Winkt ihn abwärts.,0,18,stage_direction,6,1,speech_part,,#gudruna,233.0,FEMALE,no_annotation,no_annotation,no_annotation
+530,530,GerDracor/fouque-sigurds-rache.xml,Sie gehn zu verschiednen Seiten hinaus.,19,58,stage_direction,6,1,speech_part,,#gudruna,233.0,FEMALE,no_annotation,no_annotation,no_annotation
+531,531,GerDracor/fouque-sigurds-rache.xml,Nacht.,0,6,stage_direction,6,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+532,532,GerDracor/fouque-sigurds-rache.xml,"liegt unter einem Baum, und spricht im Schlafe.",0,47,stage_direction,6,2,speech_part,,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+533,533,GerDracor/fouque-sigurds-rache.xml,"
+              Der weisse Renner – der kam erst an's Ziel –
+              Holt hundert Marken reinen Gold's herbei –
+              Ich will ihn kaufen – nun zum Mittagsmahl –
+              Ihr Helden lagert Euch – Schenk' reinen Weins
+              Die Kelche voll, Du goldgelockter Knab' –
+              Du Andrer, trag' die Falkenherzen auf.",0,343,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+534,534,GerDracor/fouque-sigurds-rache.xml,"–
+              Was?",344,364,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+535,535,GerDracor/fouque-sigurds-rache.xml,Bringst Dein eignes Herz?,365,390,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,love,positive,emotions of affection
+536,536,GerDracor/fouque-sigurds-rache.xml,"Und Jener schenkt
+              Sein eignes Blut?",391,440,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+537,537,GerDracor/fouque-sigurds-rache.xml,"– O nein, das wollt' ich nicht.",441,472,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+538,538,GerDracor/fouque-sigurds-rache.xml,"Her andern Wein, Ihr Schenken, reinen Wein,
+              Und weißen, daß man sieht, es ist kein Blut drin!",487,594,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+539,539,GerDracor/fouque-sigurds-rache.xml,Wo bleibt's Gesindel?,610,631,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,anger,negative,emotions of rejection
+540,540,GerDracor/fouque-sigurds-rache.xml,In die Höhe fahrend.,0,20,stage_direction,6,2,speech_part,,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+541,541,GerDracor/fouque-sigurds-rache.xml,"
+              Ich träumte.",0,27,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+542,542,GerDracor/fouque-sigurds-rache.xml,– Was geschah' mir?,28,47,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+543,543,GerDracor/fouque-sigurds-rache.xml,"– Hier im Dunkel
+              Lieg' ich allein.",48,96,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+544,544,GerDracor/fouque-sigurds-rache.xml,Wie war's denn gestern?,97,120,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+545,545,GerDracor/fouque-sigurds-rache.xml,"– Gestern –
+              Ach, schreckensvoll steigt die Vergangenheit
+              Aus ihrem Dunkel in mein Dunkel her.",121,242,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+546,546,GerDracor/fouque-sigurds-rache.xml,"Ja, ja, das allerschrecklichste geschah,
+              Und noch hab' ich die Helden nicht gerächt.",257,355,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+547,547,GerDracor/fouque-sigurds-rache.xml,Du Säumender!,370,383,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,anger,negative,emotions of rejection
+548,548,GerDracor/fouque-sigurds-rache.xml,"– Nein, schilt dich nicht zu hart.",384,418,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+549,549,GerDracor/fouque-sigurds-rache.xml,"Des Vaters Schwester, sie verhieß mir ja
+              Die Bahn zu brechen zu dem blut'gen Ziel.",433,529,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,despair,negative,emotions of anxiety
+550,550,GerDracor/fouque-sigurds-rache.xml,"Sie zögert, doch ich nicht.",544,571,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+551,551,GerDracor/fouque-sigurds-rache.xml,"– Dort oben liegt
+              Die Burg.",572,613,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+552,552,GerDracor/fouque-sigurds-rache.xml,"Ganz recht, es strahlt auch durch die Nacht
+              Von hellem Lichterglanz in Festes Hallen,
+              Und Hörnerklang dröhnt bis in's Thal herab.",614,771,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+553,553,GerDracor/fouque-sigurds-rache.xml,"Sie schmausen, feiern ihren falschen Sieg –
+              Der Högnes Sohn indeß, der irrt allein
+              Wie ein gejagtes Waldthier durch den Forst,
+              Und spottend gaukeln Träume um sein Lager.",786,997,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+554,554,GerDracor/fouque-sigurds-rache.xml,"Der letzte bracht' ein glänzendes Gesicht
+              Von heiterm Wettkampf, reichen Mahls Genuß,
+              Und ich war Wirth, und Herr von vielen Burgen.",1012,1172,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,no_annotation,no_annotation,no_annotation
+555,555,GerDracor/fouque-sigurds-rache.xml,Zuletzt jedoch verrann's in Leich' und Blut.,1187,1231,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,suffering,negative,emotions of suffering and empathy
+556,556,GerDracor/fouque-sigurds-rache.xml,"So soll's auch dir verrinnen, schmausend Volk,
+              Da droben in der starken Räuberburg.",1246,1343,character_speech,6,2,,NIFLUNG,#niflung,234.0,MALE,abhorrence,negative,emotions of rejection
+557,557,GerDracor/fouque-sigurds-rache.xml,auf der Höhe.,0,13,stage_direction,6,2,speech_part,,#eine_zofe_5,235.0,FEMALE,no_annotation,no_annotation,no_annotation
+558,558,GerDracor/fouque-sigurds-rache.xml,"Du fremder Recke, weilst du dort im Thal?",0,41,character_speech,6,2,,EINE ZOFE GUDRUNENS,#eine_zofe_5,235.0,FEMALE,no_annotation,no_annotation,no_annotation
+559,559,GerDracor/fouque-sigurds-rache.xml,Wer fragt?,0,10,character_speech,6,2,,NIFLUNG.,#niflung,236.0,MALE,no_annotation,no_annotation,no_annotation
+560,560,GerDracor/fouque-sigurds-rache.xml,"
+              Ich, von Gudruna hergesandt,
+              Sie sprach: es sei nun endlich an der Zeit,
+              Wozu?",0,121,character_speech,6,2,,ZOFE.,#eine_zofe_5,237.0,FEMALE,no_annotation,no_annotation,no_annotation
+561,561,GerDracor/fouque-sigurds-rache.xml,das weiß ich nicht.,122,141,character_speech,6,2,,ZOFE.,#eine_zofe_5,237.0,FEMALE,no_annotation,no_annotation,no_annotation
+562,562,GerDracor/fouque-sigurds-rache.xml,Doch sollst du kommen.,142,164,character_speech,6,2,,ZOFE.,#eine_zofe_5,237.0,FEMALE,no_annotation,no_annotation,no_annotation
+563,563,GerDracor/fouque-sigurds-rache.xml,Führst du mich?,0,15,character_speech,6,2,,NIFLUNG.,#niflung,238.0,MALE,no_annotation,no_annotation,no_annotation
+564,564,GerDracor/fouque-sigurds-rache.xml,Ja.,0,3,character_speech,6,2,,ZOFE.,#eine_zofe_5,239.0,FEMALE,no_annotation,no_annotation,no_annotation
+565,565,GerDracor/fouque-sigurds-rache.xml,So wart'.,0,9,character_speech,6,2,,NIFLUNG.,#niflung,240.0,MALE,no_annotation,no_annotation,no_annotation
+566,566,GerDracor/fouque-sigurds-rache.xml,Ich komm' hinauf.,10,27,character_speech,6,2,,NIFLUNG.,#niflung,240.0,MALE,no_annotation,no_annotation,no_annotation
+567,567,GerDracor/fouque-sigurds-rache.xml,"
+              Nein, schau'rlicher Nachtwandler, nah' dich nicht,
+              Eh' du mir's nicht mit ernstem Schwur versichert,
+              Mich nicht zu schädigen in deinem Grimm.",0,184,character_speech,6,2,,ZOFE.,#eine_zofe_5,241.0,FEMALE,abhorrence,negative,emotions of rejection
+568,568,GerDracor/fouque-sigurds-rache.xml,Was macht dich denn so angst vor mir?,0,37,character_speech,6,2,,NIFLUNG.,#niflung,242.0,MALE,fear,negative,emotions of anxiety
+569,569,GerDracor/fouque-sigurds-rache.xml,"
+              Du sprichst
+              Herauf mit dumpfem, grauenvollem Laut,
+              Als wie in unterdrücktem Zorn, wohl gar
+              In nah' aufloderndem, sinnlosem Rasen.",0,186,character_speech,6,2,,ZOFE.,#eine_zofe_5,243.0,FEMALE,abhorrence,negative,emotions of rejection
+570,570,GerDracor/fouque-sigurds-rache.xml,"
+              Es kann was dran sein, wenn der Zorn nicht bald
+              Ausbricht aus seinem Haus.",0,103,character_speech,6,2,,NIFLUNG.,#niflung,244.0,MALE,anger,negative,emotions of rejection
+571,571,GerDracor/fouque-sigurds-rache.xml,"Weh', du verscheuchst mich.",0,27,character_speech,6,2,,ZOFE.,#eine_zofe_5,245.0,FEMALE,fear,negative,emotions of anxiety
+572,572,GerDracor/fouque-sigurds-rache.xml,"
+              Nein, bleib'.",0,28,character_speech,6,2,,NIFLUNG.,#niflung,246.0,MALE,no_annotation,no_annotation,no_annotation
+573,573,GerDracor/fouque-sigurds-rache.xml,"Bei allen Göttern sichr' ich's dir,
+              Nicht einen Funken meines heißen Grimms
+              Versprüh' ich auf dem nächt'gen Weg.",29,169,character_speech,6,2,,NIFLUNG.,#niflung,246.0,MALE,abhorrence,negative,emotions of rejection
+574,574,GerDracor/fouque-sigurds-rache.xml,"Ausströmen
+              Am Ziel ihn, das, das will ich.",170,226,character_speech,6,2,,NIFLUNG.,#niflung,246.0,MALE,no_annotation,no_annotation,no_annotation
+575,575,GerDracor/fouque-sigurds-rache.xml,Sei getrost.,241,253,character_speech,6,2,,NIFLUNG.,#niflung,246.0,MALE,no_annotation,no_annotation,no_annotation
+576,576,GerDracor/fouque-sigurds-rache.xml,"Ein Becken grimm'gen Feuers geht mit dir,
+              Jedoch behütet von mannhafter Stärke.",268,361,character_speech,6,2,,NIFLUNG.,#niflung,246.0,MALE,love,positive,emotions of affection
+577,577,GerDracor/fouque-sigurds-rache.xml,"Klimmt hinauf, und geht mit der Zofe ab.",0,40,stage_direction,6,2,speech_part,,#niflung,246.0,MALE,no_annotation,no_annotation,no_annotation
+578,578,GerDracor/fouque-sigurds-rache.xml,"
+              Kleiner und karger
+              Brennen die Kerzen
+              Des heitern Heldenmahles schon.",0,112,character_speech,6,3,,ATLE.,#atle,247.0,MALE,no_annotation,no_annotation,no_annotation
+579,579,GerDracor/fouque-sigurds-rache.xml,"Ihr Becher, blank,
+              Ihr Brüder des Fest's –
+              Alles in Dunkel und dumpfem Schlaf?",127,233,character_speech,6,3,,ATLE.,#atle,247.0,MALE,being moved,being moved,being moved
+580,580,GerDracor/fouque-sigurds-rache.xml,"
+              Dem Wandrer wiegt
+              Der wicht'ge Schlaf
+               Auf dem sonst leichten Augenlied.",0,115,character_speech,6,3,,GUDRUNA.,#gudruna,248.0,FEMALE,suffering,negative,emotions of suffering and empathy
+581,581,GerDracor/fouque-sigurds-rache.xml,"Zur Hütte heim,
+              Hasten sich Jäger –
+              Kehr' du vom Fest auch heim, mein Fürst.",130,234,character_speech,6,3,,GUDRUNA.,#gudruna,248.0,FEMALE,no_annotation,no_annotation,no_annotation
+582,582,GerDracor/fouque-sigurds-rache.xml,"
+              Manche Mährchen,
+              Meine Holde,
+              Sprachst uns vor, beim sprudelnden Trank.",0,114,character_speech,6,3,,ATLE.,#atle,249.0,MALE,no_annotation,no_annotation,no_annotation
+583,583,GerDracor/fouque-sigurds-rache.xml,"Lisple lieblich
+              Leise Kunde
+              Mir auch jetzt in mein schlummernd Ohr.",129,224,character_speech,6,3,,ATLE.,#atle,249.0,MALE,no_annotation,no_annotation,no_annotation
+584,584,GerDracor/fouque-sigurds-rache.xml,ihm auf's Ruhebett helfend.,0,27,stage_direction,6,3,speech_part,,#gudruna,250.0,FEMALE,no_annotation,no_annotation,no_annotation
+585,585,GerDracor/fouque-sigurds-rache.xml,"
+              Der blut'ge Buhle,
+              Bösen Sinn's voll,
+              War schläfrig nach der Schlacht.",0,113,character_speech,6,3,,GUDRUNA,#gudruna,250.0,FEMALE,no_annotation,no_annotation,no_annotation
+586,586,GerDracor/fouque-sigurds-rache.xml,"Die Herrin half,
+              Sie, hoch gesinnt,
+              Zum langen, langen Lager ihm.",128,221,character_speech,6,3,,GUDRUNA,#gudruna,250.0,FEMALE,"admiration, reverence",positive,emotions of affection
+587,587,GerDracor/fouque-sigurds-rache.xml,entschlummernd.,0,15,stage_direction,6,3,speech_part,,#atle,251.0,MALE,no_annotation,no_annotation,no_annotation
+588,588,GerDracor/fouque-sigurds-rache.xml,"
+              Ich schlafe, er schlief,
+              Schleichend, behaglich,
+              Umsäuselte süße Ruh' sein Ohr –",0,123,character_speech,6,3,,ATLE,#atle,251.0,MALE,no_annotation,no_annotation,no_annotation
+589,589,GerDracor/fouque-sigurds-rache.xml,"
+              Was nicht Wein that,
+              Thaten Worte,
+              Thaten zaubrische Zeichen ihm.",0,108,character_speech,6,3,,GUDRUNA.,#gudruna,252.0,FEMALE,no_annotation,no_annotation,no_annotation
+590,590,GerDracor/fouque-sigurds-rache.xml,"
+              Nun schläfst du sicher bis zum Morderwachen.",0,59,character_speech,6,3,,GUDRUNA.,#gudruna,252.0,FEMALE,no_annotation,no_annotation,no_annotation
+591,591,GerDracor/fouque-sigurds-rache.xml,Kam noch des Hauses Rächer nicht herbei?,74,114,character_speech,6,3,,GUDRUNA.,#gudruna,252.0,FEMALE,abhorrence,negative,emotions of rejection
+592,592,GerDracor/fouque-sigurds-rache.xml,An der Thür lauschend.,0,22,stage_direction,6,3,speech_part,,#gudruna,252.0,FEMALE,no_annotation,no_annotation,no_annotation
+593,593,GerDracor/fouque-sigurds-rache.xml,"
+              Ja, das sind Tritte, fest, wie's ziemt dem Mann,
+              Doch leise, wie's geheime Strafamt heischt;
+              Ich kann nicht irren, das muß Niflung sein.",0,179,character_speech,6,3,,GUDRUNA.,#gudruna,252.0,FEMALE,no_annotation,no_annotation,no_annotation
+594,594,GerDracor/fouque-sigurds-rache.xml,Öffnet die Thür.,0,16,stage_direction,6,3,speech_part,,#gudruna,252.0,FEMALE,no_annotation,no_annotation,no_annotation
+595,595,GerDracor/fouque-sigurds-rache.xml,auftretend.,0,11,stage_direction,6,3,speech_part,,#niflung,253.0,MALE,no_annotation,no_annotation,no_annotation
+596,596,GerDracor/fouque-sigurds-rache.xml,"
+              Mit Blut zu rein'gen dir die blut'ge Schwelle,
+              Komm' ich aus meinem dunkeln Thal herauf.",0,117,character_speech,6,3,,NIFLUNG,#niflung,253.0,MALE,no_annotation,no_annotation,no_annotation
+597,597,GerDracor/fouque-sigurds-rache.xml,"
+              Sieh'st du den ries'gen Greis, in Schlaf versenkt?",0,65,character_speech,6,3,,GUDRUNA.,#gudruna,254.0,FEMALE,no_annotation,no_annotation,no_annotation
+598,598,GerDracor/fouque-sigurds-rache.xml,"Das ist er, den die Erde weit und breit
+              Zu fürchten pflegt, der König Atle heißt.",80,175,character_speech,6,3,,GUDRUNA.,#gudruna,254.0,FEMALE,fear,negative,emotions of anxiety
+599,599,GerDracor/fouque-sigurds-rache.xml,"
+              Er sieht recht schaurig aus, mit seinen Runzeln,
+              Und langem weißen Bart und weißen Brau'n.",0,119,character_speech,6,3,,NIFLUNG.,#niflung,255.0,MALE,abhorrence,negative,emotions of rejection
+600,600,GerDracor/fouque-sigurds-rache.xml,Scheu'st dich vor ihm?,0,22,character_speech,6,3,,GUDRUNA.,#gudruna,256.0,FEMALE,fear,negative,emotions of anxiety
+601,601,GerDracor/fouque-sigurds-rache.xml,Dann wär' ich ja nicht hier.,0,28,character_speech,6,3,,NIFLUNG.,#niflung,257.0,MALE,no_annotation,no_annotation,no_annotation
+602,602,GerDracor/fouque-sigurds-rache.xml,"
+              Nun, zeuch dein Schwerdt.",0,40,character_speech,6,3,,GUDRUNA.,#gudruna,258.0,FEMALE,no_annotation,no_annotation,no_annotation
+603,603,GerDracor/fouque-sigurds-rache.xml,Tauch's in die breite Brust.,41,69,character_speech,6,3,,GUDRUNA.,#gudruna,258.0,FEMALE,no_annotation,no_annotation,no_annotation
+604,604,GerDracor/fouque-sigurds-rache.xml,Du zögerst?,84,95,character_speech,6,3,,GUDRUNA.,#gudruna,258.0,FEMALE,no_annotation,no_annotation,no_annotation
+605,605,GerDracor/fouque-sigurds-rache.xml,"
+              'S ist der Rache nicht genug.",0,44,character_speech,6,3,,NIFLUNG.,#niflung,259.0,MALE,abhorrence,negative,emotions of rejection
+606,606,GerDracor/fouque-sigurds-rache.xml,"Von Schlangenbissen starb mein edler Oheim,
+              Sah vor sich meines Vaters blutend Herz –
+              Und der Verbrecher soll's mit Einer Wunde,
+              Die schnell ihr eignes Leiden ihm verkürzt –
+              Damit sollt' er es büssen?",59,315,character_speech,6,3,,NIFLUNG.,#niflung,259.0,MALE,suffering,negative,emotions of suffering and empathy
+607,607,GerDracor/fouque-sigurds-rache.xml,– Nimmermehr.,316,329,character_speech,6,3,,NIFLUNG.,#niflung,259.0,MALE,no_annotation,no_annotation,no_annotation
+608,608,GerDracor/fouque-sigurds-rache.xml,"
+              Kurzsicht'ger Schüler, lehrst die Meisterin?",0,59,character_speech,6,3,,GUDRUNA.,#gudruna,260.0,FEMALE,no_annotation,no_annotation,no_annotation
+609,609,GerDracor/fouque-sigurds-rache.xml,"In dieser meiner Brust wohnt mehr des Leid's,
+              Mehr des heißlodernden, gramvollen Zorns,
+              Als du, mein Knabe, ahnst, noch ahnen wirst.",74,234,character_speech,6,3,,GUDRUNA.,#gudruna,260.0,FEMALE,suffering,negative,emotions of suffering and empathy
+610,610,GerDracor/fouque-sigurds-rache.xml,"Ja, beben wird dir dein Niflungenblut,
+              Wenn du Gudrunens Rachethat vernimmst.",249,340,character_speech,6,3,,GUDRUNA.,#gudruna,260.0,FEMALE,abhorrence,negative,emotions of rejection
+611,611,GerDracor/fouque-sigurds-rache.xml,Doch erst das Schwerdt in dieses eh'rne Herz!,355,400,character_speech,6,3,,GUDRUNA.,#gudruna,260.0,FEMALE,love,positive,emotions of affection
+612,612,GerDracor/fouque-sigurds-rache.xml,Niflung will zustossen.,0,23,stage_direction,6,3,speech_part,,#gudruna,260.0,FEMALE,fear,negative,emotions of anxiety
+613,613,GerDracor/fouque-sigurds-rache.xml,ihn zurückhaltend.,0,18,stage_direction,6,3,speech_part,,#gudruna,261.0,FEMALE,no_annotation,no_annotation,no_annotation
+614,614,GerDracor/fouque-sigurds-rache.xml,Halt!,0,5,character_speech,6,3,,GUDRUNA,#gudruna,261.0,FEMALE,being moved,being moved,being moved
+615,615,GerDracor/fouque-sigurds-rache.xml,Gönn' auch meiner Hand noch Raum am Griff.,6,48,character_speech,6,3,,GUDRUNA,#gudruna,261.0,FEMALE,no_annotation,no_annotation,no_annotation
+616,616,GerDracor/fouque-sigurds-rache.xml,"Beide, das Schwerdt fassend, durchbohren Atle.",0,46,stage_direction,6,3,speech_part,,#gudruna,261.0,FEMALE,abhorrence,negative,emotions of rejection
+617,617,GerDracor/fouque-sigurds-rache.xml,Verrathen!,0,10,character_speech,6,3,,ATLE.,#atle,262.0,MALE,no_annotation,no_annotation,no_annotation
+618,618,GerDracor/fouque-sigurds-rache.xml,O!,11,13,character_speech,6,3,,ATLE.,#atle,262.0,MALE,no_annotation,no_annotation,no_annotation
+619,619,GerDracor/fouque-sigurds-rache.xml,Ermordet!,14,23,character_speech,6,3,,ATLE.,#atle,262.0,MALE,no_annotation,no_annotation,no_annotation
+620,620,GerDracor/fouque-sigurds-rache.xml,"O, wer that mir's?",24,42,character_speech,6,3,,ATLE.,#atle,262.0,MALE,no_annotation,no_annotation,no_annotation
+621,621,GerDracor/fouque-sigurds-rache.xml,Die Schwester der Niflungen.,0,28,character_speech,6,3,,GUDRUNA.,#gudruna,263.0,FEMALE,no_annotation,no_annotation,no_annotation
+622,622,GerDracor/fouque-sigurds-rache.xml,Högnes Sohn.,0,12,character_speech,6,3,,NIFLUNG.,#niflung,264.0,MALE,no_annotation,no_annotation,no_annotation
+623,623,GerDracor/fouque-sigurds-rache.xml,"
+              Hu, wie ihr vor mir steht in schwarzer Nacht,
+              Wie meine Sünden, Ihr zwei Zorngestalten, –
+              Und grifft mir bis an's Herz auch.",0,167,character_speech,6,3,,ATLE.,#atle,265.0,MALE,suffering,negative,emotions of suffering and empathy
+624,624,GerDracor/fouque-sigurds-rache.xml,Es ist aus.,168,179,character_speech,6,3,,ATLE.,#atle,265.0,MALE,no_annotation,no_annotation,no_annotation
+625,625,GerDracor/fouque-sigurds-rache.xml,"
+              Noch nicht.",0,26,character_speech,6,3,,GUDRUNA.,#gudruna,266.0,FEMALE,no_annotation,no_annotation,no_annotation
+626,626,GerDracor/fouque-sigurds-rache.xml,Du hielt'st ein gutes Mahl zuletzt.,27,62,character_speech,6,3,,GUDRUNA.,#gudruna,266.0,FEMALE,no_annotation,no_annotation,no_annotation
+627,627,GerDracor/fouque-sigurds-rache.xml,Weiß'st du den Traum noch von den Falkenherzen?,77,124,character_speech,6,3,,GUDRUNA.,#gudruna,266.0,FEMALE,no_annotation,no_annotation,no_annotation
+628,628,GerDracor/fouque-sigurds-rache.xml,Du trankst auch rothen Wein.,139,167,character_speech,6,3,,GUDRUNA.,#gudruna,266.0,FEMALE,no_annotation,no_annotation,no_annotation
+629,629,GerDracor/fouque-sigurds-rache.xml,Kennst du sein Roth?,168,188,character_speech,6,3,,GUDRUNA.,#gudruna,266.0,FEMALE,no_annotation,no_annotation,no_annotation
+630,630,GerDracor/fouque-sigurds-rache.xml,"Kennst du die weißen Schalen, draus du trankst?",203,250,character_speech,6,3,,GUDRUNA.,#gudruna,266.0,FEMALE,no_annotation,no_annotation,no_annotation
+631,631,GerDracor/fouque-sigurds-rache.xml,Ich weiß nicht.,0,15,character_speech,6,3,,ATLE.,#atle,267.0,MALE,no_annotation,no_annotation,no_annotation
+632,632,GerDracor/fouque-sigurds-rache.xml,"Sprich nicht weiter, laß mich sterben.",16,54,character_speech,6,3,,ATLE.,#atle,267.0,MALE,despair,negative,emotions of anxiety
+633,633,GerDracor/fouque-sigurds-rache.xml,"
+              Nein, nimm die Nachricht mit auf deinen Weg:
+              Der Knaben Blut und Herzen war dein Mahl,
+              Und ihres Schädels Rund die beiden Schalen,",0,173,character_speech,6,3,,GUDRUNA.,#gudruna,268.0,FEMALE,no_annotation,no_annotation,no_annotation
+634,634,GerDracor/fouque-sigurds-rache.xml,"Ich glaub', der Schmerz der Wunde macht mich toll.",0,50,character_speech,6,3,,ATLE.,#atle,269.0,MALE,suffering,negative,emotions of suffering and empathy
+635,635,GerDracor/fouque-sigurds-rache.xml,"
+              Nein, todwund bist du, Held, doch gut bei Sinnen.",0,64,character_speech,6,3,,GUDRUNA.,#gudruna,270.0,FEMALE,"admiration, reverence",positive,emotions of affection
+636,636,GerDracor/fouque-sigurds-rache.xml,"–
+              Was bebst du, Niflung?",65,103,character_speech,6,3,,GUDRUNA.,#gudruna,270.0,FEMALE,no_annotation,no_annotation,no_annotation
+637,637,GerDracor/fouque-sigurds-rache.xml,"
+              Ha, der Schreckensthat!",0,38,character_speech,6,3,,NIFLUNG.,#niflung,271.0,MALE,abhorrence,negative,emotions of rejection
+638,638,GerDracor/fouque-sigurds-rache.xml,Es ruht ein siebenfält'ges Grau'n darauf.,53,94,character_speech,6,3,,NIFLUNG.,#niflung,271.0,MALE,suffering,negative,emotions of suffering and empathy
+639,639,GerDracor/fouque-sigurds-rache.xml,Sieh'st du?,0,11,character_speech,6,3,,GUDRUNA.,#gudruna,272.0,FEMALE,no_annotation,no_annotation,no_annotation
+640,640,GerDracor/fouque-sigurds-rache.xml,Bei mir nur wohnt die volle Rache.,12,46,character_speech,6,3,,GUDRUNA.,#gudruna,272.0,FEMALE,abhorrence,negative,emotions of rejection
+641,641,GerDracor/fouque-sigurds-rache.xml,"
+              O weh'!",0,22,character_speech,6,3,,ATLE.,#atle,273.0,MALE,suffering,negative,emotions of suffering and empathy
+642,642,GerDracor/fouque-sigurds-rache.xml,O weh'!,23,30,character_speech,6,3,,ATLE.,#atle,273.0,MALE,suffering,negative,emotions of suffering and empathy
+643,643,GerDracor/fouque-sigurds-rache.xml,Nun bricht mein Jammer aus!,31,58,character_speech,6,3,,ATLE.,#atle,273.0,MALE,suffering,negative,emotions of suffering and empathy
+644,644,GerDracor/fouque-sigurds-rache.xml,"Die eigne Wunde trug ich stark und still,
+              Doch mit mir sie gewürgt die holden Knaben,
+              Und ihr – nein – selbst mein eignes Fleisch und Blut
+              Mir Speis' und Trank!",73,275,character_speech,6,3,,ATLE.,#atle,273.0,MALE,suffering,negative,emotions of suffering and empathy
+645,645,GerDracor/fouque-sigurds-rache.xml,Ihr habt zu arg gethan.,276,299,character_speech,6,3,,ATLE.,#atle,273.0,MALE,suffering,negative,emotions of suffering and empathy
+646,646,GerDracor/fouque-sigurds-rache.xml,Kanntest du Maaß bei meiner Brüder Tod?,0,39,character_speech,6,3,,GUDRUNA.,#gudruna,274.0,FEMALE,no_annotation,no_annotation,no_annotation
+647,647,GerDracor/fouque-sigurds-rache.xml,"
+              Nicht das.",0,25,character_speech,6,3,,ATLE.,#atle,275.0,MALE,no_annotation,no_annotation,no_annotation
+648,648,GerDracor/fouque-sigurds-rache.xml,"Und auch ob meinem eignen Haupt
+              Sah' ich seitdem den Himmel blutig droh'n.",26,114,character_speech,6,3,,ATLE.,#atle,275.0,MALE,abhorrence,negative,emotions of rejection
+649,649,GerDracor/fouque-sigurds-rache.xml,"Du wollt'st dich doch versöhnen, wollt'st noch leben.",0,53,character_speech,6,3,,GUDRUNA.,#gudruna,276.0,FEMALE,no_annotation,no_annotation,no_annotation
+650,650,GerDracor/fouque-sigurds-rache.xml,"
+              Wer wollte das nicht, dem das Atles Reich
+              Zu Handen ständ', und Lebens beste Lust,
+              Zudem – ach, damals noch!",0,151,character_speech,6,3,,ATLE.,#atle,277.0,MALE,joy,positive,emotions of pleasure
+651,651,GerDracor/fouque-sigurds-rache.xml,– zwei muth'ge Söhne!,152,173,character_speech,6,3,,ATLE.,#atle,277.0,MALE,joy,positive,emotions of pleasure
+652,652,GerDracor/fouque-sigurds-rache.xml,Sie waren ja doch auch dein eignes Leben.,188,229,character_speech,6,3,,ATLE.,#atle,277.0,MALE,love,positive,emotions of affection
+653,653,GerDracor/fouque-sigurds-rache.xml,"Meinst du, ich hätt' es thränenlos verlöscht?",0,45,character_speech,6,3,,GUDRUNA.,#gudruna,278.0,FEMALE,suffering,negative,emotions of suffering and empathy
+654,654,GerDracor/fouque-sigurds-rache.xml,"Warum denn die, warum nicht mich allein?",0,40,character_speech,6,3,,ATLE.,#atle,279.0,MALE,being moved,being moved,being moved
+655,655,GerDracor/fouque-sigurds-rache.xml,"
+              Also gebot's der grimme Zorn in mir,
+              Nicht dir allein, auch mir ein blut'ger Feind.",0,112,character_speech,6,3,,GUDRUNA.,#gudruna,280.0,FEMALE,abhorrence,negative,emotions of rejection
+656,656,GerDracor/fouque-sigurds-rache.xml,"
+              Ihr habt sie wie Kebskinder hingewürgt.",0,54,character_speech,6,3,,ATLE.,#atle,281.0,MALE,abhorrence,negative,emotions of rejection
+657,657,GerDracor/fouque-sigurds-rache.xml,"Das waren doch die zwei nicht, deren Mutter
+              Ich heimgeführt nach reichem Brautgeschenk
+              Mit der Verwandten und mit ihrem Will'n.",69,224,character_speech,6,3,,ATLE.,#atle,281.0,MALE,no_annotation,no_annotation,no_annotation
+658,658,GerDracor/fouque-sigurds-rache.xml,–,225,226,character_speech,6,3,,ATLE.,#atle,281.0,MALE,no_annotation,no_annotation,no_annotation
+659,659,GerDracor/fouque-sigurds-rache.xml,"Du hast noch viel des Othems in dir, Greis!",0,43,character_speech,6,3,,NIFLUNG.,#niflung,282.0,MALE,suffering,negative,emotions of suffering and empathy
+660,660,GerDracor/fouque-sigurds-rache.xml,"Blas' mir ihn aus, und seegnen will ich dich.",0,45,character_speech,6,3,,ATLE.,#atle,283.0,MALE,Schadenfreude,positive,emotions of pleasure
+661,661,GerDracor/fouque-sigurds-rache.xml,"Nein, mich verlangt nach deinem Seegen nicht.",0,45,character_speech,6,3,,NIFLUNG.,#niflung,284.0,MALE,no_annotation,no_annotation,no_annotation
+662,662,GerDracor/fouque-sigurds-rache.xml,"
+              Wohl als mein theures Eh'weib hielt ich die,
+              Dir dort nun vor mir steht, der Knaben Schlächt'rin.",0,126,character_speech,6,3,,ATLE.,#atle,285.0,MALE,love,positive,emotions of affection
+663,663,GerDracor/fouque-sigurds-rache.xml,"Der edlen Ritter dreißig dienten ihr,
+              Der Zofen zwanzig – nimmer gnügt' ihr das.",141,235,character_speech,6,3,,ATLE.,#atle,285.0,MALE,no_annotation,no_annotation,no_annotation
+664,664,GerDracor/fouque-sigurds-rache.xml,"Willkührlichen Besitz all' meiner Habe,
+              Den wollte sie, – das schafft dies Elend mir.",250,349,character_speech,6,3,,ATLE.,#atle,285.0,MALE,suffering,negative,emotions of suffering and empathy
+665,665,GerDracor/fouque-sigurds-rache.xml,"
+              Du faselst, Alter.",0,33,character_speech,6,3,,GUDRUNA.,#gudruna,286.0,FEMALE,anger,negative,emotions of rejection
+666,666,GerDracor/fouque-sigurds-rache.xml,"Findet wider dich,
+              Den Vater alles Bösen und Verraths
+              Noch Sünde statt?",34,133,character_speech,6,3,,GUDRUNA.,#gudruna,286.0,FEMALE,abhorrence,negative,emotions of rejection
+667,667,GerDracor/fouque-sigurds-rache.xml,"Fürwahr, du bist ein Ziel,
+               Nach dem man kecken Pfeiles werfen darf,
+              Und lächelnd schau'n die Götter drauf hernieder.",134,279,character_speech,6,3,,GUDRUNA.,#gudruna,286.0,FEMALE,"admiration, reverence",positive,emotions of affection
+668,668,GerDracor/fouque-sigurds-rache.xml,"
+              Die Götter lächeln droben immerfort,
+              Und unsre Noth ist ihnen lust'ger Scherz.",0,107,character_speech,6,3,,ATLE.,#atle,287.0,MALE,joy,positive,emotions of pleasure
+669,669,GerDracor/fouque-sigurds-rache.xml,"Die sind nur Richter, milde Väter nimmer.",122,163,character_speech,6,3,,ATLE.,#atle,287.0,MALE,"admiration, reverence",positive,emotions of affection
+670,670,GerDracor/fouque-sigurds-rache.xml,"
+              Der Glaube ziemt dir.",0,36,character_speech,6,3,,GUDRUNA.,#gudruna,288.0,FEMALE,no_annotation,no_annotation,no_annotation
+671,671,GerDracor/fouque-sigurds-rache.xml,"Mindestens für dich
+              Sind Wallhalls heitre Säle nicht erbaut.",37,111,character_speech,6,3,,GUDRUNA.,#gudruna,288.0,FEMALE,joy,positive,emotions of pleasure
+672,672,GerDracor/fouque-sigurds-rache.xml,"
+              Das mag wohl sein.",0,33,character_speech,6,3,,ATLE.,#atle,289.0,MALE,no_annotation,no_annotation,no_annotation
+673,673,GerDracor/fouque-sigurds-rache.xml,Doch hast den Schlüssel nicht.,34,64,character_speech,6,3,,ATLE.,#atle,289.0,MALE,no_annotation,no_annotation,no_annotation
+674,674,GerDracor/fouque-sigurds-rache.xml,"Nur was auf Erden mir noch tröstliches
+              Gescheh'n kann, – es ist wenig – das begeh'
+              Nach so viel schlimmer That zuletzt an mir.",79,233,character_speech,6,3,,ATLE.,#atle,289.0,MALE,suffering,negative,emotions of suffering and empathy
+675,675,GerDracor/fouque-sigurds-rache.xml,Nenn' es.,0,9,character_speech,6,3,,GUNNAR.,#gunnar,290.0,MALE,no_annotation,no_annotation,no_annotation
+676,676,GerDracor/fouque-sigurds-rache.xml,Du willst es nicht?,0,19,character_speech,6,3,,ATLE.,#atle,291.0,MALE,no_annotation,no_annotation,no_annotation
+677,677,GerDracor/fouque-sigurds-rache.xml,Nenn' es getrost.,0,17,character_speech,6,3,,GUDRUNA.,#gudruna,292.0,FEMALE,no_annotation,no_annotation,no_annotation
+678,678,GerDracor/fouque-sigurds-rache.xml,"
+              Ja, alter Mann, du bist nun ganz zermalmt,
+              Und deines Staubes woll'n wir uns erbarmen.",0,115,character_speech,6,3,,NIFLUNG.,#niflung,293.0,MALE,abhorrence,negative,emotions of rejection
+679,679,GerDracor/fouque-sigurds-rache.xml,"
+              Dem schenkt Begräbniß nach des Landes Art.",0,57,character_speech,6,3,,ATLE.,#atle,294.0,MALE,no_annotation,no_annotation,no_annotation
+680,680,GerDracor/fouque-sigurds-rache.xml,"Versenkt ein Schiff in länglichen Grabhügel,
+              Und auf dem Schiffe steh' von festem Stein
+              Ein Sarg, der diesen blut'gen Leichnam birgt.",73,234,character_speech,6,3,,ATLE.,#atle,294.0,MALE,no_annotation,no_annotation,no_annotation
+681,681,GerDracor/fouque-sigurds-rache.xml,"Die Todtenkleider übergießt mit Wachs;
+              Also beerdigt man vornehme Heunen.",249,336,character_speech,6,3,,ATLE.,#atle,294.0,MALE,no_annotation,no_annotation,no_annotation
+682,682,GerDracor/fouque-sigurds-rache.xml,Und also soll es auch mit dir geschehn.,0,39,character_speech,6,3,,GUDRUNA.,#gudruna,295.0,FEMALE,no_annotation,no_annotation,no_annotation
+683,683,GerDracor/fouque-sigurds-rache.xml,"
+              Die Kerzen brennen dunkel – das Gemach
+              Verengt sich wunderlich zur kleinen Kammer –
+              Das ist ein karger, unfürstlicher Tod
+              Für den, der Atle hieß, der große König.",0,219,character_speech,6,3,,ATLE.,#atle,296.0,MALE,no_annotation,no_annotation,no_annotation
+684,684,GerDracor/fouque-sigurds-rache.xml,Der Laufbahn Ziel stimmt mit der Laufbahn nicht.,234,282,character_speech,6,3,,ATLE.,#atle,296.0,MALE,no_annotation,no_annotation,no_annotation
+685,685,GerDracor/fouque-sigurds-rache.xml,"Hm, seltsam, seltsam wird's!",297,325,character_speech,6,3,,ATLE.,#atle,296.0,MALE,being moved,being moved,being moved
+686,686,GerDracor/fouque-sigurds-rache.xml,–,326,327,character_speech,6,3,,ATLE.,#atle,296.0,MALE,no_annotation,no_annotation,no_annotation
+687,687,GerDracor/fouque-sigurds-rache.xml,Aufschreiend.,0,13,stage_direction,6,3,speech_part,,#atle,296.0,MALE,fear,negative,emotions of anxiety
+688,688,GerDracor/fouque-sigurds-rache.xml,O meine Falken!,0,15,character_speech,6,3,,ATLE.,#atle,296.0,MALE,joy,positive,emotions of pleasure
+689,689,GerDracor/fouque-sigurds-rache.xml,Er stirbt.,0,10,stage_direction,6,3,speech_part,,#atle,296.0,MALE,no_annotation,no_annotation,no_annotation
+690,690,GerDracor/fouque-sigurds-rache.xml,"
+              Gebt euch zur Ruh' nun, ihr Niflungenschatten.",0,61,character_speech,6,3,,GUDRUNA.,#gudruna,297.0,FEMALE,abhorrence,negative,emotions of rejection
+691,691,GerDracor/fouque-sigurds-rache.xml,Ein Todtenopfer ward euch sonder Gleich.,76,116,character_speech,6,3,,GUDRUNA.,#gudruna,297.0,FEMALE,suffering,negative,emotions of suffering and empathy
+692,692,GerDracor/fouque-sigurds-rache.xml,Man hört Tumult in der Burg.,0,28,stage_direction,6,3,speech_part,,#gudruna,297.0,FEMALE,anger,negative,emotions of rejection
+693,693,GerDracor/fouque-sigurds-rache.xml,"
+              Der König rief!",0,30,character_speech,6,3,,REIDBOLDS STIMME.,#reidbold,298.0,MALE,no_annotation,no_annotation,no_annotation
+694,694,GerDracor/fouque-sigurds-rache.xml,Der König stöhnte laut!,31,54,character_speech,6,3,,REIDBOLDS STIMME.,#reidbold,298.0,MALE,suffering,negative,emotions of suffering and empathy
+695,695,GerDracor/fouque-sigurds-rache.xml,Hinein.,69,76,character_speech,6,3,,REIDBOLDS STIMME.,#reidbold,298.0,MALE,no_annotation,no_annotation,no_annotation
+696,696,GerDracor/fouque-sigurds-rache.xml,"Mich dünkt, es ist Verrath im Werk.",77,112,character_speech,6,3,,REIDBOLDS STIMME.,#reidbold,298.0,MALE,fear,negative,emotions of anxiety
+697,697,GerDracor/fouque-sigurds-rache.xml,"
+              Die Knechte toben.",0,33,character_speech,6,3,,GUDRUNA.,#gudruna,299.0,FEMALE,anger,negative,emotions of rejection
+698,698,GerDracor/fouque-sigurds-rache.xml,"Niflung, geh' hinaus
+               In's Thal zurück.",34,87,character_speech,6,3,,GUDRUNA.,#gudruna,299.0,FEMALE,no_annotation,no_annotation,no_annotation
+699,699,GerDracor/fouque-sigurds-rache.xml,"Ich laß' dich wieder rufen,
+              Denn noch ist nicht mein ganz Geschäft gethan.",88,176,character_speech,6,3,,GUDRUNA.,#gudruna,299.0,FEMALE,no_annotation,no_annotation,no_annotation
+700,700,GerDracor/fouque-sigurds-rache.xml,Niflung geht ab.,0,16,stage_direction,6,3,speech_part,,#gudruna,299.0,FEMALE,no_annotation,no_annotation,no_annotation
+701,701,GerDracor/fouque-sigurds-rache.xml,Und schweigen heiß' ich das Gezüchte dort.,0,42,character_speech,6,3,,GUDRUNA.,#gudruna,300.0,FEMALE,abhorrence,negative,emotions of rejection
+702,702,GerDracor/fouque-sigurds-rache.xml,Ab.,0,3,stage_direction,6,3,speech_part,,#gudruna,300.0,FEMALE,no_annotation,no_annotation,no_annotation
+703,703,GerDracor/fouque-sigurds-rache.xml,Meeresufer.,0,11,stage_direction,7,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+704,704,GerDracor/fouque-sigurds-rache.xml,Man sieht von weitem Atles Burg.,12,44,stage_direction,7,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation

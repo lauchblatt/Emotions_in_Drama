@@ -1,0 +1,799 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Die Scheinfrömmigkeit, Die Unwissenheit.",0,40,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+1,1,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Wo sind wir?,0,12,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,1.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+2,2,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,dieser Ort ist ja vortreflich schön.,13,49,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,1.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+3,3,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach Schwester komm zurück / du darfst nicht weiter gehn!,0,56,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,2.0,UNKNOWN,compassion,S,,1736.0,negative,emotions of suffering and empathy
+4,4,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Nein / er ist gar zu gut und prächtig ausgezieret.,0,50,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,3.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+5,5,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Die Pracht hat manchen schon sein frommes Herz verführet /
+              Wend deine Augen ab von Gold und dessen Schein /
+              Weil unter seinem Glanz sonst nichts / als Würmer seyn.",0,206,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,4.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+6,6,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Darf ich denn nicht den Herrn von diesem Hause wissen?,0,54,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,5.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+7,7,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Hat dich der Vorwitz auch so weit verführen müssen?",0,66,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,6.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+8,8,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Komm gehe mit mir fort / versäume keine Zeit /
+              Und reiß dich mit Gewalt aus deiner Uppigkeit.",81,188,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,6.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+9,9,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Wenn nur ein andrer Mensch in diese Gegend käme /
+              Und mich noch weiter mit in andre Zimmer nähme /
+              Die noch viel schöner sind / der Reichthum und die Pracht – –",0,203,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,7.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+10,10,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Die haben manchen schon zum armen Mann gemacht.,0,47,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,8.0,UNKNOWN,compassion,S,,1736.0,negative,emotions of suffering and empathy
+11,11,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Es dünkt mich gar zu schön.,0,27,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,9.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+12,12,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Was muß ich von dir hören?",0,41,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,10.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+13,13,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Soll dich ein anderer / statt meiner künftig lehren?,56,108,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,10.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+14,14,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Du zürnest über mich / was hab ich denn gethan?,0,47,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,11.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+15,15,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Siehst du denn die Begierd als keinen Fehler an?",0,63,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,12.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+16,16,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Geh von der Lust zurück, du must dich nur betrüben /
+              Und nicht den schnöden Glanz selbst suchen oder lieben.",78,200,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,12.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+17,17,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Schweig / itzund kömt ein Kind / da hören wir vielleicht /
+              Wem dieser Ort gehört.",0,110,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,13.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+18,18,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich bin dir so geneigt /
+              Du aber hörst mich nicht bey aller meiner Mühe /
+              Und wilst nicht / daß ich dich von dem zurücke ziehe /
+              Was dein Verderben bringt.",0,212,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,14.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+19,19,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Hier ist ja nicht Gefahr.,0,25,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,15.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+20,20,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Du Blinde siehest nicht.,0,24,character_speech,1,1,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,16.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+21,21,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach nein!,0,9,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,17.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+22,22,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Das ist nicht wahr.,10,29,character_speech,1,1,,UNWISSENHEIT.,#unwissenheit,17.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+23,23,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Die unschuldige Lust, als eine junge Schäferin / Die Scheinfrömmigkeit, Die
+            Unwissenheit.",0,101,stage_direction,1,2,pre_speech,,,,,joy,S,,1736.0,positive,emotions of pleasure
+24,24,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Mein Kind!,0,10,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,18.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+25,25,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,was suchst du hier?,11,30,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,18.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+26,26,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Nichts / ich will nur was sehen.,0,32,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,19.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+27,27,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ach!",0,19,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,20.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+28,28,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,dieses Laster muß von Kindheit auf geschehen?,20,65,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,20.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+29,29,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Die Augenlust geht gleich beym ersten Anblick auf.,80,130,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,20.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+30,30,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Kommt beyde mit mir fort.,145,170,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,20.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+31,31,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Es folgt ein Unglück drauf /
+              Wenn ihr so lüstern seyd.",171,239,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,20.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+32,32,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ey laß das Kind mit frieden /
+              Es ist am Alter ja von uns weit unterschieden /
+              Und gönn ihm seine Lust.",0,145,character_speech,1,2,,UNWISSENHEIT.,#unwissenheit,21.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+33,33,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Worinn besteht denn die?,0,24,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,22.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+34,34,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich seh den Himmel an.,0,22,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,23.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+35,35,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das ist vergebne Müh:
+              Der ist zu hoch für dich.",0,76,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,24.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+36,36,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Hernach brech ich im Felde
+              Mir schöne Blumen ab.",0,77,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,25.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+37,37,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das / was ich dir itzt melde /
+              Ist billig und gerecht.",0,83,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,26.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+38,38,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Mein Kind!,84,94,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,26.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+39,39,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"meynst du denn nicht /
+              Daß man auch Sünde thut / wenn man die Blumen bricht?",95,185,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,26.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+40,40,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach nein!,0,9,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,27.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+41,41,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,das glaub ich nicht.,10,30,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,27.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+42,42,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ach du verstockte Jugend!",0,40,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,28.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+43,43,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Hältst du den Müssigang vor eine grosse Tugend?,55,102,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,28.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+44,44,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Der beym Spatzierengehn aufs allerhöchste steigt.,117,166,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,28.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+45,45,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Mein Lehrer sagt das nicht.,0,27,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,29.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+46,46,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Er ist dir nicht geneigt.,0,25,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,30.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+47,47,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach nein!,0,9,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,31.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+48,48,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Er ist mir gut.,10,25,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,31.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+49,49,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das kan ich schwerlich glauben /
+              Er sucht dich des Verstands nachlässig zu berauben.",0,113,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,32.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+50,50,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Was hast du heut gelernt?,128,153,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,32.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+51,51,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ein Lied.,0,9,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,33.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+52,52,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ach Ubermuht!",0,28,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,34.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+53,53,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Die Lieder sind für dich und keinen Menschen gut.,43,92,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,34.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+54,54,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Man läßt der Stimme Laut hell durch die Kehle gehen /
+              Und giebt mit sanften Tohn die Reitzung zu verstehen /
+              Lockt / daß ein anderer der Stimme folgen soll.",108,292,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,34.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+55,55,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Was hast du mehr gelernt?,307,332,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,34.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+56,56,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zwo Fabeln.,0,11,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,35.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+57,57,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Bist du toll.",0,28,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,36.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+58,58,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Die Fabeln lehrt man dich?,43,69,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,36.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+59,59,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,mein Kind!,70,80,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,36.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+60,60,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,ich möchte weinen /,81,100,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,36.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+61,61,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Mein Lehrer kan es doch unmöglich böse meynen /
+              Er spielt und tanzt mit mir.",0,105,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,37.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+62,62,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              O!",0,17,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,38.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+63,63,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,daß ich sterben könt!,18,39,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,38.0,UNKNOWN,despair,S,,1736.0,negative,emotions of anxiety
+64,64,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,So bald man diesen Greul bey seinem Namen nennt.,54,102,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,38.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+65,65,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Pfuy!,117,122,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,38.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+66,66,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Spiel / Gesang / und Tanz und Fabeln / ô!,123,164,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,38.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+67,67,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"was Schande
+              Jagt man denn solches Zeug nicht eiligst aus dem Lande /
+              Das solche Dinge lehrt?",165,285,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,38.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+68,68,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach!,0,4,character_speech,1,2,,UNWISSENHEIT.,#unwissenheit,39.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+69,69,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,tanzen möcht ich sehn.,5,27,character_speech,1,2,,UNWISSENHEIT.,#unwissenheit,39.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+70,70,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Laß dir die böse Lust den Augenblick vergehn /
+              Das leid ich nimmermehr.",0,100,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,40.0,UNKNOWN,Schadenfreude,S,,1736.0,positive,emotions of pleasure
+71,71,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Nun / gib dich nur zufrieden
+              Vielleicht ist in der Welt das Tanzen unterschieden.",0,110,character_speech,1,2,,UNWISSENHEIT.,#unwissenheit,41.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+72,72,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              O!",0,17,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,42.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+73,73,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"da betrügst du dich / es ist nur einerley /
+              Verwirrung / Uppigkeit / und Sünd / und Schand dabey.",18,129,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,42.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+74,74,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach der verfluchte Tanz!,144,168,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,42.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+75,75,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,verfolget Ehr und Leben.,169,193,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,42.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+76,76,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich kan mich warlich kaum zufrieden drüber geben.,208,257,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,42.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+77,77,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zur unschuldige Lust.,0,21,stage_direction,1,2,speech_part,,#scheinfroemmigkeit,42.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+78,78,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Mein Kind!",0,25,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,42.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+79,79,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,ach tanze ja dein lebetag nicht mehr!,26,63,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,42.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+80,80,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Du machest dir damit dein zart Gewissen schwer.,78,125,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,42.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+81,81,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Hast du sonst nichts zu thun?,140,169,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,42.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+82,82,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich tanz erst nach dem lernen.,0,30,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,43.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+83,83,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Du solst dich ganz und gar von dieser Lust entfernen /
+              Ganz still und sittsam seyn / mit den Gedanken ruhn.",0,136,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,44.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+84,84,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Das will ich nach dem Tanz auch alles gerne thun.,0,49,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,45.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+85,85,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Die Bosheit ist dem Kind schon wirklich eingepräget.,0,52,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,46.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+86,86,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Was weis das Kind davon / das keine Absicht heget /
+              Und alles blindlings thut.",0,107,character_speech,1,2,,UNWISSENHEIT.,#unwissenheit,47.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+87,87,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ey das verstehst du nicht /
+              Das thut kein frommer Mensch.",0,86,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,48.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+88,88,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Und wenn das nun geschieht /
+              Was schadet denn das uns?",0,83,character_speech,1,2,,UNWISSENHEIT.,#unwissenheit,49.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+89,89,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Man muß die Leuthe lehren /
+              Und sie von dieser Lust abziehen und bekehren.",0,103,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,50.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+90,90,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Komm Kind und bleib bey mir.,118,146,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,50.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+91,91,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich muß erst etwas sehn /
+              Mein Lehrer will mit mir in die Comödi gehn.",0,99,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,51.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+92,92,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Was ist das vor ein Ding wovon wird es genommen?",0,63,character_speech,1,2,,UNWISSENHEIT.,#unwissenheit,52.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+93,93,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Wozu gebraucht man es?,78,100,character_speech,1,2,,UNWISSENHEIT.,#unwissenheit,52.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+94,94,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Wo ist es her gekommen?,101,124,character_speech,1,2,,UNWISSENHEIT.,#unwissenheit,52.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+95,95,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ach Mord!",0,24,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,53.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+96,96,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Wer hilft!,25,35,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,53.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+97,97,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach weh!,36,44,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,53.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+98,98,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"weist du denn jetzund schon /
+              Daß man Comödjen spielt.",45,113,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,53.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+99,99,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ach daß der schärfste Lohn
+              Von aller Straf und Pein auf deinen Lehrer fiele!",114,204,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,53.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+100,100,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Er nimmt dich selber mit in solche Zauber-Spiele.,219,268,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,53.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+101,101,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Hat denn der böse Geist den Leuten zugesetzt /
+              Daß sie von solcher Bruht ein Gauckel-Spiel ergötzt.",283,396,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,53.0,UNKNOWN,Schadenfreude,S,,1736.0,positive,emotions of pleasure
+102,102,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zur unschuldigen Lust,0,21,stage_direction,1,2,speech_part,,#scheinfroemmigkeit,53.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+103,103,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Komm Kind / ich schenke dir Gold / Zucker und viel Sachen /
+              Die dir mehr nützlich seyn / und dir mehr Freude machen.",0,145,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,53.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+104,104,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Es ist ja Schad um dich.,160,184,character_speech,1,2,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,53.0,UNKNOWN,compassion,S,,1736.0,negative,emotions of suffering and empathy
+105,105,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Nein / nein / ich mus dahin /
+              Weil es mein Lehrer will / und ich gehorsam bin.",0,107,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,54.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+106,106,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich habe da gelernt / wie man gehorsam lebet.,122,167,character_speech,1,2,,UNSCHULDIGE LUST.,#unschuldige_lust,54.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+107,107,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Scheinfrömmigkeit, Unwissenheit.",0,32,stage_direction,1,3,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+108,108,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              So lang hab ich mich nun mit aller Macht bestrebet /
+              Das Unkraut / diesen Wust zu meiden und zu fliehn /
+              Und Jedermann davon mit Eyfer abzuziehn;
+              Allein der Ubermuht der Menschen ist geschäftig.",0,251,character_speech,1,3,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,55.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+109,109,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ich bitte dich itzund aus Herzens Grund: sey kräftig /
+              Dem bösen Dinge feind und abgeneigt zu seyn.",266,379,character_speech,1,3,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,55.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+110,110,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Was sind Comödien?,0,18,character_speech,1,3,,UNWISSENHEIT.,#unwissenheit,56.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+111,111,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ach bilde dir nur ein
+              Das schlimmste was du kanst / ich kan dir sonst nichts sagen /
+              Ich habe nicht einmahl daran gedacht zu fragen.",0,175,character_speech,1,3,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,57.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+112,112,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ich kenn sie selber nicht / und seh auch keine an:
+              Allein ich hasse sie / so sehr man hassen kan.",190,301,character_speech,1,3,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,57.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+113,113,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Nun gut / ich haß sie auch / das kost mir wenig Mühe /
+              Daß ich das schnöde Ding dir zu gefallen fliehe.",0,132,character_speech,1,3,,UNWISSENHEIT.,#unwissenheit,58.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+114,114,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich wüste warlich nicht / wozu es nütze war?,0,44,character_speech,1,3,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,59.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+115,115,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Es muß was schändlichs seyn / du hassest sie zu sehr.",0,68,character_speech,1,3,,UNWISSENHEIT.,#unwissenheit,60.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+116,116,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ich will das Meine thun / und ihr in allen Stücken
+              Stets zur Verhindrung seyn.",83,175,character_speech,1,3,,UNWISSENHEIT.,#unwissenheit,60.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+117,117,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Du must dich aber schmücken
+              Mit einer Frömmigkeit / die gut von aussen scheint;
+              Sonst kömst du nicht so weit / als ich und du gemeint:
+               Man glaubet dir sonst nicht / daß du das Böse fliehest.",0,248,character_speech,1,3,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,61.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+118,118,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Drum wenn du dich zum Fall der Schauspielkunst bemühest /
+              So schlag die Augen zu / und häng den Kopf recht tief /
+              Beseufze diese Lust / und wenn der Pöbel schlief /
+              So weck ihn eiligst auf / der wird dir dienen können;
+              So darfst du dir allein die Zunge nicht verbrennen:
+              Dann kanst du mächtig seyn.",263,631,character_speech,1,3,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,61.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+119,119,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Setz gar der Weisheit zu /
+              Und laß ihr weder Tag noch Nacht mit Plagen Ruh /
+              Daß sie der Schauspielkunst kein willig Ohr verleihet /
+              Sie zornig von sich stößt und ihren Schutz bereuet /
+              Nichts von ihr reden hört / die Weisheit ist zwar schlau /
+              Allein sie ist wie du / und ich / nur eine Frau /
+              Die man bezwingen kan.",632,1033,character_speech,1,3,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,61.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+120,120,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ich will mich itzt entfernen;
+              Die Ehre soll für dich / wenn du von mir wirst lernen:
+              Wie du das böse Thier / die Schauspielkunst / verbannst /
+              Und diesen Greul der Welt ins Meer verjagen kanst.",1034,1269,character_speech,1,3,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,61.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+121,121,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich gehe / lebe wohl.,1284,1305,character_speech,1,3,,SCHEINFRÖMMIGKEIT.,#scheinfroemmigkeit,61.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+122,122,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich schwör dir / geh nur hin /
+              Daß ich der Schauspielkunst wie du gehässig bin.",0,108,character_speech,1,3,,UNWISSENHEIT.,#unwissenheit,62.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+123,123,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Jetzunder soll sie sehn / was ich und du vermögen.,123,173,character_speech,1,3,,UNWISSENHEIT.,#unwissenheit,62.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+124,124,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Scheinfrömmigkeit kan doch das Herze recht bewegen /
+              Sonst möcht ich wohl das Ding von Herzen gerne sehn;
+              Jedoch ich darf mich dieß gewiß nicht unterstehn:
+              Allein es kömt Jemand / ich muß doch vor den Leuten
+              Ein wenig frömmer thun / und mich darzu bereiten /
+              Daß ich mich stellen kan – –",0,372,character_speech,1,4,,UNWISSENHEIT.,#unwissenheit,63.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+125,125,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Misbrauch, Unwissenheit.",0,24,stage_direction,1,5,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+126,126,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Mein Freund!,0,12,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,64.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+127,127,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,wo sind wir hier?,13,30,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,64.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+128,128,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,An einem lustgen Ort.,0,21,character_speech,1,5,,MISBRAUCH.,#misbrauch,65.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+129,129,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich bitte / sage mir /
+              Wem steht die Gegend zu?",0,76,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,66.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+130,130,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das kan ich selbst nicht wissen /
+              Der Ort ist algemein.",0,84,character_speech,1,5,,MISBRAUCH.,#misbrauch,67.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+131,131,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich hab mich wundern müssen /
+              Woher die Pracht entsteht.",0,85,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,68.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+132,132,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Mich aber wunderts nicht.",0,40,character_speech,1,5,,MISBRAUCH.,#misbrauch,69.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+133,133,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Man spielt Comödjen hier bey Tag und auch bey Licht:
+              Alleine mich verdrüsts / daß sie so lange machen;
+              Daß noch kein Anfang ist / man hat doch was zu lachen /
+              Man sieht und höret oft ein närrisch Stückgen mit.",55,306,character_speech,1,5,,MISBRAUCH.,#misbrauch,69.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+134,134,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ach!",0,19,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,70.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+135,135,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,allerliebster Freund!,20,41,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,70.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+136,136,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ich klage / wein und bitt
+              Aufs allermöglichste die Sünden Lust zu fliehen
+              Sie möchte dich sonst gar in ihr Verderben ziehen.",42,194,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,70.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+137,137,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ey das verstehst du nicht / ich sinne Tag und Nacht
+              Auf nichts / als wie man nur Comödjen spielt und macht;
+              Man solte keinen Tag ohn diese Lust verliehren /
+              In allen Häusern selbst mit Weib und Kind agiren /
+              Sie möchten klug und dumm / und endlich närrisch seyn /
+              Wenns nur ein Schauspiel heist / so lauf ich gleich hinnein:
+              Die Narren sind für mich bald gar mein ander Leben /
+              Ich wolte Haab und Guht dafür zum besten geben /
+              Ich spielte selber mit / wenn ich was lernen könt.",0,604,character_speech,1,5,,MISBRAUCH.,#misbrauch,71.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+138,138,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Da seh ich / wie man sich vom frommen Leben trennt.,0,51,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,72.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+139,139,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Was fromm?",0,25,character_speech,1,5,,MISBRAUCH.,#misbrauch,73.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+140,140,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Weist du denn auch was Frömmigkeit bedeutet?,26,70,character_speech,1,5,,MISBRAUCH.,#misbrauch,73.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+141,141,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Unwissenheit ist blind / und wenn ein Blinder leitet /
+              So fällt der / welcher sich zu sehr auf ihn verläßt:
+              Comödjen müssen seyn / darauf besteh ich fest.",85,267,character_speech,1,5,,MISBRAUCH.,#misbrauch,73.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+142,142,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Sie sind das beste Werk von allen frommen Sachen /
+              Und können mehr bewegt / als jene besser machen.",282,395,character_speech,1,5,,MISBRAUCH.,#misbrauch,73.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+143,143,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Nein / Nein / sie taugen nichts.,0,32,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,74.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+144,144,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das muß ich auch verstehn /
+              Sieh / ich will dir zum Trotz gleich in ein Schauspiel gehn:
+              Was geht es dich denn an?",0,157,character_speech,1,5,,MISBRAUCH.,#misbrauch,75.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+145,145,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"woran ich mich ergötze /
+              Was ich vor lobenswehrt / und sehenswürdig schätze:
+              Dein lehren brauch ich nicht.",158,292,character_speech,1,5,,MISBRAUCH.,#misbrauch,75.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+146,146,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Du solst es doch nicht thun.,0,28,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,76.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+147,147,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Du Närrin / laß mich doch für deiner Plage ruhn /
+              Du solst und kanst mir nichts befehlen und verbiehten.",0,133,character_speech,1,5,,MISBRAUCH.,#misbrauch,77.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+148,148,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich aber will es doch verwehren und verhüten /
+              Hier soll man keine sehn.",0,101,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,78.0,UNKNOWN,love,S,,1736.0,positive,emotions of affection
+149,149,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Schweig / du erzürnest mich!,0,28,character_speech,1,5,,MISBRAUCH.,#misbrauch,79.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+150,150,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Warum bist du so kühn?,0,22,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,80.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+151,151,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,geh weg und schäme dich.,23,47,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,80.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+152,152,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Gewis vor dir du Narr!,0,22,character_speech,1,5,,MISBRAUCH.,#misbrauch,81.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+153,153,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Das soll dir Schaden bringen.,0,29,character_speech,1,5,,UNWISSENHEIT.,#unwissenheit,82.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+154,154,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Pöbel, Misbrauch, Unwissenheit.",0,31,stage_direction,1,6,pre_speech,,,,,abhorrence,S,,1736.0,negative,emotions of rejection
+155,155,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich hab mich mit Gewalt durchs Volk her müssen dringen /
+              Ich hörte hier ein Lerm / woher entsteht der Streit?",0,138,character_speech,1,6,,PÖBEL.,#poebel,83.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+156,156,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ist das nicht strafens wehrt / zu einer solchen Zeit /
+              An einem solchen Ort die Schauspielkunst vertragen?",0,135,character_speech,1,6,,UNWISSENHEIT.,#unwissenheit,84.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+157,157,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Du wirst sie dennoch nicht aus meinem Herzen jagen /
+              Ich halte sie so hoch / als ich nur weis und kan /
+              Und sehe immer gern ein lustges Schauspiel an.",0,193,character_speech,1,6,,MISBRAUCH.,#misbrauch,85.0,UNKNOWN,love,S,,1736.0,positive,emotions of affection
+158,158,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Du solst nicht.,0,15,character_speech,1,6,,UNWISSENHEIT.,#unwissenheit,86.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+159,159,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,sagt mir doch,0,13,character_speech,1,6,,PÖBEL.,#poebel,87.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+160,160,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Mir dieses zu verwehren?",0,39,character_speech,1,6,,MISBRAUCH.,#misbrauch,88.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+161,161,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich will den Augenblick alhier ein Schauspiel hören.,54,106,character_speech,1,6,,MISBRAUCH.,#misbrauch,88.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+162,162,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Was zankt ihr euch darum / das ist ja gut und schön /
+              Ich bin auch im Begrif mit dir dahin zu gehn:
+              Es kostet nur zu viel / sonst wolt ich mich bemühen /
+              Umsonst mein Weib und Kind und Freunde hinzuziehen.",0,262,character_speech,1,6,,PÖBEL.,#poebel,89.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+163,163,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Nein / nein das will ich nicht / bleibt lieber gar davon /
+              Denn sie verdienen nichts / als lauter Spott und Hohn.",0,142,character_speech,1,6,,UNWISSENHEIT.,#unwissenheit,90.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+164,164,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Der verderbte Geschmack, Misbrauch, Unwissenheit, Pöbel.",0,56,stage_direction,1,7,pre_speech,,,,,abhorrence,S,,1736.0,negative,emotions of rejection
+165,165,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              O!",0,17,character_speech,1,7,,VERDERBTE GESCHMACK.,#verderbte_geschmack,91.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+166,166,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"das ist ärgerlich / ich möchte lieber fluchen /
+              Ich wolte mir die Zeit jüngst zu verkürzen suchen /
+              Sonst hab ich nichts zu thun / ich sah ein Schauspiel an;
+              Allein mich reut das Geld / das ich dabey verthan:
+              Das ist ein Trauer-Zeug!",18,307,character_speech,1,7,,VERDERBTE GESCHMACK.,#verderbte_geschmack,91.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+167,167,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Da sitzt man wie die Säulen /
+              Und muß bald selber mit aus Herzens Grunde häulen.",308,402,character_speech,1,7,,VERDERBTE GESCHMACK.,#verderbte_geschmack,91.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+168,168,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Mir ging es neulich so / daß mich es noch verdrießt /
+              Daß andre Leute sehn / wo man bezwinglich ist.",417,531,character_speech,1,7,,VERDERBTE GESCHMACK.,#verderbte_geschmack,91.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+169,169,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Da geh ich nicht mehr hin.,546,572,character_speech,1,7,,VERDERBTE GESCHMACK.,#verderbte_geschmack,91.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+170,170,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Mein Freund laß dich umfangen /
+              Und sey zum letzten mahl zu dieser Lust gegangen.",0,110,character_speech,1,7,,UNWISSENHEIT.,#unwissenheit,92.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+171,171,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Das will ich nicht / ich will / sie sollen lustig seyn.,0,55,character_speech,1,7,,VERDERBTE GESCHMACK.,#verderbte_geschmack,93.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+172,172,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Mir sind sie alle gut.,0,22,character_speech,1,7,,MISBRAUCH.,#misbrauch,94.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+173,173,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Mir auch / ich geh hinein /
+              Das Geld verdrießt mich nur.",0,85,character_speech,1,7,,PÖBEL.,#poebel,95.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+174,174,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das Geld möcht alles gehen:
+              Allein es ist alda kein Harlekin zu sehen /
+              Es kömmt ja kein Hans-Wurst Scapin und Kilian /
+              Kein Pantalon / und wie man alles nennen kan /
+              Das zu der Lust gehört / man möchte drüber sterben.",0,289,character_speech,1,7,,VERDERBTE GESCHMACK.,#verderbte_geschmack,96.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+175,175,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach helfft das böse Ding viel lieber ganz verderben!,0,52,character_speech,1,7,,UNWISSENHEIT.,#unwissenheit,97.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+176,176,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ey was!",0,22,character_speech,1,7,,VERDERBTE GESCHMACK.,#verderbte_geschmack,98.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+177,177,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,ein lustges Stück ist aller Ehren wehrt.,23,63,character_speech,1,7,,VERDERBTE GESCHMACK.,#verderbte_geschmack,98.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+178,178,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Man hat es in der Welt von alters her begehrt;
+              Es ist nichts neues mehr / ich kan kein Schauspiel leiden /
+              Wenn es nicht lustig ist.",78,238,character_speech,1,7,,VERDERBTE GESCHMACK.,#verderbte_geschmack,98.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+179,179,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              So laß dich doch bedeuten /
+              Sie taugen alle nichts.",0,80,character_speech,1,7,,UNWISSENHEIT.,#unwissenheit,99.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+180,180,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das kan nicht möglich seyn /
+              Das geh ich niemahls zu drum stell dein Tadeln ein.",0,109,character_speech,1,7,,MISBRAUCH.,#misbrauch,100.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+181,181,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Die Schauspielkunst, Der verderbte Geschmack, Misbrauch, Unwissenheit,
+            Pöbel.",0,89,stage_direction,1,8,pre_speech,,,,,abhorrence,S,,1736.0,negative,emotions of rejection
+182,182,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ihr Freunde!,0,12,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,101.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+183,183,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,was geht vor / was macht euch so entrüstet?,13,56,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,101.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+184,184,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich weis / ihr gäbt mir Recht / wenn ihr die Sache wüstet.,0,58,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,102.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+185,185,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich wundre mich / daß ihr in einen Streit verfallt /
+              Der mit so starkem Laut in dieser Gegend schallt;
+              Ihr seyd dem Ansehn nach so ziemlich feine Leute:
+              Geht / und besänftigt euch",0,236,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,103.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+186,186,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,zur Unwissenheit.,0,17,stage_direction,1,8,speech_part,,#verderbte_geschmack,104.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+187,187,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Geh du nur auf die Seite.",0,40,character_speech,1,8,,VERDERBTE GESCHMACK,#verderbte_geschmack,104.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+188,188,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Die Ursach unsers Streits ist / daß ich lustig bin /
+              Und die Cömödjen lieb / doch dieser Eigensinn
+              Verwirfft und tadelt sie.",55,207,character_speech,1,8,,VERDERBTE GESCHMACK,#verderbte_geschmack,104.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+189,189,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ein lustges Spiel zum Lachen
+              Ist alles was ich such.",208,274,character_speech,1,8,,VERDERBTE GESCHMACK,#verderbte_geschmack,104.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+190,190,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Die Leute / die sie machen /
+              Bekömmt man in der Welt nur dann und wann zusehn;
+              Es solte gar kein Tag im Jahr vorüber gehn:
+              Man solte in der Nacht besondre Stücke spielen /
+              Wenn sie den Leuten gleich nicht allemahl gefielen.",0,294,character_speech,1,8,,MISBRAUCH.,#misbrauch,105.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+191,191,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ich achte weder Stand / noch Geld / noch Schlaf und Wein /
+              Wenn ich nur immerfort könt in Cömödjen seyn.",309,427,character_speech,1,8,,MISBRAUCH.,#misbrauch,105.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+192,192,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Mein Freund!,0,12,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,106.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+193,193,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,du gehst zu weit / ds muß man nicht gestatten.,13,59,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,106.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+194,194,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Da wir sonst auf dem Markt bey uns Comödien hatten /
+              Da war kein grosser Preis / man sah es ohne Geld;
+              Jetzt aber steigert sich doch alles in der Welt:
+              Ich bin der Sache gut /jedoch Geld / was zu kaufen /
+              Ist immer nöhtiger / und sonderlich zum Saufen.",0,323,character_speech,1,8,,PÖBEL.,#poebel,107.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+195,195,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ach!",0,19,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,108.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+196,196,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"überlege doch die Kosten / Müh und Fleis /
+              Und was man alles braucht.",20,103,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,108.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+197,197,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Zehl den geringen Preis /
+              Den man dafür bezahlt / und denke solche Dinge
+              Erfordern sehr viel Geld / schätz sie nicht so geringe.",104,260,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,108.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+198,198,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Umsonst ernehret sich kein Würmgen in der Saat /
+              Das / weil es sich was sucht / davon die Nahrung hat.",275,391,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,108.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+199,199,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Wir Menschen suchen auch durch Menschen mit zu leben /
+              Wir müssen nützlich seyn / nach allen Pflichten streben /
+               Daß wir dem Nechsten auch Recht und Genüge thun.",406,596,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,108.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+200,200,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Der Kunst gehöret Lohn / auf Arbeit muß man ruhn /
+              Der Nutzen theilet sich bey nah in alle Stände
+              Das Geld vor diese Kunst kömmt in sehr viele Hände.",611,788,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,108.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+201,201,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Hör doch / wer bist denn du?,0,28,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,109.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+202,202,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich bin die Schauspielkunst.,0,28,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,110.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+203,203,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Pfuy weg!",0,24,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+204,204,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,du Zaubergeist!,25,40,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+205,205,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"dein giftig blauer Dunst
+              Hätt mich bald blind gemacht.",41,109,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+206,206,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach Unglück!,110,122,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+207,207,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach Verderben!,123,137,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+208,208,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich habe dich gesehn / ach weh!,152,183,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+209,209,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,nun muß ich sterben.,184,204,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,despair,S,,1736.0,negative,emotions of anxiety
+210,210,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Bist du der Greul der Welt?,219,246,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+211,211,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Das Unkraut / das sie plagt.,247,275,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+212,212,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach!,290,294,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+213,213,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"die Scheinfrömmigkeit hat mir es wohl gesagt:
+              Ich stünde in Gefahr.",295,376,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,111.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+214,214,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Was macht dich so verstöhret?",0,44,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,112.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+215,215,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach Freundin!,59,72,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,112.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+216,216,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"nein / du bist wahrhaftig falsch belehret /
+              Ich kan dir warlich nicht den kleinsten Schaden thun.",73,184,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,112.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+217,217,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Könt ich vor deiner Wuht bey meiner Arbeit ruhn /
+              Wie frölich wolt ich seyn.",199,289,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,112.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+218,218,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ich muß mich nur beschützen /
+              Und mit der schwersten Müh nur stets im dunkeln sitzen /
+              Und komm ich an den Tag / so kömmt ein ganzes Heer
+              Der Bosheit gegen mich / als wenn ich schädlich wär.",290,522,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,112.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+219,219,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Genug / du bist ein Ding / das ich beständig hasse.,0,51,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,113.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+220,220,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Komm / mach mir gleich ein Stück / eh ich dich noch verlasse.,0,61,character_speech,1,8,,MISBRAUCH.,#misbrauch,114.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+221,221,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Es muß was lustges seyn.",0,39,character_speech,1,8,,VERDERB. GESCHMACK.,#verderbte_geschmack,115.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+222,222,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich geb kein Geld dafür.,0,24,character_speech,1,8,,PÖBEL.,#poebel,116.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+223,223,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ach!",0,19,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,117.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+224,224,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"helft mir alle doch von diesem bösen Thier /
+              Das mir so schädlich ist.",20,104,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,117.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+225,225,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich kan mit allen Gründen
+              Bey euch gar kein Gehör / Geduld noch Einsicht finden.",0,109,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,118.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+226,226,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ey nun / so hat die Kunst an sich selbst so viel Licht /
+              Daß es durch euern Haß / durch die Verfolgung bricht;
+              Ihr sucht mich allerseits zu stürzen / zu verderben.",125,316,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,118.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+227,227,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zum Pöbel,0,9,stage_direction,1,8,speech_part,,#schauspielkunst,118.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+228,228,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Von dir soll ich kein Geld noch Unterhalt erwerben:
+              Der Misbrauch machte mich recht gerne allgemein:
+              Und dein verderbter Sinn will immer lustig seyn.",0,192,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,118.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+229,229,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zur Unwissenheit,0,16,stage_direction,1,8,speech_part,,#schauspielkunst,118.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+230,230,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Du schmählest nur auf mich / und weist nicht was ich nütze.",0,74,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,118.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+231,231,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Wißt ihr / wodurch ich mich nun gegen euch beschütze?,89,142,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,118.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+232,232,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Mein Bitten rührt euch nicht / ihr bleibt auf euern Sinn /
+              Wenn ich gleich noch so gut und noch so redlich bin /
+              So fragt ihr nichts darnach.",157,326,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,118.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+233,233,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Seht / ich will euch beschämen /
+              Und eure Bosheit selbst zur guten Vorschrift nehmen.",327,426,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,118.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+234,234,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Dein Misbrauch lehret mich / wie ich mit Maas und Ziel
+              Der Welt mein Schauspiel zeig.",441,540,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,118.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+235,235,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Wann dir nun das gefiel
+              So wäre dein Gemüht durch meines gleich gebessert /
+              Die Thorheit / die bey dir durch Possen sich vergrössert /
+              Soll mir ein Beyspiel seyn / daß ich / so viel ich kann /
+              Hans-Wurst und Harlekin von meinem Platz verbann.",541,839,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,118.0,UNKNOWN,Schadenfreude,S,,1736.0,positive,emotions of pleasure
+236,236,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zur Unwissenheit,0,16,stage_direction,1,8,speech_part,,#schauspielkunst,118.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+237,237,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Dein Haß beweget mich / dich darum doch zu lieben /
+              Wenn du zum Guten gleich unwissend bist geblieben /
+              Und immer blind in Tag / und ohne Gründe schließt /
+              Will ich das niemahls thun / weil es ein Fehler ist;
+              Dann kan die Weisheit mich versorgen / schützen / lieben:
+              An euch hilft bessern nicht.",0,380,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,118.0,UNKNOWN,love,S,,1736.0,positive,emotions of affection
+238,238,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,zornig.,0,7,stage_direction,1,8,speech_part,,#poebel,119.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+239,239,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Was?",0,19,character_speech,1,8,,PÖBEL,#poebel,119.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+240,240,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"sind wir dumm geblieben /
+              Bis du uns weise machst?",20,84,character_speech,1,8,,PÖBEL,#poebel,119.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+241,241,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Du bildst dir recht was ein:
+              Du Narr!",85,136,character_speech,1,8,,PÖBEL,#poebel,119.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+242,242,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,kanst ohne mich doch nicht ernehret seyn.,137,178,character_speech,1,8,,PÖBEL,#poebel,119.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+243,243,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Verdrießt dichs?",0,31,character_speech,1,8,,MISBRAUCH.,#misbrauch,120.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+244,244,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"daß ich gern allzeit Comödjen sehe /
+              Wenn sie auch närrisch sind / weil ich sie nicht verstehe.",32,141,character_speech,1,8,,MISBRAUCH.,#misbrauch,120.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+245,245,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,O!,156,158,character_speech,1,8,,MISBRAUCH.,#misbrauch,120.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+246,246,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"So gewöhn ich mich zu andern Dingen an /
+              Wo ich mein Geld verthun / und alle machen kan;
+              So kriegst du nichts davon.",159,303,character_speech,1,8,,MISBRAUCH.,#misbrauch,120.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+247,247,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ach!",0,19,character_speech,1,8,,VERDERBTE GESCHMACK.,#verderbte_geschmack,121.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+248,248,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"last sie doch mit frieden;
+              Wir sind ja ohnedem sehr leicht von ihr geschieden:
+               Ihr traurigs Wesen macht / das gar nichts lustges zeigt /
+              Daß man von Herzen gern und selbsten von ihr weicht.",20,252,character_speech,1,8,,VERDERBTE GESCHMACK.,#verderbte_geschmack,121.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+249,249,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Sie braucht sich nicht so stolz und trotzig zu erweisen /
+              Wo man nicht lachen kan / soll das Comödje heisen?",267,389,character_speech,1,8,,VERDERBTE GESCHMACK.,#verderbte_geschmack,121.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+250,250,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Behalte dein Gehäul / dein Trauerspiel für dich /
+              Denn es ist ohnedem in keinem Stück vor mich.",404,513,character_speech,1,8,,VERDERBTE GESCHMACK.,#verderbte_geschmack,121.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+251,251,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              So recht ihr Freunde!",0,36,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,122.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+252,252,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"kommt / helft mir das Thier verjagen /
+              Wir wollen Jedermann / zu ihrem Schaden sagen /
+              Daß sie nichts taugt / nichts kan.",37,186,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,122.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+253,253,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Dein Eckel ist schon recht:,187,214,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,122.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+254,254,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zum verderbten Geschmack.,0,25,stage_direction,1,8,speech_part,,#unwissenheit,122.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+255,255,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Der hindert sie genug / dabey besteht sie schlecht.",0,66,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,122.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+256,256,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Du Misbrauch!,81,94,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,122.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+257,257,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"kanst sie nicht nach deinen Willen sehen /
+              Du must ihr auch daher beherzt entgegen gehen.",95,198,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,122.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+258,258,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Der Pöbel soll umsonst mit aller Uppigkeit
+              Vor ihren Schauplatz gehn / mit Unfug / Zank und Streit /
+              Umsonst / auch mit Gewalt in ihre Plätze dringen;
+              Dann wird das Vögelgen gewislich anders singen:
+              Dann muß die Obrigkeit den Dingen Einhalt thun.",213,515,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,122.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+259,259,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich bitte / laßt mich doch bey meiner Arbeit ruhn;
+              Ich schade weder dir / noch sonst jemand auf Erden:
+              Laßt mich doch auch mit euch zugleich ernähret werden.",0,200,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,123.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+260,260,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zur Unwissenheit.,0,17,stage_direction,1,8,speech_part,,#schauspielkunst,123.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+261,261,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Du brauchst gewis noch mehr von andern Hülf als ich /
+              Du schadest mir mit Fleis / und ich sorg doch für dich.",0,138,character_speech,1,8,,SCHAUSPIELKUNST.,#schauspielkunst,123.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+262,262,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Du solst nun dennoch nicht von mir verschonet bleiben /
+              Ich will die Weisheit selbst bis auf das Höchste treiben;
+              Sie soll vor Ungeduld dich nicht vor Augen sehn:
+              Am Ende wird es doch nach meinem Willen gehn.",0,265,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,124.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+263,263,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Kommt helft mir!,280,296,character_speech,1,8,,UNWISSENHEIT.,#unwissenheit,124.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+264,264,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,zur Schauspielkunst.,0,20,stage_direction,1,8,speech_part,,#verderbte_geschmack,125.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+265,265,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ja wir sind nun alle deine Feinde.,0,34,character_speech,1,8,,VERDERBTE GESCHMACK,#verderbte_geschmack,125.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+266,266,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Wenn ihr mich gleich veracht / und seyd nicht meine Freunde /
+               Bleibt doch die Weisheit mein / ich folg / ich diene ihr;
+              Sie nimmt mich willig an / und wirket auch bey mir:
+              Sie läßt sich auch durch mich beliebt und käntlich machen.",0,288,character_speech,1,9,,SCHAUSPIELKUNST.,#schauspielkunst,126.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+267,267,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Sie tröstet mich durch sich / und hilfft mich selbst bewachen.,303,365,character_speech,1,9,,SCHAUSPIELKUNST.,#schauspielkunst,126.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+268,268,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Wer kömmt?,380,390,character_speech,1,9,,SCHAUSPIELKUNST.,#schauspielkunst,126.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+269,269,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Es ist mein Freund / der liebt mich ungemein /
+              Und ich verehr ihn hoch.",391,476,character_speech,1,9,,SCHAUSPIELKUNST.,#schauspielkunst,126.0,UNKNOWN,love,S,,1736.0,positive,emotions of affection
+270,270,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Er wird beschäftigt seyn.,477,502,character_speech,1,9,,SCHAUSPIELKUNST.,#schauspielkunst,126.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+271,271,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Der erhabene Geschmack, Schauspielkunst.",0,40,stage_direction,1,10,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+272,272,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Er liest und geht für sich noch immer in Gedanken.",0,65,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,127.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+273,273,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ich schäme mich für ihm / wenn er das laute Zanken
+              Gehöret haben solt.",80,164,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,127.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+274,274,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Jedoch er ist mein Freund.,165,191,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,127.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+275,275,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Erhabener Geschmack!,206,226,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,127.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+276,276,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ders redlich mit mir meynt /
+              Wie find ich dich alhier in Einsamkeit und Stille?",227,320,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,127.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+277,277,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"lieset in dem gedruckten übersetzten Trauerspiele Mithridates / und siehet die
+              Schauspielkunst nicht.",0,115,stage_direction,1,10,speech_part,,#erhabene_geschmack,128.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+278,278,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Was bringt ein edler Trieb / ein reiner guter Wille
+              Nicht für Erleuchtung / Muht / Kunst / Wissenschaft und Fleis?",0,143,character_speech,1,10,,ERHABENE GESCHMACK,#erhabene_geschmack,128.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+279,279,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Daß man die Folgen draus nicht gnug zu rühmen weis.,158,209,character_speech,1,10,,ERHABENE GESCHMACK,#erhabene_geschmack,128.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+280,280,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Man sieht in jeder Kunst fast täglich neue Proben;
+              Man muß der Regel nach itzt gar ein Schauspiel loben /
+              Das sonst verächtlich war / und keinen Nutzen bracht:
+              Man schämt sich nun nicht mehr / daß man ein Schauspiel macht /
+              Verbessert übersetzt / Der Fleis gelehrter Männer /
+              Der Nutzen von der Kunst / die Lust für rechte Kenner
+              Steigt itzt verwunderns hoch.",224,667,character_speech,1,10,,ERHABENE GESCHMACK,#erhabene_geschmack,128.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+281,281,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Er ist in sich vergnügt.,0,24,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,129.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+282,282,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Es hat sich nach und nach so wunderlich gefügt /
+              Daß wackre Leute selbst Schau Spiele sehn und machen /
+              Die in der Welt geschickt in hohen Ämtern wachen /
+              In Ehr und Ansehn stehn.",0,236,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,130.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+283,283,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Dieß ist der Mithridat /
+              Den man in Strasburg jüngst wohl übersetzet hat /
+               Und zwar mit grossen Fleis.",237,368,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,130.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+284,284,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Der Mann / den ich verehre /
+              Verdient das beste Lob / wenn sonst Belohnung wäre /
+              Den allerbesten Preis.",369,501,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,130.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+285,285,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Allein Er hat zum Lohn:
+              Daß man es spielt und sieht / sonst weiter nichts davon.",502,596,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,130.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+286,286,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Und Er ist doch vergnügt.,611,636,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,130.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+287,287,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Erlaub mir / daß ich frage:
+              Was du so eyfrig ließt?",0,80,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,131.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+288,288,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das Buch / von dem ich sage /
+              Das ist ein Trauerspiel und neulich übersetzt:
+              Es heiset Mithridat.",0,140,character_speech,1,10,,ERHABENE GESCHMAK.,#erhabene_geschmack,132.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+289,289,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Wie hast du mich ergötzt!",0,40,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,133.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+290,290,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Was ist das für ein Glück auf Furcht / Gefahr und Schrecken!,55,115,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,133.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+291,291,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Dadurch kanst du mich recht vom Traum zur Lust erwecken.,130,186,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,133.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+292,292,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Du ehrest dieses Stück / ich ehr es auch mit dir /
+              Und bin es vorzustelln an Ort und Stelle hier.",201,312,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,133.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+293,293,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Man soll es an dem Fest Carl Fridrichs von uns hören /
+              Heut wird es aufgeführt.",327,420,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,133.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+294,294,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Er schützt – –,421,435,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,133.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+295,295,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Laß dich nichts stöhren.",0,39,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,134.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+296,296,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Du thust gedoppelt recht / ehrst dieses Dichters Fleis /
+              Und deinen Schutzherrn / der von deinen Regeln weis.",54,177,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,134.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+297,297,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Und sie erkennt / belohnt / bewundert / und beschützet /
+              Daß deine Kunst bey Ihm ergötzt / erbaut und nützet.",192,315,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,134.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+298,298,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,O!,330,332,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,134.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+299,299,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,daß nach Seiner Huld viel andre möchten gehn!,333,378,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,134.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+300,300,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Daß man im Deutschen Reich dich könt erhalten sehn!,393,444,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,134.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+301,301,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Die schwere tiefe Kunst an der viel Wissenschaften /
+              Erkäntnis / Wahrheit / Nutz / und solche Dinge haften /
+              Die den Vernünftigen zur größten Freude seyn.",459,641,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,134.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+302,302,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Sie bessert auch dabey die Fehler ungemein /
+              Nur man belohnt sie nicht.",656,741,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,134.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+303,303,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Es fehlt noch an der Menge.,0,27,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,135.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+304,304,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Man handelt sonsten nicht beym Uberflus so strenge /
+              Nur hier ist man genau.",0,105,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,136.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+305,305,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Laß dieses übergehn.",0,35,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,137.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+306,306,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich soll mit wenigem mich doch erhalten sehn.,50,95,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,137.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+307,307,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Es soll mir weiter nichts / als Uberflus gebrechen /
+              Damit ich allemahl von Herzen könne sprechen:
+              Seht / was so gar an mir die höhre Macht vermag /
+              Die seegnet mich / die hilfft – –",110,334,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,137.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+308,308,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Indem ich dich beklag /
+              So zeig ich dir dabey mein redlich gut Gemühte /
+              Und sorge / daß ich dir den Schaden nur verhüte.",0,164,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,138.0,UNKNOWN,compassion,S,,1736.0,negative,emotions of suffering and empathy
+309,309,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich ehre dich dafür.",0,35,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,139.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+310,310,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Allein viel hilft es nicht /
+              Wenn man gleich dann und wann zu meinem Nutzen spricht.",36,134,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,139.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+311,311,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Warum?,0,6,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,140.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+312,312,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Es hassen mich so viel besondre Leute /
+              Und die verhindern das.",0,92,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,141.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+313,313,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich steh dir an der Seite.",0,41,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,142.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+314,314,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Die Weisheit hat dich lieb / ich bin ihr nah verwandt /
+              Ich mache dich noch mehr bey der Vernunft bekant /
+              Daß du ernährt kanst seyn.",56,217,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,142.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+315,315,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Was hast du drauf zu sagen?,218,245,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,142.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+316,316,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Der Misbrauch / und noch viel / die wollen mich verklagen /
+              Die ich theils nennen kan / und theils nicht käntlich find.",0,148,character_speech,1,10,,SCHAUSPIELKUNST.,#schauspielkunst,143.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+317,317,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Leg nur die Furcht zurück / sey ruhig armes Kind!",0,64,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,144.0,UNKNOWN,compassion,S,,1736.0,negative,emotions of suffering and empathy
+318,318,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Erkenne an der Last die du mit Hindrung trägest /
+              Daß du die Tugend doch zu diesem Schlus bewegest:
+              Daß sie dir günstig ist / und dich auch lieben muß /
+              Hast du gleich nichts zum Lohn als Schaden und Verdrus:
+              Die Zeit weis oftermahls in allerschwersten Sachen /
+              Ein Ende / das erfreut / und nützlich ist / zu machen.",79,465,character_speech,1,10,,ERHABENE GESCHMACK.,#erhabene_geschmack,144.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+319,319,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Der Nutzen, Der erhabene Geschmack, Die Schauspielkunst.",0,56,stage_direction,1,11,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+320,320,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Find ich euch hier in Ruh?",0,41,character_speech,1,11,,NUTZEN.,#nutzen,145.0,UNKNOWN,being moved,S,,1736.0,being moved,being moved
+321,321,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Weist du denn nichts davon /
+              Daß man dich hat verklagt?",42,111,character_speech,1,11,,NUTZEN.,#nutzen,145.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+322,322,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach ja / ich weis es schon.,0,27,character_speech,1,11,,SCHAUSPIELKUNST.,#schauspielkunst,146.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+323,323,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Unwissenheit weis sich der Zeit doch zu bedienen /
+              Es ist mit ihr zugleich der Misbrauch da erschienen;
+              Der Pöbel schleichet nach / und überschreyet mich:
+              Ich komme darum her / mein Kind!",0,244,character_speech,1,11,,NUTZEN.,#nutzen,147.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+324,324,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,und warne dich!,245,260,character_speech,1,11,,NUTZEN.,#nutzen,147.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+325,325,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ich hab das Meine zwar in allem vorgewendet /
+              Ich weis es / daß sie nichts / als blinder Argwohn blendet /
+              Das ihre Gründe falsch / auch ihnen schädlich seyn;
+              Sie dringen aber doch mit Ungestüm hinnein /
+              Und wollen mit Gewalt die Weisheit selber sprechen:
+              Ich hielte sie zurück / und kan mich nicht entbrechen /
+              Davon Bericht zu thun.",275,693,character_speech,1,11,,NUTZEN.,#nutzen,147.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+326,326,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Verhindre sie nur nicht.",0,39,character_speech,1,11,,SCHAUSPIELKUNST.,#schauspielkunst,148.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+327,327,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Wer weis / ob nicht ihr Wort durch klagen für mich spricht.,54,113,character_speech,1,11,,SCHAUSPIELKUNST.,#schauspielkunst,148.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+328,328,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Laß sie die Weisheit nur mit ihrem Schreyen hören /
+              Sie lässet sich niemahls durch falschen Schein bethören;
+              Ich kenne sie zu gut.",128,286,character_speech,1,11,,SCHAUSPIELKUNST.,#schauspielkunst,148.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+329,329,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,So mögen sies denn thun.,0,24,character_speech,1,11,,NUTZEN.,#nutzen,149.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+330,330,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zum Erhaben Geschmack.,0,22,stage_direction,1,11,speech_part,,#nutzen,149.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+331,331,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das andre wird auf dir und deinem Fleis beruhn.",0,62,character_speech,1,11,,NUTZEN.,#nutzen,149.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+332,332,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Du stehst der Weisheit ja beständig an der Seiten /
+              Aus dem was du befiehlst / muß ich das erst bereiten
+              Was allen Nutzen schafft; Begleite sie dahin /
+              Und sprich das Wort für sie / weil ich zu wenig bin.",77,323,character_speech,1,11,,NUTZEN.,#nutzen,149.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+333,333,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,zum Nutzen.,0,11,stage_direction,1,11,speech_part,,#schauspielkunst,150.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+334,334,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Mein Freund!",0,27,character_speech,1,11,,SCHAUSPIELKUNST,#schauspielkunst,150.0,UNKNOWN,friendship,S,,1736.0,positive,emotions of affection
+335,335,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,ich danke dir / den brauchst du nicht zu bitten.,28,76,character_speech,1,11,,SCHAUSPIELKUNST,#schauspielkunst,150.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+336,336,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich bin bey diesem Freund im höchsten Grad gelitten.,91,143,character_speech,1,11,,SCHAUSPIELKUNST,#schauspielkunst,150.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+337,337,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Stünd es in seiner Macht / ich trüg den reichsten Lohn /
+              Die größte Billigkeit / den größten Ruhm davon.",0,133,character_speech,1,11,,SCHAUSPIELKUNST,#schauspielkunst,150.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+338,338,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Hier kömmt die Weisheit selbst.,0,31,character_speech,1,11,,NUTZEN.,#nutzen,151.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+339,339,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Die will ich tief verehren.,0,27,character_speech,1,11,,SCHAUSPIELKUNST.,#schauspielkunst,152.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+340,340,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Die Weisheit, Erhaben.",0,22,stage_direction,1,12,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+341,341,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Geschmack, Nutzen, Schauspielkunst.",23,58,stage_direction,1,12,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+342,342,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,im herausgehen.,0,15,stage_direction,1,12,speech_part,,#weisheit,153.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+343,343,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich muß den andern Theil mit seiner Antwort hören.,0,50,character_speech,1,12,,WEISHEIT,#weisheit,153.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+344,344,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zur Schauspielkunst.,0,20,stage_direction,1,12,speech_part,,#weisheit,153.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+345,345,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Man giebt sich viele Müh / und sucht mit aller Macht /
+              Wie man dich gegen mich aufs schändlichste veracht.",0,135,character_speech,1,12,,WEISHEIT,#weisheit,153.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+346,346,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ich schweige / denn du kanst die Wahrheit schon ergründen /
+              Und wirst mein Recht zugleich in ihrer Klage finden.",0,141,character_speech,1,12,,SCHAUSPIELKUNST.,#schauspielkunst,154.0,UNKNOWN,anger,S,,1736.0,negative,emotions of rejection
+347,347,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,So überläßt du dich in allem meiner Macht?,0,42,character_speech,1,12,,WEISHEIT.,#weisheit,155.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+348,348,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Steh ich darinnen fest / so hab ichs hoch gebracht;
+              Denn weiter wünsch ich nichts.",0,111,character_speech,1,12,,SCHAUSPIELKUNST.,#schauspielkunst,156.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+349,349,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Nun wohl / so sey zu frieden
+              Wie ich dein ganzes Werk gefunden / unterschieden /
+              Und auch beurtheilt hab.",0,148,character_speech,1,12,,WEISHEIT.,#weisheit,157.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+350,350,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Ach ja von Herzen gern;
+              Daß ich dich auch in mir noch mehr erkennen lern /
+              Und dich mehr ehren kan.",0,142,character_speech,1,12,,SCHAUSPIELKUNST.,#schauspielkunst,158.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+351,351,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ich will dich selbst beschützen.,0,32,character_speech,1,12,,WEISH.,#weisheit,159.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+352,352,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zum Erhaben Geschmack.,0,22,stage_direction,1,12,speech_part,,#weisheit,159.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+353,353,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Sey du ihr Beystand auch / du kanst ihr vieles nützen /
+               Daß sie in jedem Land mit kan erhalten seyn.",0,130,character_speech,1,12,,WEISH.,#weisheit,159.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+354,354,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Zur Schauspielkunst.,0,20,stage_direction,1,12,speech_part,,#weisheit,159.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+355,355,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Die Beßrung deiner Kunst wird endlich allgemein /
+              Erkäntnis / Glück / und Lohn / und solchen Schutz erlangen /
+              Daß die dich sehen / auch selbst Nutz daraus ermpfangen;
+              Halt ihre Gegenwart und ihren Beytrag wehrt.",0,269,character_speech,1,12,,WEISH.,#weisheit,159.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+356,356,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Dies ist was deine Pflicht und mein Befehl begehrt.,284,335,character_speech,1,12,,WEISH.,#weisheit,159.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+357,357,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Erhaben.,0,8,stage_direction,1,13,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+358,358,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Geschmack, Nutzen, Schauspielkunst.",9,44,stage_direction,1,13,pre_speech,,,,,no_annotation,S,,1736.0,no_annotation,no_annotation
+359,359,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Nun kan mich kein Verdrus und Unglücksfall mehr rühren.",0,70,character_speech,1,13,,SCHAUSPIELKUNST.,#schauspielkunst,160.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+360,360,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Ihr beyde seyd genung mich also zu regieren /
+              Daß ich zufrieden seyn und ruhig leben kan;
+              Tref ich gleich hier und da noch viel Verhindrung an.",85,256,character_speech,1,13,,SCHAUSPIELKUNST.,#schauspielkunst,160.0,UNKNOWN,"admiration, reverence",S,,1736.0,positive,emotions of affection
+361,361,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das / was dich hindert / sind die unerkanten Dinge /
+              Man schätzt sie meistens zwar verächtlich und geringe /
+              Und dennoch schaden sie.",0,176,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+362,362,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Was dich zurücke schlägt /
+              Ist dieses: daß die Kunst so einen Namen trägt /
+              Dem sich ein jeder Schwarm zusammgelaufner Leute
+              Selbst geben darf und giebt.",177,372,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+363,363,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Man sieht auf einer Seite
+              Dich auch dem Namen nach für solch Gesindel an /
+              Das dir / sich / und der Welt viel Schaden hat gethan /
+              Und manchen klugen Mann so weit damit bethöret /
+              Daß er das schlechte Zeug vors Beste angehöret /
+              Daher kömmt dein Verlust.",373,697,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+364,364,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Der Spott / der dich betrift:
+              Das ist vor deinem Fleis der allerstärkste Gift /
+              Der dich und ihn verletzt / die Einsicht von dir haben /
+              Erkennen dieses wohl.",698,898,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+365,365,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Indeß brauch deine Gaben /
+              Damit du nützen kanst.",899,962,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+366,366,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Gieb jeder Wissenschaft
+              Die Käntnis / brauche sie mit ihrer rechten Kraft /
+              Und richte dich darnach so gut / als dein Vermögen
+              Dich dahin kommen läßt / sie recht an Tag zu legen:
+               Daß man den Unterscheid von deiner Kunst erkennt /
+              Ob man euch beyde schon mit einem Namen nennt.",963,1310,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+367,367,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Man muß die Welt mit dir / und dich mit ihr vergleichen /
+              Es muß ein braver Mann oft einem Bösen weichen:
+              Es gibt auch böses Volk in ihr / als wie bey dir:
+              Es gehn daneben auch so schlechte Dinge für.",1325,1567,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+368,368,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Sie sind einander auch zuwider und gehässig /
+              Faul / trotzig / boshaft / dumm / ja glaube zuverlässig:
+              Die Welt beklaget sich mit dir im gleichen Tohn.",1582,1761,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+369,369,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Verfolget man dich nun / spricht man dir boshaft Hohn /
+              So sorge / daß du die Verfolgung nicht verdienest /
+              Und dich aus eignem Trieb zu rächen nicht erkünest!",1776,1963,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,abhorrence,S,,1736.0,negative,emotions of rejection
+370,370,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Stößt dir ein Schaden zu / so sey dahin bedacht /
+              Daß keine Uppigkeit von dir den Schaden macht.",1978,2088,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+371,371,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Wirst du vom sorgen matt / und von der Arbeit müde /
+              So suche deine Lust in Tugend / hege Friede /
+              Und ruh in dem Geschmack vernünftger Kenner aus /
+              Zieh ihren wahren Ruhm / und dir ein Vorbild draus.",2103,2345,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,joy,S,,1736.0,positive,emotions of pleasure
+372,372,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Und ist dein kleiner Raum gleich ziemlich eingeschlossen /
+              So bleibe unverzagt!",2360,2453,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+373,373,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Sey fleissig unverdrossen!,2454,2480,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+374,374,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Ach!,2495,2499,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,suffering,S,,1736.0,negative,emotions of suffering and empathy
+375,375,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"sey nur nicht besorgt / daß da das Wichtigste
+              Auf diesem kleinen Raum / wie in der Welt gescheh.",2500,2610,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,fear,S,,1736.0,negative,emotions of anxiety
+376,376,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"Du must die grosse Welt durch diese käntlich machen /
+              Der Spiegel zeiget ihr die gut und bösen Sachen:
+              Der Unterschied davon fällt jedem ins Gesicht:
+              Dazu schenkt die Vernunft und Weisheit gern ihr Licht.",2625,2871,character_speech,1,13,,NUTZEN.,#nutzen,161.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+377,377,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,"
+              Das soll mich durch die Welt / durch die Verhindrung führen.",0,75,character_speech,1,13,,SCHAUSPIELKUNST.,#schauspielkunst,162.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation
+378,378,GerDracor/neuber-die-beschuetzte-schauspielkunst.xml,Von deinem Unterricht will ich kein Wort verliehren.,90,142,character_speech,1,13,,SCHAUSPIELKUNST.,#schauspielkunst,162.0,UNKNOWN,no_annotation,S,,1736.0,no_annotation,no_annotation

@@ -1,0 +1,3872 @@
+,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class,genre,subgenre
+0,0,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Ein ländlicher Hof vor dem Wirthshaus zum goldenen Lamm.",0,64,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+1,1,Kasperl/Hensler_Marionettenbude_korr.csv,"Im Hintergrund ein umzäunter Garten, der über das Gebürg af die Heerstrasse führt.",65,147,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+2,2,Kasperl/Hensler_Marionettenbude_korr.csv,"Röschen sitzt vor dem Haus, und spinnt am Rädchen, Kasper sägt Holz, der Verwalter schleicht verstohlen zur Gartenthür herein.)",148,275,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+3,3,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Introduction.",0,20,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+4,4,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Schnurre, Rädchen!",0,35,character_speech,1,1,,"
+       Röschen.
+      ",#röschen,1.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+5,5,Kasperl/Hensler_Marionettenbude_korr.csv,"schnurre,
+       
+       
+        Knurre, Spulchen knurre!",36,94,character_speech,1,1,,"
+       Röschen.
+      ",#röschen,1.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+6,6,Kasperl/Hensler_Marionettenbude_korr.csv,"Mit den Fingern zart und fein
+       
+       
+        Muß das Garn gesponnen seyn.",119,201,character_speech,1,1,,"
+       Röschen.
+      ",#röschen,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+7,7,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Knarre, Säge!",0,30,character_speech,1,1,,"
+       Kasper.
+      ",#kasper,2.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+8,8,Kasperl/Hensler_Marionettenbude_korr.csv,knarre!,31,38,character_speech,1,1,,"
+       Kasper.
+      ",#kasper,2.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+9,9,Kasperl/Hensler_Marionettenbude_korr.csv,"Schnarre, schnarre, schnarre!",63,92,character_speech,1,1,,"
+       Kasper.
+      ",#kasper,2.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+10,10,Kasperl/Hensler_Marionettenbude_korr.csv,"Mit der Säge kurz und klein,
+       
+       
+        Muß das Holz zerschnitten seyn.",117,201,character_speech,1,1,,"
+       Kasper.
+      ",#kasper,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+11,11,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ihres Rädchens Schnurren,
+       
+       
+        Ihrer Spule Knurren –
+       
+       
+        Und ihr Füßchen winzig klein,
+       
+       
+        Ladet mich zur Liebe ein.",0,192,character_speech,1,1,,"
+       Verwalter.
+      ",#verwalter,3.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+12,12,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (zu Casper.)",0,20,stage_direction,1,1,speech_part,,#röschen,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+13,13,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Dort seh’ ich Herrn Krappel gehen,
+       
+       
+        Leise schleicht er sich zu mir;",0,107,character_speech,1,1,,"
+       Röschen.
+      ",#röschen,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+14,14,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Laß den alten Narren stehen,
+       
+       
+        Röschen!",0,78,character_speech,1,1,,"
+       Casper.
+      ",#casper,5.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+15,15,Kasperl/Hensler_Marionettenbude_korr.csv,dieses rath’ ich dir.,79,100,character_speech,1,1,,"
+       Casper.
+      ",#casper,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+16,16,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (für sich.)",0,19,stage_direction,1,1,speech_part,,#röschen,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+17,17,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Er meint wohl gar, der arme Wicht
+       
+       
+        Ha ha – ha ha, ich seh’ ihn nicht,",0,109,character_speech,1,1,,"
+       Röschen.
+      ",#röschen,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+18,18,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (für sich.)",0,19,stage_direction,1,1,speech_part,,#kasper,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+19,19,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ach!",0,21,character_speech,1,1,,"
+       Kasper
+      ",#kasper,7.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+20,20,Kasperl/Hensler_Marionettenbude_korr.csv,"dürft ich nur, wie wollt’ ich nicht,
+       
+       
+        Ihm gleich zersetzen sein Gesicht.",22,117,character_speech,1,1,,"
+       Kasper
+      ",#kasper,7.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+21,21,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Verwalter hat sich hinter Röschen hingeschlichen, hält ihr das Rädchen auf.)",0,84,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+22,22,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (springt auf.)",0,22,stage_direction,1,1,speech_part,,#röschen,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+23,23,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        He da!",0,23,character_speech,1,1,,"
+       Röschen.
+      ",#röschen,8.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+24,24,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wer da!",0,24,character_speech,1,1,,"
+       Kasper.
+      ",#kasper,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+25,25,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Um dich zu sehen, eil’ ich hieher –",0,52,character_speech,1,1,,"
+       Verwalter.
+      ",#verwalter,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+26,26,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (will sie umfassen.)",0,28,stage_direction,1,1,speech_part,,#verwalter,10.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+27,27,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (spottend.)",0,19,stage_direction,1,1,speech_part,,#röschen,11.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure,comedy,KK
+28,28,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Dank für die Ehr, gnädiger Herr",0,48,character_speech,1,1,,"
+       Röschen.
+      ",#röschen,11.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+29,29,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (hält die Säge in der Hand, tritt zwischen beyde.)",0,58,stage_direction,1,1,speech_part,,#kasper,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+30,30,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was soll das Karessiren?",0,41,character_speech,1,1,,"
+       Kasper.
+      ",#kasper,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+31,31,Kasperl/Hensler_Marionettenbude_korr.csv,Was soll da das Scharmiren?,66,93,character_speech,1,1,,"
+       Kasper.
+      ",#kasper,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+32,32,Kasperl/Hensler_Marionettenbude_korr.csv,Herr Krappel!,118,131,character_speech,1,1,,"
+       Kasper.
+      ",#kasper,12.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+33,33,Kasperl/Hensler_Marionettenbude_korr.csv,"geh’ er seine Weeg,
+       
+       
+        Sonst säg’ ich ihm die Nase weg.",132,208,character_speech,1,1,,"
+       Kasper.
+      ",#kasper,12.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+34,34,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (drohend.)",0,18,stage_direction,1,1,speech_part,,#verwalter,13.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+35,35,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Du Schlingel du!",0,33,character_speech,1,1,,"
+       Verwalter
+      ",#verwalter,13.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+36,36,Kasperl/Hensler_Marionettenbude_korr.csv,Ha!,34,37,character_speech,1,1,,"
+       Verwalter
+      ",#verwalter,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+37,37,Kasperl/Hensler_Marionettenbude_korr.csv,welch Geschrey!,38,53,character_speech,1,1,,"
+       Verwalter
+      ",#verwalter,13.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+38,38,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Man hört Helwig im Hause lärmen.)",0,41,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+39,39,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Still – Still!",0,31,character_speech,1,1,,"
+       Röschen.
+      ",#röschen,14.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+40,40,Kasperl/Hensler_Marionettenbude_korr.csv,der Vater eilt herbey.,32,54,character_speech,1,1,,"
+       Röschen.
+      ",#röschen,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+41,41,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie ziehen sich zurück.)",0,32,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+42,42,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige, Susanne mit ihrem Mann.",0,38,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+43,43,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was ich will, das muß geschehen,
+       
+       
+        Krappel wird des Röschens Mann.",0,105,character_speech,1,2,,"
+       Hellwig.
+      ",#hellwig,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+44,44,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nein, das laß ich nicht geschehen,
+       
+       
+        Halt das Maul, du Grobian!",0,102,character_speech,1,2,,"
+       Susanna.
+      ",#susanna,16.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+45,45,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (sie ausspottend.)",0,26,stage_direction,1,2,speech_part,,#hellwig,17.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure,comedy,KK
+46,46,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Seh’ man nur die Alte an!",0,42,character_speech,1,2,,"
+       Hellwig.
+      ",#hellwig,17.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+47,47,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (ihm drohend.)",0,22,stage_direction,1,2,speech_part,,#susanna,18.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+48,48,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich zerkraze dir’s Gesicht!",0,44,character_speech,1,2,,"
+       Susanna.
+      ",#susanna,18.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+49,49,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wie sie waidlich kuppeln kann,",0,47,character_speech,1,2,,"
+       Hellwig.
+      ",#hellwig,19.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+50,50,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Krappel kriegt die Rösel nicht.",0,48,character_speech,1,2,,"
+       Susanna.
+      ",#susanna,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+51,51,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Man hört in der Ferne einen fröhlichen Chor hinter dem Gebürge.",0,71,stage_direction,1,3,pre_speech,,,,,joy,positive,emotions of pleasure,comedy,KK
+52,52,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Heute hier und morgen dort,
+       
+       
+        Lassen wir uns nieder;",0,91,character_speech,1,3,,"
+       Chor.
+      ",#chor,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+53,53,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Bleiben nie an einem Ort,
+       
+       
+        Leben stets als Brüder
+       
+       
+        Lustig und munter und froh,
+       
+       
+        In dulci Jubilo!",0,182,character_speech,1,3,,"
+       Chor.
+      ",#chor,21.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+54,54,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Welche Töne froher Lieder
+       
+       
+        Hallen vom Gebürge wieder?",0,93,character_speech,1,3,,"
+       Alle 5.
+      ",#impressar #verwalter #krappel,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+55,55,Kasperl/Hensler_Marionettenbude_korr.csv,"Welch’ ein Lärmen, welch’ ein Schreyn!",118,156,character_speech,1,3,,"
+       Alle 5.
+      ",#impressar #verwalter #krappel,22.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+56,56,Kasperl/Hensler_Marionettenbude_korr.csv,Horcht!,181,188,character_speech,1,3,,"
+       Alle 5.
+      ",#impressar #verwalter #krappel,22.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+57,57,Kasperl/Hensler_Marionettenbude_korr.csv,was mag wohl dieses seyn!,189,214,character_speech,1,3,,"
+       Alle 5.
+      ",#impressar #verwalter #krappel,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+58,58,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Der Impressar erscheint auf dem Gebürg, mit ihm seine Komödianten und Komödiantinnen.)",0,94,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+59,59,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Viktoria, das Dorf ist da!",0,43,character_speech,1,3,,"
+       Impressar.
+      ",#impressar,23.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+60,60,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Juhe, Juhe, Juhei sa sa!",0,41,character_speech,1,3,,"
+       Alle.
+      ",#impressar #verwalter #krappel,24.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+61,61,Kasperl/Hensler_Marionettenbude_korr.csv,Das Dorf ist da?,66,82,character_speech,1,3,,"
+       Alle.
+      ",#impressar #verwalter #krappel,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+62,62,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ihr Herren!",0,28,character_speech,1,3,,"
+       Impressar.
+      ",#impressar,25.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+63,63,Kasperl/Hensler_Marionettenbude_korr.csv,schön willkommen hier!,29,51,character_speech,1,3,,"
+       Impressar.
+      ",#impressar,25.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+64,64,Kasperl/Hensler_Marionettenbude_korr.csv,"Ich bitt’ euch, ach!",76,96,character_speech,1,3,,"
+       Impressar.
+      ",#impressar,25.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+65,65,Kasperl/Hensler_Marionettenbude_korr.csv,"erlaubet mir,
+       
+       
+        Euch unsre Kunst zu produciren,
+       
+       
+        Und unsre Stücke aufzuführen.",97,220,character_speech,1,3,,"
+       Impressar.
+      ",#impressar,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+66,66,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Zigeuner oder Musikanten?",0,42,character_speech,1,3,,"
+       Verwalter.
+      ",#verwalter,26.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+67,67,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nein!",0,22,character_speech,1,3,,"
+       Alle.
+      ",#impressar #verwalter #krappel,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+68,68,Kasperl/Hensler_Marionettenbude_korr.csv,Nein!,23,28,character_speech,1,3,,"
+       Alle.
+      ",#impressar #verwalter #krappel,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+69,69,Kasperl/Hensler_Marionettenbude_korr.csv,wir sind Komödianten.,29,50,character_speech,1,3,,"
+       Alle.
+      ",#impressar #verwalter #krappel,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+70,70,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (tief gebeugt.)",0,23,stage_direction,1,3,speech_part,,#impressar,28.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+71,71,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich, als der Impressar, bitt’ um Permission
+       
+       
+        Zu der Comödia –",0,101,character_speech,1,3,,"
+       Impressar.
+      ",#impressar,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+72,72,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (sich in die Brust werfend.)",0,36,stage_direction,1,3,speech_part,,#krappel,29.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+73,73,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Und diese geb’ ich euch, als unsers Dorfs Patron!",0,66,character_speech,1,3,,"
+       Krappel.
+      ",#krappel,29.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+74,74,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (küßt ihm den Rock.)",0,28,stage_direction,1,3,speech_part,,#impressar,30.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+75,75,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Juhe, Viktoria!",0,32,character_speech,1,3,,"
+       Impressar.
+      ",#impressar,30.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+76,76,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Juhe!",0,22,character_speech,1,3,,"
+       Jubel-Chor.
+      ",#jubel-chor,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+77,77,Kasperl/Hensler_Marionettenbude_korr.csv,Juhe!,23,28,character_speech,1,3,,"
+       Jubel-Chor.
+      ",#jubel-chor,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+78,78,Kasperl/Hensler_Marionettenbude_korr.csv,"viel Dank für die Permission,
+       
+       
+        Vivat des Dorfs Patron!",29,106,character_speech,1,3,,"
+       Jubel-Chor.
+      ",#jubel-chor,31.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+79,79,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Mit Trauerspielen und Balleten,
+       
+       
+        Mit Opern und mit Marionetten
+       
+       
+        Sollt ihr bedienet seyn!",0,151,character_speech,1,3,,"
+       Impressar.
+      ",#impressar,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+80,80,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (mit vielen Referenzen.)",0,32,stage_direction,1,3,speech_part,,#impressar #verwalter #krappel,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+81,81,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Juhe!",0,22,character_speech,1,3,,"
+       Alle.
+      ",#impressar #verwalter #krappel,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+82,82,Kasperl/Hensler_Marionettenbude_korr.csv,"viel Dank für die Permission,
+       
+       
+        Vivat des Dorfs Patron!",23,100,character_speech,1,3,,"
+       Alle.
+      ",#impressar #verwalter #krappel,33.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+83,83,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Impressar.",0,17,stage_direction,1,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+84,84,Kasperl/Hensler_Marionettenbude_korr.csv,Arie.,18,23,stage_direction,1,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+85,85,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        An mir stirbt einst, glaubt mir!",0,49,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+86,86,Kasperl/Hensler_Marionettenbude_korr.csv,"fürwahr
+       
+       
+        Der größte Impressar.",50,103,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+87,87,Kasperl/Hensler_Marionettenbude_korr.csv,"Ich spiele Helden in Tragödien,
+       
+       
+        Verliebte Rollen in Komödien –
+       
+       
+        Da hau’ ich um, auf jeden Schritt
+       
+       
+        Nimm ich gleich die Koulisse mit!",128,330,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+88,88,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Kriegerische Musik.)",0,29,stage_direction,1,4,speech_part,,#impressar,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+89,89,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich spiel den Prinzen Misibom,
+       
+       
+        Und nehme Länder ein;
+       
+       
+        Da heißt’s: Tereng teng ten!",0,146,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+90,90,Kasperl/Hensler_Marionettenbude_korr.csv,bom bom!,147,155,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+91,91,Kasperl/Hensler_Marionettenbude_korr.csv,"Der Sieg, der Sieg ist mein!",180,208,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+92,92,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Sanfte Harmonie.)",0,26,stage_direction,1,4,speech_part,,#impressar,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+93,93,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Bald wähl ich auch zu meinem Ruhm
+       
+       
+        Die sanften Väterrollen,
+       
+       
+        Da muß das liebe Publikum,
+       
+       
+        Mir manche Thräne zollen.",0,200,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+94,94,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Er trocknet sich die Augen.)",0,37,stage_direction,1,4,speech_part,,#impressar,34.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+95,95,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Bald spiel’ ich auch den König Kristel
+       
+       
+        Bald den Hanswurst im hölzernen Gat,
+       
+       
+        Bald sing’ ich Baß, bald in der Fistel
+       
+       
+        Und kräh’, als wär ich ein Kastrat.",0,239,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+96,96,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Tanzmusik.)",0,20,stage_direction,1,4,speech_part,,#impressar,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+97,97,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Bald tanz’ ich kosakisch, nimm s’ Geigel in d’Hand,
+       
+       
+        Und gehts nicht, so werf ich das Geigel an d’Wand –
+       
+       
+        Und tanz tutto solo im Wirbel trapp!",0,205,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+98,98,Kasperl/Hensler_Marionettenbude_korr.csv,trapp!,206,212,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+99,99,Kasperl/Hensler_Marionettenbude_korr.csv,Und streich mir n’ steyrischen wacker herab,237,280,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+100,100,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Er tanzt.)",0,19,stage_direction,1,4,speech_part,,#impressar,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+101,101,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Die Musik ist mein Element!",0,44,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+102,102,Kasperl/Hensler_Marionettenbude_korr.csv,"Ich spiele jedes Instrument –
+       
+       
+        Violinisten, Flautenisten,
+       
+       
+        Bassetlisten, Oboisten –
+       
+       
+        Posaunisten, Waldhornisten,
+       
+       
+        Klarnetisten, Fagotisten,
+       
+       
+        Tenoristen und Bassisten.",69,350,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+103,103,Kasperl/Hensler_Marionettenbude_korr.csv,Fistulisten und – und – und Altisten,375,411,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+104,104,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (außer Athem.)",0,22,stage_direction,1,4,speech_part,,#impressar,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+105,105,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        An mir stirbt einst, glaubt mir!",0,49,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+106,106,Kasperl/Hensler_Marionettenbude_korr.csv,"fürwahr
+       
+       
+        Der gröste Impressar!",50,103,character_speech,1,4,,"
+       Impressar.
+      ",#impressar,34.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+107,107,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        An ihm stirbt einst, glaubt ihm, fürwahr
+       
+       
+        Der gröste Impressar.",0,103,character_speech,1,4,,"
+       Chor.
+      ",#chor,35.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+108,108,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Alle ab.)",0,17,stage_direction,1,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+109,109,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Blumer.",0,14,stage_direction,1,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+110,110,Kasperl/Hensler_Marionettenbude_korr.csv,Arie.,15,20,stage_direction,1,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+111,111,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Das Mädchen schwebt vor meinen Sinnen,
+       
+       
+        Was soll’ ich, Ärmster!",0,103,character_speech,1,5,,"
+       Blumer.
+      ",#blumer,36.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+112,112,Kasperl/Hensler_Marionettenbude_korr.csv,doch beginnen?,104,118,character_speech,1,5,,"
+       Blumer.
+      ",#blumer,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+113,113,Kasperl/Hensler_Marionettenbude_korr.csv,Ha!,143,146,character_speech,1,5,,"
+       Blumer.
+      ",#blumer,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+114,114,Kasperl/Hensler_Marionettenbude_korr.csv,"schöner blüht die Rose nicht,
+       
+       
+        Und reizender als ihr Gesicht.",147,231,character_speech,1,5,,"
+       Blumer.
+      ",#blumer,36.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+115,115,Kasperl/Hensler_Marionettenbude_korr.csv,"Ihr Auge lacht so rein und milde,
+       
+       
+        Wie über blühende Gefilde
+       
+       
+        Glänzt Gottes schöner Perlenthau,
+       
+       
+        In stiller, grüner Frühlings-Au –
+       
+       
+        Ha!",256,483,character_speech,1,5,,"
+       Blumer.
+      ",#blumer,36.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+116,116,Kasperl/Hensler_Marionettenbude_korr.csv,"welch’ Entzücken,
+       
+       
+        In ihren Blicken!",484,543,character_speech,1,5,,"
+       Blumer.
+      ",#blumer,36.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+117,117,Kasperl/Hensler_Marionettenbude_korr.csv,"Ein Kuß von ihr muß süß und rein
+       
+       
+        Im Augenblick der Liebe seyn!",568,654,character_speech,1,5,,"
+       Blumer.
+      ",#blumer,36.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+118,118,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Duett.",0,13,stage_direction,1,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+119,119,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Susanna, Finchel, in französischer Hamlets Karikatur gekleidet.",0,70,stage_direction,1,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+120,120,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Menuet.",0,14,stage_direction,1,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+121,121,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Schönste!",0,26,character_speech,1,6,,"
+       Finchel.
+      ",#finchel,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+122,122,Kasperl/Hensler_Marionettenbude_korr.csv,"ich schwöre zu deinen Füssen,
+       
+       
+        Reich mir die weiße Lilienhand;",27,112,character_speech,1,6,,"
+       Finchel.
+      ",#finchel,37.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+123,123,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Gerne möcht ich dich, Schönster!",0,49,character_speech,1,6,,"
+       Susanna.
+      ",#susanna,38.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+124,124,Kasperl/Hensler_Marionettenbude_korr.csv,"umschliessen,
+       
+       
+        Aber versagt ist schon diese Hand.",50,122,character_speech,1,6,,"
+       Susanna.
+      ",#susanna,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+125,125,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        An dieser Seite, an diesem Arm,
+       
+       
+        Wird mir so wunderlich, wird mir so warm.",0,114,character_speech,1,6,,"
+       Beyde.
+      ",#susanna #finchel,39.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+126,126,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ja!",0,20,character_speech,1,6,,"
+       Finchel.
+      ",#finchel,40.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+127,127,Kasperl/Hensler_Marionettenbude_korr.csv,ja!,21,24,character_speech,1,6,,"
+       Finchel.
+      ",#finchel,40.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+128,128,Kasperl/Hensler_Marionettenbude_korr.csv,"für fünzig baare Gulden,
+       
+       
+        Geb’ ich mich deinem Wunsche Preiß;",25,109,character_speech,1,6,,"
+       Finchel.
+      ",#finchel,40.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+129,129,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wenn nur mein Mann nicht kömmt, der Arme!",0,58,character_speech,1,6,,"
+       Susanna.
+      ",#susanna,41.0,UNKNOWN,compassion,negative,emotions of suffering and empathy,comedy,KK
+130,130,Kasperl/Hensler_Marionettenbude_korr.csv,(beis.),83,90,character_speech,1,6,,"
+       Susanna.
+      ",#susanna,41.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+131,131,Kasperl/Hensler_Marionettenbude_korr.csv,Er liebt mich zärtlich treu und heiß!,115,152,character_speech,1,6,,"
+       Susanna.
+      ",#susanna,41.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+132,132,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich schwörs bey meinem Flügelmantel,
+       
+       
+        Bey meinem Schwerd, bey meinem Bart –",0,115,character_speech,1,6,,"
+       Finchel.
+      ",#finchel,42.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+133,133,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        An dieser Seite, an diesem Arm,
+       
+       
+        Wird mir so wunderlich, wird mir so warm!",0,114,character_speech,1,6,,"
+       Beyde.
+      ",#susanna #finchel,43.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+134,134,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Schönste!",0,26,character_speech,1,6,,"
+       Trio. Finchel.
+      ",#trio_finchel,44.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+135,135,Kasperl/Hensler_Marionettenbude_korr.csv,"ach – aus deinen Blicken
+       
+       
+        Strahlt mir seeliges Entzücken –",27,108,character_speech,1,6,,"
+       Trio. Finchel.
+      ",#trio_finchel,44.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+136,136,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ach!",0,21,character_speech,1,6,,"
+       Susanna.
+      ",#susanna #finchel,45.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+137,137,Kasperl/Hensler_Marionettenbude_korr.csv,mein Herz schlägt tipiti!,22,47,character_speech,1,6,,"
+       Susanna.
+      ",#susanna #finchel,45.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+138,138,Kasperl/Hensler_Marionettenbude_korr.csv,tipiti!,48,55,character_speech,1,6,,"
+       Susanna.
+      ",#susanna #finchel,45.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+139,139,Kasperl/Hensler_Marionettenbude_korr.csv,Tapati – tapati –,80,97,character_speech,1,6,,"
+       Susanna.
+      ",#susanna #finchel,45.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+140,140,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Bey Gesang und frohem Scherz
+       
+       
+        Wollen wir jezt lustig seyn;
+       
+       
+        Wein und Liebe frischt das Herz,
+       
+       
+        Ladet uns zur Freude ein –
+       
+       
+        Fünfzig Gulden sind schon dein,
+       
+       
+        [Fünfzig Gulden sind schon] mein,
+       
+       
+        Komm mit mir ins Haus hinein.",0,374,character_speech,1,6,,"
+       Poh. Beyde.
+      ",#pho_beyde,46.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+141,141,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie tanzen ab.)",0,23,stage_direction,1,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+142,142,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Röschen.",0,15,stage_direction,1,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+143,143,Kasperl/Hensler_Marionettenbude_korr.csv,Arie.,16,21,stage_direction,1,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+144,144,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Kupido, du loser Geselle – der spielt
+       
+       
+        Mit Mädchen den bittersten Scherz;
+       
+       
+        Kaum wollen wir schäkern und tändeln, so zielt
+       
+       
+        Der Schelm uns gerade aufs Herz –
+       
+       
+        Da klopfet der Busen, da fliehet die Ruh,
+       
+       
+        Wir lachen, und denken: schieß, Junge!",0,371,character_speech,1,7,,"
+       Röschen.
+      ",#röschen,47.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+145,145,Kasperl/Hensler_Marionettenbude_korr.csv,"nur zu
+       
+       
+        Du tödtest uns nicht!",372,424,character_speech,1,7,,"
+       Röschen.
+      ",#röschen,47.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+146,146,Kasperl/Hensler_Marionettenbude_korr.csv,du tödtest uns nicht!,425,446,character_speech,1,7,,"
+       Röschen.
+      ",#röschen,47.0,UNKNOWN,despair,negative,emotions of anxiety,comedy,KK
+147,147,Kasperl/Hensler_Marionettenbude_korr.csv,"Wir sehen den schönsten und lieblichsten Mann
+       
+       
+        Zur Liebe und Freude gemacht;
+       
+       
+        So fängt auch die Brust uns zu wallen schon an,
+       
+       
+        Da wird eins gescherzt und gelacht.",471,702,character_speech,1,7,,"
+       Röschen.
+      ",#röschen,47.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+148,148,Kasperl/Hensler_Marionettenbude_korr.csv,Da denken wir immer: Kupido!,727,755,character_speech,1,7,,"
+       Röschen.
+      ",#röschen,47.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+149,149,Kasperl/Hensler_Marionettenbude_korr.csv,schieß zu!,756,766,character_speech,1,7,,"
+       Röschen.
+      ",#röschen,47.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+150,150,Kasperl/Hensler_Marionettenbude_korr.csv,"Und spanne den Bogen: Wir lachen dazu –
+       
+       
+        Du tödest uns nicht – Mehr sage ich nicht!",791,897,character_speech,1,7,,"
+       Röschen.
+      ",#röschen,47.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+151,151,Kasperl/Hensler_Marionettenbude_korr.csv,(ab.),898,903,character_speech,1,7,,"
+       Röschen.
+      ",#röschen,47.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+152,152,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Verwalter.",0,17,stage_direction,1,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+153,153,Kasperl/Hensler_Marionettenbude_korr.csv,Arie.,18,23,stage_direction,1,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+154,154,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ein alter Mann, es ist jezt schon der Welt ihr Lauf,
+       
+       
+        Nimmts oft mit einem Jungen auf!",0,126,character_speech,1,8,,"
+       Verwalter.
+      ",#verwalter,48.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+155,155,Kasperl/Hensler_Marionettenbude_korr.csv,"–
+       
+       
+        Er gehet zwar bedächtlich her,
+       
+       
+        In manchem schon erfahren;
+       
+       
+        Und hüpft nicht, wie ein junger Herr,
+       
+       
+        Von etwa siebzehn Jahren,
+       
+       
+        Doch langsam bedacht, und langsam gethan,
+       
+       
+        Führt uns zum Ziele auf ebener Bahn!",127,473,character_speech,1,8,,"
+       Verwalter.
+      ",#verwalter,48.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+156,156,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       Parl.",0,13,stage_direction,1,8,speech_part,,#verwalter,48.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+157,157,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Da sieht mans spazieren,
+       
+       
+        Die Gasse einher,
+       
+       
+        Und hörts schwadroniren,
+       
+       
+        Die Kreuz und die Queer –
+       
+       
+        Und sehn sie ein Mädchen,
+       
+       
+        Da heißt es: mein Kind!",0,280,character_speech,1,8,,"
+       Verwalter.
+      ",#verwalter,48.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+158,158,Kasperl/Hensler_Marionettenbude_korr.csv,"Darf ich mit nach Hause,
+       
+       
+        Ich eile geschwind;
+       
+       
+        Da gehens am Steken
+       
+       
+        Mit ihr fort am Arm,
+       
+       
+        Und küssen und leken,
+       
+       
+        Daß Gott sich erbarm!",305,554,character_speech,1,8,,"
+       Verwalter.
+      ",#verwalter,48.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+159,159,Kasperl/Hensler_Marionettenbude_korr.csv,"Und kommts ans Examen, ist Niemand zu Haus,
+       
+       
+        Da lacht oft der Alte den Jungen brav aus –
+       
+       
+        Ein alter Mann, es ist jezt schon der Welt ihr Lauf,
+       
+       
+        Nimmts oft mit einem Jungen auf!",579,824,character_speech,1,8,,"
+       Verwalter.
+      ",#verwalter,48.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+160,160,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (ab.)",0,13,stage_direction,1,8,speech_part,,#verwalter,48.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+161,161,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Zimmer im Wirthshaus zum goldenen Lamm.)",0,48,stage_direction,1,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+162,162,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Duett.",0,13,stage_direction,1,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+163,163,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Impressar.",0,17,stage_direction,1,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+164,164,Kasperl/Hensler_Marionettenbude_korr.csv,"Mamsell Immerschön, unter dem Nahmen Signora Bandoletti.",18,74,stage_direction,1,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+165,165,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Si, son tua, non dubitar,
+       
+       
+        Che fedel sempre saro.",0,89,character_speech,1,9,,"
+       Bandoletti.
+      ",#bandoletti,49.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+166,166,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Guarda ben non mi burlar,
+       
+       
+        Perche poi mi crucciero!",0,91,character_speech,1,9,,"
+       Impressar.
+      ",#impressar,50.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+167,167,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Caro Sposo!",0,28,character_speech,1,9,,"
+       Bandoletti.
+      ",#bandoletti,51.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+168,168,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Cara – Cara Sposa!",0,35,character_speech,1,9,,"
+       Impressar.
+      ",#impressar,52.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+169,169,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ben ti puoi di me sidar.",0,41,character_speech,1,9,,"
+       Beyde.
+      ",#bandoletti #impressar,53.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+170,170,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Tu sei –",0,25,character_speech,1,9,,"
+       Impressar.
+      ",#impressar,54.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+171,171,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        – – Quel, che mi diletti –",0,43,character_speech,1,9,,"
+       Bandoletti.
+      ",#bandoletti,55.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+172,172,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Tu sei –",0,25,character_speech,1,9,,"
+       Impressar.
+      ",#impressar,56.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+173,173,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        – – Quella – che m’alletti –",0,45,character_speech,1,9,,"
+       Bandoletti.
+      ",#bandoletti,57.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+174,174,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Fammi un vezzo – e non tardar –",0,48,character_speech,1,9,,"
+       Impressar.
+      ",#impressar,58.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+175,175,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Vuoi un vezzo?",0,31,character_speech,1,9,,"
+       Bandoletti.
+      ",#bandoletti,59.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+176,176,Kasperl/Hensler_Marionettenbude_korr.csv,"Io non so, s’ il sapro far.",56,83,character_speech,1,9,,"
+       Bandoletti.
+      ",#bandoletti,59.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+177,177,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Cosi?",0,22,character_speech,1,9,,"
+       Impressar.
+      ",#impressar,60.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+178,178,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Cosi?",0,22,character_speech,1,9,,"
+       Bandoletti.
+      ",#bandoletti,61.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+179,179,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ah ben mio non piu
+       
+       
+        Che mi fai indebolir –",0,82,character_speech,1,9,,"
+       Impressar.
+      ",#impressar,62.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+180,180,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Oh che caldo!",0,30,character_speech,1,9,,"
+       Bandoletti.
+      ",#bandoletti,63.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+181,181,Kasperl/Hensler_Marionettenbude_korr.csv,che mi vien!,31,43,character_speech,1,9,,"
+       Bandoletti.
+      ",#bandoletti,63.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+182,182,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Par che giusto una caldara
+       
+       
+        Mi sia posta dentro al petto
+       
+       
+        Che comminci a ribollir.",0,145,character_speech,1,9,,"
+       Beyde.
+      ",#bandoletti #impressar,64.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+183,183,Kasperl/Hensler_Marionettenbude_korr.csv,"Sara effetto del tuo amore
+       
+       
+        Ed io perdo dal’ ardore
+       
+       
+        Gia mi sento rifinir.",170,290,character_speech,1,9,,"
+       Beyde.
+      ",#bandoletti #impressar,64.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+184,184,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Kasper.",0,14,stage_direction,1,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+185,185,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Arie Landlerisch.",0,24,stage_direction,1,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+186,186,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich liebe nur mein’ Rösel, und d’ Rösel ist mein,
+       
+       
+        Der Rösel, der werd’ ich treu immerdar seyn –
+       
+       
+        Und foppt mich das Madl, so druck’ ichs, daß’s kracht,
+       
+       
+        Und gib ihr ein Bußl, daß s’ Herzl ihr lacht –
+       
+       
+        Da soll mir eins kommen, und spienzeln mit ihr,
+       
+       
+        Poz Wetter dem zeig’ ich das Loch in der Thür.",0,429,character_speech,1,10,,"
+       Kasper.
+      ",#kasper,65.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+187,187,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich bin ja dem Madl von Herzen recht gut,
+       
+       
+        Kaum sieh’ ichs, so wackelt der Kopf und der Hut –
+       
+       
+        Da schau’ ich – da guck’ ich – und mach Gloren weit auf,
+       
+       
+        Und tanz mit der Rösel brav landlerisch drauf –
+       
+       
+        Da sag ich halt immer: wär d’ Rösel schon mein,
+       
+       
+        Ich wollt meiner Kinder ihr Vater gern seyn.",0,427,character_speech,1,10,,"
+       Kasper.
+      ",#kasper,65.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+188,188,Kasperl/Hensler_Marionettenbude_korr.csv,(ab.),428,433,character_speech,1,10,,"
+       Kasper.
+      ",#kasper,65.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+189,189,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Quartett.",0,16,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+190,190,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Verwalter.",0,17,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+191,191,Kasperl/Hensler_Marionettenbude_korr.csv,Röschen.,18,26,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+192,192,Kasperl/Hensler_Marionettenbude_korr.csv,Blumer.,27,34,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+193,193,Kasperl/Hensler_Marionettenbude_korr.csv,Corporal.,35,44,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+194,194,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wenn mich die Lieb’ im Herzen sticht,
+       
+       
+        Mein Mund mit dir von Liebe spricht,
+       
+       
+        So drehest du das Rädchen;",0,166,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,66.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+195,195,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wennmich das Liebesfieber plagt,
+       
+       
+        Husch!",0,80,character_speech,1,11,,"
+       Röschen.
+      ",#röschen,67.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+196,196,Kasperl/Hensler_Marionettenbude_korr.csv,Husch!,81,87,character_speech,1,11,,"
+       Röschen.
+      ",#röschen,67.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+197,197,Kasperl/Hensler_Marionettenbude_korr.csv,wird s’ Fieber fortgejagt.,88,114,character_speech,1,11,,"
+       Röschen.
+      ",#röschen,67.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+198,198,Kasperl/Hensler_Marionettenbude_korr.csv,So machen es die Mädchen.,139,164,character_speech,1,11,,"
+       Röschen.
+      ",#röschen,67.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+199,199,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Sie spinnt, und trillert.)",0,35,stage_direction,1,11,speech_part,,#röschen,67.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+200,200,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        tralla lala!",0,29,character_speech,1,11,,"
+       Röschen.
+      ",#röschen,67.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+201,201,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Blumer.",0,14,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+202,202,Kasperl/Hensler_Marionettenbude_korr.csv,Corporal öfnen die Fenster über der Kamerthüre.,15,62,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+203,203,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wird der Kerl noch lange stehen,
+       
+       
+        Wird er bald von dannen gehen?",0,104,character_speech,1,11,,"
+       Blumer.
+      ",#blumer,68.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+204,204,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (für sich)",0,18,stage_direction,1,11,speech_part,,#röschen,69.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+205,205,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Bleiben sie nur stille stehen,
+       
+       
+        Bald muß er von dannen gehen!",0,101,character_speech,1,11,,"
+       Röschen.
+      ",#röschen,69.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+206,206,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (kniet vor Röschen hin.)",0,32,stage_direction,1,11,speech_part,,#verwalter,70.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+207,207,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Seh man nur das Füßchen an!",0,44,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,70.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+208,208,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ey mein Fuß geht ihn nichts an;",0,48,character_speech,1,11,,"
+       Röschen.
+      ",#röschen,71.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+209,209,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Hübsch vom Füßchen bis zum Kopf,",0,49,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,72.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+210,210,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Und er ist ein armer Tropf!",0,44,character_speech,1,11,,"
+       Corporal.
+      ",#corporal,73.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+211,211,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie verbergen sich alle.)",0,33,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+212,212,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich kann es nicht begreifen,",0,45,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,74.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+213,213,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Woher die Stimme schallt;
+       
+       
+        Vielleicht, daß von der Strasse
+       
+       
+        Der Lärmen widerhallt.",0,145,character_speech,1,11,,"
+       Röschen.
+      ",#röschen,75.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+214,214,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (ihr die Hand küßend.)",0,30,stage_direction,1,11,speech_part,,#verwalter,76.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+215,215,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Schönstes Röschen!",0,35,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,76.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+216,216,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (dräht das Rädchen.)",0,28,stage_direction,1,11,speech_part,,#röschen,77.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+217,217,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        tralla – la la!",0,32,character_speech,1,11,,"
+       Röschen.
+      ",#röschen,77.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+218,218,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Diese Finger winzig klein!",0,43,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,78.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+219,219,Kasperl/Hensler_Marionettenbude_korr.csv,Könnt’ ich nur die Spule seyn!,68,98,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,78.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+220,220,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Er will ihr die Hand küssen, die Perücke bleibt an der Spule hängen, Blumer mit dem Corporal, der sich berauscht stellt, und hin und her wankt.)",0,152,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+221,221,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Poz Bomben, Kreuz Bataillon!",0,45,character_speech,1,11,,"
+       Corporal.
+      ",#corporal,79.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+222,222,Kasperl/Hensler_Marionettenbude_korr.csv,"Marsch fort, sonst ist der Stock sein Lohn.",70,113,character_speech,1,11,,"
+       Corporal.
+      ",#corporal,79.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+223,223,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was hat denn dieser Lärm zu sagen?",0,51,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,80.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+224,224,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (indem er seine Perücke sucht.)",0,38,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+225,225,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nicht raisonirt!",0,33,character_speech,1,11,,"
+       Corporal.
+      ",#corporal,81.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+226,226,Kasperl/Hensler_Marionettenbude_korr.csv,Wer will es wagen?,34,52,character_speech,1,11,,"
+       Corporal.
+      ",#corporal,81.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+227,227,Kasperl/Hensler_Marionettenbude_korr.csv,Hier ist mein Stock!,77,97,character_speech,1,11,,"
+       Corporal.
+      ",#corporal,81.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+228,228,Kasperl/Hensler_Marionettenbude_korr.csv,marsch!,98,105,character_speech,1,11,,"
+       Corporal.
+      ",#corporal,81.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+229,229,Kasperl/Hensler_Marionettenbude_korr.csv,"fort, mein Herr!",106,122,character_speech,1,11,,"
+       Corporal.
+      ",#corporal,81.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+230,230,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        So gebt nur die Perücke her –",0,46,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,82.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+231,231,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der alte Narr!",0,31,character_speech,1,11,,"
+       Alle.
+      ",#corporal #röschen #blumer,83.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+232,232,Kasperl/Hensler_Marionettenbude_korr.csv,"der alte Wicht,
+       
+       
+        Er findet die Perücke nicht.",32,100,character_speech,1,11,,"
+       Alle.
+      ",#corporal #röschen #blumer,83.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+233,233,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (wirft die Perücke zum Fenster hinaus.)",0,47,stage_direction,1,11,speech_part,,#corporal,84.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+234,234,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Vor dem Fenster, auf der Gasse,
+       
+       
+        Wird wohl die Perücke seyn!",0,100,character_speech,1,11,,"
+       Corporal.
+      ",#corporal,84.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+235,235,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Die Perücke auf der Strasse?",0,45,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,85.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+236,236,Kasperl/Hensler_Marionettenbude_korr.csv,Schrecklich wird die Rache seyn!,70,102,character_speech,1,11,,"
+       Verwalter.
+      ",#verwalter,85.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+237,237,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Sie jagen ihn fort.",0,26,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+238,238,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Bänckelsinger Lied.",0,26,stage_direction,1,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+239,239,Kasperl/Hensler_Marionettenbude_korr.csv,"Finchel trägt ein kleines Kästchen, worauf zerschiedene Figuren tanzen.",27,98,stage_direction,1,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+240,240,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wenn junge Mädchen freyen gehn,
+       
+       
+        Da gehts bald her, bald hin:
+       
+       
+        Da ist gar oft um sie geschehn,
+       
+       
+        Verwirrt ist Herz und Sinn – 
+        
+         (tanzt.)",0,238,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+241,241,Kasperl/Hensler_Marionettenbude_korr.csv,Dudeldum!,272,281,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+242,242,Kasperl/Hensler_Marionettenbude_korr.csv,dudeldey!,282,291,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+243,243,Kasperl/Hensler_Marionettenbude_korr.csv,"Guck sie mein Hansel und Gretl nur an
+       
+       
+        Wie der Hansel schön tanzen kann.",316,411,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+244,244,Kasperl/Hensler_Marionettenbude_korr.csv,"Ey, ey, ey!",436,447,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+245,245,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Oft ist der Mann zu groß, zu klein,
+       
+       
+        Und oft zu jung, zu alt;
+       
+       
+        Bald soll er grob, bald höflich seyn,
+       
+       
+        Bald feurig und bald kalt;
+        
+         (tanzt.)",0,241,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+246,246,Kasperl/Hensler_Marionettenbude_korr.csv,Dudeldum!,275,284,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+247,247,Kasperl/Hensler_Marionettenbude_korr.csv,Dudeldey!,285,294,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+248,248,Kasperl/Hensler_Marionettenbude_korr.csv,"Guk sie mein’ Gretl und Hansel nur an,
+       
+       
+        Wie die Gretl schön tanzen kann;
+       
+       
+        Ey, ey, ey!",319,450,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+249,249,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Geh d’Jungfer nicht auf d’Männer Bschau,
+       
+       
+        Der Rechte ist schon z’Haus;
+       
+       
+        Denn wird sie heut des Jägers Frau,
+       
+       
+        Bleibt s’ Ey Pubey nicht aus;
+        
+         (tanzt.)",0,251,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+250,250,Kasperl/Hensler_Marionettenbude_korr.csv,"Dudeldum, dudeldey!",285,304,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+251,251,Kasperl/Hensler_Marionettenbude_korr.csv,"Guck sie mein Hansel und Gretl nur an,
+       
+       
+        Wie der Hansel schön tanzen kann;
+       
+       
+        Ey, ey, ey!",329,461,character_speech,1,12,,"
+       Finchel.
+      ",#finchel,86.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+252,252,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Kasper allein.",0,21,stage_direction,1,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+253,253,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        He!",0,20,character_speech,1,14,,"
+       Kasper.
+      ",#kasper,87.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+254,254,Kasperl/Hensler_Marionettenbude_korr.csv,zu Hülfe!,21,30,character_speech,1,14,,"
+       Kasper.
+      ",#kasper,87.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+255,255,Kasperl/Hensler_Marionettenbude_korr.csv,alle Wetter!,31,43,character_speech,1,14,,"
+       Kasper.
+      ",#kasper,87.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+256,256,Kasperl/Hensler_Marionettenbude_korr.csv,So macht ihrs mit dem Herrn Vetter?,68,103,character_speech,1,14,,"
+       Kasper.
+      ",#kasper,87.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+257,257,Kasperl/Hensler_Marionettenbude_korr.csv,(parl.),122,129,character_speech,1,14,,"
+       Kasper.
+      ",#kasper,87.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+258,258,Kasperl/Hensler_Marionettenbude_korr.csv,"Zuerst gespienzelt, dann karessirt;
+       
+       
+        Dann wider gepußelt, dann wider scharmirt!",163,265,character_speech,1,14,,"
+       Kasper.
+      ",#kasper,87.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+259,259,Kasperl/Hensler_Marionettenbude_korr.csv,"Heißt das nicht prostituiren,
+       
+       
+        Und den Bräutigam schimfiren?",290,373,character_speech,1,14,,"
+       Kasper.
+      ",#kasper,87.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+260,260,Kasperl/Hensler_Marionettenbude_korr.csv,"Das ley’d’ ich nicht, potz alle Wetter!",398,437,character_speech,1,14,,"
+       Kasper.
+      ",#kasper,87.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+261,261,Kasperl/Hensler_Marionettenbude_korr.csv,So macht mans nicht mit dem Herrn Vetter.,462,503,character_speech,1,14,,"
+       Kasper.
+      ",#kasper,87.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+262,262,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Impressar aus dem Seitenzimmer, schon zur Hälfte als römischer Held gekleidet.",0,86,stage_direction,1,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+263,263,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was hat der Narr den für ein Lärmen,
+       
+       
+        Was will er denn mit seinem Schreyn?",0,114,character_speech,1,15,,"
+       Impressar.
+      ",#impressar,88.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+264,264,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (ohne zu hören.)",0,24,stage_direction,1,15,speech_part,,#kasper,89.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+265,265,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Zuerst gespienzelt, dann karressirt,
+       
+       
+        Dann wider gepußelt, dann wider scharmirt!",0,120,character_speech,1,15,,"
+       Kasper
+      ",#kasper,89.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+266,266,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        So wahr ich bin ein Impressar,
+       
+       
+        Der Kerl ist ein gemachter Narr!",0,104,character_speech,1,15,,"
+       Impressar.
+      ",#impressar,90.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+267,267,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (eben so.)",0,18,stage_direction,1,15,speech_part,,#kasper,91.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+268,268,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Heißt das nicht prostituiren?",0,46,character_speech,1,15,,"
+       Kasper
+      ",#kasper,91.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+269,269,Kasperl/Hensler_Marionettenbude_korr.csv,Und den Bräutigam schimfiren?,71,100,character_speech,1,15,,"
+       Kasper
+      ",#kasper,91.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+270,270,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (faßt ihn an.)",0,22,stage_direction,1,15,speech_part,,#impressar,92.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+271,271,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        So red’ er doch, potz alle Wetter!",0,51,character_speech,1,15,,"
+       Impressar.
+      ",#impressar,92.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+272,272,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        So macht mans nicht mit dem Herrn Vetter!",0,58,character_speech,1,15,,"
+       Kasper.
+      ",#kasper,93.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+273,273,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige, Hellwig.",0,23,stage_direction,1,16,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+274,274,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der Teufel hol das Lärmen,
+       
+       
+        Was ist denn hier geschehn?",0,95,character_speech,1,16,,"
+       Hellwig.
+      ",#hellwig,94.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+275,275,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Sie sehn, ich wollte eben
+       
+       
+        In die Komedie gehn.",0,87,character_speech,1,16,,"
+       Impressar.
+      ",#impressar,95.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+276,276,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was macht er da, Herr Vetter!",0,46,character_speech,1,16,,"
+       Hellwig.
+      ",#hellwig,96.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+277,277,Kasperl/Hensler_Marionettenbude_korr.csv,Im Zimmer ganz allein?,71,93,character_speech,1,16,,"
+       Hellwig.
+      ",#hellwig,96.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+278,278,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Und schreyt, als wenn er eben
+       
+       
+        Gespiesset müßte seyn?",0,93,character_speech,1,16,,"
+       Impressar.
+      ",#impressar,97.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+279,279,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (laut weinend.)",0,23,stage_direction,1,16,speech_part,,#kasper,98.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+280,280,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Herr Vetter!",0,29,character_speech,1,16,,"
+       Kasper.
+      ",#kasper,98.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+281,281,Kasperl/Hensler_Marionettenbude_korr.csv,"der Komödiant
+       
+       
+        Hat d’Rösel gnommen an der Hand –
+       
+       
+        Hats pusselt aufs Maul, das sah’ ich gleich,
+       
+       
+        Das ist ja ein verdammter Streich!",30,229,character_speech,1,16,,"
+       Kasper.
+      ",#kasper,98.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+282,282,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Das ist ja nur zum lachen,",0,43,character_speech,1,16,,"
+       Impressar.
+      ",#impressar,99.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+283,283,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wer wird da Lärmen machen,
+       
+       
+        Herr Vetter sey er nur kein Narr,",0,101,character_speech,1,16,,"
+       Hellwig.
+      ",#hellwig,100.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+284,284,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Pack’ er sich fort, Herr Impressar!",0,52,character_speech,1,16,,"
+       Kasper.
+      ",#kasper,101.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+285,285,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige.",0,14,stage_direction,1,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+286,286,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Finchel öffnet das Fenster über der Thür.)",0,50,stage_direction,1,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+287,287,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Kanon.",0,13,stage_direction,1,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+288,288,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Alle 4.",0,15,stage_direction,1,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+289,289,Kasperl/Hensler_Marionettenbude_korr.csv,Jedes für sich.),16,32,stage_direction,1,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+290,290,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Das Ding scheint mit suspekt,
+       
+       
+        Vielleicht wird was entdeckt –
+       
+       
+        Aus Scherz wird Ernst, es könnte gar
+       
+       
+        Das Mädchen kommen in Gefahr.",0,216,character_speech,1,17,,"
+       Hellwig.
+      ",#hellwig,102.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+291,291,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Dem Alten scheints suspekt,",0,44,character_speech,1,17,,"
+       Impressar.
+      ",#impressar,103.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+292,292,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Vielleicht wird was entdeckt –
+       
+       
+        Der Teufel schießt oft auf ein Haar.",0,108,character_speech,1,17,,"
+       Kasper.
+      ",#kasper,104.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+293,293,Kasperl/Hensler_Marionettenbude_korr.csv,Da kömm das Mädchen in Gefahr.,133,163,character_speech,1,17,,"
+       Kasper.
+      ",#kasper,104.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+294,294,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Hier hab’ ich was entdeckt,
+       
+       
+        Das Ding scheint mir suspekt.",0,98,character_speech,1,17,,"
+       Finchel.
+      ",#finchel,105.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+295,295,Kasperl/Hensler_Marionettenbude_korr.csv,Zu rechter Stunde wird wol gar.,123,154,character_speech,1,17,,"
+       Finchel.
+      ",#finchel,105.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+296,296,Kasperl/Hensler_Marionettenbude_korr.csv,Vorüber gehen die Gefahr.,179,204,character_speech,1,17,,"
+       Finchel.
+      ",#finchel,105.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+297,297,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wohin sind sie gegangen?",0,41,character_speech,1,17,,"
+       Hellwig.
+      ",#hellwig,106.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+298,298,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Gerad zur Thür hinaus.",0,39,character_speech,1,17,,"
+       Kasper.
+      ",#kasper,107.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+299,299,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Mich soll da wohl verlangen,
+       
+       
+        Was hiebey kömmt heraus.",0,94,character_speech,1,17,,"
+       Impressar.
+      ",#impressar,108.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+300,300,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich muß mich retiriren,
+       
+       
+        Sie hievon avertiren –
+       
+       
+        Sie könnten bey einander seyn;
+       
+       
+        Da schlüge gleich das Wetter drein!",0,202,character_speech,1,17,,"
+       Finchel.
+      ",#finchel,109.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+301,301,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Hol’ er mir die Laterne,
+       
+       
+        Und leucht er mir voraus.",0,91,character_speech,1,17,,"
+       Hellwig.
+      ",#hellwig,110.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+302,302,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (weinend.)",0,18,stage_direction,1,17,speech_part,,#kasper,111.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+303,303,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ja!",0,20,character_speech,1,17,,"
+       Kasper.
+      ",#kasper,111.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+304,304,Kasperl/Hensler_Marionettenbude_korr.csv,ja!,21,24,character_speech,1,17,,"
+       Kasper.
+      ",#kasper,111.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+305,305,Kasperl/Hensler_Marionettenbude_korr.csv,"das thu ich gerne,
+       
+       
+        Ich leucht durchs ganze Haus.",25,97,character_speech,1,17,,"
+       Kasper.
+      ",#kasper,111.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+306,306,Kasperl/Hensler_Marionettenbude_korr.csv,(ab.),116,121,character_speech,1,17,,"
+       Kasper.
+      ",#kasper,111.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+307,307,Kasperl/Hensler_Marionettenbude_korr.csv,Ha!,155,158,character_speech,1,17,,"
+       Kasper.
+      ",#kasper,111.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+308,308,Kasperl/Hensler_Marionettenbude_korr.csv,"das Ding kann ich nicht leiden,
+       
+       
+        Der Verwalter wird geprellt;",159,243,character_speech,1,17,,"
+       Kasper.
+      ",#kasper,111.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+309,309,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (für sich.)",0,19,stage_direction,1,17,speech_part,,#impressar,112.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+310,310,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Gerne möcht’ ich sie begleiten,
+       
+       
+        Um zu sehen, wo es fehlt –",0,99,character_speech,1,17,,"
+       Impressar.
+      ",#impressar,112.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+311,311,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (für sich.)",0,19,stage_direction,1,17,speech_part,,#finchel,113.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+312,312,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ja!",0,20,character_speech,1,17,,"
+       Finchel.
+      ",#finchel,113.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+313,313,Kasperl/Hensler_Marionettenbude_korr.csv,Ich fühle schon die Freuden!,21,49,character_speech,1,17,,"
+       Finchel.
+      ",#finchel,113.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+314,314,Kasperl/Hensler_Marionettenbude_korr.csv,Wenn der Alte wird geprellt!,74,102,character_speech,1,17,,"
+       Finchel.
+      ",#finchel,113.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+315,315,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nein, nein!",0,28,character_speech,1,17,,"
+       Alle.
+      ",#kasper #hellwig #impressar #finchel,114.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+316,316,Kasperl/Hensler_Marionettenbude_korr.csv,"Nein, nein!",29,40,character_speech,1,17,,"
+       Alle.
+      ",#kasper #hellwig #impressar #finchel,114.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+317,317,Kasperl/Hensler_Marionettenbude_korr.csv,Dem muß gleich abgeholfen seyn!,65,96,character_speech,1,17,,"
+       Alle.
+      ",#kasper #hellwig #impressar #finchel,114.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+318,318,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie wollen fort.)",0,25,stage_direction,1,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+319,319,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige.",0,14,stage_direction,1,18,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+320,320,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Kasper mit der Laterne, eilend – fällt über die Thürschwelle.)",0,70,stage_direction,1,18,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+321,321,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Da bin ich schon, Herr Vetter!",0,47,character_speech,1,18,,"
+       Kasper.
+      ",#kasper,115.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+322,322,Kasperl/Hensler_Marionettenbude_korr.csv,(fällt.),48,56,character_speech,1,18,,"
+       Kasper.
+      ",#kasper,115.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+323,323,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Da liegt er schon, potz Wetter!",0,48,character_speech,1,18,,"
+       Hellwig.
+      ",#hellwig,116.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+324,324,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich komme noch von Sinnen,
+       
+       
+        Da fällt der Narr herein –",0,94,character_speech,1,18,,"
+       Alle 3.
+      ",#hellwig #impressar #finchel,117.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+325,325,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Vor allzustarkem Rennen,
+       
+       
+        Muß ich gestolpert seyn.",0,90,character_speech,1,18,,"
+       Kasper.
+      ",#kasper,118.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+326,326,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Mach’ er sich jetzt auf d’Füß, und leucht’ er mir voraus,",0,74,character_speech,1,18,,"
+       Hellwig.
+      ",#hellwig,119.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+327,327,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (sich aufraffend.)",0,26,stage_direction,1,18,speech_part,,#kasper,120.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+328,328,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Herr Vetter!",0,29,character_speech,1,18,,"
+       Kasper.
+      ",#kasper,120.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+329,329,Kasperl/Hensler_Marionettenbude_korr.csv,ich bin da – ich leucht’ durchs ganze Haus.,30,73,character_speech,1,18,,"
+       Kasper.
+      ",#kasper,120.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+330,330,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nun!",0,21,character_speech,1,18,,"
+       Alle zusammen.
+      ",#hellwig #kasper #impressar #finchel,121.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+331,331,Kasperl/Hensler_Marionettenbude_korr.csv,"Lasset uns eilen,
+       
+       
+        Fort, fort ohne weilen –
+       
+       
+        Die Vögel, die sollen gefangen bald seyn,
+       
+       
+        Dann sperren wir beyde in Vogelkorb ein!",22,219,character_speech,1,18,,"
+       Alle zusammen.
+      ",#hellwig #kasper #impressar #finchel,121.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+332,332,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (alle ab.)",0,17,stage_direction,1,18,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+333,333,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Hof mit dem Wirthshaus – Garten – Der Mond scheint.",0,59,stage_direction,1,19,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+334,334,Kasperl/Hensler_Marionettenbude_korr.csv,Susanna aus dem Hause schleichend.),60,95,stage_direction,1,19,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+335,335,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Alles, alles mäuselstille,
+       
+       
+        Husch!",0,74,character_speech,1,19,,"
+       Susanna.
+      ",#susanna,122.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+336,336,Kasperl/Hensler_Marionettenbude_korr.csv,Husch!,75,81,character_speech,1,19,,"
+       Susanna.
+      ",#susanna,122.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+337,337,Kasperl/Hensler_Marionettenbude_korr.csv,"in den Garten:
+       
+       
+        Dort wird schon Herr Finchel meiner
+       
+       
+        Lange, lange warten.",82,201,character_speech,1,19,,"
+       Susanna.
+      ",#susanna,122.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+338,338,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (schleicht auf der Seite herbey.)",0,41,stage_direction,1,19,speech_part,,#verwalter,123.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+339,339,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Durch den Hof und dann im Garten,
+       
+       
+        Es rührt sich kein Läubchen;
+       
+       
+        Dort will ich auf Röschen warten,
+       
+       
+        Auf mein liebes Täubchen.",0,211,character_speech,1,19,,"
+       Verwalter
+      ",#verwalter,123.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+340,340,Kasperl/Hensler_Marionettenbude_korr.csv,"Mir wars, als hört ich etwas lispeln,
+       
+       
+        Wenns etwa schon Herr Finchel wär; bst bst!",236,341,character_speech,1,19,,"
+       Verwalter
+      ",#verwalter,123.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+341,341,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (eben so.)",0,18,stage_direction,1,19,speech_part,,#verwalter,124.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+342,342,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Mir wars, als hört’ ich etwas wispeln,
+       
+       
+        Wenns etwa schon mein Röschen wär, bst bst!",0,123,character_speech,1,19,,"
+       Verwalter
+      ",#verwalter,124.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+343,343,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie finden einander.)",0,29,stage_direction,1,19,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+344,344,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nur einen Kuß auf deinen Mund,
+       
+       
+        Zum Einstand dieser Schäferstund.",0,105,character_speech,1,19,,"
+       Beyde.
+      ",#verwalter #susanna,125.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+345,345,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie ziehen sich zurück.)",0,32,stage_direction,1,19,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+346,346,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige, Blumer, Röschen.",0,31,stage_direction,1,20,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+347,347,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Endlich, o Liebe!",0,34,character_speech,1,20,,"
+       Blumer.
+      ",#blumer,126.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+348,348,Kasperl/Hensler_Marionettenbude_korr.csv,"sind wir alleine,
+       
+       
+        Laßt uns im Garten lustwandeln gehn.",35,113,character_speech,1,20,,"
+       Blumer.
+      ",#blumer,126.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+349,349,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ach!",0,21,character_speech,1,20,,"
+       Röschen.
+      ",#röschen,127.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+350,350,Kasperl/Hensler_Marionettenbude_korr.csv,wie ich zittre!,22,37,character_speech,1,20,,"
+       Röschen.
+      ",#röschen,127.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+351,351,Kasperl/Hensler_Marionettenbude_korr.csv,"wenn Jemand käme,
+       
+       
+        Himmel!",38,87,character_speech,1,20,,"
+       Röschen.
+      ",#röschen,127.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+352,352,Kasperl/Hensler_Marionettenbude_korr.csv,wir würden Wunder da sehn.,88,114,character_speech,1,20,,"
+       Röschen.
+      ",#röschen,127.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+353,353,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nur einen Kuß auf deinen Mund,
+       
+       
+        Zum Einstand dieser Säferstund.",0,103,character_speech,1,20,,"
+       Alle 4.
+      ",#verwalter #susanna #röschen #blumer,128.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+354,354,Kasperl/Hensler_Marionettenbude_korr.csv,[!],104,107,character_speech,1,20,,"
+       Alle 4.
+      ",#verwalter #susanna #röschen #blumer,128.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+355,355,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie ziehen sich zurück.)",0,32,stage_direction,1,20,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+356,356,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige, Korporal mit Mamsel Immerschön.",0,46,stage_direction,1,21,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+357,357,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Frisch gewagt!",0,31,character_speech,1,21,,"
+       Korporal.
+      ",#korporal,129.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+358,358,Kasperl/Hensler_Marionettenbude_korr.csv,"bey Tag und Nacht
+       
+       
+        Fürchtet sich kein Held;",32,98,character_speech,1,21,,"
+       Korporal.
+      ",#korporal,129.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+359,359,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wer nichts wagt, wird ausgelacht
+       
+       
+        Hier im offnen Feld –",0,95,character_speech,1,21,,"
+       Immerschön.
+      ",#immerschön,130.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+360,360,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nur einen Kuß auf deinen Mund,
+       
+       
+        Zum Einstand dieser Schäferstund.",0,105,character_speech,1,21,,"
+       Alle 6.
+      ",#korporal #immerschön #verwalter #susanna #röschen #blumer,131.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+361,361,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie ziehen sich zurück.)",0,32,stage_direction,1,21,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+362,362,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was für Leute in der Nähe
+       
+       
+        Seh’ ich bey dem Hause stehn?",0,96,character_speech,1,21,,"
+       Verwalter.
+      ",#verwalter,132.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+363,363,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wenn es Jemand Fremdes wäre,
+       
+       
+        Soll ich bleiben oder gehen?",0,98,character_speech,1,21,,"
+       Susanna.
+      ",#susanna,133.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+364,364,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige.",0,14,stage_direction,1,22,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+365,365,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Hellwig mit Kasper, der eine Laterne trägt.)",0,52,stage_direction,1,22,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+366,366,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Sie sind nirgend anzutreffen,
+       
+       
+        Leucht nur fort, und geh voran!",0,102,character_speech,1,22,,"
+       Hellwig.
+      ",#hellwig,134.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+367,367,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (beyseite.)",0,19,stage_direction,1,22,speech_part,,#kasper,135.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+368,368,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Immer tritt er mir auf d’Haxen,
+       
+       
+        Und ich leucht dem Grobian!",0,100,character_speech,1,22,,"
+       Kasper
+      ",#kasper,135.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+369,369,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Jedes für sich.)",0,25,stage_direction,1,22,speech_part,,#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,136.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+370,370,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was soll denn hier geschehn?",0,45,character_speech,1,22,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,136.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+371,371,Kasperl/Hensler_Marionettenbude_korr.csv,Wenn man uns wird ersehn?,70,95,character_speech,1,22,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,136.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+372,372,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (in einem Ausruff.)",0,27,stage_direction,1,22,speech_part,,#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,137.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+373,373,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       Ha!",0,11,character_speech,1,22,,"
+       Alle
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,137.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+374,374,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige.",0,14,stage_direction,1,23,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+375,375,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Der Impressar kommt mit pathetischem Schritt aus dem Hause, ganz als römischer Held gekleidet, vor ihm tragen seine Buben als Pagen Fackeln; Alle übrigen erschrecken, wie sie sich bey denen Lichtern verrathen sehen.)",0,224,stage_direction,1,23,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+376,376,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich bin der Prinz Heraclius;
+       
+       
+        Betrachtet mich vom Kopf zu Fuß –
+       
+       
+        Ich suche meine Schöne,
+       
+       
+        Prinzessin Melusine.",0,196,character_speech,1,23,,"
+       Impressar.
+      ",#impressar,138.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+377,377,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Seht!",0,22,character_speech,1,23,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,139.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+378,378,Kasperl/Hensler_Marionettenbude_korr.csv,"Alles steht hier paar und paar,
+       
+       
+        Der Teufel hol den Impressar!",23,108,character_speech,1,23,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,139.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+379,379,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ha!",0,20,character_speech,1,23,,"
+       Susanna.
+      ",#susanna,140.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+380,380,Kasperl/Hensler_Marionettenbude_korr.csv,welche Irrung!,21,35,character_speech,1,23,,"
+       Susanna.
+      ",#susanna,140.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+381,381,Kasperl/Hensler_Marionettenbude_korr.csv,ey – ey – ey!,36,49,character_speech,1,23,,"
+       Susanna.
+      ",#susanna,140.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+382,382,Kasperl/Hensler_Marionettenbude_korr.csv,Herr Krappel ists bey meiner Treu!,74,108,character_speech,1,23,,"
+       Susanna.
+      ",#susanna,140.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+383,383,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Statt Röschen find’ ich – ey – ey – ey!",0,56,character_speech,1,23,,"
+       Verwalter.
+      ",#verwalter,141.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+384,384,Kasperl/Hensler_Marionettenbude_korr.csv,Die Mutter gar bey meiner Treu!,81,112,character_speech,1,23,,"
+       Verwalter.
+      ",#verwalter,141.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+385,385,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Das ist doch wunderlich, das kann ich nicht verstehen,
+       
+       
+        Was will der ganze Schwarm?",0,123,character_speech,1,23,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,142.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+386,386,Kasperl/Hensler_Marionettenbude_korr.csv,was soll denn hier geschehn?,124,152,character_speech,1,23,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,142.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+387,387,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Herr Krappel und mein Weib?",0,44,character_speech,1,23,,"
+       Hellwig.
+      ",#hellwig,143.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+388,388,Kasperl/Hensler_Marionettenbude_korr.csv,Was muß ich denn da sehen?,69,95,character_speech,1,23,,"
+       Hellwig.
+      ",#hellwig,143.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+389,389,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Herr Vetter!",0,29,character_speech,1,23,,"
+       Kasper.
+      ",#kasper,144.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+390,390,Kasperl/Hensler_Marionettenbude_korr.csv,"glaub er mir,
+       
+       
+        Sie wollten fensterln gehn.",30,95,character_speech,1,23,,"
+       Kasper.
+      ",#kasper,144.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+391,391,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (erblickt Mamsell Immerschön.)",0,38,stage_direction,1,23,speech_part,,#impressar,145.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+392,392,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Die Mamsell Immerschön,
+       
+       
+        Die seh’ ich auch hier stehen?",0,95,character_speech,1,23,,"
+       Impressar.
+      ",#impressar,145.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+393,393,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wir wollten promeniren gehn,
+       
+       
+        Da sahen wir die Leute stehn –",0,100,character_speech,1,23,,"
+       Immerschön.
+      ",#immerschön,146.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+394,394,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (nimmt den Korporal an der Hand.)",0,40,stage_direction,1,23,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+395,395,Kasperl/Hensler_Marionettenbude_korr.csv,"
+        (geräht in tragische Wuth.)",0,36,stage_direction,1,23,inner_speech,,#impressar,147.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+396,396,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ha ihr Götter!",0,31,character_speech,1,23,,"
+       Recit.
+      ",#recit,148.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+397,397,Kasperl/Hensler_Marionettenbude_korr.csv,was seh’ ich?,32,45,character_speech,1,23,,"
+       Recit.
+      ",#recit,148.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+398,398,Kasperl/Hensler_Marionettenbude_korr.csv,Die Prinzessin an der Hand eines Korporals?,70,113,character_speech,1,23,,"
+       Recit.
+      ",#recit,148.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+399,399,Kasperl/Hensler_Marionettenbude_korr.csv,Und ihr dort oben zögert noch mit eurer Rache?,138,184,character_speech,1,23,,"
+       Recit.
+      ",#recit,148.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+400,400,Kasperl/Hensler_Marionettenbude_korr.csv,"So habt ihr den keinen Platzregen, keine Blitze, keine Donner mehr,
+       
+       
+        Daß ihr tödtet die Ungetreue vor meinen Augen,
+       
+       
+        Sie schleudert in den Abgrund der Verdammten!",209,417,character_speech,1,23,,"
+       Recit.
+      ",#recit,148.0,UNKNOWN,despair,negative,emotions of anxiety,comedy,KK
+401,401,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der Mann ist ja von Sinnen,
+       
+       
+        Was wird er noch beginnen?",0,95,character_speech,1,23,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,149.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+402,402,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ungetreue Melusine!",0,36,character_speech,1,23,,"
+       Impressar.
+      ",#impressar,150.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+403,403,Kasperl/Hensler_Marionettenbude_korr.csv,"Für dich sterben, welche Lust!",61,91,character_speech,1,23,,"
+       Impressar.
+      ",#impressar,150.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+404,404,Kasperl/Hensler_Marionettenbude_korr.csv,"Aber ehe ich sterbe – komme
+       
+       
+        Dieser Dolch in deine Brust.",116,196,character_speech,1,23,,"
+       Impressar.
+      ",#impressar,150.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+405,405,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Er zieht seinen hölzernen Dolch aus dem Busen, und droht sie zu erstechen.",0,82,stage_direction,1,23,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+406,406,Kasperl/Hensler_Marionettenbude_korr.csv,Sie halten ihn Alle zurück.),83,111,stage_direction,1,23,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+407,407,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Herr Impressar!",0,32,character_speech,1,23,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,151.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+408,408,Kasperl/Hensler_Marionettenbude_korr.csv,"Halt er doch ein,
+       
+       
+        Wer wird da gleich ein Mörder seyn.",33,110,character_speech,1,23,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,151.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+409,409,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (will sich loswinden.)",0,30,stage_direction,1,23,speech_part,,#impressar,152.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+410,410,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Laßt mich – ich muß –",0,38,character_speech,1,23,,"
+       Impressar.
+      ",#impressar,152.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+411,411,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Halts ihm die Hand!",0,36,character_speech,1,23,,"
+       Kasper.
+      ",#kasper,153.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+412,412,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (sie entreissen ihm den Dolch.)",0,38,stage_direction,1,23,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+413,413,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wohlan!",0,24,character_speech,1,23,,"
+       Verwalter.
+      ",#verwalter,154.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+414,414,Kasperl/Hensler_Marionettenbude_korr.csv,er ist mein Arrestant!,25,47,character_speech,1,23,,"
+       Verwalter.
+      ",#verwalter,154.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+415,415,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Jezt wird der Scherz schon Ernst,
+       
+       
+        Still zieh’n wir uns zurück!",0,103,character_speech,1,23,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,155.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+416,416,Kasperl/Hensler_Marionettenbude_korr.csv,"Oft ändert einen Fall
+       
+       
+        Ein einz’ger Augenblick.",128,198,character_speech,1,23,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,155.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+417,417,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Zu den Bauern, die der Lärmen herbey zieht.)",0,53,stage_direction,1,24,speech_part,,#verwalter,156.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+418,418,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Marsch!",0,24,character_speech,1,24,,"
+       Verwalter.
+      ",#verwalter,156.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+419,419,Kasperl/Hensler_Marionettenbude_korr.csv,führt ihn fort!,25,40,character_speech,1,24,,"
+       Verwalter.
+      ",#verwalter,156.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+420,420,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (sich ganz in seiner Würde fixirend.)",0,45,stage_direction,1,24,speech_part,,#impressar,157.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+421,421,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wer wagt es, Hand an mich zu legen,
+       
+       
+        Wenn ihr auch mich nicht ehrt, so ehret meine Kron;",0,128,character_speech,1,24,,"
+       Impressar.
+      ",#impressar,157.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+422,422,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was braucht es da viel überlegen,
+       
+       
+        Auf!",0,79,character_speech,1,24,,"
+       Verwalter.
+      ",#verwalter,158.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+423,423,Kasperl/Hensler_Marionettenbude_korr.csv,führt den Impressar davon!,80,106,character_speech,1,24,,"
+       Verwalter.
+      ",#verwalter,158.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+424,424,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Den Prinz Heraclius?",0,37,character_speech,1,24,,"
+       Impressar.
+      ",#impressar,159.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+425,425,Kasperl/Hensler_Marionettenbude_korr.csv,Den Erbe von Athen?,62,81,character_speech,1,24,,"
+       Impressar.
+      ",#impressar,159.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+426,426,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wie?",0,21,character_speech,1,24,,"
+       Verwalter.
+      ",#verwalter,160.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+427,427,Kasperl/Hensler_Marionettenbude_korr.csv,ihr bedenckt euch noch?,22,45,character_speech,1,24,,"
+       Verwalter.
+      ",#verwalter,160.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+428,428,Kasperl/Hensler_Marionettenbude_korr.csv,Fort!,70,75,character_speech,1,24,,"
+       Verwalter.
+      ",#verwalter,160.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+429,429,Kasperl/Hensler_Marionettenbude_korr.csv,fort!,76,81,character_speech,1,24,,"
+       Verwalter.
+      ",#verwalter,160.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+430,430,Kasperl/Hensler_Marionettenbude_korr.csv,"und führet gleich
+       
+       
+        Den Impressar ins Loch!",82,147,character_speech,1,24,,"
+       Verwalter.
+      ",#verwalter,160.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+431,431,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wer würd’ für mich in Trauerspiel
+       
+       
+        Den Prinzen heute spielen?",0,101,character_speech,1,24,,"
+       Impressar.
+      ",#impressar,161.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+432,432,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wir wollen seine Mörderwuth
+       
+       
+        Schon suchen abzukühlen –",0,94,character_speech,1,24,,"
+       Verwalter. Hellwig.
+      ",#verwalter #hellwig,162.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+433,433,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Herr Krappel!",0,30,character_speech,1,24,,"
+       Röschen.
+      ",#röschen,163.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+434,434,Kasperl/Hensler_Marionettenbude_korr.csv,"Gnade für den Mann,
+       
+       
+        Er hat ihm ja nicht Leyds gethan!",31,108,character_speech,1,24,,"
+       Röschen.
+      ",#röschen,163.0,UNKNOWN,compassion,negative,emotions of suffering and empathy,comedy,KK
+435,435,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Greift an!",0,27,character_speech,1,24,,"
+       Verwalter.
+      ",#verwalter,164.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+436,436,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Zu Hülfe!",0,26,character_speech,1,24,,"
+       Impressar.
+      ",#impressar,165.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+437,437,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Die Bauern wollen ihn greifen.)",0,39,stage_direction,1,24,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+438,438,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige.",0,14,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+439,439,Kasperl/Hensler_Marionettenbude_korr.csv,(Die Komödianten eilen zur Hausthüre heraus.,15,59,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+440,440,Kasperl/Hensler_Marionettenbude_korr.csv,Alle in zerschiedenen Ritter und Heldenkleidungen.,60,110,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+441,441,Kasperl/Hensler_Marionettenbude_korr.csv,Sie ziehen ihre Schwerdter und vertheidigen den Impressar.,111,169,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+442,442,Kasperl/Hensler_Marionettenbude_korr.csv,Lärmen untereinander.),170,192,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+443,443,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Welch Lärmen!",0,30,character_speech,1,25,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,166.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+444,444,Kasperl/Hensler_Marionettenbude_korr.csv,welch Schreyen!,31,46,character_speech,1,25,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,166.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+445,445,Kasperl/Hensler_Marionettenbude_korr.csv,"poz Wetter, poz Plunder!",47,71,character_speech,1,25,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,166.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+446,446,Kasperl/Hensler_Marionettenbude_korr.csv,"Alles geht darüber, und alles geht darunter!",96,140,character_speech,1,25,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,166.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+447,447,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Die Bauern verkrichen sich hinter die Fässer, der Verwalter reterirt sich auf das Holz.",0,95,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+448,448,Kasperl/Hensler_Marionettenbude_korr.csv,Unter dem Lärmen erscheint Stöffel am Fenster und bläßt mit der gewähnlichen Theatermaschine Colofonium.,96,200,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+449,449,Kasperl/Hensler_Marionettenbude_korr.csv,Die Bauern rufen mit einem Schrey:),201,236,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+450,450,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Hellwig, Susanna ringen die Hände.",0,41,stage_direction,1,25,pre_speech,,,,,being moved,being moved,being moved,comedy,KK
+451,451,Kasperl/Hensler_Marionettenbude_korr.csv,Blumer sucht Röschen von dem Irrthum zu belehren.,42,91,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+452,452,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ach!",0,21,character_speech,1,25,,"
+       Hellwig.
+      ",#hellwig,167.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+453,453,Kasperl/Hensler_Marionettenbude_korr.csv,"ich armer geschlagener Mann;
+       
+       
+        Jezt fängt s’ Hauß zu brennen an.",22,108,character_speech,1,25,,"
+       Hellwig.
+      ",#hellwig,167.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+454,454,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Die Trommel wird im Marckflecken gerührt, die Feuerglocke tönt, Bauern mit Wassereymern und Feuerspritze – Finchel als Kaminfeger mit einer Leiter, gibt sich Blumer und Röschen zu erkennen, steigt eilend in das Hauß, Kasperl ihm nach – welche Bettzeug und die Komödianten Guarderobbe zum Fenster herauswerfen – Corporal mit Soldaten.",0,340,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+455,455,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Feuer!",0,23,character_speech,1,25,,"
+       Alle unter diesem allgemeinen Lärmen.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer #bauern,168.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+456,456,Kasperl/Hensler_Marionettenbude_korr.csv,Wasser!,24,31,character_speech,1,25,,"
+       Alle unter diesem allgemeinen Lärmen.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer #bauern,168.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+457,457,Kasperl/Hensler_Marionettenbude_korr.csv,Wasser!,32,39,character_speech,1,25,,"
+       Alle unter diesem allgemeinen Lärmen.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer #bauern,168.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+458,458,Kasperl/Hensler_Marionettenbude_korr.csv,Feuer,40,45,character_speech,1,25,,"
+       Alle unter diesem allgemeinen Lärmen.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer #bauern,168.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+459,459,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        So seyds nur gscheid, und nicht so dumm,
+       
+       
+        Es ist ja nur Colfonium;",0,106,character_speech,1,25,,"
+       Impressar.
+      ",#impressar,169.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+460,460,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (auf dem Holz.)",0,23,stage_direction,1,25,speech_part,,#verwalter,170.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+461,461,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Die Leiter her!",0,32,character_speech,1,25,,"
+       Verwalter.
+      ",#verwalter,170.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+462,462,Kasperl/Hensler_Marionettenbude_korr.csv,"laßt mich herab,
+       
+       
+        Die Angst, die bringt mich noch ins Grab.",33,115,character_speech,1,25,,"
+       Verwalter.
+      ",#verwalter,170.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+463,463,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Marsch – fort mit ihm!",0,39,character_speech,1,25,,"
+       Korporal.
+      ",#korporal,171.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+464,464,Kasperl/Hensler_Marionettenbude_korr.csv,nicht raisonirt!,40,56,character_speech,1,25,,"
+       Korporal.
+      ",#korporal,171.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+465,465,Kasperl/Hensler_Marionettenbude_korr.csv,"Marsch, fort – in Schuldthurm ihn geführt.",81,123,character_speech,1,25,,"
+       Korporal.
+      ",#korporal,171.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+466,466,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie umringen den Impressar.)",0,36,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+467,467,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Feuer, Wasser!",0,31,character_speech,1,25,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,172.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+468,468,Kasperl/Hensler_Marionettenbude_korr.csv,Wasser!,32,39,character_speech,1,25,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,172.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+469,469,Kasperl/Hensler_Marionettenbude_korr.csv,Feuer!,40,46,character_speech,1,25,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,172.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+470,470,Kasperl/Hensler_Marionettenbude_korr.csv,"Welch’ eine schreckenvolle Nacht,
+       
+       
+        Das Unglück hätt’ ich nicht gedacht!",71,165,character_speech,1,25,,"
+       Alle.
+      ",#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer,172.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+471,471,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Unter diesem allgemeinen Lärmen fällt der Vorhang.)",0,59,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+472,472,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Ende des ersten Aufzuges.",0,32,stage_direction,1,25,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+473,473,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Ländliche Gegend.",0,24,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+474,474,Kasperl/Hensler_Marionettenbude_korr.csv,Im Hintergrund Gebürg.,25,47,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+475,475,Kasperl/Hensler_Marionettenbude_korr.csv,"Auf einer Seite der Bühne ein altes Schloß, auf dem Gebürg eine Hütte mit einer Banck, worauf Bauren sitzen und die Sicheln klopfen.",48,180,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+476,476,Kasperl/Hensler_Marionettenbude_korr.csv,Andere Bauersleute ziehen über das Gebürg.,181,223,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+477,477,Kasperl/Hensler_Marionettenbude_korr.csv,Es ist Morgendämmerung – die Sonne geht nach und nach auf.,224,282,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+478,478,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Auf!",0,21,character_speech,2,1,,"
+       Chor.
+      ",#chor,173.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+479,479,Kasperl/Hensler_Marionettenbude_korr.csv,Auf!,22,26,character_speech,2,1,,"
+       Chor.
+      ",#chor,173.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+480,480,Kasperl/Hensler_Marionettenbude_korr.csv,ihr Bauern!,27,38,character_speech,2,1,,"
+       Chor.
+      ",#chor,173.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+481,481,Kasperl/Hensler_Marionettenbude_korr.csv,"frisch hinaus
+       
+       
+        Zum Aehrenschneiden geht;
+       
+       
+        Da sehet nur die Halmen draus,
+       
+       
+        Wie alles golden steht;
+       
+       
+        Die Sensen streicht,
+       
+       
+        Ganz blanck und leicht –
+       
+       
+        Die Sonne kömmt schon licht und hehr,
+       
+       
+        Dort hintrem fernen Berge her.",39,416,character_speech,2,1,,"
+       Chor.
+      ",#chor,173.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+482,482,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie streichen und hammern nach dem Tackt.)",0,50,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+483,483,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (öfnet das Fenster.)",0,28,stage_direction,2,1,speech_part,,#impressar,174.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+484,484,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ach!",0,21,character_speech,2,1,,"
+       Impressar.
+      ",#impressar,174.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+485,485,Kasperl/Hensler_Marionettenbude_korr.csv,Alles jubelt groß und klein.,22,50,character_speech,2,1,,"
+       Impressar.
+      ",#impressar,174.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+486,486,Kasperl/Hensler_Marionettenbude_korr.csv,Und ich muß hier gefangen seyn.,75,106,character_speech,2,1,,"
+       Impressar.
+      ",#impressar,174.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+487,487,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wie alles glänzt in Morgenduft,
+       
+       
+        Und wie die Lerche singt;
+       
+       
+        Und wie sie wirbelnd in der Luft
+       
+       
+        Ihr Morgenliedchen bringt.",0,206,character_speech,2,1,,"
+       Chor.
+      ",#chor,175.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+488,488,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie streichen und hämmern.)",0,35,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+489,489,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (mit einer kleinen Leiter in der Ferne.)",0,48,stage_direction,2,1,speech_part,,#röschen,176.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+490,490,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der arme Mann hat wohl die Nacht.",0,50,character_speech,2,1,,"
+       Röschen.
+      ",#röschen,176.0,UNKNOWN,compassion,negative,emotions of suffering and empathy,comedy,KK
+491,491,Kasperl/Hensler_Marionettenbude_korr.csv,Ganz ohne Schlaf dahin gebracht.,75,107,character_speech,2,1,,"
+       Röschen.
+      ",#röschen,176.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+492,492,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Die Bauern versameln sich auf dem Gebürg, und ziehen ab.)",0,66,stage_direction,2,1,speech_part,,#röschen,176.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+493,493,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nun zieht aufs Aehrenfeld hinaus,
+       
+       
+        Daß jede Sense klingt,
+       
+       
+        Und jeder unserm Herrgott draus,
+       
+       
+        Sein Morgenliedchen bringt.",0,206,character_speech,2,1,,"
+       Röschen.
+      ",#röschen,176.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+494,494,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Dieser Chor wird immer in der Ferne gehört, bis er sich allmälig verliert.)",0,83,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+495,495,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nun will ich mich näher schleichen,
+       
+       
+        Und auch nicht von dannen weichen,
+       
+       
+        Bis der Mann gerettet ist –",0,163,character_speech,2,1,,"
+       Röschen.
+      ",#röschen,177.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+496,496,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Um das Hauß seh’ ich wen schleichen,
+       
+       
+        Könnt ich nur von hinnen weichen,
+       
+       
+        Sag – und rede, wer du bist?",0,164,character_speech,2,1,,"
+       Impressar.
+      ",#impressar,178.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+497,497,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Stille!",0,24,character_speech,2,1,,"
+       Röschen.
+      ",#röschen,179.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+498,498,Kasperl/Hensler_Marionettenbude_korr.csv,"Stille nicht ein Wort,
+       
+       
+        Bald kömmt er aus diesem Ort –",25,102,character_speech,2,1,,"
+       Röschen.
+      ",#röschen,179.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+499,499,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der Himmel sorgt für mich, dieß seh’ ich sonnenklar,",0,69,character_speech,2,1,,"
+       Impressar.
+      ",#impressar,180.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+500,500,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        So red’ er nur kein Wort – still!",0,50,character_speech,2,1,,"
+       Röschen.
+      ",#röschen,181.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+501,501,Kasperl/Hensler_Marionettenbude_korr.csv,still!,51,57,character_speech,2,1,,"
+       Röschen.
+      ",#röschen,181.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+502,502,Kasperl/Hensler_Marionettenbude_korr.csv,Herr Impressar!,58,73,character_speech,2,1,,"
+       Röschen.
+      ",#röschen,181.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+503,503,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Verwalter.",0,17,stage_direction,2,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+504,504,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Arie.",0,12,stage_direction,2,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+505,505,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wenn’s keinen Mann im Dorfe gäb,
+       
+       
+        Von Kenntniß und Talenten,
+       
+       
+        So wär der Staat, so wahr ich leb,
+       
+       
+        In bösen, bösen Händen;
+       
+       
+        Die Bauern schlügen wacker drein,
+       
+       
+        Der Teufel möcht’ Verwalter seyn;
+       
+       
+        Drum heißt’s Respekt, Herr Rusticus!",0,384,character_speech,2,2,,"
+       Verwalter.
+      ",#verwalter,182.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+506,506,Kasperl/Hensler_Marionettenbude_korr.csv,Ich bin Persona publicus!,409,434,character_speech,2,2,,"
+       Verwalter.
+      ",#verwalter,182.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+507,507,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Fährt mir nur einer über’s Maul,
+       
+       
+        Potz Blitz!",0,85,character_speech,2,2,,"
+       Verwalter.
+      ",#verwalter,182.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+508,508,Kasperl/Hensler_Marionettenbude_korr.csv,"der muß es büssen;
+       
+       
+        Da rühr’ ich mich, und bin nicht faul,
+       
+       
+        In Kotter ihn zu schliessen.",86,220,character_speech,2,2,,"
+       Verwalter.
+      ",#verwalter,182.0,UNKNOWN,compassion,negative,emotions of suffering and empathy,comedy,KK
+509,509,Kasperl/Hensler_Marionettenbude_korr.csv,"Ihr Kerls; ich hab das Jus studirt,
+       
+       
+        Drum habt Respeckt, nicht raisonirt
+       
+       
+        Ihr sollet hängen, daß ihr’s wißt,
+       
+       
+        Ich kenne, was quid Juris ist.",245,454,character_speech,2,2,,"
+       Verwalter.
+      ",#verwalter,182.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+510,510,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Blumer.",0,14,stage_direction,2,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+511,511,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Arie.",0,12,stage_direction,2,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+512,512,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Sollt ich mich nicht glücklich nennen?",0,55,character_speech,2,3,,"
+       Blumer.
+      ",#blumer,183.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+513,513,Kasperl/Hensler_Marionettenbude_korr.csv,"Ohne meinen Stand zu kennen,
+       
+       
+        Liebt sie mich so heiß und rein,
+       
+       
+        Ladet mich zur Liebe ein;
+       
+       
+        Unverdorben, rein und helle,
+       
+       
+        Wie im Thal die Silberquelle
+       
+       
+        Durch die Fluren schleicht, so lacht
+       
+       
+        Ihr Gesicht in Sommernacht;
+       
+       
+        Ja!",80,462,character_speech,2,3,,"
+       Blumer.
+      ",#blumer,183.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+514,514,Kasperl/Hensler_Marionettenbude_korr.csv,"das Glück will ich genissen,
+       
+       
+        Sie in meine Arme schliessen –
+       
+       
+        Jeder Tag, den sie erlebt,
+       
+       
+        Sey’ mit Rosen eingewebt!",463,647,character_speech,2,3,,"
+       Blumer.
+      ",#blumer,183.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+515,515,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Impressar.",0,17,stage_direction,2,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+516,516,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Arie.",0,12,stage_direction,2,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+517,517,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Die böse Welt hört oft die Klage,
+       
+       
+        Die allgemein bekannt;
+       
+       
+        Die Weiber sind der Männer Plage
+       
+       
+        Im lieben Vaterland,
+       
+       
+        Man sagts:
+       
+       
+        (Pause)",0,266,character_speech,2,4,,"
+       Impressar.
+      ",#impressar,184.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+518,518,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Doch ich – ich sag’ es nicht;
+       
+       
+        Ich kenne meine Pflicht –
+       
+       
+        Es ist auf dieser Welt ein schönes Weib,
+       
+       
+        Der angenehmste Zeitvertreib.",0,215,character_speech,2,4,,"
+       Impressar.
+      ",#impressar,184.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+519,519,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Man sagt: sie brennen oft voll Feuer
+       
+       
+        Von Stolz und Übermuht;
+       
+       
+        Und tanzt man nicht nach ihrer Leyer
+       
+       
+        Fliegt gleich die Hand an Hut;
+       
+       
+        Man sagts:
+       
+       
+        (Pause)
+       
+       
+        Doch ich – ich sag’ es nicht;
+       
+       
+        Ich kenne meine Pflicht –
+       
+       
+        Wer schöne Weiber haßt, der ist kein Mann,
+       
+       
+        Den schau’ ich über d’Achsel an.",0,512,character_speech,2,4,,"
+       Impressar.
+      ",#impressar,184.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+520,520,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ein Weib ist, wie wir Alle wissen,
+       
+       
+        Des Schöpfers Meisterstück;
+       
+       
+        So mild und gut, und wenn wirs küssen
+       
+       
+        Blüht unser aller Glück;
+       
+       
+        Ich sags:
+       
+       
+        (Pause.)",0,281,character_speech,2,4,,"
+       Impressar.
+      ",#impressar,184.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+521,521,Kasperl/Hensler_Marionettenbude_korr.csv,"Doch ich, ich nicht allein,
+       
+       
+        Es stimmen alle ein –
+       
+       
+        Nicht wahr?",306,415,character_speech,2,4,,"
+       Impressar.
+      ",#impressar,184.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+522,522,Kasperl/Hensler_Marionettenbude_korr.csv,"ein schönes Weibchen in dem Arm,
+       
+       
+        Macht öfters uns bald kalt, bald warm.",416,511,character_speech,2,4,,"
+       Impressar.
+      ",#impressar,184.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+523,523,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Verwalter.",0,17,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+524,524,Kasperl/Hensler_Marionettenbude_korr.csv,Kasper.,18,25,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+525,525,Kasperl/Hensler_Marionettenbude_korr.csv,Finchel als Barbier.,26,46,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+526,526,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Sextett.",0,15,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+527,527,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (mit vielen Bücklingen.)",0,32,stage_direction,2,5,speech_part,,#finchel,185.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+528,528,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Servus, servus humillimus,
+       
+       
+        Ad omnia, stri tissimus!",0,92,character_speech,2,5,,"
+       Finchel.
+      ",#finchel,185.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+529,529,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich kenn’ ihn nicht, wer ist der Herr?",0,55,character_speech,2,5,,"
+       Verwalter.
+      ",#verwalter,186.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+530,530,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Herr Streicher schicket mich hieher,
+       
+       
+        Er kann nicht selber kommen,
+       
+       
+        Denn er hat eingenommen.",0,155,character_speech,2,5,,"
+       Finchel.
+      ",#finchel,187.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+531,531,Kasperl/Hensler_Marionettenbude_korr.csv,"Ich bin deßwegen hier, die Herren zu serviren,
+       
+       
+        Und stante pede gleich die Bärte zu rasiren.",180,295,character_speech,2,5,,"
+       Finchel.
+      ",#finchel,187.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+532,532,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Er packt seinen Geräthschaften aus.)",0,44,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+533,533,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Caspar beys.)",0,22,stage_direction,2,5,speech_part,,#verwalter,188.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+534,534,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Den Menschen hab’ ich nie geseh’n,
+       
+       
+        Was soll denn nun gescheh’n?",0,104,character_speech,2,5,,"
+       Verwalter.
+      ",#verwalter,188.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+535,535,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (für sich.)",0,19,stage_direction,2,5,speech_part,,#finchel,189.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+536,536,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich will euch eine Nase drehn,
+       
+       
+        Ihr sollet Wunder sehn.",0,95,character_speech,2,5,,"
+       Finchel.
+      ",#finchel,189.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+537,537,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (setzt sich einen Stuhl)",0,32,stage_direction,2,5,speech_part,,#verwalter,190.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+538,538,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich muß als Bräutigam zu erst rasieret seyn.",0,61,character_speech,2,5,,"
+       Verwalter.
+      ",#verwalter,190.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+539,539,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (setzt sich auf des Verwalters Stuhl.)",0,46,stage_direction,2,5,speech_part,,#kasper,191.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+540,540,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Die Ehr gehöret mir als Vetter nur allein.",0,59,character_speech,2,5,,"
+       Kasper.
+      ",#kasper,191.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+541,541,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie zanken sich um den Stuhl.)",0,38,stage_direction,2,5,pre_speech,,,,,being moved,being moved,being moved,comedy,KK
+542,542,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Fort!",0,22,character_speech,2,5,,"
+       Verwalter.
+      ",#verwalter,192.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+543,543,Kasperl/Hensler_Marionettenbude_korr.csv,fort!,23,28,character_speech,2,5,,"
+       Verwalter.
+      ",#verwalter,192.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+544,544,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nein!",0,22,character_speech,2,5,,"
+       Kasper.
+      ",#kasper,193.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+545,545,Kasperl/Hensler_Marionettenbude_korr.csv,Nein!,23,28,character_speech,2,5,,"
+       Kasper.
+      ",#kasper,193.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+546,546,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich muß zu erst bedienet seyn!",0,47,character_speech,2,5,,"
+       Beyde.
+      ",#kasper #verwalter,194.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+547,547,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (setzt zwey Stühle.)",0,28,stage_direction,2,5,speech_part,,#finchel,195.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+548,548,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ich bitte, setzen sie sich nieder,
+       
+       
+        Ein jeder soll bedienet seyn.",0,105,character_speech,2,5,,"
+       Finchel
+      ",#finchel,195.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+549,549,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (er sucht in seinen Säcken die Seife.)",0,45,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+550,550,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        So mag es gehn, ich setz mich nieder,
+       
+       
+        Den Rang laß ich ihm nicht allein.",0,113,character_speech,2,5,,"
+       Verwalter.
+      ",#verwalter,196.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+551,551,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie setzen sich mit den Stühlen gegeneinander.)",0,55,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+552,552,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nur hurtig!",0,28,character_speech,2,5,,"
+       Verwalter.
+      ",#verwalter,197.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+553,553,Kasperl/Hensler_Marionettenbude_korr.csv,"ohne sich besinnen,
+       
+       
+        Ich werd nicht lange warten können.",29,108,character_speech,2,5,,"
+       Verwalter.
+      ",#verwalter,197.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+554,554,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Sie kommen gleich aus meinen Händen,
+       
+       
+        (leise)
+       
+       
+        Wenn ich nur könnt’ die Seife finden.",0,147,character_speech,2,5,,"
+       Finchel.
+      ",#finchel,198.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+555,555,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (für sich, gegen den Verw.)",0,35,stage_direction,2,5,speech_part,,#casper,199.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+556,556,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der Grobian!",0,29,character_speech,2,5,,"
+       Casper.
+      ",#casper,199.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+557,557,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (eben so gegen Casper.)",0,31,stage_direction,2,5,speech_part,,#verwalter,200.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+558,558,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der Dummrian!",0,30,character_speech,2,5,,"
+       Verwalter.
+      ",#verwalter,200.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+559,559,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (für sich.)",0,19,stage_direction,2,5,speech_part,,#finchel,201.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+560,560,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        In meinen Säken find’ ich nichts,
+       
+       
+        Als hier ein Stückel Stiefelwix
+       
+       
+        Jetzt seif ich sie mit diesem ein,
+       
+       
+        (laut)
+       
+       
+        Sie sollen gleich bedienet seyn.",0,253,character_speech,2,5,,"
+       Finchel.
+      ",#finchel,201.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+561,561,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Er seift beyde abwechselnd ein.)",0,40,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+562,562,Kasperl/Hensler_Marionettenbude_korr.csv,Beyde schielen nach einander.,41,70,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+563,563,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ein Spaß von Röschen, ohne Zweifel.",0,52,character_speech,2,5,,"
+       Verwalter.
+      ",#verwalter,202.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+564,564,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der Kerl sieht aus, als wie der Teufel.",0,56,character_speech,2,5,,"
+       Casper.
+      ",#casper,203.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+565,565,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige.",0,14,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+566,566,Kasperl/Hensler_Marionettenbude_korr.csv,Röschen kömmt.,15,29,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+567,567,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Beyde stehen auf.)",0,26,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+568,568,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ach!",0,21,character_speech,2,5,,"
+       Verwalter. Kasper.
+      ",#verwalter #kasper,204.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+569,569,Kasperl/Hensler_Marionettenbude_korr.csv,schönes Röschen!,22,38,character_speech,2,5,,"
+       Verwalter. Kasper.
+      ",#verwalter #kasper,204.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+570,570,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ha ha!",0,23,character_speech,2,5,,"
+       Röschen.
+      ",#röschen,205.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+571,571,Kasperl/Hensler_Marionettenbude_korr.csv,ha ha!,24,30,character_speech,2,5,,"
+       Röschen.
+      ",#röschen,205.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+572,572,Kasperl/Hensler_Marionettenbude_korr.csv,ha – welch Gesicht!,31,50,character_speech,2,5,,"
+       Röschen.
+      ",#röschen,205.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure,comedy,KK
+573,573,Kasperl/Hensler_Marionettenbude_korr.csv,Vor Lachen kann ich reden nicht.,75,107,character_speech,2,5,,"
+       Röschen.
+      ",#röschen,205.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+574,574,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (jeder heimlich zu ihr.)",0,32,stage_direction,2,5,speech_part,,#verwalter #kasper,206.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+575,575,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Das ist ein Narr – er weiß es nicht,
+       
+       
+        Wie schwarz er ist in dem Gesicht.",0,112,character_speech,2,5,,"
+       Verwalter. Kasper.
+      ",#verwalter #kasper,206.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+576,576,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige, Hellwig, Susanna.",0,32,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+577,577,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Jetzt werd ich mich wohl retiriren?",0,52,character_speech,2,5,,"
+       Finchel.
+      ",#finchel,207.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+578,578,Kasperl/Hensler_Marionettenbude_korr.csv,(zieht sich der Thüre näher.),53,82,character_speech,2,5,,"
+       Finchel.
+      ",#finchel,207.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+579,579,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was giebt’s denn hier zu spioniren?",0,52,character_speech,2,5,,"
+       Hellwig.
+      ",#hellwig,208.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+580,580,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Das ist ein Spaß!",0,34,character_speech,2,5,,"
+       Alle 6.
+      ", #verwalter #kasper #finchel #röschen #hellwig #susanna,209.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+581,581,Kasperl/Hensler_Marionettenbude_korr.csv,"weiß keiner nicht,
+       
+       
+        Wie schwarz er ist in dem Gesicht.",35,112,character_speech,2,5,,"
+       Alle 6.
+      ", #verwalter #kasper #finchel #röschen #hellwig #susanna,209.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+582,582,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Finchel.",0,15,stage_direction,2,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+583,583,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Arie.",0,12,stage_direction,2,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+584,584,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ein Mensch, der die Kunst wohl zu leben versteht,
+       
+       
+        Kommt überall gut durch die Welt;",0,124,character_speech,2,6,,"
+       Finchel.
+      ",#finchel,210.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+585,585,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Es glückt ihm, wenns drunter und drüber auch geht,
+       
+       
+        Wenn er an die Weiber sich hält.",0,124,character_speech,2,6,,"
+       Finchel.
+      ",#finchel,210.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+586,586,Kasperl/Hensler_Marionettenbude_korr.csv,"Man lachet, wenn etwas ein Weibchen belacht,
+       
+       
+        Dieß alles bewirkt ihre schöpferische Macht.",149,262,character_speech,2,6,,"
+       Finchel.
+      ",#finchel,210.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+587,587,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Hat einer ein Weibchen liebreizend und hold,
+       
+       
+        So ist er bald Jedermanns Freund;
+       
+       
+        Ihm fehlt nichts an Freuden, an Ehre und Gold,
+       
+       
+        Weils Alt und Jung gut mit ihm meint.",0,252,character_speech,2,6,,"
+       Finchel.
+      ",#finchel,210.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+588,588,Kasperl/Hensler_Marionettenbude_korr.csv,"Man liebet, man ehret – man schätzet den Mann,
+       
+       
+        Da sieht man, wie viel so ein Weibchen nicht kann.",277,398,character_speech,2,6,,"
+       Finchel.
+      ",#finchel,210.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+589,589,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Drum streb ich nach Allem, was Weibern gefällt,
+       
+       
+        Dann hab’ ich gewonnenes Spiel;
+       
+       
+        Durch sie wird man glücklich und froh in der Welt,
+       
+       
+        Auf Weiber verlaß ich mich viel –
+       
+       
+        Denn Alles, was gut ist, schaft unserem Glück,
+       
+       
+        Ihr freundliches Lächeln, ihr zaubrischer Blick.",0,397,character_speech,2,6,,"
+       Finchel.
+      ",#finchel,210.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+590,590,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Hellwig.",0,15,stage_direction,2,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+591,591,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Romanze.",0,15,stage_direction,2,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+592,592,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Es war einmal im Bayerland,
+       
+       
+        Ein Mädchen jung und schön;
+       
+       
+        Im Dorf’ und Städtchen wohl bekannt,
+       
+       
+        Die wollte grasen gehn.",0,205,character_speech,2,7,,"
+       Hellwig.
+      ",#hellwig,211.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+593,593,Kasperl/Hensler_Marionettenbude_korr.csv,"Da kam zu ihr ein Edelmann,
+       
+       
+        Er lächelte, und sah sie an:
+       
+       
+        Mein Kind sprach er – komm – küsse mich,
+       
+       
+        Komm her, mein Schaz!",230,421,character_speech,2,7,,"
+       Hellwig.
+      ",#hellwig,211.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+594,594,Kasperl/Hensler_Marionettenbude_korr.csv,ich küsse dich.,422,437,character_speech,2,7,,"
+       Hellwig.
+      ",#hellwig,211.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+595,595,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nein, nein!",0,28,character_speech,2,7,,"
+       Hellwig.
+      ",#hellwig,211.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+596,596,Kasperl/Hensler_Marionettenbude_korr.csv,mein Herr!,29,39,character_speech,2,7,,"
+       Hellwig.
+      ",#hellwig,211.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+597,597,Kasperl/Hensler_Marionettenbude_korr.csv,"das kann nicht seyn,
+       
+       
+        Ich kenn die Männer schon;
+       
+       
+        Folg mir – es wird dich nicht gereun,
+       
+       
+        Ich geb dir Lieb zum Lohn.",40,224,character_speech,2,7,,"
+       Hellwig.
+      ",#hellwig,211.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+598,598,Kasperl/Hensler_Marionettenbude_korr.csv,"Und husch, husch – husch!",249,274,character_speech,2,7,,"
+       Hellwig.
+      ",#hellwig,211.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+599,599,Kasperl/Hensler_Marionettenbude_korr.csv,"giengs mit ihr fort,
+       
+       
+        Und was geschah’ am stillen Ort?",275,352,character_speech,2,7,,"
+       Hellwig.
+      ",#hellwig,211.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+600,600,Kasperl/Hensler_Marionettenbude_korr.csv,"Das sag’ ich nicht – es denkt sich schon,
+       
+       
+        Der Unschuld Täubchen flog davon.",377,476,character_speech,2,7,,"
+       Hellwig.
+      ",#hellwig,211.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+601,601,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Blumer.",0,14,stage_direction,2,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+602,602,Kasperl/Hensler_Marionettenbude_korr.csv,Röschen.,15,23,stage_direction,2,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+603,603,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Duett.",0,13,stage_direction,2,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+604,604,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        O dem Liebenden blüht Wonne,
+       
+       
+        Ihm nur lacht die goldne Sonne
+       
+       
+        Auf beblümter Flur;
+       
+       
+        Jauchzend und mit neuem Seegen.",0,200,character_speech,2,8,,"
+       Blumer.
+      ",#blumer,212.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+605,605,Kasperl/Hensler_Marionettenbude_korr.csv,"Lacht dem Liebenden entgegen
+       
+       
+        Schöner die Natur.",225,296,character_speech,2,8,,"
+       Blumer.
+      ",#blumer,212.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+606,606,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Liebe läßt auf grüne Auen,
+       
+       
+        Gottes Seegen niederthauen,
+       
+       
+        Und das Blümchen blüht;
+       
+       
+        Liebe läßt die Nachtigallen,
+       
+       
+        Durch die Haine widerhallen,
+       
+       
+        Daß das Herze glüht.",0,294,character_speech,2,8,,"
+       Röschen.
+      ",#röschen,213.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+607,607,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Die Liebe macht, daß Alles lebt.",0,49,character_speech,2,8,,"
+       Blumer.
+      ",#blumer,214.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+608,608,Kasperl/Hensler_Marionettenbude_korr.csv,Und Kraft in unsern Pulsen bebt.,74,106,character_speech,2,8,,"
+       Blumer.
+      ",#blumer,214.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+609,609,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Die Liebe weihet Flur und Hain.",0,48,character_speech,2,8,,"
+       Röschen.
+      ",#röschen,215.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+610,610,Kasperl/Hensler_Marionettenbude_korr.csv,In fröhliches Entzücken ein;,73,101,character_speech,2,8,,"
+       Röschen.
+      ",#röschen,215.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+611,611,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Sie ist der Gottheit Bild –",0,44,character_speech,2,8,,"
+       Blumer.
+      ",#blumer,216.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+612,612,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Sie macht uns gut und mild –",0,45,character_speech,2,8,,"
+       Röschen.
+      ",#röschen,217.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+613,613,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        O Liebe, Liebe!",0,32,character_speech,2,8,,"
+       Beyde.
+      ",#röschen #blumer,218.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+614,614,Kasperl/Hensler_Marionettenbude_korr.csv,"deine Freuden
+       
+       
+        Genießet jede Kreatur;
+       
+       
+        Ja!",33,121,character_speech,2,8,,"
+       Beyde.
+      ",#röschen #blumer,218.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+615,615,Kasperl/Hensler_Marionettenbude_korr.csv,"Engel müssen uns beneiden,
+       
+       
+        Wir folgen deiner Gottheit Spur.",122,205,character_speech,2,8,,"
+       Beyde.
+      ",#röschen #blumer,218.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+616,616,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Impressar.",0,17,stage_direction,2,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+617,617,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Arie.",0,12,stage_direction,2,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+618,618,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Zufriedenheit würzet die Freuden des Lebens
+       
+       
+        Wenn Kinder uns lächeln so schön;
+       
+       
+        Denn ohne sie fließen die Tage vergebens
+       
+       
+        Im Taumel der Liebe dahin –
+       
+       
+        Ein Weibchen im Arme, im Hause kein Kind –
+       
+       
+        Da bleibet die zärtlichste Liebe ja blind.",0,369,character_speech,2,9,,"
+       Impressar.
+      ",#impressar,219.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+619,619,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Sie machen durch ihre unschuldigen Spiele
+       
+       
+        Die schöne Welt zum Paradiß;
+       
+       
+        Und schenken den Eltern der Freuden gar viele.",0,182,character_speech,2,9,,"
+       Impressar.
+      ",#impressar,219.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+620,620,Kasperl/Hensler_Marionettenbude_korr.csv,"Und machen das Leben so süß –
+       
+       
+        Ein Mann, der die Welt nicht mit Menschen vermehrt,
+       
+       
+        Der ist auch des Glückes der Liebe nicht wehrt.",207,384,character_speech,2,9,,"
+       Impressar.
+      ",#impressar,219.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+621,621,Kasperl/Hensler_Marionettenbude_korr.csv,(ab.),385,390,character_speech,2,9,,"
+       Impressar.
+      ",#impressar,219.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+622,622,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Kasper.",0,14,stage_direction,2,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+623,623,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Arie.",0,12,stage_direction,2,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+624,624,Kasperl/Hensler_Marionettenbude_korr.csv,Landlerisch.,13,25,stage_direction,2,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+625,625,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Es giebt ja der Madeln noch viel auf der Welt.",0,63,character_speech,2,10,,"
+       Kasper.
+      ",#kasper,220.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+626,626,Kasperl/Hensler_Marionettenbude_korr.csv,"Was ists denn, wenn einen ein Madel auch prellt;
+       
+       
+        Kaum guckt man ja einer nur freundlich ins Gsicht,
+       
+       
+        So heißt’ gleich: mein Schazerl!",88,268,character_speech,2,10,,"
+       Kasper.
+      ",#kasper,220.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+627,627,Kasperl/Hensler_Marionettenbude_korr.csv,geh – willst du mich nicht.,269,296,character_speech,2,10,,"
+       Kasper.
+      ",#kasper,220.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+628,628,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Und greift man nur einer ans Handel und Kinn,
+       
+       
+        Da strekens das Goscherl zum Pusseln gleich hin –
+       
+       
+        Da schlagen’s zum Kapituliren gleich ein,
+       
+       
+        Und fragen, wenn soll denn die Hochzeit schon seyn.",0,278,character_speech,2,10,,"
+       Kasper.
+      ",#kasper,220.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+629,629,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ihr Madeln!",0,28,character_speech,2,10,,"
+       Kasper.
+      ",#kasper,220.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+630,630,Kasperl/Hensler_Marionettenbude_korr.csv,ihr Madeln!,29,40,character_speech,2,10,,"
+       Kasper.
+      ",#kasper,220.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+631,631,Kasperl/Hensler_Marionettenbude_korr.csv,"nimmts euch wohl in Acht,
+       
+       
+        Der Krieg hat viel Männer ums Leben schon bracht,
+       
+       
+        Jezt zählt man drey Weibeln schon auf einen Mann,
+       
+       
+        Z’lezt sterbt ihr als Jungfern – kommts keine mehr dran!",41,295,character_speech,2,10,,"
+       Kasper.
+      ",#kasper,220.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+632,632,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Herr!",0,22,character_speech,2,12,,"
+       Hellwig.
+      ",#hellwig,221.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+633,633,Kasperl/Hensler_Marionettenbude_korr.csv,was soll das raisoniren?,23,47,character_speech,2,12,,"
+       Hellwig.
+      ",#hellwig,221.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+634,634,Kasperl/Hensler_Marionettenbude_korr.csv,"Und was soll das fulminiren,
+       
+       
+        Hier in meinem Haus?",72,145,character_speech,2,12,,"
+       Hellwig.
+      ",#hellwig,221.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+635,635,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was mich so prostituiren,
+       
+       
+        Mir das Mädchen fortzuführen?",0,96,character_speech,2,12,,"
+       Verwalter.
+      ",#verwalter,222.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+636,636,Kasperl/Hensler_Marionettenbude_korr.csv,Das halt ich nicht aus.,121,144,character_speech,2,12,,"
+       Verwalter.
+      ",#verwalter,222.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+637,637,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (schadenfroh zu ihrem Mann.)",0,36,stage_direction,2,12,speech_part,,#susanna,223.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+638,638,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        So ist es recht, nur zu, nur zu!",0,49,character_speech,2,12,,"
+       Susanna.
+      ",#susanna,223.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+639,639,Kasperl/Hensler_Marionettenbude_korr.csv,"Da siehst es nun, du Gimpel du!",74,105,character_speech,2,12,,"
+       Susanna.
+      ",#susanna,223.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+640,640,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (geht aufgebracht umher.)",0,33,stage_direction,2,12,speech_part,,#verwalter,224.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+641,641,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Den Verwalter zu prellen,
+       
+       
+        Einen andern zu wählen –
+       
+       
+        Ihr Lumpenpak!",0,130,character_speech,2,12,,"
+       Verwalter.
+      ",#verwalter,224.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+642,642,Kasperl/Hensler_Marionettenbude_korr.csv,"das ley’d ich nicht,
+       
+       
+        Das ist ja wider Ehr und Pflicht.",131,209,character_speech,2,12,,"
+       Verwalter.
+      ",#verwalter,224.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+643,643,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was?",0,21,character_speech,2,12,,"
+       Hellwig.
+      ",#hellwig,225.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+644,644,Kasperl/Hensler_Marionettenbude_korr.csv,Lumpenpak?,22,32,character_speech,2,12,,"
+       Hellwig.
+      ",#hellwig,225.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+645,645,Kasperl/Hensler_Marionettenbude_korr.csv,jetzt ists genug –,33,51,character_speech,2,12,,"
+       Hellwig.
+      ",#hellwig,225.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+646,646,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Da hast du’s nun, Hans Superklug!",0,50,character_speech,2,12,,"
+       Susanna.
+      ",#susanna,226.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure,comedy,KK
+647,647,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ihr Schlingel!",0,31,character_speech,2,12,,"
+       Verwalter.
+      ",#verwalter,227.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+648,648,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Er Bengel.",0,27,character_speech,2,12,,"
+       Hellwig.
+      ",#hellwig,228.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+649,649,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was?",0,21,character_speech,2,12,,"
+       Verwalter.
+      ",#verwalter,229.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+650,650,Kasperl/Hensler_Marionettenbude_korr.csv,die Obrigkeit ein Bengel?,22,47,character_speech,2,12,,"
+       Verwalter.
+      ",#verwalter,229.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+651,651,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Herr!",0,22,character_speech,2,12,,"
+       Hellwig.
+      ",#hellwig,230.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+652,652,Kasperl/Hensler_Marionettenbude_korr.csv,ein Gastwirth ist kein Schlingel –,23,57,character_speech,2,12,,"
+       Hellwig.
+      ",#hellwig,230.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+653,653,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ihr Grobian!",0,29,character_speech,2,12,,"
+       Verwalter.
+      ",#verwalter,231.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+654,654,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Jetzt ists genug,",0,34,character_speech,2,12,,"
+       Hellwig.
+      ",#hellwig,232.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+655,655,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Da hast du’s nun, Hans Superklug!",0,50,character_speech,2,12,,"
+       Susanna.
+      ",#susanna,233.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure,comedy,KK
+656,656,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige, Kasper mit Weinen.",0,33,stage_direction,2,13,pre_speech,,,,,suffering,negative,emotions of suffering and empathy,comedy,KK
+657,657,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wir wollen sie suchen die Kreutz und die Quer,
+       
+       
+        Und finden wirs – bringen wir Beyde daher.",0,130,character_speech,2,13,,"
+       Alle 3.
+      ",#verwalter #kasper #susanna,234.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+658,658,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Und sperren sie beyde in Kotter gleich ein,
+       
+       
+        Dort sollen sie lernen, geduldig zu seyn.",0,126,character_speech,2,13,,"
+       Verwalter.
+      ",#verwalter,235.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+659,659,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Alle ab.",0,16,stage_direction,2,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+660,660,Kasperl/Hensler_Marionettenbude_korr.csv,Man hört auf der Strasse die Trommel rühren.),17,62,stage_direction,2,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+661,661,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Jetzt lauf ich, was ich lauffen kann,
+       
+       
+        Jezt fangt schon die Komödi an!",0,110,character_speech,2,13,,"
+       Kasper.
+      ",#kasper,236.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+662,662,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (ab.)",0,13,stage_direction,2,13,speech_part,,#kasper,236.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+663,663,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Die Bühne verwandelt sich in einen freyen Plaz.",0,55,stage_direction,2,14,pre_speech,,,,,joy,positive,emotions of pleasure,comedy,KK
+664,664,Kasperl/Hensler_Marionettenbude_korr.csv,Auf beyden Seiten Krämerbuden.,56,86,stage_direction,2,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+665,665,Kasperl/Hensler_Marionettenbude_korr.csv,Mitten im Hintergrund die Marionetten Bude.,87,130,stage_direction,2,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+666,666,Kasperl/Hensler_Marionettenbude_korr.csv,Viele Käufer und Verkäufer.,131,158,stage_direction,2,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+667,667,Kasperl/Hensler_Marionettenbude_korr.csv,Bauern und Mädchen.),159,179,stage_direction,2,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+668,668,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Heisa!",0,23,character_speech,2,14,,"
+       Lustiger Chor.
+      ",#lustiger_chor,237.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+669,669,Kasperl/Hensler_Marionettenbude_korr.csv,Juhe – hop sa sa!,24,41,character_speech,2,14,,"
+       Lustiger Chor.
+      ",#lustiger_chor,237.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+670,670,Kasperl/Hensler_Marionettenbude_korr.csv,Seht!,66,71,character_speech,2,14,,"
+       Lustiger Chor.
+      ",#lustiger_chor,237.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+671,671,Kasperl/Hensler_Marionettenbude_korr.csv,der Jahrmarkt ist schon da!,72,99,character_speech,2,14,,"
+       Lustiger Chor.
+      ",#lustiger_chor,237.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+672,672,Kasperl/Hensler_Marionettenbude_korr.csv,"Alt und Junge, groß und klein,
+       
+       
+        Kaufts von unsern Waaren ein –
+       
+       
+        Heisa!",124,240,character_speech,2,14,,"
+       Lustiger Chor.
+      ",#lustiger_chor,237.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+673,673,Kasperl/Hensler_Marionettenbude_korr.csv,Juhe – hop sa sa!,241,258,character_speech,2,14,,"
+       Lustiger Chor.
+      ",#lustiger_chor,237.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+674,674,Kasperl/Hensler_Marionettenbude_korr.csv,Seht!,283,288,character_speech,2,14,,"
+       Lustiger Chor.
+      ",#lustiger_chor,237.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+675,675,Kasperl/Hensler_Marionettenbude_korr.csv,der Jahrmarkt ist schon da!,289,316,character_speech,2,14,,"
+       Lustiger Chor.
+      ",#lustiger_chor,237.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+676,676,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Gute Pasteten.",0,31,character_speech,2,14,,"
+       Mandoletti Mädchen.
+      ",#mandolette_maedchen,238.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+677,677,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Trommeln u. Schlegeln!",0,39,character_speech,2,14,,"
+       Nürnberger Krämer.
+      ",#nuernberger_kraemer,239.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+678,678,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Kauffts Wiener Pußeln!",0,39,character_speech,2,14,,"
+       Lebzelten Mädchen.
+      ",#lebzelten mädchen,240.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+679,679,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Kugeln und Kögeln!",0,35,character_speech,2,14,,"
+       Nürnberger Krämer.
+      ",#nuernberger_kraemer,241.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+680,680,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Kaufts Teppich!",0,32,character_speech,2,14,,"
+       Tiroler.
+      ",#tiroler,242.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+681,681,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Guiti Laiwit!",0,30,character_speech,2,14,,"
+       Schlawack.
+      ",#schlawack,243.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+682,682,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nix zu schachern?",0,34,character_speech,2,14,,"
+       Jude.
+      ",#jude,244.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+683,683,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Kaufts Weixeln!",0,32,character_speech,2,14,,"
+       Oebstlerin.
+      ",#oebstlerin,245.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+684,684,Kasperl/Hensler_Marionettenbude_korr.csv,s’ Nagel für n’ Groschen!,33,58,character_speech,2,14,,"
+       Oebstlerin.
+      ",#oebstlerin,245.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+685,685,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Zerreiß sich d’Jungfer nicht die Goschen!",0,58,character_speech,2,14,,"
+       Alle.
+      ",#mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin,246.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+686,686,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Allgemeiner Lärmen.",0,27,stage_direction,2,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+687,687,Kasperl/Hensler_Marionettenbude_korr.csv,Impressar guckt zur Kortine heraus.),28,64,stage_direction,2,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+688,688,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Still!",0,23,character_speech,2,14,,"
+       Impressar.
+      ",#impressar,247.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+689,689,Kasperl/Hensler_Marionettenbude_korr.csv,still!,24,30,character_speech,2,14,,"
+       Impressar.
+      ",#impressar,247.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+690,690,Kasperl/Hensler_Marionettenbude_korr.csv,"damit man hören kann,
+       
+       
+        Bald fangt ja die Komödi an.",31,105,character_speech,2,14,,"
+       Impressar.
+      ",#impressar,247.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+691,691,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Alle bieten ihre Waaren feil.)",0,39,stage_direction,2,14,speech_part,,#impressar,247.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+692,692,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Alt’ und Jung!",0,31,character_speech,2,14,,"
+       Impressar.
+      ",#impressar,247.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+693,693,Kasperl/Hensler_Marionettenbude_korr.csv,"Groß und Klein,
+       
+       
+        Kaufts von unsern Waaren ein.",32,101,character_speech,2,14,,"
+       Impressar.
+      ",#impressar,247.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+694,694,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige.",0,14,stage_direction,2,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+695,695,Kasperl/Hensler_Marionettenbude_korr.csv,"(Ein Mann mit einem Tanzbären nebst 2 Jungen, welche auf einer Querpfeife und Trommel musiziren.)",15,112,stage_direction,2,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+696,696,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Drom!",0,22,character_speech,2,15,,"
+       Mann.
+      ",#mann,248.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+697,697,Kasperl/Hensler_Marionettenbude_korr.csv,Drom!,23,28,character_speech,2,15,,"
+       Mann.
+      ",#mann,248.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+698,698,Kasperl/Hensler_Marionettenbude_korr.csv,"Schaut doch meinen Bären an,
+       
+       
+        Wie mein Thierchen tanzen kann;
+       
+       
+        Hußa!",53,167,character_speech,2,15,,"
+       Mann.
+      ",#mann,248.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+699,699,Kasperl/Hensler_Marionettenbude_korr.csv,"dreh’ dich um und um,
+       
+       
+        Hußa!",168,219,character_speech,2,15,,"
+       Mann.
+      ",#mann,248.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+700,700,Kasperl/Hensler_Marionettenbude_korr.csv,tanz’ im Kraiß herum!,220,241,character_speech,2,15,,"
+       Mann.
+      ",#mann,248.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+701,701,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Impressar guckt oben zur Bude heraus.)",0,47,stage_direction,2,15,speech_part,,#mann,248.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+702,702,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        So seyd nur einmal still; ich armer Mann!",0,58,character_speech,2,15,,"
+       Mann.
+      ",#mann,248.0,UNKNOWN,compassion,negative,emotions of suffering and empathy,comedy,KK
+703,703,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Alles versammlet sich zur Marionetten Bude.)",0,52,stage_direction,2,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+704,704,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Still!",0,23,character_speech,2,15,,"
+       Alle.
+      ",#mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin #mann,249.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+705,705,Kasperl/Hensler_Marionettenbude_korr.csv,still!,24,30,character_speech,2,15,,"
+       Alle.
+      ",#mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin #mann,249.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+706,706,Kasperl/Hensler_Marionettenbude_korr.csv,fang’ er nur die Komödi an.,31,58,character_speech,2,15,,"
+       Alle.
+      ",#mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin #mann,249.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+707,707,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Die Kortine rollt hinauf.",0,33,stage_direction,2,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+708,708,Kasperl/Hensler_Marionettenbude_korr.csv,"Dir Impressar spielt mit seinen Kindern, als Marionetten – Komödie.",34,101,stage_direction,2,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+709,709,Kasperl/Hensler_Marionettenbude_korr.csv,"Die darinnen vorkommende Charaktere sind Odoardo, als Vater der Fräulein Rosalie – Hanswurst, Bedienter.",102,206,stage_direction,2,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+710,710,Kasperl/Hensler_Marionettenbude_korr.csv,"Ein lustiger Dudelsackpfeifer unterbricht die Aufmerksamkeit der Zuschauer, und alles verläßt die Bude.)",207,311,stage_direction,2,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+711,711,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige, Dudelsakpfeifer.",0,31,stage_direction,2,16,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+712,712,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Heisa Lustig!",0,30,character_speech,2,16,,"
+        Chor.
+       ",#chor,250.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+713,713,Kasperl/Hensler_Marionettenbude_korr.csv,"trick track, trum!",31,49,character_speech,2,16,,"
+        Chor.
+       ",#chor,250.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+714,714,Kasperl/Hensler_Marionettenbude_korr.csv,Madeln!,74,81,character_speech,2,16,,"
+        Chor.
+       ",#chor,250.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+715,715,Kasperl/Hensler_Marionettenbude_korr.csv,"dreht euch dreimal um –
+       
+       
+        Hindri, firi, auffi, abi!",82,155,character_speech,2,16,,"
+        Chor.
+       ",#chor,250.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+716,716,Kasperl/Hensler_Marionettenbude_korr.csv,"Tschiri, tschari, gribi, grabi!",180,211,character_speech,2,16,,"
+        Chor.
+       ",#chor,250.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+717,717,Kasperl/Hensler_Marionettenbude_korr.csv,Hußa!,236,241,character_speech,2,16,,"
+        Chor.
+       ",#chor,250.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+718,718,Kasperl/Hensler_Marionettenbude_korr.csv,Hußa!,242,247,character_speech,2,16,,"
+        Chor.
+       ",#chor,250.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+719,719,Kasperl/Hensler_Marionettenbude_korr.csv,"trik, trak, trum!",248,265,character_speech,2,16,,"
+        Chor.
+       ",#chor,250.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+720,720,Kasperl/Hensler_Marionettenbude_korr.csv,Madeln!,290,297,character_speech,2,16,,"
+        Chor.
+       ",#chor,250.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+721,721,Kasperl/Hensler_Marionettenbude_korr.csv,dreht euch dreymal um!,298,320,character_speech,2,16,,"
+        Chor.
+       ",#chor,250.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+722,722,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Alles kommt wieder unter einander, und rufft seine Waaren feil.)",0,72,stage_direction,2,16,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+723,723,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Kaufts Teppich!",0,32,character_speech,2,16,,"
+       Tiroler Teppichhändler.
+      ",#tiroler_teppichhaendler,251.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+724,724,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Trommeln und Schlegeln!",0,40,character_speech,2,16,,"
+       Nürnberger Krämer.
+      ",#nuernberger_kraemer ,252.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure,comedy,KK
+725,725,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      u.s.w.",0,13,stage_direction,2,16,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+726,726,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (ruft von oben herab.)",0,30,stage_direction,2,16,speech_part,,#impressar,253.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+727,727,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der Teufel soll’ euch alle holen,
+       
+       
+        Ihr Lumpen!",0,86,character_speech,2,16,,"
+       Impressar.
+      ",#impressar,253.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+728,728,Kasperl/Hensler_Marionettenbude_korr.csv,wollt ihr euch nicht drollen?,87,116,character_speech,2,16,,"
+       Impressar.
+      ",#impressar,253.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+729,729,Kasperl/Hensler_Marionettenbude_korr.csv,"Schreyt ja um euren Kreuzer her,
+       
+       
+        Als wenn der Teufel in euch wär.",141,230,character_speech,2,16,,"
+       Impressar.
+      ",#impressar,253.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+730,730,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Alles nähert sich wider der Marionetten Bude.)",0,54,stage_direction,2,16,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+731,731,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Still!",0,23,character_speech,2,16,,"
+       Alle.
+      ",#impressar #mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin,254.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+732,732,Kasperl/Hensler_Marionettenbude_korr.csv,still!,24,30,character_speech,2,16,,"
+       Alle.
+      ",#impressar #mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin,254.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+733,733,Kasperl/Hensler_Marionettenbude_korr.csv,"wir wollen ruhig seyn,
+       
+       
+        Still!",31,84,character_speech,2,16,,"
+       Alle.
+      ",#impressar #mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin,254.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+734,734,Kasperl/Hensler_Marionettenbude_korr.csv,still!,85,91,character_speech,2,16,,"
+       Alle.
+      ",#impressar #mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin,254.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+735,735,Kasperl/Hensler_Marionettenbude_korr.csv,sonst schlag ich selber drein!,92,122,character_speech,2,16,,"
+       Alle.
+      ",#impressar #mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin,254.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+736,736,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Die Komödie beginnt wieder – wird endlich unterbrochen durch herbeyeilende Bauern, welche durch ihre Nachricht auf allen Gesichtern Schrecken verbreiten.",0,161,stage_direction,2,16,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+737,737,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige, Bauern.",0,22,stage_direction,2,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+738,738,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Zu Hülfe!",0,26,character_speech,2,17,,"
+       Bauern.
+      ",#bauern,255.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+739,739,Kasperl/Hensler_Marionettenbude_korr.csv,zu Hülfe!,27,36,character_speech,2,17,,"
+       Bauern.
+      ",#bauern,255.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+740,740,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Was ist denn geschehn?",0,39,character_speech,2,17,,"
+       Alle.
+      ",#impressar #mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin,256.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+741,741,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der Bär ist losgekommen!",0,41,character_speech,2,17,,"
+       Bauern.
+      ",#bauern,257.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+742,742,Kasperl/Hensler_Marionettenbude_korr.csv,ach!,42,46,character_speech,2,17,,"
+       Bauern.
+      ",#bauern,257.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+743,743,Kasperl/Hensler_Marionettenbude_korr.csv,"lauffet davon,
+       
+       
+        Fort!",47,91,character_speech,2,17,,"
+       Bauern.
+      ",#bauern,257.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+744,744,Kasperl/Hensler_Marionettenbude_korr.csv,rettet euch – Leute!,92,112,character_speech,2,17,,"
+       Bauern.
+      ",#bauern,257.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+745,745,Kasperl/Hensler_Marionettenbude_korr.csv,dort kömmt er auch schon!,113,138,character_speech,2,17,,"
+       Bauern.
+      ",#bauern,257.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+746,746,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie retten sich zur Marionetten-Bude.",0,45,stage_direction,2,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+747,747,Kasperl/Hensler_Marionettenbude_korr.csv,Alles untereinander.),46,67,stage_direction,2,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+748,748,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Welch Lärmen, welch Schreyen!",0,46,character_speech,2,17,,"
+       Alle.
+      ",#impressar #mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin,258.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+749,749,Kasperl/Hensler_Marionettenbude_korr.csv,"wo aus und wo ein,
+       
+       
+        Hier wird man, ich glaube – am sichersten seyn!",47,137,character_speech,2,17,,"
+       Alle.
+      ",#impressar #mandolette_maedchen #lebzelter_maedchen#schlawack #nuernberger_kraemer #tiroler #jude #oebstlerin,258.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+750,750,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Alles geht untereinander, die Körbe werden zusammen geworfen – die Marionetten-Bude wird gestürmt – der Bär verfolgt von seinem Herrn retirirt sich dahin.",0,162,stage_direction,2,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+751,751,Kasperl/Hensler_Marionettenbude_korr.csv,"Unter diesem Tumult kommen der Verwalter, mit Amts-dienern, wel-welche [!]",163,237,stage_direction,2,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+752,752,Kasperl/Hensler_Marionettenbude_korr.csv,Blumer und Röschen in der Mitte haben.,238,276,stage_direction,2,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+753,753,Kasperl/Hensler_Marionettenbude_korr.csv,Allgemeine Ruhe.,277,293,stage_direction,2,17,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+754,754,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Hellwig, Susanna, Korporal.",0,34,stage_direction,2,18,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+755,755,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Nur her, mit beyden Deserteurs,
+       
+       
+        Ihr sollet Wunder sehn!",0,96,character_speech,2,18,,"
+       Verwalter.
+      ",#verwalter,259.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+756,756,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Du schämst dich nicht, du Schelmin du!",0,55,character_speech,2,18,,"
+       Hellwig.
+      ",#hellwig,260.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+757,757,Kasperl/Hensler_Marionettenbude_korr.csv,Mit dem da durchzugehn.,80,103,character_speech,2,18,,"
+       Hellwig.
+      ",#hellwig,260.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+758,758,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Alles schleicht sich nach und nach herfür)",0,50,stage_direction,2,18,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+759,759,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (will Blumer den Mantel wegreissen.)",0,44,stage_direction,2,18,speech_part,,#verwalter,261.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+760,760,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Den Mantel weg!",0,32,character_speech,2,18,,"
+       Verwalter.
+      ",#verwalter,261.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+761,761,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ach!",0,21,character_speech,2,18,,"
+       Blumer.
+      ",#blumer,262.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+762,762,Kasperl/Hensler_Marionettenbude_korr.csv,Gnade mir!,22,32,character_speech,2,18,,"
+       Blumer.
+      ",#blumer,262.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+763,763,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (winkt den Schergen.)",0,29,stage_direction,2,18,speech_part,,#verwalter,263.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+764,764,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Fort – fort!",0,29,character_speech,2,18,,"
+       Verwalter.
+      ",#verwalter,263.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+765,765,Kasperl/Hensler_Marionettenbude_korr.csv,du Schurcke!,30,42,character_speech,2,18,,"
+       Verwalter.
+      ",#verwalter,263.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+766,766,Kasperl/Hensler_Marionettenbude_korr.csv,fort mit dir!,43,56,character_speech,2,18,,"
+       Verwalter.
+      ",#verwalter,263.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+767,767,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Sie wollen Gewalt brauchen.)",0,36,stage_direction,2,18,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+768,768,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Blumer wirft seinen Mantel ab, und steht als Offizier da.)",0,66,stage_direction,2,18,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+769,769,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Halt ein!",0,26,character_speech,2,18,,"
+       Blumer.
+      ",#blumer,264.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+770,770,Kasperl/Hensler_Marionettenbude_korr.csv,Halt ein!,27,36,character_speech,2,18,,"
+       Blumer.
+      ",#blumer,264.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+771,771,Kasperl/Hensler_Marionettenbude_korr.csv,Ich bin der Graf von Brandenstein,61,94,character_speech,2,18,,"
+       Blumer.
+      ",#blumer,264.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+772,772,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (eilt herfür.)",0,22,stage_direction,2,18,speech_part,,#impressar,265.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+773,773,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der Graf von Brandenstein!",0,43,character_speech,2,18,,"
+       Impressar.
+      ",#impressar,265.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+774,774,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Alle fallen auf die Knie.)",0,34,stage_direction,2,18,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+775,775,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Der Graf von Brandenstein!",0,43,character_speech,2,18,,"
+       Verwalter.
+      ",#verwalter,266.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+776,776,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Alter!",0,23,character_speech,2,18,,"
+       Recit.
+      ",#recit,268.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+777,777,Kasperl/Hensler_Marionettenbude_korr.csv,"dieses Mädchen ist die Tochter meines Oheims,
+       
+       
+        Durch sie bin ich der Erbe dieses Gutes –
+       
+       
+        Alles sey Vergessen!",24,180,character_speech,2,18,,"
+       Recit.
+      ",#recit,268.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+778,778,Kasperl/Hensler_Marionettenbude_korr.csv,"Seyd lustig und froher dinge,
+       
+       
+        Morgen wird dieses Mädchen meinen Gemalin [!",181,279,character_speech,2,18,,"
+       Recit.
+      ",#recit,268.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+779,779,Kasperl/Hensler_Marionettenbude_korr.csv,]!,279,281,character_speech,2,18,,"
+       Recit.
+      ",#recit,268.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+780,780,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (Alle in wilder Freude.)",0,32,stage_direction,2,18,speech_part,,#recit,268.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+781,781,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wir tanzen und jubeln – Juheisa – Juhe!",0,56,character_speech,2,18,,"
+       Recit.
+      ",#recit,268.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+782,782,Kasperl/Hensler_Marionettenbude_korr.csv,Der Graf und die Gräfin soll leben – Juhe!,81,123,character_speech,2,18,,"
+       Recit.
+      ",#recit,268.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+783,783,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Ewig blühen unsre Freuden.",0,43,character_speech,2,18,,"
+       Blumer.
+      ",#blumer,269.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+784,784,Kasperl/Hensler_Marionettenbude_korr.csv,"Ferne sey’n des Lebens Leiden,
+       
+       
+        Liebe lohne unser Glück!",68,147,character_speech,2,18,,"
+       Blumer.
+      ",#blumer,269.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+785,785,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Vorige.",0,14,stage_direction,2,19,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+786,786,Kasperl/Hensler_Marionettenbude_korr.csv,Finchel.,15,23,stage_direction,2,19,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+787,787,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Aus der Stadt kömmt die Staffete,
+       
+       
+        An Sie, gnädiger Herr!",0,97,character_speech,2,19,,"
+       Finchel.
+      ",#finchel,270.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+788,788,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (beis.)",0,15,stage_direction,2,19,speech_part,,#graf,271.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+789,789,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Das Looß der grossen Lotterie
+       
+       
+        Gehöret mein fürwahr.",0,92,character_speech,2,19,,"
+       Graf.
+      ",#graf,271.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+790,790,Kasperl/Hensler_Marionettenbude_korr.csv,zum Impr.,127,136,character_speech,2,19,,"
+       Graf.
+      ",#graf,271.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+791,791,Kasperl/Hensler_Marionettenbude_korr.csv,Milchbrüderchen!,154,170,character_speech,2,19,,"
+       Graf.
+      ",#graf,271.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+792,792,Kasperl/Hensler_Marionettenbude_korr.csv,"dieß schenck’ ich dir
+       
+       
+        Als meinem Impressar.",171,238,character_speech,2,19,,"
+       Graf.
+      ",#graf,271.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+793,793,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       (außer sich vor Freude.)",0,32,stage_direction,2,19,speech_part,,#impressar,272.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+794,794,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wohl mir!",0,26,character_speech,2,19,,"
+       Impressar.
+      ",#impressar,272.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+795,795,Kasperl/Hensler_Marionettenbude_korr.csv,nun ist mein Glück gemacht!,27,54,character_speech,2,19,,"
+       Impressar.
+      ",#impressar,272.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+796,796,Kasperl/Hensler_Marionettenbude_korr.csv,"Der Tag hat Freude mir gebracht;
+       
+       
+        War gestern noch ein armer Narr,
+       
+       
+        Der Glücklichste bin ich fürwahr –
+       
+       
+        Ha!",79,255,character_speech,2,19,,"
+       Impressar.
+      ",#impressar,272.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+797,797,Kasperl/Hensler_Marionettenbude_korr.csv,"wär’ das gnäd’ge Publikum,
+       
+       
+        Mit uns zufrieden um und um –
+       
+       
+        Wir wollten heut beym Gläschen Wein,
+       
+       
+        Auf aller Wohlseyn uns erfreun –",256,454,character_speech,2,19,,"
+       Impressar.
+      ",#impressar,272.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+798,798,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      (Alle schwingen die Hüte,) (tanzen und jubeln.)",0,54,stage_direction,2,19,pre_speech,,,,,joy,positive,emotions of pleasure,comedy,KK
+799,799,Kasperl/Hensler_Marionettenbude_korr.csv,"
+       
+        Wir wollten heut beym Gläschen Wein,
+       
+       
+        Auf Aller Wohlseyn uns erfreun;
+       
+       
+        Hoch lebe Alles um und um,
+       
+       
+        Vivat das gnäd’ge Publikum!",0,212,character_speech,2,19,,"
+       Schluß Chor.
+      ",#schluss_chor,273.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+800,800,Kasperl/Hensler_Marionettenbude_korr.csv,"
+      Ende des Singspiels.",0,27,stage_direction,2,19,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK

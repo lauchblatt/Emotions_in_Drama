@@ -1,0 +1,999 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,TextGrid/-Das_goldene_Vlies.xml,"
+                                    Kolchis.",0,45,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1818.0,no_annotation,no_annotation
+1,1,TextGrid/-Das_goldene_Vlies.xml,"Wilde Gegend mit Felsen und Bäumen, im Hintergrunde das Meer.",46,107,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1818.0,no_annotation,no_annotation
+2,2,TextGrid/-Das_goldene_Vlies.xml,"
+                                    Am Gestade desselben ein Altar, von unbehauenen Steinen zusammengefügt, auf dem die kolossale Bildsäule eines nackten, bärtigen Mannes steht, der in seiner Rechten eine Keule, um die Schultern ein Widderfell trägt.",0,251,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1818.0,no_annotation,no_annotation
+3,3,TextGrid/-Das_goldene_Vlies.xml,Links an den Szenen des Mittelgrundes der Eingang eines Hauses mit Stufen und rohen Säulen.,252,343,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1818.0,no_annotation,no_annotation
+4,4,TextGrid/-Das_goldene_Vlies.xml,"Tagesanbruch Medea, Gora, Peritta, Gefolge von Jungfrauen.",344,402,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1818.0,no_annotation,no_annotation
+5,5,TextGrid/-Das_goldene_Vlies.xml,"
+                                    Beim Aufziehen des Vorhanges steht Medea im Vorgrunde mit dem Bogen in der Hand in der Stellung einer, die eben den Pfeil abgeschossen.",0,172,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1818.0,no_annotation,no_annotation
+6,6,TextGrid/-Das_goldene_Vlies.xml,An den Stufen des Altars liegt ein von einem Pfeile durchbohrtes Reh.,173,242,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1818.0,no_annotation,no_annotation
+7,7,TextGrid/-Das_goldene_Vlies.xml,"
+                                       die entfernt gestanden, zum Altare hineilend.",0,85,stage_direction,1,1,speech_part,,,1.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+8,8,TextGrid/-Das_goldene_Vlies.xml,Das Opfer blutet!,0,17,character_speech,1,1,,JUNGFRAUEN,JUNGFRAUEN,1.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+9,9,TextGrid/-Das_goldene_Vlies.xml,"
+                                       in ihrer vorigen Stellung.",0,66,stage_direction,1,1,speech_part,,,2.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+10,10,TextGrid/-Das_goldene_Vlies.xml,Trafs?,0,6,character_speech,1,1,,MEDEA,MEDEA,2.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+11,11,TextGrid/-Das_goldene_Vlies.xml,Gerad ins Herz!,0,15,character_speech,1,1,,EINE DER JUNGFRAUEN.,EINE DER JUNGFRAUEN.,3.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+12,12,TextGrid/-Das_goldene_Vlies.xml,"
+                                       indem sie den Bogen abgibt.",0,67,stage_direction,1,1,speech_part,,,4.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+13,13,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Das deutet Gutes.",0,57,character_speech,1,1,,MEDEA,MEDEA,4.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+14,14,TextGrid/-Das_goldene_Vlies.xml,Laß uns eilen denn!,58,77,character_speech,1,1,,MEDEA,MEDEA,4.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+15,15,TextGrid/-Das_goldene_Vlies.xml,Geh eine hin und spreche das Gebet.,117,152,character_speech,1,1,,MEDEA,MEDEA,4.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+16,16,TextGrid/-Das_goldene_Vlies.xml,"
+                                       zum Altare tretend.",0,59,stage_direction,1,1,speech_part,,,5.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+17,17,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Darimba, mächtige Göttin,
+                                       Menschenerhalterin, Menschentöterin,
+                                       Die den Wein du gibst und des Halmes Frucht,
+                                       Gibst des Weidwerks herzerfreuende Spende
+                                       Und des Todfeinds Blut:
+                                       Darimba, reine, magdliche
+                                       Tochter des Himmels,
+                                       Höre mich!",0,544,character_speech,1,1,,GORA,GORA,5.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+18,18,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Darimba, mächtige Göttin,
+                                       Darimba!",0,113,character_speech,1,1,,CHOR.,CHOR.,6.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+19,19,TextGrid/-Das_goldene_Vlies.xml,Darimba!,114,122,character_speech,1,1,,CHOR.,CHOR.,6.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+20,20,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Sieh, ein Reh hab ich dir getötet,
+                                       Den Pfeil schnellend vom starken Bogen,
+                                       Dein ists!",0,203,character_speech,1,1,,GORA.,GORA.,7.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+21,21,TextGrid/-Das_goldene_Vlies.xml,Laß dir gefallen sein Blut!,204,231,character_speech,1,1,,GORA.,GORA.,7.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+22,22,TextGrid/-Das_goldene_Vlies.xml,"Segne das Feld und den beutereichen Wald,
+                                       Gib, daß wir recht tun und siegen in der Schlacht,
+                                       Gib, daß wir lieben den Wohlwollenden
+                                       Und hassen den, der uns haßt.",271,548,character_speech,1,1,,GORA.,GORA.,7.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+23,23,TextGrid/-Das_goldene_Vlies.xml,"Mach uns stark und reich, Darimba,
+                                       Mächtige Göttin!",588,678,character_speech,1,1,,GORA.,GORA.,7.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+24,24,TextGrid/-Das_goldene_Vlies.xml,"Darimba, Darimba!",0,17,character_speech,1,1,,CHOR.,CHOR.,8.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+25,25,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Das Opfer am Altar zuckt und endet,
+                                       So mögen deine Feinde enden, Darimba!",0,152,character_speech,1,1,,GORA.,GORA.,9.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+26,26,TextGrid/-Das_goldene_Vlies.xml,Deine Feinde und die unsern!,192,220,character_speech,1,1,,GORA.,GORA.,9.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+27,27,TextGrid/-Das_goldene_Vlies.xml,"Es ist Medea, Aietes Tochter,
+                                       Des Herrschers von Kolchis fürstliches Kind,
+                                       Die empor in deine Wohnungen ruft,
+                                       Höre mich, höre mich,
+                                       Und erfülle, was ich bat!",260,573,character_speech,1,1,,GORA.,GORA.,9.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+28,28,TextGrid/-Das_goldene_Vlies.xml,"
+                                       mit Zimbeln und Handpauken zusammenschlagend.",0,85,stage_direction,1,1,speech_part,,,10.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+29,29,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Darimba, Darimba!",0,57,character_speech,1,1,,CHOR,CHOR,10.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+30,30,TextGrid/-Das_goldene_Vlies.xml,Mächtige Göttin!,97,113,character_speech,1,1,,CHOR,CHOR,10.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+31,31,TextGrid/-Das_goldene_Vlies.xml,Eriho!,153,159,character_speech,1,1,,CHOR,CHOR,10.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+32,32,TextGrid/-Das_goldene_Vlies.xml,Jehu!,160,165,character_speech,1,1,,CHOR,CHOR,10.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+33,33,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Und somit genug!",0,56,character_speech,1,1,,MEDEA.,MEDEA.,11.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+34,34,TextGrid/-Das_goldene_Vlies.xml,"Das Opfer ist gebracht,
+                                       Vollendet das zögernde Geschäft.",57,152,character_speech,1,1,,MEDEA.,MEDEA.,11.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+35,35,TextGrid/-Das_goldene_Vlies.xml,"Nun Pfeil und Bogen her, die Hunde vor,
+                                       Daß von des Jagdlärms hallendem Getos
+                                       Der grüne Wald ertöne nah und fern!",192,383,character_speech,1,1,,MEDEA.,MEDEA.,11.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+36,36,TextGrid/-Das_goldene_Vlies.xml,Die Sonne steigt.,423,440,character_speech,1,1,,MEDEA.,MEDEA.,11.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+37,37,TextGrid/-Das_goldene_Vlies.xml,Hinaus!,441,448,character_speech,1,1,,MEDEA.,MEDEA.,11.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+38,38,TextGrid/-Das_goldene_Vlies.xml,hinaus!,449,456,character_speech,1,1,,MEDEA.,MEDEA.,11.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+39,39,TextGrid/-Das_goldene_Vlies.xml,"Und die am schnellsten rennt und die am leichtsten springt,
+                                       Sei Königin des Tages.",496,617,character_speech,1,1,,MEDEA.,MEDEA.,11.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+40,40,TextGrid/-Das_goldene_Vlies.xml,"–
+                                       Du hier, Peritta?",618,676,character_speech,1,1,,MEDEA.,MEDEA.,11.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+41,41,TextGrid/-Das_goldene_Vlies.xml,"Sagt ich dir nicht,
+                                       Daß du mich meiden sollst und gehn?",677,771,character_speech,1,1,,MEDEA.,MEDEA.,11.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+42,42,TextGrid/-Das_goldene_Vlies.xml,So geh!,772,779,character_speech,1,1,,MEDEA.,MEDEA.,11.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+43,43,TextGrid/-Das_goldene_Vlies.xml,"
+                                       knieend.",0,48,stage_direction,1,1,speech_part,,,12.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+44,44,TextGrid/-Das_goldene_Vlies.xml,Medea!,0,6,character_speech,1,1,,PERITTA,PERITTA,12.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+45,45,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Kniee nicht!",0,52,character_speech,1,1,,MEDEA.,MEDEA.,13.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+46,46,TextGrid/-Das_goldene_Vlies.xml,Du sollst nicht knien!,53,75,character_speech,1,1,,MEDEA.,MEDEA.,13.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+47,47,TextGrid/-Das_goldene_Vlies.xml,Hörst du?,115,124,character_speech,1,1,,MEDEA.,MEDEA.,13.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+48,48,TextGrid/-Das_goldene_Vlies.xml,In deine Seele schäm ich mich.,125,155,character_speech,1,1,,MEDEA.,MEDEA.,13.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+49,49,TextGrid/-Das_goldene_Vlies.xml,"So feig, so zahm!",195,212,character_speech,1,1,,MEDEA.,MEDEA.,13.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+50,50,TextGrid/-Das_goldene_Vlies.xml,"Mich schmerzt nicht dein Verlust,
+                                       Mich schmerzt, daß ich dich jetzt verachten muß
+                                       Und hab dich einst geliebt!",213,400,character_speech,1,1,,MEDEA.,MEDEA.,13.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+51,51,TextGrid/-Das_goldene_Vlies.xml,O wüßtest du!,0,13,character_speech,1,1,,PERITTA.,PERITTA.,14.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+52,52,TextGrid/-Das_goldene_Vlies.xml,–,14,15,character_speech,1,1,,PERITTA.,PERITTA.,14.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+53,53,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Was denn?",0,49,character_speech,1,1,,MEDEA.,MEDEA.,15.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+54,54,TextGrid/-Das_goldene_Vlies.xml,"– Stahlst du dich neulich von der Jagd
+                                       Und gingst zum Hirten ins Tergener Tal?",50,167,character_speech,1,1,,MEDEA.,MEDEA.,15.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+55,55,TextGrid/-Das_goldene_Vlies.xml,Tatst dus?,207,217,character_speech,1,1,,MEDEA.,MEDEA.,15.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+56,56,TextGrid/-Das_goldene_Vlies.xml,Sprich nein!,218,230,character_speech,1,1,,MEDEA.,MEDEA.,15.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+57,57,TextGrid/-Das_goldene_Vlies.xml,"Du Falsche, Undankbare!",231,254,character_speech,1,1,,MEDEA.,MEDEA.,15.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+58,58,TextGrid/-Das_goldene_Vlies.xml,"Versprachst du nicht, du wolltest mein sein, mein
+                                       Und keines Manns?",294,400,character_speech,1,1,,MEDEA.,MEDEA.,15.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+59,59,TextGrid/-Das_goldene_Vlies.xml,"Sag an, versprachst dus?",401,425,character_speech,1,1,,MEDEA.,MEDEA.,15.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+60,60,TextGrid/-Das_goldene_Vlies.xml,"Als ichs gelobte, wußt ich damals –",0,35,character_speech,1,1,,PERITTA.,PERITTA.,16.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+61,61,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Schweig!",0,48,character_speech,1,1,,MEDEA.,MEDEA.,17.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+62,62,TextGrid/-Das_goldene_Vlies.xml,"Was brauchts zu wissen, als daß dus versprachst.",88,136,character_speech,1,1,,MEDEA.,MEDEA.,17.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+63,63,TextGrid/-Das_goldene_Vlies.xml,"Ich bin Aietes königliches Kind
+                                       Und was ich tu ist recht, weil ichs getan.",220,333,character_speech,1,1,,MEDEA.,MEDEA.,17.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+64,64,TextGrid/-Das_goldene_Vlies.xml,"Und doch, du Falsche, hätt ich dir versprochen
+                                       Die Hand hier abzuhaun von meinem Arm,
+                                       Ich täts; fürwahr ich täts, weil ichs versprach.",373,585,character_speech,1,1,,MEDEA.,MEDEA.,17.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+65,65,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Es riß mich hin, ich war besinnungslos,
+                                       Und nicht mit meinem Willen, nein –",0,154,character_speech,1,1,,PERITTA.,PERITTA.,18.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+66,66,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ei hört!",0,48,character_speech,1,1,,MEDEA.,MEDEA.,19.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+67,67,TextGrid/-Das_goldene_Vlies.xml,Sie wollte nicht und tats!,88,114,character_speech,1,1,,MEDEA.,MEDEA.,19.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+68,68,TextGrid/-Das_goldene_Vlies.xml,"Geh, du sprichst Unsinn.",115,139,character_speech,1,1,,MEDEA.,MEDEA.,19.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+69,69,TextGrid/-Das_goldene_Vlies.xml,"Wie konnt es denn geschehn,
+                                       Wenn du nicht wolltest.",179,269,character_speech,1,1,,MEDEA.,MEDEA.,19.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+70,70,TextGrid/-Das_goldene_Vlies.xml,"Was ich tu, das will ich,
+                                       Und was ich will – je nu, das tu ich manchmal nicht.",270,387,character_speech,1,1,,MEDEA.,MEDEA.,19.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+71,71,TextGrid/-Das_goldene_Vlies.xml,"Geh hin in deines Hirten dumpfe Hütte,
+                                       Dort kaure dich in Rauch und schmutzgen Qualm
+                                       Und baue Kohl auf einer Spanne Grund.",467,667,character_speech,1,1,,MEDEA.,MEDEA.,19.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+72,72,TextGrid/-Das_goldene_Vlies.xml,"Mein Garten ist die ungemeßne Erde,
+                                       Des Himmels blaue Säulen sind mein Haus,
+                                       Da will ich stehn, des Berges freien Lüften
+                                       Entgegentragend eine freie Brust
+                                       Und auf dich niedersehn und dich verachten.",707,1060,character_speech,1,1,,MEDEA.,MEDEA.,19.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+73,73,TextGrid/-Das_goldene_Vlies.xml,Hallo!,1100,1106,character_speech,1,1,,MEDEA.,MEDEA.,19.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+74,74,TextGrid/-Das_goldene_Vlies.xml,in Wald!,1107,1115,character_speech,1,1,,MEDEA.,MEDEA.,19.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+75,75,TextGrid/-Das_goldene_Vlies.xml,Ihr Mädchen in den Wald!,1116,1140,character_speech,1,1,,MEDEA.,MEDEA.,19.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+76,76,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Indem sie abgehen will, kömmt von der andern Seite ein Kolcher.",0,103,stage_direction,1,1,speech_part,,,19.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+77,77,TextGrid/-Das_goldene_Vlies.xml,"Du Königstochter, höre!",0,23,character_speech,1,1,,KOLCHER.,KOLCHER.,20.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+78,78,TextGrid/-Das_goldene_Vlies.xml,Was?,0,4,character_speech,1,1,,MEDEA.,MEDEA.,21.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+79,79,TextGrid/-Das_goldene_Vlies.xml,"Wer ruft,",5,14,character_speech,1,1,,MEDEA.,MEDEA.,21.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+80,80,TextGrid/-Das_goldene_Vlies.xml,Ein Schiff mit Fremden angelangt zur Stund!,0,43,character_speech,1,1,,KOLCHER.,KOLCHER.,22.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+81,81,TextGrid/-Das_goldene_Vlies.xml,Dem Vater sag es an.,0,20,character_speech,1,1,,MEDEA.,MEDEA.,23.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+82,82,TextGrid/-Das_goldene_Vlies.xml,Was kümmerts mich!,21,39,character_speech,1,1,,MEDEA.,MEDEA.,23.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+83,83,TextGrid/-Das_goldene_Vlies.xml,Wo weilt er?,0,12,character_speech,1,1,,KOLCHER.,KOLCHER.,24.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+84,84,TextGrid/-Das_goldene_Vlies.xml,Drin im Haus!,0,13,character_speech,1,1,,MEDEA.,MEDEA.,25.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+85,85,TextGrid/-Das_goldene_Vlies.xml,Ich eile!,0,9,character_speech,1,1,,KOLCHER.,KOLCHER.,26.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+86,86,TextGrid/-Das_goldene_Vlies.xml,Tus!,0,4,character_speech,1,1,,MEDEA.,MEDEA.,27.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+87,87,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Der Bote ab ins Haus.",0,61,stage_direction,1,1,speech_part,,,27.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+88,88,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Daß diese Fremden uns die Jagdlust stören!",0,82,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+89,89,TextGrid/-Das_goldene_Vlies.xml,"Ihr Schiff, es ankert wohl in jener Bucht,
+                                       Die sonst zum Sammelplatz uns dient der Jagd.",122,249,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+90,90,TextGrid/-Das_goldene_Vlies.xml,"Allein, was tuts!",289,306,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+91,91,TextGrid/-Das_goldene_Vlies.xml,"Bringt lange Speere her,
+                                       Und naht ein Kühner, zahl er es mit Blut!",307,412,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+92,92,TextGrid/-Das_goldene_Vlies.xml,"Nur Speere her, doch leise, leise, hört!",452,492,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+93,93,TextGrid/-Das_goldene_Vlies.xml,"Denn sähs der Vater, wehren möcht er es.",532,572,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+94,94,TextGrid/-Das_goldene_Vlies.xml,Kommt!,656,662,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+95,95,TextGrid/-Das_goldene_Vlies.xml,"– Dort das Mal, von Steinen aufgehäuft,
+                                       Seht ihrs dort oben?",663,762,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+96,96,TextGrid/-Das_goldene_Vlies.xml,Wer erreichts zuerst?,763,784,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+97,97,TextGrid/-Das_goldene_Vlies.xml,Stellt euch!,824,836,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+98,98,TextGrid/-Das_goldene_Vlies.xml,– Nichts da!,837,849,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+99,99,TextGrid/-Das_goldene_Vlies.xml,Nicht vorgetreten!,850,868,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+100,100,TextGrid/-Das_goldene_Vlies.xml,Weg!,869,873,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+101,101,TextGrid/-Das_goldene_Vlies.xml,"Wer siegt, hat auf der Jagd den ersten Schuß:
+                                       So, stellt euch und wenn ich das Zeichen gebe,
+                                       Dann wie der Pfeil vom Bogen fort!",913,1118,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+102,102,TextGrid/-Das_goldene_Vlies.xml,Gebt acht!,1119,1129,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+103,103,TextGrid/-Das_goldene_Vlies.xml,Acht!,1169,1174,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+104,104,TextGrid/-Das_goldene_Vlies.xml,– Jetzt!,1175,1183,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+105,105,TextGrid/-Das_goldene_Vlies.xml,–,1184,1185,character_speech,1,1,,MEDEA.,MEDEA.,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+106,106,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Aietes ist unterdessen aus dem Hause getreten, mit ihm der Bote, der gleich abgeht.",0,123,stage_direction,1,1,speech_part,,,28.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+107,107,TextGrid/-Das_goldene_Vlies.xml,Medea!,0,6,character_speech,1,1,,AIETES.,AIETES.,29.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+108,108,TextGrid/-Das_goldene_Vlies.xml,"
+                                       sich umwendend, aber ohne ihren Platz zu verändern.",0,91,stage_direction,1,1,speech_part,,,30.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+109,109,TextGrid/-Das_goldene_Vlies.xml,Vater!,0,6,character_speech,1,1,,MEDEA,MEDEA,30.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+110,110,TextGrid/-Das_goldene_Vlies.xml,Du wohin?,0,9,character_speech,1,1,,AIETES.,AIETES.,31.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+111,111,TextGrid/-Das_goldene_Vlies.xml,In Wald!,0,8,character_speech,1,1,,MEDEA.,MEDEA.,32.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+112,112,TextGrid/-Das_goldene_Vlies.xml,Bleib jetzt!,0,12,character_speech,1,1,,AIETES.,AIETES.,33.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+113,113,TextGrid/-Das_goldene_Vlies.xml,Warum?,0,6,character_speech,1,1,,MEDEA.,MEDEA.,34.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+114,114,TextGrid/-Das_goldene_Vlies.xml,"Ich wills, du sollst!",0,21,character_speech,1,1,,AIETES.,AIETES.,35.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+115,115,TextGrid/-Das_goldene_Vlies.xml,"So fürchtest du, daß jene Fremden –",0,35,character_speech,1,1,,MEDEA.,MEDEA.,36.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+116,116,TextGrid/-Das_goldene_Vlies.xml,Weißt du also?,0,14,character_speech,1,1,,AIETES.,AIETES.,37.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+117,117,TextGrid/-Das_goldene_Vlies.xml,–,15,16,character_speech,1,1,,AIETES.,AIETES.,37.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+118,118,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Näher tretend, mit gedämpfter Stimme.",0,77,stage_direction,1,1,speech_part,,,37.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+119,119,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Angekommen Männer
+                                       Aus fernem Land,
+                                       Bringen Gold, bringen Schätze,
+                                       Reiche Beute.",0,236,character_speech,1,1,,AIETES.,AIETES.,37.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+120,120,TextGrid/-Das_goldene_Vlies.xml,Wem?,0,4,character_speech,1,1,,MEDEA.,MEDEA.,38.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+121,121,TextGrid/-Das_goldene_Vlies.xml,"Uns, wenn wir wollen.",0,21,character_speech,1,1,,AIETES.,AIETES.,39.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+122,122,TextGrid/-Das_goldene_Vlies.xml,Uns?,0,4,character_speech,1,1,,MEDEA.,MEDEA.,40.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+123,123,TextGrid/-Das_goldene_Vlies.xml,"
+                                       's sind Fremde, sind Feinde,
+                                       Kommen zu verwüsten unser Land.",0,139,character_speech,1,1,,AIETES.,AIETES.,41.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+124,124,TextGrid/-Das_goldene_Vlies.xml,So geh hin und töte sie!,0,24,character_speech,1,1,,MEDEA.,MEDEA.,42.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+125,125,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Zahlreich sind sie und stark bewehrt,
+                                       Reich an List die fremden Männer,
+                                       Leicht töten sie uns.",0,211,character_speech,1,1,,AIETES.,AIETES.,43.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+126,126,TextGrid/-Das_goldene_Vlies.xml,So laß sie ziehn!,0,17,character_speech,1,1,,MEDEA.,MEDEA.,44.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+127,127,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Nimmermehr.",0,51,character_speech,1,1,,AIETES.,AIETES.,45.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+128,128,TextGrid/-Das_goldene_Vlies.xml,Sie sollen mir –,91,107,character_speech,1,1,,AIETES.,AIETES.,45.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+129,129,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Tu was du willst,
+                                       Mich aber laß zur Jagd!",0,120,character_speech,1,1,,MEDEA.,MEDEA.,46.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+130,130,TextGrid/-Das_goldene_Vlies.xml,"Bleib, sag ich, bleib!",0,22,character_speech,1,1,,AIETES.,AIETES.,47.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+131,131,TextGrid/-Das_goldene_Vlies.xml,Was soll ich?,0,13,character_speech,1,1,,MEDEA.,MEDEA.,48.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+132,132,TextGrid/-Das_goldene_Vlies.xml,Helfen!,0,7,character_speech,1,1,,AIETES.,AIETES.,49.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+133,133,TextGrid/-Das_goldene_Vlies.xml,Raten!,8,14,character_speech,1,1,,AIETES.,AIETES.,49.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+134,134,TextGrid/-Das_goldene_Vlies.xml,Ich?,0,4,character_speech,1,1,,MEDEA.,MEDEA.,50.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+135,135,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Du bist klug, du bist stark.",0,68,character_speech,1,1,,AIETES.,AIETES.,51.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+136,136,TextGrid/-Das_goldene_Vlies.xml,"Dich hat die Mutter gelehrt
+                                       Aus Kräutern, aus Steinen
+                                       Tränke bereiten,
+                                       Die den Willen binden
+                                       Und fesseln die Kraft.",108,379,character_speech,1,1,,AIETES.,AIETES.,51.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+137,137,TextGrid/-Das_goldene_Vlies.xml,"Du rufst Geister
+                                       Und besprichst den Mond,
+                                       Hilf mir, mein gutes Kind!",419,565,character_speech,1,1,,AIETES.,AIETES.,51.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+138,138,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Bin ich dein gutes Kind!",0,64,character_speech,1,1,,MEDEA.,MEDEA.,52.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+139,139,TextGrid/-Das_goldene_Vlies.xml,Sonst achtest du meiner wenig.,104,134,character_speech,1,1,,MEDEA.,MEDEA.,52.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+140,140,TextGrid/-Das_goldene_Vlies.xml,"Wenn ich will, willst du nicht
+                                       
+                                       Und schiltst mich und schlägst nach mir;
+                                       Aber wenn du mein bedarfst,
+                                       Lockst du mich mit Schmeichelworten
+                                       Und nennst mich Medea, dein liebes Kind.",174,546,character_speech,1,1,,MEDEA.,MEDEA.,52.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+141,141,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Vergiß, Medea, was sonst geschehn.",0,74,character_speech,1,1,,AIETES.,AIETES.,53.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+142,142,TextGrid/-Das_goldene_Vlies.xml,Bist doch auch nicht immer wie du solltest.,114,157,character_speech,1,1,,AIETES.,AIETES.,53.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+143,143,TextGrid/-Das_goldene_Vlies.xml,Jetzt steh mir bei und hilf mir.,197,229,character_speech,1,1,,AIETES.,AIETES.,53.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+144,144,TextGrid/-Das_goldene_Vlies.xml,Wozu?,0,5,character_speech,1,1,,MEDEA.,MEDEA.,54.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+145,145,TextGrid/-Das_goldene_Vlies.xml,"
+                                       So höre denn, mein gutes Mädchen!",0,73,character_speech,1,1,,AIETES.,AIETES.,55.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+146,146,TextGrid/-Das_goldene_Vlies.xml,"Das Gold der Fremden all und ihre Schätze –
+                                       Gelt lächelst?",113,210,character_speech,1,1,,AIETES.,AIETES.,55.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+147,147,TextGrid/-Das_goldene_Vlies.xml,Ich?,0,4,character_speech,1,1,,MEDEA.,MEDEA.,56.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+148,148,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ei ja, das viele Gold,
+                                       Die bunten Steine und die reichen Kleider,
+                                       Wie sollen die mein Mädchen zieren!",0,219,character_speech,1,1,,AIETES.,AIETES.,57.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+149,149,TextGrid/-Das_goldene_Vlies.xml,"Ei, immerhin!",0,13,character_speech,1,1,,MEDEA.,MEDEA.,58.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+150,150,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Du schlaue Bübin, sieh,
+                                       Ich weiß, dir lacht das Herz nach all der Zier!",0,150,character_speech,1,1,,AIETES.,AIETES.,59.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+151,151,TextGrid/-Das_goldene_Vlies.xml,"Kommt nur zur Sache, Vater!",0,27,character_speech,1,1,,MEDEA.,MEDEA.,60.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+152,152,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ich –
+                                       Heiß dort die Mädchen gehn!",0,112,character_speech,1,1,,AIETES.,AIETES.,61.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+153,153,TextGrid/-Das_goldene_Vlies.xml,Warum?,0,6,character_speech,1,1,,MEDEA.,MEDEA.,62.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+154,154,TextGrid/-Das_goldene_Vlies.xml,Ich wills!,0,10,character_speech,1,1,,AIETES.,AIETES.,63.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+155,155,TextGrid/-Das_goldene_Vlies.xml,Sie sollen ja mit mir zur Jagd.,0,31,character_speech,1,1,,MEDEA.,MEDEA.,64.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+156,156,TextGrid/-Das_goldene_Vlies.xml,Heut keine Jagd!,0,16,character_speech,1,1,,AIETES.,AIETES.,65.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+157,157,TextGrid/-Das_goldene_Vlies.xml,Nicht?,0,6,character_speech,1,1,,MEDEA.,MEDEA.,66.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+158,158,TextGrid/-Das_goldene_Vlies.xml,Nein sag ich und nein!,0,22,character_speech,1,1,,AIETES.,AIETES.,67.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+159,159,TextGrid/-Das_goldene_Vlies.xml,und nein!,23,32,character_speech,1,1,,AIETES.,AIETES.,67.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+160,160,TextGrid/-Das_goldene_Vlies.xml,Erst lobst du mich und –,0,24,character_speech,1,1,,MEDEA.,MEDEA.,68.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+161,161,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Nun, sei gut, mein Kind!",0,64,character_speech,1,1,,AIETES.,AIETES.,69.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+162,162,TextGrid/-Das_goldene_Vlies.xml,Komm hierher!,104,117,character_speech,1,1,,AIETES.,AIETES.,69.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+163,163,TextGrid/-Das_goldene_Vlies.xml,Weiter!,118,125,character_speech,1,1,,AIETES.,AIETES.,69.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+164,164,TextGrid/-Das_goldene_Vlies.xml,"hierher, so!",126,138,character_speech,1,1,,AIETES.,AIETES.,69.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+165,165,TextGrid/-Das_goldene_Vlies.xml,"Du bist ein kluges Mädchen, dir kann ich trauen.",178,226,character_speech,1,1,,AIETES.,AIETES.,69.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+166,166,TextGrid/-Das_goldene_Vlies.xml,Ich – –,266,273,character_speech,1,1,,AIETES.,AIETES.,69.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+167,167,TextGrid/-Das_goldene_Vlies.xml,Nun!,0,4,character_speech,1,1,,MEDEA.,MEDEA.,70.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+168,168,TextGrid/-Das_goldene_Vlies.xml,Was siehst du mir so starr ins Antlitz?,0,39,character_speech,1,1,,AIETES.,AIETES.,71.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+169,169,TextGrid/-Das_goldene_Vlies.xml,"Ich höre, Vater!",0,16,character_speech,1,1,,MEDEA.,MEDEA.,72.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+170,170,TextGrid/-Das_goldene_Vlies.xml,"
+                                       O, ich kenne dich!",0,58,character_speech,1,1,,AIETES.,AIETES.,73.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+171,171,TextGrid/-Das_goldene_Vlies.xml,"Willst du den Vater meistern, Ungeratne?",98,138,character_speech,1,1,,AIETES.,AIETES.,73.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+172,172,TextGrid/-Das_goldene_Vlies.xml,"Ich entscheide was gut, was nicht.",221,255,character_speech,1,1,,AIETES.,AIETES.,73.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+173,173,TextGrid/-Das_goldene_Vlies.xml,Du gehorchst.,295,308,character_speech,1,1,,AIETES.,AIETES.,73.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+174,174,TextGrid/-Das_goldene_Vlies.xml,"Aus meinen Augen, Verhaßte!",309,336,character_speech,1,1,,AIETES.,AIETES.,73.0,UNKNOWN,despair,S,,1818.0,negative,emotions of anxiety
+175,175,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Medea geht.",0,51,stage_direction,1,1,speech_part,,,73.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+176,176,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Bleib!",0,46,character_speech,1,1,,AIETES.,AIETES.,74.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+177,177,TextGrid/-Das_goldene_Vlies.xml,"– Wenn du wolltest, begreifen wolltest –
+                                       Ich weiß, du kannst, allein du willst es nicht.",47,174,character_speech,1,1,,AIETES.,AIETES.,74.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+178,178,TextGrid/-Das_goldene_Vlies.xml,"So seis denn, bleib aus deines Vaters Rat
+                                       Und diene, weil du dienen willst.",214,328,character_speech,1,1,,AIETES.,AIETES.,74.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+179,179,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Man hört in der Ferne kriegerische Musik.",0,81,stage_direction,1,1,speech_part,,,74.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+180,180,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Was ist das?",0,52,character_speech,1,1,,AIETES.,AIETES.,75.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+181,181,TextGrid/-Das_goldene_Vlies.xml,"Weh, sie kommen uns zuvor!",53,79,character_speech,1,1,,AIETES.,AIETES.,75.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+182,182,TextGrid/-Das_goldene_Vlies.xml,"Siehst du, Törin?",119,136,character_speech,1,1,,AIETES.,AIETES.,75.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+183,183,TextGrid/-Das_goldene_Vlies.xml,"Die du schonen wolltest, sie töten uns!",137,176,character_speech,1,1,,AIETES.,AIETES.,75.0,UNKNOWN,despair,S,,1818.0,negative,emotions of anxiety
+184,184,TextGrid/-Das_goldene_Vlies.xml,In vollem Zug hierher die fremden Männer!,216,257,character_speech,1,1,,AIETES.,AIETES.,75.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+185,185,TextGrid/-Das_goldene_Vlies.xml,Weh uns!,297,305,character_speech,1,1,,AIETES.,AIETES.,75.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+186,186,TextGrid/-Das_goldene_Vlies.xml,Waffen!,306,313,character_speech,1,1,,AIETES.,AIETES.,75.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+187,187,TextGrid/-Das_goldene_Vlies.xml,Waffen!,314,321,character_speech,1,1,,AIETES.,AIETES.,75.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+188,188,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Der Bote kommt wieder.",0,62,stage_direction,1,1,speech_part,,,75.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+189,189,TextGrid/-Das_goldene_Vlies.xml,"Der Führer, Herr, der fremden Männer!",0,37,character_speech,1,1,,BOTE.,BOTE.,76.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+190,190,TextGrid/-Das_goldene_Vlies.xml,–!,38,40,character_speech,1,1,,BOTE.,BOTE.,76.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+191,191,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Was will er?",0,52,character_speech,1,1,,AIETES.,AIETES.,77.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+192,192,TextGrid/-Das_goldene_Vlies.xml,"Meine Krone, mein Leben?",53,77,character_speech,1,1,,AIETES.,AIETES.,77.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+193,193,TextGrid/-Das_goldene_Vlies.xml,"Noch hab ich Mut, noch hab ich Kraft,
+                                       Noch wallt Blut in meinen Adern,
+                                       Zu tauschen Tod um Tod!",117,289,character_speech,1,1,,AIETES.,AIETES.,77.0,UNKNOWN,despair,S,,1818.0,negative,emotions of anxiety
+194,194,TextGrid/-Das_goldene_Vlies.xml,Er bittet um Gehör.,0,19,character_speech,1,1,,BOTE.,BOTE.,78.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+195,195,TextGrid/-Das_goldene_Vlies.xml,Bittet?,0,7,character_speech,1,1,,AIETES.,AIETES.,79.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+196,196,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Freundlich sich mit dir zu besprechen,
+                                       Zu stiften friedlichen Vergleich.",0,151,character_speech,1,1,,BOTE.,BOTE.,80.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+197,197,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Bittet?",0,47,character_speech,1,1,,AIETES.,AIETES.,81.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+198,198,TextGrid/-Das_goldene_Vlies.xml,"und hat die Macht in Händen,
+                                       
+                                          
+Findet uns unbewehrt, er in Waffen,
+                                       Und bittet, der Tor!",48,255,character_speech,1,1,,AIETES.,AIETES.,81.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+199,199,TextGrid/-Das_goldene_Vlies.xml,"
+                                       In dein Haus will er treten,
+                                       Sitzen an deinem Tische,
+                                       Essen von deinem Brot
+                                       Und dir vertrauen,
+                                       Was ihn hierher geführt.",0,315,character_speech,1,1,,BOTE.,BOTE.,82.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+200,200,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Er komme, er komme.",0,59,character_speech,1,1,,AIETES.,AIETES.,83.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+201,201,TextGrid/-Das_goldene_Vlies.xml,"Hält er Friede nur zwei Stunden,
+                                       Später fürcht ich ihn nicht mehr.",99,204,character_speech,1,1,,AIETES.,AIETES.,83.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+202,202,TextGrid/-Das_goldene_Vlies.xml,"Sag ihm, daß er nahe,
+                                       Aber ohne Schild, ohne Speer,
+                                       Nur das Schwert an der Seite,
+                                       Er und seine Gesellen.",244,465,character_speech,1,1,,AIETES.,AIETES.,83.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+203,203,TextGrid/-Das_goldene_Vlies.xml,"Dann aber geh und biet auf die Getreuen
+                                       Rings herum im ganzen Lande,
+                                       Heiß sie sich stellen, gewappnet, bewehrt
+                                       Mit Schild und Panzer, mit Lanz und Schwert
+                                       Und sich verbergen im nahen Gehölz,
+                                       Bis ich winke, bis ich rufe.",505,919,character_speech,1,1,,AIETES.,AIETES.,83.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+204,204,TextGrid/-Das_goldene_Vlies.xml,– Geh!,920,926,character_speech,1,1,,AIETES.,AIETES.,83.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+205,205,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Bote ab.",0,48,stage_direction,1,1,speech_part,,,83.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+206,206,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ich will dein lachen, du schwacher Tor!",0,79,character_speech,1,1,,AIETES.,AIETES.,83.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+207,207,TextGrid/-Das_goldene_Vlies.xml,"Du aber, Medea, sei mir gewärtig!",119,152,character_speech,1,1,,AIETES.,AIETES.,83.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+208,208,TextGrid/-Das_goldene_Vlies.xml,"Einen Trank, ich weiß es, bereitest du,
+                                       Der mit sanfter, schmeichelnder Betäubung
+                                       Die Sinn entbindet ihres Dieneramts
+                                       Und ihren Herrn zum Sklaven macht des Schlafs.",192,473,character_speech,1,1,,AIETES.,AIETES.,83.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+209,209,TextGrid/-Das_goldene_Vlies.xml,Geh hin und hole mir von jenem Trank!,513,550,character_speech,1,1,,AIETES.,AIETES.,83.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+210,210,TextGrid/-Das_goldene_Vlies.xml,Wozu?,0,5,character_speech,1,1,,MEDEA.,MEDEA.,84.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+211,211,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Geh, sag ich, hin und hol ihn mir!",0,74,character_speech,1,1,,AIETES.,AIETES.,85.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+212,212,TextGrid/-Das_goldene_Vlies.xml,Dann komm zurück.,114,131,character_speech,1,1,,AIETES.,AIETES.,85.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+213,213,TextGrid/-Das_goldene_Vlies.xml,"Ich will sie zähmen, diese Stolzen!",132,167,character_speech,1,1,,AIETES.,AIETES.,85.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+214,214,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Medea ab.",0,49,stage_direction,1,1,speech_part,,,85.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+215,215,TextGrid/-Das_goldene_Vlies.xml,"
+                                       gegen den Altar im Hintergrunde gewendet.",0,81,stage_direction,1,1,speech_part,,,86.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+216,216,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Peronto, meiner Väter Gott!",0,67,character_speech,1,1,,AIETES,AIETES,86.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+217,217,TextGrid/-Das_goldene_Vlies.xml,"Laß gelingen, was ich sinne,
+                                       Und teilen will ich, treu und redlich,
+                                       Was wir gewinnen von unsern Feinden.",107,289,character_speech,1,1,,AIETES,AIETES,86.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+218,218,TextGrid/-Das_goldene_Vlies.xml,"
+                                       
+                                          
+Kriegerische Musik.",0,103,stage_direction,1,1,speech_part,,,86.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+219,219,TextGrid/-Das_goldene_Vlies.xml,"Bewaffnete Griechen ziehen auf, mit grünen Zweigen in der Hand.",104,167,stage_direction,1,1,speech_part,,,86.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+220,220,TextGrid/-Das_goldene_Vlies.xml,"Der letzte geht Phryxus, in der linken Hand gleichfalls einen grünen Zweig, in der Rechten ein goldenes Widderfell, in Gestalt eines Panieres auf der Lanze tragend.",168,332,stage_direction,1,1,speech_part,,,86.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+221,221,TextGrid/-Das_goldene_Vlies.xml,Bewaffnete Kolcher treten von der andern Seite ein.,333,384,stage_direction,1,1,speech_part,,,86.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+222,222,TextGrid/-Das_goldene_Vlies.xml,Die Musik schweigt.,385,404,stage_direction,1,1,speech_part,,,86.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+223,223,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Indem Phryxus an dem im Hintergrunde",0,76,stage_direction,1,1,speech_part,,,86.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+224,224,TextGrid/-Das_goldene_Vlies.xml,"
+                                       befindlichen Altar und der darauf stehenden Bildsäule vorbeigeht, bleibt er, wie von Erstaunen gefesselt, stehn, dann spricht er.",0,169,stage_direction,1,1,speech_part,,,86.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+225,225,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Kann ich den Augen traun?",0,65,character_speech,1,1,,AIETES,AIETES,86.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+226,226,TextGrid/-Das_goldene_Vlies.xml,"– Er ists, er ists!",66,85,character_speech,1,1,,AIETES,AIETES,86.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+227,227,TextGrid/-Das_goldene_Vlies.xml,"Sei mir gegrüßt, du freundliche Gestalt,
+                                       Die mich durch Wogensturm und Unglücksnacht
+                                       Hierher geführt an diese ferne Küste,
+                                       Wo Sicherheit und einfach stille Ruh
+                                       Mit Kindesblicken mir entgegenlächeln.",125,479,character_speech,1,1,,AIETES,AIETES,86.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+228,228,TextGrid/-Das_goldene_Vlies.xml,"Dies Zeichen, das du mir als Pfand der Rettung
+                                       In jener unheilvollen Stunde gabst
+                                       Und das, wie der Polarstern vor mir leuchtend,
+                                       Mich in den Hafen eingeführt des Glücks,
+                                       Ich pflanz es dankbar auf vor deinem Altar
+                                       Und beuge betend dir ein frommes Knie,
+                                       Der du ein Gott mir warest in der Tat,
+                                       Wenn gleich dem Namen nach, mir Fremden, nicht!",519,1130,character_speech,1,1,,AIETES,AIETES,86.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+229,229,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Er kniet.",0,49,stage_direction,1,1,speech_part,,,86.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+230,230,TextGrid/-Das_goldene_Vlies.xml,"
+                                       im Vorgrunde.",0,53,stage_direction,1,1,speech_part,,,87.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+231,231,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Was ist das?",0,52,character_speech,1,1,,AIETES,AIETES,87.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+232,232,TextGrid/-Das_goldene_Vlies.xml,Er beugt sein Knie dem Gott meiner Väter!,92,133,character_speech,1,1,,AIETES,AIETES,87.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+233,233,TextGrid/-Das_goldene_Vlies.xml,"Denk der Opfer, die ich dir gebracht,
+                                       Hör ihn nicht, Peronto,
+                                       Höre den Fremden nicht!",173,336,character_speech,1,1,,AIETES,AIETES,87.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+234,234,TextGrid/-Das_goldene_Vlies.xml,"
+                                       aufstehend.",0,51,stage_direction,1,1,speech_part,,,88.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+235,235,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Erfüllet ist des Dankens süße Pflicht.",0,78,character_speech,1,1,,PHRYXUS,PHRYXUS,88.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+236,236,TextGrid/-Das_goldene_Vlies.xml,Nun führt zu eurem König mich!,118,148,character_speech,1,1,,PHRYXUS,PHRYXUS,88.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+237,237,TextGrid/-Das_goldene_Vlies.xml,Wo weilt er?,149,161,character_speech,1,1,,PHRYXUS,PHRYXUS,88.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+238,238,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Die Kolcher weichen schweigend und scheu zu beiden Seiten aus dem Wege.",0,111,stage_direction,1,1,speech_part,,,88.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+239,239,TextGrid/-Das_goldene_Vlies.xml,"
+                                       erblickt den König, auf ihn zugehend.",0,77,stage_direction,1,1,speech_part,,,89.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+240,240,TextGrid/-Das_goldene_Vlies.xml,In dir grüß ich den Herrn wohl dieses Landes?,0,45,character_speech,1,1,,PHRYXUS,PHRYXUS,89.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+241,241,TextGrid/-Das_goldene_Vlies.xml,Ich bin der Kolcher Fürst!,0,26,character_speech,1,1,,AIETES.,AIETES.,90.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+242,242,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Sei mir gegrüßt!",0,56,character_speech,1,1,,PHRYXUS.,PHRYXUS.,91.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+243,243,TextGrid/-Das_goldene_Vlies.xml,"Es führte Göttermacht mich in dein Reich,
+                                       
+                                          
+So ehr in mir den Gott, der mich beschützt.",96,264,character_speech,1,1,,PHRYXUS.,PHRYXUS.,91.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+244,244,TextGrid/-Das_goldene_Vlies.xml,"Der Mann, der dort auf jenem Altar thront,
+                                       Ist er das Bildnis eines, der da lebte?",304,425,character_speech,1,1,,PHRYXUS.,PHRYXUS.,91.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+245,245,TextGrid/-Das_goldene_Vlies.xml,"Wie, oder ehrt ihr ihn als einen Himmlischen?",465,510,character_speech,1,1,,PHRYXUS.,PHRYXUS.,91.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+246,246,TextGrid/-Das_goldene_Vlies.xml,"Es ist Peronto, der Kolcher Gott.",0,33,character_speech,1,1,,AIETES.,AIETES.,92.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+247,247,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Peronto!",0,48,character_speech,1,1,,PHRYXUS.,PHRYXUS.,93.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+248,248,TextGrid/-Das_goldene_Vlies.xml,Rauher Laut dem Ohr des Fremden.,49,81,character_speech,1,1,,PHRYXUS.,PHRYXUS.,93.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+249,249,TextGrid/-Das_goldene_Vlies.xml,Wohltönend aber dem Geretteten.,121,152,character_speech,1,1,,PHRYXUS.,PHRYXUS.,93.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+250,250,TextGrid/-Das_goldene_Vlies.xml,"Verehrst du jenen dort als deinen Schützer,
+                                       So liegt ein Bruder jetzt in deinem Arm,
+                                       Denn Brüder sind ja eines Vaters Söhne.",192,394,character_speech,1,1,,PHRYXUS.,PHRYXUS.,93.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+251,251,TextGrid/-Das_goldene_Vlies.xml,"
+                                       der Umarmung ausweichend.",0,65,stage_direction,1,1,speech_part,,,94.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+252,252,TextGrid/-Das_goldene_Vlies.xml,Schützer er dir?,0,16,character_speech,1,1,,AIETES,AIETES,94.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+253,253,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ja, du sollst noch hören.",0,65,character_speech,1,1,,PHRYXUS.,PHRYXUS.,95.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+254,254,TextGrid/-Das_goldene_Vlies.xml,Doch laß mich bringen erst mein Weihgeschenk.,105,150,character_speech,1,1,,PHRYXUS.,PHRYXUS.,95.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+255,255,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Er geht zum Altar und stößt vor demselben sein Panier in den Boden Medea kommt mit einem Becher.",0,136,stage_direction,1,1,speech_part,,,95.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+256,256,TextGrid/-Das_goldene_Vlies.xml,"
+                                       laut.",0,45,stage_direction,1,1,speech_part,,,96.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+257,257,TextGrid/-Das_goldene_Vlies.xml,"Hier, Vater, ist der Trank!",0,27,character_speech,1,1,,MEDEA,MEDEA,96.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+258,258,TextGrid/-Das_goldene_Vlies.xml,"
+                                       sie gewaltsam auf die Seite ziehend, leise.",0,83,stage_direction,1,1,speech_part,,,97.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+259,259,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Schweig, Törichte!",0,58,character_speech,1,1,,AIETES,AIETES,97.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+260,260,TextGrid/-Das_goldene_Vlies.xml,Siehst du denn nicht?,98,119,character_speech,1,1,,AIETES,AIETES,97.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+261,261,TextGrid/-Das_goldene_Vlies.xml,Was?,0,4,character_speech,1,1,,MEDEA.,MEDEA.,98.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+262,262,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Den Becher gib der Sklavin
+                                       Und schweig!",0,118,character_speech,1,1,,AIETES.,AIETES.,99.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+263,263,TextGrid/-Das_goldene_Vlies.xml,Wer ist der Mann?,0,17,character_speech,1,1,,MEDEA.,MEDEA.,100.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+264,264,TextGrid/-Das_goldene_Vlies.xml,"Der Fremden Führer, schweig!",0,28,character_speech,1,1,,AIETES.,AIETES.,101.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+265,265,TextGrid/-Das_goldene_Vlies.xml,"
+                                       vom Altare zurückkommend.",0,65,stage_direction,1,1,speech_part,,,102.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+266,266,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Jetzt tret ich leicht erst in dein gastlich Haus!",0,89,character_speech,1,1,,PHRYXUS,PHRYXUS,102.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+267,267,TextGrid/-Das_goldene_Vlies.xml,"Doch wer ist dieses blühend holde Wesen,
+                                       Das wie der goldne Saum der Wetterwolke
+                                       Sich schmiegt an deine kriegrische Gestalt?",129,331,character_speech,1,1,,PHRYXUS,PHRYXUS,102.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+268,268,TextGrid/-Das_goldene_Vlies.xml,"Die roten Lippen und der Wange Licht,
+                                       Sie scheinen Huld und Liebe zu verheißen,
+                                       Streng widersprochen von dem finstern Aug
+                                       Das blitzend wie ein drohender Komet
+                                       Hervorstrahlt aus der Locken schwarzem Dunkel.",371,732,character_speech,1,1,,PHRYXUS,PHRYXUS,102.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+269,269,TextGrid/-Das_goldene_Vlies.xml,"Halb Charis steht sie da und halb Mänade,
+                                       Entflammt von ihres Gottes heilger Glut.",772,893,character_speech,1,1,,PHRYXUS,PHRYXUS,102.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+270,270,TextGrid/-Das_goldene_Vlies.xml,"Wer bist du, holdes Mädchen?",933,961,character_speech,1,1,,PHRYXUS,PHRYXUS,102.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+271,271,TextGrid/-Das_goldene_Vlies.xml,"Sprich, Medea!",0,14,character_speech,1,1,,AIETES.,AIETES.,103.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+272,272,TextGrid/-Das_goldene_Vlies.xml,"
+                                       trocken.",0,48,stage_direction,1,1,speech_part,,,104.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+273,273,TextGrid/-Das_goldene_Vlies.xml,"Medea bin ich, dieses Königs Kind!",0,34,character_speech,1,1,,MEDEA,MEDEA,104.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+274,274,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Fürwahr ein Kind und eine Königin!",0,74,character_speech,1,1,,PHRYXUS.,PHRYXUS.,105.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+275,275,TextGrid/-Das_goldene_Vlies.xml,"Ich nehm dich an als gute Vorbedeutung
+                                       Für eine Zukunft, die uns noch verhüllt.",114,232,character_speech,1,1,,PHRYXUS.,PHRYXUS.,105.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+276,276,TextGrid/-Das_goldene_Vlies.xml,"O lächle, Mädchenbild, auf meinen Eintritt!",272,315,character_speech,1,1,,PHRYXUS.,PHRYXUS.,105.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+277,277,TextGrid/-Das_goldene_Vlies.xml,"Vielleicht, wer weiß, ob nicht dein Vater,
+                                       Von dem ich Zuflucht nur und Schutz verlangt,
+                                       Mir einst noch mehr gibt, mehr noch, o Medea!",355,567,character_speech,1,1,,PHRYXUS.,PHRYXUS.,105.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+278,278,TextGrid/-Das_goldene_Vlies.xml,"Was also, Fremdling, ist dein Begehr?",0,37,character_speech,1,1,,AIETES.,AIETES.,106.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+279,279,TextGrid/-Das_goldene_Vlies.xml,"
+                                       So höre denn, was mich hierher geführt,
+                                       Was ich verloren, Herr, und was ich suche.",0,161,character_speech,1,1,,PHRYXUS.,PHRYXUS.,107.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+280,280,TextGrid/-Das_goldene_Vlies.xml,"Geboren bin ich in dem schönen Hellas,
+                                       Von Griechen, ich ein Grieche, reinen Bluts.",201,323,character_speech,1,1,,PHRYXUS.,PHRYXUS.,107.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+281,281,TextGrid/-Das_goldene_Vlies.xml,"Es lebet niemand, der sich höhrer Abkunft,
+                                       Sich edlern Stammes rühmen kann als ich,
+                                       Denn Hellas Götter nenn ich meine Väter,
+                                       Und meines Hauses Ahn regiert die Welt.",363,644,character_speech,1,1,,PHRYXUS.,PHRYXUS.,107.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+282,282,TextGrid/-Das_goldene_Vlies.xml,"
+                                       sich abwendend.",0,55,stage_direction,1,1,speech_part,,,108.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+283,283,TextGrid/-Das_goldene_Vlies.xml,"Ich gehe, Vater, um –",0,21,character_speech,1,1,,MEDEA,MEDEA,108.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+284,284,TextGrid/-Das_goldene_Vlies.xml,Bleib hier und schweig!,0,23,character_speech,1,1,,AIETES.,AIETES.,109.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+285,285,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Von Göttern also zieh ich mein Geschlecht!",0,82,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+286,286,TextGrid/-Das_goldene_Vlies.xml,"Allein mein Vater, alten Ruhms vergessend
+                                       Und jung-erzeugter Kinder Recht und Glück,
+                                       Erkor zur zweiten Eh ein niedrig Weib,
+                                       Das, neidisch auf des ersten Bettes Sprossen
+                                       Und übrall Vorwurf sehend, weil sie selbst
+                                       Sich Vorwurf zu verdienen war bewußt,
+                                       Den Zorn des Vaters reizte gegen mich.",122,644,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+287,287,TextGrid/-Das_goldene_Vlies.xml,"Die Zwietracht wuchs und Häscher sandt er aus,
+                                       Den Sohn zu fahn, vielleicht zu töten ihn.",684,812,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+288,288,TextGrid/-Das_goldene_Vlies.xml,"Da ging ich aus der Väter Haus und floh,
+                                       In fremdem Land zu suchen heimisch Glück.",852,973,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+289,289,TextGrid/-Das_goldene_Vlies.xml,"Umirrend kam ich in die Delpherstadt
+                                       Und trat, beim Gotte Rat und Hilfe suchend,
+                                       In Phöbos reiches, weitberühmtes Haus.",1013,1210,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+290,290,TextGrid/-Das_goldene_Vlies.xml,"Da stand ich in des Tempels weiten Hallen,
+                                       Mit Bildern rings umstellt und Opfergaben,
+                                       
+                                          
+Erglühend in der Abendsonne Strahl.",1250,1493,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+291,291,TextGrid/-Das_goldene_Vlies.xml,"Vom Schauen matt und von des Weges Last
+                                       Schloß sich mein Aug und meine Glieder sanken;
+                                       Dem Zug erliegend schlummerte ich ein.",1533,1736,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+292,292,TextGrid/-Das_goldene_Vlies.xml,"Da fand ich mich im Traum im selben Tempel,
+                                       In dem ich schlief, doch wachend und allein
+                                       Und betend zu dem Gott um Rat.",1776,1972,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+293,293,TextGrid/-Das_goldene_Vlies.xml,"Urplötzlich
+                                       Umflammt mich heller Glanz, und einen Mann
+                                       In nackter Kraft, die Keule in der Rechten,
+                                       Mit langem Bart und Haar, ein Widderfell
+                                       Um seine mächtgen Schultern, stand vor mir
+                                       Und lächelte mit milder Huld mich an.",1973,2388,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+294,294,TextGrid/-Das_goldene_Vlies.xml,"»Nimm Sieg und Rache hin!« sprach er und löste
+                                       Das reiche Vließ von seinen Schultern ab
+                                       Und reichte mirs; da, schütternd, wacht ich auf.",2428,2642,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+295,295,TextGrid/-Das_goldene_Vlies.xml,Und siehe!,2682,2692,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+296,296,TextGrid/-Das_goldene_Vlies.xml,"von dem Morgenstrahl beleuchtet
+                                       Stand eine Blende schimmernd vor mir da
+                                       Und drin, aus Marmor künstlich ausgehaun,
+                                       Derselbe Mann, der eben mir erschienen,
+                                       Mit Haar und Bart und Fell, wie ichs gesehn.",2693,3047,character_speech,1,1,,PHRYXUS.,PHRYXUS.,110.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+297,297,TextGrid/-Das_goldene_Vlies.xml,"
+                                       auf die Bildsäule im Hintergrunde zeigend.",0,82,stage_direction,1,1,speech_part,,,111.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+298,298,TextGrid/-Das_goldene_Vlies.xml,Der dort?,0,9,character_speech,1,1,,AIETES,AIETES,111.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+299,299,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ihm glich er wie ich mir.",0,65,character_speech,1,1,,PHRYXUS.,PHRYXUS.,112.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+300,300,TextGrid/-Das_goldene_Vlies.xml,"So stand er da in Götterkraft und Würde,
+                                       Vergleichbar dem Herakles, doch nicht er.",105,226,character_speech,1,1,,PHRYXUS.,PHRYXUS.,112.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+301,301,TextGrid/-Das_goldene_Vlies.xml,"Und an dem Fußgestell des Bildes war
+                                       Der Name Kolchis golden eingegraben.",266,378,character_speech,1,1,,PHRYXUS.,PHRYXUS.,112.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+302,302,TextGrid/-Das_goldene_Vlies.xml,"Ich aber deutete des Gottes Rat;
+                                       Und nehmend, was er rätselhaft mir bot,
+                                       Löst ich, ich war allein, den goldnen Schmuck
+                                       Vom Hals des Bildes, und in Eile fort.",418,692,character_speech,1,1,,PHRYXUS.,PHRYXUS.,112.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+303,303,TextGrid/-Das_goldene_Vlies.xml,"Des Vaters Häscher fand ich vor den Toren,
+                                       Sie wichen scheu des Gottes Goldpanier,
+                                       Die Priester neigten sich, das Volk lag auf den Knieen
+                                       Und vor mir her es auf der Lanze tragend,
+                                       Kam ich durch tausend Feinde bis ans Meer.",732,1110,character_speech,1,1,,PHRYXUS.,PHRYXUS.,112.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+304,304,TextGrid/-Das_goldene_Vlies.xml,"Ein schifft ich mich, und hoch als goldne Wimpel
+                                       Flog mir das Vließ am sturmumtobten Mast,
+                                       
+                                          
+Und wie die Wogen schäumten, Donner brüllten
+                                       Und Meer und Wind und Hölle sich verschworen,
+                                       Mich zu versenken in das nasse Grab,
+                                       Versehrt ward mir kein Haar, und unverletzt
+                                       Kam ich hierher an diese Rettungsküste,
+                                       Die vor mir noch kein griechscher Fuß betrat.",1150,1815,character_speech,1,1,,PHRYXUS.,PHRYXUS.,112.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+305,305,TextGrid/-Das_goldene_Vlies.xml,"Und jetzo geht an dich mein bittend Flehn,
+                                       Nimm auf mich und die Meinen in dein Land.",1855,1979,character_speech,1,1,,PHRYXUS.,PHRYXUS.,112.0,UNKNOWN,despair,S,,1818.0,negative,emotions of anxiety
+306,306,TextGrid/-Das_goldene_Vlies.xml,"Wo nicht, so faß ich selber Sitz und Stätte,
+                                       Vertrauend auf der Götter Beistand, die
+                                       Mir Sieg und Rache durch dies Pfand verliehn!",2019,2227,character_speech,1,1,,PHRYXUS.,PHRYXUS.,112.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+307,307,TextGrid/-Das_goldene_Vlies.xml,– Du schweigst?,2267,2282,character_speech,1,1,,PHRYXUS.,PHRYXUS.,112.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+308,308,TextGrid/-Das_goldene_Vlies.xml,"Was willst du, daß ich sage?",0,28,character_speech,1,1,,AIETES.,AIETES.,113.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+309,309,TextGrid/-Das_goldene_Vlies.xml,"Gewährst du mir ein Dach, ein gastlich Haus?",0,44,character_speech,1,1,,PHRYXUS.,PHRYXUS.,114.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+310,310,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Tritt ein, wenn dirs gutdünkt, Vorrat ist
+                                       Von Speis und Trank genug.",0,147,character_speech,1,1,,AIETES.,AIETES.,115.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+311,311,TextGrid/-Das_goldene_Vlies.xml,Dort nimm und iß!,148,165,character_speech,1,1,,AIETES.,AIETES.,115.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+312,312,TextGrid/-Das_goldene_Vlies.xml,So rauh übst du des Wirtes gastlich Amt?,0,40,character_speech,1,1,,PHRYXUS.,PHRYXUS.,116.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+313,313,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Wie du dich gibst, so nehm ich dich.",0,76,character_speech,1,1,,AIETES.,AIETES.,117.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+314,314,TextGrid/-Das_goldene_Vlies.xml,"Wer in des Krieges Kleidung Gabe heischt,
+                                       Erwarte nicht sie aus des Friedens Hand.",116,237,character_speech,1,1,,AIETES.,AIETES.,117.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+315,315,TextGrid/-Das_goldene_Vlies.xml,"Den Schild hab ich, die Lanze abgelegt.",0,39,character_speech,1,1,,PHRYXUS.,PHRYXUS.,118.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+316,316,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Das Schwert ist, denkst du, gegen uns genug?",0,84,character_speech,1,1,,AIETES.,AIETES.,119.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+317,317,TextGrid/-Das_goldene_Vlies.xml,"Doch halt es, wie du willst.",124,152,character_speech,1,1,,AIETES.,AIETES.,119.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+318,318,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Leise zu Medea.",0,55,stage_direction,1,1,speech_part,,,119.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+319,319,TextGrid/-Das_goldene_Vlies.xml,Begehr sein Schwert!,0,20,character_speech,1,1,,AIETES.,AIETES.,119.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+320,320,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Noch eins!",0,50,character_speech,1,1,,PHRYXUS.,PHRYXUS.,120.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+321,321,TextGrid/-Das_goldene_Vlies.xml,"An reichem Schmuck und köstlichen Gefäßen
+                                       Bring ich so manches, was ich sichern möchte.",51,177,character_speech,1,1,,PHRYXUS.,PHRYXUS.,120.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+322,322,TextGrid/-Das_goldene_Vlies.xml,Du nimmst es doch in deines Hauses Hut?,217,256,character_speech,1,1,,PHRYXUS.,PHRYXUS.,120.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+323,323,TextGrid/-Das_goldene_Vlies.xml,"Tu, wie du willst!",0,18,character_speech,1,1,,AIETES.,AIETES.,121.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+324,324,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Zu Medea.",0,49,stage_direction,1,1,speech_part,,,121.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+325,325,TextGrid/-Das_goldene_Vlies.xml,"Sein Schwert, sag ich, begehr!",0,30,character_speech,1,1,,AIETES.,AIETES.,121.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+326,326,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Nun denn, Gefährten, was wir hergebracht,
+                                       Gerettet aus des Glückes grausem Schiffbruch,
+                                       Bringt es hierher in dieser Mauern Umfang
+                                       Als Grundstein eines neuen, festern Glücks.",0,330,character_speech,1,1,,PHRYXUS.,PHRYXUS.,122.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+327,327,TextGrid/-Das_goldene_Vlies.xml,"
+                                       zu Medea.",0,49,stage_direction,1,1,speech_part,,,123.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+328,328,TextGrid/-Das_goldene_Vlies.xml,Des Fremden Schwert!,0,20,character_speech,1,1,,AIETES,AIETES,123.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+329,329,TextGrid/-Das_goldene_Vlies.xml,Wozu?,0,5,character_speech,1,1,,MEDEA.,MEDEA.,124.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+330,330,TextGrid/-Das_goldene_Vlies.xml,"Sein Schwert, sag ich!",0,22,character_speech,1,1,,AIETES.,AIETES.,125.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+331,331,TextGrid/-Das_goldene_Vlies.xml,"
+                                       zu Phryxus.",0,51,stage_direction,1,1,speech_part,,,126.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+332,332,TextGrid/-Das_goldene_Vlies.xml,Gib mir dein Schwert!,0,21,character_speech,1,1,,MEDEA,MEDEA,126.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+333,333,TextGrid/-Das_goldene_Vlies.xml,"Was sagst du, holdes Kind?",0,26,character_speech,1,1,,PHRYXUS.,PHRYXUS.,127.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+334,334,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Fremd ist dem Mädchen eurer Waffen Anblick
+                                       Bei uns geht nicht der Friedliche bewehrt.",0,164,character_speech,1,1,,AIETES.,AIETES.,128.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+335,335,TextGrid/-Das_goldene_Vlies.xml,Auch ists euch lästig.,204,226,character_speech,1,1,,AIETES.,AIETES.,128.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+336,336,TextGrid/-Das_goldene_Vlies.xml,"
+                                       zu Medeen.",0,50,stage_direction,1,1,speech_part,,,129.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+337,337,TextGrid/-Das_goldene_Vlies.xml,Sorgest du um mich?,0,19,character_speech,1,1,,PHRYXUS,PHRYXUS,129.0,UNKNOWN,compassion,S,,1818.0,negative,emotions of suffering and empathy
+338,338,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Medea wendet sich ab.",0,61,stage_direction,1,1,speech_part,,,129.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+339,339,TextGrid/-Das_goldene_Vlies.xml,Sei mir nicht bös!,0,18,character_speech,1,1,,PHRYXUS,PHRYXUS,129.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+340,340,TextGrid/-Das_goldene_Vlies.xml,Ich weigr es dir ja nicht!,19,45,character_speech,1,1,,PHRYXUS,PHRYXUS,129.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+341,341,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Er gibt ihr das Schwert.",0,64,stage_direction,1,1,speech_part,,,129.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+342,342,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Den Himmlischen vertrau ich mich und dir!",0,81,character_speech,1,1,,PHRYXUS,PHRYXUS,129.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+343,343,TextGrid/-Das_goldene_Vlies.xml,"Wo du bist, da ist Frieden.",121,148,character_speech,1,1,,PHRYXUS,PHRYXUS,129.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+344,344,TextGrid/-Das_goldene_Vlies.xml,Hier mein Schwert!,149,167,character_speech,1,1,,PHRYXUS,PHRYXUS,129.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+345,345,TextGrid/-Das_goldene_Vlies.xml,"Und jetzo in dein Haus, mein edler Wirt!",207,247,character_speech,1,1,,PHRYXUS,PHRYXUS,129.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+346,346,TextGrid/-Das_goldene_Vlies.xml,"Gehe nur, ich folg euch bald!",0,29,character_speech,1,1,,AIETES.,AIETES.,130.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+347,347,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Und du, Medea?",0,54,character_speech,1,1,,PHRYXUS.,PHRYXUS.,131.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+348,348,TextGrid/-Das_goldene_Vlies.xml,Laß mich auch dich am frohen Tische sehn!,94,135,character_speech,1,1,,PHRYXUS.,PHRYXUS.,131.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+349,349,TextGrid/-Das_goldene_Vlies.xml,"Kommt, Freunde, teilt die Lust, wie ehmals die Gefahr!",175,229,character_speech,1,1,,PHRYXUS.,PHRYXUS.,131.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+350,350,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ab mit seinen Gefährten.",0,64,stage_direction,1,1,speech_part,,,131.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+351,351,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Medea setzt sich auf eine Felsenbank im Vorgrunde und beschäftigt sich mit ihrem Bogen, den sie von der Erde aufgehoben hat.",0,164,stage_direction,1,1,speech_part,,,131.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+352,352,TextGrid/-Das_goldene_Vlies.xml,"Aietes steht auf der andern Seite des Vorgrundes und verfolgt mit den Augen die Diener des Phryxus, die Gold und reiche Gefäße ins Haus tragen.",165,308,stage_direction,1,1,speech_part,,,131.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+353,353,TextGrid/-Das_goldene_Vlies.xml,– Lange Pause.,309,323,stage_direction,1,1,speech_part,,,131.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+354,354,TextGrid/-Das_goldene_Vlies.xml,Medea!,0,6,character_speech,1,1,,AIETES.,AIETES.,132.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+355,355,TextGrid/-Das_goldene_Vlies.xml,Vater!,0,6,character_speech,1,1,,MEDEA.,MEDEA.,133.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+356,356,TextGrid/-Das_goldene_Vlies.xml,Was denkst du?,0,14,character_speech,1,1,,AIETES.,AIETES.,134.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+357,357,TextGrid/-Das_goldene_Vlies.xml,Ich?,0,4,character_speech,1,1,,MEDEA.,MEDEA.,135.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+358,358,TextGrid/-Das_goldene_Vlies.xml,nichst!,5,12,character_speech,1,1,,MEDEA.,MEDEA.,135.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+359,359,TextGrid/-Das_goldene_Vlies.xml,Vom Fremden mein ich.,0,21,character_speech,1,1,,AIETES.,AIETES.,136.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+360,360,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Er spricht und spricht;
+                                       Mir widerts!",0,115,character_speech,1,1,,MEDEA.,MEDEA.,137.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+361,361,TextGrid/-Das_goldene_Vlies.xml,"
+                                       rasch auf sie zugehend.",0,63,stage_direction,1,1,speech_part,,,138.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+362,362,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Nicht wahr?",0,51,character_speech,1,1,,AIETES,AIETES,138.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+363,363,TextGrid/-Das_goldene_Vlies.xml,"Spricht und gleist
+                                       Und ist ein Bösewicht,
+                                       Ein Gottverächter, ein Tempelräuber!",52,208,character_speech,1,1,,AIETES,AIETES,138.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+364,364,TextGrid/-Das_goldene_Vlies.xml,Ich töt ihn!,248,260,character_speech,1,1,,AIETES,AIETES,138.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+365,365,TextGrid/-Das_goldene_Vlies.xml,Vater!,0,6,character_speech,1,1,,MEDEA.,MEDEA.,139.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+366,366,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ich tus!",0,48,character_speech,1,1,,AIETES.,AIETES.,140.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+367,367,TextGrid/-Das_goldene_Vlies.xml,"Soll er davontragen all den Reichtum,
+                                       
+                                          
+Den er geraubt, dem Himmel geraubt?",88,244,character_speech,1,1,,AIETES.,AIETES.,140.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+368,368,TextGrid/-Das_goldene_Vlies.xml,"Erzählt' er nicht selbst, wie er im Tempel
+                                       Das Vließ gelöst von der Schulter des Gottes,
+                                       Des Donnerers, Perontos,
+                                       Der Kolchis beschützt.",284,537,character_speech,1,1,,AIETES.,AIETES.,140.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+369,369,TextGrid/-Das_goldene_Vlies.xml,"Ich will dir ihn schlachten, Peronto!",577,614,character_speech,1,1,,AIETES.,AIETES.,140.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+370,370,TextGrid/-Das_goldene_Vlies.xml,"Rache sei dir, Rache!",654,675,character_speech,1,1,,AIETES.,AIETES.,140.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+371,371,TextGrid/-Das_goldene_Vlies.xml,"Töten willst du, den Fremden, den Gast?",0,39,character_speech,1,1,,MEDEA.,MEDEA.,141.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+372,372,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Gast?",0,45,character_speech,1,1,,AIETES.,AIETES.,142.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+373,373,TextGrid/-Das_goldene_Vlies.xml,Hab ich ihn geladen in mein Haus?,85,118,character_speech,1,1,,AIETES.,AIETES.,142.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+374,374,TextGrid/-Das_goldene_Vlies.xml,"Ihm beim Eintritt Brot und Salz gereicht
+                                       Und geheißen sitzen auf meinem Stuhl?",158,275,character_speech,1,1,,AIETES.,AIETES.,142.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+375,375,TextGrid/-Das_goldene_Vlies.xml,"Ich hab ihm nicht Gastrecht geboten,
+                                       Er nahm sichs, büß ers, der Tor!",315,423,character_speech,1,1,,AIETES.,AIETES.,142.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+376,376,TextGrid/-Das_goldene_Vlies.xml,Vater!,0,6,character_speech,1,1,,MEDEA.,MEDEA.,143.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+377,377,TextGrid/-Das_goldene_Vlies.xml,Peronto rächet den Mord!,7,31,character_speech,1,1,,MEDEA.,MEDEA.,143.0,UNKNOWN,Schadenfreude,S,,1818.0,positive,emotions of pleasure
+378,378,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Peronto gebeut ihn.",0,59,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+379,379,TextGrid/-Das_goldene_Vlies.xml,Hat der Freche nicht an ihm gefrevelt?,99,137,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,Schadenfreude,S,,1818.0,positive,emotions of pleasure
+380,380,TextGrid/-Das_goldene_Vlies.xml,Sein Bild beraubt in der Delpherstadt?,177,215,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+381,381,TextGrid/-Das_goldene_Vlies.xml,"Führt der Erzürnte ihn nicht selbst her,
+                                       Daß ich ihn strafe, daß ich räche
+                                       Des Gottes Schmach und meine?",255,437,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+382,382,TextGrid/-Das_goldene_Vlies.xml,"Das Vließ dort am glänzenden Speer,
+                                       Des Gottes Kleid, der Kolcher Heiligtum,
+                                       Solls ein Fremder, ein Frevler entweihn?",477,672,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+383,383,TextGrid/-Das_goldene_Vlies.xml,"Mein ists, mein!",712,728,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+384,384,TextGrid/-Das_goldene_Vlies.xml,"Mir sendets der Gott
+                                       Und Sieg und Rache, geknüpft an dies Pfand,
+                                       Den Unsern werd es zuteil!",729,898,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+385,385,TextGrid/-Das_goldene_Vlies.xml,Tragt nur zu des kostbaren Guts!,938,970,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+386,386,TextGrid/-Das_goldene_Vlies.xml,Ihr führet die Ernte mir ein!,1010,1039,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+387,387,TextGrid/-Das_goldene_Vlies.xml,Sprich nicht und komm!,1079,1101,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+388,388,TextGrid/-Das_goldene_Vlies.xml,"daß er uns nicht vermißt,
+                                       Gefahrlos sei die Rach und ganz!",1102,1199,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+389,389,TextGrid/-Das_goldene_Vlies.xml,"Komm, sag ich, komm!",1239,1259,character_speech,1,1,,AIETES.,AIETES.,144.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+390,390,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Beide ab ins Haus.",0,58,stage_direction,1,1,speech_part,,,144.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+391,391,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ein kolchischer Hauptmann mit Bewaffneten tritt auf.",0,92,stage_direction,1,1,speech_part,,,144.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+392,392,TextGrid/-Das_goldene_Vlies.xml,Hierher beschied man uns.,0,25,character_speech,1,1,,HAUPTMANN.,HAUPTMANN.,145.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+393,393,TextGrid/-Das_goldene_Vlies.xml,Was sollen wir?,26,41,character_speech,1,1,,HAUPTMANN.,HAUPTMANN.,145.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+394,394,TextGrid/-Das_goldene_Vlies.xml,"
+                                       aus dem Hause.",0,54,stage_direction,1,1,speech_part,,,146.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+395,395,TextGrid/-Das_goldene_Vlies.xml,Heda!,0,5,character_speech,1,1,,EIN KOLCHER,EIN KOLCHER,146.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+396,396,TextGrid/-Das_goldene_Vlies.xml,Hier sind wir!,0,14,character_speech,1,1,,HAUPTMANN.,HAUPTMANN.,147.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+397,397,TextGrid/-Das_goldene_Vlies.xml,Leise!,0,6,character_speech,1,1,,KOLCHER.,KOLCHER.,148.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+398,398,TextGrid/-Das_goldene_Vlies.xml,Sprich!,0,7,character_speech,1,1,,HAUPTMANN.,HAUPTMANN.,149.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+399,399,TextGrid/-Das_goldene_Vlies.xml,Was solls?,8,18,character_speech,1,1,,HAUPTMANN.,HAUPTMANN.,149.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+400,400,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Verteilt euch rechts und links und wenn ein Fremder –
+                                       Doch still jetzt!",0,150,character_speech,1,1,,KOLCHER.,KOLCHER.,150.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+401,401,TextGrid/-Das_goldene_Vlies.xml,Einer naht!,151,162,character_speech,1,1,,KOLCHER.,KOLCHER.,150.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+402,402,TextGrid/-Das_goldene_Vlies.xml,– Kommt!,163,171,character_speech,1,1,,KOLCHER.,KOLCHER.,150.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+403,403,TextGrid/-Das_goldene_Vlies.xml,hört das weitre!,172,188,character_speech,1,1,,KOLCHER.,KOLCHER.,150.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+404,404,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Alle ab.",0,48,stage_direction,1,1,speech_part,,,150.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+405,405,TextGrid/-Das_goldene_Vlies.xml,"
+                                       mit ängstlichen Schritten aus dem Hause.",0,80,stage_direction,1,1,speech_part,,,151.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+406,406,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ihr Götter!",0,51,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+407,407,TextGrid/-Das_goldene_Vlies.xml,Was ist das?,52,64,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+408,408,TextGrid/-Das_goldene_Vlies.xml,Ich ahne Schreckliches.,65,88,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+409,409,TextGrid/-Das_goldene_Vlies.xml,"Es murmeln die Barbaren unter sich
+                                       Und schaun mit höhnschem Lächeln hin auf uns.",128,247,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+410,410,TextGrid/-Das_goldene_Vlies.xml,"Man geht, man kommt, man winkt, man lauert.",287,330,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+411,411,TextGrid/-Das_goldene_Vlies.xml,"Und die Gefährten, einer nach dem andern
+                                       Sinkt hin in dumpfen Schlaf; ob Müdigkeit,
+                                       Ob irgend ein verruchter Schlummertrank
+                                       Sie einlullt, weiß ich nicht.",370,640,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+412,412,TextGrid/-Das_goldene_Vlies.xml,Gerechte Götter!,641,657,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+413,413,TextGrid/-Das_goldene_Vlies.xml,"Habt ihr mich hergeführt, mich zu verderben?",697,741,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+414,414,TextGrid/-Das_goldene_Vlies.xml,Nur eines bleibt mir noch: Flacht auf mein Schiff.,781,831,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+415,415,TextGrid/-Das_goldene_Vlies.xml,"Dort samml ich die Zurückgebliebenen,
+                                       Und dann zur Rettung her, zur Hilfe- Horch!",871,991,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+416,416,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Schwertgeklirr und dumpfe Stimmen im Hause.",0,83,stage_direction,1,1,speech_part,,,151.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+417,417,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Man ficht!",0,50,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+418,418,TextGrid/-Das_goldene_Vlies.xml,– Man tötet!,51,63,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+419,419,TextGrid/-Das_goldene_Vlies.xml,"– Weh mir, weh!",64,79,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+420,420,TextGrid/-Das_goldene_Vlies.xml,– Zu spät!,80,90,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+421,421,TextGrid/-Das_goldene_Vlies.xml,Nun bleibt nur Flacht.,130,152,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+422,422,TextGrid/-Das_goldene_Vlies.xml,"Schnell, eh die Mörder nahn!",153,181,character_speech,1,1,,PHRYXUS,PHRYXUS,151.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+423,423,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Er will gehn.",0,53,stage_direction,1,1,speech_part,,,151.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+424,424,TextGrid/-Das_goldene_Vlies.xml,Krieger mit gefällten Spießen treten ihm entgegen.,54,104,stage_direction,1,1,speech_part,,,151.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+425,425,TextGrid/-Das_goldene_Vlies.xml,Zurück!,0,7,character_speech,1,1,,KOLCHER.,KOLCHER.,152.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+426,426,TextGrid/-Das_goldene_Vlies.xml,Ich bin verraten!,0,17,character_speech,1,1,,PHRYXUS.,PHRYXUS.,153.0,UNKNOWN,despair,S,,1818.0,negative,emotions of anxiety
+427,427,TextGrid/-Das_goldene_Vlies.xml,– Hier!,18,25,character_speech,1,1,,PHRYXUS.,PHRYXUS.,153.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+428,428,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Von allen Seiten treten Bewaffnete mit gesenkten Speeren ihm entgegen.",0,110,stage_direction,1,1,speech_part,,,153.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+429,429,TextGrid/-Das_goldene_Vlies.xml,Zurück!,0,7,character_speech,1,1,,GEWAFFNETE.,GEWAFFNETE.,154.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+430,430,TextGrid/-Das_goldene_Vlies.xml,Umsonst.,0,8,character_speech,1,1,,PHRYXUS.,PHRYXUS.,155.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+431,431,TextGrid/-Das_goldene_Vlies.xml,Es ist vorbei!,9,23,character_speech,1,1,,PHRYXUS.,PHRYXUS.,155.0,UNKNOWN,despair,S,,1818.0,negative,emotions of anxiety
+432,432,TextGrid/-Das_goldene_Vlies.xml,"– Ich folg euch, Freunde!",24,49,character_speech,1,1,,PHRYXUS.,PHRYXUS.,155.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+433,433,TextGrid/-Das_goldene_Vlies.xml,"
+                                       An den Altar hineilend.",0,63,stage_direction,1,1,speech_part,,,155.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+434,434,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Nun denn, du Hoher, der mich hergeführt,
+                                       Bist du ein Gott, so schirme deinen Schützling!",0,167,character_speech,1,1,,PHRYXUS.,PHRYXUS.,155.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+435,435,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Aietes mit bloßem Schwert aus dem Hause.",0,80,stage_direction,1,1,speech_part,,,155.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+436,436,TextGrid/-Das_goldene_Vlies.xml,Medea hinter ihm.,81,98,stage_direction,1,1,speech_part,,,155.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+437,437,TextGrid/-Das_goldene_Vlies.xml,Gefolge.,99,107,stage_direction,1,1,speech_part,,,155.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+438,438,TextGrid/-Das_goldene_Vlies.xml,Wo ist er?,0,10,character_speech,1,1,,AIETES.,AIETES.,156.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+439,439,TextGrid/-Das_goldene_Vlies.xml,"Vater, höre!",0,12,character_speech,1,1,,MEDEA.,MEDEA.,157.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+440,440,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Wo, der Fremdling?",0,58,character_speech,1,1,,AIETES.,AIETES.,158.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+441,441,TextGrid/-Das_goldene_Vlies.xml,Dort am Altar.,98,112,character_speech,1,1,,AIETES.,AIETES.,158.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+442,442,TextGrid/-Das_goldene_Vlies.xml,Was suchst du dort?,113,132,character_speech,1,1,,AIETES.,AIETES.,158.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+443,443,TextGrid/-Das_goldene_Vlies.xml,Schutz such ich!,0,16,character_speech,1,1,,PHRYXUS.,PHRYXUS.,159.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+444,444,TextGrid/-Das_goldene_Vlies.xml,Gegen wen?,0,10,character_speech,1,1,,AIETES.,AIETES.,160.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+445,445,TextGrid/-Das_goldene_Vlies.xml,Komm mit ins Haus!,11,29,character_speech,1,1,,AIETES.,AIETES.,160.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+446,446,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Hier steh ich und umklammre diesen Altar;
+                                       Den Göttern trau ich; o, daß ich es dir!",0,161,character_speech,1,1,,PHRYXUS.,PHRYXUS.,161.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+447,447,TextGrid/-Das_goldene_Vlies.xml,"O Vater, höre mich!",0,19,character_speech,1,1,,MEDEA.,MEDEA.,162.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+448,448,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Du auch hier, Schlange?",0,63,character_speech,1,1,,PHRYXUS.,PHRYXUS.,163.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+449,449,TextGrid/-Das_goldene_Vlies.xml,"Warst du so schön und locktest du so lieblich,
+                                       Mich zu verderben hier im Todesnetz?",103,225,character_speech,1,1,,PHRYXUS.,PHRYXUS.,163.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+450,450,TextGrid/-Das_goldene_Vlies.xml,"Mein Herz schlug dir vertrauensvoll entgegen,
+                                       Mein Schwert, den letzten Schutz, gab ich in deine Hand
+                                       Und du verrätst mich?",265,466,character_speech,1,1,,PHRYXUS.,PHRYXUS.,163.0,UNKNOWN,friendship,S,,1818.0,positive,emotions of affection
+451,451,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Nicht verriet ich dich!",0,63,character_speech,1,1,,MEDEA.,MEDEA.,164.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+452,452,TextGrid/-Das_goldene_Vlies.xml,"Gabst du dein Schwert mir, nimm ein andres hier
+                                       Und wehre dich des Lebens.",103,216,character_speech,1,1,,MEDEA.,MEDEA.,164.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+453,453,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Sie hat einem der Umstehenden das Schwert entrissen und reicht es ihm.",0,110,stage_direction,1,1,speech_part,,,164.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+454,454,TextGrid/-Das_goldene_Vlies.xml,"
+                                       ihr das Schwert entreißend.",0,67,stage_direction,1,1,speech_part,,,165.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+455,455,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Törichte!",0,49,character_speech,1,1,,AIETES,AIETES,165.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+456,456,TextGrid/-Das_goldene_Vlies.xml,Vom Altar fort!,89,104,character_speech,1,1,,AIETES,AIETES,165.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+457,457,TextGrid/-Das_goldene_Vlies.xml,Ich bleibe!,0,11,character_speech,1,1,,PHRYXUS.,PHRYXUS.,166.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+458,458,TextGrid/-Das_goldene_Vlies.xml,Reißt ihn weg!,0,14,character_speech,1,1,,AIETES.,AIETES.,167.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+459,459,TextGrid/-Das_goldene_Vlies.xml,"
+                                       da einige auf ihn losgehen.",0,67,stage_direction,1,1,speech_part,,,168.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+460,460,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Nun denn, so muß ich sterben?",0,69,character_speech,1,1,,PHRYXUS,PHRYXUS,168.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+461,461,TextGrid/-Das_goldene_Vlies.xml,"– Ha, es sei!",70,83,character_speech,1,1,,PHRYXUS,PHRYXUS,168.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+462,462,TextGrid/-Das_goldene_Vlies.xml,"Doch ungerochen, klaglos fall ich nicht.",123,163,character_speech,1,1,,PHRYXUS,PHRYXUS,168.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+463,463,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Er reißt das Panier mit dem goldenen Vließ aus der Erde und tritt damit in den Vorgrund.",0,128,stage_direction,1,1,speech_part,,,168.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+464,464,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Du unbekannte Macht, die her mich führend,
+                                       Dies Pfand der Rettung huldvoll einst mir gab
+                                       Und Sieg und Rache mir dabei verhieß;
+                                       Zu dir ruf ich empor nun!",0,309,character_speech,1,1,,PHRYXUS,PHRYXUS,168.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+465,465,TextGrid/-Das_goldene_Vlies.xml,Höre mich!,310,320,character_speech,1,1,,PHRYXUS,PHRYXUS,168.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+466,466,TextGrid/-Das_goldene_Vlies.xml,"Hab ich den Sieg durch eigne Schuld verwirkt,
+                                       Das Haupt darbietend dem Verräternetz
+                                       Und blind dem Schicksal trauend statt mir selber,
+                                       So laß doch Rache wenigstens ergehn
+                                       Und halte deines Wortes zweite Hälfte!",360,724,character_speech,1,1,,PHRYXUS,PHRYXUS,168.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+467,467,TextGrid/-Das_goldene_Vlies.xml,Was zauderst du?,0,16,character_speech,1,1,,AIETES.,AIETES.,169.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+468,468,TextGrid/-Das_goldene_Vlies.xml,Aietes!,0,7,character_speech,1,1,,PHRYXUS.,PHRYXUS.,170.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+469,469,TextGrid/-Das_goldene_Vlies.xml,"Nun, was noch?",0,14,character_speech,1,1,,AIETES.,AIETES.,171.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+470,470,TextGrid/-Das_goldene_Vlies.xml,"Ich bin dein Gast, und du verrätst mich?",0,40,character_speech,1,1,,PHRYXUS.,PHRYXUS.,172.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+471,471,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Mein Gast?",0,50,character_speech,1,1,,AIETES.,AIETES.,173.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+472,472,TextGrid/-Das_goldene_Vlies.xml,Mein Feind.,51,62,character_speech,1,1,,AIETES.,AIETES.,173.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+473,473,TextGrid/-Das_goldene_Vlies.xml,"Was suchtest du, Fremder, in meinem Land?",102,143,character_speech,1,1,,AIETES.,AIETES.,173.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+474,474,TextGrid/-Das_goldene_Vlies.xml,Tempelräuber!,144,157,character_speech,1,1,,AIETES.,AIETES.,173.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+475,475,TextGrid/-Das_goldene_Vlies.xml,Hab ich dir Gastrecht gelobt?,197,226,character_speech,1,1,,AIETES.,AIETES.,173.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+476,476,TextGrid/-Das_goldene_Vlies.xml,dich geladen in mein Haus?,227,253,character_speech,1,1,,AIETES.,AIETES.,173.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+477,477,TextGrid/-Das_goldene_Vlies.xml,"Nichts versprach ich, Törichter!",293,325,character_speech,1,1,,AIETES.,AIETES.,173.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+478,478,TextGrid/-Das_goldene_Vlies.xml,Verderbt durch eigne Schuld!,326,354,character_speech,1,1,,AIETES.,AIETES.,173.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+479,479,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Damit beschönst du deine Freveltat?",0,75,character_speech,1,1,,PHRYXUS.,PHRYXUS.,174.0,UNKNOWN,Schadenfreude,S,,1818.0,positive,emotions of pleasure
+480,480,TextGrid/-Das_goldene_Vlies.xml,"O, triumphiere nicht!",115,136,character_speech,1,1,,PHRYXUS.,PHRYXUS.,174.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+481,481,TextGrid/-Das_goldene_Vlies.xml,Tritt her zu mir!,137,154,character_speech,1,1,,PHRYXUS.,PHRYXUS.,174.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+482,482,TextGrid/-Das_goldene_Vlies.xml,Was solls?,0,10,character_speech,1,1,,AIETES.,AIETES.,175.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+483,483,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Sieh dieses Banner hier, mein letztes Gut,
+                                       Die Schätze alle hast du mir geraubt,
+                                       Dies eine fehlt noch.",0,220,character_speech,1,1,,PHRYXUS.,PHRYXUS.,176.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+484,484,TextGrid/-Das_goldene_Vlies.xml,"
+                                       darnach greifend.",0,57,stage_direction,1,1,speech_part,,,177.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+485,485,TextGrid/-Das_goldene_Vlies.xml,Fehlt?,0,6,character_speech,1,1,,AIETES,AIETES,177.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+486,486,TextGrid/-Das_goldene_Vlies.xml,Wie lange noch?,7,22,character_speech,1,1,,AIETES,AIETES,177.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+487,487,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Zurück!",0,47,character_speech,1,1,,PHRYXUS.,PHRYXUS.,178.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+488,488,TextGrid/-Das_goldene_Vlies.xml,"Betrachts, es ist mein letztes Gut
+                                       Und von ihm scheidend, scheid ich von dem Leben.",48,170,character_speech,1,1,,PHRYXUS.,PHRYXUS.,178.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+489,489,TextGrid/-Das_goldene_Vlies.xml,Begehrst dus?,210,223,character_speech,1,1,,PHRYXUS.,PHRYXUS.,178.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+490,490,TextGrid/-Das_goldene_Vlies.xml,Ja!,0,3,character_speech,1,1,,AIETES.,AIETES.,179.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+491,491,TextGrid/-Das_goldene_Vlies.xml,Begehrst dus?,0,13,character_speech,1,1,,PHRYXUS.,PHRYXUS.,180.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+492,492,TextGrid/-Das_goldene_Vlies.xml,"
+                                       die Hand ausstreckend.",0,62,stage_direction,1,1,speech_part,,,181.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+493,493,TextGrid/-Das_goldene_Vlies.xml,Gib mir es!,0,11,character_speech,1,1,,AIETES,AIETES,181.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+494,494,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Nimms hin, des Gastes Gut, du edler Wirt,
+                                       Sieh, ich vertrau dirs an, bewahre mirs",0,160,character_speech,1,1,,PHRYXUS.,PHRYXUS.,182.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+495,495,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Mit erhöhter Stimme.",0,60,stage_direction,1,1,speech_part,,,182.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+496,496,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Und gibst dus nicht zurücke, unbeschädigt
+                                       Nicht mir, dem Unbeschädigten, zurück,
+                                       So treffe dich der Götter Donnerfluch,
+                                       Der über dem rollt, der die Treue bricht.",0,318,character_speech,1,1,,PHRYXUS.,PHRYXUS.,182.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+497,497,TextGrid/-Das_goldene_Vlies.xml,Nun ist mir leicht!,358,377,character_speech,1,1,,PHRYXUS.,PHRYXUS.,182.0,UNKNOWN,Schadenfreude,S,,1818.0,positive,emotions of pleasure
+498,498,TextGrid/-Das_goldene_Vlies.xml,"Nun Rache, Rache, Rache!",378,402,character_speech,1,1,,PHRYXUS.,PHRYXUS.,182.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+499,499,TextGrid/-Das_goldene_Vlies.xml,Er hat mein Gut.,442,458,character_speech,1,1,,PHRYXUS.,PHRYXUS.,182.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+500,500,TextGrid/-Das_goldene_Vlies.xml,Verwahre mirs getreu!,459,480,character_speech,1,1,,PHRYXUS.,PHRYXUS.,182.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+501,501,TextGrid/-Das_goldene_Vlies.xml,Nimm es zurück!,0,15,character_speech,1,1,,AIETES.,AIETES.,183.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+502,502,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Nein!",0,45,character_speech,1,1,,PHRYXUS.,PHRYXUS.,184.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+503,503,TextGrid/-Das_goldene_Vlies.xml,"Nicht um deine Krone
+                                       Du hast mein Gut, dir hab ichs anvertraut,
+                                       Bewahre treu das anvertraute Gut!",46,221,character_speech,1,1,,PHRYXUS.,PHRYXUS.,184.0,UNKNOWN,"admiration, reverence",S,,1818.0,positive,emotions of affection
+504,504,TextGrid/-Das_goldene_Vlies.xml,"
+                                       ihm das Vließ aufdringend.",0,66,stage_direction,1,1,speech_part,,,185.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+505,505,TextGrid/-Das_goldene_Vlies.xml,Nimm es zurück!,0,15,character_speech,1,1,,AIETES,AIETES,185.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+506,506,TextGrid/-Das_goldene_Vlies.xml,"
+                                       ihm ausweichend.",0,56,stage_direction,1,1,speech_part,,,186.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+507,507,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Du hast mein Gut, verwahr es treu!",0,74,character_speech,1,1,,PHRYXUS,PHRYXUS,186.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+508,508,TextGrid/-Das_goldene_Vlies.xml,"Sonst Rache, Rache, Rache!",114,140,character_speech,1,1,,PHRYXUS,PHRYXUS,186.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+509,509,TextGrid/-Das_goldene_Vlies.xml,"
+                                       ihn über die Bühne verfolgend und ihm das Banner aufdringend.",0,101,stage_direction,1,1,speech_part,,,187.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+510,510,TextGrid/-Das_goldene_Vlies.xml,"Nimm es, sag ich!",0,17,character_speech,1,1,,AIETES,AIETES,187.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+511,511,TextGrid/-Das_goldene_Vlies.xml,"
+                                       ausweichend.",0,52,stage_direction,1,1,speech_part,,,188.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+512,512,TextGrid/-Das_goldene_Vlies.xml,Ich nehm es nicht.,0,18,character_speech,1,1,,PHRYXUS,PHRYXUS,188.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+513,513,TextGrid/-Das_goldene_Vlies.xml,Verwahre mirs getreu!,19,40,character_speech,1,1,,PHRYXUS,PHRYXUS,188.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+514,514,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Zur Bildsäule des Gottes empor.",0,71,stage_direction,1,1,speech_part,,,188.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+515,515,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Siehst du?",0,50,character_speech,1,1,,PHRYXUS,PHRYXUS,188.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+516,516,TextGrid/-Das_goldene_Vlies.xml,"er hats, ihm hab ichs anvertraut,
+                                       Und gibt ers nicht zurück, treff ihn dein Zorn!",51,171,character_speech,1,1,,PHRYXUS,PHRYXUS,188.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+517,517,TextGrid/-Das_goldene_Vlies.xml,Nimm es zurück!,0,15,character_speech,1,1,,AIETES.,AIETES.,189.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+518,518,TextGrid/-Das_goldene_Vlies.xml,"
+                                       am Altar.",0,49,stage_direction,1,1,speech_part,,,190.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+519,519,TextGrid/-Das_goldene_Vlies.xml,"Nein, nein!",0,11,character_speech,1,1,,PHRYXUS,PHRYXUS,190.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+520,520,TextGrid/-Das_goldene_Vlies.xml,Nimms!,0,6,character_speech,1,1,,AIETES.,AIETES.,191.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+521,521,TextGrid/-Das_goldene_Vlies.xml,Du verwahrsts!,0,14,character_speech,1,1,,PHRYXUS.,PHRYXUS.,192.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+522,522,TextGrid/-Das_goldene_Vlies.xml,Nimms!,0,6,character_speech,1,1,,AIETES.,AIETES.,193.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+523,523,TextGrid/-Das_goldene_Vlies.xml,Nein!,0,5,character_speech,1,1,,PHRYXUS.,PHRYXUS.,194.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+524,524,TextGrid/-Das_goldene_Vlies.xml,"Nun, so nimm dies!",0,18,character_speech,1,1,,AIETES.,AIETES.,195.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+525,525,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Er stößt ihm das Schwert in die Brust.",0,78,stage_direction,1,1,speech_part,,,195.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+526,526,TextGrid/-Das_goldene_Vlies.xml,"Halt, Vater, halt!",0,18,character_speech,1,1,,MEDEA.,MEDEA.,196.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+527,527,TextGrid/-Das_goldene_Vlies.xml,"
+                                       niedersinkend.",0,54,stage_direction,1,1,speech_part,,,197.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+528,528,TextGrid/-Das_goldene_Vlies.xml,Es ist zu spät!,0,15,character_speech,1,1,,PHRYXUS,PHRYXUS,197.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+529,529,TextGrid/-Das_goldene_Vlies.xml,"Was tatst du,",0,13,character_speech,1,1,,MEDEA.,MEDEA.,198.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+530,530,TextGrid/-Das_goldene_Vlies.xml,"
+                                       zur Bildsäule empor.",0,60,stage_direction,1,1,speech_part,,,199.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+531,531,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Siehst dus, siehst dus!",0,63,character_speech,1,1,,PHRYXUS,PHRYXUS,199.0,UNKNOWN,joy,S,,1818.0,positive,emotions of pleasure
+532,532,TextGrid/-Das_goldene_Vlies.xml,Den Gastfreund tötet er und hat sein Gut!,103,144,character_speech,1,1,,PHRYXUS,PHRYXUS,199.0,UNKNOWN,Schadenfreude,S,,1818.0,positive,emotions of pleasure
+533,533,TextGrid/-Das_goldene_Vlies.xml,"Der du des Gastfreunds heilig Haupt beschützest,
+                                       O räche mich!",184,285,character_speech,1,1,,PHRYXUS,PHRYXUS,199.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+534,534,TextGrid/-Das_goldene_Vlies.xml,Flach dem treulosen Mann!,286,311,character_speech,1,1,,PHRYXUS,PHRYXUS,199.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+535,535,TextGrid/-Das_goldene_Vlies.xml,"Ihm muß kein Freund sein und kein Kind, kein Bruder,
+                                       Kein frohes Mahl- kein Labetrunk –
+                                       Was er am liebsten liebt – verderb ihn!",351,556,character_speech,1,1,,PHRYXUS,PHRYXUS,199.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+536,536,TextGrid/-Das_goldene_Vlies.xml,"–
+                                       Und dieses Vließ, das jetzt in seiner Hand,
+                                       Soll niederschaun auf seiner Kinder Tod!",557,721,character_speech,1,1,,PHRYXUS,PHRYXUS,199.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+537,537,TextGrid/-Das_goldene_Vlies.xml,"–
+                                       Er hat den Mann erschlagen, der sein Gast –
+                                       Und vorenthält- das anvertraute Gut –
+                                       Rache!",722,929,character_speech,1,1,,PHRYXUS,PHRYXUS,199.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+538,538,TextGrid/-Das_goldene_Vlies.xml,– Rache!,930,938,character_speech,1,1,,PHRYXUS,PHRYXUS,199.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+539,539,TextGrid/-Das_goldene_Vlies.xml,–,939,940,character_speech,1,1,,PHRYXUS,PHRYXUS,199.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+540,540,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Stirbt.",0,47,stage_direction,1,1,speech_part,,,199.0,UNKNOWN,despair,S,,1818.0,negative,emotions of anxiety
+541,541,TextGrid/-Das_goldene_Vlies.xml,Lange Pause.,48,60,stage_direction,1,1,speech_part,,,199.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+542,542,TextGrid/-Das_goldene_Vlies.xml,Vater!,0,6,character_speech,1,1,,MEDEA.,MEDEA.,200.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+543,543,TextGrid/-Das_goldene_Vlies.xml,"
+                                       zusammenschreckend.",0,59,stage_direction,1,1,speech_part,,,201.0,UNKNOWN,fear,S,,1818.0,negative,emotions of anxiety
+544,544,TextGrid/-Das_goldene_Vlies.xml,Was?,0,4,character_speech,1,1,,AIETES,AIETES,201.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+545,545,TextGrid/-Das_goldene_Vlies.xml,Was hast du getan?,0,18,character_speech,1,1,,MEDEA.,MEDEA.,202.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+546,546,TextGrid/-Das_goldene_Vlies.xml,"
+                                       dem Toten das Vließ aufdringen wollend.",0,79,stage_direction,1,1,speech_part,,,203.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+547,547,TextGrid/-Das_goldene_Vlies.xml,Nimm es zurück!,0,15,character_speech,1,1,,AIETES,AIETES,203.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+548,548,TextGrid/-Das_goldene_Vlies.xml,Er nimmts nicht mehr.,0,21,character_speech,1,1,,MEDEA.,MEDEA.,204.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+549,549,TextGrid/-Das_goldene_Vlies.xml,Er ist tot!,22,33,character_speech,1,1,,MEDEA.,MEDEA.,204.0,UNKNOWN,despair,S,,1818.0,negative,emotions of anxiety
+550,550,TextGrid/-Das_goldene_Vlies.xml,Tot!,0,4,character_speech,1,1,,AIETES.,AIETES.,205.0,UNKNOWN,despair,S,,1818.0,negative,emotions of anxiety
+551,551,TextGrid/-Das_goldene_Vlies.xml,–,5,6,character_speech,1,1,,AIETES.,AIETES.,205.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+552,552,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Vater!",0,46,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+553,553,TextGrid/-Das_goldene_Vlies.xml,Was hast du getan!,47,65,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+554,554,TextGrid/-Das_goldene_Vlies.xml,"Den Gastfreund erschlagen,
+                                       Weh dir!",149,223,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+555,555,TextGrid/-Das_goldene_Vlies.xml,Weh uns allen!,224,238,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+556,556,TextGrid/-Das_goldene_Vlies.xml,– Ha!,239,244,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+557,557,TextGrid/-Das_goldene_Vlies.xml,"–
+                                       Aufsteigts aus den Nebeln der Unterwelt,
+                                       Drei Häupter, blutge Häupter,
+                                       Schlangen die Haare,
+                                       Flammen die Blicke,
+                                       Die hohnlachenden Blicke!",245,579,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+558,558,TextGrid/-Das_goldene_Vlies.xml,Höher!,619,625,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+559,559,TextGrid/-Das_goldene_Vlies.xml,höher!,626,632,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+560,560,TextGrid/-Das_goldene_Vlies.xml,– Empor steigen sie!,633,653,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+561,561,TextGrid/-Das_goldene_Vlies.xml,"Entfleischte Arme, Fackeln in Händen,
+                                       Fackeln!",693,778,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,compassion,S,,1818.0,negative,emotions of suffering and empathy
+562,562,TextGrid/-Das_goldene_Vlies.xml,– Dolche!,779,788,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+563,563,TextGrid/-Das_goldene_Vlies.xml,Horch!,789,795,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+564,564,TextGrid/-Das_goldene_Vlies.xml,"Sie öffnen die welken Lippen,
+                                       Sie murren, sie singen
+                                       Heischern Gesangs:
+                                       Wir hüten den Eid,
+                                       Wir vollstrecken den Fluch!",835,1109,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+565,565,TextGrid/-Das_goldene_Vlies.xml,"Fluch dem, der den Gastfreund schlug!",1149,1186,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+566,566,TextGrid/-Das_goldene_Vlies.xml,"Fluch ihm, tausendfachen Fluch!",1226,1257,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,anger,S,,1818.0,negative,emotions of rejection
+567,567,TextGrid/-Das_goldene_Vlies.xml,"Sie kommen, sie nahen,
+                                       Sie umschlingen mich,
+                                       Mich, dich, uns alle!",1297,1441,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,love,S,,1818.0,positive,emotions of affection
+568,568,TextGrid/-Das_goldene_Vlies.xml,Weh über dich!,1481,1495,character_speech,1,1,,MEDEA.,MEDEA.,206.0,UNKNOWN,abhorrence,S,,1818.0,negative,emotions of rejection
+569,569,TextGrid/-Das_goldene_Vlies.xml,Medea!,0,6,character_speech,1,1,,AIETES.,AIETES.,207.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+570,570,TextGrid/-Das_goldene_Vlies.xml,"Über dich, über uns!",0,20,character_speech,1,1,,MEDEA.,MEDEA.,208.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+571,571,TextGrid/-Das_goldene_Vlies.xml,"Weh, weh!",21,30,character_speech,1,1,,MEDEA.,MEDEA.,208.0,UNKNOWN,suffering,S,,1818.0,negative,emotions of suffering and empathy
+572,572,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Sie entflieht.",0,54,stage_direction,1,1,speech_part,,,208.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+573,573,TextGrid/-Das_goldene_Vlies.xml,"
+                                       ihr die Arme nachstreckend.",0,67,stage_direction,1,1,speech_part,,,209.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation
+574,574,TextGrid/-Das_goldene_Vlies.xml,Medea!,0,6,character_speech,1,1,,AIETES,AIETES,209.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+575,575,TextGrid/-Das_goldene_Vlies.xml,Medea!,7,13,character_speech,1,1,,AIETES,AIETES,209.0,UNKNOWN,being moved,S,,1818.0,being moved,being moved
+576,576,TextGrid/-Das_goldene_Vlies.xml,"
+                                       Ende.",0,45,stage_direction,1,1,speech_part,,,209.0,UNKNOWN,no_annotation,S,,1818.0,no_annotation,no_annotation

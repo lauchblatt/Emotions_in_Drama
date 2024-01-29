@@ -1,0 +1,389 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/grillparzer-medea.xml,Vor den Mauern von Korinth.,0,27,stage_direction,1,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+1,1,GerDracor/grillparzer-medea.xml,Links im Mittelgrunde ein Zelt aufgeschlagen.,28,73,stage_direction,1,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+2,2,GerDracor/grillparzer-medea.xml,"Im
+          Hintergrunde das Meer, an dem sich auf einer Landspitze ein Teil der Stadt hinzieht.",74,171,stage_direction,1,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+3,3,GerDracor/grillparzer-medea.xml,Früher Morgen noch vor Tagesanbruch.,182,218,stage_direction,1,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+4,4,GerDracor/grillparzer-medea.xml,Dunkel.,219,226,stage_direction,1,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+5,5,GerDracor/grillparzer-medea.xml,"Ein Sklave steht rechts im Vorgrunde in einer Grube, mit der Schaufel grabend und
+          Erde auswerfend.",0,108,stage_direction,1,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+6,6,GerDracor/grillparzer-medea.xml,"Medea auf der andern Seite, vor ihr eine schwarze, seltsam mit Gold
+          verzierte Kiste in welche sie mancherlei Gerät während des Folgenden hineinlegt.",109,267,stage_direction,1,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+7,7,GerDracor/grillparzer-medea.xml,Halle in Kreons Königsburg zu Korinth.,0,38,stage_direction,2,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+8,8,GerDracor/grillparzer-medea.xml,"Kreusa sitzend, Medea auf einem niederen Schemmel vor ihr, eine Leier in ihrem Arm;
+          sie ist griechisch gekleidet",0,122,stage_direction,2,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+9,9,GerDracor/grillparzer-medea.xml,Vorhof von Kreons Burg.,0,23,stage_direction,3,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+10,10,GerDracor/grillparzer-medea.xml,"Im Hintergrunde der Eingang von der Wohnung des Königs;
+          rechts an den Seitenwänden ein Säulengang zu Medeens Aufenthalt führend.",24,162,stage_direction,3,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+11,11,GerDracor/grillparzer-medea.xml,"Medea im Vorgrunde stehend, Gora weiter zurück mit einem Diener des Königs
+          sprechend.",0,95,stage_direction,3,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+12,12,GerDracor/grillparzer-medea.xml,Vorhof vor Kreons Burg wie im vorigen Aufzuge.,0,46,stage_direction,4,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+13,13,GerDracor/grillparzer-medea.xml,Abenddämmerung.,47,62,stage_direction,4,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+14,14,GerDracor/grillparzer-medea.xml,"Medea liegt hingestreckt auf die Stufen, die zu ihrer Wohnung führen.",0,69,stage_direction,4,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+15,15,GerDracor/grillparzer-medea.xml,"Gora steht vor
+          ihr.",70,99,stage_direction,4,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation
+16,16,GerDracor/grillparzer-medea.xml,Vorhof vor Kreons Burg wie im vorigen Aufzuge.,0,46,stage_direction,5,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+17,17,GerDracor/grillparzer-medea.xml,Die Wohnung des Königs.,47,70,stage_direction,5,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+18,18,GerDracor/grillparzer-medea.xml,Im Hintergrunde ausgebrannt und noch rauchend.,0,46,stage_direction,5,1,pre_speech,,,,,suffering,negative,emotions of suffering and empathy
+19,19,GerDracor/grillparzer-medea.xml,"Mannigfach beschäftigtes Volk füllt
+            den Schauplatz, Morgendämmerung.",47,127,stage_direction,5,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+20,20,GerDracor/grillparzer-medea.xml,Der König schleppt Gora aus dem Palaste.,0,40,stage_direction,5,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+21,21,GerDracor/grillparzer-medea.xml,"Mehrere Dienerinnen Kreusas hinter ihm
+            her.",41,96,stage_direction,5,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+22,22,GerDracor/grillparzer-medea.xml,"
+              Heraus mit dir!",0,30,character_speech,5,1,,KÖNIG.,#koenig,1.0,MALE,anger,negative,emotions of rejection
+23,23,GerDracor/grillparzer-medea.xml,"Du warsts, die meiner Tochter
+              Das Blutgeschenk gebracht, das sie verdarb!",31,118,character_speech,5,1,,KÖNIG.,#koenig,1.0,MALE,love,positive,emotions of affection
+24,24,GerDracor/grillparzer-medea.xml,O Tochter!,133,143,character_speech,5,1,,KÖNIG.,#koenig,1.0,MALE,love,positive,emotions of affection
+25,25,GerDracor/grillparzer-medea.xml,"O Kreusa, du mein Kind!",144,167,character_speech,5,1,,KÖNIG.,#koenig,1.0,MALE,suffering,negative,emotions of suffering and empathy
+26,26,GerDracor/grillparzer-medea.xml,Gegen die Dienerinnen.,0,22,stage_direction,5,1,speech_part,,#koenig,1.0,MALE,no_annotation,no_annotation,no_annotation
+27,27,GerDracor/grillparzer-medea.xml,Die wars?,0,9,character_speech,5,1,,KÖNIG.,#koenig,1.0,MALE,being moved,being moved,being moved
+28,28,GerDracor/grillparzer-medea.xml,"
+              Ich wars.",0,24,character_speech,5,1,,GORA.,#gora,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+29,29,GerDracor/grillparzer-medea.xml,"Unbewußt
+              Trug ich den Tod in dein Haus.",25,78,character_speech,5,1,,GORA.,#gora,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+30,30,GerDracor/grillparzer-medea.xml,"
+              Unbewußt?",0,24,character_speech,5,1,,KÖNIG.,#koenig,3.0,MALE,no_annotation,no_annotation,no_annotation
+31,31,GerDracor/grillparzer-medea.xml,"O, glaube nicht, der Strafe zu entgehn!",39,78,character_speech,5,1,,KÖNIG.,#koenig,3.0,MALE,suffering,negative,emotions of suffering and empathy
+32,32,GerDracor/grillparzer-medea.xml,"
+              Meinst du, mich schrecket deine Strafe?",0,54,character_speech,5,1,,GORA.,#gora,4.0,FEMALE,fear,negative,emotions of anxiety
+33,33,GerDracor/grillparzer-medea.xml,"Ich hab gesehn mit diesen meinen Augen
+              Die Kinder liegen tot in ihrem Blut,
+              Erwürgt von der, die sie gebar,
+              Von der, die ich erzog, Medea,
+              Seitdem dünkt Scherz mir jeder andre Greul!",69,307,character_speech,5,1,,GORA.,#gora,4.0,FEMALE,suffering,negative,emotions of suffering and empathy
+34,34,GerDracor/grillparzer-medea.xml,"
+              Kreusa!",0,22,character_speech,5,1,,KÖNIG.,#koenig,5.0,MALE,no_annotation,no_annotation,no_annotation
+35,35,GerDracor/grillparzer-medea.xml,"O, mein Kind!",23,36,character_speech,5,1,,KÖNIG.,#koenig,5.0,MALE,no_annotation,no_annotation,no_annotation
+36,36,GerDracor/grillparzer-medea.xml,Du Reine!,37,46,character_speech,5,1,,KÖNIG.,#koenig,5.0,MALE,abhorrence,negative,emotions of rejection
+37,37,GerDracor/grillparzer-medea.xml,Treue!,47,53,character_speech,5,1,,KÖNIG.,#koenig,5.0,MALE,no_annotation,no_annotation,no_annotation
+38,38,GerDracor/grillparzer-medea.xml,"Erbebte dir die Hand nicht, Ungeheuer?",68,106,character_speech,5,1,,KÖNIG.,#koenig,5.0,MALE,abhorrence,negative,emotions of rejection
+39,39,GerDracor/grillparzer-medea.xml,Als du den Tod hintrugst in ihre Nähe.,121,159,character_speech,5,1,,KÖNIG.,#koenig,5.0,MALE,no_annotation,no_annotation,no_annotation
+40,40,GerDracor/grillparzer-medea.xml,"
+              Um deine Tochter klag ich nicht.",0,47,character_speech,5,1,,GORA.,#gora,6.0,FEMALE,compassion,negative,emotions of suffering and empathy
+41,41,GerDracor/grillparzer-medea.xml,Ihr ward ihr Recht!,48,67,character_speech,5,1,,GORA.,#gora,6.0,FEMALE,anger,negative,emotions of rejection
+42,42,GerDracor/grillparzer-medea.xml,Was griff sie nach des Unglücks letzter Habe?,82,127,character_speech,5,1,,GORA.,#gora,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+43,43,GerDracor/grillparzer-medea.xml,"Ich klag um meine Kinder, meine Lieben,
+              Die ich gesehn, von Mutterhänden tot.",142,233,character_speech,5,1,,GORA.,#gora,6.0,FEMALE,compassion,negative,emotions of suffering and empathy
+44,44,GerDracor/grillparzer-medea.xml,"Ich wollt, ihr läget allesamt im Grab
+              Mit dem Verräter, der sich Jason nennt,
+              Ich aber wär in Kolchis mit der Tochter
+              Und ihren Kindern; hätt euch nie gesehn,
+              Nie eure Stadt, die Unheil trifft mit Recht.",248,507,character_speech,5,1,,GORA.,#gora,6.0,FEMALE,abhorrence,negative,emotions of rejection
+45,45,GerDracor/grillparzer-medea.xml,"
+              Du legst den Trotz wohl ab, wenn ich dich treffe!",0,64,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,anger,negative,emotions of rejection
+46,46,GerDracor/grillparzer-medea.xml,"Allein ists auch gewiß, daß tot mein Kind?",79,121,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,despair,negative,emotions of anxiety
+47,47,GerDracor/grillparzer-medea.xml,So viele sagens; keine hats gesehn!,136,171,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,being moved,being moved,being moved
+48,48,GerDracor/grillparzer-medea.xml,Kann man dem Feuer nicht entrinnen?,186,221,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+49,49,GerDracor/grillparzer-medea.xml,Wächst Flamme denn so schnell?,237,267,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+50,50,GerDracor/grillparzer-medea.xml,"Nur langsam,
+              Nur zögernd kriecht sie an den Sparren fort.",268,339,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+51,51,GerDracor/grillparzer-medea.xml,Wer weiß das nicht?,354,373,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+52,52,GerDracor/grillparzer-medea.xml,Und dennoch wär sie tot?,374,398,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,despair,negative,emotions of anxiety
+53,53,GerDracor/grillparzer-medea.xml,"Stand erst so blühend, lebend vor mir da,
+              Und wär nun tot?",413,485,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+54,54,GerDracor/grillparzer-medea.xml,"Ich kanns, ich darfs nicht glauben!",486,521,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,suffering,negative,emotions of suffering and empathy
+55,55,GerDracor/grillparzer-medea.xml,"Die Augen wend ich unwillkürlich hin,
+              Und immer glaub ich, jetzt und jetzt und jetzt
+              Muß sie sich zeigen, weiß in ihrer Schönheit
+              Herniedergleitend durch die schwarzen Trümmer.",536,754,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+56,56,GerDracor/grillparzer-medea.xml,Wer war dabei?,769,783,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+57,57,GerDracor/grillparzer-medea.xml,Wer sah es?,784,795,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+58,58,GerDracor/grillparzer-medea.xml,– Du?,796,801,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+59,59,GerDracor/grillparzer-medea.xml,– So sprich!,802,814,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+60,60,GerDracor/grillparzer-medea.xml,Dreh nicht die Augen so im Kopf herum!,829,867,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,being moved,being moved,being moved
+61,61,GerDracor/grillparzer-medea.xml,Mit Worten töte mich!,882,903,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,despair,negative,emotions of anxiety
+62,62,GerDracor/grillparzer-medea.xml,– Ist sie dahin?,904,920,character_speech,5,1,,KÖNIG.,#koenig,7.0,MALE,no_annotation,no_annotation,no_annotation
+63,63,GerDracor/grillparzer-medea.xml,Dahin!,0,6,character_speech,5,1,,MAGD.,#magd,8.0,FEMALE,no_annotation,no_annotation,no_annotation
+64,64,GerDracor/grillparzer-medea.xml,Du sahsts?,0,10,character_speech,5,1,,KÖNIG.,#koenig,9.0,MALE,being moved,being moved,being moved
+65,65,GerDracor/grillparzer-medea.xml,"
+              Ich sahs.",0,24,character_speech,5,1,,MAGD.,#magd,10.0,FEMALE,no_annotation,no_annotation,no_annotation
+66,66,GerDracor/grillparzer-medea.xml,"Sah wie die Flamme,
+              Hervor sich wälzend aus dem Goldgefäß,
+              Nach ihr –",25,122,character_speech,5,1,,MAGD.,#magd,10.0,FEMALE,no_annotation,no_annotation,no_annotation
+67,67,GerDracor/grillparzer-medea.xml,"
+              Genug!",0,21,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,no_annotation,no_annotation,no_annotation
+68,68,GerDracor/grillparzer-medea.xml,– Sie sahs!,22,33,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,no_annotation,no_annotation,no_annotation
+69,69,GerDracor/grillparzer-medea.xml,– Sie ist nicht mehr!,34,55,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,no_annotation,no_annotation,no_annotation
+70,70,GerDracor/grillparzer-medea.xml,Kreusa!,70,77,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,no_annotation,no_annotation,no_annotation
+71,71,GerDracor/grillparzer-medea.xml,O mein Kind!,78,90,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,compassion,negative,emotions of suffering and empathy
+72,72,GerDracor/grillparzer-medea.xml,O meine Tochter!,91,107,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,love,positive,emotions of affection
+73,73,GerDracor/grillparzer-medea.xml,"–
+              Einst – noch als Kind – verbrannte sie die Hand
+              Am Opferherd und qualvoll schrie sie auf.",108,227,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,suffering,negative,emotions of suffering and empathy
+74,74,GerDracor/grillparzer-medea.xml,"Hin stürz ich, fasse sie in meinen Arm,
+              Die heißen Finger mit den Lippen hauchend.",242,338,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,love,positive,emotions of affection
+75,75,GerDracor/grillparzer-medea.xml,"Da lächelt sie, trotz ihren bittern Tränen,
+              Und leise schluchzend spricht sie: 's ist nicht viel,
+              Was tut der Schmerz?",353,499,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,suffering,negative,emotions of suffering and empathy
+76,76,GerDracor/grillparzer-medea.xml,"Nur brennen, brennen nicht!",500,527,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,fear,negative,emotions of anxiety
+77,77,GerDracor/grillparzer-medea.xml,Und nun –,542,551,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,no_annotation,no_annotation,no_annotation
+78,78,GerDracor/grillparzer-medea.xml,Zu Gora.,0,8,stage_direction,5,1,speech_part,,#koenig,11.0,MALE,no_annotation,no_annotation,no_annotation
+79,79,GerDracor/grillparzer-medea.xml,"
+              Wenn ich das Schwert hier zwanzigmal
+              Dir stoß in deinen Leib – was ists dagegen?",0,109,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,no_annotation,no_annotation,no_annotation
+80,80,GerDracor/grillparzer-medea.xml,"Und wenn ich sie, die Gräßliche!",124,156,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,despair,negative,emotions of anxiety
+81,81,GerDracor/grillparzer-medea.xml,"– Wo ist sie,
+              Die mir mein Kind geraubt?",157,211,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,no_annotation,no_annotation,no_annotation
+82,82,GerDracor/grillparzer-medea.xml,"Ich schüttle dir
+              Die Antwort mit der Seel aus deinem Mund
+              Wenn du mir nicht gestehst: wo ist sie hin?",226,355,character_speech,5,1,,KÖNIG.,#koenig,11.0,MALE,anger,negative,emotions of rejection
+83,83,GerDracor/grillparzer-medea.xml,"
+              Ich weiß es nicht und mag es auch nicht wissen!",0,62,character_speech,5,1,,GORA.,#gora,12.0,FEMALE,being moved,being moved,being moved
+84,84,GerDracor/grillparzer-medea.xml,Geh unbegleitet sie in ihr Verderben.,77,114,character_speech,5,1,,GORA.,#gora,12.0,FEMALE,abhorrence,negative,emotions of rejection
+85,85,GerDracor/grillparzer-medea.xml,Was weilt ihr?,129,143,character_speech,5,1,,GORA.,#gora,12.0,FEMALE,no_annotation,no_annotation,no_annotation
+86,86,GerDracor/grillparzer-medea.xml,Tötet mich!,144,155,character_speech,5,1,,GORA.,#gora,12.0,FEMALE,despair,negative,emotions of anxiety
+87,87,GerDracor/grillparzer-medea.xml,Ich mag nicht leben!,156,176,character_speech,5,1,,GORA.,#gora,12.0,FEMALE,despair,negative,emotions of anxiety
+88,88,GerDracor/grillparzer-medea.xml,Das findet sich; doch eher noch gestehst du!,0,44,character_speech,5,1,,KÖNIG.,#koenig,13.0,MALE,no_annotation,no_annotation,no_annotation
+89,89,GerDracor/grillparzer-medea.xml,hinter der Szene.,0,17,stage_direction,5,1,speech_part,,#jason,14.0,MALE,no_annotation,no_annotation,no_annotation
+90,90,GerDracor/grillparzer-medea.xml,Wo ist sie?,0,11,character_speech,5,1,,JASON,#jason,14.0,MALE,no_annotation,no_annotation,no_annotation
+91,91,GerDracor/grillparzer-medea.xml,Gebt sie mir heraus!,12,32,character_speech,5,1,,JASON,#jason,14.0,MALE,no_annotation,no_annotation,no_annotation
+92,92,GerDracor/grillparzer-medea.xml,Medea!,33,39,character_speech,5,1,,JASON,#jason,14.0,MALE,being moved,being moved,being moved
+93,93,GerDracor/grillparzer-medea.xml,Mit dem bloßen Schwerte in der Hand auftretend.,0,47,stage_direction,5,1,speech_part,,#jason,14.0,MALE,no_annotation,no_annotation,no_annotation
+94,94,GerDracor/grillparzer-medea.xml,"
+              Man sagt mir, sie ward eingeholt?",0,48,character_speech,5,1,,JASON,#jason,14.0,MALE,no_annotation,no_annotation,no_annotation
+95,95,GerDracor/grillparzer-medea.xml,Wo ist sie?,49,60,character_speech,5,1,,JASON,#jason,14.0,MALE,no_annotation,no_annotation,no_annotation
+96,96,GerDracor/grillparzer-medea.xml,Du hier?,75,83,character_speech,5,1,,JASON,#jason,14.0,MALE,no_annotation,no_annotation,no_annotation
+97,97,GerDracor/grillparzer-medea.xml,Und wo ist deine Herrin?,84,108,character_speech,5,1,,JASON,#jason,14.0,MALE,no_annotation,no_annotation,no_annotation
+98,98,GerDracor/grillparzer-medea.xml,Fort!,0,5,character_speech,5,1,,GORA.,#gora,15.0,FEMALE,no_annotation,no_annotation,no_annotation
+99,99,GerDracor/grillparzer-medea.xml,Hat sie die Kinder?,0,19,character_speech,5,1,,JASON.,#jason,16.0,MALE,no_annotation,no_annotation,no_annotation
+100,100,GerDracor/grillparzer-medea.xml,Nein!,0,5,character_speech,5,1,,GORA.,#gora,17.0,FEMALE,no_annotation,no_annotation,no_annotation
+101,101,GerDracor/grillparzer-medea.xml,So sind sie?,0,12,character_speech,5,1,,JASON.,#jason,18.0,MALE,no_annotation,no_annotation,no_annotation
+102,102,GerDracor/grillparzer-medea.xml,"
+              Tot!",0,19,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,despair,negative,emotions of anxiety
+103,103,GerDracor/grillparzer-medea.xml,Ja tot!,34,41,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+104,104,GerDracor/grillparzer-medea.xml,du heuchelnder Verräter!,42,66,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,abhorrence,negative,emotions of rejection
+105,105,GerDracor/grillparzer-medea.xml,– Tot!,67,73,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+106,106,GerDracor/grillparzer-medea.xml,"Sie wollte sie vor deinem Anschaun retten
+              Und da dir nichts zu heilig auf der Erde,
+              Hat sie hinabgeflüchtet sie ins Grab.",88,237,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,despair,negative,emotions of anxiety
+107,107,GerDracor/grillparzer-medea.xml,Steh nur und starre nur den Boden an!,252,289,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,being moved,being moved,being moved
+108,108,GerDracor/grillparzer-medea.xml,"Du rufst es nicht herauf, das liebe Paar.",304,345,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+109,109,GerDracor/grillparzer-medea.xml,Sie sind dahin und dessen freu ich mich!,360,400,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,joy,positive,emotions of pleasure
+110,110,GerDracor/grillparzer-medea.xml,"Nein, dessen nicht!",415,434,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+111,111,GerDracor/grillparzer-medea.xml,"– Doch, daß du drob verzweifelst,
+              Des freu ich mich!",435,501,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,joy,positive,emotions of pleasure
+112,112,GerDracor/grillparzer-medea.xml,"– Du heuchelnder Verräter,
+              Hast du sie nicht dahin gebracht?",502,576,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,abhorrence,negative,emotions of rejection
+113,113,GerDracor/grillparzer-medea.xml,"Und du, Du falscher König, mit der Gleisnermiene?",591,640,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,abhorrence,negative,emotions of rejection
+114,114,GerDracor/grillparzer-medea.xml,"–
+              Habt ihr es nicht umstellt mit Jägernetzen
+              Des schändlichen Verrats, das edle Wild,
+              Bis ohne Ausweg, in Verzweiflungswut
+              Es, überspringend euer Garn, die Krone,
+              Des hohen Hauptes königlichen Schmuck
+              Mißbraucht zum Werkzeug ungewohnten Mords.",641,968,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,despair,negative,emotions of anxiety
+115,115,GerDracor/grillparzer-medea.xml,"Ringt nur die Hände, ringt sie ob euch selbst!",983,1029,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,love,positive,emotions of affection
+116,116,GerDracor/grillparzer-medea.xml,Zum König.,0,10,stage_direction,5,1,speech_part,,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+117,117,GerDracor/grillparzer-medea.xml,"Dein Kind, was sucht' es einer andern Bett?",0,43,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+118,118,GerDracor/grillparzer-medea.xml,Zu Jason.,0,9,stage_direction,5,1,speech_part,,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+119,119,GerDracor/grillparzer-medea.xml,"
+              Was stahlst du sie, hast du sie nicht geliebt?",0,61,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,love,positive,emotions of affection
+120,120,GerDracor/grillparzer-medea.xml,"Und liebtest du sie, was verstößt du sie?",76,117,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,love,positive,emotions of affection
+121,121,GerDracor/grillparzer-medea.xml,"Laßt andre, mich laßt ihre Tat verdammen.",132,173,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,abhorrence,negative,emotions of rejection
+122,122,GerDracor/grillparzer-medea.xml,Euch beiden widerfuhr nur euer Recht.,188,225,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+123,123,GerDracor/grillparzer-medea.xml,Ihr spottet nun nicht mehr der Kolcherin.,240,281,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,anger,negative,emotions of rejection
+124,124,GerDracor/grillparzer-medea.xml,"–
+              Ich mag nicht länger leben auf der Erde,
+               Zwei Kinder tot, das dritte hassenswert
+              Führt mich nur fort und, wollt ihr, tötet mich
+              Auf etwas Jenseits hoff ich nun gewiß,
+              Hab ich gesehn doch, daß Vergeltung ist.",282,562,character_speech,5,1,,GORA.,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+125,125,GerDracor/grillparzer-medea.xml,"Sie geht ab, von einigen begleitet.",0,35,stage_direction,5,1,speech_part,,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+126,126,GerDracor/grillparzer-medea.xml,Pause.,0,6,stage_direction,5,1,speech_part,,#gora,19.0,FEMALE,no_annotation,no_annotation,no_annotation
+127,127,GerDracor/grillparzer-medea.xml,"
+              Tat ich ihr Unrecht – bei den hohen Göttern
+              Ich hab es nicht gewollt!",0,98,character_speech,5,1,,KÖNIG.,#koenig,20.0,MALE,suffering,negative,emotions of suffering and empathy
+128,128,GerDracor/grillparzer-medea.xml,"– Nun hin zu jenen Trümmern,
+              Daß wir die Reste suchen meines Kindes
+              Und sie bestatten in der Erde Schoß.",99,231,character_speech,5,1,,KÖNIG.,#koenig,20.0,MALE,no_annotation,no_annotation,no_annotation
+129,129,GerDracor/grillparzer-medea.xml,Zu Jason.,0,9,stage_direction,5,1,speech_part,,#koenig,20.0,MALE,no_annotation,no_annotation,no_annotation
+130,130,GerDracor/grillparzer-medea.xml,"
+              Du aber geh, wohin dein Fuß dich trägt
+              Befleckter Nähe, merk ich, ist gefährlich.",0,110,character_speech,5,1,,KÖNIG.,#koenig,20.0,MALE,no_annotation,no_annotation,no_annotation
+131,131,GerDracor/grillparzer-medea.xml,"Hätt ich dich nie gesehn, dich nie genommen
+              Mit Freundestreue in mein gastlich Haus.",125,223,character_speech,5,1,,KÖNIG.,#koenig,20.0,MALE,friendship,positive,emotions of affection
+132,132,GerDracor/grillparzer-medea.xml,Du hast die Tochter mir genommen!,238,271,character_speech,5,1,,KÖNIG.,#koenig,20.0,MALE,suffering,negative,emotions of suffering and empathy
+133,133,GerDracor/grillparzer-medea.xml,"Geh,
+              Daß du nicht auch der Klage Trost mir nimmst!",272,336,character_speech,5,1,,KÖNIG.,#koenig,20.0,MALE,suffering,negative,emotions of suffering and empathy
+134,134,GerDracor/grillparzer-medea.xml,Du stößt mich fort?,0,19,character_speech,5,1,,JASON.,#jason,21.0,MALE,anger,negative,emotions of rejection
+135,135,GerDracor/grillparzer-medea.xml,Ich weise dich von mir.,0,23,character_speech,5,1,,KÖNIG.,#koenig,22.0,MALE,anger,negative,emotions of rejection
+136,136,GerDracor/grillparzer-medea.xml,Was soll ich tun?,0,17,character_speech,5,1,,JASON.,#jason,23.0,MALE,no_annotation,no_annotation,no_annotation
+137,137,GerDracor/grillparzer-medea.xml,Das wird ein Gott dir sagen!,0,28,character_speech,5,1,,KÖNIG.,#koenig,24.0,MALE,no_annotation,no_annotation,no_annotation
+138,138,GerDracor/grillparzer-medea.xml,"
+              Wer leitet meinen Tritt?",0,39,character_speech,5,1,,JASON.,#jason,25.0,MALE,no_annotation,no_annotation,no_annotation
+139,139,GerDracor/grillparzer-medea.xml,Wer unterstützt mich?,40,61,character_speech,5,1,,JASON.,#jason,25.0,MALE,no_annotation,no_annotation,no_annotation
+140,140,GerDracor/grillparzer-medea.xml,"Mein Haupt ist wund, verletzt von Brandes Fall!",76,123,character_speech,5,1,,JASON.,#jason,25.0,MALE,suffering,negative,emotions of suffering and empathy
+141,141,GerDracor/grillparzer-medea.xml,"Wie, alles schweigt?",138,158,character_speech,5,1,,JASON.,#jason,25.0,MALE,being moved,being moved,being moved
+142,142,GerDracor/grillparzer-medea.xml,"Kein Führer, kein Geleiter?",159,186,character_speech,5,1,,JASON.,#jason,25.0,MALE,no_annotation,no_annotation,no_annotation
+143,143,GerDracor/grillparzer-medea.xml,"Folgt niemand mir, dem einst so viele folgten,
+              Geht, Schatten meiner Kinder, denn voran
+              Und leitet mich zum Grab, das meiner harrt.",201,360,character_speech,5,1,,JASON.,#jason,25.0,MALE,no_annotation,no_annotation,no_annotation
+144,144,GerDracor/grillparzer-medea.xml,Er geht.,0,8,stage_direction,5,1,speech_part,,#jason,25.0,MALE,no_annotation,no_annotation,no_annotation
+145,145,GerDracor/grillparzer-medea.xml,"Nun auf, ans Werk!",0,18,character_speech,5,1,,KÖNIG.,#koenig,26.0,MALE,no_annotation,no_annotation,no_annotation
+146,146,GerDracor/grillparzer-medea.xml,Dann Trauer ewiglich!,19,40,character_speech,5,1,,KÖNIG.,#koenig,26.0,MALE,suffering,negative,emotions of suffering and empathy
+147,147,GerDracor/grillparzer-medea.xml,Nach der andern Seite ab.,0,25,stage_direction,5,1,speech_part,,#koenig,26.0,MALE,no_annotation,no_annotation,no_annotation
+148,148,GerDracor/grillparzer-medea.xml,"Wilde, einsame Gegend, von Wald und Felsen umschlossen, mit einer Hütte.",0,72,stage_direction,5,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+149,149,GerDracor/grillparzer-medea.xml,Der Landmann auftretend.,0,24,stage_direction,5,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+150,150,GerDracor/grillparzer-medea.xml,"
+              Wie schön der Morgen aufsteigt.",0,46,character_speech,5,2,,LANDMANN.,#landmann,27.0,MALE,joy,positive,emotions of pleasure
+151,151,GerDracor/grillparzer-medea.xml,Gütge Götter!,47,60,character_speech,5,2,,LANDMANN.,#landmann,27.0,MALE,"admiration, reverence",positive,emotions of affection
+152,152,GerDracor/grillparzer-medea.xml,"Nach all den Stürmen dieser finstren Nacht
+              Hebt eure Sonne sich in neuer Schönheit.",75,172,character_speech,5,2,,LANDMANN.,#landmann,27.0,MALE,no_annotation,no_annotation,no_annotation
+153,153,GerDracor/grillparzer-medea.xml,Er geht in die Hütte.,0,21,stage_direction,5,2,speech_part,,#landmann,27.0,MALE,no_annotation,no_annotation,no_annotation
+154,154,GerDracor/grillparzer-medea.xml,"Jason kommt wankend, auf sein Schwert gestützt.",0,47,stage_direction,5,2,speech_part,,#landmann,27.0,MALE,being moved,being moved,being moved
+155,155,GerDracor/grillparzer-medea.xml,"
+              Ich kann nicht weiter!",0,37,character_speech,5,2,,JASON.,#jason,28.0,MALE,despair,negative,emotions of anxiety
+156,156,GerDracor/grillparzer-medea.xml,Weh!,38,42,character_speech,5,2,,JASON.,#jason,28.0,MALE,no_annotation,no_annotation,no_annotation
+157,157,GerDracor/grillparzer-medea.xml,"Mein Haupt – es brennt –
+              Es glüht das Blut – am Gaumen klebt die Zunge!",43,128,character_speech,5,2,,JASON.,#jason,28.0,MALE,being moved,being moved,being moved
+158,158,GerDracor/grillparzer-medea.xml,Ist niemand da?,143,158,character_speech,5,2,,JASON.,#jason,28.0,MALE,no_annotation,no_annotation,no_annotation
+159,159,GerDracor/grillparzer-medea.xml,Soll ich allein verschmachten?,159,189,character_speech,5,2,,JASON.,#jason,28.0,MALE,no_annotation,no_annotation,no_annotation
+160,160,GerDracor/grillparzer-medea.xml,"Hier ist die Hütte, die mir Obdach bot,
+              Als ich, ein reicher Mann, ein reicher Vater,
+              Hierher kam, neuerwachter Hoffnung voll!",204,358,character_speech,5,2,,JASON.,#jason,28.0,MALE,joy,positive,emotions of pleasure
+161,161,GerDracor/grillparzer-medea.xml,Anpochend.,0,10,stage_direction,5,2,speech_part,,#jason,28.0,MALE,no_annotation,no_annotation,no_annotation
+162,162,GerDracor/grillparzer-medea.xml,Nur einen Trunk!,0,16,character_speech,5,2,,JASON.,#jason,28.0,MALE,no_annotation,no_annotation,no_annotation
+163,163,GerDracor/grillparzer-medea.xml,Nur einen Ort zum Sterben!,17,43,character_speech,5,2,,JASON.,#jason,28.0,MALE,despair,negative,emotions of anxiety
+164,164,GerDracor/grillparzer-medea.xml,Der Landmann kommt heraus.,0,26,stage_direction,5,2,speech_part,,#jason,28.0,MALE,no_annotation,no_annotation,no_annotation
+165,165,GerDracor/grillparzer-medea.xml,Wer pocht?,0,10,character_speech,5,2,,LANDMANN.,#landmann,29.0,MALE,no_annotation,no_annotation,no_annotation
+166,166,GerDracor/grillparzer-medea.xml,"– Wer bist du, Armer, todesmatt?",11,43,character_speech,5,2,,LANDMANN.,#landmann,29.0,MALE,compassion,negative,emotions of suffering and empathy
+167,167,GerDracor/grillparzer-medea.xml,"
+              Nur Wasser!",0,26,character_speech,5,2,,JASON.,#jason,30.0,MALE,no_annotation,no_annotation,no_annotation
+168,168,GerDracor/grillparzer-medea.xml,Einen Trunk!,27,39,character_speech,5,2,,JASON.,#jason,30.0,MALE,no_annotation,no_annotation,no_annotation
+169,169,GerDracor/grillparzer-medea.xml,– Ich bin der Jason!,40,60,character_speech,5,2,,JASON.,#jason,30.0,MALE,no_annotation,no_annotation,no_annotation
+170,170,GerDracor/grillparzer-medea.xml,Des Wunder-Vließes Held!,75,99,character_speech,5,2,,JASON.,#jason,30.0,MALE,"admiration, reverence",positive,emotions of affection
+171,171,GerDracor/grillparzer-medea.xml,Ein Fürst!,100,110,character_speech,5,2,,JASON.,#jason,30.0,MALE,no_annotation,no_annotation,no_annotation
+172,172,GerDracor/grillparzer-medea.xml,Ein König!,111,121,character_speech,5,2,,JASON.,#jason,30.0,MALE,no_annotation,no_annotation,no_annotation
+173,173,GerDracor/grillparzer-medea.xml,"Der Argonauten Führer, Jason ich!",136,169,character_speech,5,2,,JASON.,#jason,30.0,MALE,no_annotation,no_annotation,no_annotation
+174,174,GerDracor/grillparzer-medea.xml,"
+              Bist du der Jason?",0,33,character_speech,5,2,,LANDMANN.,#landmann,31.0,MALE,no_annotation,no_annotation,no_annotation
+175,175,GerDracor/grillparzer-medea.xml,so heb dich von hinnen.,34,57,character_speech,5,2,,LANDMANN.,#landmann,31.0,MALE,no_annotation,no_annotation,no_annotation
+176,176,GerDracor/grillparzer-medea.xml,"Beflecke nicht mein Haus, da dus betrittst.",72,115,character_speech,5,2,,LANDMANN.,#landmann,31.0,MALE,no_annotation,no_annotation,no_annotation
+177,177,GerDracor/grillparzer-medea.xml,"Hast meines Königs Tochter du getötet,
+              Nicht fordre Schutz vor seines Volkes Tür.",130,225,character_speech,5,2,,LANDMANN.,#landmann,31.0,MALE,no_annotation,no_annotation,no_annotation
+178,178,GerDracor/grillparzer-medea.xml,"Er geht hinein, die Türe schließend.",0,36,stage_direction,5,2,speech_part,,#landmann,31.0,MALE,no_annotation,no_annotation,no_annotation
+179,179,GerDracor/grillparzer-medea.xml,"
+              Er geht und läßt mich liegen hier am Weg!",0,56,character_speech,5,2,,JASON.,#jason,32.0,MALE,suffering,negative,emotions of suffering and empathy
+180,180,GerDracor/grillparzer-medea.xml,"Im Staub, getreten von des Wandrers Füßen!",71,113,character_speech,5,2,,JASON.,#jason,32.0,MALE,abhorrence,negative,emotions of rejection
+181,181,GerDracor/grillparzer-medea.xml,"Dich ruf ich: Tod, führ mich zu meinen Kindern!",128,175,character_speech,5,2,,JASON.,#jason,32.0,MALE,despair,negative,emotions of anxiety
+182,182,GerDracor/grillparzer-medea.xml,Er sinkt nieder.,0,16,stage_direction,5,2,speech_part,,#jason,32.0,MALE,no_annotation,no_annotation,no_annotation
+183,183,GerDracor/grillparzer-medea.xml,"Medea tritt hinter einem Felsenstück hervor und steht mit einemmal vor ihm, das
+              Vließ wie einen Mantel um ihre Schultern tragend.",0,143,stage_direction,5,2,speech_part,,#jason,32.0,MALE,no_annotation,no_annotation,no_annotation
+184,184,GerDracor/grillparzer-medea.xml,Jason!,0,6,character_speech,5,2,,MEDEA.,#medea,33.0,FEMALE,being moved,being moved,being moved
+185,185,GerDracor/grillparzer-medea.xml,halb emporgerichtet.,0,20,stage_direction,5,2,speech_part,,#jason,34.0,MALE,suffering,negative,emotions of suffering and empathy
+186,186,GerDracor/grillparzer-medea.xml,"
+              Wer ruft?",0,24,character_speech,5,2,,JASON,#jason,34.0,MALE,no_annotation,no_annotation,no_annotation
+187,187,GerDracor/grillparzer-medea.xml,– Ha!,25,30,character_speech,5,2,,JASON,#jason,34.0,MALE,no_annotation,no_annotation,no_annotation
+188,188,GerDracor/grillparzer-medea.xml,seh ich recht?,31,45,character_speech,5,2,,JASON,#jason,34.0,MALE,no_annotation,no_annotation,no_annotation
+189,189,GerDracor/grillparzer-medea.xml,Bist dus?,46,55,character_speech,5,2,,JASON,#jason,34.0,MALE,no_annotation,no_annotation,no_annotation
+190,190,GerDracor/grillparzer-medea.xml,Entsetzliche!,70,83,character_speech,5,2,,JASON,#jason,34.0,MALE,despair,negative,emotions of anxiety
+191,191,GerDracor/grillparzer-medea.xml,Du trittst noch vor mich hin?,84,113,character_speech,5,2,,JASON,#jason,34.0,MALE,no_annotation,no_annotation,no_annotation
+192,192,GerDracor/grillparzer-medea.xml,Mein Schwert!,128,141,character_speech,5,2,,JASON,#jason,34.0,MALE,no_annotation,no_annotation,no_annotation
+193,193,GerDracor/grillparzer-medea.xml,Mein Schwert!,142,155,character_speech,5,2,,JASON,#jason,34.0,MALE,no_annotation,no_annotation,no_annotation
+194,194,GerDracor/grillparzer-medea.xml,"Er will aufspringen, sinkt aber wieder zurück.",0,46,stage_direction,5,2,speech_part,,#jason,34.0,MALE,no_annotation,no_annotation,no_annotation
+195,195,GerDracor/grillparzer-medea.xml,"
+              O weh mir!",0,25,character_speech,5,2,,JASON,#jason,34.0,MALE,suffering,negative,emotions of suffering and empathy
+196,196,GerDracor/grillparzer-medea.xml,"Meine Glieder
+              Versagen mir den Dienst!",26,78,character_speech,5,2,,JASON,#jason,34.0,MALE,suffering,negative,emotions of suffering and empathy
+197,197,GerDracor/grillparzer-medea.xml,– Gebrochen!,79,91,character_speech,5,2,,JASON,#jason,34.0,MALE,no_annotation,no_annotation,no_annotation
+198,198,GerDracor/grillparzer-medea.xml,– Hin!,92,98,character_speech,5,2,,JASON,#jason,34.0,MALE,no_annotation,no_annotation,no_annotation
+199,199,GerDracor/grillparzer-medea.xml,"
+              Laß ab!",0,22,character_speech,5,2,,MEDEA.,#medea,35.0,FEMALE,no_annotation,no_annotation,no_annotation
+200,200,GerDracor/grillparzer-medea.xml,Du triffst mich nicht!,23,45,character_speech,5,2,,MEDEA.,#medea,35.0,FEMALE,no_annotation,no_annotation,no_annotation
+201,201,GerDracor/grillparzer-medea.xml,"Ich bin ein Opfer
+              Für eines andern Hand als für die deine!",46,118,character_speech,5,2,,MEDEA.,#medea,35.0,FEMALE,love,positive,emotions of affection
+202,202,GerDracor/grillparzer-medea.xml,Wo hast du meine Kinder?,0,24,character_speech,5,2,,JASON.,#jason,36.0,MALE,no_annotation,no_annotation,no_annotation
+203,203,GerDracor/grillparzer-medea.xml,Meine sinds!,0,12,character_speech,5,2,,MEDEA.,#medea,37.0,FEMALE,love,positive,emotions of affection
+204,204,GerDracor/grillparzer-medea.xml,Wo hast du sie?,0,15,character_speech,5,2,,JASON.,#jason,38.0,MALE,no_annotation,no_annotation,no_annotation
+205,205,GerDracor/grillparzer-medea.xml,"
+              Sie sind an einem Ort,
+              Wo ihnen besser ist als mir und dir.",0,88,character_speech,5,2,,MEDEA.,#medea,39.0,FEMALE,no_annotation,no_annotation,no_annotation
+206,206,GerDracor/grillparzer-medea.xml,"Tot sind sie, tot!",0,18,character_speech,5,2,,JASON.,#jason,40.0,MALE,despair,negative,emotions of anxiety
+207,207,GerDracor/grillparzer-medea.xml,"
+              Dir scheint der Tod das Schlimmste
+              Ich kenn ein noch viel Ärgres: elend sein.",0,106,character_speech,5,2,,MEDEA.,#medea,41.0,FEMALE,suffering,negative,emotions of suffering and empathy
+208,208,GerDracor/grillparzer-medea.xml,"Hättst du das Leben höher nicht geachtet,
+              Als es zu achten ist, uns wär nun anders.",121,218,character_speech,5,2,,MEDEA.,#medea,41.0,FEMALE,anger,negative,emotions of rejection
+209,209,GerDracor/grillparzer-medea.xml,Drum tragen wir!,233,249,character_speech,5,2,,MEDEA.,#medea,41.0,FEMALE,no_annotation,no_annotation,no_annotation
+210,210,GerDracor/grillparzer-medea.xml,Den Kindern ists erspart!,250,275,character_speech,5,2,,MEDEA.,#medea,41.0,FEMALE,joy,positive,emotions of pleasure
+211,211,GerDracor/grillparzer-medea.xml,Das sagst du und stehst ruhig?,0,30,character_speech,5,2,,JASON.,#jason,42.0,MALE,no_annotation,no_annotation,no_annotation
+212,212,GerDracor/grillparzer-medea.xml,"
+              Ruhig?",0,21,character_speech,5,2,,MEDEA.,#medea,43.0,FEMALE,no_annotation,no_annotation,no_annotation
+213,213,GerDracor/grillparzer-medea.xml,Ruhig!,22,28,character_speech,5,2,,MEDEA.,#medea,43.0,FEMALE,no_annotation,no_annotation,no_annotation
+214,214,GerDracor/grillparzer-medea.xml,"Wär dir mein Busen nicht auch jetzt verschlossen,
+              Wie er dirs immer war, du sähst den Schmerz,
+              Der, endlos wallend wie ein brandend Meer,
+              Die einzeln Trümmer meines Leids verschlingt
+              Und sie, verhüllt im Greuel der Verwüstung,
+              Mit sich wälzt in das Unermeßliche.",43,375,character_speech,5,2,,MEDEA.,#medea,43.0,FEMALE,suffering,negative,emotions of suffering and empathy
+215,215,GerDracor/grillparzer-medea.xml,"Nicht traur ich, daß die Kinder nicht mehr sind.",390,438,character_speech,5,2,,MEDEA.,#medea,43.0,FEMALE,suffering,negative,emotions of suffering and empathy
+216,216,GerDracor/grillparzer-medea.xml,"Ich traure, daß sie waren und daß wir sind.",453,496,character_speech,5,2,,MEDEA.,#medea,43.0,FEMALE,compassion,negative,emotions of suffering and empathy
+217,217,GerDracor/grillparzer-medea.xml,"O weh mir, weh!",0,15,character_speech,5,2,,JASON.,#jason,44.0,MALE,suffering,negative,emotions of suffering and empathy
+218,218,GerDracor/grillparzer-medea.xml,"
+              Du trage, was dich trifft,
+              Denn wahrlich, unverdient trifft es dich nicht!",0,103,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,compassion,negative,emotions of suffering and empathy
+219,219,GerDracor/grillparzer-medea.xml,"Wie du vor mir liegst auf der nackten Erde,
+              So lag ich auch in Kolchis einst vor dir
+              Und bat um Schonung, doch du schontest nicht!",118,276,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,suffering,negative,emotions of suffering and empathy
+220,220,GerDracor/grillparzer-medea.xml,"Mit blindem Frevel griffst du nach den Losen,
+              Ob ich dir zurief gleich: du greifst den Tod!",291,396,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,abhorrence,negative,emotions of rejection
+221,221,GerDracor/grillparzer-medea.xml,"So habe denn, was trotzend du gewollt:
+              Den Tod.",411,472,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,abhorrence,negative,emotions of rejection
+222,222,GerDracor/grillparzer-medea.xml,Ich aber scheide jetzt von dir.,473,504,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,abhorrence,negative,emotions of rejection
+223,223,GerDracor/grillparzer-medea.xml,Auf immerdar.,519,532,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+224,224,GerDracor/grillparzer-medea.xml,"Es ist das letztemal,
+              In alle Ewigkeit das letztemal,
+              Daß ich zu dir nun rede, mein Gemahl.",533,652,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,love,positive,emotions of affection
+225,225,GerDracor/grillparzer-medea.xml,Leb wohl.,667,676,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+226,226,GerDracor/grillparzer-medea.xml,"Nach all den Freuden frührer Tage,
+              In all den Schmerzen, die uns jetzt umnachten,
+              Zu all dem Jammer, der noch künftig droht,
+              Sag ich dir Lebewohl, mein Gatte.",677,877,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,suffering,negative,emotions of suffering and empathy
+227,227,GerDracor/grillparzer-medea.xml,"Ein kummervolles Dasein bricht dir an,
+              Doch was auch kommen mag: Halt aus!",892,980,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,suffering,negative,emotions of suffering and empathy
+228,228,GerDracor/grillparzer-medea.xml,Und sei im Tragen stärker als im Handeln.,995,1036,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+229,229,GerDracor/grillparzer-medea.xml,"Willst du im Schmerz vergehn, so denk an mich
+              Und tröste dich an meinem größern Jammer,
+              Die ich getan, wo du nur unterlassen.",1052,1205,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,suffering,negative,emotions of suffering and empathy
+230,230,GerDracor/grillparzer-medea.xml,"Ich geh hinweg, den ungeheuern Schmerz
+              Fort mit mir tragend in die weite Welt.",1220,1312,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,suffering,negative,emotions of suffering and empathy
+231,231,GerDracor/grillparzer-medea.xml,"Ein Dolchstoß wäre Labsal, doch nicht so.",1327,1368,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+232,232,GerDracor/grillparzer-medea.xml,"Medea soll nicht durch Medeen sterben,
+              Mein frühres Leben, eines bessern Richters
+              Macht es mich würdig, als Medea ist.",1383,1529,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+233,233,GerDracor/grillparzer-medea.xml,Nach Delphi geh ich.,1544,1564,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+234,234,GerDracor/grillparzer-medea.xml,"An des Gottes Altar,
+              Von wo das Vließ einst Phryxus weggenommen,
+              Häng ich, dem dunkeln Gott das Seine gebend,
+              Es auf, das selbst die Flamme nicht verletzt
+              Und das hervorging ganz und unversehrt
+              Aus der Korintherfürstin blutgem Brande;
+              Dort stell ich mich den Priestern dar, sie fragend,
+              Ob sie mein Haupt zum Opfer nehmen an,
+              Ob sie mich senden in die ferne Wüste,
+              In längerm Leben findend längre Qual.",1565,2093,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,suffering,negative,emotions of suffering and empathy
+235,235,GerDracor/grillparzer-medea.xml,"Erkennst das Zeichen du, um das du rangst?",2108,2150,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+236,236,GerDracor/grillparzer-medea.xml,Das dir ein Ruhm war und ein Glück dir schien?,2165,2211,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,joy,positive,emotions of pleasure
+237,237,GerDracor/grillparzer-medea.xml,Was ist der Erde Glück?,2226,2249,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+238,238,GerDracor/grillparzer-medea.xml,– Ein Schatten!,2250,2265,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+239,239,GerDracor/grillparzer-medea.xml,Was ist der Erde Ruhm?,2280,2302,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+240,240,GerDracor/grillparzer-medea.xml,– Ein Traum!,2303,2315,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+241,241,GerDracor/grillparzer-medea.xml,Du Armer!,2330,2339,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,compassion,negative,emotions of suffering and empathy
+242,242,GerDracor/grillparzer-medea.xml,der von Schatten du geträumt!,2340,2369,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+243,243,GerDracor/grillparzer-medea.xml,"Der Traum ist aus, allein die Nacht noch nicht.",2384,2431,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+244,244,GerDracor/grillparzer-medea.xml,"Ich scheide nun, leb wohl, mein Gatte!",2446,2484,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,love,positive,emotions of affection
+245,245,GerDracor/grillparzer-medea.xml,"Die wir zum Unglück uns gefunden,
+              Im Unglück scheiden wir.",2499,2571,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,suffering,negative,emotions of suffering and empathy
+246,246,GerDracor/grillparzer-medea.xml,Leb wohl!,2572,2581,character_speech,5,2,,MEDEA.,#medea,45.0,FEMALE,no_annotation,no_annotation,no_annotation
+247,247,GerDracor/grillparzer-medea.xml,Verwaist!,0,9,character_speech,5,2,,JASON.,#jason,46.0,MALE,suffering,negative,emotions of suffering and empathy
+248,248,GerDracor/grillparzer-medea.xml,Allein!,10,17,character_speech,5,2,,JASON.,#jason,46.0,MALE,no_annotation,no_annotation,no_annotation
+249,249,GerDracor/grillparzer-medea.xml,O meine Kinder!,18,33,character_speech,5,2,,JASON.,#jason,46.0,MALE,joy,positive,emotions of pleasure
+250,250,GerDracor/grillparzer-medea.xml,Trage!,0,6,character_speech,5,2,,MEDEA.,#medea,47.0,FEMALE,no_annotation,no_annotation,no_annotation
+251,251,GerDracor/grillparzer-medea.xml,Verloren!,0,9,character_speech,5,2,,JASON.,#jason,48.0,MALE,despair,negative,emotions of anxiety
+252,252,GerDracor/grillparzer-medea.xml,Dulde!,0,6,character_speech,5,2,,MEDEA.,#medea,49.0,FEMALE,suffering,negative,emotions of suffering and empathy
+253,253,GerDracor/grillparzer-medea.xml,Könnt ich sterben!,0,18,character_speech,5,2,,JASON.,#jason,50.0,MALE,despair,negative,emotions of anxiety
+254,254,GerDracor/grillparzer-medea.xml,"
+              Büße!",0,20,character_speech,5,2,,MEDEA.,#medea,51.0,FEMALE,suffering,negative,emotions of suffering and empathy
+255,255,GerDracor/grillparzer-medea.xml,Ich geh und niemals sieht dein Aug mich wieder!,35,82,character_speech,5,2,,MEDEA.,#medea,51.0,FEMALE,love,positive,emotions of affection
+256,256,GerDracor/grillparzer-medea.xml,"Indem sie sich zum Fortgehen wendet, fällt der Vorhang.",0,55,stage_direction,5,2,speech_part,,#medea,51.0,FEMALE,no_annotation,no_annotation,no_annotation

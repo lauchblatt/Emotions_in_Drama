@@ -1,0 +1,640 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/platen-berengar.xml,Loredano.,0,9,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+1,1,GerDracor/platen-berengar.xml,Flordelis.,10,20,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+2,2,GerDracor/platen-berengar.xml,Dorine.,21,28,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+3,3,GerDracor/platen-berengar.xml,"Erwäge, was erwägbar ist!",0,25,character_speech,1,1,,Loredano.,#loredano,1.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+4,4,GerDracor/platen-berengar.xml,Es fehlt,26,34,character_speech,1,1,,Loredano.,#loredano,1.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+5,5,GerDracor/platen-berengar.xml,"Mir nicht am Sinn für meiner Väter Adel,",0,40,character_speech,1,1,,Loredano.,#loredano,1.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+6,6,GerDracor/platen-berengar.xml,"Noch am Gefühle, das von niedrigen",0,34,character_speech,1,1,,Loredano.,#loredano,1.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+7,7,GerDracor/platen-berengar.xml,Gesinnungen uns rein zu halten pflegt!,0,38,character_speech,1,1,,Loredano.,#loredano,1.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+8,8,GerDracor/platen-berengar.xml,Doch Unvermeidliches bedenk' ich nicht.,0,39,character_speech,1,1,,Loredano.,#loredano,1.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+9,9,GerDracor/platen-berengar.xml,"Mir scheint's vermeidlich, und ich hab's bedacht.",0,49,character_speech,1,1,,Flordelis.,#flordelis,2.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+10,10,GerDracor/platen-berengar.xml,"Kennst du ein Mittel, mir und dir zu helfen?",0,44,character_speech,1,1,,Loredano.,#loredano,3.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+11,11,GerDracor/platen-berengar.xml,"Wenn Gold nur helfen kann, so kenn' ich keins.",0,46,character_speech,1,1,,Flordelis.,#flordelis,4.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+12,12,GerDracor/platen-berengar.xml,"Was frommt es, daß auf diesem Worte Gold",0,40,character_speech,1,1,,Loredano.,#loredano,5.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+13,13,GerDracor/platen-berengar.xml,Dein Ton so frostig und verächtlich ruht?,0,41,character_speech,1,1,,Loredano.,#loredano,5.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+14,14,GerDracor/platen-berengar.xml,Mein Töchterchen!,0,17,character_speech,1,1,,Loredano.,#loredano,5.0,MALE,love,K,,1824.0,positive,emotions of affection
+15,15,GerDracor/platen-berengar.xml,"Verschmähe nicht zu sehr,",18,43,character_speech,1,1,,Loredano.,#loredano,5.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+16,16,GerDracor/platen-berengar.xml,Was aller Häuslichkeit zu Grunde liegt.,0,39,character_speech,1,1,,Loredano.,#loredano,5.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+17,17,GerDracor/platen-berengar.xml,"Verhungern, betteln ist ein süßres Loos,",0,40,character_speech,1,1,,Flordelis.,#flordelis,6.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+18,18,GerDracor/platen-berengar.xml,Als sich verkaufen einem feigen Gecken.,0,39,character_speech,1,1,,Flordelis.,#flordelis,6.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+19,19,GerDracor/platen-berengar.xml,"So wahr die Welt ich kenne, läugn' ich dieß.",0,44,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+20,20,GerDracor/platen-berengar.xml,Das Leben ist ein schmeichelhaftes Gut:,0,39,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+21,21,GerDracor/platen-berengar.xml,"Wohl Jedem, dem es unter glänzenden",0,35,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+22,22,GerDracor/platen-berengar.xml,Bedingungen verliehen das Geschick!,0,35,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+23,23,GerDracor/platen-berengar.xml,"Doch nehme Jeder es, so gut er kann:",0,36,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+24,24,GerDracor/platen-berengar.xml,"Ein Ungemach ist leichter, als ein Schwall",0,42,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,fear,K,,1824.0,negative,emotions of anxiety
+25,25,GerDracor/platen-berengar.xml,Von nie zu hebenden Beschwerlichkeiten.,0,39,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+26,26,GerDracor/platen-berengar.xml,"Auch bin ich nicht gelaunt, am Bettelstab",0,41,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+27,27,GerDracor/platen-berengar.xml,Mit dir auf Straßen oder Markt ein Ave,0,38,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+28,28,GerDracor/platen-berengar.xml,"Vor dem Vorübergehenden zu beten,",0,33,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+29,29,GerDracor/platen-berengar.xml,Der schon von fern auf Weigerungen sinnt.,0,41,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+30,30,GerDracor/platen-berengar.xml,"Ich bin, du weißt es, ohne Schuld verarmt.",0,42,character_speech,1,1,,Loredano.,#loredano,7.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+31,31,GerDracor/platen-berengar.xml,(bei Seite).,0,12,stage_direction,1,1,speech_part,,#dorine,8.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+32,32,GerDracor/platen-berengar.xml,"Zwar ohne Schuld, doch ohne Schulden kaum.",0,42,character_speech,1,1,,Dorine,#dorine,8.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+33,33,GerDracor/platen-berengar.xml,"Begehrst du, daß in meinem Alter ich",0,36,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+34,34,GerDracor/platen-berengar.xml,Den läßlichsten Gewöhnungen entsage?,0,36,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+35,35,GerDracor/platen-berengar.xml,"Was ich schon jetzt entbehre, sei genug!",0,40,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+36,36,GerDracor/platen-berengar.xml,"Vergessen hab' ich, welchen Hof ich sonst",0,41,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+37,37,GerDracor/platen-berengar.xml,"Von Lehensleuten hier versammelte,",0,34,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+38,38,GerDracor/platen-berengar.xml,An Frühlings- oder Winterfeiertagen:,0,36,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+39,39,GerDracor/platen-berengar.xml,"Mein Haus war offen allen Pilgrimen,",0,36,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+40,40,GerDracor/platen-berengar.xml,Kein Gaukler oder Lautenschläger ging,0,37,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+41,41,GerDracor/platen-berengar.xml,"Aus meinem Saal, der seine Blöße nicht",0,38,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+42,42,GerDracor/platen-berengar.xml,Mit einem Scharlachmantel decken konnte.,0,40,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+43,43,GerDracor/platen-berengar.xml,"O wer gewohnt war, Flehenden zu geben,",0,38,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+44,44,GerDracor/platen-berengar.xml,"Entschließt sich nicht, bei Gebenden zu flehn.",0,46,character_speech,1,1,,Loredano.,#loredano,9.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+45,45,GerDracor/platen-berengar.xml,"Du gabst so viel, gieb nicht auch mich zuletzt.",0,47,character_speech,1,1,,Flordelis.,#flordelis,10.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+46,46,GerDracor/platen-berengar.xml,Mir scheint Pandolf kein harter Gläubiger:,0,42,character_speech,1,1,,Loredano.,#loredano,11.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+47,47,GerDracor/platen-berengar.xml,"Er will mich gern entheben jeder Schuld,",0,40,character_speech,1,1,,Loredano.,#loredano,11.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+48,48,GerDracor/platen-berengar.xml,"Wenn du die Hand dem Sohne reichst, durch den",0,45,character_speech,1,1,,Loredano.,#loredano,11.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+49,49,GerDracor/platen-berengar.xml,Uns steter Ueberfluß geboten wird.,0,34,character_speech,1,1,,Loredano.,#loredano,11.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+50,50,GerDracor/platen-berengar.xml,"Es ist kein freier Schritt, doch sei gedenk,",0,44,character_speech,1,1,,Loredano.,#loredano,11.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+51,51,GerDracor/platen-berengar.xml,"Daß du mich stürzest, wenn du ihn verweigerst.",0,46,character_speech,1,1,,Loredano.,#loredano,11.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+52,52,GerDracor/platen-berengar.xml,"Glaubst du die Einzige zu sein, die Dem",0,39,character_speech,1,1,,Loredano.,#loredano,11.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+53,53,GerDracor/platen-berengar.xml,"Entsagen muß, um Jenes zu besitzen?",0,35,character_speech,1,1,,Loredano.,#loredano,11.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+54,54,GerDracor/platen-berengar.xml,"Das Leben gleichet einem Bröckchen Zucker,",0,42,character_speech,1,1,,Loredano.,#loredano,11.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+55,55,GerDracor/platen-berengar.xml,Auf das auch wohl ein bittrer Tropfen fällt.,0,44,character_speech,1,1,,Loredano.,#loredano,11.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+56,56,GerDracor/platen-berengar.xml,"Arznei bedarf ich nicht, und dieser Tropfen",0,43,character_speech,1,1,,Flordelis.,#flordelis,12.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+57,57,GerDracor/platen-berengar.xml,Ist weniger ein Tropfen als ein Tropf.,0,38,character_speech,1,1,,Flordelis.,#flordelis,12.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+58,58,GerDracor/platen-berengar.xml,Ich seh' ihn nicht mit deinen Augen an.,0,39,character_speech,1,1,,Loredano.,#loredano,13.0,MALE,love,K,,1824.0,positive,emotions of affection
+59,59,GerDracor/platen-berengar.xml,"Den Ritterschlag hab' ich ihm selbst ertheilt,",0,46,character_speech,1,1,,Loredano.,#loredano,13.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+60,60,GerDracor/platen-berengar.xml,Und seiner Herkunft Deficit gedeckt.,0,36,character_speech,1,1,,Loredano.,#loredano,13.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+61,61,GerDracor/platen-berengar.xml,"Er scheint mir tapfer, jugendlich, gewandt,",0,43,character_speech,1,1,,Loredano.,#loredano,13.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+62,62,GerDracor/platen-berengar.xml,"Bereit, sich Abenteuer auszuspähn,",0,34,character_speech,1,1,,Loredano.,#loredano,13.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+63,63,GerDracor/platen-berengar.xml,Und seine jungen Waffen abzuschleifen.,0,38,character_speech,1,1,,Loredano.,#loredano,13.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+64,64,GerDracor/platen-berengar.xml,Noch diesen Morgen kehrt er von Milano,0,38,character_speech,1,1,,Loredano.,#loredano,13.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+65,65,GerDracor/platen-berengar.xml,Von einem dortigen Turnier zurück.,0,34,character_speech,1,1,,Loredano.,#loredano,13.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+66,66,GerDracor/platen-berengar.xml,"Wenn er als Sieger kommt, so bin ich sein.",0,42,character_speech,1,1,,Flordelis.,#flordelis,14.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+67,67,GerDracor/platen-berengar.xml,Auch wenn er nicht als Sieger kommt.,0,36,character_speech,1,1,,Loredano.,#loredano,15.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+68,68,GerDracor/platen-berengar.xml,Ich setzte,37,47,character_speech,1,1,,Loredano.,#loredano,15.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+69,69,GerDracor/platen-berengar.xml,"Den heut'gen Abend zur Verlobung fest,",0,38,character_speech,1,1,,Loredano.,#loredano,15.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+70,70,GerDracor/platen-berengar.xml,Um jede Widerrede null zu machen.,0,33,character_speech,1,1,,Loredano.,#loredano,15.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+71,71,GerDracor/platen-berengar.xml,O hätte Gott ihn nicht zur Null gemacht!,0,40,character_speech,1,1,,Flordelis.,#flordelis,16.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+72,72,GerDracor/platen-berengar.xml,Die Null verzehnfacht jede Zahl an Wert.,0,40,character_speech,1,1,,Loredano.,#loredano,17.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+73,73,GerDracor/platen-berengar.xml,"Zur Rechten, ja!",0,16,character_speech,1,1,,Flordelis.,#flordelis,18.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+74,74,GerDracor/platen-berengar.xml,"Doch rechts von mir zu stehn,",17,46,character_speech,1,1,,Flordelis.,#flordelis,18.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+75,75,GerDracor/platen-berengar.xml,Scheint mir Birbante zu galant; er ist,0,38,character_speech,1,1,,Flordelis.,#flordelis,18.0,FEMALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+76,76,GerDracor/platen-berengar.xml,Nur eine Null auf meiner linken Seite.,0,38,character_speech,1,1,,Flordelis.,#flordelis,18.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+77,77,GerDracor/platen-berengar.xml,Der Scherz geziemt sich für Behagliche.,0,39,character_speech,1,1,,Loredano.,#loredano,19.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+78,78,GerDracor/platen-berengar.xml,"Um Rechenpfennige zu spielen, scheint",0,37,character_speech,1,1,,Loredano.,#loredano,19.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+79,79,GerDracor/platen-berengar.xml,"Mir ungereimt, wenn man Zechinen braucht.",0,41,character_speech,1,1,,Loredano.,#loredano,19.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+80,80,GerDracor/platen-berengar.xml,"Ich ahne fast, warum Birbante dir",0,33,character_speech,1,1,,Loredano.,#loredano,19.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+81,81,GerDracor/platen-berengar.xml,"So sehr ein Dorn im Auge, Flordelis!",0,36,character_speech,1,1,,Loredano.,#loredano,19.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+82,82,GerDracor/platen-berengar.xml,"Er sticht mir wenig in die Augen, Vater!",0,40,character_speech,1,1,,Flordelis.,#flordelis,20.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+83,83,GerDracor/platen-berengar.xml,Weil du zu viel in Guido's Augen siehst.,0,40,character_speech,1,1,,Loredano.,#loredano,21.0,MALE,love,K,,1824.0,positive,emotions of affection
+84,84,GerDracor/platen-berengar.xml,Errötest du?,0,12,character_speech,1,1,,Loredano.,#loredano,21.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+85,85,GerDracor/platen-berengar.xml,Warum errötest du?,13,31,character_speech,1,1,,Loredano.,#loredano,21.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+86,86,GerDracor/platen-berengar.xml,Weil uns Beschuld'gung mehr als Schuld verwirrt.,0,48,character_speech,1,1,,Flordelis.,#flordelis,22.0,FEMALE,being moved,K,,1824.0,being moved,being moved
+87,87,GerDracor/platen-berengar.xml,"Ich liebe diesen Guido, Flordelis:",0,34,character_speech,1,1,,Loredano.,#loredano,23.0,MALE,love,K,,1824.0,positive,emotions of affection
+88,88,GerDracor/platen-berengar.xml,"Es ist ein braver Junge, hat am treusten",0,40,character_speech,1,1,,Loredano.,#loredano,23.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+89,89,GerDracor/platen-berengar.xml,"Von Allen bei mir ausgehalten, dient",0,36,character_speech,1,1,,Loredano.,#loredano,23.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+90,90,GerDracor/platen-berengar.xml,Mir ohne Sold; allein er ist und bleibt,0,39,character_speech,1,1,,Loredano.,#loredano,23.0,MALE,love,K,,1824.0,positive,emotions of affection
+91,91,GerDracor/platen-berengar.xml,"Ein armer Edelknabe, laß mich nie",0,33,character_speech,1,1,,Loredano.,#loredano,23.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+92,92,GerDracor/platen-berengar.xml,Dein Bild im Spiegel seines Blicks gewahren!,0,44,character_speech,1,1,,Loredano.,#loredano,23.0,MALE,love,K,,1824.0,positive,emotions of affection
+93,93,GerDracor/platen-berengar.xml,"Empfange freundlich deinen Bräutigam,",0,37,character_speech,1,1,,Loredano.,#loredano,23.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+94,94,GerDracor/platen-berengar.xml,Und füge dich in's Unabänderliche.,0,34,character_speech,1,1,,Loredano.,#loredano,23.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+95,95,GerDracor/platen-berengar.xml,(Ab.),0,5,stage_direction,1,1,speech_part,,#loredano,23.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+96,96,GerDracor/platen-berengar.xml,Flordelis.,0,10,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+97,97,GerDracor/platen-berengar.xml,Dorine.,11,18,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+98,98,GerDracor/platen-berengar.xml,So still auf einmal?,0,20,character_speech,1,1,,Dorine.,#dorine,24.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+99,99,GerDracor/platen-berengar.xml,so betreten?,21,33,character_speech,1,1,,Dorine.,#dorine,24.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+100,100,GerDracor/platen-berengar.xml,Ei!,34,37,character_speech,1,1,,Dorine.,#dorine,24.0,FEMALE,being moved,K,,1824.0,being moved,being moved
+101,101,GerDracor/platen-berengar.xml,Hat euer Vater wirklich gut geraten?,0,36,character_speech,1,1,,Dorine.,#dorine,24.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+102,102,GerDracor/platen-berengar.xml,Verschone mich mit Fragen dieser Art!,0,37,character_speech,1,1,,Flordelis.,#flordelis,25.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+103,103,GerDracor/platen-berengar.xml,"Ich dränge mich in kein Geheimniß ein,",0,38,character_speech,1,1,,Dorine.,#dorine,26.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+104,104,GerDracor/platen-berengar.xml,"Doch wir erfahren Manches, ohne daß",0,35,character_speech,1,1,,Dorine.,#dorine,26.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+105,105,GerDracor/platen-berengar.xml,Wir dem Verschweigenden es abgelockt.,0,37,character_speech,1,1,,Dorine.,#dorine,26.0,FEMALE,Schadenfreude,K,,1824.0,positive,emotions of pleasure
+106,106,GerDracor/platen-berengar.xml,"Was ein bejahrter Herr erlauschte, kann",0,39,character_speech,1,1,,Dorine.,#dorine,26.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+107,107,GerDracor/platen-berengar.xml,Es einem Mädchen wohl verborgen bleiben?,0,40,character_speech,1,1,,Dorine.,#dorine,26.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+108,108,GerDracor/platen-berengar.xml,"Verliebte sehen in der Welt nur sich,",0,37,character_speech,1,1,,Dorine.,#dorine,26.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+109,109,GerDracor/platen-berengar.xml,"Doch sie vergessen, daß die Welt sie sieht.",0,43,character_speech,1,1,,Dorine.,#dorine,26.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+110,110,GerDracor/platen-berengar.xml,"Wenn mein Vertraun du wünschest, darfst du nicht",0,48,character_speech,1,1,,Flordelis.,#flordelis,27.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+111,111,GerDracor/platen-berengar.xml,"In feinen, spitzigen Sentenzen reden!",0,37,character_speech,1,1,,Flordelis.,#flordelis,27.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+112,112,GerDracor/platen-berengar.xml,So gehn wir über in's Persönliche!,0,34,character_speech,1,1,,Dorine.,#dorine,28.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+113,113,GerDracor/platen-berengar.xml,"Daß eure Lage sehr bedenklich ist,",0,34,character_speech,1,1,,Dorine.,#dorine,28.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+114,114,GerDracor/platen-berengar.xml,Gesteht ihr selbst durch euer Schweigen ein.,0,44,character_speech,1,1,,Dorine.,#dorine,28.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+115,115,GerDracor/platen-berengar.xml,"Nur Eine Tröstung halt' ich euch bevor,",0,39,character_speech,1,1,,Dorine.,#dorine,28.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+116,116,GerDracor/platen-berengar.xml,"Da, neben euch, ich auch auf ihn geachtet:",0,42,character_speech,1,1,,Dorine.,#dorine,28.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+117,117,GerDracor/platen-berengar.xml,Ihr seid geliebt.,0,17,character_speech,1,1,,Dorine.,#dorine,28.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+118,118,GerDracor/platen-berengar.xml,Du redest zuversichtlich!,0,25,character_speech,1,1,,Flordelis.,#flordelis,29.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+119,119,GerDracor/platen-berengar.xml,So fehlt euch selbst noch diese Zuversicht?,0,43,character_speech,1,1,,Dorine.,#dorine,30.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+120,120,GerDracor/platen-berengar.xml,Ihr habt euch nie entdeckt?,0,27,character_speech,1,1,,Dorine.,#dorine,30.0,FEMALE,being moved,K,,1824.0,being moved,being moved
+121,121,GerDracor/platen-berengar.xml,Entdeckt?,0,9,character_speech,1,1,,Flordelis.,#flordelis,31.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+122,122,GerDracor/platen-berengar.xml,"Je nun,",0,7,character_speech,1,1,,Dorine.,#dorine,32.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+123,123,GerDracor/platen-berengar.xml,"Verliebte nähern sich einander leicht,",0,38,character_speech,1,1,,Dorine.,#dorine,32.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+124,124,GerDracor/platen-berengar.xml,"Und selten ist's, daß sich ein junges Herz,",0,43,character_speech,1,1,,Dorine.,#dorine,32.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+125,125,GerDracor/platen-berengar.xml,"Wie eine Knospe, nur in sich verwickelt.",0,40,character_speech,1,1,,Dorine.,#dorine,32.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+126,126,GerDracor/platen-berengar.xml,Bedarf's der Aeußerung?,0,23,character_speech,1,1,,Flordelis.,#flordelis,33.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+127,127,GerDracor/platen-berengar.xml,Geheim durchkämpft,24,42,character_speech,1,1,,Flordelis.,#flordelis,33.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+128,128,GerDracor/platen-berengar.xml,Ein still Gemüt den ganzen Krieg der Liebe.,0,43,character_speech,1,1,,Flordelis.,#flordelis,33.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+129,129,GerDracor/platen-berengar.xml,"Doch was beschließt ihr, wie die Sachen stehn?",0,46,character_speech,1,1,,Dorine.,#dorine,34.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+130,130,GerDracor/platen-berengar.xml,"Ich denke nichts, beschließe nichts, ich will",0,45,character_speech,1,1,,Flordelis.,#flordelis,35.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+131,131,GerDracor/platen-berengar.xml,Des kurzen Augenblicks mich noch versichern,0,43,character_speech,1,1,,Flordelis.,#flordelis,35.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+132,132,GerDracor/platen-berengar.xml,In glückerträumender Melancholie.,0,33,character_speech,1,1,,Flordelis.,#flordelis,35.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+133,133,GerDracor/platen-berengar.xml,"Komm, setze hier an's Fenster dich, Dorine,",0,43,character_speech,1,1,,Flordelis.,#flordelis,35.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+134,134,GerDracor/platen-berengar.xml,"Nimm deine Laute, singe mir das Lied,",0,37,character_speech,1,1,,Flordelis.,#flordelis,35.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+135,135,GerDracor/platen-berengar.xml,"Das gestern Abends, vom Balkon herab,",0,37,character_speech,1,1,,Flordelis.,#flordelis,35.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+136,136,GerDracor/platen-berengar.xml,Wir einem Gärtnermädchen abgelauscht:,0,37,character_speech,1,1,,Flordelis.,#flordelis,35.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+137,137,GerDracor/platen-berengar.xml,"Einförmig ist die Weise, doch sie flößt",0,39,character_speech,1,1,,Flordelis.,#flordelis,35.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+138,138,GerDracor/platen-berengar.xml,Der Wehmut Wohlbehagen zärtlich ein.,0,36,character_speech,1,1,,Flordelis.,#flordelis,35.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+139,139,GerDracor/platen-berengar.xml,(singt und spielt).,0,19,stage_direction,1,1,speech_part,,#dorine,36.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+140,140,GerDracor/platen-berengar.xml,"
+            Lieblich tönt und ohne Zwang
+            Einer Glücklichen Gesang
+            All ihr schönes, schönes ach!",0,120,character_speech,1,1,,Dorine,#dorine,36.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+141,141,GerDracor/platen-berengar.xml,All ihr schönes Leben lang.,133,160,character_speech,1,1,,Dorine,#dorine,36.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+142,142,GerDracor/platen-berengar.xml,"
+            Aber weh' ihr, die verzagt
+            Kaum den Wunsch zu stammeln wagt,
+            Der an ihrem, ihrem ach!",0,122,character_speech,1,1,,Dorine,#dorine,36.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+143,143,GerDracor/platen-berengar.xml,Der an ihrem Busen nagt.,135,159,character_speech,1,1,,Dorine,#dorine,36.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+144,144,GerDracor/platen-berengar.xml,"
+            O daß stets die Lieb' uns lügt,
+            Daß das Glück so selten fügt,
+            Was der vollen, vollen ach!",0,126,character_speech,1,1,,Dorine,#dorine,36.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+145,145,GerDracor/platen-berengar.xml,Was der vollen Brust genügt!,139,167,character_speech,1,1,,Dorine,#dorine,36.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+146,146,GerDracor/platen-berengar.xml,"
+            Liebe, laß mit meinen Wehn
+            In der Erde mich vergehn,
+            Und als Veilchen, Veilchen ach!",0,121,character_speech,1,1,,Dorine,#dorine,36.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+147,147,GerDracor/platen-berengar.xml,Als ein Veilchen auferstehn!,134,162,character_speech,1,1,,Dorine,#dorine,36.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+148,148,GerDracor/platen-berengar.xml,Ich höre kommen – still.,0,24,character_speech,1,1,,Flordelis.,#flordelis,37.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+149,149,GerDracor/platen-berengar.xml,Es ist Pandolf.,25,40,character_speech,1,1,,Flordelis.,#flordelis,37.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+150,150,GerDracor/platen-berengar.xml,Begrüße du den Widerwärtigen!,0,29,character_speech,1,1,,Flordelis.,#flordelis,37.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+151,151,GerDracor/platen-berengar.xml,Die Vorigen.,0,12,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+152,152,GerDracor/platen-berengar.xml,Pandolf.,13,21,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+153,153,GerDracor/platen-berengar.xml,"Guten Morgen, schöne Damen!",0,27,character_speech,1,1,,Pandolf.,#pandolf,38.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+154,154,GerDracor/platen-berengar.xml,"Ich komme, meinen Sohn zu melden, der unverzüglich
+            erscheinen wird.",28,107,character_speech,1,1,,Pandolf.,#pandolf,38.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+155,155,GerDracor/platen-berengar.xml,"Er ist vom Turnier zurückgekehrt, mit Beulen am Helm, mit zerschlagenem
+            Schild, mit Scharten am Schwert.",108,224,character_speech,1,1,,Pandolf.,#pandolf,38.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+156,156,GerDracor/platen-berengar.xml,Er sieht aus wie ein Held.,225,251,character_speech,1,1,,Pandolf.,#pandolf,38.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+157,157,GerDracor/platen-berengar.xml,"Dieß stellt ihn der Gefahr bloß, verkannt zu werden.",0,52,character_speech,1,1,,Dorine.,#dorine,39.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+158,158,GerDracor/platen-berengar.xml,Verkannt?,0,9,character_speech,1,1,,Pandolf.,#pandolf,40.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+159,159,GerDracor/platen-berengar.xml,Der Sohn Pandolfs wird nie verkannt werden.,10,53,character_speech,1,1,,Pandolf.,#pandolf,40.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+160,160,GerDracor/platen-berengar.xml,"Ich bin der reichste Mann in der
+            Lombardei.",54,109,character_speech,1,1,,Pandolf.,#pandolf,40.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+161,161,GerDracor/platen-berengar.xml,"Mein Speisesaal ist mit Zechinen gepflastert, und mein Corridor mit deutschen
+            Thalern.",110,208,character_speech,1,1,,Pandolf.,#pandolf,40.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+162,162,GerDracor/platen-berengar.xml,"Es ist nicht das Erstemal, daß man den Deutschen auf die Köpfe tritt.",0,69,character_speech,1,1,,Dorine.,#dorine,41.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+163,163,GerDracor/platen-berengar.xml,Ich habe ein Kloster dotirt und ein Hospital erbaut.,0,52,character_speech,1,1,,Pandolf.,#pandolf,42.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+164,164,GerDracor/platen-berengar.xml,"Ich beschütze die Künste, ich
+            belohne die Wissenschaften, mein Haus ist –",53,138,character_speech,1,1,,Pandolf.,#pandolf,42.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+165,165,GerDracor/platen-berengar.xml,Ein Pfandhaus.,0,14,character_speech,1,1,,Dorine.,#dorine,43.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+166,166,GerDracor/platen-berengar.xml,Ein Tempel der Musen.,0,21,character_speech,1,1,,Pandolf.,#pandolf,44.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+167,167,GerDracor/platen-berengar.xml,Meine Gesellschaft wird gesucht.,22,54,character_speech,1,1,,Pandolf.,#pandolf,44.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+168,168,GerDracor/platen-berengar.xml,Pandolf et Compagnie!,0,21,character_speech,1,1,,Dorine.,#dorine,45.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+169,169,GerDracor/platen-berengar.xml,Ich stehe mit den ersten Familien von Milano in Verbindung.,0,59,character_speech,1,1,,Pandolf.,#pandolf,46.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+170,170,GerDracor/platen-berengar.xml,Wie die Kloake mit dem Ocean.,0,29,character_speech,1,1,,Dorine.,#dorine,47.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+171,171,GerDracor/platen-berengar.xml,Ich gehe sogar mit dem Herzoge um.,0,34,character_speech,1,1,,Pandolf.,#pandolf,48.0,MALE,friendship,K,,1824.0,positive,emotions of affection
+172,172,GerDracor/platen-berengar.xml,"Der Herzog ist das Haubt der Gesetze, ihr umgeht die Gesetze, und so geht ihr mit dem
+            Herzog um.",0,108,character_speech,1,1,,Dorine.,#dorine,49.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+173,173,GerDracor/platen-berengar.xml,"Dennoch fühl' ich mich geschmeichelt, der Schwiegervater einer Loredano zu werden.",0,82,character_speech,1,1,,Pandolf.,#pandolf,50.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+174,174,GerDracor/platen-berengar.xml,"Ich
+            lege ihr das Herz meines Sohnes zu Füßen, und erwarte von ihr –",83,162,character_speech,1,1,,Pandolf.,#pandolf,50.0,MALE,love,K,,1824.0,positive,emotions of affection
+175,175,GerDracor/platen-berengar.xml,Einen Korb.,0,11,character_speech,1,1,,Dorine.,#dorine,51.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+176,176,GerDracor/platen-berengar.xml,Ein Vorlegeschloß für den Mund ihres Kammermädchens.,0,52,character_speech,1,1,,Pandolf.,#pandolf,52.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+177,177,GerDracor/platen-berengar.xml,Ich bin keiner von euern Geldkoffern.,0,37,character_speech,1,1,,Dorine.,#dorine,53.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+178,178,GerDracor/platen-berengar.xml,"Ihr seid höchstens ein Klingelbeutel, der frommen Seelen ihren Pfennig ablockt.",0,79,character_speech,1,1,,Pandolf.,#pandolf,54.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+179,179,GerDracor/platen-berengar.xml,(Er will ihr ein Goldstück geben.),0,34,stage_direction,1,1,speech_part,,#pandolf,54.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+180,180,GerDracor/platen-berengar.xml,(die Hand zurückziehend).,0,25,stage_direction,1,1,speech_part,,#dorine,55.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+181,181,GerDracor/platen-berengar.xml,Halt!,0,5,character_speech,1,1,,Dorine,#dorine,55.0,FEMALE,being moved,K,,1824.0,being moved,being moved
+182,182,GerDracor/platen-berengar.xml,Erst löst mir ein Rätsel auf.,6,35,character_speech,1,1,,Dorine,#dorine,55.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+183,183,GerDracor/platen-berengar.xml,"Was ist ein Klingelbeutel, wenn ich ihn
+            umkehre?",36,96,character_speech,1,1,,Dorine,#dorine,55.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+184,184,GerDracor/platen-berengar.xml,Ein umgekehrter Klingelbeutel.,0,30,character_speech,1,1,,Pandolf.,#pandolf,56.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+185,185,GerDracor/platen-berengar.xml,"Eine Schellenkappe, mein Freund, eine Schellenkappe!",0,52,character_speech,1,1,,Dorine.,#dorine,57.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+186,186,GerDracor/platen-berengar.xml,"Hier kommt euer Sohn, und der soll
+            sie aufsetzen.",53,114,character_speech,1,1,,Dorine.,#dorine,57.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+187,187,GerDracor/platen-berengar.xml,Die Vorigen.,0,12,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+188,188,GerDracor/platen-berengar.xml,"Birbante, bewaffnet.",13,33,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+189,189,GerDracor/platen-berengar.xml,(vor Flordelis auf den Knien).,0,30,stage_direction,1,1,speech_part,,#birbante,58.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+190,190,GerDracor/platen-berengar.xml,"Empfang', o Königin, von deinem Ritter",0,38,character_speech,1,1,,Birbante,#birbante,58.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+191,191,GerDracor/platen-berengar.xml,Die Ehrenzeichen seiner Siegesthaten:,0,37,character_speech,1,1,,Birbante,#birbante,58.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+192,192,GerDracor/platen-berengar.xml,"Des Schildes Beulen und der Lanze Splitter,",0,43,character_speech,1,1,,Birbante,#birbante,58.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+193,193,GerDracor/platen-berengar.xml,"Sie lassen dich, was er gethan, erraten:",0,40,character_speech,1,1,,Birbante,#birbante,58.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+194,194,GerDracor/platen-berengar.xml,Und schein' ich anders dir im Kampfgewitter,0,43,character_speech,1,1,,Birbante,#birbante,58.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+195,195,GerDracor/platen-berengar.xml,"Ein Ausbund aller Helden und Soldaten,",0,38,character_speech,1,1,,Birbante,#birbante,58.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+196,196,GerDracor/platen-berengar.xml,So wird mein Haubt zum Sammelplatz der Sterne!,0,46,character_speech,1,1,,Birbante,#birbante,58.0,MALE,love,K,,1824.0,positive,emotions of affection
+197,197,GerDracor/platen-berengar.xml,(bei Seite).,0,12,stage_direction,1,1,speech_part,,#dorine,59.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+198,198,GerDracor/platen-berengar.xml,"Wo nicht, zum Kürbiß, dienend als Laterne.",0,42,character_speech,1,1,,Dorine,#dorine,59.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+199,199,GerDracor/platen-berengar.xml,"Ich zaudre nicht, euch nach Verdienst zu preisen,",0,49,character_speech,1,1,,Flordelis.,#flordelis,60.0,FEMALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+200,200,GerDracor/platen-berengar.xml,"Allein verzeiht, wenn ich ein wenig stutze,",0,43,character_speech,1,1,,Flordelis.,#flordelis,60.0,FEMALE,being moved,K,,1824.0,being moved,being moved
+201,201,GerDracor/platen-berengar.xml,"Da noch so blank ist eures Panzers Eisen,",0,41,character_speech,1,1,,Flordelis.,#flordelis,60.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+202,202,GerDracor/platen-berengar.xml,"Als kämt ihr, statt vom Kampfe her, vom Putze;",0,46,character_speech,1,1,,Flordelis.,#flordelis,60.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+203,203,GerDracor/platen-berengar.xml,"Des Schilds, der Lanze Trümmer zwar beweisen,",0,45,character_speech,1,1,,Flordelis.,#flordelis,60.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+204,204,GerDracor/platen-berengar.xml,"Daß ihr gewehrt euch habt zu Schutz und Trutze,",0,47,character_speech,1,1,,Flordelis.,#flordelis,60.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+205,205,GerDracor/platen-berengar.xml,"Doch nicht, daß ihr den Sieg davon getragen.",0,44,character_speech,1,1,,Flordelis.,#flordelis,60.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+206,206,GerDracor/platen-berengar.xml,Ich habe manchen Kopf herabgeschlagen.,0,38,character_speech,1,1,,Birbante.,#birbante,61.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+207,207,GerDracor/platen-berengar.xml,"Ich werd' euch künftig stets den Bügel halten,",0,46,character_speech,1,1,,Flordelis.,#flordelis,62.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+208,208,GerDracor/platen-berengar.xml,"Wenn vom Gefecht ihr kehrt in freud'ger Eile,",0,45,character_speech,1,1,,Flordelis.,#flordelis,62.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+209,209,GerDracor/platen-berengar.xml,"Ja, sollt' ein Gegner euch den Schädel spalten,",0,47,character_speech,1,1,,Flordelis.,#flordelis,62.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+210,210,GerDracor/platen-berengar.xml,"So seid gewiß, daß ich ihn wieder heile;",0,40,character_speech,1,1,,Flordelis.,#flordelis,62.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+211,211,GerDracor/platen-berengar.xml,"Denn, wenn mein Herz vor euch sich soll entfalten,",0,50,character_speech,1,1,,Flordelis.,#flordelis,62.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+212,212,GerDracor/platen-berengar.xml,"So macht mir's dießmal wirklich Langeweile,",0,43,character_speech,1,1,,Flordelis.,#flordelis,62.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+213,213,GerDracor/platen-berengar.xml,Daß ihr davongekommen ohne Wunden.,0,34,character_speech,1,1,,Flordelis.,#flordelis,62.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+214,214,GerDracor/platen-berengar.xml,Der Herr war mit mir in den bösen Stunden.,0,42,character_speech,1,1,,Birbante.,#birbante,63.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+215,215,GerDracor/platen-berengar.xml,Nun bleibt ihr lange wohl zu Haus in Frieden?,0,45,character_speech,1,1,,Flordelis.,#flordelis,64.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+216,216,GerDracor/platen-berengar.xml,Mit nichten!,0,12,character_speech,1,1,,Birbante.,#birbante,65.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+217,217,GerDracor/platen-berengar.xml,"Hört, was ich auf's Neue wage:",13,43,character_speech,1,1,,Birbante.,#birbante,65.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+218,218,GerDracor/platen-berengar.xml,"Ich ließ bereits mir frische Waffen schmieden,",0,46,character_speech,1,1,,Birbante.,#birbante,65.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+219,219,GerDracor/platen-berengar.xml,"Und heute noch, an diesem Nachmittage,",0,38,character_speech,1,1,,Birbante.,#birbante,65.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+220,220,GerDracor/platen-berengar.xml,"Hab' einen Feind ich in den Wald beschieden,",0,44,character_speech,1,1,,Birbante.,#birbante,65.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+221,221,GerDracor/platen-berengar.xml,Mit dem ich mich auf Tod und Leben schlage.,0,43,character_speech,1,1,,Birbante.,#birbante,65.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+222,222,GerDracor/platen-berengar.xml,"Da ich mit euch mich diese Nacht verlobe,",0,41,character_speech,1,1,,Birbante.,#birbante,65.0,MALE,love,K,,1824.0,positive,emotions of affection
+223,223,GerDracor/platen-berengar.xml,So gelte Dieses mir als Ahnenprobe.,0,35,character_speech,1,1,,Birbante.,#birbante,65.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+224,224,GerDracor/platen-berengar.xml,(zu Flordelis).,0,15,stage_direction,1,1,speech_part,,#pandolf,66.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+225,225,GerDracor/platen-berengar.xml,"Ihr seht, wie tapfer nun mein Sohn geworden.",0,44,character_speech,1,1,,Pandolf,#pandolf,66.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+226,226,GerDracor/platen-berengar.xml,Das Kauffarteischiff wird ein wilder Brander.,0,45,character_speech,1,1,,Dorine.,#dorine,67.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+227,227,GerDracor/platen-berengar.xml,"Wer, mehr als er, verdient den Ritterorden?",0,43,character_speech,1,1,,Pandolf.,#pandolf,68.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+228,228,GerDracor/platen-berengar.xml,Wie herrlich passen Beide für einander!,0,39,character_speech,1,1,,Dorine.,#dorine,69.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+229,229,GerDracor/platen-berengar.xml,Er wird für euch die ganze Welt ermorden!,0,41,character_speech,1,1,,Pandolf.,#pandolf,70.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+230,230,GerDracor/platen-berengar.xml,"Er ist ein Goliath, ein Alexander!",0,34,character_speech,1,1,,Dorine.,#dorine,71.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+231,231,GerDracor/platen-berengar.xml,"Ihr seht, daß jede Klinge sich ihm neiget.",0,42,character_speech,1,1,,Pandolf.,#pandolf,72.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+232,232,GerDracor/platen-berengar.xml,"Sie sieht, sie sieht; allein sie schweigt, sie schweiget.",0,57,character_speech,1,1,,Dorine.,#dorine,73.0,FEMALE,being moved,K,,1824.0,being moved,being moved
+233,233,GerDracor/platen-berengar.xml,Mit nichten!,0,12,character_speech,1,1,,Flordelis.,#flordelis,74.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+234,234,GerDracor/platen-berengar.xml,"Nehmet diese güldne Spange,",13,40,character_speech,1,1,,Flordelis.,#flordelis,74.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+235,235,GerDracor/platen-berengar.xml,Birbante!,0,9,character_speech,1,1,,Flordelis.,#flordelis,74.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+236,236,GerDracor/platen-berengar.xml,"welche meinen Arm umfasset,",10,37,character_speech,1,1,,Flordelis.,#flordelis,74.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+237,237,GerDracor/platen-berengar.xml,"Bewahrt, beschützt, vertheidigt sie so lange,",0,45,character_speech,1,1,,Flordelis.,#flordelis,74.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+238,238,GerDracor/platen-berengar.xml,Bis ihr euch Abends wieder blicken lasset:,0,42,character_speech,1,1,,Flordelis.,#flordelis,74.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+239,239,GerDracor/platen-berengar.xml,"Sie sei ein Liebeszeichen euch, sie prange",0,42,character_speech,1,1,,Flordelis.,#flordelis,74.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+240,240,GerDracor/platen-berengar.xml,"Auf eurem Helm, zu dessen Schmuck sie passet.",0,45,character_speech,1,1,,Flordelis.,#flordelis,74.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+241,241,GerDracor/platen-berengar.xml,"Ihr werdet, hoff' ich, nicht im Kampfe weichen,",0,47,character_speech,1,1,,Flordelis.,#flordelis,74.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+242,242,GerDracor/platen-berengar.xml,Noch wiederkehren ohne dieses Zeichen.,0,38,character_speech,1,1,,Flordelis.,#flordelis,74.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+243,243,GerDracor/platen-berengar.xml,"Es soll mir Stralen um die Stirn verbreiten,",0,44,character_speech,1,1,,Birbante.,#birbante,75.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+244,244,GerDracor/platen-berengar.xml,Wie sie ein Heil'genhaubt zu schmücken pflegen:,0,47,character_speech,1,1,,Birbante.,#birbante,75.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+245,245,GerDracor/platen-berengar.xml,"Nun aber laßt dahin mich ziehn und streiten,",0,44,character_speech,1,1,,Birbante.,#birbante,75.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+246,246,GerDracor/platen-berengar.xml,"Im Berggehölz, auf ungebahnten Wegen.",0,37,character_speech,1,1,,Birbante.,#birbante,75.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+247,247,GerDracor/platen-berengar.xml,Soll nicht der Knappen einer euch begleiten?,0,44,character_speech,1,1,,Flordelis.,#flordelis,76.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+248,248,GerDracor/platen-berengar.xml,Ich bin mir selbst genug mit meinem Degen.,0,42,character_speech,1,1,,Birbante.,#birbante,77.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+249,249,GerDracor/platen-berengar.xml,"So lebet wohl, und Segen euren Waffen!",0,38,character_speech,1,1,,Flordelis.,#flordelis,78.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+250,250,GerDracor/platen-berengar.xml,"Doch eher nicht, bis meine Wunden klaffen.",0,42,character_speech,1,1,,Birbante.,#birbante,79.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+251,251,GerDracor/platen-berengar.xml,(Ab mit Pandolf.),0,17,stage_direction,1,1,speech_part,,#birbante,79.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+252,252,GerDracor/platen-berengar.xml,Flordelis.,0,10,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+253,253,GerDracor/platen-berengar.xml,Dorine.,11,18,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+254,254,GerDracor/platen-berengar.xml,Eine schöne Comödie!,0,20,character_speech,1,1,,Dorine.,#dorine,80.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+255,255,GerDracor/platen-berengar.xml,Was habt ihr mit ihm vor?,21,46,character_speech,1,1,,Dorine.,#dorine,80.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+256,256,GerDracor/platen-berengar.xml,Davon hernach.,0,14,character_speech,1,1,,Flordelis.,#flordelis,81.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+257,257,GerDracor/platen-berengar.xml,Wir haben keinen Augenblick zu verlieren.,15,56,character_speech,1,1,,Flordelis.,#flordelis,81.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+258,258,GerDracor/platen-berengar.xml,"Beauftrage sogleich einen von
+            der Dienerschaft, daß er Birbanten nachschleiche, und mir Nachricht gebe, wohin ihn
+            seine Straße führt.",57,214,character_speech,1,1,,Flordelis.,#flordelis,81.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+259,259,GerDracor/platen-berengar.xml,Wohl!,0,5,character_speech,1,1,,Dorine.,#dorine,82.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+260,260,GerDracor/platen-berengar.xml,"Sodann verschaffe mir ein leichtes Panzerhemd und einen Helm und Alles, was zu einer
+            vollständigen Rüstung nothwendig ist.",0,134,character_speech,1,1,,Flordelis.,#flordelis,83.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+261,261,GerDracor/platen-berengar.xml,"Das kann geschehen, aber wozu?",0,30,character_speech,1,1,,Dorine.,#dorine,84.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+262,262,GerDracor/platen-berengar.xml,Ich habe mir etwas Eigenes ausgedacht.,0,38,character_speech,1,1,,Flordelis.,#flordelis,85.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+263,263,GerDracor/platen-berengar.xml,Die Zeit wird's lehren.,39,62,character_speech,1,1,,Flordelis.,#flordelis,85.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+264,264,GerDracor/platen-berengar.xml,"Geh und bringe die
+            Waffen in mein Gemach, wohin ich dir folge.",63,137,character_speech,1,1,,Flordelis.,#flordelis,85.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+265,265,GerDracor/platen-berengar.xml,(Dorine ab.),0,12,stage_direction,1,1,speech_part,,#flordelis,85.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+266,266,GerDracor/platen-berengar.xml,"Ein Scherz hat oft gefruchtet, wo der Ernst",0,43,character_speech,1,1,,Flordelis.,#flordelis,86.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+267,267,GerDracor/platen-berengar.xml,Nur Widerstand hervorzurufen pflegte.,0,37,character_speech,1,1,,Flordelis.,#flordelis,86.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+268,268,GerDracor/platen-berengar.xml,"Entlarv' ich ihn, so bin ich frei von allen",0,43,character_speech,1,1,,Flordelis.,#flordelis,86.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+269,269,GerDracor/platen-berengar.xml,"Verpflichtungen, und dann – und dann –",0,38,character_speech,1,1,,Flordelis.,#flordelis,86.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+270,270,GerDracor/platen-berengar.xml,Guido.,0,6,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+271,271,GerDracor/platen-berengar.xml,Flordelis.,7,17,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+272,272,GerDracor/platen-berengar.xml,"Verzeiht,",0,9,character_speech,1,1,,Guido.,#guido,87.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+273,273,GerDracor/platen-berengar.xml,"Wenn mich mein Weg durch diese Zimmer führt,",0,44,character_speech,1,1,,Guido.,#guido,87.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+274,274,GerDracor/platen-berengar.xml,"Da ich, allein euch hier zu finden, nicht",0,41,character_speech,1,1,,Guido.,#guido,87.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+275,275,GerDracor/platen-berengar.xml,Erwarten durfte.,0,16,character_speech,1,1,,Guido.,#guido,87.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+276,276,GerDracor/platen-berengar.xml,Euer Weg ist frei.,0,18,character_speech,1,1,,Flordelis.,#flordelis,88.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+277,277,GerDracor/platen-berengar.xml,"Ich kam um euretwillen her, ich soll",0,36,character_speech,1,1,,Guido.,#guido,89.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+278,278,GerDracor/platen-berengar.xml,Die vordern Säle decoriren helfen,0,33,character_speech,1,1,,Guido.,#guido,89.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+279,279,GerDracor/platen-berengar.xml,Für die Verlobungsfeier diese Nacht.,0,36,character_speech,1,1,,Guido.,#guido,89.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+280,280,GerDracor/platen-berengar.xml,Dieß scheint ein angenehm Geschäft für euch.,0,44,character_speech,1,1,,Flordelis.,#flordelis,90.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+281,281,GerDracor/platen-berengar.xml,"Wie das Geschäft der Mönche von La Trappe,",0,42,character_speech,1,1,,Guido.,#guido,91.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+282,282,GerDracor/platen-berengar.xml,Die ihre Totenkiste zimmern müssen.,0,35,character_speech,1,1,,Guido.,#guido,91.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+283,283,GerDracor/platen-berengar.xml,"So seid ihr nicht geneigt, mir Glück zu wünschen?",0,49,character_speech,1,1,,Flordelis.,#flordelis,92.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+284,284,GerDracor/platen-berengar.xml,"Ich würd' es thun, wofern ich hoffen könnte,",0,44,character_speech,1,1,,Guido.,#guido,93.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+285,285,GerDracor/platen-berengar.xml,Daß man auf Glück euch wirklich Hoffnung macht.,0,47,character_speech,1,1,,Guido.,#guido,93.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+286,286,GerDracor/platen-berengar.xml,"Ihr glaubt, so viel vermöge kein Birbante?",0,42,character_speech,1,1,,Flordelis.,#flordelis,94.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+287,287,GerDracor/platen-berengar.xml,"Daß er Vermögen hat, bezweifl' ich nicht.",0,41,character_speech,1,1,,Guido.,#guido,95.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+288,288,GerDracor/platen-berengar.xml,"Nicht mehr, als eine Million Zechinen.",0,38,character_speech,1,1,,Flordelis.,#flordelis,96.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+289,289,GerDracor/platen-berengar.xml,Nicht mehr?,0,11,character_speech,1,1,,Guido.,#guido,97.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+290,290,GerDracor/platen-berengar.xml,O Bettler auf dem Weg der Gunst!,12,44,character_speech,1,1,,Guido.,#guido,97.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+291,291,GerDracor/platen-berengar.xml,Er scheint an Mut nicht Einem nachzustehn.,0,42,character_speech,1,1,,Flordelis.,#flordelis,98.0,FEMALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+292,292,GerDracor/platen-berengar.xml,"Nicht Einem, aber Allen, wie sie sind.",0,38,character_speech,1,1,,Guido.,#guido,99.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+293,293,GerDracor/platen-berengar.xml,Mein Vater selbst verordnet diese Wahl.,0,39,character_speech,1,1,,Flordelis.,#flordelis,100.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+294,294,GerDracor/platen-berengar.xml,Ihr solltet selbst euch selbst Arznei verordnen.,0,48,character_speech,1,1,,Guido.,#guido,101.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+295,295,GerDracor/platen-berengar.xml,Das scheint gefährlich ohne Rat des Arztes.,0,43,character_speech,1,1,,Flordelis.,#flordelis,102.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+296,296,GerDracor/platen-berengar.xml,Zuweilen ziemt uns wohl ein Wagestück.,0,38,character_speech,1,1,,Guido.,#guido,103.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+297,297,GerDracor/platen-berengar.xml,"Zu oft mißlingt, was ungewöhnlich scheint.",0,42,character_speech,1,1,,Flordelis.,#flordelis,104.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+298,298,GerDracor/platen-berengar.xml,"Dazu bedarf's nur einer raschen That,",0,37,character_speech,1,1,,Guido.,#guido,105.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+299,299,GerDracor/platen-berengar.xml,Dann wird das Seltene zum Wirklichen.,0,37,character_speech,1,1,,Guido.,#guido,105.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+300,300,GerDracor/platen-berengar.xml,"Darf ich hierin, da schon der Augenblick",0,40,character_speech,1,1,,Flordelis.,#flordelis,106.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+301,301,GerDracor/platen-berengar.xml,"Sich drohend naht, auf eure Hülfe bauen?",0,40,character_speech,1,1,,Flordelis.,#flordelis,106.0,FEMALE,fear,K,,1824.0,negative,emotions of anxiety
+302,302,GerDracor/platen-berengar.xml,"Wem sonst, als dir, gehör' ich, Frau der Frauen?",0,48,character_speech,1,1,,Guido.,#guido,107.0,MALE,love,K,,1824.0,positive,emotions of affection
+303,303,GerDracor/platen-berengar.xml,Wohlan!,0,7,character_speech,1,1,,Flordelis.,#flordelis,108.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+304,304,GerDracor/platen-berengar.xml,Erwartet mich in einer Stunde,8,37,character_speech,1,1,,Flordelis.,#flordelis,108.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+305,305,GerDracor/platen-berengar.xml,"Im nahen Holz, dann wird euch weitre Kunde.",0,43,character_speech,1,1,,Flordelis.,#flordelis,108.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+306,306,GerDracor/platen-berengar.xml,(Ab.),0,5,stage_direction,1,1,speech_part,,#flordelis,108.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+307,307,GerDracor/platen-berengar.xml,(allein).,0,9,stage_direction,1,1,speech_part,,#guido,109.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+308,308,GerDracor/platen-berengar.xml,"O schlage, Herz, du bist bewegt genug!",0,38,character_speech,1,1,,Guido,#guido,109.0,MALE,being moved,K,,1824.0,being moved,being moved
+309,309,GerDracor/platen-berengar.xml,"Den Lohn der Treue hast du halb errungen,",0,41,character_speech,1,1,,Guido,#guido,109.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+310,310,GerDracor/platen-berengar.xml,"Nun wirf auch weg Verstellung und Betrug,",0,41,character_speech,1,1,,Guido,#guido,109.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+311,311,GerDracor/platen-berengar.xml,"Und zeige dich, nachdem so viel gelungen,",0,41,character_speech,1,1,,Guido,#guido,109.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+312,312,GerDracor/platen-berengar.xml,Als ebenbürtig deiner Huldigungen!,0,34,character_speech,1,1,,Guido,#guido,109.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+313,313,GerDracor/platen-berengar.xml,"Sie wird dem Mächt'gen zugestehn sofort,",0,40,character_speech,1,1,,Guido,#guido,109.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+314,314,GerDracor/platen-berengar.xml,Was sie gestanden dem verwaisten Jungen:,0,40,character_speech,1,1,,Guido,#guido,109.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+315,315,GerDracor/platen-berengar.xml,"Im Ohre klingt mir noch ihr süßes Wort,",0,39,character_speech,1,1,,Guido,#guido,109.0,MALE,love,K,,1824.0,positive,emotions of affection
+316,316,GerDracor/platen-berengar.xml,"Nun ankre, holdes Glück, du bist so nah dem Port!",0,49,character_speech,1,1,,Guido,#guido,109.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+317,317,GerDracor/platen-berengar.xml,(Ab.),0,5,stage_direction,1,1,speech_part,,#guido,109.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+318,318,GerDracor/platen-berengar.xml,"Birbante tritt auf, in Waffen.",0,30,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+319,319,GerDracor/platen-berengar.xml,Diese adelige Tapferkeit liegt wie ein Alp auf meinen Schultern.,0,64,character_speech,1,2,,Guido,#birbante,110.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+320,320,GerDracor/platen-berengar.xml,"Was läßt sich
+            Ungereimteres denken, als sich mit einem Zentner Eisen zu schleppen, um spazieren zu
+            gehn?",65,193,character_speech,1,2,,Guido,#birbante,110.0,MALE,being moved,K,,1824.0,being moved,being moved
+321,321,GerDracor/platen-berengar.xml,"Tret' ich nur einmal in die Brautkammer meiner Flordelis, so leg' ich den Harnisch
+            ab, um ihn nie wieder anzuschnallen.",194,325,character_speech,1,2,,Guido,#birbante,110.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+322,322,GerDracor/platen-berengar.xml,"Mein Heldenmut kommt mir ohnedem vor, wie ein
+            aufwartender Pudel, der immer wieder auf die Vorderbeine zurückfällt.",326,453,character_speech,1,2,,Guido,#birbante,110.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+323,323,GerDracor/platen-berengar.xml,"Warum soll ich nur
+            gerade meiner Geliebten durch Heldenmut imponiren?",454,535,character_speech,1,2,,Guido,#birbante,110.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+324,324,GerDracor/platen-berengar.xml,"Heute darf ich vollends nicht ohne
+            Wunden zurückkehren.",536,603,character_speech,1,2,,Guido,#birbante,110.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+325,325,GerDracor/platen-berengar.xml,"Wo nehm' ich sie nur her, ohne mir weh zu thun?",604,651,character_speech,1,2,,Guido,#birbante,110.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+326,326,GerDracor/platen-berengar.xml,"Ritz' ich mich an
+            den Dornen, so wird es ihr zu unbedeutend vorkommen; schneid' ich mich mit meinem
+            Taschenmesser in den Arm, so kann ich mir eine Ader verletzen und mich verbluten.",652,857,character_speech,1,2,,Guido,#birbante,110.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+327,327,GerDracor/platen-berengar.xml,"Am
+            besten ist, ich behaubte, es sey mir eine Fee begegnet, die meine Waffen gefeit hat,
+            wodurch ich zugleich als der Unverwundbare meines Geschlechts erscheine.",858,1042,character_speech,1,2,,Guido,#birbante,110.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+328,328,GerDracor/platen-berengar.xml,"Aber meinen
+            Schild will ich wenigstens so weich  klopfen, als ob ich, wie der Erzvater,
+            mit einem Dämon zu thun gehabt hätte.",1043,1192,character_speech,1,2,,Guido,#birbante,110.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+329,329,GerDracor/platen-berengar.xml,"(Er befestigt seinen Schild an einen Baum, und fängt an, darauf
+            loszuschlagen.)",0,91,stage_direction,1,2,speech_part,,#birbante,110.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+330,330,GerDracor/platen-berengar.xml,Birbante.,0,9,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+331,331,GerDracor/platen-berengar.xml,"Flordelis im Hintergrunde, geharnischt, mit geschlossenem Visier.",10,75,stage_direction,1,2,pre_speech,,,,,anger,K,,1824.0,negative,emotions of rejection
+332,332,GerDracor/platen-berengar.xml,"Ich glaube gar, da steht er.",0,28,character_speech,1,2,,Flordelis.,#flordelis,111.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+333,333,GerDracor/platen-berengar.xml,Seiner Spur,29,40,character_speech,1,2,,Flordelis.,#flordelis,111.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+334,334,GerDracor/platen-berengar.xml,"Ist leicht zu folgen, denn er lärmt gewaltig.",0,45,character_speech,1,2,,Flordelis.,#flordelis,111.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+335,335,GerDracor/platen-berengar.xml,"Ob wohl Rolands Schild bei Ronceval so durchlöchert war, wie der meine?",0,71,character_speech,1,2,,Birbante.,#birbante,112.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+336,336,GerDracor/platen-berengar.xml,Was seh' ich?,0,13,character_speech,1,2,,Flordelis.,#flordelis,113.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+337,337,GerDracor/platen-berengar.xml,"Ha, die Memme!",14,28,character_speech,1,2,,Flordelis.,#flordelis,113.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+338,338,GerDracor/platen-berengar.xml,Seinen Schild,29,42,character_speech,1,2,,Flordelis.,#flordelis,113.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+339,339,GerDracor/platen-berengar.xml,"Zerhaut er selbst, und macht die Klinge schartig –",0,50,character_speech,1,2,,Flordelis.,#flordelis,113.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+340,340,GerDracor/platen-berengar.xml,Was ziemt sich hier?,0,20,character_speech,1,2,,Flordelis.,#flordelis,113.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+341,341,GerDracor/platen-berengar.xml,Gelächter oder Zorn?,21,41,character_speech,1,2,,Flordelis.,#flordelis,113.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+342,342,GerDracor/platen-berengar.xml,Das ist eine Drescherarbeit!,0,28,character_speech,1,2,,Birbante.,#birbante,114.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+343,343,GerDracor/platen-berengar.xml,Mir thun alle Gelenke weh.,29,55,character_speech,1,2,,Birbante.,#birbante,114.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+344,344,GerDracor/platen-berengar.xml,"Nun soll mir Einer behaubten,
+            daß ich keine Strapazen ertragen kann!",56,136,character_speech,1,2,,Birbante.,#birbante,114.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+345,345,GerDracor/platen-berengar.xml,Jetzt hat ihn Gott in meine Hand gegeben!,0,41,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+346,346,GerDracor/platen-berengar.xml,(Laut.),0,7,stage_direction,1,2,speech_part,,#flordelis,115.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+347,347,GerDracor/platen-berengar.xml,"Was schaffst du, pflichtvergessener Vasall?",0,43,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+348,348,GerDracor/platen-berengar.xml,Baumfrevler!,0,12,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+349,349,GerDracor/platen-berengar.xml,Wilddieb!,13,22,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+350,350,GerDracor/platen-berengar.xml,Räuber!,23,30,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+351,351,GerDracor/platen-berengar.xml,Ungeheuer!,31,41,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,fear,K,,1824.0,negative,emotions of anxiety
+352,352,GerDracor/platen-berengar.xml,"Du wagst es, hier in meinem Waldrevier",0,38,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+353,353,GerDracor/platen-berengar.xml,"Zu kreuzen, meine Stämme zu verletzen,",0,38,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+354,354,GerDracor/platen-berengar.xml,Durch dein Getöse meine Hasen mir,0,33,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+355,355,GerDracor/platen-berengar.xml,"Weit über mein Gebiet hinauszujagen,",0,36,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+356,356,GerDracor/platen-berengar.xml,"Ja, bis an's Ende der bekannten Welt?",0,37,character_speech,1,2,,Flordelis.,#flordelis,115.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+357,357,GerDracor/platen-berengar.xml,"Gestrenger Herr Ritter, ihr beleidigt einen Unschuldigen.",0,57,character_speech,1,2,,Birbante.,#birbante,116.0,MALE,compassion,K,,1824.0,negative,emotions of suffering and empathy
+358,358,GerDracor/platen-berengar.xml,Beleidigen?,0,11,character_speech,1,2,,Flordelis.,#flordelis,117.0,FEMALE,being moved,K,,1824.0,being moved,being moved
+359,359,GerDracor/platen-berengar.xml,Unschuldig?,12,23,character_speech,1,2,,Flordelis.,#flordelis,117.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+360,360,GerDracor/platen-berengar.xml,Störst du nicht,24,39,character_speech,1,2,,Flordelis.,#flordelis,117.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+361,361,GerDracor/platen-berengar.xml,"Tumultuarisch meinen stillen Wandel,",0,36,character_speech,1,2,,Flordelis.,#flordelis,117.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+362,362,GerDracor/platen-berengar.xml,Und machst rebellisch unsre Lombardie?,0,38,character_speech,1,2,,Flordelis.,#flordelis,117.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+363,363,GerDracor/platen-berengar.xml,Von nun an bist du mein Gefangener.,0,35,character_speech,1,2,,Flordelis.,#flordelis,117.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+364,364,GerDracor/platen-berengar.xml,"Nehmt hundert Zechinen zum Lösegeld, und laßt mich laufen!",0,58,character_speech,1,2,,Birbante.,#birbante,118.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+365,365,GerDracor/platen-berengar.xml,Mit nichten.,0,12,character_speech,1,2,,Flordelis.,#flordelis,119.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+366,366,GerDracor/platen-berengar.xml,"Folge mir, Entsetzlicher!",13,38,character_speech,1,2,,Flordelis.,#flordelis,119.0,FEMALE,fear,K,,1824.0,negative,emotions of anxiety
+367,367,GerDracor/platen-berengar.xml,Ich gebe tausend Zechinen und ein Trinkgeld an Dero Knappen.,0,60,character_speech,1,2,,Birbante.,#birbante,120.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+368,368,GerDracor/platen-berengar.xml,"Bestechen willst du mich wie einen Sbirren,",0,43,character_speech,1,2,,Flordelis.,#flordelis,121.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+369,369,GerDracor/platen-berengar.xml,Nichtswürdiger?,0,15,character_speech,1,2,,Flordelis.,#flordelis,121.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+370,370,GerDracor/platen-berengar.xml,"Ich bin ein Bannerherr,",16,39,character_speech,1,2,,Flordelis.,#flordelis,121.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+371,371,GerDracor/platen-berengar.xml,Was kümmr' ich mich um lumpige Zechinen!,0,40,character_speech,1,2,,Flordelis.,#flordelis,121.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+372,372,GerDracor/platen-berengar.xml,So zahl' ich euch mit Fersengeld!,0,33,character_speech,1,2,,Birbante.,#birbante,122.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+373,373,GerDracor/platen-berengar.xml,(Er will entspringen.),0,22,stage_direction,1,2,speech_part,,#birbante,122.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+374,374,GerDracor/platen-berengar.xml,(hält ihn).,0,11,stage_direction,1,2,speech_part,,#flordelis,123.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+375,375,GerDracor/platen-berengar.xml,"Du gehst von hier nur in mein Burgverließ,",0,42,character_speech,1,2,,Flordelis,#flordelis,123.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+376,376,GerDracor/platen-berengar.xml,"Wo Fledermäuse dir im Haare nisten,",0,35,character_speech,1,2,,Flordelis,#flordelis,123.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+377,377,GerDracor/platen-berengar.xml,Und Uhus brüten über deinem Schooß.,0,35,character_speech,1,2,,Flordelis,#flordelis,123.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+378,378,GerDracor/platen-berengar.xml,"Wo nicht, so rüste dich zum Kampf mit mir!",0,42,character_speech,1,2,,Flordelis,#flordelis,123.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+379,379,GerDracor/platen-berengar.xml,Zum Kampf?,0,10,character_speech,1,2,,Birbante.,#birbante,124.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+380,380,GerDracor/platen-berengar.xml,"Zum äußersten, auf Leben oder Tod.",0,34,character_speech,1,2,,Flordelis.,#flordelis,125.0,FEMALE,despair,K,,1824.0,negative,emotions of anxiety
+381,381,GerDracor/platen-berengar.xml,Auf Leben wäre mir lieber!,0,26,character_speech,1,2,,Birbante.,#birbante,126.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+382,382,GerDracor/platen-berengar.xml,Unhöflicher!,0,12,character_speech,1,2,,Flordelis.,#flordelis,127.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+383,383,GerDracor/platen-berengar.xml,So hast du darum nur,13,33,character_speech,1,2,,Flordelis.,#flordelis,127.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+384,384,GerDracor/platen-berengar.xml,"Entzwei geschlagen deinen Schild, damit",0,39,character_speech,1,2,,Flordelis.,#flordelis,127.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+385,385,GerDracor/platen-berengar.xml,Du mir Genugthuung versagen könntest?,0,37,character_speech,1,2,,Flordelis.,#flordelis,127.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+386,386,GerDracor/platen-berengar.xml,"Gleichviel, ich werfe meinen Schild von mir,",0,44,character_speech,1,2,,Flordelis.,#flordelis,127.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+387,387,GerDracor/platen-berengar.xml,So fechten wir mit ausgeglichnen Waffen.,0,40,character_speech,1,2,,Flordelis.,#flordelis,127.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+388,388,GerDracor/platen-berengar.xml,"Verzeiht, ich habe ein Gelübde an die heilige Crescentia gethan, binnen Jahresfrist in
+            kein Gefecht mich einzulassen.",0,129,character_speech,1,2,,Birbante.,#birbante,128.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+389,389,GerDracor/platen-berengar.xml,"Ihr seht selbst, daß ich euch keine Genugthuung geben
+            kann.",130,201,character_speech,1,2,,Birbante.,#birbante,128.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+390,390,GerDracor/platen-berengar.xml,So stirb von meiner Faust!,0,26,character_speech,1,2,,Flordelis.,#flordelis,129.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+391,391,GerDracor/platen-berengar.xml,"Und wisse nur,",27,41,character_speech,1,2,,Flordelis.,#flordelis,129.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+392,392,GerDracor/platen-berengar.xml,Daß ich in Fechterkünsten Meister bin:,0,38,character_speech,1,2,,Flordelis.,#flordelis,129.0,FEMALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+393,393,GerDracor/platen-berengar.xml,"Schlag' ich dein Haubt dir ab, so schleudr' ich es",0,50,character_speech,1,2,,Flordelis.,#flordelis,129.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+394,394,GerDracor/platen-berengar.xml,"Bis an die Sterne des Zodiacus,",0,31,character_speech,1,2,,Flordelis.,#flordelis,129.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+395,395,GerDracor/platen-berengar.xml,Daß es im Schaff des Wassermanns ersaufe!,0,41,character_speech,1,2,,Flordelis.,#flordelis,129.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+396,396,GerDracor/platen-berengar.xml,"Wißt ihr denn gar nichts, wodurch ich euch mein armseliges Leben abhandeln könnte?",0,82,character_speech,1,2,,Birbante.,#birbante,130.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+397,397,GerDracor/platen-berengar.xml,Was hast du Glänzendes auf deinem Helm?,0,39,character_speech,1,2,,Flordelis.,#flordelis,131.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+398,398,GerDracor/platen-berengar.xml,"Es ist das Armband meiner Braut, das Einzige, was ich euch nicht abtreten könnte.",0,81,character_speech,1,2,,Birbante.,#birbante,132.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+399,399,GerDracor/platen-berengar.xml,Das Einz'ge?,0,12,character_speech,1,2,,Flordelis.,#flordelis,133.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+400,400,GerDracor/platen-berengar.xml,Was?,13,17,character_speech,1,2,,Flordelis.,#flordelis,133.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+401,401,GerDracor/platen-berengar.xml,Du trittst es nicht mir ab?,18,45,character_speech,1,2,,Flordelis.,#flordelis,133.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+402,402,GerDracor/platen-berengar.xml,"Soll ich den Leib dir in zwei Theile spalten,",0,45,character_speech,1,2,,Flordelis.,#flordelis,133.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+403,403,GerDracor/platen-berengar.xml,"Wovon der eine nach Aegypten fliegt,",0,36,character_speech,1,2,,Flordelis.,#flordelis,133.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+404,404,GerDracor/platen-berengar.xml,"Den Bauch zu mästen eines Krokodils,",0,36,character_speech,1,2,,Flordelis.,#flordelis,133.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+405,405,GerDracor/platen-berengar.xml,Der andere zu Nova Zembla sich,0,30,character_speech,1,2,,Flordelis.,#flordelis,133.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+406,406,GerDracor/platen-berengar.xml,In eines Bären Rachen wieder findet?,0,36,character_speech,1,2,,Flordelis.,#flordelis,133.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+407,407,GerDracor/platen-berengar.xml,Hier ist das Armband!,0,21,character_speech,1,2,,Birbante.,#birbante,134.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+408,408,GerDracor/platen-berengar.xml,"Wir sind im Reinen, nun entlass' ich dich.",0,42,character_speech,1,2,,Flordelis.,#flordelis,135.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+409,409,GerDracor/platen-berengar.xml,"Ist mir vergönnt, ehe wir uns trennen, nach dem Namen meines Siegers zu forschen?",0,81,character_speech,1,2,,Birbante.,#birbante,136.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+410,410,GerDracor/platen-berengar.xml,Ich heiße Berengar.,0,19,character_speech,1,2,,Flordelis.,#flordelis,137.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+411,411,GerDracor/platen-berengar.xml,Gedenke mein!,20,33,character_speech,1,2,,Flordelis.,#flordelis,137.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+412,412,GerDracor/platen-berengar.xml,"(im Abgehen, für sich).",0,23,stage_direction,1,2,speech_part,,#birbante,138.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+413,413,GerDracor/platen-berengar.xml,Berengar?,0,9,character_speech,1,2,,Birbante,#birbante,138.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+414,414,GerDracor/platen-berengar.xml,Dieser Name ist gänzlich unbekannt in der Lombardei.,10,62,character_speech,1,2,,Birbante,#birbante,138.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+415,415,GerDracor/platen-berengar.xml,"Gott weiß, was für ein
+            Vagabund das ist!",63,115,character_speech,1,2,,Birbante,#birbante,138.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+416,416,GerDracor/platen-berengar.xml,"Von einem Helden besiegt zu werden, ginge noch an, aber von einem
+            solchen Bramarbas davon laufen zu müssen, ist nicht Jedem gegeben.",116,260,character_speech,1,2,,Birbante,#birbante,138.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+417,417,GerDracor/platen-berengar.xml,(Ab.),0,5,stage_direction,1,2,speech_part,,#birbante,138.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+418,418,GerDracor/platen-berengar.xml,O Memme sonder Gleichen!,0,24,character_speech,1,2,,Flordelis.,#flordelis,139.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+419,419,GerDracor/platen-berengar.xml,Konnt' ich je,25,38,character_speech,1,2,,Flordelis.,#flordelis,139.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+420,420,GerDracor/platen-berengar.xml,Dich mir zur Seite dulden?,0,26,character_speech,1,2,,Flordelis.,#flordelis,139.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+421,421,GerDracor/platen-berengar.xml,Also dieß,27,36,character_speech,1,2,,Flordelis.,#flordelis,139.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+422,422,GerDracor/platen-berengar.xml,"Ist ein Gemal, wie ihn der Vater wünscht!",0,41,character_speech,1,2,,Flordelis.,#flordelis,139.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+423,423,GerDracor/platen-berengar.xml,"Er scheint ihm tapfer, jugendlich, gewandt,",0,43,character_speech,1,2,,Flordelis.,#flordelis,139.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+424,424,GerDracor/platen-berengar.xml,Und wird mit Ueberfluß uns stets versorgen!,0,43,character_speech,1,2,,Flordelis.,#flordelis,139.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+425,425,GerDracor/platen-berengar.xml,"Nicht länger dräng' ich mein Gefühl zurück,",0,43,character_speech,1,2,,Flordelis.,#flordelis,139.0,FEMALE,being moved,K,,1824.0,being moved,being moved
+426,426,GerDracor/platen-berengar.xml,"Beschämen will ich öffentlich den Gecken,",0,41,character_speech,1,2,,Flordelis.,#flordelis,139.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+427,427,GerDracor/platen-berengar.xml,Und Guido's Hand ergreifen ohne Scheu.,0,38,character_speech,1,2,,Flordelis.,#flordelis,139.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+428,428,GerDracor/platen-berengar.xml,Flordelis.,0,10,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+429,429,GerDracor/platen-berengar.xml,Guido.,11,17,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+430,430,GerDracor/platen-berengar.xml,Ich kann sie nirgend finden und erspähn!,0,40,character_speech,1,2,,Guido.,#guido,140.0,MALE,love,K,,1824.0,positive,emotions of affection
+431,431,GerDracor/platen-berengar.xml,An jedem schönen Platz erwart' ich sie;,0,39,character_speech,1,2,,Guido.,#guido,140.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+432,432,GerDracor/platen-berengar.xml,Wo nur ein reich belaubter Buchenast,0,36,character_speech,1,2,,Guido.,#guido,140.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+433,433,GerDracor/platen-berengar.xml,"Den grüntapetnen Pavillon erbaut,",0,33,character_speech,1,2,,Guido.,#guido,140.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+434,434,GerDracor/platen-berengar.xml,Wo nur ein Quell die moos'ge Folie,0,34,character_speech,1,2,,Guido.,#guido,140.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+435,435,GerDracor/platen-berengar.xml,Krystall'nem Wasserspiegel unterlegt.,0,37,character_speech,1,2,,Guido.,#guido,140.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+436,436,GerDracor/platen-berengar.xml,(Näher kommend.),0,16,stage_direction,1,2,speech_part,,#guido,140.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+437,437,GerDracor/platen-berengar.xml,Ein Ritter!,0,11,character_speech,1,2,,Guido.,#guido,140.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+438,438,GerDracor/platen-berengar.xml,Sieh!,12,17,character_speech,1,2,,Guido.,#guido,140.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+439,439,GerDracor/platen-berengar.xml,Vielleicht vermag er mich,18,43,character_speech,1,2,,Guido.,#guido,140.0,MALE,love,K,,1824.0,positive,emotions of affection
+440,440,GerDracor/platen-berengar.xml,Am besten aufzuklären.,0,22,character_speech,1,2,,Guido.,#guido,140.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+441,441,GerDracor/platen-berengar.xml,Edler Herr!,23,34,character_speech,1,2,,Guido.,#guido,140.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+442,442,GerDracor/platen-berengar.xml,Was wünscht ihr?,0,16,character_speech,1,2,,Flordelis.,#flordelis,141.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+443,443,GerDracor/platen-berengar.xml,Was beliebt euch?,17,34,character_speech,1,2,,Flordelis.,#flordelis,141.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+444,444,GerDracor/platen-berengar.xml,Habt ihr nicht,0,14,character_speech,1,2,,Guido.,#guido,142.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+445,445,GerDracor/platen-berengar.xml,Ein Fräulein hier im Wald gesehn?,0,33,character_speech,1,2,,Guido.,#guido,142.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+446,446,GerDracor/platen-berengar.xml,So eben,0,7,character_speech,1,2,,Flordelis.,#flordelis,143.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+447,447,GerDracor/platen-berengar.xml,"Verließ sie mich, die mich hierher bestellt.",0,44,character_speech,1,2,,Flordelis.,#flordelis,143.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+448,448,GerDracor/platen-berengar.xml,Euch herbestellt?,0,17,character_speech,1,2,,Guido.,#guido,144.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+449,449,GerDracor/platen-berengar.xml,Dann ist's die Rechte nicht.,18,46,character_speech,1,2,,Guido.,#guido,144.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+450,450,GerDracor/platen-berengar.xml,Wie heißt sie denn?,0,19,character_speech,1,2,,Guido.,#guido,144.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+451,451,GerDracor/platen-berengar.xml,Sie nennt sich Flordelis.,0,25,character_speech,1,2,,Flordelis.,#flordelis,145.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+452,452,GerDracor/platen-berengar.xml,Das ist erlogen!,0,16,character_speech,1,2,,Guido.,#guido,146.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+453,453,GerDracor/platen-berengar.xml,"Junger Freund, bedenkt,",0,23,character_speech,1,2,,Flordelis.,#flordelis,147.0,FEMALE,friendship,K,,1824.0,positive,emotions of affection
+454,454,GerDracor/platen-berengar.xml,"Daß ich gewaffnet bin, und ihr es nicht!",0,40,character_speech,1,2,,Flordelis.,#flordelis,147.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+455,455,GerDracor/platen-berengar.xml,Es soll mir nicht an Waffen fehlen!,0,35,character_speech,1,2,,Guido.,#guido,148.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+456,456,GerDracor/platen-berengar.xml,(Er entwindet ihr den Degen.),0,29,stage_direction,1,2,speech_part,,#guido,148.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+457,457,GerDracor/platen-berengar.xml,(ihr Visier öffnend).,0,21,stage_direction,1,2,speech_part,,#flordelis,149.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+458,458,GerDracor/platen-berengar.xml,"Halt,",0,5,character_speech,1,2,,Flordelis,#flordelis,149.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+459,459,GerDracor/platen-berengar.xml,Und sieh!,0,9,character_speech,1,2,,Flordelis,#flordelis,149.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+460,460,GerDracor/platen-berengar.xml,O Himmel!,0,9,character_speech,1,2,,Guido.,#guido,150.0,MALE,being moved,K,,1824.0,being moved,being moved
+461,461,GerDracor/platen-berengar.xml,Flordelis!,10,20,character_speech,1,2,,Guido.,#guido,150.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+462,462,GerDracor/platen-berengar.xml,Sie selbst.,0,11,character_speech,1,2,,Flordelis.,#flordelis,151.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+463,463,GerDracor/platen-berengar.xml,(den Degen wegschleudernd):,0,27,stage_direction,1,2,speech_part,,#guido,152.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+464,464,GerDracor/platen-berengar.xml,"Vor diesen Blicken, diesen Rosenwangen",0,38,character_speech,1,2,,Guido,#guido,152.0,MALE,love,K,,1824.0,positive,emotions of affection
+465,465,GerDracor/platen-berengar.xml,"Bekenn' ich mich als einen Waffenlosen,",0,39,character_speech,1,2,,Guido,#guido,152.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+466,466,GerDracor/platen-berengar.xml,"Nun mag dein Schwert sich wider mich erbosen,",0,45,character_speech,1,2,,Guido,#guido,152.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+467,467,GerDracor/platen-berengar.xml,Ich werde vor ihm zittern und erbangen.,0,39,character_speech,1,2,,Guido,#guido,152.0,MALE,fear,K,,1824.0,negative,emotions of anxiety
+468,468,GerDracor/platen-berengar.xml,"Nun sei des Schweigens stilles Thor entriegelt,",0,47,character_speech,1,2,,Flordelis.,#flordelis,153.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+469,469,GerDracor/platen-berengar.xml,"Und ausgesprochen, was ich redlich meine:",0,41,character_speech,1,2,,Flordelis.,#flordelis,153.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+470,470,GerDracor/platen-berengar.xml,"Arm will ich sein und niedrig, doch die Deine!",0,46,character_speech,1,2,,Flordelis.,#flordelis,153.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+471,471,GerDracor/platen-berengar.xml,"Was ist der Glanz, worin das Glück sich spiegelt?",0,49,character_speech,1,2,,Flordelis.,#flordelis,153.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+472,472,GerDracor/platen-berengar.xml,"Bald brech' auch ich ein langgenährtes Schweigen,",0,49,character_speech,1,2,,Guido.,#guido,154.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+473,473,GerDracor/platen-berengar.xml,"Bald künd' auch ich, was ich um dich verdiene:",0,46,character_speech,1,2,,Guido.,#guido,154.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+474,474,GerDracor/platen-berengar.xml,Des eiteln Vorzugs soll mit stolzer Miene,0,41,character_speech,1,2,,Guido.,#guido,154.0,MALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+475,475,GerDracor/platen-berengar.xml,Sich nicht berühmen das Gemüt des Feigen!,0,41,character_speech,1,2,,Guido.,#guido,154.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+476,476,GerDracor/platen-berengar.xml,"Schon hat die Sonne sich vertraut den Fluten,",0,45,character_speech,1,2,,Flordelis.,#flordelis,155.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+477,477,GerDracor/platen-berengar.xml,"Mit Purpur krönend des Gebirges Spitze,",0,39,character_speech,1,2,,Flordelis.,#flordelis,155.0,FEMALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+478,478,GerDracor/platen-berengar.xml,"Laß uns zurück zum väterlichen Sitze,",0,37,character_speech,1,2,,Flordelis.,#flordelis,155.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+479,479,GerDracor/platen-berengar.xml,"Dort wird geschehn, was Viele nicht vermuten.",0,45,character_speech,1,2,,Flordelis.,#flordelis,155.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+480,480,GerDracor/platen-berengar.xml,(Beide ab.),0,11,stage_direction,1,2,speech_part,,#flordelis,155.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+481,481,GerDracor/platen-berengar.xml,"Ein ausgeschmückter, mit Gästen angefüllter Saal.",0,49,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+482,482,GerDracor/platen-berengar.xml,"Im Vordergrunde Pandolf, Birbante,
+          Dorine.",50,102,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+483,483,GerDracor/platen-berengar.xml,Die schöne Flordelis scheint noch mit ihrem Putz beschäftigt?,0,61,character_speech,1,3,,Pandolf.,#pandolf,156.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+484,484,GerDracor/platen-berengar.xml,Sie wird sogleich an der Hand ihres Vaters erscheinen.,0,54,character_speech,1,3,,Dorine.,#dorine,157.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+485,485,GerDracor/platen-berengar.xml,So läßt sie endlich den Verdiensten meines Sohnes Gerechtigkeit widerfahren?,0,76,character_speech,1,3,,Pandolf.,#pandolf,158.0,MALE,Schadenfreude,K,,1824.0,positive,emotions of pleasure
+486,486,GerDracor/platen-berengar.xml,Seit heute gewiß.,0,17,character_speech,1,3,,Dorine.,#dorine,159.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+487,487,GerDracor/platen-berengar.xml,"Ist ihr schon bekannt geworden, daß ihm sein Gegner im Zweikampfe unterlegen ist?",0,81,character_speech,1,3,,Pandolf.,#pandolf,160.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+488,488,GerDracor/platen-berengar.xml,Allerdings.,0,11,character_speech,1,3,,Dorine.,#dorine,161.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+489,489,GerDracor/platen-berengar.xml,"Nur weiß sie noch nicht, was er mit dem Leichname angefangen?",12,73,character_speech,1,3,,Dorine.,#dorine,161.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+490,490,GerDracor/platen-berengar.xml,Ich ließ ihn auf dem Felde liegen.,0,34,character_speech,1,3,,Birbante.,#birbante,162.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+491,491,GerDracor/platen-berengar.xml,Das ist unbarmherzig.,0,21,character_speech,1,3,,Dorine.,#dorine,163.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+492,492,GerDracor/platen-berengar.xml,"Ich will einen Totengräber dingen, damit er ihn einscharre.",22,81,character_speech,1,3,,Dorine.,#dorine,163.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+493,493,GerDracor/platen-berengar.xml,Die Raben haben ihn bereits verzehrt.,0,37,character_speech,1,3,,Birbante.,#birbante,164.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+494,494,GerDracor/platen-berengar.xml,Wohl bekomm's ihnen!,0,20,character_speech,1,3,,Dorine.,#dorine,165.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+495,495,GerDracor/platen-berengar.xml,Die Vorigen.,0,12,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+496,496,GerDracor/platen-berengar.xml,Loredano.,13,22,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+497,497,GerDracor/platen-berengar.xml,Flordelis.,23,33,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+498,498,GerDracor/platen-berengar.xml,Birbante komm!,0,14,character_speech,1,3,,Loredano.,#loredano,166.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+499,499,GerDracor/platen-berengar.xml,"Die schöne Stunde graut,",15,39,character_speech,1,3,,Loredano.,#loredano,166.0,MALE,fear,K,,1824.0,negative,emotions of anxiety
+500,500,GerDracor/platen-berengar.xml,"Nun hebst du bald den Schleier deiner Braut,",0,44,character_speech,1,3,,Loredano.,#loredano,166.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+501,501,GerDracor/platen-berengar.xml,"Die dir als Gattin sich ergeben beugt,",0,38,character_speech,1,3,,Loredano.,#loredano,166.0,MALE,love,K,,1824.0,positive,emotions of affection
+502,502,GerDracor/platen-berengar.xml,Von deiner Thaten Adel überzeugt.,0,33,character_speech,1,3,,Loredano.,#loredano,166.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+503,503,GerDracor/platen-berengar.xml,Mein reichster Segen kröne dieses Paar!,0,39,character_speech,1,3,,Pandolf.,#pandolf,167.0,MALE,love,K,,1824.0,positive,emotions of affection
+504,504,GerDracor/platen-berengar.xml,(bei Seite).,0,12,stage_direction,1,3,speech_part,,#dorine,168.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+505,505,GerDracor/platen-berengar.xml,"Ja wohl sein reichster, denn er zahlt ihn baar!",0,47,character_speech,1,3,,Dorine,#dorine,168.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+506,506,GerDracor/platen-berengar.xml,(zu Birbante).,0,14,stage_direction,1,3,speech_part,,#flordelis,169.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+507,507,GerDracor/platen-berengar.xml,"Da ihr auch heut zurückgekehrt vom Streit,",0,42,character_speech,1,3,,Flordelis,#flordelis,169.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+508,508,GerDracor/platen-berengar.xml,So zweifl' ich nicht an eurer Tapferkeit.,0,41,character_speech,1,3,,Flordelis,#flordelis,169.0,FEMALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+509,509,GerDracor/platen-berengar.xml,"Mein morscher Schild, mein schartenreiches Schwert",0,50,character_speech,1,3,,Birbante.,#birbante,170.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+510,510,GerDracor/platen-berengar.xml,"Bezeugen, daß ich deiner Liebe wert!",0,36,character_speech,1,3,,Birbante.,#birbante,170.0,MALE,love,K,,1824.0,positive,emotions of affection
+511,511,GerDracor/platen-berengar.xml,Ihr strecktet euren Gegner in den Sand?,0,39,character_speech,1,3,,Flordelis.,#flordelis,171.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+512,512,GerDracor/platen-berengar.xml,"Wer hielte mir, sobald ich kämpfe, Stand?",0,41,character_speech,1,3,,Birbante.,#birbante,172.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+513,513,GerDracor/platen-berengar.xml,Stets kehrt ihr wieder unversehrt und keck!,0,43,character_speech,1,3,,Flordelis.,#flordelis,173.0,FEMALE,Schadenfreude,K,,1824.0,positive,emotions of pleasure
+514,514,GerDracor/platen-berengar.xml,"Nicht unversehrt, mich ziert ein blauer Fleck!",0,46,character_speech,1,3,,Birbante.,#birbante,174.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+515,515,GerDracor/platen-berengar.xml,"Wo ist die Spange, die ich euch geborgt?",0,40,character_speech,1,3,,Flordelis.,#flordelis,175.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+516,516,GerDracor/platen-berengar.xml,Darüber sei nur gänzlich unbesorgt!,0,35,character_speech,1,3,,Birbante.,#birbante,176.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+517,517,GerDracor/platen-berengar.xml,"Wo ist die Spange, frag' ich, zeigt sie her!",0,44,character_speech,1,3,,Flordelis.,#flordelis,177.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+518,518,GerDracor/platen-berengar.xml,"Sie dir zu zeigen, fiele mir nicht schwer.",0,42,character_speech,1,3,,Birbante.,#birbante,178.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+519,519,GerDracor/platen-berengar.xml,"Nun wohl, wo ist sie?",0,21,character_speech,1,3,,Flordelis.,#flordelis,179.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+520,520,GerDracor/platen-berengar.xml,Händigt sie mir ein!,22,42,character_speech,1,3,,Flordelis.,#flordelis,179.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+521,521,GerDracor/platen-berengar.xml,Das kann wohl nicht dein ernster Wille sein.,0,44,character_speech,1,3,,Birbante.,#birbante,180.0,MALE,being moved,K,,1824.0,being moved,being moved
+522,522,GerDracor/platen-berengar.xml,"Mein fester Ernst, ich gab sie euch als Pfand.",0,46,character_speech,1,3,,Flordelis.,#flordelis,181.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+523,523,GerDracor/platen-berengar.xml,Gern geb' ich sie zurück in deine Hand.,0,39,character_speech,1,3,,Birbante.,#birbante,182.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+524,524,GerDracor/platen-berengar.xml,"Auf eurem Helm, Birbante, steckt sie nicht.",0,43,character_speech,1,3,,Flordelis.,#flordelis,183.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+525,525,GerDracor/platen-berengar.xml,Was siehst du mir so zornig in's Gesicht?,0,41,character_speech,1,3,,Birbante.,#birbante,184.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+526,526,GerDracor/platen-berengar.xml,"Zum letztenmal, wo ist die Spange?",0,34,character_speech,1,3,,Flordelis.,#flordelis,185.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+527,527,GerDracor/platen-berengar.xml,sagt!,35,40,character_speech,1,3,,Flordelis.,#flordelis,185.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+528,528,GerDracor/platen-berengar.xml,Ein Windstoß hat sie mir davon gejagt.,0,38,character_speech,1,3,,Birbante.,#birbante,186.0,MALE,fear,K,,1824.0,negative,emotions of anxiety
+529,529,GerDracor/platen-berengar.xml,"Nun hab' ich dich, verräterischer Wicht!",0,40,character_speech,1,3,,Flordelis.,#flordelis,187.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+530,530,GerDracor/platen-berengar.xml,So ehrst du mich?,0,17,character_speech,1,3,,Flordelis.,#flordelis,187.0,FEMALE,"admiration, reverence",K,,1824.0,positive,emotions of affection
+531,531,GerDracor/platen-berengar.xml,So kennst du deine Pflicht?,18,45,character_speech,1,3,,Flordelis.,#flordelis,187.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+532,532,GerDracor/platen-berengar.xml,Hab' ich umsonst dieß Zeichen dir vertraut?,0,43,character_speech,1,3,,Flordelis.,#flordelis,187.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+533,533,GerDracor/platen-berengar.xml,Bewahrst du so die Gaben deiner Braut?,0,38,character_speech,1,3,,Flordelis.,#flordelis,187.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+534,534,GerDracor/platen-berengar.xml,Für immer fühl' ich mich von dir befreit!,0,41,character_speech,1,3,,Flordelis.,#flordelis,187.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+535,535,GerDracor/platen-berengar.xml,Du grollst zu sehr um eine Kleinigkeit.,0,39,character_speech,1,3,,Birbante.,#birbante,188.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+536,536,GerDracor/platen-berengar.xml,Du bist zu rasch!,0,17,character_speech,1,3,,Loredano.,#loredano,189.0,MALE,being moved,K,,1824.0,being moved,being moved
+537,537,GerDracor/platen-berengar.xml,Ihr richtet allzuhart!,0,22,character_speech,1,3,,Pandolf.,#pandolf,190.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+538,538,GerDracor/platen-berengar.xml,Befreie mich von deiner Gegenwart!,0,34,character_speech,1,3,,Flordelis.,#flordelis,191.0,FEMALE,love,K,,1824.0,positive,emotions of affection
+539,539,GerDracor/platen-berengar.xml,(leise).,0,8,stage_direction,1,3,speech_part,,#dorine,192.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+540,540,GerDracor/platen-berengar.xml,Nur zu!,0,7,character_speech,1,3,,Dorine,#dorine,192.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+541,541,GerDracor/platen-berengar.xml,Ihr seyd im Zuge.,8,25,character_speech,1,3,,Dorine,#dorine,192.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+542,542,GerDracor/platen-berengar.xml,Nur geschwind!,26,40,character_speech,1,3,,Dorine,#dorine,192.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+543,543,GerDracor/platen-berengar.xml,"Soll ich entgelten, was gethan der Wind?",0,40,character_speech,1,3,,Birbante.,#birbante,193.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+544,544,GerDracor/platen-berengar.xml,(ihm das Armband vor die Füße werfend).,0,39,stage_direction,1,3,speech_part,,#flordelis,194.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+545,545,GerDracor/platen-berengar.xml,Elender!,0,8,character_speech,1,3,,Flordelis,#flordelis,194.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+546,546,GerDracor/platen-berengar.xml,Siehst du deine Schande klar?,9,38,character_speech,1,3,,Flordelis,#flordelis,194.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+547,547,GerDracor/platen-berengar.xml,Ha Flordelis!,0,13,character_speech,1,3,,Birbante.,#birbante,195.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+548,548,GerDracor/platen-berengar.xml,Ich heiße Berengar!,0,19,character_speech,1,3,,Flordelis.,#flordelis,196.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+549,549,GerDracor/platen-berengar.xml,Was soll das heißen?,0,20,character_speech,1,3,,Pandolf.,#pandolf,197.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+550,550,GerDracor/platen-berengar.xml,Euer Sohn wird blaß.,0,20,character_speech,1,3,,Loredano.,#loredano,198.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+551,551,GerDracor/platen-berengar.xml,Das schlägt den Boden vollends aus dem Faß!,0,43,character_speech,1,3,,Birbante.,#birbante,199.0,MALE,anger,K,,1824.0,negative,emotions of rejection
+552,552,GerDracor/platen-berengar.xml,(Er entflieht.),0,15,stage_direction,1,3,speech_part,,#birbante,199.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+553,553,GerDracor/platen-berengar.xml,Wo geht er hin?,0,15,character_speech,1,3,,Pandolf.,#pandolf,200.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+554,554,GerDracor/platen-berengar.xml,Was hat ihn so verscheucht?,0,27,character_speech,1,3,,Loredano.,#loredano,201.0,MALE,fear,K,,1824.0,negative,emotions of anxiety
+555,555,GerDracor/platen-berengar.xml,Laßt ihn!,0,9,character_speech,1,3,,Flordelis.,#flordelis,202.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+556,556,GerDracor/platen-berengar.xml,"Es ist genug, daß er entfleucht!",10,42,character_speech,1,3,,Flordelis.,#flordelis,202.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+557,557,GerDracor/platen-berengar.xml,"Aus dieser Einen feigen That erseht,",0,36,character_speech,1,3,,Flordelis.,#flordelis,202.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+558,558,GerDracor/platen-berengar.xml,Wie meine Zeichen ihm der Wind verweht!,0,39,character_speech,1,3,,Flordelis.,#flordelis,202.0,FEMALE,abhorrence,K,,1824.0,negative,emotions of rejection
+559,559,GerDracor/platen-berengar.xml,"Doch daß ihr, Vater, nicht vergebens hier",0,41,character_speech,1,3,,Flordelis.,#flordelis,202.0,FEMALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+560,560,GerDracor/platen-berengar.xml,"Versammelt habt so vieler Gäste Zier,",0,37,character_speech,1,3,,Flordelis.,#flordelis,202.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure
+561,561,GerDracor/platen-berengar.xml,So thut ein andrer Freier sich hervor:,0,38,character_speech,1,3,,Flordelis.,#flordelis,202.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+562,562,GerDracor/platen-berengar.xml,"Empfangt ihn gut, verleiht ihm gern ein Ohr!",0,44,character_speech,1,3,,Flordelis.,#flordelis,202.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+563,563,GerDracor/platen-berengar.xml,Ein andrer Freier?,0,18,character_speech,1,3,,Loredano.,#loredano,203.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+564,564,GerDracor/platen-berengar.xml,Und hier ist er schon!,0,22,character_speech,1,3,,Dorine.,#dorine,204.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+565,565,GerDracor/platen-berengar.xml,"Guido erscheint in prächtigen Kleidern, und läßt sich vor Loredano auf ein Knie
+          nieder.",0,97,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1824.0,no_annotation,no_annotation
+566,566,GerDracor/platen-berengar.xml,Ich bin des Herzogs von Piacenza Sohn.,0,38,character_speech,1,3,,Guido.,#guido,205.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+567,567,GerDracor/platen-berengar.xml,"Vergebt, wenn ich betrogen euch bis jetzt!",0,42,character_speech,1,3,,Guido.,#guido,205.0,MALE,suffering,K,,1824.0,negative,emotions of suffering and empathy
+568,568,GerDracor/platen-berengar.xml,"Die Liebe hat mich in dieß Haus versetzt,",0,41,character_speech,1,3,,Guido.,#guido,205.0,MALE,love,K,,1824.0,positive,emotions of affection
+569,569,GerDracor/platen-berengar.xml,"Die Liebe, die den Vater oft umgeht,",0,36,character_speech,1,3,,Guido.,#guido,205.0,MALE,love,K,,1824.0,positive,emotions of affection
+570,570,GerDracor/platen-berengar.xml,Wenn sie sich selbst auf ihren Wert versteht.,0,45,character_speech,1,3,,Guido.,#guido,205.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+571,571,GerDracor/platen-berengar.xml,"Der Schönen Herz, befragt sie selbst, ist mein,",0,47,character_speech,1,3,,Guido.,#guido,205.0,MALE,love,K,,1824.0,positive,emotions of affection
+572,572,GerDracor/platen-berengar.xml,Versagt ihr sie?,0,16,character_speech,1,3,,Guido.,#guido,205.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+573,573,GerDracor/platen-berengar.xml,ihn aufhebend).,0,15,stage_direction,1,3,speech_part,,#loredano,206.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+574,574,GerDracor/platen-berengar.xml,"Mein lieber Guido, nein!",0,24,character_speech,1,3,,Loredano,#loredano,206.0,MALE,love,K,,1824.0,positive,emotions of affection
+575,575,GerDracor/platen-berengar.xml,"Aufleben soll von Neuem euer Haus,",0,34,character_speech,1,3,,Guido.,#guido,207.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+576,576,GerDracor/platen-berengar.xml,Es wandle Pracht und Frohsinn ein und aus:,0,42,character_speech,1,3,,Guido.,#guido,207.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+577,577,GerDracor/platen-berengar.xml,"Der Ritter, der nach Abenteuern schweift,",0,41,character_speech,1,3,,Guido.,#guido,207.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+578,578,GerDracor/platen-berengar.xml,"Der Troubadour, der in die Saiten greift,",0,41,character_speech,1,3,,Guido.,#guido,207.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+579,579,GerDracor/platen-berengar.xml,"Der Pilgersmann, der nach Loretto wallt,",0,40,character_speech,1,3,,Guido.,#guido,207.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+580,580,GerDracor/platen-berengar.xml,Er finde hier gastfreien Aufenthalt!,0,36,character_speech,1,3,,Guido.,#guido,207.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+581,581,GerDracor/platen-berengar.xml,Den Saal des Schlosses und des Gartens Flur,0,43,character_speech,1,3,,Guido.,#guido,207.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+582,582,GerDracor/platen-berengar.xml,"Belebe Kunst, verschöne Liebe nur!",0,34,character_speech,1,3,,Guido.,#guido,207.0,MALE,love,K,,1824.0,positive,emotions of affection
+583,583,GerDracor/platen-berengar.xml,Doch wer verhilft mir nun zu meinem Recht?,0,42,character_speech,1,3,,Pandolf.,#pandolf,208.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+584,584,GerDracor/platen-berengar.xml,Befried'gen werd' ich diesen feilen Knecht.,0,43,character_speech,1,3,,Guido.,#guido,209.0,MALE,joy,K,,1824.0,positive,emotions of pleasure
+585,585,GerDracor/platen-berengar.xml,"Mein Herr Pandolf, es thut uns Vieren leid,",0,43,character_speech,1,3,,Dorine.,#dorine,210.0,FEMALE,compassion,K,,1824.0,negative,emotions of suffering and empathy
+586,586,GerDracor/platen-berengar.xml,Daß ihr das fünfte Rad am Wagen seid!,0,37,character_speech,1,3,,Dorine.,#dorine,210.0,FEMALE,anger,K,,1824.0,negative,emotions of rejection
+587,587,GerDracor/platen-berengar.xml,"Verschwender ihr, hochmütig und erlaucht,",0,41,character_speech,1,3,,Pandolf.,#pandolf,211.0,MALE,abhorrence,K,,1824.0,negative,emotions of rejection
+588,588,GerDracor/platen-berengar.xml,"Ich seh's voraus, daß ihr mich wieder braucht.",0,46,character_speech,1,3,,Pandolf.,#pandolf,211.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+589,589,GerDracor/platen-berengar.xml,(Er geht ab.),0,13,stage_direction,1,3,speech_part,,#pandolf,211.0,MALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+590,590,GerDracor/platen-berengar.xml,(gegen das Publikum).,0,21,stage_direction,1,3,speech_part,,#dorine,212.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+591,591,GerDracor/platen-berengar.xml,Dieß unser Spiel.,0,17,character_speech,1,3,,Dorine,#dorine,212.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+592,592,GerDracor/platen-berengar.xml,"Genüg' es euch für heut,",18,42,character_speech,1,3,,Dorine,#dorine,212.0,FEMALE,no_annotation,K,,1824.0,no_annotation,no_annotation
+593,593,GerDracor/platen-berengar.xml,Bis Schön'res euch und Ernsteres erfreut.,0,41,character_speech,1,3,,Dorine,#dorine,212.0,FEMALE,joy,K,,1824.0,positive,emotions of pleasure

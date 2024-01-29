@@ -1,0 +1,1295 @@
+,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class,genre,subgenre
+0,0,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Freule Charlotte Freule Chrette, Jungfer Baberl.",0,55,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+1,1,Kasperl/Marinelli_Spaziergang_korr.csv,die beyden Freulein bitten ihre Dienerin.,56,97,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+2,2,Kasperl/Marinelli_Spaziergang_korr.csv,Sie möchte auf|ihrer Seythe seyn.,98,131,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+3,3,Kasperl/Marinelli_Spaziergang_korr.csv,Charlotte.,132,142,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+4,4,Kasperl/Marinelli_Spaziergang_korr.csv,"wegen den Mons: Franc: den|schönen Kammerdiner, und Chrette wegen den Mons: Leop: den|gallanten Stallmeister.",143,252,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+5,5,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       stellt ihnen ihren|Adl, ihr Geld, ihre Schönheit vor.",0,61,character_speech,1,1,,"
+       Jungfer Baberl.
+      ",#jungfer_baberl,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+6,6,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Es seyen bey der Zeit die|Männer sehr schwer zu bekommen.",0,65,character_speech,1,1,,"
+       Freulein.
+      ",#freulein,2.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+7,7,Kasperl/Marinelli_Spaziergang_korr.csv,schmeicheln ihr unendlich.|,66,93,character_speech,1,1,,"
+       Freulein.
+      ",#freulein,2.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+8,8,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Sie könne ihren Fraulein unmöglich was versagen,|verspricht ihnen ihren närrischen Vatern zu betrügen.",0,110,character_speech,1,1,,"
+       Jungfer Baberl.
+      ",#jungfer_baberl,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+9,9,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sogleich",0,16,stage_direction,1,1,speech_part,,#jungfer_baberl,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+10,10,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       hat das Lezte mit angehört.",0,35,stage_direction,1,2,speech_part,,#herr_v_siemande,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+11,11,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       fragt, warum|man so nachdrücklich an ihn gedencke?",0,58,character_speech,1,2,,"
+       Herr v. Siemande.
+      ",#herr_v_siemande,4.0,UNKNOWN,compassion,negative,emotions of suffering and empathy,comedy,KK
+12,12,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sie hätte Noth-|wendigkeiten zu verrichten.",0,51,character_speech,1,2,,"
+       Baberl.
+      ",#baberl,5.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+13,13,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       lauft ab.",0,17,stage_direction,1,2,speech_part,,#baberl,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+14,14,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       stellt seine|Töchter zur Rede, über was sie zu murren hätten, und|warum sie ihn betrügen wollten.",0,105,character_speech,1,2,,"
+       Siemande.
+      ",#siemande,6.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+15,15,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       weil sie so selten|ausgehen d[u→]ürften.",0,48,character_speech,1,2,,"
+       Freulein.
+      ",#freulein,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+16,16,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sie würden izt genug ausgehen|können.",0,45,character_speech,1,2,,"
+       Siemande.
+      ",#siemande,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+17,17,Kasperl/Marinelli_Spaziergang_korr.csv,Er erwarte alle Augenblicke den jungen Herrn|Casperle von Langenohr nebst seinen Hofmeister von Lintz.,46,148,character_speech,1,2,,"
+       Siemande.
+      ",#siemande,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+18,18,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Ob der junge Hh.",0,24,character_speech,1,2,,"
+       Freulein.
+      ",#freulein,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+19,19,Kasperl/Marinelli_Spaziergang_korr.csv,"Geld habe, und ob der Hofmeister|hüpsch seye.",25,70,character_speech,1,2,,"
+       Freulein.
+      ",#freulein,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+20,20,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wundert sich über ihre neugierigen|Fragen.",0,50,character_speech,1,2,,"
+       Herr v. Siemande.
+      ",#herr_v_siemande,10.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+21,21,Kasperl/Marinelli_Spaziergang_korr.csv,sollen beyde zur Arbeit gehn.,51,80,character_speech,1,2,,"
+       Herr v. Siemande.
+      ",#herr_v_siemande,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+22,22,Kasperl/Marinelli_Spaziergang_korr.csv,mit der Baberl wolle|er schon ein andermahl Abrechnung halten,81,142,character_speech,1,2,,"
+       Herr v. Siemande.
+      ",#herr_v_siemande,10.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+23,23,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       alle ab",0,15,stage_direction,1,2,speech_part,,#herr_v_siemande,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+24,24,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Stadt.",0,13,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+25,25,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Cathel die Köchin mit einen Zögerl, und Jungfer Waberl aus Siemandens Hau{se.}",0,85,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+26,26,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       spricht sie gleich an.",0,30,character_speech,1,3,,"
+       Waberl.
+      ",#waberl,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+27,27,Kasperl/Marinelli_Spaziergang_korr.csv,wo sie so geschwind hingehe.,31,59,character_speech,1,3,,"
+       Waberl.
+      ",#waberl,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+28,28,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       |sie seye heute völlig stumpf.",0,38,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+29,29,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       warum?",0,14,character_speech,1,3,,"
+       Waberl.
+      ",#waberl,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+30,30,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       ihr Kutscher|hätte ihr versprochen sie auf den Hof bey der grünnen Kräutlerinn|abzuhollen.",0,98,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+31,31,Kasperl/Marinelli_Spaziergang_korr.csv,und er seye nicht gekommen.,99,126,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+32,32,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Es würde ja|an ihren Gutscher das Heil nicht gelegen seyn!",0,66,character_speech,1,3,,"
+       Waberl.
+      ",#waberl,15.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+33,33,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       lobt|ihren Gutscher, daß der er der beste A{lor}mant in der ganzen|Wienstadt seye.",0,90,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,16.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+34,34,Kasperl/Marinelli_Spaziergang_korr.csv,"daß er ihr gleich die Hand gebe, und daß|sie schon niteinmahl miteinander gerauft hätten,",91,180,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+35,35,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       unter dieser|Erzellung schnupft sie Toback.",0,51,stage_direction,1,3,speech_part,,#chaterl,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+36,36,Kasperl/Marinelli_Spaziergang_korr.csv,"zieht den Rock dann, und wann hinauf, und|schlagt sich selbst auf die Haube.",52,128,stage_direction,1,3,speech_part,,#chaterl,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+37,37,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Es würde ihr vieleicht ein|anderes hungriches Weibsbild ihren Gutscher weggefischt haben|",0,97,character_speech,1,3,,"
+       Baberl.
+      ",#baberl,17.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+38,38,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       daß sie dies keiner rathen wolle, sie raufte auf Mord, und|Bluth.",0,73,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,18.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+39,39,Kasperl/Marinelli_Spaziergang_korr.csv,"Naasen, und Ohren würde sie wegkrazen.",74,112,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,18.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+40,40,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       lacht über ihre¬|Eyfer.",0,31,character_speech,1,3,,"
+       Baberl.
+      ",#baberl,19.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+41,41,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sie soll nicht lachen.",0,30,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,20.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure,comedy,KK
+42,42,Kasperl/Marinelli_Spaziergang_korr.csv,"sie möchte sonst vergesßen,|daß sie ihre gute Freundin.",31,86,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,20.0,UNKNOWN,friendship,positive,emotions of affection,comedy,KK
+43,43,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       besänftiget sie, und fragt,|warum sie denn heute ihren Gutscher so sehnlich erwartet?|",0,94,character_speech,1,3,,"
+       Baberl.
+      ",#baberl,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+44,44,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      *abends*|",0,16,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+45,45,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       ihre Herrschaft speisste heute nicht zu Hauße.",0,54,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,22.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+46,46,Kasperl/Marinelli_Spaziergang_korr.csv,der Gutscher|habe ihr versprochen sie in Brader zu führen.,55,113,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+47,47,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er würde|vieleicht schon noch kommen.",0,45,character_speech,1,3,,"
+       Baberl.
+      ",#baberl,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+48,48,Kasperl/Marinelli_Spaziergang_korr.csv,Sie müsße izt bey ihrer Haubenhefterin Hauben hohlen.,46,99,character_speech,1,3,,"
+       Baberl.
+      ",#baberl,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+49,49,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       will ihr, weil ihr Weeg auch dahin gehe Geselschaft |leisten.",0,69,character_speech,1,3,,"
+       Chaterl.
+      ",#chaterl,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+50,50,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Lazzi der Komp.",0,22,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+51,51,Kasperl/Marinelli_Spaziergang_korr.csv,[ab] beyde ab.|,23,38,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+52,52,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Ein selbstgespräch von seiner Schönheit, und der|Liebe zu seiner Freule Charlotte",0,89,character_speech,1,4,,"
+       Monsieur Francois.
+      ",#monsiur_francois,25.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+53,53,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       zu ihm.",0,15,stage_direction,1,4,speech_part,,#monsiur_francois,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+54,54,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       gewöhnliche Begrüsßungen reden von ihrer|Schwägerschaft, und von seiner Liebe zu der Fr: Chrette.",0,105,character_speech,1,5,,"
+       Monsieur Leopold.
+      ",#monsieur_leopold,26.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+55,55,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       zu|ihnen.|",0,18,stage_direction,1,5,speech_part,,#monsieur_leopold,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+56,56,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Freule Charlotte, und Grette eine reist die andere nach, und nach vom Fenster weg.",0,89,stage_direction,1,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+57,57,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Jede will mit ihren Liebhaber sprechen.",0,46,stage_direction,1,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+58,58,Kasperl/Marinelli_Spaziergang_korr.csv,wie|sie dann miteinander stünden?,47,80,stage_direction,1,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+59,59,Kasperl/Marinelli_Spaziergang_korr.csv,ez.,81,84,stage_direction,1,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+60,60,Kasperl/Marinelli_Spaziergang_korr.csv,"bleiben endlich, und vernehme¬|von ihren Liebhabern, daß sie dieselben gern im Brader führen|möchten.",85,186,stage_direction,1,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+61,61,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       versprechen durch Hilfe der Waberl gewiß|zu kommen.",0,59,character_speech,1,6,,"
+       Freulein.
+      ",#freulein,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+62,62,Kasperl/Marinelli_Spaziergang_korr.csv,"Fürchten, es möchte ihr Vater kommen, gehen vom{m} Fenster",60,118,character_speech,1,6,,"
+       Freulein.
+      ",#freulein,27.0,UNKNOWN,fear,negative,emotions of anxiety,comedy,KK
+63,63,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       schreien ihnen noch tausend Compl nach.",0,47,character_speech,1,6,,"
+       Liebhaber.
+      ",#liebhaber,28.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+64,64,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       dazu|",0,13,stage_direction,1,6,speech_part,,#liebhaber,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+65,65,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Siemande.",0,17,character_speech,1,7,,"
+       Herr v.
+      ",#herr_v_siemande,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+66,66,Kasperl/Marinelli_Spaziergang_korr.csv,Was sie seinem Hauße für Kompl: machten?,18,58,character_speech,1,7,,"
+       Herr v.
+      ",#herr_v_siemande,29.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+67,67,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       |beyde erschröcken.",0,27,stage_direction,1,7,speech_part,,#herr_v_siemande,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+68,68,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       warum sie die Nahmen seiner|Töchter genennt, was sie da wollten?",0,72,character_speech,1,7,,"
+       Siemande.
+      ",#siemande,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+69,69,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       machen in Kürze|ihren Liebsantrag.",0,42,character_speech,1,7,,"
+       Beyde.
+      ",#herr_v_siemande #liebhaber,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+70,70,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       [so→]die wären die beste¬ Schwiegersöhne,|die man auf der Gaßen fände, und die gleich ihre Meinung|da erklärten.",0,120,character_speech,1,7,,"
+       Siemande.
+      ",#siemande,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+71,71,Kasperl/Marinelli_Spaziergang_korr.csv,Wer sie dann beyde wären.,121,146,character_speech,1,7,,"
+       Siemande.
+      ",#siemande,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+72,72,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sagen es|",0,17,character_speech,1,7,,"
+       Liebhaber.
+      ",#liebhaber,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+73,73,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er wolle Tochter keinem masquirten Laquey, und keine{m}|authorisirten Stallknecht geben.",0,96,character_speech,1,7,,"
+       Siemande.
+      ",#siemande,34.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+74,74,Kasperl/Marinelli_Spaziergang_korr.csv,Er müsße izt zum|Wasßer hinausgehen.,97,133,character_speech,1,7,,"
+       Siemande.
+      ",#siemande,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+75,75,Kasperl/Marinelli_Spaziergang_korr.csv,"Es solle sich keiner gelüsten lasßen|in seiner Abwesenheit seine Behausung zu betretten, oder {er}|wolle ihm mit Stock, und Wache den Weeg zeigen.",134,280,character_speech,1,7,,"
+       Siemande.
+      ",#siemande,34.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+76,76,Kasperl/Marinelli_Spaziergang_korr.csv,Sie sollen|ihm seine Ofenherzigkeit nicht übel nehmen.,281,335,character_speech,1,7,,"
+       Siemande.
+      ",#siemande,34.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+77,77,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       geht fort.|",0,19,stage_direction,1,7,speech_part,,#siemande,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+78,78,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wollen klüger seyn, nachgeben, und ihm heimlich|um seine Töchter betrügen.",0,82,character_speech,1,7,,"
+       Liebhaber.
+      ",#liebhaber,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+79,79,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       beyde gehen fort.|",0,26,stage_direction,1,7,speech_part,,#liebhaber,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+80,80,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       flucht über die höllische Schindmehren, welche ihm durch|das Ausschlagen verhindert, mit seiner Katherl zu reden.|Menget die Chatel und die Schindm[eh→]ören so durcheinander|daß man nicht weiß, wem er eigentlich den schönen Tietel bey-|lege",0,248,character_speech,1,8,,"
+       der Gutscher.
+      ",#der_guscher,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+81,81,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       dazu|",0,13,stage_direction,1,8,speech_part,,#der_guscher,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+82,82,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wo er dann stecke?",0,26,character_speech,1,9,,"
+       Lauffer.
+      ",#lauffer,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+83,83,Kasperl/Marinelli_Spaziergang_korr.csv,die Gräfin hätte anspannen befohlen|,27,63,character_speech,1,9,,"
+       Lauffer.
+      ",#lauffer,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+84,84,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er könne nicht anspannen.",0,33,character_speech,1,9,,"
+       Kutscher.
+      ",#kutscher,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+85,85,Kasperl/Marinelli_Spaziergang_korr.csv,"denn er habe seine Chatel *nich¬*|gesehen, und die Schindmören sey beym Schmid.",34,113,character_speech,1,9,,"
+       Kutscher.
+      ",#kutscher,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+86,86,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       was|für eine Schindmören?",0,33,character_speech,1,9,,"
+       Lauffer.
+      ",#lauffer,39.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+87,87,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Nu!",0,11,character_speech,1,9,,"
+       Chutscher.
+      ",#chutscher,40.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+88,88,Kasperl/Marinelli_Spaziergang_korr.csv,"das Pferd welches mich|heut geschlagen hat, und welches ich zum beschlagen geritte¬|habe.",12,101,character_speech,1,9,,"
+       Chutscher.
+      ",#chutscher,40.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+89,89,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wer dann izt fahren würde?",0,34,character_speech,1,9,,"
+       Lauffer.
+      ",#lauffer,41.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+90,90,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       seinetweg¬|könne fahren, wer da wolle.",0,46,character_speech,1,9,,"
+       Gutscher.
+      ",#gutscher,42.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+91,91,Kasperl/Marinelli_Spaziergang_korr.csv,Die verfluchte Schindmören!,47,74,character_speech,1,9,,"
+       Gutscher.
+      ",#gutscher,42.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+92,92,Kasperl/Marinelli_Spaziergang_korr.csv,seine|Kathel würde izt auch böse seyn.,75,113,character_speech,1,9,,"
+       Gutscher.
+      ",#gutscher,42.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+93,93,Kasperl/Marinelli_Spaziergang_korr.csv,und sein Chatel seye ihm|lieber als sein Dienst.,114,162,character_speech,1,9,,"
+       Gutscher.
+      ",#gutscher,42.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+94,94,Kasperl/Marinelli_Spaziergang_korr.csv,die verfluchte Schindmöhren!,163,191,character_speech,1,9,,"
+       Gutscher.
+      ",#gutscher,42.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+95,95,Kasperl/Marinelli_Spaziergang_korr.csv,"Hauen|will ichs, daß sie daran gedenken sollte, daß sie einen|Gutscher geschlagen hat.",192,278,character_speech,1,9,,"
+       Gutscher.
+      ",#gutscher,42.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+96,96,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       lacht.",0,14,stage_direction,1,9,speech_part,,#lauffer,43.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+97,97,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       An seiner Chatel seye|nicht viel neu ge[k→]bachenes?",0,60,character_speech,1,9,,"
+       Lauffer.
+      ",#lauffer,43.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+98,98,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wie so?",0,15,character_speech,1,9,,"
+       Gutsch.
+      ",#gutsch,44.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+99,99,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er habe sie mit|einen gewisßen Heyducken gehn sehen.",0,60,character_speech,1,9,,"
+       Lauffer.
+      ",#lauffer,45.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+100,100,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Last sich die Sache|etwas genauer erzellen:",0,51,character_speech,1,9,,"
+       Gutscher.
+      ",#gutscher,46.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+101,101,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       unter der Erzellung hat er immer|mit tempo angebracht: da hast du einen Toback!",0,87,stage_direction,1,9,speech_part,,#gutscher,46.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+102,102,Kasperl/Marinelli_Spaziergang_korr.csv,red weiter!|,88,100,stage_direction,1,9,speech_part,,#gutscher,46.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+103,103,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Erzellt, daß er der Chaterl, und dem Heyducken nachge-|schlichen.",0,73,character_speech,1,9,,"
+       Laufer.
+      ",#laufer,47.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+104,104,Kasperl/Marinelli_Spaziergang_korr.csv,"Sie wären miteinander über den Fischmarck beym|rothen Thurn hinaus, und beym bruder Herz ums Eck hinüber|gegangen.",74,188,character_speech,1,9,,"
+       Laufer.
+      ",#laufer,47.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+105,105,Kasperl/Marinelli_Spaziergang_korr.csv,Sie wäre dem Heyducken in Arm gehenckt.,189,228,character_speech,1,9,,"
+       Laufer.
+      ",#laufer,47.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+106,106,Kasperl/Marinelli_Spaziergang_korr.csv,Er hätte ihr|öfters das Goderl gekrazt.,229,268,character_speech,1,9,,"
+       Laufer.
+      ",#laufer,47.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+107,107,Kasperl/Marinelli_Spaziergang_korr.csv,"Sie wären hernach in der Jägerzeil in ein|Wirths Hauß gegangen, und hätten getanzt.",269,352,character_speech,1,9,,"
+       Laufer.
+      ",#laufer,47.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+108,108,Kasperl/Marinelli_Spaziergang_korr.csv,"Auf den Abend habe er|sie wieder mit den Heyducken bey der Limonadehütten gesehen, wie|er ihr eine Limonade gezallt.",353,469,character_speech,1,9,,"
+       Laufer.
+      ",#laufer,47.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+109,109,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Ist toll, Ein Kutscher könne ihr eine|Limonade verschaffen, als ein Heyduck.",0,84,character_speech,1,9,,"
+       Gutscher.
+      ",#gutscher,48.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+110,110,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       hust ihn auf.",0,21,character_speech,1,9,,"
+       Lauffer.
+      ",#lauffer,49.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+111,111,Kasperl/Marinelli_Spaziergang_korr.csv,er solle|es nicht leiden.,22,47,character_speech,1,9,,"
+       Lauffer.
+      ",#lauffer,49.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+112,112,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wann das wahr, was er gesagt, so wolle er es|seiner Chaterl wie seinen Pferden machen.",0,94,character_speech,1,9,,"
+       Gutscher.
+      ",#gutscher,50.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+113,113,Kasperl/Marinelli_Spaziergang_korr.csv,"wann er aber lüge, so wolle|er ihm schlagen, daß er in seinen Leben zum Lauffen nichts mehr nutz|seyn sollte.",95,204,character_speech,1,9,,"
+       Gutscher.
+      ",#gutscher,50.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+114,114,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       beyde gehen eiligst mit der Chaterl zu reden ab.|",0,57,stage_direction,1,9,speech_part,,#gutscher,50.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+115,115,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hanswurst und Caspar.",0,28,stage_direction,1,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+116,116,Kasperl/Marinelli_Spaziergang_korr.csv,"Caspar als junger Herr närrisch gekleidet, mit großen|Courier Stiffeln, und einer Peitsche.",29,120,stage_direction,1,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+117,117,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       als Hofmeister im|Reiße Kleid ohne Hanswurstshosen.",0,59,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,51.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+118,118,Kasperl/Marinelli_Spaziergang_korr.csv,"Seyn froh, daß sie glücklich über den|Strudel, und Wirbel herunter gefa[ll→]hren.",60,141,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,51.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+119,119,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       gefällt die Stadt|weil es so freundliche Buben gebe.",0,60,character_speech,1,10,,"
+       Caspar.
+      ",#caspar,52.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+120,120,Kasperl/Marinelli_Spaziergang_korr.csv,Es habe ihm schon einer einen|Schlingel geheisßen.,61,111,character_speech,1,10,,"
+       Caspar.
+      ",#caspar,52.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+121,121,Kasperl/Marinelli_Spaziergang_korr.csv,"Und hern{a}ch hätten die Häußer so große Fenster,|daß es eine Freud wäre sie einzuwerffen.",112,202,character_speech,1,10,,"
+       Caspar.
+      ",#caspar,52.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+122,122,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       mit Ansehen.",0,20,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,53.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+123,123,Kasperl/Marinelli_Spaziergang_korr.csv,Er|solle dergleichen Kindereyen meiden.,21,60,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,53.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+124,124,Kasperl/Marinelli_Spaziergang_korr.csv,"Er soll sich aufführen, wie ein|wahrer Gelehrter.",61,110,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,53.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+125,125,Kasperl/Marinelli_Spaziergang_korr.csv,"Wenig esßen, viel reden.",111,135,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,53.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+126,126,Kasperl/Marinelli_Spaziergang_korr.csv,Nichts trincken.,136,152,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,53.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+127,127,Kasperl/Marinelli_Spaziergang_korr.csv,"Keine Bübereye¬|treiben, und sich vor den gefä{hr}lichen Geschlecht in acht nehmen.",153,236,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,53.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+128,128,Kasperl/Marinelli_Spaziergang_korr.csv,"Und wenn|er ja ein so große Begierde trage ein Fenster einzuwerffen, so solle|er ihm den Stein geben.",237,338,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,53.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+129,129,Kasperl/Marinelli_Spaziergang_korr.csv,"Er sey größer, und stärcker.",339,367,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,53.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+130,130,Kasperl/Marinelli_Spaziergang_korr.csv,Ihm könne leicht|ein Klied verränket werden.,368,412,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,53.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+131,131,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Casp[ar] möcht gern seinen neuen Kostherrn|sehen.",0,56,stage_direction,1,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+132,132,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       der Hh: v. Siemande würde sie wohl empfangen.",0,53,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,54.0,UNKNOWN,"admiration, reverence",positive,emotions of affection,comedy,KK
+133,133,Kasperl/Marinelli_Spaziergang_korr.csv,"Gleich nach ihrer|Ankumpft will er dem Hh: Papa ihre Ankumpft, und dieseitige Vergnügen melden.",54,149,character_speech,1,10,,"
+       Hanswurst.
+      ",#hanswurst,54.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+134,134,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       |dazu|",0,14,stage_direction,1,10,speech_part,,#hanswurst,54.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+135,135,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Herr: v. Siemande.",0,25,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+136,136,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       redet ihm gleich an, ob er nicht wisße, wo der|Hh: v. Siemande wohne?",0,77,character_speech,1,11,,"
+       Hanswurst.
+      ",#hanswurst,55.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+137,137,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       voll Freuden, Er seye es selbst, ob sie die|von Lintz ankommenden Fremdlinge wären.",0,91,character_speech,1,11,,"
+       Siemande.
+      ",#siemande,56.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+138,138,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       bejaet, er wäre der Hof-|meister, und dort stünde der junge",0,67,character_speech,1,11,,"
+       Hanswurst.
+      ",#hanswurst,57.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+139,139,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hh: [Hh→]Siemand.",0,24,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+140,140,Kasperl/Marinelli_Spaziergang_korr.csv,lauft voll|Freuden auf Casp: zu will ihn umarmen.,25,74,stage_direction,1,11,pre_speech,,,,,joy,positive,emotions of pleasure,comedy,KK
+141,141,Kasperl/Marinelli_Spaziergang_korr.csv,Casp.,75,80,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+142,142,Kasperl/Marinelli_Spaziergang_korr.csv,"der in Gedanken ge-|standen, und izt erschrikt, peitscht ihn weg.",81,146,stage_direction,1,11,pre_speech,,,,,fear,negative,emotions of anxiety,comedy,KK
+143,143,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       stellt ihn zur Rede|soll dem Hh.",0,40,character_speech,1,11,,"
+       Hanswurst.
+      ",#hanswurst,58.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+144,144,Kasperl/Marinelli_Spaziergang_korr.csv,v. Sie: nach Würden empfangen.,41,71,character_speech,1,11,,"
+       Hanswurst.
+      ",#hanswurst,58.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+145,145,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Casp: lazzo der Umar-|mung.",0,34,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+146,146,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       fragt ob sie auf den Waßer ankommen wären, und|warum Casp: Courierstiefel und Peitschen hätte.",0,102,character_speech,1,11,,"
+       Siemande.
+      ",#siemande,59.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+147,147,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       daß er das|Wasßer peitschen, und das Schif hätt spornen können, daß es geschwinder|gegangen wäre.",0,105,character_speech,1,11,,"
+       Caspar.
+      ",#caspar,60.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+148,148,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sie sollen zu ihm in die Behausung kommen|",0,50,character_speech,1,11,,"
+       Siemande.
+      ",#siemande,61.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+149,149,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       ob er hübsche Menscher habe?",0,36,character_speech,1,11,,"
+       Caspar.
+      ",#caspar,62.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+150,150,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Siem: zeigt das Hauß.",0,28,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+151,151,Kasperl/Marinelli_Spaziergang_korr.csv,Casp.,29,34,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+152,152,Kasperl/Marinelli_Spaziergang_korr.csv,lauft|gleich hinein [ab],35,59,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+153,153,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       daß der junge Hh: nicht viel Lebensarth habe,|weil er gleich der erste hineinlaufe.",0,91,character_speech,1,11,,"
+       Siemande.
+      ",#siemande,63.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+154,154,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er solle es ihm verzeihen|Er verstünde es nicht besßer.",0,63,character_speech,1,11,,"
+       Hanswurst.
+      ",#hanswurst,64.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+155,155,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Hw: soll vorausgehen.|",0,30,character_speech,1,11,,"
+       Siemande.
+      ",#siemande,65.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+156,156,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       protestirt.",0,19,character_speech,1,11,,"
+       Hanswurst.
+      ",#hanswurst,66.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+157,157,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Siem: geht vor.",0,22,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+158,158,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       zieht ihn zurück.",0,25,stage_direction,1,11,speech_part,,#hanswurst,67.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+159,159,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       weil sie|erlaubt haben, so geh ich voraus.",0,50,character_speech,1,11,,"
+       Hanswurst.
+      ",#hanswurst,67.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+160,160,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       der Hh: Hofmeister und der| junge Hh: kömen ihm untern Huth nicht recht richtig für.",0,92,character_speech,1,11,,"
+       Siemande.
+      ",#siemande,68.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+161,161,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       folgt nach.|",0,20,stage_direction,1,11,speech_part,,#siemande,68.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+162,162,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Zimmer",0,13,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+163,163,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Wisßen nicht, wie sie es anfangen sollten|vom Pappa die Erlaubniß zu bekommen in Brader gehen zu|d{e}rfen.",0,114,character_speech,1,12,,"
+       Freule, Charlotte, und Chrette.
+      ",#freule #charlotte #chrette,69.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+164,164,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Sie wollten zu der Frau Baase zum Spiel sich|ausbitten.",0,63,character_speech,1,12,,"
+       Freule, Charlotte.
+      ",#freule #charlotte,70.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+165,165,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wenn nur der Hh: Vater nicht selbst mitgehe.",0,52,character_speech,1,12,,"
+       Chrette.
+      ",#chrette,71.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+166,166,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       dazu|",0,13,stage_direction,1,12,speech_part,,#chrette,71.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+167,167,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Caspar überfällt rückwärts die beyden Fräulein, und bekomt sie beym|Kragen.",0,82,stage_direction,1,13,pre_speech,,,,,anger,negative,emotions of rejection,comedy,KK
+168,168,Kasperl/Marinelli_Spaziergang_korr.csv,Die Freulein schreien.,83,105,stage_direction,1,13,pre_speech,,,,,fear,negative,emotions of anxiety,comedy,KK
+169,169,Kasperl/Marinelli_Spaziergang_korr.csv,dazu|,106,111,stage_direction,1,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+170,170,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hr: von Siemande.",0,24,stage_direction,1,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+171,171,Kasperl/Marinelli_Spaziergang_korr.csv,Hw: halten den Casp: ab.,25,49,stage_direction,1,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+172,172,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hanswurst macht den|Freulein sein Compl:",0,47,stage_direction,1,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+173,173,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       ebenfalls, sie gefallen ihm.",0,36,character_speech,1,14,,"
+       Caspar.
+      ",#caspar,72.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+174,174,Kasperl/Marinelli_Spaziergang_korr.csv,"fragt,|dem Siem: ob er sie nicht ein wenig herumreißen dürfte?|",37,100,character_speech,1,14,,"
+       Caspar.
+      ",#caspar,72.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+175,175,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hanswurst [rep] zankt mit ihm, und",0,41,stage_direction,1,14,pre_speech,,,,,anger,negative,emotions of rejection,comedy,KK
+176,176,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sagt.",0,13,stage_direction,1,14,speech_part,,#siemande,73.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+177,177,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er soll sich, und seinen|Eifer ein wenig mäßigen.",0,57,character_speech,1,14,,"
+       Siemande.
+      ",#siemande,73.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+178,178,Kasperl/Marinelli_Spaziergang_korr.csv, stage?,0,7,character_speech,1,14,,"
+       Caspar.
+      ",#caspar,74.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+179,179,Kasperl/Marinelli_Spaziergang_korr.csv,sezt sich auf die Erde.,16,39,character_speech,1,14,,"
+       Caspar.
+      ",#caspar,74.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+180,180,Kasperl/Marinelli_Spaziergang_korr.csv,Zieht einen|Stiefel aus.,40,64,character_speech,1,14,,"
+       Caspar.
+      ",#caspar,74.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+181,181,Kasperl/Marinelli_Spaziergang_korr.csv,tragt ihm zu Charl: sagt sie solle diese Wenigkeit|annehmen.,65,125,character_speech,1,14,,"
+       Caspar.
+      ",#caspar,74.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+182,182,Kasperl/Marinelli_Spaziergang_korr.csv,Es sey ein Present statt einen Zahnstirerbüchsel|,126,175,character_speech,1,14,,"
+       Caspar.
+      ",#caspar,74.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+183,183,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       die beyden Freulein lachen.",0,35,stage_direction,1,14,speech_part,,#caspar,74.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+184,184,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sie sollen das Gute Gemüth von seinen|jungen Herrn erkennen.",0,68,character_speech,1,14,,"
+       Hanswurst.
+      ",#hanswurst,75.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+185,185,Kasperl/Marinelli_Spaziergang_korr.csv,ez.,69,72,character_speech,1,14,,"
+       Hanswurst.
+      ",#hanswurst,75.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+186,186,Kasperl/Marinelli_Spaziergang_korr.csv,dazu.,73,78,character_speech,1,14,,"
+       Hanswurst.
+      ",#hanswurst,75.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+187,187,Kasperl/Marinelli_Spaziergang_korr.csv,"
+        was die Freule hier habe.",0,34,character_speech,1,14,,"
+       *Caspar.
+      ",#caspar,76.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+188,188,Kasperl/Marinelli_Spaziergang_korr.csv,lazzo mit der Musche.,35,56,character_speech,1,14,,"
+       *Caspar.
+      ",#caspar,76.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+189,189,Kasperl/Marinelli_Spaziergang_korr.csv,Arie.,57,62,character_speech,1,14,,"
+       *Caspar.
+      ",#caspar,76.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+190,190,Kasperl/Marinelli_Spaziergang_korr.csv,*,62,63,character_speech,1,14,,"
+       *Caspar.
+      ",#caspar,76.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+191,191,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Siemande erlaubt ihm, mit den Fr.",0,40,stage_direction,1,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+192,192,Kasperl/Marinelli_Spaziergang_korr.csv,manierlich um|zu gehen.|,41,65,stage_direction,1,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+193,193,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       daß die Speissen aufgetragen würden.",0,44,character_speech,1,15,,"
+       Jungfer Baberl.
+      ",#jungfer_baberl,77.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+194,194,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Casp.",0,12,stage_direction,1,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+195,195,Kasperl/Marinelli_Spaziergang_korr.csv,sobald|er sie sieht lauft er auf sie zu.,13,53,stage_direction,1,15,pre_speech,,,,,love,positive,emotions of affection,comedy,KK
+196,196,Kasperl/Marinelli_Spaziergang_korr.csv,Baberl.,54,61,stage_direction,1,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+197,197,Kasperl/Marinelli_Spaziergang_korr.csv,"lauft herum, und Casp.|ihr nach.",62,94,stage_direction,1,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+198,198,Kasperl/Marinelli_Spaziergang_korr.csv,die Freu.,95,104,stage_direction,1,15,pre_speech,,,,,joy,positive,emotions of pleasure,comedy,KK
+199,199,Kasperl/Marinelli_Spaziergang_korr.csv,"lach¬, und gehen auch zum Speißen.",105,139,stage_direction,1,15,pre_speech,,,,,joy,positive,emotions of pleasure,comedy,KK
+200,200,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Im abgeh¬,|der junge Hh.",0,32,character_speech,1,15,,"
+       Siemande.
+      ",#siemande,78.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+201,201,Kasperl/Marinelli_Spaziergang_korr.csv,gehe gewaltig auf die Leuth.,33,61,character_speech,1,15,,"
+       Siemande.
+      ",#siemande,78.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+202,202,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er richte sich überall|nach den Haußherrn|",0,50,character_speech,1,15,,"
+       Hanswurst.
+      ",#hanswurst,79.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+203,203,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Voriges Zimmer|",0,22,stage_direction,1,15,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+204,204,Kasperl/Marinelli_Spaziergang_korr.csv,"
+     *sauber gekleidet.",0,24,stage_direction,2,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+205,205,Kasperl/Marinelli_Spaziergang_korr.csv,*,24,25,stage_direction,2,0,pre_scene,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+206,206,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hanswurst und Caspar.",0,28,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+207,207,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hanswurst man gienge nicht immer spazieren der Gnad¬|Hh: habe ihnen das Zimmer eingeräumt.",0,97,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+208,208,Kasperl/Marinelli_Spaziergang_korr.csv,sie wollten also ein wenig|studieren.,98,135,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+209,209,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       mag nichts lernen, auf das Eßen schmecke|es ihm nicht.",0,62,character_speech,2,1,,"
+       Caspar.
+      ",#caspar,80.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+210,210,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er wolle nie etwas lernen.",0,34,character_speech,2,1,,"
+       Hanswurst.
+      ",#hanswurst,81.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+211,211,Kasperl/Marinelli_Spaziergang_korr.csv,Er seye wie eine|Schwein.,35,60,character_speech,2,1,,"
+       Hanswurst.
+      ",#hanswurst,81.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+212,212,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Warum.",0,14,character_speech,2,1,,"
+       Caspar.
+      ",#caspar,82.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+213,213,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er esße, trincke, schlaffe.",0,35,character_speech,2,1,,"
+       Hanswurst.
+      ",#hanswurst,83.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+214,214,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       der|Hofmeister sey auch eine Sau.",0,41,character_speech,2,1,,"
+       Caspar.
+      ",#caspar,84.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+215,215,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       warum.",0,14,character_speech,2,1,,"
+       Hanswurst.
+      ",#hanswurst,85.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+216,216,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       er esße, trinke,|schlaffe.",0,34,character_speech,2,1,,"
+       Caspar.
+      ",#caspar,86.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+217,217,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       schüzt seine übrige Kopfarbeite¬ vor.",0,45,character_speech,2,1,,"
+       Hanswurst.
+      ",#hanswurst,87.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+218,218,Kasperl/Marinelli_Spaziergang_korr.csv,"bringt ihm mit|guten Worten dahin, daß sie miteinander ein Argument machen|und alsdenn spazieren gehn wollten.",46,156,character_speech,2,1,,"
+       Hanswurst.
+      ",#hanswurst,87.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+219,219,Kasperl/Marinelli_Spaziergang_korr.csv,Hier ist das Argument.|nach diesen Er solle dem Hh.,157,208,character_speech,2,1,,"
+       Hanswurst.
+      ",#hanswurst,87.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+220,220,Kasperl/Marinelli_Spaziergang_korr.csv,v. Siem: das Argument lesen laßen.,209,243,character_speech,2,1,,"
+       Hanswurst.
+      ",#hanswurst,87.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+221,221,Kasperl/Marinelli_Spaziergang_korr.csv,Vieleicht|schencke er ihm was.,244,274,character_speech,2,1,,"
+       Hanswurst.
+      ",#hanswurst,87.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+222,222,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Casp.",0,12,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+223,223,Kasperl/Marinelli_Spaziergang_korr.csv,voll Freuden ab.,13,29,stage_direction,2,1,pre_speech,,,,,joy,positive,emotions of pleasure,comedy,KK
+224,224,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hanswurst hat seine Überlegung.|dazu|",0,44,stage_direction,2,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+225,225,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       fragt, ob dem Hh: Hofmeister dies Sa Zimmer anständig|wäre.",0,67,character_speech,2,2,,"
+       Jungfer Baberl.
+      ",#jungfer_baberl,88.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+226,226,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Scene der Caresßen, Höflichkeiten, und Liebe|",0,52,stage_direction,2,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+227,227,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sieht seinen jungen Hh: beurlaubt sich.",0,47,character_speech,2,2,,"
+       Hanswurst.
+      ",#hanswurst,90.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+228,228,Kasperl/Marinelli_Spaziergang_korr.csv,Sie solle ihm nachkommen|Er hätte ihr noch etwas zu erzellen.,48,109,character_speech,2,2,,"
+       Hanswurst.
+      ",#hanswurst,90.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+229,229,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       geht ab",0,15,stage_direction,2,2,speech_part,,#hanswurst,90.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+230,230,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       hat *zugesehen, sagt",0,28,stage_direction,2,3,speech_part,,#caspar,91.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+231,231,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       {sie} solle*|seinem Hh: Hofmeister nicht viel trauen.",0,61,character_speech,2,3,,"
+       Caspar.
+      ",#caspar,91.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+232,232,Kasperl/Marinelli_Spaziergang_korr.csv,Er könne gar|leicht einen Bock ins Argument machen ez.,62,116,character_speech,2,3,,"
+       Caspar.
+      ",#caspar,91.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+233,233,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       der Hh:|Hofmeister habe nur von der Hauswirtschaft mit ihr gesprochen.|",0,79,character_speech,2,3,,"
+       Baberl.
+      ",#baberl,92.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+234,234,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       das könne er auch.",0,26,character_speech,2,3,,"
+       Caspar.
+      ",#caspar,93.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+235,235,Kasperl/Marinelli_Spaziergang_korr.csv,sagt sie wäre ihm lieber als die Freulein|ez.,27,72,character_speech,2,3,,"
+       Caspar.
+      ",#caspar,93.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+236,236,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       will es nicht glauben.",0,30,character_speech,2,3,,"
+       Baberl.
+      ",#baberl,94.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+237,237,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Casp.",0,12,stage_direction,2,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+238,238,Kasperl/Marinelli_Spaziergang_korr.csv,Arie.,13,18,stage_direction,2,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+239,239,Kasperl/Marinelli_Spaziergang_korr.csv,Ich kann das Mauhl ez|dazu|,19,46,stage_direction,2,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+240,240,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Siemande tragt ihn nach der Arie fort.",0,45,stage_direction,2,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+241,241,Kasperl/Marinelli_Spaziergang_korr.csv,"Caspar strampft mit Händ,|und Füsßen.",46,83,stage_direction,2,4,pre_speech,,,,,being moved,being moved,being moved,comedy,KK
+242,242,Kasperl/Marinelli_Spaziergang_korr.csv,Baberl.,84,91,stage_direction,2,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+243,243,Kasperl/Marinelli_Spaziergang_korr.csv,wundert sich.,92,105,stage_direction,2,4,pre_speech,,,,,being moved,being moved,being moved,comedy,KK
+244,244,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Verbiethet ihr|mit den jungen Herrn nichts zu reden.",0,60,character_speech,2,4,,"
+       Siemande.
+      ",#siemande,95.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+245,245,Kasperl/Marinelli_Spaziergang_korr.csv,"Er brenne, wie eine|Bechfackel",61,91,character_speech,2,4,,"
+       Siemande.
+      ",#siemande,95.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+246,246,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sie verlange keinen Umgang.",0,35,character_speech,2,4,,"
+       [W→] Baberl. 
+      ",#baberl,96.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+247,247,Kasperl/Marinelli_Spaziergang_korr.csv,Ersucht dem|Hhrn.,36,53,character_speech,2,4,,"
+       [W→] Baberl. 
+      ",#baberl,96.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+248,248,Kasperl/Marinelli_Spaziergang_korr.csv,von Siem.,54,63,character_speech,2,4,,"
+       [W→] Baberl. 
+      ",#baberl,96.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+249,249,Kasperl/Marinelli_Spaziergang_korr.csv,den Freulein zum Spiel zu der Frau Baase zu|erlauben.,64,117,character_speech,2,4,,"
+       [W→] Baberl. 
+      ",#baberl,96.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+250,250,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er habe es seinen Töchtern schon versprochen.|Es wäre ihm lieb.",0,71,character_speech,2,4,,"
+       Siemande.
+      ",#siemande,97.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+251,251,Kasperl/Marinelli_Spaziergang_korr.csv,daß sie den jung¬ Hhrn.,72,95,character_speech,2,4,,"
+       Siemande.
+      ",#siemande,97.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+252,252,Kasperl/Marinelli_Spaziergang_korr.csv,"aus den Aug¬ kämen.|Er wolle ihm nur ein paar Tage behalten, und alsdenn woanderst|hin in die Kost geben.",96,201,character_speech,2,4,,"
+       Siemande.
+      ",#siemande,97.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+253,253,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       der Hh.",0,15,character_speech,2,4,,"
+       Baberl.
+      ",#baberl,98.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+254,254,Kasperl/Marinelli_Spaziergang_korr.csv,Hofmeister wäre gar|ein artiger Hh:,16,51,character_speech,2,4,,"
+       Baberl.
+      ",#baberl,98.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+255,255,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       merckt schon, wie viel es geschlagen.|schaft Waberl zu der Arbeit.",0,74,character_speech,2,4,,"
+       Siemande.
+      ",#siemande,99.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+256,256,Kasperl/Marinelli_Spaziergang_korr.csv,Er müße andere Maasregeln nehme¬,75,107,character_speech,2,4,,"
+       Siemande.
+      ",#siemande,99.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+257,257,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       |geht fort|",0,19,stage_direction,2,4,speech_part,,#siemande,99.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+258,258,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Stadt.",0,13,stage_direction,2,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+259,259,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Erwarten mit Schmerzen den Augen-|blick, wo sie wieder mit ihren Geliebten sprechen könnten.",0,100,character_speech,2,5,,"
+       Monsieur Francois und Leopold.
+      ",#monsiur_francois #leopold,100.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+260,260,Kasperl/Marinelli_Spaziergang_korr.csv,"die|Mädln hätten Geld, und dies mache sie schön.",101,149,character_speech,2,5,,"
+       Monsieur Francois und Leopold.
+      ",#monsiur_francois #leopold,100.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+261,261,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       dazu.|",0,14,stage_direction,2,5,speech_part,,#monsiur_francois #leopold,100.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+262,262,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       grüßt die beyden Herrn, bringt die Nachricht, daß die|Freulein um 5 Uhr im Lehenwagen bis zur Jägerzeil fahren|würden.",0,126,character_speech,2,6,,"
+       Baberle.
+      ",#baberle,101.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+263,263,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wollen ihren Jagdzug dahin bestellen.",0,45,character_speech,2,6,,"
+       Liebhaber.
+      ",#liebhaber,102.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+264,264,Kasperl/Marinelli_Spaziergang_korr.csv,"bedancken,|und beurlauben sich.",46,77,character_speech,2,6,,"
+       Liebhaber.
+      ",#liebhaber,102.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+265,265,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       gehen fort.",0,19,stage_direction,2,6,speech_part,,#liebhaber,102.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+266,266,Kasperl/Marinelli_Spaziergang_korr.csv,zu Baberl.|,20,31,stage_direction,2,6,speech_part,,#liebhaber,102.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+267,267,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       ist froh sie zu sehen.",0,30,stage_direction,2,7,speech_part,,#chaterl,103.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+268,268,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Ihr Kutscher habe sie aus Eyfersucht prügeln|wollen, nun seye er wieder völlig gut.",0,91,character_speech,2,7,,"
+       Chatel.
+      ",#chaterl,103.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+269,269,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       daß sie keinen|Liebhaber verlange, der sie prügeln wolle.",0,65,character_speech,2,7,,"
+       Baberl.
+      ",#baberl,104.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+270,270,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       das müsste seyn.|sagt sie solle heut mit ihnen im Brader gehn.",0,70,character_speech,2,7,,"
+       Chaterl.
+      ",#chaterl,105.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+271,271,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sie könne selbst|mit ihren Amanten gehn.",0,48,character_speech,2,7,,"
+       Baberl.
+      ",#baberl,106.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+272,272,Kasperl/Marinelli_Spaziergang_korr.csv,sie habe izt einen Hofmeister|,49,79,character_speech,2,7,,"
+       Baberl.
+      ",#baberl,106.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+273,273,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       greint mit ihr, daß sie sich so niederträchtig mache, und sich mit|einen Hofmeister abgebe.",0,99,character_speech,2,7,,"
+       Chaterl.
+      ",#chaterl,107.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+274,274,Kasperl/Marinelli_Spaziergang_korr.csv,"sie habe ihr immer einen braven|Vorreither, Heyducken, oder Lauffer zu kuppeln wollen, aber|weil sie ihr izt die Schand mit einen Hofmeister mache, so wolle sie|nichts von ihr wisßen.",100,283,character_speech,2,7,,"
+       Chaterl.
+      ",#chaterl,107.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+275,275,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sie verstünde nicht was sie rede.|sie seye nur ein gemeines Mensch.",0,75,character_speech,2,7,,"
+       Baberl.
+      ",#baberl,108.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+276,276,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       was Mensch?",0,19,character_speech,2,7,,"
+       Chaterl.
+      ",#chaterl,109.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+277,277,Kasperl/Marinelli_Spaziergang_korr.csv,"sie|sey ein Stubenfezen, ein Kehrbesen.",20,59,character_speech,2,7,,"
+       Chaterl.
+      ",#chaterl,109.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+278,278,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      gerathen in Zanck.",0,25,stage_direction,2,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+279,279,Kasperl/Marinelli_Spaziergang_korr.csv,"Baberl|schlagt der Chaterl die Hauben vom Kopf, Chaterl.",26,82,stage_direction,2,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+280,280,Kasperl/Marinelli_Spaziergang_korr.csv,zieht den Zochlöfel|heraus.,83,110,stage_direction,2,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+281,281,Kasperl/Marinelli_Spaziergang_korr.csv,izt kommt es zum Handgemenge.,111,140,stage_direction,2,7,pre_speech,,,,,anger,negative,emotions of rejection,comedy,KK
+282,282,Kasperl/Marinelli_Spaziergang_korr.csv,sogleich|,141,150,stage_direction,2,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+283,283,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       nimt den Huth herunter.",0,31,stage_direction,2,8,speech_part,,#hanswurst,110.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+284,284,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       damen was giebt es für einen Zanck.|",0,44,character_speech,2,8,,"
+       Hanswurst.
+      ",#hanswurst,110.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+285,285,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sagt der Hh: Hofmeister soll sich ihrer annehmen.",0,57,character_speech,2,8,,"
+       Baberl.
+      ",#baberl,111.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+286,286,Kasperl/Marinelli_Spaziergang_korr.csv,"Er, und|sie wären beschimpfet.",58,88,character_speech,2,8,,"
+       Baberl.
+      ",#baberl,111.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+287,287,Kasperl/Marinelli_Spaziergang_korr.csv,erzellt das Vorbeygegangene.|,89,118,character_speech,2,8,,"
+       Baberl.
+      ",#baberl,111.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+288,288,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sagt der Kuchelhadern soll sich gleich backen, oder er prügle|sie fort.",0,79,character_speech,2,8,,"
+       Hanswurst.
+      ",#hanswurst,112.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+289,289,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       will über ihn her sogleich|",0,35,stage_direction,2,8,speech_part,,#chaterl,113.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+290,290,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Was es hier gebe?",0,25,character_speech,2,9,,"
+       Kutscher, und Lauffer.
+      ",#kutscher #lauffer,114.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+291,291,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Schau Hanns,|der Kerl!",0,30,character_speech,2,9,,"
+       Chaterl.
+      ",#chaterl,115.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+292,292,Kasperl/Marinelli_Spaziergang_korr.csv,will mich schlagen.,31,50,character_speech,2,9,,"
+       Chaterl.
+      ",#chaterl,115.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+293,293,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Nur statt: zu Hw: wer ist er?|",0,38,character_speech,2,9,,"
+       Kutscher.
+      ",#kutscher,116.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+294,294,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er habe nichts darnach zu fragen.",0,41,character_speech,2,9,,"
+       Hanswurst.
+      ",#hanswurst,117.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+295,295,Kasperl/Marinelli_Spaziergang_korr.csv,Er wäre Hofmeister.|,42,62,character_speech,2,9,,"
+       Hanswurst.
+      ",#hanswurst,117.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+296,296,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       das wäre was anders.",0,28,character_speech,2,9,,"
+       Gutscher.
+      ",#gutscher,118.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+297,297,Kasperl/Marinelli_Spaziergang_korr.csv,sein Diener Hh.,29,44,character_speech,2,9,,"
+       Gutscher.
+      ",#gutscher,118.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+298,298,Kasperl/Marinelli_Spaziergang_korr.csv,Collega.,45,53,character_speech,2,9,,"
+       Gutscher.
+      ",#gutscher,118.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+299,299,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       was|Collega?",0,20,character_speech,2,9,,"
+       Hanswurst.
+      ",#hanswurst,119.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+300,300,Kasperl/Marinelli_Spaziergang_korr.csv,Er wäre Hofmeister über einen jungen Hhrn.,21,63,character_speech,2,9,,"
+       Hanswurst.
+      ",#hanswurst,119.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+301,301,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       und er|über seine Pferde, folgsam stünden sie in einen Range.|",0,70,character_speech,2,9,,"
+       Gutscher.
+      ",#gutscher,120.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+302,302,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wird toll,",0,18,stage_direction,2,9,speech_part,,#hanswurst,121.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+303,303,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       heist ihn einen Flegl.",0,30,character_speech,2,9,,"
+       Hanswurst.
+      ",#hanswurst,121.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+304,304,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er solle nicht schimpfen,|oder sie schlügen ihn krum, und lahm.",0,71,character_speech,2,9,,"
+       Lauffer.
+      ",#lauffer,122.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+305,305,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       zieht den Degen.",0,24,stage_direction,2,9,speech_part,,#hanswurst,123.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+306,306,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Hier geht’s|zum rauffen",0,31,character_speech,2,9,,"
+       Hanswurst.
+      ",#hanswurst,123.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+307,307,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       dazu|",0,13,stage_direction,2,9,speech_part,,#hanswurst,123.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+308,308,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Was hier vorgehe?",0,25,character_speech,2,10,,"
+       Die Wache.
+      ",#die_wache,124.0,UNKNOWN,being moved,being moved,being moved,comedy,KK
+309,309,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       der Kerl hätte den Degen über| [ih] sie gezogen.",0,56,character_speech,2,10,,"
+       Kutscher.
+      ",#kutscher,125.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+310,310,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      die Wache führt den Hw.",0,30,stage_direction,2,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+311,311,Kasperl/Marinelli_Spaziergang_korr.csv,"ungeachtet aller Weigerung|fort, und die übrigen gehen schreiend mit|",31,100,stage_direction,2,10,pre_speech,,,,,anger,negative,emotions of rejection,comedy,KK
+312,312,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Sieht den [Hw:] Hofmeister fortführen, will hören,|was er begangen, und von der Wache frey machen.",0,106,character_speech,2,11,,"
+       Siemande.
+      ",#siemande,126.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+313,313,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Geht|eilends nach.|",0,27,stage_direction,2,11,speech_part,,#siemande,126.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+314,314,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Zimmer.",0,14,stage_direction,2,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+315,315,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      die beyden Freulein, und",0,31,stage_direction,3,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+316,316,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Meldet, daß ihre|Liebhaber kommen würde, und entdeckt sogleich die Verdrüßlich-|keit, welche der Hofmeister wegen ihr gehabt",0,132,character_speech,3,1,,"
+       Baberl.
+      ",#baberl,127.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+317,317,Kasperl/Marinelli_Spaziergang_korr.csv,"
+        dazu|",0,14,stage_direction,3,1,speech_part,,#baberl,127.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+318,318,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       fragt eine nach der anderen um den Hofmeister|Keine will es ihm sagen.",0,78,character_speech,3,2,,"
+       Caspar.
+      ",#caspar,128.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+319,319,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       ungeduldig.",0,19,stage_direction,3,2,speech_part,,#baberl,129.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+320,320,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       der Hh.",0,15,character_speech,3,2,,"
+       Baberl.
+      ",#baberl,129.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+321,321,Kasperl/Marinelli_Spaziergang_korr.csv,Hof-|meister wäre im Loch.,16,42,character_speech,3,2,,"
+       Baberl.
+      ",#baberl,129.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+322,322,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       in was für einen Loch?",0,30,character_speech,3,2,,"
+       Caspar.
+      ",#caspar,130.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+323,323,Kasperl/Marinelli_Spaziergang_korr.csv,in|Ofenloch.,31,43,character_speech,3,2,,"
+       Caspar.
+      ",#caspar,130.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+324,324,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Nein!",0,13,character_speech,3,2,,"
+       Baberl.
+      ",#baberl,131.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+325,325,Kasperl/Marinelli_Spaziergang_korr.csv,im Arrest.,14,24,character_speech,3,2,,"
+       Baberl.
+      ",#baberl,131.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+326,326,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       hat seine Freude,|daß der Hh: Hofmeist: im Loch sey",0,59,character_speech,3,2,,"
+       Caspar.
+      ",#caspar,132.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+327,327,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       dazu|",0,13,stage_direction,3,2,speech_part,,#caspar,132.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+328,328,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hh.",0,10,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+329,329,Kasperl/Marinelli_Spaziergang_korr.csv,v. Siemande.,11,23,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+330,330,Kasperl/Marinelli_Spaziergang_korr.csv,Hanswurst,24,33,stage_direction,3,3,pre_speech,,,,,joy,positive,emotions of pleasure,comedy,KK
+331,331,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Ersterer sagt, Er soll sich ins kümpftige|vor dergleichen Steittigkeiten in Acht nehmen.",0,95,stage_direction,3,3,pre_speech,,,,,fear,negative,emotions of anxiety,comedy,KK
+332,332,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       daß es|nimmermehr geschehen würde.",0,42,character_speech,3,3,,"
+       Hanswurst.
+      ",#hanswurst,133.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+333,333,Kasperl/Marinelli_Spaziergang_korr.csv,Er habe es nur der Jungf: Baberl|zu Lieb gethan.,43,91,character_speech,3,3,,"
+       Hanswurst.
+      ",#hanswurst,133.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+334,334,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       lazzo.",0,14,character_speech,3,3,,"
+       Caspar.
+      ",#caspar,134.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+335,335,Kasperl/Marinelli_Spaziergang_korr.csv,der Hofmeister ist im Loch geweße¬|,15,50,character_speech,3,3,,"
+       Caspar.
+      ",#caspar,134.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+336,336,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       was der junge Hh.",0,25,character_speech,3,3,,"
+       Siemande.
+      ",#siemande,135.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+337,337,Kasperl/Marinelli_Spaziergang_korr.csv,rede.,26,31,character_speech,3,3,,"
+       Siemande.
+      ",#siemande,135.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+338,338,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Casp.",0,12,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+339,339,Kasperl/Marinelli_Spaziergang_korr.csv,lazzo wie vorher.,13,30,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+340,340,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wer es|ihm gesagt.",0,26,character_speech,3,3,,"
+       Siemande.
+      ",#siemande,136.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+341,341,Kasperl/Marinelli_Spaziergang_korr.csv,Es wäre nicht wahr.,27,46,character_speech,3,3,,"
+       Siemande.
+      ",#siemande,136.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+342,342,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       der Hh.",0,15,character_speech,3,3,,"
+       Caspar.
+      ",#caspar,137.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+343,343,Kasperl/Marinelli_Spaziergang_korr.csv,Hofmeister sey|halt doch im Loch geweßen.,16,57,character_speech,3,3,,"
+       Caspar.
+      ",#caspar,137.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+344,344,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       bittet dem gnäd: Hh: er|möchte jedermann diesen Umstand ver[zeihe¬ →]schweigen.",0,87,character_speech,3,3,,"
+       Hanswurst.
+      ",#hanswurst,138.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+345,345,Kasperl/Marinelli_Spaziergang_korr.csv,"bittet die|Freulein um Verzeihung, wenn vieleicht sein junger Hh.",88,153,character_speech,3,3,,"
+       Hanswurst.
+      ",#hanswurst,138.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+346,346,Kasperl/Marinelli_Spaziergang_korr.csv,sie|sollte beleidiget haben.,154,182,character_speech,3,3,,"
+       Hanswurst.
+      ",#hanswurst,138.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+347,347,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Casp.",0,12,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+348,348,Kasperl/Marinelli_Spaziergang_korr.csv,"lazzo, wie vorher.",13,31,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+349,349,Kasperl/Marinelli_Spaziergang_korr.csv,"
+        wincket|ihm,",0,21,stage_direction,3,3,speech_part,,#hanswurst,139.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+350,350,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       und droht ihn zu prügeln.",0,33,character_speech,3,3,,"
+       Hanswurst.
+      ",#hanswurst,139.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+351,351,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sagt seine Töchter solle¬|in die Gesellschaft zur Frau Baase gehn.",0,74,character_speech,3,3,,"
+       Siemande.
+      ",#siemande,140.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+352,352,Kasperl/Marinelli_Spaziergang_korr.csv,"Er wolle zu Hauße.|bleiben, um nöthige Anordnungen zu machen.",75,136,character_speech,3,3,,"
+       Siemande.
+      ",#siemande,140.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+353,353,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Geht mit|allen Frauenzimmern ab.",0,40,stage_direction,3,3,speech_part,,#siemande,140.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+354,354,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hanswurst sagt heimlich zu der Jungfer Baberl|sie solle ein wenig in [sein →]ihrem Zimmer warten.",0,104,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+355,355,Kasperl/Marinelli_Spaziergang_korr.csv,er hätte ihr was zu|sagen.,105,131,stage_direction,3,3,pre_speech,,,,,anger,negative,emotions of rejection,comedy,KK
+356,356,Kasperl/Marinelli_Spaziergang_korr.csv,wenn alle fort.,132,147,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+357,357,Kasperl/Marinelli_Spaziergang_korr.csv,Izt wolle er mit dem Rindvieh|Abhandlung halten.,148,196,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+358,358,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       lacht erstaunlich.",0,26,stage_direction,3,3,speech_part,,#caspar,141.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+359,359,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Ein solches|Unglück könne jedem Galanthome geschehen, wenn er sich um|damen annehme.",0,92,character_speech,3,3,,"
+       Hanswurst.
+      ",#hanswurst,142.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+360,360,Kasperl/Marinelli_Spaziergang_korr.csv,{rück}elt ihm die Haare.,93,117,character_speech,3,3,,"
+       Hanswurst.
+      ",#hanswurst,142.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+361,361,Kasperl/Marinelli_Spaziergang_korr.csv,"Er solle sich nicht|mehr unterstehen zu lachen, oder er nehme ihm zu den|Spaziergang nicht mit.",118,213,character_speech,3,3,,"
+       Hanswurst.
+      ",#hanswurst,142.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+362,362,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      lazzo mit Abgehen.",0,25,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+363,363,Kasperl/Marinelli_Spaziergang_korr.csv,Muß mit Tempo ge-|macht werden.|,26,58,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+364,364,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Stadt.",0,13,stage_direction,3,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+365,365,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Ist froh, daß er nun seine Schuld bekommen würde.|bey dem Mons: Franc: wäre sie nicht gar richtig geweßen.|Nun habe er eine schriftliche Anweisung an dem Hrn: von|Siemande.",0,180,character_speech,3,4,,"
+       Ein Tändler.
+      ",#ein_taendler,143.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+366,366,Kasperl/Marinelli_Spaziergang_korr.csv,"Weil der Mons: Fran: bey seiner Geliebten in|Brader wäre, wolle er sein Geld zu erhaschen trachten.|der Termin wäre zwar erst in 14 Tägen.",181,319,character_speech,3,4,,"
+       Ein Tändler.
+      ",#ein_taendler,143.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+367,367,Kasperl/Marinelli_Spaziergang_korr.csv,"aber besßer|zu fruh, als zu spat.",320,353,character_speech,3,4,,"
+       Ein Tändler.
+      ",#ein_taendler,143.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+368,368,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Hört Jemand aus dem Hause kommen|begiebt sich zurück|",0,61,stage_direction,3,4,speech_part,,#ein_taendler,143.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+369,369,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hw: Baberl, Casp: Hw: führt die Waberl unter den Arm.",0,60,stage_direction,3,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+370,370,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Sie|wären hier fremd.",0,29,character_speech,3,5,,"
+       HansWurst.
+      ",#hanswurst,144.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+371,371,Kasperl/Marinelli_Spaziergang_korr.csv,"Sie solle sie nun dahin führen, wo es|lustig zu gienge.",30,85,character_speech,3,5,,"
+       HansWurst.
+      ",#hanswurst,144.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+372,372,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sie dürfte¬ sich nur einen Lehenwagen|nehmen, und im Brader fahren.",0,75,character_speech,3,5,,"
+       Baberl.
+      ",#baberl,145.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+373,373,Kasperl/Marinelli_Spaziergang_korr.csv,die Fräulein würden|vieleicht auch schon dort seyn.,76,127,character_speech,3,5,,"
+       Baberl.
+      ",#baberl,145.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+374,374,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       will allein nicht|mitgehen.",0,35,character_speech,3,5,,"
+       Caspar.
+      ",#caspar,146.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+375,375,Kasperl/Marinelli_Spaziergang_korr.csv,Er wolle auch Jemand unter den Arm führen|,36,78,character_speech,3,5,,"
+       Caspar.
+      ",#caspar,146.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+376,376,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      sieht den Tandler, nimmt ihm gleich unter den Arm, will ihm| mitführen.",0,78,stage_direction,3,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+377,377,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er habe nicht zeit.",0,27,character_speech,3,5,,"
+       Tandler.
+      ",#tandler,147.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+378,378,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er soll dem Hrn:|gehn lasßen.",0,37,character_speech,3,5,,"
+       Hanswurst.
+      ",#hanswurst,148.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+379,379,Kasperl/Marinelli_Spaziergang_korr.csv,"Vieleicht fänden sie unterweegs ein ehrbahres|Frauenzimmer, welches sie mitführen könnten.",38,128,character_speech,3,5,,"
+       Hanswurst.
+      ",#hanswurst,148.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+380,380,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Casp.",0,12,stage_direction,3,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+381,381,Kasperl/Marinelli_Spaziergang_korr.csv,will das am Eck sizende Kipfelweib mit den Kipfelstand mitnehmen|alle drey gehen fort.,13,99,stage_direction,3,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+382,382,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Tändler will nunmehr sein Glück wegen|den Geld versuchen.",0,64,stage_direction,3,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+383,383,Kasperl/Marinelli_Spaziergang_korr.csv,"geht zum Hauße, und klopft dazu|",65,97,stage_direction,3,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+384,384,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       was er wolle?",0,21,character_speech,3,6,,"
+       Herr v Siemande.
+      ",#herr_v_siemande,149.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+385,385,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Ob er vielleicht der gnäd:|Hh: v. Siemandl.",0,51,character_speech,3,6,,"
+       Tandler.
+      ",#tandler,150.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+386,386,Kasperl/Marinelli_Spaziergang_korr.csv,"Er möchte so gut seyn, die Gnade haben, und|den Auszügel bezallen.",52,118,character_speech,3,6,,"
+       Tandler.
+      ",#tandler,150.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+387,387,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       {l}ist: wer ihm dies schuldig|wäre?",0,43,character_speech,3,6,,"
+       Siemande.
+      ",#siemande,151.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+388,388,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       der zukümpftige Schwiegersohn des Hr: v. Siemande.|der Mons: Franc: Er hätte ihm die Anweisung gegeben.|",0,112,character_speech,3,6,,"
+       Tandler.
+      ",#tandler,152.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+389,389,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er solle sich zum Teufel scherren.",0,42,character_speech,3,6,,"
+       Siemande.
+      ",#siemande,153.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+390,390,Kasperl/Marinelli_Spaziergang_korr.csv,Er wolle weder von ihm|noch von dem Lumpe[l →]n Franz etwas wisßen.,43,110,character_speech,3,6,,"
+       Siemande.
+      ",#siemande,153.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+391,391,Kasperl/Marinelli_Spaziergang_korr.csv,"Er solle sich nicht|unterfangen zu gedenken, geschweige zu sagen, daß der Franz|sein Schwiegersohn werden wolle.",111,223,character_speech,3,6,,"
+       Siemande.
+      ",#siemande,153.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+392,392,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Wenn er auch nichts|sage, so wisße es die ganze Stadt, ja es würden sie viel tausend|Menscher beyeinander im Brader sehen.",0,130,character_speech,3,6,,"
+       Tandler.
+      ",#tandler,154.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+393,393,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er würde das|Glück nicht haben, sie im Brader zu sehen.",0,63,character_speech,3,6,,"
+       Siemande.
+      ",#siemande,155.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+394,394,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er dürfte|nur izt hinaus gehen, so würde er die beyeinander antreffen.|",0,79,character_speech,3,6,,"
+       Tandler.
+      ",#tandler,156.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+395,395,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       fangt an zu argwohnen.",0,30,character_speech,3,6,,"
+       Siemande.
+      ",#siemande,157.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+396,396,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       erzellt, was er gehört|und gesehen.",0,43,character_speech,3,6,,"
+       Tandler.
+      ",#tandler,158.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+397,397,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       schenkt ihm einen Gulden Vor die Nachricht.|sein Geld solle [be] er beyme Franz suchen.",0,95,character_speech,3,6,,"
+       Siemande
+      ",#siemande,159.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+398,398,Kasperl/Marinelli_Spaziergang_korr.csv,Seine*n* Töchtern nachzugeh¬|,96,125,character_speech,3,6,,"
+       Siemande
+      ",#siemande,159.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+399,399,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       geht er nebst den Tändler fort.|",0,40,stage_direction,3,6,speech_part,,#siemande,159.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+400,400,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Wald",0,11,stage_direction,3,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+401,401,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Tisch mit gedeckter Tafel|",0,33,stage_direction,3,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+402,402,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      die beyden Freulein sizen nebst Monsieur Francois Monsieur Leopold;|Zwey Kellner, welche aufwarten *{NB.}",0,112,stage_direction,3,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+403,403,Kasperl/Marinelli_Spaziergang_korr.csv,die Frauenzi¬: habe¬ engl.,113,139,stage_direction,3,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+404,404,Kasperl/Marinelli_Spaziergang_korr.csv,Hütte auf.,140,150,stage_direction,3,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+405,405,Kasperl/Marinelli_Spaziergang_korr.csv,*|die Männer sind beschäftiget die Frauenzimmer zu bedienen|,150,210,stage_direction,3,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+406,406,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Frauenzimmer loben die schöne Gegend, und daß sie hier ewig|bleiben möchten.",0,83,stage_direction,3,7,pre_speech,,,,,joy,positive,emotions of pleasure,comedy,KK
+407,407,Kasperl/Marinelli_Spaziergang_korr.csv,"Nach Hauß zu gehn, und bey dem verdrüßlich¬|Vatern zu bleiben, wäre viel zu betrübt.",84,168,stage_direction,3,7,pre_speech,,,,,suffering,negative,emotions of suffering and empathy,comedy,KK
+408,408,Kasperl/Marinelli_Spaziergang_korr.csv,"Sind besorgt,|wenn sie vieleicht wer kennen sollte, und sie verrathen würden.|",169,247,stage_direction,3,7,pre_speech,,,,,fear,negative,emotions of anxiety,comedy,KK
+409,409,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Monsieur Francois tröstet sie, will gleich ein wenig sehen, was für|Leuthe hier wären geht fort.",0,103,stage_direction,3,7,pre_speech,,,,,compassion,negative,emotions of suffering and empathy,comedy,KK
+410,410,Kasperl/Marinelli_Spaziergang_korr.csv,die übrigen reden noch von|dem Inhalt dazu|,104,147,stage_direction,3,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+411,411,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Zwey Studenten.",0,22,stage_direction,3,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+412,412,Kasperl/Marinelli_Spaziergang_korr.csv,"singen ihr Liedch¬, bitten um ein Allmosen,|und gehen weiter fort.",23,89,stage_direction,3,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+413,413,Kasperl/Marinelli_Spaziergang_korr.csv,ez: dazu|,90,99,stage_direction,3,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+414,414,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       daß keine bekannte Seele in ganzen Brader|wäre.",0,55,character_speech,3,9,,"
+       Monsieur Francois
+      ",#monsiur_francois ,160.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+415,415,Kasperl/Marinelli_Spaziergang_korr.csv,sie könnten ruhig beysamen bleiben dazu|,56,96,character_speech,3,9,,"
+       Monsieur Francois
+      ",#monsiur_francois ,160.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+416,416,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Jungf: Baberl.",0,21,stage_direction,3,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+417,417,Kasperl/Marinelli_Spaziergang_korr.csv,Hanswurst und Caspar,22,42,stage_direction,3,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+418,418,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Complimentiren sie.",0,26,stage_direction,3,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+419,419,Kasperl/Marinelli_Spaziergang_korr.csv,Müssen sich|zu ihnen setzen.,27,55,stage_direction,3,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+420,420,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       nimmt sich gleich esßen, und trincken weg|und sezt sich vorn an die Bühne.",0,82,character_speech,3,10,,"
+       Caspar.
+      ",#caspar,161.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+421,421,Kasperl/Marinelli_Spaziergang_korr.csv,übrige sind lustig,83,101,character_speech,3,10,,"
+       Caspar.
+      ",#caspar,161.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+422,422,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       dazu|",0,13,stage_direction,3,10,speech_part,,#caspar,161.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+423,423,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Lieserl als leyrer Mädchen.",0,34,stage_direction,3,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+424,424,Kasperl/Marinelli_Spaziergang_korr.csv,singt ihr Liedchen.,35,54,stage_direction,3,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+425,425,Kasperl/Marinelli_Spaziergang_korr.csv,bekomt Geld zuschencke¬ dazu,55,83,stage_direction,3,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+426,426,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Chaterl, Gutscher.",0,25,stage_direction,3,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+427,427,Kasperl/Marinelli_Spaziergang_korr.csv,Lauffer.,26,34,stage_direction,3,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+428,428,Kasperl/Marinelli_Spaziergang_korr.csv,Statisten.,35,45,stage_direction,3,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+429,429,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Hier wären Leuthe.",0,25,stage_direction,3,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+430,430,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Chaterl sobald|sie dem Hw: sieht, sagt sie zu ihren Führern.",0,67,stage_direction,3,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+431,431,Kasperl/Marinelli_Spaziergang_korr.csv,Sie sollten keine Händel|,68,93,stage_direction,3,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+432,432,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Er wisße ja, daß die Wacht hier wäre.|sagt, daß Mädl soll aufleyern.",0,76,character_speech,3,12,,"
+       Kutscher.
+      ",#kutscher,162.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+433,433,Kasperl/Marinelli_Spaziergang_korr.csv,Er wolle mit seiner|Chaterl einen {...}net tanzen.,77,127,character_speech,3,12,,"
+       Kutscher.
+      ",#kutscher,162.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+434,434,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Liserl.",0,14,stage_direction,3,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+435,435,Kasperl/Marinelli_Spaziergang_korr.csv,"leyert den Menuet.|Kutscher, und Köchin tanzen nach den Charakter ez.",15,84,stage_direction,3,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+436,436,Kasperl/Marinelli_Spaziergang_korr.csv,Nach diesen tanzt|Casp: mit einer nach belieben.,85,133,stage_direction,3,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+437,437,Kasperl/Marinelli_Spaziergang_korr.csv,zu der grösten Lustbarkeit dazu|*und Tandler*|,134,180,stage_direction,3,12,pre_speech,,,,,joy,positive,emotions of pleasure,comedy,KK
+438,438,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Erfreut, die Gesellschaft in so guter Hormonie|anzutreffen.",0,67,character_speech,3,13,,"
+       Herr v Siemande.
+      ",#herr_v_siemande,163.0,UNKNOWN,joy,positive,emotions of pleasure,comedy,KK
+439,439,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      [Alle] Freulein, Liebhaber, junger Hh: und Hofmeister|erschröken.",0,72,stage_direction,3,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK
+440,440,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wollen mit Schmeicheley den alten Herrn|dahin bringen, daß er die Sache nicht übel aufnehmen solle.|",0,108,character_speech,3,13,,"
+       Liebhaber.
+      ",#liebhaber,164.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+441,441,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Im höchsten Grad erzörnt.",0,33,character_speech,3,13,,"
+       Hh. v. Siemande.
+      ",#herr_v_siemande,165.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+442,442,Kasperl/Marinelli_Spaziergang_korr.csv,die beyden Hhrn.,34,50,character_speech,3,13,,"
+       Hh. v. Siemande.
+      ",#herr_v_siemande,165.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+443,443,Kasperl/Marinelli_Spaziergang_korr.csv,"Lumpen|sollen ihm nicht toll machen, oder er laße sie mit der Wache|wegführen.",51,129,character_speech,3,13,,"
+       Hh. v. Siemande.
+      ",#herr_v_siemande,165.0,UNKNOWN,anger,negative,emotions of rejection,comedy,KK
+444,444,Kasperl/Marinelli_Spaziergang_korr.csv,"seine Madln *Töchter*gehörten nicht in diese Gesellschaft,|Junge Mädln wären bald verführt.",130,221,character_speech,3,13,,"
+       Hh. v. Siemande.
+      ",#herr_v_siemande,165.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+445,445,Kasperl/Marinelli_Spaziergang_korr.csv,Er wolle sich mit ihnen nicht|abgeben.,222,260,character_speech,3,13,,"
+       Hh. v. Siemande.
+      ",#herr_v_siemande,165.0,UNKNOWN,abhorrence,negative,emotions of rejection,comedy,KK
+446,446,Kasperl/Marinelli_Spaziergang_korr.csv,"Seine Kinder wolle er ins Kloster sperren laßen,|und an gehörigen Orthe wolle er sich beklagen, daß man|solche dem Staate höchst schädliche Müßigänger, und Leuth-|Ansezer auf einer Festung versorgen solle.",261,466,character_speech,3,13,,"
+       Hh. v. Siemande.
+      ",#herr_v_siemande,165.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+447,447,Kasperl/Marinelli_Spaziergang_korr.csv,"Von der Bürde|des Jungen Herrns, und Hofmeisters wolle er sich heute noch|entledigen.",467,552,character_speech,3,13,,"
+       Hh. v. Siemande.
+      ",#herr_v_siemande,165.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+448,448,Kasperl/Marinelli_Spaziergang_korr.csv,"Es wäre ihm lieb, wann sie heute Nacht sein Hauß|nicht mehr betretten, und in einen Wirthshause übernachte¬|möchten.",553,669,character_speech,3,13,,"
+       Hh. v. Siemande.
+      ",#herr_v_siemande,165.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+449,449,Kasperl/Marinelli_Spaziergang_korr.csv,"dem Vater des Casp: wolle er nach Lintz schreiben,|was für einer guten Obsorge er seinen Sohn anver-|traut.",670,777,character_speech,3,13,,"
+       Hh. v. Siemande.
+      ",#herr_v_siemande,165.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+450,450,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       Geht mit seinen Töchtern ab: Andere lachen|über diese Bedrohung.",0,72,stage_direction,3,13,speech_part,,#herr_v_siemande,165.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+451,451,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sein Vater sehe die Menscher selbst|gern, und würde es seinem Sohn nicht übel nehmen.|",0,94,character_speech,3,13,,"
+       Caspar.
+      ",#caspar,166.0,UNKNOWN,friendship,positive,emotions of affection,comedy,KK
+452,452,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       sie würden deßweg¬ doch nicht zu Grund gehen.",0,53,character_speech,3,13,,"
+       Hanswurst.
+      ",#hanswurst,167.0,UNKNOWN,suffering,negative,emotions of suffering and empathy,comedy,KK
+453,453,Kasperl/Marinelli_Spaziergang_korr.csv,"die Jungfer|Baberl soll bey ihnen bleiben,",54,96,character_speech,3,13,,"
+       Hanswurst.
+      ",#hanswurst,167.0,UNKNOWN,love,positive,emotions of affection,comedy,KK
+454,454,Kasperl/Marinelli_Spaziergang_korr.csv,"
+       wollen im Brader ein|Angedenken unterlasßen, und nachdem sie einander|Freundschaft zugeschworen, befehlen sie den Mädl|auf der Leyer einen steyrischen zu spielen, und unter|dem Tanz erfolgt das|",0,202,character_speech,3,13,,"
+       Alle.
+      ",#caspar #hanswurst #herr_v_siemande #liebhaber,168.0,UNKNOWN,no_annotation,no_annotation,no_annotation,comedy,KK
+455,455,Kasperl/Marinelli_Spaziergang_korr.csv,"
+      Ende",0,11,stage_direction,3,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation,comedy,KK

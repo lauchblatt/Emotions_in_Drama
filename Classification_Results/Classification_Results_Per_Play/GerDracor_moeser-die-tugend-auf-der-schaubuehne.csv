@@ -1,0 +1,952 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Herr Barthold, Harlekin.",0,24,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+1,1,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,macht drey tiefe Verbeugungen.,0,30,stage_direction,1,1,speech_part,,#harlekin,1.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+2,2,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Was will Er, mein guter Freund?",0,31,character_speech,1,1,,BARTHOLD.,#barthold,2.0,MALE,being moved,S,,1763.0,being moved,being moved
+3,3,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,macht wieder einige Verbeugungen.,0,33,stage_direction,1,1,speech_part,,#harlekin,3.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+4,4,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Bücke Er sich so lange bis Er müde wird, und dann kann Er mir sagen was Er zu sagen
+              hat.",0,102,character_speech,1,1,,BARTHOLD.,#barthold,4.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+5,5,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die jungen Leute gewöhnen sich das itzt so an, daß sie einem die Zeit mit tausend
+              Komplimenten verderben.",103,222,character_speech,1,1,,BARTHOLD.,#barthold,4.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+6,6,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wenn man in meiner Jugend zu einem Mann im Amte ging: so
+              machte man ihm einen einzigen Bückling, und kam dann zur Sache.",223,357,character_speech,1,1,,BARTHOLD.,#barthold,4.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+7,7,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das war eine gute
+              Mode; dabey sollte man es lassen.",358,423,character_speech,1,1,,BARTHOLD.,#barthold,4.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+8,8,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,in fremden Ton.,0,15,stage_direction,1,1,speech_part,,#harlekin,5.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+9,9,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Hochedelgeborner und Gestrenger – – –,0,37,character_speech,1,1,,HARLEKIN,#harlekin,5.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+10,10,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Damit geht schon wieder eine Minute hin.,0,40,character_speech,1,1,,BARTHOLD.,#barthold,6.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+11,11,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sie erlauben großgünstig – – –,0,30,character_speech,1,1,,HARLEKIN.,#harlekin,7.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+12,12,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wieder eine Minute.,0,19,character_speech,1,1,,BARTHOLD.,#barthold,8.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+13,13,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Daß ich mir die Freyheit nehme – – –,0,36,character_speech,1,1,,HARLEKIN.,#harlekin,9.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+14,14,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Noch ein Wort von solchem Schlage, und ich prügle Dich zum Dinge
+              hinaus.",0,86,character_speech,1,1,,BARTHOLD.,#barthold,10.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+15,15,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,im gewöhnlichen Ton.,0,20,stage_direction,1,1,speech_part,,#harlekin,11.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+16,16,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich komme, Herr Barthold, wegen Ihrer jüngsten Tochter Kolombine; sie gefällt mir – –
+              –",0,101,character_speech,1,1,,HARLEKIN,#harlekin,11.0,MALE,love,S,,1763.0,positive,emotions of affection
+17,17,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Gehorsamster Diener, gehorsamster Diener, mein werthester Herr Harlekin!",0,72,character_speech,1,1,,BARTHOLD.,#barthold,12.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+18,18,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Verzeihen
+              Sie, daß ich Sie sogleich nicht gekannt habe.",73,142,character_speech,1,1,,BARTHOLD.,#barthold,12.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+19,19,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Meine Augen vergehen mir allmählich, und
+              Sie redeten mir in einem solchen Candidatenstil, den ich an Ihnen nicht gewohnt
+              bin.",143,296,character_speech,1,1,,BARTHOLD.,#barthold,12.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+20,20,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich kann heirathen, ich muß heirathen, und ich
+                will heirathen.",0,78,character_speech,1,1,,HARLEKIN.,#harlekin,13.0,MALE,love,S,,1763.0,positive,emotions of affection
+21,21,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, das ist kurz.",0,18,character_speech,1,1,,BARTHOLD.,#barthold,14.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+22,22,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das sind drey Hauptursachen, die nicht von allen Leuten so recht
+              verstanden und empfunden werden.",19,130,character_speech,1,1,,BARTHOLD.,#barthold,14.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+23,23,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Was gedenken Sie denn aber Ihrer künftigen Witwe zum
+              Leibgedinge auszusetzen?",131,222,character_speech,1,1,,BARTHOLD.,#barthold,14.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+24,24,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Erstlich, gedenke ich nicht vor ihr zu sterben.",0,47,character_speech,1,1,,HARLEKIN.,#harlekin,15.0,MALE,love,S,,1763.0,positive,emotions of affection
+25,25,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das ist freylich ein guter Vorsatz; allein die Ausführung kömmt bisweilen gar sehr
+              auf die Frau an: diese hat vielerley Mittel, einen ehrlichen Mann in die Grube zu
+              bringen, ohne Gift und Messer.",0,223,character_speech,1,1,,BARTHOLD.,#barthold,16.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+26,26,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Der meinigen habe ich es, Gott sey Dank, abgesessen.",224,276,character_speech,1,1,,BARTHOLD.,#barthold,16.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+27,27,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Es
+              war ein heller Gast; aber sie wurde so eingetrieben, daß sie sich aus dem sieben und
+              zwanzigsten Kindbette nie wieder erholen konnte.",277,441,character_speech,1,1,,BARTHOLD.,#barthold,16.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+28,28,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie sehen, ich habe mich wohl
+              gehalten.",442,495,character_speech,1,1,,BARTHOLD.,#barthold,16.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+29,29,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Das merke ich.,0,14,character_speech,1,1,,HARLEKIN.,#harlekin,17.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+30,30,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Zweytens, hat sie, so lange ich lebe, ein reichliches Auskommen.",15,79,character_speech,1,1,,HARLEKIN.,#harlekin,17.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+31,31,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Meine
+              Kunst als Harlekin hat einen goldenen Boden, und Kolombinchen hat gewiß auch eine
+              Kunst worauf sie sich verlassen kann.",80,233,character_speech,1,1,,HARLEKIN.,#harlekin,17.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+32,32,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ach, die Künste verlassen einen mit der Zeit, und wenn man alt wird, so ist nichts
+              bequemers als von seinen Renten zu leben.",0,138,character_speech,1,1,,BARTHOLD.,#barthold,18.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+33,33,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Da ist ein Haufen Mühe und Sorge
+              erspart.",139,194,character_speech,1,1,,BARTHOLD.,#barthold,18.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+34,34,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Freylich, und ich denke deswegen ein Capital zurück zu legen, wovon zweytausend
+              Thaler auf den Witwenstuhl kommen sollen, Nota Bene: wenn er keinen Haarbreit verrückt
+              wird.",0,200,character_speech,1,1,,HARLEKIN.,#harlekin,19.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+35,35,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Das ist etwas hart; eine Witwe ist zu beklagen.,0,47,character_speech,1,1,,BARTHOLD.,#barthold,20.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+36,36,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich fühle, mein lieber Harlekin, wie
+              sauer es mir in meinem sieben und siebenzigsten Jahre wird, mich nicht bisweilen auf
+              einen hübschen weichen Witwenstuhl zu setzen.",48,243,character_speech,1,1,,BARTHOLD.,#barthold,20.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+37,37,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich will es aber nun so; und darum gebe ich meiner Witwe einen Stuhl mit vier Beinen,
+              damit er recht fest stehe.",0,126,character_speech,1,1,,HARLEKIN.,#harlekin,21.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+38,38,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Zweytausend Thaler, wenn ich sie habe, sind, zum Henker,
+              Geld.",127,203,character_speech,1,1,,HARLEKIN.,#harlekin,21.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+39,39,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Was Kolombine erspart, soll sie zu ihrem Nadelgelde behalten, und wenn sie vor
+              mir verstirbt, werde ich sie in ihrem besten Hemde begraben lassen.",204,364,character_speech,1,1,,HARLEKIN.,#harlekin,21.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+40,40,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Aber Sie vergessen die Morgengabe.,0,34,character_speech,1,1,,BARTHOLD.,#barthold,22.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+41,41,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Das bin ich selbst: Morgen- und Abendgabe.,0,42,character_speech,1,1,,HARLEKIN.,#harlekin,23.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+42,42,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Bringt mir aber Kolombine einen Sohn, wohl
+              zu verstehen, wenn er mir ähnlich sieht; denn das fordere ich ausdrücklich: so soll er
+              auch Barthold Harlekin heißen.",43,231,character_speech,1,1,,HARLEKIN.,#harlekin,23.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+43,43,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich dachte in der That, Sie wollten ihr sodann ein neues Kleid aufs Kindbette legen.",0,84,character_speech,1,1,,BARTHOLD.,#barthold,24.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+44,44,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Hören Sie, Herr Harlekin, ich habe der Mädchen viele, und ich schaffe sie mir gern vom
+              Halse, weil sie auf ihren spitzen Absätzen leicht einmal unvorsichtiger Weise zu Fall
+              kommen können.",99,314,character_speech,1,1,,BARTHOLD.,#barthold,24.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+45,45,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich will also nicht lange handeln.,315,349,character_speech,1,1,,BARTHOLD.,#barthold,24.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+46,46,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Kolombine ist die Ihrige; und zwar
+              diesen Abend, wenn Sie wollen.",350,429,character_speech,1,1,,BARTHOLD.,#barthold,24.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+47,47,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das bitte ich mir aber aus, daß Sie sie nicht heimlich
+              entführen; ich würde sonst auf Ihrer Hochzeit nicht trinken können.",430,566,character_speech,1,1,,BARTHOLD.,#barthold,24.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+48,48,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,So weit sind wir noch lange nicht.,0,34,character_speech,1,1,,HARLEKIN.,#harlekin,25.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+49,49,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich habe mich nur erst vorläufig erkundigen
+              wollen, ob Sie mir Ihre Tochter wohl geben wollten, wenn ich in forma
+              darum anhielte.",35,192,character_speech,1,1,,HARLEKIN.,#harlekin,25.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+50,50,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Itzt ist noch ein kleiner oder großer Punkt übrig.,193,243,character_speech,1,1,,HARLEKIN.,#harlekin,25.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+51,51,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie wissen, mein
+              werthester Herr Barthold, daß man von den Comödiantinnen mancherley sagt.",244,348,character_speech,1,1,,HARLEKIN.,#harlekin,25.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+52,52,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Kolombinchen
+              hat ein Paar so allerliebste Tauben-Aeugelchen, sie hat so etwas – – – ach, Herr
+              Barthold, ich kann es nicht sagen, aber was sie hat, das sagt so viel – – – so viel –
+              – –",349,574,character_speech,1,1,,HARLEKIN.,#harlekin,25.0,MALE,being moved,S,,1763.0,being moved,being moved
+53,53,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, wie viel denn?",0,19,character_speech,1,1,,BARTHOLD.,#barthold,26.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+54,54,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wenn eine Nuß leicht aus der Hülse fällt, ist sie denn auch wohl schon vom Wurme
+              gestochen?",0,105,character_speech,1,1,,HARLEKIN.,#harlekin,27.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+55,55,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ist das wohl eine Frage für einen klugen Mann?,0,46,character_speech,1,1,,BARTHOLD.,#barthold,28.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+56,56,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die Wurmstichigen sitzen allemal fest
+              in der Hülse.",47,112,character_speech,1,1,,BARTHOLD.,#barthold,28.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+57,57,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ach, Herr Barthold, sollte sie es nicht schon wohl versuchet haben?",0,67,character_speech,1,1,,HARLEKIN.,#harlekin,29.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+58,58,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie mag versucht haben was sie will, so hat sie allzeit nur ihre Rolle gespielt.",0,80,character_speech,1,1,,BARTHOLD.,#barthold,30.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+59,59,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ein
+              Mädchen auf der Bühne muß of verliebt thun, oft küssen, oft lachen, und was
+              dergleichen mehr ist.",81,210,character_speech,1,1,,BARTHOLD.,#barthold,30.0,MALE,love,S,,1763.0,positive,emotions of affection
+60,60,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Das bringt aber die Comödie so mit sich.,211,251,character_speech,1,1,,BARTHOLD.,#barthold,30.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+61,61,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wenn Kolombine die
+              verschmitzte Buhlerinn vorstellt, so würde es sich ja nicht schicken, daß sie die Mine
+              einer Matrone behielte.",252,409,character_speech,1,1,,BARTHOLD.,#barthold,30.0,MALE,Schadenfreude,S,,1763.0,positive,emotions of pleasure
+62,62,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wie oft hat sie nicht auch geweint!,410,445,character_speech,1,1,,BARTHOLD.,#barthold,30.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+63,63,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Meynen Sie aber, daß sie
+              um deswillen, wenn sie zu Hause gekommen, immer betrübt gewesen?",446,549,character_speech,1,1,,BARTHOLD.,#barthold,30.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+64,64,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich habe allzeit gehört, die Unschuld soll so etwas Süßes, so etwas Körnichtes, so
+              etwas von der braunen Kruste seyn, daß ich nicht gern eine Frau nehmen mögte, welche
+              diesen Leckerbissen bereits verschenket hätte.",0,242,character_speech,1,1,,HARLEKIN.,#harlekin,31.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+65,65,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O mein lieber Harlekin, sind Sie da verbrannt: so rathe ich Ihnen gar keine Frau – –
+              – anders als meine Kolombine zu nehmen.",0,138,character_speech,1,1,,BARTHOLD.,#barthold,32.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+66,66,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber sehen Sie einmal Selbst, Herr Barthold, alle diese schönen Herren, welche hier
+              vor unsrer Bühne sitzen.",0,122,character_speech,1,1,,HARLEKIN.,#harlekin,33.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+67,67,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ihre Augen scheinen mei nem lieben Kolombinchen das Mark aus
+              den Knochen zu ziehen; und wenn sie tanzt; ach, wenn sie tanzt: so – – – so – – –
+              tanzen alle Herzen mit ihr.",123,321,character_speech,1,1,,HARLEKIN.,#harlekin,33.0,MALE,love,S,,1763.0,positive,emotions of affection
+68,68,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sollten sie das wohl thun?,0,26,character_speech,1,1,,BARTHOLD.,#barthold,34.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+69,69,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wenn sie es nicht thäten, so mögte ich Kolombinchen nicht; und nun,
+                da sie es thun, so traue ich Kolombinchen nicht recht.",0,138,character_speech,1,1,,HARLEKIN.,#harlekin,35.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+70,70,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Denen Mädchen,
+              die so hoch springen wenn sie tanzen, kann leicht ein Blümchen entfallen; und wenn das
+              auch nicht wäre: so rühmt sich doch ein jeder, vielleicht selten mit Recht, daß er
+              eines aufgenommen habe.",139,389,character_speech,1,1,,HARLEKIN.,#harlekin,35.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+71,71,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Herr Barthold, Herr Barthold!",390,419,character_speech,1,1,,HARLEKIN.,#harlekin,35.0,MALE,being moved,S,,1763.0,being moved,being moved
+72,72,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"eine hübsche Comödiantinn ist
+              wohl selten, selten, selten eine Kirsche woran nicht schon ein Vogel gebissen hat.",420,546,character_speech,1,1,,HARLEKIN.,#harlekin,35.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+73,73,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Possen!,0,7,character_speech,1,1,,BARTHOLD.,#barthold,36.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+74,74,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"es ist kein hübsches Mädchen in der Welt, wovon man nicht eben
+              diese Vermuthung hat.",8,106,character_speech,1,1,,BARTHOLD.,#barthold,36.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+75,75,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nicht, weil sie geschwinder Feuer fängt, als eine andere,
+              sondern weil sie Tag und Nacht verfolgt und also leicht einmal im Schlummer
+              überrumpelt wird.",107,286,character_speech,1,1,,BARTHOLD.,#barthold,36.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+76,76,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wer sich aber daran stößt, der mag zu seiner Strafe eine Häßliche
+              nehmen, und versichert seyn daß sie vor dem ersten Loche gefangen werde.",287,439,character_speech,1,1,,BARTHOLD.,#barthold,36.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+77,77,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie wird die
+              Ehre, das Glück und das Vergnügen, in ihrem sterblichen Leben auch einmal
+              angebetet zu werden, so verliebt erkennen; sie wird so besorgt seyn den Vogel nicht zu
+              verscheuchen; sie wird so bange seyn, die einzige Gelegenheit zu verlieren; sie wird
+              so fertig seyn, ihre vergängliche Waare an den Mann zu bringen, daß ich nicht Eines
+              auf sie, aber wohl hundert auf ein hübsches Mädchen verwetten wollte, das die Wahl
+              unter tausend Käufern hat.",440,976,character_speech,1,1,,BARTHOLD.,#barthold,36.0,MALE,love,S,,1763.0,positive,emotions of affection
+78,78,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Und dann, mein lieber Harlekin, ist es eine bestialische
+              Sache, eine garstige Hexe und doch keine braune Kruste zu bekommen.",977,1115,character_speech,1,1,,BARTHOLD.,#barthold,36.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+79,79,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Für
+              Kolombinen will ich allenfalls Bürge seyn.",1116,1176,character_speech,1,1,,BARTHOLD.,#barthold,36.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+80,80,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die Bürgschaft ist in der That etwas bedenklich.,0,48,character_speech,1,1,,HARLEKIN.,#harlekin,37.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+81,81,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich hätte für meine Mutter nicht
+              einstehen mögen.",49,112,character_speech,1,1,,HARLEKIN.,#harlekin,37.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+82,82,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich mag die Grillen nicht länger anhören.,0,41,character_speech,1,1,,BARTHOLD.,#barthold,38.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+83,83,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Kurz und gut, Sie nehmen sie, oder nehmen
+              sie nicht; einige Gefahr werden Sie allemal laufen.",42,149,character_speech,1,1,,BARTHOLD.,#barthold,38.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+84,84,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"– Doch, warten Sie, wir wollen
+              heute einmal den Freyer vorstellen.",150,230,character_speech,1,1,,BARTHOLD.,#barthold,38.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+85,85,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie sollen der Bräutigam, und meine Tochter
+              Kolombine Ihre Braut seyn.",231,315,character_speech,1,1,,BARTHOLD.,#barthold,38.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+86,86,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie können sie dabey auf die Probe stellen; und wenn es
+              Ihnen dann nicht gefällt, so sind Sie am Ende wieder frey, und Sie haben nur eine
+              verliebte Rolle gespielet.",316,508,character_speech,1,1,,BARTHOLD.,#barthold,38.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+87,87,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Der Einfall ist wirklich gut.,0,29,character_speech,1,1,,HARLEKIN.,#harlekin,39.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+88,88,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ein jeder Freyer spielt doch nur eine Rolle; und wenn
+              am Schlusse des Stücks die Heirath vollzogen wird, so hat die Rolle nur gar zu früh
+              ein Ende.",30,205,character_speech,1,1,,HARLEKIN.,#harlekin,39.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+89,89,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Holla!,0,6,character_speech,1,1,,BARTHOLD.,#barthold,40.0,MALE,being moved,S,,1763.0,being moved,being moved
+90,90,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Kolombine!,7,17,character_speech,1,1,,BARTHOLD.,#barthold,40.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+91,91,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die Vorigen, und Kolombine.",0,27,stage_direction,1,2,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+92,92,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Kolombine, Du sollst heute einmal die Braut seyn.",0,49,character_speech,1,2,,BARTHOLD.,#barthold,41.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+93,93,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ach, Papa, das bin ich gerne.",0,29,character_speech,1,2,,KOLOMBINE.,#kolombine,42.0,FEMALE,joy,S,,1763.0,positive,emotions of pleasure
+94,94,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich spiele nichts lieber als Braut und Bräutigam.,30,79,character_speech,1,2,,KOLOMBINE.,#kolombine,42.0,FEMALE,joy,S,,1763.0,positive,emotions of pleasure
+95,95,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,vor sich.,0,9,stage_direction,1,2,speech_part,,#harlekin,43.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+96,96,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O Du – – – Sie wissen aber doch, meine schöne Kolombine, daß die Freyerey mit der
+              Comödie ein Ende hat.",0,117,character_speech,1,2,,HARLEKIN,#harlekin,43.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+97,97,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, so können wir ja dasselbige Stück noch einmal spielen.",0,59,character_speech,1,2,,KOLOMBINE.,#kolombine,44.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+98,98,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich wollte, daß wir gar
+              kein anderes auf unsrer Bühne hätten; und fast mögte ich das Heirathen verreden, um
+              allzeit Braut zu bleiben.",60,221,character_speech,1,2,,KOLOMBINE.,#kolombine,44.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+99,99,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ach, es ist so allerliebst Braut zu seyn.",222,263,character_speech,1,2,,KOLOMBINE.,#kolombine,44.0,FEMALE,joy,S,,1763.0,positive,emotions of pleasure
+100,100,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Man kann heirathen, und doch noch immer die Braut spielen.",0,58,character_speech,1,2,,BARTHOLD.,#barthold,45.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+101,101,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Eine gute Partey kann man
+              immer auf Abschlag nehmen; und die jungen Mädchen thun übel, wenn sie die Hand eines
+              ehrlichen Mannes ausschlagen, um allzeit flattirt, adorirt, courtisirt, caressirt, und
+              endlich meprisirt zu werden.",59,327,character_speech,1,2,,BARTHOLD.,#barthold,45.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+102,102,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Bist Du denn, meine Tochter, sonst noch nie die Braut als
+              auf der Schaubühne gewesen?",328,427,character_speech,1,2,,BARTHOLD.,#barthold,45.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+103,103,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nein, Papa.",0,11,character_speech,1,2,,KOLOMBINE.,#kolombine,46.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+104,104,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Hören Sie wohl, Herr Harlekin?",0,30,character_speech,1,2,,BARTHOLD.,#barthold,47.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+105,105,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich höre und sehe, Herr Barthold.",0,33,character_speech,1,2,,HARLEKIN.,#harlekin,48.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+106,106,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wo ist Scapin und Peter?,0,24,character_speech,1,2,,BARTHOLD.,#barthold,49.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+107,107,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie sollen auch herkommen, und den Freyer mitspielen.",25,78,character_speech,1,2,,BARTHOLD.,#barthold,49.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+108,108,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Isabelle welche schon oft die Braut vorgestellt, und erfahrner ist als Du, Kolombine,
+              soll Dir die rechte Manier zeigen.",93,227,character_speech,1,2,,BARTHOLD.,#barthold,49.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+109,109,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O, Papa, ich will schon fertig werden, ich verstehe es schon.",0,61,character_speech,1,2,,KOLOMBINE.,#kolombine,50.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+110,110,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, so macht Ihr Beyde den Anfang.",0,35,character_speech,1,2,,BARTHOLD.,#barthold,51.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+111,111,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich will herumgehen, und den Uebrigen ihre Rollen
+              ankündigen.",36,111,character_speech,1,2,,BARTHOLD.,#barthold,51.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+112,112,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Harlekin und Kolombine.,0,23,stage_direction,1,3,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+113,113,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, Sie fangen an.",0,19,character_speech,1,3,,KOLOMBINE.,#kolombine,52.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+114,114,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nein, fangen Sie an.",0,20,character_speech,1,3,,HARLEKIN.,#harlekin,53.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+115,115,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ach, nein!",0,10,character_speech,1,3,,KOLOMBINE.,#kolombine,54.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+116,116,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,so habe ich es nicht gelernt.,11,40,character_speech,1,3,,KOLOMBINE.,#kolombine,54.0,FEMALE,anger,S,,1763.0,negative,emotions of rejection
+117,117,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Der Bräutigam fängt zuerst an, und sagt:
+              Ach, meine theuerste Schöne, wie lange habe ich mir nicht schon das Glück gewünscht,
+              Ihnen mein Herz zu eröffnen.",41,223,character_speech,1,3,,KOLOMBINE.,#kolombine,54.0,FEMALE,love,S,,1763.0,positive,emotions of affection
+118,118,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Und was sagt denn die Braut?,0,28,character_speech,1,3,,HARLEKIN.,#harlekin,55.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+119,119,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sie antwortet: O!,0,17,character_speech,1,3,,KOLOMBINE.,#kolombine,56.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+120,120,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie schmeicheln mir zu viel; ich weiß, es ist nur Ihr höflicher
+              Scherz.",18,103,character_speech,1,3,,KOLOMBINE.,#kolombine,56.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+121,121,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Und was antwortet denn Er wieder?,0,33,character_speech,1,3,,HARLEKIN.,#harlekin,57.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+122,122,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er nimmt dann ihre Hand, küßt solche, und sagt: Ach, mögten Sie in dieses Herz sehen;
+              da wurden Sie lesen, daß mein aufrichtiger Wunsch niemals ein anderer gewesen, als das
+              Glück Ihnen zu gefallen, und diese schöne Hand zu küssen.",0,258,character_speech,1,3,,KOLOMBINE.,#kolombine,58.0,FEMALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+123,123,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Und läßt sie das so geschehen?,0,30,character_speech,1,3,,HARLEKIN.,#harlekin,59.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+124,124,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O ja, sie läßt ihm die Hand, und er küßt sie noch hundertmal; und seufzet dann, bis
+              endlich die Braut solche nicht mehr zurückziehen kann, und mit ihrer ganzen Person
+              folget.",0,202,character_speech,1,3,,KOLOMBINE.,#kolombine,60.0,FEMALE,love,S,,1763.0,positive,emotions of affection
+125,125,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die Rolle mag ich nicht spielen.,0,32,character_speech,1,3,,HARLEKIN.,#harlekin,61.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+126,126,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Auf welche Art wollen Sie dann?,0,31,character_speech,1,3,,KOLOMBINE.,#kolombine,62.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+127,127,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich sage: Kolombine, mein englisches Magentröpfchen, wenn Sie will,
+                ich will wohl.",0,98,character_speech,1,3,,HARLEKIN.,#harlekin,63.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+128,128,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Und was muß sie denn sagen?,0,27,character_speech,1,3,,KOLOMBINE.,#kolombine,64.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+129,129,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie spricht: Nun, ich will – – –",0,32,character_speech,1,3,,HARLEKIN.,#harlekin,65.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+130,130,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Nun ich will – – –,0,18,character_speech,1,3,,KOLOMBINE.,#kolombine,66.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+131,131,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Fallen Sie mir doch nicht in die Rede.,0,38,character_speech,1,3,,HARLEKIN.,#harlekin,67.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+132,132,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie muß sagen: Nun, ich will nicht.",39,74,character_speech,1,3,,HARLEKIN.,#harlekin,67.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+133,133,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die Rolle mag ich nicht spielen.,0,32,character_speech,1,3,,KOLOMBINE.,#kolombine,68.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+134,134,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die Vorigen, und Barthold.",0,26,stage_direction,1,4,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+135,135,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun meine Kinder, habt Ihr angefangen?",0,38,character_speech,1,4,,BARTHOLD.,#barthold,69.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+136,136,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nein, Papa!",0,11,character_speech,1,4,,KOLOMBINE.,#kolombine,70.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+137,137,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"In der Sache sind wir eins; wir können uns nur über die Rolle nicht
+              vergleichen.",12,106,character_speech,1,4,,KOLOMBINE.,#kolombine,70.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+138,138,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Herr Harlekin will es besser wissen als ich, und mich dünkt, in diesem
+              Stück könnte ich lange sein Meister seyn.",107,233,character_speech,1,4,,KOLOMBINE.,#kolombine,70.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+139,139,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich bin von Jugend auf bey dem Schauspiele
+              erzogen; bin so mannichmal Braut gewesen, und muß es vermuthlich besser wissen als
+              er.",234,391,character_speech,1,4,,KOLOMBINE.,#kolombine,70.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+140,140,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, Harlekin, so sollten Sie sich auch weisen lassen.",0,54,character_speech,1,4,,BARTHOLD.,#barthold,71.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+141,141,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Kolombine führet sie gewiß
+              keinen unbekannten Weg.",55,119,character_speech,1,4,,BARTHOLD.,#barthold,71.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+142,142,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O nein!,0,7,character_speech,1,4,,KOLOMBINE.,#kolombine,72.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+143,143,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich dachte es eben so zu machen wie die selige Mama.,8,60,character_speech,1,4,,KOLOMBINE.,#kolombine,72.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+144,144,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wie ich meine selige Frau heirathete, folgte ich ihr blindlings, und unsre Ehe würde
+              nicht so gesegnet gewesen seyn, wenn ich minder folgsam gewesen wäre.",0,168,character_speech,1,4,,BARTHOLD.,#barthold,73.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+145,145,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie war allzeit
+              fertig mich zu unterweisen, und ihr Exempel that bisweilen die besten Dienste.",169,277,character_speech,1,4,,BARTHOLD.,#barthold,73.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+146,146,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Oft war
+              mir ihr Unterricht sehr ungelegen; aber das war, der Himmel weiß, ihre Schuld
+              nicht.",278,398,character_speech,1,4,,BARTHOLD.,#barthold,73.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+147,147,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das Schlimsste sind meine Scrupel; und ich begreife noch nicht, Herr Barthold, wie
+              solche durch unsre Comödie werden gehoben weiden.",0,146,character_speech,1,4,,HARLEKIN.,#harlekin,74.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+148,148,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Stellt Kolombine die Braut gut vor,
+              so werde ich denken: sie versteht ihre Rolle; und stellt sie solche nicht gut vor, so
+              werde ich denken, sie versteht 
+              noch eine Rolle.",147,359,character_speech,1,4,,HARLEKIN.,#harlekin,74.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+149,149,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Und der Himmel weiß, ob sie nicht noch eine dritte
+              versteht.",360,434,character_speech,1,4,,HARLEKIN.,#harlekin,74.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+150,150,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Es ist doch schlimm, daß man das Ding nicht auf die Goldwage bringen
+              kann.",435,523,character_speech,1,4,,HARLEKIN.,#harlekin,74.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+151,151,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die beste Goldwage ist ein gutes Vertrauen; wer das nicht hat, der ist schon ziemlich
+              betrogen; und wer es hat, der ißt seinen Salat, schluckt eine Schnecke mit hinunter,
+              und findet ihn noch schmackhafter.",0,233,character_speech,1,4,,BARTHOLD.,#barthold,75.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+152,152,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich mögte darauf Ihr Gast nicht seyn.,0,37,character_speech,1,4,,HARLEKIN.,#harlekin,76.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+153,153,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wer heirathen will, muß nicht Blinde-Kuh
+              spielen, sondern wohl zusehen was er greift.",38,137,character_speech,1,4,,HARLEKIN.,#harlekin,76.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+154,154,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Oho!,0,4,character_speech,1,4,,KOLOMBINE.,#kolombine,77.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+155,155,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Herr Harlekin!,5,19,character_speech,1,4,,KOLOMBINE.,#kolombine,77.0,FEMALE,anger,S,,1763.0,negative,emotions of rejection
+156,156,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,itzt verstehe ich das Ding mit der Goldwage.,20,64,character_speech,1,4,,KOLOMBINE.,#kolombine,77.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+157,157,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Auf ein Paar Aeßchen
+              können Sie gewiß rechnen, die ich schon verloren habe.",65,154,character_speech,1,4,,KOLOMBINE.,#kolombine,77.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+158,158,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Denn der Schneider hat mir gar
+              kein Eisen in meine neue Schnürbrust gemacht.",155,245,character_speech,1,4,,KOLOMBINE.,#kolombine,77.0,FEMALE,love,S,,1763.0,positive,emotions of affection
+159,159,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Indeß, da die Comödie aus ist, habe ich
+              die Ehre mich Ihren Scrupeln zu empfehlen.",246,342,character_speech,1,4,,KOLOMBINE.,#kolombine,77.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+160,160,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich meyne es auch so.,0,21,character_speech,1,4,,BARTHOLD.,#barthold,78.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+161,161,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Beschlafen Sie die Sache!,22,47,character_speech,1,4,,BARTHOLD.,#barthold,78.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+162,162,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ein guter Traum ist im Heirathen oft
+              die beste Entscheidung.",48,122,character_speech,1,4,,BARTHOLD.,#barthold,78.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+163,163,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sie gehn Beyde ab.,0,18,stage_direction,1,4,speech_part,,#barthold,78.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+164,164,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Harlekin.,0,9,stage_direction,1,5,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+165,165,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Scapin und Peter.,10,27,stage_direction,1,5,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+166,166,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,vor sich.,0,9,stage_direction,1,5,speech_part,,#harlekin,79.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+167,167,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O weh!,0,6,character_speech,1,5,,HARLEKIN,#harlekin,79.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+168,168,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,der erste Versuch ist nicht zum Besten abgelaufen.,7,57,character_speech,1,5,,HARLEKIN,#harlekin,79.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+169,169,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Itzt mögt' ich
+              wohl, nun will sie nicht.",58,112,character_speech,1,5,,HARLEKIN,#harlekin,79.0,MALE,love,S,,1763.0,positive,emotions of affection
+170,170,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wird denn heute nicht gespielt?,0,31,character_speech,1,5,,SCAPIN.,#scapin,80.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+171,171,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Herr Barthold hat mich herbestellt, um den Freyer mit
+              vorzustellen.",32,113,character_speech,1,5,,SCAPIN.,#scapin,80.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+172,172,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich sehe aber keine Anstalten.,114,144,character_speech,1,5,,SCAPIN.,#scapin,80.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+173,173,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich sollte auch einen vorstellen – – –,0,38,character_speech,1,5,,PETER.,#peter,81.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+174,174,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ha, mein guter Peter, magst Du es denn gern thun?",0,49,character_speech,1,5,,HARLEKIN.,#harlekin,82.0,MALE,Schadenfreude,S,,1763.0,positive,emotions of pleasure
+175,175,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O ja.,0,5,character_speech,1,5,,PETER.,#peter,83.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+176,176,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich muß sonst immer nur die Lichter putzen; wenn aber der Freyer gespielet
+              wird, so – – so küsse ich, wollt' ich sagen, Cathrinchen.",6,152,character_speech,1,5,,PETER.,#peter,83.0,MALE,love,S,,1763.0,positive,emotions of affection
+177,177,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Und Du, Scapin?",0,15,character_speech,1,5,,HARLEKIN.,#harlekin,84.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+178,178,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Meine Rolle in diesem Stück ist immer nur ein Puckel voll Schläge, und ich könnte
+              eben nicht sagen, daß ich solche jetzt nöthig hätte.",0,148,character_speech,1,5,,SCAPIN.,#scapin,85.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+179,179,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Hör' einmal, mein lieber Scapin!",0,32,character_speech,1,5,,HARLEKIN.,#harlekin,86.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+180,180,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich weiß, Du bist schlauer als mancher Dieb, der
+              gehangen wird; ich muß Dir eins im Vertrauen sagen.",33,147,character_speech,1,5,,HARLEKIN.,#harlekin,86.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+181,181,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich hoffe doch nichts von Cathrinchen?,0,38,character_speech,1,5,,PETER.,#peter,87.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+182,182,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich wäre wohl gesonnen, des Herrn Bartholds' jüngste Tochter Kolombinchen in allen
+              Ehren zu heirathen – –",0,119,character_speech,1,5,,HARLEKIN.,#harlekin,88.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+183,183,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Giebt es denn auch Heirathen in Unehren?,0,40,character_speech,1,5,,PETER.,#peter,89.0,MALE,being moved,S,,1763.0,being moved,being moved
+184,184,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Allein, ich besorge, sie mögte schon – –",0,40,character_speech,1,5,,HARLEKIN.,#harlekin,90.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+185,185,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Was mögte sie schon?,0,20,character_speech,1,5,,PETER.,#peter,91.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+186,186,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Schweig, Peter, ich verstehe schon was Harlekin meynt.",0,54,character_speech,1,5,,SCAPIN.,#scapin,92.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+187,187,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er besorgt, sie mögte schon
+              einmal in Unehren geheirathet haben.",55,133,character_speech,1,5,,SCAPIN.,#scapin,92.0,MALE,fear,S,,1763.0,negative,emotions of anxiety
+188,188,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Nun verstehe ich es auch – – –,0,30,character_speech,1,5,,PETER.,#peter,93.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+189,189,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Was meynst Du nun?,0,18,character_speech,1,5,,HARLEKIN.,#harlekin,94.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+190,190,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wie fange ich es an, um hinter die Wahrheit zu kommen?",19,73,character_speech,1,5,,HARLEKIN.,#harlekin,94.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+191,191,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Du mußt sie vorher probiren.,0,28,character_speech,1,5,,SCAPIN.,#scapin,95.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+192,192,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Bey meiner Treu, das ist vernünftig.",0,36,character_speech,1,5,,PETER.,#peter,96.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+193,193,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Allein, wie mache ich das?",0,26,character_speech,1,5,,HARLEKIN.,#harlekin,97.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+194,194,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O, das will ich wohl thun, wenn Sie es nicht verstehen.",0,55,character_speech,1,5,,PETER.,#peter,98.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+195,195,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich weiß was zu thun ist.,0,25,character_speech,1,5,,SCAPIN.,#scapin,99.0,MALE,fear,S,,1763.0,negative,emotions of anxiety
+196,196,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wolltest Du wohl, Harlekin, ihr zu gefallen, eine Tracht
+              Schläge vorlieb nehmen?",26,120,character_speech,1,5,,SCAPIN.,#scapin,99.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+197,197,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die Schläge wohl; aber den Schimpf nicht.,0,41,character_speech,1,5,,HARLEKIN.,#harlekin,100.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+198,198,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Nun da ist Rath zu.,0,19,character_speech,1,5,,SCAPIN.,#scapin,101.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+199,199,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Höre, ich will Dir das Kleid meines Herrn verschaffen.",20,74,character_speech,1,5,,SCAPIN.,#scapin,101.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+200,200,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Du weißt,
+              er ist Hauptmann, und eine Uniform hat heut zu Tage viele Freyheiten; damit sollst Du
+              diesen Abend zu ihr gehen.",75,225,character_speech,1,5,,SCAPIN.,#scapin,101.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+201,201,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Läßt sie Dich nun zum Hause hinaus prügeln, so kannst Du
+              glauben, daß sie die Krone von allen ehrlichen Mädchen ist.",226,356,character_speech,1,5,,SCAPIN.,#scapin,101.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+202,202,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nimmt sie Dich aber an,
+              küßt und umarmt Dich, so nimmst Du das auf dem Marsche vorlieb, und weißt wie viel die
+              Glocke geschlagen.",357,514,character_speech,1,5,,SCAPIN.,#scapin,101.0,MALE,love,S,,1763.0,positive,emotions of affection
+203,203,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O mein lieber Scapin, das ist unvergleichlich.",0,46,character_speech,1,5,,HARLEKIN.,#harlekin,102.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+204,204,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich danke Dir tausendmal für Deinen
+              guten Rath.",47,108,character_speech,1,5,,HARLEKIN.,#harlekin,102.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+205,205,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Mache mich nur geschwind zum Hauptmann.,109,148,character_speech,1,5,,HARLEKIN.,#harlekin,102.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+206,206,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich brenne vor Verlangen, jene
+              glückliche Tracht Schläge zu empfangen.",149,233,character_speech,1,5,,HARLEKIN.,#harlekin,102.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+207,207,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich wahrhaftig nicht.,0,21,character_speech,1,5,,PETER.,#peter,103.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+208,208,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,In meiner Heimat probirt man die Mädchen ganz anders.,22,75,character_speech,1,5,,PETER.,#peter,103.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+209,209,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,In meiner auch.,0,15,character_speech,1,5,,SCAPIN.,#scapin,104.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+210,210,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber man bekommt zuweilen etwas, was einem noch weit unangenehmer
+              ist, als eine Tracht Schläge.",16,125,character_speech,1,5,,SCAPIN.,#scapin,104.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+211,211,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nicht wahr, Harlekin?",126,147,character_speech,1,5,,SCAPIN.,#scapin,104.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+212,212,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O Scapin, Du bist der klügste Schelm, den ich in meinem Leben gekannt habe.",0,75,character_speech,1,5,,HARLEKIN.,#harlekin,105.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+213,213,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Mache nur
+              geschwind, daß ich das Kleid von Deinem Herrn bekomme.",76,154,character_speech,1,5,,HARLEKIN.,#harlekin,105.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+214,214,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich hoffe doch nicht, daß er es
+              übel nehmen wird, wenn der Schimpf hiernächst darauf sitzen bleibt?",155,268,character_speech,1,5,,HARLEKIN.,#harlekin,105.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+215,215,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O im geringsten nicht.,0,22,character_speech,1,5,,SCAPIN.,#scapin,106.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+216,216,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Eben das Kleid, was ich Dir verschaffen will, hat schon
+              mehrmal herhalten müssen.",23,118,character_speech,1,5,,SCAPIN.,#scapin,106.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+217,217,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich will hingehen um es Dir zu bringen.,119,158,character_speech,1,5,,SCAPIN.,#scapin,106.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+218,218,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Du mußt mir aber
+              auch einmal wieder zu gefallen seyn, wenn Du nun ein Ehemann seyn wirst.",159,262,character_speech,1,5,,SCAPIN.,#scapin,106.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+219,219,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Scapin geht ab.,0,15,stage_direction,1,5,speech_part,,#scapin,106.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+220,220,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Harlekin und Peter.,0,19,stage_direction,1,6,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+221,221,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Du sagtest ja erst, Peter, man hätte in Deiner Heimath eine andere Probe, um zu
+              erfahren, ob die Braut noch ächt sey.",0,131,character_speech,1,6,,HARLEKIN.,#harlekin,107.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+222,222,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O ja, das haben wir auch.",0,25,character_speech,1,6,,PETER.,#peter,108.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+223,223,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wie macht Ihr denn das?,0,23,character_speech,1,6,,HARLEKIN.,#harlekin,109.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+224,224,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Da kommen wir her und suchen uns eine aus, die uns gefällt.",0,59,character_speech,1,6,,PETER.,#peter,110.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+225,225,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Das kann ich wohl denken.,0,25,character_speech,1,6,,HARLEKIN.,#harlekin,111.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+226,226,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Dann nehme ich mein Spinnrad, und gehe des Abends zu ihr ins Haus, setze mich neben
+              ihr hin, und wir spinnen denn alle Beyde.",0,139,character_speech,1,6,,PETER.,#peter,112.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+227,227,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, spinnt Ihr denn immer fort?",0,32,character_speech,1,6,,HARLEKIN.,#harlekin,113.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+228,228,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Von ungefähr geht dann einmal die Lampe aus.,0,44,character_speech,1,6,,PETER.,#peter,114.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+229,229,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Das kommt der Sache näher – – –,0,31,character_speech,1,6,,HARLEKIN.,#harlekin,115.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+230,230,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Spinnt die Braut nun im Finstern fort, ohne den Faden zu verlieren, so ist das ein
+              gutes Zeichen.",0,111,character_speech,1,6,,PETER.,#peter,116.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+231,231,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Das ist wirklich so dumm nicht – –,0,34,character_speech,1,6,,HARLEKIN.,#harlekin,117.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+232,232,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Steht aber das Rad stille, bricht der Faden und die Schnur schlägt wohl gar ab: so
+              hohle es der Henker!",0,117,character_speech,1,6,,PETER.,#peter,118.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+233,233,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wahrhaftig, die Leute sind klug; und wer hat euch das so gelehret?",0,66,character_speech,1,6,,HARLEKIN.,#harlekin,119.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+234,234,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich glaube, es muß so von Vater auf Sohn gekommen seyn.",0,55,character_speech,1,6,,PETER.,#peter,120.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+235,235,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Denn wie unser Pastor einmal
+              das Zusammenspinnen abschaffen wollte, so sagten die Aeltesten im Dorfe: ihre Väter
+              hätten es gethan, ihre Großväter hätten es gethan, und ihre Kinder sollten es auch
+              thun.",56,299,character_speech,1,6,,PETER.,#peter,120.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+236,236,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,In dem Dorfe mögte ich wohnen!,0,30,character_speech,1,6,,HARLEKIN.,#harlekin,121.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+237,237,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Scapin mit einem Kleide unterm Arme, und die Vorigen.",0,53,stage_direction,1,7,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+238,238,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Stille!,0,7,character_speech,1,7,,SCAPIN.,#scapin,122.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+239,239,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,stille!,8,15,character_speech,1,7,,SCAPIN.,#scapin,122.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+240,240,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,wir wollen einen rechten Aufzug haben.,16,54,character_speech,1,7,,SCAPIN.,#scapin,122.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+241,241,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Isabelle und Valer kommen
+              daher, um ihre Rolle zu spielen.",55,127,character_speech,1,7,,SCAPIN.,#scapin,122.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+242,242,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Es geht ihnen wie mir.,128,150,character_speech,1,7,,SCAPIN.,#scapin,122.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+243,243,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie meynen, der Freyer werde
+              gespielet, und weil an ihnen die Reihe ist, aufzutreten; wenn ich zum andernmale
+              abgehe: so will ich itzt ganz ernsthaft herausgehn.",151,340,character_speech,1,7,,SCAPIN.,#scapin,122.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+244,244,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ihr aber geht auf die Seite so
+              lange.",341,392,character_speech,1,7,,SCAPIN.,#scapin,122.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+245,245,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Hier ist das Kleid, Harlekin, welches du immittelst anziehen kannst.",393,461,character_speech,1,7,,SCAPIN.,#scapin,122.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+246,246,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Vortrefflich!,0,13,character_speech,1,7,,HARLEKIN.,#harlekin,123.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+247,247,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Das ist des Henkers Comödie.,0,28,character_speech,1,7,,PETER.,#peter,124.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+248,248,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Gehn ab.,0,8,stage_direction,1,7,speech_part,,#peter,124.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+249,249,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Isabelle und Valer.,0,19,stage_direction,1,8,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+250,250,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nein, mein werthester Graf, so schmeichelhaft es mir auch ist von Ihnen geliebt zu
+              werden, und so sehr ich von Ihren rechtschaffenen Absichten überzeuget bin, so wenig
+              finde ich mich vermögend Ihnen meine Hand zu geben.",0,247,character_speech,1,8,,ISABELLE.,#isabelle,125.0,FEMALE,love,S,,1763.0,positive,emotions of affection
+251,251,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Mein Schicksal hat mich einmal auf
+              die Schaubühne geführt; ich bin der Welt nichts mehr als eine Comödiantinn, und ich
+              müßte Sie, mein werthester Graf, minder hochschätzen und minder lieben, wenn ich in
+              Ihre Verbindung einwilligen und uns Beyde beschimpfen sollte: Sie, daß Sie Sich so
+              weit herablassen, und mich, daß ich einen Mann genommen, der so wenig Empfindung und
+              so wenig Zärtlichkeit gegen seine eigne Ehre gehabt hatte.",248,747,character_speech,1,8,,ISABELLE.,#isabelle,125.0,FEMALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+252,252,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Großmüthige Isabelle, je edler Sie Sich zeigen, je weniger ist es mir möglich Ihren
+              Befehlen zu gehorchen.",0,120,character_speech,1,8,,VALER.,#valer,126.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+253,253,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich kann ohne Sie nicht leben.,121,151,character_speech,1,8,,VALER.,#valer,126.0,MALE,love,S,,1763.0,positive,emotions of affection
+254,254,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Mein ganzes Glück beruhet auf
+              unsre Verbindung.",152,213,character_speech,1,8,,VALER.,#valer,126.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+255,255,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das Recht ist auf der Seite der Tugend, der Schönheit und der Liebe.",214,282,character_speech,1,8,,VALER.,#valer,126.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+256,256,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Vorurtheile dürfen uns nicht irre machen.,297,338,character_speech,1,8,,VALER.,#valer,126.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+257,257,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O!,0,2,character_speech,1,8,,ISABELLE.,#isabelle,127.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+258,258,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"es gibt ehrwürdige, heilige Vorurtheile; und die Wahrheit muß sich oft erst in
+              unsre eigne Meynung, in unser Vorurtheil verwandeln, ehe sie ihr Recht behaupten
+              kann.",3,196,character_speech,1,8,,ISABELLE.,#isabelle,127.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+259,259,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Aber Ihre Geburt ist der meinigen nicht ungleich.,0,49,character_speech,1,8,,VALER.,#valer,128.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+260,260,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie sind von guter Familie, und daß
+              das Schicksal Sie auf die Bühne geführt – –",50,143,character_speech,1,8,,VALER.,#valer,128.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+261,261,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Nichts mehr hievon.,0,19,character_speech,1,8,,ISABELLE.,#isabelle,129.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+262,262,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie wissen, wie die Welt denkt.",20,51,character_speech,1,8,,ISABELLE.,#isabelle,129.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+263,263,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie wissen, mit welchen Übeln
+              Vermuthungen sie diejenigen verfolgt, welche sich der Bühne widmen, und es sollte mir
+              ewig leid seyn, als Comödiantinn einen Mann zu beschimpfen, den ich als Prinzessinn
+              glücklich zu machen wünschte.",52,323,character_speech,1,8,,ISABELLE.,#isabelle,129.0,FEMALE,abhorrence,S,,1763.0,negative,emotions of rejection
+264,264,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Göttliche Isabelle!,0,19,character_speech,1,8,,VALER.,#valer,130.0,MALE,love,S,,1763.0,positive,emotions of affection
+265,265,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Er will ihre Hand nehmen.,0,25,stage_direction,1,8,speech_part,,#valer,130.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+266,266,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Auch diese Hand nicht, mein werthester Graf.",0,44,character_speech,1,8,,ISABELLE.,#isabelle,131.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+267,267,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich bin stolz, stolz auf Sie, stolz auf
+              mich; und da ich Muth genug habe, meine Liebe Ihrer Ehre aufzuopfern, so müssen Sie
+              auch so billig seyn, und der meinigen schonen.",45,243,character_speech,1,8,,ISABELLE.,#isabelle,131.0,FEMALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+268,268,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sie sind grausam.,0,17,character_speech,1,8,,VALER.,#valer,132.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+269,269,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie handeln ungerecht mit Sich, ungerecht mit mir.",18,68,character_speech,1,8,,VALER.,#valer,132.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+270,270,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich und mein
+              Unglück bleibt zu Ihrer Verantwortung.",69,134,character_speech,1,8,,VALER.,#valer,132.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+271,271,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich kenne diese Sprache; aber ich weiß was ich mir von Ihrer Vernunft zu versprechen
+              habe.",0,104,character_speech,1,8,,ISABELLE.,#isabelle,133.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+272,272,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ueberlegen Sie nur einmal Selbst, wie empfindlich es Ihnen und mir seyn würde,
+              wenn man in allen Gesellschaften vor uns fliehen, wenn jeder Blick Ihnen einen Vorwurf
+              und mir Verachtung  zeigen, wenn Ihre ganze Familie Sie hassen und mich
+              verfolgen, wenn jedermann argwohnen würde – – –",105,432,character_speech,1,8,,ISABELLE.,#isabelle,133.0,FEMALE,abhorrence,S,,1763.0,negative,emotions of rejection
+273,273,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Quälen Sie mich wenigstens nicht, wenn Sie mich nicht glücklich machen wollen.",0,78,character_speech,1,8,,VALER.,#valer,134.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+274,274,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich
+              habe das alles, und noch ein mehrers überlegt; ich habe mir alle diese Wahrheiten so
+              deutlich vorgestellt, daß ich glauben konnte, unpartheyisch zu urtheilen; und doch,
+              schönste Isabelle, fiel der Schluß dahin aus, daß das Glück unsrer Vereinigung Alles
+              das unendlich überwiegen würde.",79,424,character_speech,1,8,,VALER.,#valer,134.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+275,275,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie wissen, Herr Graf, daß ich gegen dieses Glück nicht unempfindlich bin.",0,74,character_speech,1,8,,ISABELLE.,#isabelle,135.0,FEMALE,joy,S,,1763.0,positive,emotions of pleasure
+276,276,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie
+              wissen, daß mein ganzer Stolz durch diese Verbindung befriedigt werden würde.",75,170,character_speech,1,8,,ISABELLE.,#isabelle,135.0,FEMALE,love,S,,1763.0,positive,emotions of affection
+277,277,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Verzeihen Sie mir aber, daß ich Sie auf eine zärtlichere Art liebe, und meinem
+              Vorsatze getreu bleibe.",185,301,character_speech,1,8,,ISABELLE.,#isabelle,135.0,FEMALE,love,S,,1763.0,positive,emotions of affection
+278,278,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie begegnen einem Jeden sonst so gütig, Sie – – –",0,50,character_speech,1,8,,VALER.,#valer,136.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+279,279,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Keine Vorwürfe, Herr Graf.",0,26,character_speech,1,8,,ISABELLE.,#isabelle,137.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+280,280,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Da ich die Bühne betrete, so ist es meine Schuldigkeit,
+              allen die dahin kommen, Höflichkeit und Dankbarkeit zu zeigen.",27,159,character_speech,1,8,,ISABELLE.,#isabelle,137.0,FEMALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+281,281,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich würde sonst unsrer
+              Gesellschaft schaden, und eine Unanständigkeit begehen, die in den Umständen worin ich
+              bin, für den Einen oder Andern beleidigend seyn könnte.",160,353,character_speech,1,8,,ISABELLE.,#isabelle,137.0,FEMALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+282,282,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Glauben Sie aber um deswillen
+              ja nicht, mein lieber Herr Graf, daß wir mit unserer Gütigkeit verschwendrischer sind
+              als andre.",354,508,character_speech,1,8,,ISABELLE.,#isabelle,137.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+283,283,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Jeder Stand erfordert ein eignes Betragen; und wenn man das weiß, so macht
+              man keine falsche Schlüsse.",509,625,character_speech,1,8,,ISABELLE.,#isabelle,137.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+284,284,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich glaube nicht, daß Sie mir dergleichen Schuld geben können.",0,62,character_speech,1,8,,VALER.,#valer,138.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+285,285,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Meine aufrichtige
+              Liebe ist die beste Widerlegung, und die sicherste Probe, daß ich Ihre Gütigkeit in
+              keinem Verdachte habe.",63,215,character_speech,1,8,,VALER.,#valer,138.0,MALE,love,S,,1763.0,positive,emotions of affection
+286,286,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die Vorigen.,0,12,stage_direction,1,9,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+287,287,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Harlekin und Peter.,13,32,stage_direction,1,9,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+288,288,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ha!,0,3,character_speech,1,9,,HARLEKIN.,#harlekin,139.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+289,289,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,ha!,4,7,character_speech,1,9,,HARLEKIN.,#harlekin,139.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+290,290,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,ha!,8,11,character_speech,1,9,,HARLEKIN.,#harlekin,139.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+291,291,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Spielen Sie hier eine Comödie?,12,42,character_speech,1,9,,HARLEKIN.,#harlekin,139.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+292,292,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, was fällt Dir ein, Harlekin?",0,33,character_speech,1,9,,ISABELLE.,#isabelle,140.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+293,293,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die Reihe ist ja gar nicht an Dir.,34,68,character_speech,1,9,,ISABELLE.,#isabelle,140.0,FEMALE,anger,S,,1763.0,negative,emotions of rejection
+294,294,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die Reihe mag an mir seyn oder nicht, so muß ich Ihnen sagen, daß Herr Barthold sich
+              versehen, und daß heute gar nicht gespielt, sondern in allem Ernste an einer Heirath
+              gearbeitet wird.",0,214,character_speech,1,9,,HARLEKIN.,#harlekin,141.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+295,295,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber, was bedeutet denn das?",0,28,character_speech,1,9,,VALER.,#valer,142.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+296,296,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Was das bedeutet, wenn man heirathet?",0,37,character_speech,1,9,,HARLEKIN.,#harlekin,143.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+297,297,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wissen Sie das nicht?,0,21,character_speech,1,9,,PETER.,#peter,144.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+298,298,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Herr Barthold und Ihr alle seyd verrückt.,0,41,character_speech,1,9,,VALER.,#valer,145.0,MALE,being moved,S,,1763.0,being moved,being moved
+299,299,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ein andermal soll man es mir zweymal sagen,
+              ehe ich hierher kommen und meine Rolle spielen will.",42,152,character_speech,1,9,,VALER.,#valer,145.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+300,300,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Geht ab.,0,8,stage_direction,1,9,speech_part,,#valer,145.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+301,301,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Kann ich denn wohl so glücklich seyn, zu erfahren, was es für eine Heirath sey, woran
+              heute gearbeitet wird?",0,122,character_speech,1,9,,ISABELLE.,#isabelle,146.0,FEMALE,joy,S,,1763.0,positive,emotions of pleasure
+302,302,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie soll zwischen einem Bräutigam der sich Scrupel macht, einer Seits, und zwischen
+              einer Braut die sich keine macht, ander Seits, geschlossen und nicht geschlossen
+              werden.",0,200,character_speech,1,9,,HARLEKIN.,#harlekin,147.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+303,303,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aus diesem räthselhaften Geschwätze schließe ich, Harlekin, daß Du es bist, der sich
+              Scrupel macht.",0,113,character_speech,1,9,,ISABELLE.,#isabelle,148.0,FEMALE,anger,S,,1763.0,negative,emotions of rejection
+304,304,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Der Henker traue den Mädchen!,0,29,character_speech,1,9,,HARLEKIN.,#harlekin,149.0,MALE,fear,S,,1763.0,negative,emotions of anxiety
+305,305,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich glaube, sie lesen einem aus den Augen was man
+              denkt.",30,100,character_speech,1,9,,HARLEKIN.,#harlekin,149.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+306,306,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber, was hat man denn auch anders in den Augen, wenn man erst zu Verstande
+              kömmt, als die Lust zu heirathen?",101,224,character_speech,1,9,,HARLEKIN.,#harlekin,149.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+307,307,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sehen Sie mir das nicht gleich an?,225,259,character_speech,1,9,,HARLEKIN.,#harlekin,149.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+308,308,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O!,0,2,character_speech,1,9,,ISABELLE.,#isabelle,150.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+309,309,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"das habe ich Dir lange angesehen, und Kolombinen ebenfalls.",3,62,character_speech,1,9,,ISABELLE.,#isabelle,150.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+310,310,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ey, schau doch, wie listig sie das Geheimniß herauslocken will!",0,63,character_speech,1,9,,HARLEKIN.,#harlekin,151.0,MALE,Schadenfreude,S,,1763.0,positive,emotions of pleasure
+311,311,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,So war denn doch die Heirath zwischen Dir und Kolumbien das Geheimniß?,0,70,character_speech,1,9,,ISABELLE.,#isabelle,152.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+312,312,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, so
+              wünsche ich Dir viel Glück damit; es ist ein braves Mädchen.",71,153,character_speech,1,9,,ISABELLE.,#isabelle,152.0,FEMALE,joy,S,,1763.0,positive,emotions of pleasure
+313,313,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Dürfte ich wohl unterthänigst fragen, was Sie durch ein braves Mädchen verstehen?",0,81,character_speech,1,9,,HARLEKIN.,#harlekin,153.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+314,314,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich
+              habe sonst gemeynt, die Pferde würden nur brav genannt.",82,155,character_speech,1,9,,HARLEKIN.,#harlekin,153.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+315,315,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich will damit nur sagen, daß Kolombine ihre Rolle gut spielt, daß sie sehr
+              geschickt, sehr schön, sehr lustig, sehr gutherzig – – –",0,146,character_speech,1,9,,ISABELLE.,#isabelle,154.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+316,316,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Aber nicht auch sehr tugendhaft sey?,0,36,character_speech,1,9,,HARLEKIN.,#harlekin,155.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+317,317,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O!,0,2,character_speech,1,9,,ISABELLE.,#isabelle,156.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+318,318,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"das versteht sich von selbst; und ich kann Dir zur guten Nachricht sagen, daß sie
+              noch gar kürzlich ein Paar brillantene Ohrringe ausgeschlagen hat.",3,165,character_speech,1,9,,ISABELLE.,#isabelle,156.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+319,319,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber der Freyer, der sie ihr angeboten, sollte der nicht so gewisse Vermuthungen
+              gehabt haben, daß sie solche wohl annehmen würde?",0,144,character_speech,1,9,,HARLEKIN.,#harlekin,157.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+320,320,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich glaubte, Harlekin, Du dächtest besser von unsrer Schaubühne.",0,64,character_speech,1,9,,ISABELLE.,#isabelle,158.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+321,321,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wenn man alle
+              diejenigen von uns verurtheilen wollte, welche etwa einen freundlichen Blick
+              vergelten, oder sich eine Versuchung zuziehen, so würde man sehr ungerecht gegen uns
+              seyn.",65,288,character_speech,1,9,,ISABELLE.,#isabelle,158.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+322,322,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nein, der Faden muß wenigstens abbrechen und die Schnur vom Rade fallen, sonst kann
+              man seiner Probe nicht sicher seyn.",0,133,character_speech,1,9,,PETER.,#peter,159.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+323,323,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das dünkt mich auch, Peter; und wo ich Dich recht kenne, so würdest Du mein
+              Cathrinchen gern nehmen, ohne Scrupel; und Du, Harlekin, thätest auch wohl, von der
+              Probe nach der Hochzeit zu reden.",0,221,character_speech,1,9,,ISABELLE.,#isabelle,160.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+324,324,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das ist verflucht gefährlich, und zu seiner Zeit eben nicht tröstlich.",0,70,character_speech,1,9,,HARLEKIN.,#harlekin,161.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+325,325,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich wünsche Euch mit einander ein Paar Weiber, die Euch die Köpfe zurechte setzen;
+              und wenn Herr Barthold seine selige Frau noch hätte, so würde er mich nicht hierher
+              auf April geschickt haben.",0,221,character_speech,1,9,,ISABELLE.,#isabelle,162.0,FEMALE,friendship,S,,1763.0,positive,emotions of affection
+326,326,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das sagt ihm nur, wenn Ihr ihn sehet.",222,259,character_speech,1,9,,ISABELLE.,#isabelle,162.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+327,327,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Geht ab.,0,8,stage_direction,1,9,speech_part,,#isabelle,162.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+328,328,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Harlekin und Peter.,0,19,stage_direction,1,10,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+329,329,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, Peter, wo hast Du meine Companie gelassen?",0,47,character_speech,1,10,,HARLEKIN.,#harlekin,163.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+330,330,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Hier ist sie.,0,13,character_speech,1,10,,PETER.,#peter,164.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+331,331,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Indem er ihm das Kleid holet und übergiebt.,0,43,stage_direction,1,10,inner_speech,,#peter,164.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+332,332,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,zieht das Kleid über das seinige und macht dabey ein Theaterspiel.,0,66,stage_direction,1,10,speech_part,,#harlekin,165.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+333,333,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die Vorigen und Scapin.,0,23,stage_direction,1,11,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+334,334,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ha!,0,3,character_speech,1,11,,SCAPIN.,#scapin,166.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+335,335,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"willkommen, mein werthester Herr Hauptmann!",4,47,character_speech,1,11,,SCAPIN.,#scapin,166.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+336,336,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wie, Scapin, kennest Du mich denn nicht mehr?",0,45,character_speech,1,11,,HARLEKIN.,#harlekin,167.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+337,337,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"In der That, wenn Dich Deine Stimme nicht verrathen hätte, so würde ich Dich
+              schwerlich erkannt haben.",0,116,character_speech,1,11,,SCAPIN.,#scapin,168.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+338,338,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Aber die Hosen?,0,15,character_speech,1,11,,PETER.,#peter,169.0,MALE,being moved,S,,1763.0,being moved,being moved
+339,339,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O!,0,2,character_speech,1,11,,SCAPIN.,#scapin,170.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+340,340,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die kann man bey jedem Kleide tragen, und ein Witwer mag sie so gar in der Trauer
+              anziehn.",3,107,character_speech,1,11,,SCAPIN.,#scapin,170.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+341,341,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Bey uns sagt man, es ist kein Herr so groß, oder der Narr blickt irgendwo hervor.",0,81,character_speech,1,11,,PETER.,#peter,171.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+342,342,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich bitte Dich, Peter, mache doch solche dumme Vergleichungen nicht.",0,68,character_speech,1,11,,HARLEKIN.,#harlekin,172.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+343,343,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich habe diese
+              Hosen mit Fleiß behalten; denn sollte die Probe unglücklich ablaufen, so hänge ich das
+              Kleid sogleich an den Nagel, und bin wieder der ich war.",69,255,character_speech,1,11,,HARLEKIN.,#harlekin,172.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+344,344,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber, was denkst Du, Scapin,
+              sollte man mich wohl aus Achtung für die Uniform ungeschlagen zurückschicken?",256,376,character_speech,1,11,,HARLEKIN.,#harlekin,172.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+345,345,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Mache Dir doch nur solche Scrupel nicht.,0,40,character_speech,1,11,,SCAPIN.,#scapin,173.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+346,346,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wenn Kolombine ein ehrliches Mädchen ist,
+              und Du es recht bey ihr anfängst, so mußt Du Deine Schläge bekommen, oder ich verliere
+              fünf Gulden.",41,210,character_speech,1,11,,SCAPIN.,#scapin,173.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+347,347,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Gut!,0,4,character_speech,1,11,,HARLEKIN.,#harlekin,174.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+348,348,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,es ist ein Wort.,5,21,character_speech,1,11,,HARLEKIN.,#harlekin,174.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+349,349,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wahrhaftig, ich wette mit, Herr Harlekin.",0,41,character_speech,1,11,,PETER.,#peter,175.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+350,350,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Kolombine ist ein ehrliches Mädchen.,42,78,character_speech,1,11,,PETER.,#peter,175.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+351,351,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie
+              bekommen die Schläge zuverlässig, und ich gewinne mein Geld, oder Sie haben es nicht
+              recht darnach angefangen.",79,221,character_speech,1,11,,PETER.,#peter,175.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+352,352,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Peter, es gilt fünf Batzen; und mit Freuden will ich sie euch beyden auszahlen.",0,79,character_speech,1,11,,HARLEKIN.,#harlekin,176.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+353,353,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Eins
+              fällt mir aber itzt bey: ich habe gar kein Geld in der Tasche.",80,161,character_speech,1,11,,HARLEKIN.,#harlekin,176.0,MALE,being moved,S,,1763.0,being moved,being moved
+354,354,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich müßte doch wohl,
+              wenn ich einen Versuch wagen will, so irgend einen Beutel mit Dukaten haben.",162,273,character_speech,1,11,,HARLEKIN.,#harlekin,176.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+355,355,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Glaubst Du denn nicht, daß ich weiß, was Dir in solchen Fällen nöthig ist?",0,74,character_speech,1,11,,SCAPIN.,#scapin,177.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+356,356,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Fühle nur
+              einmal in die Taschen.",75,121,character_speech,1,11,,SCAPIN.,#scapin,177.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+357,357,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"In der einen steckt meines Herrn leerer Geldbeutel mit
+              Zahlpfennigen, und in der andern das Futteral von seinen Schuhschnallen.",122,263,character_speech,1,11,,SCAPIN.,#scapin,177.0,MALE,being moved,S,,1763.0,being moved,being moved
+358,358,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Kolombine
+              wird Dukaten und Juwelen darin vermuthen, und wenn Du es ihr anbietest, Dir gewiß
+              Beydes an den Kopf werfen, ohne zuzusehen was darin ist.",264,440,character_speech,1,11,,SCAPIN.,#scapin,177.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+359,359,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Weißt Du dies gewiß?,0,20,character_speech,1,11,,HARLEKIN.,#harlekin,178.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+360,360,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,So gewiß als Du den Glauben auf den Puckel bekommen wirst.,0,58,character_speech,1,11,,SCAPIN.,#scapin,179.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+361,361,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Viel Glücks dazu!,0,17,character_speech,1,11,,PETER.,#peter,180.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+362,362,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,zu Scapin.,0,10,stage_direction,1,11,speech_part,,#harlekin,181.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+363,363,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wolltest Du mich wohl bey Kolombinen melden?,0,44,character_speech,1,11,,HARLEKIN,#harlekin,181.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+364,364,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ey, warum nicht?",0,16,character_speech,1,11,,SCAPIN.,#scapin,182.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+365,365,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich diene meines Herrn Uniform, und schäme mich nicht, solche bey
+              Kolombinen anzumelden.",17,119,character_speech,1,11,,SCAPIN.,#scapin,182.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+366,366,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,So gehe geschwind.,0,18,character_speech,1,11,,HARLEKIN.,#harlekin,183.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+367,367,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Harlekin und Peter.,0,19,stage_direction,1,12,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+368,368,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Der Scapin ist doch ein durchtriebner Kopf, und weiß zu allem Rath.",0,67,character_speech,1,12,,HARLEKIN.,#harlekin,184.0,MALE,being moved,S,,1763.0,being moved,being moved
+369,369,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nach meinem dummen Verstande gehört eben nicht viel Witz dazu, Ihnen zu einer guten
+              Tracht Schläge zu verhelfen.",0,126,character_speech,1,12,,PETER.,#peter,185.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+370,370,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Das wollte ich auch wohl thun.,127,157,character_speech,1,12,,PETER.,#peter,185.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+371,371,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O mein guter Peter, das ist weit über Deinen Horizont.",0,54,character_speech,1,12,,HARLEKIN.,#harlekin,186.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+372,372,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Du weißt es nicht, wie
+              angenehm mir diese Schläge seyn werden.",55,131,character_speech,1,12,,HARLEKIN.,#harlekin,186.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+373,373,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, meinethalben.",0,18,character_speech,1,12,,PETER.,#peter,187.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+374,374,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Alles wie Sie wollen.,19,40,character_speech,1,12,,PETER.,#peter,187.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+375,375,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wenn ich nur meine fünf Batzen gewinne.,41,80,character_speech,1,12,,PETER.,#peter,187.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+376,376,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich
+              fange aber nunmehro an zu fürchten, Sie werden,  wenn die Wette verloren
+              geht, in den Beutel mit Zahlpfennigen greifen.",81,232,character_speech,1,12,,PETER.,#peter,187.0,MALE,fear,S,,1763.0,negative,emotions of anxiety
+377,377,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Du sollst Deine fünf Batzen gewiß haben, oder ich heiße nicht Hauptmann von
+              Astaroth.",0,99,character_speech,1,12,,HARLEKIN.,#harlekin,188.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+378,378,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ach, meynen Sie nicht, daß die Leute Sie erkennen werden?",0,57,character_speech,1,12,,PETER.,#peter,189.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+379,379,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ihre Stimme verräth Sie
+              gleich.",58,103,character_speech,1,12,,PETER.,#peter,189.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+380,380,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die weiß ich schon zu verstellen.,0,33,character_speech,1,12,,HARLEKIN.,#harlekin,190.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+381,381,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich will die ordentliche Rolle eines Hauptmanns
+              spielen, so wie ich sie gelernt habe.",34,133,character_speech,1,12,,HARLEKIN.,#harlekin,190.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+382,382,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die Vorigen und Scapin.,0,23,stage_direction,1,13,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+383,383,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die Mademoiselle Kolombine Barthold läßt sich dem Herrn Hauptmann von Astaroth gar
+              schön zurück empfehlen, und weil sie nicht glaubte, daß der Herr Hauptmann ihr etwas
+              Heimliches zu sagen haben würde, so wollte sie die Ehre haben, denselben hier auf der
+              Bühne zu empfangen.",0,315,character_speech,1,13,,SCAPIN.,#scapin,191.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+384,384,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,War sie allein?,0,15,character_speech,1,13,,HARLEKIN.,#harlekin,192.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+385,385,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie saß und nähete an einem Unterrocke, worin sie mit Dir, wie ich hoffe, getrauet
+              werden wird; ein allerliebstes Röckchen von feuerfarbenem Atlas mit Spitzen eingefaßt,
+              nicht kostbar, aber niedlich.",0,227,character_speech,1,13,,SCAPIN.,#scapin,193.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+386,386,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sie kommt!,0,10,character_speech,1,13,,PETER.,#peter,194.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+387,387,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sie kommt!,11,21,character_speech,1,13,,PETER.,#peter,194.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+388,388,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Komm Peter, wir wollen in die nächste Schenke gehn, und unsre künftige Wette
+              vertrinken.",0,102,character_speech,1,13,,SCAPIN.,#scapin,195.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+389,389,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Letztere gehn ab.,0,17,stage_direction,1,13,speech_part,,#scapin,195.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+390,390,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Harlekin.,0,9,stage_direction,1,14,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+391,391,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Kolombine.,10,20,stage_direction,1,14,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+392,392,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Assah!,0,6,character_speech,1,14,,HARLEKIN.,#harlekin,196.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+393,393,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Miß Pudding, wie stehts?",7,31,character_speech,1,14,,HARLEKIN.,#harlekin,196.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+394,394,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ist die Leber noch frisch, und seyd Ihr diesen Winter
+              gut bequartirt?",32,115,character_speech,1,14,,HARLEKIN.,#harlekin,196.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+395,395,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Darf ich fragen: was zu des Herrn Hauptmanns Befehl sey?,0,56,character_speech,1,14,,KOLOMBINE.,#kolombine,197.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+396,396,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Zu meinem Befehl?,0,17,character_speech,1,14,,HARLEKIN.,#harlekin,198.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+397,397,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Drey Küsse auf eine Stelle, mein Schatz, drey Küsse – – –",18,75,character_speech,1,14,,HARLEKIN.,#harlekin,198.0,MALE,love,S,,1763.0,positive,emotions of affection
+398,398,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich weiß nicht, ob ich es recht verstanden habe, der Herr Hauptmann von Astaroth sind
+              bey mir gemeldet worden.",0,124,character_speech,1,14,,KOLOMBINE.,#kolombine,199.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+399,399,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das bin ich im Original, mein kleines Zuckermündchen.",0,53,character_speech,1,14,,HARLEKIN.,#harlekin,200.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+400,400,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Darf ich aber auch wohl fragen,
+              ob Sie nicht die Mademoiselle Kolombine Bartholdinn sind?",54,157,character_speech,1,14,,HARLEKIN.,#harlekin,200.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+401,401,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ihnen aufzuwarten, Herr Hauptmann.",0,34,character_speech,1,14,,KOLOMBINE.,#kolombine,201.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+402,402,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, so sind wir ja bekannte Leute und Nachbars Kinder.",0,55,character_speech,1,14,,HARLEKIN.,#harlekin,202.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+403,403,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Komm dann, mein Schatz, und
+              küsse mich.",56,109,character_speech,1,14,,HARLEKIN.,#harlekin,202.0,MALE,love,S,,1763.0,positive,emotions of affection
+404,404,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich glaube immer noch, ich irre mich.",0,37,character_speech,1,14,,KOLOMBINE.,#kolombine,203.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+405,405,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Man hat mir gesagt, daß Sie einige Bestellungen
+              von einer sehr guten Freundinn, die ich auf dem Lande habe, an mich hätten.",38,175,character_speech,1,14,,KOLOMBINE.,#kolombine,203.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+406,406,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ja, recht, mein liebes Sauernüßchen.",0,36,character_speech,1,14,,HARLEKIN.,#harlekin,204.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+407,407,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Hier habe ich ein Paar orientalische,
+              peruvianische Ohrringe, und dort einen Beutel mit eintausend gerändelten
+              Species-Dukaten.",37,192,character_speech,1,14,,HARLEKIN.,#harlekin,204.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+408,408,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Was dünkt Dir dabey, mein Rosenknöspchen?",193,234,character_speech,1,14,,HARLEKIN.,#harlekin,204.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+409,409,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich begreife noch eigentlich nicht, wozu das alles?",0,51,character_speech,1,14,,KOLOMBINE.,#kolombine,205.0,FEMALE,being moved,S,,1763.0,being moved,being moved
+410,410,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wozu, Mädchen?",0,14,character_speech,1,14,,HARLEKIN.,#harlekin,206.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+411,411,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Primo sollst Du mich dafür neun und neunzig Mal
+              küsen.",15,83,character_speech,1,14,,HARLEKIN.,#harlekin,206.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+412,412,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ach, wer weiß bey welchem Mädchen Sie diese Ohrringe wohl erbeutet haben, und ob Sie
+              ihr nicht gar dabei die Ohren ausgerissen!",0,141,character_speech,1,14,,KOLOMBINE.,#kolombine,207.0,FEMALE,being moved,S,,1763.0,being moved,being moved
+413,413,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich eroberte sie in dem Laufgraben vor Schweidnitz, und diese tausend Dukaten habe
+              ich einem französischen Marschalle en rase campagne abgenommen.",0,160,character_speech,1,14,,HARLEKIN.,#harlekin,208.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+414,414,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich sehe wohl, Herr Hauptmann, Sie haben an mich nichts zu bestellen, und ich will
+              mich Ihnen nur gehormsamst wieder empfehlen.",0,141,character_speech,1,14,,KOLOMBINE.,#kolombine,209.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+415,415,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O Prinzessin!,0,13,character_speech,1,14,,HARLEKIN.,#harlekin,210.0,MALE,love,S,,1763.0,positive,emotions of affection
+416,416,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,so wird es nicht gehn.,14,36,character_speech,1,14,,HARLEKIN.,#harlekin,210.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+417,417,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Flugs hierher!,37,51,character_speech,1,14,,HARLEKIN.,#harlekin,210.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+418,418,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er nimmt sie bey der Hand, und stellet sie so daß sie ihm nicht entgehen
+              kann.",0,92,stage_direction,1,14,speech_part,,#harlekin,210.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+419,419,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"und diese Ohrringe, diese Dukaten, diese Küsse angenommen.",0,58,character_speech,1,14,,HARLEKIN.,#harlekin,210.0,MALE,love,S,,1763.0,positive,emotions of affection
+420,420,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er will sie küssen, und sie wehret sich.",0,40,stage_direction,1,14,speech_part,,#harlekin,210.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+421,421,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich bitte Sie recht sehr, Herr Hauptmann, mäßigen Sie Sich.",0,59,character_speech,1,14,,KOLOMBINE.,#kolombine,211.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+422,422,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Was mäßigen?,0,12,character_speech,1,14,,HARLEKIN.,#harlekin,212.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+423,423,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Drey Jahre belagere ich eure verdammte Schaubühne, als wenn ich eine
+              Festung belagere: und beständig habe ich meine Kanonen auf Dich gerichtet.",13,170,character_speech,1,14,,HARLEKIN.,#harlekin,212.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+424,424,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Daß ich
+              endlich einmal Sturm laufe, mußt Du mir nicht verdenken.",171,249,character_speech,1,14,,HARLEKIN.,#harlekin,212.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+425,425,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sogleich diese Ohrringe
+              eingesteckt!",250,300,character_speech,1,14,,HARLEKIN.,#harlekin,212.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+426,426,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er dringt ihr solche auf, sie fallen aber auf die Erde.",0,55,stage_direction,1,14,speech_part,,#harlekin,212.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+427,427,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"und hier diese tausend Dukaten, oder",0,36,character_speech,1,14,,HARLEKIN.,#harlekin,212.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+428,428,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wie vorher.,0,11,stage_direction,1,14,speech_part,,#harlekin,212.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+429,429,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,und nun gehts auf die Bresche los.,0,34,character_speech,1,14,,HARLEKIN.,#harlekin,212.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+430,430,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Er umarmt sie auf seine Art.,0,28,stage_direction,1,14,speech_part,,#harlekin,212.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+431,431,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ach mein Gott!,0,14,character_speech,1,14,,KOLOMBINE.,#kolombine,213.0,FEMALE,fear,S,,1763.0,negative,emotions of anxiety
+432,432,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Gewalt, Gewalt, Gewalt!",15,38,character_speech,1,14,,KOLOMBINE.,#kolombine,213.0,FEMALE,fear,S,,1763.0,negative,emotions of anxiety
+433,433,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die Vorigen, Barthold, Scapin und Peter kommen von allen Seiten.",0,64,stage_direction,1,15,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+434,434,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Was ists, was ists, wast ists?",0,30,character_speech,1,15,,BARTHOLD.,#barthold,214.0,MALE,being moved,S,,1763.0,being moved,being moved
+435,435,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sehen Sie nicht, der Herr Hauptmann will mich mit Gewalt küssen, und mich zwingen
+              tausend Dukaten und ein Paar brillantene Ohrringe anzunehmen.",0,157,character_speech,1,15,,KOLOMBINE.,#kolombine,215.0,FEMALE,being moved,S,,1763.0,being moved,being moved
+436,436,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Und darum schreyest Du so, Mädchen?",0,35,character_speech,1,15,,BARTHOLD.,#barthold,216.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+437,437,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich wette, wenn ich den Herrn Hauptmann mit
+              Gewalt zum Hause hinaus werfe, er macht nicht einen solchen Lerm.",36,159,character_speech,1,15,,BARTHOLD.,#barthold,216.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+438,438,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Kolombine hebt inzwischen das Kästchen auf und sieht aus Vorwitz hinein.,0,72,stage_direction,1,15,speech_part,,#barthold,216.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+439,439,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich bitte, sprechen Sie mit mehr Achtung von mir, sonst will ich Ihnen was anders
+              zeigen.",0,103,character_speech,1,15,,HARLEKIN.,#harlekin,217.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+440,440,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Geschwind heraus damit, was wolltest Du mir anders zeigen?",0,58,character_speech,1,15,,BARTHOLD.,#barthold,218.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+441,441,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich habe es itzt nicht bey mir; aber, wenn Sie erlauben wollen, so will ich hingehen
+              und es holen.",0,112,character_speech,1,15,,HARLEKIN.,#harlekin,219.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+442,442,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Du bist sehr fein, wie ich merke; inzwischen, wenn Sie es erlauben wollen, so will
+              ich Ihnen vors erste wohlmeynend eine Tracht Schläge mitgeben.",0,159,character_speech,1,15,,BARTHOLD.,#barthold,220.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+443,443,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie mögten es
+              vielleicht vergessen sie abzuholen.",160,223,character_speech,1,15,,BARTHOLD.,#barthold,220.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+444,444,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Er prügelt ihn zur Schaubühne herunter.,0,39,stage_direction,1,15,speech_part,,#barthold,220.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+445,445,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Scapin und Peter halten ihm überall wo er
+              hin läuft, die Hände vor, um ihr Geld zu empfangen.",40,147,stage_direction,1,15,speech_part,,#barthold,220.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+446,446,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Harlekin entflieht
+              endlich.",148,189,stage_direction,1,15,speech_part,,#barthold,220.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+447,447,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wo ist der Beutel mit den tausend Dukaten, und wo sind die demantenen Ohrringe?",0,79,character_speech,1,15,,BARTHOLD.,#barthold,220.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+448,448,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Diese
+              erkläre ich hiermit für verfallen.",80,134,character_speech,1,15,,BARTHOLD.,#barthold,220.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+449,449,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich muß dieses Urtheil nur geschwind selbst
+              sprechen, damit der Richter das Corpus delicti nicht zu sich nehme.",135,260,character_speech,1,15,,BARTHOLD.,#barthold,220.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+450,450,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ach daß Gott erbarme!,0,21,character_speech,1,15,,KOLOMBINE.,#kolombine,221.0,FEMALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+451,451,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Lassen Sie doch diese Sporteln immerweg dem Richter; er wird
+              sie den Parteyen treulich wieder ausliefern, und sich gern mit der Gebühr befriedigen.",22,183,character_speech,1,15,,KOLOMBINE.,#kolombine,221.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+452,452,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sehen Sie hier.,198,213,character_speech,1,15,,KOLOMBINE.,#kolombine,221.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+453,453,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Er nimmt den Beutel und das Kästchen.,0,37,stage_direction,1,15,speech_part,,#kolombine,221.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+454,454,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Erlauben Sie, Herr Barthold, daß wir Ihnen eine Vorstellung thun.",0,65,character_speech,1,15,,SCAPIN.,#scapin,222.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+455,455,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Es war unser guter
+              Harlekin, der hier, in des Herrn Hauptmanns Kleidung, die Erfrischung zu sich
+              genommen.",66,200,character_speech,1,15,,SCAPIN.,#scapin,222.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+456,456,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wie?,0,4,character_speech,1,15,,BARTHOLD.,#barthold,223.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+457,457,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Harlekin?,5,14,character_speech,1,15,,BARTHOLD.,#barthold,223.0,MALE,being moved,S,,1763.0,being moved,being moved
+458,458,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ja, bey meiner Treue; er hat die Schläge nur auf des Herrn Hauptmanns Rechnung
+              genommen, und ich bin froh, daß er sie empfangen hat.",0,146,character_speech,1,15,,PETER.,#peter,224.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+459,459,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich habe mit ihm um
+              fünf Batzen gewettet, und bereits die Hälfte davon vertrunken.",148,244,character_speech,1,15,,PETER.,#peter,224.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+460,460,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O, der arme Harlekin!",0,21,character_speech,1,15,,KOLOMBINE.,#kolombine,225.0,FEMALE,compassion,S,,1763.0,negative,emotions of suffering and empathy
+461,461,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"wenn ich das gewußt hätte, ich würde ihm gewiß zu seiner
+              mehrern Beruhigung noch eins mitgegeben haben.",22,139,character_speech,1,15,,KOLOMBINE.,#kolombine,225.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+462,462,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich kann Sie versichern, er ist so froh von seinen Schlägen, daß er sie gerne noch
+              einmal nehmen wird, wenn er die Ehre haben kann und Sie Sich die Mühe nehmen
+              wollen.",0,195,character_speech,1,15,,SCAPIN.,#scapin,226.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+463,463,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Kömmt Zeit, kömmt Rath.",0,23,character_speech,1,15,,KOLOMBINE.,#kolombine,227.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+464,464,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber es ärgert mich doch, daß die tausend Dukaten – – – Fast hätte ich Lust ihm den
+              Prozeß machen zu lassen.",0,122,character_speech,1,15,,BARTHOLD.,#barthold,228.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+465,465,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Falsche Münze!,123,137,character_speech,1,15,,BARTHOLD.,#barthold,228.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+466,466,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nothzucht – – – wahrhaftig, eins von Beyden
+              hat schon manchen ehrlichen Mann an den Galgen gebracht.",138,252,character_speech,1,15,,BARTHOLD.,#barthold,228.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+467,467,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber still; hört, geht Ihr
+              hin, und trinkt Eure Zeche.",253,321,character_speech,1,15,,BARTHOLD.,#barthold,228.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+468,468,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich will alles gut machen.,322,348,character_speech,1,15,,BARTHOLD.,#barthold,228.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+469,469,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sagt ihm aber nichts davon, daß
+              ich einige Nachricht von seiner Verkleidung habe.",349,444,character_speech,1,15,,BARTHOLD.,#barthold,228.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+470,470,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie sind ein redlicher Mann, Herr Barthold.",0,43,character_speech,1,15,,SCAPIN.,#scapin,229.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+471,471,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Kein Wort aus meinem Munde!,44,71,character_speech,1,15,,SCAPIN.,#scapin,229.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+472,472,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er hält den Finger auf den Mund, und geht ab.",0,45,stage_direction,1,15,speech_part,,#scapin,229.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+473,473,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Auf Ihre und Mamsell Kolombinens Gesundheit!,0,44,character_speech,1,15,,PETER.,#peter,230.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+474,474,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er hält die ganze Hand auf den Mund, und geht ab.",0,49,stage_direction,1,15,speech_part,,#peter,230.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+475,475,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Barthold und Kolombine.,0,23,stage_direction,1,16,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+476,476,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich zweifle nicht daran; oder Harlekin wird itzt kommen, nachdem er seine närrische
+              Probe gemacht, und um Dich anhalten.",0,134,character_speech,1,16,,BARTHOLD.,#barthold,231.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+477,477,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Euer sind viele, meine liebe Kolombine, und wenn
+              Harlekin bisweilen ein bischen einfältig ist, so mußt Du denken: daß diese seine
+              Einfalt unsrer Bühne vielen Vortheil bringt, und daß wir ohne ihn nicht wohl fertig
+              werden können.",135,405,character_speech,1,16,,BARTHOLD.,#barthold,231.0,MALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+478,478,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Was meynst Du also von ihm?,406,433,character_speech,1,16,,BARTHOLD.,#barthold,231.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+479,479,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Soll ich Ja, oder Nein sagen, wenn er um
+              Dich anhält?",434,501,character_speech,1,16,,BARTHOLD.,#barthold,231.0,MALE,being moved,S,,1763.0,being moved,being moved
+480,480,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nein, Papa!",0,11,character_speech,1,16,,KOLOMBINE.,#kolombine,232.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+481,481,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nein, Papa!",0,11,character_speech,1,16,,BARTHOLD.,#barthold,233.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+482,482,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"und warum denn, Nein, Papa?",12,39,character_speech,1,16,,BARTHOLD.,#barthold,233.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+483,483,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber ein Mann, der mir ein so schlechtes Vertrauen beweist?",0,59,character_speech,1,16,,KOLOMBINE.,#kolombine,234.0,FEMALE,being moved,S,,1763.0,being moved,being moved
+484,484,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Der erst mit Schlägen zur
+              Vernunft gebracht werden muß?",60,129,character_speech,1,16,,KOLOMBINE.,#kolombine,234.0,FEMALE,anger,S,,1763.0,negative,emotions of rejection
+485,485,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,– – – Der – – –,130,145,character_speech,1,16,,KOLOMBINE.,#kolombine,234.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+486,486,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O!,0,2,character_speech,1,16,,BARTHOLD.,#barthold,235.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+487,487,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"die Liebe macht auch kluge Leute zu Narren; man muß dieser Thorheit etwas zu gute
+              halten, und Schläge auf der Bühne beschimpfen Harlekin nicht.",3,160,character_speech,1,16,,BARTHOLD.,#barthold,235.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+488,488,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das ist so seine
+              tägliche Rolle.",161,207,character_speech,1,16,,BARTHOLD.,#barthold,235.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+489,489,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er wird zu allem geschlagen,  und sogar zum Hahnrey.",208,260,character_speech,1,16,,BARTHOLD.,#barthold,235.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+490,490,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Und
+              Du kannst mir als Deinem Vater wohl glauben, die Leute, welche eine
+              gewisse bekannte Art von Klugheit oder Narrheit haben, sind am besten zu regieren.",261,443,character_speech,1,16,,BARTHOLD.,#barthold,235.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+491,491,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die
+              mehrsten Menschen heirathen als Narren, und werden erst klug als Männer, wenn sie auch
+              im Ehestande nichts weiter lernen, als die Kunst zu schweigen.",444,625,character_speech,1,16,,BARTHOLD.,#barthold,235.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+492,492,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Zu einer guten
+              friedlichen Ehe gehört Jugend, Gesundheit und Geld.",626,706,character_speech,1,16,,BARTHOLD.,#barthold,235.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+493,493,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das übrige läßt sich entbehren,
+              insbesondere der Verstand, wenn man sein Brot mit der Dummheit verdienen muß.",707,830,character_speech,1,16,,BARTHOLD.,#barthold,235.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+494,494,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Es sey darum wie es wolle; da wir keine Comödie spielten, so hätte er mehr Verstand
+              gebrauchen sollen.",0,116,character_speech,1,16,,KOLOMBINE.,#kolombine,236.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+495,495,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er ist so dumm nicht, wie Sie meynen, und ich habe von Natur einen
+              verzweifelten Trieb die Listigen zu überlisten.",117,245,character_speech,1,16,,KOLOMBINE.,#kolombine,236.0,FEMALE,abhorrence,S,,1763.0,negative,emotions of rejection
+496,496,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Du kannst ihn nicht besser überlisten, als wenn Du ihn zum Manne nimmst.",0,72,character_speech,1,16,,BARTHOLD.,#barthold,237.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+497,497,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Erst soll er mir wenigstens vor allen Leuten öffentlich Abbitte thun, und dann will
+              ich sehen was ich thue.",0,121,character_speech,1,16,,KOLOMBINE.,#kolombine,238.0,FEMALE,anger,S,,1763.0,negative,emotions of rejection
+498,498,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Warum soll er denn für den Hauptmann von Astaroth Abbitte thun, mein Kind?",0,74,character_speech,1,16,,BARTHOLD.,#barthold,239.0,MALE,being moved,S,,1763.0,being moved,being moved
+499,499,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wir
+              brauchen es ja nicht zu wissen, daß Harlekin sich so übel aufgeführt hat.",75,166,character_speech,1,16,,BARTHOLD.,#barthold,239.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+500,500,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die Vorigen und Harlekin.,0,25,stage_direction,1,17,pre_speech,,,,,no_annotation,S,,1763.0,no_annotation,no_annotation
+501,501,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, mein liebes Kolombinchen, wollen wir itzt Braut und Bräutigam spielen?",0,75,character_speech,1,17,,HARLEKIN.,#harlekin,240.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+502,502,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich will wohl, wenn Sie will.",92,121,character_speech,1,17,,HARLEKIN.,#harlekin,240.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+503,503,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich will aber nicht.,0,20,character_speech,1,17,,KOLOMBINE.,#kolombine,241.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+504,504,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wie?,0,4,character_speech,1,17,,HARLEKIN.,#harlekin,242.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+505,505,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Du willst nicht?,5,21,character_speech,1,17,,HARLEKIN.,#harlekin,242.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+506,506,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Haben Sie mich diese Antwort nicht selbst gelehret?,0,51,character_speech,1,17,,KOLOMBINE.,#kolombine,243.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+507,507,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ja, das habe ich gethan; aber das war nur eine Rolle in der Comödie.",0,68,character_speech,1,17,,HARLEKIN.,#harlekin,244.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+508,508,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, ich spiele itzt die meinige.",0,33,character_speech,1,17,,KOLOMBINE.,#kolombine,245.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+509,509,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich will nicht.,34,49,character_speech,1,17,,KOLOMBINE.,#kolombine,245.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+510,510,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Kinder, was Ihr thun wollt, das thut bald; es ist meine Zeit zu trinken, und die
+              versäume ich nicht gern.",0,119,character_speech,1,17,,BARTHOLD.,#barthold,246.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+511,511,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Noch einen Augenblick, Herr Barthold, ich muß Ihnen erst einen listigen Streich
+              erzählen.",0,103,character_speech,1,17,,HARLEKIN.,#harlekin,247.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+512,512,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Kennen Sie den Herrn Hauptmann von Astaroth?,104,148,character_speech,1,17,,HARLEKIN.,#harlekin,247.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+513,513,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O ja, ganz gut.",0,15,character_speech,1,17,,BARTHOLD.,#barthold,248.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+514,514,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich habe noch eben die Ehre gehabt, ihn aus meinem Hause zu
+              prügeln.",16,98,character_speech,1,17,,BARTHOLD.,#barthold,248.0,MALE,abhorrence,S,,1763.0,negative,emotions of rejection
+515,515,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Es ist ein sehr schlechter Mensch.,0,34,character_speech,1,17,,KOLOMBINE.,#kolombine,249.0,FEMALE,abhorrence,S,,1763.0,negative,emotions of rejection
+516,516,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O wenn Sie wüßten!,0,18,character_speech,1,17,,HARLEKIN.,#harlekin,250.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+517,517,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er geht auf der Bühne herum, und freuet sich.",0,45,stage_direction,1,17,speech_part,,#harlekin,250.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+518,518,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich denke doch nicht, daß er sich der empfangenen Ehre rühmen wird?",0,67,character_speech,1,17,,BARTHOLD.,#barthold,251.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+519,519,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O, mein guter Herr Barthold, wenn Sie es wüßten!",0,48,character_speech,1,17,,HARLEKIN.,#harlekin,252.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+520,520,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Gelt?,49,54,character_speech,1,17,,HARLEKIN.,#harlekin,252.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+521,521,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie glauben den Herrn
+              Hauptmann von Astaroth geschlagen zu haben?",55,134,character_speech,1,17,,HARLEKIN.,#harlekin,252.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+522,522,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ha!,135,138,character_speech,1,17,,HARLEKIN.,#harlekin,252.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+523,523,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,ha!,139,142,character_speech,1,17,,HARLEKIN.,#harlekin,252.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+524,524,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,ha!,143,146,character_speech,1,17,,HARLEKIN.,#harlekin,252.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+525,525,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ja, das meyne ich.",0,18,character_speech,1,17,,BARTHOLD.,#barthold,253.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+526,526,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sehen Sie mich einmal recht an!,0,31,character_speech,1,17,,HARLEKIN.,#harlekin,254.0,MALE,love,S,,1763.0,positive,emotions of affection
+527,527,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,und fühlen hier auf meinen Rücken!,32,66,character_speech,1,17,,HARLEKIN.,#harlekin,254.0,MALE,being moved,S,,1763.0,being moved,being moved
+528,528,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,He!,67,70,character_speech,1,17,,HARLEKIN.,#harlekin,254.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+529,529,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,he!,71,74,character_speech,1,17,,HARLEKIN.,#harlekin,254.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+530,530,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,he,75,77,character_speech,1,17,,HARLEKIN.,#harlekin,254.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+531,531,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Bey meiner Ehre, ich sollte fast glauben, daß ich hierher geschlagen hätte.",0,75,character_speech,1,17,,BARTHOLD.,#barthold,255.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+532,532,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich kenne
+              ungefähr meinen Zug.",76,120,character_speech,1,17,,BARTHOLD.,#barthold,255.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+533,533,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber, wie geht das in aller Welt zu.",121,157,character_speech,1,17,,BARTHOLD.,#barthold,255.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+534,534,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O, mein lieber Harlekin, thun Sie mir den Gefallen, und sagen mir, ob nicht ein wenig
+              Hexeerey mit unterläuft?",0,124,character_speech,1,17,,KOLOMBINE.,#kolombine,256.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+535,535,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, was soll ich haben, wenn ich Dir das Geheimniß entdecke?",0,61,character_speech,1,17,,HARLEKIN.,#harlekin,257.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+536,536,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wir wollen auch oft Braut und Bräutigam mit einander spielen.,0,61,character_speech,1,17,,KOLOMBINE.,#kolombine,258.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+537,537,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Unvergleichlich!,0,16,character_speech,1,17,,HARLEKIN.,#harlekin,259.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+538,538,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"aber erst, mein liebes Kolombinchen, mußt Du mir im Vertrauen sagen,
+              warum Du so gern die Braut spielest?",17,136,character_speech,1,17,,HARLEKIN.,#harlekin,259.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+539,539,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das kann ich Ihnen nicht sagen; aber ich bin denn so munter, so leicht, so
+              aufgeräumt, so tanzend.",0,112,character_speech,1,17,,KOLOMBINE.,#kolombine,260.0,FEMALE,joy,S,,1763.0,positive,emotions of pleasure
+540,540,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Hast Du wohl schon so recht im Ernste getanzt?,0,46,character_speech,1,17,,HARLEKIN.,#harlekin,261.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+541,541,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, da Sie wieder so fragen, will ich das Geheimniß gar nicht mehr wissen.",0,75,character_speech,1,17,,KOLOMBINE.,#kolombine,262.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+542,542,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Gehen Sie
+              damit und eröffnen es meinem Cathrinchen.",76,141,character_speech,1,17,,KOLOMBINE.,#kolombine,262.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+543,543,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Du sollst es nun aber wissen.,0,29,character_speech,1,17,,HARLEKIN.,#harlekin,263.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+544,544,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Nichts!,0,7,character_speech,1,17,,KOLOMBINE.,#kolombine,264.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+545,545,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Itzt durchaus nicht; und wenn Sie mir auch tausend gerändelte Dukaten geben
+              wollten.",8,106,character_speech,1,17,,KOLOMBINE.,#kolombine,264.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+546,546,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich merke schon – – –,0,21,character_speech,1,17,,HARLEKIN.,#harlekin,265.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+547,547,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Vertrauen Sie es mir allein, Harlekin; bey Mädchen sind die Geheimnisse ohnehin etwas
+              lose verwahrt.",0,114,character_speech,1,17,,BARTHOLD.,#barthold,266.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+548,548,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sie fallen leicht aus der Hülse.,115,147,character_speech,1,17,,BARTHOLD.,#barthold,266.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+549,549,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Hören Sie, Herr Barthold; und St!",0,33,character_speech,1,17,,HARLEKIN.,#harlekin,267.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+550,550,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,St!,34,37,character_speech,1,17,,HARLEKIN.,#harlekin,267.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+551,551,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Kolombine – ich war der Hauptmann
+              von Astaroth.",38,99,character_speech,1,17,,HARLEKIN.,#harlekin,267.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+552,552,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich hatte nur seinen Rock über den meinigen gezogen.,100,152,character_speech,1,17,,HARLEKIN.,#harlekin,267.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+553,553,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ha!,153,156,character_speech,1,17,,HARLEKIN.,#harlekin,267.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+554,554,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,ha!,157,160,character_speech,1,17,,HARLEKIN.,#harlekin,267.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+555,555,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,ha!,161,164,character_speech,1,17,,HARLEKIN.,#harlekin,267.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+556,556,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Nimmermehr.,0,11,character_speech,1,17,,BARTHOLD.,#barthold,268.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+557,557,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,In der That.,0,12,character_speech,1,17,,HARLEKIN.,#harlekin,269.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+558,558,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Aber kannten Sie mich nicht hier an meinen bunten Hosen?,13,69,character_speech,1,17,,HARLEKIN.,#harlekin,269.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+559,559,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ha!,70,73,character_speech,1,17,,HARLEKIN.,#harlekin,269.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+560,560,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,ha!,74,77,character_speech,1,17,,HARLEKIN.,#harlekin,269.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+561,561,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,ha!,78,81,character_speech,1,17,,HARLEKIN.,#harlekin,269.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+562,562,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Jetzt besinne ich mich; ich sah etwas davon schimmern.,0,54,character_speech,1,17,,KOLOMBINE.,#kolombine,270.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+563,563,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Gelt!,0,5,character_speech,1,17,,HARLEKIN.,#harlekin,271.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+564,564,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"mein guter Herr Barthold, ich habe Sie einmal rechtschaffen angeführt?",6,76,character_speech,1,17,,HARLEKIN.,#harlekin,271.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+565,565,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ha!,77,80,character_speech,1,17,,HARLEKIN.,#harlekin,271.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+566,566,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,ha!,81,84,character_speech,1,17,,HARLEKIN.,#harlekin,271.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+567,567,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,ha!,99,102,character_speech,1,17,,HARLEKIN.,#harlekin,271.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+568,568,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Auf solche Art sollte der ehrlichste Mann betrogen werden.,0,58,character_speech,1,17,,BARTHOLD.,#barthold,272.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+569,569,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber, ich bitte Sie
+              tausendmal um Vergebung, daß ich mich so nachdrücklich gegen Sie herausgelassen
+              habe.",59,192,character_speech,1,17,,BARTHOLD.,#barthold,272.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+570,570,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O!,0,2,character_speech,1,17,,HARLEKIN.,#harlekin,273.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+571,571,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sie haben gar nicht Ursache.,3,31,character_speech,1,17,,HARLEKIN.,#harlekin,273.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+572,572,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich bin vielmehr froh, daß es so gekommen ist; denn
+              nunmehr bin ich versichert, daß Kolombinchen die Krone von allen Jungfrauen ist.",32,178,character_speech,1,17,,HARLEKIN.,#harlekin,273.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+573,573,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Meine
+              Scrupel sind nun alle weg.",179,225,character_speech,1,17,,HARLEKIN.,#harlekin,273.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+574,574,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die meinigen gehen aber nun erst an.,0,36,character_speech,1,17,,KOLOMBINE.,#kolombine,274.0,FEMALE,love,S,,1763.0,positive,emotions of affection
+575,575,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"O, mein allerliebstes Lockvögelchen, Du kannst mich nur wieder ein Vierteljahr auf
+              die Probe nehmen, ich bin es gerne zufrieden.",0,142,character_speech,1,17,,HARLEKIN.,#harlekin,275.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+576,576,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Wenn Sie will,
+                ich will wohl.",143,188,character_speech,1,17,,HARLEKIN.,#harlekin,275.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+577,577,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Die Probe mögte schlecht ausfallen; ich weiß schon, wie das geht.",0,65,character_speech,1,17,,KOLOMBINE.,#kolombine,276.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+578,578,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wie?,0,4,character_speech,1,17,,HARLEKIN.,#harlekin,277.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+579,579,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Du weißt es wie das geht?,5,30,character_speech,1,17,,HARLEKIN.,#harlekin,277.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+580,580,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Haben Sie noch Scrupel?,0,23,character_speech,1,17,,BARTHOLD.,#barthold,278.0,MALE,being moved,S,,1763.0,being moved,being moved
+581,581,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ach nein!,0,9,character_speech,1,17,,HARLEKIN.,#harlekin,279.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+582,582,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,aber Sie weiß wie das geht.,10,37,character_speech,1,17,,HARLEKIN.,#harlekin,279.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+583,583,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ja, ich weiß wie das geht.",0,26,character_speech,1,17,,KOLOMBINE.,#kolombine,280.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+584,584,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ein ehrliches Mädchen, das einen Mann auf die Probe nimmt,
+              muß ihn hernach immer behalten; und das will ich nicht.",27,155,character_speech,1,17,,KOLOMBINE.,#kolombine,280.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+585,585,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Höre, mein Schätzchen, wenn Du willst, so will ich es Dir schriftlich geben, daß die
+              Probe nicht länger als einen Monat währen soll.",0,146,character_speech,1,17,,HARLEKIN.,#harlekin,281.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+586,586,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Bemühen Sie Sich nicht.,0,23,character_speech,1,17,,KOLOMBINE.,#kolombine,282.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+587,587,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie wissen, was Sie mir zuvor sagten: Wenn die Comödie aus
+              ist, so hat die Freyerey ein Ende.",24,131,character_speech,1,17,,KOLOMBINE.,#kolombine,282.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+588,588,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich empfehle mich Ihnen ganz gehorsamst.,132,172,character_speech,1,17,,KOLOMBINE.,#kolombine,282.0,FEMALE,"admiration, reverence",S,,1763.0,positive,emotions of affection
+589,589,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sie will abgehn.,0,16,stage_direction,1,17,speech_part,,#kolombine,282.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+590,590,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O Herr Barthold!,0,16,character_speech,1,17,,HARLEKIN.,#harlekin,283.0,MALE,being moved,S,,1763.0,being moved,being moved
+591,591,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Herr Barthold!,17,31,character_speech,1,17,,HARLEKIN.,#harlekin,283.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+592,592,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"das wäre zu viel, erst Schläge, und nun gar einen
+              Korb!",32,101,character_speech,1,17,,HARLEKIN.,#harlekin,283.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+593,593,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Das ist eine Comödie und auch keine Comödie.,102,146,character_speech,1,17,,HARLEKIN.,#harlekin,283.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+594,594,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Hier Kolombine!,0,15,character_speech,1,17,,BARTHOLD.,#barthold,284.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+595,595,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Die Comödie ist noch nicht zu Ende.,16,51,character_speech,1,17,,BARTHOLD.,#barthold,284.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+596,596,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Du weißt, sie muß allezeit mit
+              einer Heirath schließen.",52,121,character_speech,1,17,,BARTHOLD.,#barthold,284.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+597,597,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nein, Papa!",0,11,character_speech,1,17,,KOLOMBINE.,#kolombine,285.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+598,598,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das ist nicht nöthig; wir haben viele Stücke auf unsrer Bühne, welche
+              sich bloß mit Schlägen endigen: und wenn es recht zugegangen wäre, so hätte Harlekin,
+              oder der Herr Hauptmann von Astaroth, auch damit zu Hause gehen müssen.",12,267,character_speech,1,17,,KOLOMBINE.,#kolombine,285.0,FEMALE,anger,S,,1763.0,negative,emotions of rejection
+599,599,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ich rathe Ihnen, mein lieber Harlekin, hier meiner Tochter Ihre Scrupel öffentlich
+              abzubitten.",0,108,character_speech,1,17,,BARTHOLD.,#barthold,286.0,MALE,friendship,S,,1763.0,positive,emotions of affection
+600,600,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O von Herzen gern!,0,18,character_speech,1,17,,HARLEKIN.,#harlekin,287.0,MALE,joy,S,,1763.0,positive,emotions of pleasure
+601,601,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Siehe hier, mein Engels Kolombinchen, ich liege hier vor Dir auf
+              den Knieen, und bitte öffentlich um Vergebung.",19,144,character_speech,1,17,,HARLEKIN.,#harlekin,287.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+602,602,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Sie müssen mir erst Ihr Schwert übergeben.,0,42,character_speech,1,17,,KOLOMBINE.,#kolombine,288.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+603,603,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Es schickt sich nicht, daß Sie solches in
+              dieser Stellung an der Seite tragen.",43,135,character_speech,1,17,,KOLOMBINE.,#kolombine,288.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+604,604,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Er überreicht ihr seinen Säbel.,0,31,stage_direction,1,17,speech_part,,#kolombine,288.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+605,605,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sie hätten verdient, Herr Hauptmann von Astaroth, daß ich Ihnen jetzt mit Ihrem
+              eigenen Säbel die Haut voll schlüge.",0,130,character_speech,1,17,,KOLOMBINE.,#kolombine,288.0,FEMALE,anger,S,,1763.0,negative,emotions of rejection
+606,606,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"– – – Weil Du es aber bist, mein allerliebstes
+              Harlekinchen, so will ich – –",131,221,character_speech,1,17,,KOLOMBINE.,#kolombine,288.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+607,607,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O kein: will ich nicht!,0,23,character_speech,1,17,,HARLEKIN.,#harlekin,289.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+608,608,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,kein will ich nicht!,24,44,character_speech,1,17,,HARLEKIN.,#harlekin,289.0,MALE,anger,S,,1763.0,negative,emotions of rejection
+609,609,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,So will ich – –,0,15,character_speech,1,17,,KOLOMBINE.,#kolombine,290.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+610,610,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Nun, so will ich – –",0,20,character_speech,1,17,,HARLEKIN.,#harlekin,291.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+611,611,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,So will ich die Strafe fürs erste noch aufschieben – – –,0,56,character_speech,1,17,,KOLOMBINE.,#kolombine,292.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+612,612,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Nur nicht bis in den Ehstand!,0,29,character_speech,1,17,,HARLEKIN.,#harlekin,293.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+613,613,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Aber mit der ausdrücklichen Bedingung: daß wir noch immerfort alle Tage Braut und
+              Bräutigam spielen.",0,114,character_speech,1,17,,KOLOMBINE.,#kolombine,294.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+614,614,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O ja!,0,5,character_speech,1,17,,HARLEKIN.,#harlekin,295.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+615,615,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,o ja!,6,11,character_speech,1,17,,HARLEKIN.,#harlekin,295.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+616,616,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Ach, meine lieben Kinder, ihr wißt noch nicht, was dazu gehört.",0,63,character_speech,1,17,,BARTHOLD.,#barthold,296.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+617,617,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Wie?,0,4,character_speech,1,17,,HARLEKIN.,#harlekin,297.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+618,618,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Herr Barthold, so bekomme ich ja alle Tage von der braunen Kruste.",5,71,character_speech,1,17,,HARLEKIN.,#harlekin,297.0,MALE,suffering,S,,1763.0,negative,emotions of suffering and empathy
+619,619,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Das ist für eine tägliche Kost etwas zu hart; und wenn man ein Stück zu oft
+              widerhohlt, so werden es sogar die Zuschauer müde.",0,140,character_speech,1,17,,BARTHOLD.,#barthold,298.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+620,620,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Sorgen Sie nicht, Papa; ich weiß schon, wie Harlekin sie am liebsten ißt.",0,73,character_speech,1,17,,KOLOMBINE.,#kolombine,299.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+621,621,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Er kann es
+              ja probiren, und wenn er sie dann nicht mehr mag, so will ich ihm was anders
+              vorsetzen.",74,200,character_speech,1,17,,KOLOMBINE.,#kolombine,299.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+622,622,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,O du liebe Einfalt!,0,19,character_speech,1,17,,BARTHOLD.,#barthold,300.0,MALE,love,S,,1763.0,positive,emotions of affection
+623,623,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"aber kommt Kinder, weil der Braten noch warm ist.",20,69,character_speech,1,17,,BARTHOLD.,#barthold,300.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+624,624,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Ich bin fertig.,0,15,character_speech,1,17,,KOLOMBINE.,#kolombine,301.0,FEMALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+625,625,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,Je nun; so wollen wir den Zuschauern eine gesegnete Abendmahlzeit wünschen.,0,75,character_speech,1,17,,BARTHOLD.,#barthold,302.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation
+626,626,GerDracor/moeser-die-tugend-auf-der-schaubuehne.xml,"Und zur Probe, eine braune Kruste.",0,34,character_speech,1,17,,HARLEKIN.,#harlekin,303.0,MALE,no_annotation,S,,1763.0,no_annotation,no_annotation

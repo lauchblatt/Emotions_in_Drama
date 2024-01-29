@@ -1,0 +1,1207 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/voss-faust.xml,"Oeder Platz im Spessart, mit Ruinen einer gothischen Burg im Hintergrunde.",0,74,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+1,1,GerDracor/voss-faust.xml,"Nacht,
+            Sturm und Donner.",75,111,stage_direction,1,1,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+2,2,GerDracor/voss-faust.xml,Man hört schon gegen das Ende der Ouvertüre ihren leisen Gesang.,0,64,stage_direction,1,1,speech_part,,#geisterstimmen-geisterchor,1.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+3,3,GerDracor/voss-faust.xml,"Der Vorhang geht auf, wenn er schon eine Weile begann.",0,54,stage_direction,1,1,speech_part,,#geisterstimmen-geisterchor,1.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+4,4,GerDracor/voss-faust.xml,"
+              Was in Klüften haus't,
+              Hoch in Lüften saus't,
+              Laut in Meeres Brausen zischt,
+              Wild in Flammen Grausen mischt,
+              Schürt höllische Gewitterpracht,
+              Tanzt auf dem Sturm der Mitternacht.",0,263,character_speech,1,1,,GEISTERSTIMMEN UNSICHTBAR,#geisterstimmen-geisterchor,1.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+5,5,GerDracor/voss-faust.xml,"Aus verdammter Geister Pfuhl,
+              Wirbelt's um den Meister-Stuhl.",279,354,character_speech,1,1,,GEISTERSTIMMEN UNSICHTBAR,#geisterstimmen-geisterchor,1.0,UNKNOWN,abhorrence,T,,1823.0,negative,emotions of rejection
+6,6,GerDracor/voss-faust.xml,"Ein Wurm dem Kreise naht,
+              Ihn weise faht!",369,424,character_speech,1,1,,GEISTERSTIMMEN UNSICHTBAR,#geisterstimmen-geisterchor,1.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+7,7,GerDracor/voss-faust.xml,Faust.,0,6,stage_direction,1,2,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+8,8,GerDracor/voss-faust.xml,Guttenberg.,7,18,stage_direction,1,2,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+9,9,GerDracor/voss-faust.xml,Was folgt mir nach?,0,19,character_speech,1,2,,FAUST.,#faust,2.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+10,10,GerDracor/voss-faust.xml,Die Sorge um den Freund.,0,24,character_speech,1,2,,GUTTENBERG.,#guttenberg,3.0,MALE,friendship,T,,1823.0,positive,emotions of affection
+11,11,GerDracor/voss-faust.xml,"
+              Sie wache in der Menschen bangen Kreis,
+              Nicht wo die Oede schirmend mich umfängt.",0,110,character_speech,1,2,,FAUST.,#faust,4.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+12,12,GerDracor/voss-faust.xml,Dem heitern Auge lächeln Stadt und Fluren.,0,42,character_speech,1,2,,GUTTENBERG.,#guttenberg,5.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+13,13,GerDracor/voss-faust.xml,mit stolzer Wehmuth.,0,20,stage_direction,1,2,speech_part,,#faust,6.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+14,14,GerDracor/voss-faust.xml,"
+              An Bildners Marmor hab' ich auch geweint,
+              Den Namen soll mir nicht der Tod begraben.",0,113,character_speech,1,2,,FAUST,#faust,6.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+15,15,GerDracor/voss-faust.xml,"
+              Freund, denke an des Jünglings Sonnenflug
+              Und achte auf der Fabel tiefe Lehre!",0,107,character_speech,1,2,,GUTTENBERG.,#guttenberg,7.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+16,16,GerDracor/voss-faust.xml,"
+              Und wollt' ich Ruhm denn ohne That?",0,50,character_speech,1,2,,FAUST.,#faust,8.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+17,17,GerDracor/voss-faust.xml,"Fleht' ich
+              Um ein Almosen bettelnd zur Geschichte?",51,115,character_speech,1,2,,FAUST.,#faust,8.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+18,18,GerDracor/voss-faust.xml,Wollt' ich um Blut der Nachwelt Hymnen kaufen?,130,176,character_speech,1,2,,FAUST.,#faust,8.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+19,19,GerDracor/voss-faust.xml,"Nein, mächtig laut rief es in mir: Hinaus
+              Weit über das gemeine Hohe, nicht
+              Dem engen Vaterland, der Menschheit meine Liebe!",191,343,character_speech,1,2,,FAUST.,#faust,8.0,MALE,love,T,,1823.0,positive,emotions of affection
+20,20,GerDracor/voss-faust.xml,"–
+              Den Herrn der Schöpfung sah ich nur in Ketten –",344,407,character_speech,1,2,,FAUST.,#faust,8.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+21,21,GerDracor/voss-faust.xml,Und sind die Machtgebieter nicht gefesselt?,0,43,character_speech,1,2,,GUTTENBERG.,#guttenberg,9.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+22,22,GerDracor/voss-faust.xml,Krieg und Verwüstung toben überall –,0,36,character_speech,1,2,,FAUST.,#faust,10.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+23,23,GerDracor/voss-faust.xml,"Ja, Streit ist schon das Leben, Tod die Ruhe.",0,45,character_speech,1,2,,GUTTENBERG.,#guttenberg,11.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+24,24,GerDracor/voss-faust.xml,Es waffnete schon lange mir den Grimm –,0,39,character_speech,1,2,,FAUST.,#faust,12.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+25,25,GerDracor/voss-faust.xml,Den Kampf nur wende zu der eignen Brust!,0,40,character_speech,1,2,,GUTTENBERG.,#guttenberg,13.0,MALE,love,T,,1823.0,positive,emotions of affection
+26,26,GerDracor/voss-faust.xml,"
+              Die Wahrheit sollte mir hinauf zum Thron,
+              Die Tirannei, der Aberglaube, fallen –
+              Da schlägt die Stunde mir des Genius,
+              Ins Dasein trägt sie siegend die Entdeckung,
+              Der Worte tausendfaches Abbild schnell
+              Am Hochaltar Minervens darzubringen,
+              Daß es die Göttin allen Zonen sende,
+              Und tauschender Begriffe Lichtverkehr
+              Dem Leben höh're Geisterstufen baut – doch ach!",0,489,character_speech,1,2,,FAUST.,#faust,14.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+27,27,GerDracor/voss-faust.xml,"Geschmäht von Künstlerneid, dem winz'gen Zwerg,
+              Von Priesterwahn, der feiges Dunkel segnet,
+              Muß der Erfinder in die Wüste fliehn,
+              An den nur der Phönizier Thaut sich mißt.",504,717,character_speech,1,2,,FAUST.,#faust,14.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+28,28,GerDracor/voss-faust.xml,im kräftigen Accord.,0,20,stage_direction,1,2,speech_part,,#geisterstimme,15.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+29,29,GerDracor/voss-faust.xml,"
+              Wache
+              Rache!",0,41,character_speech,1,2,,GEISTERSTIMME,#geisterstimme,15.0,UNKNOWN,anger,T,,1823.0,negative,emotions of rejection
+30,30,GerDracor/voss-faust.xml,betreten.,0,9,stage_direction,1,2,speech_part,,#faust,16.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+31,31,GerDracor/voss-faust.xml,"Ha, welcher Chor!",0,17,character_speech,1,2,,FAUST,#faust,16.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+32,32,GerDracor/voss-faust.xml,"– Wie, oder täusch' ich mich?",18,47,character_speech,1,2,,FAUST,#faust,16.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+33,33,GerDracor/voss-faust.xml,der nichts hörte.,0,17,stage_direction,1,2,speech_part,,#guttenberg,17.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+34,34,GerDracor/voss-faust.xml,"
+              Von Dichtergipfeln prüfest Du Dein Kunstwerk,
+              Gerecht vernimm auch thalentstiegne Rede:
+              Wo Du der Weisheit Ideal umarmst,
+              Seh' ich dem Irrthum neue Bahnen ebnen,
+              Die Pest der Thorheit steckt die Denker an,
+              Und blut'gen Streit entflammet die Partheiwuth.",0,338,character_speech,1,2,,GUTTENBERG,#guttenberg,17.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+35,35,GerDracor/voss-faust.xml,"Entrathe eitlen Wunsch um holden Frieden,
+              Ich melde Liebesgruß, geerbt hat Seraphina
+              Ein Hüttlein dort im freien Schweitzerthal,
+              Dahin enteile –",354,540,character_speech,1,2,,GUTTENBERG,#guttenberg,17.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+36,36,GerDracor/voss-faust.xml,"
+              Ein Prometheus ist
+              Das Mädchen, will des Busens Himmelsfunken
+              Mir rauben –",0,117,character_speech,1,2,,FAUST.,#faust,18.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+37,37,GerDracor/voss-faust.xml,ihm einen Brief reichend.,0,25,stage_direction,1,2,speech_part,,#guttenberg,19.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+38,38,GerDracor/voss-faust.xml,Dich mit seinem Strahl durchwärmen.,0,35,character_speech,1,2,,GUTTENBERG,#guttenberg,19.0,MALE,desire,T,,1823.0,positive,emotions of affection
+39,39,GerDracor/voss-faust.xml,sinnend und mit einiger Schwärmerei.,0,36,stage_direction,1,2,speech_part,,#faust,20.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+40,40,GerDracor/voss-faust.xml,"
+              Noch tönet Minnewonneklang das Herz –
+              Allein die Sanfte lenkt den Flug mir erdenwärts –
+              Und zu den Sternen will ich liebend schweben.",0,176,character_speech,1,2,,FAUST,#faust,20.0,MALE,love,T,,1823.0,positive,emotions of affection
+41,41,GerDracor/voss-faust.xml,"
+              Strebe,
+              Schwebe",0,44,character_speech,1,2,,GEISTERCHOR.,#geisterstimmen-geisterchor,21.0,UNKNOWN,being moved,T,,1823.0,being moved,being moved
+42,42,GerDracor/voss-faust.xml,Horch dem Gesang!,0,17,character_speech,1,2,,FAUST.,#faust,22.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+43,43,GerDracor/voss-faust.xml,Ich hörte nichts!,0,17,character_speech,1,2,,GUTTENBERG.,#guttenberg,23.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+44,44,GerDracor/voss-faust.xml,Befremdend –,0,12,character_speech,1,2,,FAUST.,#faust,24.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+45,45,GerDracor/voss-faust.xml,Kalt.,0,5,stage_direction,1,2,speech_part,,#faust,24.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+46,46,GerDracor/voss-faust.xml,"
+              Die zarte Blumenkette sei zerbrochen,
+              Die durch der Tiefe Auen nur sich schlängt –
+              Doch lohnte ich die Engeltreue gern –
+              O laß mich einsam durch die Oede wandeln,
+              Und harre meiner Morgen dort – wohl seltsam
+              Jagt mich's umher –",0,311,character_speech,1,2,,FAUST.,#faust,24.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+47,47,GerDracor/voss-faust.xml,Zieht eine Papierrolle aus dem Busen.,0,37,stage_direction,1,2,speech_part,,#faust,24.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+48,48,GerDracor/voss-faust.xml,"
+              Was deutet diese Rolle,
+              Bestäubt und wurmzernagt, als rettete
+              Sie durch Jahrtausende ein Mumiensarg?",0,143,character_speech,1,2,,GUTTENBERG.,#guttenberg,25.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+49,49,GerDracor/voss-faust.xml,"
+              Noch nicht entfaltet ward des Sehers Schrift,
+              Die auf den ausgespannten Todesvorhang
+              Dem Lehrentbrannten Götter-Klarheit wirft –",0,171,character_speech,1,2,,FAUST.,#faust,26.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+50,50,GerDracor/voss-faust.xml,An diesem Nachtflor kniee Unterwerfung.,0,39,character_speech,1,2,,GUTTENBERG.,#guttenberg,27.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+51,51,GerDracor/voss-faust.xml,"
+              Wie, fragen dich des Lebens Räthsel nimmer?",0,58,character_speech,1,2,,FAUST.,#faust,28.0,MALE,being moved,T,,1823.0,being moved,being moved
+52,52,GerDracor/voss-faust.xml,Was ist der Mensch – ein hohngeneckter Wurm?,73,117,character_speech,1,2,,FAUST.,#faust,28.0,MALE,being moved,T,,1823.0,being moved,being moved
+53,53,GerDracor/voss-faust.xml,"Ein Gott in Banden, den Verklärung heimführt?",132,177,character_speech,1,2,,FAUST.,#faust,28.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+54,54,GerDracor/voss-faust.xml,Verspottet ein gebundner Wille Freiheit?,192,232,character_speech,1,2,,FAUST.,#faust,28.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+55,55,GerDracor/voss-faust.xml,"Wo ist der Zeit Beginn, des Raumes Ende?",247,287,character_speech,1,2,,FAUST.,#faust,28.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+56,56,GerDracor/voss-faust.xml,"Das obre Glied der langen Wesenkette,
+              Das in die Sternenmeere ohne Ufer
+              Den Tropfen warf, an dessen Rand wir athmen,
+              Ist es ein Gott des Hasses, der Erbarmung?",302,503,character_speech,1,2,,FAUST.,#faust,28.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+57,57,GerDracor/voss-faust.xml,"Wer stillt den Wissensdrang – wer kundet nur,
+              Was mir das wuthempörte Schicksal will?",518,617,character_speech,1,2,,FAUST.,#faust,28.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+58,58,GerDracor/voss-faust.xml,Ein feurig Schwert läßt sich sehen.,0,35,stage_direction,1,2,speech_part,,#faust,28.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+59,59,GerDracor/voss-faust.xml,"
+              O rette mich – wie auf Damokles Haupt
+              Sinkt grauenvoll ein Schwert am Haare nieder!",0,112,character_speech,1,2,,FAUST.,#faust,28.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+60,60,GerDracor/voss-faust.xml,"Wo, Träumer?",0,12,character_speech,1,2,,GUTTENBERG.,#guttenberg,29.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+61,61,GerDracor/voss-faust.xml,– Schwer erkrankte Dein Gehirn.,13,44,character_speech,1,2,,GUTTENBERG.,#guttenberg,29.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+62,62,GerDracor/voss-faust.xml,Eine Hand schwebt daher.,0,24,stage_direction,1,2,speech_part,,#guttenberg,29.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+63,63,GerDracor/voss-faust.xml,"Und wenn ich zu Dir flehe, o Erscheinung –",0,42,character_speech,1,2,,FAUST.,#faust,30.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+64,64,GerDracor/voss-faust.xml,Die Hand nimmt das Schwert weg.,0,31,stage_direction,1,2,speech_part,,#faust,30.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+65,65,GerDracor/voss-faust.xml,Was äfft den Sinn hier im Druidenhain?,0,38,character_speech,1,2,,FAUST.,#faust,30.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+66,66,GerDracor/voss-faust.xml,Irrt zwischen dem Gesträuch und den Mauern umher.,0,49,stage_direction,1,2,speech_part,,#faust,30.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+67,67,GerDracor/voss-faust.xml,Arie.,0,5,stage_direction,1,2,speech_part,,#guttenberg,31.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+68,68,GerDracor/voss-faust.xml,"
+              Nie frage Wahn
+              Um Götterplan
+               Das dunkle Leben;
+              Weisheit hebt den Schleier nicht,
+              Glaube nur ahnt schönes Licht,
+              Wo die Zweifler beben!",0,220,character_speech,1,2,,GUTTENBERG.,#guttenberg,31.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+69,69,GerDracor/voss-faust.xml,Ab.,0,3,stage_direction,1,2,speech_part,,#guttenberg,31.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+70,70,GerDracor/voss-faust.xml,"allein, in einer Art Verzückung.",0,32,stage_direction,1,3,speech_part,,#faust,32.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+71,71,GerDracor/voss-faust.xml,"
+              Pyrithous ging hin zur Todesgruft,
+              Nicht konnt' es Theseus tragen.",0,95,character_speech,1,3,,FAUST,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+72,72,GerDracor/voss-faust.xml,"Wer zeigt mir Acherons graue Kluft,
+              Ich, der Starke vermag nicht zu zagen.",110,198,character_speech,1,3,,FAUST,#faust,32.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+73,73,GerDracor/voss-faust.xml,"Nichts fand ich – oder rufet die Magie
+              Des Zauberblattes schon geheimen Wesen?",213,305,character_speech,1,3,,FAUST,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+74,74,GerDracor/voss-faust.xml,Zaudert den Brief zu erbrechen.,0,31,stage_direction,1,3,speech_part,,#faust,32.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+75,75,GerDracor/voss-faust.xml,Erbrech' ich ihn – ich bebe – holde Züge –,0,42,character_speech,1,3,,FAUST,#faust,32.0,MALE,love,T,,1823.0,positive,emotions of affection
+76,76,GerDracor/voss-faust.xml,Sieht über ihn hinweg.,0,22,stage_direction,1,3,speech_part,,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+77,77,GerDracor/voss-faust.xml,"
+              Ist's Frevel, übern Rubikon zu springen,
+              So wagt ihn Cäsar um Unsterblichkeit –",0,108,character_speech,1,3,,FAUST,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+78,78,GerDracor/voss-faust.xml,Liest.,0,6,stage_direction,1,3,speech_part,,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+79,79,GerDracor/voss-faust.xml,"
+              Wie Träume – Scheiterhaufen – liebend Herz,
+              Wohl mahnt es hier: entflieh zu Seraphinen!",0,116,character_speech,1,3,,FAUST,#faust,32.0,MALE,love,T,,1823.0,positive,emotions of affection
+80,80,GerDracor/voss-faust.xml,Das Gewitter nimmt fürchterlich zu.,0,35,stage_direction,1,3,speech_part,,#faust,32.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+81,81,GerDracor/voss-faust.xml,Verderben wüthen zornige Gewitter.,0,34,character_speech,1,3,,FAUST,#faust,32.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+82,82,GerDracor/voss-faust.xml,–,35,36,character_speech,1,3,,FAUST,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+83,83,GerDracor/voss-faust.xml,Auf den Brief deutend.,0,22,stage_direction,1,3,speech_part,,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+84,84,GerDracor/voss-faust.xml,Allein wie kann der edle Stolz es eingeh'n?,0,43,character_speech,1,3,,FAUST,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+85,85,GerDracor/voss-faust.xml,"Zerreißt den Brief, der Sturm hört auf.",0,39,stage_direction,1,3,speech_part,,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+86,86,GerDracor/voss-faust.xml,"
+              Es mahnt ein unbekannter Zug an Schlummer,
+              Und täuschen mich die klaren Sinne nicht,
+              So endete das grimme Sturmgeheul,
+              Mich wehen milde Frühlingslüfte an.",0,211,character_speech,1,3,,FAUST,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+87,87,GerDracor/voss-faust.xml,Musik.,0,6,stage_direction,1,3,speech_part,,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+88,88,GerDracor/voss-faust.xml,"
+              Horch – süßen Harfenton vernimmt das Ohr.",0,56,character_speech,1,3,,FAUST,#faust,32.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+89,89,GerDracor/voss-faust.xml,Umwallt ein Dunstgebild des Haines Zweige?,71,113,character_speech,1,3,,FAUST,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+90,90,GerDracor/voss-faust.xml,Gestaltet sich sein Umriß – schlaf ich denn?,129,173,character_speech,1,3,,FAUST,#faust,32.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+91,91,GerDracor/voss-faust.xml,"Ein Wandrer, den zum Abgrund Furien geisseln –
+              Mitleid, grausame Schaar –",188,275,character_speech,1,3,,FAUST,#faust,32.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+92,92,GerDracor/voss-faust.xml,"Unter den letzten Worten ist ein leichter Dunst zur Höhe gestiegen, durch den man
+              endlich einen jammernden Mann erblickt, von Schreckensgestalten nach einer tiefen
+              Kluft gedrängt.",0,207,stage_direction,1,3,speech_part,,#faust,32.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+93,93,GerDracor/voss-faust.xml,"
+              Verloren,
+              Jammererkohren,
+              Wimmre bis an Grabes-Rand.",0,95,character_speech,1,4,,FURIEN.,#furien,33.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+94,94,GerDracor/voss-faust.xml,"
+              In Abgrund sinken?",0,33,character_speech,1,4,,WANDRER.,#wandrer,34.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+95,95,GerDracor/voss-faust.xml,Holde weibliche Stimme.,48,71,character_speech,1,4,,WANDRER.,#wandrer,34.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+96,96,GerDracor/voss-faust.xml,"Blüthen winken,
+              Reiche zur Stunde
+              Dem freundlichen Bunde
+              Muthig die Hand!",86,201,character_speech,1,4,,WANDRER.,#wandrer,34.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+97,97,GerDracor/voss-faust.xml,"
+              Der gütigen Stimme
+              Das Herz erbebet!",0,65,character_speech,1,4,,WANDRER.,#wandrer,35.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+98,98,GerDracor/voss-faust.xml,"
+              Zum wüthigen Grimme
+              Die Geissel hebet!",0,67,character_speech,1,4,,FURIEN.,#furien,36.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+99,99,GerDracor/voss-faust.xml,"
+              Mag den Hehren
+              Gold beglücken,
+              Lieb' entzücken,
+              Ruhm verklären,
+              Ich bin das Gewähren!",0,156,character_speech,1,4,,WEIBLICHE STIMME.,#weibliche_stimme,37.0,FEMALE,joy,T,,1823.0,positive,emotions of pleasure
+100,100,GerDracor/voss-faust.xml,"
+              O daß ein treuer Geist
+              Mich riefe!",0,63,character_speech,1,4,,WANDRER.,#wandrer,38.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+101,101,GerDracor/voss-faust.xml,"
+              Reißt, reißt
+              Ihn zur Tiefe!",0,56,character_speech,1,4,,FURIEN.,#furien,39.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+102,102,GerDracor/voss-faust.xml,Rufe mir!,0,9,character_speech,1,4,,WEIBLICHE STIMME.,#weibliche_stimme,40.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+103,103,GerDracor/voss-faust.xml,"
+              O Zagen,
+              Nicht darf ich's wagen!",0,61,character_speech,1,4,,WANDRER.,#wandrer,41.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+104,104,GerDracor/voss-faust.xml,So schaue meine Treuen hier!,0,28,character_speech,1,4,,WEIBLICHE STIMME.,#weibliche_stimme,42.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+105,105,GerDracor/voss-faust.xml,Wandrer und Furien verschwinden.,0,32,stage_direction,1,4,speech_part,,#weibliche_stimme,42.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+106,106,GerDracor/voss-faust.xml,"Eine köstlich drappirte Mannsgestalt mit einem
+              Füllhorn steigt aus der Erde.",33,123,stage_direction,1,4,speech_part,,#weibliche_stimme,42.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+107,107,GerDracor/voss-faust.xml,recitirt unter Begleitung von Saiteninstrumenten.,0,49,stage_direction,1,4,speech_part,,#plutus,43.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+108,108,GerDracor/voss-faust.xml,"
+              Das Leben ist Käufer, ein Markt die Welt,
+              Sie handelt, mit dem sich Plutus gesellt,
+              Aus reichem Schacht, aus umwogten Hafen,
+              Bringt Edelgut ihm die Schaar meiner Sclaven.",0,227,character_speech,1,4,,PLUTUS,#plutus,43.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+109,109,GerDracor/voss-faust.xml,Neger bringen Kostbarkeiten und verschwinden.,0,45,stage_direction,1,4,speech_part,,#plutus,43.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+110,110,GerDracor/voss-faust.xml,"
+              Auch ohne Verdienst ist der Kranz ihm gewährt,
+              Das Recht neigt vor ihm Wage und Schwert.",0,117,character_speech,1,4,,PLUTUS,#plutus,43.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+111,111,GerDracor/voss-faust.xml,"Eine Gerechtigkeit legt Wage und Schwert, ein Held und ein mit einer Mauerkrone
+              gezierter Mann, legen Lorbeer und Krone hin und verschwinden.",0,155,stage_direction,1,4,speech_part,,#plutus,43.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+112,112,GerDracor/voss-faust.xml,Er trinket Wonne am üppigen Feste.,0,34,character_speech,1,4,,PLUTUS,#plutus,43.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+113,113,GerDracor/voss-faust.xml,"Eine reiche Tafel steigt empor, und versinkt bei der folgenden Zeile.",0,69,stage_direction,1,4,speech_part,,#plutus,43.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+114,114,GerDracor/voss-faust.xml,"Er winket, dem Boden entsteigen Paläste.",0,40,character_speech,1,4,,PLUTUS,#plutus,43.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+115,115,GerDracor/voss-faust.xml,Ein schönes Gebäude steht da.,0,29,stage_direction,1,4,speech_part,,#plutus,43.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+116,116,GerDracor/voss-faust.xml,"Das Diadem, der gebietende Stab,",0,32,character_speech,1,4,,PLUTUS,#plutus,43.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+117,117,GerDracor/voss-faust.xml,Krone und Scepter fallen nieder.,0,32,stage_direction,1,4,speech_part,,#plutus,43.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+118,118,GerDracor/voss-faust.xml,Entsinken dem Füllhorn – jetzt laßt mich hinab!,0,47,character_speech,1,4,,PLUTUS,#plutus,43.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+119,119,GerDracor/voss-faust.xml,Wolken verhüllen die Erscheinung.,0,33,stage_direction,1,4,speech_part,,#plutus,43.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+120,120,GerDracor/voss-faust.xml,wie im Schlummer.,0,17,stage_direction,1,4,speech_part,,#faust,44.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+121,121,GerDracor/voss-faust.xml,O Armuth – klagende Entbehrerin!,0,32,character_speech,1,4,,FAUST,#faust,44.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+122,122,GerDracor/voss-faust.xml,Sanfte Musik von Flöten und Harfen.,0,35,stage_direction,1,4,speech_part,,#faust,44.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+123,123,GerDracor/voss-faust.xml,Die Wolken zertheilen sich.,36,63,stage_direction,1,4,speech_part,,#faust,44.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+124,124,GerDracor/voss-faust.xml,"Man sieht eine
+              dürre beschneite Heide.",64,116,stage_direction,1,4,speech_part,,#faust,44.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+125,125,GerDracor/voss-faust.xml,Der Liebesgott kömmt durch das Gestrüppe.,117,158,stage_direction,1,4,speech_part,,#faust,44.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+126,126,GerDracor/voss-faust.xml,recitirt unter Flötenbegleitung.,0,32,stage_direction,1,4,speech_part,,#amor,45.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+127,127,GerDracor/voss-faust.xml,"
+              Oft darbet die Habe auf Hügeln von Gold,
+              Lacht nicht der Knabe mit Flügeln ihr hold;
+              Mit seligem Hauch muß er es umweben,
+              Und Glorien schmücken das irdische Leben.",0,220,character_speech,1,4,,AMOR,#amor,45.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+128,128,GerDracor/voss-faust.xml,"Mein Reich ist die Tiefe der athmenden Brust,
+              Und Amors Satzung die himmlische Lust.",235,333,character_speech,1,4,,AMOR,#amor,45.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+129,129,GerDracor/voss-faust.xml,"Nah' ich dem winterlich starren Gefilde,
+              Blüht glücklicher Inseln wonnige Milde!",348,442,character_speech,1,4,,AMOR,#amor,45.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+130,130,GerDracor/voss-faust.xml,"Wie Amor erschien, sproßte eine Blume nach der andern auf, daß nun ein lieblicher
+              Garten ihn umgiebt.",0,115,stage_direction,1,4,speech_part,,#amor,45.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+131,131,GerDracor/voss-faust.xml,Mich Nymphen mit lieblichen Tänzen umkreisen.,0,45,character_speech,1,4,,AMOR,#amor,45.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+132,132,GerDracor/voss-faust.xml,"Aus Blumensträuchen werden Mädchen, die um Amor tanzen.",0,55,stage_direction,1,4,speech_part,,#amor,45.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+133,133,GerDracor/voss-faust.xml,"Da knieen die Thoren, da knieen die Weisen.",0,43,character_speech,1,4,,AMOR,#amor,45.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+134,134,GerDracor/voss-faust.xml,"Aus anderen Büschen werden Männer, die vor den Mädchen hinsinken.",0,65,stage_direction,1,4,speech_part,,#amor,45.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+135,135,GerDracor/voss-faust.xml,"Sie
+              verschwinden wieder.",66,104,stage_direction,1,4,speech_part,,#amor,45.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+136,136,GerDracor/voss-faust.xml,dehnt seine Arme aus.,0,21,stage_direction,1,4,speech_part,,#faust,46.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+137,137,GerDracor/voss-faust.xml,zielt mit seinem Bogen nach Faust.,0,34,stage_direction,1,4,speech_part,,#amor,47.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+138,138,GerDracor/voss-faust.xml,"Du klagst ob meines Pfeiles Wunde,",0,34,character_speech,1,4,,AMOR,#amor,47.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+139,139,GerDracor/voss-faust.xml,Eine hohe Schönheit entwickelt sich aus dem Rosenstamm der Mitte.,0,65,stage_direction,1,4,speech_part,,#amor,47.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+140,140,GerDracor/voss-faust.xml,Dir lächelt Erhörung vom rosigen Munde.,0,39,character_speech,1,4,,AMOR,#amor,47.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+141,141,GerDracor/voss-faust.xml,Das Mädchen breitet ihre Arme nach Faust hin aus.,0,49,stage_direction,1,4,speech_part,,#amor,47.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+142,142,GerDracor/voss-faust.xml,Leichter Donner.,50,66,stage_direction,1,4,speech_part,,#amor,47.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+143,143,GerDracor/voss-faust.xml,"Gewölke
+              verhüllen die Scene des Hintergrundes.",67,127,stage_direction,1,4,speech_part,,#amor,47.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+144,144,GerDracor/voss-faust.xml,"
+              O Anmuth – Hoheit – schönrer Welt entsandt!",0,58,character_speech,1,4,,FAUST.,#faust,48.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+145,145,GerDracor/voss-faust.xml,"In mir erwacht, was nimmer ich empfand.",73,112,character_speech,1,4,,FAUST.,#faust,48.0,MALE,being moved,T,,1823.0,being moved,being moved
+146,146,GerDracor/voss-faust.xml,Verkündigende Prachtmusik von Trompeten und Hörnern.,0,52,stage_direction,1,4,speech_part,,#faust,48.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+147,147,GerDracor/voss-faust.xml,Die Wolken theilen sich.,53,77,stage_direction,1,4,speech_part,,#faust,48.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+148,148,GerDracor/voss-faust.xml,"Der
+              Ruhm in weiblicher Gestalt mit Buch, Tuba und Griffel schwebt aus der Höhe
+              herab.",78,191,stage_direction,1,4,speech_part,,#faust,48.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+149,149,GerDracor/voss-faust.xml,recitirt unter heroischer Begleitung.,0,37,stage_direction,1,4,speech_part,,#ruhm,49.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+150,150,GerDracor/voss-faust.xml,"
+              Was frommet das Beben vor Amors Glut?",0,52,character_speech,1,4,,RUHM,#ruhm,49.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+151,151,GerDracor/voss-faust.xml,"Der Tod wirft das Leben in stygische Flut;
+              Mit Feuerzügen die nimmer enden,
+              Bild' ich der Menschheit hohe Legenden,
+               Wenn alles der Strom der Jahre bricht,
+              Nur meinen ehernen Tempel nicht.",67,311,character_speech,1,4,,RUHM,#ruhm,49.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+152,152,GerDracor/voss-faust.xml,Ein schöner Tempel mit Statuen und Büsten steht da.,0,51,stage_direction,1,4,speech_part,,#ruhm,49.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+153,153,GerDracor/voss-faust.xml,"
+              Wer hier im Standbild zur Höhe strebet,
+              Bis an die Grenze der Zeiten lebet!",0,104,character_speech,1,4,,RUHM,#ruhm,49.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+154,154,GerDracor/voss-faust.xml,"
+              Mein Angedenken soll verwittern,
+              Wie eines Unbekannten Grab –?",0,91,character_speech,1,4,,FAUST.,#faust,50.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+155,155,GerDracor/voss-faust.xml,Unter einem Donnerstoß steigt eine Statue aus des Tempels Mitte empor.,0,70,stage_direction,1,4,speech_part,,#faust,50.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+156,156,GerDracor/voss-faust.xml,"Der Ruhm
+              zeichnet mit seinem Goldgriffel den Namen Faust an das Piedestal, der feurig da
+              steht.",71,194,stage_direction,1,4,speech_part,,#faust,50.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+157,157,GerDracor/voss-faust.xml,taumelt von seinem Sitz auf; der Vorhang sinkt über die Erscheinung.,0,68,stage_direction,1,4,speech_part,,#faust,51.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+158,158,GerDracor/voss-faust.xml,"indem die Musik schwächer fortgeht, und während er endlich knieend betet,
+              verhallt.",0,97,stage_direction,1,4,speech_part,,#faust,52.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+159,159,GerDracor/voss-faust.xml,"
+              Ein Traum – zum drittenmal – doch er entdämmert kaum,
+              So treffen blutiger der Wahrheit Tücken,
+              Die offne Wimper höhnt den Lebensraum,
+              Im Arm der Lüge wohnet das Entzücken,
+              O tragt den gern betrognen innern Sinn,
+              Wohlthät'ge Genien, dahin,
+              Wo innige milde Gestalten,
+              Im sinnigen Bilde walten –
+              Und ists nicht Frevel, was die Brust erfleht?",0,465,character_speech,1,4,,FAUST,#faust,52.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+160,160,GerDracor/voss-faust.xml,"Des Orkus Mächte meinen Schlummer necken,
+              Unreine Wünsche trügend mir zu wecken,
+              Beugt euch ihr Knie zum reuigen Gebet,
+              Tilgt Heil'ge meiner Seele Flecken,
+              Und fernt von mir der Sünde Schrecken!",480,730,character_speech,1,4,,FAUST,#faust,52.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+161,161,GerDracor/voss-faust.xml,"Betet, die Musik verhallt.",0,26,stage_direction,1,4,speech_part,,#faust,52.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+162,162,GerDracor/voss-faust.xml,Man hört Fußtritte.,27,46,stage_direction,1,4,speech_part,,#faust,52.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+163,163,GerDracor/voss-faust.xml,Was hör' ich?,0,13,character_speech,1,4,,FAUST,#faust,52.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+164,164,GerDracor/voss-faust.xml,"– bergt mich schirmend, ihr Gesträuche!",14,53,character_speech,1,4,,FAUST,#faust,52.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+165,165,GerDracor/voss-faust.xml,Mönche und gewaffnete Männer mit Fakkeln.,0,41,stage_direction,1,5,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+166,166,GerDracor/voss-faust.xml,Faust verborgen.,42,58,stage_direction,1,5,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+167,167,GerDracor/voss-faust.xml,"
+              Nach diesem Wald entrann er.",0,43,character_speech,1,5,,MÖNCH.,#moench_1-5,53.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+168,168,GerDracor/voss-faust.xml,"Hinterbracht
+              Ward mir's von Spähern.",44,94,character_speech,1,5,,MÖNCH.,#moench_1-5,53.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+169,169,GerDracor/voss-faust.xml,Dringt in Kluft und Strauch!,95,123,character_speech,1,5,,MÖNCH.,#moench_1-5,53.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+170,170,GerDracor/voss-faust.xml,Die Reisigen bewahren jeden Ausgang!,139,175,character_speech,1,5,,MÖNCH.,#moench_1-5,53.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+171,171,GerDracor/voss-faust.xml,"Auch eilet zu des Vaters Köhlerhütte,
+              Im nahen Thal!",190,256,character_speech,1,5,,MÖNCH.,#moench_1-5,53.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+172,172,GerDracor/voss-faust.xml,Vollbringet das Gebot'ne!,257,282,character_speech,1,5,,MÖNCH.,#moench_1-5,53.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+173,173,GerDracor/voss-faust.xml,Einige ab.,0,10,stage_direction,1,5,speech_part,,#moench_1-5,53.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+174,174,GerDracor/voss-faust.xml,"Was sündigte der Faust, ehrwürd'ger Pater?",0,42,character_speech,1,5,,EINER DER MÄNNER.,#einer_der_maenner,54.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+175,175,GerDracor/voss-faust.xml,Ah –,0,4,character_speech,1,5,,MÖNCH.,#moench_1-5,55.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+176,176,GerDracor/voss-faust.xml,Schlägt ein Kreuz.,0,18,stage_direction,1,5,speech_part,,#moench_1-5,55.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+177,177,GerDracor/voss-faust.xml,"
+              in hoc signo – so ihr Mitleid fühlt
+              Verwirkt ihr die Absolution – der Teufel
+              Lehrt – † Pater noster – ihm Negromantie.",0,161,character_speech,1,5,,MÖNCH.,#moench_1-5,55.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+178,178,GerDracor/voss-faust.xml,Hu Hu!,0,6,character_speech,1,5,,MÄNNER.,#maenner_1-5_bis_1-6,56.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+179,179,GerDracor/voss-faust.xml,– † Ave Maria – hu hu hu!,7,32,character_speech,1,5,,MÄNNER.,#maenner_1-5_bis_1-6,56.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+180,180,GerDracor/voss-faust.xml,Alle ab.,0,8,stage_direction,1,5,speech_part,,#maenner_1-5_bis_1-6,56.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+181,181,GerDracor/voss-faust.xml,allein.,0,7,stage_direction,1,5,speech_part,,#faust,57.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+182,182,GerDracor/voss-faust.xml,"
+              Begreifen nicht Pygmäenbrut hohe Kraft,
+              Spein sie Verläumdung – heil'ger Wütherich,
+              Noch bin ich rein – doch sichern Flammentod
+              Und dort ein Feuer, das noch zweifelnd droht?",0,230,character_speech,1,5,,FAUST,#faust,57.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+183,183,GerDracor/voss-faust.xml,"–
+              Nicht siege Erdennoth!",231,269,character_speech,1,5,,FAUST,#faust,57.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+184,184,GerDracor/voss-faust.xml,– zu dir Religion –,270,289,character_speech,1,5,,FAUST,#faust,57.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+185,185,GerDracor/voss-faust.xml,hinter der Scene.,0,17,stage_direction,1,5,speech_part,,#fausts_vater,58.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+186,186,GerDracor/voss-faust.xml,Weh – weh!,0,10,character_speech,1,5,,FAUSTS VATER,#fausts_vater,58.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+187,187,GerDracor/voss-faust.xml,"der eben zum Gebet niedersinken wollte, bleibt stehen.",0,54,stage_direction,1,5,speech_part,,#faust,59.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+188,188,GerDracor/voss-faust.xml,"Ach, meines Vaters Seufzen.",0,27,character_speech,1,5,,FAUST,#faust,59.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+189,189,GerDracor/voss-faust.xml,Verbirgt sich.,0,14,stage_direction,1,5,speech_part,,#faust,59.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+190,190,GerDracor/voss-faust.xml,Fausts Vater von gewaffneten Männern geführt.,0,45,stage_direction,1,6,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+191,191,GerDracor/voss-faust.xml,Voriger.,46,54,stage_direction,1,6,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+192,192,GerDracor/voss-faust.xml,"
+              Laßt mich in meiner Hütte, wo ich Gott
+              Um sel'gen Tod nur bat –",0,92,character_speech,1,6,,VATER.,#fausts_vater,60.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+193,193,GerDracor/voss-faust.xml,ungestüm.,0,9,stage_direction,1,6,speech_part,,#maenner_1-5_bis_1-6,61.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+194,194,GerDracor/voss-faust.xml,Fort!,0,5,character_speech,1,6,,MÄNNER,#maenner_1-5_bis_1-6,61.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+195,195,GerDracor/voss-faust.xml,"
+              Wohin schleppt ihr
+              Den matten Greis, ihr zorn'gen Männer?",0,86,character_speech,1,6,,VATER.,#fausts_vater,62.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+196,196,GerDracor/voss-faust.xml,"
+              In
+              Den Schuldthurm!",0,48,character_speech,1,6,,MÄNNER.,#maenner_1-5_bis_1-6,63.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+197,197,GerDracor/voss-faust.xml,Hast Dich für den Sohn verbürgt.,49,81,character_speech,1,6,,MÄNNER.,#maenner_1-5_bis_1-6,63.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+198,198,GerDracor/voss-faust.xml,"
+              Wohl that ich es aus treuer Vaterliebe –
+              Wie mag ich Bettler nun die Schuld entrichten?",0,116,character_speech,1,6,,VATER.,#fausts_vater,64.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+199,199,GerDracor/voss-faust.xml,Nehmt dieses weiße Haar –,131,156,character_speech,1,6,,VATER.,#fausts_vater,64.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+200,200,GerDracor/voss-faust.xml,"
+              Und finden wir
+              Ihn nicht, schaffst Du den Sohn zur Stelle,
+              Sonst büßest Du –",0,119,character_speech,1,6,,MÄNNER.,#maenner_1-5_bis_1-6,65.0,MALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+201,201,GerDracor/voss-faust.xml,"
+              O sündigte der Gute,
+              Straft mich, nur gebt den Sohn mir frei!",0,90,character_speech,1,6,,VATER.,#fausts_vater,66.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+202,202,GerDracor/voss-faust.xml,"Das Letzte schon hinter der Scene, da der Zug rasch vorübergeht.",0,64,stage_direction,1,6,speech_part,,#fausts_vater,66.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+203,203,GerDracor/voss-faust.xml,allein.,0,7,stage_direction,1,7,speech_part,,#faust,67.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+204,204,GerDracor/voss-faust.xml,"Schnell, im Ausdruck der Verzweiflung.",0,38,stage_direction,1,7,speech_part,,#faust,67.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+205,205,GerDracor/voss-faust.xml,"
+              Sein zitternd Haupt kann ich nicht schmachbeladen seh'n,
+              Der Flamme hätt' ich mich ein Märtyrer geliefert!",0,135,character_speech,1,7,,FAUST,#faust,67.0,MALE,despair,T,,1823.0,negative,emotions of anxiety
+206,206,GerDracor/voss-faust.xml,"–
+              Mich drängt ein unerflehliches Verhängniß,
+              Die Pflicht entwindet mich der Tugend Armen,
+              Und schleudert hin mich an Verderbens Rand!",136,311,character_speech,1,7,,FAUST,#faust,67.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+207,207,GerDracor/voss-faust.xml,von einer Seite.,0,16,stage_direction,1,7,speech_part,,#geisterstimmen-geisterchor,68.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+208,208,GerDracor/voss-faust.xml,"
+              Sei Meister höhnender Sterne,
+              Die Geister fröhnen Dir gerne.",0,89,character_speech,1,7,,GEISTERCHOR,#geisterstimmen-geisterchor,68.0,UNKNOWN,Schadenfreude,T,,1823.0,positive,emotions of pleasure
+209,209,GerDracor/voss-faust.xml,"will in der Rolle lesen, es ist zu dunkel.",0,42,stage_direction,1,7,speech_part,,#faust,69.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+210,210,GerDracor/voss-faust.xml,"Ein Blitz zündet einen Baum an, der ihm zur Fackel dient.",0,57,stage_direction,1,7,speech_part,,#faust,69.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+211,211,GerDracor/voss-faust.xml,"Der Baum brennt immer
+              höher zu einer Feuersäule auf.",58,124,stage_direction,1,7,speech_part,,#faust,69.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+212,212,GerDracor/voss-faust.xml,"So bild' ich denn den grausen Zauberkreis,",0,42,character_speech,1,7,,FAUST,#faust,69.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+213,213,GerDracor/voss-faust.xml,Und lade das Furchtbare vor die Schranke!,0,41,character_speech,1,7,,FAUST,#faust,69.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+214,214,GerDracor/voss-faust.xml,von der andern Seite.,0,21,stage_direction,1,7,speech_part,,#seraphina,70.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+215,215,GerDracor/voss-faust.xml,"
+              Liebe warnt Dich,
+              Flieh zurücke,
+              Frech umgarnt Dich
+              Höllentücke.",0,121,character_speech,1,7,,SERAPHINENS STIMME,#seraphina,70.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+216,216,GerDracor/voss-faust.xml,läßt die Rolle fallen.,0,22,stage_direction,1,7,speech_part,,#faust,71.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+217,217,GerDracor/voss-faust.xml,Mein guter Engel ruft – ihm sinkt das Blatt.,0,44,character_speech,1,7,,FAUST,#faust,71.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+218,218,GerDracor/voss-faust.xml,verspottend.,0,12,stage_direction,1,7,speech_part,,#geisterstimmen-geisterchor,72.0,UNKNOWN,Schadenfreude,T,,1823.0,positive,emotions of pleasure
+219,219,GerDracor/voss-faust.xml,"
+              Lähme dem Fluge das Strahlengefieder,
+              Bebe dem Truge der Qualen wieder,
+              Am Silberhaare Dich nicht erbarme,
+              Zur Grube fahre weinend der Arme.",0,197,character_speech,1,7,,GEISTERCHOR,#geisterstimmen-geisterchor,72.0,UNKNOWN,suffering,T,,1823.0,negative,emotions of suffering and empathy
+220,220,GerDracor/voss-faust.xml,reißt die Rolle wieder auf.,0,27,stage_direction,1,7,speech_part,,#faust,73.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+221,221,GerDracor/voss-faust.xml,"
+              Die holde Stimme ist nur meines Wahnes Echo!",0,59,character_speech,1,7,,FAUST,#faust,73.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+222,222,GerDracor/voss-faust.xml,"Für die verlorne Unschuld, üpp'gen Traumes Schönheit –
+              Rettungverkündiger, von wannen ihr auch naht –
+              O Du, zu dem der Spruch des Sehers tönt!",74,244,character_speech,1,7,,FAUST,#faust,73.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+223,223,GerDracor/voss-faust.xml,"Erscheine meinem Blick, ich bin ermannt!",259,299,character_speech,1,7,,FAUST,#faust,73.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+224,224,GerDracor/voss-faust.xml,aus der Feuersäule.,0,19,stage_direction,1,7,speech_part,,#leviathan,74.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+225,225,GerDracor/voss-faust.xml,"
+              Sehkräfte, die das Endliche nur spiegeln,
+              Vernichtet, was die Unterwelt gestaltet.",0,111,character_speech,1,7,,LEVIATHAN,#leviathan,74.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+226,226,GerDracor/voss-faust.xml,"
+              Verdammniß klirre nun mit allen Riegeln,
+              Mein Heil zerrann, wie ich das Blatt entfaltet!",0,117,character_speech,1,7,,FAUST.,#faust,75.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+227,227,GerDracor/voss-faust.xml,"
+              Ich schone Dein berganstrebend Haar,
+              Und nahe, als ob mich ein Weib gebar.",0,103,character_speech,1,7,,LEVIATHAN.,#leviathan,76.0,MALE,love,T,,1823.0,positive,emotions of affection
+228,228,GerDracor/voss-faust.xml,Tritt in Mannsgestalt aus dem Feuer.,0,36,stage_direction,1,7,speech_part,,#leviathan,76.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+229,229,GerDracor/voss-faust.xml,"Seine Kleidung ist gelb, mit einem großen
+              rothen Mantel und Barett.",37,118,stage_direction,1,7,speech_part,,#leviathan,76.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+230,230,GerDracor/voss-faust.xml,"Haar und Augenbrauen sind sehr schwarz, im Blick wohnt
+              listige Tücke, sonst ist er wohlgebildet.",119,229,stage_direction,1,7,speech_part,,#leviathan,76.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+231,231,GerDracor/voss-faust.xml,"nach einigem bestürzten Schweigen, ängstlich.",0,45,stage_direction,1,7,speech_part,,#faust,77.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+232,232,GerDracor/voss-faust.xml,"
+              Denkst Du so klein von meinem Muth?",0,50,character_speech,1,7,,FAUST,#faust,77.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+233,233,GerDracor/voss-faust.xml,"–
+              Nicht fürchterlich?",51,86,character_speech,1,7,,FAUST,#faust,77.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+234,234,GerDracor/voss-faust.xml,"So könnt' ich mich gewöhnen
+              An ihn, dem meine Ewigkeit verfiel.",87,164,character_speech,1,7,,FAUST,#faust,77.0,MALE,love,T,,1823.0,positive,emotions of affection
+235,235,GerDracor/voss-faust.xml,–,165,166,character_speech,1,7,,FAUST,#faust,77.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+236,236,GerDracor/voss-faust.xml,Pressend.,0,9,stage_direction,1,7,speech_part,,#faust,77.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+237,237,GerDracor/voss-faust.xml,"
+              Nun denn – gemordet sei der inn're Frieden,
+              Nur Freiheit und Glück dem Vater beschieden!",0,117,character_speech,1,7,,FAUST,#faust,77.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+238,238,GerDracor/voss-faust.xml,"Schon weilt er heim, wirf dich an seine Brust.",0,46,character_speech,1,7,,LEVIATHAN.,#leviathan,78.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+239,239,GerDracor/voss-faust.xml,"
+              Und nun für Todes Noth, auch Lebens Lust!",0,56,character_speech,1,7,,FAUST.,#faust,79.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+240,240,GerDracor/voss-faust.xml,"–
+              Den argen Gegner möcht' ich strafend beugen,
+              Dem Freunde zahlen reichen Dankes Sold,
+              Gebietend Walten müsse für mich zeugen,
+              Stillst du mir die erwachte Gier nach Gold?",57,283,character_speech,1,7,,FAUST.,#faust,79.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+241,241,GerDracor/voss-faust.xml,"
+              Und wenn sich Indostan vom Mark der Schachten trennte,
+              Ich knet' es aus dem Stoff der Elemente!",0,124,character_speech,1,7,,LEVIATHAN.,#leviathan,80.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+242,242,GerDracor/voss-faust.xml,"
+              Wollüst'ge Feuer durch die Seele beben,
+              Der Arm dehnt sich nach einer Traumgestalt,
+              Kannst Mächt'ger dem Phantom du Leben geben,
+              Um das der Adern lüstern Fieber wallt?",0,224,character_speech,1,7,,FAUST.,#faust,81.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+243,243,GerDracor/voss-faust.xml,"Sie lebt, für die dein Traum entbrannte.",0,40,character_speech,1,7,,LEVIATHAN.,#leviathan,82.0,MALE,love,T,,1823.0,positive,emotions of affection
+244,244,GerDracor/voss-faust.xml,"O Wonne, die des Dämon Zunge nannte!",0,36,character_speech,1,7,,FAUST.,#faust,83.0,MALE,love,T,,1823.0,positive,emotions of affection
+245,245,GerDracor/voss-faust.xml,"
+              Und ist an dem Altar die Opferglut verlodert,
+              Durchtaumle Schwelger andrer Mädchen Reih'n,
+              Wie keck die flammende Sehnsucht fodert,
+              Der Schönheit duftende Blüthe sei dein!",0,228,character_speech,1,7,,LEVIATHAN.,#leviathan,84.0,MALE,love,T,,1823.0,positive,emotions of affection
+246,246,GerDracor/voss-faust.xml,"nach einer kurzen Pause, feierlich.",0,35,stage_direction,1,7,speech_part,,#faust,85.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+247,247,GerDracor/voss-faust.xml,"
+              Und nun des Bundes übersinnlich Zeichen,
+              Wenn ich den Himmel dir verpfänden mag,
+              Wird mir der Schleier von den Dingen weichen?",0,169,character_speech,1,7,,FAUST,#faust,85.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+248,248,GerDracor/voss-faust.xml,nach kurzem Bedenken.,0,21,stage_direction,1,7,speech_part,,#leviathan,86.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+249,249,GerDracor/voss-faust.xml,"
+              So weit der ird'schen Sinne Maaße reichen,
+              Des Denkens Formen Sein und Nichtsein gleichen,
+              Umhelle dich der Wahrheit Tag!",0,164,character_speech,1,7,,LEVIATHAN,#leviathan,86.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+250,250,GerDracor/voss-faust.xml,"
+              Dein bin ich – siegelst du mir den Vertrag?",0,58,character_speech,1,7,,FAUST.,#faust,87.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+251,251,GerDracor/voss-faust.xml,"–
+              Wenn nicht mehr schwelgen der Sinn, der Geist mehr streben mag.",59,138,character_speech,1,7,,FAUST.,#faust,87.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+252,252,GerDracor/voss-faust.xml,Es gilt – die Nachwelt halle deinen Namen nach.,0,47,character_speech,1,7,,LEVIATHAN.,#leviathan,88.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+253,253,GerDracor/voss-faust.xml,Eine Wolke senkt sich nieder.,0,29,stage_direction,1,7,speech_part,,#leviathan,88.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+254,254,GerDracor/voss-faust.xml,stolz.,0,6,stage_direction,1,7,speech_part,,#faust,89.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+255,255,GerDracor/voss-faust.xml,"
+              Dir untersag' ich, mich zum Ruhm zu tragen,
+              Die eigne Kraft soll durch die Zeiten ragen!",0,117,character_speech,1,7,,FAUST,#faust,89.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+256,256,GerDracor/voss-faust.xml,"–
+              Du Teufel bürdest harte Knechtschaft auf,
+              Dich übertheuerte, Betrogener, dein Kauf!",118,231,character_speech,1,7,,FAUST,#faust,89.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+257,257,GerDracor/voss-faust.xml,"Du sollst der Fügung Mißlaut herrlich lösen,
+              Es schaudre deine höllische Natur,
+              Ich leite neckend sie auf eines Gottes Spur,
+              Der Tugend spende Lohn!",246,436,character_speech,1,7,,FAUST,#faust,89.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+258,258,GerDracor/voss-faust.xml,Sei Wehr dem Bösen!,437,456,character_speech,1,7,,FAUST,#faust,89.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+259,259,GerDracor/voss-faust.xml,"–
+              Ich will hinweg!",457,489,character_speech,1,7,,FAUST,#faust,89.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+260,260,GerDracor/voss-faust.xml,"
+              Dem Meister dien' ich nur.",0,41,character_speech,1,7,,LEVIATHAN.,#leviathan,90.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+261,261,GerDracor/voss-faust.xml,Zur Wolke folge mir!,56,76,character_speech,1,7,,LEVIATHAN.,#leviathan,90.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+262,262,GerDracor/voss-faust.xml,"Du darfst wohin nur denken,
+              Und ihren Flug wird sie gehorsam lenken!",77,159,character_speech,1,7,,LEVIATHAN.,#leviathan,90.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+263,263,GerDracor/voss-faust.xml,Sie besteigen die Wolke.,0,24,stage_direction,1,7,speech_part,,#leviathan,90.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+264,264,GerDracor/voss-faust.xml,"Anfangs tönt eine angenehme Musik, wie aber die Wolke
+              zur Höhe ist, wird sie wilder und wilder.",25,134,stage_direction,1,7,speech_part,,#leviathan,90.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+265,265,GerDracor/voss-faust.xml,"unter welchen der Vorhang sinkt, daß sie noch nachhallen.",0,57,stage_direction,1,7,speech_part,,#geisterstimmen-geisterchor,91.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+266,266,GerDracor/voss-faust.xml,"
+              Schwirret munter in Sturmes-Kreis!",0,49,character_speech,1,7,,GEISTERSTIMMEN,#geisterstimmen-geisterchor,91.0,UNKNOWN,being moved,T,,1823.0,being moved,being moved
+267,267,GerDracor/voss-faust.xml,Wirret bunter Wurmes Geleis!,64,92,character_speech,1,7,,GEISTERSTIMMEN,#geisterstimmen-geisterchor,91.0,UNKNOWN,joy,T,,1823.0,positive,emotions of pleasure
+268,268,GerDracor/voss-faust.xml,"Tischt ihm Lüste tischt,
+              Mischt ihm Wüste mischt,
+              Schwirrt, schwirrt, schwirrt!",108,215,character_speech,1,7,,GEISTERSTIMMEN,#geisterstimmen-geisterchor,91.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+269,269,GerDracor/voss-faust.xml,"Wirrt, wirrt, wirrt!",230,250,character_speech,1,7,,GEISTERSTIMMEN,#geisterstimmen-geisterchor,91.0,UNKNOWN,being moved,T,,1823.0,being moved,being moved
+270,270,GerDracor/voss-faust.xml,Platz vor einer ländlichen Hütte.,0,33,stage_direction,2,0,pre_scene,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+271,271,GerDracor/voss-faust.xml,allein.,0,7,stage_direction,2,1,speech_part,,#seraphina,92.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+272,272,GerDracor/voss-faust.xml,Arie.,0,5,stage_direction,2,1,speech_part,,#seraphina,92.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+273,273,GerDracor/voss-faust.xml,"
+              Er weilet so lange,
+              Es glühet die Wange,
+              Ich Treue erbange,
+              Von Liebe entbrannt.",0,137,character_speech,2,1,,SERAPHINA,#seraphina,92.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+274,274,GerDracor/voss-faust.xml,"Wär' seinen Gefahren,
+              Ihn mild zu bewahren,
+              Aus himmlischen Schaaren
+              Ein Engel gesandt!",152,281,character_speech,2,1,,SERAPHINA,#seraphina,92.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+275,275,GerDracor/voss-faust.xml,"
+              Wohl nahen Tritte
+              Vom Felsenhang,
+              In Hohlwegs Mitte
+              Ertönt ihr Klang,",0,126,character_speech,2,1,,SERAPHINA,#seraphina,92.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+276,276,GerDracor/voss-faust.xml,"
+              O Liebe, vernimm der Gequälten Flehn,
+              Laß ihn, laß ihn den Erwählten mich sehn!",0,108,character_speech,2,1,,SERAPHINA,#seraphina,92.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+277,277,GerDracor/voss-faust.xml,Guttenberg.,0,11,stage_direction,2,2,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+278,278,GerDracor/voss-faust.xml,Seraphina.,12,22,stage_direction,2,2,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+279,279,GerDracor/voss-faust.xml,ihm entgegen.,0,13,stage_direction,2,2,speech_part,,#seraphina,93.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+280,280,GerDracor/voss-faust.xml,Er nicht!,0,9,character_speech,2,2,,SERAPHINA,#seraphina,93.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+281,281,GerDracor/voss-faust.xml,– Herbe Täuschung!,10,28,character_speech,2,2,,SERAPHINA,#seraphina,93.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+282,282,GerDracor/voss-faust.xml,Mein Bote doch!,29,44,character_speech,2,2,,SERAPHINA,#seraphina,93.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+283,283,GerDracor/voss-faust.xml,"Ihr kommt von ihm,
+                saht ihn, seid gepriesen!",45,105,character_speech,2,2,,SERAPHINA,#seraphina,93.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+284,284,GerDracor/voss-faust.xml,Was bringt Ihr?,106,121,character_speech,2,2,,SERAPHINA,#seraphina,93.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+285,285,GerDracor/voss-faust.xml,Kostbares!,0,10,character_speech,2,2,,GUTTENBERG.,#guttenberg,94.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+286,286,GerDracor/voss-faust.xml,Nicht ihn!,0,10,character_speech,2,2,,SERAPHINA.,#seraphina,95.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+287,287,GerDracor/voss-faust.xml,Ihr lügt!,11,20,character_speech,2,2,,SERAPHINA.,#seraphina,95.0,FEMALE,anger,T,,1823.0,negative,emotions of rejection
+288,288,GerDracor/voss-faust.xml,"Juwelen, schimmerblendend wie in Loretto an der Hochgebenedeiten Bild.",0,70,character_speech,2,2,,GUTTENBERG.,#guttenberg,96.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+289,289,GerDracor/voss-faust.xml,Was soll mir Tand?,0,18,character_speech,2,2,,SERAPHINA.,#seraphina,97.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+290,290,GerDracor/voss-faust.xml,Um den Geliebten fleht die Sehnsucht!,19,56,character_speech,2,2,,SERAPHINA.,#seraphina,97.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+291,291,GerDracor/voss-faust.xml,Er sendet die Kleinode!,0,23,character_speech,2,2,,GUTTENBERG.,#guttenberg,98.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+292,292,GerDracor/voss-faust.xml,Er?,0,3,character_speech,2,2,,SERAPHINA.,#seraphina,99.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+293,293,GerDracor/voss-faust.xml,War er nicht reich?,4,23,character_speech,2,2,,SERAPHINA.,#seraphina,99.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+294,294,GerDracor/voss-faust.xml,"Wehe dem vergeudenden Erdengott, der ihn durch Geschmeide arm
+              machte.",24,107,character_speech,2,2,,SERAPHINA.,#seraphina,99.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+295,295,GerDracor/voss-faust.xml,"Wer, wer that das?",108,126,character_speech,2,2,,SERAPHINA.,#seraphina,99.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+296,296,GerDracor/voss-faust.xml,"Hm – lächelt der seltenen Fortuna Besuch einmal, soll man fragen: von wannen?",0,77,character_speech,2,2,,GUTTENBERG.,#guttenberg,100.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+297,297,GerDracor/voss-faust.xml,Ehrt meinen Schmerz!,0,20,character_speech,2,2,,SERAPHINA.,#seraphina,101.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+298,298,GerDracor/voss-faust.xml,"Ihr wißt, er ward der Zauberei angeklagt –",0,42,character_speech,2,2,,GUTTENBERG.,#guttenberg,102.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+299,299,GerDracor/voss-faust.xml,Fälschlich!,0,11,character_speech,2,2,,SERAPHINA.,#seraphina,103.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+300,300,GerDracor/voss-faust.xml,Er ist rein wie der Unschuld Gebet.,12,47,character_speech,2,2,,SERAPHINA.,#seraphina,103.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+301,301,GerDracor/voss-faust.xml,Hm –,0,4,character_speech,2,2,,GUTTENBERG.,#guttenberg,104.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+302,302,GerDracor/voss-faust.xml,Gott!,0,5,character_speech,2,2,,SERAPHINA.,#seraphina,105.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+303,303,GerDracor/voss-faust.xml,– Was deutet ihr?,6,23,character_speech,2,2,,SERAPHINA.,#seraphina,105.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+304,304,GerDracor/voss-faust.xml,"Um Mitternacht fand ich ihn im Spessart, kargte mit Warnung nicht, vertrat eure Liebe
+              redlich.",0,108,character_speech,2,2,,GUTTENBERG.,#guttenberg,106.0,MALE,love,T,,1823.0,positive,emotions of affection
+305,305,GerDracor/voss-faust.xml,Doch – ich zog hinweg.,109,131,character_speech,2,2,,GUTTENBERG.,#guttenberg,106.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+306,306,GerDracor/voss-faust.xml,Unglücklicher!,0,14,character_speech,2,2,,SERAPHINA.,#seraphina,107.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+307,307,GerDracor/voss-faust.xml,Du miedest ihn in der grauenvollen Stunde?,15,57,character_speech,2,2,,SERAPHINA.,#seraphina,107.0,FEMALE,abhorrence,T,,1823.0,negative,emotions of rejection
+308,308,GerDracor/voss-faust.xml,"Sein seltsam Tappen nach Gestalten, die ich nimmer sah, der frevelnden Weisheit
+              Schauderworte, verjagten mich.",0,124,character_speech,2,2,,GUTTENBERG.,#guttenberg,108.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+309,309,GerDracor/voss-faust.xml,Ich sollte in der Herberge weilen.,125,159,character_speech,2,2,,GUTTENBERG.,#guttenberg,108.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+310,310,GerDracor/voss-faust.xml,"Dies empfing ich am
+              Morgen –",160,202,character_speech,2,2,,GUTTENBERG.,#guttenberg,108.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+311,311,GerDracor/voss-faust.xml,Leb ich?,0,8,character_speech,2,2,,SERAPHINA.,#seraphina,109.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+312,312,GerDracor/voss-faust.xml,Vergesset –,0,11,character_speech,2,2,,GUTTENBERG.,#guttenberg,110.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+313,313,GerDracor/voss-faust.xml,einfallend.,0,11,stage_direction,2,2,speech_part,,#seraphina,111.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+314,314,GerDracor/voss-faust.xml,Daß ich athme?,0,14,character_speech,2,2,,SERAPHINA,#seraphina,111.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+315,315,GerDracor/voss-faust.xml,"Er kehrt nicht wieder, Mädchen!",0,31,character_speech,2,2,,GUTTENBERG.,#guttenberg,112.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+316,316,GerDracor/voss-faust.xml,"Deine fromme Sanftmuth schilt das Gewitterfeuer
+              seiner Brust.",32,107,character_speech,2,2,,GUTTENBERG.,#guttenberg,112.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+317,317,GerDracor/voss-faust.xml,– Nimm!,108,115,character_speech,2,2,,GUTTENBERG.,#guttenberg,112.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+318,318,GerDracor/voss-faust.xml,wirft die Kleinode ins Wasser.,0,30,stage_direction,2,2,speech_part,,#seraphina,113.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+319,319,GerDracor/voss-faust.xml,In die Fluth damit!,0,19,character_speech,2,2,,SERAPHINA,#seraphina,113.0,FEMALE,anger,T,,1823.0,negative,emotions of rejection
+320,320,GerDracor/voss-faust.xml,Wahnsinnige!,0,12,character_speech,2,2,,GUTTENBERG.,#guttenberg,114.0,MALE,being moved,T,,1823.0,being moved,being moved
+321,321,GerDracor/voss-faust.xml,–,13,14,character_speech,2,2,,GUTTENBERG.,#guttenberg,114.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+322,322,GerDracor/voss-faust.xml,Man hört unterirdischen Donner.,0,31,stage_direction,2,2,inner_speech,,#guttenberg,114.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+323,323,GerDracor/voss-faust.xml," Welch' Murren im
+              Abgrund!",0,40,character_speech,2,2,,GUTTENBERG.,#guttenberg,114.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+324,324,GerDracor/voss-faust.xml,Hu!,41,44,character_speech,2,2,,GUTTENBERG.,#guttenberg,114.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+325,325,GerDracor/voss-faust.xml,– Ihr thatet wohl.,45,63,character_speech,2,2,,GUTTENBERG.,#guttenberg,114.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+326,326,GerDracor/voss-faust.xml,Entsetzen!,0,10,character_speech,2,2,,SERAPHINA.,#seraphina,115.0,FEMALE,being moved,T,,1823.0,being moved,being moved
+327,327,GerDracor/voss-faust.xml,Ringt bange die Hände.,0,22,stage_direction,2,2,inner_speech,,#seraphina,115.0,FEMALE,fear,T,,1823.0,negative,emotions of anxiety
+328,328,GerDracor/voss-faust.xml,Eine Thräne schied von euerm Namen.,0,35,character_speech,2,2,,GUTTENBERG.,#guttenberg,116.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+329,329,GerDracor/voss-faust.xml,So liebt er mich noch!,0,22,character_speech,2,2,,SERAPHINA.,#seraphina,117.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+330,330,GerDracor/voss-faust.xml,Ich eil' ihm nach – in Mannsgewand!,23,58,character_speech,2,2,,SERAPHINA.,#seraphina,117.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+331,331,GerDracor/voss-faust.xml,"– Mutter des Heilands,
+              wende Gefahr!",59,109,character_speech,2,2,,SERAPHINA.,#seraphina,117.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+332,332,GerDracor/voss-faust.xml,"– An seine Seele will ich die starke Kraft der Liebe ketten, ein
+              schirmender Cherub sie dem Abgrund entwinden!",110,234,character_speech,2,2,,SERAPHINA.,#seraphina,117.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+333,333,GerDracor/voss-faust.xml,"– Sank sie aber hinab, dann – grausame
+              Religion!",235,297,character_speech,2,2,,SERAPHINA.,#seraphina,117.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+334,334,GerDracor/voss-faust.xml,– dann darf ich nicht folgen!,298,327,character_speech,2,2,,SERAPHINA.,#seraphina,117.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+335,335,GerDracor/voss-faust.xml,"– Redete darum der Schlaf in mein Ohr, wehte
+              darum der Ahnung Fittig?",328,411,character_speech,2,2,,SERAPHINA.,#seraphina,117.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+336,336,GerDracor/voss-faust.xml,"
+              In Traumgefilden –
+              Dahin – dahin – gegangen,
+              Von Graungebilden
+              Ach – rings umfangen – – –
+              Hätt' ihn eh' des Todes Hippe
+              Von der Klagenden getrennt,
+              Ich träumte, was nimmer die Lippe
+              Der Zagenden nennt.",0,314,character_speech,2,2,,SERAPHINA.,#seraphina,117.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+337,337,GerDracor/voss-faust.xml,Duett.,0,6,stage_direction,2,2,speech_part,,#seraphina,117.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+338,338,GerDracor/voss-faust.xml,auf den Knieen.,0,15,stage_direction,2,2,speech_part,,#seraphina,118.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+339,339,GerDracor/voss-faust.xml,"
+              Der Tugend wär' er ledig
+              Der Mann so hehr, so schön?",0,81,character_speech,2,2,,SERAPHINA,#seraphina,118.0,FEMALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+340,340,GerDracor/voss-faust.xml,"Empfangt, empfangt mich gnädig
+              Des wimmernden Gebetes Höh'n!",96,170,character_speech,2,2,,SERAPHINA,#seraphina,118.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+341,341,GerDracor/voss-faust.xml,"
+              Wie bebend ringt die Arme
+              Mit treuer Leidenschaft,
+              Ihr Heil'ger sich erbarme,
+              Und weihe ihr des Glaubens Kraft!",0,168,character_speech,2,2,,GUTTENBERG.,#guttenberg,119.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+342,342,GerDracor/voss-faust.xml,"erhebt sich und geht langsam weg, während Guttenberg eben so folgt, daß die
+              letzten Töne hinter den Koulissen verhallen.",0,134,stage_direction,2,2,speech_part,,#seraphina,120.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+343,343,GerDracor/voss-faust.xml,"
+              O bei dem weinenden Schmerz,
+              Daß ich die Tragende bliebe,
+              Wonne theilte sein Herz!",0,125,character_speech,2,2,,SERAPHINE,#seraphina,120.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+344,344,GerDracor/voss-faust.xml,"
+              Heilt' ich Reine dein Herz!",0,42,character_speech,2,2,,GUTTENBERG.,#guttenberg,121.0,MALE,love,T,,1823.0,positive,emotions of affection
+345,345,GerDracor/voss-faust.xml,"Aber die klagende Liebe,
+              Tröstet nur weinender Schmerz.",57,126,character_speech,2,2,,GUTTENBERG.,#guttenberg,121.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+346,346,GerDracor/voss-faust.xml,Beide ab.,0,9,stage_direction,2,2,speech_part,,#guttenberg,121.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+347,347,GerDracor/voss-faust.xml,Saal ohne alle Verzierung.,0,26,stage_direction,2,3,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+348,348,GerDracor/voss-faust.xml,der unter einem leisen Donnerwirbel aus der Erde steigt.,0,56,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+349,349,GerDracor/voss-faust.xml,Recitativ.,0,10,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+350,350,GerDracor/voss-faust.xml,"Häuft, Gnomen, Goldgeräth an bunten Marmorwänden.",0,49,character_speech,2,3,,LEVIATHAN,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+351,351,GerDracor/voss-faust.xml,"Während einiger charakteristischen Takte von tiefen Instrumenten verwandeln sich
+              die Saalwände prachtvoll.",0,120,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+352,352,GerDracor/voss-faust.xml,Des Meeres Perlen mögen Nixen senden.,0,37,character_speech,2,3,,LEVIATHAN,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+353,353,GerDracor/voss-faust.xml,Die Musik ahmt wogende Bewegung nach.,0,37,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+354,354,GerDracor/voss-faust.xml,"Man sieht Tafeln mit Kostbarkeiten zur Höhe
+              steigen.",38,104,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+355,355,GerDracor/voss-faust.xml,Ein leichtes Dienerheer schweb' aus der Luft zusammen!,0,54,character_speech,2,3,,LEVIATHAN,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+356,356,GerDracor/voss-faust.xml,"Lakaien, Läufer, Mohren etc.",0,28,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+357,357,GerDracor/voss-faust.xml,"prunkvoll gekleidet, kommen aus der Höhe unter
+              Begleitung eines kurzen leichten Presto.",29,130,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+358,358,GerDracor/voss-faust.xml,"Ihr, Salamander, sorgt für Lichtes Flammen!",0,43,character_speech,2,3,,LEVIATHAN,#leviathan,122.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+359,359,GerDracor/voss-faust.xml,Plötzlich ist der Saal von vielen Kronleuchtern erhellt.,0,56,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+360,360,GerDracor/voss-faust.xml,"Nach dem Worte Flammen
+              fällt ein lauter steigender Akkord von allen Instrumenten ein.",57,156,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+361,361,GerDracor/voss-faust.xml,"– Die Diener zerstreuen
+              sich.",157,200,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+362,362,GerDracor/voss-faust.xml,"Kurzes Arioso unter welchem er ganz langsam in die Erde zurück sinkt, daß die
+              letzte Zeile von unten herauf tönt.",0,127,stage_direction,2,3,speech_part,,#leviathan,122.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+363,363,GerDracor/voss-faust.xml,"
+              Den Himmel zahlt
+              Für eine winz'ge Welt
+              Der Erdensohn:
+              Prahlt Schaaren prahlt,
+              Die ihr das Netz gestellt,
+              Lacht Hohn!",0,201,character_speech,2,3,,LEVIATHAN,#leviathan,122.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+364,364,GerDracor/voss-faust.xml,Ha!,0,3,character_speech,2,3,,UNTERIRDISCH LACHENDER CHOR.,#unterirdisch_lachender_chor,123.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+365,365,GerDracor/voss-faust.xml,ha!,4,7,character_speech,2,3,,UNTERIRDISCH LACHENDER CHOR.,#unterirdisch_lachender_chor,123.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+366,366,GerDracor/voss-faust.xml,ha!,8,11,character_speech,2,3,,UNTERIRDISCH LACHENDER CHOR.,#unterirdisch_lachender_chor,123.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+367,367,GerDracor/voss-faust.xml,ha!,12,15,character_speech,2,3,,UNTERIRDISCH LACHENDER CHOR.,#unterirdisch_lachender_chor,123.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+368,368,GerDracor/voss-faust.xml,"
+              Alzidens Waffe sei mein Zauberstab,
+              Die Ungeheuer aus der Welt zu tilgen,
+              Und das Jahrhundert, einst nach mir genannt,
+              Soll mit Asträens Schatten sich versöhnen.",0,218,character_speech,2,4,,FAUST.,#faust,124.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+369,369,GerDracor/voss-faust.xml,Blickt flüchtig umher.,0,22,stage_direction,2,4,speech_part,,#faust,124.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+370,370,GerDracor/voss-faust.xml,"
+               Die Arbeit lob' ich, wack're Meister!",0,53,character_speech,2,4,,FAUST.,#faust,124.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+371,371,GerDracor/voss-faust.xml,"Hier mag der Herr des Schicksals ziemend wohnen,
+              Mit ihr – die ihm gebeut – laßt hier sie thronen,
+              Nun sollen sie die frohen Blicke sehn –
+              Wer naht?",68,258,character_speech,2,4,,FAUST.,#faust,124.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+372,372,GerDracor/voss-faust.xml,Stellt sich unbemerkt in einen Winkel.,0,38,stage_direction,2,4,speech_part,,#faust,124.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+373,373,GerDracor/voss-faust.xml,Guttenberg mit drei Künstlern.,0,30,stage_direction,2,5,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+374,374,GerDracor/voss-faust.xml,"schon draußen zu hören, da er gewaltig schreit.",0,47,stage_direction,2,5,speech_part,,#erster_kuenstler,125.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+375,375,GerDracor/voss-faust.xml,Was zeigt ihr mir doch die Erfindung?,0,37,character_speech,2,5,,ERSTER KÜNSTLER,#erster_kuenstler,125.0,MALE,being moved,T,,1823.0,being moved,being moved
+376,376,GerDracor/voss-faust.xml,Ich hörte schon zuvor davon.,38,66,character_speech,2,5,,ERSTER KÜNSTLER,#erster_kuenstler,125.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+377,377,GerDracor/voss-faust.xml,Sie nützt nicht.,67,83,character_speech,2,5,,ERSTER KÜNSTLER,#erster_kuenstler,125.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+378,378,GerDracor/voss-faust.xml,Unsere Alten wußten davon nimmer.,98,131,character_speech,2,5,,ERSTER KÜNSTLER,#erster_kuenstler,125.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+379,379,GerDracor/voss-faust.xml,"Ein Buch sei geschrieben, die Anfangsbuchstaben mit
+              niedlichen Bildlein.",132,218,character_speech,2,5,,ERSTER KÜNSTLER,#erster_kuenstler,125.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+380,380,GerDracor/voss-faust.xml,Faust ist ein schnöder Neuerer.,219,250,character_speech,2,5,,ERSTER KÜNSTLER,#erster_kuenstler,125.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+381,381,GerDracor/voss-faust.xml,im Eintreten.,0,13,stage_direction,2,5,speech_part,,#zweiter_kuenstler,126.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+382,382,GerDracor/voss-faust.xml,Mit neidischem Ton.,0,19,stage_direction,2,5,inner_speech,,#zweiter_kuenstler,126.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+383,383,GerDracor/voss-faust.xml, Lange war das entdeckt.,0,24,character_speech,2,5,,ZWEITER KÜNSTLER,#zweiter_kuenstler,126.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+384,384,GerDracor/voss-faust.xml,"Frech ziert er sich mit
+              fremder Empfängniß.",25,82,character_speech,2,5,,ZWEITER KÜNSTLER,#zweiter_kuenstler,126.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+385,385,GerDracor/voss-faust.xml,Soll ein Stümper Ruhm davon tragen?,83,118,character_speech,2,5,,ZWEITER KÜNSTLER,#zweiter_kuenstler,126.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+386,386,GerDracor/voss-faust.xml,Duldet's nicht!,119,134,character_speech,2,5,,ZWEITER KÜNSTLER,#zweiter_kuenstler,126.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+387,387,GerDracor/voss-faust.xml,mit höhnischem Lachen.,0,22,stage_direction,2,5,speech_part,,#dritter_kuenstler,127.0,MALE,Schadenfreude,T,,1823.0,positive,emotions of pleasure
+388,388,GerDracor/voss-faust.xml,Pah!,0,4,character_speech,2,5,,DRITTER KÜNSTLER,#dritter_kuenstler,127.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+389,389,GerDracor/voss-faust.xml,die Erfindung ist federleicht.,5,35,character_speech,2,5,,DRITTER KÜNSTLER,#dritter_kuenstler,127.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+390,390,GerDracor/voss-faust.xml,"Ruß färbt, eine Schraube drückt.",36,68,character_speech,2,5,,DRITTER KÜNSTLER,#dritter_kuenstler,127.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+391,391,GerDracor/voss-faust.xml,"Das konnt' ich
+              auch darstellen.",69,114,character_speech,2,5,,DRITTER KÜNSTLER,#dritter_kuenstler,127.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+392,392,GerDracor/voss-faust.xml,Pah!,115,119,character_speech,2,5,,DRITTER KÜNSTLER,#dritter_kuenstler,127.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+393,393,GerDracor/voss-faust.xml,Warum doch nicht zuvor?,0,23,character_speech,2,5,,GUTTENBERG.,#guttenberg,128.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+394,394,GerDracor/voss-faust.xml,–,24,25,character_speech,2,5,,GUTTENBERG.,#guttenberg,128.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+395,395,GerDracor/voss-faust.xml,Drei Gelehrte.,0,14,stage_direction,2,6,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+396,396,GerDracor/voss-faust.xml,Die Vorigen.,15,27,stage_direction,2,6,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+397,397,GerDracor/voss-faust.xml,"Und was meint ihr, gelahrte Herrn?",0,34,character_speech,2,6,,GUTTENBERG.,#guttenberg,129.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+398,398,GerDracor/voss-faust.xml,klatschen froh in die Hände.,0,28,stage_direction,2,6,speech_part,,#erster_gelehrter #zweiter_gelehrter #dritter_gelehrter,130.0,UNKNOWN,joy,T,,1823.0,positive,emotions of pleasure
+399,399,GerDracor/voss-faust.xml,"
+              Wie flink kann Buchdruckerei vertreiben!",0,55,character_speech,2,6,,DIE DREI GELEHRTEN,#erster_gelehrter #zweiter_gelehrter #dritter_gelehrter,130.0,UNKNOWN,being moved,T,,1823.0,being moved,being moved
+400,400,GerDracor/voss-faust.xml,"Was wollen wir schreiben, was wollen wir schreiben!",70,121,character_speech,2,6,,DIE DREI GELEHRTEN,#erster_gelehrter #zweiter_gelehrter #dritter_gelehrter,130.0,UNKNOWN,being moved,T,,1823.0,being moved,being moved
+401,401,GerDracor/voss-faust.xml,"
+              Nicht länger sei der Ilias heil'ger Dichter
+              In dumpfen Klösterschränken nur bewahrt.",0,113,character_speech,2,6,,GUTTENBERG.,#guttenberg,131.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+402,402,GerDracor/voss-faust.xml,"Der weise Platon lehre alle Denker,
+              Und wie der Menschheit frühes Treiben war,
+              Mag Gegenwart nun lesen, frommend prüfen.",128,276,character_speech,2,6,,GUTTENBERG.,#guttenberg,131.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+403,403,GerDracor/voss-faust.xml,durch die Fistel im singenden Tone.,0,35,stage_direction,2,6,speech_part,,#erster_gelehrter,132.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+404,404,GerDracor/voss-faust.xml,"
+              Tragt ihr die Büchlein in Haufen zusammen,
+              So les't den dürren Homeros mir nie,
+              Mögt Pindars arme Prose verdammen,
+              In Flakkus thät nimmer Dichterglut flammen,
+              Ich bin allein die Poesie!",0,256,character_speech,2,6,,ERSTER GELEHRTER,#erster_gelehrter,132.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+405,405,GerDracor/voss-faust.xml,"Wohlan, Herr Dichter, lobet den Erfinder!",0,41,character_speech,2,6,,GUTTENBERG.,#guttenberg,133.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+406,406,GerDracor/voss-faust.xml,"
+              Der Presse Formen kunden nicht das Schöne,
+              Drum ihn nicht des Liedes Röslein kröne.",0,112,character_speech,2,6,,ERSTER GELEHRTER.,#erster_gelehrter,134.0,MALE,love,T,,1823.0,positive,emotions of affection
+407,407,GerDracor/voss-faust.xml,"die Hände in die Seite gestemmt, mit Karrikatur des Hochmuthes.",0,63,stage_direction,2,6,speech_part,,#zweiter_gelehrter,135.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+408,408,GerDracor/voss-faust.xml,"
+              Wozu Thukydides und Xenophon,
+              Plutarch und Tacitus, die nicht begreifen?",0,101,character_speech,2,6,,ZWEITER GELEHRTER,#zweiter_gelehrter,135.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+409,409,GerDracor/voss-faust.xml,"Ich großer Mann erbau ein Organon,
+              Da mögt ihr ins Gebiet der Vorwelt schweifen.",116,210,character_speech,2,6,,ZWEITER GELEHRTER,#zweiter_gelehrter,135.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+410,410,GerDracor/voss-faust.xml,"Geschichte fert'ge ich, und das aus Mark,
+              Wohl a priori steht der Quark!",225,311,character_speech,2,6,,ZWEITER GELEHRTER,#zweiter_gelehrter,135.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+411,411,GerDracor/voss-faust.xml,Und Faust?,0,10,character_speech,2,6,,GUTTENBERG.,#guttenberg,136.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+412,412,GerDracor/voss-faust.xml,"
+              Begreifet Ihr Nothwendigkeit?",0,44,character_speech,2,6,,ZWEITER GELEHRTER.,#zweiter_gelehrter,137.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+413,413,GerDracor/voss-faust.xml,"Nichts sprach er aus, der Wicht, es that die Zeit.",59,109,character_speech,2,6,,ZWEITER GELEHRTER.,#zweiter_gelehrter,137.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+414,414,GerDracor/voss-faust.xml,mit grimmiger Geberde.,0,22,stage_direction,2,6,speech_part,,#dritter_gelehrter,138.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+415,415,GerDracor/voss-faust.xml,"
+              Mir Streitlust tobt in prasselnder Ader,
+              Es lebe Federkampf, gelehrter, rasselnder Hader!",0,118,character_speech,2,6,,DRITTER GELEHRTER,#dritter_gelehrter,138.0,MALE,Schadenfreude,T,,1823.0,positive,emotions of pleasure
+416,416,GerDracor/voss-faust.xml,Laß critica flattern der Sätze Siegerfahn!,134,176,character_speech,2,6,,DRITTER GELEHRTER,#dritter_gelehrter,138.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+417,417,GerDracor/voss-faust.xml,"Ihr will ich schnattern, wetze den Tiegerzahn!",191,237,character_speech,2,6,,DRITTER GELEHRTER,#dritter_gelehrter,138.0,MALE,Schadenfreude,T,,1823.0,positive,emotions of pleasure
+418,418,GerDracor/voss-faust.xml,"Den Kiel in Skorpionengalle tauchen,
+              Giftpestend den Ruhm umhauchen, umschmauchen!",252,348,character_speech,2,6,,DRITTER GELEHRTER,#dritter_gelehrter,138.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+419,419,GerDracor/voss-faust.xml,Doch unsern Doktor werdet ihr erheben?,0,38,character_speech,2,6,,GUTTENBERG.,#guttenberg,139.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+420,420,GerDracor/voss-faust.xml,"
+              Ein wenig Talent zur Mechanik,
+              Sonst ist der Kerl unter aller Kritik!",0,98,character_speech,2,6,,DRITTER GELEHRTER.,#dritter_gelehrter,140.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+421,421,GerDracor/voss-faust.xml,"die sich derweile umsahn, verwundert.",0,37,stage_direction,2,6,speech_part,,#erster_kuenstler #zweiter_kuenstler #dritter_kuenstler,141.0,UNKNOWN,being moved,T,,1823.0,being moved,being moved
+422,422,GerDracor/voss-faust.xml,Doch wem gehöret das?,0,21,character_speech,2,6,,DIE DREI KÜNSTLER,#erster_kuenstler #zweiter_kuenstler #dritter_kuenstler,141.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+423,423,GerDracor/voss-faust.xml,Dem Faust!,0,10,character_speech,2,6,,GUTTENBERG.,#guttenberg,142.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+424,424,GerDracor/voss-faust.xml,nachdem sie auch umhergeblickt.,0,31,stage_direction,2,6,speech_part,,#erster_gelehrter #zweiter_gelehrter #dritter_gelehrter,143.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+425,425,GerDracor/voss-faust.xml,Dem Faust?,0,10,character_speech,2,6,,DIE DREI GELEHRTEN,#erster_gelehrter #zweiter_gelehrter #dritter_gelehrter,143.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+426,426,GerDracor/voss-faust.xml,Könige können bei ihm borgen.,0,29,character_speech,2,6,,GUTTENBERG.,#guttenberg,144.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+427,427,GerDracor/voss-faust.xml,den Hut plötzlich herunter.,0,27,stage_direction,2,6,speech_part,,#erster_kuenstler #zweiter_kuenstler #dritter_kuenstler,145.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+428,428,GerDracor/voss-faust.xml,Auch Künstler?,0,14,character_speech,2,6,,DIE DREI KÜNSTLER,#erster_kuenstler #zweiter_kuenstler #dritter_kuenstler,145.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+429,429,GerDracor/voss-faust.xml,eben so und sehr schnell.,0,25,stage_direction,2,6,speech_part,,#erster_gelehrter #zweiter_gelehrter #dritter_gelehrter,146.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+430,430,GerDracor/voss-faust.xml,Auch Gelehrte?,0,14,character_speech,2,6,,DIE DREI GELEHRTEN,#erster_gelehrter #zweiter_gelehrter #dritter_gelehrter,146.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+431,431,GerDracor/voss-faust.xml,tritt unter sie; sie fallen nieder.,0,35,stage_direction,2,6,speech_part,,#faust,147.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+432,432,GerDracor/voss-faust.xml,Sextett oder Chor.,0,18,stage_direction,2,6,speech_part,,#faust,147.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+433,433,GerDracor/voss-faust.xml,"
+              Ruhm sei dein Kleid,
+              Erhab'ner Weise,
+              Unsterblichkeit
+              Sei deine Speise.",0,128,character_speech,2,6,,KÜNSTLER UND GELEHRTE.,#erster_kuenstler #zweiter_kuenstler #dritter_kuenstler #erster_gelehrter #zweiter_gelehrter #dritter_gelehrter,148.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+434,434,GerDracor/voss-faust.xml,"Dich lob ein Nepos,
+              Dir tön' ein Epos,
+              Versetzen dich gerne
+              Dort unter die Sterne!",143,267,character_speech,2,6,,KÜNSTLER UND GELEHRTE.,#erster_kuenstler #zweiter_kuenstler #dritter_kuenstler #erster_gelehrter #zweiter_gelehrter #dritter_gelehrter,148.0,UNKNOWN,"admiration, reverence",T,,1823.0,positive,emotions of affection
+435,435,GerDracor/voss-faust.xml,zu den Künstlern.,0,17,stage_direction,2,6,speech_part,,#faust,149.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+436,436,GerDracor/voss-faust.xml,"
+              Arm habt ihr mich geschmäht, die Hymne pries den Reichen:
+              Empfange, falsche Brut, ein warnend Zeichen!",0,131,character_speech,2,6,,FAUST,#faust,149.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+437,437,GerDracor/voss-faust.xml,"Die Künstler stehen mit großen Raubvögelschnäbeln da, aus denen Zungen mit
+              Widerhaken hängen.",0,107,stage_direction,2,6,speech_part,,#faust,149.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+438,438,GerDracor/voss-faust.xml,Zum Poeten.,0,11,stage_direction,2,6,speech_part,,#faust,149.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+439,439,GerDracor/voss-faust.xml,"
+              Von dannen ziehe Laff' der Laffen
+              Mit einer Zier, die nie vom Haupt sich trennt!",0,109,character_speech,2,6,,FAUST,#faust,149.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+440,440,GerDracor/voss-faust.xml,Der Poet hat eine Schellenkappe von ungeheurer Größe auf.,0,57,stage_direction,2,6,speech_part,,#faust,149.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+441,441,GerDracor/voss-faust.xml,Zum Geschichtsphilosophen.,0,26,stage_direction,2,6,speech_part,,#faust,149.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+442,442,GerDracor/voss-faust.xml,"Zwei andre Ohren dir, du rüstiger Scribent!",0,43,character_speech,2,6,,FAUST,#faust,149.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+443,443,GerDracor/voss-faust.xml,Ihm streben zwei lange Eselsohren empor.,0,40,stage_direction,2,6,speech_part,,#faust,149.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+444,444,GerDracor/voss-faust.xml,Zum Criticus.,0,13,stage_direction,2,6,speech_part,,#faust,149.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+445,445,GerDracor/voss-faust.xml,"Dein hündisch Maul mag schnüffeln, bellen, klaffen!",0,51,character_speech,2,6,,FAUST,#faust,149.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+446,446,GerDracor/voss-faust.xml,"Ihm wächst ein gewaltig Hundemaul mit spitzen, sichtbaren Zähnen.",0,65,stage_direction,2,6,speech_part,,#faust,149.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+447,447,GerDracor/voss-faust.xml,"
+              Weg, niederes Gezücht, es werden edle Geister
+              Der Wissenschaft Altar erhöh'n!",0,106,character_speech,2,6,,FAUST,#faust,149.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+448,448,GerDracor/voss-faust.xml,Sie laufen zu beiden Seiten schnell davon.,0,42,stage_direction,2,6,speech_part,,#faust,149.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+449,449,GerDracor/voss-faust.xml,"
+              Die Rache ward gebüßt – doch kreucht die Brut
+              Zu tief nicht, daß ich auf sie nieder achte?",0,119,character_speech,2,6,,FAUST,#faust,149.0,MALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+450,450,GerDracor/voss-faust.xml,Es fleht der Neid ja auch um täglich Brod.,0,42,character_speech,2,6,,GUTTENBERG.,#guttenberg,150.0,MALE,Schadenfreude,T,,1823.0,positive,emotions of pleasure
+451,451,GerDracor/voss-faust.xml,Mag der Verwandlung Pein von ihnen weichen!,0,43,character_speech,2,6,,FAUST.,#faust,151.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+452,452,GerDracor/voss-faust.xml,Nimmt einen großen Beutel vom Tisch.,0,36,stage_direction,2,6,speech_part,,#faust,151.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+453,453,GerDracor/voss-faust.xml,"
+              Noch den Zehrpfennig schleudre ihnen nach!",0,57,character_speech,2,6,,FAUST.,#faust,151.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+454,454,GerDracor/voss-faust.xml,Es ist doch Gold?,72,89,character_speech,2,6,,FAUST.,#faust,151.0,MALE,being moved,T,,1823.0,being moved,being moved
+455,455,GerDracor/voss-faust.xml,Nimm noch den zweiten Beutel!,90,119,character_speech,2,6,,FAUST.,#faust,151.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+456,456,GerDracor/voss-faust.xml,ab.,0,3,stage_direction,2,6,speech_part,,#guttenberg,152.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+457,457,GerDracor/voss-faust.xml,allein mit Ungestüm.,0,20,stage_direction,2,6,speech_part,,#faust,153.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+458,458,GerDracor/voss-faust.xml,"
+              Soll er mir nun die Froherwählte zeigen,
+              Kaum trag' ich noch des wilden Busens Steigen!",0,116,character_speech,2,6,,FAUST,#faust,153.0,MALE,love,T,,1823.0,positive,emotions of affection
+459,459,GerDracor/voss-faust.xml,"Doch – Zauberei soll mir nicht minnen,
+              Des Mannes Werth der Schönheit Lohn gewinne!",131,228,character_speech,2,6,,FAUST,#faust,153.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+460,460,GerDracor/voss-faust.xml,"O Säumender, auf edle Großthat sinne;
+              Sie suchend fliehe ich entzückt von hinnen!",243,338,character_speech,2,6,,FAUST,#faust,153.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+461,461,GerDracor/voss-faust.xml,Ab.,0,3,stage_direction,2,6,speech_part,,#faust,153.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+462,462,GerDracor/voss-faust.xml,"Platz, wo im Hintergrunde ein Gefängniß steht.",0,46,stage_direction,2,7,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+463,463,GerDracor/voss-faust.xml,"in Mannskleidern, setzt sich auf einen Stein.",0,45,stage_direction,2,7,speech_part,,#seraphina,154.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+464,464,GerDracor/voss-faust.xml,Romanze.,0,8,stage_direction,2,7,speech_part,,#seraphina,154.0,FEMALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+465,465,GerDracor/voss-faust.xml,"
+              Hört, daß ich Arme
+              Euch verkünde:
+              Zum tiefen Harme
+              Geleitet Sünde.",0,123,character_speech,2,7,,SERAPHINE,#seraphina,154.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+466,466,GerDracor/voss-faust.xml,Faust von Dienern begleitet.,0,28,stage_direction,2,8,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+467,467,GerDracor/voss-faust.xml,Seraphine.,29,39,stage_direction,2,8,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+468,468,GerDracor/voss-faust.xml,bewegt umherschauend.,0,21,stage_direction,2,8,speech_part,,#faust,155.0,MALE,being moved,T,,1823.0,being moved,being moved
+469,469,GerDracor/voss-faust.xml,"
+              Wohin, ihr Töne, rufet ihr die Seele?",0,52,character_speech,2,8,,FAUST,#faust,155.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+470,470,GerDracor/voss-faust.xml,"–
+              Wer bist Du, Knabe?",53,88,character_speech,2,8,,FAUST,#faust,155.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+471,471,GerDracor/voss-faust.xml,"Herr, Gesang fristet mein Leben.",0,32,character_speech,2,8,,SERAPHINE.,#seraphina,156.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+472,472,GerDracor/voss-faust.xml,Und welch' ein Lied entfloh der Lippe eben?,0,43,character_speech,2,8,,FAUST.,#faust,157.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+473,473,GerDracor/voss-faust.xml,Ein armes Mädchen glühte dem edlen Geliebten.,0,45,character_speech,2,8,,SERAPHINE.,#seraphina,158.0,FEMALE,love,T,,1823.0,positive,emotions of affection
+474,474,GerDracor/voss-faust.xml,"Ihm folgte Leid, er hatte nicht Kraft
+              zu tragen, und sank.",46,118,character_speech,2,8,,SERAPHINE.,#seraphina,158.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+475,475,GerDracor/voss-faust.xml,Da weinte das Lied.,119,138,character_speech,2,8,,SERAPHINE.,#seraphina,158.0,FEMALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+476,476,GerDracor/voss-faust.xml,gewaltig ergriffen.,0,19,stage_direction,2,8,speech_part,,#faust,159.0,MALE,being moved,T,,1823.0,being moved,being moved
+477,477,GerDracor/voss-faust.xml,Nicht Kraft zu tragen?,0,22,character_speech,2,8,,FAUST,#faust,159.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+478,478,GerDracor/voss-faust.xml,–,23,24,character_speech,2,8,,FAUST,#faust,159.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+479,479,GerDracor/voss-faust.xml,Leise.,0,6,stage_direction,2,8,speech_part,,#faust,159.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+480,480,GerDracor/voss-faust.xml,"
+              Blut'gen Stachel
+              Senkst du in meine Brust – doch lohn' ich dir
+              Mild des orpheischen Gesanges Rührung –",0,145,character_speech,2,8,,FAUST,#faust,159.0,MALE,love,T,,1823.0,positive,emotions of affection
+481,481,GerDracor/voss-faust.xml,Näher und herziger.,0,19,stage_direction,2,8,speech_part,,#faust,159.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+482,482,GerDracor/voss-faust.xml,"
+              Der Saiten Einklang fühl' ich beben,
+              Die unsrer Geister leisen Strahl verweben,
+              Ich fühle wonnezitternd mich beklommen,
+              Und heiße das verwandte Herz willkommen!",0,217,character_speech,2,8,,FAUST,#faust,159.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+483,483,GerDracor/voss-faust.xml,Zu den Dienern.,0,15,stage_direction,2,8,speech_part,,#faust,159.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+484,484,GerDracor/voss-faust.xml,"
+              Auf schmückt den Knaben!",0,39,character_speech,2,8,,FAUST,#faust,159.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+485,485,GerDracor/voss-faust.xml,"Eilet, eilet!",40,53,character_speech,2,8,,FAUST,#faust,159.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+486,486,GerDracor/voss-faust.xml,Denn immer nun der holde Sänger weilet.,68,107,character_speech,2,8,,FAUST,#faust,159.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+487,487,GerDracor/voss-faust.xml,Seraphine mit den Dienern ab.,0,29,stage_direction,2,8,speech_part,,#faust,159.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+488,488,GerDracor/voss-faust.xml,"allein, rasch.",0,14,stage_direction,2,8,speech_part,,#faust,160.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+489,489,GerDracor/voss-faust.xml,"
+              Ich harr' einst männlich der Verdammniß Qual,
+              Doch vor der Urne nage keine Reue!",0,109,character_speech,2,8,,FAUST,#faust,160.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+490,490,GerDracor/voss-faust.xml,Faust.,0,6,stage_direction,2,9,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+491,491,GerDracor/voss-faust.xml,Volk.,7,12,stage_direction,2,9,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+492,492,GerDracor/voss-faust.xml,"
+              Kein leiser Schimmer,
+              Von Hoffnung tagt,
+              Wir retten ihn nimmer,
+              Klagt, klagt!",0,134,character_speech,2,9,,CHOR.,#volk,161.0,UNKNOWN,despair,T,,1823.0,negative,emotions of anxiety
+493,493,GerDracor/voss-faust.xml,Was sammelt Euch um den Kerker?,0,31,character_speech,2,9,,FAUST.,#faust,162.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+494,494,GerDracor/voss-faust.xml,Doktor Robertus schmachtet hier.,0,32,character_speech,2,9,,BÜRGER.,#erster_buerger_2-9,163.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+495,495,GerDracor/voss-faust.xml,"Des Volkes Freund, seiner Rechte kühner
+              Vertheidiger.",33,100,character_speech,2,9,,BÜRGER.,#erster_buerger_2-9,163.0,MALE,friendship,T,,1823.0,positive,emotions of affection
+496,496,GerDracor/voss-faust.xml,"Die Kette, die er brechen wollte, umschlang ihn nun.",0,52,character_speech,2,9,,ANDRER BÜRGER.,#andrer_buerger_2-9,164.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+497,497,GerDracor/voss-faust.xml,"Die Auflagen, womit uns Härte
+              entmarkt, die Sklavenfrohne, die uns in den Staub drückt, griff er in einer kühnen,
+              hochherzigen Schrift an.",53,219,character_speech,2,9,,ANDRER BÜRGER.,#andrer_buerger_2-9,164.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+498,498,GerDracor/voss-faust.xml,Edelmuth bringt Schmach und Tod über ihn.,0,41,character_speech,2,9,,ERSTER BÜRGER.,#erster_buerger_2-9,165.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+499,499,GerDracor/voss-faust.xml,In einer Stunde ist er nicht mehr.,42,76,character_speech,2,9,,ERSTER BÜRGER.,#erster_buerger_2-9,165.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+500,500,GerDracor/voss-faust.xml,"Umsonst
+              wanden wir uns flehend vor dem Rath des Fürsten.",77,147,character_speech,2,9,,ERSTER BÜRGER.,#erster_buerger_2-9,165.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+501,501,GerDracor/voss-faust.xml,schnell für sich.,0,17,stage_direction,2,9,speech_part,,#faust,166.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+502,502,GerDracor/voss-faust.xml,"
+              Vielleicht winkt hier ein glorreich Abentheuer,
+              Ein edler Paladin will ich's bestehn.",0,114,character_speech,2,9,,FAUST,#faust,166.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+503,503,GerDracor/voss-faust.xml,Zum Volk.,0,9,stage_direction,2,9,speech_part,,#faust,166.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+504,504,GerDracor/voss-faust.xml,"Hofft, Bürger, hofft, ich sag Euch Hülfe zu!",0,44,character_speech,2,9,,FAUST,#faust,166.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+505,505,GerDracor/voss-faust.xml,Rasch in den Thurm ab.,0,22,stage_direction,2,9,speech_part,,#faust,166.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+506,506,GerDracor/voss-faust.xml,Inneres Gefängniß.,0,18,stage_direction,2,10,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+507,507,GerDracor/voss-faust.xml,Arie.,0,5,stage_direction,2,10,speech_part,,#robertus,167.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+508,508,GerDracor/voss-faust.xml,"
+              Will Gefahr mich nun verderben,
+              Höhnt den Feind ein schöner Tod,
+              Am Altar der Freiheit sterben,
+              Krönt mit Ruhmes Morgenroth.",0,181,character_speech,2,10,,DOKTOR ROBERTUS.,#robertus,167.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+509,509,GerDracor/voss-faust.xml,"Zwar schmiegt sich das junge Leben,
+              An Aureliens Gestalt,
+              Wird zum Aether traurig schweben,
+              Wenn am Erdgefild sie wallt.",196,358,character_speech,2,10,,DOKTOR ROBERTUS.,#robertus,167.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+510,510,GerDracor/voss-faust.xml,"Doch thaut ihre Wehmuth Zähren,
+              Auf mein früh erhöhet Grab,
+              Dann schaut aus den lichten Sphären,
+              Der Verklärte froh herab.",373,537,character_speech,2,10,,DOKTOR ROBERTUS.,#robertus,167.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+511,511,GerDracor/voss-faust.xml,Mag Gefahr u.s.w.,552,569,character_speech,2,10,,DOKTOR ROBERTUS.,#robertus,167.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+512,512,GerDracor/voss-faust.xml,Faust.,0,6,stage_direction,2,11,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+513,513,GerDracor/voss-faust.xml,Robertus.,7,16,stage_direction,2,11,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+514,514,GerDracor/voss-faust.xml,mit off'nen Armen.,0,18,stage_direction,2,11,speech_part,,#faust,168.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+515,515,GerDracor/voss-faust.xml,"O Jüngling, Jüngling –",0,22,character_speech,2,11,,FAUST,#faust,168.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+516,516,GerDracor/voss-faust.xml,"
+              Sagt, wie nahet ihr
+              Durch die verwahrte Thür?",0,74,character_speech,2,11,,ROBERTUS.,#robertus,169.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+517,517,GerDracor/voss-faust.xml,"
+              Das kümm'r euch nicht.",0,37,character_speech,2,11,,FAUST.,#faust,170.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+518,518,GerDracor/voss-faust.xml,"Wohl barg ich hohe Meinung schon für Euch,
+              Den kühnen Anwald tief gebeugter Brüder,
+              Doch nun ich dem Gesange horchte, der
+              Den Edeln seinem nahen Grabe heiligt,
+              Erkenn' ich das Geheimniß seiner Seele,
+              Als hätt' uns schon der Knaben Spiel umfangen.",52,368,character_speech,2,11,,FAUST.,#faust,170.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+519,519,GerDracor/voss-faust.xml,"Von Rom und Hellas borgt ihr Ideale,
+              Euch lehren Sokrates und Cato sterben.",384,473,character_speech,2,11,,FAUST.,#faust,170.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+520,520,GerDracor/voss-faust.xml,"Wohl kniet' ich vor dem Heißbewunderten,
+              Ermannte mich kein glücklich Machtgefühl,
+              An meine Brust den hohen Freund zu ketten.",488,641,character_speech,2,11,,FAUST.,#faust,170.0,MALE,friendship,T,,1823.0,positive,emotions of affection
+521,521,GerDracor/voss-faust.xml,"
+              Erschwert mir nicht die Trennung, da ihr mir
+              Verführend holde Lebensgüter zeigt,
+              Die Kette untersagt euch zu umarmen.",0,160,character_speech,2,11,,ROBERTUS.,#robertus,171.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+522,522,GerDracor/voss-faust.xml,–,161,162,character_speech,2,11,,ROBERTUS.,#robertus,171.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+523,523,GerDracor/voss-faust.xml,"
+              Von Liebe sang dein Lied.",0,40,character_speech,2,11,,FAUST.,#faust,172.0,MALE,love,T,,1823.0,positive,emotions of affection
+524,524,GerDracor/voss-faust.xml,"O nenne sie,
+              Die deine Kraft zum Göttlichen vollendet!",41,109,character_speech,2,11,,FAUST.,#faust,172.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+525,525,GerDracor/voss-faust.xml,"
+              Anmuth'ger füll' ich nicht die Spanne Lebenstag,
+              Als wenn ich euch des Schönen Hoheit bilde.",0,121,character_speech,2,11,,ROBERTUS.,#robertus,173.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+526,526,GerDracor/voss-faust.xml,Vernehmet!,136,146,character_speech,2,11,,ROBERTUS.,#robertus,173.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+527,527,GerDracor/voss-faust.xml,"Liebe heißt des Jünglings Fall,
+              O nein!",147,200,character_speech,2,11,,ROBERTUS.,#robertus,173.0,MALE,love,T,,1823.0,positive,emotions of affection
+528,528,GerDracor/voss-faust.xml,"des Jünglings wolkenhohes Steigen –
+              Dem Manne, der im Staate waltend lenkt,
+              Blüht eine Tochter – ungleich dem Erzeuger,
+              So hold wie gut, so zart wie seelenstark.",201,404,character_speech,2,11,,ROBERTUS.,#robertus,173.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+529,529,GerDracor/voss-faust.xml,"Die Huldin weinet liebend Sappho's Thräne,
+              Den kühnen Sinn erhebt Thalastris Hochgefühl.",419,521,character_speech,2,11,,ROBERTUS.,#robertus,173.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+530,530,GerDracor/voss-faust.xml,"–
+              Zu ihrem Lehrer wurde ich erkohren,
+              In schöner Wissenschaft und Saitenspiel,
+              Da in ihr Herz nun meine Blicke sanken.",522,682,character_speech,2,11,,ROBERTUS.,#robertus,173.0,MALE,love,T,,1823.0,positive,emotions of affection
+531,531,GerDracor/voss-faust.xml,"Ich selbst entfaltete des Geistes edle Blüthe,
+              War's Wunder, daß der ersten Liebe Himmel,
+              Dem Jüngling nun die Göttin aufgethan?",697,853,character_speech,2,11,,ROBERTUS.,#robertus,173.0,MALE,love,T,,1823.0,positive,emotions of affection
+532,532,GerDracor/voss-faust.xml,Daß unsre Seraphsschwingen sich berührten?,868,910,character_speech,2,11,,ROBERTUS.,#robertus,173.0,MALE,being moved,T,,1823.0,being moved,being moved
+533,533,GerDracor/voss-faust.xml,"
+              Entzückender Roman!",0,34,character_speech,2,11,,FAUST.,#faust,174.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+534,534,GerDracor/voss-faust.xml,Glücksel'ger Abälard!,35,56,character_speech,2,11,,FAUST.,#faust,174.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+535,535,GerDracor/voss-faust.xml,"Nicht heiliger umstrahlen sich Gemüther,
+              Wie im verklärenden Kamönenhain!",71,158,character_speech,2,11,,FAUST.,#faust,174.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+536,536,GerDracor/voss-faust.xml,"
+              Der Vater bringt den Ahnen Götterkultus,
+              An Stammbaums Zweigen reift ihm Menschenwerth,
+              Doch warb Aurelia um meine Hand,
+              Zum Ritter, sprach die Hohe, schlägt das Herz!",0,224,character_speech,2,11,,ROBERTUS.,#robertus,175.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+537,537,GerDracor/voss-faust.xml,"Dich grüße Hoffnung, edelmüth'ger Heros!",0,40,character_speech,2,11,,FAUST.,#faust,176.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+538,538,GerDracor/voss-faust.xml,"
+              Wie donnerte des Alten Zorn auf mich!",0,52,character_speech,2,11,,ROBERTUS.,#robertus,177.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+539,539,GerDracor/voss-faust.xml,"Ich mußte tiefgeschmäht der reizenden
+              Gefahr entfliehn.",67,136,character_speech,2,11,,ROBERTUS.,#robertus,177.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+540,540,GerDracor/voss-faust.xml,"– Da kam des Volkes Noth,
+              Ich fühlte sie, und die Geliebte auch,
+              Die in geheimen Briefen sie beweinte.",137,267,character_speech,2,11,,ROBERTUS.,#robertus,177.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+541,541,GerDracor/voss-faust.xml,Sehr sanft.,0,11,stage_direction,2,11,speech_part,,#robertus,177.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+542,542,GerDracor/voss-faust.xml,"
+              Da schrieb ich furchtlos nieder, was als recht ich fühlte
+              Und sandt es furchtlos dem Tirannenhelfer.",0,129,character_speech,2,11,,ROBERTUS.,#robertus,177.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+543,543,GerDracor/voss-faust.xml,umarmt ihn.,0,11,stage_direction,2,11,speech_part,,#faust,178.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+544,544,GerDracor/voss-faust.xml,"
+              Bald höre mir von der erfund'nen Kunst,
+              Die auch dem Volk des Weisen Lehre spendet,
+              Da strahl' ihm über seine Rechte Licht!",0,166,character_speech,2,11,,FAUST,#faust,178.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+545,545,GerDracor/voss-faust.xml,mit Nachdruck.,0,14,stage_direction,2,11,speech_part,,#robertus,179.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+546,546,GerDracor/voss-faust.xml,"
+              Gerechtigkeit will Opfer, sprach die Rache nun,
+              Die Todtverhängende –",0,98,character_speech,2,11,,ROBERTUS,#robertus,179.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+547,547,GerDracor/voss-faust.xml,Sie sei dein Spott!,0,19,character_speech,2,11,,FAUST.,#faust,180.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+548,548,GerDracor/voss-faust.xml,Bedeutend.,0,10,stage_direction,2,11,speech_part,,#faust,180.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+549,549,GerDracor/voss-faust.xml,"
+              Indem ich deine hohe Liebe kröne,
+              Will ich der hohen Liebe Lohn empfangen.",0,103,character_speech,2,11,,FAUST.,#faust,180.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+550,550,GerDracor/voss-faust.xml,"
+              Nur Wünsche lodern – aber nehmet Dank!",0,53,character_speech,2,11,,ROBERTUS.,#robertus,181.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+551,551,GerDracor/voss-faust.xml,Aurelia jammerte umsonst auf wunden Knieen.,68,111,character_speech,2,11,,ROBERTUS.,#robertus,181.0,MALE,compassion,T,,1823.0,negative,emotions of suffering and empathy
+552,552,GerDracor/voss-faust.xml,"In streng Gewahrsam wurde sie gebracht,
+              Bis mich umschattet tiefe Gräbernacht –
+              Fahr schönes Leben hin!",127,258,character_speech,2,11,,ROBERTUS.,#robertus,181.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+553,553,GerDracor/voss-faust.xml,– horcht!,259,268,character_speech,2,11,,ROBERTUS.,#robertus,181.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+554,554,GerDracor/voss-faust.xml,horcht!,269,276,character_speech,2,11,,ROBERTUS.,#robertus,181.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+555,555,GerDracor/voss-faust.xml,die Trommeln klingen.,277,298,character_speech,2,11,,ROBERTUS.,#robertus,181.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+556,556,GerDracor/voss-faust.xml,Man hört Trommeln in der Ferne.,0,31,stage_direction,2,11,speech_part,,#robertus,181.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+557,557,GerDracor/voss-faust.xml,Beim Gott der Unterwelt!,0,24,character_speech,2,11,,FAUST.,#faust,182.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+558,558,GerDracor/voss-faust.xml,Ich will dir Hülfe bringen!,25,52,character_speech,2,11,,FAUST.,#faust,182.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+559,559,GerDracor/voss-faust.xml,Durch die Mauer ab.,0,19,stage_direction,2,11,speech_part,,#faust,182.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+560,560,GerDracor/voss-faust.xml,Kerkermeister tritt ein.,0,24,stage_direction,2,11,speech_part,,#faust,182.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+561,561,GerDracor/voss-faust.xml,"Winkt, die Thränen trocknend.",25,54,stage_direction,2,11,speech_part,,#faust,182.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+562,562,GerDracor/voss-faust.xml,"Robertus erhebt sich und
+              geht.",55,99,stage_direction,2,11,speech_part,,#faust,182.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+563,563,GerDracor/voss-faust.xml,wirft sich hin.,0,15,stage_direction,2,11,speech_part,,#kerkermeister,183.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+564,564,GerDracor/voss-faust.xml,Dem Amt Verzeihung!,0,19,character_speech,2,11,,KERKERMEISTER,#kerkermeister,183.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+565,565,GerDracor/voss-faust.xml,reicht ihm die Hand.,0,20,stage_direction,2,11,speech_part,,#robertus,184.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+566,566,GerDracor/voss-faust.xml,"
+              O segne noch den Greis, du Heiliger
+              Des Vaterlandes!",0,81,character_speech,2,11,,KERKERMEISTER.,#kerkermeister,185.0,MALE,"admiration, reverence",T,,1823.0,positive,emotions of affection
+567,567,GerDracor/voss-faust.xml,legt ihm die Hand aufs Haupt und geht ab.,0,41,stage_direction,2,11,speech_part,,#robertus,186.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+568,568,GerDracor/voss-faust.xml,"Trommeln wirbeln in der Nähe, man hört Waffengeklirr und Volkslärmen.",0,69,stage_direction,2,11,speech_part,,#robertus,186.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+569,569,GerDracor/voss-faust.xml,"Viele
+              Stimmen rufen draußen: »Es lebe Doktor Robertus!« Andre: »Gnade!« Das Getümmel
+              entfernt sich.",70,197,stage_direction,2,11,speech_part,,#robertus,186.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+570,570,GerDracor/voss-faust.xml,noch auf den Knieen.,0,20,stage_direction,2,11,speech_part,,#kerkermeister,187.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+571,571,GerDracor/voss-faust.xml,"Für mich nicht bitte ich, für ihn!",0,34,character_speech,2,11,,KERKERMEISTER,#kerkermeister,187.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+572,572,GerDracor/voss-faust.xml,Kurzes Feld.,0,12,stage_direction,2,12,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+573,573,GerDracor/voss-faust.xml,ein Reisebündel auf dem Nacken.,0,31,stage_direction,2,12,speech_part,,#guttenberg,188.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+574,574,GerDracor/voss-faust.xml,"Es ist beschlossen, ich weiche von hinnen.",0,42,character_speech,2,12,,GUTTENBERG,#guttenberg,188.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+575,575,GerDracor/voss-faust.xml,"Mit Nächten ohne Schlaf, mit
+              furchtschauderndem Gewissen wird die üppige Lust zu theuer erkauft.",43,153,character_speech,2,12,,GUTTENBERG,#guttenberg,188.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+576,576,GerDracor/voss-faust.xml,"Ich wende mich gen
+              Frankfurt.",154,197,character_speech,2,12,,GUTTENBERG,#guttenberg,188.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+577,577,GerDracor/voss-faust.xml,"Weiß ich doch, wie eine Buchdruckerpresse darzustellen ist, da ich für ihn
+              arbeitete, und mit kunstfertiger Hand vollzog, was ihm der Genius flüsterte.",198,363,character_speech,2,12,,GUTTENBERG,#guttenberg,188.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+578,578,GerDracor/voss-faust.xml,"Sogar
+              fällt mir noch eine Vorrichtung ein, die des Werkes Schnelle erweitert.",364,455,character_speech,2,12,,GUTTENBERG,#guttenberg,188.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+579,579,GerDracor/voss-faust.xml,"So kann ich
+              durch mich Vermögen und Ansehn bei unbefährdeter Ruhe gewinnen.",456,545,character_speech,2,12,,GUTTENBERG,#guttenberg,188.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+580,580,GerDracor/voss-faust.xml,Ab.,0,3,stage_direction,2,12,speech_part,,#guttenberg,188.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+581,581,GerDracor/voss-faust.xml,"Freier Platz, in der Mitte eine Blutbühne.",0,42,stage_direction,2,13,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+582,582,GerDracor/voss-faust.xml,Soldaten mit Spießen haben einen Kreis gezogen.,0,47,stage_direction,2,13,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+583,583,GerDracor/voss-faust.xml,Volk.,48,53,stage_direction,2,13,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+584,584,GerDracor/voss-faust.xml,"
+              Dumpf tönet banger Nachtgesang,
+              Der Edle soll erliegen.",0,84,character_speech,2,13,,CHOR DES VOLKES.,#volk,189.0,UNKNOWN,fear,T,,1823.0,negative,emotions of anxiety
+585,585,GerDracor/voss-faust.xml,"die immer Mühe haben, das Volk abzuwehren.",0,42,stage_direction,2,13,speech_part,,#soldaten,190.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+586,586,GerDracor/voss-faust.xml,"
+              Und gält' es Weltenuntergang,
+              Gerechtigkeit muß siegen!",0,84,character_speech,2,13,,CHOR DER SOLDATEN,#soldaten,190.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+587,587,GerDracor/voss-faust.xml,"
+              Bei aller frommen Liebe Drang,
+              Wer darf zur Rettung fliegen?",0,89,character_speech,2,13,,VOLK.,#volk,191.0,UNKNOWN,love,T,,1823.0,positive,emotions of affection
+588,588,GerDracor/voss-faust.xml,"
+              Und gält' es Weltenuntergang,
+              Gerechtigkeit muß siegen.",0,84,character_speech,2,13,,SOLDATEN.,#soldaten,192.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+589,589,GerDracor/voss-faust.xml,"
+              Bald klirrt der Henkerwaffe Klang,
+              Denn Richterherzen schwiegen.",0,93,character_speech,2,13,,VOLK.,#volk,193.0,UNKNOWN,anger,T,,1823.0,negative,emotions of rejection
+590,590,GerDracor/voss-faust.xml,Robertus mit Wache umgeben.,0,27,stage_direction,2,14,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+591,591,GerDracor/voss-faust.xml,Zwei Geistliche neben ihm.,28,54,stage_direction,2,14,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+592,592,GerDracor/voss-faust.xml,"Machiavelli folgt mit
+            Richtern, die sich an einer Seite um einen schwarzen Tisch setzen.",55,155,stage_direction,2,14,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+593,593,GerDracor/voss-faust.xml,"
+              Du bist am Ende,
+              Vom Ird'schen wende
+              Ergeb'nen Sinn.",0,95,character_speech,2,14,,DIE PRIESTER.,#die_priester,194.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+594,594,GerDracor/voss-faust.xml,"Den Geist nun sende
+              In Christi Hände
+              Reue weinend hin!",110,192,character_speech,2,14,,DIE PRIESTER.,#die_priester,194.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+595,595,GerDracor/voss-faust.xml,"
+              Es brach der Stab,
+              Gesetze walten.",0,63,character_speech,2,14,,RICHTER.,#richter,195.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+596,596,GerDracor/voss-faust.xml,mit den Soldaten im Kampf.,0,26,stage_direction,2,14,speech_part,,#volk,196.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+597,597,GerDracor/voss-faust.xml,"
+              O Tod und Grab,
+              Er soll erkalten?",0,62,character_speech,2,14,,VOLK,#volk,196.0,UNKNOWN,despair,T,,1823.0,negative,emotions of anxiety
+598,598,GerDracor/voss-faust.xml,Zurück!,0,7,character_speech,2,14,,SOLDATEN.,#soldaten,197.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+599,599,GerDracor/voss-faust.xml,steht auf.,0,10,stage_direction,2,14,speech_part,,#machiavelli,198.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+600,600,GerDracor/voss-faust.xml,Plötzlich ist alles still.,0,26,stage_direction,2,14,speech_part,,#machiavelli,198.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+601,601,GerDracor/voss-faust.xml,"
+              Nach meinem Range sollt' ich hier nicht stehn,
+              Doch kam ich, weil's von Bürgeraufruhr lautet.",0,122,character_speech,2,14,,MACHIAVELLI,#machiavelli,198.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+602,602,GerDracor/voss-faust.xml,Wer waget ihn?,137,151,character_speech,2,14,,MACHIAVELLI,#machiavelli,198.0,MALE,fear,T,,1823.0,negative,emotions of anxiety
+603,603,GerDracor/voss-faust.xml,zieht sich still hinter die Soldaten.,0,37,stage_direction,2,14,speech_part,,#volk,199.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+604,604,GerDracor/voss-faust.xml,"
+              Die Gaben will die Zeit!",0,39,character_speech,2,14,,MACHIAVELLI.,#machiavelli,200.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+605,605,GerDracor/voss-faust.xml,"– Erlassung hieße
+              Verbrechen an des Staates innrer Ordnung.",40,113,character_speech,2,14,,MACHIAVELLI.,#machiavelli,200.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+606,606,GerDracor/voss-faust.xml,"–
+              Du Jüngling jammerst mich, doch mußt du bluten,
+              Aufwiegelnden Empörern lohne Tod,
+              Daß künftige Geschlechter sich nicht morden.",114,284,character_speech,2,14,,MACHIAVELLI.,#machiavelli,200.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+607,607,GerDracor/voss-faust.xml,"Der Vater, den du einst gekränkt, verzeiht!",299,342,character_speech,2,14,,MACHIAVELLI.,#machiavelli,200.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+608,608,GerDracor/voss-faust.xml,murrend und etwas aufgeregt.,0,28,stage_direction,2,14,speech_part,,#volk,201.0,UNKNOWN,being moved,T,,1823.0,being moved,being moved
+609,609,GerDracor/voss-faust.xml,"Robertus fleht, fleht, fleht!",0,29,character_speech,2,14,,VOLK,#volk,201.0,UNKNOWN,fear,T,,1823.0,negative,emotions of anxiety
+610,610,GerDracor/voss-faust.xml,"
+              Robertus redet
+              Zum Volk!",0,53,character_speech,2,14,,EINIGE STIMMEN.,#einige_stimmen,202.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+611,611,GerDracor/voss-faust.xml,geht zum Schafot.,0,17,stage_direction,2,14,speech_part,,#robertus,203.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+612,612,GerDracor/voss-faust.xml,Nichts hab' ich mehr zu sagen.,0,30,character_speech,2,14,,ROBERTUS,#robertus,203.0,MALE,anger,T,,1823.0,negative,emotions of rejection
+613,613,GerDracor/voss-faust.xml,Faust.,0,6,stage_direction,2,15,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+614,614,GerDracor/voss-faust.xml,Vorige.,7,14,stage_direction,2,15,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+615,615,GerDracor/voss-faust.xml,Doch ich!,0,9,character_speech,2,15,,FAUST.,#faust,204.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+616,616,GerDracor/voss-faust.xml,Da ist er!,0,10,character_speech,2,15,,VOLK.,#volk,205.0,UNKNOWN,joy,T,,1823.0,positive,emotions of pleasure
+617,617,GerDracor/voss-faust.xml,hört!,11,16,character_speech,2,15,,VOLK.,#volk,205.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+618,618,GerDracor/voss-faust.xml,zu Machiavelli.,0,15,stage_direction,2,15,speech_part,,#faust,206.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+619,619,GerDracor/voss-faust.xml,"
+              Mann der Gewalt!",0,31,character_speech,2,15,,FAUST,#faust,206.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+620,620,GerDracor/voss-faust.xml,Ein Starker naht.,46,63,character_speech,2,15,,FAUST,#faust,206.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+621,621,GerDracor/voss-faust.xml,"An Worten ist er karg,
+              Nie fasset ihr die That.",64,125,character_speech,2,15,,FAUST,#faust,206.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+622,622,GerDracor/voss-faust.xml,"Gebt mir den Helden frei,
+              Sonst rett' ich ihn, wie diese Lanzen starren.",126,212,character_speech,2,15,,FAUST,#faust,206.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+623,623,GerDracor/voss-faust.xml,sehr ruhig.,0,11,stage_direction,2,15,speech_part,,#machiavelli,207.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+624,624,GerDracor/voss-faust.xml,Gehört ihr zu den Zaubrern oder Narren?,0,39,character_speech,2,15,,MACHIAVELLI,#machiavelli,207.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+625,625,GerDracor/voss-faust.xml,"
+              Euch Schande!",0,28,character_speech,2,15,,FAUST.,#faust,208.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+626,626,GerDracor/voss-faust.xml,"Priester der Gerechtigkeit,
+              Ein Teufelsbanner muß Moral verkünden.",29,109,character_speech,2,15,,FAUST.,#faust,208.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+627,627,GerDracor/voss-faust.xml,"Ich bin ein Zaubrer, ruf ins Todtenreich,
+              Der bei Philippi starb, der Römer mag euch lehren,
+              Das heil'ge Menschenrecht zu ehren!",124,280,character_speech,2,15,,FAUST.,#faust,208.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+628,628,GerDracor/voss-faust.xml,"Herauf, o Brutus!",295,312,character_speech,2,15,,FAUST.,#faust,208.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+629,629,GerDracor/voss-faust.xml,Donner.,0,7,stage_direction,2,15,speech_part,,#faust,208.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+630,630,GerDracor/voss-faust.xml,Brutus Geist erhebt sich auf der Blutbühne.,8,51,stage_direction,2,15,speech_part,,#faust,208.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+631,631,GerDracor/voss-faust.xml,immer ruhig.,0,12,stage_direction,2,15,speech_part,,#machiavelli,209.0,MALE,being moved,T,,1823.0,being moved,being moved
+632,632,GerDracor/voss-faust.xml,"Gauckler, welch' Gespenst?",0,26,character_speech,2,15,,MACHIAVELLI,#machiavelli,209.0,MALE,being moved,T,,1823.0,being moved,being moved
+633,633,GerDracor/voss-faust.xml,Wir sehen nichts.,0,17,character_speech,2,15,,EINZELNE STIMMEN.,#einzelne_stimmen,210.0,UNKNOWN,no_annotation,T,,1823.0,no_annotation,no_annotation
+634,634,GerDracor/voss-faust.xml,Ihn trifft sein bös Gewissen.,18,47,character_speech,2,15,,EINZELNE STIMMEN.,#einzelne_stimmen,210.0,UNKNOWN,anger,T,,1823.0,negative,emotions of rejection
+635,635,GerDracor/voss-faust.xml,mit Posaunen in der Ferne begleitet.,0,36,stage_direction,2,15,speech_part,,#brutus_geist,211.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+636,636,GerDracor/voss-faust.xml,"
+              Um Volkes Wohl
+              Hat Cäsar Tod gefunden,
+              Er sank im Kapitol
+              Mit drei und zwanzig Wunden.",0,143,character_speech,2,15,,BRUTUS GEIST,#brutus_geist,211.0,MALE,suffering,T,,1823.0,negative,emotions of suffering and empathy
+637,637,GerDracor/voss-faust.xml,"Es würge Freund und Sohn,
+              Eh' Bürgerheil erliege,
+              Fällt den Tirannenthron,
+              Triumph, die Freiheit siege!",158,303,character_speech,2,15,,BRUTUS GEIST,#brutus_geist,211.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+638,638,GerDracor/voss-faust.xml,Versinkt.,0,9,stage_direction,2,15,speech_part,,#brutus_geist,211.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+639,639,GerDracor/voss-faust.xml,sinkt einem der Richter in den Arm.,0,35,stage_direction,2,15,speech_part,,#machiavelli,212.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+640,640,GerDracor/voss-faust.xml,Octav gab Rom den Frieden –,0,27,character_speech,2,15,,MACHIAVELLI,#machiavelli,212.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+641,641,GerDracor/voss-faust.xml,überschreit ihn.,0,16,stage_direction,2,15,speech_part,,#faust,213.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+642,642,GerDracor/voss-faust.xml,"Schweig, Du Verhärteter!",0,24,character_speech,2,15,,FAUST,#faust,213.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+643,643,GerDracor/voss-faust.xml,die Kette sei Dein Lohn!,25,49,character_speech,2,15,,FAUST,#faust,213.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+644,644,GerDracor/voss-faust.xml,Läßt ihn mit Robertus Ketten fesseln.,0,37,stage_direction,2,15,speech_part,,#faust,213.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+645,645,GerDracor/voss-faust.xml,"Volk wolle frei sein, und Du bist es schon!",0,43,character_speech,2,15,,FAUST,#faust,213.0,MALE,abhorrence,T,,1823.0,negative,emotions of rejection
+646,646,GerDracor/voss-faust.xml,Große Bewegung im Volke.,0,24,stage_direction,2,15,speech_part,,#faust,213.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+647,647,GerDracor/voss-faust.xml," Streut Gold, ihr Diener!",0,25,character_speech,2,15,,FAUST,#faust,213.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+648,648,GerDracor/voss-faust.xml,– ha die Söldner wanken.,26,50,character_speech,2,15,,FAUST,#faust,213.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+649,649,GerDracor/voss-faust.xml,Soldaten und Bürger umarmen sich.,0,33,stage_direction,2,15,speech_part,,#faust,213.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+650,650,GerDracor/voss-faust.xml,"
+              Die neue Republik wird danken,
+              So eben starb der Fürst –",0,85,character_speech,2,15,,FAUST,#faust,213.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+651,651,GerDracor/voss-faust.xml,Robertus an die Hand nehmend.,0,29,stage_direction,2,15,speech_part,,#faust,213.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+652,652,GerDracor/voss-faust.xml,Er sei des Volkes Rath.,0,23,character_speech,2,15,,FAUST,#faust,213.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+653,653,GerDracor/voss-faust.xml,Allgemeiner Jubel.,0,18,stage_direction,2,15,speech_part,,#faust,213.0,MALE,joy,T,,1823.0,positive,emotions of pleasure
+654,654,GerDracor/voss-faust.xml,"Zu Robertus, der ihm stumm in die Arme sinkt.",0,45,stage_direction,2,15,speech_part,,#faust,213.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+655,655,GerDracor/voss-faust.xml,"
+              Dir will ich nun die Herrliche vermählen,
+              Dann süßer Liebe Führer Dich erwählen,
+              Bei meiner Schönheit zeuge diese That.",0,162,character_speech,2,15,,FAUST,#faust,213.0,MALE,love,T,,1823.0,positive,emotions of affection
+656,656,GerDracor/voss-faust.xml,"Faust von einer, Robertus von der andern Seite ab.",0,50,stage_direction,2,15,speech_part,,#faust,213.0,MALE,no_annotation,T,,1823.0,no_annotation,no_annotation
+657,657,GerDracor/voss-faust.xml,unter Tanz und frohem Jubel.,0,28,stage_direction,2,15,speech_part,,#volk,214.0,UNKNOWN,joy,T,,1823.0,positive,emotions of pleasure
+658,658,GerDracor/voss-faust.xml,"
+              Die hohe Freiheit lebe,
+              Die Tirannei erbebe!",0,73,character_speech,2,15,,CHOR,#volk,214.0,UNKNOWN,joy,T,,1823.0,positive,emotions of pleasure
+659,659,GerDracor/voss-faust.xml,"Fliegt Alter und Jugend,
+              Zu freudigem Spiel,
+              Wohl siegte die Tugend,
+              Die Kette fiel!",88,214,character_speech,2,15,,CHOR,#volk,214.0,UNKNOWN,joy,T,,1823.0,positive,emotions of pleasure
+660,660,GerDracor/voss-faust.xml,"Aureliens Zimmer, die Fenster mit Gittern verwahrt.",0,51,stage_direction,3,1,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+661,661,GerDracor/voss-faust.xml,Wald.,0,5,stage_direction,3,2,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+662,662,GerDracor/voss-faust.xml,Florenz.,0,8,stage_direction,3,3,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+663,663,GerDracor/voss-faust.xml,Terrasse im Garten des Erzbischofs.,9,44,stage_direction,3,3,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+664,664,GerDracor/voss-faust.xml,Das Innere der Kirche Santa liverata.,0,37,stage_direction,3,4,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+665,665,GerDracor/voss-faust.xml,"Kirchenmusik auf dem Chor, doch
+            leise.",38,88,stage_direction,3,4,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+666,666,GerDracor/voss-faust.xml,Platz vor einem Nonnenkloster.,0,30,stage_direction,4,1,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+667,667,GerDracor/voss-faust.xml,Angrauender Morgen.,31,50,stage_direction,4,1,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+668,668,GerDracor/voss-faust.xml,"In der Kirche, deren Fenster
+            matt erleuchtet sind, wird von den Nonnen Hora gesungen, doch endet sie bald.",51,169,stage_direction,4,1,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+669,669,GerDracor/voss-faust.xml,Claras Nonnenzelle.,0,19,stage_direction,4,2,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+670,670,GerDracor/voss-faust.xml,Wald.,0,5,stage_direction,4,3,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+671,671,GerDracor/voss-faust.xml,Jagdhörner tönen von weitem und nähern sich.,6,50,stage_direction,4,3,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+672,672,GerDracor/voss-faust.xml,Kurzes dunkles Gewölbe.,0,23,stage_direction,4,4,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+673,673,GerDracor/voss-faust.xml,"Glückliche Insel, die sich nach Aufhebung des Mittelvorhangs darstellt.",0,71,stage_direction,4,5,pre_speech,,,,,joy,T,,1823.0,positive,emotions of pleasure
+674,674,GerDracor/voss-faust.xml,"Eine
+            bezaubernde Flur, mit Blumen und Baumgattungen aller Zonen.",72,148,stage_direction,4,5,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+675,675,GerDracor/voss-faust.xml,"In der Mitte ein sanft
+            erhobner Hügel.",149,199,stage_direction,4,5,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+676,676,GerDracor/voss-faust.xml,Von einer Seite erblickt man einen Theil des Meeres.,200,252,stage_direction,4,5,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+677,677,GerDracor/voss-faust.xml,"Der halbdunkle
+            Himmel ist mit Morgenröthe umzogen.",253,315,stage_direction,4,5,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+678,678,GerDracor/voss-faust.xml,"Der Vollmond strahlt durch Blüthenzweige, um die
+            buntes Gefieder flattert.",316,402,stage_direction,4,5,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+679,679,GerDracor/voss-faust.xml,Kurzer Wald.,0,12,stage_direction,5,1,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+680,680,GerDracor/voss-faust.xml,"Platz bei dem Gefängniß, wie im zweiten Aufzug.",0,47,stage_direction,5,2,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+681,681,GerDracor/voss-faust.xml,"In der Ferne hört man einen
+            kriegerischen Marsch, dazwischen einzelne Trommeln, Hörner, Pfeifen, Geschrei und
+            Wehklage.",48,191,stage_direction,5,2,pre_speech,,,,,suffering,T,,1823.0,negative,emotions of suffering and empathy
+682,682,GerDracor/voss-faust.xml,"Platz am Kloster, wie im vierten Aufzuge.",0,41,stage_direction,5,4,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
+683,683,GerDracor/voss-faust.xml,Wieder kurzer Wald.,0,19,stage_direction,5,5,pre_speech,,,,,no_annotation,T,,1823.0,no_annotation,no_annotation
