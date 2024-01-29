@@ -47,6 +47,44 @@ Some information regarding the classification results:
 
 Metadata about the plays used for the classification process.
 
+## Publications
+
+Brandes, Ph., Dennerlein, K., Jacke, J., Marshall, S., Pielström, St., Schneider, F. (2022). Modelling and Operationalizing Concepts in Computational Literary Studies. In DH2022 Local Organizing Committee (Ed.), Responding to Asian Diversity. Digital Humanities 2022 Conference Abstracts. (pp. 70–73). Alliance of Digital Humanities Organizations (ADHO). https://dh-abstracts.library.virginia.edu/works/11818 
+
+Dennerlein, K., Schmidt, T., & Wolff, C. (2022a). Emotion courses in German historical comedies and tragedies. In DH2022 Local Organizing Committee (Ed.), Responding to Asian Diversity. Digital Humanities 2022 Conference Abstracts. (pp. 193–197). Alliance of Digital Humanities Organizations (ADHO). https://dh-abstracts.library.cmu.edu/works/11929 
+
+Dennerlein, K., Schmidt, T., & Wolff, C. (2022b). Emotionen im kulturellen Gedächtnis bewahren. In M. Geierhos, P. Trilcke, I. Börner, S. Seifert, A. Busch, & P. Helling (Eds.), DHd 2022 Kulturen des digitalen Gedächtnisses. 8. Tagung des Verbands “Digital Humanities im deutschsprachigen Raum” (DHd 2022) (pp. 93–98). Zenodo. https://doi.org/10.5281/zenodo.6327957 
+
+Dennerlein, K., Schmidt, T., & Wolff, C. (2023a). Computational emotion classification for genre corpora of German tragedies and comedies from 17th to early 19th century. Digital Scholarship in the Humanities, 38(4), 1466–1481. https://doi.org/10.1093/llc/fqad046 
+
+Dennerlein, K., Schmidt, T., & Wolff, C. (2023b). EmoDrama. Ein Korpus mit Emotionsinformationen in Dramen von 1650-1815. Zeitschrift für digitale Geisteswissenschaften (ZfdG). https://doi.org/10.17175/2023_010 
+
+Dennerlein, K., Schmidt, T., & Wolff, C. (2024; In publication). Emotions in Stage Directions in German Drama of the Early Modern Period: Explorations via Computational Emotion Classification. In M. Andresen & N. Reiter (Eds.), Computational Drama Analysis. Reflecting Methods and Interpretation. (pp. 166–194). De Gruyter.
+
+Schmidt, T., Dennerlein, K., & Wolff, C. (2021a). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In S. Degaetano-Ortlieb, A. Kazantseva, N. Reiter, & S. Szpakowicz (Eds.), Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (pp. 67–79). Association for Computational Linguistics. https://doi.org/10.18653/v1/2021.latechclfl-1.8 
+
+Schmidt, T., Dennerlein, K., & Wolff, C. (2021b). Towards a Corpus of Historical German Plays with Emotion Annotations. In D. Gromann, G. Sérasset, T. Declerck, J. P. McCrae, J. Gracia, J. Bosque-Gil, F. Bobillo, & B. Heinisch (Eds.), 3rd Conference on Language, Data and Knowledge (LDK 2021) (Vol. 93, p. 9:1-9:11). Schloss Dagstuhl – Leibniz-Zentrum für Informatik. https://doi.org/10.4230/OASIcs.LDK.2021.9 
+
+Schmidt, T., Dennerlein, K., & Wolff, C. (2021c). Using Deep Learning for Emotion Analysis of 18th and 19th Century German Plays. In M. Burghardt, L. Dieckmann, T. Steyer, P. Trilcke, N.-O. Walkowski, J. Weis, & U. Wuttke (Eds.), Fabrikation von Erkenntnis: Experimente in den Digital Humanities. Teilband 1. Melusina Press. https://doi.org/10.26298/melusina.8f8w-y749-udlf 
+
+Schmidt, T., Dennerlein, K., & Wolff, C. (2022). Evaluation computergestützter Verfahren der Emotionsklassifikation für deutschsprachige Dramen um 1800. In M. Geierhos, P. Trilcke, I. Börner, S. Seifert, A. Busch, & P. Helling (Eds.), DHd 2022 Kulturen des digitalen Gedächtnisses. 8. Tagung des Verbands “Digital Humanities im deutschsprachigen Raum” (DHd 2022) (pp. 107–113). Zenodo. https://doi.org/10.5281/zenodo.6328169 
+
+Schmidt, T., Dennerlein, K., & Wolff, C. (2023). Results of Emotion Annotation in German Drama from 1650-1815. In A. Baillot, T. Tasovac, W. Scholger, & G. Vogeler (Eds.), Digital Humanities 2023. Collaboration as Opportunity (DH2023) (pp. 181–183). Alliance of Digital Humanities Organizations (ADHO). https://doi.org/10.5281/ZENODO.8107952
+
+## Annotation Guidelines
+
+Dennerlein, K., Schmidt, T., & Wolff, C. (2022c). Figurenemotionen in deutschsprachigen Dramen annotieren. Zenodo. https://doi.org/10.5281/zenodo.6228152
+
+## Presentations
+
+Dennerlein, K. (2021). Emotion und Gattung. Zur Analyse von Dramen um 1800. Göttingen, Germany. (Presentation at the University Göttingen).
+
+Dennerlein, K. & Schmidt, T. (2021). Annotating and quantifying sentiment and emotions in German plays from around 1800. In Sentiment Analysis in Literary Studies (Workshop). Graz, Austria. (Keynote presentation). Video of the presentation: https://www.youtube.com/watch?v=WvJ8BvaSJCw 
+
+Schmidt, T., Dennerlein, K. & Wolff, C. (2022). Insights and Perspectives of the Research project ‘Emotions in Drama’. In Computational Stylistics Workshop on Emotion and Sentiment Analysis in Literature. Paris, France. (Presentation at the University Paris)
+
+Wolff, C., Dennerlein, K. & Schmidt, T. (2020). Emotions in Drama - Emotionen im Drama. Projektvorstellung. In Digital Humanities Day Leipzig 2020 (DHDL 2020). (Poster presentation). Link to poster: https://fdhl.info/wp-content/uploads/2020/12/Poster_DINA4.pdf  Link to video: https://youtube.com/watch?v=9DdybUzN92E
+
 ## Contact:
 
 <ul>
