@@ -45,7 +45,13 @@ Some information regarding the classification results:
 
 ## Metadata
 
-Metadata about the plays used for the classification process.
+Metadata about the plays used for the classification process. Plays can be identified via the file attribute. 
+
+Some information regarding the metadata:
+<ul>
+  <li>The correct publication year (as used for Dennerlein, Schmidt & Wolff, 2024) is stored in the "Sortierdatum"-attribute. Other year attributes offer additional information.</li>
+  <li>Genre is stored in "genre classification": S=Schauspiel, T=Tragedy, K=Comedy. Via the subgenre attribute </li>
+</ul>
 
 ## Publications
 
