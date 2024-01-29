@@ -26,9 +26,26 @@ The annotation folder contains the final annotations of 18 plays according to ou
     </ul>
 
 ## Classification_Model
+This folder contains a link to the model used in Dennerlein, Schmidt and Wolff (2023; 2024) and evaluation information. The model achieves an average F1-score for sub-emotion classification of 72% and was fine-tuned for four epochs with a batch size of 32, a learning rate of 4e-5, and the Adam optimizer, utilizing a Tesla P100 GPU with the filtered annotations. 
 
+Please refer to the <a href="https://huggingface.co/">hugging face library</a> on how to use the unzipped model. We also included a link to a google colab for a basic usage example.
 
+## Classification_Results
 
+The results of the application of the classification model on the sentences of 313 plays. Subsets of these results are used in Dennerlein, Schmidt and Wolff (2023; 2024). The original plays are from GerDracor, TextGrid or based on our own preparations.
+
+Some information regarding the classification results:
+<ul>
+  <li>To get the concrete corpora used in papers please refer to the <b>Additional_Data_Per_Paper</b> section.</li>
+  <li>Main annotation attributes are: pre1_tag_type (sub-emotions), pre1_main_emotion_class (main emotion class), pre1_base_polarity (positive, negative, being moved, eventually no annotation).</li>
+  <li>The type attribute differs between character speeches (spoken text) and stage directions (Dennerlein, Schmidt & Wolff, 2024)</li>
+  <li>Additional metadata is derived from the data in the <b>Metadata</b> folder.</li>
+  <li>Only plays of the GerDracor corpus contain consistent gender information and character ids.</li>
+</ul>
+
+## Metadata
+
+Metadata about the plays used for the classification process.
 
 ## Contact:
 
