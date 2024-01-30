@@ -1,0 +1,855 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/weidmann-der-dorfbarbier.xml,0,27, Ort: Barbierstube bei Lux.,negative,emotions of rejection,anger
+1,GerDracor/weidmann-der-dorfbarbier.xml,28,50,Zeit: In der Zopfzeit.,negative,emotions of rejection,anger
+2,GerDracor/weidmann-der-dorfbarbier.xml,51,114,Der Dorfbarbier gelangte 1796 in Wien erstmalig zur Aufführung.,positive,emotions of joy,Schadenfreude
+3,GerDracor/weidmann-der-dorfbarbier.xml,115,156,Adam geht auf und ab und streicht Messer.,negative,emotional movement,emotional movement
+4,GerDracor/weidmann-der-dorfbarbier.xml,157,189,Lux kommt aus der hintern Stube.,emotional movement,emotional movement,emotional movement
+5,GerDracor/weidmann-der-dorfbarbier.xml,190,202,mit Behagen.,positive,emotions of joy,joy
+6,GerDracor/weidmann-der-dorfbarbier.xml,203,274,Es ist gewiß und wahr: Gesegnet ist dies Jahr Für Doktor und Barbierer!,positive,emotions of joy,joy
+7,GerDracor/weidmann-der-dorfbarbier.xml,275,285,bei Seite.,negative,emotional movement,emotional movement
+8,GerDracor/weidmann-der-dorfbarbier.xml,286,395,"Er foppt die ganze Welt, Der alte Pflasterschmierer, Er prellt' die Leut' um's Geld, Der dumme Dorfbarbierer.",negative,emotions of rejection,anger
+9,GerDracor/weidmann-der-dorfbarbier.xml,396,411,Adam bemerkend.,emotional movement,emotional movement,emotional movement
+10,GerDracor/weidmann-der-dorfbarbier.xml,412,443,Steht Er schon wieder müßig da?,negative,emotions of rejection,anger
+11,GerDracor/weidmann-der-dorfbarbier.xml,444,473,Ich schleife meine Messer ja!,negative,emotions of rejection,anger
+12,GerDracor/weidmann-der-dorfbarbier.xml,474,481,barsch.,negative,emotions of rejection,anger
+13,GerDracor/weidmann-der-dorfbarbier.xml,482,536,"Bedien' Er seine Kunden, Und schleich' Er nicht umher!",negative,emotions of rejection,anger
+14,GerDracor/weidmann-der-dorfbarbier.xml,537,546,für sich.,positive,emotions of joy,emotional movement
+15,GerDracor/weidmann-der-dorfbarbier.xml,547,594,"Er brummt zu allen Stunden, Der alte Zottelbär.",negative,emotions of rejection,anger
+16,GerDracor/weidmann-der-dorfbarbier.xml,595,616,Margarethe tritt auf.,emotional movement,emotional movement,emotional movement
+17,GerDracor/weidmann-der-dorfbarbier.xml,617,637,"Ach, Frau Schmiedin!",negative,emotions of rejection,suffering
+18,GerDracor/weidmann-der-dorfbarbier.xml,638,653,grüß Euch Gott!,positive,emotions of joy,joy
+19,GerDracor/weidmann-der-dorfbarbier.xml,654,662,weinend.,negative,emotions of suffering,suffering
+20,GerDracor/weidmann-der-dorfbarbier.xml,663,667,Ach!,negative,emotions of suffering,suffering
+21,GerDracor/weidmann-der-dorfbarbier.xml,668,697,"Herr Lux, mein Mann ist todt!",negative,emotions of fear,suffering
+22,GerDracor/weidmann-der-dorfbarbier.xml,698,710,erschrocken.,emotional movement,emotions of fear,emotional movement
+23,GerDracor/weidmann-der-dorfbarbier.xml,711,721,"Was, todt?",negative,emotions of fear,fear
+24,GerDracor/weidmann-der-dorfbarbier.xml,722,773,Hat er auf mein Geheiß Auch Schinken brav gegessen?,negative,emotions of rejection,anger
+25,GerDracor/weidmann-der-dorfbarbier.xml,774,781,Ach ja!,negative,emotional movement,emotional movement
+26,GerDracor/weidmann-der-dorfbarbier.xml,782,804,Er aß ihn centnerweis.,positive,emotions of rejection,Schadenfreude
+27,GerDracor/weidmann-der-dorfbarbier.xml,805,823,lachend bei Seite.,positive,emotions of joy,joy
+28,GerDracor/weidmann-der-dorfbarbier.xml,824,858,"Haha, der hat sich todt gefressen.",negative,emotions of rejection,"hate, disgust"
+29,GerDracor/weidmann-der-dorfbarbier.xml,859,925,"Ich stehe da verwund'rungsvoll Und weiß nicht, was ich sagen soll.",negative,emotional movement,suffering
+30,GerDracor/weidmann-der-dorfbarbier.xml,926,995,"Da steht er ganz verwund'rungsvoll Und weiß nicht, was er sagen soll.",emotional movement,emotional movement,suffering
+31,GerDracor/weidmann-der-dorfbarbier.xml,996,1012,Peter tritt auf.,emotional movement,emotional movement,emotional movement
+32,GerDracor/weidmann-der-dorfbarbier.xml,1013,1026,ihm entgegen.,positive,emotions of fear,fear
+33,GerDracor/weidmann-der-dorfbarbier.xml,1027,1049,Herr Schneidermeister!,negative,emotions of rejection,anger
+34,GerDracor/weidmann-der-dorfbarbier.xml,1050,1064,was bringt Er!,negative,emotions of rejection,emotional movement
+35,GerDracor/weidmann-der-dorfbarbier.xml,1065,1074,Herr Lux!,emotional movement,emotional movement,emotional movement
+36,GerDracor/weidmann-der-dorfbarbier.xml,1075,1161,"ich komm' voll Freude her, Ich bin ihm höchst verbunden, Mein Fieber ist verschwunden.",positive,emotions of joy,joy
+37,GerDracor/weidmann-der-dorfbarbier.xml,1162,1177,selbstgefällig.,negative,emotions of rejection,anger
+38,GerDracor/weidmann-der-dorfbarbier.xml,1178,1249,"Da hört Sie's selbst, Frau Margareth, Wie meine Kunst von Statten geht.",positive,emotions of joy,joy
+39,GerDracor/weidmann-der-dorfbarbier.xml,1250,1375,"Da half nicht Pulver oder Saft, Schon sank mein Muth danieder, Drauf' aß ich Schinken, neue Kraft Gab mir dies Mittel wieder.",negative,emotions of suffering,suffering
+40,GerDracor/weidmann-der-dorfbarbier.xml,1376,1447,"Da hört Sie's selbst, Frau Margareth, Daß meine Kunst mit Ruhm besteht.",positive,emotions of joy,joy
+41,GerDracor/weidmann-der-dorfbarbier.xml,1448,1492,"O esset Schinken nur, das ist die beste Kur.",positive,emotions of rejection,"hate, disgust"
+42,GerDracor/weidmann-der-dorfbarbier.xml,1493,1501,Zu Adam.,negative,emotional movement,emotional movement
+43,GerDracor/weidmann-der-dorfbarbier.xml,1502,1537,"He, Adam, geschwind mein Protokoll!",negative,emotions of rejection,emotional movement
+44,GerDracor/weidmann-der-dorfbarbier.xml,1538,1558,für sich im Abgehen.,negative,emotions of suffering,emotional movement
+45,GerDracor/weidmann-der-dorfbarbier.xml,1559,1609,Das ist von Albernheiten und Schinkenflecken voll.,negative,emotions of rejection,anger
+46,GerDracor/weidmann-der-dorfbarbier.xml,1610,1636,Kommt mit dem Buch zurück.,positive,emotions of rejection,emotional movement
+47,GerDracor/weidmann-der-dorfbarbier.xml,1637,1656,schreibt in's Buch.,negative,emotions of rejection,anger
+48,GerDracor/weidmann-der-dorfbarbier.xml,1657,1680,O du göttliches Rezept.,positive,emotions of affection,joy
+49,GerDracor/weidmann-der-dorfbarbier.xml,1681,1709,Welches jede Krankheit hebt.,negative,emotions of affection,admiration
+50,GerDracor/weidmann-der-dorfbarbier.xml,1710,1745,"Schinken, merkt es Euch, Ihr Leut'!",negative,emotions of rejection,anger
+51,GerDracor/weidmann-der-dorfbarbier.xml,1746,1846,"Und posaunt es weit und breit, Sind für Schneider unentbehrlich, Und für Schmiede höchst gefährlich.",positive,emotions of rejection,"hate, disgust"
+52,GerDracor/weidmann-der-dorfbarbier.xml,1847,1876,Traurig ist mein Witwenstand!,negative,emotions of suffering,suffering
+53,GerDracor/weidmann-der-dorfbarbier.xml,1877,1905,Ach der Tod löst jedes Band!,negative,emotions of suffering,suffering
+54,GerDracor/weidmann-der-dorfbarbier.xml,1906,1920,zu Margarethe.,emotional movement,emotional movement,love
+55,GerDracor/weidmann-der-dorfbarbier.xml,1921,1950,"Munter, Weibchen, wohlgemuth!",positive,emotions of joy,joy
+56,GerDracor/weidmann-der-dorfbarbier.xml,1951,1984,"Weint nicht um den Mann, er ruht.",negative,emotions of suffering,compassion
+57,GerDracor/weidmann-der-dorfbarbier.xml,1985,2014,"Munter, Weibchen, wohlgemuth!",positive,emotions of joy,joy
+58,GerDracor/weidmann-der-dorfbarbier.xml,2015,2098,"Es giebt wack're Männer, Frische Heirath macht das gut, Glaubt, ich bin ein Kenner.",positive,emotions of joy,joy
+59,GerDracor/weidmann-der-dorfbarbier.xml,2099,2126,Euer Mann war ja schon alt!,negative,emotions of suffering,suffering
+60,GerDracor/weidmann-der-dorfbarbier.xml,2127,2153,Und von häßlicher Gestalt.,negative,emotions of rejection,"hate, disgust"
+61,GerDracor/weidmann-der-dorfbarbier.xml,2154,2189,Trinken konnt' er auch recht schön.,positive,emotions of joy,joy
+62,GerDracor/weidmann-der-dorfbarbier.xml,2190,2228,Oft konnt' er vor Rausch nicht steh'n.,positive,emotions of joy,emotional movement
+63,GerDracor/weidmann-der-dorfbarbier.xml,2229,2343,"Nun, so quält Euch nicht mit Fleiß, Es kann Euch nicht fehlen; Männer gibt es dutzendweis Ihr dürft ja nur wählen.",negative,emotions of rejection,anger
+64,GerDracor/weidmann-der-dorfbarbier.xml,2344,2448,"Statt weinen muß man lachen Und nur bald Hochzeit machen; Es sei nun wie es sei, Vorbei ist halt vorbei.",positive,emotions of joy,joy
+65,GerDracor/weidmann-der-dorfbarbier.xml,2449,2456,Dialog.,emotional movement,emotional movement,emotional movement
+66,GerDracor/weidmann-der-dorfbarbier.xml,2457,2618,"Ja, meine liebe Frau Margarethe, Sie ist noch ein wack'res Weibchen, Sie wird gewiß
+            noch einen wackern Mann finden, mit dem sie glücklich leben kann.",positive,emotions of joy,joy
+67,GerDracor/weidmann-der-dorfbarbier.xml,2619,2677,"Ich bin nur gekommen, meine Schuldigkeit –  Gibt ihm Geld.",negative,emotions of rejection,suffering
+68,GerDracor/weidmann-der-dorfbarbier.xml,2678,2745,Nachbarliche Freundschaftsdienste –  Er steckt hastig das Geld ein.,positive,emotional movement,friendship
+69,GerDracor/weidmann-der-dorfbarbier.xml,2746,2765,Margarethe geht ab.,negative,emotions of rejection,suffering
+70,GerDracor/weidmann-der-dorfbarbier.xml,2766,2797,Lux begleitet sie bis zur Thür.,positive,emotions of affection,love
+71,GerDracor/weidmann-der-dorfbarbier.xml,2798,2807,für sich.,positive,emotions of joy,emotional movement
+72,GerDracor/weidmann-der-dorfbarbier.xml,2808,2832,Geld ist unsere Loosung!,positive,emotions of rejection,"hate, disgust"
+73,GerDracor/weidmann-der-dorfbarbier.xml,2833,2879,"Wer im Rohre sitzt, hat gut Pfeifen schneiden.",negative,emotions of rejection,anger
+74,GerDracor/weidmann-der-dorfbarbier.xml,2880,2922,"Auch ich, Herr Lux, will erkenntlich sein.",positive,emotions of affection,admiration
+75,GerDracor/weidmann-der-dorfbarbier.xml,2924,2939,Er bezahlt Lux.,negative,emotions of rejection,anger
+76,GerDracor/weidmann-der-dorfbarbier.xml,2940,2963,nimmt schnell das Geld.,negative,emotions of rejection,anger
+77,GerDracor/weidmann-der-dorfbarbier.xml,2964,2993,"Laß Er es sein, lieber Peter!",negative,emotions of rejection,compassion
+78,GerDracor/weidmann-der-dorfbarbier.xml,2994,3079,"Wenn ich meinem Nächsten dienen kann, geschieht es auch
+            aus gutem Herzen.",positive,emotions of affection,friendship
+79,GerDracor/weidmann-der-dorfbarbier.xml,3080,3172,"Esse Er nur wacker Schinken, das ist eine Universalmedizin für alle
+            Krankheiten.",positive,emotions of rejection,admiration
+80,GerDracor/weidmann-der-dorfbarbier.xml,3173,3241,"Es lacht mir das Herz im Leibe, wenn ich daran denke, daß  Peter ab.",positive,emotions of joy,joy
+81,GerDracor/weidmann-der-dorfbarbier.xml,3242,3251,"He, Adam!",negative,emotions of rejection,emotional movement
+82,GerDracor/weidmann-der-dorfbarbier.xml,3252,3296,Wie lange steht Er noch und streicht Messer?,emotional movement,emotional movement,emotional movement
+83,GerDracor/weidmann-der-dorfbarbier.xml,3297,3344,"– Wie stehts mit den
+            Barbierkunden?",emotional movement,emotions of suffering,emotional movement
+84,GerDracor/weidmann-der-dorfbarbier.xml,3345,3377,Schlecht – Ist bald geschliffen.,negative,emotions of rejection,"hate, disgust"
+85,GerDracor/weidmann-der-dorfbarbier.xml,3378,3423,– Ein willig Pferd muß man nicht übertreiben.,positive,emotions of affection,admiration
+86,GerDracor/weidmann-der-dorfbarbier.xml,3424,3449,"– Nur
+            Geduld!",negative,emotions of suffering,anger
+87,GerDracor/weidmann-der-dorfbarbier.xml,3450,3479,– Ein Keil treibt den andern.,negative,emotions of rejection,anger
+88,GerDracor/weidmann-der-dorfbarbier.xml,3480,3514,Ich muß zum Richter nach Zaundorf.,negative,emotions of rejection,anger
+89,GerDracor/weidmann-der-dorfbarbier.xml,3515,3546,War Er denn nicht gestern dort?,emotional movement,emotional movement,emotional movement
+90,GerDracor/weidmann-der-dorfbarbier.xml,3547,3571,Ich habe mich verspätet.,emotional movement,emotions of suffering,emotional movement
+91,GerDracor/weidmann-der-dorfbarbier.xml,3572,3610,"Wer gern zankt, findet leicht Ursache.",negative,emotions of rejection,anger
+92,GerDracor/weidmann-der-dorfbarbier.xml,3611,3628,Was war's weiter?,emotional movement,emotional movement,emotional movement
+93,GerDracor/weidmann-der-dorfbarbier.xml,3629,3948,"Ich verweilte mich beim Verwalter, das war gut; der alte Martin, der Scheundrescher,
+            stieg auf den Heuboden; vermuthlich hatte er ein Glas zu viel getrunken, und das war
+            gut; der Kopf war ihm schwindlich, er fiel auf die Tenne herab und schlug sich ein Loch
+            in den Kopf; das war gut.",positive,emotions of joy,joy
+94,GerDracor/weidmann-der-dorfbarbier.xml,3949,3973,"Narr, das war nicht gut.",negative,emotions of rejection,compassion
+95,GerDracor/weidmann-der-dorfbarbier.xml,3974,4017,"Ich legte ihm warmen Wein auf, das war gut.",positive,emotions of joy,joy
+96,GerDracor/weidmann-der-dorfbarbier.xml,4018,4106,"Der besoffene Kerl war aber grob und hieß
+            mich einen Esel, das – einfallend.",negative,emotions of rejection,anger
+97,GerDracor/weidmann-der-dorfbarbier.xml,4107,4119,Das war gut!,positive,emotions of joy,joy
+98,GerDracor/weidmann-der-dorfbarbier.xml,4120,4150,Ich wurde toll und lief davon.,negative,emotions of joy,joy
+99,GerDracor/weidmann-der-dorfbarbier.xml,4151,4180,Wo bleibt aber die Bezahlung?,negative,emotions of rejection,emotional movement
+100,GerDracor/weidmann-der-dorfbarbier.xml,4181,4190,Dummkopf!,negative,emotions of rejection,anger
+101,GerDracor/weidmann-der-dorfbarbier.xml,4191,4258,"– Man kann seinen Nebenmenschen dienen – aber
+            für Geld.",negative,emotions of rejection,anger
+102,GerDracor/weidmann-der-dorfbarbier.xml,4259,4292,Steht Er bei mir umsonst in Brod?,positive,emotions of rejection,anger
+103,GerDracor/weidmann-der-dorfbarbier.xml,4293,4346,"Solche Schlingels könnte ich genug
+            haben.",negative,emotions of rejection,anger
+104,GerDracor/weidmann-der-dorfbarbier.xml,4347,4364,"brummt für sich,.",negative,emotions of suffering,anger
+105,GerDracor/weidmann-der-dorfbarbier.xml,4365,4429,"Drei Schüsseln gibt er leer, und in der vierten ist nichts drin.",negative,emotions of suffering,suffering
+106,GerDracor/weidmann-der-dorfbarbier.xml,4430,4457,"Ich glaube, Er brummt noch?",negative,emotions of suffering,suffering
+107,GerDracor/weidmann-der-dorfbarbier.xml,4458,4502,"Ein Wurm krümmt sich, wenn er getreten wird.",negative,emotions of suffering,suffering
+108,GerDracor/weidmann-der-dorfbarbier.xml,4503,4577,"Geh' Er, bedien' er Seine Kunden fleißiger, oder ich jage Ihn seiner Wege.",negative,emotions of rejection,anger
+109,GerDracor/weidmann-der-dorfbarbier.xml,4579,4603,"Adam
+              geht.",negative,emotional movement,emotional movement
+110,GerDracor/weidmann-der-dorfbarbier.xml,4604,4639,"Der Herr Joseph, – und das war gut.",positive,emotions of joy,joy
+111,GerDracor/weidmann-der-dorfbarbier.xml,4640,4689,Der Müßggänger schwärmt stets um mein Haus herum.,negative,emotions of rejection,joy
+112,GerDracor/weidmann-der-dorfbarbier.xml,4690,4720,Hat er mit Suschen gesprochen?,emotional movement,emotional movement,emotional movement
+113,GerDracor/weidmann-der-dorfbarbier.xml,4721,4745,Gelegenheit macht Diebe.,negative,emotions of rejection,anger
+114,GerDracor/weidmann-der-dorfbarbier.xml,4746,4778,Gestohl'nes Gut schmeckt besser.,negative,emotions of rejection,joy
+115,GerDracor/weidmann-der-dorfbarbier.xml,4779,4919,"Er kam herein und grüßte
+            mich; das war gut; dann schlich er zu Suschen, küßte ihr höflich die Hand, und das war
+            gut.",positive,emotions of affection,joy
+116,GerDracor/weidmann-der-dorfbarbier.xml,4920,5073,"Höll' und Teufel mit Seinem verdammten »das war gut!« Die Maulaffen sollen nicht Hände
+            küssen, ich will diese Leckerei durchaus nicht dulden!",negative,emotions of rejection,anger
+117,GerDracor/weidmann-der-dorfbarbier.xml,5074,5121,"Vom Kleinen steigt man zum
+            Größten.",positive,emotions of joy,admiration
+118,GerDracor/weidmann-der-dorfbarbier.xml,5122,5163,"– Kerl, Du jagst mir die Galle in's Blut!",negative,emotions of rejection,anger
+119,GerDracor/weidmann-der-dorfbarbier.xml,5164,5189,Ich möchte rasend werden!,negative,emotions of rejection,anger
+120,GerDracor/weidmann-der-dorfbarbier.xml,5190,5240,"Ich berste
+            noch vor Zorn und Ärgernis.",negative,emotions of rejection,anger
+121,GerDracor/weidmann-der-dorfbarbier.xml,5241,5347,"Wuth, Eifersucht und Rache Beherrschen mich allein; Der Schatz, den ich bewache, Soll nur mein eigen sein.",negative,emotions of rejection,"hate, disgust"
+122,GerDracor/weidmann-der-dorfbarbier.xml,5348,5449,"Ich will den frechen Laffen Beschämen und bestrafen, Und auch die Buhlerin Mit ihm zur Strafe zieh'n.",negative,emotions of rejection,anger
+123,GerDracor/weidmann-der-dorfbarbier.xml,5450,5513,"Er will in Suschens Zimmer eilen, bleibt aber plötzlich stehen.",emotional movement,emotional movement,emotional movement
+124,GerDracor/weidmann-der-dorfbarbier.xml,5514,5524,Doch halt!,negative,emotions of fear,emotional movement
+125,GerDracor/weidmann-der-dorfbarbier.xml,5525,5573,es wankt mein Fuß – Zu rasch war mein Entschluß.,negative,emotions of fear,fear
+126,GerDracor/weidmann-der-dorfbarbier.xml,5574,5638,– Nur durch Sanftmuth und durch Güte Wiegt man Weiberherzen ein.,positive,emotions of affection,admiration
+127,GerDracor/weidmann-der-dorfbarbier.xml,5640,5697,"Freund bewahre ihre Schritte, Und ich werde dankbar sein.",positive,emotions of joy,friendship
+128,GerDracor/weidmann-der-dorfbarbier.xml,5698,5701,Ab.,negative,emotional movement,anger
+129,GerDracor/weidmann-der-dorfbarbier.xml,5702,5709,Dialog.,emotional movement,emotional movement,emotional movement
+130,GerDracor/weidmann-der-dorfbarbier.xml,5710,5780,"Ja, ja, Deine Dankbarkeit kenne ich schon; viel Geschrei, wenig Wolle.",positive,emotions of joy,joy
+131,GerDracor/weidmann-der-dorfbarbier.xml,5781,5839,"Versprechen ist
+            herrisch, Halten ist bäurisch.",negative,emotions of rejection,anger
+132,GerDracor/weidmann-der-dorfbarbier.xml,5840,5869,"Schlechter Lohn, magere Kost.",negative,emotions of rejection,suffering
+133,GerDracor/weidmann-der-dorfbarbier.xml,5870,6021,"– Hätte ich nicht so kleine
+            Nebenaccidenzeln, so müßte ich barfuß herumlaufen wie die Gänse und Wasser saufen, wie
+            die Frösche.",negative,emotions of rejection,Schadenfreude
+134,GerDracor/weidmann-der-dorfbarbier.xml,6022,6137,"Aber leider auch die Sporteln werden alle Tage weniger, es will garnicht
+            mehr recht fort mit der Kunst.",negative,emotions of suffering,suffering
+135,GerDracor/weidmann-der-dorfbarbier.xml,6138,6169,Nichts wie Unglück und Malheur!,negative,emotions of suffering,suffering
+136,GerDracor/weidmann-der-dorfbarbier.xml,6170,6270,"Vor einem halben Jahre
+            kriegte der Gerichtsschreiber eine Lungenentzündung, das war gut.",negative,emotions of joy,joy
+137,GerDracor/weidmann-der-dorfbarbier.xml,6271,6336,"Ich wurde schleunig
+            zum Aderlaß gerufen, das war gut.",negative,emotions of joy,joy
+138,GerDracor/weidmann-der-dorfbarbier.xml,6337,6437,"Ich that's; aber aus Versehen schlug ich ihm die
+            Pulsader morsch entzwei, – das war gut.",positive,emotions of joy,joy
+139,GerDracor/weidmann-der-dorfbarbier.xml,6438,6468,Er wurde freilich ganz kurirt.,negative,emotions of suffering,suffering
+140,GerDracor/weidmann-der-dorfbarbier.xml,6469,6643,"denn er geht
+            jetzt mit zwei Krücken mir nichts Dir nichts herum; aber der Kredit ist doch einmal zum
+            Teufel – und so kommt ein Unglück auf das andere.",negative,emotions of suffering,suffering
+141,GerDracor/weidmann-der-dorfbarbier.xml,6644,6758,"Erst neulich ist mir mit dem dicken
+            Hans, dem Schlächtergesellen, just so ein fataler Streich passirt.",negative,emotions of rejection,"hate, disgust"
+142,GerDracor/weidmann-der-dorfbarbier.xml,6759,6813,"Jüngst sprach mein Herr, der Bader Frisch, fasse Muth!",negative,emotions of fear,fear
+143,GerDracor/weidmann-der-dorfbarbier.xml,6814,6857,"Geh', lasse Hans zur Ader, Und das war gut.",positive,emotions of rejection,joy
+144,GerDracor/weidmann-der-dorfbarbier.xml,6858,6976,"Ich dacht', in großen Massen Find'st du da Blut; Ich ließ ihm hundert Tassen,  Hans entging der Athem, Wie wunderlich!",negative,emotions of suffering,suffering
+145,GerDracor/weidmann-der-dorfbarbier.xml,6977,7027,"Es war nicht mehr zu rathen, Drum trollt ich mich.",negative,emotions of rejection,suffering
+146,GerDracor/weidmann-der-dorfbarbier.xml,7028,7079,"Mein Hans drauf' mußte wandern, Wohl ihm – er ruht!",negative,emotions of suffering,suffering
+147,GerDracor/weidmann-der-dorfbarbier.xml,7080,7125,"Sein Weib nahm einen Andern, Und das war gut.",positive,emotions of joy,joy
+148,GerDracor/weidmann-der-dorfbarbier.xml,7126,7217,Der Schulz der kriegte Schaden Grad an der Hand Ich sollt ihm etwas rathen Wider den Brand.,negative,emotions of suffering,suffering
+149,GerDracor/weidmann-der-dorfbarbier.xml,7218,7256,Ich dacht' ist gehüpft wie gesprungen.,positive,emotions of joy,joy
+150,GerDracor/weidmann-der-dorfbarbier.xml,7257,7273,Weg mit dem Arm.,negative,emotions of suffering,anger
+151,GerDracor/weidmann-der-dorfbarbier.xml,7274,7322,"Der Kerl hat gräßlich g'sungen, Daß Gott erbarm.",negative,emotions of suffering,"hate, disgust"
+152,GerDracor/weidmann-der-dorfbarbier.xml,7323,7433,"Er schrie voll Wuth und Jammer, Mir starrt das Blut; Ich schlug ihn mit dem Hammer Auf'n Kopf und das war gut.",negative,emotions of rejection,anger
+153,GerDracor/weidmann-der-dorfbarbier.xml,7434,7533,"Was schreist Du denn Du Lümmel, Schrie ich voll Wuth, Du kommst ja eh'r in Himmel, Und das war gut.",negative,emotions of rejection,anger
+154,GerDracor/weidmann-der-dorfbarbier.xml,7534,7643,"Wen rühren nicht die Leiden Die mir die Liebe beut, Ich soll den Theuren meiden :| Dem ich mein Herz geweiht.",negative,emotions of suffering,suffering
+155,GerDracor/weidmann-der-dorfbarbier.xml,7644,7698,|: O Liebe heil' mein Herz :| Und ende meinen Schmerz.,negative,emotions of suffering,suffering
+156,GerDracor/weidmann-der-dorfbarbier.xml,7699,7713,|:  tritt auf.,emotional movement,emotional movement,emotional movement
+157,GerDracor/weidmann-der-dorfbarbier.xml,7714,7769,"Da ist sie, ich will ihr ein wenig auf den Puls fühlen.",emotional movement,emotional movement,emotional movement
+158,GerDracor/weidmann-der-dorfbarbier.xml,7771,7776,Laut.,emotional movement,emotional movement,emotional movement
+159,GerDracor/weidmann-der-dorfbarbier.xml,7777,7817,"Recht gut, daß Sie mich an den erinnern.",positive,emotions of joy,joy
+160,GerDracor/weidmann-der-dorfbarbier.xml,7818,7936,"Seine Besuche werden mir lästig; d'rum, Herr
+            Lux, bitte ich Sie, lassen Sie sich nicht ferner mit ihm ein.",negative,emotions of rejection,anger
+161,GerDracor/weidmann-der-dorfbarbier.xml,7937,8001,"Ich habe nie einen
+            Gedanken auf den Menschen gehabt.",negative,emotions of rejection,"hate, disgust"
+162,GerDracor/weidmann-der-dorfbarbier.xml,8002,8102,"Er schwatzt mir verliebte Possen vor, die ich aber als
+            ein albernes Geschmätz betrachte.",positive,emotions of rejection,love
+163,GerDracor/weidmann-der-dorfbarbier.xml,8103,8165,"Komm' her, Du Schmuck meines Hauses, Du Ehre meiner Erziehung!",negative,emotions of affection,joy
+164,GerDracor/weidmann-der-dorfbarbier.xml,8166,8250,"Durch meine weisen
+            Lehren hab' ich Dich zu diesem Meisterstück gebildet.",positive,emotions of affection,admiration
+165,GerDracor/weidmann-der-dorfbarbier.xml,8251,8312,"Freue Dich, Deine Tugend erhält
+            heute ihren Lohn!",positive,emotions of joy,joy
+166,GerDracor/weidmann-der-dorfbarbier.xml,8313,8383,"In diesem Augenblicke will ich Dir mein Herz entdecken, sei glücklich!",positive,emotions of joy,joy
+167,GerDracor/weidmann-der-dorfbarbier.xml,8396,8452,"Höre die vortheilhaften Gedanken, die ich für Dich hege.",positive,emotional movement,love
+168,GerDracor/weidmann-der-dorfbarbier.xml,8453,8510,"Ich habe Dich zu meinem
+            Ehegesponst erkieset.",positive,emotions of rejection,love
+169,GerDracor/weidmann-der-dorfbarbier.xml,8511,8629,Ich bin bewundert und geschätzt Bei Kleinen und bei Großen; Ich bin die Krone und der Schmuck Von meinen Zeitgenossen.,positive,emotions of affection,admiration
+170,GerDracor/weidmann-der-dorfbarbier.xml,8630,8697,"Das Weib, das meine Hand begehrt, Ist glücklich und beneidenswerth!",positive,emotions of joy,joy
+171,GerDracor/weidmann-der-dorfbarbier.xml,8698,8726,"Du lächelst, kleiner Schelm?",positive,emotions of joy,joy
+172,GerDracor/weidmann-der-dorfbarbier.xml,8727,8761,"Was gilt's, Du riechst den Braten?",negative,emotions of rejection,Schadenfreude
+173,GerDracor/weidmann-der-dorfbarbier.xml,8762,8792,"Wer, meinst Du, ist die Braut?",emotional movement,emotional movement,emotional movement
+174,GerDracor/weidmann-der-dorfbarbier.xml,8793,8820,Ich kann es nicht errathen.,emotional movement,emotions of fear,emotional movement
+175,GerDracor/weidmann-der-dorfbarbier.xml,8821,8859,Vielleicht ein Fräulein aus der Stadt?,emotional movement,emotional movement,emotional movement
+176,GerDracor/weidmann-der-dorfbarbier.xml,8860,8880,den Kopf schüttelnd.,negative,emotional movement,emotional movement
+177,GerDracor/weidmann-der-dorfbarbier.xml,8881,8914,Die sind zu pfiffig und zu platt.,negative,emotions of rejection,anger
+178,GerDracor/weidmann-der-dorfbarbier.xml,8915,8951,Vielleicht ein Mädchen von dem Land.,emotional movement,emotional movement,"hate, disgust"
+179,GerDracor/weidmann-der-dorfbarbier.xml,8952,8966,ihr zunickend.,positive,emotions of affection,love
+180,GerDracor/weidmann-der-dorfbarbier.xml,8967,8999,Nur die erhält einst meine Hand!,positive,emotions of affection,love
+181,GerDracor/weidmann-der-dorfbarbier.xml,9000,9024,Ist's Görgen's Käthchen?,emotional movement,emotional movement,emotional movement
+182,GerDracor/weidmann-der-dorfbarbier.xml,9025,9030,Nein!,emotional movement,emotions of rejection,emotional movement
+183,GerDracor/weidmann-der-dorfbarbier.xml,9031,9055,Des Schulzen's Nettchen?,positive,emotions of joy,emotional movement
+184,GerDracor/weidmann-der-dorfbarbier.xml,9056,9061,Nein!,emotional movement,emotions of rejection,emotional movement
+185,GerDracor/weidmann-der-dorfbarbier.xml,9062,9083,Die fromme Ernestine?,emotional movement,emotional movement,emotional movement
+186,GerDracor/weidmann-der-dorfbarbier.xml,9084,9089,Nein!,emotional movement,emotions of rejection,emotional movement
+187,GerDracor/weidmann-der-dorfbarbier.xml,9090,9112,Die reiche Wilhelmine?,emotional movement,emotional movement,emotional movement
+188,GerDracor/weidmann-der-dorfbarbier.xml,9113,9118,Nein!,emotional movement,emotions of rejection,emotional movement
+189,GerDracor/weidmann-der-dorfbarbier.xml,9119,9168,"Ich sinne hin und her, Ich weiß sonst keine mehr.",emotional movement,emotional movement,emotional movement
+190,GerDracor/weidmann-der-dorfbarbier.xml,9169,9198,Wer sollt' es denn wohl sein?,negative,emotional movement,anger
+191,GerDracor/weidmann-der-dorfbarbier.xml,9199,9212,sich blähend.,negative,emotions of suffering,emotional movement
+192,GerDracor/weidmann-der-dorfbarbier.xml,9213,9238,"Erstaune, Kind, und höre!",emotional movement,emotional movement,emotional movement
+193,GerDracor/weidmann-der-dorfbarbier.xml,9239,9264,Nur Dir gebührt die Ehre!,negative,emotions of affection,admiration
+194,GerDracor/weidmann-der-dorfbarbier.xml,9265,9317,"Nur Dir bin ich bescheert, Nur Du bist meiner werth.",positive,emotions of affection,love
+195,GerDracor/weidmann-der-dorfbarbier.xml,9318,9333,beide für sich.,positive,emotions of rejection,anger
+196,GerDracor/weidmann-der-dorfbarbier.xml,9334,9393,"Listig muß ich mich verstellen, Sonst ist's um mich gethan.",negative,emotions of rejection,fear
+197,GerDracor/weidmann-der-dorfbarbier.xml,9394,9458,"Alter Fuchs, Dich muß ich prellen Und nur Joseph wird mein Mann.",negative,emotions of rejection,anger
+198,GerDracor/weidmann-der-dorfbarbier.xml,9459,9576,"Seht sie schlägt die Augen nieder, Ihre Wange färbt die Scham, Ach wie zittern ihre Glieder, Ach, das arme gute Lamm.",negative,emotions of suffering,compassion
+199,GerDracor/weidmann-der-dorfbarbier.xml,9577,9584,zu Lux.,positive,emotional movement,emotional movement
+200,GerDracor/weidmann-der-dorfbarbier.xml,9585,9656,"Ich – Herr – Lux – bin – so – verlegen, Daß – ich – mich – erholen muß.",negative,emotions of suffering,emotional movement
+201,GerDracor/weidmann-der-dorfbarbier.xml,9657,9669,mit Salbung.,negative,emotions of affection,suffering
+202,GerDracor/weidmann-der-dorfbarbier.xml,9670,9734,"Auf Dich strömt des Himmels Segen, Schätzchen gib mir einen Kuß!",positive,emotions of affection,love
+203,GerDracor/weidmann-der-dorfbarbier.xml,9735,9770,Umarmt das sich sträubende Suschen.,positive,emotions of suffering,joy
+204,GerDracor/weidmann-der-dorfbarbier.xml,9771,9891,"Glücklich sind nur solche Ehen, Wo das Herz das Jawort spricht, Aber die aus Zwang geschehen, Das ist wahre Liebe nicht.",positive,emotions of joy,joy
+205,GerDracor/weidmann-der-dorfbarbier.xml,9892,9899,Dialog.,emotional movement,emotional movement,emotional movement
+206,GerDracor/weidmann-der-dorfbarbier.xml,9900,9918,Du bist erstaunt!?,emotional movement,emotional movement,emotional movement
+207,GerDracor/weidmann-der-dorfbarbier.xml,9919,10035,"Ja, Du kannst mit Recht der Vorsehung danken, die Dich gewürdigt
+            hat, das Weib des großen Lux zu werden.",positive,emotions of affection,joy
+208,GerDracor/weidmann-der-dorfbarbier.xml,10036,10146,"Mädchen, Du sollst: glänzen, wie der Sirius am
+            Nordpol und wohnen  Joseph tritt
+              ein.",positive,emotions of affection,joy
+209,GerDracor/weidmann-der-dorfbarbier.xml,10147,10197,"Ach, da kommt der überlästige Mensch schon wieder.",negative,emotions of rejection,"hate, disgust"
+210,GerDracor/weidmann-der-dorfbarbier.xml,10198,10236,Geht in's Zimmer und holt einen Brief.,emotional movement,emotional movement,emotional movement
+211,GerDracor/weidmann-der-dorfbarbier.xml,10237,10273,O mit dem will ich bald fertig sein!,negative,emotions of rejection,anger
+212,GerDracor/weidmann-der-dorfbarbier.xml,10274,10373,"Ich kann nicht vor diesem Hause vorübergehen, ohne meinen lieben Herrn Lux zu
+            begrüßen.",positive,emotions of affection,joy
+213,GerDracor/weidmann-der-dorfbarbier.xml,10374,10422,"Suschen gibt Joseph den Brief, Joseph winkt ihr.",negative,emotions of rejection,anger
+214,GerDracor/weidmann-der-dorfbarbier.xml,10423,10428,kalt.,negative,emotions of suffering,suffering
+215,GerDracor/weidmann-der-dorfbarbier.xml,10429,10462,"Schönen Dank, ich habe Geschäfte.",positive,emotions of joy,joy
+216,GerDracor/weidmann-der-dorfbarbier.xml,10463,10530,"Wo man eintritt, spricht Alles nur von dem weltberühmten Herrn Lux.",positive,emotions of affection,admiration
+217,GerDracor/weidmann-der-dorfbarbier.xml,10531,10547,wird freundlich.,positive,emotions of joy,joy
+218,GerDracor/weidmann-der-dorfbarbier.xml,10548,10555,Wie so?,emotional movement,emotional movement,emotional movement
+219,GerDracor/weidmann-der-dorfbarbier.xml,10556,10589,"Ich gehe gleich, Jungfer Suschen!",negative,emotions of joy,joy
+220,GerDracor/weidmann-der-dorfbarbier.xml,10590,10631,"ich weiß wohl, daß ich Ihnen verhaßt bin.",negative,emotions of rejection,"hate, disgust"
+221,GerDracor/weidmann-der-dorfbarbier.xml,10632,10729,"Ich will
+            nur hier mit Herrn Lux, der die Zierde der Arzneikunst ist, ein wenig reden.",positive,emotions of affection,admiration
+222,GerDracor/weidmann-der-dorfbarbier.xml,10730,10821,"– Das neue
+            Wunder mit dem Dorfschneider hat alle Menschen in Erstaunen gesetzt.",emotional movement,emotions of joy,emotional movement
+223,GerDracor/weidmann-der-dorfbarbier.xml,10822,10861,"Alle Bauern essen
+            Schinken.",negative,emotions of rejection,anger
+224,GerDracor/weidmann-der-dorfbarbier.xml,10862,11001,"So lange ich auf der Universität war, habe ich nie von einem Arzt gehört, der
+            so viele außerordentliche Kuren verrichtet hätte.",emotional movement,emotions of affection,admiration
+225,GerDracor/weidmann-der-dorfbarbier.xml,11002,11047,Es ist eine besondere Gabe der Natur – Genie!,positive,emotions of affection,admiration
+226,GerDracor/weidmann-der-dorfbarbier.xml,11048,11119,"– Es hat Studium gekostet, bis ich es
+            soweit gebracht habe.",negative,emotions of suffering,suffering
+227,GerDracor/weidmann-der-dorfbarbier.xml,11120,11163,Joseph ist indessen zu Suschen geschlichen.,negative,emotions of rejection,fear
+228,GerDracor/weidmann-der-dorfbarbier.xml,11164,11198,"sieht, das Lux sich zu ihr wendet.",positive,emotional movement,love
+229,GerDracor/weidmann-der-dorfbarbier.xml,11199,11241,O quälen Sie mich nicht mit Ihren Briefen!,negative,emotions of rejection,suffering
+230,GerDracor/weidmann-der-dorfbarbier.xml,11242,11318,"Fort mit diesem Geschmiere; ich will nichts
+            lesen, nichts hören!",negative,emotions of rejection,anger
+231,GerDracor/weidmann-der-dorfbarbier.xml,11319,11378,Gibt Joseph ihren eigenen Brief und läuft in das Vorzimmer.,negative,emotions of rejection,emotional movement
+232,GerDracor/weidmann-der-dorfbarbier.xml,11379,11440,"Danken Sie es meiner guten Laune, sonst –  Die Bauern kommen.",negative,emotions of joy,joy
+233,GerDracor/weidmann-der-dorfbarbier.xml,11441,11466,Gott grüße Euch in Ehren!,positive,emotions of affection,joy
+234,GerDracor/weidmann-der-dorfbarbier.xml,11467,11518,"Die Bärte uns zu scheeren, Erscheinen wir bei Euch.",negative,emotions of rejection,"hate, disgust"
+235,GerDracor/weidmann-der-dorfbarbier.xml,11519,11604,"Beliebt Euch nur zu setzen, Ich muß mein Messer wetzen, Dann putz' ich Euch sogleich.",negative,emotions of rejection,anger
+236,GerDracor/weidmann-der-dorfbarbier.xml,11605,11615,Bei Seite.,negative,emotional movement,emotional movement
+237,GerDracor/weidmann-der-dorfbarbier.xml,11616,11674,"Verwünscht sei doch der Geck, Er geht mir nicht vom Fleck.",negative,emotions of rejection,"hate, disgust"
+238,GerDracor/weidmann-der-dorfbarbier.xml,11675,11731,Das Liebeln muß ich enden; Mir geht es nicht von Händen.,positive,emotions of affection,love
+239,GerDracor/weidmann-der-dorfbarbier.xml,11732,11737,Laut.,emotional movement,emotional movement,emotional movement
+240,GerDracor/weidmann-der-dorfbarbier.xml,11738,11764,"Herr Joseph, leb' Er wohl!",negative,emotions of suffering,suffering
+241,GerDracor/weidmann-der-dorfbarbier.xml,11765,11774,Für sich.,positive,emotions of suffering,emotional movement
+242,GerDracor/weidmann-der-dorfbarbier.xml,11775,11800,Daß Dich der Teufel hol'!,negative,emotions of rejection,anger
+243,GerDracor/weidmann-der-dorfbarbier.xml,11801,11825,Ich gehe schon Herr Lux!,negative,emotions of fear,fear
+244,GerDracor/weidmann-der-dorfbarbier.xml,11826,11835,für sich.,positive,emotions of joy,emotional movement
+245,GerDracor/weidmann-der-dorfbarbier.xml,11836,11862,Verdammter schlauer Fuchs!,negative,emotions of rejection,anger
+246,GerDracor/weidmann-der-dorfbarbier.xml,11863,11872,für sich.,positive,emotions of joy,emotional movement
+247,GerDracor/weidmann-der-dorfbarbier.xml,11873,11896,Verdammter alter Fuchs!,negative,emotions of rejection,anger
+248,GerDracor/weidmann-der-dorfbarbier.xml,11897,11906,drängend.,negative,emotional movement,emotional movement
+249,GerDracor/weidmann-der-dorfbarbier.xml,11907,11938,"Herr Lux, wir haben keine Zeit.",negative,emotions of rejection,emotional movement
+250,GerDracor/weidmann-der-dorfbarbier.xml,11939,11979,"Gleich, gleich, ich bin ja schon bereit.",negative,emotions of joy,joy
+251,GerDracor/weidmann-der-dorfbarbier.xml,11980,11989,Für sich.,positive,emotions of suffering,emotional movement
+252,GerDracor/weidmann-der-dorfbarbier.xml,11990,12020,"Seht, wie er heimlich spricht.",negative,emotions of rejection,anger
+253,GerDracor/weidmann-der-dorfbarbier.xml,12021,12026,Laut.,emotional movement,emotional movement,emotional movement
+254,GerDracor/weidmann-der-dorfbarbier.xml,12027,12066,Jetzt find' ich mein Barbierzeug nicht.,negative,emotions of suffering,suffering
+255,GerDracor/weidmann-der-dorfbarbier.xml,12067,12083,leise zu Joseph.,negative,emotional movement,suffering
+256,GerDracor/weidmann-der-dorfbarbier.xml,12084,12141,"Ich soll Dich künftig meiden, Das soll niemals gescheh'n.",negative,emotions of rejection,anger
+257,GerDracor/weidmann-der-dorfbarbier.xml,12142,12153,zu Suschen.,negative,emotional movement,emotional movement
+258,GerDracor/weidmann-der-dorfbarbier.xml,12154,12216,"Dein Anblick bringt mir Freuden, Ich kann nicht von Dir geh'n.",positive,emotions of joy,joy
+259,GerDracor/weidmann-der-dorfbarbier.xml,12217,12237,"Herr Lux, mein Bart!",negative,emotions of suffering,emotional movement
+260,GerDracor/weidmann-der-dorfbarbier.xml,12238,12246,suchend.,emotional movement,emotional movement,emotional movement
+261,GerDracor/weidmann-der-dorfbarbier.xml,12247,12259,Mein Messer!,negative,emotions of fear,fear
+262,GerDracor/weidmann-der-dorfbarbier.xml,12260,12269,– gleich!,negative,emotional movement,emotional movement
+263,GerDracor/weidmann-der-dorfbarbier.xml,12270,12306,Das ist doch ein verdammter Streich!,negative,emotions of rejection,anger
+264,GerDracor/weidmann-der-dorfbarbier.xml,12307,12316,drängend.,negative,emotional movement,emotional movement
+265,GerDracor/weidmann-der-dorfbarbier.xml,12317,12335,Wir haben Session!,positive,emotions of joy,joy
+266,GerDracor/weidmann-der-dorfbarbier.xml,12336,12357,Verfluchte Konfusion!,negative,emotions of fear,emotional movement
+267,GerDracor/weidmann-der-dorfbarbier.xml,12358,12384,Potz Narren und kein End'!,negative,emotions of joy,Schadenfreude
+268,GerDracor/weidmann-der-dorfbarbier.xml,12385,12415,"Seht, wie der Kopf ihm brennt.",negative,emotional movement,suffering
+269,GerDracor/weidmann-der-dorfbarbier.xml,12416,12428,kommt eilig.,emotional movement,emotional movement,emotional movement
+270,GerDracor/weidmann-der-dorfbarbier.xml,12429,12448,"Zu Hülfe, zu Hülfe!",negative,emotions of fear,fear
+271,GerDracor/weidmann-der-dorfbarbier.xml,12449,12466,"o Jammer, o Noth!",negative,emotions of suffering,compassion
+272,GerDracor/weidmann-der-dorfbarbier.xml,12467,12511,Die Bauern zerschlagen und raufen fich todt.,negative,emotions of rejection,suffering
+273,GerDracor/weidmann-der-dorfbarbier.xml,12512,12531,in Eile auftretend.,emotional movement,emotional movement,emotional movement
+274,GerDracor/weidmann-der-dorfbarbier.xml,12532,12614,"Geschwinde, geschwinde, o sehet doch nach, O laufet, es lieget ein Todter im Bach.",negative,emotions of fear,fear
+275,GerDracor/weidmann-der-dorfbarbier.xml,12615,12647,Das Wirthshaus schwimmt im Blut.,negative,emotions of suffering,Schadenfreude
+276,GerDracor/weidmann-der-dorfbarbier.xml,12648,12687,"Man rauft, und das war gut, ungeduldig.",negative,emotional movement,joy
+277,GerDracor/weidmann-der-dorfbarbier.xml,12688,12713,"Zum Teufel, uns're Bärte!",negative,emotions of rejection,anger
+278,GerDracor/weidmann-der-dorfbarbier.xml,12714,12725,außer sich.,negative,emotional movement,emotional movement
+279,GerDracor/weidmann-der-dorfbarbier.xml,12726,12748,"O Plage, o Beschwerde!",negative,emotions of suffering,suffering
+280,GerDracor/weidmann-der-dorfbarbier.xml,12749,12772,Ich muß barbieret sein.,negative,emotions of rejection,anger
+281,GerDracor/weidmann-der-dorfbarbier.xml,12773,12782,verwirrt.,emotional movement,emotional movement,emotional movement
+282,GerDracor/weidmann-der-dorfbarbier.xml,12783,12811,Da schlag' der Donner drein!,negative,emotions of fear,emotional movement
+283,GerDracor/weidmann-der-dorfbarbier.xml,12812,12856,"Hier soll ich barbieren, dort Todte kuriren.",negative,emotions of suffering,suffering
+284,GerDracor/weidmann-der-dorfbarbier.xml,12857,12897,Hier einen seciren und dorten klystiren.,negative,emotions of rejection,anger
+285,GerDracor/weidmann-der-dorfbarbier.xml,12898,12922,Ich werde noch ein Narr.,negative,emotions of rejection,"hate, disgust"
+286,GerDracor/weidmann-der-dorfbarbier.xml,12923,12949,"Das ist Er schon, fürwahr.",negative,emotions of suffering,suffering
+287,GerDracor/weidmann-der-dorfbarbier.xml,12950,12970,"Herr Lux, mein Bart!",negative,emotions of suffering,emotional movement
+288,GerDracor/weidmann-der-dorfbarbier.xml,12971,12992,"Herr Lux, die Leich'!",negative,emotions of fear,suffering
+289,GerDracor/weidmann-der-dorfbarbier.xml,12993,13014,"Herr Lux, der Streit!",negative,emotions of rejection,anger
+290,GerDracor/weidmann-der-dorfbarbier.xml,13015,13032,Ich komme gleich!,negative,emotions of joy,joy
+291,GerDracor/weidmann-der-dorfbarbier.xml,13033,13062,Ich berste noch vor Ärgernis.,negative,emotions of rejection,anger
+292,GerDracor/weidmann-der-dorfbarbier.xml,13063,13095,Er geht noch nicht der Hasenfuß.,negative,emotions of rejection,"hate, disgust"
+293,GerDracor/weidmann-der-dorfbarbier.xml,13096,13104,Zu Rund.,negative,emotions of suffering,emotional movement
+294,GerDracor/weidmann-der-dorfbarbier.xml,13105,13136,Bewahren Sie mein Suschen dort!,positive,emotions of affection,love
+295,GerDracor/weidmann-der-dorfbarbier.xml,13137,13175,"Adieu, Herr Rund, jetzt eil' ich fort.",negative,emotions of rejection,anger
+296,GerDracor/weidmann-der-dorfbarbier.xml,13176,13179,Ab.,negative,emotional movement,anger
+297,GerDracor/weidmann-der-dorfbarbier.xml,13180,13213,"Adieu, Herr Rund, wir eilen fort.",negative,emotions of fear,emotional movement
+298,GerDracor/weidmann-der-dorfbarbier.xml,13214,13217,Ab.,negative,emotional movement,anger
+299,GerDracor/weidmann-der-dorfbarbier.xml,13218,13285,"Was ist denn das für eine Art, Herr Lux, wo bleibt denn unser Bart?",emotional movement,emotions of rejection,emotional movement
+300,GerDracor/weidmann-der-dorfbarbier.xml,13286,13345,"Herr Lux, so hören Sie ein Wort, Da läuft er wirklich fort!",negative,emotions of fear,fear
+301,GerDracor/weidmann-der-dorfbarbier.xml,13346,13377,Er ist fürwahr ein toller Narr!,negative,emotions of rejection,"hate, disgust"
+302,GerDracor/weidmann-der-dorfbarbier.xml,13378,13385,Dialog.,emotional movement,emotional movement,emotional movement
+303,GerDracor/weidmann-der-dorfbarbier.xml,13386,13422,Kinder nützen wir diesen Augenblick.,positive,emotions of joy,joy
+304,GerDracor/weidmann-der-dorfbarbier.xml,13423,13497,"O mein lieber Joseph, ich bin in tausend Ängsten, Lux will mich heirathen.",negative,emotions of fear,fear
+305,GerDracor/weidmann-der-dorfbarbier.xml,13498,13571,"Er will das Vermögen fischen, aber er ist noch nicht da, wo er sein will.",negative,emotions of suffering,joy
+306,GerDracor/weidmann-der-dorfbarbier.xml,13572,13694,"Mit Gewalt
+            läßt es sich zwar nicht zwingen, aber List und Verstellung sollen uns zum Zweck
+            führen.",positive,emotions of rejection,anger
+307,GerDracor/weidmann-der-dorfbarbier.xml,13695,13816,"O, ja liebster Herr Rund, stehen Sie uns bei, und Sie sollen gewiß mit meiner
+            Erkenntlichkeit zufrieden sein.",positive,emotions of joy,friendship
+308,GerDracor/weidmann-der-dorfbarbier.xml,13817,13888,"Ich mache mir eiue Freude d'raus, ein so hübsches Pärchen zu verbinden.",positive,emotions of joy,joy
+309,GerDracor/weidmann-der-dorfbarbier.xml,13889,13948,"Aber ist es denn wahr, daß Jemand im Bache verunglückt ist?",negative,emotions of suffering,fear
+310,GerDracor/weidmann-der-dorfbarbier.xml,13949,13957,Bewahre!,negative,emotions of affection,fear
+311,GerDracor/weidmann-der-dorfbarbier.xml,13958,14198,"Die Bauern haben einen ausgestopften Affen, den der Edelmann hatte
+            hineinwerfen lassen, herausgefischt, und glauben nun, daß es ein Mensch ist, der Spaß
+            wäre vollkommen, wenn der Herr Lux einen  Das ist vortrefflich.",positive,emotions of joy,joy
+312,GerDracor/weidmann-der-dorfbarbier.xml,14199,14220,Doch jetzt zur Sache!,negative,emotional movement,anger
+313,GerDracor/weidmann-der-dorfbarbier.xml,14221,14247,Bei unserm Plane bleibt's!,positive,emotions of joy,joy
+314,GerDracor/weidmann-der-dorfbarbier.xml,14248,14273,Jeder spielt seine Rolle.,negative,emotions of rejection,anger
+315,GerDracor/weidmann-der-dorfbarbier.xml,14274,14360,"Sie Herr
+            Joseph nehmen Gift, setzen Suschen zur Erbin ihres Vermögens ein.",negative,emotions of rejection,"hate, disgust"
+316,GerDracor/weidmann-der-dorfbarbier.xml,14361,14503,"– Lux wird mit
+            gierigen Augen, die zwiefache Erbschaft verschlingen, aber es soll ihm gehen wie dem
+            Hund in der Fabel!",negative,emotions of rejection,"hate, disgust"
+317,GerDracor/weidmann-der-dorfbarbier.xml,14504,14591,"Indeß er nach dem Schatten greift, soll er seinen eignen Knochen
+            verlieren.",negative,emotions of suffering,despair
+318,GerDracor/weidmann-der-dorfbarbier.xml,14592,14634,Unser Wohl und Wehe liegt in Ihren Händen.,positive,emotions of affection,joy
+319,GerDracor/weidmann-der-dorfbarbier.xml,14635,14696,"Ja liebster Herr Rund, unsre ganze Hoffnung beruht auf Ihnen.",positive,emotions of affection,admiration
+320,GerDracor/weidmann-der-dorfbarbier.xml,14697,14765,"Bald werden die Leiden verschwinden, Bald wird uns der süßeste Lohn.",positive,emotions of joy,joy
+321,GerDracor/weidmann-der-dorfbarbier.xml,14766,14832,"Wir werden die Hände verbinden, Die Herzen, ach, sind es ja schon.",positive,emotions of affection,love
+322,GerDracor/weidmann-der-dorfbarbier.xml,14833,14968,"Wir werden die Tage verscherzen, Vergnügt, wenn der Morgen erwacht; Wir schlafen mit ruhigem Herzen, Die Tugend ist's, die uns bewacht.",positive,emotions of joy,joy
+323,GerDracor/weidmann-der-dorfbarbier.xml,14969,15004,"Die Tugend ist's, die Euch bewacht.",positive,emotions of affection,admiration
+324,GerDracor/weidmann-der-dorfbarbier.xml,15005,15015,zu Joseph.,negative,emotional movement,suffering
+325,GerDracor/weidmann-der-dorfbarbier.xml,15016,15081,"Doch wirst Du mich immer so lieben, Und immer vor Allen nur mich?",positive,emotions of affection,love
+326,GerDracor/weidmann-der-dorfbarbier.xml,15082,15150,Tief ist's mir in's Herze geschrieben: Ich liebe o Mädchen nur Dich.,positive,emotions of affection,love
+327,GerDracor/weidmann-der-dorfbarbier.xml,15151,15164,bekräftigend.,positive,emotions of affection,friendship
+328,GerDracor/weidmann-der-dorfbarbier.xml,15165,15195,"Er liebet, o Mädchen nur Dich.",positive,emotions of affection,love
+329,GerDracor/weidmann-der-dorfbarbier.xml,15196,15334,"Wir werden die Tage verscherzen, Vergnügt, wenn der Morgen erwacht, Wir schlafen mit Frieden im Herzen, Die Tugend ist's, die uns bewacht.",positive,emotions of joy,joy
+330,GerDracor/weidmann-der-dorfbarbier.xml,15335,15457,"Frei von allen Schmerzen, Weil das Glück Euch freundlich lacht, Werdet ihr nur scherzen Durch den Tag und durch die Nacht.",positive,emotions of joy,joy
+331,GerDracor/weidmann-der-dorfbarbier.xml,15458,15501,"Stille, da hat ihn der Henker schon wieder.",negative,emotions of rejection,emotional movement
+332,GerDracor/weidmann-der-dorfbarbier.xml,15502,15534,Beginnt Eure Rollen hübsch klug.,positive,emotions of joy,anger
+333,GerDracor/weidmann-der-dorfbarbier.xml,15536,15564,"Lux
+              tritt ein.",negative,emotional movement,emotional movement
+334,GerDracor/weidmann-der-dorfbarbier.xml,15565,15598,indem er sich in Ordnung richtet.,negative,emotions of rejection,anger
+335,GerDracor/weidmann-der-dorfbarbier.xml,15599,15672,"Man hat Mühe, diese Halbmenschen zur Vernunft zu bringen –  Sieht Joseph.",negative,emotions of rejection,anger
+336,GerDracor/weidmann-der-dorfbarbier.xml,15673,15722,geht wild an ihm vorüber und drückt ihm die Hand.,positive,emotions of affection,emotional movement
+337,GerDracor/weidmann-der-dorfbarbier.xml,15723,15811,"Leben Sie wohl, Herr Lux, bald sollen Sie von mir hören  Eilt heftig
+              fort.",negative,emotional movement,emotional movement
+338,GerDracor/weidmann-der-dorfbarbier.xml,15812,15845,Der kommt gewiß nicht wieder her!,negative,emotions of rejection,anger
+339,GerDracor/weidmann-der-dorfbarbier.xml,15846,15937,"Ihr Suschen, Herr Lux, ist ein braves Mädchen, die
+            hat den Burschen abgeblitzt!",positive,emotions of joy,joy
+340,GerDracor/weidmann-der-dorfbarbier.xml,15938,15961,– Wie pfiffig – Hahaha!,positive,emotions of joy,joy
+341,GerDracor/weidmann-der-dorfbarbier.xml,15962,15975,Mein Suschen?,emotional movement,emotional movement,emotional movement
+342,GerDracor/weidmann-der-dorfbarbier.xml,15976,16004,"Reden Sie weiter, Herr Rund.",negative,emotional movement,emotional movement
+343,GerDracor/weidmann-der-dorfbarbier.xml,16006,16054,"Schnupft Tabak und giebt ihm
+              auch.",negative,emotions of rejection,"hate, disgust"
+344,GerDracor/weidmann-der-dorfbarbier.xml,16055,16073,ahmt Suschen nach.,positive,emotions of affection,emotional movement
+345,GerDracor/weidmann-der-dorfbarbier.xml,16074,16220,"»Ei, ein solcher Müßiggänger kommt mir eben recht, da sind mir bessere Aussichten
+            geöffnet.« Ich weiß nicht, was sie damit sagen will.",emotional movement,emotional movement,joy
+346,GerDracor/weidmann-der-dorfbarbier.xml,16221,16249,reibt sich freudig die Hand.,positive,emotions of joy,joy
+347,GerDracor/weidmann-der-dorfbarbier.xml,16250,16316,Damit meint sie mich – o ich möchte das Mädchen aus Liebe fressen!,positive,emotions of rejection,love
+348,GerDracor/weidmann-der-dorfbarbier.xml,16317,16323,lacht.,positive,emotions of joy,joy
+349,GerDracor/weidmann-der-dorfbarbier.xml,16324,16328,Nun!,negative,emotions of rejection,fear
+350,GerDracor/weidmann-der-dorfbarbier.xml,16329,16333,Nun!,negative,emotions of rejection,fear
+351,GerDracor/weidmann-der-dorfbarbier.xml,16334,16365,Ist auch nur so eine Redensart.,negative,emotions of rejection,anger
+352,GerDracor/weidmann-der-dorfbarbier.xml,16366,16416,Bei ihr hat meine Erziehung gute Früchte getragen.,positive,emotions of affection,joy
+353,GerDracor/weidmann-der-dorfbarbier.xml,16417,16451,"Aber
+            was sagte Joseph?",emotional movement,emotional movement,emotional movement
+354,GerDracor/weidmann-der-dorfbarbier.xml,16452,16481,Der junge Mensch ward rasend.,negative,emotions of rejection,anger
+355,GerDracor/weidmann-der-dorfbarbier.xml,16482,16489,Hahaha!,positive,emotions of joy,joy
+356,GerDracor/weidmann-der-dorfbarbier.xml,16490,16528,So muß man die jungen Herren abweisen.,negative,emotions of rejection,anger
+357,GerDracor/weidmann-der-dorfbarbier.xml,16530,16545,Lärm von außen.,negative,emotions of rejection,emotional movement
+358,GerDracor/weidmann-der-dorfbarbier.xml,16546,16561,Adam tritt auf.,emotional movement,emotional movement,emotional movement
+359,GerDracor/weidmann-der-dorfbarbier.xml,16562,16597,"Stirbt der Fuchs, so gilt der Balg.",negative,emotions of rejection,Schadenfreude
+360,GerDracor/weidmann-der-dorfbarbier.xml,16598,16642,"Wer keine Pferde hat, muß mit Ochsen fahren.",negative,emotions of rejection,"hate, disgust"
+361,GerDracor/weidmann-der-dorfbarbier.xml,16643,16740,"Herr
+            Lux, der Körper – es muß einmal gestorben sein – die Bauern bringen ihn hierher.",negative,emotions of suffering,suffering
+362,GerDracor/weidmann-der-dorfbarbier.xml,16741,16758,Was soll er hier?,negative,emotional movement,anger
+363,GerDracor/weidmann-der-dorfbarbier.xml,16759,16790,Zum Richter muß man ihn tragen.,negative,emotions of suffering,suffering
+364,GerDracor/weidmann-der-dorfbarbier.xml,16791,16813,sieht zur Thür hinaus.,negative,emotional movement,suffering
+365,GerDracor/weidmann-der-dorfbarbier.xml,16814,16849,Da kommen sie schon mit dem Todten.,negative,emotions of suffering,"hate, disgust"
+366,GerDracor/weidmann-der-dorfbarbier.xml,16850,16860,schreiend.,negative,emotions of fear,fear
+367,GerDracor/weidmann-der-dorfbarbier.xml,16861,16907,"Laßt ihn draußen, Ihr Leute, laßt ihn draußen.",negative,emotions of rejection,anger
+368,GerDracor/weidmann-der-dorfbarbier.xml,16909,16953,"Thomas und Philipp treten
+              auf.",emotional movement,emotions of joy,emotional movement
+369,GerDracor/weidmann-der-dorfbarbier.xml,16954,16999,"Es ist ein abscheulicher Spektakel, Herr Lux.",negative,emotions of rejection,"hate, disgust"
+370,GerDracor/weidmann-der-dorfbarbier.xml,17000,17068,"Es hat sich nicht umsonst die Sonne
+            gestern verfinstert.",negative,emotions of suffering,suffering
+371,GerDracor/weidmann-der-dorfbarbier.xml,17069,17121,Und der singende Wind war ein schreckliches Zeichen.,negative,emotions of suffering,suffering
+372,GerDracor/weidmann-der-dorfbarbier.xml,17122,17144,"Adam, Feder und Tinte.",emotional movement,emotional movement,emotional movement
+373,GerDracor/weidmann-der-dorfbarbier.xml,17145,17179,– Ich muß das  bringt Schreibzeug.,negative,emotions of rejection,anger
+374,GerDracor/weidmann-der-dorfbarbier.xml,17180,17212,Niemand kann dem Tode entlaufen.,negative,emotions of fear,despair
+375,GerDracor/weidmann-der-dorfbarbier.xml,17213,17230,Wie sieht er aus.,emotional movement,emotional movement,emotional movement
+376,GerDracor/weidmann-der-dorfbarbier.xml,17232,17242,Extemporé.,positive,emotional movement,emotional movement
+377,GerDracor/weidmann-der-dorfbarbier.xml,17243,17309,"Ja, wir haben ihn alle genau besehen, er ist schwarz wie ein Mohr.",negative,emotions of rejection,"hate, disgust"
+378,GerDracor/weidmann-der-dorfbarbier.xml,17310,17334,setzt sich und schreibt.,emotional movement,emotional movement,emotional movement
+379,GerDracor/weidmann-der-dorfbarbier.xml,17335,17385,Heute ist im Rothbach eine Leiche gefunden worden.,negative,emotions of fear,suffering
+380,GerDracor/weidmann-der-dorfbarbier.xml,17386,17533,"Allen vernünftigen Muthmaßungen nach
+            ist er ein Reisender, der von Straßenräubern grausam ermordet worden –  Springt
+              auf.",negative,emotions of fear,despair
+381,GerDracor/weidmann-der-dorfbarbier.xml,17534,17654,"Herr Lux, ich bin zwar nur ein Barbiergeselle, mir scheint aber die Leiche kein
+            menschlicher Körper zu sein.",negative,emotions of fear,emotional movement
+382,GerDracor/weidmann-der-dorfbarbier.xml,17655,17702,"Kein Feuer ohne Rauch, kluge Leute fehlen auch.",negative,emotions of rejection,suffering
+383,GerDracor/weidmann-der-dorfbarbier.xml,17703,17719,Er ist ein Esel!,negative,emotions of rejection,"hate, disgust"
+384,GerDracor/weidmann-der-dorfbarbier.xml,17720,17821,"Will er die Sache besser verstehen als ich, der ich so lange Praxis
+            mit Theorie verbinde?",negative,emotions of rejection,emotional movement
+385,GerDracor/weidmann-der-dorfbarbier.xml,17822,18051,"Lese Er einmal die wunderbaren Reisebeschreibungen von den
+            Menschen, die den Kopf unter dem Arme tragen, von den Kranichvölkern, welche die
+            spielende Natur hervorgebracht hat und noch täglich hervorbringt.",positive,emotions of joy,joy
+386,GerDracor/weidmann-der-dorfbarbier.xml,18052,18078,Kein Meister wird geboren!,positive,emotions of affection,joy
+387,GerDracor/weidmann-der-dorfbarbier.xml,18079,18118,"Ich hätte geschworen, es wäre ein Affe.",negative,emotions of rejection,"hate, disgust"
+388,GerDracor/weidmann-der-dorfbarbier.xml,18119,18162,"Der Topf lacht über
+            den Kessel.",positive,emotions of joy,Schadenfreude
+389,GerDracor/weidmann-der-dorfbarbier.xml,18163,18177,– Meinetwegen!,negative,emotional movement,anger
+390,GerDracor/weidmann-der-dorfbarbier.xml,18178,18251,"Ein Narr macht zehn Narren – große Worte und nichts
+            dahinter.",negative,emotions of rejection,"hate, disgust"
+391,GerDracor/weidmann-der-dorfbarbier.xml,18252,18309,"Davon versteht Er so viel, wie der Esel vom Flötenblasen.",positive,emotions of rejection,"hate, disgust"
+392,GerDracor/weidmann-der-dorfbarbier.xml,18310,18354,Er hört's Gras wachsen und die Flöhe husten.,negative,emotions of suffering,suffering
+393,GerDracor/weidmann-der-dorfbarbier.xml,18355,18416,Ich habe so noch mit Ihm abzurechnen wegen der Barbiermesser.,negative,emotions of rejection,anger
+394,GerDracor/weidmann-der-dorfbarbier.xml,18417,18439,Wo packt Er alles hin?,emotional movement,emotional movement,emotional movement
+395,GerDracor/weidmann-der-dorfbarbier.xml,18452,18509,"He, wenn Kunden kommen, soll ich mit der Sense barbieren?",negative,emotions of rejection,anger
+396,GerDracor/weidmann-der-dorfbarbier.xml,18510,18553,"Da reißt der Esel das Maul
+            auf!",negative,emotions of rejection,anger
+397,GerDracor/weidmann-der-dorfbarbier.xml,18555,18566,Extemporie.,negative,emotional movement,emotional movement
+398,GerDracor/weidmann-der-dorfbarbier.xml,18567,18583,Potz Sapperment!,negative,emotions of rejection,"hate, disgust"
+399,GerDracor/weidmann-der-dorfbarbier.xml,18584,18611,Jetzt reißt mir die Geduld!,negative,emotions of rejection,anger
+400,GerDracor/weidmann-der-dorfbarbier.xml,18612,18635,Allzuviel ist ungesund!,negative,emotions of rejection,"hate, disgust"
+401,GerDracor/weidmann-der-dorfbarbier.xml,18636,18690,"Ich soll immer in
+            den sauren Apfel beißen.",negative,emotions of rejection,anger
+402,GerDracor/weidmann-der-dorfbarbier.xml,18691,18721,Der Teufel hol' die Schererei!,negative,emotions of rejection,anger
+403,GerDracor/weidmann-der-dorfbarbier.xml,18722,18826,"Es ist gar kein Profit dabei, Man rennt und läuft sich müd und matt Und wird dabei nicht froh noch satt.",negative,emotions of suffering,suffering
+404,GerDracor/weidmann-der-dorfbarbier.xml,18827,19134,"Bald heißt es: Lauf barbieren, Bald muß ich Pflaster schmieren, Bald muß ich Geister brennen, Bald zu den Kranken rennen; Bald muß ich Egel setzen, Bald muß ich Messer wetzen, Bald schwere Wunden heilen, Und mich doch nicht verweilen, Bald Schröpfen, bald ein Aderlaß, Ein Umschlag, und bald dies, bald das.",negative,emotions of suffering,suffering
+405,GerDracor/weidmann-der-dorfbarbier.xml,19135,19212,"Zähn' ausreißen, Federn schleißen, Pudel scheeren, Ofen kehren, Mord Element!",negative,emotions of rejection,"hate, disgust"
+406,GerDracor/weidmann-der-dorfbarbier.xml,19213,19232,Ich mach' ein End'!,positive,emotions of joy,despair
+407,GerDracor/weidmann-der-dorfbarbier.xml,19233,19298,"Es ist, bei meiner armen Seel', Ein hartes Brod, ein Baderg'sell.",negative,emotions of suffering,suffering
+408,GerDracor/weidmann-der-dorfbarbier.xml,19299,19302,Ab.,negative,emotional movement,anger
+409,GerDracor/weidmann-der-dorfbarbier.xml,19303,19310,Dialog.,emotional movement,emotional movement,emotional movement
+410,GerDracor/weidmann-der-dorfbarbier.xml,19311,19374,Hätte ich doch dem elenden Kerl nicht soviel Courage zugetraut.,negative,emotions of rejection,"hate, disgust"
+411,GerDracor/weidmann-der-dorfbarbier.xml,19376,19425,"Adam kommt
+              zurück und holt den Hut.",positive,emotions of joy,anger
+412,GerDracor/weidmann-der-dorfbarbier.xml,19426,19435,Herr Lux!,emotional movement,emotional movement,emotional movement
+413,GerDracor/weidmann-der-dorfbarbier.xml,19436,19445,Komm her!,negative,emotions of rejection,fear
+414,GerDracor/weidmann-der-dorfbarbier.xml,19446,19475,War ja nicht so böse gemeint?,negative,emotions of rejection,anger
+415,GerDracor/weidmann-der-dorfbarbier.xml,19476,19509,Er sollte mich doch schon kennen.,negative,emotions of rejection,emotional movement
+416,GerDracor/weidmann-der-dorfbarbier.xml,19510,19872,"Ich bin ein
+            bischen jähzornig, wie alle Gelehrten, komm' Er her, da hat Er einen Groschen zu
+            Schnupftabak, daß Er nicht sagt ich sei ein Kahlmäuser, ein Knicker, – aber daß sag' ich
+            Ihm – sei Er fleißiger und gewöhne Er sich, das Widersprechen ab, wenn ich einen
+            gelehrten Diskurs führe, ich kann das nicht leiden.",negative,emotions of rejection,anger
+417,GerDracor/weidmann-der-dorfbarbier.xml,19873,19901,"Was gibt's, Frau Margarethe?",emotional movement,emotional movement,emotional movement
+418,GerDracor/weidmann-der-dorfbarbier.xml,19902,20175,"Mein Geselle hat bei den Händeln in der Schenke Frieden stiften wollen, aber die Bauern
+            sind über ihn hergefallen und haben ihn jämmerlich geprügelt; darum, Herr Lux, sei Er
+            doch so gut, ein wenig nachzusehen, es bleibt mir sonst alle Arbeit liegen.",negative,emotions of suffering,anger
+419,GerDracor/weidmann-der-dorfbarbier.xml,20176,20252,"Adam, geh' Er indessen hin, sobald ich Zeit habe werde ich selbst nachsehen.",negative,emotions of rejection,anger
+420,GerDracor/weidmann-der-dorfbarbier.xml,20268,20276,Adam ab.,negative,emotional movement,suffering
+421,GerDracor/weidmann-der-dorfbarbier.xml,20277,20290,Schönen Dank!,positive,emotions of joy,joy
+422,GerDracor/weidmann-der-dorfbarbier.xml,20291,20302,nachrufend.,negative,emotions of suffering,emotional movement
+423,GerDracor/weidmann-der-dorfbarbier.xml,20303,20362,"Ihr Diener, Frau Margarethe, besuchen Sie mich bald wieder.",positive,emotions of affection,joy
+424,GerDracor/weidmann-der-dorfbarbier.xml,20364,20424,"Zu Suschen; welche
+              aus dem Seitenzimmer kommt.",negative,emotional movement,emotional movement
+425,GerDracor/weidmann-der-dorfbarbier.xml,20425,20435,von innen.,negative,emotions of suffering,suffering
+426,GerDracor/weidmann-der-dorfbarbier.xml,20436,20443,Gleich!,negative,emotional movement,anger
+427,GerDracor/weidmann-der-dorfbarbier.xml,20444,20657,"Der Kopf ist meine Zierde, Die Stirn voll Ernst und Würde, Das Aug' wirft Feuerstrahlen, Der Bart ist schön zum Malen;  Der Mund strotzt von Beredtsamkeit: Ich bin vom Kopf bis zum Fuß Gestaltet wie Gott Cerberus.",positive,emotions of affection,admiration
+428,GerDracor/weidmann-der-dorfbarbier.xml,20658,20795,"Kein Wunder, wenn mich Suschen liebt, Und mir die Hand mit Freuden giebt; Man sehe mich nur einmal an, Ich bin fürwahr der schönste Mann!",positive,emotions of affection,love
+429,GerDracor/weidmann-der-dorfbarbier.xml,20796,20803,Dialog.,emotional movement,emotional movement,emotional movement
+430,GerDracor/weidmann-der-dorfbarbier.xml,20804,20823,kommt eilig heraus.,emotional movement,emotional movement,emotional movement
+431,GerDracor/weidmann-der-dorfbarbier.xml,20824,20867,"Was befehlen Sie denn, lieber Herr Vormund!",positive,emotional movement,admiration
+432,GerDracor/weidmann-der-dorfbarbier.xml,20868,20913,"Ich gehe morgen in die Stadt, um einzukaufen.",negative,emotions of suffering,anger
+433,GerDracor/weidmann-der-dorfbarbier.xml,20914,20937,"Was denn, Herr Vormund?",emotional movement,emotional movement,emotional movement
+434,GerDracor/weidmann-der-dorfbarbier.xml,20938,20946,Vormund!,negative,emotions of fear,emotional movement
+435,GerDracor/weidmann-der-dorfbarbier.xml,20947,20955,Vormund!,negative,emotions of fear,emotional movement
+436,GerDracor/weidmann-der-dorfbarbier.xml,20956,21044,"Das Wort höre ich nicht mehr gerne, seitdem wir auf einem andern Fuß
+            stehen.",negative,emotions of rejection,anger
+437,GerDracor/weidmann-der-dorfbarbier.xml,21045,21180,"– Vormund, Vater, Onkel – alle diese Ausdrücke klingen so sehr nach dem
+            Großvaterstuhle und machen einen um 20 Jahre älter.",negative,emotions of suffering,emotional movement
+438,GerDracor/weidmann-der-dorfbarbier.xml,21181,21213,Ich bin in meinen besten Jahren!,positive,emotions of joy,joy
+439,GerDracor/weidmann-der-dorfbarbier.xml,21229,21297,Wischt sich die die Hände und kneipt Suschen zärtlich in die Backen.,positive,emotions of affection,love
+440,GerDracor/weidmann-der-dorfbarbier.xml,21298,21394,"Die sind nicht so glücklich gewesen, so einen guten Unterricht zu erhalten, wie
+            ich.",positive,emotions of joy,suffering
+441,GerDracor/weidmann-der-dorfbarbier.xml,21395,21459,"Mädchen kann man leicht bethören, Lobt man sie nur in's Gesicht.",positive,emotions of affection,admiration
+442,GerDracor/weidmann-der-dorfbarbier.xml,21461,21492,O so traut den Heuchlern nicht.,negative,emotions of rejection,anger
+443,GerDracor/weidmann-der-dorfbarbier.xml,21493,21555,Buhler suchen nur zu haschen; Weis't sie ab mit ernstem Blick.,negative,emotions of suffering,"hate, disgust"
+444,GerDracor/weidmann-der-dorfbarbier.xml,21556,21618,"Späte Reue bringt das Naschen, Nur ein Mann macht unser Glück.",positive,emotions of suffering,joy
+445,GerDracor/weidmann-der-dorfbarbier.xml,21619,21626,allein.,negative,emotions of suffering,suffering
+446,GerDracor/weidmann-der-dorfbarbier.xml,21627,21652,Göttliche Bescheidenheit!,positive,emotions of affection,admiration
+447,GerDracor/weidmann-der-dorfbarbier.xml,21653,21661,Suschen!,negative,emotions of rejection,emotional movement
+448,GerDracor/weidmann-der-dorfbarbier.xml,21662,21742,"Du bist ein goldenes Kleinod; in meinem Herzen will
+            ich Dich tragen.",positive,emotions of affection,love
+449,GerDracor/weidmann-der-dorfbarbier.xml,21744,21759,Lärm von außen.,negative,emotions of rejection,emotional movement
+450,GerDracor/weidmann-der-dorfbarbier.xml,21760,21779,stürzt wild herein.,emotional movement,emotional movement,anger
+451,GerDracor/weidmann-der-dorfbarbier.xml,21780,21845,Nur einen Augenblick will ich mit Euch unter vier Augen sprechen.,negative,emotions of affection,suffering
+452,GerDracor/weidmann-der-dorfbarbier.xml,21846,21893,"Es ist ein Geheimnis
+            –  Ängstlich,.",negative,emotions of fear,fear
+453,GerDracor/weidmann-der-dorfbarbier.xml,21894,21904,bei Seite.,negative,emotional movement,emotional movement
+454,GerDracor/weidmann-der-dorfbarbier.xml,21905,21923,Was wird das sein?,negative,emotional movement,emotional movement
+455,GerDracor/weidmann-der-dorfbarbier.xml,21925,21945,Verriegelt die Thür.,negative,emotions of fear,fear
+456,GerDracor/weidmann-der-dorfbarbier.xml,21946,21955,Herr Lux!,emotional movement,emotional movement,emotional movement
+457,GerDracor/weidmann-der-dorfbarbier.xml,21956,21965,Herr Lux!,emotional movement,emotional movement,emotional movement
+458,GerDracor/weidmann-der-dorfbarbier.xml,21966,21993,"Nun, was soll der Herr Lux?",negative,emotions of rejection,anger
+459,GerDracor/weidmann-der-dorfbarbier.xml,21994,22027,"Herr Lux, ich habe Gift genommen.",negative,emotions of rejection,fear
+460,GerDracor/weidmann-der-dorfbarbier.xml,22028,22033,Gift!,negative,emotions of rejection,"hate, disgust"
+461,GerDracor/weidmann-der-dorfbarbier.xml,22034,22039,Gift!,negative,emotions of rejection,"hate, disgust"
+462,GerDracor/weidmann-der-dorfbarbier.xml,22040,22081,"Um des Himmels willen, was soll ich thun?",negative,emotions of fear,fear
+463,GerDracor/weidmann-der-dorfbarbier.xml,22082,22094,Schon lange?,emotional movement,emotional movement,emotional movement
+464,GerDracor/weidmann-der-dorfbarbier.xml,22095,22166,"Sie können mir nicht helfen, und ich will mir auch nicht helfen lassen.",negative,emotions of rejection,anger
+465,GerDracor/weidmann-der-dorfbarbier.xml,22167,22222,"Ich zittere am ganzen Leibe, was kann ich für Sie thun?",negative,emotions of fear,fear
+466,GerDracor/weidmann-der-dorfbarbier.xml,22223,22264,Sie sollen Zeuge meines Testamentes sein.,negative,emotions of affection,friendship
+467,GerDracor/weidmann-der-dorfbarbier.xml,22265,22275,Testament?,emotional movement,emotional movement,emotional movement
+468,GerDracor/weidmann-der-dorfbarbier.xml,22276,22291,Ihre Erbschaft?,emotional movement,emotional movement,emotional movement
+469,GerDracor/weidmann-der-dorfbarbier.xml,22292,22329,"Sagen Sie nur, warum nahmen Sie Gift?",negative,emotional movement,fear
+470,GerDracor/weidmann-der-dorfbarbier.xml,22330,22347,Aus Verzweiflung!,negative,emotions of fear,despair
+471,GerDracor/weidmann-der-dorfbarbier.xml,22348,22399,"Er dauert mich, der arme Mensch, ich könnte weinen.",negative,emotions of suffering,compassion
+472,GerDracor/weidmann-der-dorfbarbier.xml,22401,22439,"Trocknet sich die
+              Augen.",negative,emotions of suffering,suffering
+473,GerDracor/weidmann-der-dorfbarbier.xml,22440,22511,Gestern faßte ich sie liebreich am Arm und beschwor sie auf den Knieen.,positive,emotions of affection,love
+474,GerDracor/weidmann-der-dorfbarbier.xml,22512,22522,Und sie –?,emotional movement,emotional movement,emotional movement
+475,GerDracor/weidmann-der-dorfbarbier.xml,22523,22530,Lachte.,positive,emotions of joy,joy
+476,GerDracor/weidmann-der-dorfbarbier.xml,22531,22550,Die kleine Tigerin!,negative,emotions of rejection,fear
+477,GerDracor/weidmann-der-dorfbarbier.xml,22551,22605,"Schmerz, Liebe und Verzweiflung stiegen auf's Höchste.",emotional movement,emotions of suffering,despair
+478,GerDracor/weidmann-der-dorfbarbier.xml,22606,22701,"Als ich heute diesen Brief von
+            ihrer Hand erhielt – lesen Sie selbst Ihren Triumph!",positive,emotions of joy,joy
+479,GerDracor/weidmann-der-dorfbarbier.xml,22702,22763,"– Sie haben mir ein Herz geraubt,
+            das ich anbete.",positive,emotions of affection,admiration
+480,GerDracor/weidmann-der-dorfbarbier.xml,22764,22791,öffnet neugierig den Brief.,emotional movement,emotional movement,emotional movement
+481,GerDracor/weidmann-der-dorfbarbier.xml,22792,22821,"Ja, das ist ihre Handschrift!",positive,emotions of joy,joy
+482,GerDracor/weidmann-der-dorfbarbier.xml,22822,23035,"»Ich will mich mit zwei Worten auf ewig von Ihrer
+            ungestümen Zudringlichkeit befreien; ich sage Ihnen also hiermit kurz und nachdrücklich
+            – ich liebe meinen Vormund!« – O Du Herzensmädchen!",positive,emotions of affection,love
+483,GerDracor/weidmann-der-dorfbarbier.xml,23037,23043,Liest.,positive,emotional movement,emotional movement
+484,GerDracor/weidmann-der-dorfbarbier.xml,23044,23084,Dieser Brief hat mir das Herz gebrochen.,negative,emotions of suffering,suffering
+485,GerDracor/weidmann-der-dorfbarbier.xml,23085,23125,Lassen Sie's auf meine Kosten repariren.,negative,emotions of suffering,anger
+486,GerDracor/weidmann-der-dorfbarbier.xml,23126,23226,"Ich eilte in die Stadt, kaufte das stärkste Gift unter einem Vorwande und verschlang
+            es.",negative,emotions of suffering,"hate, disgust"
+487,GerDracor/weidmann-der-dorfbarbier.xml,23227,23241,Erschrecklich!,negative,emotions of suffering,fear
+488,GerDracor/weidmann-der-dorfbarbier.xml,23242,23255,Armer Joseph!,negative,emotions of suffering,compassion
+489,GerDracor/weidmann-der-dorfbarbier.xml,23256,23283,Was denken Sie nun zu thun?,negative,emotions of fear,fear
+490,GerDracor/weidmann-der-dorfbarbier.xml,23284,23326,Vor meinem Tode will ich mich noch rächen.,negative,emotions of fear,"hate, disgust"
+491,GerDracor/weidmann-der-dorfbarbier.xml,23327,23334,Rächen?,negative,emotional movement,emotional movement
+492,GerDracor/weidmann-der-dorfbarbier.xml,23335,23342,An wem?,emotional movement,emotional movement,emotional movement
+493,GerDracor/weidmann-der-dorfbarbier.xml,23343,23350,An mir?,emotional movement,emotional movement,emotional movement
+494,GerDracor/weidmann-der-dorfbarbier.xml,23351,23362,An Suschen?,emotional movement,emotional movement,emotional movement
+495,GerDracor/weidmann-der-dorfbarbier.xml,23364,23378,Springt davon.,negative,emotions of fear,fear
+496,GerDracor/weidmann-der-dorfbarbier.xml,23379,23397,Hören Sie mich an.,emotional movement,emotional movement,anger
+497,GerDracor/weidmann-der-dorfbarbier.xml,23398,23440,"Ein Herz, wie das meinige rächt sich edel.",positive,emotions of affection,admiration
+498,GerDracor/weidmann-der-dorfbarbier.xml,23441,23529,"Ich will mein geliebtes
+            Suschen zur Erbin meines ganzen Vermögens einsetzen.",positive,emotions of affection,love
+499,GerDracor/weidmann-der-dorfbarbier.xml,23530,23561,eilt auf ihn zu und umarmt ihn.,positive,emotions of affection,joy
+500,GerDracor/weidmann-der-dorfbarbier.xml,23562,23591,O Sie herzensliebster Joseph!,positive,emotions of affection,love
+501,GerDracor/weidmann-der-dorfbarbier.xml,23592,23688,"Das ist eine durchlauchtigte Handlung dergleichen man
+            keine in der Geschichte liest.",positive,emotions of affection,admiration
+502,GerDracor/weidmann-der-dorfbarbier.xml,23689,23722,Die Unsterblichkeit erwartet Sie.,positive,emotions of joy,joy
+503,GerDracor/weidmann-der-dorfbarbier.xml,23723,23833,"Ich komme also zu Ihnen, eine Stunde vor meinem Tode, meinen letzten Willen feierlich
+            zu erklären.",negative,emotions of affection,suffering
+504,GerDracor/weidmann-der-dorfbarbier.xml,23834,23884,Nur ein Umstand macht meine Schenkung zweifelhaft.,negative,emotions of fear,emotional movement
+505,GerDracor/weidmann-der-dorfbarbier.xml,23886,23942,"Es ist wahr, daran hab' ich selbst nicht gleich gedacht.",positive,emotions of suffering,suffering
+506,GerDracor/weidmann-der-dorfbarbier.xml,23943,24000,"Ich bin also gekommen, mich mit Ihnen zu be rathschlagen.",positive,emotions of joy,joy
+507,GerDracor/weidmann-der-dorfbarbier.xml,24002,24037,"Rund pocht von
+              außen.",negative,emotional movement,emotional movement
+508,GerDracor/weidmann-der-dorfbarbier.xml,24038,24048,Wer pocht?,negative,emotional movement,emotional movement
+509,GerDracor/weidmann-der-dorfbarbier.xml,24049,24059,von außen.,negative,emotions of suffering,suffering
+510,GerDracor/weidmann-der-dorfbarbier.xml,24060,24069,Herr Lux!,emotional movement,emotional movement,emotional movement
+511,GerDracor/weidmann-der-dorfbarbier.xml,24070,24121,"Das ist unser Schulmeister, soll ich ihn einlassen?",positive,emotions of rejection,anger
+512,GerDracor/weidmann-der-dorfbarbier.xml,24122,24156,Der Mensch scheint mir verdächtig.,negative,emotional movement,anger
+513,GerDracor/weidmann-der-dorfbarbier.xml,24157,24306,"Es ist ein grundehrlicher Mann und mein spezial guter Freund – ich dächte ein Mann von
+            seiner geprüften Gelehrsamkeit –  Nun meinetwegen!",positive,emotions of affection,friendship
+514,GerDracor/weidmann-der-dorfbarbier.xml,24308,24328,Lux öffnet die Thür.,negative,emotional movement,emotional movement
+515,GerDracor/weidmann-der-dorfbarbier.xml,24329,24363,"Herr Rund, Sie kommen wie gerufen.",positive,emotions of joy,joy
+516,GerDracor/weidmann-der-dorfbarbier.xml,24364,24484,"Dinge von der äußersten Wichtigkeit – aber geheim,
+            sehr geheim –  Legt den Finger an den
+              Mund.",emotional movement,emotional movement,emotional movement
+517,GerDracor/weidmann-der-dorfbarbier.xml,24485,24557,"Ich bin verschwiegen wie der Todte, den man heute im Bache gefunden hat.",negative,emotions of suffering,suffering
+518,GerDracor/weidmann-der-dorfbarbier.xml,24559,24616,"Joseph
+              setzt sich indeß und hängt den Kopf.",negative,emotional movement,suffering
+519,GerDracor/weidmann-der-dorfbarbier.xml,24617,24676,Dieser junge Mann hat heute aus Verzweiflung Gift genommen.,negative,emotions of fear,despair
+520,GerDracor/weidmann-der-dorfbarbier.xml,24677,24691,prallt zurück.,negative,emotions of rejection,suffering
+521,GerDracor/weidmann-der-dorfbarbier.xml,24692,24697,Gift?,emotional movement,emotional movement,emotional movement
+522,GerDracor/weidmann-der-dorfbarbier.xml,24698,24709,Nur stille.,negative,emotional movement,suffering
+523,GerDracor/weidmann-der-dorfbarbier.xml,24710,24777,Er ist Willens mein Suschen zur Erbin seines Vermögens einzusetzen.,positive,emotions of affection,love
+524,GerDracor/weidmann-der-dorfbarbier.xml,24778,24790,Das ist gut!,positive,emotions of joy,joy
+525,GerDracor/weidmann-der-dorfbarbier.xml,24791,24821,Ein Umstand macht uns Zweifel.,negative,emotions of fear,fear
+526,GerDracor/weidmann-der-dorfbarbier.xml,24822,24830,Der ist?,emotional movement,emotional movement,emotional movement
+527,GerDracor/weidmann-der-dorfbarbier.xml,24831,24887,Die Verwandten werden uns die Erbschaft streitig machen.,negative,emotions of rejection,anger
+528,GerDracor/weidmann-der-dorfbarbier.xml,24888,24900,nachdenkend.,emotional movement,emotional movement,emotional movement
+529,GerDracor/weidmann-der-dorfbarbier.xml,24901,24904,Hm!,emotional movement,emotional movement,emotional movement
+530,GerDracor/weidmann-der-dorfbarbier.xml,24905,24908,Hm!,emotional movement,emotional movement,emotional movement
+531,GerDracor/weidmann-der-dorfbarbier.xml,24909,24938,Da wüßt' ich wohl ein Mittel.,negative,emotions of suffering,anger
+532,GerDracor/weidmann-der-dorfbarbier.xml,24939,24964,"Göttlicher Mann, welches?",positive,emotional movement,emotional movement
+533,GerDracor/weidmann-der-dorfbarbier.xml,24965,25064,"Der arme Teufel stirbt in wenig Minuten; vermählen Sie ihn mit Suschen vor seinem
+            Tode.",negative,emotions of suffering,compassion
+534,GerDracor/weidmann-der-dorfbarbier.xml,25065,25075,Vermählen?,emotional movement,emotional movement,emotional movement
+535,GerDracor/weidmann-der-dorfbarbier.xml,25076,25132,"Aber – Sehen Sie denn nicht, daß er schon halb todt ist?",negative,emotions of suffering,despair
+536,GerDracor/weidmann-der-dorfbarbier.xml,25133,25178,"Es ist wahr, der Gedanke ist unvergleichlich!",positive,emotions of joy,joy
+537,GerDracor/weidmann-der-dorfbarbier.xml,25179,25230,Wer kann seiner Witwe das Vermögen streitig machen?,negative,emotions of fear,emotional movement
+538,GerDracor/weidmann-der-dorfbarbier.xml,25231,25345,"Ich setze die Schrift auf, Sie
+            rufen geschwind einige Zeugen und so geht alles in der Stille vor sich.",negative,emotional movement,emotional movement
+539,GerDracor/weidmann-der-dorfbarbier.xml,25346,25494,"Seh'n Sie mein
+            Gesangbuch – es war mir immer, als wenn mir Jemand zuriefe: Geh', hole Dein Gesangbuch,
+            Du wirst es brauchen.",positive,emotions of joy,joy
+540,GerDracor/weidmann-der-dorfbarbier.xml,25495,25511,Der arme Joseph!,negative,emotions of suffering,compassion
+541,GerDracor/weidmann-der-dorfbarbier.xml,25512,25539,"Sehen Sie, wie blaß er ist!",negative,emotions of suffering,compassion
+542,GerDracor/weidmann-der-dorfbarbier.xml,25540,25560,Er athmet kaum noch.,negative,emotions of fear,suffering
+543,GerDracor/weidmann-der-dorfbarbier.xml,25562,25586,"Zu
+              Joseph.",emotional movement,emotional movement,emotional movement
+544,GerDracor/weidmann-der-dorfbarbier.xml,25587,25595,schwach.,negative,emotions of suffering,suffering
+545,GerDracor/weidmann-der-dorfbarbier.xml,25596,25612,Es geht zu Ende!,negative,emotions of suffering,suffering
+546,GerDracor/weidmann-der-dorfbarbier.xml,25613,25676,"So müssen wir eilen, sonst stirbt er, ehe wir zu Stande kommen.",negative,emotions of fear,fear
+547,GerDracor/weidmann-der-dorfbarbier.xml,25677,25691,"– He, Suschen!",negative,emotions of rejection,emotional movement
+548,GerDracor/weidmann-der-dorfbarbier.xml,25692,25749,"– Ja,
+            wenn sie ihn sieht, so kommt sie nicht!",negative,emotions of affection,anger
+549,GerDracor/weidmann-der-dorfbarbier.xml,25750,25771,Ich will sie bereden.,negative,emotional movement,anger
+550,GerDracor/weidmann-der-dorfbarbier.xml,25773,25776,Ab.,negative,emotional movement,anger
+551,GerDracor/weidmann-der-dorfbarbier.xml,25777,25831,"Alles geht unvergleichlich –, der Gimpel ist gefangen.",positive,emotions of joy,joy
+552,GerDracor/weidmann-der-dorfbarbier.xml,25832,26077,"Ich will mir Wein und Schinken
+            geben lassen; dann springen Sie auf und verschlingen mit Heißhunger einige Stücke,
+            sinken auf einen Stuhl, thun, als wenn Sie entschliefen und nach einer Weile werden Sie
+            gesund.",negative,emotions of suffering,joy
+553,GerDracor/weidmann-der-dorfbarbier.xml,26078,26088,Man kommt!,positive,emotions of joy,joy
+554,GerDracor/weidmann-der-dorfbarbier.xml,26090,26114,Setzt sich und schreibt.,emotional movement,emotional movement,emotional movement
+555,GerDracor/weidmann-der-dorfbarbier.xml,26115,26157,"zerrt Suschen herein, welche sich sträubt.",negative,emotions of rejection,emotional movement
+556,GerDracor/weidmann-der-dorfbarbier.xml,26158,26221,"So gehe doch nur her, liebes Suschen, thue es mir nur zu Liebe.",positive,emotions of affection,love
+557,GerDracor/weidmann-der-dorfbarbier.xml,26222,26253,Ich will nichts von ihm wissen.,negative,emotions of rejection,anger
+558,GerDracor/weidmann-der-dorfbarbier.xml,26254,26315,"Schätzchen, ich bitte Dich, gieb mir den Beweis Deiner Liebe.",positive,emotions of affection,love
+559,GerDracor/weidmann-der-dorfbarbier.xml,26316,26346,"Nun wohlan, was soll ich thun?",negative,emotional movement,fear
+560,GerDracor/weidmann-der-dorfbarbier.xml,26347,26373,Diesen Menschen heirathen.,negative,emotions of joy,love
+561,GerDracor/weidmann-der-dorfbarbier.xml,26374,26399,"Nein, das thue ich nicht!",negative,emotions of rejection,fear
+562,GerDracor/weidmann-der-dorfbarbier.xml,26401,26411,Will fort.,negative,emotions of rejection,anger
+563,GerDracor/weidmann-der-dorfbarbier.xml,26412,26428,hält sie zurück.,emotional movement,emotions of suffering,emotional movement
+564,GerDracor/weidmann-der-dorfbarbier.xml,26429,26559,"Herzensmädchen, nur auf einen Augenblick sollst Du ihm die Hand reichen, es ist ja nur
+               Und wozu dieses Possenspiel?",positive,emotions of affection,love
+565,GerDracor/weidmann-der-dorfbarbier.xml,26560,26581,Gieb mir Deinen Ring.,positive,emotions of affection,love
+566,GerDracor/weidmann-der-dorfbarbier.xml,26583,26664,"Zieht ihr den Ring vom Finger und verwechselt ihn mit
+              Josephs Ring.",negative,emotions of rejection,love
+567,GerDracor/weidmann-der-dorfbarbier.xml,26665,26741,Der Schmiedegeselle ist verbunden; der arme Teufel ist häßlich verunstaltet.,negative,emotions of suffering,compassion
+568,GerDracor/weidmann-der-dorfbarbier.xml,26742,26797,"Bei ihm
+            heißt es: Mitgefangen, mitgehangen!",negative,emotions of suffering,joy
+569,GerDracor/weidmann-der-dorfbarbier.xml,26798,26823,"Es ist gut, daß Er kommt!",positive,emotions of joy,joy
+570,GerDracor/weidmann-der-dorfbarbier.xml,26824,26913,"Ruf Er mir geschwind die Nachbarn Thomas und Philipp, wenn
+            sie zu Hause sind.",negative,emotions of rejection,anger
+571,GerDracor/weidmann-der-dorfbarbier.xml,26914,26963,Sie stehen bei der Schenke und reden miteinander.,positive,emotional movement,anger
+572,GerDracor/weidmann-der-dorfbarbier.xml,26964,26987,Ich will's ihnen sagen.,negative,emotions of fear,anger
+573,GerDracor/weidmann-der-dorfbarbier.xml,26988,27058,"Wenn der
+            Bauer nicht muß, so rührt er weder Hand noch Fuß.",negative,emotions of rejection,anger
+574,GerDracor/weidmann-der-dorfbarbier.xml,27060,27063,Ab.,negative,emotional movement,anger
+575,GerDracor/weidmann-der-dorfbarbier.xml,27064,27072,Suschen!,negative,emotions of rejection,emotional movement
+576,GerDracor/weidmann-der-dorfbarbier.xml,27073,27147,"Hole Wein und Brot für die Geschworenen, auch Schinken nicht zu vergessen.",positive,emotions of rejection,joy
+577,GerDracor/weidmann-der-dorfbarbier.xml,27148,27187,"Ich will Ihnen helfen, Jungfer Suschen!",positive,emotions of fear,emotional movement
+578,GerDracor/weidmann-der-dorfbarbier.xml,27188,27234,"Hier Herr Lux, ist der Aufsatz vom Testamente.",negative,emotions of joy,emotional movement
+579,GerDracor/weidmann-der-dorfbarbier.xml,27247,27266,Lesen Sie indessen.,negative,emotions of joy,joy
+580,GerDracor/weidmann-der-dorfbarbier.xml,27268,27288,Geht mit Suschen ab.,negative,emotions of rejection,Schadenfreude
+581,GerDracor/weidmann-der-dorfbarbier.xml,27289,27312,nachdem er gelesen hat.,negative,emotional movement,suffering
+582,GerDracor/weidmann-der-dorfbarbier.xml,27313,27360,Der Aufsatz ist förmlich und nach den Gesetzen.,negative,emotions of rejection,anger
+583,GerDracor/weidmann-der-dorfbarbier.xml,27361,27430,"Sie erklären also Suschen zur
+            Besitzerin Ihres Vermögens?",emotional movement,emotional movement,emotional movement
+584,GerDracor/weidmann-der-dorfbarbier.xml,27431,27439,schwach.,negative,emotions of suffering,suffering
+585,GerDracor/weidmann-der-dorfbarbier.xml,27440,27454,Alles für sie!,positive,emotions of affection,love
+586,GerDracor/weidmann-der-dorfbarbier.xml,27455,27474,Wie ist Ihnen denn?,positive,emotional movement,emotional movement
+587,GerDracor/weidmann-der-dorfbarbier.xml,27476,27500,Fühlt ihm nach dem Puls.,negative,emotional movement,emotional movement
+588,GerDracor/weidmann-der-dorfbarbier.xml,27501,27539,Der Tod sitzt ihm schon auf der Zunge!,negative,emotions of fear,"hate, disgust"
+589,GerDracor/weidmann-der-dorfbarbier.xml,27540,27546,O weh!,negative,emotions of suffering,suffering
+590,GerDracor/weidmann-der-dorfbarbier.xml,27547,27574,Wie Feuer brennt die Lunge!,negative,emotions of suffering,suffering
+591,GerDracor/weidmann-der-dorfbarbier.xml,27575,27609,Das Gift zerreißt mein Eingeweid'!,negative,emotions of rejection,suffering
+592,GerDracor/weidmann-der-dorfbarbier.xml,27610,27645,"Er stirbt, es ist die höchste Zeit.",negative,emotions of fear,despair
+593,GerDracor/weidmann-der-dorfbarbier.xml,27646,27679,"Ach, wie das Gift im Leibe kocht!",negative,emotions of suffering,suffering
+594,GerDracor/weidmann-der-dorfbarbier.xml,27680,27717,"Ach, wie sein krankes Herz ihm pocht!",negative,emotions of suffering,suffering
+595,GerDracor/weidmann-der-dorfbarbier.xml,27718,27800,"Blaß ist sein Angesicht, Seht, wie das Aug' ihm bricht, Und Adam kommt noch nicht.",negative,emotions of suffering,suffering
+596,GerDracor/weidmann-der-dorfbarbier.xml,27801,27811,Bei Seite.,negative,emotional movement,emotional movement
+597,GerDracor/weidmann-der-dorfbarbier.xml,27812,27864,"Er stirbt mir ohne Zweifel, Es geht mit ihm zu End'.",negative,emotions of suffering,despair
+598,GerDracor/weidmann-der-dorfbarbier.xml,27865,27919,Die Erbschaft ist beim Teufel Mit sammt dem Testament.,negative,emotions of rejection,anger
+599,GerDracor/weidmann-der-dorfbarbier.xml,27920,27943,Adam und Bauern kommen.,negative,emotional movement,anger
+600,GerDracor/weidmann-der-dorfbarbier.xml,27944,27951,Dialog.,emotional movement,emotional movement,emotional movement
+601,GerDracor/weidmann-der-dorfbarbier.xml,27952,27976,"Ach, endlich kommen sie!",positive,emotions of joy,joy
+602,GerDracor/weidmann-der-dorfbarbier.xml,27977,28072,"Mein lieber Herr Joseph, suchen Sie sich ein wenig stärker zu
+            machen, als Sie sind.",positive,emotions of rejection,love
+603,GerDracor/weidmann-der-dorfbarbier.xml,28073,28108,Ich will alle meine Kräfte sammeln.,negative,emotions of fear,emotional movement
+604,GerDracor/weidmann-der-dorfbarbier.xml,28109,28120,Nur herein!,negative,emotions of fear,fear
+605,GerDracor/weidmann-der-dorfbarbier.xml,28121,28162,Fromme Schafe gehen viele in einen Stall.,positive,emotions of joy,joy
+606,GerDracor/weidmann-der-dorfbarbier.xml,28163,28200,"Herr Lux, worinnen können wir dienen?",emotional movement,emotional movement,emotional movement
+607,GerDracor/weidmann-der-dorfbarbier.xml,28201,28221,Bin allezeit bereit.,positive,emotions of fear,joy
+608,GerDracor/weidmann-der-dorfbarbier.xml,28222,28250,"Schönen Dank, meine Freunde!",positive,emotions of joy,joy
+609,GerDracor/weidmann-der-dorfbarbier.xml,28251,28290,"Zuerst ein Glas Wein – Suschen, hurtig!",positive,emotional movement,emotional movement
+610,GerDracor/weidmann-der-dorfbarbier.xml,28291,28304,"Adam, Stühle!",negative,emotional movement,emotional movement
+611,GerDracor/weidmann-der-dorfbarbier.xml,28320,28369,"Die Bauern setzen sich, jeder zu einem Glas Wein.",negative,emotional movement,anger
+612,GerDracor/weidmann-der-dorfbarbier.xml,28370,28391,Bin lebendiger Zeuge.,negative,emotions of suffering,anger
+613,GerDracor/weidmann-der-dorfbarbier.xml,28392,28426,Kann's mit einem Eide bekräftigen.,positive,emotions of affection,admiration
+614,GerDracor/weidmann-der-dorfbarbier.xml,28427,28676,"Weil es dem Himmel gefallen hat, habe ich mich entschlossen, als Pflegevater meiner
+            lieben Mündel, sie mit einem wackern Mann zu verheirathen; und da ich die Neigung des
+            Herrn Joseph kenne, so ist meine Wahl auf den gefallen.",positive,emotions of affection,love
+615,GerDracor/weidmann-der-dorfbarbier.xml,28677,28777,"Es fehlen freilich einige
+            Formalitäten, aber der Bräutigam hat eine dringende Reise vor.",emotional movement,emotional movement,emotional movement
+616,GerDracor/weidmann-der-dorfbarbier.xml,28778,28845,"Wir wollen jetzt in's
+            Himmelsnamen zum Werke schreiten.",positive,emotions of joy,admiration
+617,GerDracor/weidmann-der-dorfbarbier.xml,28846,28854,trinken.,negative,emotions of suffering,suffering
+618,GerDracor/weidmann-der-dorfbarbier.xml,28855,28877,Es lebe das Brautpaar!,positive,emotions of joy,joy
+619,GerDracor/weidmann-der-dorfbarbier.xml,28878,28885,trinkt.,positive,emotions of suffering,suffering
+620,GerDracor/weidmann-der-dorfbarbier.xml,28886,28896,Sie leben.,positive,emotions of affection,love
+621,GerDracor/weidmann-der-dorfbarbier.xml,28897,28924,Gelehrten ist gut predigen.,positive,emotions of affection,anger
+622,GerDracor/weidmann-der-dorfbarbier.xml,28925,28977,"Liebt Euch, meine Kinder, und der Himmel segne Euch!",positive,emotions of affection,love
+623,GerDracor/weidmann-der-dorfbarbier.xml,28978,29030,Alles hat seine Richtigkeit; jetzt zur Unterschrift!,positive,emotions of joy,joy
+624,GerDracor/weidmann-der-dorfbarbier.xml,29031,29117,"– Zuerst Herr Lux – dann der
+            Bräutigam und die Braut – hernach die Zeugen.",emotional movement,emotional movement,anger
+625,GerDracor/weidmann-der-dorfbarbier.xml,29118,29180,"Zum Glück sind es Geschworne und können
+            schreiben.",negative,emotions of joy,joy
+626,GerDracor/weidmann-der-dorfbarbier.xml,29181,29202,Daran fehlt es nicht.,positive,emotions of affection,joy
+627,GerDracor/weidmann-der-dorfbarbier.xml,29203,29241,Trag' Er Jedem ein Maß Bier in's Haus.,positive,emotions of joy,joy
+628,GerDracor/weidmann-der-dorfbarbier.xml,29243,29277,"Alle
+              unterschreiben.",negative,emotions of joy,anger
+629,GerDracor/weidmann-der-dorfbarbier.xml,29278,29298,gehen mit Adam fort.,negative,emotions of rejection,anger
+630,GerDracor/weidmann-der-dorfbarbier.xml,29299,29316,Wir danken schön!,positive,emotions of joy,joy
+631,GerDracor/weidmann-der-dorfbarbier.xml,29317,29360,Dies Geschäft wäre nun glücklich vollendet.,positive,emotions of joy,joy
+632,GerDracor/weidmann-der-dorfbarbier.xml,29361,29385,"Herr Rund, auf ein Wort.",negative,emotional movement,emotional movement
+633,GerDracor/weidmann-der-dorfbarbier.xml,29386,29470,"Ich denke, wir
+            dürfen unsern Kranken nicht mehr aus dem Gesichte lassen.",negative,emotions of suffering,compassion
+634,GerDracor/weidmann-der-dorfbarbier.xml,29471,29537,Das wäre ein Fehler wider die Politik; lassen Sie mich nur machen!,negative,emotions of rejection,anger
+635,GerDracor/weidmann-der-dorfbarbier.xml,29538,29599,"Jetzt will ich ihn
+            zur letzten Reise vorbereiten.",negative,emotions of fear,despair
+636,GerDracor/weidmann-der-dorfbarbier.xml,29600,29689,"Führen Sie ihr Suschen weg, der Sterbende möchte
+            gräßliche Grimmassen machen.",negative,emotions of suffering,despair
+637,GerDracor/weidmann-der-dorfbarbier.xml,29690,29702,Wohlgedacht!,positive,emotions of fear,joy
+638,GerDracor/weidmann-der-dorfbarbier.xml,29703,29811,"Komm, Suschen, wir wollen diese Herren allein lassen, sie haben wichtige
+            Geschäfte mit einander.",negative,emotions of rejection,emotional movement
+639,GerDracor/weidmann-der-dorfbarbier.xml,29812,29872,"Geht mit Suschen in's Nebenzimmer, guckt aber öfters heraus.",positive,emotions of rejection,emotional movement
+640,GerDracor/weidmann-der-dorfbarbier.xml,29873,30024,"Rund setzt sich gravitätisch an den Tisch, schlägt das Buch auf, nimmt die Brille
+            und beginnt in salmodirenden Tone zu singen  mit Salbung.",positive,emotions of suffering,suffering
+641,GerDracor/weidmann-der-dorfbarbier.xml,30025,30027,1.,positive,emotions of rejection,emotional movement
+642,GerDracor/weidmann-der-dorfbarbier.xml,30028,30190,"Gedenk, o Mensch, du bist aus Staub, Dein Leib wird einst der Würmer Raub, Das Kind, der Jüngling und der Greis Muß  Das modernde Gebein Bedeckt der Leichenstein.",negative,emotions of suffering,despair
+643,GerDracor/weidmann-der-dorfbarbier.xml,30191,30201,Er trinkt.,negative,emotions of suffering,suffering
+644,GerDracor/weidmann-der-dorfbarbier.xml,30202,30209,Dialog.,emotional movement,emotional movement,emotional movement
+645,GerDracor/weidmann-der-dorfbarbier.xml,30210,30222,springt auf.,emotional movement,emotional movement,emotional movement
+646,GerDracor/weidmann-der-dorfbarbier.xml,30223,30228,Luft!,negative,emotional movement,emotional movement
+647,GerDracor/weidmann-der-dorfbarbier.xml,30229,30234,Luft!,negative,emotional movement,emotional movement
+648,GerDracor/weidmann-der-dorfbarbier.xml,30236,30349,"Eilt zum Tisch und verschlingt gierig den Schinken, setzt sich dann
+              nieder und beginnt zu schlafen.",positive,emotions of rejection,Schadenfreude
+649,GerDracor/weidmann-der-dorfbarbier.xml,30350,30376,"der es sieht, eilt herbei.",negative,emotions of rejection,fear
+650,GerDracor/weidmann-der-dorfbarbier.xml,30377,30411,Um des Himmels willen was ist das?,emotional movement,emotions of fear,emotional movement
+651,GerDracor/weidmann-der-dorfbarbier.xml,30412,30474,"Lassen Sie ihn nur austoben; sehen Sie, er wird schon sanfter.",negative,emotions of joy,joy
+652,GerDracor/weidmann-der-dorfbarbier.xml,30475,30505,Ich will den Ausgang abwarten.,negative,emotional movement,fear
+653,GerDracor/weidmann-der-dorfbarbier.xml,30507,30510,Ab.,negative,emotional movement,anger
+654,GerDracor/weidmann-der-dorfbarbier.xml,30511,30513,2.,positive,emotions of joy,suffering
+655,GerDracor/weidmann-der-dorfbarbier.xml,30514,30584,"O Mensch, der Schöpfung Meisterstück, Wirf in die Zukunft einen Blick.",positive,emotions of affection,admiration
+656,GerDracor/weidmann-der-dorfbarbier.xml,30585,30646,"Die Seele krönt Unsterblichkeit, Sie wandert in die Ewigkeit.",positive,emotions of joy,admiration
+657,GerDracor/weidmann-der-dorfbarbier.xml,30647,30699,Und schwingt sich freudenvoll Hinauf zum Sternenpol.,positive,emotions of joy,joy
+658,GerDracor/weidmann-der-dorfbarbier.xml,30700,30710,Er trinkt.,negative,emotions of suffering,suffering
+659,GerDracor/weidmann-der-dorfbarbier.xml,30711,30718,Dialog.,emotional movement,emotional movement,emotional movement
+660,GerDracor/weidmann-der-dorfbarbier.xml,30719,30736,schleicht herein.,negative,emotions of rejection,anger
+661,GerDracor/weidmann-der-dorfbarbier.xml,30737,30760,Er scheint zu schlafen.,negative,emotional movement,emotional movement
+662,GerDracor/weidmann-der-dorfbarbier.xml,30761,30789,Vermuthlich der Todesschlaf.,negative,emotions of suffering,despair
+663,GerDracor/weidmann-der-dorfbarbier.xml,30791,30801,tritt ein.,negative,emotional movement,emotional movement
+664,GerDracor/weidmann-der-dorfbarbier.xml,30802,30822,Alles ist geschehen!,negative,emotions of suffering,joy
+665,GerDracor/weidmann-der-dorfbarbier.xml,30823,30826,St!,emotional movement,emotions of rejection,emotional movement
+666,GerDracor/weidmann-der-dorfbarbier.xml,30827,30830,St!,emotional movement,emotions of rejection,emotional movement
+667,GerDracor/weidmann-der-dorfbarbier.xml,30831,30864,Hält ihm den Finger auf den Mund.,negative,emotions of rejection,anger
+668,GerDracor/weidmann-der-dorfbarbier.xml,30865,30884,"Adam, komm' Er her!",negative,emotions of fear,emotional movement
+669,GerDracor/weidmann-der-dorfbarbier.xml,30885,30963,"Sehe Er einmal, so sieht ein Mensch aus, wenn er die Welt
+            verläßt.",negative,emotions of suffering,suffering
+670,GerDracor/weidmann-der-dorfbarbier.xml,30964,30981,mit offnem Munde.,negative,emotional movement,emotional movement
+671,GerDracor/weidmann-der-dorfbarbier.xml,30982,31014,Der Tod sieht ihm aus den Augen.,negative,emotions of fear,despair
+672,GerDracor/weidmann-der-dorfbarbier.xml,31015,31045,wie aus einem Traum erwachend.,emotional movement,emotional movement,emotional movement
+673,GerDracor/weidmann-der-dorfbarbier.xml,31046,31057,Wo bin ich?,emotional movement,emotional movement,emotional movement
+674,GerDracor/weidmann-der-dorfbarbier.xml,31058,31067,Leb' ich?,negative,emotions of fear,emotional movement
+675,GerDracor/weidmann-der-dorfbarbier.xml,31068,31178,"Aller Schmerz von mir gewichen, – ich bin munter – jugendlich –
+            stark – ach, wie leicht athme ich.",positive,emotions of suffering,joy
+676,GerDracor/weidmann-der-dorfbarbier.xml,31179,31197,Welch' ein Wunder?,emotional movement,emotional movement,emotional movement
+677,GerDracor/weidmann-der-dorfbarbier.xml,31198,31221,Das begreife ich nicht.,emotional movement,emotional movement,emotional movement
+678,GerDracor/weidmann-der-dorfbarbier.xml,31222,31261,"Herr Lux, haben Sie ihm Arznei gegeben?",emotional movement,emotional movement,compassion
+679,GerDracor/weidmann-der-dorfbarbier.xml,31262,31282,Nicht einen Tropfen.,negative,emotions of suffering,suffering
+680,GerDracor/weidmann-der-dorfbarbier.xml,31283,31291,Tausend!,positive,emotions of joy,joy
+681,GerDracor/weidmann-der-dorfbarbier.xml,31292,31312,Jetzt fällt mir ein.,emotional movement,emotional movement,emotional movement
+682,GerDracor/weidmann-der-dorfbarbier.xml,31313,31396,"– Haben Sie nicht gesehen, wie hastig er den Schinken
+            verschlungen hat?",negative,emotions of suffering,emotional movement
+683,GerDracor/weidmann-der-dorfbarbier.xml,31397,31414,War das Schinken?,emotional movement,emotional movement,emotional movement
+684,GerDracor/weidmann-der-dorfbarbier.xml,31415,31438,O jetzt weiß ich Alles!,negative,emotions of joy,anger
+685,GerDracor/weidmann-der-dorfbarbier.xml,31439,31477,O göttliches  Wo ist denn meine Braut?,positive,emotional movement,fear
+686,GerDracor/weidmann-der-dorfbarbier.xml,31478,31507,Kommen Sie geliebtes Suschen.,positive,emotions of affection,joy
+687,GerDracor/weidmann-der-dorfbarbier.xml,31508,31546,Suschen geht zu Joseph und umarmt ihn.,positive,emotions of affection,love
+688,GerDracor/weidmann-der-dorfbarbier.xml,31547,31567,"Sachte, Herr Joseph!",emotional movement,emotional movement,emotional movement
+689,GerDracor/weidmann-der-dorfbarbier.xml,31568,31599,Die Hitze könnte Ihnen schaden!,negative,emotions of rejection,fear
+690,GerDracor/weidmann-der-dorfbarbier.xml,31600,31648,"Jetzt geht es aus einem andern
+            Tone!",negative,emotions of rejection,anger
+691,GerDracor/weidmann-der-dorfbarbier.xml,31649,31677,Aus der Heirath wird nichts.,negative,emotions of suffering,suffering
+692,GerDracor/weidmann-der-dorfbarbier.xml,31678,31869,"Da der Himmel durch seinen Diener Lux an mir seine Güte übte, so kann ich nicht
+            undankbar sein und eine Verbindung trennen, die ich als ein heiliges Gelübde
+            betrachte.",positive,emotions of affection,admiration
+693,GerDracor/weidmann-der-dorfbarbier.xml,31870,31883,Wie wäre das?,emotional movement,emotional movement,emotional movement
+694,GerDracor/weidmann-der-dorfbarbier.xml,31884,31905,Zum Wetter Herr Rund!,negative,emotional movement,anger
+695,GerDracor/weidmann-der-dorfbarbier.xml,31906,31943,"Vermeiden Sie das Aufsehen, Herr Lux.",negative,emotional movement,emotional movement
+696,GerDracor/weidmann-der-dorfbarbier.xml,31944,32014,"Sie wissen den weisen Spruch: Was der Himmel
+            zusammenfügt.",positive,emotions of joy,love
+697,GerDracor/weidmann-der-dorfbarbier.xml,32015,32049,sollen die Menschen nicht trennen.,positive,emotions of suffering,friendship
+698,GerDracor/weidmann-der-dorfbarbier.xml,32050,32071,Ich war ein Dummkopf!,negative,emotions of rejection,"hate, disgust"
+699,GerDracor/weidmann-der-dorfbarbier.xml,32072,32089,Höll' und Teufel!,negative,emotions of rejection,emotional movement
+700,GerDracor/weidmann-der-dorfbarbier.xml,32090,32125,Darinnen liegt eben das Wunderbere!,positive,emotions of joy,emotional movement
+701,GerDracor/weidmann-der-dorfbarbier.xml,32126,32160,Ehen werden im Himmel geschlossen!,positive,emotions of affection,joy
+702,GerDracor/weidmann-der-dorfbarbier.xml,32161,32313,"Sie, Herr Lux,
+            als der größte Kenner der Natur, als ein außerordentliches Genie, sind vom Schicksal zu
+            höhern Arbeiten bestimmt.",positive,emotions of affection,admiration
+703,GerDracor/weidmann-der-dorfbarbier.xml,32314,32357,Sie sollen nur für die Menschheit arbeiten.,positive,emotions of rejection,admiration
+704,GerDracor/weidmann-der-dorfbarbier.xml,32358,32383,Sie öffnen mir die Augen.,positive,emotions of affection,joy
+705,GerDracor/weidmann-der-dorfbarbier.xml,32384,32423,Ich will mich dem Vaterlande aufopfern.,positive,emotions of affection,friendship
+706,GerDracor/weidmann-der-dorfbarbier.xml,32424,32431,Fieber!,negative,emotions of suffering,suffering
+707,GerDracor/weidmann-der-dorfbarbier.xml,32432,32439,– Gift!,negative,emotions of rejection,"hate, disgust"
+708,GerDracor/weidmann-der-dorfbarbier.xml,32440,32463,– Vielleicht auch Pest!,negative,emotions of fear,"hate, disgust"
+709,GerDracor/weidmann-der-dorfbarbier.xml,32464,32496,Wenn nur jetzt gleich Pest wäre!,negative,emotions of rejection,"hate, disgust"
+710,GerDracor/weidmann-der-dorfbarbier.xml,32497,32564,"Schinken, die Wunderarznei wider Fieber, Gift und
+            Pest.",positive,emotions of joy,"hate, disgust"
+711,GerDracor/weidmann-der-dorfbarbier.xml,32565,32593,– Du verewigst meinen Namen!,negative,emotions of suffering,admiration
+712,GerDracor/weidmann-der-dorfbarbier.xml,32594,32700,"Küsset, Freunde, dieses Buch, in welchem ich für die
+            Nachwelt den Stein der Weisen aufbewahre!",positive,emotions of affection,friendship
+713,GerDracor/weidmann-der-dorfbarbier.xml,32702,32768,"Reicht Das Buch einem Jeden zum Kusse –
+              Rund zuerst.",positive,emotions of affection,joy
+714,GerDracor/weidmann-der-dorfbarbier.xml,32769,32898,"Es lebe Lux, der Wundermann, Der Gift und Pest vertreiben kann, Er leb', gekrönt mit Ehr' und Ruhm, Berühmt bis in das Alterthum!",positive,emotions of affection,admiration

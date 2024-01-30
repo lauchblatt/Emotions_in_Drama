@@ -1,0 +1,593 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/goethe-der-grosskophta.xml,0,19, Erleuchteter Saal.,emotional movement,emotional movement,emotional movement
+1,GerDracor/goethe-der-grosskophta.xml,20,137,"Im Grunde des Theaters an einem Tische eine Gesellschaft von zwölf bis funfzehn
+            Personen beim Abendessen.",negative,emotional movement,joy
+2,GerDracor/goethe-der-grosskophta.xml,138,319,"An der rechten Seite sitzt der Domherr, neben ihm hinterwärts
+            die Marquise, dann folgt eine bunte Reihe; der letzte Mann auf der linken Seite ist der
+            Ritter.",positive,emotions of joy,emotional movement
+3,GerDracor/goethe-der-grosskophta.xml,320,383,"Das Dessert wird aufgetragen, und die Bedienten entfernen sich.",positive,emotional movement,joy
+4,GerDracor/goethe-der-grosskophta.xml,384,467,"Der Domherr
+            steht auf und geht nachdenklich am Proscenio bin und wider.",emotional movement,emotional movement,emotional movement
+5,GerDracor/goethe-der-grosskophta.xml,468,533,"Die Gesellschaft scheint
+            sich von ihm zu unterhalten.",positive,emotions of joy,joy
+6,GerDracor/goethe-der-grosskophta.xml,534,581,Endlich steht die Marquise auf und geht zu ihm.,positive,emotional movement,joy
+7,GerDracor/goethe-der-grosskophta.xml,582,673,"Die
+            Ouvertüre, welche bis dahin fortgedauert, hört auf, und der Dialog beginnt.",emotional movement,emotional movement,emotional movement
+8,GerDracor/goethe-der-grosskophta.xml,674,711,"Ist es erlaubt, so zerstreut zu sein?",emotional movement,emotional movement,emotional movement
+9,GerDracor/goethe-der-grosskophta.xml,712,813,"gute Gesellschaft zu fliehen, seinen Freunden
+              die Lust traulicher Stunden zu verderben?",negative,emotions of joy,suffering
+10,GerDracor/goethe-der-grosskophta.xml,814,946,"Glauben Sie, daß wir scherzen und genießen
+              können, wenn unser Wirt den Tisch verläßt, den er so gefällig bereitet hat?",positive,emotions of joy,joy
+11,GerDracor/goethe-der-grosskophta.xml,947,1032,"Schon
+              diesen ganzen Abend scheinen Sie nur dem Körper nach gegenwärtig.",positive,emotions of suffering,emotional movement
+12,GerDracor/goethe-der-grosskophta.xml,1033,1402,"Noch hofften wir
+              gegen das Ende der Tafel, jetzt, da sich die Bedienten entfernt haben, Sie heiter,
+              offen zu sehen, und Sie stehen auf, Sie treten von uns weg und gehen hier am andern
+              Ende des Saals gedankenvoll auf und nieder, als wenn nichts in der Nähe wäre, das Sie
+              interessieren, das Sie beschäftigen könnte.",emotional movement,emotional movement,emotional movement
+13,GerDracor/goethe-der-grosskophta.xml,1403,1434,"Sie fragen, was mich zerstreut?",emotional movement,emotional movement,emotional movement
+14,GerDracor/goethe-der-grosskophta.xml,1435,1535,"Marquise, meine Lage ist Ihnen bekannt – wäre es ein
+              Wunder, wenn ich von Sinnen käme?",negative,emotions of suffering,emotional movement
+15,GerDracor/goethe-der-grosskophta.xml,1536,1669,"Ist es möglich, daß ein menschlicher Geist, ein
+              menschliches Herz von mehr Seiten bestürmt werden kann als das meinige!",positive,emotional movement,emotional movement
+16,GerDracor/goethe-der-grosskophta.xml,1670,1737,"Welche Natur
+              muß ich haben, daß sie nicht unterliegt!",negative,emotions of affection,love
+17,GerDracor/goethe-der-grosskophta.xml,1738,1813,"Sie wissen, was mich aus der Fassung bringt,
+              und fragen mich?",emotional movement,emotional movement,emotional movement
+18,GerDracor/goethe-der-grosskophta.xml,1814,1860,"Aufrichtig, so ganz klar seh ich es nicht ein.",positive,emotions of suffering,emotional movement
+19,GerDracor/goethe-der-grosskophta.xml,1861,1923,"Geht doch alles, wie Sie es nur
+              wünschen können!",positive,emotions of joy,joy
+20,GerDracor/goethe-der-grosskophta.xml,1924,1963,"Und diese Erwartung, diese Ungewißheit?",emotional movement,emotions of fear,fear
+21,GerDracor/goethe-der-grosskophta.xml,1964,2003,Wird doch wenige Tage zu ertragen sein?,negative,emotions of suffering,suffering
+22,GerDracor/goethe-der-grosskophta.xml,2004,2172,"– Hat nicht der Graf, unser großer Lehrer und
+              Meister, versprochen, uns alle und Sie besonders weiter vorwärts in die Geheimnisse zu
+              führen?",positive,emotions of affection,admiration
+23,GerDracor/goethe-der-grosskophta.xml,2173,2320,"Hat er nicht den Durst nach geheimer Wissenschaft, der uns alle quält, zu
+              stillen, jeden nach seinem Maße zu befriedigen versprochen?",negative,emotions of rejection,suffering
+24,GerDracor/goethe-der-grosskophta.xml,2321,2390,"Und können wir zweifeln,
+              daß er sein Wort halten werde?",negative,emotions of fear,fear
+25,GerDracor/goethe-der-grosskophta.xml,2391,2395,Gut!,positive,emotions of joy,joy
+26,GerDracor/goethe-der-grosskophta.xml,2396,2403,er hat.,emotional movement,emotions of joy,love
+27,GerDracor/goethe-der-grosskophta.xml,2404,2530,"– Verbot er aber nicht zugleich alle Zusammenkünfte, wie eben die ist,
+              die wir jetzt hinter seinem Rücken wagen?",negative,emotions of rejection,emotional movement
+28,GerDracor/goethe-der-grosskophta.xml,2531,2703,"Gebot er uns nicht Fasten, Eingezogenheit,
+              Enthaltsamkeit, strenge Sammlung und stille Betrachtung der Lehren, die er uns schon
+              überliefert hat?",emotional movement,emotions of suffering,suffering
+29,GerDracor/goethe-der-grosskophta.xml,2704,2948,"– Und ich bin leichtsinnig genug, heimlich in diesem Gartenhause eine
+              fröhliche Gesellschaft zu versammeln, diese Nacht der Freude zu weihen, in der ich
+              mich zu einer großen und heiligen Erscheinung vorbereiten soll!",positive,emotions of joy,joy
+30,GerDracor/goethe-der-grosskophta.xml,2949,3031,"– Schon mein Gewissen
+              ängstiget mich, wenn er es auch nicht erführe.",negative,emotions of fear,fear
+31,GerDracor/goethe-der-grosskophta.xml,3032,3189,"Und wenn ich nun gar bedenke, daß seine
+              Geister ihm gewiß alles verraten, daß er vielleicht auf dem Wege ist, uns zu
+              überraschen!",negative,emotions of joy,fear
+32,GerDracor/goethe-der-grosskophta.xml,3190,3226,– Wer kann vor seinem Zorn bestehen?,negative,emotions of rejection,anger
+33,GerDracor/goethe-der-grosskophta.xml,3227,3298,"– Ich würde vor Scham zu Boden
+              sinken – jeden Augenblick!",negative,emotions of suffering,"hate, disgust"
+34,GerDracor/goethe-der-grosskophta.xml,3299,3355,"– es scheint mir, ich höre ihn; ich höre reiten, fahren.",emotional movement,emotional movement,emotional movement
+35,GerDracor/goethe-der-grosskophta.xml,3373,3395,Er eilt nach der Türe.,negative,emotions of fear,emotional movement
+36,GerDracor/goethe-der-grosskophta.xml,3396,3405,für sich.,positive,emotions of joy,emotional movement
+37,GerDracor/goethe-der-grosskophta.xml,3406,3413,O Graf!,negative,emotions of suffering,emotional movement
+38,GerDracor/goethe-der-grosskophta.xml,3414,3449,du bist ein unnachahmlicher Schelm!,positive,emotions of rejection,Schadenfreude
+39,GerDracor/goethe-der-grosskophta.xml,3450,3479,Der meisterhafteste Betrüger!,negative,emotions of rejection,"hate, disgust"
+40,GerDracor/goethe-der-grosskophta.xml,3480,3551,"Immer hab
+              ich dich im Auge, und täglich lern ich von dir!",positive,emotions of affection,friendship
+41,GerDracor/goethe-der-grosskophta.xml,3552,3646,"Wie er die Leidenschaft dieses jungen
+              Mannes zu brauchen, sie zu vermehren weiß!",positive,emotions of affection,love
+42,GerDracor/goethe-der-grosskophta.xml,3647,3738,"Wie er sich seiner ganzen Seele bemächtigt
+              hat und ihm unumschränkt gebietet!",positive,emotions of rejection,admiration
+43,GerDracor/goethe-der-grosskophta.xml,3739,3784,"Wir wollen sehen, ob unsre Nachahmung glückt.",positive,emotions of joy,joy
+44,GerDracor/goethe-der-grosskophta.xml,3785,3810,Der Domherr kommt zurück.,negative,emotions of suffering,joy
+45,GerDracor/goethe-der-grosskophta.xml,3811,3836,Bleiben Sie außer Sorgen.,negative,emotions of fear,fear
+46,GerDracor/goethe-der-grosskophta.xml,3837,3936,"Der Graf weiß viel; all wissend ist er nicht, und dieses
+              Fest soll er nicht erfahren.",negative,emotional movement,anger
+47,GerDracor/goethe-der-grosskophta.xml,3937,4353,"– Seit vierzehn Tagen habe ich Sie, habe ich unsre
+              Freunde nicht gesehen, habe mich vierzehn Tage in einem elenden Landhause verborgen
+              gehalten, manche langweilige Stunde ausdauern müssen, nur um in der Nähe unsrer
+              angebeteten Prinzessin zu sein, manchmal ein Stündchen ihr heimlich aufzuwarten und
+              von den Angelegenheiten eines geliebten Freundes zu sprechen.",emotional movement,emotions of affection,suffering
+48,GerDracor/goethe-der-grosskophta.xml,4354,4639,"Heute kehre ich nach der
+              Stadt zurück, und es war sehr freundlich von Ihnen, daß Sie mir auf halbem Wege, hier
+              in diesem angenehmen Landhause, ein Gastmahl bereiteten, mir entgegenkamen und meine
+              besten Freunde zu meinem Empfange versammelten.",positive,emotions of joy,joy
+49,GerDracor/goethe-der-grosskophta.xml,4640,4719,"Gewiß, Sie sind der guten Nachrichten
+              wert, die ich Ihnen bringe.",positive,emotions of affection,joy
+50,GerDracor/goethe-der-grosskophta.xml,4720,4763,"Sie sind ein warmer, ein angenehmer Freund.",positive,emotions of affection,friendship
+51,GerDracor/goethe-der-grosskophta.xml,4764,4892,"Sie sind
+              glücklich, Sie werden glücklich sein; nur wünschte ich, daß Sie auch Ihres Glücks
+              genössen.",positive,emotions of joy,joy
+52,GerDracor/goethe-der-grosskophta.xml,4893,4923,"Es wird sich bald geben, bald!",positive,emotions of joy,joy
+53,GerDracor/goethe-der-grosskophta.xml,4924,4952,"Kommen Sie, setzen Sie sich.",positive,emotional movement,emotional movement
+54,GerDracor/goethe-der-grosskophta.xml,4953,5091,"Der Graf ist abwesend, seine vierzigtägigen Fasten in
+              der Einsamkeit auszuhalten und sich zu dem großen Werke vorzubereiten.",negative,emotions of suffering,suffering
+55,GerDracor/goethe-der-grosskophta.xml,5092,5192,"Er erfährt
+              unsre Zusammenkunft nicht, sowenig er unser großes Geheimnis erfahren darf.",negative,emotions of affection,suffering
+56,GerDracor/goethe-der-grosskophta.xml,5210,5221,Bedenklich.,negative,emotions of suffering,fear
+57,GerDracor/goethe-der-grosskophta.xml,5222,5378,"Ich hange ganz von ihrem Willen ab; auch dieses schwere Gebot will ich erfüllen, ob
+              ich gleich überzeugt bin, daß ihre Furcht ungegründet ist.",positive,emotions of fear,fear
+58,GerDracor/goethe-der-grosskophta.xml,5379,5445,"Dieser große Mann würde uns
+              eher nützen als schaden.",positive,emotions of affection,admiration
+59,GerDracor/goethe-der-grosskophta.xml,5446,5529,"Vor ihm sind alle  Ich kann nur sagen, daß es die Prinzessin ausdrücklich verlangt.",negative,emotions of rejection,admiration
+60,GerDracor/goethe-der-grosskophta.xml,5530,5537,Es sei.,negative,emotional movement,love
+61,GerDracor/goethe-der-grosskophta.xml,5538,5598,"Ich gehorche ihr, und wenn ich mich zugrunde richten sollte.",negative,emotions of affection,admiration
+62,GerDracor/goethe-der-grosskophta.xml,5599,5733,"Und wir bewahren unser Geheimnis leicht, da niemand auch nur von ferne vermuten kann,
+              daß die Prinzessin Sie begünstigt.",positive,emotions of affection,admiration
+63,GerDracor/goethe-der-grosskophta.xml,5734,5802,"Gewiß, jedermann glaubt mich in Ungnade, auf ewig vom Hofe entfernt.",negative,emotions of rejection,suffering
+64,GerDracor/goethe-der-grosskophta.xml,5803,5889,"Mitleidig, ja
+              verachtend sind die Blicke der Menschen, die mir begegnen.",negative,emotions of suffering,"hate, disgust"
+65,GerDracor/goethe-der-grosskophta.xml,5890,6047,"Nur durch einen großen
+              Aufwand, durch Ansehn meiner Freunde, durch Unterstützung mancher Unzufriedenen
+              erhalte ich mich aufrecht.",negative,emotions of suffering,suffering
+66,GerDracor/goethe-der-grosskophta.xml,6048,6153,"Gebe der Himmel, daß meine Hoffnungen nicht trügen, daß
+              dein Versprechen in Erfüllung gehe!",positive,emotions of joy,love
+67,GerDracor/goethe-der-grosskophta.xml,6154,6171,Mein Versprechen?,emotional movement,emotional movement,emotional movement
+68,GerDracor/goethe-der-grosskophta.xml,6172,6213,"– Sagen Sie nicht mehr so, bester Freund.",positive,emotions of affection,friendship
+69,GerDracor/goethe-der-grosskophta.xml,6214,6421,"Bisher war es mein
+              Versprechen; aber seit diesem Abend, seitdem ich Ihnen einen Brief überbrachte, gab
+              ich Ihnen nicht mit diesem Briefe die schönsten Versicherungen in die Hände?",positive,emotions of affection,joy
+70,GerDracor/goethe-der-grosskophta.xml,6422,6472,"Ich habe es schon tausendmal geküßt, dieses Blatt.",positive,emotions of affection,love
+71,GerDracor/goethe-der-grosskophta.xml,6474,6525,"Er bringt ein Blatt aus der
+                Tasche.",emotional movement,emotions of rejection,anger
+72,GerDracor/goethe-der-grosskophta.xml,6526,6807,"Und wenn dann der Schleier von diesem Geheimnis hinwegfällt und Sie mit dem völligen
+              Glanze des vorigen Glückes, ja in einem weit schönern vor den Augen  Und mit welcher Dankbarkeit werde ich eine Freundin zu belohnen wissen, der ich alles
+              schuldig bin!",positive,emotions of affection,admiration
+73,GerDracor/goethe-der-grosskophta.xml,6808,6830,Reden Sie nicht davon.,negative,emotions of rejection,anger
+74,GerDracor/goethe-der-grosskophta.xml,6831,6908,"Wer kennt Sie und ist nicht gleich lebhaft für Sie
+              hingerissen?",positive,emotions of affection,love
+75,GerDracor/goethe-der-grosskophta.xml,6909,6969,"Wer wünscht nicht, Ihnen, selbst mit Aufopferung, zu dienen?",positive,emotions of affection,admiration
+76,GerDracor/goethe-der-grosskophta.xml,6970,6976,Horch!,emotional movement,emotional movement,emotional movement
+77,GerDracor/goethe-der-grosskophta.xml,6977,7007,es kommt ein Wagen angefahren.,negative,emotions of fear,emotional movement
+78,GerDracor/goethe-der-grosskophta.xml,7008,7020,Was ist das?,negative,emotional movement,emotional movement
+79,GerDracor/goethe-der-grosskophta.xml,7021,7057,Sein Sie unbesorgt; er fährt vorbei.,negative,emotions of fear,fear
+80,GerDracor/goethe-der-grosskophta.xml,7058,7238,"Die Türen sind verschlossen, die Läden verwahrt;
+              ich habe aufs genaueste die Fenster zudecken lassen, daß niemand den Schein eines
+              Lichts bemerken kann.",negative,emotions of fear,suffering
+81,GerDracor/goethe-der-grosskophta.xml,7239,7298,"Niemand wird glauben, daß in diesem Hause Gesellschaft sei.",positive,emotions of rejection,anger
+82,GerDracor/goethe-der-grosskophta.xml,7299,7334,"Welch ein Lärm, welch ein Getümmel?",emotional movement,emotional movement,emotional movement
+83,GerDracor/goethe-der-grosskophta.xml,7335,7345,tritt ein.,negative,emotional movement,emotional movement
+84,GerDracor/goethe-der-grosskophta.xml,7346,7448,"Es ist ein Wagen vorgefahren; man pocht an die Tür, als wenn man sie einschlagen
+              wollte.",negative,emotional movement,emotional movement
+85,GerDracor/goethe-der-grosskophta.xml,7449,7512,Ich höre des Grafen Stimme; er droht und will eingelassen sein.,negative,emotions of rejection,anger
+86,GerDracor/goethe-der-grosskophta.xml,7513,7537,Ist das Haus verriegelt?,emotional movement,emotional movement,emotional movement
+87,GerDracor/goethe-der-grosskophta.xml,7538,7560,– Macht ihm nicht auf!,negative,emotions of rejection,anger
+88,GerDracor/goethe-der-grosskophta.xml,7561,7578,Rührt euch nicht.,negative,emotions of rejection,anger
+89,GerDracor/goethe-der-grosskophta.xml,7579,7595,Antwortet nicht.,emotional movement,emotions of rejection,emotional movement
+90,GerDracor/goethe-der-grosskophta.xml,7610,7649,"Wenn er ausgetobt hat, mag er abfahren.",negative,emotions of rejection,anger
+91,GerDracor/goethe-der-grosskophta.xml,7650,7695,"Sie bedenken nicht, mit wem wir zu tun haben.",negative,emotions of rejection,emotional movement
+92,GerDracor/goethe-der-grosskophta.xml,7696,7712,– Macht ihm auf!,positive,emotions of affection,anger
+93,GerDracor/goethe-der-grosskophta.xml,7713,7752,"Wir widerstehn
+              vergebens.",negative,emotions of fear,emotional movement
+94,GerDracor/goethe-der-grosskophta.xml,7753,7771,die hereinstürzen.,negative,emotions of fear,emotional movement
+95,GerDracor/goethe-der-grosskophta.xml,7772,7781,Der Graf!,negative,emotions of rejection,emotional movement
+96,GerDracor/goethe-der-grosskophta.xml,7782,7791,Der Graf!,negative,emotions of rejection,emotional movement
+97,GerDracor/goethe-der-grosskophta.xml,7792,7818,Wie ist er hereingekommen?,emotional movement,emotional movement,emotional movement
+98,GerDracor/goethe-der-grosskophta.xml,7819,7869,"Die Türen taten sich von selbst auf, beide Flügel.",positive,emotional movement,joy
+99,GerDracor/goethe-der-grosskophta.xml,7870,7886,Wo soll ich hin?,emotional movement,emotional movement,emotional movement
+100,GerDracor/goethe-der-grosskophta.xml,7887,7907,Wer wird uns retten!,negative,emotions of fear,fear
+101,GerDracor/goethe-der-grosskophta.xml,7908,7920,Nur getrost!,negative,emotions of fear,joy
+102,GerDracor/goethe-der-grosskophta.xml,7921,7930,Er kommt!,positive,emotions of fear,joy
+103,GerDracor/goethe-der-grosskophta.xml,7931,7940,er kommt!,negative,emotions of fear,joy
+104,GerDracor/goethe-der-grosskophta.xml,7941,7950,Der Graf.,negative,emotions of rejection,anger
+105,GerDracor/goethe-der-grosskophta.xml,7951,7958,Vorige.,positive,emotions of rejection,emotional movement
+106,GerDracor/goethe-der-grosskophta.xml,7959,7996,unter der Türe hinterwärts sprechend.,negative,emotional movement,emotional movement
+107,GerDracor/goethe-der-grosskophta.xml,7997,8007,Assaraton!,negative,emotions of rejection,emotional movement
+108,GerDracor/goethe-der-grosskophta.xml,8008,8022,Pantassaraton!,negative,emotions of rejection,anger
+109,GerDracor/goethe-der-grosskophta.xml,8023,8101,"Dienstbare Geister, bleibt an der Türe, laßt niemand
+              entwischen!",negative,emotions of rejection,anger
+110,GerDracor/goethe-der-grosskophta.xml,8102,8198,"leidet nicht, daß jemand über die Schwelle gehe, der nicht von mir
+              bezeichnet ist.",negative,emotions of suffering,suffering
+111,GerDracor/goethe-der-grosskophta.xml,8199,8207,Weh uns!,negative,emotions of suffering,fear
+112,GerDracor/goethe-der-grosskophta.xml,8208,8228,Was soll das werden!,negative,emotional movement,emotional movement
+113,GerDracor/goethe-der-grosskophta.xml,8229,8304,"Uriel, du zu meiner Rechten, Ithruriel, du zu meiner Linken, tretet herein.",emotional movement,emotional movement,fear
+114,GerDracor/goethe-der-grosskophta.xml,8305,8384,"Bestrafet
+              die Verbrecher, denen ich diesmal nicht vergeben werde.",negative,emotions of rejection,anger
+115,GerDracor/goethe-der-grosskophta.xml,8385,8410,Wohin verkriech ich mich!,negative,emotions of rejection,fear
+116,GerDracor/goethe-der-grosskophta.xml,8411,8433,Es ist alles verloren!,negative,emotions of fear,despair
+117,GerDracor/goethe-der-grosskophta.xml,8434,8440,Uriel!,emotional movement,emotional movement,emotional movement
+118,GerDracor/goethe-der-grosskophta.xml,8442,8478,"Pause, als wenn er Antwort vernähme.",emotional movement,emotional movement,emotional movement
+119,GerDracor/goethe-der-grosskophta.xml,8479,8515,Die Mädchen tun einen lauten Schrei.,negative,emotions of fear,despair
+120,GerDracor/goethe-der-grosskophta.xml,8516,8661,"Führe sie weit über Berg und Tal, setze sie auf einen Kreuzweg nieder; denn sie
+              glauben nicht, sie gehorchen nicht, bis sie fühlen.",negative,emotions of suffering,suffering
+121,GerDracor/goethe-der-grosskophta.xml,8662,8671,Greif zu!,negative,emotions of joy,emotional movement
+122,GerDracor/goethe-der-grosskophta.xml,8672,8675,Ai!,emotional movement,emotional movement,emotional movement
+123,GerDracor/goethe-der-grosskophta.xml,8676,8679,Ai!,emotional movement,emotional movement,emotional movement
+124,GerDracor/goethe-der-grosskophta.xml,8680,8692,Er hat mich!,positive,emotions of joy,joy
+125,GerDracor/goethe-der-grosskophta.xml,8693,8728,"– Großer Meister, um Gottes willen!",emotional movement,emotions of fear,fear
+126,GerDracor/goethe-der-grosskophta.xml,8729,8739,Herr Graf!,emotional movement,emotions of rejection,emotional movement
+127,GerDracor/goethe-der-grosskophta.xml,8740,8774,Kniend bitten wir unsre Schuld ab.,negative,emotions of suffering,suffering
+128,GerDracor/goethe-der-grosskophta.xml,8775,8801,"Uriel, du bittest für sie!",positive,emotions of affection,love
+129,GerDracor/goethe-der-grosskophta.xml,8802,8833,Soll ich mich erweichen lassen!,negative,emotional movement,anger
+130,GerDracor/goethe-der-grosskophta.xml,8834,8855,"Bitte für uns, Uriel!",positive,emotions of suffering,compassion
+131,GerDracor/goethe-der-grosskophta.xml,8856,8904,"Ist es erlaubt, diese Geschöpfe so zu ängstigen!",negative,emotions of fear,fear
+132,GerDracor/goethe-der-grosskophta.xml,8905,8909,Was!,emotional movement,emotional movement,emotional movement
+133,GerDracor/goethe-der-grosskophta.xml,8910,8914,Was!,emotional movement,emotional movement,emotional movement
+134,GerDracor/goethe-der-grosskophta.xml,8915,8944,"Auf Ihre Knie nieder, Madame!",negative,emotions of affection,admiration
+135,GerDracor/goethe-der-grosskophta.xml,8945,9039,"Nicht vor mir, vor den unsichtbaren Mächten,
+              die neben mir stehen, auf die Knie!",negative,emotions of suffering,suffering
+136,GerDracor/goethe-der-grosskophta.xml,9040,9148,"Können Sie ein schuldloses Herz ein freies
+              Angesicht gegen diese himmlischen Gestalten wenden?",negative,emotions of suffering,"hate, disgust"
+137,GerDracor/goethe-der-grosskophta.xml,9149,9163,Siehst du was?,positive,emotions of joy,emotional movement
+138,GerDracor/goethe-der-grosskophta.xml,9164,9198,"Einen Schatten, ganz dicht an ihm!",negative,emotions of fear,suffering
+139,GerDracor/goethe-der-grosskophta.xml,9199,9232,Wie sieht es in Ihrem Herzen aus?,positive,emotions of affection,love
+140,GerDracor/goethe-der-grosskophta.xml,9233,9248,Großer Meister!,positive,emotions of affection,emotional movement
+141,GerDracor/goethe-der-grosskophta.xml,9249,9279,Schone des zarten Geschlechts!,negative,emotions of affection,love
+142,GerDracor/goethe-der-grosskophta.xml,9280,9312,"Ich bin gerührt, nicht erweicht.",emotional movement,emotions of suffering,love
+143,GerDracor/goethe-der-grosskophta.xml,9313,9323,Ithruriel!,negative,emotions of rejection,anger
+144,GerDracor/goethe-der-grosskophta.xml,9324,9396,"ergreife diese Männer, führe sie in meine
+              tiefsten Keller.",negative,emotions of rejection,"hate, disgust"
+145,GerDracor/goethe-der-grosskophta.xml,9397,9419,Mein Herr und Meister!,positive,emotional movement,joy
+146,GerDracor/goethe-der-grosskophta.xml,9420,9440,Nicht ein Wort mehr!,negative,emotional movement,suffering
+147,GerDracor/goethe-der-grosskophta.xml,9441,9533,"Ihre Geister erschrecken uns nicht, und hier ist eine Klinge
+              gegen Sie selbst.",negative,emotions of rejection,fear
+148,GerDracor/goethe-der-grosskophta.xml,9534,9641,"Glauben Sie nicht, daß wir noch Arm und Mut genug haben, uns und
+              diese Frauen zu verteidigen?",negative,emotions of fear,love
+149,GerDracor/goethe-der-grosskophta.xml,9642,9661,Törichter Jüngling!,negative,emotions of rejection,anger
+150,GerDracor/goethe-der-grosskophta.xml,9662,9681,"Zieh völlig, ziehe!",negative,emotions of rejection,despair
+151,GerDracor/goethe-der-grosskophta.xml,9682,9751,"Stoß hieher, hieher auf diese freie
+              unbeschützte Brust!",negative,emotions of suffering,love
+152,GerDracor/goethe-der-grosskophta.xml,9752,9805,"stoß her, daß ein Zeichen geschehe für dich und alle.",negative,emotions of rejection,anger
+153,GerDracor/goethe-der-grosskophta.xml,9806,9933,"Ein
+              dreifacher Harnisch, der Rechtschaffenheit, der Weisheit, der Zauberkraft, schützt
+              diese Brust.",positive,emotions of affection,admiration
+154,GerDracor/goethe-der-grosskophta.xml,9934,10030,"Stoß her und suche die Stücke deiner zerbrochenen Klinge beschämt zu
+              meinen Füßen.",negative,emotions of suffering,suffering
+155,GerDracor/goethe-der-grosskophta.xml,10031,10047,Welche Majestät!,negative,emotions of affection,emotional movement
+156,GerDracor/goethe-der-grosskophta.xml,10048,10062,Welche Gewalt!,negative,emotions of fear,anger
+157,GerDracor/goethe-der-grosskophta.xml,10063,10077,Welche Stimme!,negative,emotional movement,emotional movement
+158,GerDracor/goethe-der-grosskophta.xml,10078,10093,Welch ein Mann!,negative,emotions of rejection,"hate, disgust"
+159,GerDracor/goethe-der-grosskophta.xml,10094,10111,Was soll ich tun?,negative,emotional movement,fear
+160,GerDracor/goethe-der-grosskophta.xml,10112,10132,Was kann das werden?,negative,emotional movement,fear
+161,GerDracor/goethe-der-grosskophta.xml,10133,10152,Was soll ich sagen?,emotional movement,emotional movement,emotional movement
+162,GerDracor/goethe-der-grosskophta.xml,10153,10163,Steht auf!,positive,emotions of fear,emotional movement
+163,GerDracor/goethe-der-grosskophta.xml,10164,10207,ich begnadige das unverständige Geschlecht.,negative,emotions of affection,"hate, disgust"
+164,GerDracor/goethe-der-grosskophta.xml,10208,10318,"Meine verirrten Kinder will
+              ich nicht ganz verstoßen; doch alle Züchtigung erlaß ich euch nicht.",negative,emotions of rejection,"hate, disgust"
+165,GerDracor/goethe-der-grosskophta.xml,10320,10351,"Zu den
+                Männern.",negative,emotional movement,emotional movement
+166,GerDracor/goethe-der-grosskophta.xml,10352,10390,Die Männer treten in den Grund zurück.,negative,emotions of fear,suffering
+167,GerDracor/goethe-der-grosskophta.xml,10392,10406,Zu den Frauen.,negative,emotional movement,love
+168,GerDracor/goethe-der-grosskophta.xml,10407,10471,"Als wenn er
+                vertraulich zu den Geistern spräche.",negative,emotional movement,anger
+169,GerDracor/goethe-der-grosskophta.xml,10472,10486,Zu den Frauen.,negative,emotional movement,love
+170,GerDracor/goethe-der-grosskophta.xml,10487,10507,Geduld und Gehorsam.,negative,emotions of affection,anger
+171,GerDracor/goethe-der-grosskophta.xml,10508,10529,Was ist ihr Sinnbild?,emotional movement,emotions of affection,emotional movement
+172,GerDracor/goethe-der-grosskophta.xml,10530,10539,Der Mond.,emotional movement,emotional movement,emotional movement
+173,GerDracor/goethe-der-grosskophta.xml,10540,10559,gegen die Marquise.,negative,emotions of rejection,suffering
+174,GerDracor/goethe-der-grosskophta.xml,10560,10566,Warum?,emotional movement,emotional movement,emotional movement
+175,GerDracor/goethe-der-grosskophta.xml,10567,10682,"Weil er sie erinnert, daß sie kein eigen Licht haben, sondern daß sie allen Glanz vom
+              Manne erhalten.",positive,emotions of affection,love
+176,GerDracor/goethe-der-grosskophta.xml,10683,10704,"Wohl, das merkt euch!",positive,emotions of rejection,Schadenfreude
+177,GerDracor/goethe-der-grosskophta.xml,10705,10900,"– Und nun, wenn ihr nach Hause fahrt, werdet ihr linker Hand
+              das erste Viertel am klaren Himmel erblicken; dann sprecht untereinander: »Seht, wie
+              zierlich es da steht!",positive,emotions of joy,joy
+178,GerDracor/goethe-der-grosskophta.xml,10901,10925,welches gemäßigte Licht!,negative,emotions of joy,emotional movement
+179,GerDracor/goethe-der-grosskophta.xml,10926,10947,welche schöne Taille!,positive,emotions of joy,admiration
+180,GerDracor/goethe-der-grosskophta.xml,10948,10981,"welche
+              Sittsamkeit!",negative,emotions of rejection,admiration
+181,GerDracor/goethe-der-grosskophta.xml,10982,11206,"das wahre Bild einer liebenswürdigen heranwachsenden Jungfrau.« Erblickt
+              ihr künftig den Vollmond, so ermahnt euch untereinander und sprecht: »Wie schön glänzt
+              das Bild einer glücklichen Hausfrau!",positive,emotions of joy,joy
+182,GerDracor/goethe-der-grosskophta.xml,11207,11652,"sie wendet ihr Gesicht gerade ihrem Manne zu; sie
+              fängt die Strahlen seines Lichtes auf, die sanft und lieblich von ihr widerglänzen.«
+              Das bedenkt recht und führt untereinander dieses Bild aus, so gut ihr nur könnt; setzt
+              eure Betrachtungen so weit fort, als ihr vermöget; bildet euren Geist, erhebt euer
+              Gemüt: denn so nur könnt ihr würdig werden, das Angesicht des Großkophta zu schauen.",positive,emotions of affection,admiration
+183,GerDracor/goethe-der-grosskophta.xml,11653,11678,"–
+              Nun geht!",positive,emotions of joy,joy
+184,GerDracor/goethe-der-grosskophta.xml,11679,11812,"übertretet keines meiner Gebote, und der Himmel behüte euch vor dem
+              abnehmenden Lichte, vor dem betrübten Witwenstande!",negative,emotions of suffering,suffering
+185,GerDracor/goethe-der-grosskophta.xml,11813,11987,"– Ihr fahrt sogleich sämtlich nach
+              der Stadt, und nur eine strenge Buße kann euch Vergebung erwerben und die Ankunft des
+              Großkophta beschleunigen.",negative,emotions of rejection,anger
+186,GerDracor/goethe-der-grosskophta.xml,11988,11998,Lebt wohl.,negative,emotions of suffering,suffering
+187,GerDracor/goethe-der-grosskophta.xml,11999,12008,beiseite.,emotional movement,emotional movement,emotional movement
+188,GerDracor/goethe-der-grosskophta.xml,12009,12030,Der verwünschte Kerl!,negative,emotions of rejection,anger
+189,GerDracor/goethe-der-grosskophta.xml,12031,12152,"Er ist ein Phantast, ein Lügner, ein Betrüger; ich weiß es, ich
+              bin's überzeugt; und doch imponiert er mir!",negative,emotions of affection,"hate, disgust"
+190,GerDracor/goethe-der-grosskophta.xml,12153,12195,Die Frauenzimmer neigen sich und gehen ab.,negative,emotional movement,suffering
+191,GerDracor/goethe-der-grosskophta.xml,12196,12224,Die Vorigen außer den Damen.,positive,emotions of rejection,admiration
+192,GerDracor/goethe-der-grosskophta.xml,12225,12267,"Nun, Ritter und ihr andern, tretet herbei!",positive,emotions of joy,joy
+193,GerDracor/goethe-der-grosskophta.xml,12268,12397,"Ich hab euch vergeben; ich seh euch
+              beschämt, und meine Großmut überläßt eurem eigenen Herzen Strafe und Besserung.",negative,emotions of suffering,suffering
+194,GerDracor/goethe-der-grosskophta.xml,12398,12443,"Wir erkennen deine Huld, väterlicher Meister.",positive,emotions of affection,admiration
+195,GerDracor/goethe-der-grosskophta.xml,12444,12740,"Wenn ihr aber in der Folge meine Verordnungen überschreitet, wenn ihr nicht alles
+              anwendet, den begangenen Fehler wiedergutzumachen, so hoffet nie, das Angesicht des
+              Großkophta zu sehen, nie, an der Quelle der Weisheit eure durstigen Lippen zu
+              erquicken.",negative,emotions of rejection,suffering
+196,GerDracor/goethe-der-grosskophta.xml,12741,12803,"– Nun, laßt hören, habt ihr gefaßt, was ich euch überlieferte?",negative,emotions of joy,anger
+197,GerDracor/goethe-der-grosskophta.xml,12804,12872,"– Wann soll
+              ein Schüler seine Betrachtungen anstellen?",emotional movement,emotional movement,emotional movement
+198,GerDracor/goethe-der-grosskophta.xml,12873,12887,Bei Nachtzeit.,negative,emotions of fear,anger
+199,GerDracor/goethe-der-grosskophta.xml,12888,12894,Warum?,emotional movement,emotional movement,emotional movement
+200,GerDracor/goethe-der-grosskophta.xml,12895,12954,"Damit er desto lebhafter fühle, daß er im Finstern wandelt.",negative,emotions of suffering,"hate, disgust"
+201,GerDracor/goethe-der-grosskophta.xml,12955,12987,Welche Nächte soll er vorziehen?,negative,emotional movement,emotional movement
+202,GerDracor/goethe-der-grosskophta.xml,12988,13044,"Nächte, wenn der Himmel klar ist und die Sterne funkeln.",positive,emotions of joy,joy
+203,GerDracor/goethe-der-grosskophta.xml,13045,13051,Warum?,emotional movement,emotional movement,emotional movement
+204,GerDracor/goethe-der-grosskophta.xml,13052,13217,"Damit er einsehe, daß viele tausend Lichter noch nicht hell machen, und damit seine
+              Begierde nach der einzig erleuchtenden Sonne desto lebhafter werde.",positive,emotions of affection,love
+205,GerDracor/goethe-der-grosskophta.xml,13218,13265,Welchen Stern soll er vorzüglich im Auge haben?,positive,emotions of affection,admiration
+206,GerDracor/goethe-der-grosskophta.xml,13266,13281,Den Polarstern.,positive,emotions of joy,emotional movement
+207,GerDracor/goethe-der-grosskophta.xml,13282,13316,Was soll er sich dabei vorstellen?,negative,emotional movement,emotional movement
+208,GerDracor/goethe-der-grosskophta.xml,13317,13340,Die Liebe des Nächsten.,positive,emotions of affection,love
+209,GerDracor/goethe-der-grosskophta.xml,13341,13366,Wie heißt der andere Pol?,emotional movement,emotional movement,emotional movement
+210,GerDracor/goethe-der-grosskophta.xml,13367,13390,Die Liebe der Weisheit.,positive,emotions of affection,love
+211,GerDracor/goethe-der-grosskophta.xml,13391,13426,Haben diese beiden Pole eine Achse?,emotional movement,emotional movement,emotional movement
+212,GerDracor/goethe-der-grosskophta.xml,13427,13476,"Freilich, denn sonst könnten sie keine Pole sein.",positive,emotions of rejection,"hate, disgust"
+213,GerDracor/goethe-der-grosskophta.xml,13477,13625,"Diese Achse geht durch unser Herz,
+              wenn wir rechte Schüler der Weisheit sind, und das Universum dreht sich um uns
+              herum.",positive,emotions of affection,joy
+214,GerDracor/goethe-der-grosskophta.xml,13626,13668,Sage mir den Wahlspruch des ersten Grades.,positive,emotions of affection,admiration
+215,GerDracor/goethe-der-grosskophta.xml,13669,13738,"Was du willst, daß dir die Leute tun sollen, wirst du ihnen auch tun.",negative,emotions of rejection,anger
+216,GerDracor/goethe-der-grosskophta.xml,13739,13765,Erkläre mir diesen Spruch.,negative,emotions of rejection,anger
+217,GerDracor/goethe-der-grosskophta.xml,13766,13810,"Er ist deutlich, er bedarf keiner Erklärung.",positive,emotions of affection,emotional movement
+218,GerDracor/goethe-der-grosskophta.xml,13811,13816,Wohl!,positive,emotions of suffering,joy
+219,GerDracor/goethe-der-grosskophta.xml,13817,13886,"– Nun geht in den Garten, und faßt den Polarstern recht in die Augen.",positive,emotional movement,love
+220,GerDracor/goethe-der-grosskophta.xml,13887,13967,"Es ist sehr trübe, großer Lehrer; kaum daß hie und da ein Sternchen durchblinkt.",negative,emotions of suffering,suffering
+221,GerDracor/goethe-der-grosskophta.xml,13968,13981,Desto besser!,positive,emotions of joy,joy
+222,GerDracor/goethe-der-grosskophta.xml,13982,14129,"– So bejammert euren Ungehorsam, euren Leichtsinn, eure
+              Leichtfertigkeit; das sind Wolken, welche die himmlischen Lichter verdunkeln.",negative,emotions of suffering,compassion
+223,GerDracor/goethe-der-grosskophta.xml,14130,14202,"Es ist kalt, es geht ein unfreundlicher Wind, wir sind leicht gekleidet.",negative,emotions of suffering,suffering
+224,GerDracor/goethe-der-grosskophta.xml,14203,14212,Hinunter!,negative,emotions of rejection,fear
+225,GerDracor/goethe-der-grosskophta.xml,14213,14231,hinunter mit euch!,negative,emotions of rejection,anger
+226,GerDracor/goethe-der-grosskophta.xml,14232,14270,Darf ein Schüler der Weisheit frieren?,negative,emotions of suffering,emotional movement
+227,GerDracor/goethe-der-grosskophta.xml,14271,14464,"– Mit Lust
+              solltet ihr eure Kleider abwerfen, und die heiße Begierde eures Herzens, der Durst
+              nach geheimer Wissenschaft sollte Schnee und Eis zum Schmelzen bringen.",positive,emotions of joy,joy
+228,GerDracor/goethe-der-grosskophta.xml,14465,14479,Fort mit euch!,negative,emotions of rejection,anger
+229,GerDracor/goethe-der-grosskophta.xml,14494,14499,fort!,negative,emotions of rejection,anger
+230,GerDracor/goethe-der-grosskophta.xml,14500,14550,Der Ritter und die andern mit einer Verbeugung ab.,positive,emotions of affection,admiration
+231,GerDracor/goethe-der-grosskophta.xml,14551,14560,Der Graf.,negative,emotions of rejection,anger
+232,GerDracor/goethe-der-grosskophta.xml,14561,14573,Der Domherr.,negative,emotional movement,emotional movement
+233,GerDracor/goethe-der-grosskophta.xml,14574,14604,"Nun hervor mit Ihnen, Domherr!",positive,emotions of rejection,admiration
+234,GerDracor/goethe-der-grosskophta.xml,14605,14612,hervor!,negative,emotions of rejection,emotional movement
+235,GerDracor/goethe-der-grosskophta.xml,14613,14647,Sie erwartet ein strenger Gericht.,negative,emotions of rejection,anger
+236,GerDracor/goethe-der-grosskophta.xml,14648,14699,"– Ihnen
+              hätte ich es nicht zugetraut.",positive,emotions of rejection,anger
+237,GerDracor/goethe-der-grosskophta.xml,14700,14946,"Der Schüler, dem ich mehr als allen andern die Hand
+              reiche, den ich mit Gewalt zu mir heraufziehe, dem ich schon die Geheimnisse des
+              zweiten Grades enthüllt habe – dieser besteht so schlecht bei einer geringen Prüfung!",negative,emotions of suffering,suffering
+238,GerDracor/goethe-der-grosskophta.xml,14961,15126,"– Nicht die Drohungen seines Meisters, nicht die Hoffnung, den Großkophta zu sehen,
+              können ihn abhalten, seine Gelage nur wenige Nächte zu verschieben.",negative,emotions of rejection,anger
+239,GerDracor/goethe-der-grosskophta.xml,15127,15132,Pfui!,negative,emotions of rejection,"hate, disgust"
+240,GerDracor/goethe-der-grosskophta.xml,15133,15164,"ist das
+              männlich?",emotional movement,emotional movement,emotional movement
+241,GerDracor/goethe-der-grosskophta.xml,15165,15179,ist das weise?,emotional movement,emotional movement,emotional movement
+242,GerDracor/goethe-der-grosskophta.xml,15180,15215,Die Lehren des größten Sterblichen!,positive,emotions of rejection,"hate, disgust"
+243,GerDracor/goethe-der-grosskophta.xml,15216,15238,die Hülfe der Geister!,negative,emotional movement,"hate, disgust"
+244,GerDracor/goethe-der-grosskophta.xml,15253,15281,die Eröffnung  niederkniend.,negative,emotions of suffering,suffering
+245,GerDracor/goethe-der-grosskophta.xml,15282,15345,Du hast mich oft zu deinen Füßen gesehen; hier lieg ich wieder.,positive,emotions of affection,suffering
+246,GerDracor/goethe-der-grosskophta.xml,15346,15357,Vergib mir!,negative,emotions of suffering,compassion
+247,GerDracor/goethe-der-grosskophta.xml,15358,15402,"entziehe
+              mir nicht deine Huld.",positive,emotions of affection,love
+248,GerDracor/goethe-der-grosskophta.xml,15403,15464,– Die Reize – die Lockung – die Gelegenheit – die Verführung!,positive,emotions of affection,emotional movement
+249,GerDracor/goethe-der-grosskophta.xml,15465,15525,"–
+              Nie sollst du mich wieder ungehorsam finden!",negative,emotions of rejection,anger
+250,GerDracor/goethe-der-grosskophta.xml,15526,15534,gebiete!,negative,emotions of rejection,anger
+251,GerDracor/goethe-der-grosskophta.xml,15535,15563,"lege mir auf, was du willst!",negative,emotions of rejection,anger
+252,GerDracor/goethe-der-grosskophta.xml,15564,15610,"Wie kann ich mit dir zürnen, du mein Liebling!",positive,emotions of affection,anger
+253,GerDracor/goethe-der-grosskophta.xml,15611,15682,"wie kann ich dich verstoßen, du
+              Erwählter des Schicksals!",negative,emotions of rejection,love
+254,GerDracor/goethe-der-grosskophta.xml,15683,15787,"Steh auf, komm an meine Brust, von der du dich, selbst mit
+              Gewalt, nicht losreißen kannst.",positive,emotions of affection,love
+255,GerDracor/goethe-der-grosskophta.xml,15788,15810,Wie entzückst du mich!,positive,emotions of joy,joy
+256,GerDracor/goethe-der-grosskophta.xml,15811,15984,"– Aber darf ich in diesem Augenblicke, wo ich büßen und
+              trauren sollte, darf ich als ein Zeichen der Versöhnung mir eine Gnade von dir
+              ausbitten?",negative,emotions of suffering,suffering
+257,GerDracor/goethe-der-grosskophta.xml,15985,16005,"Sprich, mein Teurer!",negative,emotions of affection,admiration
+258,GerDracor/goethe-der-grosskophta.xml,16006,16213,"Laß mich nicht länger in Ungewißheit, gib mir ein helleres Licht über den wunderbaren
+              Mann, den du Großkophta nennst, den du uns zeigen willst, von dem du uns so viel
+              versprichst.",positive,emotions of affection,emotional movement
+259,GerDracor/goethe-der-grosskophta.xml,16214,16235,Sage mir: wer ist er?,emotional movement,emotional movement,emotional movement
+260,GerDracor/goethe-der-grosskophta.xml,16236,16246,Wo ist er?,emotional movement,emotional movement,emotional movement
+261,GerDracor/goethe-der-grosskophta.xml,16247,16264,Ist er schon nah?,negative,emotions of fear,fear
+262,GerDracor/goethe-der-grosskophta.xml,16265,16284,Werd ich ihn sehen?,positive,emotions of affection,emotional movement
+263,GerDracor/goethe-der-grosskophta.xml,16299,16321,Kann er mich würdigen?,positive,emotions of affection,emotional movement
+264,GerDracor/goethe-der-grosskophta.xml,16322,16345,Kann er mich aufnehmen?,negative,emotional movement,emotional movement
+265,GerDracor/goethe-der-grosskophta.xml,16346,16435,"Wird er mir die Lehren überliefern,
+              nach denen mein Herz so heftig begehrt?",positive,emotions of affection,emotional movement
+266,GerDracor/goethe-der-grosskophta.xml,16436,16442,Mäßig!,positive,emotions of rejection,emotional movement
+267,GerDracor/goethe-der-grosskophta.xml,16443,16460,"mäßig, mein Sohn!",negative,emotions of rejection,anger
+268,GerDracor/goethe-der-grosskophta.xml,16461,16550,"Wenn ich dir nicht gleich alles entdecke, so ist dein Bestes
+              meine Absicht.",positive,emotions of affection,friendship
+269,GerDracor/goethe-der-grosskophta.xml,16551,16679,"– Deine Neugierde zu wecken, deinen Verstand zu üben, deine
+              Gelehrsamkeit zu beleben, das ist es, was ich wünsche!",positive,emotions of joy,joy
+270,GerDracor/goethe-der-grosskophta.xml,16680,16737,"so möchte ich mich um dich
+              verdient machen.",negative,emotions of affection,admiration
+271,GerDracor/goethe-der-grosskophta.xml,16738,16826,"– Hören und lernen kann jedes Kind; merken und raten müssen meine
+              Schüler.",negative,emotions of rejection,anger
+272,GerDracor/goethe-der-grosskophta.xml,16827,16852,– Als ich sagte:  Kophta!,positive,emotions of rejection,emotional movement
+273,GerDracor/goethe-der-grosskophta.xml,16853,16860,Kophta!,positive,emotional movement,emotional movement
+274,GerDracor/goethe-der-grosskophta.xml,16861,16955,"– Wenn ich dir es gestehen soll, wenn ich mich vor dir nicht zu
+              schämen brauche!",negative,emotions of rejection,anger
+275,GerDracor/goethe-der-grosskophta.xml,16957,17015,Diesmal hat dich deine Einbildungskraft nicht irregeführt.,positive,emotions of joy,emotional movement
+276,GerDracor/goethe-der-grosskophta.xml,17016,17195,"Ja, dieser große
+              herrliche, und ich darf wohl sagen, dieser unsterbliche Greis ist es, von dem ich euch
+              sagte, den ihr zu sehen dereinst hoffen dürfet.",positive,emotions of joy,admiration
+277,GerDracor/goethe-der-grosskophta.xml,17196,17277,"In ewiger Jugend wandelt er schon
+              Jahrhunderte auf diesem Erdboden.",positive,emotions of affection,suffering
+278,GerDracor/goethe-der-grosskophta.xml,17278,17323,"Indien, Ägypten ist sein liebster Aufenthalt.",positive,emotions of joy,joy
+279,GerDracor/goethe-der-grosskophta.xml,17324,17427,"Nackt
+              betritt er die Wüsten Libyens; sorglos erforscht er dort die Geheimnisse der Natur.",positive,emotions of joy,joy
+280,GerDracor/goethe-der-grosskophta.xml,17442,17763,"Vor seinem gebieterisch hingestreckten Arm stutzt der hungrige Löwe; der grimmige
+              Tiger entflieht vor seinem Schelten, daß die Hand des Weisen ruhig heilsame Wurzeln
+              aufsuche, Steine zu unterscheiden wisse, die wegen ihrer geheimen Kräfte schätzbarer
+              sind als Gold und Diamanten.",negative,emotions of rejection,anger
+281,GerDracor/goethe-der-grosskophta.xml,17764,17809,Und diesen trefflichen Mann sollen wir sehen?,positive,emotions of affection,emotional movement
+282,GerDracor/goethe-der-grosskophta.xml,17810,17876,"Gib mir einen Wink, auf welche Weise es
+              möglich sei?",emotional movement,emotional movement,anger
+283,GerDracor/goethe-der-grosskophta.xml,17877,17896,O du Kurzsichtiger!,negative,emotions of rejection,suffering
+284,GerDracor/goethe-der-grosskophta.xml,17897,17929,welche Winke soll ich dir geben?,positive,emotions of affection,anger
+285,GerDracor/goethe-der-grosskophta.xml,17930,17979,"Dir, dessen Augen geschlossen
+              sind!",negative,emotions of suffering,suffering
+286,GerDracor/goethe-der-grosskophta.xml,17980,17998,Nur  Es ist genug!,negative,emotions of suffering,despair
+287,GerDracor/goethe-der-grosskophta.xml,17999,18056,"– Was der Hörer wissen soll, pflege ich ihm nie zu sagen.",negative,emotions of rejection,anger
+288,GerDracor/goethe-der-grosskophta.xml,18057,18171,"Ich brenne vor Begierde, besonders seitdem du mich in den zweiten Grad der
+              Geheimnisse erhoben hast.",positive,emotions of affection,emotional movement
+289,GerDracor/goethe-der-grosskophta.xml,18172,18175,Oh!,emotional movement,emotions of suffering,suffering
+290,GerDracor/goethe-der-grosskophta.xml,18176,18259,"daß es möglich wäre, daß du mir auch sogleich den
+              dritten schenktest!",positive,emotions of affection,joy
+291,GerDracor/goethe-der-grosskophta.xml,18260,18284,Es kann nicht geschehen!,negative,emotions of fear,despair
+292,GerDracor/goethe-der-grosskophta.xml,18285,18291,Warum?,emotional movement,emotional movement,emotional movement
+293,GerDracor/goethe-der-grosskophta.xml,18292,18406,"Weil ich noch nicht weiß, wie du die Lehren des zweiten Grades gefaßt haben magst und
+              ausüben wirst.",positive,emotions of rejection,emotional movement
+294,GerDracor/goethe-der-grosskophta.xml,18407,18427,Prüfe mich sogleich.,negative,emotional movement,anger
+295,GerDracor/goethe-der-grosskophta.xml,18428,18452,Es ist jetzt nicht Zeit.,negative,emotions of rejection,anger
+296,GerDracor/goethe-der-grosskophta.xml,18453,18464,Nicht Zeit?,negative,emotional movement,emotional movement
+297,GerDracor/goethe-der-grosskophta.xml,18465,18606,"Hast du schon vergessen, daß die Schüler des zweiten Grades ihre Betrachtungen bei
+              Tage und besonders morgens anstellen sollen?",negative,emotions of rejection,anger
+298,GerDracor/goethe-der-grosskophta.xml,18607,18644,So sei es denn morgen bei guter Zeit.,negative,emotions of joy,joy
+299,GerDracor/goethe-der-grosskophta.xml,18645,18649,Gut!,positive,emotions of joy,joy
+300,GerDracor/goethe-der-grosskophta.xml,18650,18694,Nun aber zuvörderst die Buße nicht versäumt!,negative,emotions of suffering,compassion
+301,GerDracor/goethe-der-grosskophta.xml,18695,18748,"– Hinunter zu den andern in den
+              Garten!",negative,emotions of rejection,anger
+302,GerDracor/goethe-der-grosskophta.xml,18749,18804,– – Aber du sollst einen großen Vorzug vor ihnen haben.,positive,emotions of affection,admiration
+303,GerDracor/goethe-der-grosskophta.xml,18805,18871,"– – Wende ihnen den
+              Rücken zu – schaue gegen Mittag.",negative,emotions of suffering,suffering
+304,GerDracor/goethe-der-grosskophta.xml,18872,18959,"Von Mittag kommt der Großkophta; dieses Geheimnis
+              entdeck ich dir allein.",positive,emotions of joy,joy
+305,GerDracor/goethe-der-grosskophta.xml,18960,19056,"Alle Wünsche deines Herzens eröffne ihm; sprich, so leise du
+              willst, er hört dich.",positive,emotions of affection,love
+306,GerDracor/goethe-der-grosskophta.xml,19057,19082,Ich gehorche mit Freuden.,positive,emotions of joy,joy
+307,GerDracor/goethe-der-grosskophta.xml,19084,19146,"Er küßt dem Grafen die Hand und entfernt
+                sich.",positive,emotions of affection,admiration
+308,GerDracor/goethe-der-grosskophta.xml,19147,19156,Der Graf.,negative,emotions of rejection,anger
+309,GerDracor/goethe-der-grosskophta.xml,19157,19168,Saint Jean.,emotional movement,emotional movement,emotional movement
+310,GerDracor/goethe-der-grosskophta.xml,19169,19196,der vorsichtig hereintritt.,emotional movement,emotional movement,emotional movement
+311,GerDracor/goethe-der-grosskophta.xml,19197,19238,Hab ich meine Sachen nicht recht gemacht?,emotional movement,emotional movement,anger
+312,GerDracor/goethe-der-grosskophta.xml,19239,19269,Du hast deine Pflicht erfüllt.,positive,emotions of affection,anger
+313,GerDracor/goethe-der-grosskophta.xml,19270,19341,"Flogen die Türen nicht auf, als wenn Geister sie voneinander sprengten?",emotional movement,emotional movement,emotional movement
+314,GerDracor/goethe-der-grosskophta.xml,19342,19434,"Meine
+              Kameraden erschraken und flohen; es hat keiner was gesehen noch gemerkt.",negative,emotions of fear,fear
+315,GerDracor/goethe-der-grosskophta.xml,19435,19451,Es mag gut sein!,negative,emotions of rejection,suffering
+316,GerDracor/goethe-der-grosskophta.xml,19452,19557,"Ich hätte sie auch ohne dich aufgebracht; nur verlangt eine solche
+              Operation mehr Umstände.",negative,emotions of rejection,anger
+317,GerDracor/goethe-der-grosskophta.xml,19558,19681,"Ich nehme nur manchmal zu gemeinen Mitteln meine Zuflucht, um
+              die edlen Geister nicht immer zu inkommodieren.",negative,emotions of rejection,anger
+318,GerDracor/goethe-der-grosskophta.xml,19683,19706,Einen Beutel eröffnend.,negative,emotional movement,emotional movement
+319,GerDracor/goethe-der-grosskophta.xml,19707,19710,So!,emotional movement,emotional movement,emotional movement
+320,GerDracor/goethe-der-grosskophta.xml,19711,19740,da will ich's wohl verwahren.,negative,emotions of rejection,fear
+321,GerDracor/goethe-der-grosskophta.xml,19741,19817,"Wohl, und spare dir immer zwei, drei Goldstücke dazu, du wirst Wunder sehen.",positive,emotions of joy,joy
+322,GerDracor/goethe-der-grosskophta.xml,19818,19862,"Haben Sie das Gold selbstgemacht, Herr Graf?",emotional movement,emotional movement,emotional movement
+323,GerDracor/goethe-der-grosskophta.xml,19863,19892,Ich gebe gar kein andres aus.,positive,emotions of affection,"hate, disgust"
+324,GerDracor/goethe-der-grosskophta.xml,19893,19916,Wie glücklich sind Sie!,positive,emotions of joy,joy
+325,GerDracor/goethe-der-grosskophta.xml,19917,19943,Weil ich Glückliche mache.,positive,emotions of joy,joy
+326,GerDracor/goethe-der-grosskophta.xml,19944,19985,Ich bin Ihnen mit Leib und Seele ergeben.,positive,emotions of affection,friendship
+327,GerDracor/goethe-der-grosskophta.xml,19986,20018,Das soll dein Schade nicht sein.,negative,emotions of suffering,compassion
+328,GerDracor/goethe-der-grosskophta.xml,20019,20100,"Gehe hin und schweige, damit nicht andre diese
+              Quelle kennenlernen.",negative,emotions of affection,anger
+329,GerDracor/goethe-der-grosskophta.xml,20101,20180,"In wenig Zeit sollst du die Stelle haben, um die du gebeten
+              hast.",negative,emotions of joy,anger
+330,GerDracor/goethe-der-grosskophta.xml,20181,20194,Bedienter ab.,negative,emotional movement,suffering
+331,GerDracor/goethe-der-grosskophta.xml,20195,20204,Der Graf.,negative,emotions of rejection,anger
+332,GerDracor/goethe-der-grosskophta.xml,20205,20312,"Glücklicherweise find ich hier eine wohlbesetzte Tafel, ein feines Dessert,
+              treffliche Weine.",positive,emotions of joy,joy
+333,GerDracor/goethe-der-grosskophta.xml,20313,20345,Der Domherr läßt's nicht fehlen.,positive,emotions of rejection,admiration
+334,GerDracor/goethe-der-grosskophta.xml,20346,20473,"Wohl, hier kann ich meinen Magen
+              restaurieren, indes die Menschen glauben, ich halte meine vierzigtägigen Fasten.",positive,emotions of joy,joy
+335,GerDracor/goethe-der-grosskophta.xml,20474,20596,"Ich
+              scheine ihnen auch darum ein Halbgott, weil ich ihnen meine Bedürfnisse zu verbergen
+              weiß.",positive,emotions of rejection,"hate, disgust"
+336,GerDracor/goethe-der-grosskophta.xml,20597,20617,Wohnung des Marquis.,positive,emotions of rejection,emotional movement
+337,GerDracor/goethe-der-grosskophta.xml,20618,20648,"Der Marquis, hernach La Fleur.",positive,emotional movement,admiration
+338,GerDracor/goethe-der-grosskophta.xml,20649,20695,in einem sehr eleganten Frack vor dem Spiegel.,positive,emotions of affection,admiration
+339,GerDracor/goethe-der-grosskophta.xml,20696,20752,"Geburt, Rang, Gestalt, was sind sie alle gegen das Geld!",negative,emotions of rejection,"hate, disgust"
+340,GerDracor/goethe-der-grosskophta.xml,20753,20839,"Wie dank ich der kühnen
+              Industrie meiner Frau, daß sie mir  Er klingelt.",positive,emotions of joy,joy
+341,GerDracor/goethe-der-grosskophta.xml,20840,20872,"Was befehlen Sie, gnädiger Herr?",positive,emotions of affection,admiration
+342,GerDracor/goethe-der-grosskophta.xml,20873,20895,Gib mir die Schatulle.,negative,emotions of joy,emotional movement
+343,GerDracor/goethe-der-grosskophta.xml,20896,20907,bringt sie.,negative,emotions of suffering,suffering
+344,GerDracor/goethe-der-grosskophta.xml,20908,20950,So schwer hab ich noch nie daran getragen.,negative,emotions of suffering,suffering
+345,GerDracor/goethe-der-grosskophta.xml,20951,20981,indem er die Schatulle öffnet.,positive,emotions of rejection,emotional movement
+346,GerDracor/goethe-der-grosskophta.xml,20982,21056,"Was sagst du, sind diese beiden Uhren nicht schön, die ich gestern kaufte?",positive,emotions of affection,admiration
+347,GerDracor/goethe-der-grosskophta.xml,21057,21068,Sehr schön.,positive,emotions of joy,joy
+348,GerDracor/goethe-der-grosskophta.xml,21069,21084,Und diese Dose?,emotional movement,emotional movement,emotional movement
+349,GerDracor/goethe-der-grosskophta.xml,21085,21106,Kostbar und zierlich.,positive,emotions of affection,admiration
+350,GerDracor/goethe-der-grosskophta.xml,21107,21119,Dieser Ring?,emotional movement,emotional movement,emotional movement
+351,GerDracor/goethe-der-grosskophta.xml,21120,21138,Gehört auch Ihnen?,positive,emotions of affection,joy
+352,GerDracor/goethe-der-grosskophta.xml,21139,21155,Diese Schnallen?,emotional movement,emotions of rejection,emotional movement
+353,GerDracor/goethe-der-grosskophta.xml,21156,21174,Diese Stahlknöpfe?,emotional movement,emotions of rejection,emotional movement
+354,GerDracor/goethe-der-grosskophta.xml,21175,21197,"Genug, alles zusammen!",negative,emotions of rejection,anger
+355,GerDracor/goethe-der-grosskophta.xml,21198,21264,"Findest du mich nicht
+              elegant und vornehm gekleidet?",emotional movement,emotions of affection,admiration
+356,GerDracor/goethe-der-grosskophta.xml,21265,21329,Sie zeichnen sich nun auf dem Spaziergange gewiß vor vielen aus.,positive,emotions of affection,admiration
+357,GerDracor/goethe-der-grosskophta.xml,21330,21351,Wie wohl mir das tut!,positive,emotions of joy,joy
+358,GerDracor/goethe-der-grosskophta.xml,21352,21488,"– Aus Not ewig in der Uniform zu gehen, immer in der Menge
+              verloren zu sein, die Aufmerksamkeit keines Menschen zu reizen!",negative,emotions of suffering,suffering
+359,GerDracor/goethe-der-grosskophta.xml,21489,21555,"Ich hätte lieber tot
+              sein mögen als länger so leben.",negative,emotions of suffering,suffering
+360,GerDracor/goethe-der-grosskophta.xml,21556,21592,– Ist die Nichte schon aufgestanden?,emotional movement,emotional movement,emotional movement
+361,GerDracor/goethe-der-grosskophta.xml,21593,21609,Ich glaube kaum.,negative,emotions of joy,fear
+362,GerDracor/goethe-der-grosskophta.xml,21610,21664,Sie hat wenigstens das Frühstück noch nicht gefordert.,negative,emotions of rejection,anger
+363,GerDracor/goethe-der-grosskophta.xml,21665,21788,"Es scheint
+              mir, sie ist erst wieder eingeschlafen, seitdem Sie heute früh von ihr
+              wegschlichen.",negative,emotions of suffering,suffering
+364,GerDracor/goethe-der-grosskophta.xml,21789,21803,Unverschämter!,negative,emotions of rejection,anger
+365,GerDracor/goethe-der-grosskophta.xml,21804,21813,– Stille!,emotional movement,emotional movement,emotional movement
+366,GerDracor/goethe-der-grosskophta.xml,21814,21854,Unter uns darf ich doch aufrichtig sein!,positive,emotions of affection,friendship
+367,GerDracor/goethe-der-grosskophta.xml,21855,21910,Wenn dir in Gegenwart meiner Frau so ein Wort entführe!,negative,emotions of rejection,"hate, disgust"
+368,GerDracor/goethe-der-grosskophta.xml,21911,21965,"Glauben Sie nicht, daß ich Herr über meine Lippen bin?",negative,emotions of rejection,anger
+369,GerDracor/goethe-der-grosskophta.xml,21966,22015,Noch kann die Marquise unmöglich etwas argwöhnen.,negative,emotions of fear,anger
+370,GerDracor/goethe-der-grosskophta.xml,22016,22108,"Sie hält die Nichte für ein Kind,
+              in drei Jahren  Das möchte noch alles gehen.",positive,emotions of joy,love
+371,GerDracor/goethe-der-grosskophta.xml,22109,22219,"Wenn sie nur nicht die Bekanntschaft mit dem alten
+              Hexenmeister hätte; vor dem fürchte ich mich.",negative,emotions of fear,fear
+372,GerDracor/goethe-der-grosskophta.xml,22220,22244,Der Mann ist ein Wunder!,negative,emotions of joy,emotional movement
+373,GerDracor/goethe-der-grosskophta.xml,22245,22307,"Alles weiß er,
+              alles verraten ihm seine Geister.",negative,emotions of fear,anger
+374,GerDracor/goethe-der-grosskophta.xml,22308,22342,Wie ging es im Hause des Domherrn?,emotional movement,emotional movement,emotional movement
+375,GerDracor/goethe-der-grosskophta.xml,22343,22472,"Der Zauberer
+              entdeckte ein wichtiges Geheimnis, und nun sollte es der Kammerdiener verschwatzt
+              haben.",negative,emotions of rejection,emotional movement
+376,GerDracor/goethe-der-grosskophta.xml,22473,22539,"Er ist eben, soviel ich weiß, nicht der größte Freund meiner Frau.",positive,emotions of affection,friendship
+377,GerDracor/goethe-der-grosskophta.xml,22540,22648,"Ach, er bekümmert sich um alles; und wenn er seine Geister fragt, bleibt ihm nichts
+              verborgen.",negative,emotions of suffering,compassion
+378,GerDracor/goethe-der-grosskophta.xml,22649,22706,"Sollte denn das alles wahr sein, was man von ihm erzählt?",emotional movement,emotional movement,emotional movement
+379,GerDracor/goethe-der-grosskophta.xml,22707,22733,Es zweifelt niemand daran.,positive,emotions of joy,admiration
+380,GerDracor/goethe-der-grosskophta.xml,22734,22793,"Nur die Wunder, die ich gewiß weiß – Es ist doch sonderbar!",emotional movement,emotional movement,emotional movement
+381,GerDracor/goethe-der-grosskophta.xml,22794,22828,"– Sieh zu, es fährt ein Wagen vor.",emotional movement,emotional movement,emotional movement
+382,GerDracor/goethe-der-grosskophta.xml,22829,22841,La Fleur ab.,positive,emotional movement,admiration
+383,GerDracor/goethe-der-grosskophta.xml,22842,22909,Wenn meine Frau mein Verhältnis zur schönen Nichte erfahren könnte!,positive,emotions of joy,love
+384,GerDracor/goethe-der-grosskophta.xml,22910,22968,"– Nun, es käme
+              auf den ersten Augenblick an.",emotional movement,emotions of affection,love
+385,GerDracor/goethe-der-grosskophta.xml,22969,23094,"Wenn sie ihre Plane durchsetzt, wenn ich ihr zum
+              Werkzeug diene, läßt sie mich dann nicht machen, was ich will?",negative,emotions of rejection,anger
+386,GerDracor/goethe-der-grosskophta.xml,23095,23108,– Sie selbst!,negative,emotions of joy,love
+387,GerDracor/goethe-der-grosskophta.xml,23109,23121,Der Marquis.,positive,emotional movement,admiration
+388,GerDracor/goethe-der-grosskophta.xml,23122,23135,Die Marquise.,positive,emotions of affection,emotional movement
+389,GerDracor/goethe-der-grosskophta.xml,23136,23169,"Ich komme früher, als ich dachte.",positive,emotions of joy,joy
+390,GerDracor/goethe-der-grosskophta.xml,23170,23213,"Ich freue mich, dich endlich wiederzusehen.",positive,emotions of joy,joy
+391,GerDracor/goethe-der-grosskophta.xml,23214,23253,Warum kamst du mir nicht auch entgegen?,emotional movement,emotional movement,emotional movement
+392,GerDracor/goethe-der-grosskophta.xml,23254,23288,Der Domherr hatte dich eingeladen.,positive,emotions of joy,joy
+393,GerDracor/goethe-der-grosskophta.xml,23289,23301,Verzeih mir!,negative,emotions of suffering,suffering
+394,GerDracor/goethe-der-grosskophta.xml,23302,23347,Ich hatte eben gestern vieles zu berichtigen.,negative,emotional movement,anger
+395,GerDracor/goethe-der-grosskophta.xml,23349,23377,Du hast nicht viel verloren.,negative,emotions of suffering,compassion
+396,GerDracor/goethe-der-grosskophta.xml,23378,23450,"Der Domherr war unleidlich und die Gesellschaft
+              verstimmt.",negative,emotions of suffering,emotional movement
+397,GerDracor/goethe-der-grosskophta.xml,23451,23515,Zuletzt überraschte uns noch der Graf und jagte uns auseinander.,negative,emotions of rejection,anger
+398,GerDracor/goethe-der-grosskophta.xml,23516,23601,"Man muß
+              sich nun einmal die Tollheiten dieses Menschen gefallen lassen.",negative,emotions of rejection,"hate, disgust"
+399,GerDracor/goethe-der-grosskophta.xml,23602,23611,lächelnd.,positive,emotions of joy,joy
+400,GerDracor/goethe-der-grosskophta.xml,23612,23654,Wie geht es denn mit deiner Unterhandlung?,emotional movement,emotional movement,emotional movement
+401,GerDracor/goethe-der-grosskophta.xml,23656,23665,Ironisch.,positive,emotions of joy,anger
+402,GerDracor/goethe-der-grosskophta.xml,23666,23713,"Es ist wahr, wir haben uns lange nicht gesehen.",positive,emotions of affection,love
+403,GerDracor/goethe-der-grosskophta.xml,23714,23751,"Du warst abwesend, als ich verreiste.",negative,emotions of suffering,suffering
+404,GerDracor/goethe-der-grosskophta.xml,23766,24021,"Gleich als der Fürst und die Prinzessin auf das Lustschloß hinausgezogen waren,
+              mietete ich mir ein kleines Landhaus in der Nähe und wohnte da ganz im stillen, indes
+              sich der Domherr einbildete, ich sähe die Prinzessin täglich.",negative,emotions of affection,suffering
+405,GerDracor/goethe-der-grosskophta.xml,24022,24134,"Ich schickte ihm Boten,
+              ich erhielt Briefe von ihm, und seine Hoffnung war aufs äußerste gespannt.",positive,emotions of joy,emotional movement
+406,GerDracor/goethe-der-grosskophta.xml,24135,24344,"Denn wie
+              unglücklich dieser Mann ist, seitdem ihn sein unkluges Betragen vom Hofe entfernt hat,
+              wie leichtgläubig, wenn seinen Hoffnungen geschmeichelt wird, läßt sich nicht denken.",negative,emotions of suffering,suffering
+407,GerDracor/goethe-der-grosskophta.xml,24359,24470,"Ich brauchte es nicht so künstlich anzulegen, als ich es getan habe, und ich
+              überredete ihn doch.",negative,emotions of rejection,anger
+408,GerDracor/goethe-der-grosskophta.xml,24471,24523,Aber auf die Länge kann dieses Märchen nicht halten.,positive,emotions of suffering,suffering
+409,GerDracor/goethe-der-grosskophta.xml,24524,24546,Dafür laß mich sorgen.,negative,emotions of fear,anger
+410,GerDracor/goethe-der-grosskophta.xml,24547,24598,Er ist jetzt nahe dem Gipfel seiner Glückseligkeit.,positive,emotions of joy,joy
+411,GerDracor/goethe-der-grosskophta.xml,24599,24750,"Heute
+              nacht, als er mich auf seinem Landhause empfing, brachte ich ihm einen Brief von der
+              Prinzessin – Von der Prinzessin?",emotional movement,emotional movement,emotional movement
+412,GerDracor/goethe-der-grosskophta.xml,24751,24784,Den ich selbst geschrieben hatte.,negative,emotions of rejection,anger
+413,GerDracor/goethe-der-grosskophta.xml,24785,24885,"Er war in allgemeinen Ausdrücken gefaßt; die
+              Überbringerin, hieß es, würde mehr sagen.",negative,emotional movement,anger
+414,GerDracor/goethe-der-grosskophta.xml,24886,24897,Und weiter?,emotional movement,emotional movement,emotional movement

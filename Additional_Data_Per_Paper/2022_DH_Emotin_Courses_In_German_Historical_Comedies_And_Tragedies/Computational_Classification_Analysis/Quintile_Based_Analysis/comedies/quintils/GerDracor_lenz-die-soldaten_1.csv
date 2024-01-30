@@ -1,0 +1,390 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/lenz-die-soldaten.xml,0,46, Der Schauplatz ist im französischen Flandern.,positive,emotional movement,suffering
+1,GerDracor/lenz-die-soldaten.xml,47,56,In Lille.,negative,emotional movement,suffering
+2,GerDracor/lenz-die-soldaten.xml,57,65,Mariane.,emotional movement,emotional movement,emotional movement
+3,GerDracor/lenz-die-soldaten.xml,66,76,Charlotte.,emotional movement,emotional movement,emotional movement
+4,GerDracor/lenz-die-soldaten.xml,77,125,mit untergestütztem Kopf einen Brief schreibend.,negative,emotional movement,suffering
+5,GerDracor/lenz-die-soldaten.xml,126,194,"Schwester weißt du nicht, wie schreibt man Madam,  sitzt und spinnt.",negative,emotions of rejection,emotional movement
+6,GerDracor/lenz-die-soldaten.xml,195,208,So 'st recht.,positive,emotions of joy,joy
+7,GerDracor/lenz-die-soldaten.xml,209,289,"Hör ich will dir vorlesen, ob's so angeht wie ich schreibe: »Meine liebe Matamm!",positive,emotions of affection,joy
+8,GerDracor/lenz-die-soldaten.xml,290,393,"Wir
+              sein gottlob glücklich in Lille arriviert«, ist's so recht: arriviert,  So 'st recht.",positive,emotions of joy,joy
+9,GerDracor/lenz-die-soldaten.xml,394,537,"»Wir wissen nicht, womit die Gütigkeit nur verdient haben, womit uns überschüttet,
+              wünschte nur im Stand zu sein« – ist so recht?",negative,emotions of joy,joy
+10,GerDracor/lenz-die-soldaten.xml,538,576,So lies doch bis der Verstand aus ist.,negative,emotions of rejection,anger
+11,GerDracor/lenz-die-soldaten.xml,577,639,»Ihro alle die Politessen und Höflichkeit wieder zu erstatten.,negative,emotions of rejection,anger
+12,GerDracor/lenz-die-soldaten.xml,640,762,"Weil aber es noch
+              nicht in unsern Kräften steht, als bitten um fernere Condinuation.« Bitten wir um fernere.",negative,emotions of suffering,suffering
+13,GerDracor/lenz-die-soldaten.xml,763,808,"Laß doch sein, was fällst du mir in die Rede.",negative,emotions of rejection,anger
+14,GerDracor/lenz-die-soldaten.xml,809,844,Wir bitten um fernere Condinuation.,negative,emotional movement,anger
+15,GerDracor/lenz-die-soldaten.xml,845,896,"Ei was redst du doch, der Papa schreibt ja auch so.",emotional movement,emotions of rejection,anger
+16,GerDracor/lenz-die-soldaten.xml,897,959,Macht alles geschwind wieder zu und will den Brief versiegeln.,emotional movement,emotions of fear,fear
+17,GerDracor/lenz-die-soldaten.xml,960,984,"Nu, so les Sie doch aus.",negative,emotions of rejection,anger
+18,GerDracor/lenz-die-soldaten.xml,985,1016,Das übrige geht dich nichts an.,negative,emotions of rejection,anger
+19,GerDracor/lenz-die-soldaten.xml,1017,1200,"Sie will allesfort klüger sein als der Papa, letzthin
+              sagte der Papa auch es wäre nicht höflich wenn man immer »wir« schriebe und »ich« und
+              so dergleichen.",positive,emotions of rejection,anger
+20,GerDracor/lenz-die-soldaten.xml,1202,1213,Siegelt zu.,positive,emotions of affection,anger
+21,GerDracor/lenz-die-soldaten.xml,1214,1228,Gibt ihm Geld.,negative,emotions of rejection,anger
+22,GerDracor/lenz-die-soldaten.xml,1229,1336,"Sie wollt mir den Schluß nicht vorlesen, gewiß hat Sie da was Schönes vor den Herrn
+              Stolzius.",negative,emotions of joy,admiration
+23,GerDracor/lenz-die-soldaten.xml,1337,1361,Das geht dich nichts an.,negative,emotions of rejection,anger
+24,GerDracor/lenz-die-soldaten.xml,1362,1418,"Nu seht doch, bin ich denn schon schalu darüber gewesen?",negative,emotions of rejection,joy
+25,GerDracor/lenz-die-soldaten.xml,1419,1582,"Ich hätt ja eben so gut
+              schreiben können als du, aber ich hab dir das Vergnügen nicht berauben wollen, deine
+              Hand zur Schau zu stellen.",positive,emotions of affection,admiration
+26,GerDracor/lenz-die-soldaten.xml,1583,1707,"Hör Lotte laß mich zufrieden mit dem Stolzius ich sag dir's, oder ich geh gleich
+              herunter und klag's dem Papa.",negative,emotions of suffering,anger
+27,GerDracor/lenz-die-soldaten.xml,1708,1880,"Denk doch, was mach ich mir daraus, er weiß ja doch daß du verliebt in ihn bist und
+              daß du's nur nicht leiden kannst, wenn ein andrer ihn nur mit Namen nennt.",positive,emotions of affection,love
+28,GerDracor/lenz-die-soldaten.xml,1881,1887,Lotte!,emotional movement,emotional movement,emotional movement
+29,GerDracor/lenz-die-soldaten.xml,1889,1927,Fängt an zu weinen und läuft herunter.,negative,emotions of suffering,suffering
+30,GerDracor/lenz-die-soldaten.xml,1928,1943,In Armentières.,negative,emotions of suffering,suffering
+31,GerDracor/lenz-die-soldaten.xml,1944,1970,Stolzius und seine Mutter.,emotional movement,emotional movement,emotional movement
+32,GerDracor/lenz-die-soldaten.xml,1971,1992,mit verbundenem Kopf.,negative,emotions of suffering,suffering
+33,GerDracor/lenz-die-soldaten.xml,1993,2019,Mir ist nicht wohl Mutter.,negative,emotional movement,suffering
+34,GerDracor/lenz-die-soldaten.xml,2020,2054,steht eine Weile und sieht ihn an.,emotional movement,emotional movement,emotional movement
+35,GerDracor/lenz-die-soldaten.xml,2055,2137,"Nu, ich glaube Ihm steckt das verzweifelte Mädel im Kopf, darum tut er Ihm so weh.",negative,emotions of suffering,compassion
+36,GerDracor/lenz-die-soldaten.xml,2152,2211,Seit sie weggereist ist hat Er keine vergnügte Stunde mehr.,positive,emotions of joy,joy
+37,GerDracor/lenz-die-soldaten.xml,2212,2250,"Aus Ernst Mutter, mir ist nicht recht.",negative,emotions of suffering,suffering
+38,GerDracor/lenz-die-soldaten.xml,2251,2331,"Nu, wenn du mir gute Worte gibst, so will ich dir das Herz wohl leichter machen.",positive,emotions of joy,joy
+39,GerDracor/lenz-die-soldaten.xml,2332,2357,Zieht einen Brief heraus.,emotional movement,emotional movement,emotional movement
+40,GerDracor/lenz-die-soldaten.xml,2358,2370,springt auf.,emotional movement,emotional movement,emotional movement
+41,GerDracor/lenz-die-soldaten.xml,2371,2420,"Sie hat Euch geschrieben – Da, kannst du's lesen.",negative,emotions of joy,anger
+42,GerDracor/lenz-die-soldaten.xml,2422,2514,"Stolzius reißt ihn ihr aus der Hand und verschlingt den
+                Brief mit den Augen.",negative,emotions of fear,suffering
+43,GerDracor/lenz-die-soldaten.xml,2515,2554,Laßt mich den Brief beantworten Mutter.,negative,emotional movement,anger
+44,GerDracor/lenz-die-soldaten.xml,2555,2633,"Hanns Narr ich rede vom Tuch, das der Obrist' bestellt hat für die Regimenter.",positive,emotions of rejection,anger
+45,GerDracor/lenz-die-soldaten.xml,2634,2670,"Kommt
+              denn – In Lille.",positive,emotions of joy,joy
+46,GerDracor/lenz-die-soldaten.xml,2671,2679,Mariane.,emotional movement,emotional movement,emotional movement
+47,GerDracor/lenz-die-soldaten.xml,2680,2690,Desportes.,negative,emotions of suffering,emotional movement
+48,GerDracor/lenz-die-soldaten.xml,2691,2743,Was machen Sie denn da meine göttliche Mademoiselle?,emotional movement,emotional movement,emotional movement
+49,GerDracor/lenz-die-soldaten.xml,2744,2864,"die ein Buch weiß Papier vor sich liegen hat, auf dem sie krützelte, steckt
+              schnell die Feder hinters Ohr.",negative,emotional movement,suffering
+50,GerDracor/lenz-die-soldaten.xml,2865,2909,"O nichts, nichts, gnädiger Herr –  Lächelnd.",positive,emotions of joy,joy
+51,GerDracor/lenz-die-soldaten.xml,2910,3028,"Wenn ich nur so glücklich wäre, einen von Ihren Briefen, nur eine Zeile von Ihrer
+              schönen Hand zu sehen.",positive,emotions of joy,joy
+52,GerDracor/lenz-die-soldaten.xml,3029,3139,"O verzeihen Sie mir, ich schreibe gar nicht schön, ich schäme mich von meiner Schrift
+              zu weisen.",negative,emotions of rejection,"hate, disgust"
+53,GerDracor/lenz-die-soldaten.xml,3140,3194,Alles was von einer solchen Hand kommt muß schön sein.,positive,emotions of affection,admiration
+54,GerDracor/lenz-die-soldaten.xml,3195,3273,"O Herr Baron hören Sie auf, ich weiß doch daß das alles nur Komplimenten sein.",negative,emotions of rejection,anger
+55,GerDracor/lenz-die-soldaten.xml,3274,3281,kniend.,emotional movement,emotions of suffering,suffering
+56,GerDracor/lenz-die-soldaten.xml,3282,3391,"Ich schwöre Ihnen daß ich noch in meinem Leben nichts Vollkommeneres gesehen habe als
+              Sie sind.",positive,emotions of affection,love
+57,GerDracor/lenz-die-soldaten.xml,3392,3444,"strickt, die Augen auf ihre Arbeit niedergeschlagen.",negative,emotions of suffering,suffering
+58,GerDracor/lenz-die-soldaten.xml,3445,3511,"Meine Mutter hat mir doch gesagt – sehen Sie, wie falsch Sie sind.",negative,emotions of rejection,"hate, disgust"
+59,GerDracor/lenz-die-soldaten.xml,3512,3523,Ich falsch?,negative,emotional movement,emotional movement
+60,GerDracor/lenz-die-soldaten.xml,3524,3579,"Können Sie das von mir glauben, göttliche Mademoiselle?",positive,emotions of affection,admiration
+61,GerDracor/lenz-die-soldaten.xml,3580,3713,"Ist das falsch
+              wenn ich mich vom Regiment wegstehle, da ich mein Semestre doch verkauft  wieder auf ihre Arbeit sehend.",negative,emotions of rejection,emotional movement
+62,GerDracor/lenz-die-soldaten.xml,3714,3868,"Meine Mutter hat mir doch oft gesagt, ich sei noch nicht vollkommen ausgewachsen, ich
+              sei in den Jahren wo man weder schön noch häßlich ist.",negative,emotions of suffering,suffering
+63,GerDracor/lenz-die-soldaten.xml,3869,3890,Wesener tritt herein.,emotional movement,emotional movement,emotional movement
+64,GerDracor/lenz-die-soldaten.xml,3891,4003,"Ei sieh doch, gehorsamer Diener Herr Baron, wie kommt's denn daß wir wieder einmal
+              die Ehre haben.",positive,emotions of joy,joy
+65,GerDracor/lenz-die-soldaten.xml,4004,4015,Umarmt ihn.,positive,emotions of joy,joy
+66,GerDracor/lenz-die-soldaten.xml,4016,4134,"Ich bin nur auf einige Wochen hier, einen meiner Verwandten zu besuchen, der von
+              Brüssel angekommen ist.",negative,emotions of joy,joy
+67,GerDracor/lenz-die-soldaten.xml,4135,4463,"Ich bin nicht zu Hause gewesen, werden verzeihen, mein Marianel wird Sie ennuyiert
+              haben, wie befinden sich denn die werten Eltern, werden die Tabatieren doch erhalten
+              haben – Ohnezweifel, ich bin nicht bei ihnen gewesen, wir werden auch noch eine Rechnung mit
+              einander haben Vaterchen.",negative,emotions of suffering,emotional movement
+68,GerDracor/lenz-die-soldaten.xml,4464,4514,"O das hat gute Wege, es ist ja nicht das erstemal.",positive,emotions of joy,joy
+69,GerDracor/lenz-die-soldaten.xml,4515,4605,"Die gnädige Frau sind letzten
+              Winter nicht zu unserm Carnaval herabgekommen.",negative,emotions of suffering,suffering
+70,GerDracor/lenz-die-soldaten.xml,4606,4655,Sie befindet sich etwas unpaß – waren viel Bälle?,negative,emotional movement,emotional movement
+71,GerDracor/lenz-die-soldaten.xml,4656,4767,"So so es ließ sich noch halten – Sie wissen, ich komme auf keinen und meine Töchter
+              noch weniger.",negative,emotions of affection,suffering
+72,GerDracor/lenz-die-soldaten.xml,4768,4915,"Aber ist denn das auch erlaubt, Herr Wesener daß Sie Ihren Töchtern alles Vergnügen
+              so versagen, wie können sie dabei gesund bleiben.",negative,emotions of suffering,suffering
+73,GerDracor/lenz-die-soldaten.xml,4916,4968,O wenn sie arbeiten werden sie schon gesund bleiben.,negative,emotions of joy,suffering
+74,GerDracor/lenz-die-soldaten.xml,4969,5061,"Meinem Marianel fehlt doch Gott
+              sei Dank nichts und sie hat immer rote Backen.",negative,emotions of joy,compassion
+75,GerDracor/lenz-die-soldaten.xml,5062,5231,"Ja das läßt sich der Papa nicht ausreden und ich krieg doch so bisweilen so eng um
+              das Herz, daß ich nicht weiß wo ich vor Angst in der Stube bleiben soll.",negative,emotions of fear,fear
+76,GerDracor/lenz-die-soldaten.xml,5232,5379,"Sehn Sie, Sie gönnen Ihr Mademoiselle Tochter kein Vergnügen und das wird noch einmal
+              Ursache sein daß sie melancholisch werden wird.",negative,emotions of suffering,suffering
+77,GerDracor/lenz-die-soldaten.xml,5380,5503,"Ei was sie hat Vergnügen genug mit ihren Kamerädinnen, wenn sie zusammen sind hört
+              man sein eigen Wort nicht.",positive,emotions of joy,joy
+78,GerDracor/lenz-die-soldaten.xml,5504,5622,"Erlauben Sie mir daß ich die Ehre haben kann, Ihre Mademoiselle Tochter einmal in die
+              Komödie zu führen.",positive,emotions of joy,joy
+79,GerDracor/lenz-die-soldaten.xml,5623,5658,Man gibt heut ein ganz neues Stück.,positive,emotions of joy,joy
+80,GerDracor/lenz-die-soldaten.xml,5659,5668,Ach Papa!,emotional movement,emotional movement,suffering
+81,GerDracor/lenz-die-soldaten.xml,5669,5707,Nein – Nein durchaus nicht Herr Baron!,negative,emotions of rejection,emotional movement
+82,GerDracor/lenz-die-soldaten.xml,5708,5776,"Nehmen Sie mir's nicht ungnädig, davon kein
+              Wort mehr.",negative,emotions of suffering,anger
+83,GerDracor/lenz-die-soldaten.xml,5777,5941,"Meine Tochter ist nicht gewohnt in die Komödie zu gehen, das würde nur
+              Gerede bei den Nachbarn geben, und mit einem jungen Herrn von den Milizen dazu.",negative,emotions of rejection,anger
+84,GerDracor/lenz-die-soldaten.xml,5942,5993,"Sie sehen ich bin im Bürgerskleide, wer kennt mich.",negative,emotions of joy,joy
+85,GerDracor/lenz-die-soldaten.xml,5994,6003,Tant pis!,negative,emotions of rejection,anger
+86,GerDracor/lenz-die-soldaten.xml,6004,6259,"ein für allemal es schickt sich mit keinem jungen Herren und denn ist es
+              auch noch nicht einmal zum Tisch des Herrn gewesen und soll schon in die Komödie und
+              die Staatsdame machen, kurz und gut, ich erlaube es nicht Herr Baron.",negative,emotions of rejection,"hate, disgust"
+87,GerDracor/lenz-die-soldaten.xml,6260,6315,"Aber Papa, wenn den Herrn Baron doch nun niemand kennt.",positive,emotional movement,emotional movement
+88,GerDracor/lenz-die-soldaten.xml,6316,6328,etwas leise.,emotional movement,emotional movement,emotional movement
+89,GerDracor/lenz-die-soldaten.xml,6329,6351,Willstu's Maul halten?,negative,emotions of rejection,anger
+90,GerDracor/lenz-die-soldaten.xml,6352,6399,"niemand kennt, tant pis wenn ihn niemand kennt.",negative,emotions of affection,emotional movement
+91,GerDracor/lenz-die-soldaten.xml,6400,6445,"Werden
+              pardonnieren Herr Baron!",positive,emotions of suffering,suffering
+92,GerDracor/lenz-die-soldaten.xml,6446,6545,"so gern als Ihnen den Gefallen tun wollte, in allen andern
+              Stücken haben zu befehlen.",positive,emotions of affection,admiration
+93,GerDracor/lenz-die-soldaten.xml,6546,6570,A propos lieber Wesener!,positive,emotions of affection,joy
+94,GerDracor/lenz-die-soldaten.xml,6571,6649,"wollten Sie mir doch nicht einige von Ihren Zitternadeln
+              weisen.",negative,emotions of rejection,fear
+95,GerDracor/lenz-die-soldaten.xml,6650,6659,Sogleich.,negative,emotional movement,anger
+96,GerDracor/lenz-die-soldaten.xml,6660,6672,Geht heraus.,negative,emotions of fear,fear
+97,GerDracor/lenz-die-soldaten.xml,6673,6789,"Wissen Sie was mein englisches mein göttliches Marianel, wir wollen Ihrem Vater einen
+              Streich spielen.",negative,emotions of rejection,"hate, disgust"
+98,GerDracor/lenz-die-soldaten.xml,6791,6803,Frau Weyher.,negative,emotional movement,emotional movement
+99,GerDracor/lenz-die-soldaten.xml,6804,6817,Wo wohnt sie?,emotional movement,emotional movement,emotional movement
+100,GerDracor/lenz-die-soldaten.xml,6818,6855,Gleich hier an der Ecke beim Brunnen.,negative,emotions of rejection,anger
+101,GerDracor/lenz-die-soldaten.xml,6856,6954,"Da komm ich hin und da kommen Sie auch hin, so gehn wir mit einander in die
+              Komödie.",positive,emotions of joy,joy
+102,GerDracor/lenz-die-soldaten.xml,6955,7016,Wesener kommt wieder mit einer großen Schachtel Zitternadeln.,positive,emotions of rejection,Schadenfreude
+103,GerDracor/lenz-die-soldaten.xml,7017,7067,"Mariane winkt
+              Desportes lächelnd zu.",positive,emotions of joy,joy
+104,GerDracor/lenz-die-soldaten.xml,7068,7202,"Sehen Sie da sind zu allen Preisen – diese zu hundert Talern, diese zu funfzig, diese
+              zu hundertfunfzig wie es befehlen.",positive,emotions of joy,joy
+105,GerDracor/lenz-die-soldaten.xml,7203,7265,besieht eine nach der andern und weist die Schachtel Marianen.,positive,emotions of affection,admiration
+106,GerDracor/lenz-die-soldaten.xml,7266,7292,Zu welcher rieten Sie mir?,emotional movement,emotional movement,emotional movement
+107,GerDracor/lenz-die-soldaten.xml,7293,7398,"Mariane lächelt und sobald der Vater beschäftigt ist eine herauszunehmen, winkt
+              sie ihm zu.",positive,emotions of joy,joy
+108,GerDracor/lenz-die-soldaten.xml,7399,7439,"Sehen Sie die spielt gut, auf meine Ehr.",positive,emotions of affection,admiration
+109,GerDracor/lenz-die-soldaten.xml,7440,7453,Das ist wahr.,negative,emotions of suffering,joy
+110,GerDracor/lenz-die-soldaten.xml,7455,7485,Hält sie Marianen an den Kopf.,negative,emotions of rejection,anger
+111,GerDracor/lenz-die-soldaten.xml,7486,7515,gibt sie ihm lächelnd zurück.,positive,emotions of joy,joy
+112,GerDracor/lenz-die-soldaten.xml,7516,7656,"Ich bitte Sie Herr Baron – das geht nicht an – meine Tochter hat noch in ihrem Leben
+              keine Präsente von den Herren angenommen.",negative,emotions of suffering,emotional movement
+113,GerDracor/lenz-die-soldaten.xml,7657,7697,die Augen fest auf ihre Arbeit geheftet.,emotional movement,emotional movement,emotional movement
+114,GerDracor/lenz-die-soldaten.xml,7698,7798,"Ich würde sie auch zu dem nicht haben tragen können, sie ist zu groß für meine
+              Frisur.",positive,emotions of affection,love
+115,GerDracor/lenz-die-soldaten.xml,7799,7838,So will ich sie meiner Mutter schicken.,negative,emotions of affection,anger
+116,GerDracor/lenz-die-soldaten.xml,7839,7866,Wickelt sie sorgfältig ein.,negative,emotions of affection,compassion
+117,GerDracor/lenz-die-soldaten.xml,7867,7935,indem er die andern einschachtelt brummt etwas heimlich zu Marianen.,negative,emotions of rejection,Schadenfreude
+118,GerDracor/lenz-die-soldaten.xml,7936,8089,"Zitternadel du selber, sollst in deinem Leben keine auf den Kopf bekommen, das ist
+                 Sie schweigt still und arbeitet
+                fort.",negative,emotions of rejection,anger
+119,GerDracor/lenz-die-soldaten.xml,8090,8129,So empfehle ich mich denn Herr Wesener!,positive,emotions of affection,friendship
+120,GerDracor/lenz-die-soldaten.xml,8130,8166,"Eh ich wegreise, machen wir richtig.",positive,emotions of joy,anger
+121,GerDracor/lenz-die-soldaten.xml,8167,8286,"Das hat gute Wege Herr Baron, das hat gute Wege, sein Sie so gütig und tun uns einmal
+              wieder die Ehre an.",positive,emotions of joy,joy
+122,GerDracor/lenz-die-soldaten.xml,8287,8342,Wenn Sie mir's erlauben wollen – Adieu Jungfer Mariane!,positive,emotions of suffering,anger
+123,GerDracor/lenz-die-soldaten.xml,8343,8346,Ab.,negative,emotional movement,anger
+124,GerDracor/lenz-die-soldaten.xml,8347,8394,Aber sag Er mir doch Papa wie ist Er denn auch.,emotional movement,emotional movement,emotional movement
+125,GerDracor/lenz-die-soldaten.xml,8395,8443,Na hab ich dir schon wieder nicht recht gemacht.,negative,emotions of rejection,suffering
+126,GerDracor/lenz-die-soldaten.xml,8444,8509,"Was verstehst du doch von der Welt,
+              dummes Keuchel.",negative,emotions of rejection,anger
+127,GerDracor/lenz-die-soldaten.xml,8510,8559,Er hat doch gewiß ein gutes Gemüt der Herr Baron.,positive,emotions of affection,admiration
+128,GerDracor/lenz-die-soldaten.xml,8560,8702,"Weil er dir ein paar Schmeicheleien und so und so – Einer ist so gut wie der andere,
+              lehr du mich die jungen Milizen nit kennen.",positive,emotions of rejection,admiration
+129,GerDracor/lenz-die-soldaten.xml,8703,8879,"Da laufen sie in alle Aubergen und in alle
+              Kaffeehäuser und erzählen sich und eh man sich's versieht, wips ist ein armes Maidel
+              in der Leute Mäuler.",negative,emotions of rejection,compassion
+130,GerDracor/lenz-die-soldaten.xml,8880,9051,"Ja und mit der und der Jungfer ist's auch nicht zum besten
+              bestellt und die und die kenn ich auch und die hätt ihn auch gern drin – Papa  Fängt an zu weinen.",negative,emotions of suffering,suffering
+131,GerDracor/lenz-die-soldaten.xml,9052,9078,klopft sie auf die Backen.,positive,emotions of joy,anger
+132,GerDracor/lenz-die-soldaten.xml,9079,9202,"Du mußt mir das so übel nicht nehmen, du bist meine einzige Freude, Narr, darum trag
+              ich auch Sorge für dich.",positive,emotions of rejection,compassion
+133,GerDracor/lenz-die-soldaten.xml,9203,9262,Wenn Er mich doch nur wollte für mich selber sorgen lassen.,negative,emotions of rejection,anger
+134,GerDracor/lenz-die-soldaten.xml,9263,9311,"Ich bin doch kein klein
+              Kind mehr.",negative,emotions of joy,"hate, disgust"
+135,GerDracor/lenz-die-soldaten.xml,9312,9327,In Armentières.,negative,emotions of suffering,suffering
+136,GerDracor/lenz-die-soldaten.xml,9328,9525,"Der Obriste Graf Spannheim am Tisch mit seinem Feldprediger Eisenhardt, einem
+            jungen Grafen seinem Vetter und dessen Hofmeister, Haudy Untermajor, Mary und andern
+            Offiziers.",emotional movement,emotions of joy,joy
+137,GerDracor/lenz-die-soldaten.xml,9526,9587,Ob wir nicht bald wieder eine gute Truppe werden herbekommen?,negative,emotions of joy,joy
+138,GerDracor/lenz-die-soldaten.xml,9588,9644,"Das wäre zu wünschen, besonders für unsere junge Herren.",positive,emotions of joy,joy
+139,GerDracor/lenz-die-soldaten.xml,9645,9696,"Man sagt Godeau hat
+              herkommen wollen.",positive,emotions of affection,joy
+140,GerDracor/lenz-die-soldaten.xml,9697,9929,"Es ist doch in der Tat nicht zu leugnen, daß die Schaubühne eine fast unentbehrliche
+              Sache für eine Garnison ist, c'est à dire eine Schaubühne wo Geschmack herrscht, wie
+              zum Exempel auf der französischen.",positive,emotions of affection,admiration
+141,GerDracor/lenz-die-soldaten.xml,9930,9978,"Ich sehe nicht ab, wo der Nutzen stecken sollte.",emotional movement,emotions of rejection,emotional movement
+142,GerDracor/lenz-die-soldaten.xml,9979,10132,"Das sagen Sie wohl nur so Herr Pastor, weil Sie die beiden kleinen weißen Läppchen
+              unterm Kinn haben, ich weiß im Herzen denken Sie anders.",positive,emotions of affection,admiration
+143,GerDracor/lenz-die-soldaten.xml,10133,10160,Verzeihen Sie Herr Obriste!,negative,emotions of suffering,suffering
+144,GerDracor/lenz-die-soldaten.xml,10161,10388,"ich bin nie Heuchler gewesen und wenn das ein notwendiges
+              Laster für unsern Stand wäre, so dächt ich wären doch die Feldprediger davon wohl
+              ausgenommen, da sie mit vernünftigeren Leuten zu tun haben.",negative,emotions of rejection,admiration
+145,GerDracor/lenz-die-soldaten.xml,10389,10591,"Ich liebe das Theater
+              selber und gehe gern hinein ein gutes Stück zu sehen, aber deswegen glaube ich noch
+              nicht, daß es ein so heilsames Institut für das Corps Offiziers sei.",positive,emotions of affection,love
+146,GerDracor/lenz-die-soldaten.xml,10592,10773,"Aber um Gotteswillen Herr Pfaff oder Herr Pfarr wie Sie da heißen, sagen Sie mir
+              einmal, was für Unordnungen werden nicht vorgebeugt oder abgehalten durch die Komödie.",negative,emotions of suffering,emotional movement
+147,GerDracor/lenz-die-soldaten.xml,10788,10841,Die Offizier[s] müssen doch einen Zeitvertreib haben.,negative,emotions of rejection,joy
+148,GerDracor/lenz-die-soldaten.xml,10842,10872,Mit aller Mäßigung Herr Major!,emotional movement,emotions of suffering,anger
+149,GerDracor/lenz-die-soldaten.xml,10873,10935,sagen Sie  Das ist nun wieder so in den Tag hinein räsonniert.,negative,emotions of rejection,suffering
+150,GerDracor/lenz-die-soldaten.xml,10936,11022,"Kurz und gut Herr  Lehnt
+                sich mit den beiden Ellenbogen auf den Tisch.",negative,emotional movement,suffering
+151,GerDracor/lenz-die-soldaten.xml,11023,11044,winkt Haudy unwillig.,negative,emotions of rejection,anger
+152,GerDracor/lenz-die-soldaten.xml,11045,11051,Major!,positive,emotional movement,emotional movement
+153,GerDracor/lenz-die-soldaten.xml,11052,11158,"Wenn ich mit Vorurteilen für mein Amt eingenommen wäre Herr Major, so würde ich böse
+              werden.",negative,emotions of rejection,anger
+154,GerDracor/lenz-die-soldaten.xml,11159,11503,"So aber wollen wir alles das bei Seite setzen, weil ich weder Sie noch viele
+              von den Herren für fähig halte, den eigentlichen Nutzen unsers Amts in Ihrem ganzen
+              Leben beurteilen zu können, und wollen nur bei der Komödie bleiben und de[m]
+              erstaunenden Nutzen den sie für die Herren vom Corps haben soll.",positive,emotions of joy,emotional movement
+155,GerDracor/lenz-die-soldaten.xml,11504,11600,"Ich bitte Sie,
+              beantworten Sie mir eine einzige Frage, was lernen die Herren dort?",emotional movement,emotional movement,emotional movement
+156,GerDracor/lenz-die-soldaten.xml,11601,11674,"Ei was, muß man denn immer lernen, wir amüsieren uns ist das nicht genug.",positive,emotions of joy,joy
+157,GerDracor/lenz-die-soldaten.xml,11675,11739,"Wollte Gott daß Sie sich bloß amüsierten, daß Sie nicht lernten!",positive,emotions of joy,joy
+158,GerDracor/lenz-die-soldaten.xml,11740,11869,"So aber ahmen Sie
+              nach was Ihnen dort vorgestellt wird und bringen Unglück und Fluch in die
+              Familien.",negative,emotions of rejection,"hate, disgust"
+159,GerDracor/lenz-die-soldaten.xml,11870,12002,"Lieber Herr Pastor, Ihr Enthusiasmus ist löblich, aber er schmeckt nach dem schwarzen
+              Rock, nehmen Sie mir nicht übel.",positive,emotions of rejection,Schadenfreude
+160,GerDracor/lenz-die-soldaten.xml,12003,12086,"Welche Familie ist noch je durch einen Offizier
+              unglücklich geworden?",negative,emotions of suffering,suffering
+161,GerDracor/lenz-die-soldaten.xml,12087,12170,"Daß ein Mädel einmal ein Kind kriegt, das es nicht besser haben
+              will.",negative,emotions of rejection,"hate, disgust"
+162,GerDracor/lenz-die-soldaten.xml,12171,12310,"Eine Hure wird immer eine Hure, gerate sie unter welche Hände sie will, wird's keine
+              Soldatenhure so wird's eine Pfaffenhure.",negative,emotions of rejection,"hate, disgust"
+163,GerDracor/lenz-die-soldaten.xml,12311,12465,"Herr Major es verdrießt mich daß Sie immer die Pfaffen mit ins Spiel mengen, weil Sie
+              mich dadurch verhindern, Ihnen freimütig zu antworten.",negative,emotions of rejection,anger
+164,GerDracor/lenz-die-soldaten.xml,12466,12742,"Sie könnten denken es mische
+              sich persönliche Bitterkeit in meine Reden, und wenn ich in Feuer gerate so schwöre
+              ich Ihnen doch, daß es bloß die Sache ist von der wir sprechen, nicht Ihre Spöttereien
+              und Anzüglichkeiten über mein Amt.",negative,emotions of rejection,anger
+165,GerDracor/lenz-die-soldaten.xml,12743,12836,"Das kann durch alle dergleichen witzige Einfälle
+              weder verlieren noch gewinnen.",positive,emotions of joy,joy
+166,GerDracor/lenz-die-soldaten.xml,12837,12939,"Na so reden Sie, reden Sie, schwatzen Sie, dafür sind wir ja da, wer verbietet es
+              Ihnen?",negative,emotions of rejection,anger
+167,GerDracor/lenz-die-soldaten.xml,12940,13153,"Was Sie vorhin gesagt haben war ein Gedanke der eines Nero oder Oglei Oglu Seele
+              würdig gewesen wäre und auch da bei seiner ersten Erscheinung vielleicht Grausen würde
+              verursacht haben.",negative,emotions of rejection,"hate, disgust"
+168,GerDracor/lenz-die-soldaten.xml,13154,13242,"Eine Hure wird immer eine Hure, kennen Sie das andere Geschlecht so
+              genau?",positive,emotions of rejection,"hate, disgust"
+169,GerDracor/lenz-die-soldaten.xml,13243,13287,Herr Sie werden es mich nicht kennen lehren.,negative,emotions of rejection,anger
+170,GerDracor/lenz-die-soldaten.xml,13288,13468,"Sie kennen es von den Meisterstücken Ihrer Kunst vielleicht, aber erlauben Sie mir
+              Ihnen zu sagen, eine Hure wird niemals eine Hure, wenn sie nicht dazu gemacht wird.",negative,emotions of rejection,"hate, disgust"
+171,GerDracor/lenz-die-soldaten.xml,13483,13703,"Der Trieb ist in allen Menschen, aber jedes Frauenzimmer weiß, daß sie dem Triebe ihre
+              ganze künftige Glückseligkeit zu danken hat, und wird sie die aufopfern, wenn man sie
+              nicht drum betrügt?",positive,emotions of joy,joy
+172,GerDracor/lenz-die-soldaten.xml,13704,13738,Red ich denn von honetten Mädchen?,emotional movement,emotions of rejection,emotional movement
+173,GerDracor/lenz-die-soldaten.xml,13739,13862,"Eben die honetten Mädchen müssen zittern vor Ihren Komödien, da lernen Sie die Kunst
+              sie malhonett zu machen.",negative,emotions of joy,fear
+174,GerDracor/lenz-die-soldaten.xml,13863,13891,Wer wird so schlecht denken.,negative,emotions of suffering,anger
+175,GerDracor/lenz-die-soldaten.xml,13892,13950,Der Herr hat auch ein verfluchtes Maul über die Offiziers.,negative,emotions of rejection,anger
+176,GerDracor/lenz-die-soldaten.xml,13951,14007,"Sackerment wenn mir ein
+              anderer das sagte.",negative,emotions of rejection,anger
+177,GerDracor/lenz-die-soldaten.xml,14008,14109,"Meint Er Herr denn, wir hören auf, honnêtehommes zu sein, sobald
+              wir in Dienste treten.",positive,emotions of affection,admiration
+178,GerDracor/lenz-die-soldaten.xml,14110,14161,Ich wünsche Ihnen viel Glück zu diesen Gesinnungen.,positive,emotions of joy,friendship
+179,GerDracor/lenz-die-soldaten.xml,14162,14254,"Solang ich aber noch
+              entretenierte Mätressen  Das verdiente einen Nasenstüber.",negative,emotions of rejection,"hate, disgust"
+180,GerDracor/lenz-die-soldaten.xml,14255,14265,steht auf.,positive,emotional movement,emotional movement
+181,GerDracor/lenz-die-soldaten.xml,14266,14293,"Herr, ich trag einen Degen.",negative,emotions of rejection,anger
+182,GerDracor/lenz-die-soldaten.xml,14294,14373,"Major ich bitt Euch – Herr Eisenhardt hat nicht unrecht, was wollt Ihr von ihm.",positive,emotions of rejection,anger
+183,GerDracor/lenz-die-soldaten.xml,14374,14500,"Und
+              der erste der ihm zu nahe kommt – setzen Sie sich Herr Pastor, er soll Ihnen
+              Genugtuung geben.",negative,emotions of joy,anger
+184,GerDracor/lenz-die-soldaten.xml,14502,14520,Haudy geht hinaus.,negative,emotional movement,fear
+185,GerDracor/lenz-die-soldaten.xml,14521,14560,"Wenn er Zeit genug hat, dran zu denken.",negative,emotions of suffering,suffering
+186,GerDracor/lenz-die-soldaten.xml,14561,14888,"Aber werden ihm nicht in den neusten Komödien
+              die gröbsten Verbrechen gegen die heiligsten Rechte der Väter und Familien unter so
+              reizenden Farben vorgestellt, den giftigsten Handlungen so der Stachel genommen, daß
+              ein Bösewicht dasteht als ob er ganz neulich vom Himmel gefallen wäre.",negative,emotions of joy,Schadenfreude
+187,GerDracor/lenz-die-soldaten.xml,14889,15040,"Sollte das
+              nicht aufmuntern, sollte das nicht alles ersticken was das Gewissen aus der Eltern
+              Hause mitgebracht haben kann.",negative,emotions of suffering,suffering
+188,GerDracor/lenz-die-soldaten.xml,15041,15214,"Einen wachsamen Vater zu betriegen oder ein unschuldig
+              Mädchen in Lastern zu unterrichten, das sind die Preisaufgaben, die dort aufgelöst
+              werden.",positive,emotions of joy,joy
+189,GerDracor/lenz-die-soldaten.xml,15215,15268,"im Vorhause mit andern Offiziers, da die Tür aufgeht.",positive,emotional movement,suffering
+190,GerDracor/lenz-die-soldaten.xml,15269,15409,"Der verfluchte Schwarzrock – Laßt uns ins Kaffeehaus gehn Pfarrer, Sie sind mir die Revange im Schach schuldig –
+              und Adjutant!",positive,emotions of rejection,anger
+191,GerDracor/lenz-die-soldaten.xml,15410,15506,"wollten Sie doch dem Major Haudy für heut bitten, nicht aus seiner Stube
+              zu gehen.",negative,emotions of rejection,anger
+192,GerDracor/lenz-die-soldaten.xml,15507,15596,"Sagen Sie ihm, ich werde ihm morgen früh seinen Degen selber
+              wiederbringen.",negative,emotions of rejection,anger
+193,GerDracor/lenz-die-soldaten.xml,15597,15606,In Lille.,negative,emotional movement,suffering
+194,GerDracor/lenz-die-soldaten.xml,15607,15678,Wesener sitzt und speist zu Nacht mit seiner Frau und ältesten Tochter.,negative,emotions of suffering,suffering
+195,GerDracor/lenz-die-soldaten.xml,15679,15725,"Mariane
+            tritt ganz geputzt herein.",positive,emotions of joy,joy
+196,GerDracor/lenz-die-soldaten.xml,15726,15748,fällt ihm um den Hals.,positive,emotions of rejection,joy
+197,GerDracor/lenz-die-soldaten.xml,15749,15766,"Ach Pappa, Pappa!",negative,emotional movement,emotional movement
+198,GerDracor/lenz-die-soldaten.xml,15767,15784,mit vollem Munde.,negative,emotions of rejection,anger
+199,GerDracor/lenz-die-soldaten.xml,15785,15808,"Was ist, was fehlt dir.",negative,emotions of suffering,compassion
+200,GerDracor/lenz-die-soldaten.xml,15809,15872,"Ich kann's Ihm nicht verhehlen, ich bin in der Komödie gewesen.",positive,emotions of joy,Schadenfreude
+201,GerDracor/lenz-die-soldaten.xml,15873,15909,"Was das für Dings
+              ist.",negative,emotions of rejection,emotional movement
+202,GerDracor/lenz-die-soldaten.xml,15910,15968,rückt seinen Stuhl vom Tisch weg und kehrt das Gesicht ab.,negative,emotions of suffering,suffering
+203,GerDracor/lenz-die-soldaten.xml,15969,16054,"Wenn Er gesehen hätte was ich gesehen habe, Er würde wahrhaftig nicht böse sein Papa.",negative,emotions of rejection,anger
+204,GerDracor/lenz-die-soldaten.xml,16072,16101,Setzt sich ihm auf den Schoß.,positive,emotions of affection,joy
+205,GerDracor/lenz-die-soldaten.xml,16102,16149,"Was, der Baron hat dich in die Komödie geführt?",emotional movement,emotional movement,joy
+206,GerDracor/lenz-die-soldaten.xml,16150,16166,etwas furchtsam.,negative,emotions of fear,fear
+207,GerDracor/lenz-die-soldaten.xml,16167,16190,Ja Papa – lieber Pappa!,positive,emotions of joy,joy
+208,GerDracor/lenz-die-soldaten.xml,16191,16218,stößt sie von seinem Schoß.,negative,emotions of affection,love
+209,GerDracor/lenz-die-soldaten.xml,16219,16281,"Fort von mir, du Luder – willst die Mätresse vom Baron werden?",negative,emotions of rejection,"hate, disgust"
+210,GerDracor/lenz-die-soldaten.xml,16282,16327,"mit dem Gesicht halb abgekehrt, halb weinend.",negative,emotions of suffering,suffering
+211,GerDracor/lenz-die-soldaten.xml,16328,16397,Ich war bei der Weyhern – und da stunden wir an der Tür –  Stotternd.,negative,emotional movement,suffering
+212,GerDracor/lenz-die-soldaten.xml,16398,16496,"Ja lüg nur, lüg nur dem Teufel ein Ohr ab – geh mir aus den Augen du gottlose
+              Seele.",negative,emotions of rejection,anger
+213,GerDracor/lenz-die-soldaten.xml,16497,16560,Das hätt ich dem Papa wollen voraussagen daß es so gehen würde.,negative,emotions of suffering,suffering
+214,GerDracor/lenz-die-soldaten.xml,16561,16646,"Sie haben immer
+              Geheimlichkeiten miteinander gehabt, sie und der Baron.",negative,emotions of affection,love
+215,GerDracor/lenz-die-soldaten.xml,16647,16655,weinend.,negative,emotions of suffering,suffering
+216,GerDracor/lenz-die-soldaten.xml,16656,16682,Willst du das Maul halten.,negative,emotions of rejection,anger
+217,GerDracor/lenz-die-soldaten.xml,16683,16714,"Denk doch, vor dir gewiß nicht.",negative,emotions of fear,fear
+218,GerDracor/lenz-die-soldaten.xml,16715,16779,"Will noch kommandieren dazu und führt sich so
+              auf.",negative,emotions of rejection,anger
+219,GerDracor/lenz-die-soldaten.xml,16780,16848,Nimm dich nur man selber in Acht mit deinem jungen Herrn Heidevogel.,negative,emotions of rejection,anger
+220,GerDracor/lenz-die-soldaten.xml,16849,16928,"Wenn ich mich so
+              schlecht aufführte als du – Wollt ihr schweigen?",negative,emotions of rejection,anger
+221,GerDracor/lenz-die-soldaten.xml,16930,16942,Zu Marianel.,positive,emotional movement,love
+222,GerDracor/lenz-die-soldaten.xml,16943,16977,"Mariane geht
+                fort.",negative,emotions of rejection,fear
+223,GerDracor/lenz-die-soldaten.xml,16978,17012,Das ist alles des Marianel Schuld.,negative,emotions of suffering,compassion
+224,GerDracor/lenz-die-soldaten.xml,17014,17020,Weint.,negative,emotions of suffering,suffering
+225,GerDracor/lenz-die-soldaten.xml,17021,17031,sehr laut.,emotional movement,emotions of rejection,emotional movement
+226,GerDracor/lenz-die-soldaten.xml,17032,17044,Halt's Maul!,negative,emotions of rejection,anger
+227,GerDracor/lenz-die-soldaten.xml,17045,17267,"Mariane hat ein viel zu edles Gemüt als daß sie von dir reden sollte,
+              aber du schalusierst auf deine eigene Schwester; weil du nicht so schön bist als sie,
+              sollst du zum wenigsten besser denken.",negative,emotions of rejection,"hate, disgust"
+228,GerDracor/lenz-die-soldaten.xml,17268,17291,Schäm dich –  Zur Magd.,negative,emotions of rejection,anger
+229,GerDracor/lenz-die-soldaten.xml,17292,17408,"Schiebt Teller und Serviette fort, wirft sich in einen Lehnstuhl und bleibt in
+              tiefen Gedanken sitzen.",emotional movement,emotional movement,emotional movement
+230,GerDracor/lenz-die-soldaten.xml,17409,17426,Marianens Zimmer.,negative,emotions of suffering,emotional movement
+231,GerDracor/lenz-die-soldaten.xml,17427,17545,"Sie sitzt auf ihrem Bett, hat die Zitternadel in der Hand und spiegelt damit, in
+            den tiefsten Träumereien.",positive,emotions of fear,emotional movement
+232,GerDracor/lenz-die-soldaten.xml,17546,17635,"Der Vater tritt herein, sie fährt auf und sucht die
+            Zitternadel zu verbergen.",negative,emotions of fear,emotional movement
+233,GerDracor/lenz-die-soldaten.xml,17636,17690,Ach Herr Jesus – – Na so mach Sie doch das Kind nicht.,negative,emotions of suffering,compassion
+234,GerDracor/lenz-die-soldaten.xml,17692,17761,"Geht einigemal auf und ab, dann setzt er
+                sich zu ihr.",emotional movement,emotional movement,emotional movement
+235,GerDracor/lenz-die-soldaten.xml,17762,17781,sehr geheimnisvoll.,emotional movement,emotional movement,emotional movement
+236,GerDracor/lenz-die-soldaten.xml,17782,17788,Pappa!,negative,emotions of rejection,emotional movement
+237,GerDracor/lenz-die-soldaten.xml,17789,17829,"– er ist verliebt in mich, das ist wahr.",positive,emotions of affection,love
+238,GerDracor/lenz-die-soldaten.xml,17830,17905,"Sieht Er einmal, diese Zitternadel
+              hat er mir auch geschenkt.",positive,emotions of joy,joy
+239,GerDracor/lenz-die-soldaten.xml,17906,18001,"Was tausend Hagelweeter – Potz Mord noch einmal  Nimmt ihr die Zitternadel
+                weg.",negative,emotions of rejection,"hate, disgust"
+240,GerDracor/lenz-die-soldaten.xml,18002,18067,Aber Papa ich kann doch so grob nicht sein und es ihm abschlagen.,positive,emotions of rejection,anger
+241,GerDracor/lenz-die-soldaten.xml,18068,18190,"Ich sag Ihm er hat
+              getan wie wütig, als ich's nicht annehmen wollte  Läuft nach dem
+                Schrank.",negative,emotions of rejection,"hate, disgust"
+242,GerDracor/lenz-die-soldaten.xml,18191,18229,"Reicht ihm
+                ein Papier.",negative,emotions of rejection,anger
+243,GerDracor/lenz-die-soldaten.xml,18230,18241,liest laut.,emotional movement,emotional movement,emotional movement
+244,GerDracor/lenz-die-soldaten.xml,18242,18334,"Du höchster Gegenstand von meinen reinen Trieben Ich bet dich an, ich will dich ewig lieben.",positive,emotions of affection,love
+245,GerDracor/lenz-die-soldaten.xml,18335,18427,Weil die Versicherung von meiner Lieb und Treu Du allerschönstes Licht mit jedem Morgen neu.,positive,emotions of affection,love
+246,GerDracor/lenz-die-soldaten.xml,18428,18462,"Du allerschönstes Licht, ha ha ha.",positive,emotions of joy,joy
+247,GerDracor/lenz-die-soldaten.xml,18463,18597,"Wart Er, ich will Ihm noch was weisen, er hat mir auch ein Herzchen geschenkt mit
+              kleinen Steinen besetzt in einem Ring.",positive,emotions of affection,joy
+248,GerDracor/lenz-die-soldaten.xml,18598,18617,Wieder zum Schrank.,emotional movement,emotional movement,emotional movement
+249,GerDracor/lenz-die-soldaten.xml,18618,18652,Der Vater besieht es gleichgültig.,emotional movement,emotional movement,emotional movement
+250,GerDracor/lenz-die-soldaten.xml,18653,18671,liest noch einmal.,emotional movement,emotional movement,emotional movement
+251,GerDracor/lenz-die-soldaten.xml,18672,18721,Du höchster Gegenstand von meinen reinen Trieben.,positive,emotions of affection,love
+252,GerDracor/lenz-die-soldaten.xml,18723,18770,"Steckt die Verse in die
+                Tasche.",negative,emotions of rejection,anger
+253,GerDracor/lenz-die-soldaten.xml,18771,18801,Das ist sein gutes Herz Pappa.,positive,emotions of affection,friendship
+254,GerDracor/lenz-die-soldaten.xml,18802,18864,"Und die Zitternadel gib mir her, die will ich ihm zurückgeben.",negative,emotions of fear,anger
+255,GerDracor/lenz-die-soldaten.xml,18865,19320,"Laß mich nur machen,
+              ich weiß schon was zu deinem Glück dient, ich hab länger in der Welt gelebt als du
+              mein' Tochter und du kannst nur immer allesfort mit ihm in die Komödien gehn, nur nimm
+              jedesmal die Madam Weyher mit, und laß dir nur immer nichts davon merken als ob ich
+              davon wüßte sondern sag nur, daß er's recht geheim hält und daß ich sehr böse werden
+              würde wenn ich's erführe.",positive,emotions of rejection,Schadenfreude
+256,GerDracor/lenz-die-soldaten.xml,19321,19396,"Nur keine Präsente von ihm angenommen Mädel, um
+              Gotteswillen.",negative,emotions of fear,fear

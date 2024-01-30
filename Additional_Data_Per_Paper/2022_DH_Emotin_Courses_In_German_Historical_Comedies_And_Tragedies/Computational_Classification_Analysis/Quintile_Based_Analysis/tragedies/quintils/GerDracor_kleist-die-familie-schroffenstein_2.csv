@@ -1,0 +1,559 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+552,GerDracor/kleist-die-familie-schroffenstein.xml,29938,29983,"Ich will dich meiden, das ist wohl das Beste.",negative,emotions of rejection,anger
+553,GerDracor/kleist-die-familie-schroffenstein.xml,29984,30036,"Denn hier in deiner Nähe stinkt es, wie Bei Mördern.",negative,emotions of rejection,"hate, disgust"
+554,GerDracor/kleist-die-familie-schroffenstein.xml,30037,30065,Sylvester fällt in Ohnmacht.,negative,emotions of suffering,suffering
+555,GerDracor/kleist-die-familie-schroffenstein.xml,30066,30072,Hülfe!,emotional movement,emotions of fear,fear
+556,GerDracor/kleist-die-familie-schroffenstein.xml,30073,30088,Kommt zu Hülfe!,emotional movement,emotions of fear,fear
+557,GerDracor/kleist-die-familie-schroffenstein.xml,30089,30095,Hülfe!,emotional movement,emotions of fear,fear
+558,GerDracor/kleist-die-familie-schroffenstein.xml,30096,30114,Der Vorhang fällt.,negative,emotional movement,fear
+559,GerDracor/kleist-die-familie-schroffenstein.xml,30115,30133,Gegend im Gebirge.,negative,emotions of suffering,suffering
+560,GerDracor/kleist-die-familie-schroffenstein.xml,30134,30161,Im Vordergrunde eine Höhle.,negative,emotions of fear,fear
+561,GerDracor/kleist-die-familie-schroffenstein.xml,30162,30216,"Agnes sitzt an der Erde und knüpft
+            Kränze.",positive,emotions of joy,suffering
+562,GerDracor/kleist-die-familie-schroffenstein.xml,30217,30266,"Ottokar tritt auf, und betrachtet sie mit Wehmut.",negative,emotions of suffering,compassion
+563,GerDracor/kleist-die-familie-schroffenstein.xml,30267,30448,"Dann wendet er sich mit einer
+            schmerzvollen Bewegung, während welcher Agnes ihn wahrnimmt, welche dann zu knüpfen
+            fortfährt, als hätte sie ihn nicht gesehen.",negative,emotions of suffering,suffering
+564,GerDracor/kleist-die-familie-schroffenstein.xml,30449,30583,"'s ist doch ein häßliches Geschäft: belauschen; Und weil ein rein Gemüt es stets verschmäht, So wird nur dieses grade stets belauscht.",negative,emotions of rejection,anger
+565,GerDracor/kleist-die-familie-schroffenstein.xml,30584,30663,"Drum ist das Schlimmste noch, daß es den Lauscher, Statt ihn zu strafen, lohnt.",negative,emotions of rejection,suffering
+566,GerDracor/kleist-die-familie-schroffenstein.xml,30664,30798,"Denn statt des Bösen, Das er verdiente zu entdecken, findet Er wohl sogar ein still Bemühen noch Für sein Bedürfnis, oder seine Laune.",negative,emotions of suffering,"hate, disgust"
+567,GerDracor/kleist-die-familie-schroffenstein.xml,30799,30869,"Da ist, zum Beispiel, heimlich jetzt ein Jüngling – Wie heißt er doch?",emotional movement,emotional movement,emotional movement
+568,GerDracor/kleist-die-familie-schroffenstein.xml,30870,30888,Ich kenn ihn wohl.,negative,emotions of affection,anger
+569,GerDracor/kleist-die-familie-schroffenstein.xml,30889,31139,"Sein Antlitz Gleicht einem milden Morgenungewitter, Sein Aug dem Wetterleuchten auf den Höhn, Sein Haar den Wolken, welche Blitze bergen, Sein Nahen ist ein Wehen aus der Ferne, Sein Reden wie ein Strömen von den Bergen Und sein Umarmen – Aber still!",emotional movement,emotions of affection,love
+570,GerDracor/kleist-die-familie-schroffenstein.xml,31140,31160,Was wollt Ich schon?,negative,emotions of affection,anger
+571,GerDracor/kleist-die-familie-schroffenstein.xml,31161,31326,"Ja, dieser Jüngling, wollt ich sagen, Ist heimlich nun herangeschlichen, plötzlich, Unangekündigt, wie die Sommersonne, Will sie ein nächtlich Liebesfest belauschen.",negative,emotions of rejection,love
+572,GerDracor/kleist-die-familie-schroffenstein.xml,31327,31538,"Nun wär mir's recht, er hätte, was er sucht,  Der Liebe Jugendstachel hätte, selbst Sich stumpfend, ihn hinausgejagt ins Feld, Gleich einem jungen Rosse, das zuletzt Doch heimkehrt zu dem Stall, der ihn ernährt.",negative,emotions of rejection,Schadenfreude
+573,GerDracor/kleist-die-familie-schroffenstein.xml,31539,31616,"Statt dessen ist kein andrer Nebenbuhler Jetzt grade um mich, als sein Geist.",negative,emotions of affection,"hate, disgust"
+574,GerDracor/kleist-die-familie-schroffenstein.xml,31617,31694,"Und der Singt mir sein Lied zur Zither vor, wofür Ich diesen Kranz ihm winde.",positive,emotions of affection,joy
+575,GerDracor/kleist-die-familie-schroffenstein.xml,31695,31713,Sie sieht sich um.,emotional movement,emotional movement,emotional movement
+576,GerDracor/kleist-die-familie-schroffenstein.xml,31714,31728,Fehlt dir was?,negative,emotions of suffering,emotional movement
+577,GerDracor/kleist-die-familie-schroffenstein.xml,31729,31742,Jetzt nichts.,negative,emotional movement,anger
+578,GerDracor/kleist-die-familie-schroffenstein.xml,31743,31802,"So setz dich nieder, daß ich sehe, Wie dir der Kranz steht.",negative,emotions of joy,joy
+579,GerDracor/kleist-die-familie-schroffenstein.xml,31803,31817,Ist er hübsch?,emotional movement,emotions of affection,emotional movement
+580,GerDracor/kleist-die-familie-schroffenstein.xml,31818,31831,Recht hübsch.,positive,emotions of affection,admiration
+581,GerDracor/kleist-die-familie-schroffenstein.xml,31832,31843,Wahrhaftig?,positive,emotions of affection,emotional movement
+582,GerDracor/kleist-die-familie-schroffenstein.xml,31844,31870,Sieh einmal die Finger an.,emotional movement,emotions of joy,emotional movement
+583,GerDracor/kleist-die-familie-schroffenstein.xml,31871,31882,Sie bluten.,negative,emotions of suffering,compassion
+584,GerDracor/kleist-die-familie-schroffenstein.xml,31883,31943,"– Das bekam ich, als ich aus den Dornen Die Blumen pflückte.",negative,emotions of joy,joy
+585,GerDracor/kleist-die-familie-schroffenstein.xml,31944,31955,Armes Kind.,negative,emotions of suffering,compassion
+586,GerDracor/kleist-die-familie-schroffenstein.xml,31956,31983,Ein Weib Scheut keine Mühe.,negative,emotions of suffering,"hate, disgust"
+587,GerDracor/kleist-die-familie-schroffenstein.xml,31984,32155,"Stundenlang hab ich Gesonnen, wie ein jedes einzeln Blümchen Zu stellen, wie das unscheinbarste selbst Zu nutzen sei, damit Gestalt und Farbe Des Ganzen seine Wirkung tue.",positive,emotions of affection,anger
+588,GerDracor/kleist-die-familie-schroffenstein.xml,32156,32195,– Nun Der Kranz ist ein vollendet Weib.,positive,emotions of joy,admiration
+589,GerDracor/kleist-die-familie-schroffenstein.xml,32196,32213,"Da, nimm Ihn hin.",negative,emotions of suffering,love
+590,GerDracor/kleist-die-familie-schroffenstein.xml,32214,32256,Sprich: er gefällt mir; so ist er Bezahlt.,positive,emotions of affection,joy
+591,GerDracor/kleist-die-familie-schroffenstein.xml,32257,32282,Sie sieht sich wieder um.,emotional movement,emotional movement,emotional movement
+592,GerDracor/kleist-die-familie-schroffenstein.xml,32283,32302,Was fehlt dir denn?,negative,emotions of suffering,compassion
+593,GerDracor/kleist-die-familie-schroffenstein.xml,32303,32341,Sie steht auf; Ottokar faßt ihre Hand.,positive,emotions of affection,love
+594,GerDracor/kleist-die-familie-schroffenstein.xml,32342,32400,"Du bist so seltsam, So feierlich – bist unbegreiflich mir.",emotional movement,emotional movement,emotional movement
+595,GerDracor/kleist-die-familie-schroffenstein.xml,32401,32412,Und mir du.,positive,emotions of affection,love
+596,GerDracor/kleist-die-familie-schroffenstein.xml,32413,32476,"Liebst du mich, so sprich sogleich Ein Wort, das mich beruhigt.",positive,emotions of affection,love
+597,GerDracor/kleist-die-familie-schroffenstein.xml,32477,32492,Erst sprich du.,negative,emotions of rejection,anger
+598,GerDracor/kleist-die-familie-schroffenstein.xml,32493,32573,"Wie hast du's heute wagen können, heute, Von deinem Vaterhaus dich zu entfernen.",negative,emotions of rejection,"hate, disgust"
+599,GerDracor/kleist-die-familie-schroffenstein.xml,32574,32596,Von meinem Vaterhause?,emotional movement,emotional movement,emotional movement
+600,GerDracor/kleist-die-familie-schroffenstein.xml,32597,32614,Kennst du's denn?,emotional movement,emotional movement,emotional movement
+601,GerDracor/kleist-die-familie-schroffenstein.xml,32615,32689,"Hab ich nicht stets gewünscht, du möchtest es Nicht zu erforschen streben?",negative,emotions of rejection,love
+602,GerDracor/kleist-die-familie-schroffenstein.xml,32690,32700,O verzeih!,negative,emotions of suffering,suffering
+603,GerDracor/kleist-die-familie-schroffenstein.xml,32701,32742,"Nicht meine Schuld ist's, daß ich's weiß.",negative,emotions of rejection,anger
+604,GerDracor/kleist-die-familie-schroffenstein.xml,32743,32754,Du weißt's?,positive,emotions of joy,emotional movement
+605,GerDracor/kleist-die-familie-schroffenstein.xml,32755,32783,"Ich weiß es, fürchte nichts!",negative,emotions of fear,fear
+606,GerDracor/kleist-die-familie-schroffenstein.xml,32784,32849,"Denn deinem Engel Kannst du dich sichrer nicht vertraun, als mir.",positive,emotions of affection,love
+607,GerDracor/kleist-die-familie-schroffenstein.xml,32850,33002,"Nun sage mir, wie konntest du es wagen, So einsam dies Gebirge zu betreten, Da doch ein mächt'ger Nachbar all die Deinen In blut'ger Rachefehd verfolgt?",negative,emotions of rejection,"hate, disgust"
+608,GerDracor/kleist-die-familie-schroffenstein.xml,33003,33012,In Fehde?,emotional movement,emotional movement,anger
+609,GerDracor/kleist-die-familie-schroffenstein.xml,33013,33163,"In meines Vaters Sälen liegt der Staub Auf allen Rüstungen, und niemand ist Uns feindlich, als der Marder höchstens, der In unsre Hühnerställe bricht.",negative,emotions of rejection,Schadenfreude
+610,GerDracor/kleist-die-familie-schroffenstein.xml,33164,33177,Wie sagst du?,emotional movement,emotional movement,emotional movement
+611,GerDracor/kleist-die-familie-schroffenstein.xml,33178,33215,Ihr wärt in Frieden mit den Nachbarn?,negative,emotions of rejection,emotional movement
+612,GerDracor/kleist-die-familie-schroffenstein.xml,33216,33248,Wärt In Frieden mit euch selbst?,negative,emotions of affection,emotional movement
+613,GerDracor/kleist-die-familie-schroffenstein.xml,33249,33265,"Du hörst es, ja.",negative,emotions of rejection,anger
+614,GerDracor/kleist-die-familie-schroffenstein.xml,33266,33273,O Gott!,negative,emotions of fear,fear
+615,GerDracor/kleist-die-familie-schroffenstein.xml,33274,33319,Ich danke dir mein Leben nur Um dieser Kunde!,negative,emotions of affection,joy
+616,GerDracor/kleist-die-familie-schroffenstein.xml,33320,33330,– Mädchen!,negative,emotions of joy,emotional movement
+617,GerDracor/kleist-die-familie-schroffenstein.xml,33331,33339,Mädchen!,negative,emotions of joy,emotional movement
+618,GerDracor/kleist-die-familie-schroffenstein.xml,33340,33391,"O Mein Gott, so brauch ich dich ja nicht zu morden!",negative,emotions of suffering,compassion
+619,GerDracor/kleist-die-familie-schroffenstein.xml,33392,33399,Morden?,emotional movement,emotions of fear,emotional movement
+620,GerDracor/kleist-die-familie-schroffenstein.xml,33400,33407,O komm!,negative,emotions of fear,fear
+621,GerDracor/kleist-die-familie-schroffenstein.xml,33408,33424,Sie setzen sich.,emotional movement,emotional movement,anger
+622,GerDracor/kleist-die-familie-schroffenstein.xml,33425,33489,"Nun will ich heiter, offen, wahr, Wie deine Seele mit dir reden.",positive,emotions of joy,joy
+623,GerDracor/kleist-die-familie-schroffenstein.xml,33490,33495,Komm!,negative,emotions of fear,fear
+624,GerDracor/kleist-die-familie-schroffenstein.xml,33496,33586,"Es darf kein Schatten mehr dich decken, nicht Der mindeste, ganz klar will ich dich sehen.",positive,emotions of affection,love
+625,GerDracor/kleist-die-familie-schroffenstein.xml,33587,33672,"Dein Innres ist's mir schon, die neugebornen Gedanken kann ich wie dein Gott erraten.",positive,emotions of suffering,emotional movement
+626,GerDracor/kleist-die-familie-schroffenstein.xml,33673,33782,"Dein Zeichen nur, die freundliche Erfindung Mit einer Silbe das Unendliche Zu fassen, nur den Namen sage mir.",positive,emotions of joy,joy
+627,GerDracor/kleist-die-familie-schroffenstein.xml,33783,33868,"Dir sag ich meinen gleich, denn nur ein Scherz War es, dir zu verweigern, was du mir.",negative,emotions of rejection,anger
+628,GerDracor/kleist-die-familie-schroffenstein.xml,33869,33960,"Ich hätte deinen längst erforscht, wenn nicht Sogar dein unverständliches Gebot Mir heilig.",positive,emotions of affection,emotional movement
+629,GerDracor/kleist-die-familie-schroffenstein.xml,33961,33991,Aber nun frag ich dich selbst.,negative,emotional movement,anger
+630,GerDracor/kleist-die-familie-schroffenstein.xml,33992,34161,"Nichts Böses bin ich mir bewußt, ich fühle Du gehst mir über alles Glück der Welt Und nicht ans Leben bin ich so gebunden, So gern nicht, und so fest nicht, wie an dich.",positive,emotions of affection,love
+631,GerDracor/kleist-die-familie-schroffenstein.xml,34162,34256,"Drum will ich, daß du nichts mehr vor mir birgst Und fordre ernst dein unumschränkt Vertrauen.",positive,emotions of affection,friendship
+632,GerDracor/kleist-die-familie-schroffenstein.xml,34257,34287,"Ich kann nicht reden, Ottokar.",negative,emotional movement,suffering
+633,GerDracor/kleist-die-familie-schroffenstein.xml,34288,34308,– Was ängstigt dich?,negative,emotions of fear,fear
+634,GerDracor/kleist-die-familie-schroffenstein.xml,34309,34351,Ich will dir jeden falschen Wahn benehmen.,negative,emotions of rejection,"hate, disgust"
+635,GerDracor/kleist-die-familie-schroffenstein.xml,34352,34375,– Du sprachst von Mord.,negative,emotions of rejection,"hate, disgust"
+636,GerDracor/kleist-die-familie-schroffenstein.xml,34376,34401,Von Liebe sprach ich nur.,positive,emotions of affection,love
+637,GerDracor/kleist-die-familie-schroffenstein.xml,34402,34493,"Von Liebe, hör ich wohl, sprachst du mit mir, Doch sage mir, mit wem sprachst du vom Morde?",negative,emotional movement,emotional movement
+638,GerDracor/kleist-die-familie-schroffenstein.xml,34494,34581,"Du hörst es ja, es war ein böser Irrtum, Den mir ein selbst getäuschter Freund erweckt.",negative,emotions of suffering,suffering
+639,GerDracor/kleist-die-familie-schroffenstein.xml,34582,34616,Johann zeigt sich im Hintergrunde.,positive,emotional movement,emotional movement
+640,GerDracor/kleist-die-familie-schroffenstein.xml,34617,34653,"Dort steht ein Mensch, den kenn ich.",negative,emotions of rejection,anger
+641,GerDracor/kleist-die-familie-schroffenstein.xml,34654,34668,Sie steht auf.,emotional movement,emotional movement,emotional movement
+642,GerDracor/kleist-die-familie-schroffenstein.xml,34669,34683,Kennst du ihn?,emotional movement,emotional movement,emotional movement
+643,GerDracor/kleist-die-familie-schroffenstein.xml,34684,34693,Leb wohl.,negative,emotions of suffering,suffering
+644,GerDracor/kleist-die-familie-schroffenstein.xml,34694,34731,"Um Gotteswillen, nein, du irrst dich.",emotional movement,emotions of fear,emotional movement
+645,GerDracor/kleist-die-familie-schroffenstein.xml,34732,34747,Ich irre nicht.,emotional movement,emotions of joy,emotional movement
+646,GerDracor/kleist-die-familie-schroffenstein.xml,34748,34759,– Laß mich.,negative,emotional movement,emotional movement
+647,GerDracor/kleist-die-familie-schroffenstein.xml,34760,34784,– Wollt ihr mich morden?,negative,emotions of fear,fear
+648,GerDracor/kleist-die-familie-schroffenstein.xml,34785,34797,Dich morden?,negative,emotions of rejection,"hate, disgust"
+649,GerDracor/kleist-die-familie-schroffenstein.xml,34798,34875,"– Frei bist du, und willst du gehen, Du kannst es unberührt, wohin du willst.",negative,emotions of joy,anger
+650,GerDracor/kleist-die-familie-schroffenstein.xml,34876,34893,So leb denn wohl.,negative,emotions of suffering,suffering
+651,GerDracor/kleist-die-familie-schroffenstein.xml,34894,34918,Und kehrst nicht wieder?,negative,emotions of rejection,emotional movement
+652,GerDracor/kleist-die-familie-schroffenstein.xml,34919,34972,"Niemals, Wenn du nicht gleich mir deinen Namen sagst.",negative,emotions of rejection,anger
+653,GerDracor/kleist-die-familie-schroffenstein.xml,34973,35036,Das soll ich jetzt – vor diesem Fremden – So Leb wohl auf ewig.,negative,emotions of suffering,love
+654,GerDracor/kleist-die-familie-schroffenstein.xml,35037,35043,Maria!,emotional movement,emotional movement,fear
+655,GerDracor/kleist-die-familie-schroffenstein.xml,35044,35089,Willst du nicht besser von Mir denken lernen?,negative,emotions of rejection,anger
+656,GerDracor/kleist-die-familie-schroffenstein.xml,35090,35131,"Zeigen kann mir jeder Gleich, wer er ist.",negative,emotions of rejection,anger
+657,GerDracor/kleist-die-familie-schroffenstein.xml,35132,35154,Ich will es heut noch.,negative,emotions of affection,anger
+658,GerDracor/kleist-die-familie-schroffenstein.xml,35155,35168,Kehre wieder.,negative,emotions of suffering,suffering
+659,GerDracor/kleist-die-familie-schroffenstein.xml,35169,35207,"Soll ich dir traun, wenn du nicht mir?",negative,emotions of rejection,anger
+660,GerDracor/kleist-die-familie-schroffenstein.xml,35208,35229,Tu es Auf die Gefahr.,negative,emotions of fear,fear
+661,GerDracor/kleist-die-familie-schroffenstein.xml,35230,35237,Es sei!,positive,emotions of rejection,fear
+662,GerDracor/kleist-die-familie-schroffenstein.xml,35238,35293,"Und irr ich mich, Nicht eine Träne kosten soll es mich.",negative,emotions of suffering,suffering
+663,GerDracor/kleist-die-familie-schroffenstein.xml,35294,35297,Ab.,negative,emotional movement,anger
+664,GerDracor/kleist-die-familie-schroffenstein.xml,35298,35381,"Johann, komm her, du siehst, sie ist es wohl, Es ist kein Zweifel mehr, nicht wahr?",positive,emotions of joy,joy
+665,GerDracor/kleist-die-familie-schroffenstein.xml,35382,35467,"Es mag Wie's scheint, dir wohl an keinem Aufschluß mangeln, Den ich dir geben könnte.",positive,emotions of rejection,anger
+666,GerDracor/kleist-die-familie-schroffenstein.xml,35468,35484,Wie du's nimmst.,positive,emotions of rejection,love
+667,GerDracor/kleist-die-familie-schroffenstein.xml,35485,35594,"Zwei Werte hat ein jeder Mensch; den einen Lernt man nur kennen aus sich selbst, den andern Muß man erfragen.",positive,emotions of affection,friendship
+668,GerDracor/kleist-die-familie-schroffenstein.xml,35595,35658,"Hast du nur den Kern, Die Schale gibt sich dann als eine Zugab.",negative,emotions of rejection,"hate, disgust"
+669,GerDracor/kleist-die-familie-schroffenstein.xml,35659,35791,"Ich sage dir, sie weigert mir, wie dir, Den Namen, und wie dich, so flieht sie mich Schon bei der Ahndung bloß, ich sei aus Rossitz.",negative,emotions of rejection,"hate, disgust"
+670,GerDracor/kleist-die-familie-schroffenstein.xml,35792,35870,"Du sahst es selbst, gleich einem Geist erscheint Und schwindet sie uns beiden.",negative,emotions of suffering,suffering
+671,GerDracor/kleist-die-familie-schroffenstein.xml,35871,35878,Beiden?,emotional movement,emotional movement,emotional movement
+672,GerDracor/kleist-die-familie-schroffenstein.xml,35879,35882,Ja.,positive,emotions of joy,anger
+673,GerDracor/kleist-die-familie-schroffenstein.xml,35883,35997,"Doch mit dem Unterschied, daß dir das eine Talent geworden, ihn zu rufen, mir Das andre bloß, den Geist zu bannen.",negative,emotions of rejection,"hate, disgust"
+674,GerDracor/kleist-die-familie-schroffenstein.xml,35998,36005,Johann!,emotional movement,emotional movement,emotional movement
+675,GerDracor/kleist-die-familie-schroffenstein.xml,36006,36010,Pah!,negative,emotions of rejection,emotional movement
+676,GerDracor/kleist-die-familie-schroffenstein.xml,36011,36093,– Die Schuld liegt an der Spitze meiner Nase Und etwa noch an meinen Ohrenzipfeln.,negative,emotions of suffering,"hate, disgust"
+677,GerDracor/kleist-die-familie-schroffenstein.xml,36094,36182,"Was sonst an mir kann so voll Greuel sein,  Und, bis aufs Fliehen, jede Kraft ihr nimmt?",negative,emotions of rejection,despair
+678,GerDracor/kleist-die-familie-schroffenstein.xml,36183,36217,"Johann, ich kenne dich nicht mehr.",negative,emotions of rejection,suffering
+679,GerDracor/kleist-die-familie-schroffenstein.xml,36218,36232,Ich aber dich.,negative,emotions of rejection,love
+680,GerDracor/kleist-die-familie-schroffenstein.xml,36233,36309,"Ich will im voraus jede Kränkung dir Vergeben, wenn sie sich nur edel zeigt.",negative,emotions of suffering,admiration
+681,GerDracor/kleist-die-familie-schroffenstein.xml,36310,36348,Nicht übern Preis will ich dir zahlen.,negative,emotions of rejection,anger
+682,GerDracor/kleist-die-familie-schroffenstein.xml,36349,36358,– Sprich.,negative,emotional movement,anger
+683,GerDracor/kleist-die-familie-schroffenstein.xml,36359,36535,"Wenn einer mir vertraut', er wiss' ein Roß, Das ihm bequem sei, und er kaufen wolle, Und ich, ich ginge heimlich hin und kauft's Mir selbst – was meinst du, wäre das wohl edel?",positive,emotions of rejection,emotional movement
+684,GerDracor/kleist-die-familie-schroffenstein.xml,36536,36573,Sehr schief wählst du dein Gleichnis.,negative,emotions of rejection,anger
+685,GerDracor/kleist-die-familie-schroffenstein.xml,36574,36626,Sage bitter; Und doch ist's Honig gegen mein Gefühl.,negative,emotions of rejection,suffering
+686,GerDracor/kleist-die-familie-schroffenstein.xml,36627,36673,"Dein Irrtum ist dir lieb, weil er mich kränkt.",negative,emotions of joy,suffering
+687,GerDracor/kleist-die-familie-schroffenstein.xml,36674,36681,Kränkt?,negative,emotions of suffering,emotional movement
+688,GerDracor/kleist-die-familie-schroffenstein.xml,36682,36767,"Ja, das ist mir lieb, und ist's ein Irrtum, Just darum will ich zähe fest ihn halten.",positive,emotions of affection,friendship
+689,GerDracor/kleist-die-familie-schroffenstein.xml,36768,36856,"Nicht viele Freude wird dir das gewähren, Denn still verschmerzen werd ich, was du tust.",negative,emotions of suffering,suffering
+690,GerDracor/kleist-die-familie-schroffenstein.xml,36857,36874,Da hast du recht.,positive,emotions of joy,joy
+691,GerDracor/kleist-die-familie-schroffenstein.xml,36875,37081,"Nichts würd mich mehr verdrießen, Als wenn dein Herz wie eine Kröte wär, Die ein verwundlos steinern Schild beschützt, Denn weiter keine Lust bleibt mir auf Erden, Als einer Bremse gleich dich zu verfolgen.",negative,emotions of rejection,"hate, disgust"
+692,GerDracor/kleist-die-familie-schroffenstein.xml,37082,37121,Du bist weit besser als der Augenblick.,positive,emotions of affection,love
+693,GerDracor/kleist-die-familie-schroffenstein.xml,37122,37129,Du Tor!,negative,emotions of rejection,anger
+694,GerDracor/kleist-die-familie-schroffenstein.xml,37130,37137,Du Tor!,negative,emotions of rejection,anger
+695,GerDracor/kleist-die-familie-schroffenstein.xml,37138,37166,Denkst du mich so zu fassen?,negative,emotions of rejection,anger
+696,GerDracor/kleist-die-familie-schroffenstein.xml,37167,37324,"Weil ich mich edel nicht erweise, nicht Erweisen will, machst du mir weis, ich sei's, Damit die unverdiente Ehre mich Bewegen soll, in ihrem Sinn zu handeln?",negative,emotions of rejection,anger
+697,GerDracor/kleist-die-familie-schroffenstein.xml,37325,37363,Vor deine Füße werf ich deine Achtung.,positive,emotions of rejection,admiration
+698,GerDracor/kleist-die-familie-schroffenstein.xml,37364,37463,"– Du willst mich reizen, doch du kannst es nicht; Ich weiß, du selbst, du wirst mich morgen rächen.",negative,emotions of rejection,"hate, disgust"
+699,GerDracor/kleist-die-familie-schroffenstein.xml,37464,37514,"Nein, wahrlich, nein, dafür will ich schon sorgen.",negative,emotions of joy,anger
+700,GerDracor/kleist-die-familie-schroffenstein.xml,37515,37606,"Denn in die Brust schneid ich mir eine Wunde,  Sie offen, daß es mir recht sinnlich bleibe.",negative,emotions of suffering,suffering
+701,GerDracor/kleist-die-familie-schroffenstein.xml,37607,37655,"Es ist nicht möglich, ach, es ist nicht möglich!",negative,emotions of fear,suffering
+702,GerDracor/kleist-die-familie-schroffenstein.xml,37656,37733,"Wie könnte dein Gemüt so häßlich sein, Da du doch Agnes, Agnes lieben kannst!",positive,emotions of affection,love
+703,GerDracor/kleist-die-familie-schroffenstein.xml,37734,37783,"Und daran noch erinnerst du mich, o Du Ungeheuer!",negative,emotions of rejection,"hate, disgust"
+704,GerDracor/kleist-die-familie-schroffenstein.xml,37784,37802,"Lebe wohl, Johann.",negative,emotions of suffering,suffering
+705,GerDracor/kleist-die-familie-schroffenstein.xml,37803,37814,"Nein, halt!",emotional movement,emotions of rejection,emotional movement
+706,GerDracor/kleist-die-familie-schroffenstein.xml,37815,37848,"Du denkst, ich habe bloß gespaßt.",emotional movement,emotions of rejection,anger
+707,GerDracor/kleist-die-familie-schroffenstein.xml,37849,37863,Was willst du?,emotional movement,emotional movement,anger
+708,GerDracor/kleist-die-familie-schroffenstein.xml,37864,37877,Gerad heraus.,negative,emotions of rejection,emotional movement
+709,GerDracor/kleist-die-familie-schroffenstein.xml,37878,37939,Mein Leben Und deines sind wie zwei Spinnen in der Schachtel.,emotional movement,emotions of affection,love
+710,GerDracor/kleist-die-familie-schroffenstein.xml,37940,37950,Drum zieh!,negative,emotions of fear,fear
+711,GerDracor/kleist-die-familie-schroffenstein.xml,37951,37960,Er zieht.,negative,emotional movement,emotional movement
+712,GerDracor/kleist-die-familie-schroffenstein.xml,37961,37973,Gewiß nicht.,negative,emotions of joy,emotional movement
+713,GerDracor/kleist-die-familie-schroffenstein.xml,37974,38033,"Fallen will ich anders Von deiner Hand nicht, als gemordet.",negative,emotions of rejection,despair
+714,GerDracor/kleist-die-familie-schroffenstein.xml,38034,38049,"Zieh, Du Memme!",negative,emotions of rejection,anger
+715,GerDracor/kleist-die-familie-schroffenstein.xml,38050,38117,"Nicht nach deinem Tod, nach meinem, Nach meinem nur gelüstet's mir.",positive,emotions of fear,love
+716,GerDracor/kleist-die-familie-schroffenstein.xml,38118,38129,umarmt ihn.,positive,emotions of joy,joy
+717,GerDracor/kleist-die-familie-schroffenstein.xml,38130,38137,Johann!,emotional movement,emotional movement,emotional movement
+718,GerDracor/kleist-die-familie-schroffenstein.xml,38138,38150,Mein Freund!,positive,emotions of affection,friendship
+719,GerDracor/kleist-die-familie-schroffenstein.xml,38151,38169,Ich dich ermorden.,negative,emotions of rejection,"hate, disgust"
+720,GerDracor/kleist-die-familie-schroffenstein.xml,38170,38185,stößt ihn fort.,negative,emotions of rejection,anger
+721,GerDracor/kleist-die-familie-schroffenstein.xml,38186,38204,"Fort, du Schlange!",negative,emotions of rejection,"hate, disgust"
+722,GerDracor/kleist-die-familie-schroffenstein.xml,38205,38270,"Nicht stechen will sie, nur mit ihrem Anblick Mich langsam töten.",negative,emotions of fear,despair
+723,GerDracor/kleist-die-familie-schroffenstein.xml,38271,38277,– Gut.,positive,emotions of joy,joy
+724,GerDracor/kleist-die-familie-schroffenstein.xml,38278,38304,Er steckt das Schwert ein.,negative,emotions of rejection,anger
+725,GerDracor/kleist-die-familie-schroffenstein.xml,38305,38335,Noch gibt's ein andres Mittel.,negative,emotions of joy,joy
+726,GerDracor/kleist-die-familie-schroffenstein.xml,38336,38370,Beide von verschiedenen Seiten ab.,emotional movement,emotions of rejection,anger
+727,GerDracor/kleist-die-familie-schroffenstein.xml,38371,38379,Warwand.,negative,emotional movement,emotional movement
+728,GerDracor/kleist-die-familie-schroffenstein.xml,38380,38399,Zimmer im Schlosse.,positive,emotions of affection,emotional movement
+729,GerDracor/kleist-die-familie-schroffenstein.xml,38400,38482,"Sylvester auf einem Stuhle, mit Zeichen der Ohnmacht,
+            die nun vorüber.",negative,emotions of suffering,suffering
+730,GerDracor/kleist-die-familie-schroffenstein.xml,38483,38543,"Um ihn herum Jeronimus, Theistiner, Gertrude und ein Diener.",positive,emotions of suffering,suffering
+731,GerDracor/kleist-die-familie-schroffenstein.xml,38544,38579,"Nun, er erholt sich, Gott sei Dank.",positive,emotions of joy,joy
+732,GerDracor/kleist-die-familie-schroffenstein.xml,38580,38642,"– Gertrude – Sylvester, kennst du mich, kennst du mich wieder?",emotional movement,emotional movement,emotional movement
+733,GerDracor/kleist-die-familie-schroffenstein.xml,38643,38701,"Mir ist so wohl, wie bei dem Eintritt in Ein andres Leben.",positive,emotions of joy,joy
+734,GerDracor/kleist-die-familie-schroffenstein.xml,38702,38787,"Und an seiner Pforte Stehn deine Engel, wir, die Deinen, liebreich Dich zu empfangen.",positive,emotions of affection,love
+735,GerDracor/kleist-die-familie-schroffenstein.xml,38788,38832,"Sage mir, wie kam Ich denn auf diesen Stuhl?",emotional movement,emotional movement,emotional movement
+736,GerDracor/kleist-die-familie-schroffenstein.xml,38833,38881,"Zuletzt, wenn ich Nicht irre, stand ich – nicht?",emotional movement,emotional movement,emotional movement
+737,GerDracor/kleist-die-familie-schroffenstein.xml,38882,38913,Du sankest stehend In Ohnmacht.,negative,emotions of suffering,despair
+738,GerDracor/kleist-die-familie-schroffenstein.xml,38914,38923,Ohnmacht?,emotional movement,emotions of suffering,fear
+739,GerDracor/kleist-die-familie-schroffenstein.xml,38924,38943,Und warum denn das?,emotional movement,emotional movement,emotional movement
+740,GerDracor/kleist-die-familie-schroffenstein.xml,38944,38959,So sprich doch.,negative,emotions of suffering,suffering
+741,GerDracor/kleist-die-familie-schroffenstein.xml,38960,38984,"– Wie, was ist dir denn?",emotional movement,emotional movement,emotional movement
+742,GerDracor/kleist-die-familie-schroffenstein.xml,38985,39003,Was ist Euch denn?,negative,emotions of suffering,emotional movement
+743,GerDracor/kleist-die-familie-schroffenstein.xml,39004,39030,Er sieht sich um; lebhaft.,emotional movement,emotional movement,emotional movement
+744,GerDracor/kleist-die-familie-schroffenstein.xml,39031,39043,Fehlt Agnes?,negative,emotions of suffering,emotional movement
+745,GerDracor/kleist-die-familie-schroffenstein.xml,39044,39056,Ist sie tot?,negative,emotions of fear,emotional movement
+746,GerDracor/kleist-die-familie-schroffenstein.xml,39057,39097,"O nein, O nein, sie ist in ihrem Garten.",emotional movement,emotions of rejection,emotional movement
+747,GerDracor/kleist-die-familie-schroffenstein.xml,39098,39140,"Nun, Wovon seid ihr denn alle so besessen?",emotional movement,emotions of affection,emotional movement
+748,GerDracor/kleist-die-familie-schroffenstein.xml,39141,39157,Gertrude sprich.,positive,emotions of suffering,suffering
+749,GerDracor/kleist-die-familie-schroffenstein.xml,39158,39182,"– Sprich du, Theistiner.",negative,emotions of rejection,"hate, disgust"
+750,GerDracor/kleist-die-familie-schroffenstein.xml,39183,39230,"– Seid Ihr stumm, Theistin, Jero – – Jeronimus!",emotional movement,emotional movement,emotional movement
+751,GerDracor/kleist-die-familie-schroffenstein.xml,39231,39265,Ja so – ganz recht – nun weiß ich.,positive,emotions of joy,joy
+752,GerDracor/kleist-die-familie-schroffenstein.xml,39266,39330,"– Komm ins Bette, Sylvester, dort will ich's dir schon erzählen.",negative,emotions of rejection,anger
+753,GerDracor/kleist-die-familie-schroffenstein.xml,39331,39340,Ins Bett?,emotional movement,emotional movement,emotional movement
+754,GerDracor/kleist-die-familie-schroffenstein.xml,39341,39348,O pfui!,negative,emotions of rejection,"hate, disgust"
+755,GerDracor/kleist-die-familie-schroffenstein.xml,39349,39417,"bin ich denn – sage mir, Bin ich in Ohnmacht wirklich denn gefallen?",negative,emotions of suffering,suffering
+756,GerDracor/kleist-die-familie-schroffenstein.xml,39418,39457,"Du weißt ja, wie du sagst, sogar warum?",negative,emotions of rejection,anger
+757,GerDracor/kleist-die-familie-schroffenstein.xml,39458,39469,Wüßt ich's?,negative,emotional movement,emotional movement
+758,GerDracor/kleist-die-familie-schroffenstein.xml,39470,39477,O pfui!,negative,emotions of rejection,"hate, disgust"
+759,GerDracor/kleist-die-familie-schroffenstein.xml,39478,39485,O pfui!,negative,emotions of rejection,"hate, disgust"
+760,GerDracor/kleist-die-familie-schroffenstein.xml,39486,39520,Ein Geist ist doch Ein elend Ding.,negative,emotions of suffering,"hate, disgust"
+761,GerDracor/kleist-die-familie-schroffenstein.xml,39521,39577,"Komm nur ins Bett, Sylvester, Dein Leib bedarf der Ruhe.",negative,emotions of suffering,suffering
+762,GerDracor/kleist-die-familie-schroffenstein.xml,39578,39630,"Ja, 's ist wahr, Mein Leib ist doch an allem schuld.",negative,emotions of rejection,"hate, disgust"
+763,GerDracor/kleist-die-familie-schroffenstein.xml,39631,39639,So komm.,negative,emotional movement,anger
+764,GerDracor/kleist-die-familie-schroffenstein.xml,39640,39665,"Meinst du, es wäre nötig?",negative,emotional movement,anger
+765,GerDracor/kleist-die-familie-schroffenstein.xml,39666,39697,"Ja, durchaus Mußt du ins Bette.",negative,emotions of suffering,suffering
+766,GerDracor/kleist-die-familie-schroffenstein.xml,39698,39725,Dein Bemühen Beschämt mich.,negative,emotions of suffering,suffering
+767,GerDracor/kleist-die-familie-schroffenstein.xml,39726,39815,"Gönne mir zwei Augenblicke, So mach ich alles wieder gut, und stelle Von selbst mich her.",positive,emotions of joy,joy
+768,GerDracor/kleist-die-familie-schroffenstein.xml,39816,39930,"Zum mindsten nimm die Tropfen Aus dem Tirolerfläschchen, das du selbst Stets als ein heilsam Mittel mir gepriesen.",positive,emotions of affection,admiration
+769,GerDracor/kleist-die-familie-schroffenstein.xml,39931,40019,"An eigne Kraft glaubt doch kein Weib, und traut Stets einer Salbe mehr zu als der Seele.",negative,emotions of affection,admiration
+770,GerDracor/kleist-die-familie-schroffenstein.xml,40020,40053,"Es wird dich stärken, glaube mir.",positive,emotions of affection,joy
+771,GerDracor/kleist-die-familie-schroffenstein.xml,40054,40098,– Dazu Braucht's nichts als mein Bewußtsein.,negative,emotions of affection,emotional movement
+772,GerDracor/kleist-die-familie-schroffenstein.xml,40099,40112,Er steht auf.,emotional movement,emotional movement,emotional movement
+773,GerDracor/kleist-die-familie-schroffenstein.xml,40113,40300,"Was mich freut, Ist, daß der Geist doch mehr ist, als ich glaubte, Denn flieht er gleich auf einen Augenblick, An seinen Urquell geht er nur, zu Gott, Und mit Heroenkraft kehrt er zurück.",positive,emotions of joy,joy
+774,GerDracor/kleist-die-familie-schroffenstein.xml,40301,40312,Theistiner!,negative,emotions of rejection,suffering
+775,GerDracor/kleist-die-familie-schroffenstein.xml,40313,40355,'s ist wohl viele Zeit nicht zu Verlieren.,negative,emotions of affection,Schadenfreude
+776,GerDracor/kleist-die-familie-schroffenstein.xml,40356,40366,– Gertrud!,emotional movement,emotional movement,emotional movement
+777,GerDracor/kleist-die-familie-schroffenstein.xml,40367,40377,Weiß er's?,emotional movement,emotional movement,emotional movement
+778,GerDracor/kleist-die-familie-schroffenstein.xml,40378,40381,Ja.,positive,emotions of joy,anger
+779,GerDracor/kleist-die-familie-schroffenstein.xml,40382,40393,Du weißt's?,positive,emotions of joy,emotional movement
+780,GerDracor/kleist-die-familie-schroffenstein.xml,40394,40454,"Nun, sprich, Was meinst du, 's ist doch wohl ein Bubenstück?",negative,emotions of rejection,emotional movement
+781,GerDracor/kleist-die-familie-schroffenstein.xml,40455,40497,"'s ist wohl kein Zweifel mehr, nicht wahr?",positive,emotions of joy,joy
+782,GerDracor/kleist-die-familie-schroffenstein.xml,40498,40643,"In Warwand Ist keiner, der's bezweifelt, ist fast keiner, Der's, außer dir, nicht hätt vorhergesehen, Wie's enden müsse, sei es früh, sei's spät.",negative,emotions of suffering,joy
+783,GerDracor/kleist-die-familie-schroffenstein.xml,40644,40658,Vorhergesehen?,emotional movement,emotional movement,emotional movement
+784,GerDracor/kleist-die-familie-schroffenstein.xml,40659,40683,"Nein, das hab ich nicht.",emotional movement,emotions of joy,anger
+785,GerDracor/kleist-die-familie-schroffenstein.xml,40684,40695,Bezweifelt?,emotional movement,emotions of fear,fear
+786,GerDracor/kleist-die-familie-schroffenstein.xml,40696,40729,"Nein, das tu ich auch nicht mehr.",negative,emotions of rejection,anger
+787,GerDracor/kleist-die-familie-schroffenstein.xml,40730,40772,– Und also ist's den Leuten schon bekannt?,emotional movement,emotional movement,emotional movement
+788,GerDracor/kleist-die-familie-schroffenstein.xml,40773,40862,"So wohl, daß sie das Haupt sogar besitzen, Das dir die Nachricht her aus Rossitz brachte.",positive,emotions of affection,admiration
+789,GerDracor/kleist-die-familie-schroffenstein.xml,40863,40881,Wie meinst du das?,emotional movement,emotional movement,emotional movement
+790,GerDracor/kleist-die-familie-schroffenstein.xml,40882,40907,Der Herold wär noch hier?,emotional movement,emotional movement,emotional movement
+791,GerDracor/kleist-die-familie-schroffenstein.xml,40908,40923,"Gesteinigt, ja.",negative,emotions of suffering,anger
+792,GerDracor/kleist-die-familie-schroffenstein.xml,40924,40936,Gesteiniget?,emotional movement,emotional movement,emotional movement
+793,GerDracor/kleist-die-familie-schroffenstein.xml,40937,40984,Das Volk  Den Eulen an den Torweg festgenagelt.,negative,emotions of rejection,"hate, disgust"
+794,GerDracor/kleist-die-familie-schroffenstein.xml,40985,41090,"Unrecht ist's, Theistin, mit deinem Haupt hättst du das seine, Das heilige, des Herolds, schützen sollen.",negative,emotions of rejection,compassion
+795,GerDracor/kleist-die-familie-schroffenstein.xml,41091,41179,"Mit Unrecht tadelst du mich, Herr, ich war Ein Zeuge nicht der Tat, wie du wohl glaubst.",negative,emotions of rejection,anger
+796,GerDracor/kleist-die-familie-schroffenstein.xml,41180,41264,"Zu seinem Leichnam kam ich – diesen hier, Jeronimus, war's just noch Zeit zu retten.",negative,emotions of suffering,compassion
+797,GerDracor/kleist-die-familie-schroffenstein.xml,41265,41303,"– Ei nun, sie mögen's niederschlucken.",negative,emotions of rejection,Schadenfreude
+798,GerDracor/kleist-die-familie-schroffenstein.xml,41304,41350,"Das Geschehne muß stets gut sein, wie es kann.",positive,emotions of affection,admiration
+799,GerDracor/kleist-die-familie-schroffenstein.xml,41351,41453,"Ganz rein, seh ich wohl ein, kann's fast nicht abgehn, Denn wer das Schmutz'ge anfaßt, den besudelt's.",negative,emotions of rejection,suffering
+800,GerDracor/kleist-die-familie-schroffenstein.xml,41454,41547,"Auch, find ich, ist der Geist von dieser Untat Doch etwas wert, und kann zu mehr noch dienen.",negative,emotions of affection,"hate, disgust"
+801,GerDracor/kleist-die-familie-schroffenstein.xml,41548,41568,Wir wollen's nützen.,positive,emotions of joy,joy
+802,GerDracor/kleist-die-familie-schroffenstein.xml,41569,41851,"Reite schnell ins Land, Die sämtlichen Vasallen biete auf, Sogleich sich in Person bei mir zu stellen, Indessen will ich selbst von Männern, was Hier in der Burg ist, sammeln, Reden braucht's Nicht viel, ich stell mein graues Haupt zur Schau, Und jedes Haar muß einen Helden werben.",negative,emotions of rejection,admiration
+803,GerDracor/kleist-die-familie-schroffenstein.xml,41852,42100,"Das soll den ersten Bubenanfall hemmen, Dann, sind wir stärker, wenden wir das Blatt, In seiner Höhle suchen wir den Wolf, Es kann nicht fehlen, glaube mir's, es geht Für alles ja, was heilig ist und hehr, Für Tugend, Ehre, Weib und Kind und Leben.",positive,emotions of joy,Schadenfreude
+804,GerDracor/kleist-die-familie-schroffenstein.xml,42101,42184,"So geh ich, Herr, noch heut vor Abend sind Die sämtlichen Vasallen hier versammelt.",negative,emotions of rejection,joy
+805,GerDracor/kleist-die-familie-schroffenstein.xml,42185,42196,'s ist gut.,positive,emotions of joy,joy
+806,GerDracor/kleist-die-familie-schroffenstein.xml,42197,42211,Theistiner ab.,negative,emotional movement,suffering
+807,GerDracor/kleist-die-familie-schroffenstein.xml,42212,42246,"Franziskus, rufe mir den Burgvogt.",negative,emotions of rejection,anger
+808,GerDracor/kleist-die-familie-schroffenstein.xml,42247,42259,– Noch eins.,positive,emotional movement,anger
+809,GerDracor/kleist-die-familie-schroffenstein.xml,42260,42304,Die beiden Waffenschmiede bringe Gleich mit.,negative,emotions of rejection,joy
+810,GerDracor/kleist-die-familie-schroffenstein.xml,42305,42319,Der Diener ab.,negative,emotional movement,anger
+811,GerDracor/kleist-die-familie-schroffenstein.xml,42320,42333,Zu Jeronimus.,emotional movement,emotional movement,emotional movement
+812,GerDracor/kleist-die-familie-schroffenstein.xml,42334,42396,"Dir ist ein Unglimpf widerfahren, Jeronimus, das tut mir leid.",negative,emotions of suffering,compassion
+813,GerDracor/kleist-die-familie-schroffenstein.xml,42397,42499,"Du weißt ich war  Die Leute sind mir gut, du siehst's, es war Ein mißverstandner Eifer bloß der Treue.",positive,emotions of affection,friendship
+814,GerDracor/kleist-die-familie-schroffenstein.xml,42500,42536,Drum mußt du's ihnen schon verzeihn.,negative,emotions of suffering,compassion
+815,GerDracor/kleist-die-familie-schroffenstein.xml,42537,42582,"Fürs Künft'ge Versprech ich, will ich sorgen.",positive,emotions of rejection,friendship
+816,GerDracor/kleist-die-familie-schroffenstein.xml,42583,42677,"Willst du fort Nach Rossitz, kannst du's gleich, ich gebe dir Zehn Reis'ge zur Begleitung mit.",negative,emotions of rejection,Schadenfreude
+817,GerDracor/kleist-die-familie-schroffenstein.xml,42678,42843,"Ich kann's Nicht leugnen fast, daß mir der Unfall lieb, Versteh mich, bloß weil er dich hier verweilte, Denn sehr unwürdig hab ich mich gezeigt, – Nein, sage nichts.",negative,emotions of suffering,suffering
+818,GerDracor/kleist-die-familie-schroffenstein.xml,42844,42857,Ich weiß das.,negative,emotions of suffering,anger
+819,GerDracor/kleist-die-familie-schroffenstein.xml,42858,42910,"Freilich mag Wohl mancher sinken, weil er stark ist.",negative,emotions of suffering,suffering
+820,GerDracor/kleist-die-familie-schroffenstein.xml,42911,43032,"Denn Die kranke abgestorbne Eiche steht Dem Sturm, doch die gesunde stürzt er nieder, Weil er in ihre Krone greifen kann.",negative,emotions of suffering,suffering
+821,GerDracor/kleist-die-familie-schroffenstein.xml,43033,43145,"– Nicht jeden Schlag ertragen soll der Mensch, Und welchen Gott faßt, denk ich, der darf sinken, – Auch seufzen.",negative,emotions of suffering,suffering
+822,GerDracor/kleist-die-familie-schroffenstein.xml,43146,43197,Denn der Gleichmut ist die Tugend Nur der Athleten.,positive,emotions of affection,admiration
+823,GerDracor/kleist-die-familie-schroffenstein.xml,43198,43263,"Wir, wir Menschen fallen Ja nicht für Geld, auch nicht zur Schau.",negative,emotions of rejection,"hate, disgust"
+824,GerDracor/kleist-die-familie-schroffenstein.xml,43264,43318,– Doch sollen Wir stets des Anschauns würdig aufstehn.,positive,emotions of affection,admiration
+825,GerDracor/kleist-die-familie-schroffenstein.xml,43319,43351,Nun Ich halte dich nicht länger.,negative,emotions of affection,love
+826,GerDracor/kleist-die-familie-schroffenstein.xml,43352,43408,"Geh nach Rossitz Zu deinen Freunden, die du dir gewählt.",positive,emotions of affection,friendship
+827,GerDracor/kleist-die-familie-schroffenstein.xml,43409,43497,"Denn hier in Warwand, wie du selbst gefunden, Bist du seit heute nicht mehr gern gesehn.",negative,emotions of rejection,suffering
+828,GerDracor/kleist-die-familie-schroffenstein.xml,43498,43586,"– Hast recht, hast recht – bin's nicht viel besser wert, Als daß du mir die Türe zeigst.",positive,emotions of rejection,suffering
+829,GerDracor/kleist-die-familie-schroffenstein.xml,43587,43657,"– Bin ich Ein Schuft in meinen Augen doch, um wie Viel mehr in deinen.",negative,emotions of rejection,"hate, disgust"
+830,GerDracor/kleist-die-familie-schroffenstein.xml,43658,43713,"– Zwar ein Schuft, wie du Es meinst, der bin ich nicht.",negative,emotions of rejection,"hate, disgust"
+831,GerDracor/kleist-die-familie-schroffenstein.xml,43714,43755,– Doch kurz und gut Glaubt was ihr wollt.,negative,emotions of joy,anger
+832,GerDracor/kleist-die-familie-schroffenstein.xml,43756,43871,"Ich kann mich nicht entschuld'gen, Mir lähmt's die Zung, die Worte wollen, wie Verschlagne Kinder, nicht ans Licht.",negative,emotions of suffering,suffering
+833,GerDracor/kleist-die-familie-schroffenstein.xml,43872,43908,"– Ich gehe,  Nach Rossitz, hörst du?",positive,emotions of rejection,Schadenfreude
+834,GerDracor/kleist-die-familie-schroffenstein.xml,43909,43923,Und noch eins.,positive,emotions of joy,"hate, disgust"
+835,GerDracor/kleist-die-familie-schroffenstein.xml,43924,44014,"Wenn du Mich brauchen kannst, so sag's, ich laß mein Leben Für dich, hörst du, mein Leben.",positive,emotions of affection,friendship
+836,GerDracor/kleist-die-familie-schroffenstein.xml,44015,44018,Ab.,negative,emotional movement,anger
+837,GerDracor/kleist-die-familie-schroffenstein.xml,44019,44031,"Hör, Jerome!",negative,emotions of rejection,anger
+838,GerDracor/kleist-die-familie-schroffenstein.xml,44032,44049,– Da geht er hin.,negative,emotions of rejection,anger
+839,GerDracor/kleist-die-familie-schroffenstein.xml,44050,44078,– Warum riefst du ihm nicht?,emotional movement,emotional movement,emotional movement
+840,GerDracor/kleist-die-familie-schroffenstein.xml,44079,44117,"Verstehst du was davon, so sag es mir.",positive,emotions of rejection,anger
+841,GerDracor/kleist-die-familie-schroffenstein.xml,44118,44153,Mir ist's noch immer wie ein Traum.,positive,emotions of suffering,emotional movement
+842,GerDracor/kleist-die-familie-schroffenstein.xml,44154,44199,"Ei nun, Er war gewonnen von den Rossitzschen.",positive,emotions of joy,Schadenfreude
+843,GerDracor/kleist-die-familie-schroffenstein.xml,44200,44298,"Denn in dem ganzen Gau ist wohl kein Ritter, Den sie, wenn's ging, uns auf den Hals nicht hetzten.",negative,emotions of rejection,Schadenfreude
+844,GerDracor/kleist-die-familie-schroffenstein.xml,44299,44316,Allein Jeronimus!,negative,emotions of suffering,emotional movement
+845,GerDracor/kleist-die-familie-schroffenstein.xml,44317,44380,"– Ja, wär's ein andrer, So wollt ich's glauben, doch Jeronimus!",emotional movement,emotional movement,love
+846,GerDracor/kleist-die-familie-schroffenstein.xml,44381,44470,"'s ist doch so leicht nicht, in dem Augenblick Das Werk der Jahre, Achtung, zu zerstören.",negative,emotions of rejection,admiration
+847,GerDracor/kleist-die-familie-schroffenstein.xml,44471,44554,"O 's ist ein teuflischer Betrug, der mich, Ja dich mißtrauisch hätte machen können.",negative,emotions of rejection,"hate, disgust"
+848,GerDracor/kleist-die-familie-schroffenstein.xml,44555,44567,Mich selbst?,emotional movement,emotional movement,emotional movement
+849,GerDracor/kleist-die-familie-schroffenstein.xml,44568,44591,Mißtrauisch gegen mich?,negative,emotions of rejection,"hate, disgust"
+850,GerDracor/kleist-die-familie-schroffenstein.xml,44592,44611,Nun laß Doch hören.,negative,emotions of suffering,anger
+851,GerDracor/kleist-die-familie-schroffenstein.xml,44612,44686,Ruperts jüngster Sohn ist wirklich Von deinen Leuten im Gebirg erschlagen.,negative,emotions of suffering,suffering
+852,GerDracor/kleist-die-familie-schroffenstein.xml,44687,44705,Von meinen Leuten?,emotional movement,emotional movement,emotional movement
+853,GerDracor/kleist-die-familie-schroffenstein.xml,44706,44748,O das ist bei weitem Das Schlimmste nicht.,negative,emotions of suffering,compassion
+854,GerDracor/kleist-die-familie-schroffenstein.xml,44749,44812,"Der eine hat's sogar Gestanden, du hättst ihn zu Mord gedungen.",negative,emotions of rejection,"hate, disgust"
+855,GerDracor/kleist-die-familie-schroffenstein.xml,44813,44835,Gestanden hätt er das?,negative,emotions of suffering,anger
+856,GerDracor/kleist-die-familie-schroffenstein.xml,44836,44899,"Ja, auf der Folter, Und ist zwei Augenblicke drauf verschieden.",negative,emotional movement,emotional movement
+857,GerDracor/kleist-die-familie-schroffenstein.xml,44900,44912,Verschieden?,emotional movement,emotional movement,emotional movement
+858,GerDracor/kleist-die-familie-schroffenstein.xml,44913,44929,– Und gestanden?,negative,emotional movement,emotional movement
+859,GerDracor/kleist-die-familie-schroffenstein.xml,44930,45021,"– Und im Tode, Wär auch das Leben voll Abscheulichkeit, Im Tode ist der Mensch kein Sünder.",negative,emotions of rejection,"hate, disgust"
+860,GerDracor/kleist-die-familie-schroffenstein.xml,45022,45066,"– Wer Hat's denn gehört, daß er's gestanden?",emotional movement,emotions of rejection,anger
+861,GerDracor/kleist-die-familie-schroffenstein.xml,45067,45080,Ganz Rossitz.,positive,emotions of rejection,emotional movement
+862,GerDracor/kleist-die-familie-schroffenstein.xml,45081,45146,"Unter Volkes Augen, auf Dem öffentlichen Markt ward er gefoltert.",negative,emotions of suffering,suffering
+863,GerDracor/kleist-die-familie-schroffenstein.xml,45147,45178,Und wer hat dir das mitgeteilt?,emotional movement,emotions of rejection,emotional movement
+864,GerDracor/kleist-die-familie-schroffenstein.xml,45179,45230,"Jerome, Er hat sich bei dem Volke selbst erkundigt.",emotional movement,emotional movement,emotional movement
+865,GerDracor/kleist-die-familie-schroffenstein.xml,45231,45293,"– Nein, das ist kein Betrug,  Um Gotteswillen, was denn sonst?",emotional movement,emotions of fear,emotional movement
+866,GerDracor/kleist-die-familie-schroffenstein.xml,45294,45347,"Bin ich Denn Gott, daß du  Ist's keiner, so O Himmel!",negative,emotions of fear,suffering
+867,GerDracor/kleist-die-familie-schroffenstein.xml,45348,45378,fällt ja der Verdacht auf uns.,negative,emotions of rejection,anger
+868,GerDracor/kleist-die-familie-schroffenstein.xml,45379,45411,"Ja, allerdings fällt er auf uns.",negative,emotions of suffering,suffering
+869,GerDracor/kleist-die-familie-schroffenstein.xml,45412,45450,"Und wir, Wir müßten uns dann reinigen?",negative,emotions of rejection,anger
+870,GerDracor/kleist-die-familie-schroffenstein.xml,45451,45490,"Kein Zweifel, Wir müssen es, nicht sie.",negative,emotions of rejection,anger
+871,GerDracor/kleist-die-familie-schroffenstein.xml,45491,45530,"O du mein Heiland, Wie ist das möglich?",positive,emotional movement,emotional movement
+872,GerDracor/kleist-die-familie-schroffenstein.xml,45531,45539,Möglich?,emotional movement,emotional movement,fear
+873,GerDracor/kleist-die-familie-schroffenstein.xml,45540,45591,"Ja, das wär's, Wenn ich nur Rupert sprechen könnte.",positive,emotions of fear,emotional movement
+874,GerDracor/kleist-die-familie-schroffenstein.xml,45592,45596,Wie?,emotional movement,emotional movement,emotional movement
+875,GerDracor/kleist-die-familie-schroffenstein.xml,45597,45680,"Das könntest du dich jetzt getraun, da ihn Des Herolds Tod noch mehr erbittert hat.",negative,emotions of rejection,anger
+876,GerDracor/kleist-die-familie-schroffenstein.xml,45681,45718,'s ist freilich jetzt weit schlimmer.,negative,emotions of suffering,suffering
+877,GerDracor/kleist-die-familie-schroffenstein.xml,45719,45778,"– Doch es ist Das einz'ge Mittel, das ergreift sich leicht.",positive,emotions of joy,anger
+878,GerDracor/kleist-die-familie-schroffenstein.xml,45779,45801,"– Ja recht, so geht's.",positive,emotions of joy,joy
+879,GerDracor/kleist-die-familie-schroffenstein.xml,45802,45823,– Wo mag Jerome sein?,emotional movement,emotional movement,emotional movement
+880,GerDracor/kleist-die-familie-schroffenstein.xml,45824,45840,Ob er noch hier?,negative,emotional movement,emotional movement
+881,GerDracor/kleist-die-familie-schroffenstein.xml,45841,45868,Der mag mich zu ihm führen.,positive,emotions of affection,anger
+882,GerDracor/kleist-die-familie-schroffenstein.xml,45869,45904,"O mein Gemahl, o folge meinem Rate.",negative,emotions of fear,suffering
+883,GerDracor/kleist-die-familie-schroffenstein.xml,45905,45916,– Gertrude.,negative,emotional movement,suffering
+884,GerDracor/kleist-die-familie-schroffenstein.xml,45917,45953,– Laß mich – das verstehst du nicht.,negative,emotional movement,anger
+885,GerDracor/kleist-die-familie-schroffenstein.xml,45954,45963,Beide ab.,negative,emotional movement,joy
+886,GerDracor/kleist-die-familie-schroffenstein.xml,45964,45996,Platz vor den Toren von Warwand.,positive,emotions of rejection,suffering
+887,GerDracor/kleist-die-familie-schroffenstein.xml,45997,46015,tritt in Hast auf.,emotional movement,emotional movement,emotional movement
+888,GerDracor/kleist-die-familie-schroffenstein.xml,46016,46025,Zu Hülfe!,negative,emotions of fear,fear
+889,GerDracor/kleist-die-familie-schroffenstein.xml,46026,46035,Zu Hülfe!,negative,emotions of fear,fear
+890,GerDracor/kleist-die-familie-schroffenstein.xml,46036,46049,ergreift sie.,emotional movement,emotions of affection,fear
+891,GerDracor/kleist-die-familie-schroffenstein.xml,46050,46077,"So höre mich doch, Mädchen!",negative,emotional movement,joy
+892,GerDracor/kleist-die-familie-schroffenstein.xml,46078,46134,"Es folgt dir ja kein Feind, ich liebe dich, Ach, lieben!",positive,emotions of affection,love
+893,GerDracor/kleist-die-familie-schroffenstein.xml,46135,46154,Ich vergöttre dich!,positive,emotions of affection,admiration
+894,GerDracor/kleist-die-familie-schroffenstein.xml,46155,46198,"Fort, Ungeheuer, bist du nicht aus Rossitz?",negative,emotions of rejection,"hate, disgust"
+895,GerDracor/kleist-die-familie-schroffenstein.xml,46199,46227,Wie kann ich furchtbar sein?,negative,emotions of rejection,suffering
+896,GerDracor/kleist-die-familie-schroffenstein.xml,46228,46368,"Sieh mich doch an, Ich zittre selbst vor Wollust und vor Schmerz Mit meinen Armen dich, mein ganzes Maß Von Glück und Jammer zu umschließen.",negative,emotions of suffering,suffering
+897,GerDracor/kleist-die-familie-schroffenstein.xml,46369,46402,"Was willst du, Rasender, von mir?",negative,emotions of rejection,anger
+898,GerDracor/kleist-die-familie-schroffenstein.xml,46403,46417,Nichts weiter.,negative,emotions of rejection,emotional movement
+899,GerDracor/kleist-die-familie-schroffenstein.xml,46418,46503,"Mir bist du tot, und einer Leiche gleich, Mit kaltem Schauer drück ich dich ans Herz.",negative,emotions of suffering,suffering
+900,GerDracor/kleist-die-familie-schroffenstein.xml,46504,46550,"Schützt mich, ihr Himmlischen, vor seiner Wut!",negative,emotions of rejection,anger
+901,GerDracor/kleist-die-familie-schroffenstein.xml,46551,46643,"Sieh, Mädchen, morgen lieg ich in dem Grabe, Ein Jüngling, ich – nicht wahr das tut dir weh?",negative,emotions of suffering,suffering
+902,GerDracor/kleist-die-familie-schroffenstein.xml,46644,46714,"Nun, einem Sterbenden schlägst du nichts ab, Den Abschiedskuß gib mir.",negative,emotions of affection,suffering
+903,GerDracor/kleist-die-familie-schroffenstein.xml,46715,46727,Er küßt sie.,positive,emotions of affection,love
+904,GerDracor/kleist-die-familie-schroffenstein.xml,46728,46756,"Errettet mich, Ihr Heiligen!",negative,emotions of affection,compassion
+905,GerDracor/kleist-die-familie-schroffenstein.xml,46757,46786,"– Ja, rette du mich, Heil'ge!",positive,emotions of affection,fear
+906,GerDracor/kleist-die-familie-schroffenstein.xml,46787,46870,"Es hat das Leben mich wie eine Schlange, Mit Gliedern, zahnlos, ekelhaft, umwunden.",negative,emotions of suffering,suffering
+907,GerDracor/kleist-die-familie-schroffenstein.xml,46871,46904,"Es schauert mich, es zu berühren.",negative,emotions of fear,fear
+908,GerDracor/kleist-die-familie-schroffenstein.xml,46905,46929,"– Da, Nimm diesen Dolch.",negative,emotions of rejection,"hate, disgust"
+909,GerDracor/kleist-die-familie-schroffenstein.xml,46930,46941,– Zu Hülfe!,negative,emotions of fear,fear
+910,GerDracor/kleist-die-familie-schroffenstein.xml,46942,46949,Mörder!,negative,emotions of rejection,"hate, disgust"
+911,GerDracor/kleist-die-familie-schroffenstein.xml,46950,46956,Hülfe!,emotional movement,emotions of fear,fear
+912,GerDracor/kleist-die-familie-schroffenstein.xml,46957,46964,streng.,negative,emotions of rejection,anger
+913,GerDracor/kleist-die-familie-schroffenstein.xml,46965,46992,"Nimm diesen Dolch, sag ich.",negative,emotions of rejection,"hate, disgust"
+914,GerDracor/kleist-die-familie-schroffenstein.xml,46993,47043,– Hast du nicht einen Mir schon ins Herz gedrückt?,positive,emotions of affection,love
+915,GerDracor/kleist-die-familie-schroffenstein.xml,47044,47058,Entsetzlicher!,negative,emotions of suffering,compassion
+916,GerDracor/kleist-die-familie-schroffenstein.xml,47059,47092,Sie sinkt besinnungslos zusammen.,negative,emotions of fear,suffering
+917,GerDracor/kleist-die-familie-schroffenstein.xml,47093,47099,sanft.,positive,emotional movement,love
+918,GerDracor/kleist-die-familie-schroffenstein.xml,47100,47233,"Nimm diesen Dolch, Geliebte – Denn mit Wollust, Wie deinem Kusse sich die Lippe reicht, Reich ich die Brust dem Stoß von deiner Hand.",negative,emotions of joy,love
+919,GerDracor/kleist-die-familie-schroffenstein.xml,47234,47266,tritt mit Reisigen aus dem Tore.,negative,emotions of rejection,anger
+920,GerDracor/kleist-die-familie-schroffenstein.xml,47267,47312,Hier war das Angstgeschrei – – Unglücklicher!,negative,emotions of fear,fear
+921,GerDracor/kleist-die-familie-schroffenstein.xml,47313,47357,Welch eine Tat – Sie ist verwundet – Teufel!,negative,emotions of rejection,suffering
+922,GerDracor/kleist-die-familie-schroffenstein.xml,47358,47393,Mit deinem Leben sollst du's büßen.,negative,emotions of suffering,compassion
+923,GerDracor/kleist-die-familie-schroffenstein.xml,47395,47401,Agnes!,emotional movement,emotional movement,emotional movement
+924,GerDracor/kleist-die-familie-schroffenstein.xml,47402,47408,Agnes!,emotional movement,emotional movement,emotional movement
+925,GerDracor/kleist-die-familie-schroffenstein.xml,47409,47430,Ich sehe keine Wunde.,negative,emotions of suffering,suffering
+926,GerDracor/kleist-die-familie-schroffenstein.xml,47431,47449,"– Lebst du, Agnes?",emotional movement,emotions of suffering,emotional movement
+927,GerDracor/kleist-die-familie-schroffenstein.xml,47450,47493,Sylvester und Gertrude treten aus dem Tore.,emotional movement,emotional movement,suffering
+928,GerDracor/kleist-die-familie-schroffenstein.xml,47494,47542,"Es war Jeronimus' Entsetzensstimme, Nicht Agnes.",emotional movement,emotional movement,emotional movement
+929,GerDracor/kleist-die-familie-schroffenstein.xml,47543,47559,– – O mein Gott!,negative,emotions of fear,fear
+930,GerDracor/kleist-die-familie-schroffenstein.xml,47560,47587,Er wendet sich schmerzvoll.,negative,emotions of suffering,suffering
+931,GerDracor/kleist-die-familie-schroffenstein.xml,47588,47636,"O meine Tochter, Mein einzig Kind, mein letztes.",negative,emotions of suffering,suffering
+932,GerDracor/kleist-die-familie-schroffenstein.xml,47637,47681,"– Schafft nur Hülfe, Ermordet ist sie nicht.",negative,emotions of suffering,compassion
+933,GerDracor/kleist-die-familie-schroffenstein.xml,47682,47705,Sie rührt sich – horch?,emotional movement,emotional movement,emotional movement
+934,GerDracor/kleist-die-familie-schroffenstein.xml,47706,47740,"Sie atmet – ja sie lebt, sie lebt!",positive,emotions of affection,love
+935,GerDracor/kleist-die-familie-schroffenstein.xml,47741,47750,Lebt sie?,emotional movement,emotional movement,emotional movement
+936,GerDracor/kleist-die-familie-schroffenstein.xml,47751,47767,Und unverwundet?,emotional movement,emotional movement,emotional movement
+937,GerDracor/kleist-die-familie-schroffenstein.xml,47768,47859,"Eben war's noch Zeit, Er zückte schon den Dolch auf sie, da hieb Ich den Unwürd'gen nieder.",negative,emotions of rejection,"hate, disgust"
+938,GerDracor/kleist-die-familie-schroffenstein.xml,47860,47885,Ist er nicht Aus Rossitz?,emotional movement,emotional movement,emotional movement
+939,GerDracor/kleist-die-familie-schroffenstein.xml,47886,47929,"Frage nicht, du machst mich schamrot, – ja.",negative,emotions of suffering,anger
+940,GerDracor/kleist-die-familie-schroffenstein.xml,47930,47973,"Gib mir die Hand, Jerome, wir verstehn Uns.",positive,emotions of affection,friendship
+941,GerDracor/kleist-die-familie-schroffenstein.xml,47974,47991,Wir verstehn uns.,positive,emotional movement,friendship
+942,GerDracor/kleist-die-familie-schroffenstein.xml,47992,48058,"Sie erwacht, o seht, Sie schlägt die Augen auf, sie sieht mich an.",emotional movement,emotional movement,emotional movement
+943,GerDracor/kleist-die-familie-schroffenstein.xml,48059,48098,– Bin ich von dem Entsetzlichen erlöst?,negative,emotions of fear,suffering
+944,GerDracor/kleist-die-familie-schroffenstein.xml,48099,48138,"Hier liegt er tot am Boden, fasse dich.",negative,emotions of fear,despair
+945,GerDracor/kleist-die-familie-schroffenstein.xml,48139,48147,Getötet?,emotional movement,emotional movement,suffering
+946,GerDracor/kleist-die-familie-schroffenstein.xml,48148,48160,Und um mich?,negative,emotions of suffering,compassion
+947,GerDracor/kleist-die-familie-schroffenstein.xml,48161,48182,"Ach, es ist gräßlich.",negative,emotions of suffering,suffering
+948,GerDracor/kleist-die-familie-schroffenstein.xml,48183,48220,– Jerome hat den Mörder hingestreckt.,negative,emotions of rejection,despair
+949,GerDracor/kleist-die-familie-schroffenstein.xml,48221,48341,"Er folgte mir weit her aus dem Gebirge, – Mich faßte das Entsetzen gleich, als ich Von weitem nur ihn in das Auge faßte.",negative,emotions of fear,fear
+950,GerDracor/kleist-die-familie-schroffenstein.xml,48342,48439,Ich eilte – doch ihn trieb die Mordsucht schneller Als mich die Angst – und hier ergriff er mich.,negative,emotions of fear,fear
+951,GerDracor/kleist-die-familie-schroffenstein.xml,48440,48471,Und zückt' er gleich den Dolch?,negative,emotions of rejection,fear
+952,GerDracor/kleist-die-familie-schroffenstein.xml,48472,48492,Und sprach er nicht?,emotional movement,emotional movement,emotional movement
+953,GerDracor/kleist-die-familie-schroffenstein.xml,48493,48536,Kannst du dich dessen nicht entsinnen mehr?,negative,emotional movement,emotional movement
+954,GerDracor/kleist-die-familie-schroffenstein.xml,48537,48613,So kaum – denn vor sein fürchterliches Antlitz Entflohn mir alle Sinne fast.,negative,emotions of suffering,despair
+955,GerDracor/kleist-die-familie-schroffenstein.xml,48614,48765,"Er sprach, – Gott weiß, mir schien's fast, wie im Wahnsinn – sprach Von Liebe, daß er mich vergöttre – nannte Bald eine Heil'ge mich, bald eine Leiche.",emotional movement,emotions of affection,love
+956,GerDracor/kleist-die-familie-schroffenstein.xml,48766,48865,"Dann zog er plötzlich jenen Dolch, und bittend, Ich möchte, ich, ihn töten, zückt' er ihn Auf mich.",negative,emotions of fear,"hate, disgust"
+957,GerDracor/kleist-die-familie-schroffenstein.xml,48866,48886,– Lebt er denn noch?,negative,emotional movement,emotional movement
+958,GerDracor/kleist-die-familie-schroffenstein.xml,48887,48933,"Er scheint verwundet bloß, Sein Aug ist offen.",negative,emotions of suffering,suffering
+959,GerDracor/kleist-die-familie-schroffenstein.xml,48934,48948,Zu den Leuten.,negative,emotional movement,emotional movement
+960,GerDracor/kleist-die-familie-schroffenstein.xml,48949,48996,"Tragt ihn in das Schloß, Und ruft den Wundarzt.",negative,emotions of fear,suffering
+961,GerDracor/kleist-die-familie-schroffenstein.xml,48997,49017,Sie tragen ihn fort.,negative,emotions of rejection,joy
+962,GerDracor/kleist-die-familie-schroffenstein.xml,49018,49061,Einer komme wieder Und bring mir Nachricht.,negative,emotions of rejection,fear
+963,GerDracor/kleist-die-familie-schroffenstein.xml,49062,49144,"Aber, meine Tochter, Wie konntest du so einsam und so weit Dich ins Gebirge wagen?",negative,emotions of suffering,compassion
+964,GerDracor/kleist-die-familie-schroffenstein.xml,49145,49183,"Zürne nicht, Es war mein Lieblingsweg.",positive,emotions of affection,joy
+965,GerDracor/kleist-die-familie-schroffenstein.xml,49184,49220,Und noch so lange Dich zu verweilen!,positive,emotions of suffering,love
+966,GerDracor/kleist-die-familie-schroffenstein.xml,49221,49262,"Einen Ritter traf Ich, der mich aufhielt.",positive,emotions of affection,emotional movement
+967,GerDracor/kleist-die-familie-schroffenstein.xml,49263,49276,Einen Ritter?,emotional movement,emotional movement,emotional movement
+968,GerDracor/kleist-die-familie-schroffenstein.xml,49277,49314,Sieh Wie du in die Gefahr dich wagst!,negative,emotions of joy,fear
+969,GerDracor/kleist-die-familie-schroffenstein.xml,49315,49371,"Kann's wohl Ein andrer sein, fast, als ein Rossitzscher?",positive,emotions of rejection,admiration
+970,GerDracor/kleist-die-familie-schroffenstein.xml,49372,49410,"– Glaubst du, es sei ein Rossitzscher?",negative,emotions of rejection,emotional movement
+971,GerDracor/kleist-die-familie-schroffenstein.xml,49411,49454,"Ich weiß, Daß Ottokar oft ins Gebirge geht.",positive,emotions of affection,anger
+972,GerDracor/kleist-die-familie-schroffenstein.xml,49455,49472,Meinst du den – ?,emotional movement,emotional movement,emotional movement
+973,GerDracor/kleist-die-familie-schroffenstein.xml,49473,49494,Ruperts ältsten Sohn.,positive,emotions of affection,suffering
+974,GerDracor/kleist-die-familie-schroffenstein.xml,49495,49517,– Kennst du ihn nicht?,positive,emotions of affection,emotional movement
+975,GerDracor/kleist-die-familie-schroffenstein.xml,49518,49542,Ich hab ihn nie gesehen.,positive,emotions of affection,love
+976,GerDracor/kleist-die-familie-schroffenstein.xml,49543,49590,"Ich habe sichre Proben doch, daß er Dich kennt?",emotional movement,emotions of rejection,emotional movement
+977,GerDracor/kleist-die-familie-schroffenstein.xml,49591,49596,Mich?,emotional movement,emotional movement,emotional movement
+978,GerDracor/kleist-die-familie-schroffenstein.xml,49597,49609,Unsre Agnes?,emotional movement,emotional movement,emotional movement
+979,GerDracor/kleist-die-familie-schroffenstein.xml,49610,49620,Und woher?,emotional movement,emotional movement,emotional movement
+980,GerDracor/kleist-die-familie-schroffenstein.xml,49621,49707,"Wenn ich nicht irre, sah ich einen Schleier, Den du zu tragen pflegst, in seiner Hand.",negative,emotions of affection,love
+981,GerDracor/kleist-die-familie-schroffenstein.xml,49708,49753,verbirgt ihr Haupt an die Brust ihrer Mutter.,negative,emotions of affection,suffering
+982,GerDracor/kleist-die-familie-schroffenstein.xml,49754,49766,"Ach, Mutter.",negative,emotions of suffering,suffering
+983,GerDracor/kleist-die-familie-schroffenstein.xml,49767,49819,"– O um Gotteswillen, Agnes, Sei doch auf deiner Hut.",negative,emotions of fear,fear
+984,GerDracor/kleist-die-familie-schroffenstein.xml,49820,49890,"– Er kann dich mit Dem Apfel, den er dir vom Baume pflückt, Vergiften.",negative,emotions of rejection,"hate, disgust"
+985,GerDracor/kleist-die-familie-schroffenstein.xml,49891,49978,"Nun, das möcht ich fast nicht fürchten – Vielmehr – Allein wer darf der Schlange traun.",negative,emotions of fear,fear
+986,GerDracor/kleist-die-familie-schroffenstein.xml,49979,50024,Er hat beim Nachtmahl ihr den Tod geschworen.,negative,emotions of rejection,"hate, disgust"
+987,GerDracor/kleist-die-familie-schroffenstein.xml,50025,50029,Mir?,emotional movement,emotional movement,emotional movement
+988,GerDracor/kleist-die-familie-schroffenstein.xml,50030,50038,Den Tod?,negative,emotions of fear,despair
+989,GerDracor/kleist-die-familie-schroffenstein.xml,50039,50064,Ich hab es selbst gehört.,emotional movement,emotions of joy,anger
+990,GerDracor/kleist-die-familie-schroffenstein.xml,50065,50116,"Nun sieh, Ich werde wie ein Kind dich hüten müssen.",negative,emotions of affection,love
+991,GerDracor/kleist-die-familie-schroffenstein.xml,50117,50203,"Du darfst nicht aus den Mauern dieser Burg, Darfst nicht von deiner Mutter Seite gehn.",negative,emotions of affection,love
+992,GerDracor/kleist-die-familie-schroffenstein.xml,50204,50214,tritt auf.,emotional movement,emotional movement,emotional movement
+993,GerDracor/kleist-die-familie-schroffenstein.xml,50215,50257,"Gestrenger Herr, der Mörder ist nicht tot.",negative,emotions of fear,anger
+994,GerDracor/kleist-die-familie-schroffenstein.xml,50258,50302,"Der Wundarzt sagt, die Wunde sei nur leicht.",negative,emotions of suffering,suffering
+995,GerDracor/kleist-die-familie-schroffenstein.xml,50303,50327,Ist er sich sein bewußt?,negative,emotional movement,emotional movement
+996,GerDracor/kleist-die-familie-schroffenstein.xml,50328,50362,"Herr, es wird keiner klug Aus ihm.",negative,emotions of suffering,compassion
+997,GerDracor/kleist-die-familie-schroffenstein.xml,50363,50437,"Denn er spricht ungehobelt Zeug, Wild durcheinander, wie im Wahnwitz fast.",negative,emotions of rejection,anger
+998,GerDracor/kleist-die-familie-schroffenstein.xml,50438,50466,Es ist Verstellung offenbar.,emotional movement,emotional movement,emotional movement
+999,GerDracor/kleist-die-familie-schroffenstein.xml,50467,50490,Kennst du Den Menschen?,negative,emotional movement,emotional movement
+1000,GerDracor/kleist-die-familie-schroffenstein.xml,50491,50655,"Weiß nur so viel, daß sein Namen Johann, und er ein unecht Kind des Rupert, – Daß er den Ritterdienst in Rossitz lernte, Und gestern früh das Schwert empfangen hat.",negative,emotions of joy,joy
+1001,GerDracor/kleist-die-familie-schroffenstein.xml,50656,50789,"Das Schwert empfangen, gestern erst – und heute Wahnsinnig – sagtest du nicht auch, er habe Beim Abendmahl den Racheschwur geleistet?",negative,emotions of rejection,"hate, disgust"
+1002,GerDracor/kleist-die-familie-schroffenstein.xml,50790,50826,"Wie alle Diener Ruperts, so auch er.",negative,emotions of affection,admiration
+1003,GerDracor/kleist-die-familie-schroffenstein.xml,50827,50890,"Jeronimus, mir wird ein böser Zweifel Fast zur Gewißheit, fast.",negative,emotions of fear,fear
+1004,GerDracor/kleist-die-familie-schroffenstein.xml,50891,51131,"– Ich hätt's entschuldigt, Daß sie Verdacht auf mich geworfen, daß Sie Rache mir geschworen, daß sie Fehde Mir angekündigt – ja hätten sie Im Krieg mein Haus verbrannt, mein Weib und Kind Im Krieg erschlagen, noch wollt ich's entschuld'gen.",negative,emotions of suffering,"hate, disgust"
+1005,GerDracor/kleist-die-familie-schroffenstein.xml,51132,51221,"Doch daß sie mir den Meuchelmörder senden, – Wenn's so ist – Ist's denn noch ein Zweifel?",negative,emotions of fear,"hate, disgust"
+1006,GerDracor/kleist-die-familie-schroffenstein.xml,51222,51273,Haben Sie uns nicht selbst die Probe schon gegeben?,negative,emotions of joy,joy
+1007,GerDracor/kleist-die-familie-schroffenstein.xml,51274,51297,Du meinst an Philipp –?,emotional movement,emotional movement,emotional movement
+1008,GerDracor/kleist-die-familie-schroffenstein.xml,51298,51322,Endlich siehst du's ein!,positive,emotions of rejection,anger
+1009,GerDracor/kleist-die-familie-schroffenstein.xml,51323,51505,"Du hast mir's nie geglaubt, hast die Vermutung, Gewißheit, wollt ich sagen, stets ein Deuteln Der Weiber nur genannt, die, weil sie's einmal Aus Zufall treffen, nie zu fehlen wähnen.",negative,emotions of affection,love
+1010,GerDracor/kleist-die-familie-schroffenstein.xml,51506,51528,Nun weißt du's besser.,negative,emotions of joy,anger
+1011,GerDracor/kleist-die-familie-schroffenstein.xml,51529,51596,"– Nun, ich könnte dir Wohl mehr noch sagen, das dir nicht geahndet.",negative,emotions of rejection,anger
+1012,GerDracor/kleist-die-familie-schroffenstein.xml,51597,51609,– Mehr noch?,positive,emotional movement,emotional movement
+1013,GerDracor/kleist-die-familie-schroffenstein.xml,51610,51669,Du wirst dich deines Fiebers vor Zwei Jahren noch erinnern.,negative,emotions of suffering,suffering
+1014,GerDracor/kleist-die-familie-schroffenstein.xml,51670,51756,"Als du der Genesung nahtest, schickte dir Eustache Ein Fläschchen eingemachten Ananas.",positive,emotions of joy,joy
+1015,GerDracor/kleist-die-familie-schroffenstein.xml,51757,51804,"Ganz recht, durch eine Reutersfrau aus Rossitz.",positive,emotions of joy,joy
+1016,GerDracor/kleist-die-familie-schroffenstein.xml,51805,52085,"Ich bat dich unter falschem Vorwand, nicht Von dem Geschenke zu genießen, setzte Dir selbst ein Fläschchen vor aus eignem Vorrat Mit eingemachtem Pfirsich – aber du Bestandst darauf, verschmähtest meine Pfirsich, Nahmst von der Ananas, und plötzlich folgte Ein heftiges Erbrechen.",negative,emotions of suffering,suffering
+1017,GerDracor/kleist-die-familie-schroffenstein.xml,52086,52162,– Das ist seltsam; Denn ich besinne mich noch eines Umstands – – Ganz recht.,positive,emotional movement,emotional movement
+1018,GerDracor/kleist-die-familie-schroffenstein.xml,52163,52267,"Die Katze war mir übers Fläschchen Mit Ananas gekommen, und ich ließ Von Agnes mir den Pfirsich reichen.",positive,emotions of joy,joy
+1019,GerDracor/kleist-die-familie-schroffenstein.xml,52268,52276,– Nicht?,negative,emotional movement,emotional movement
+1020,GerDracor/kleist-die-familie-schroffenstein.xml,52277,52291,"Sprich, Agnes.",negative,emotional movement,love
+1021,GerDracor/kleist-die-familie-schroffenstein.xml,52292,52306,"Ja, so ist es.",negative,emotions of joy,anger
+1022,GerDracor/kleist-die-familie-schroffenstein.xml,52307,52355,"Ei, so hätte Sich seltsam ja das Blatt gewendet.",emotional movement,emotional movement,fear
+1023,GerDracor/kleist-die-familie-schroffenstein.xml,52356,52464,"Denn Die Ananas hat doch der Katze nicht Geschadet, aber mir dein Pfirsich, den Du selbst mir zubereitet – ?",positive,emotions of rejection,joy
+1024,GerDracor/kleist-die-familie-schroffenstein.xml,52465,52499,– Drehen freilich Läßt alles sich.,negative,emotions of rejection,emotional movement
+1025,GerDracor/kleist-die-familie-schroffenstein.xml,52500,52512,– Meinst du?,positive,emotions of joy,Schadenfreude
+1026,GerDracor/kleist-die-familie-schroffenstein.xml,52513,52607,"Nun sieh, das mein Ich auch, und habe recht, wenn ich auf das, Was du mir drehst, nicht achte.",negative,emotions of joy,anger
+1027,GerDracor/kleist-die-familie-schroffenstein.xml,52608,52621,"– Nun, genug.",negative,emotions of rejection,anger
+1028,GerDracor/kleist-die-familie-schroffenstein.xml,52622,52671,"Ich will mit Ernst, daß du von Philipp schweigst.",negative,emotions of rejection,anger
+1029,GerDracor/kleist-die-familie-schroffenstein.xml,52672,52742,"Er sei vergiftet oder nicht, er soll Gestorben sein und weiter nichts.",negative,emotions of suffering,suffering
+1030,GerDracor/kleist-die-familie-schroffenstein.xml,52743,52754,Ich will's.,positive,emotions of joy,love
+1031,GerDracor/kleist-die-familie-schroffenstein.xml,52755,52837,"Du solltst, Sylvester, doch den Augenblick Der jetzt dir günstig scheinet, nützen.",positive,emotions of joy,Schadenfreude
+1032,GerDracor/kleist-die-familie-schroffenstein.xml,52838,52930,"Ist Der Totschlag Peters ein Betrug, wie es Fast sein muß, so ist auch Johann darin Verwebt.",negative,emotions of suffering,suffering
+1033,GerDracor/kleist-die-familie-schroffenstein.xml,52931,52938,Betrug?,emotional movement,emotional movement,emotional movement
+1034,GerDracor/kleist-die-familie-schroffenstein.xml,52939,52959,Wie wär das möglich?,emotional movement,emotional movement,emotional movement
+1035,GerDracor/kleist-die-familie-schroffenstein.xml,52960,53413,"Ei möglich wär es wohl, daß Ruperts Sohn, Der doch ermordet sein soll, bloß gestorben, Und daß, von der Gelegenheit gereizt, Den Erbvertrag zu seinem Glück zu lenken, Der Vater es verstanden, deiner Leute, Die just vielleicht in dem Gebirge waren, In ihrer Unschuld so sich zu bedienen, Daß es der Welt erscheint, als hätten wirklich Sie ihn ermordet – um mit diesem Scheine Des Rechts sodann den Frieden aufzukünden,  Das Erbvermächtnis sich zu nehmen.",negative,emotions of rejection,"hate, disgust"
+1036,GerDracor/kleist-die-familie-schroffenstein.xml,53414,53528,"– Aber Du sagtest ja, der eine meiner Leute Hätt's in dem Tode noch bekannt, er wäre Von mir gedungen zu dem Mord.",negative,emotions of rejection,"hate, disgust"
+1037,GerDracor/kleist-die-familie-schroffenstein.xml,53529,53546,– Stillschweigen.,negative,emotional movement,emotional movement
+1038,GerDracor/kleist-die-familie-schroffenstein.xml,53547,53623,"Der Mann, den ich gesprochen, hatte nur Von dem Gefolterten ein Wort gehört.",negative,emotions of suffering,suffering
+1039,GerDracor/kleist-die-familie-schroffenstein.xml,53624,53632,Das war?,emotional movement,emotional movement,emotional movement
+1040,GerDracor/kleist-die-familie-schroffenstein.xml,53633,53643,Sylvester.,positive,emotions of joy,emotional movement
+1041,GerDracor/kleist-die-familie-schroffenstein.xml,53644,53659,Stillschweigen.,negative,emotional movement,emotional movement
+1042,GerDracor/kleist-die-familie-schroffenstein.xml,53660,53721,"Hast du denn die Leute, Die sogenannten Mörder nicht vermißt?",negative,emotions of rejection,"hate, disgust"
+1043,GerDracor/kleist-die-familie-schroffenstein.xml,53722,53790,Von ihren Hinterlaßnen müßte sich Doch mancherlei erforschen lassen.,negative,emotions of suffering,"hate, disgust"
+1044,GerDracor/kleist-die-familie-schroffenstein.xml,53791,53805,zu den Leuten.,negative,emotional movement,emotional movement
+1045,GerDracor/kleist-die-familie-schroffenstein.xml,53806,53835,Rufe Den Hauptmann einer her!,negative,emotions of rejection,anger
+1046,GerDracor/kleist-die-familie-schroffenstein.xml,53836,53893,"Von wem ich doch Den meisten Aufschluß hoffe, ist Johann.",emotional movement,emotions of affection,fear
+1047,GerDracor/kleist-die-familie-schroffenstein.xml,53894,53919,'s ist auch kein sichrer.,positive,emotions of affection,joy
+1048,GerDracor/kleist-die-familie-schroffenstein.xml,53920,53924,Wie?,emotional movement,emotional movement,emotional movement
+1049,GerDracor/kleist-die-familie-schroffenstein.xml,53925,54019,"Wenn er es nicht Gestehen will, macht man's wie die von Rossitz, Und wirft ihn auf die Folter.",negative,emotions of rejection,anger
+1050,GerDracor/kleist-die-familie-schroffenstein.xml,54020,54024,Nun?,emotional movement,emotional movement,emotional movement
+1051,GerDracor/kleist-die-familie-schroffenstein.xml,54025,54075,"Und wenn Er dann gesteht, daß Rupert ihn gedungen?",emotional movement,emotions of rejection,"hate, disgust"
+1052,GerDracor/kleist-die-familie-schroffenstein.xml,54076,54110,"So ist's heraus, so ist's am Tage.",negative,emotions of suffering,suffering
+1053,GerDracor/kleist-die-familie-schroffenstein.xml,54111,54116,– So?,emotional movement,emotional movement,emotional movement
+1054,GerDracor/kleist-die-familie-schroffenstein.xml,54117,54155,Dann freilich bin ich auch ein Mörder.,negative,emotions of rejection,"hate, disgust"
+1055,GerDracor/kleist-die-familie-schroffenstein.xml,54156,54171,Stillschweigen.,negative,emotional movement,emotional movement
+1056,GerDracor/kleist-die-familie-schroffenstein.xml,54172,54214,Aus diesem Wirrwarr finde sich ein Pfaffe!,negative,emotions of rejection,"hate, disgust"
+1057,GerDracor/kleist-die-familie-schroffenstein.xml,54215,54233,Ich kann es nicht.,emotional movement,emotional movement,emotional movement
+1058,GerDracor/kleist-die-familie-schroffenstein.xml,54234,54262,Ich bin dir wohl ein Rätsel?,emotional movement,emotional movement,emotional movement
+1059,GerDracor/kleist-die-familie-schroffenstein.xml,54263,54274,Nicht wahr?,positive,emotions of affection,emotional movement
+1060,GerDracor/kleist-die-familie-schroffenstein.xml,54275,54308,"Nun tröste dich, Gott ist es mir.",negative,emotions of suffering,compassion
+1061,GerDracor/kleist-die-familie-schroffenstein.xml,54309,54337,"Sag kurz, was willst du tun?",emotional movement,emotional movement,emotional movement
+1062,GerDracor/kleist-die-familie-schroffenstein.xml,54338,54396,"Das beste wär Noch immer, wenn ich Rupert sprechen könnte.",positive,emotions of joy,joy
+1063,GerDracor/kleist-die-familie-schroffenstein.xml,54397,54427,– 's ist ein gewagter Schritt.,emotional movement,emotions of fear,emotional movement
+1064,GerDracor/kleist-die-familie-schroffenstein.xml,54428,54538,"Bei seiner Rede Am Sarge Peters schien kein menschliches, Kein göttliches Gesetz ihm heilig, das Dich schützt.",negative,emotions of affection,suffering
+1065,GerDracor/kleist-die-familie-schroffenstein.xml,54539,54560,Es wäre zu versuchen.,negative,emotions of fear,anger
+1066,GerDracor/kleist-die-familie-schroffenstein.xml,54561,54647,"Denn Es wagt ein Mensch oft den abscheulichen Gedanken, der sich vor der Tat entsetzt.",negative,emotions of fear,"hate, disgust"
+1067,GerDracor/kleist-die-familie-schroffenstein.xml,54648,54691,Er hat dir heut das Beispiel nicht gegeben.,negative,emotions of rejection,anger
+1068,GerDracor/kleist-die-familie-schroffenstein.xml,54692,54774,"Auch diese Untat, wenn sie häßlich gleich, Doch ist's noch zu verzeihn, Jeronimus.",negative,emotions of suffering,suffering
+1069,GerDracor/kleist-die-familie-schroffenstein.xml,54775,54802,Denn schwer war er gereizt.,negative,emotions of suffering,emotional movement
+1070,GerDracor/kleist-die-familie-schroffenstein.xml,54803,54922,"– Auf jeden Fall Ist mein Gesuch so unerwarteter; Und öfters tut ein Mensch, was man kaum hofft, Weil man's kaum hofft.",emotional movement,emotions of suffering,emotional movement
+1071,GerDracor/kleist-die-familie-schroffenstein.xml,54923,54971,"Es ist ein blinder Griff, Man  Ich will's wagen.",negative,emotions of fear,fear
+1072,GerDracor/kleist-die-familie-schroffenstein.xml,54972,55054,"Reite Nach Rossitz, fordre sicheres Geleit, Ich denke, du hast nichts zu fürchten.",positive,emotions of fear,fear
+1073,GerDracor/kleist-die-familie-schroffenstein.xml,55055,55084,– Nein; Ich will's versuchen.,negative,emotions of joy,anger
+1074,GerDracor/kleist-die-familie-schroffenstein.xml,55085,55096,Ab ins Tor.,negative,emotions of rejection,anger
+1075,GerDracor/kleist-die-familie-schroffenstein.xml,55097,55109,So leb wohl.,negative,emotions of suffering,suffering
+1076,GerDracor/kleist-die-familie-schroffenstein.xml,55110,55159,"Leb wohl, Und kehre bald mit Trost zu uns zurück.",negative,emotions of suffering,joy
+1077,GerDracor/kleist-die-familie-schroffenstein.xml,55160,55197,"Sylvester, Gertrude und Agnes folgen.",positive,emotional movement,suffering
+1078,GerDracor/kleist-die-familie-schroffenstein.xml,55198,55228,hebt im Abgehen den Dolch auf.,negative,emotions of rejection,"hate, disgust"
+1079,GerDracor/kleist-die-familie-schroffenstein.xml,55229,55244,Es gibt keinen.,emotional movement,emotions of affection,emotional movement
+1080,GerDracor/kleist-die-familie-schroffenstein.xml,55245,55259,– erschrocken.,emotional movement,emotional movement,emotional movement
+1081,GerDracor/kleist-die-familie-schroffenstein.xml,55260,55317,"Den Dolch – er ist vergiftet, Agnes, kann Vergiftet sein.",negative,emotions of fear,"hate, disgust"
+1082,GerDracor/kleist-die-familie-schroffenstein.xml,55318,55351,"– Wirf gleich, sogleich ihn fort.",negative,emotions of rejection,anger
+1083,GerDracor/kleist-die-familie-schroffenstein.xml,55353,55485,"Du sollst mit deinen Händen nichts ergreifen, Nichts fassen, nichts berühren, das ich nicht Mit eignen Händen selbst vorher geprüft.",negative,emotions of rejection,love
+1084,GerDracor/kleist-die-familie-schroffenstein.xml,55486,55494,Alle ab.,negative,emotional movement,anger
+1085,GerDracor/kleist-die-familie-schroffenstein.xml,55495,55513,Der Vorhang fällt.,negative,emotional movement,fear
+1086,GerDracor/kleist-die-familie-schroffenstein.xml,55514,55532,Gegend im Gebirge.,negative,emotions of suffering,suffering
+1087,GerDracor/kleist-die-familie-schroffenstein.xml,55533,55610,"Agnes sitzt im Vordergrunde der Höhle in der Stellung der
+            Trauer.",negative,emotions of suffering,suffering
+1088,GerDracor/kleist-die-familie-schroffenstein.xml,55611,55671,"Ottokar tritt auf, und stellt sich ungesehen nahe der Höhle.",negative,emotions of fear,emotional movement
+1089,GerDracor/kleist-die-familie-schroffenstein.xml,55672,55754,"Agnes erblickt ihn,
+            tut einen Schrei, springt auf und will entfliehen.",negative,emotions of fear,fear
+1090,GerDracor/kleist-die-familie-schroffenstein.xml,55755,55781,da sie sich gesammelt hat.,emotional movement,emotions of joy,emotional movement
+1091,GerDracor/kleist-die-familie-schroffenstein.xml,55782,55792,Du bist's.,positive,emotions of joy,joy
+1092,GerDracor/kleist-die-familie-schroffenstein.xml,55793,55818,– Vor mir erschrickst du?,negative,emotions of fear,fear
+1093,GerDracor/kleist-die-familie-schroffenstein.xml,55819,55833,Gott sei Dank.,negative,emotions of joy,joy
+1094,GerDracor/kleist-die-familie-schroffenstein.xml,55834,55854,Und wie du zitterst.,negative,emotions of fear,fear
+1095,GerDracor/kleist-die-familie-schroffenstein.xml,55855,55876,– Ach es ist vorüber.,negative,emotions of suffering,suffering
+1096,GerDracor/kleist-die-familie-schroffenstein.xml,55877,55927,"Ist's wirklich wahr, vor mir wärst du erschrocken?",negative,emotions of fear,fear
+1097,GerDracor/kleist-die-familie-schroffenstein.xml,55928,55957,Es ist mir selbst ein Rätsel.,emotional movement,emotional movement,emotional movement
+1098,GerDracor/kleist-die-familie-schroffenstein.xml,55958,56158,"Denn soeben Dacht ich noch dran, und rief den kühnen Mut, Die hohe Kraft, die unbezwingliche Standhaftigkeit herbei, mir beizustehn – Und doch ergriff's mich, wie unvorbereitet, – – Nun, ist's vorbei.",negative,emotions of suffering,suffering
+1099,GerDracor/kleist-die-familie-schroffenstein.xml,56159,56183,– O Gott des Schicksals!,negative,emotions of suffering,suffering
+1100,GerDracor/kleist-die-familie-schroffenstein.xml,56184,56239,"Welch ein schönes, Welch ruhiges Gemüt hast du gestört!",negative,emotions of suffering,suffering
+1101,GerDracor/kleist-die-familie-schroffenstein.xml,56240,56282,"– Du hast mich herbestellt, was willst du?",emotional movement,emotional movement,anger
+1102,GerDracor/kleist-die-familie-schroffenstein.xml,56283,56338,"Wenn Ich's dir nun sage, kannst du mir vertraun, Maria?",positive,emotions of affection,anger
+1103,GerDracor/kleist-die-familie-schroffenstein.xml,56339,56366,Warum nennst du mich Maria?,negative,emotional movement,emotional movement

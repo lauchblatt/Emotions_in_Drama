@@ -1,0 +1,683 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,0,411,"  Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht.",positive,emotions of joy,admiration
+1,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,412,621,"Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen).",negative,emotions of joy,"hate, disgust"
+2,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,721,819,Der Schauplatz zeiget einen angenemen und weitläuftigen Garten unweit der Haupt-Stadt in Thracien.,positive,emotions of joy,joy
+3,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,858,873,"Orasia, Ismene.",emotional movement,emotional movement,emotional movement
+4,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,912,917,Aria.,emotional movement,emotional movement,emotional movement
+5,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,918,954,Wie hart ist mir das Schicksal doch?,negative,emotions of suffering,suffering
+6,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,955,991,Wie lange hofft mein Herz vergebens?,negative,emotions of fear,suffering
+7,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,992,1026,Wie lange währt mein Seufzen noch?,negative,emotions of suffering,suffering
+8,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1027,1067,Wann freu' ich mich einst meines Lebens?,positive,emotions of joy,joy
+9,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1068,1104,Wie hart ist mir das Schicksal doch?,negative,emotions of suffering,suffering
+10,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1105,1141,Wie lange hofft mein Herz vergebens?,negative,emotions of fear,suffering
+11,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1186,1241,"Ismene Mit blossem Kummer speis't, Mit Thränen tränket!",negative,emotions of suffering,suffering
+12,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1242,1291,"Was ist es, Königinn, Das dich so heftig kränket?",negative,emotions of suffering,suffering
+13,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1292,1418,"Ach solltest du nicht wissen, Daß ein verborg'ner Zug mir selber mich entrissen, Und daß ich längst nicht mehr mein eigen bin?",negative,emotions of suffering,suffering
+14,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1419,1461,Ich habe dir schon oft mein Herz vertraut.,positive,emotions of affection,friendship
+15,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1462,1561,"Es ist ein süsser Trost, den mein Gemüth empfindet, Wann ich dir in geheim mein Leiden klagen kann.",positive,emotions of joy,joy
+16,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1562,1724,"Ich fühle mich in Lieb' entzündet, Und mein entflammter Sinn Wird bloß auf  Orpheus 
+                                           Orpheus An den mein Herz gedenket.",positive,emotions of affection,love
+17,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1725,1797,"Jedoch, wie fang' ichs an, Da  Eurydice Daß sie ihm aus den Augen kömmt?",emotional movement,emotional movement,love
+18,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1798,1880,"Du weisst, daß sie allein sein Herz bezogen; Ja ihr allein ist seine Treu gewogen.",positive,emotions of affection,love
+19,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1922,1927,Aria.,emotional movement,emotional movement,emotional movement
+20,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1928,1991,Lieben / und nicht geliebet seyn / Uebersteiget alle Schmerzen.,positive,emotions of suffering,love
+21,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,1992,2045,Selbst der Tod geht zarten Herzen Nicht so sauer ein.,positive,emotions of affection,"hate, disgust"
+22,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2046,2088,Bist du nicht Königinn von vielen Reichen?,negative,emotions of affection,admiration
+23,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2089,2131,Und was ist wol dem Throne zu vergleichen?,emotional movement,emotions of affection,emotional movement
+24,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2132,2172,Die Cronen sind nicht jeden Tag zu kauf.,negative,emotions of rejection,Schadenfreude
+25,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2173,2244,"Die Liebe folgt dem Glücke; Wohin dieß winkt, da geht sie gern zurücke.",positive,emotions of affection,joy
+26,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2245,2303,"Sprich mir doch von der Liebe nicht, Die du nicht kennest.",positive,emotions of affection,love
+27,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2304,2350,Ich opferte ja gern mein Glück ihr selber auf.,positive,emotions of affection,love
+28,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2351,2425,"Allein sieht  Orpheus Ist seine Lieb' ihm nicht viel mehr, als eine Crone?",positive,emotions of affection,love
+29,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2426,2567,"Doch waffne dich, mein Sinn, Mit Grausamkeit und List, An meiner Neben-Buhlerinn, An  Eurydice 
+                                        Aria.",negative,emotions of rejection,"hate, disgust"
+30,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2612,2639,"Sù, mio corg, à lavendetta!",negative,emotions of rejection,anger
+31,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2684,2711,Pace in sen' io Più non hò.,negative,emotions of affection,emotional movement
+32,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2756,2782,Vendicarmi à te s'aspetta!,negative,emotions of suffering,suffering
+33,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2827,2845,Euridice ucciderò.,positive,emotional movement,emotional movement
+34,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2890,2918,"Sù, mio core, à la vendetta!",positive,emotions of affection,anger
+35,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2963,2990,Pace in sen' io Più non hò.,negative,emotions of affection,emotional movement
+36,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,2991,3019,Auf / mein Herz / zur Rache!,negative,emotions of fear,"hate, disgust"
+37,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3020,3059,Ich weiß nichts mehr von der Sanftmuth.,positive,emotions of affection,love
+38,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3060,3139,Ich warte auf Gelegenheit / mich zu rächen / Und will  Eurydice Auf / mein etc.,negative,emotions of fear,"hate, disgust"
+39,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3184,3228,"Darum, ihr Furien, schickt eure Nattern her!",negative,emotions of rejection,"hate, disgust"
+40,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3229,3291,Lasst sie in diesem Garten Auf meine Feindinn heimlich warten.,negative,emotions of rejection,"hate, disgust"
+41,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3292,3426,"So bald ihr Fuß dieß Bluhmen-Feld betritt, Soll eurer Schlangen Gift sie rühren, Und ein verborg'ner Stich ins Reich der Todtenführen.",negative,emotions of rejection,"hate, disgust"
+42,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3427,3491,"Trefft aber ja sie nur allein, Und nicht die andern Nymphen mit!",negative,emotions of rejection,love
+43,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3492,3543,"Doch, wird durch ihren Tod mein Weh gemindert seyn?",negative,emotions of suffering,suffering
+44,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3544,3648,"Ach Königinn, ich trage Leyd mit dir, Und fühl' in meinem Herzen Den grösten Theil von deinen Schmerzen.",negative,emotions of suffering,suffering
+45,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3649,3703,"Doch willt du, daß wir hier Noch länger uns verweilen?",positive,emotions of affection,suffering
+46,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3704,3743,"Schau,  Orpheus Eurydicen Was hinderts?",positive,emotions of joy,emotional movement
+47,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3744,3759,bleib nur hier!,negative,emotions of rejection,compassion
+48,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3760,3764,Ach!,negative,emotions of suffering,suffering
+49,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3765,3786,laß uns lieber eilen!,negative,emotions of fear,fear
+50,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3787,3798,"Nein, nein.",emotional movement,emotions of joy,emotional movement
+51,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3799,3821,Hier bleib' ich stehn.,negative,emotions of rejection,suffering
+52,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3822,3864,Doch daß sie nur nicht unsern Kummer sehn.,negative,emotions of suffering,suffering
+53,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3903,3915,Die Vorigen.,positive,emotions of rejection,emotional movement
+54,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3916,3953,"Orpheus, Eurimedes, Chor der Nymphen.",positive,emotions of joy,admiration
+55,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,3992,4238,"Orpheus setzet sich in dem Gartenohne die Königinn zu sehenund singet nebst dem Eurimedes folgende Aria 
+                                     Aria Angenemer Aufenthalt Süsser Stille / schönster Freuden / Laß uns hier Unser Herz in Wollust weiden!",positive,emotions of joy,joy
+56,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,4239,4375,"Alles finden wir in dir / Was die Lieb' entflammt und nähret; 
+                                           Was uns Ruh und Lust gewehret.",positive,emotions of affection,love
+57,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,4376,4445,Angenemer Aufenthalt Süsser Stille / schönster Freuden / Laß uns etc.,positive,emotions of joy,joy
+58,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,4487,4504,hinten im Garten.,negative,emotions of rejection,anger
+59,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,4505,4604,Angenemer Aufenthalt Süsser Stille / schönster Freuden / Laß uns hier Unser Herz in Wollust weiden!,positive,emotions of joy,joy
+60,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,4605,4694,"Find' ich dich hier in dieser Einsamkeit, Und willt du ferner nicht an meinem Hofe leben?",negative,emotions of suffering,suffering
+61,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,4695,4743,"Ach Königinn, mein Herz liebt die Zufriedenheit.",positive,emotions of affection,love
+62,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,4744,4796,"Die kann kein Ort mir mehr, als diese Gegend, geben.",positive,emotions of affection,love
+63,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,4838,4843,Aria.,emotional movement,emotional movement,emotional movement
+64,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,4844,4910,Einsamkeit ist mein Vergnügen; Nichts erfreut mich mehr / als sie.,positive,emotions of joy,joy
+65,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,4911,5098,Dieser Bäche sanftes Rauschen Dieser Winde lispelnden Schall / Diesen Klang der Nachtigall / Dieser Bluhmen holde Pracht / Werd' ich nimmermehr vertauschen Mit der grösten Ehr' und Macht.,positive,emotions of affection,joy
+66,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5099,5165,Einsamkeit ist mein Vergnügen; Nichts erfreut mich mehr / als sie.,positive,emotions of joy,joy
+67,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5166,5306,"Erwehnst du denn von  Eurydice Die kann dich ja weit mehr, als alles dieß, ergetzen, Und scheinst du diesen Ort um sie nur hoch zu schätzen.",positive,emotions of affection,admiration
+68,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5307,5411,Weil du ganz neulich erst mit ihr verehlicht bist: So sollt du zwar dich nicht so fort von ihr gesellen.,negative,emotions of rejection,"hate, disgust"
+69,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5412,5481,"Doch säume nicht, nach kurzer Frist Bey mir dich wieder einzustellen.",positive,emotions of affection,"hate, disgust"
+70,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5482,5529,"Ich fad're nichts, als bloß, was deine Pflicht.",negative,emotions of rejection,suffering
+71,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5530,5629,Angenemer Aufenthalt Süsser Stille / schönster Freuden / Laß uns hier Unser Herz in Wollust weiden!,positive,emotions of joy,joy
+72,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5668,5676,Orpheus.,emotional movement,emotional movement,emotional movement
+73,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5677,5687,Eurimedes.,emotional movement,emotional movement,emotional movement
+74,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5688,5790,"Wie bist du so betrübt, mein Freund, mein Herzens-Freund, Da dir das Glück mit holden Blicken scheint?",negative,emotions of suffering,suffering
+75,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5791,5836,Lässt mich dein Mund nur tiefe Seufzer hören?,negative,emotions of suffering,suffering
+76,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5837,5864,Wie kann ich fröhlich seyn?,positive,emotions of joy,joy
+77,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5865,5911,Will mir die Königinn doch alle Freude stören.,positive,emotions of joy,joy
+78,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5912,5963,"Ich soll mich von hier weg, an ihren Hof, verfügen.",negative,emotions of rejection,"hate, disgust"
+79,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,5964,6022,"Da wird ja dein Vergnügen Eh grösser, als gemindert, seyn.",positive,emotions of joy,joy
+80,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6023,6048,Du irrest dich; ach nein!,negative,emotions of joy,emotional movement
+81,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6049,6087,"Weisst du nicht, wie's bey Hofe gehet?",positive,emotions of rejection,emotional movement
+82,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6129,6134,Aria.,emotional movement,emotional movement,emotional movement
+83,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6179,6318,"Chi stà in corte, 
+                                           Hore corte 
+                                           Di contento può goder.",negative,emotional movement,emotional movement
+84,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6363,6521,"Sol si trovan genti accorte, 
+                                           Che son scorte 
+                                           A gl' inciampi & al cader.",negative,emotions of affection,joy
+85,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6522,6593,Wer bey Hofe lebet / Hat nur kurze Zeit Ein wahres Vergnügen zu hoffen.,positive,emotions of joy,joy
+86,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6594,6702,Dort finden sich allein verschlagne Leute / Welche vorsichtig sind / Damit sie nicht straucheln oder fallen.,negative,emotions of fear,fear
+87,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6703,6720,Wer bey Hofe etc.,negative,emotions of rejection,emotional movement
+88,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6721,6785,"Bestehst du denn annoch auf deinem Sinn, Aus Thracien zu ziehen?",negative,emotions of affection,anger
+89,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6786,6862,"Ich leugne nicht, daß ich gewillet bin, Von hier in Griechenland zu fliehen.",negative,emotions of fear,fear
+90,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6907,6990,"Wer kann auch mit Gedult die Frevel-Thaten sehn, Die täglich hier im Schwange gehn?",negative,emotions of rejection,"hate, disgust"
+91,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,6991,7074,"In diesen Labyrinth Sollt' ich nun  Eurydice Ach,  Eurydice Jedoch, wo bleibest du?",negative,emotions of suffering,fear
+92,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,7075,7106,Lässt du dich gar nicht spüren?,negative,emotions of affection,emotional movement
+93,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,7148,7163,Eurydice kömmt.,positive,emotional movement,fear
+94,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,7202,7231,"Orpheus, Eurydice, Eurimedes.",positive,emotions of joy,emotional movement
+95,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,7232,7320,"Wie lange brenn' ich schon vor sehnlichem Verlangen, Dich hier, mein Leben, zu umfangen!",negative,emotions of affection,love
+96,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,7321,7380,"Du weisst, ich kann nicht ohne Pein Von dir entfernet seyn.",negative,emotions of suffering,suffering
+97,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,7422,7427,Aria.,emotional movement,emotional movement,emotional movement
+98,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,7472,7769,"Non hò maggior contento, 
+                                           Che di fissarmi in te; 
+                                           E all' hor morir mi sento, 
+                                           Se per un sol momento 
+                                           T' involi, o cara, à me.",negative,emotions of suffering,suffering
+99,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,7770,7941,Ich habe kein grösseres Vergnügen / Als bey dir mich beständig aufzuhalten; Und ich bin alsdann dem Tode nahe / Wann du nur einen Augenblick / Geliebte / von mir weichest.,positive,emotions of affection,love
+100,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,7942,7960,Ich habe kein etc.,negative,emotions of rejection,suffering
+101,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,7961,8056,"Wie sehr erfreut es mich, Mein  Orpheus Wo Ruh und Anmuth sich In stiller Einsamkeit verbinden!",positive,emotions of joy,joy
+102,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8057,8113,Ach wie bequem Wird dieser Ort nicht uns'rer Liebe seyn!,positive,emotions of affection,love
+103,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8114,8174,"Doch find' ich nichts hieselbst so angenem, Als dich allein.",positive,emotions of affection,love
+104,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8260,8317,Ohne dich kann ich nicht leben; Du bist einzig meine Ruh.,positive,emotions of affection,love
+105,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8318,8387,Nichts kann mehr Vergnügung geben; Nichts ergetzt mich mehr / als du.,positive,emotions of joy,joy
+106,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8388,8457,Nichts kann mehr Vergnügung geben; Nichts ergetzt mich mehr / als du.,positive,emotions of joy,joy
+107,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8458,8515,Ohne dich kann ich nicht leben; Du bist einzig meine Ruh.,positive,emotions of affection,love
+108,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8516,8541,Wie lebhaft wird es hier?,emotional movement,emotional movement,emotional movement
+109,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8542,8587,Die Nymphen stellen sich Von allen Orten ein.,negative,emotions of joy,joy
+110,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8629,8641,zu Eurydice.,negative,emotional movement,emotional movement
+111,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8642,8697,So lass' ich dich Mit ihnen denn auf kurze Zeit allein.,negative,emotions of suffering,suffering
+112,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8736,8761,Die Nymphen und Earydice.,positive,emotions of affection,emotional movement
+113,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8806,8926,"Les plaisirs sont de tous les âges; 
+                                           Les plaisirs sont de toutes les saisons.",positive,emotions of suffering,joy
+114,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,8971,9098,"Pour les rendre permis, on sair, que les plus sages 
+                                           Ont souvent trouvé des raisons.",positive,emotions of joy,joy
+115,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9143,9223,"Rions, chantons, 
+                                           Folâtrons, sautons!",negative,emotions of rejection,"hate, disgust"
+116,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9268,9285,Les plaisirs etc.,negative,emotions of rejection,emotional movement
+117,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9286,9352,Die Lustbarkeiten sind für jedes Alter / Und für jede Jahres-Zeit.,positive,emotions of joy,joy
+118,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9353,9411,Die allerweisesten haben befunden / Daß sie erlaubet sind.,positive,emotions of joy,anger
+119,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9412,9451,Lass't uns scherzen / lasse uns singen!,positive,emotions of joy,joy
+120,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9452,9491,Lass't uns tanzen / lasse uns springen!,positive,emotions of fear,joy
+121,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9492,9514,Die Lustbarkeiten etc.,positive,emotions of joy,joy
+122,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9515,9549,"Tanzt, Nymphen, tanzt und jauchzt!",positive,emotions of joy,joy
+123,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9550,9603,"bedienet euch der Zeit, Und dieser holden Einsamkeit!",positive,emotions of suffering,suffering
+124,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9604,9680,"Hier will ich mich in diesen Bluhmen setzen, An eurer Lust mich zu ergetzen.",positive,emotions of joy,joy
+125,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9681,9844,"DIE NYMPHEN  tanzen ferner und singen: 
+                                           Rions, chantons, 
+                                           Folâtrons, sautons!",positive,emotions of joy,joy
+126,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,9889,10009,"Les plaisirs sont de tous les âges; 
+                                           Les plaisirs sont de toutes les saisons.",positive,emotions of suffering,joy
+127,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10048,10088,"Die Nymphen Cephisa, Orpheus, Eurimedes.",positive,emotions of affection,love
+128,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10089,10116,Welch Unfall trägt sich zu?,negative,emotions of suffering,fear
+129,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10117,10121,Ach!,negative,emotions of suffering,suffering
+130,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10122,10168,"seh' ich  Eurydice CEPHISA, ORPHEUS, EURYDICE.",negative,emotional movement,emotional movement
+131,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10169,10193,"Ihr Götter, rettet doch!",negative,emotions of fear,despair
+132,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10194,10262,Ist eine Hülfe noch: So lasst sie nicht durch diesen Fall verderben!,negative,emotions of suffering,fear
+133,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10263,10312,Ihr Angesicht erblasst; der Augen Glanz vergehet.,negative,emotions of suffering,suffering
+134,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10313,10355,"Es ist zu spät, daß man gen Himmel flehet.",negative,emotions of suffering,despair
+135,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10356,10375,Ich Unglückseliger!,negative,emotions of suffering,suffering
+136,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10376,10385,"Ach, ach!",negative,emotions of suffering,suffering
+137,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10386,10400,was sagest du?,negative,emotions of rejection,anger
+138,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10401,10550,"Kaum hatte sie sich hier in dieses Laub gestreckt, Als einer Schlangen Biß, die durch das Kraut verdeckt, So fort mit ihrem Gift Sie tödtlich trifft.",negative,emotions of rejection,"hate, disgust"
+139,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10589,10601,Die Vorigen.,positive,emotions of rejection,emotional movement
+140,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10640,10679,Eurydice wird als eine Sterbende von 2.,negative,emotions of suffering,suffering
+141,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10680,10697,Nymphen gehalten.,negative,emotions of affection,"hate, disgust"
+142,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10698,10714,"Ihr Himmel, ach!",negative,emotions of suffering,suffering
+143,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10715,10733,was muß ich sehen?,emotional movement,emotions of fear,anger
+144,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10734,10818,"Ach,  Eurydice Mein  Orpheus Ach,  Eurydice Die Götter wollens so; drum gib dich zu!",negative,emotions of suffering,love
+145,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10819,10874,"Ihr Götter, kanns nicht seyn, daß ich für sie erblasse?",negative,emotions of suffering,admiration
+146,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10875,10914,"Schafft, daß ich auch mein Leben lasse!",positive,emotions of suffering,despair
+147,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,10915,11033,"Mein  Orpheus Nimm hin den letzten Hauch von meinem Leben, Das mir bloß darum angenem, Weil ich bey dir es aufgegeben.",negative,emotions of suffering,love
+148,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11034,11047,Nun lebe wol!,negative,emotions of suffering,love
+149,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11048,11076,Mein Auge schliefst sich zu.,negative,emotions of suffering,suffering
+150,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11118,11155,Eurydice stirbt und wird weggetragen.,negative,emotions of suffering,suffering
+151,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11156,11173,Ihr Himmel / ach!,negative,emotions of suffering,suffering
+152,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11174,11192,was muß ich sehen?,emotional movement,emotions of fear,anger
+153,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11193,11221,Ach  Eurydice Was fühl' ich?,emotional movement,emotional movement,emotional movement
+154,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11222,11244,Wie ist mir geschehen?,negative,emotional movement,emotional movement
+155,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11245,11279,Was bringt mich unvermerkt in Ruh?,negative,emotional movement,emotional movement
+156,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11321,11342,Er fälle in Ohnmacht.,negative,emotions of suffering,suffering
+157,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11381,11391,Eurimedes.,emotional movement,emotional movement,emotional movement
+158,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11392,11424,Cephisa und die übrigen Nymphen.,negative,emotional movement,"hate, disgust"
+159,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11463,11468,Aria.,emotional movement,emotional movement,emotional movement
+160,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11513,11615,"A`l'incendio d'un occhio amoroso 
+                                           Più resistere non si può.",positive,emotions of affection,suffering
+161,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11660,11761,"Troppo dolce, caro e vezzoso 
+                                           E` quel volto, che mi piagò!",positive,emotions of affection,joy
+162,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11762,11833,Der Gluht eines liebreizenden Auges Kann ich nicht länger wiederstehen.,positive,emotions of affection,joy
+163,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11834,11912,Gar zu lieblich / angenem und holdselig Ist dieses Antlitz das mich verwundet.,positive,emotions of affection,suffering
+164,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11913,11927,Der Gluht etc.,negative,emotional movement,emotional movement
+165,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11928,11991,"Du bists,  Cephisa Dein Reizungs-voller Blick hat mich gerührt.",positive,emotions of affection,love
+166,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,11992,12003,Ach Schade!,negative,emotions of suffering,compassion
+167,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12004,12034,daß ich nichts hievon gespürt.,negative,emotions of affection,suffering
+168,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12035,12094,"Trägst du nicht Leid mit mir, und willt mich noch verhönen?",negative,emotions of rejection,compassion
+169,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12095,12174,"Ja freylich trag' ich Leid mit dir, Weil du bey mir In deinem Zweck verfehlest.",negative,emotions of suffering,compassion
+170,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12175,12212,Ist dieß die Ahrt von unsern Schönen?,positive,emotions of affection,love
+171,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12213,12247,Wir haben all' ein Herz von Stein.,positive,emotions of affection,love
+172,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12248,12297,Besteht die Schönheit denn in Grausamkeit allein?,negative,emotions of suffering,admiration
+173,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12298,12334,Die Liebe pflegt ja sonst ihr beste.,positive,emotions of affection,love
+174,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12335,12351,Schmuck zu seyn.,positive,emotions of affection,"hate, disgust"
+175,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12352,12389,"Ich weiß nicht, was du mir erzählest.",emotional movement,emotional movement,anger
+176,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12431,12436,Aria.,emotional movement,emotional movement,emotional movement
+177,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12437,12509,Ich weiß von keiner Liebe nicht / Als die mein Herz zur Freyheit träget.,positive,emotions of affection,love
+178,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12510,12611,Freyheit soll die Losung seyn; Freyheit / dich lieb' ich allein / So lange noch mein Blut sich reget.,positive,emotions of affection,love
+179,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12612,12651,Ist denn gar nichts für mich zu hoffen?,negative,emotions of suffering,fear
+180,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12652,12691,Verschleusst du ganz dein Herz vor mir?,negative,emotions of fear,love
+181,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12692,12764,"Mein Herz steht keinem andern offen, Als, Freyheit, dir, als einzig dir.",positive,emotions of affection,love
+182,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12765,12806,"Ihr Schwestern, stimmt ihr nicht mit ein?",positive,emotions of affection,joy
+183,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12807,12856,Ihr werdet Zweifelsfrey ja gleicher Meynung seyn.,negative,emotions of rejection,friendship
+184,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12898,12912,nebst Cephisa.,negative,emotions of rejection,emotional movement
+185,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,12954,12959,Aria.,emotional movement,emotional movement,emotional movement
+186,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13004,13099,"N'aimons que la liberté; 
+                                           Rien n' a tant de charmes.",positive,emotions of affection,love
+187,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13144,13173,L'amour coûte trop de larmes.,negative,emotions of suffering,love
+188,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13218,13315,"Sa plus douce felicité 
+                                           N'est jamais exemt d'allarmes.",positive,emotions of affection,joy
+189,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13316,13354,Lasset uns einzig die Freyheit lieben!,positive,emotions of affection,love
+190,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13355,13384,Nichts hat so viel Vergnügen.,positive,emotions of joy,joy
+191,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13385,13441,Die Liebe führet gar zu viele Verdrießlichkeit mit sich.,positive,emotions of affection,suffering
+192,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13442,13499,Ihre angenemfie Glückselichkeit Ist niemahls ohne Unruhe.,positive,emotions of joy,joy
+193,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13500,13522,Lasset uns einzig etc.,negative,emotions of affection,suffering
+194,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13561,13569,Orpheus.,emotional movement,emotional movement,emotional movement
+195,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13570,13582,Wie ist mir?,emotional movement,emotional movement,emotional movement
+196,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13583,13597,leb' ich noch?,negative,emotions of fear,emotional movement
+197,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13598,13623,wozu soll ich noch leben?,negative,emotions of fear,despair
+198,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13624,13751,"Kann mir der Himmel nicht mein Leben wieder geben, Das  Eurydice Was soll mir auch das Leben, Da mir des Lebens Trost gebricht!",positive,emotions of suffering,suffering
+199,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,13881,13966,"Tiranna, spietata Fortuna, 
+                                           Sì, sì morirò.",negative,emotions of suffering,suffering
+200,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14011,14092,"Mi desti la vita, 
+                                           Et hor sei pentita.",negative,emotions of suffering,suffering
+201,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14137,14153,T'intendo lo sò!,negative,emotions of fear,suffering
+202,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14154,14218,Du Tyrannisches und grausames Geschick / Ja ja ich will sterben.,negative,emotions of rejection,"hate, disgust"
+203,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14219,14276,Du hast mir mein Leben gegeben / Und nun gereuet es dich.,negative,emotions of suffering,love
+204,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14277,14299,Ich merke deine Tücke.,negative,emotions of rejection,"hate, disgust"
+205,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14300,14320,Du Tyrannisches etc.,negative,emotions of rejection,"hate, disgust"
+206,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14321,14400,"Drum komm, du höchst-gewünschter Tod, Du bist allein die Endschaft meiner Noth.",negative,emotions of fear,despair
+207,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14442,14447,Aria.,emotional movement,emotional movement,emotional movement
+208,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14448,14473,Ach Tod / ach süsser Tod!,negative,emotions of suffering,suffering
+209,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14474,14499,Ach Tod / wo bleibest du?,negative,emotions of fear,despair
+210,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14500,14523,Komm / ende meine Noht!,negative,emotions of fear,despair
+211,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14524,14577,Ach Tod / ach süsser Tod / Komm / führe mich zur Ruh!,negative,emotions of suffering,suffering
+212,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14578,14603,Ach Tod / wo bleibest du?,negative,emotions of fear,despair
+213,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14642,14649,Orasia.,emotional movement,emotional movement,emotional movement
+214,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14650,14657,Ismene.,emotional movement,emotional movement,emotional movement
+215,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14658,14837,"So hat die Rache denn gesieget, Und meine Hoffnung lebt aufs neu, Da  Eurydice Sollt'  Orpheus Sollt' ich ihn endlich nicht gewinnen, Da nun das erste Band von seiner Eh' entzwey?",positive,emotions of joy,joy
+216,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14879,14886,Arioso.,emotional movement,emotional movement,emotional movement
+217,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14887,14976,Ach fünd' ich dich / mein  Orpheus Wie wollt' ich dir Die Neigung meiner Brust entdecken!,negative,emotions of suffering,love
+218,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,14977,15080,Ach find' ich dich / mein  Orpheus Wie wollten wir Der Liebe süsse Frucht voll von Vergnügen schmecken!,positive,emotions of affection,love
+219,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,15210,15456,"C'est ma plus – chere envie, 
+                                           De vous aimer toute ma vie; 
+                                           C'est mon plus doux espoir, 
+                                           De vous aimer & de vous voir.",positive,emotions of affection,joy
+220,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,15457,15588,Dieß ist mein höchstes Verlangen / Dich Lebenslang zu lieben; Dieß ist meine angenemste Hoffnung / Dich zu lieben u. dich zu sehen.,positive,emotions of affection,love
+221,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,15589,15710,"Wie marterst du doch, Königinn, Um einen Knecht, um deinen Unterthan, Den, zu des Landes Heyl, schon gung geplagten Sinn?",negative,emotions of suffering,suffering
+222,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,15711,15770,"Ach Thörinn, hast du noch die Ahrt der Liebe nicht erkannt?",positive,emotions of affection,love
+223,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,15771,15807,Die achtet nicht Gebuhrt noch Stand.,negative,emotions of rejection,"hate, disgust"
+224,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,15808,15914,"Sie kann sich in sich selbst vergnügen und ergetzen, Und die Person allein Pflegt alles andre zu ersetzen.",positive,emotions of joy,joy
+225,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,15915,16059,"Ja diese Liebe selbst will desto süsser seyn, Je grössre Schwierigkeit und Pein Sie mit sich führet, Und je empfindlicher sie unsre Sele rühret.",positive,emotions of affection,love
+226,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,16101,16106,Aria.,emotional movement,emotional movement,emotional movement
+227,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,16148,16150,1.,positive,emotions of rejection,emotional movement
+228,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,16195,16306,"L'amour plait malgrèses peines; 
+                                           L'amour plait aux coeurs constants.",negative,emotions of suffering,emotional movement
+229,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,16351,16453,"On ne peut porter ses chaines 
+                                           Assez tôt ny trop long tems.",negative,emotions of suffering,suffering
+230,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,16495,16497,2.,positive,emotions of joy,suffering
+231,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,16542,16646,"Sans amour toutest sans âme; 
+                                           L'amourseul nous rend contents.",positive,emotions of affection,love
+232,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,16691,16790,"On ne peut sentir sa flame 
+                                           Assez tôt ny trop long tems.",negative,emotions of suffering,"hate, disgust"
+233,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,16791,16883,Die Liebe gefällt uns / ungeachtet ihrer Mühseligkeiten; Sie gefällt den beständigen Herzen.,positive,emotions of affection,love
+234,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,16884,16950,Man kann ihre Fessel Nicht zu bald und auch nicht zu lange tragen.,negative,emotions of affection,love
+235,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,16951,17023,Ohne die Liebe ist alles ohne Sele; Die Liebe allein macht uns vergnügt.,positive,emotions of affection,joy
+236,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17024,17091,Man kann ihr Feuer Nicht zu bald und auch nicht zu lange empfinden.,positive,emotions of affection,love
+237,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17130,17138,Orpheus.,emotional movement,emotional movement,emotional movement
+238,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17139,17149,Eurimedes.,emotional movement,emotional movement,emotional movement
+239,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17150,17199,"Was habt ihr doch, Ihr Himmel, über mich versehn?",negative,emotions of suffering,suffering
+240,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17244,17284,Bey mir nicht einen Tag beysommen stehn.,negative,emotions of suffering,suffering
+241,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17285,17433,"Soll ich nun auch zu desto grosserm Leyde, Da  Eurydice 
+                                        Es zeiget sich von ferne der Schatten der Eurydice.",positive,emotions of suffering,love
+242,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17434,17453,Allein wie ist mir?,negative,emotional movement,suffering
+243,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17454,17506,soll ich nicht Hier  Eurydice Betriegliche Gedanken!,negative,emotional movement,emotional movement
+244,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17507,17549,Was stellt ihr mir für süsse Schatten vor?,positive,emotions of affection,love
+245,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17550,17626,"Gewiß, mein Freund, du weichest aus den Schranken Der Großmuht und Vernunft.",positive,emotions of rejection,friendship
+246,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17627,17768,"Stell itzt dein Trauren ein, Und, kanns nicht anders seyn, So sey vielmehr bedacht, den Riß, der dich betroffen, Anfs allererste zu ersetzen!",negative,emotions of suffering,suffering
+247,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17769,17796,Was kann ich ferner hoffen?,negative,emotions of fear,fear
+248,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17797,17837,Kürzt mir der Tod doch alle Hoffnung ab!,negative,emotions of fear,despair
+249,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17838,17919,"Reisst der dein Eh-Gemal ins Grab: So geh, und hole sie aus seinen Klauen wieder!",negative,emotions of rejection,"hate, disgust"
+250,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,17920,18011,"Du kennest ja den Nachdruck deiner Lieder, Und wie du oft dadurch manch rohes Herz bemannt.",negative,emotions of affection,suffering
+251,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18012,18167,"Es kann dein lieblicher Gesang Und deiner Saiten holder Klang Vielleicht den  Pluto Drum nimm sie alsofort zur Hand; Drum geh, und hol nun  Eurydice Wolan!",positive,emotions of affection,love
+252,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18168,18223,"ich folge diesem Raht, Mich in die Unter-Welt zu wagen.",positive,emotions of fear,fear
+253,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18224,18325,"Ich thue, was  Alcides Um die zum Lohn davon zu tragen, Die mir aus meinem Arm der Tod entrissen hat.",positive,emotions of affection,love
+254,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18364,18494,Der Schauplatz zeiget ein weitläustiges Gefilde in welchem Pluto auf seinem Throne sitzet über die ankommenden Geister zu richten.,positive,emotions of joy,joy
+255,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18495,18574,In der Ferne sind verschiedene Merkmale seines unterirdischen Reiches zu sehen.,negative,emotions of suffering,"hate, disgust"
+256,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18613,18619,Pluto.,emotional movement,emotional movement,emotional movement
+257,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18620,18642,Chor seiner Bedienten.,negative,emotions of rejection,anger
+258,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18643,18656,Was hör' ich?,emotional movement,emotional movement,emotional movement
+259,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18657,18752,"ist es wahr, Daß ein verweg'ner Gast aus jener Ober-Welt In mein Gebiet zu kommen sich erkühne?",negative,emotions of rejection,emotional movement
+260,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18753,18757,Auf!,negative,emotions of fear,emotional movement
+261,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18758,18791,"rüste dich, du mir getreue Schar!",positive,emotions of affection,fear
+262,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18792,18920,"Kann ich dem, was mir ahndet, glauben: So will selbst Jupiter, der längst mir nachgestellt, Durch ihn mir meinen Scepter rauben.",positive,emotions of rejection,love
+263,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,18921,19015,"Vielleicht hat er ihm gar Auch seinen Donner-Keil geliehen, Mich desto heftiger zu überziehen.",negative,emotions of rejection,anger
+264,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19016,19049,Allein Wer wollte furchtsam seyn!,negative,emotions of fear,fear
+265,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19050,19186,"Stellt der Vermessne sich in meinen Grenzen ein: So soll er gleich zur ärgsten Straf' und Pein, Die nur zu nennen steht, verdammet seyn.",negative,emotions of rejection,"hate, disgust"
+266,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19228,19233,Aria.,emotional movement,emotional movement,emotional movement
+267,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19234,19248,Zu den Waffen!,negative,emotions of fear,anger
+268,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19249,19263,zu den Waffen!,negative,emotions of fear,anger
+269,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19264,19314,Lauft zusammen / ihr Scharen / und greifet ihn an!,negative,emotions of fear,Schadenfreude
+270,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19315,19407,Lasset nicht ab / bis ihr ihn gefunden / Und überwunden / Daß ich ihn selbst bestrafen kann.,negative,emotions of suffering,compassion
+271,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19408,19422,Zu den Waffen!,negative,emotions of fear,anger
+272,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19423,19456,zu den Waffen und greifet ihn an!,negative,emotions of rejection,anger
+273,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19498,19550,"Man höret eine sehr angeneme Melodie, als von ferne.",positive,emotions of joy,joy
+274,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19551,19604,Was für ein holder Klang lässt sich von weiten hören?,positive,emotions of affection,love
+275,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19605,19631,Wie kützelt dieß mein Ohr?,negative,emotions of suffering,suffering
+276,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19673,19716,Die Music ist etwas deutlicher zu vernemen.,positive,emotions of joy,emotional movement
+277,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19717,19813,Es scheint sich die Music zu nähern und zu mehren; Sie kömmt mir nun ganz hell und deutlich vor.,positive,emotions of joy,emotional movement
+278,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19814,19818,Ach!,negative,emotions of suffering,suffering
+279,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19819,19870,welch ein Lust-Getön ist diesem gleich zu schätzen!,positive,emotions of joy,joy
+280,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19871,19921,"Jedoch es ist nicht Zeit, itzund sich zu ergetzen.",negative,emotions of fear,fear
+281,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,19922,20052,"Die Rach' und Vorsicht will vielmehr, Daß ich zur Gegenwehr Mein Volk zusammen bringe, Und meinen Feind mit starker Hand bezwinge.",negative,emotions of fear,admiration
+282,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20053,20067,Zu den Waffen!,negative,emotions of fear,anger
+283,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20068,20082,zu den Waffen!,negative,emotions of fear,anger
+284,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20083,20133,Lauft zusammen / ihr Scharen / und greifet ihn an!,negative,emotions of fear,Schadenfreude
+285,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20134,20148,Zu den Waffen!,negative,emotions of fear,anger
+286,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20149,20186,/ zu den Waffen / und greifet ihn an!,negative,emotions of rejection,anger
+287,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20225,20249,Die Vorigen und Ascalax.,positive,emotions of rejection,emotional movement
+288,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20250,20392,"Laß dir, Monarch, von deinem Knechte sagen: Der Fremdling stellt sich ein, Auf den du so ergrimmt zu schauen; Doch unbewährt, und ganz allein.",negative,emotions of rejection,anger
+289,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20393,20468,"Er kömmt nur bloß, in Demuth und Vertrauen, Dir etwas bittlich vorzutragen.",negative,emotions of affection,admiration
+290,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20469,20569,"Er ist es selbst, von dem der süsse Klang Und der so künstliche Gesang, Den du itzt hörtest, rühret.",positive,emotions of affection,love
+291,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20570,20687,"Selbst  Cerberus Hat gegen ihn sich, als ein Lamm, betragen, Und  Charon Hat gegen ihn sich freundlichst aufgeführet.",negative,emotions of affection,admiration
+292,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20726,20764,Die Vorigen und Orpheus im Hinzugehen.,emotional movement,emotional movement,emotional movement
+293,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20803,20908,Die Music so man vorher nur als von weiten hörete lässe sich itzund mehr und mehr ganz deutlich vernemen.,positive,emotions of joy,joy
+294,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,20953,21185,"Tràsperanza, e trà timore 
+                                           Digioir, ò di languire 
+                                           Vànutrendo il dubbio core 
+                                           Il contento & il martire.",positive,emotions of suffering,suffering
+295,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,21230,21333,"Cosilasso, e ne l'interno 
+                                           Sontrà' lCielo, e trà l' Inferno.",negative,emotions of fear,despair
+296,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,21378,21620,"Da diletto, e da tormento 
+                                           Ciò che spero, e ciò che temo, 
+                                           O d' haver assai contento, 
+                                           O di dar in duolo estremo.",negative,emotions of rejection,anger
+297,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,21665,21887,"Così lasso, e ne l'interno 
+                                           Sontrà'l Cielo .... Zwischen Hoffnung und Furcht / Mich zu erfreuen / oder zu betrüben / Nähret sich mein unruhiges Herz Mit Vergnügen und Bekümmerniß.",negative,emotional movement,joy
+298,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,21888,21969,So ermüdet bin ich / und befinde mich In meinem Gemüte zwischen Himmel und Hölle.,negative,emotions of suffering,suffering
+299,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,21970,22127,Ich ergetze mich / und quäle mich Uber das / was ich hoffe / und was ich befürchte / Nemlich entweder höchst – vergnügt Oder auch höchst – betrübt zu werden.,negative,emotions of suffering,suffering
+300,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22128,22143,So ermüdet etc.,negative,emotions of suffering,suffering
+301,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22185,22266,Wie er den Pluto mit seinem Gefolge sieht stutzet er und bleibt von ferne stehen.,emotional movement,emotional movement,emotional movement
+302,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22267,22286,Ist das der Mensch?,negative,emotional movement,emotional movement
+303,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22287,22314,warum lässt er sich stören?,negative,emotions of rejection,anger
+304,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22315,22331,Führ ich hieher!,negative,emotions of rejection,anger
+305,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22332,22351,ich will ihn hören.,positive,emotions of fear,anger
+306,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22390,22402,Die Vorigen.,positive,emotions of rejection,emotional movement
+307,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22403,22411,Orpheus.,emotional movement,emotional movement,emotional movement
+308,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22412,22616,"Monarch der Unter-Welt, den Erd' und Meer verehren, Hier siehst du Jupiters und Tellus Sohn vor dir, Den keine schnöde Raub-Begier, Rein, bloß ein zärtliches und jüngst-gestör'tes Lieben Hieher getrieben.",positive,emotions of affection,love
+309,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22661,22772,"Hab' ich ein wehrtes Eh-Gemahl, Das doch zu meiner Ruh geboren, Im Frühling ihrer Zeit und unser Lust verloren.",negative,emotions of suffering,suffering
+310,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22773,22849,"Ach mögtest du, zum Trost von meinem Leben, Mir nicht dieselbe wieder geben!",negative,emotions of affection,suffering
+311,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22850,22949,"Es wird ja doch dereinst früh oder spät geschehn, Daß wir uns beyde hier in deiner Herrschaft sehn.",positive,emotions of joy,joy
+312,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22950,22970,Was soll ich machen?,negative,emotional movement,emotional movement
+313,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,22971,23019,wider Willen Muß ich ihm seinen Wunsch erfüllen.,positive,emotions of affection,anger
+314,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23020,23052,"Geh, höchst – beglückter Mensch!",positive,emotions of joy,joy
+315,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23053,23078,dein Leid erweichet mich.,negative,emotions of suffering,compassion
+316,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23079,23210,"Zwar  Eurydice Nicht mehr bey mir: Sie steht in  Proserpinen Doch denk' ich alles anzuwenden, Damit sie dir Alsbald zu Theile wird.",positive,emotions of affection,love
+317,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23212,23285,Orpheus Es sollte dein Altar Zur Dankbarkeit von stetem Weyrauch brennen.,positive,emotions of joy,admiration
+318,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23286,23297,Wolan denn!,negative,emotional movement,emotional movement
+319,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23298,23436,"weil sich heut, Bey diesem Zauber-Klang, mein ganzes Reich erfreut: So will ich auch, daß der Verdammten Schar Von ihrer Marter ruhig sey.",positive,emotions of joy,joy
+320,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23437,23491,"Drum geht, und macht sie gleich von ihren Banden frey!",negative,emotions of rejection,Schadenfreude
+321,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23533,23538,Aria.,emotional movement,emotional movement,emotional movement
+322,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23539,23578,Ruhet / ihr Foltern gemarterter Seelen!,negative,emotions of suffering,suffering
+323,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23579,23621,Reisset / ihr Fessel / die ihr sie drückt!,negative,emotions of fear,"hate, disgust"
+324,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23622,23710,Alles soll sich heut' erfreu'n; Nichts soll heute traurig seyn; Keiner soll sich quälen.,positive,emotions of joy,joy
+325,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23711,23750,Ruhet / ihr Foltern gemarterter Seelen!,negative,emotions of suffering,suffering
+326,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23751,23793,Reisset / ihr Fessel / die ihr sie drückt!,negative,emotions of fear,"hate, disgust"
+327,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23835,23872,Sie gehen alle ab ausser dem Orpheus.,negative,emotions of rejection,"hate, disgust"
+328,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,23911,23986,Die verdammten Geister bezeugen die Freudeso sie über ihre Befreyung haben.,positive,emotions of joy,joy
+329,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24031,24046,Heureux Mortel!,negative,emotions of rejection,joy
+330,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24047,24068,quelle est ta gloire!,positive,emotions of joy,joy
+331,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24113,24143,Celebrons-la par nos Concerts!,positive,emotions of joy,joy
+332,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24188,24294,"Est il de plus grande victoire, 
+                                           Que d'avoir charmè les Enfers!",positive,emotions of affection,admiration
+333,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24339,24354,Heureux Mortel!,negative,emotions of rejection,joy
+334,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24355,24376,quelle est ta gloire!,positive,emotions of joy,joy
+335,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24421,24451,Celebrons-la par nos Concerts!,positive,emotions of joy,joy
+336,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24452,24497,Glückseliger Mensch / wie groß ist dein Ruhm!,positive,emotions of joy,joy
+337,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24498,24531,Unsere Lieder sollen ihn preisen.,positive,emotions of affection,admiration
+338,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24532,24611,Ist wol ein grösserer Sieg / Als die Hölle selbst zu bezaubern und zu gewinnen?,negative,emotions of rejection,"hate, disgust"
+339,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24612,24634,Beglückter Mensch etc.,positive,emotions of joy,joy
+340,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24676,24687,Sie tanzen.,positive,emotions of joy,joy
+341,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24688,24738,"Verzeuch doch noch alhier, Beglückter Sterblicher!",positive,emotions of joy,joy
+342,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24739,24870,"Wir wünschen dir Für deine schönen Lieder Zwar  Eurydice Doch bitt' ich, was ich bitten kann, Dich nicht so bald von uns zu wenden.",positive,emotions of affection,love
+343,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24871,24945,Denn kaum wird deine Qual sich enden: So fängt die unsrige sich wieder an.,negative,emotions of suffering,suffering
+344,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,24990,25005,Heureux Mortel!,negative,emotions of rejection,joy
+345,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25006,25027,quelle est ta gloire!,positive,emotions of joy,joy
+346,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25072,25104,Celebrons – la par nos Concerts!,negative,emotions of joy,joy
+347,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25143,25155,Die Vorigen.,positive,emotions of rejection,emotional movement
+348,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25156,25164,Ascalax.,negative,emotions of rejection,emotional movement
+349,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25165,25174,Eurydice.,negative,emotional movement,emotional movement
+350,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25175,25214,"Schau, welche Botschaft ich dir bringe!",positive,emotions of joy,joy
+351,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25256,25291,Er führet Eurydice verhüllt her zu.,negative,emotions of affection,suffering
+352,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25336,25615,"Schenkt  Pluto Eurydice Jedoch mit dem Bedinge: Du sollt allein mit ihr von hinnen gehn; Wirst du dich aber unterstehn, Bevor du dich in jener Welt befindest, Sie auch nur einmal anzusehn: So solls zum letzten mal geschehen, Und wirst du, weil du lebst, sie niemals wieder sehen.",positive,emotions of affection,love
+353,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25657,25669,zu Eurydice.,negative,emotional movement,emotional movement
+354,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25670,25698,"Bist du es, liebster Schatz?",positive,emotions of affection,joy
+355,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25699,25723,"bist du es, werthe Sele?",negative,emotions of joy,joy
+356,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25724,25762,Wie ängstlich sehn' ich mich nach dir?,negative,emotions of fear,fear
+357,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25763,25838,"Doch welch ein harter Zwang verbietet mir, Dich zu umarmen, dich zu küssen?",negative,emotions of suffering,love
+358,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25839,25926,"Lasst uns der Götter Wolthat preisen, Auf was für Ahrt sie auch uns ihre Huld erweisen!",positive,emotions of affection,admiration
+359,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,25927,25967,"Mir ists genug, daß ich nur bey dir bin.",positive,emotions of suffering,suffering
+360,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26009,26014,Aria.,emotional movement,emotional movement,emotional movement
+361,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26015,26064,Mit dir mich zu ergetzen / Ist einzig meine Lust.,positive,emotions of joy,Schadenfreude
+362,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26065,26126,Nichts / das dir gleich zu schätzen / Ist meiner Treu bewust.,positive,emotions of affection,admiration
+363,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26127,26149,Folgt diesem Wege nur!,negative,emotions of fear,friendship
+364,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26150,26205,"der führt euch hin, Wo ihr des Himmels Licht erblicket.",positive,emotions of joy,joy
+365,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26206,26438,"Doch, daß euch nicht der Königinn Vergällter Sinn Itzt wiederum dieß euer Glück verrücket; So lässt euch  Pluto 
+                                           Orasia Orpheus Und bloß aus Eyfersucht hat  Eurydice Die kalte Grube küssen.",negative,emotions of suffering,suffering
+366,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26439,26465,"Ist sie's, die das verübt?",negative,emotions of rejection,"hate, disgust"
+367,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26466,26492,"Wolan, ich will es rächen.",positive,emotions of fear,"hate, disgust"
+368,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26493,26553,"Laß uns doch nicht itz und, mein Schatz, von Rache sprechen!",negative,emotions of rejection,anger
+369,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26554,26678,"Wie gern verzeiht mein Herz es ihr, 
+                                           Hiedurch die Macht von deiner Treu gewiesen.",positive,emotions of affection,love
+370,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26720,26731,zu Orpheus.,negative,emotions of affection,emotional movement
+371,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26732,26802,"Beglückter Mensch, dein Leiden endet sich; Dein Lieben ist vollkommen.",positive,emotions of joy,love
+372,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26803,26881,"Du hast das Schicksal selbst besieget, Und wirst nach deinem Wunsch vergnüget.",positive,emotions of joy,joy
+373,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26882,26960,Du hast das Schicksal selbst besieget / Und bist nach deinem Wunsch vergnüget.,positive,emotions of joy,joy
+374,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,26961,27029,"Geht nun, verdammte Geister, geht, In eure Fessel euch zu schmiegen!",negative,emotions of rejection,"hate, disgust"
+375,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27030,27097,So bald ihr  Orpheus Soll eure Qual so fort euch wiederum besiegen.,negative,emotions of suffering,suffering
+376,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27139,27144,Aria.,emotional movement,emotional movement,emotional movement
+377,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27145,27218,Was hilfts / von kurzer Freude sagen / Wenn gröss're Qual darauf erfolgt?,negative,emotions of suffering,suffering
+378,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27219,27327,Viel besser / stets geplagt zu seyn / Als daß / nach Anstand unser Pein / Die Last nur schwerer zu ertragen.,negative,emotions of suffering,suffering
+379,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27366,27374,Orpheus.,emotional movement,emotional movement,emotional movement
+380,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27375,27384,Eurydice.,negative,emotional movement,emotional movement
+381,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27385,27511,"Gleich werden wir, mein Schatz, aus dieser Höle gehen, Des Himmels Licht zu sehen, Das mir zugleich dein Licht entdecken soll.",positive,emotions of affection,love
+382,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27512,27606,"Ach wie bin ich bereit, Dir meine Demuht, Lieb', Erkenntlichkeit, Und ganze Pflicht zu zeigen!",positive,emotions of affection,love
+383,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27607,27710,"Von  Orpheus 
+                                        Das Licht der schwindet und es wird gantz dunkel.",negative,emotions of suffering,suffering
+384,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27755,27870,"Wie wol kommt ihr uns itzt zu statten, Da selber die Gelegenheit, Uns beyderseits zu sehn, durch euch verschwindet?",emotional movement,emotions of suffering,emotional movement
+385,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,27871,27978,"Gleichwol hält noch der Kummer an, Den mein Gemüht empfindet, So lang' ich dich nicht sehen darf noch kann.",negative,emotions of suffering,suffering
+386,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28020,28236,"Es wird alles wieder hell und hinten ist der  
+                                        Schauplatz verändert wo sich ein Theil des Berges Rhodope und in demselben eine Höle zeiget durch welche Orpheus hervor gegangen.",positive,emotions of joy,joy
+387,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28237,28280,Ach  Eurydice Nicht mehr hier bey mir gehn?,negative,emotions of suffering,suffering
+388,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28281,28293,Sprich doch!,negative,emotional movement,emotional movement
+389,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28294,28314,Sprich nur ein Wort!,negative,emotions of fear,love
+390,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28315,28334,folgst du mir noch?,negative,emotions of fear,emotional movement
+391,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28335,28360,Ich höre dich nicht mehr.,negative,emotions of rejection,suffering
+392,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28361,28386,Ach wie ist mir geschehn?,negative,emotions of suffering,suffering
+393,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28387,28585,"Ich muß – 
+                                        Orpheus siehet Eurydice, welche den Augenblick aus der Höle hervor zu gehen scheinet; aber von des Pluto Bedienten mit Gewalt zurück genommen wird.",negative,emotional movement,emotional movement
+394,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28586,28667,"Nun wirst du mich, Mein  Orpheus 
+                                        allein.",negative,emotions of suffering,suffering
+395,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28668,28683,Ihr Götter ach!,negative,emotions of suffering,suffering
+396,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28684,28711,kaum hab' ich sie erblickt.,positive,emotions of affection,suffering
+397,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28712,28762,Wird sie mir gleich davor auf Lebenslang entrückt?,negative,emotions of suffering,love
+398,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28763,28841,Das heifst ja nicht des  Pluto Und sein Verbot Im Frevel aus den Augen setzen.,negative,emotions of rejection,"hate, disgust"
+399,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28842,28856,Welch Anblick!,negative,emotions of suffering,suffering
+400,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28857,28869,welche Qual!,negative,emotions of suffering,suffering
+401,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28870,28897,Jedoch ich wag' es abermal.,positive,emotions of fear,fear
+402,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,28942,28988,"Durch diesen offnen Weg, woher ich kommen bin.",positive,emotions of affection,suffering
+403,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29030,29035,Aria.,emotional movement,emotional movement,emotional movement
+404,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29080,29208,"Vezzo si lumi 
+                                           A vagheggiarvi, 
+                                           Ritornerò.",positive,emotions of joy,joy
+405,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29253,29269,Siete miei numi!,negative,emotions of suffering,love
+406,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29314,29389,"Voglio adorarui, 
+                                           Sin che potrò.",positive,emotions of suffering,joy
+407,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29390,29469,Um euch / ihr holden Augen/ Vergnüglich anzuschauen / Will ich wieder umkehren.,positive,emotions of joy,joy
+408,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29470,29492,Ihr seyd meine Götter!,positive,emotions of affection,admiration
+409,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29493,29535,Ich will euch anbeten / So lange ich kann.,positive,emotions of affection,admiration
+410,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29536,29550,Um euch / etc.,negative,emotions of suffering,suffering
+411,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29589,29617,"Orpheus, des Pluto Bediente.",positive,emotions of joy,emotional movement
+412,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29656,29718,Ein Theil von des Pluto Bedienten spärret dem Orpheus den Weg.,negative,emotions of rejection,anger
+413,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29719,29748,"Verstattet doch – Nein, nein!",emotional movement,emotions of suffering,emotional movement
+414,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29749,29825,"Selbst  Hercules Vielleicht lässt  Pluto Verstattet doch – Chor: Nein, nein!",negative,emotional movement,emotional movement
+415,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29826,29854,Es kann durchaus nicht seyn!,positive,emotional movement,fear
+416,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29855,29894,Wir müssen uns mit Macht zuwider legen.,negative,emotions of fear,anger
+417,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,29936,29996,Sie stossen den Orpheus gänzlich aus dem Schauplatze zurück.,negative,emotions of suffering,suffering
+418,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30035,30115,Der Schauplatz verändert sich nunmehr gänzlich und stellet den Berg Rhodope vor.,emotional movement,emotional movement,emotional movement
+419,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30154,30161,Orasia.,emotional movement,emotional movement,emotional movement
+420,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30162,30169,Ismene.,emotional movement,emotional movement,emotional movement
+421,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30170,30371,"Nun wird mein  Orpheus Ich warte schon auf ihn Mit mehr, als schmerzlichem Verlangen; In Hoffnung, daß sein eifriges Bemühn, Dazu ein übermäßigs Lieben In einzig angetrieben, Ganz Fruchtlos abgegangen.",negative,emotions of suffering,suffering
+422,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30372,30483,"Und o wie werd' ich mich erfren'n, Kann ich nur ihn allein, Ohn  Eurydice Jedoch ich weiß nicht, was mir fehlt.",negative,emotions of suffering,suffering
+423,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30484,30616,"Ich fühle was, das meine Sele quäl't; Ich merke, daß der Haß in meiner Brust sich reget, Da eine neue Furcht der Adern Lauf beweget.",negative,emotions of fear,fear
+424,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30617,30693,Und doch spür' ich zugleich in diesem Leiden Den Vorschmack gröster Freuden.,negative,emotions of joy,joy
+425,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30735,30740,Aria.,emotional movement,emotional movement,emotional movement
+426,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30741,30809,Furcht und Hoffnung / Haß und Liebe Bestreiten mein verwirrtes Herz.,emotional movement,emotional movement,fear
+427,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30810,30843,Sagt ihr Sterne: soll ich hoffen?,negative,emotions of fear,fear
+428,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30844,30860,Soll ich hassen?,negative,emotions of rejection,"hate, disgust"
+429,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30861,30877,soll ich lieben?,positive,emotions of affection,love
+430,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30878,30892,Mich erfreuen?,positive,emotions of joy,joy
+431,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30893,30907,mich betrüben?,negative,emotions of suffering,suffering
+432,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,30908,30979,Lieb' und Freud' hat mich betroffen; Doch empfind' ich Haß und Schmerz.,negative,emotions of suffering,suffering
+433,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31024,31084,"Eurydice Rührt her von meiner Furcht, sie wiederum zu sehen.",negative,emotions of fear,fear
+434,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31085,31336,"Doch sollte dieß geschehen: So weiß ich schon die Mittel anzuwenden, Die stark genug, sie in die Unter-Welt Aufs neu zu senden; Und sollt' ich auch mit diesen meinen Händen In  Orpheus Laß, Königinn, Falls du dich selber liebst, von diesem Vorsatz ab!",negative,emotions of affection,love
+435,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31337,31447,"Willt du, daß deine Rache Den  Orpheus Doch solltest du auf deinem Sinn Bestehen: So wirds nicht anders gehen.",negative,emotions of rejection,"hate, disgust"
+436,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31448,31537,Du redest mir mit guten Gründen ein; Ich hab' auch schon das Werk ganz anders eingesehen.,negative,emotions of rejection,anger
+437,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31538,31599,"Du weisst, daß wir des  Bacchus Noch heute feyerlich begehen.",positive,emotions of joy,joy
+438,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31600,31735,"Wann  Eurydice So soll mein Weiber-Volk, das dann von Weine voll, Vor Raserey erhitzt und toll, Sie alsofort in hundert Stücke reissen.",negative,emotions of rejection,"hate, disgust"
+439,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31736,31804,"Kann man sich aber auch verheissen, Daß  Orpheus Laß du mich sorgen!",negative,emotions of fear,fear
+440,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31806,31813,Ismene.,emotional movement,emotional movement,emotional movement
+441,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31814,31842,Nicht eine wunderbare Sache!,negative,emotions of suffering,compassion
+442,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31887,31937,Sie nimmt des Menschen Herz mit steter Unruh' ein.,emotional movement,emotional movement,emotional movement
+443,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31979,31984,Aria.,emotional movement,emotional movement,emotional movement
+444,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,31985,32063,Bitter und süß sind Rachgier und Liebe; Beydes vergnügt / und quälet zugleich.,negative,emotions of suffering,joy
+445,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32064,32171,Die Begierden zu zwingen / mich selbst zu besiegen / Ist bloß mein Vergnügen / Und bleibt mein Himmelreich.,positive,emotions of joy,joy
+446,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32213,32227,Orpheus kömmt.,positive,emotional movement,emotional movement
+447,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32266,32301,"Orasia, Orpheus, Ismene, Eurimedes.",positive,emotional movement,emotional movement
+448,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32302,32445,"Kömmst du, mein  Orpheus Ich suchte schon, mit dir mich zu erfreun; So aber laß mich itzt nur traurig seyn, Und dein Geschick mit dir beklagen.",negative,emotions of suffering,suffering
+449,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32446,32535,"Dein Schmerz erlaubt wol nicht, mit wenigem zu sagen, Wie dirs auf deiner Fahrt gegangen.",negative,emotions of suffering,suffering
+450,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32536,32746,"Du siehst es, Königinn; und hier hab' ich erfahren, Daß leider deine Wut und List, Was selbst den Sythen und Barbaren Erschrecklich ist, An mir begangen; Ja kurz, daß du allein Von  Eurydicen Der Ursprung bist.",negative,emotions of rejection,"hate, disgust"
+451,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32747,32853,"Ich leugne nicht mein Unterfangen; Doch kennst du meine Liebe nicht, Die ich schon längst zu dir getragen?",positive,emotions of affection,love
+452,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32854,32864,Was Liebe!,positive,emotions of affection,love
+453,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32865,32909,"liebtest du, und nahmst mir doch mein Leben?",positive,emotions of affection,love
+454,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32910,32921,"Nein, nein!",emotional movement,emotions of rejection,emotional movement
+455,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,32922,33057,"Nur  Eurydice Mein einzigs Labsal seyn; 
+                                           Bleibt stets mein Herz, auch in der Gruft, ergeben.",positive,emotions of affection,love
+456,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33058,33195,"Du aber, wollt' ich, müstest mich, Zu deiner Qual, Noch tausendmal So heftig; als bishero, lieben, Um dadurch meine Rach' an dir zu üben.",negative,emotions of affection,love
+457,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33196,33220,Was unterstehst du dich?,negative,emotions of rejection,anger
+458,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33221,33231,Verwegner!,negative,emotions of rejection,"hate, disgust"
+459,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33232,33264,"gnug, ich liebe dich nicht mehr.",positive,emotions of affection,love
+460,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33265,33316,Ich fühle schon mein Blut zum Eifer sich entzünden.,negative,emotions of suffering,anger
+461,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33317,33343,"Geh, halt dich nur bereit!",negative,emotions of fear,fear
+462,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33344,33374,Du sollt ihn gleich empfinden.,negative,emotions of affection,love
+463,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33416,33421,Aria.,emotional movement,emotional movement,emotional movement
+464,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33466,33497,"Vieni, o sdegno, e fuggi, Amor!",positive,emotions of affection,joy
+465,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33542,33678,"E tu core 
+                                           Più l' ardore 
+                                           Non nutrir del traditor.",positive,emotions of affection,admiration
+466,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33723,33754,"Vieni, o sdegno, e fuggi, Amor!",positive,emotions of affection,joy
+467,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33799,33936,"Se t' amai, 
+                                           Hor m' haurai 
+                                           Per nemica, o mentitor.",positive,emotions of suffering,suffering
+468,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,33981,34012,"Vieni, o sdegno, e fuggi, Amor!",positive,emotions of affection,joy
+469,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34013,34024,Komm Rache!,negative,emotions of rejection,"hate, disgust"
+470,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34025,34053,Entweiche von mir / o Liebe!,positive,emotions of affection,love
+471,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34054,34122,Und du mein Herz Sollt keine Neigung mehr Zu diesem Verräther hegen.,negative,emotions of rejection,"hate, disgust"
+472,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34123,34136,Komm / Rache!,negative,emotions of rejection,"hate, disgust"
+473,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34137,34141,etc.,negative,emotions of rejection,emotional movement
+474,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34142,34206,Habe ich dich geliebet; So sollt du mich nun zur Feindinn haben.,negative,emotions of rejection,"hate, disgust"
+475,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34207,34220,Komm / Rache!,negative,emotions of rejection,"hate, disgust"
+476,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34221,34225,etc.,negative,emotions of rejection,emotional movement
+477,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34264,34380,Der Schauplatz stellet einen Theil vor von einem Gartenunweit dem Berge Rhodope in einem lustigen Gefilde und Walde.,positive,emotions of joy,joy
+478,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34419,34429,Eurimedes.,emotional movement,emotional movement,emotional movement
+479,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34430,34438,Orpheus.,emotional movement,emotional movement,emotional movement
+480,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34439,34496,"Ist hier  Cephisa Orpheus Mein Freund, wo find' ich dich?",positive,emotional movement,emotional movement
+481,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34497,34527,"Wo find' ich dich, mein Leben?",negative,emotions of affection,emotional movement
+482,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34572,34674,"Cephisa 
+                                           Da  Orpheus Mir allen Trost und alle Freude gehen.",positive,emotions of joy,joy
+483,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34675,34700,Jedoch wo find' ich dich?,emotional movement,emotional movement,emotional movement
+484,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34701,34731,"wo find' ich dich, mein Leben?",positive,emotions of affection,love
+485,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34773,34778,Aria.,emotional movement,emotional movement,emotional movement
+486,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,34823,35196,"Augeletti, che cantate, 
+                                           Zeffiretti, che spirate, 
+                                           Aure dolce, intorno a me; 
+                                           Il mio ben dite dov' é: Ihr Vögelchen die ihr singet Ihr Zephirsdie ihr lispelt Ihr angenemen Lüffte die ihr um mich herum spielet Saget: wo hält sich mein Leben auf?",positive,emotions of affection,joy
+487,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35238,35310,Er bekömmt den Orpheus ins Gesicht welcher für sich ganz traurig sitzet.,negative,emotions of suffering,suffering
+488,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35311,35367,"Wie freu' ich mich, mein Freund, dich wiederum zu sehen?",positive,emotions of joy,joy
+489,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35368,35390,Doch warum so betrübt?,negative,emotions of suffering,suffering
+490,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35392,35400,Orpheus.,emotional movement,emotional movement,emotional movement
+491,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35401,35448,Um meinen Jammer-Stand mit Seufzen zu beklagen.,negative,emotions of suffering,suffering
+492,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35449,35456,Allein?,emotional movement,emotions of suffering,emotional movement
+493,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35457,35504,Ich will mit dir dein Glück und Unglück tragen.,positive,emotions of suffering,joy
+494,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35505,35553,Dadurch wird meine Qual ja nur vergrössert seyn.,negative,emotions of fear,suffering
+495,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35554,35595,"Sieht  Orpheus Geh, laß mich doch allein!",negative,emotions of fear,fear
+496,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35596,35622,dein Hierseyn quälet mich.,negative,emotions of suffering,suffering
+497,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35623,35693,"Wo bleibt das Frenndschafts-Band, das mich und dich So fest umstrickt?",positive,emotions of affection,friendship
+498,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35695,35740,Orpheus Lässt sich durch nichts mehr trösten.,positive,emotions of suffering,suffering
+499,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35741,35806,"Was vormals mich vergnügt, macht itzo meine Pein Am allergrösten.",negative,emotions of suffering,suffering
+500,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35807,35911,"Nichts soll hier anders um mich seyn, Als meine Leyer, mein Betrüben, Und dann ein sehnlichs Angedenken.",negative,emotions of suffering,suffering
+501,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35912,35968,So willt du nie dein Herz auf deinen Freund mehr lenken?,positive,emotions of affection,friendship
+502,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,35969,36044,"Jedoch ich liebe dich gleichwol, Und wenn ich auch dich niemals sehen soll.",positive,emotions of affection,love
+503,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,36086,36091,Aria.,emotional movement,emotional movement,emotional movement
+504,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,36092,36135,Wanket / ihr leichten und flüchtigen Sinne!,negative,emotional movement,emotional movement
+505,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,36136,36165,Hier ist ein beständigs Herz.,positive,emotions of affection,friendship
+506,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,36166,36269,Meine Treue weiß nicht zu wanken; Glück und Unglück; Freud' und Schmerz Aendern niemals meine Gedanken.,positive,emotions of affection,love
+507,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,36308,36323,Orpheus allein.,emotional movement,emotions of suffering,suffering
+508,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,36324,36530,"Hier sitz' ich in der Einsamkeit, Und werde bloß durch meine Qual vergnüget, Da alle Lust von meiner Lebens – Zeit, Da  Eurydice Sie war zu meinem Glück geboren; Doch zweymal, zweymal hab' ich sie verloren.",negative,emotions of suffering,suffering
+509,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,36569,36704,"Das Echo aus dem benachbarten Walde wiederholet einen Theil seiner Klage Vergebens suchst du,  Echo Dein zärtlichs Beyleyd anzubringen.",negative,emotions of suffering,suffering
+510,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,36705,36927,"Ach könntest du dafür Durch jenes Felsen off'ne Thür, Durch jenen Schlund, zu  Plutos So mögtest du vielleicht mir  Eurydice 
+                                     Die wildesten Thiere finden sich ein dem Orpheus zuzuhören.",negative,emotions of affection,love
+511,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,36928,36978,"Was führt euch für ein Trieb, ihr Bestien, hieher?",negative,emotions of rejection,"hate, disgust"
+512,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,36979,37110,"Wollt ihr mehr Leid mit mir, als  Pluto Ach  Eurydice Sie war zu meinem Glück geboren; Doch zweymal, zweymal hab' ich sie verloren.",negative,emotions of suffering,compassion
+513,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37149,37227,Er wirft seinen Lorbeer-Cranz nebst der Leyer weg und die Symphonie höret auf.,negative,emotions of rejection,suffering
+514,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37228,37286,"Verhasster Zeit-Vertreib, dich brauch' ich nun nicht mehr.",negative,emotions of rejection,"hate, disgust"
+515,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37287,37391,"Geh, oder bring durch deine Lieder Mir eiligst  Eurydice Doch ich beschwere mich Ohn' Ursach' über dich.",negative,emotions of rejection,anger
+516,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37392,37487,"Ich hab' es selbst versehn, und meine Augen müssen Dieß ihr Versehn in Blut und Thränen büssen.",negative,emotions of suffering,suffering
+517,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37526,37531,Aria.,emotional movement,emotional movement,emotional movement
+518,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37532,37570,Fliesst / ihr Zeugen meiner Schmerzen!,negative,emotions of suffering,suffering
+519,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37571,37590,Fliesst ihr Zähren!,negative,emotions of rejection,love
+520,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37591,37605,tröpfelt Blut!,negative,emotions of fear,fear
+521,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37606,37638,Quillt hervor aus meinem Herzen!,positive,emotions of affection,love
+522,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37639,37664,Badet mich in eurer Flut!,negative,emotions of rejection,joy
+523,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37709,37795,"Ach was verharrt ihr noch, ihr Tyger, Bär-und Löuen, Von meiner Qual mich zu befreyen?",negative,emotions of suffering,suffering
+524,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37796,37831,Zerreisset mich: so werd' ich frey!,negative,emotions of rejection,joy
+525,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37832,37911,"Doch ach ihr wollt, zu meiner Pein, Bey eurem Mitleyd selbst noch grausam seyn.",negative,emotions of suffering,suffering
+526,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37912,37939,"Komm doch, gewünschter Tod!",negative,emotions of fear,despair
+527,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37940,37968,wie sehn' ich mich nach dir?,positive,emotions of affection,emotional movement
+528,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,37969,38016,Durch deine Gunst werd' ich der Qual entnommen.,positive,emotions of suffering,suffering
+529,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38017,38123,"Durch dich kann ich allein Zu  Eurydice 
+                                     Orasia, Chor ihres Gefolges.",positive,emotions of affection,love
+530,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38124,38131,Ismene.,emotional movement,emotional movement,emotional movement
+531,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38132,38214,"Weisst du,  Ismene Daß meine Fessel nun zerrissen, Die ich so lange tragen müssen?",negative,emotions of suffering,suffering
+532,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38215,38366,"Schan, itzt bin ich allein bedacht, Mit List und Macht Durch meiner Frauen Schar an  Orpheus Itzt must du mir von nichts, als Blut und Rache, sprechen.",negative,emotions of rejection,"hate, disgust"
+533,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38408,38413,Aria.,emotional movement,emotional movement,emotional movement
+534,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38414,38451,Waffne dich / mein Geist / mit Nache!,negative,emotions of fear,"hate, disgust"
+535,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38452,38458,Rache!,negative,emotions of rejection,anger
+536,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38459,38465,Rache!,negative,emotions of rejection,anger
+537,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38466,38548,Heute noch soll  Orpheus Wann wir unsern Eifer külen Was die Wut der Frauen mache.,negative,emotions of rejection,anger
+538,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38549,38631,Heute noch soll  Orpheus Wann wir unsern Eifer külen Was die Wut der Frauen mache.,negative,emotions of rejection,anger
+539,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38632,38669,Waffne dich / mein Geist / mit Rache!,negative,emotions of rejection,"hate, disgust"
+540,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38670,38676,Rache!,negative,emotions of rejection,anger
+541,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38677,38683,Rache!,negative,emotions of rejection,anger
+542,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38684,38890,"Wie pflegt nicht oft die Leidenschaft Sich mit dem angenomm'nen Schein 
+                                           Lebt  Orpheus Und will sich nur in unser Joch nicht bücken: So muß er doch verkezzert seyn.",negative,emotions of affection,emotional movement
+543,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,38891,39031,"Er schilt auf  Bacchus Er tadelt bloß das Greuelhafte Leben, Da man der Völlerey, wie noch itzund geschicht, Und allen Lastern sich ergeben.",negative,emotions of rejection,"hate, disgust"
+544,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39032,39150,"Dieß heisst nun  Bacchus Und muß, statt eigner Rach', allein, Der Vorwand seyn, Mit Strumpf und Stiel ihn auszurotten.",negative,emotions of rejection,"hate, disgust"
+545,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39151,39200,"Und ach wo treff' ich dich, mein Freund, doch an!",positive,emotions of suffering,suffering
+546,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39201,39282,"Man stehet dir, mein  Orpheus Wie gerne mögt' ich dir hievon die Nachricht geben!",positive,emotions of affection,joy
+547,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39283,39345,Wie gerne wär' ich auch bereit Zu deiner Hülf' und Sicherheit!,positive,emotions of affection,friendship
+548,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39346,39393,Doch ach ich seh' hiezu ganz keine Möglichkeit.,negative,emotions of fear,suffering
+549,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39432,39439,Orasia.,emotional movement,emotional movement,emotional movement
+550,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39440,39447,Ismene.,emotional movement,emotional movement,emotional movement
+551,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39448,39476,Die Priesterinn des Bacchus.,positive,emotions of affection,"hate, disgust"
+552,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39515,39619,Ein Haufen besoffener und rasender Weiber davon jede einen mit Epheu umwundenen Stab in der Hand führet.,negative,emotions of rejection,"hate, disgust"
+553,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39658,39663,Aria.,emotional movement,emotional movement,emotional movement
+554,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39702,39790,"Esprits de haine & de rage, 
+                                     Demons, obeissez nous!",negative,emotions of rejection,anger
+555,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39829,39917,"Livrez à nôtre couroux 
+                                     L'ennemi, qui nous outrage.",negative,emotions of suffering,suffering
+556,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39956,39977,Esprits de haine etc.,negative,emotions of affection,emotional movement
+557,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,39978,40025,Ihr Plage-Geister / Ihr Furien / gehorchet mir!,negative,emotions of rejection,"hate, disgust"
+558,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40026,40085,Ubergebet meiner Rache den Feind / Der mich beleidiget hat.,negative,emotions of rejection,"hate, disgust"
+559,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40086,40102,Ihr Plage – etc.,negative,emotions of rejection,suffering
+560,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40103,40157,"Geht, sucht den Läst'rer auf, der unser Thun verhönet!",positive,emotions of rejection,"hate, disgust"
+561,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40158,40229,"Er soll noch heut des  Bacchus Komm,  Bacchus Komm, räche dich und uns!",positive,emotions of fear,"hate, disgust"
+562,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40230,40346,"Stellst du dich selber ein: So werden wir durch deinen Beystand siegen, Und soll er bald, zu deinem Ruhm', erliegen.",positive,emotions of affection,admiration
+563,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40476,40581,"Evohe Unser Feind soll bald erliegen,  Evohe In welcher Höle mag er stecken, Daß wir ihn nicht entdecken?",negative,emotions of fear,fear
+564,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40623,40757,"Sie suchen ihn allenthalben und Orpheus wird von weitem gesehen, Jedoch ich seh' ihn schon, Und  Bacchus Gerechter Strafen, übergeben.",positive,emotions of affection,suffering
+565,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40758,40769,Ihr Götter!,negative,emotions of joy,despair
+566,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40771,40810,Orpheus Ganz ohne Furcht und unverzagt.,positive,emotions of fear,fear
+567,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40811,40893,"Ich aber fühl' ein Schrecken, Zittern, Beben, Und weiß nicht, was mir dieses sagt!",negative,emotions of fear,fear
+568,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40935,40976,Orasia siehet wie es mit Orpheus abgehet.,negative,emotions of suffering,emotional movement
+569,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,40977,41180,"Die Weiber werfen indeß ihre Stäbe hurtig auf ihn loßund kommen mit einigen Stücken von seinem Lorbeer-Krantze und der Leyer als den Zeichen  
+                                        ihres Sieges zurück.",positive,emotions of joy,joy
+570,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41181,41256,"So stirbt er denn, der Feind von  Bacchus Durch diese Stäb' ist er erleget.",negative,emotions of rejection,"hate, disgust"
+571,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41257,41302,"Die Strafen sind gerecht, die er itzt träget.",negative,emotions of suffering,compassion
+572,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41303,41434,"Nun wird sein Läster-Maul nicht mehr, an  Bacchus Von  Eurydicen Und diese Leyer soll nicht mehr zu ihrem Ruhm, Wie vor, erklingen.",negative,emotions of rejection,"hate, disgust"
+573,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41476,41483,Arioso.,emotional movement,emotional movement,emotional movement
+574,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41528,41534,Evohe!,negative,emotional movement,emotional movement
+575,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41535,41541,Evohe!,negative,emotional movement,emotional movement
+576,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41542,41579,Orpheus Uns're Faust hat ihn besiegt.,positive,emotions of affection,admiration
+577,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41624,41630,Evohe!,negative,emotional movement,emotional movement
+578,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41631,41646,Evohe Geht nun!,negative,emotions of fear,fear
+579,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41647,41718,"zerreisset ihn, und streuet seine Glieder In diesen nah-geleg'nen Fluß!",negative,emotions of suffering,despair
+580,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41719,41806,"Von  Bacchus Soll jedermann erkennen, Daß er der mächtigste, der gröste Gott zu nennen.",positive,emotions of affection,admiration
+581,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41848,41901,Sie gehen ab den Besehl der Priesterinn auszurichten.,negative,emotions of rejection,anger
+582,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41943,41961,mit ihrem Gefolge.,negative,emotions of fear,admiration
+583,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,41962,42000,So ist nun  Orpheus Ich Unglückselige!,negative,emotions of suffering,suffering
+584,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42001,42026,was hab' ich doch gethan?,negative,emotions of suffering,emotional movement
+585,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42027,42067,Was greift mich itzt für neue Marter an?,negative,emotions of fear,suffering
+586,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42068,42167,Durch seinen Tod gedacht' ich Ruhe zu erlangen; Doch scheinet meine Qual nun erst recht anzufangen.,negative,emotions of suffering,suffering
+587,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42168,42228,In diesem Augenblick Fühl' ich all meinen Zorn verschwinden.,negative,emotions of rejection,anger
+588,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42229,42315,Dagegen kehrt die Lieb' aufs neu zurück Mich unweit heftiger als vormals zu entzünden.,positive,emotions of affection,love
+589,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42316,42544,"Wobey mich noch in gröste Qual versetzt Daß  Orpheus Mit  Eurydice 
+                                        Die Gespenster des Orpheus und der Eurydice erscheinen ihr von weiten und man höret ein starkes Seufzen aus dem Gehölze.",negative,emotions of suffering,suffering
+590,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42586,42591,Aria.,emotional movement,emotional movement,emotional movement
+591,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42636,42669,Helas quels soûpirs me repondent?,negative,emotional movement,emotional movement
+592,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42714,42720,Helas!,negative,emotions of joy,emotional movement
+593,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42721,42825,"quels soûpirs, quel regrets 
+                                           Avec mes plaintes se confondent?",negative,emotional movement,emotional movement
+594,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42870,42876,Helas!,negative,emotions of joy,emotional movement
+595,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42877,42979,"quels soûpirs, quels regrets 
+                                           Me repondent dans ces forêts?",negative,emotional movement,emotional movement
+596,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,42980,43014,Ach was für Seufzer antworten mir?,negative,emotions of suffering,suffering
+597,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43015,43097,Ach was für Seufzer / was für ängstliches Flehen Vermischet sich mit meine Klagen?,negative,emotions of suffering,suffering
+598,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43098,43182,Ach was für Seufzen / was für ein ängstliches Stehnen Antwortet mir aus diese Walde?,negative,emotions of fear,fear
+599,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43183,43200,Ihr Himmel / ach!,negative,emotions of suffering,suffering
+600,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43201,43218,was nun für Raht?,emotional movement,emotional movement,emotional movement
+601,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43219,43294,Verzweiflung stürzt mich in die Gruft / Die Haß und Liebe mir bereitet hat!,negative,emotions of fear,despair
+602,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43295,43424,"Ich sterb' / um meine Qual dadurch zu enden / Und  Orpheus Von  Eurydicen 
+                                        Schluß – Aria.",negative,emotions of suffering,suffering
+603,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43425,43456,Ach lebe / Königinn / ach lebe!,negative,emotions of suffering,suffering
+604,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43457,43488,Wir sterben alle gern für dich.,positive,emotions of affection,love
+605,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43489,43558,Daß dein Geschick sich zu den Sternen hebe: So leben wir geruhiglich!,positive,emotions of joy,joy
+606,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43559,43590,Ach lebe / Königinn / ach lebe!,negative,emotions of suffering,suffering
+607,TextGrid/-Orpheus_oder_Die_wunderbare_Bestaendigkeit_der_Liebe.xml,43632,43640,Da Capo.,positive,emotions of joy,emotional movement

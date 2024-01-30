@@ -1,0 +1,415 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/borkenstein-der-bookesbeutel.xml,0,117," Der Schauplatz ist in Hamburg in des Herrn Grobians Hause, fängt vor Tische an und währet
+          bis gegen Abend.",negative,emotions of rejection,anger
+1,GerDracor/borkenstein-der-bookesbeutel.xml,118,160,"Agneta, Susanna, in Haustracht, zwo Mägde.",positive,emotions of joy,love
+2,GerDracor/borkenstein-der-bookesbeutel.xml,161,210,"Agneta strickt, Susanna nähet, die Mägde spinnen.",positive,emotions of joy,joy
+3,GerDracor/borkenstein-der-bookesbeutel.xml,211,244,Jede hat ein Liederblat vor sich.,positive,emotions of joy,joy
+4,GerDracor/borkenstein-der-bookesbeutel.xml,257,268,Sie singen.,positive,emotions of joy,joy
+5,GerDracor/borkenstein-der-bookesbeutel.xml,269,341,"Ey was schadt ihm das, Wenn im grünen Graß Unser Hänsgen Gretgen küsset.",negative,emotions of affection,compassion
+6,GerDracor/borkenstein-der-bookesbeutel.xml,342,352,Von vorne.,negative,emotions of suffering,suffering
+7,GerDracor/borkenstein-der-bookesbeutel.xml,353,378,"Sittenreich, die vorigen.",negative,emotions of rejection,anger
+8,GerDracor/borkenstein-der-bookesbeutel.xml,379,454,"Sie stecken geschwinde die Blätter in die Tasche, eine aber läßt es fallen.",emotional movement,emotions of suffering,emotional movement
+9,GerDracor/borkenstein-der-bookesbeutel.xml,455,511,"Ey, wenn wird denn das unzeitige Singen einmal aufhören?",negative,emotions of suffering,emotional movement
+10,GerDracor/borkenstein-der-bookesbeutel.xml,512,567,"Ich habe euch schon so oft
+              darum ersucht.",negative,emotions of affection,suffering
+11,GerDracor/borkenstein-der-bookesbeutel.xml,568,597,Alle Nachbarn sprechen davon.,negative,emotions of rejection,anger
+12,GerDracor/borkenstein-der-bookesbeutel.xml,598,683,"Sie nennen euch bereits die scheinheilige
+              Schwestern, und es ist recht.",negative,emotions of joy,"hate, disgust"
+13,GerDracor/borkenstein-der-bookesbeutel.xml,684,773,"Ihr verstehet eben so wenig was ihr singet, als ein
+              Papagey was er spricht.",negative,emotions of rejection,emotional movement
+14,GerDracor/borkenstein-der-bookesbeutel.xml,774,822,Habt ihr denn keinen vernünftigern Zeitvertreib?,emotional movement,emotions of rejection,emotional movement
+15,GerDracor/borkenstein-der-bookesbeutel.xml,823,906,"... Aber sagt
+              mir, aus was Ursache versteckt ihr eure Bücher vor mir?",emotional movement,emotional movement,emotional movement
+16,GerDracor/borkenstein-der-bookesbeutel.xml,907,960,"Seyd ihr etwan bange, daß ich
+              mitsinge?",negative,emotions of fear,fear
+17,GerDracor/borkenstein-der-bookesbeutel.xml,961,1060,"Ihr habet euch doch nicht gar zu wohl vorgesehen, denn hier lieget eins auf
+              der Erde.",positive,emotions of suffering,suffering
+18,GerDracor/borkenstein-der-bookesbeutel.xml,1062,1089,Er nimmt es geschwinde auf.,emotional movement,emotional movement,emotional movement
+19,GerDracor/borkenstein-der-bookesbeutel.xml,1090,1099,Er liest.,emotional movement,emotional movement,joy
+20,GerDracor/borkenstein-der-bookesbeutel.xml,1100,1117,Er liest abermal.,negative,emotions of joy,anger
+21,GerDracor/borkenstein-der-bookesbeutel.xml,1118,1185,"Je nu, was gehts euch an, Bruder, wenn die Mama es uns gut heisset?",positive,emotions of rejection,anger
+22,GerDracor/borkenstein-der-bookesbeutel.xml,1186,1338,"Der Papa hat mir
+              am Sonntage einen Sechsling verehret, dafür habe ich mir die Lieder gekauft, und singe
+              sie zu seinen Ehren.",positive,emotions of affection,admiration
+23,GerDracor/borkenstein-der-bookesbeutel.xml,1339,1399,"Es schicket sich nicht, daß der Sohn die Mutter hofmeistert.",positive,emotions of rejection,suffering
+24,GerDracor/borkenstein-der-bookesbeutel.xml,1400,1577,"Es war in meiner Eltern
+              Haus die Gewohnheit, daß wir alle Tage eine Stunde vor und nach Tische sungen, und
+              gute Gewohnheiten muß man nicht abbringen.",positive,emotions of joy,joy
+25,GerDracor/borkenstein-der-bookesbeutel.xml,1578,1644,"So lange als ich lebe, will ich auch
+              darüber halten.",positive,emotions of affection,love
+26,GerDracor/borkenstein-der-bookesbeutel.xml,1645,1995,"Ich hasse zwar sonst alle Neuerungen, denn das Alte ist immer besser,
+              als das Neue: aber das muß ich doch gestehen, daß lange nichts Neues aufgekommen ist,
+              so mir so wohl gefallen, als diese neue weltliche Lieder; und wenn ihr uns ein
+              andermal im Singen ungestört laßt; so werdet ihr mir einen Gefallen thun.",negative,emotions of rejection,Schadenfreude
+27,GerDracor/borkenstein-der-bookesbeutel.xml,1996,2101,"Ich wäre gewiß auch nicht hergekommen, wenn ich nicht etwas nothwendiges anzubringen
+              hätte.",negative,emotions of rejection,anger
+28,GerDracor/borkenstein-der-bookesbeutel.xml,2102,2115,Und was denn?,emotional movement,emotional movement,emotional movement
+29,GerDracor/borkenstein-der-bookesbeutel.xml,2116,2418,"Ich habe vor einiger Zeit mit meiner Schwester von einem jungen und reichen Menschen
+              gesprochen, den ich in Leipzig habe kennen gelernet, und mit welchem ich eine solche
+              genaue Freundschaft gestiftet, daß er blos deswegen gewünschet, mein Verwandter zu
+              werden.",positive,emotions of affection,friendship
+30,GerDracor/borkenstein-der-bookesbeutel.xml,2419,2649,"Und auf Vernehmen, daß ich eine Schwester hätte, hat er sich entschlossen
+              hierher zu reisen, um zu sehen, ob sie ihm gefiele, und sodann zu ersuchen, ob sie
+              Belieben trüge, sich mit ihm zu verheirathen.",positive,emotions of affection,love
+31,GerDracor/borkenstein-der-bookesbeutel.xml,2650,2757,"Ich möchte ihr dies Glück gerne gönnen,
+              denn mein Freund ist so tugendhaft, als er reich ist.",positive,emotions of joy,joy
+32,GerDracor/borkenstein-der-bookesbeutel.xml,2758,2928,"Anietzo eben hat er mir seine
+              unvermuthete Ankunft wissen lassen, und ich habe nicht umhin können, ihn noch vor der
+              Mahlzeit zu mir zu bitten.",negative,emotions of suffering,emotional movement
+33,GerDracor/borkenstein-der-bookesbeutel.xml,2929,3238,"Ich wollte, daß ihr was anders gethan hättet: Es ist kein Zimmer im ganzen Hause
+              rein; alle Vorhänge sind in der Wäsche, und überdem, so habe ich gehöret, daß keine
+              Ehe glücklich seyn kann, wo der Bräutigam zum erstenmal in ein Haus kommt, das nicht
+              rein gemacht ist.",negative,emotions of suffering,suffering
+34,GerDracor/borkenstein-der-bookesbeutel.xml,3239,3256,Welche Unordnung!,negative,emotions of suffering,emotional movement
+35,GerDracor/borkenstein-der-bookesbeutel.xml,3257,3305,Eine Stunde vor der Mahlzeit Fremde zu nöthigen!,negative,emotions of rejection,anger
+36,GerDracor/borkenstein-der-bookesbeutel.xml,3320,3340,das ist ja unerhört!,emotional movement,emotions of rejection,emotional movement
+37,GerDracor/borkenstein-der-bookesbeutel.xml,3341,3450,"Die Leute sind an andern Orten nicht so thöricht, daß sie aus dergleichen
+              Kleinigkeiten achten.",negative,emotions of rejection,anger
+38,GerDracor/borkenstein-der-bookesbeutel.xml,3451,3546,"Mein Freund kommt weder um das Haus zu sehen, noch uns an der
+              Mahlzeit zu stören.",positive,emotions of rejection,anger
+39,GerDracor/borkenstein-der-bookesbeutel.xml,3547,3776,"Die Frau Mutter wird aber sonder Zweifel auch wohl ehe gehöret
+              haben, daß man gegen Fremde höflich seyn muß, und es würde sich nicht geschickt haben,
+              meinen Freund einen Augenblick unbesucht zu lassen.",positive,emotions of affection,anger
+40,GerDracor/borkenstein-der-bookesbeutel.xml,3777,3950,"Weil ich aber Kopfschmerzen halber
+              nicht habe ausgehen mögen: so habe ihn zu mir gebeten, und werde ihn am besten hier im
+              Saale bewirthen können.",negative,emotions of suffering,suffering
+41,GerDracor/borkenstein-der-bookesbeutel.xml,3951,4164,"Es mag diesmal seyn: Aber erinnert ihn verblümt, daß Staats-Visiten hier nicht länger
+              als eine Viertelstunde währen, und entschuldigt mich vor allen Dingen, daß das Haus
+              nicht rein ist.",negative,emotions of suffering,anger
+42,GerDracor/borkenstein-der-bookesbeutel.xml,4165,4230,"Behaltet ihn bey Leibe nicht hier, denn ich habe nichts zu essen.",negative,emotions of suffering,suffering
+43,GerDracor/borkenstein-der-bookesbeutel.xml,4231,4373,"Ihr
+              Mägde, packet euch geschwind mit euren Spinnrädern in den Keller oder auf den Boden,
+              daß man euch nicht höret.",negative,emotions of rejection,anger
+44,GerDracor/borkenstein-der-bookesbeutel.xml,4374,4414,"Und du,  Susanna und die Mägde gehen ab.",negative,emotions of rejection,suffering
+45,GerDracor/borkenstein-der-bookesbeutel.xml,4415,4439,Grobian und die Vorigen.,negative,emotions of rejection,"hate, disgust"
+46,GerDracor/borkenstein-der-bookesbeutel.xml,4440,4449,Was ists?,emotional movement,emotional movement,emotional movement
+47,GerDracor/borkenstein-der-bookesbeutel.xml,4450,4461,was giebts?,emotional movement,emotional movement,emotional movement
+48,GerDracor/borkenstein-der-bookesbeutel.xml,4462,4508,Wohin führet der Teufel die Mägde und Susanna?,negative,emotions of fear,emotional movement
+49,GerDracor/borkenstein-der-bookesbeutel.xml,4509,4549,"Es kommt ein Fremder zu mir, Herr Vater!",negative,emotional movement,emotional movement
+50,GerDracor/borkenstein-der-bookesbeutel.xml,4550,4562,Ein Fremder!,negative,emotional movement,emotional movement
+51,GerDracor/borkenstein-der-bookesbeutel.xml,4563,4581,was will der Kerl?,negative,emotions of rejection,anger
+52,GerDracor/borkenstein-der-bookesbeutel.xml,4582,4628,"Er will meine Schwester heirathen, Herr Vater.",positive,emotions of affection,love
+53,GerDracor/borkenstein-der-bookesbeutel.xml,4629,4639,Heirathen!,positive,emotions of joy,love
+54,GerDracor/borkenstein-der-bookesbeutel.xml,4640,4673,ist er von unserer Verwandschaft?,emotional movement,emotional movement,emotional movement
+55,GerDracor/borkenstein-der-bookesbeutel.xml,4674,4716,"Ich sage ja, daß er fremd ist, Herr Vater.",negative,emotional movement,emotional movement
+56,GerDracor/borkenstein-der-bookesbeutel.xml,4717,4780,"Ein Fremder, ein Schelm, ein Dieb will meine Tochter heirathen?",emotional movement,emotional movement,emotional movement
+57,GerDracor/borkenstein-der-bookesbeutel.xml,4781,4813,"Hat der Hund
+              Geld?",negative,emotional movement,emotional movement
+58,GerDracor/borkenstein-der-bookesbeutel.xml,4814,4886,"Ey nun, Mann, alle Fremde werden doch wohl keine Schelme und Diebe seyn.",negative,emotions of rejection,anger
+59,GerDracor/borkenstein-der-bookesbeutel.xml,4887,5020,"Wenn darum
+              unsere Tochter eine gute Heirath treffen könnte: so ließ sich doch die Sache wohl
+              untersuchen.",negative,emotions of joy,joy
+60,GerDracor/borkenstein-der-bookesbeutel.xml,5021,5056,"Darum frage ich ja, ob er Geld hat.",negative,emotional movement,anger
+61,GerDracor/borkenstein-der-bookesbeutel.xml,5057,5122,"Herr Vater, bestehet denn das menschliche Vergnügen nur im Gelde?",positive,emotions of joy,joy
+62,GerDracor/borkenstein-der-bookesbeutel.xml,5123,5250,"Ja, du Galgenvogel, wart, laß mir den Kerl herkommen, ich werde ihn willkommen
+              heissen, daß er sich wundern soll.",negative,emotions of rejection,anger
+63,GerDracor/borkenstein-der-bookesbeutel.xml,5251,5349,"Ich will ihn fragen, ob er den Hacken wohl siehet,
+              woran solche Diebe hängen müssen.",negative,emotions of rejection,anger
+64,GerDracor/borkenstein-der-bookesbeutel.xml,5350,5399,"Ey, lieber Mann, sey doch nicht gar zu unhöflich.",negative,emotions of rejection,anger
+65,GerDracor/borkenstein-der-bookesbeutel.xml,5400,5410,Unhöflich!,negative,emotions of rejection,anger
+66,GerDracor/borkenstein-der-bookesbeutel.xml,5411,5469,was habe ich nöthig einem Fremden Höflichkeit zu erweisen?,negative,emotional movement,emotional movement
+67,GerDracor/borkenstein-der-bookesbeutel.xml,5470,5518,"überdem will
+                er Zum Sittenreich.",negative,emotions of rejection,"hate, disgust"
+68,GerDracor/borkenstein-der-bookesbeutel.xml,5519,5660,"Vor drey Jahren, Herr Vater, als mein Oheim, der Herr Gutherz, mich in Leipzig
+              studiren ließ, bin ich mit ihm bekannt geworden.",positive,emotions of affection,friendship
+69,GerDracor/borkenstein-der-bookesbeutel.xml,5661,5968,"Wir haben uns, um der
+              Uebereinstimmung der Gemüther willen, ewige Freund- und Brüderschaft geschworen; und
+              auf Vernehmen, daß ich eine Schwester hatte, pflegte er so wohl der Zeit, als auch
+              nachhero in allen Briefen zu scherzen: er wünschte mein Schwager zu werden.",positive,emotions of affection,friendship
+70,GerDracor/borkenstein-der-bookesbeutel.xml,5969,6233,"Anietzo
+              möchte aus dem Scherz leicht Ernst werden; denn er ist herüber gereiset, ohne mir
+              vorher ein Wort zu schreiben, und hat sich so eben bey mir anmelden lassen; daher ich
+              nicht umhin gekonnt, seinen Besuch anzunehmen.",positive,emotions of joy,anger
+71,GerDracor/borkenstein-der-bookesbeutel.xml,6234,6361,"Ich wollte, daß meinen Schwager und dich der Donner und der Hagel erschlagen hätte,
+              ehe du nach Leipzig gegangen.",negative,emotions of rejection,Schadenfreude
+72,GerDracor/borkenstein-der-bookesbeutel.xml,6362,6472,"Ich habe es gleich gedacht, daß dein Lernen und dein
+              Reisen nichts Gutes nach sich ziehen würde.",negative,emotions of suffering,suffering
+73,GerDracor/borkenstein-der-bookesbeutel.xml,6473,6661,"Wie listig wuste mir mein Schwager nicht
+              der Zeit vorzuschwatzen, daß dein Studieren mir nichts kosten sollte, daß er dich aus
+              seinem Beutel unterhalten wollte.",negative,emotions of rejection,anger
+74,GerDracor/borkenstein-der-bookesbeutel.xml,6662,6774,"Er wuste wohl, wenn ich die Unkosten hätte tragen
+              sollen, daß es in Ewigkeit nicht geschehen wäre.",negative,emotions of suffering,anger
+75,GerDracor/borkenstein-der-bookesbeutel.xml,6775,6992,"Ich gebe kein Geld für Narrenspossen;
+              und mir ist noch immer bange, du habest ihm unter der Hand eine Verschreibung gegeben,
+              daß du nach meinem Tode ihm solches zu bezahlen schuldig seyest.",negative,emotions of fear,fear
+76,GerDracor/borkenstein-der-bookesbeutel.xml,6993,7022,Hievon ist mir nichts bewust.,emotional movement,emotional movement,emotional movement
+77,GerDracor/borkenstein-der-bookesbeutel.xml,7023,7055,Ich will dirs auch nicht rathen.,negative,emotions of rejection,anger
+78,GerDracor/borkenstein-der-bookesbeutel.xml,7056,7088,"Er kann es besser thun, als ich.",positive,emotions of rejection,admiration
+79,GerDracor/borkenstein-der-bookesbeutel.xml,7089,7123,"Er hat keine
+              Kinder.",negative,emotions of suffering,suffering
+80,GerDracor/borkenstein-der-bookesbeutel.xml,7124,7191,"Aber sage mir, wärest du nicht wehrt, daß ich dir was anders wiese?",negative,emotions of rejection,anger
+81,GerDracor/borkenstein-der-bookesbeutel.xml,7192,7366,"Hat dich
+              mein Schwager darum nach Leipzig reisen lassen, daß du mir einen fremden Kerl über den
+              Hals schicken sollst, der mir Ungelegenheit macht?",negative,emotions of rejection,anger
+82,GerDracor/borkenstein-der-bookesbeutel.xml,7367,7491,"Ist das die Würkung deiner grossen
+              Gelehrsamkeit, daß du deinem Vater alle Augenblicke Aergerniß verursachest?",negative,emotions of rejection,anger
+83,GerDracor/borkenstein-der-bookesbeutel.xml,7492,7573,"Ich bleibe
+              dabey der Mensch ist glücklich, der nichts gelernet hat.",positive,emotions of joy,joy
+84,GerDracor/borkenstein-der-bookesbeutel.xml,7574,7676,"Mein Sohn, ihr habt mir ja vorhin viel Rühmens von dem Reichthum dieses Fremden
+              gemacht.",positive,emotions of affection,admiration
+85,GerDracor/borkenstein-der-bookesbeutel.xml,7677,7718,Ich muß den Herrn Vater wohl befriedigen.,positive,emotions of joy,suffering
+86,GerDracor/borkenstein-der-bookesbeutel.xml,7719,7896,"Der Fremde, der ietzt hier kommen will, ist
+              ein Sohn des alten Ehrenwehrts, der oft in Hamburg gewesen, und vor einem Jahre in
+              Leipzig gestorben ist.",negative,emotional movement,suffering
+87,GerDracor/borkenstein-der-bookesbeutel.xml,7897,7958,"Der Rede nach, soll er vier Tonnen Goldes hinterlassen haben.",positive,emotions of rejection,admiration
+88,GerDracor/borkenstein-der-bookesbeutel.xml,7973,8023,"Ich zweifle nicht, der Herr Vater wird ihn kennen.",positive,emotions of rejection,friendship
+89,GerDracor/borkenstein-der-bookesbeutel.xml,8024,8100,"Je, du Teufelskind, was wollte ich den alten Ehrenwehrt nicht gekannt haben!",negative,emotions of rejection,"hate, disgust"
+90,GerDracor/borkenstein-der-bookesbeutel.xml,8101,8154,"Must du
+              mich denn erst zum Zorn reizen?",negative,emotions of rejection,anger
+91,GerDracor/borkenstein-der-bookesbeutel.xml,8155,8193,Hättest du mir das nicht sagen sollen?,negative,emotions of rejection,anger
+92,GerDracor/borkenstein-der-bookesbeutel.xml,8194,8263,"Auf die Weise
+              hat ja mein Schwager was Gutes gestiftet.",positive,emotions of joy,joy
+93,GerDracor/borkenstein-der-bookesbeutel.xml,8264,8466,"Ich habe mich zwar seit drey Jahren mit ihm
+              veruneiniget, allein ietzt will ich so gleich zu ihm gehen, und er soll sich mit mir
+              versöhnen, und diesen Nachmittag hier kommen.",negative,emotions of affection,friendship
+94,GerDracor/borkenstein-der-bookesbeutel.xml,8467,8572,"Du aber, wenn der junge Ehrenwehrt
+              kommt, so halte ihn so lange auf, bis ich wieder da bin.",negative,emotions of rejection,anger
+95,GerDracor/borkenstein-der-bookesbeutel.xml,8573,8602,Ich will ihn selber sprechen.,negative,emotional movement,anger
+96,GerDracor/borkenstein-der-bookesbeutel.xml,8617,8663,"Das Eisen muß man schmieden, weil es warm ist.",negative,emotions of suffering,anger
+97,GerDracor/borkenstein-der-bookesbeutel.xml,8664,8698,Vier Tonnen Goldes ist kein Dreck.,positive,emotions of joy,joy
+98,GerDracor/borkenstein-der-bookesbeutel.xml,8699,8708,Gehet ab.,negative,emotions of rejection,despair
+99,GerDracor/borkenstein-der-bookesbeutel.xml,8709,8736,Ich werde mein Bestes thun.,positive,emotions of affection,admiration
+100,GerDracor/borkenstein-der-bookesbeutel.xml,8737,8753,Agneta gehet ab.,negative,emotions of rejection,suffering
+101,GerDracor/borkenstein-der-bookesbeutel.xml,8754,8983,"Mein Freund könnte wie es scheinet, leicht zu seinem Gesuche gelangen; aber ich
+              fürchte, wenn er meine Schwester sehen und sprechen wird, daß ihr Umgang und ihre
+              Erziehung ihm schlecht gefallen möchte.",negative,emotions of fear,fear
+102,GerDracor/borkenstein-der-bookesbeutel.xml,8984,9218,"Ich hätte nimmer geglaubet, daß mein Vater bey
+              seiner alten Meinung, die Kinder nicht das geringste lernen zu lassen, verharren
+              würde, und ich bin daher glücklich, daß mein Oheim sich meiner angenommen hat.",positive,emotions of joy,joy
+103,GerDracor/borkenstein-der-bookesbeutel.xml,9219,9414,"Ja,
+              wehrster Gutherz, dir bin ich mehr Dank schuldig für die Erziehung, als meinem
+              leiblichen Vater für das Leben und die zeitlichen Mittel, so er mir einmal nachläßt.",positive,emotions of affection,admiration
+104,GerDracor/borkenstein-der-bookesbeutel.xml,9429,9567,"Zu meiner völligen Beruhigung fehlet mir nur noch der Besitz der schönen Charlotte;
+              allein hiezu weiß ich nicht zu gelangen.",emotional movement,emotions of suffering,suffering
+105,GerDracor/borkenstein-der-bookesbeutel.xml,9568,9712,"Sie ist tugendhaft und schön, klug und wohl
+              erzogen, mit einem Worte, sie hat alle Eigenschaften eines vollkommenen Frauenzimmers.",positive,emotions of affection,admiration
+106,GerDracor/borkenstein-der-bookesbeutel.xml,9730,9767,"Ehrenwehrt, Carolina und Sittenreich.",positive,emotions of affection,admiration
+107,GerDracor/borkenstein-der-bookesbeutel.xml,9768,9808,Ehrenwehrt und Sittenreich umarmen sich.,positive,emotions of affection,admiration
+108,GerDracor/borkenstein-der-bookesbeutel.xml,9809,10052,"Die angenehme Vorstellung, meinen geehrtesten Freund zu sehen, hat mir den Weg von
+              Leipzig bis hier tausendfach verlängert, und die Freude, so ich empfinde, da ich
+              meinen liebsten Bruder umarme, ist unbeschreiblich.",positive,emotions of joy,joy
+109,GerDracor/borkenstein-der-bookesbeutel.xml,10053,10288,"So angenehm es mir jederzeit gewesen ist, von des Herrn Bruders Wohlseyn schriftliche
+              Nachricht einzuziehen; so sehr vergnüget mich, daß ich dessen anietzo so unvermuthet
+              persönlich von ihm versichert werde.",positive,emotions of joy,joy
+110,GerDracor/borkenstein-der-bookesbeutel.xml,10289,10390,"Aber darf ich fragen, was für ein artiges
+              Frauenzimmer der Herr Bruder mitgebracht hat?",positive,emotions of affection,admiration
+111,GerDracor/borkenstein-der-bookesbeutel.xml,10391,10414,Es ist meine Schwester.,positive,emotions of affection,love
+112,GerDracor/borkenstein-der-bookesbeutel.xml,10415,10664,"Sie war das ganze Jahr, als der Herr Bruder bey uns studirte,
+              bettlägerig, so, daß man auch an ihrem Aufkommen zweifelte; allein sie hat sich nach
+              der Zeit völlig erholet, und wer weiß, wem der Himmel sie vorbehalten hat.",negative,emotions of suffering,suffering
+113,GerDracor/borkenstein-der-bookesbeutel.xml,10665,10790,"Ihre
+              zärtliche Liebe zu mir hat verursachet, daß sie mir auf dieser Reise Gesellschaft
+              geleistet.",positive,emotions of affection,love
+114,GerDracor/borkenstein-der-bookesbeutel.xml,10791,10872,"Ist es möglich, daß ich in einer ganzen Jahresfrist nichts hievon vernommen habe?",emotional movement,emotional movement,emotional movement
+115,GerDracor/borkenstein-der-bookesbeutel.xml,10873,11161,"Ich
+              schätze mich inzwischen beglückt, die Schwester eines vollkommenen Bruders kennen zu
+              lernen, und in Ansehung der gemachten Freund- und Brüderschaft mit dem Herren
+              Ehrenwehrt, nehme ich mir die Erlaubniß, mir auch dero Gewogenheit auszubitten.",positive,emotions of joy,joy
+116,GerDracor/borkenstein-der-bookesbeutel.xml,11162,11400,"Die Bekanntschaft mit einer Person, wovon mir mein Bruder so viel vortheilhaftes
+              erzählet hat, kann mir nicht anders als höchstangenehm seyn, um so vielmehr, da ich
+              gehöret, daß sie eine artige Schwester haben.",positive,emotions of suffering,joy
+117,GerDracor/borkenstein-der-bookesbeutel.xml,11401,11417,etwas verwirret.,emotional movement,emotional movement,emotional movement
+118,GerDracor/borkenstein-der-bookesbeutel.xml,11418,11469,Von ihrer Artigkeit wird nicht viel zu rühmen seyn.,negative,emotions of rejection,admiration
+119,GerDracor/borkenstein-der-bookesbeutel.xml,11470,11624,"Das Frauenzimmer in
+              Niedersachsen, einige wenige ausgenommen, wird mehr zur Hausarbeit, als zum Umgange
+              mit Leuten angehalten.",negative,emotions of rejection,"hate, disgust"
+120,GerDracor/borkenstein-der-bookesbeutel.xml,11625,11733,"Wir müssen den Obersachsen, was die Erziehung des Frauenzimmers
+              anbetrifft, den Vorzug lassen.",positive,emotions of affection,admiration
+121,GerDracor/borkenstein-der-bookesbeutel.xml,11734,11754,Da kommt mein Vater.,emotional movement,emotional movement,joy
+122,GerDracor/borkenstein-der-bookesbeutel.xml,11755,11779,Grobian und die Vorigen.,negative,emotions of rejection,"hate, disgust"
+123,GerDracor/borkenstein-der-bookesbeutel.xml,11780,11845,"Gehorsamer Diener, gehorsamer Knecht, mein wehrtgeschätzter Herr!",positive,emotions of affection,admiration
+124,GerDracor/borkenstein-der-bookesbeutel.xml,11846,11907,"Sind sie nicht der
+              Herr Ehrenwehrt aus Leipzig?",negative,emotional movement,emotional movement
+125,GerDracor/borkenstein-der-bookesbeutel.xml,11908,12101,"Mein Sohn hat mir erst vor einer halben Stunde gesagt,
+              daß sie hier kommen würden, sonst hätte meine Frau ein und andere Anstalten zu ihrer
+              Bewirthung machen sollen.",negative,emotions of joy,joy
+126,GerDracor/borkenstein-der-bookesbeutel.xml,12102,12178,"Sie läßt sich auch entschuldigen, daß das Haus nicht rein
+              ist.",negative,emotions of rejection,compassion
+127,GerDracor/borkenstein-der-bookesbeutel.xml,12179,12210,Sie hat mit der Wäsche zu thun.,negative,emotions of rejection,anger
+128,GerDracor/borkenstein-der-bookesbeutel.xml,12211,12339,"Ich bin von Herzen erfreuet, den Vater desjenigen kennen zu lernen, den ich über alle
+              Freunde in der Welt schätze.",positive,emotions of joy,joy
+129,GerDracor/borkenstein-der-bookesbeutel.xml,12340,12391,"Ja, ja, er ists auch wehrt, er ist ein guter Junge.",positive,emotions of affection,admiration
+130,GerDracor/borkenstein-der-bookesbeutel.xml,12392,12481,"Er hätte aber noch besser werden
+              sollen, wenn ich ihn selbst erzogen hätte.",negative,emotions of affection,admiration
+131,GerDracor/borkenstein-der-bookesbeutel.xml,12483,12499,Zum Sittenreich.,negative,emotions of rejection,anger
+132,GerDracor/borkenstein-der-bookesbeutel.xml,12500,12515,zum Ehrenwehrt.,positive,emotions of affection,admiration
+133,GerDracor/borkenstein-der-bookesbeutel.xml,12516,12542,"Ein Mensch, lieber Bruder!",positive,emotions of affection,friendship
+134,GerDracor/borkenstein-der-bookesbeutel.xml,12543,12562,"Was ists, was ists?",emotional movement,emotional movement,emotional movement
+135,GerDracor/borkenstein-der-bookesbeutel.xml,12563,12576,zur Carolina.,positive,emotions of affection,emotional movement
+136,GerDracor/borkenstein-der-bookesbeutel.xml,12577,12657,"Sie zürnen nicht, schönstes Kind, mein Vater ist niemals in Obersachsen gewesen.",negative,emotions of affection,anger
+137,GerDracor/borkenstein-der-bookesbeutel.xml,12658,12709,"Er
+              nimmt das Wort im guten Verstande.",negative,emotions of affection,admiration
+138,GerDracor/borkenstein-der-bookesbeutel.xml,12711,12723,Zum Grobian.,negative,emotions of rejection,anger
+139,GerDracor/borkenstein-der-bookesbeutel.xml,12724,12737,Und was denn?,emotional movement,emotional movement,emotional movement
+140,GerDracor/borkenstein-der-bookesbeutel.xml,12738,12838,"Es bedeutet so viel als eine liederliche Weibsperson, oder mit einem Worte, eine
+              Hure.",negative,emotions of rejection,"hate, disgust"
+141,GerDracor/borkenstein-der-bookesbeutel.xml,12839,12888,"Je nun, kann ich den Leuten ansehen was sie sind?",negative,emotions of rejection,emotional movement
+142,GerDracor/borkenstein-der-bookesbeutel.xml,12889,12988,"Eine Hure ist ein Mensch, und eine
+              Jungfer ist auch ein Mensch, und damit ist es aus.",negative,emotions of rejection,"hate, disgust"
+143,GerDracor/borkenstein-der-bookesbeutel.xml,12989,13015,"Sage mir nur, wer sie ist.",negative,emotions of rejection,emotional movement
+144,GerDracor/borkenstein-der-bookesbeutel.xml,13016,13063,Es ist des Herrn Ehrenwehrts Jungfer Schwester.,positive,emotions of joy,admiration
+145,GerDracor/borkenstein-der-bookesbeutel.xml,13064,13135,"Meine liebe Jungfer, ich will nicht hoffen, daß sie böse geworden sind.",negative,emotions of suffering,anger
+146,GerDracor/borkenstein-der-bookesbeutel.xml,13136,13389,"Es wäre
+              fürwahr närrisch, denn ich versichere ihnen, daß ich nicht gewust habe, und auch diese
+              Stunde nicht glaube, daß in ihrem Lande das Wort: Mensch, eine Hure bedeutet, zum
+              Teufel, wir sind ja alle Menschen.",negative,emotions of rejection,"hate, disgust"
+147,GerDracor/borkenstein-der-bookesbeutel.xml,13390,13419,Unwissend sündiget man nicht.,negative,emotions of suffering,anger
+148,GerDracor/borkenstein-der-bookesbeutel.xml,13420,13493,"Ich bitte zu verzeihen, daß wir ihnen so frey
+              zugesprochen.",negative,emotions of suffering,joy
+149,GerDracor/borkenstein-der-bookesbeutel.xml,13494,13525,"O, daran haben sie wohl gethan.",negative,emotions of suffering,anger
+150,GerDracor/borkenstein-der-bookesbeutel.xml,13527,13549,Zum Sittenreich leise.,negative,emotions of suffering,anger
+151,GerDracor/borkenstein-der-bookesbeutel.xml,13550,13565,Zum Ehrenwehrt.,positive,emotions of affection,admiration
+152,GerDracor/borkenstein-der-bookesbeutel.xml,13566,13610,Sittenreich und Carolina sprechen besonders.,positive,emotions of affection,admiration
+153,GerDracor/borkenstein-der-bookesbeutel.xml,13611,13642,Die Reise ist ja so groß nicht.,positive,emotions of joy,emotional movement
+154,GerDracor/borkenstein-der-bookesbeutel.xml,13643,13705,Von Leipzig bis hier sollen doch über hundert Meil Weges seyn.,emotional movement,emotions of suffering,suffering
+155,GerDracor/borkenstein-der-bookesbeutel.xml,13706,13742,"O, nein, es sind nur einige vierzig.",positive,emotions of suffering,joy
+156,GerDracor/borkenstein-der-bookesbeutel.xml,13743,13855,"Ich habe mich mein Tage nicht um die Wege bekümmert, denn ich bin nicht Willens
+              gewesen zu reisen.",negative,emotions of suffering,suffering
+157,GerDracor/borkenstein-der-bookesbeutel.xml,13856,13934,"Hamburg ist ja doch der größte und beste Ort in der ganzen
+              Welt.",positive,emotions of joy,admiration
+158,GerDracor/borkenstein-der-bookesbeutel.xml,13935,14033,"Um Vergebung, mein Herr, Paris und London sind weit grösser, anderer zu
+              geschweigen.",negative,emotions of suffering,admiration
+159,GerDracor/borkenstein-der-bookesbeutel.xml,14034,14059,"Ey was Paris, was London.",negative,emotions of rejection,emotional movement
+160,GerDracor/borkenstein-der-bookesbeutel.xml,14060,14119,"Ich habe einen Vetter, der ist in Paris und London gewesen.",positive,emotions of affection,joy
+161,GerDracor/borkenstein-der-bookesbeutel.xml,14134,14251,"Dieser hat mir so viel toll Zeug von diesen Oertern gesagt, daß ich da mich nicht todt
+              wünschen möchte.",negative,emotions of affection,admiration
+162,GerDracor/borkenstein-der-bookesbeutel.xml,14252,14438,"Zum Exempel: In Paris hat er vor Geld keine Eyermonden kriegen  In Paris und London haben sie dagegen hunderterley Sachen, die uns in Deutschland
+              fehlen und unbekannt sind.",positive,emotions of affection,admiration
+163,GerDracor/borkenstein-der-bookesbeutel.xml,14439,14547,"Unter hundert von unsern Landsleuten wird auch kaum einer
+              englisch oder französisch verstehen.",negative,emotional movement,"hate, disgust"
+164,GerDracor/borkenstein-der-bookesbeutel.xml,14548,14572,"Ey, wozu ist das nöthig.",negative,emotions of rejection,anger
+165,GerDracor/borkenstein-der-bookesbeutel.xml,14573,14628,Nach meinem Willen sollte die ganze Welt deutsch reden.,positive,emotions of rejection,admiration
+166,GerDracor/borkenstein-der-bookesbeutel.xml,14629,14693,"Was
+              Teufel, die deutsche Sprache kostet ja nichts.",emotional movement,emotions of rejection,emotional movement
+167,GerDracor/borkenstein-der-bookesbeutel.xml,14694,14826,"Die andern muß man vor Geld und mit
+              grossem Kopfbrechen lernen, und alsdenn klingts, als wenn Hunde und Katzen heulen.",negative,emotions of suffering,anger
+168,GerDracor/borkenstein-der-bookesbeutel.xml,14841,14863,Kein Mensch verstehts.,negative,emotional movement,anger
+169,GerDracor/borkenstein-der-bookesbeutel.xml,14864,14940,"Eine jede Nation verstehet ihre Sprache so gut, als wir Deutsche die unsere.",negative,emotions of affection,admiration
+170,GerDracor/borkenstein-der-bookesbeutel.xml,14941,15112,"In
+              London kostet den Einwohnern, das Englische zu lernen, so viel, als uns Deutschen, das
+              Deutsche, und so ists in Paris mit dem Französischen.",negative,emotions of rejection,anger
+171,GerDracor/borkenstein-der-bookesbeutel.xml,15113,15171,Reden sie denn in Paris und London nicht einerley Sprache?,emotional movement,emotional movement,emotional movement
+172,GerDracor/borkenstein-der-bookesbeutel.xml,15172,15269,"Nach meiner Meinung liegt
+              Paris und London so bey einander, als Hamburg und Altona.",emotional movement,emotions of affection,emotional movement
+173,GerDracor/borkenstein-der-bookesbeutel.xml,15270,15301,"Nein, mein Herr, sie liegen 70.",emotional movement,emotions of joy,joy
+174,GerDracor/borkenstein-der-bookesbeutel.xml,15302,15322,Meilen von einander.,emotional movement,emotions of fear,suffering
+175,GerDracor/borkenstein-der-bookesbeutel.xml,15323,15416,"London ist die Hauptstadt in
+              Engelland, und Paris die Hauptstadt in Frankreich.",positive,emotions of joy,emotional movement
+176,GerDracor/borkenstein-der-bookesbeutel.xml,15417,15473,"Beyde aber sind die Residenzen der
+              Könige.",positive,emotions of affection,admiration
+177,GerDracor/borkenstein-der-bookesbeutel.xml,15474,15542,Das ist mir zu weitläuftig und der Schnickschnack bringt nichts ein.,negative,emotions of rejection,anger
+178,GerDracor/borkenstein-der-bookesbeutel.xml,15543,15754,"Um einer halben
+              Stunde werden wir speisen, und will der Herr die Ehre haben, und mein Gast seyn, und
+              nebst seiner Jungfer Schwester mit uns vorlieb nehmen; so soll er willkommen seyn.",positive,emotions of joy,joy
+179,GerDracor/borkenstein-der-bookesbeutel.xml,15755,15838,"Was
+              wir über der Tafel reden werden, soll vielleicht mehr einbringen.",negative,emotions of suffering,anger
+180,GerDracor/borkenstein-der-bookesbeutel.xml,15839,15938,"Wir werden nicht so unhöflich seyn, gleich das erstemal Ungelegenheit zu
+              verursachen.",negative,emotions of rejection,anger
+181,GerDracor/borkenstein-der-bookesbeutel.xml,15939,15961,"Ey, was Ungelegenheit!",positive,emotions of suffering,emotional movement
+182,GerDracor/borkenstein-der-bookesbeutel.xml,15962,16006,Machen sie nur keine unnöthige Complimenten.,positive,emotions of rejection,anger
+183,GerDracor/borkenstein-der-bookesbeutel.xml,16007,16064,"Ein Schelm, der
+              ihrentwegen Umstände macht.",negative,emotions of rejection,anger
+184,GerDracor/borkenstein-der-bookesbeutel.xml,16065,16109,Das wollen wir uns denn von ihnen ausbitten.,negative,emotions of rejection,anger
+185,GerDracor/borkenstein-der-bookesbeutel.xml,16110,16140,"O, so was gebrauche ich nicht.",negative,emotions of rejection,anger
+186,GerDracor/borkenstein-der-bookesbeutel.xml,16141,16362,"Wenn der Pabst oder der Türkische Kayser, oder der
+              Teufel und seine Großmutter auf den Stutz zu mir kämen, und hätten die Ehre, daß ich
+              sie zum Essen bäte; so müßten sie mit mir vorlieb nehmen.",negative,emotions of rejection,Schadenfreude
+187,GerDracor/borkenstein-der-bookesbeutel.xml,16363,16467,"Das ist auch billig, wenn mans so gut hat als der Wirth selber, so muß man zufrieden
+              seyn.",positive,emotions of joy,joy
+188,GerDracor/borkenstein-der-bookesbeutel.xml,16468,16510,"Der Herr ist mein Mann, ich höre es schon.",positive,emotions of rejection,joy
+189,GerDracor/borkenstein-der-bookesbeutel.xml,16511,16627,"Ich habe das Sprichwort: Wer das nicht
+              essen will, was ich esse, der fresse das, wobey es gekocht ist.",negative,emotions of rejection,"hate, disgust"
+190,GerDracor/borkenstein-der-bookesbeutel.xml,16628,16699,"Ich will ihnen wohl
+              vorher sagen, was wir speisen werden.",negative,emotions of rejection,anger
+191,GerDracor/borkenstein-der-bookesbeutel.xml,16700,16805,"Laß sehen, es ist heute Montag, Dienstag,
+              Mittwochen ... Rocken Warmbier und Plücktefinken.",positive,emotions of joy,joy
+192,GerDracor/borkenstein-der-bookesbeutel.xml,16806,16859,"Wir essen, Jahr aus Jahr ein,
+              einerley.",positive,emotions of suffering,Schadenfreude
+193,GerDracor/borkenstein-der-bookesbeutel.xml,16860,16983,"Die Gerichte sind mir unbekannt; jedoch es sey was es wolle, gute Gesellschaft ist
+              immer mein bestes Gericht.",positive,emotions of joy,joy
+194,GerDracor/borkenstein-der-bookesbeutel.xml,16984,17066,"Ey, ey, ich mag doch gerne was Leckers fressen, wenn es nur nicht so viel kostete.",negative,emotions of rejection,anger
+195,GerDracor/borkenstein-der-bookesbeutel.xml,17081,17210,"Ich wollte daß der Herr gestern gekommen wäre, so hätte ich ihm einen vortreflichen
+              Bunkenknochen vorsetzen wollen.",negative,emotions of rejection,Schadenfreude
+196,GerDracor/borkenstein-der-bookesbeutel.xml,17211,17301,"Vielleicht ist noch ein kleiner Rest übrig, daß wir
+              die Probe davon kriegen.",negative,emotions of joy,Schadenfreude
+197,GerDracor/borkenstein-der-bookesbeutel.xml,17303,17319,Zum Sittenreich.,negative,emotions of rejection,anger
+198,GerDracor/borkenstein-der-bookesbeutel.xml,17320,17366,"Sittenreich, Ehrenwehrt und Carolina gehen ab.",negative,emotions of rejection,admiration
+199,GerDracor/borkenstein-der-bookesbeutel.xml,17367,17415,Es kostet mir Mühe von Staats-Affairen zu reden.,negative,emotional movement,emotional movement
+200,GerDracor/borkenstein-der-bookesbeutel.xml,17416,17550,"Ich bin nicht dabey hergekommen und
+              gleichwol konnte ich nicht das erstemal sagen: Herr, wollet ihr meine Tochter haben?",positive,emotions of affection,love
+201,GerDracor/borkenstein-der-bookesbeutel.xml,17565,17597,Der Narr hätte auch nur  Agneta.,negative,emotions of rejection,"hate, disgust"
+202,GerDracor/borkenstein-der-bookesbeutel.xml,17598,17606,Grobian.,negative,emotions of rejection,anger
+203,GerDracor/borkenstein-der-bookesbeutel.xml,17607,17691,"Was Teufel, Mann, schämest du dich nicht, Fremde auf solche Traktamente zu nöthigen?",negative,emotions of rejection,"hate, disgust"
+204,GerDracor/borkenstein-der-bookesbeutel.xml,17706,17788,"Ich will durchaus der Gäste loß seyn, und sollte ich alles Essen anbrennen lassen.",negative,emotions of rejection,anger
+205,GerDracor/borkenstein-der-bookesbeutel.xml,17789,17830,"Bist du toll, Frau, oder was schadet dir?",negative,emotions of rejection,"hate, disgust"
+206,GerDracor/borkenstein-der-bookesbeutel.xml,17831,17861,wilst du mich unmündig machen?,negative,emotions of rejection,anger
+207,GerDracor/borkenstein-der-bookesbeutel.xml,17862,17928,"Ich habe
+              ihnen schon gesagt, was wir zu essen haben.",negative,emotions of rejection,anger
+208,GerDracor/borkenstein-der-bookesbeutel.xml,17929,18035,"Es sind Aussenleute, sie verstehen nichts
+              davon, und sinds wohl nicht einmal so gut gewohnt.",negative,emotions of rejection,"hate, disgust"
+209,GerDracor/borkenstein-der-bookesbeutel.xml,18036,18071,So magst du mit ihnen allein essen.,negative,emotions of rejection,Schadenfreude
+210,GerDracor/borkenstein-der-bookesbeutel.xml,18072,18175,"Ich und meine Tochter wollen uns bey dem Gesinde
+              behelfen, denn es ist nicht Essen genug.",negative,emotions of fear,suffering
+211,GerDracor/borkenstein-der-bookesbeutel.xml,18176,18210,Das sollt ihr wohl bleiben lassen.,negative,emotions of rejection,anger
+212,GerDracor/borkenstein-der-bookesbeutel.xml,18211,18326,"Der Fremde hat viel Geld, und will er mein
+              Schwiegersohn werden, so muß er ja wohl seine Braut sehen.",negative,emotions of joy,emotional movement
+213,GerDracor/borkenstein-der-bookesbeutel.xml,18327,18444,"Und wenn meine Tochter ewig sollte unverheirathet bleiben, so soll sie heute nicht an
+              der Tafel kommen.",negative,emotions of rejection,Schadenfreude
+214,GerDracor/borkenstein-der-bookesbeutel.xml,18445,18602,"Es ist in unserer ganzen Freundschaft kein Gebrauch, daß wir anders,
+              als des Sonntags Gäste haben, und so will ich es durchaus gehalten wissen.",positive,emotions of affection,friendship
+215,GerDracor/borkenstein-der-bookesbeutel.xml,18603,18655,"Du siehest aber, daß es nicht mehr zu ändern stehet.",positive,emotions of joy,suffering
+216,GerDracor/borkenstein-der-bookesbeutel.xml,18656,18724,Sollte ich in der Woche rein Tischzeug und zinnerne Teller auflegen?,negative,emotional movement,anger
+217,GerDracor/borkenstein-der-bookesbeutel.xml,18725,18766,"das lasse ich
+              wohl bleiben.",negative,emotions of rejection,anger
+218,GerDracor/borkenstein-der-bookesbeutel.xml,18767,18821,Gieb uns das faule Tischzeug und die hölzernen Teller.,negative,emotions of rejection,anger
+219,GerDracor/borkenstein-der-bookesbeutel.xml,18822,18899,"Es ist nichts daran gelegen so
+              sehen sie, daß wir sparsam sind.",negative,emotions of rejection,anger
+220,GerDracor/borkenstein-der-bookesbeutel.xml,18900,18977,"Nein, ich will auch ausserdem keine Unordnung  Will
+                weggehen.",negative,emotions of rejection,anger
+221,GerDracor/borkenstein-der-bookesbeutel.xml,18978,18987,hält sie.,positive,emotions of affection,love
+222,GerDracor/borkenstein-der-bookesbeutel.xml,18988,19021,Wo dich der Teufel nicht regiert.,negative,emotions of rejection,"hate, disgust"
+223,GerDracor/borkenstein-der-bookesbeutel.xml,19022,19057,"Susanna, Charlotte und die Vorigen.",positive,emotional movement,emotional movement
+224,GerDracor/borkenstein-der-bookesbeutel.xml,19058,19062,Ach!,negative,emotions of suffering,suffering
+225,GerDracor/borkenstein-der-bookesbeutel.xml,19063,19074,"Mama, Mama!",negative,emotional movement,emotional movement
+226,GerDracor/borkenstein-der-bookesbeutel.xml,19075,19088,Was wilst du?,emotional movement,emotional movement,emotional movement
+227,GerDracor/borkenstein-der-bookesbeutel.xml,19089,19116,Das ist ein artiger Mensch.,positive,emotions of affection,admiration
+228,GerDracor/borkenstein-der-bookesbeutel.xml,19117,19137,Hast du ihn gesehen?,emotional movement,emotional movement,emotional movement
+229,GerDracor/borkenstein-der-bookesbeutel.xml,19138,19151,Ja von ferne.,negative,emotions of affection,suffering
+230,GerDracor/borkenstein-der-bookesbeutel.xml,19152,19170,So gefällt er dir?,positive,emotions of joy,joy
+231,GerDracor/borkenstein-der-bookesbeutel.xml,19171,19236,"Ach ja, er ist so artig, als mein Bruder ihn mir beschrieben hat.",positive,emotions of affection,admiration
+232,GerDracor/borkenstein-der-bookesbeutel.xml,19237,19271,"Da, gieb deiner Mutter gute Worte.",negative,emotions of suffering,admiration
+233,GerDracor/borkenstein-der-bookesbeutel.xml,19272,19307,Sie will ihm eben die Thüre weisen.,negative,emotions of rejection,anger
+234,GerDracor/borkenstein-der-bookesbeutel.xml,19308,19328,"Ey warum denn, Mama?",emotional movement,emotional movement,emotional movement
+235,GerDracor/borkenstein-der-bookesbeutel.xml,19329,19449,"Darum, daß dein Vater sich unterstanden hat, ihn heute zu Gaste zu nöthigen, da es
+              doch nicht Sonntag ist.",negative,emotions of rejection,anger
+236,GerDracor/borkenstein-der-bookesbeutel.xml,19450,19499,"Ey nun, Mama, es ist ja etwas ausserordentliches.",positive,emotions of joy,emotional movement
+237,GerDracor/borkenstein-der-bookesbeutel.xml,19500,19571,"Ein Bräutigam wird sich ja eben
+              nicht am Sonntage melden.",negative,emotions of rejection,anger
+238,GerDracor/borkenstein-der-bookesbeutel.xml,19572,19679,"Dir zu gefallen will ich es diesmal geschehen lassen, du magst dich ankleiden, und
+              mit essen.",positive,emotions of joy,Schadenfreude
+239,GerDracor/borkenstein-der-bookesbeutel.xml,19680,19776,"Ich will so gleich für die Aergerniß was einnehmen, und mich damit zu Bette
+              legen.",negative,emotions of rejection,suffering
+240,GerDracor/borkenstein-der-bookesbeutel.xml,19777,19793,Agneta gehet ab.,negative,emotions of rejection,suffering
+241,GerDracor/borkenstein-der-bookesbeutel.xml,19794,19840,"Papa, ich habe Jungfer Charlotte holen lassen.",emotional movement,emotions of joy,emotional movement
+242,GerDracor/borkenstein-der-bookesbeutel.xml,19841,19917,"Sie soll mir sagen, was ich mit meinem
+              Bräutigam sprechen muß.",negative,emotions of rejection,anger
+243,GerDracor/borkenstein-der-bookesbeutel.xml,19918,20006,"Sie hat es aus den Büchern, und Papa weiß, daß ich nicht recht
+              lesen kann.",negative,emotions of rejection,anger
+244,GerDracor/borkenstein-der-bookesbeutel.xml,20007,20027,Du hast wohl gethan.,negative,emotions of suffering,anger
+245,GerDracor/borkenstein-der-bookesbeutel.xml,20028,20204,"Jungfer Charlotte, sage sie ihr doch, wie sie mit dem Fremden
+              und seiner Schwester umgehen muß, und was sonst nöthig  Ihnen zu gehorsamen, ist meine Schuldigkeit.",positive,emotions of affection,anger
+246,GerDracor/borkenstein-der-bookesbeutel.xml,20205,20217,zur Susanna.,negative,emotional movement,emotional movement
+247,GerDracor/borkenstein-der-bookesbeutel.xml,20218,20363,"Zu gleicher Zeit kannst du dich ankleiden, und wenn du zu deinem Bräutigam kommst, so
+              halte dich hübsch zu ihm, und sey freundlich.",positive,emotions of affection,friendship
+248,GerDracor/borkenstein-der-bookesbeutel.xml,20364,20485,"Jungfer Charlotte soll sich neben dich
+              setzen, und kann dir dann und wann einige Redensarten ins Ohr sagen.",positive,emotions of rejection,Schadenfreude
+249,GerDracor/borkenstein-der-bookesbeutel.xml,20486,20631,"Mache nur nicht,
+              daß du Schimpf einlegest, und verhüte vor allen Dingen, daß dir der reiche Bräutigam
+              nicht entgehet.",negative,emotions of joy,anger
+250,GerDracor/borkenstein-der-bookesbeutel.xml,20632,20676,"Wir wollen es so gut machen, als wir können.",positive,emotions of affection,admiration
+251,GerDracor/borkenstein-der-bookesbeutel.xml,20677,20693,Grobian geht ab.,negative,emotions of rejection,anger
+252,GerDracor/borkenstein-der-bookesbeutel.xml,20694,20698,Ach!,negative,emotions of suffering,suffering
+253,GerDracor/borkenstein-der-bookesbeutel.xml,20699,20732,"Jungfer Charlotte, ein Bräutigam!",emotional movement,emotions of joy,emotional movement
+254,GerDracor/borkenstein-der-bookesbeutel.xml,20733,20771,das Wort klinget doch unvergleichlich!,positive,emotions of joy,joy
+255,GerDracor/borkenstein-der-bookesbeutel.xml,20772,20800,"Ein
+              Bräutigam!",positive,emotional movement,emotional movement

@@ -1,0 +1,682 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/gellert-die-zaertlichen-schwestern.xml,0,7, Cleon.,emotional movement,emotional movement,emotional movement
+1,GerDracor/gellert-die-zaertlichen-schwestern.xml,8,17,Lottchen.,positive,emotional movement,emotional movement
+2,GerDracor/gellert-die-zaertlichen-schwestern.xml,18,49,"Lieber Papa, Herr Damis ist da.",positive,emotions of joy,joy
+3,GerDracor/gellert-die-zaertlichen-schwestern.xml,50,143,"Der Tee ist schon in dem Garten; wenn Sie so gut sein
+              und hinuntergehen wollen?",positive,emotional movement,joy
+4,GerDracor/gellert-die-zaertlichen-schwestern.xml,144,162,Wo ist Herr Damis?,emotional movement,emotional movement,emotional movement
+5,GerDracor/gellert-die-zaertlichen-schwestern.xml,163,183,Er redt mit Julchen.,positive,emotions of joy,Schadenfreude
+6,GerDracor/gellert-die-zaertlichen-schwestern.xml,184,300,"Meine Tochter, ist dir's auch zuwider, daß ich den Herrn Damis auf eine Tasse Tee zu
+              mir gebeten habe?",negative,emotions of rejection,anger
+7,GerDracor/gellert-die-zaertlichen-schwestern.xml,301,335,Du merkst doch wohl seine Absicht?,negative,emotions of affection,anger
+8,GerDracor/gellert-die-zaertlichen-schwestern.xml,336,357,Geht dir's auch nahe?,negative,emotions of suffering,emotional movement
+9,GerDracor/gellert-die-zaertlichen-schwestern.xml,358,403,"Du gutes
+              Kind, du dauerst mich.",negative,emotions of affection,love
+10,GerDracor/gellert-die-zaertlichen-schwestern.xml,404,508,"Freilich bist du älter als deine Schwester und solltest also
+              auch eher einen Mann kriegen.",negative,emotions of affection,love
+11,GerDracor/gellert-die-zaertlichen-schwestern.xml,509,548,"Aber ... Papa, warum bedauern Sie mich?",negative,emotions of suffering,compassion
+12,GerDracor/gellert-die-zaertlichen-schwestern.xml,549,598,Muß ich denn notwendig eher heiraten als Julchen?,positive,emotional movement,love
+13,GerDracor/gellert-die-zaertlichen-schwestern.xml,599,698,"Es
+              ist wahr, ich bin etliche Jahre älter; aber Julchen ist auch weit schöner als ich.",positive,emotions of affection,love
+14,GerDracor/gellert-die-zaertlichen-schwestern.xml,699,942,"Ein
+              Mann, der so vernünftig, so reich und so galant ist als Herr Damis und doch ein armes
+              Frauenzimmer heiratet, kann in seiner Wahl mit Recht auf diejenige sehen, die die
+              meisten Annehmlichkeiten hat.",positive,emotions of affection,admiration
+15,GerDracor/gellert-die-zaertlichen-schwestern.xml,943,1116,"Ich mache mir eine Ehre daraus, mich an dem günstigen
+              Schicksale meiner Schwester aufrichtig zu vergnügen und mit dem meinigen zufrieden zu
+              sein.",positive,emotions of joy,joy
+16,GerDracor/gellert-die-zaertlichen-schwestern.xml,1117,1182,"Kind, wenn das alles dein Ernst ist: so verdienst du zehn Männer.",positive,emotions of affection,admiration
+17,GerDracor/gellert-die-zaertlichen-schwestern.xml,1183,1264,"Du redst fast so
+              klug als dein Bruder und hast doch nicht studiert.",positive,emotions of affection,admiration
+18,GerDracor/gellert-die-zaertlichen-schwestern.xml,1265,1292,"Loben Sie mich nicht, Papa.",negative,emotions of rejection,anger
+19,GerDracor/gellert-die-zaertlichen-schwestern.xml,1293,1415,"Ich bin mir in meinen Augen so geringe, daß ich sogar das
+              Lob eines Vaters für eine Schmeichelei halten muß.",emotional movement,emotions of rejection,admiration
+20,GerDracor/gellert-die-zaertlichen-schwestern.xml,1416,1457,"Nun, nun, ich muß wissen, was an dir ist.",negative,emotions of rejection,anger
+21,GerDracor/gellert-die-zaertlichen-schwestern.xml,1458,1541,"Du hast ein Herz, dessen sich die Tugend
+              selbst nicht schämen dürfte.",positive,emotions of affection,love
+22,GerDracor/gellert-die-zaertlichen-schwestern.xml,1542,1593,"Höre nur ... Oh, mein Gott, wie demütigen Sie mich!",negative,emotions of suffering,suffering
+23,GerDracor/gellert-die-zaertlichen-schwestern.xml,1594,1716,"Ein Lobspruch, den ich mir wegen meiner Größe
+              nicht zueignen kann, tut mir weher als ein verdienter Verweis.",negative,emotions of suffering,suffering
+24,GerDracor/gellert-die-zaertlichen-schwestern.xml,1717,1742,So bin ich nicht gesinnt.,negative,emotions of rejection,friendship
+25,GerDracor/gellert-die-zaertlichen-schwestern.xml,1743,1869,"Ich halte viel auf ein billiges Lob, und ich weigere mich
+              keinen Augenblick, es anzunehmen, wenn ich's verdiene.",positive,emotions of affection,admiration
+26,GerDracor/gellert-die-zaertlichen-schwestern.xml,1870,1958,"Das Lob ist ein Lohn der
+              Tugend, und den verdienten Lohn muß man annehmen.",positive,emotions of joy,admiration
+27,GerDracor/gellert-die-zaertlichen-schwestern.xml,1959,2054,"Höre nur, du bist verständiger als
+              deine Schwester, wenn jene gleich schöner ist.",positive,emotions of affection,admiration
+28,GerDracor/gellert-die-zaertlichen-schwestern.xml,2055,2194,"Rede ihr doch zu, daß sie ihren
+              Eigensinn fahren läßt und sich endlich zu  Mich deucht, Herr Damis ist Julchen nicht zuwider.",negative,emotions of rejection,anger
+29,GerDracor/gellert-die-zaertlichen-schwestern.xml,2195,2303,"Und ich hoffe, daß er ihren
+              kleinen Eigensinn leicht in eine beständige Liebe verwandeln kann.",positive,emotions of affection,love
+30,GerDracor/gellert-die-zaertlichen-schwestern.xml,2304,2352,"Ich will ihm dazu
+              behülflich sein.",negative,emotions of affection,anger
+31,GerDracor/gellert-die-zaertlichen-schwestern.xml,2353,2383,"Ja, tue es, meine Goldtochter.",positive,emotions of joy,joy
+32,GerDracor/gellert-die-zaertlichen-schwestern.xml,2384,2498,"Sage Julchen, daß ich nicht ruhig sterben würde, wenn
+              ich sie nicht bei meinem Leben versorgt wüßte.",negative,emotions of affection,love
+33,GerDracor/gellert-die-zaertlichen-schwestern.xml,2499,2612,"Nein, lieber Papa, solche Bewegungsgründe zur Ehe sind wohl nicht viel besser als die
+              Zwangsmittel.",negative,emotions of rejection,suffering
+34,GerDracor/gellert-die-zaertlichen-schwestern.xml,2613,2893,"Julchen hat Ursachen genug in ihrem eigenen Herzen und in dem Werte
+              ihres Geliebten, die sie zur Liebe bewegen können; diese will ich wider ihren
+              Eigensinn erregen und sie durch sich selbst und durch ihren Liebhaber besiegt werden
+              lassen.",positive,emotions of affection,love
+35,GerDracor/gellert-die-zaertlichen-schwestern.xml,2894,2913,"Gut, wie du denkst.",positive,emotions of joy,joy
+36,GerDracor/gellert-die-zaertlichen-schwestern.xml,2914,2950,Nur nicht gar zu lange nachgesonnen.,emotional movement,emotional movement,anger
+37,GerDracor/gellert-die-zaertlichen-schwestern.xml,2951,2973,Rühme den Herrn Damis.,positive,emotions of affection,admiration
+38,GerDracor/gellert-die-zaertlichen-schwestern.xml,2974,3068,"Sage
+              Julchen, daß er funfzigtausend Taler bares Geld hätte und ... Arme Tochter!",negative,emotions of suffering,compassion
+39,GerDracor/gellert-die-zaertlichen-schwestern.xml,3069,3146,"es mag dir
+              wohl weh tun, daß deine Schwester so reich heiratet.",negative,emotions of suffering,suffering
+40,GerDracor/gellert-die-zaertlichen-schwestern.xml,3147,3248,"Je nun, du bist freilich nicht
+              die Schönste; aber der Himmel wird dich schon versorgen.",negative,emotions of joy,compassion
+41,GerDracor/gellert-die-zaertlichen-schwestern.xml,3249,3268,Betrübe dich nicht.,negative,emotions of suffering,suffering
+42,GerDracor/gellert-die-zaertlichen-schwestern.xml,3269,3431,"Der Himmel weiß, daß ich bloß deswegen betrübt bin, weil Sie mein Herz für so niedrig
+              halten, daß es meiner Schwester ihr Glück nicht gönnen sollte.",negative,emotions of suffering,suffering
+43,GerDracor/gellert-die-zaertlichen-schwestern.xml,3432,3544,"Dazu gehört ja gar
+              keine Tugend, einer Person etwas zu gönnen, für welche das Blut in mir spricht.",positive,emotions of affection,"hate, disgust"
+44,GerDracor/gellert-die-zaertlichen-schwestern.xml,3545,3604,"Kommen
+              Sie, Papa, der Tee möchte kalt werden.",negative,emotions of fear,fear
+45,GerDracor/gellert-die-zaertlichen-schwestern.xml,3605,3650,"Du brichst mit Fleiß ab, weil du dich fühlst.",negative,emotions of suffering,anger
+46,GerDracor/gellert-die-zaertlichen-schwestern.xml,3651,3677,"Sei gutes Muts, mein Kind.",negative,emotions of fear,fear
+47,GerDracor/gellert-die-zaertlichen-schwestern.xml,3678,3730,"Ich kann dir
+              freilich nichts mitgeben.",negative,emotions of rejection,anger
+48,GerDracor/gellert-die-zaertlichen-schwestern.xml,3731,3784,"Aber so lange ich lebe, will ich alles an dich wagen.",positive,emotions of affection,love
+49,GerDracor/gellert-die-zaertlichen-schwestern.xml,3785,3906,"Nimm
+              dir wieder einen Sprachmeister, einen Zeichenmeister, einen Klaviermeister und alles
+              an.",positive,emotions of rejection,admiration
+50,GerDracor/gellert-die-zaertlichen-schwestern.xml,3907,3963,"Ich bezahle, und wenn mich der Monat funfzig Taler käme.",negative,emotions of rejection,anger
+51,GerDracor/gellert-die-zaertlichen-schwestern.xml,3964,3980,Du bist es wert.,positive,emotions of affection,love
+52,GerDracor/gellert-die-zaertlichen-schwestern.xml,3981,4298,"Und höre
+              nur, dein Siegmund, dein guter Freund, oder wenn du es lieber hörst, dein Liebhaber,
+              ist freilich durch den unglückseligen Prozeß seines seligen Vaters um sein Vermögen
+              gekommen; aber er hat etwas gelernt und wird sein Glück und das deine gewiß
+              machen.",positive,emotions of joy,joy
+53,GerDracor/gellert-die-zaertlichen-schwestern.xml,4299,4426,"Ach lieber Papa, Herr Siegmund ist mir itzt noch ebenso schätzbar als vor einem
+              Jahre, da er viel Vermögen hatte.",positive,emotions of affection,admiration
+54,GerDracor/gellert-die-zaertlichen-schwestern.xml,4427,4534,"Ich  Gutes Kind, du wirst doch denken, daß ich ihn zu deinem Vergnügen habe herbitten
+              lassen.",positive,emotions of affection,Schadenfreude
+55,GerDracor/gellert-die-zaertlichen-schwestern.xml,4535,4560,Er wird nicht lange sein.,negative,emotions of suffering,suffering
+56,GerDracor/gellert-die-zaertlichen-schwestern.xml,4561,4618,"Siegmund tritt herein, ohne daß ihn Lottchen gewahr wird.",positive,emotional movement,emotional movement
+57,GerDracor/gellert-die-zaertlichen-schwestern.xml,4619,4666,Wenn ihn der Bediente nur auch angetroffen hat.,positive,emotions of rejection,suffering
+58,GerDracor/gellert-die-zaertlichen-schwestern.xml,4667,4730,"Ich will selber ein paar Zeilen an
+              ihn schreiben.",positive,emotions of affection,anger
+59,GerDracor/gellert-die-zaertlichen-schwestern.xml,4731,4780,Ich kann ihm und mir keine größere Freude machen.,positive,emotions of joy,joy
+60,GerDracor/gellert-die-zaertlichen-schwestern.xml,4781,4865,"Er wird gewiß kommen
+              und den größten Anteil an Julchens Glücke nehmen.",positive,emotions of joy,joy
+61,GerDracor/gellert-die-zaertlichen-schwestern.xml,4866,4923,"Er hat das redlichste und
+              zärtlichste Herz.",positive,emotions of affection,friendship
+62,GerDracor/gellert-die-zaertlichen-schwestern.xml,4924,4973,"Vergeben Sie mir's, daß ich so viel von ihm rede.",positive,emotions of affection,compassion
+63,GerDracor/gellert-die-zaertlichen-schwestern.xml,4974,5011,Also hast du ihn recht herzlich lieb?,positive,emotions of affection,love
+64,GerDracor/gellert-die-zaertlichen-schwestern.xml,5012,5224,"Ja, Papa, so lieb, daß, wenn ich die Wahl hätte, ob ich ihn mit einem geringen
+              Auskommen oder den Vornehmsten mit allem Überflusse zum Manne haben wollte, ich ihn
+              allemal wählen würde.",positive,emotions of affection,love
+65,GerDracor/gellert-die-zaertlichen-schwestern.xml,5225,5239,Ist's möglich?,emotional movement,emotions of fear,fear
+66,GerDracor/gellert-die-zaertlichen-schwestern.xml,5240,5296,"Hätte ich doch nicht gedacht, daß du so verliebt wärest.",positive,emotions of affection,love
+67,GerDracor/gellert-die-zaertlichen-schwestern.xml,5297,5324,"Zärtlich, wollen Sie sagen.",positive,emotions of affection,love
+68,GerDracor/gellert-die-zaertlichen-schwestern.xml,5325,5548,"Ich würde unruhig sein, wenn ich nicht so zärtlich
+              liebte, denn dies ist es alles, wodurch ich die Zuneigung belohnen kann, die mir Herr
+              Siegmund vor so vielen andern Frauenzimmern geschenkt hat.",positive,emotions of affection,love
+69,GerDracor/gellert-die-zaertlichen-schwestern.xml,5549,5789,"Bedenken Sie nur, ich bin
+              nicht schön, nicht reich, ich habe sonst keine Vorzüge als meine Unschuld, und er
+              liebt mich doch so vollkommen, als wenn ich die liebenswürdigste Person von der Welt
+              wäre.",positive,emotions of affection,love
+70,GerDracor/gellert-die-zaertlichen-schwestern.xml,5790,5855,"Aber sagst du's ihm denn selbst, daß du ihn so ausnehmend liebst?",positive,emotions of affection,love
+71,GerDracor/gellert-die-zaertlichen-schwestern.xml,5856,5901,"Nein, so deutlich habe ich es ihm nie gesagt.",emotional movement,emotions of rejection,anger
+72,GerDracor/gellert-die-zaertlichen-schwestern.xml,5902,6001,"Er ist so bescheiden, daß er kein
+              ordentliches Bekenntnis der Liebe von mir verlangt.",positive,emotions of affection,admiration
+73,GerDracor/gellert-die-zaertlichen-schwestern.xml,6002,6133,"Und ich habe tausendmal gewünscht,
+              daß er mich nötigen möchte, ihm eine Liebe zu entdecken, die er so sehr verdienet.",positive,emotions of affection,love
+74,GerDracor/gellert-die-zaertlichen-schwestern.xml,6134,6176,Du wirst diesen Wunsch bald erfüllt sehen.,positive,emotions of joy,joy
+75,GerDracor/gellert-die-zaertlichen-schwestern.xml,6177,6213,"Siehe dich um, mein liebes Lottchen.",positive,emotional movement,compassion
+76,GerDracor/gellert-die-zaertlichen-schwestern.xml,6214,6220,Cleon.,emotional movement,emotional movement,emotional movement
+77,GerDracor/gellert-die-zaertlichen-schwestern.xml,6221,6230,Lottchen.,positive,emotional movement,emotional movement
+78,GerDracor/gellert-die-zaertlichen-schwestern.xml,6231,6240,Siegmund.,positive,emotional movement,emotional movement
+79,GerDracor/gellert-die-zaertlichen-schwestern.xml,6241,6245,Wie?,emotional movement,emotional movement,emotional movement
+80,GerDracor/gellert-die-zaertlichen-schwestern.xml,6246,6273,Sie haben mich reden hören?,emotional movement,emotional movement,emotional movement
+81,GerDracor/gellert-die-zaertlichen-schwestern.xml,6274,6313,"Vergeben Sie mir, mein liebes Lottchen.",positive,emotions of suffering,compassion
+82,GerDracor/gellert-die-zaertlichen-schwestern.xml,6314,6391,"Ich habe in meinem Leben nichts
+              Vorteilhafters für mich gehört.",positive,emotions of joy,joy
+83,GerDracor/gellert-die-zaertlichen-schwestern.xml,6392,6523,"Ich bin vor Vergnügen ganz trunken, und ich weiß meine
+              Verwegenheit mit nichts als mit meiner Liebe zu entschuldigen.",positive,emotions of joy,joy
+84,GerDracor/gellert-die-zaertlichen-schwestern.xml,6524,6582,Eine bessere Fürsprecherin hätten Sie nicht finden können.,positive,emotions of affection,admiration
+85,GerDracor/gellert-die-zaertlichen-schwestern.xml,6583,6606,Haben Sie alles gehört?,emotional movement,emotional movement,emotional movement
+86,GerDracor/gellert-die-zaertlichen-schwestern.xml,6621,6726,"Ich habe es nicht gewußt, daß Sie zugegen wären; um desto aufrichtiger ist mein
+              Bekenntnis.",positive,emotions of affection,friendship
+87,GerDracor/gellert-die-zaertlichen-schwestern.xml,6727,6884,"Aber wenn ich ja auf den Antrieb meines Papas einen Fehler habe begehen
+              sollen: so will ich ihn nunmehr für mich allein begehen: Ich liebe Sie.",positive,emotions of affection,love
+88,GerDracor/gellert-die-zaertlichen-schwestern.xml,6885,6943,"Sind Sie mit
+              dieser Ausschweifung zufrieden?",positive,emotions of joy,joy
+89,GerDracor/gellert-die-zaertlichen-schwestern.xml,6944,7054,"Liebstes Lottchen, meine Bestürzung mag Ihnen ein Beweis von der Empfindung meines
+              Herzens sein.",emotional movement,emotional movement,emotional movement
+90,GerDracor/gellert-die-zaertlichen-schwestern.xml,7055,7071,Sie lieben mich?,positive,emotions of affection,love
+91,GerDracor/gellert-die-zaertlichen-schwestern.xml,7072,7117,Sie sagen mir's in der Gegenwart Ihres Papas?,emotional movement,emotional movement,emotional movement
+92,GerDracor/gellert-die-zaertlichen-schwestern.xml,7118,7122,Sie?,emotional movement,emotional movement,emotional movement
+93,GerDracor/gellert-die-zaertlichen-schwestern.xml,7123,7151,"mein
+              Lottchen!",positive,emotional movement,emotional movement
+94,GerDracor/gellert-die-zaertlichen-schwestern.xml,7152,7170,Verdiene ich dies?,negative,emotions of suffering,emotional movement
+95,GerDracor/gellert-die-zaertlichen-schwestern.xml,7171,7196,Soll ich Ihnen antworten?,emotional movement,emotional movement,anger
+96,GerDracor/gellert-die-zaertlichen-schwestern.xml,7197,7205,und wie?,emotional movement,emotional movement,emotional movement
+97,GerDracor/gellert-die-zaertlichen-schwestern.xml,7206,7269,"O lassen Sie mich
+              gehen und zu mir selber kommen.",negative,emotions of suffering,suffering
+98,GerDracor/gellert-die-zaertlichen-schwestern.xml,7270,7308,"Sie sind ganz bestürzt, Herr Siegmund.",emotional movement,emotional movement,emotional movement
+99,GerDracor/gellert-die-zaertlichen-schwestern.xml,7309,7377,"Vielleicht tut Ihnen meine Gegenwart einigen
+              Zwang an.",negative,emotions of suffering,anger
+100,GerDracor/gellert-die-zaertlichen-schwestern.xml,7378,7425,"Lebt wohl, meine Kinder, und sorgt für Julchen.",positive,emotions of affection,compassion
+101,GerDracor/gellert-die-zaertlichen-schwestern.xml,7426,7475,"Ich will mit dem Herrn Damis
+              reden.",negative,emotional movement,anger
+102,GerDracor/gellert-die-zaertlichen-schwestern.xml,7476,7485,Lottchen.,positive,emotional movement,emotional movement
+103,GerDracor/gellert-die-zaertlichen-schwestern.xml,7486,7495,Siegmund.,positive,emotional movement,emotional movement
+104,GerDracor/gellert-die-zaertlichen-schwestern.xml,7496,7597,"Wird es Sie bald reuen, meine Geliebte, daß ich so viel zu meinem Vorteile gehört
+              habe?",negative,emotions of fear,compassion
+105,GerDracor/gellert-die-zaertlichen-schwestern.xml,7598,7658,"Sagen Sie mir erst, ob Sie so viel zu hören gewünscht haben.",negative,emotional movement,anger
+106,GerDracor/gellert-die-zaertlichen-schwestern.xml,7659,7735,"Gewünscht habe ich's tausendmal; allein, verdiene ich so viele Zärtlichkeit?",positive,emotions of affection,love
+107,GerDracor/gellert-die-zaertlichen-schwestern.xml,7736,7808,Wenn mein Herz den Ausspruch tun darf: so verdienen Sie ihrer weit mehr.,positive,emotions of affection,admiration
+108,GerDracor/gellert-die-zaertlichen-schwestern.xml,7809,7968,"Nein, ich verdiene ihr Herz noch nicht; allein ich will mich zeitlebens bemühen, Sie
+              zu überführen, daß Sie es keinem Unwürdigen geschenkt haben.",positive,emotions of affection,admiration
+109,GerDracor/gellert-die-zaertlichen-schwestern.xml,7969,8015,"Wie edel gesinnt ist Ihre
+              Seele!",positive,emotions of affection,admiration
+110,GerDracor/gellert-die-zaertlichen-schwestern.xml,8016,8157,"Ich verlor als Ihr Liebhaber mein ganzes Vermögen, und mein Unglück hat mir
+              nicht den geringsten Teil von Ihrer Liebe entzogen.",positive,emotions of affection,suffering
+111,GerDracor/gellert-die-zaertlichen-schwestern.xml,8158,8283,"Sie haben Ihre Gewogenheit gegen
+              mich vermehrt und mir durch sie den Verlust meines Glückes erträglich gemacht.",positive,emotions of affection,love
+112,GerDracor/gellert-die-zaertlichen-schwestern.xml,8284,8463,"Diese
+              standhafte Zärtlichkeit ist ein Ruhm für Sie, den nur ein  Ich habe einen Fehler begangen, daß ich Sie so viel zu meinem Ruhme habe sagen
+              lassen.",positive,emotions of affection,admiration
+113,GerDracor/gellert-die-zaertlichen-schwestern.xml,8464,8583,"Aber Ihr Beifall ist mir gar zu kostbar, als daß ihn meine Eigenliebe nicht
+              mit Vergnügen anhören sollte.",positive,emotions of affection,joy
+114,GerDracor/gellert-die-zaertlichen-schwestern.xml,8584,8674,"Sie können es seit zwei Jahren schon wissen, ob ich ein
+              redliches Herz habe.",negative,emotions of joy,suffering
+115,GerDracor/gellert-die-zaertlichen-schwestern.xml,8675,8899,"Welche Zufriedenheit ist es für mich, daß ich ohne den geringsten
+              Vorwurf in alle die vergnügten Tage und Stunden zurücksehen kann, die ich mit Ihnen,
+              mit der Liebe und der Tugend zugebracht habe!",positive,emotions of affection,joy
+116,GerDracor/gellert-die-zaertlichen-schwestern.xml,8900,8957,"Also sind Sie vollkommen mit mir zufrieden, meine Schöne?",positive,emotions of affection,admiration
+117,GerDracor/gellert-die-zaertlichen-schwestern.xml,8958,9016,"O warum kann ich Sie nicht
+              glücklich machen!",negative,emotions of joy,suffering
+118,GerDracor/gellert-die-zaertlichen-schwestern.xml,9017,9168,"Welche Wollust müßte es sein, ein Herz, wie das Ihrige ist, zu
+              belohnen, da mir die bloße Vorstellung davon schon so viel Vergnügen gibt!",positive,emotions of joy,joy
+119,GerDracor/gellert-die-zaertlichen-schwestern.xml,9169,9304,"Ach,
+              liebstes Kind, Julchen wird glücklicher, weit glücklicher als Sie, und ... Sie beleidigen mich, wenn Sie mehr reden.",negative,emotions of joy,joy
+120,GerDracor/gellert-die-zaertlichen-schwestern.xml,9305,9374,"Und Sie beleidigen mich auch schon, wenn
+              Sie es denken.",negative,emotions of rejection,anger
+121,GerDracor/gellert-die-zaertlichen-schwestern.xml,9375,9418,"Julchen ist nicht glücklicher, als ich bin.",positive,emotions of joy,joy
+122,GerDracor/gellert-die-zaertlichen-schwestern.xml,9419,9534,"Sie habe ihrem künftigen
+              Bräutigam noch so viel zu danken: so bin ich Ihnen doch ebensoviel schuldig.",positive,emotions of affection,admiration
+123,GerDracor/gellert-die-zaertlichen-schwestern.xml,9535,9667,"Durch
+              Ihren Umgang, durch Ihr Beispiel bin ich zärtlich, ruhig und mit der ganzen Welt
+              zufrieden worden.",positive,emotions of affection,love
+124,GerDracor/gellert-die-zaertlichen-schwestern.xml,9668,9725,Ist dieses kein Glück: so muß gar keins in der Welt sein.,positive,emotions of suffering,suffering
+125,GerDracor/gellert-die-zaertlichen-schwestern.xml,9726,9819,"Aber mein
+              liebster Freund, wir wollen heute zu Julchens Glücke etwas beitragen.",positive,emotions of joy,joy
+126,GerDracor/gellert-die-zaertlichen-schwestern.xml,9820,9897,"Sie liebt den
+              Herrn Damis und weiß es nicht, daß sie ihn liebt.",positive,emotions of affection,love
+127,GerDracor/gellert-die-zaertlichen-schwestern.xml,9898,10073,"Ihr ganzes Bezeigen versichert mich,
+              daß der prächtige Gedanke, den sie von der Freiheit mit sich herumträgt, nichts als
+              eine Frucht der Liebe sei.",positive,emotions of affection,love
+128,GerDracor/gellert-die-zaertlichen-schwestern.xml,10074,10199,"Sie liebt; aber die verdrüßliche Gestalt, die sie sich
+              vielleicht von der Ehe gemacht hat, umnebelt ihre Liebe.",positive,emotions of affection,love
+129,GerDracor/gellert-die-zaertlichen-schwestern.xml,10200,10257,"Wir wollen diesen kleinen
+              Nebel vertreiben.",negative,emotions of fear,suffering
+130,GerDracor/gellert-die-zaertlichen-schwestern.xml,10258,10266,Und wie?,emotional movement,emotional movement,emotional movement
+131,GerDracor/gellert-die-zaertlichen-schwestern.xml,10267,10284,mein liebes Kind.,positive,emotions of affection,love
+132,GerDracor/gellert-die-zaertlichen-schwestern.xml,10285,10318,Ich gehorche Ihnen ohne Ausnahme.,negative,emotions of affection,admiration
+133,GerDracor/gellert-die-zaertlichen-schwestern.xml,10319,10413,"Herr Damis verdient
+              Julchen, und sie wird eine recht liebenswürdige Frau werden.",positive,emotions of affection,friendship
+134,GerDracor/gellert-die-zaertlichen-schwestern.xml,10414,10428,Hören Sie nur.,positive,emotions of rejection,joy
+135,GerDracor/gellert-die-zaertlichen-schwestern.xml,10429,10456,Doch hier kömmt Herr Damis.,emotional movement,emotions of joy,fear
+136,GerDracor/gellert-die-zaertlichen-schwestern.xml,10457,10469,Die Vorigen.,positive,emotions of rejection,emotional movement
+137,GerDracor/gellert-die-zaertlichen-schwestern.xml,10470,10476,Damis.,emotional movement,emotional movement,emotional movement
+138,GerDracor/gellert-die-zaertlichen-schwestern.xml,10477,10521,"Sie sehen sehr traurig aus, mein Herr Damis.",negative,emotions of suffering,suffering
+139,GerDracor/gellert-die-zaertlichen-schwestern.xml,10522,10544,Ich habe Ursache dazu.,negative,emotions of suffering,suffering
+140,GerDracor/gellert-die-zaertlichen-schwestern.xml,10545,10634,"Anstatt, daß ich glaubte, Julchen  Lassen Sie sich ihre kleine Halsstarrigkeit lieb sein.",negative,emotions of joy,anger
+141,GerDracor/gellert-die-zaertlichen-schwestern.xml,10635,10659,Es ist nichts als Liebe.,positive,emotions of affection,love
+142,GerDracor/gellert-die-zaertlichen-schwestern.xml,10660,10816,"Eben
+              weil sie fühlt, daß ihr Herz überwunden ist: so wendet sie noch die letzte Bemühung
+              an, der Liebe den Sieg sauer zu machen.",positive,emotions of affection,suffering
+143,GerDracor/gellert-die-zaertlichen-schwestern.xml,10817,10921,"Wir brauchen nichts, als sie dahin zu bringen,
+              daß sie sieht, was in ihrem Herzen vorgeht.",positive,emotions of affection,love
+144,GerDracor/gellert-die-zaertlichen-schwestern.xml,10922,10956,Wenn sie es aber nicht sehen will?,negative,emotions of rejection,fear
+145,GerDracor/gellert-die-zaertlichen-schwestern.xml,10957,11032,"Wir müssen sie überraschen und sie, ohne daß sie es vermutet, dazu nötigen.",negative,emotions of joy,anger
+146,GerDracor/gellert-die-zaertlichen-schwestern.xml,11033,11099,"Der
+              heutige Tag ist ja nicht notwendig Ihr Brauttag.",positive,emotions of rejection,joy
+147,GerDracor/gellert-die-zaertlichen-schwestern.xml,11100,11173,"Glückt es uns heute nicht: so wird es
+              ein andermal glücken.",positive,emotions of joy,joy
+148,GerDracor/gellert-die-zaertlichen-schwestern.xml,11174,11279,"Es kömmt bloß darauf an, meine Herren, ob Sie sich meinen
+              Vorschlag wollen gefallen lassen.",negative,emotions of rejection,anger
+149,GerDracor/gellert-die-zaertlichen-schwestern.xml,11280,11349,"Wenn ich zu des Herrn Damis Glücke etwas beitragen kann, mit Freuden.",positive,emotions of joy,joy
+150,GerDracor/gellert-die-zaertlichen-schwestern.xml,11350,11400,"Ich weiß, daß Sie beide großmütig genug dazu sind.",positive,emotions of affection,admiration
+151,GerDracor/gellert-die-zaertlichen-schwestern.xml,11401,11502,"Und mir wird nichts in der Welt zu
+              schwer sein, das ich nicht für Julchen wagen sollte.",positive,emotions of affection,love
+152,GerDracor/gellert-die-zaertlichen-schwestern.xml,11503,11564,"Mein Herr Damis, verändern Sie die Sprache bei Julchen etwas.",negative,emotions of affection,emotional movement
+153,GerDracor/gellert-die-zaertlichen-schwestern.xml,11565,11660,"Fangen Sie nach und
+              nach an, ihr in den Gedanken von der Freiheit recht zu geben.",positive,emotions of joy,love
+154,GerDracor/gellert-die-zaertlichen-schwestern.xml,11661,11745,"Diese Übereinstimmung
+              wird ihr anfangs gefallen und sie sicher machen.",positive,emotions of joy,joy
+155,GerDracor/gellert-die-zaertlichen-schwestern.xml,11746,11897,"Sie wird denken, als ob sie Ihnen
+              deswegen erst gewogen würde, da sie es doch lange aus weit schönern Ursachen gewesen
+              ist.",positive,emotions of affection,love
+156,GerDracor/gellert-die-zaertlichen-schwestern.xml,11898,11970,Und in diesem Selbstbetruge wird sie Ihnen ihr ganzes Herz sehen lassen.,negative,emotions of affection,love
+157,GerDracor/gellert-die-zaertlichen-schwestern.xml,11971,12021,"Wollte der Himmel, daß Ihr Rat seine Wirkung täte.",negative,emotions of suffering,despair
+158,GerDracor/gellert-die-zaertlichen-schwestern.xml,12022,12075,"Wie glücklich wollte ich mich
+              schätzen!",positive,emotions of joy,joy
+159,GerDracor/gellert-die-zaertlichen-schwestern.xml,12076,12090,zu Siegmunden.,positive,emotional movement,love
+160,GerDracor/gellert-die-zaertlichen-schwestern.xml,12091,12216,"Und Sie müssen dem Herrn Damis zum Besten einen kleinen Betrug spielen und sich gegen
+              Julchen zärtlich stellen.",positive,emotions of affection,"hate, disgust"
+161,GerDracor/gellert-die-zaertlichen-schwestern.xml,12217,12259,Dieses wird ihr Herz in Unordnung bringen.,negative,emotions of suffering,emotional movement
+162,GerDracor/gellert-die-zaertlichen-schwestern.xml,12260,12393,"Sie wird böse auf
+              Sie werden, und mitten in dem Zorne wird die Liebe gegen den Herrn Damis
+              hervorbrechen.",positive,emotions of affection,anger
+163,GerDracor/gellert-die-zaertlichen-schwestern.xml,12394,12429,Tun Sie es auf meine Verantwortung.,negative,emotions of suffering,anger
+164,GerDracor/gellert-die-zaertlichen-schwestern.xml,12430,12469,Diese Rolle wird mir sehr sauer werden.,negative,emotions of rejection,anger
+165,GerDracor/gellert-die-zaertlichen-schwestern.xml,12470,12482,Die Vorigen.,positive,emotions of rejection,emotional movement
+166,GerDracor/gellert-die-zaertlichen-schwestern.xml,12483,12491,Julchen.,positive,emotional movement,emotional movement
+167,GerDracor/gellert-die-zaertlichen-schwestern.xml,12492,12522,Da sind sie ja alle beisammen.,positive,emotions of affection,joy
+168,GerDracor/gellert-die-zaertlichen-schwestern.xml,12523,12624,"Der Papa wollte gern wissen, wo Sie wären, und ich
+              kann ihm nunmehro die Antwort sagen.",negative,emotions of joy,anger
+169,GerDracor/gellert-die-zaertlichen-schwestern.xml,12625,12646,Sie will wieder gehn.,positive,emotions of affection,Schadenfreude
+170,GerDracor/gellert-die-zaertlichen-schwestern.xml,12647,12696,"Mein liebes Julchen, warum gehst du so geschwind?",emotional movement,emotional movement,emotional movement
+171,GerDracor/gellert-die-zaertlichen-schwestern.xml,12697,12762,"Weißt du eine bessere Gesellschaft
+              als die unsrige?",negative,emotions of affection,admiration
+172,GerDracor/gellert-die-zaertlichen-schwestern.xml,12763,12789,"Ach nein, meine Schwester.",emotional movement,emotional movement,emotional movement
+173,GerDracor/gellert-die-zaertlichen-schwestern.xml,12790,12879,"Aber wo ihr und Herr Siegmund seid, da wird gewiß von der
+              Liebe gesprochen.",positive,emotions of affection,love
+174,GerDracor/gellert-die-zaertlichen-schwestern.xml,12880,12966,"Und ich finde heute keinen Beruf, einer solchen Versammlung
+              beizuwohnen.",negative,emotions of rejection,"hate, disgust"
+175,GerDracor/gellert-die-zaertlichen-schwestern.xml,12967,13037,Warum rechnest du denn nur mich und Herr Siegmunden zu den Verliebten?,positive,emotions of affection,love
+176,GerDracor/gellert-die-zaertlichen-schwestern.xml,13038,13130,"Was hat dir
+              denn Herr Damis getan, daß du ihm diese Ehre nicht auch erweisest?",positive,emotions of affection,love
+177,GerDracor/gellert-die-zaertlichen-schwestern.xml,13131,13244,"Herr Damis ist so gütig gewesen und hat mir versprochen, lange nicht wieder von der
+              Liebe zu reden.",positive,emotions of affection,joy
+178,GerDracor/gellert-die-zaertlichen-schwestern.xml,13245,13331,"Und er ist viel zu billig, als daß er mir sein Wort nicht halten
+              sollte.",negative,emotions of affection,admiration
+179,GerDracor/gellert-die-zaertlichen-schwestern.xml,13332,13466,"Ich habe es Ihnen versprochen, meine liebe Mamsell, und ich verspreche es Ihnen vor
+              dieser Gesellschaft zum andern Male.",positive,emotions of affection,friendship
+180,GerDracor/gellert-die-zaertlichen-schwestern.xml,13467,13557,"Erlauben Sie mir, daß ich meine Zärtlichkeit in
+              Hochachtung verwandeln darf.",positive,emotions of affection,admiration
+181,GerDracor/gellert-die-zaertlichen-schwestern.xml,13558,13701,"Die Liebe können Sie mir mit Recht verbieten; aber die
+              Hochachtung kömmt nicht auf meinen Willen, sondern auf Ihre Verdienste an.",positive,emotions of affection,admiration
+182,GerDracor/gellert-die-zaertlichen-schwestern.xml,13702,13751,"Scheun Sie
+              sich nicht mehr vor mir.",negative,emotions of fear,fear
+183,GerDracor/gellert-die-zaertlichen-schwestern.xml,13752,13789,Ich bin gar nicht mehr Ihr Liebhaber.,positive,emotions of rejection,love
+184,GerDracor/gellert-die-zaertlichen-schwestern.xml,13790,13856,"Aber darf ich denn auch
+              nicht Ihr guter Freund sein?",positive,emotions of fear,friendship
+185,GerDracor/gellert-die-zaertlichen-schwestern.xml,13857,13873,Von Herzen gern.,positive,emotions of joy,joy
+186,GerDracor/gellert-die-zaertlichen-schwestern.xml,13874,14090,"Dieses ist eben mein Wunsch, viele Freunde und keinen Liebhaber zu
+              haben; mich an einem vertrauten Umgange zu vergnügen, aber mich nicht durch die
+              Vertraulichkeit zu binden und zu fesseln.",positive,emotions of affection,friendship
+187,GerDracor/gellert-die-zaertlichen-schwestern.xml,14091,14199,"Wenn Sie mir nichts mehr von der Liebe sagen
+              wollen: so will ich ganze Tage mit Ihnen umgehen.",positive,emotions of affection,friendship
+188,GerDracor/gellert-die-zaertlichen-schwestern.xml,14200,14226,"Kommen Sie, Herr Siegmund.",positive,emotions of joy,joy
+189,GerDracor/gellert-die-zaertlichen-schwestern.xml,14227,14277,Bei diesen frostigen Leuten sind wir nichts nütze.,negative,emotions of rejection,"hate, disgust"
+190,GerDracor/gellert-die-zaertlichen-schwestern.xml,14278,14363,"Ob wir
+              ihr kaltsinniges Gespräch von der Freundschaft hören oder nicht.",emotional movement,emotions of affection,"hate, disgust"
+191,GerDracor/gellert-die-zaertlichen-schwestern.xml,14364,14407,"Wir wollen zu dem
+              Papa gehen.",negative,emotions of fear,anger
+192,GerDracor/gellert-die-zaertlichen-schwestern.xml,14408,14416,Julchen.,positive,emotional movement,emotional movement
+193,GerDracor/gellert-die-zaertlichen-schwestern.xml,14417,14423,Damis.,emotional movement,emotional movement,emotional movement
+194,GerDracor/gellert-die-zaertlichen-schwestern.xml,14424,14549,"Ich bin meiner Schwester herzlich gut; aber ich würde es noch mehr sein, wenn sie
+              weniger auf die Liebe hielte.",positive,emotions of affection,friendship
+195,GerDracor/gellert-die-zaertlichen-schwestern.xml,14550,14641,"Es kann  Ich habe Ihnen versprochen, nicht von der Liebe zu reden, und ich halte mein Wort.",negative,emotions of suffering,suffering
+196,GerDracor/gellert-die-zaertlichen-schwestern.xml,14656,14703,Die Freundschaft scheint mir in der Tat besser.,positive,emotions of affection,friendship
+197,GerDracor/gellert-die-zaertlichen-schwestern.xml,14704,14707,Ja.,positive,emotions of joy,anger
+198,GerDracor/gellert-die-zaertlichen-schwestern.xml,14708,14804,"Die Freundschaft ist das frohe Vergnügen der Menschen, und die Liebe das
+              traurige.",positive,emotions of suffering,joy
+199,GerDracor/gellert-die-zaertlichen-schwestern.xml,14805,14917,"Man will einander recht genießen, darum liebt man; und man eilt doch nur,
+              einander satt zu werden.",positive,emotions of affection,love
+200,GerDracor/gellert-die-zaertlichen-schwestern.xml,14918,14951,"Habe ich nicht recht, Herr Damis?",positive,emotions of joy,emotional movement
+201,GerDracor/gellert-die-zaertlichen-schwestern.xml,14952,15018,Ich werde die Liebe in Ihrer Gesellschaft gar nicht mehr erwähnen.,positive,emotions of affection,love
+202,GerDracor/gellert-die-zaertlichen-schwestern.xml,15019,15071,"Sie möchten mir
+              sonst dabei einfallen.",negative,emotions of rejection,anger
+203,GerDracor/gellert-die-zaertlichen-schwestern.xml,15072,15124,Und wie würde es alsdann um mein Versprechen stehen?,emotional movement,emotions of fear,fear
+204,GerDracor/gellert-die-zaertlichen-schwestern.xml,15125,15275,"Sie könnten es vielleicht für einen Eigensinn, oder ich weiß selbst nicht für was für
+              ein Anzeichen halten, daß ich die Liebe so fliehe.",negative,emotions of rejection,"hate, disgust"
+205,GerDracor/gellert-die-zaertlichen-schwestern.xml,15276,15286,Aber nein.,negative,emotions of affection,suffering
+206,GerDracor/gellert-die-zaertlichen-schwestern.xml,15287,15365,"Ich sage es Ihnen, es
+              gehört zu meiner Ruhe, ohne Liebe zu sein.",positive,emotions of affection,love
+207,GerDracor/gellert-die-zaertlichen-schwestern.xml,15366,15401,Lassen Sie mir doch diese Freiheit.,negative,emotions of joy,emotional movement
+208,GerDracor/gellert-die-zaertlichen-schwestern.xml,15402,15457,"Muß man
+              denn diese traurige Plage fühlen?",negative,emotions of suffering,suffering
+209,GerDracor/gellert-die-zaertlichen-schwestern.xml,15458,15535,"Nein, meine Schwester irrt: es geht an, sie nicht zu
+              empfinden.",negative,emotions of affection,love
+210,GerDracor/gellert-die-zaertlichen-schwestern.xml,15536,15555,Ich sehe es an mir.,emotional movement,emotions of suffering,suffering
+211,GerDracor/gellert-die-zaertlichen-schwestern.xml,15556,15591,Aber warum schweigen Sie so stille?,negative,emotional movement,emotional movement
+212,GerDracor/gellert-die-zaertlichen-schwestern.xml,15592,15635,"Ich rede ja fast
+              ganz allein.",negative,emotions of rejection,suffering
+213,GerDracor/gellert-die-zaertlichen-schwestern.xml,15636,15658,Sie sind verdrießlich?,negative,emotions of rejection,anger
+214,GerDracor/gellert-die-zaertlichen-schwestern.xml,15659,15729,"O wie gut ist's, daß Sie nicht mehr mein Liebhaber
+              sind!",positive,emotions of joy,suffering
+215,GerDracor/gellert-die-zaertlichen-schwestern.xml,15730,15801,"sonst hätte ich Ursache, Ihnen zu Gefallen auch verdrießlich zu werden.",negative,emotions of rejection,anger
+216,GerDracor/gellert-die-zaertlichen-schwestern.xml,15802,15841,"O nein, ich bin gar nicht verdrießlich.",negative,emotions of rejection,anger
+217,GerDracor/gellert-die-zaertlichen-schwestern.xml,15842,15994,"Und wenn Sie es auch wären, und zwar deswegen, weil ich nicht mehr von der Liebe
+              reden will: so würde mir doch dieses gar nicht nahegehen.",positive,emotions of suffering,suffering
+218,GerDracor/gellert-die-zaertlichen-schwestern.xml,15995,16144,"Es ist mir nicht lieb, daß
+              ich Sie so verdrießlich sehe; aber als Ihre gute Freundin werde ich darüber gar nicht
+              unruhig.",negative,emotions of suffering,anger
+219,GerDracor/gellert-die-zaertlichen-schwestern.xml,16145,16152,O nein!,negative,emotions of suffering,suffering
+220,GerDracor/gellert-die-zaertlichen-schwestern.xml,16153,16197,Ich bin ja auch nicht jede Stunde zufrieden.,positive,emotions of suffering,joy
+221,GerDracor/gellert-die-zaertlichen-schwestern.xml,16198,16251,"Sie können ja etwas zu
+              überlegen haben.",emotional movement,emotional movement,anger
+222,GerDracor/gellert-die-zaertlichen-schwestern.xml,16252,16276,Ich argwohne gar nichts.,negative,emotions of affection,anger
+223,GerDracor/gellert-die-zaertlichen-schwestern.xml,16277,16383,"Ich mag es auch nicht wissen ... Doch, mein
+              Herr, Sie stellen einen sehr stummen Freund vor.",negative,emotional movement,emotional movement
+224,GerDracor/gellert-die-zaertlichen-schwestern.xml,16384,16447,"Wenn bin ich Ihnen denn so
+              gleichgültig geworden?",emotional movement,emotional movement,emotional movement
+225,GerDracor/gellert-die-zaertlichen-schwestern.xml,16448,16567,"Nehmen Sie es nicht übel, meine schöne Freundin, daß ich einige Augenblicke ganz
+              fühllos geschienen habe.",positive,emotions of suffering,anger
+226,GerDracor/gellert-die-zaertlichen-schwestern.xml,16568,16781,"Ich habe, um Ihren Befehl zu erfüllen, die letzten Bemühungen
+              angewandt, die ängstlichen Regungen der Liebe völlig zu ersticken und den Charakter
+              eines aufrichtigen Freundes anzunehmen.",positive,emotions of affection,friendship
+227,GerDracor/gellert-die-zaertlichen-schwestern.xml,16782,16842,Die Vernunft  Aber warum schlagen Sie denn die Augen nieder?,emotional movement,emotional movement,emotional movement
+228,GerDracor/gellert-die-zaertlichen-schwestern.xml,16843,16914,"Darf man in der Freundschaft einander
+              auch nicht ansehen?",positive,emotions of affection,friendship
+229,GerDracor/gellert-die-zaertlichen-schwestern.xml,16915,16941,Es gehört zu meinem Siege.,positive,emotions of joy,joy
+230,GerDracor/gellert-die-zaertlichen-schwestern.xml,16942,16988,"Wer kann Sie sehen, und Sie doch nicht lieben?",positive,emotions of affection,love
+231,GerDracor/gellert-die-zaertlichen-schwestern.xml,16989,17038,"Sagen Sie mir nicht wieder, daß Sie mich liebten?",positive,emotions of affection,love
+232,GerDracor/gellert-die-zaertlichen-schwestern.xml,17039,17057,O das ist traurig!,negative,emotions of suffering,compassion
+233,GerDracor/gellert-die-zaertlichen-schwestern.xml,17058,17114,"Ich werde über
+              Ihr Bezeigen recht unruhig.",emotional movement,emotional movement,emotional movement
+234,GerDracor/gellert-die-zaertlichen-schwestern.xml,17115,17255,"Einmal reden Sie so verliebt, daß man erschrickt, und das
+              andere Mal so gleichgültig, als wenn Sie mich zum ersten Male sähen.",positive,emotions of affection,love
+235,GerDracor/gellert-die-zaertlichen-schwestern.xml,17256,17304,"Nein schweifen
+              Sie doch nicht aus.",emotional movement,emotional movement,emotional movement
+236,GerDracor/gellert-die-zaertlichen-schwestern.xml,17305,17336,Sie widersprechen mir ja stets.,negative,emotions of rejection,anger
+237,GerDracor/gellert-die-zaertlichen-schwestern.xml,17337,17397,"Ist dies die Eigenschaft eines
+              guten Freundes?",positive,emotions of affection,emotional movement
+238,GerDracor/gellert-die-zaertlichen-schwestern.xml,17398,17430,Wir brauchen ja nicht zu lieben.,positive,emotions of affection,love
+239,GerDracor/gellert-die-zaertlichen-schwestern.xml,17431,17495,"Ist denn die Freiheit nicht so edel
+              als die Liebe?",positive,emotions of affection,admiration
+240,GerDracor/gellert-die-zaertlichen-schwestern.xml,17496,17570,O es gehört weit mehr Stärke des Geistes zu der Freiheit als zu der Liebe.,positive,emotions of affection,love
+241,GerDracor/gellert-die-zaertlichen-schwestern.xml,17571,17810,"Das sage ich auch, warum halten Sie mir's denn für übel daß ich die Freiheit
+              hochschätze: daß ich statt eines Liebhabers lieber zehn Freunde, statt eines einfachen
+              lieber ein mannigfaltiges Vergnügen haben will?",positive,emotions of affection,friendship
+242,GerDracor/gellert-die-zaertlichen-schwestern.xml,17811,17911,"Sind denn meine Gründe so schlecht,
+              daß ich darüber Ihre Hochachtung verlieren sollte?",positive,emotional movement,admiration
+243,GerDracor/gellert-die-zaertlichen-schwestern.xml,17912,17980,"Tun Sie den Ausspruch, ob ich bloß
+              aus Eigensinn rede.",negative,emotions of rejection,anger
+244,GerDracor/gellert-die-zaertlichen-schwestern.xml,17982,18010,Damis sieht sie zärtlich an.,positive,emotions of affection,love
+245,GerDracor/gellert-die-zaertlichen-schwestern.xml,18011,18045,"Daß Sie gingen, wollten Sie sagen.",positive,emotions of rejection,suffering
+246,GerDracor/gellert-die-zaertlichen-schwestern.xml,18046,18119,"Auch diesen Befehl nehme ich an, so sauer er mir
+              auch wird.",negative,emotions of suffering,suffering
+247,GerDracor/gellert-die-zaertlichen-schwestern.xml,18120,18249,"Sie mögen mich nun noch so sehr hassen: so werde ich mich doch in Ihrer
+              Gegenwart nie über mein Schicksal beklagen.",negative,emotions of rejection,"hate, disgust"
+248,GerDracor/gellert-die-zaertlichen-schwestern.xml,18250,18307,"Ich habe die Ehre, mich Ihnen zu
+              empfehlen.",positive,emotions of affection,admiration
+249,GerDracor/gellert-die-zaertlichen-schwestern.xml,18308,18315,Hassen?,emotional movement,emotions of rejection,emotional movement
+250,GerDracor/gellert-die-zaertlichen-schwestern.xml,18316,18361,"Wenn habe ich denn gesagt, daß ich Sie hasse?",negative,emotions of rejection,"hate, disgust"
+251,GerDracor/gellert-die-zaertlichen-schwestern.xml,18362,18389,Ich verstehe diese Sprache.,negative,emotions of affection,joy
+252,GerDracor/gellert-die-zaertlichen-schwestern.xml,18404,18465,"Weil Sie mich nicht lieben sollen, so wollen Sie mich hassen.",negative,emotions of rejection,"hate, disgust"
+253,GerDracor/gellert-die-zaertlichen-schwestern.xml,18466,18490,Dies ist sehr großmütig.,positive,emotions of affection,admiration
+254,GerDracor/gellert-die-zaertlichen-schwestern.xml,18505,18553,Das sind die Früchte der berühmten Zärtlichkeit.,positive,emotions of affection,love
+255,GerDracor/gellert-die-zaertlichen-schwestern.xml,18554,18760,"Ich werde aber nicht aus meiner
+              Gelassenheit kommen, und wenn Sie auch mit dem kaltsinnigsten Stolze noch einmal zu
+              mir sagen sollten: Ich habe die Ehre, mich Ihnen zu empfehlen.",emotional movement,emotions of affection,emotional movement
+256,GerDracor/gellert-die-zaertlichen-schwestern.xml,18761,18809,"Das ist ja eine rechte
+              Hofsprache.",negative,emotions of rejection,anger
+257,GerDracor/gellert-die-zaertlichen-schwestern.xml,18810,18846,Es ist die Sprache der Ehrerbietung.,positive,emotions of affection,admiration
+258,GerDracor/gellert-die-zaertlichen-schwestern.xml,18847,18858,Er geht ab.,negative,emotions of rejection,anger
+259,GerDracor/gellert-die-zaertlichen-schwestern.xml,18859,18874,Julchen allein.,negative,emotions of suffering,suffering
+260,GerDracor/gellert-die-zaertlichen-schwestern.xml,18875,18879,Wie?,emotional movement,emotional movement,emotional movement
+261,GerDracor/gellert-die-zaertlichen-schwestern.xml,18880,18888,Er geht?,emotional movement,emotional movement,emotional movement
+262,GerDracor/gellert-die-zaertlichen-schwestern.xml,18889,18919,Aber warum bin ich so unruhig?,emotional movement,emotional movement,emotional movement
+263,GerDracor/gellert-die-zaertlichen-schwestern.xml,18920,18989,"Ich liebe ihn ja nicht ... Nein, ich bin
+            ihm nur gewogen.",positive,emotions of affection,love
+264,GerDracor/gellert-die-zaertlichen-schwestern.xml,18990,19048,"Es ist doch ein unerträglicher Stolz, daß er mich verläßt.",negative,emotions of suffering,suffering
+265,GerDracor/gellert-die-zaertlichen-schwestern.xml,19049,19096,"Aber habe
+            ich ihn etwan beleidiget?",emotional movement,emotional movement,emotional movement
+266,GerDracor/gellert-die-zaertlichen-schwestern.xml,19097,19192,"Er ist ja sonst so vernünftig und so großmütig ... Nein, nein,
+            er liebt mich nicht.",emotional movement,emotions of affection,love
+267,GerDracor/gellert-die-zaertlichen-schwestern.xml,19193,19225,Es muß Verstellung gewesen sein.,negative,emotional movement,emotional movement
+268,GerDracor/gellert-die-zaertlichen-schwestern.xml,19226,19280,"Ich habe heute ein recht
+            mürrisches Wesen.",negative,emotions of suffering,anger
+269,GerDracor/gellert-die-zaertlichen-schwestern.xml,19282,19315,Lottchen tritt unvermerkt herein.,emotional movement,emotional movement,emotional movement
+270,GerDracor/gellert-die-zaertlichen-schwestern.xml,19316,19324,Julchen.,positive,emotional movement,emotional movement
+271,GerDracor/gellert-die-zaertlichen-schwestern.xml,19325,19334,Lottchen.,positive,emotional movement,emotional movement
+272,GerDracor/gellert-die-zaertlichen-schwestern.xml,19335,19386,"Ich will sie gleich holen, wenn du es haben willst.",positive,emotions of affection,anger
+273,GerDracor/gellert-die-zaertlichen-schwestern.xml,19387,19454,"Aber, mein Kind, was hast du mit
+              dir allein zu reden?",negative,emotions of suffering,compassion
+274,GerDracor/gellert-die-zaertlichen-schwestern.xml,19455,19537,"Es ist ja sonst deine Art nicht, daß du mit der Einsamkeit
+              sprichst?",negative,emotions of suffering,suffering
+275,GerDracor/gellert-die-zaertlichen-schwestern.xml,19538,19581,Wenn hätte ich denn mit mir allein geredet?,emotional movement,emotional movement,suffering
+276,GerDracor/gellert-die-zaertlichen-schwestern.xml,19582,19655,"Ich weiß nicht, daß ich heute allen so
+              verdächtig vorkomme.",negative,emotional movement,anger
+277,GerDracor/gellert-die-zaertlichen-schwestern.xml,19656,19762,"Aber woher wüßte ich's, daß du die Laute hättest haben wollen, wenn du nicht geredt
+              hättest?",emotional movement,emotional movement,anger
+278,GerDracor/gellert-die-zaertlichen-schwestern.xml,19763,19868,"Mich hast du nicht gesehen, liebes Kind, und also mußt du wohl mit dir selbst
+              geredt haben.",negative,emotions of rejection,compassion
+279,GerDracor/gellert-die-zaertlichen-schwestern.xml,19869,19924,"Ich dächte es wenigstens, oder bist du anderer Meinung?",emotional movement,emotions of rejection,anger
+280,GerDracor/gellert-die-zaertlichen-schwestern.xml,19925,19979,"Ihr müßt euch alle beredt haben, mir zu widersprechen.",negative,emotions of rejection,anger
+281,GerDracor/gellert-die-zaertlichen-schwestern.xml,19980,19986,Wieso?,emotional movement,emotional movement,emotional movement
+282,GerDracor/gellert-die-zaertlichen-schwestern.xml,19987,20020,Ich habe dir nicht widersprochen.,positive,emotions of affection,anger
+283,GerDracor/gellert-die-zaertlichen-schwestern.xml,20021,20094,"Und wenn es Herr Damis getan hat, so kann
+              ich nichts dafür.",negative,emotions of suffering,compassion
+284,GerDracor/gellert-die-zaertlichen-schwestern.xml,20095,20144,Warum ziehst du deine guten Freunde nicht besser?,positive,emotions of affection,friendship
+285,GerDracor/gellert-die-zaertlichen-schwestern.xml,20145,20319,"Er sagte mir im
+              Vorbeigehen, du wärest recht böse geworden, weil er es etliche Mal versehen und wider
+              sein Versprechen an die Liebe gedacht hätte.",negative,emotions of rejection,anger
+286,GerDracor/gellert-die-zaertlichen-schwestern.xml,20320,20480,"Schwester, ich glaube, Ihr kommt, um Rechenschaft von  Recht, Julchen, wenn dir Herr Damis zuwider ist: so bitte ich dich selber, liebe ihn
+              nicht.",negative,emotions of rejection,anger
+287,GerDracor/gellert-die-zaertlichen-schwestern.xml,20481,20515,Was das für ein weiser Spruch ist!,positive,emotions of joy,emotional movement
+288,GerDracor/gellert-die-zaertlichen-schwestern.xml,20516,20615,"Wenn er dir zuwider ist ... Muß man denn einander
+              hassen, wenn man nicht lieben will?",negative,emotions of rejection,"hate, disgust"
+289,GerDracor/gellert-die-zaertlichen-schwestern.xml,20616,20700,"Ich habe ja noch nicht gefragt, ob dir dein Herr
+              Siegmund zuwider ist.",negative,emotions of rejection,"hate, disgust"
+290,GerDracor/gellert-die-zaertlichen-schwestern.xml,20701,20739,"Nein, du hast mich noch nicht gefragt.",emotional movement,emotional movement,anger
+291,GerDracor/gellert-die-zaertlichen-schwestern.xml,20740,20941,"Aber wenn du mich fragen solltest, so würde
+              ich dir antworten, daß ich ihn recht zärtlich, recht von Herzen liebe und mich meiner
+              Zärtlichkeit nicht einen Augenblick schäme.",positive,emotions of affection,love
+292,GerDracor/gellert-die-zaertlichen-schwestern.xml,20942,21062,"Es gehört weit mehr Hoheit des Gemüts
+              dazu, die Liebe vernünftig zu fühlen, als die Freiheit zu behaupten.",positive,emotions of affection,love
+293,GerDracor/gellert-die-zaertlichen-schwestern.xml,21063,21095,Ich möchte vor Verdruß vergehen.,negative,emotions of rejection,anger
+294,GerDracor/gellert-die-zaertlichen-schwestern.xml,21096,21163,"Herr Damis hat gleich vorhin das Gegenteil
+              behauptet.",negative,emotions of rejection,anger
+295,GerDracor/gellert-die-zaertlichen-schwestern.xml,21164,21189,Wem soll man nun glauben?,emotional movement,emotional movement,emotional movement
+296,GerDracor/gellert-die-zaertlichen-schwestern.xml,21190,21367,"Nehmt mir's nicht übel, meine Schwester, ich
+              weiß, daß ihr mehr Einsicht habt als ich; aber erlaubt mir, daß ich meinen Einfall dem
+              eurigen vorziehe.",positive,emotions of rejection,anger
+297,GerDracor/gellert-die-zaertlichen-schwestern.xml,21368,21427,Und warum kann Herr Damis nicht so gut recht haben als ihr?,positive,emotions of affection,love
+298,GerDracor/gellert-die-zaertlichen-schwestern.xml,21428,21514,"Ihr habt
+              ja immer gesagt, daß er ein vernünftiger und artiger Mann wäre.",positive,emotions of affection,admiration
+299,GerDracor/gellert-die-zaertlichen-schwestern.xml,21515,21686,"Das Beiwort artig hätte nicht eben notwendig zu unserer Streitfrage gehört; aber viel
+              leicht gehört diese Vorstellung sonst in die Reihe deiner Empfindungen.",positive,emotions of affection,anger
+300,GerDracor/gellert-die-zaertlichen-schwestern.xml,21687,21848,"Herr Damis ist
+              ganz gewiß verständiger als ich; aber er ist auch ein Mensch wie ich; und der beste
+              Verstand hat seine schwache Seite.",emotional movement,emotions of suffering,suffering
+301,GerDracor/gellert-die-zaertlichen-schwestern.xml,21849,21987,"Lottchen, also seid ihr hieher gekommen, um mir zu demonstrieren, daß Herr Damis ein
+              Mensch und kein Engel am Verstande ist?",negative,emotions of rejection,anger
+302,GerDracor/gellert-die-zaertlichen-schwestern.xml,21988,22003,Das glaube ich.,negative,emotions of joy,joy
+303,GerDracor/gellert-die-zaertlichen-schwestern.xml,22004,22088,"Aber, mein liebes Lottchen,
+              eure Spöttereien sind mir sehr erträglich.",positive,emotions of joy,anger
+304,GerDracor/gellert-die-zaertlichen-schwestern.xml,22089,22257,"Ich könnte euch leicht die Antwort
+              zurückgeben, daß euer Herr Siegmund auch unter die armen Sterblichen gehörte; aber ich
+              will es nicht tun.",negative,emotions of suffering,compassion
+305,GerDracor/gellert-die-zaertlichen-schwestern.xml,22258,22352,"Ihr würdet nur denken, daß ich aus Eigensinn den Herrn Damis
+              verteidigen wollte.",negative,emotions of rejection,anger
+306,GerDracor/gellert-die-zaertlichen-schwestern.xml,22353,22486,"Nein, er soll nicht den größten Verstand haben; er soll nicht so
+              galant, nicht so liebenswürdig sein als euer Siegmund.",negative,emotions of affection,admiration
+307,GerDracor/gellert-die-zaertlichen-schwestern.xml,22487,22589,"So habe ich noch eine Ursache
+              mehr, meine Freiheit zu behaupten und ihn nicht zu lieben.",positive,emotions of affection,suffering
+308,GerDracor/gellert-die-zaertlichen-schwestern.xml,22590,22637,"Mein liebes Kind, du kömmst recht in die Hitze.",negative,emotions of rejection,anger
+309,GerDracor/gellert-die-zaertlichen-schwestern.xml,22638,22723,"Du schmälst auf mich und meinen
+              Geliebten, und ich bleibe dir doch gut.",negative,emotions of rejection,anger
+310,GerDracor/gellert-die-zaertlichen-schwestern.xml,22724,22751,Man kann dich nicht hassen.,negative,emotions of rejection,"hate, disgust"
+311,GerDracor/gellert-die-zaertlichen-schwestern.xml,22752,22845,"Du trägst dein
+              gutes Herz in  Ich bitte dich, liebe Schwester, laß mich allein.",positive,emotions of affection,friendship
+312,GerDracor/gellert-die-zaertlichen-schwestern.xml,22846,22951,"Ich bin verdrießlich, recht sehr
+              verdrießlich, und ich werde es nur mehr, je mehr ich rede.",negative,emotions of rejection,anger
+313,GerDracor/gellert-die-zaertlichen-schwestern.xml,22952,23063,"Bist du etwan darüber verdrießlich, daß ich in der Heftigkeit ein Wort wider den
+              Herrn Damis ...?",negative,emotional movement,anger
+314,GerDracor/gellert-die-zaertlichen-schwestern.xml,23064,23096,O warum denkst du wieder an ihn?,negative,emotions of suffering,emotional movement
+315,GerDracor/gellert-die-zaertlichen-schwestern.xml,23097,23141,Willst du mich noch mehr zu Fehlern bringen?,negative,emotions of rejection,anger
+316,GerDracor/gellert-die-zaertlichen-schwestern.xml,23142,23294,"Laß ihm
+              doch seinen schwachen Verstand und mir meinen verdrießlichen Geist und das Glück,
+              einige Augenblicke allein zu sein.",negative,emotions of rejection,anger
+317,GerDracor/gellert-die-zaertlichen-schwestern.xml,23295,23381,"Die ältern Schwestern haben doch immer etwas an den
+              jüngern auszusetzen.",negative,emotions of rejection,anger
+318,GerDracor/gellert-die-zaertlichen-schwestern.xml,23382,23415,"Ich höre es wohl, ich soll gehen.",negative,emotional movement,anger
+319,GerDracor/gellert-die-zaertlichen-schwestern.xml,23416,23420,Gut.,positive,emotions of joy,joy
+320,GerDracor/gellert-die-zaertlichen-schwestern.xml,23421,23493,"Komm bald nach, sonst mußt du wieder mit dir
+              allein reden.",negative,emotions of suffering,compassion
+321,GerDracor/gellert-die-zaertlichen-schwestern.xml,23494,23502,Julchen.,positive,emotional movement,emotional movement
+322,GerDracor/gellert-die-zaertlichen-schwestern.xml,23503,23516,Der Magister.,negative,emotional movement,emotional movement
+323,GerDracor/gellert-die-zaertlichen-schwestern.xml,23517,23564,"Ist es nicht möglich, daß ich allein sein kann?",negative,emotions of suffering,emotional movement
+324,GerDracor/gellert-die-zaertlichen-schwestern.xml,23565,23598,Müssen Sie mich notwendig stören?,negative,emotions of rejection,anger
+325,GerDracor/gellert-die-zaertlichen-schwestern.xml,23613,23627,Herr Magister!,emotional movement,emotions of rejection,emotional movement
+326,GerDracor/gellert-die-zaertlichen-schwestern.xml,23628,23680,"Sagen Sie mir's nur kurz, was zu Ihren Diensten ist.",positive,emotions of rejection,anger
+327,GerDracor/gellert-die-zaertlichen-schwestern.xml,23681,23731,"Jungfer Muhme, ich will etwas mit Ihnen überlegen.",positive,emotional movement,emotional movement
+328,GerDracor/gellert-die-zaertlichen-schwestern.xml,23732,23828,"Vielleicht bin ich wegen meiner
+              Jahre und meiner Erfahrung nicht ungeschickt dazu.",negative,emotions of rejection,anger
+329,GerDracor/gellert-die-zaertlichen-schwestern.xml,23829,23953,"Ich liebe Sie, und Sie wissen, was
+              der Verstand für eine unentbehrliche Sache bei allen unsern Handlungen ist.",positive,emotions of affection,love
+330,GerDracor/gellert-die-zaertlichen-schwestern.xml,23954,23971,"Ja, das weiß ich.",negative,emotions of rejection,anger
+331,GerDracor/gellert-die-zaertlichen-schwestern.xml,23972,24082,"Dem ungeachtet wollte ich wünschen, daß ich heute gar keinen hätte;
+              vielleicht wäre ich ruhiger.",negative,emotions of rejection,anger
+332,GerDracor/gellert-die-zaertlichen-schwestern.xml,24083,24102,Sie übereilen sich.,emotional movement,emotional movement,emotional movement
+333,GerDracor/gellert-die-zaertlichen-schwestern.xml,24103,24210,"Wer würde das Wahre von dem Falschen, das Scheingut von dem
+              wahren Gute unterscheiden helfen?",emotional movement,emotions of rejection,emotional movement
+334,GerDracor/gellert-die-zaertlichen-schwestern.xml,24211,24332,"Wer würde unsern Willen zu festen und glücklichen
+              Entschließungen bringen, wenn es nicht der Verstand täte?",positive,emotions of suffering,joy
+335,GerDracor/gellert-die-zaertlichen-schwestern.xml,24333,24445,"Und würden Sie wohl so
+              liebenswürdig geworden sein, wenn Sie nicht immer verständig gewesen wären?",positive,emotions of affection,admiration
+336,GerDracor/gellert-die-zaertlichen-schwestern.xml,24446,24502,"Herr Magister, Sie sind ja nicht auf Ihrer Studierstube.",negative,emotions of rejection,anger
+337,GerDracor/gellert-die-zaertlichen-schwestern.xml,24503,24561,"Was quälen Sie mich mit
+              Ihrer Gelehrsamkeit?",negative,emotions of rejection,suffering
+338,GerDracor/gellert-die-zaertlichen-schwestern.xml,24562,24737,"Ich mag ja nicht  Zu eben der Zeit, da Sie wünschen, daß sie keine Vernunft haben möchten, beweisen Sie
+              durch Ihre Bescheidenheit, daß Sie ihrer sehr viel haben.",positive,emotions of affection,admiration
+339,GerDracor/gellert-die-zaertlichen-schwestern.xml,24738,24794,"Ich fordere keine
+              Gelehrsamkeit von Ihnen.",negative,emotions of rejection,anger
+340,GerDracor/gellert-die-zaertlichen-schwestern.xml,24795,24875,"Ich will sogar die meinige vergessen, indem ich mit Ihnen
+              spreche.",positive,emotions of affection,friendship
+341,GerDracor/gellert-die-zaertlichen-schwestern.xml,24876,24925,Sie sollen heute den Schritt zu Ihrem Glücke tun.,positive,emotions of joy,joy
+342,GerDracor/gellert-die-zaertlichen-schwestern.xml,24926,24994,"Es scheint aber nicht, daß
+              Sie dazu entschlossen sind.",negative,emotional movement,suffering
+343,GerDracor/gellert-die-zaertlichen-schwestern.xml,24995,25041,Gleichwohl wünscht es Ihr Herr Vater herzlich.,positive,emotions of joy,joy
+344,GerDracor/gellert-die-zaertlichen-schwestern.xml,25042,25123,"Ich habe
+              ihm versprochen, Ihnen einige kleine Vorstellungen zu tun.",positive,emotions of joy,anger
+345,GerDracor/gellert-die-zaertlichen-schwestern.xml,25124,25219,"Und ich wünschte, daß Sie
+              solche anhören und mir Einwürfe dagegen machen möchten.",negative,emotions of rejection,anger
+346,GerDracor/gellert-die-zaertlichen-schwestern.xml,25220,25282,"Dies kann ich, so alt ich bin,
+              doch wohl leiden.",negative,emotions of rejection,"hate, disgust"
+347,GerDracor/gellert-die-zaertlichen-schwestern.xml,25283,25375,"Die Liebe ist eine der schönsten, aber auch der gefährlichsten
+              Leidenschaften.",positive,emotions of affection,love
+348,GerDracor/gellert-die-zaertlichen-schwestern.xml,25376,25507,"Sie rächt sich an uns, wenn wir sie verschmähen; und sie rächt sich
+              auch, wenn wir uns in unserm Gehorsame übereilen.",negative,emotions of rejection,"hate, disgust"
+349,GerDracor/gellert-die-zaertlichen-schwestern.xml,25508,25557,Sie sind etwas weitläufig in Ihren Vorstellungen.,emotional movement,emotions of affection,emotional movement
+350,GerDracor/gellert-die-zaertlichen-schwestern.xml,25558,25615,"Allein Sie sollen ohne Einwurf
+              recht haben.",positive,emotions of joy,anger
+351,GerDracor/gellert-die-zaertlichen-schwestern.xml,25616,25644,Lassen Sie mich nur in Ruhe.,negative,emotions of rejection,anger
+352,GerDracor/gellert-die-zaertlichen-schwestern.xml,25645,25733,"Mein Verstand ist freilich nicht so stark an
+              Gründen als eine Philosophie.",negative,emotions of rejection,"hate, disgust"
+353,GerDracor/gellert-die-zaertlichen-schwestern.xml,25734,25808,"Dennoch ist er noch immer stark genug für mein Herz
+              gewesen.",positive,emotions of affection,love
+354,GerDracor/gellert-die-zaertlichen-schwestern.xml,25809,25930,"Wissen Sie nicht, daß uns unsere Leidenschaften am ersten besiegen, wenn sie am
+              ruhigsten zu sein scheinen?",negative,emotions of suffering,emotional movement
+355,GerDracor/gellert-die-zaertlichen-schwestern.xml,25931,25977,Das Herz der Menschen ist der größte Betrüger.,negative,emotions of rejection,"hate, disgust"
+356,GerDracor/gellert-die-zaertlichen-schwestern.xml,25978,26050,"Und der
+              Klügste weiß oft selbst nicht, was in ihm vorgeht.",negative,emotions of suffering,emotional movement
+357,GerDracor/gellert-die-zaertlichen-schwestern.xml,26051,26156,"Wir lieben und werden es zuweilen
+              nicht eher gewahr, als bis wir nicht mehr geliebt werden.",positive,emotions of affection,love
+358,GerDracor/gellert-die-zaertlichen-schwestern.xml,26157,26226,"Dieses alles sollen Sie
+              nicht glauben, weil ich's sage.",negative,emotions of rejection,anger
+359,GerDracor/gellert-die-zaertlichen-schwestern.xml,26227,26400,"Nein, weil es die größten Kenner des menschlichen
+              Herzens, ein Sokrates, ein Plato, ein Seneka und viele von den neuern Philosophen
+              gesagt haben.",positive,emotions of affection,love
+360,GerDracor/gellert-die-zaertlichen-schwestern.xml,26401,26473,Ich kenne alle diese Männer nicht und verlange sie auch nicht zu kennen.,negative,emotions of rejection,"hate, disgust"
+361,GerDracor/gellert-die-zaertlichen-schwestern.xml,26474,26682,"Aber wenn
+              sie so weise gewesen sind, wie Sie behaupten, so werden sie wohl auch gesagt haben,
+              daß man ein unruhiges Herz durch viele Vorstellungen nicht noch unruhiger machen soll.",negative,emotional movement,emotional movement
+362,GerDracor/gellert-die-zaertlichen-schwestern.xml,26697,26878,"Und ich traue dem Plato und Seneka, und wie sie alle heißen, so viel Einsicht und
+              Höflichkeit zu, daß sie Sie bitten würden, mich zu verlassen, wenn sie zugegen wären.",negative,emotions of rejection,anger
+363,GerDracor/gellert-die-zaertlichen-schwestern.xml,26893,27042,"Sobald ich die Leidenschaften und insonderheit die Liebe nicht mehr regieren kann: so
+              will ich Ihre Philosophie um Beistand ansprechen.",positive,emotions of affection,love
+364,GerDracor/gellert-die-zaertlichen-schwestern.xml,27043,27209,"Ihre Aufrichtigkeit gefällt mir, ob sie mir gleich zu  Ich setze nicht das geringste Mißtrauen weder in Ihre Aufrichtigkeit, noch in Ihre
+              Gelehrsamkeit.",positive,emotions of affection,admiration
+365,GerDracor/gellert-die-zaertlichen-schwestern.xml,27210,27236,Aber ich bin verdrießlich.,negative,emotions of rejection,anger
+366,GerDracor/gellert-die-zaertlichen-schwestern.xml,27237,27326,"Ich weiß nicht, was mir fehlt, und mag es
+              auch zu meiner Ruhe nicht wissen.",negative,emotions of suffering,suffering
+367,GerDracor/gellert-die-zaertlichen-schwestern.xml,27327,27346,Verlassen Sie mich.,negative,emotions of fear,despair
+368,GerDracor/gellert-die-zaertlichen-schwestern.xml,27347,27395,"Sie sind mir viel zu
+              scharfsinnig.",emotional movement,emotions of rejection,"hate, disgust"
+369,GerDracor/gellert-die-zaertlichen-schwestern.xml,27396,27417,Warum loben Sie mich?,negative,emotional movement,joy
+370,GerDracor/gellert-die-zaertlichen-schwestern.xml,27418,27542,"Wenn Sie so viele Jahre der Wahrheit nachgedacht hätten als
+              ich: so würden Sie vielleicht ebenso helle denken.",negative,emotional movement,emotional movement
+371,GerDracor/gellert-die-zaertlichen-schwestern.xml,27543,27666,"Unterdrücken Sie Ihre Unruhe und
+              überlegen Sie das Glück, das sich Ihnen heute auf Ihr ganzes Leben anbietet.",emotional movement,emotions of joy,joy
+372,GerDracor/gellert-die-zaertlichen-schwestern.xml,27667,27743,"Herr
+              Damis verlangt Ihr Herz und scheint es auch zu verdienen.",positive,emotions of affection,love
+373,GerDracor/gellert-die-zaertlichen-schwestern.xml,27744,27771,Was sagt Ihr Verstand dazu?,emotional movement,emotional movement,emotional movement
+374,GerDracor/gellert-die-zaertlichen-schwestern.xml,27786,27934,"Auf die Wahl in der Liebe kömmt das ganze Glück der Ehe an; und kein Irrtum bestraft
+              uns so sehr als der, den wir in der Liebe begehn.",positive,emotions of affection,love
+375,GerDracor/gellert-die-zaertlichen-schwestern.xml,27935,28003,Allein wenn kann man sich leichter irren als bei dieser Gelegenheit?,negative,emotions of joy,emotional movement
+376,GerDracor/gellert-die-zaertlichen-schwestern.xml,28004,28052,"Ich glaube, daß dieser Unterricht recht gut ist.",positive,emotions of joy,joy
+377,GerDracor/gellert-die-zaertlichen-schwestern.xml,28053,28121,"Aber was wird er mir nützen, da ich
+              nicht lieben will?",negative,emotions of affection,love
+378,GerDracor/gellert-die-zaertlichen-schwestern.xml,28122,28144,Sie reden sehr hitzig.,negative,emotions of rejection,anger
+379,GerDracor/gellert-die-zaertlichen-schwestern.xml,28145,28200,Dennoch werde ich nicht aus meiner Gelassenheit kommen.,emotional movement,emotional movement,emotional movement
+380,GerDracor/gellert-die-zaertlichen-schwestern.xml,28201,28255,"Sie
+              wollen nicht lieben, nicht heiraten?",positive,emotions of affection,love
+381,GerDracor/gellert-die-zaertlichen-schwestern.xml,28256,28325,"Aber wissen Sie denn auch, daß Sie dazu verbunden
+              sind?",positive,emotions of affection,emotional movement
+382,GerDracor/gellert-die-zaertlichen-schwestern.xml,28326,28389,Soll ich Ihnen den Beweis aus meinem Rechte der Natur vorlegen?,negative,emotional movement,anger
+383,GerDracor/gellert-die-zaertlichen-schwestern.xml,28390,28473,"Sie wollen doch,
+              daß das menschliche Geschlecht erhalten werden soll?",negative,emotions of joy,anger
+384,GerDracor/gellert-die-zaertlichen-schwestern.xml,28474,28534,"Dieses ist ein Zweck, den uns die
+              Natur lehrt.",positive,emotions of affection,"hate, disgust"
+385,GerDracor/gellert-die-zaertlichen-schwestern.xml,28535,28565,Das Mittel dazu ist die Liebe.,positive,emotions of affection,love
+386,GerDracor/gellert-die-zaertlichen-schwestern.xml,28566,28662,"Wer den Zweck will, der muß auch das
+              Mittel wollen, wenn er anders verständig ist.",positive,emotions of rejection,"hate, disgust"
+387,GerDracor/gellert-die-zaertlichen-schwestern.xml,28663,28729,"Sehn Sie denn nicht, daß Sie zur Ehe
+              verbunden sind?",positive,emotions of affection,love
+388,GerDracor/gellert-die-zaertlichen-schwestern.xml,28730,28793,"Sagen Sie mir nur, ob Sie die Kraft dieser Gründe nicht fühlen?",emotional movement,emotions of affection,emotional movement
+389,GerDracor/gellert-die-zaertlichen-schwestern.xml,28794,28825,Ich fühle sie in der Tat nicht.,negative,emotions of affection,emotional movement
+390,GerDracor/gellert-die-zaertlichen-schwestern.xml,28826,29048,"Und wenn die Liebe nichts ist als eine Pflicht: so
+              wundert mich's, wie sie so viele Herzen an  Jungfer Muhme, das heißt halsstarrig sein, wenn man die Augen vor den klärsten
+              Beweisen zuschließt.",positive,emotions of affection,emotional movement
+391,GerDracor/gellert-die-zaertlichen-schwestern.xml,29049,29163,"Wenn Sie erkennen, daß Sie zur Ehe verbunden sind, wie könnte
+              denn Ihr Wille undeterminiert bleiben?",positive,emotional movement,love
+392,GerDracor/gellert-die-zaertlichen-schwestern.xml,29164,29291,"Ist denn der Beifall im Verstande und der
+              Entschluß im Willen nicht eine und ebendieselbe Handlung unserer Seele?",emotional movement,emotional movement,emotional movement
+393,GerDracor/gellert-die-zaertlichen-schwestern.xml,29292,29444,"Warum wollen
+              Sie sich denn nicht zur Heirat mit dem Herrn Damis entschließen, da Sie sehen, daß Sie
+              eine Pflicht dazu haben?",positive,emotional movement,emotional movement
+394,GerDracor/gellert-die-zaertlichen-schwestern.xml,29445,29570,"Nehmen Sie mir's nicht übel, Herr Magister, daß ich Sie verlasse, ohne von Ihrer
+              Sittenlehre überzeugt zu sein.",negative,emotions of rejection,anger
+395,GerDracor/gellert-die-zaertlichen-schwestern.xml,29571,29703,"Was kann ich armes Mädchen dafür, daß ich nicht so viel
+              Einsicht habe als Plato, Seneka und Ihre andern weisen Männer?",negative,emotions of suffering,compassion
+396,GerDracor/gellert-die-zaertlichen-schwestern.xml,29704,29857,"Machen Sie es mit
+              diesen Leuten aus, warum ich keine Lust zur Heirat habe, da ich doch durch ihren
+              Beweis dazu verbunden bin.",negative,emotions of rejection,"hate, disgust"
+397,GerDracor/gellert-die-zaertlichen-schwestern.xml,29858,29913,Ich habe noch etliche Anstalten in der Küche zu machen.,negative,emotions of fear,anger
+398,GerDracor/gellert-die-zaertlichen-schwestern.xml,29914,29927,Der Magister.,negative,emotional movement,emotional movement
+399,GerDracor/gellert-die-zaertlichen-schwestern.xml,29928,29934,Cleon.,emotional movement,emotional movement,emotional movement
+400,GerDracor/gellert-die-zaertlichen-schwestern.xml,29935,30001,Ich habe deiner Tochter Julchen alle mögliche Vorstellungen getan.,positive,emotions of affection,love
+401,GerDracor/gellert-die-zaertlichen-schwestern.xml,30002,30078,"Ich habe mit der
+              größten Selbstverleugnung mit ihr gesprochen.",negative,emotions of affection,suffering
+402,GerDracor/gellert-die-zaertlichen-schwestern.xml,30079,30249,"Ich habe ihr die stärksten Beweise
+              angeführt; aber ... O hättest du ihr lieber ein paar Exempel von glücklich verheirateten Mädchen
+              angeführt.",emotional movement,emotions of suffering,joy
+403,GerDracor/gellert-die-zaertlichen-schwestern.xml,30250,30330,Sie widersprach mir mehr als einmal; aber ich kam nicht aus meiner Gelassenheit.,emotional movement,emotional movement,emotional movement
+404,GerDracor/gellert-die-zaertlichen-schwestern.xml,30331,30397,"Ich
+              erwies ihr, daß sie verbunden wäre, zu heiraten.",positive,emotions of affection,love
+405,GerDracor/gellert-die-zaertlichen-schwestern.xml,30398,30426,Du hast dir viel Mühe geben.,positive,emotions of affection,admiration
+406,GerDracor/gellert-die-zaertlichen-schwestern.xml,30427,30553,"Ich denke, wenn ein Mädchen achtzehn Jahre alt ist: so
+              wird sie nicht viel wider diesen Beweis einwenden können.",positive,emotions of joy,anger
+407,GerDracor/gellert-die-zaertlichen-schwestern.xml,30554,30576,Julchen sah alles ein.,negative,emotions of rejection,anger
+408,GerDracor/gellert-die-zaertlichen-schwestern.xml,30577,30609,Ich machte es ihr sehr deutlich.,negative,emotions of rejection,anger
+409,GerDracor/gellert-die-zaertlichen-schwestern.xml,30610,30787,"Denn wenn man mit Ungelehrten
+              zu tun hat, die nicht abstrakt denken können: so muß man sich herunterlassen und das
+              Ingenium zuweilen zu Hülfe nehmen.",negative,emotions of rejection,anger
+410,GerDracor/gellert-die-zaertlichen-schwestern.xml,30788,30846,Aber wie weit hast du Julchen durch deine Gründe gebracht?,emotional movement,emotional movement,emotional movement
+411,GerDracor/gellert-die-zaertlichen-schwestern.xml,30847,30895,"Will sie den Herrn Damis
+              heiraten?",positive,emotional movement,love
+412,GerDracor/gellert-die-zaertlichen-schwestern.xml,30896,30944,Hat sie denn ihre Herzensmeinung nicht verraten?,positive,emotions of affection,love
+413,GerDracor/gellert-die-zaertlichen-schwestern.xml,30945,31020,"Ich kann ja den
+              rechtschaffenen  Sie sagte, sie wäre unruhig.",emotional movement,emotional movement,emotional movement
+414,GerDracor/gellert-die-zaertlichen-schwestern.xml,31021,31046,Und das war eben schlimm.,negative,emotions of suffering,suffering
+415,GerDracor/gellert-die-zaertlichen-schwestern.xml,31047,31158,"Denn die Gründe der
+              Philosophie fordern ein ruhiges Herz, wenn sie die Überzeugung wirken sollen.",negative,emotional movement,emotional movement
+416,GerDracor/gellert-die-zaertlichen-schwestern.xml,31159,31262,"Wenn der
+              Verstand durch die Triebe des Willens bestürmt wird: so ist er nicht aufmerksam.",emotional movement,emotional movement,emotional movement
+417,GerDracor/gellert-die-zaertlichen-schwestern.xml,31263,31355,"Und
+              ohne Aufmerksamkeit sind die schärfsten Beweise nichts als stumpfe Pfeile.",negative,emotions of rejection,"hate, disgust"
+418,GerDracor/gellert-die-zaertlichen-schwestern.xml,31356,31381,Rede nicht so tiefsinnig.,emotional movement,emotions of rejection,suffering
+419,GerDracor/gellert-die-zaertlichen-schwestern.xml,31382,31488,"Du hättest sie eben sollen ruhig machen: so sähe ich den
+              Nutzen von deiner Geschicklichkeit.",negative,emotions of affection,anger
+420,GerDracor/gellert-die-zaertlichen-schwestern.xml,31489,31509,Ich versuchte alles.,negative,emotional movement,suffering

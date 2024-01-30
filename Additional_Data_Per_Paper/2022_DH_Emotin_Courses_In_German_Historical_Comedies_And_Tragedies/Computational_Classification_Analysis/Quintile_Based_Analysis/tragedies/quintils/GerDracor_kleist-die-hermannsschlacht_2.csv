@@ -1,0 +1,514 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+507,GerDracor/kleist-die-hermannsschlacht.xml,31595,31617,Hermann und Eginhardt.,emotional movement,emotional movement,emotional movement
+508,GerDracor/kleist-die-hermannsschlacht.xml,31618,31687,"Hast du mir den geheimen Boten An Marbod, Fürst von Suevien, besorgt?",emotional movement,emotional movement,emotional movement
+509,GerDracor/kleist-die-hermannsschlacht.xml,31688,31710,Er steht im Vorgemach.,negative,emotions of suffering,suffering
+510,GerDracor/kleist-die-hermannsschlacht.xml,31711,31722,Wer ist es?,emotional movement,emotional movement,emotional movement
+511,GerDracor/kleist-die-hermannsschlacht.xml,31723,31768,"Mein Fürst und Herr, es ist mein eigner Sohn!",positive,emotions of joy,joy
+512,GerDracor/kleist-die-hermannsschlacht.xml,31769,31843,Ich konnte keinen Schlechteren Für diese wicht'ge Botschaft dir bestellen.,negative,emotions of affection,"hate, disgust"
+513,GerDracor/kleist-die-hermannsschlacht.xml,31844,31859,Ruf ihn herein!,negative,emotions of rejection,anger
+514,GerDracor/kleist-die-hermannsschlacht.xml,31860,31880,"Luitogar, erscheine!",negative,emotions of joy,fear
+515,GerDracor/kleist-die-hermannsschlacht.xml,31881,31899,Luitgar tritt auf.,positive,emotional movement,emotional movement
+516,GerDracor/kleist-die-hermannsschlacht.xml,31900,31914,– Die Vorigen.,negative,emotions of rejection,anger
+517,GerDracor/kleist-die-hermannsschlacht.xml,31915,32001,"Du bist entschlossen, hör ich, Luitgar, An Marbod heimlich eine Botschaft zu besorgen?",negative,emotions of rejection,anger
+518,GerDracor/kleist-die-hermannsschlacht.xml,32002,32029,"Ich bin's, mein hoher Herr.",positive,emotions of joy,joy
+519,GerDracor/kleist-die-hermannsschlacht.xml,32030,32122,"Kann ich gewiß sein, Daß das, was ich dir anvertraue, Vor morgen nacht in seinen Händen ist?",negative,emotions of affection,friendship
+520,GerDracor/kleist-die-hermannsschlacht.xml,32123,32204,"Mein Fürst, so sicher, als ich morgen lebe, So sicher auch ist es ihm überbracht.",positive,emotions of joy,joy
+521,GerDracor/kleist-die-hermannsschlacht.xml,32205,32209,Gut.,positive,emotions of joy,joy
+522,GerDracor/kleist-die-hermannsschlacht.xml,32210,32389,"– Meine beide blonden Jungen wirst du, Den Rinold und den Adelhart, Empfangen, einen Dolch, und dieses Schreiben hier, Dem Marbod, Herrn des Suevenreiches, Von mir zu überliefern.",negative,emotions of rejection,joy
+523,GerDracor/kleist-die-hermannsschlacht.xml,32390,32695,"– Die drei Dinge Erklären sich, genau erwogen, selbst, Und einer mündlichen Bestellung braucht es nicht; Doch, um dich in den Stand zu setzen, Sogleich jedwedem Irrtum zu begegnen, Der etwa nicht von mir berechnet wäre, Will ich umständlich, von dem Schritt, Zu dem ich mich entschloß, dir Kenntnis geben.",negative,emotions of rejection,anger
+524,GerDracor/kleist-die-hermannsschlacht.xml,32696,32733,Geruhe deinen Knecht zu unterrichten.,negative,emotions of rejection,anger
+525,GerDracor/kleist-die-hermannsschlacht.xml,32734,32821,"Die Knaben schick ich ihm zuvörderst und den Dolch, Damit dem Brief er Glauben schenke.",negative,emotions of rejection,Schadenfreude
+526,GerDracor/kleist-die-hermannsschlacht.xml,32822,32947,"Wenn irgend in dem Brief ein Arges ist enthalten, Soll er den Dolch sofort ergreifen, Und in der Knaben weiße Brüste drücken.",negative,emotions of rejection,"hate, disgust"
+527,GerDracor/kleist-die-hermannsschlacht.xml,32948,32975,"Wohl, mein erlauchter Herr.",positive,emotions of affection,admiration
+528,GerDracor/kleist-die-hermannsschlacht.xml,32976,33099,"Augustus hat Das Angebot der drei Legionen, Die Varus führt, zum Schutze wider Marbod, Zum drittenmal mir heute wiederholt.",positive,emotions of affection,admiration
+529,GerDracor/kleist-die-hermannsschlacht.xml,33100,33187,"Gründe von zwingender Gewalt bestimmten mich, Die Truppen länger nicht mehr abzulehnen.",negative,emotions of affection,admiration
+530,GerDracor/kleist-die-hermannsschlacht.xml,33188,33294,"Sie rücken morgen in Cheruska ein, Und werden, in drei Tagen schon, Am Weserstrom, ins Angesicht ihm sehn.",positive,emotions of fear,Schadenfreude
+531,GerDracor/kleist-die-hermannsschlacht.xml,33295,33511,"Varus will schon am Idus des Augusts (Also am Tag  Hochheil'gen Nornentag, das merk dir wohl), Mit seinem Römerheer die Weser überschiffen, Und Hermann wird, auf  Mit dem Cheruskerheer, zu gleichem Zweck, ihm folgen.",negative,emotions of rejection,Schadenfreude
+532,GerDracor/kleist-die-hermannsschlacht.xml,33512,33602,"An dem Alraunentag, Luitgar, (Also am Tag  Brech ich von Teutoburg mit meinen Scharen auf.",positive,emotions of joy,joy
+533,GerDracor/kleist-die-hermannsschlacht.xml,33603,33779,"Jenseits der Weser wollen wir Vereint auf Marbods Haufen plötzlich fallen; Und wenn wir ihn erdrückt (wie kaum zu zweifeln steht), Soll  Die Oberherrschaft in Germanien werden.",positive,emotions of joy,Schadenfreude
+534,GerDracor/kleist-die-hermannsschlacht.xml,33780,33855,"Ich faß, o Herr, dich und bewundre Schon im voraus, was noch erfolgen wird.",positive,emotions of suffering,love
+535,GerDracor/kleist-die-hermannsschlacht.xml,33856,34019,"Ich weiß inzwischen, daß Augustus sonst  Mir ist von guter Hand bekannt, Daß Varus heimlich ihn mit Geld, Und Waffen selbst versehn, mich aus dem Feld zu schlagen.",negative,emotions of rejection,"hate, disgust"
+536,GerDracor/kleist-die-hermannsschlacht.xml,34020,34269,"Das Schicksal Deutschlands lehrt nur allzudeutlich mich, Daß Augusts letzte Absicht sei, Uns beide, mich wie ihn, zugrund zu richten, Und wenn er, Marbod, wird vernichtet sein, Der Suevenfürst, so fühl ich lebhaft, Wird an Arminius die Reihe kommen.",negative,emotions of rejection,suffering
+537,GerDracor/kleist-die-hermannsschlacht.xml,34270,34311,"Du kennst, ich seh, die Zeit, wie wenige.",negative,emotions of suffering,love
+538,GerDracor/kleist-die-hermannsschlacht.xml,34312,34676,"Da ich nun –  Weit lieber einem Deutschen mich, Als einem Römer unterwerfen will: Von allen Fürsten Deutschlands aber  Marbod, um seiner Macht, und seines Edelmuts, Der Thron am unzweideutigsten gebührt: So unterwerf ich mich hiermit demselben, Als meinem Herrn und hohen König, Und zahl ihm den Tribut, Luitogar, den er Durch einen Herold, jüngst mir abgefordert.",positive,emotions of affection,admiration
+539,GerDracor/kleist-die-hermannsschlacht.xml,34677,34686,betreten.,negative,emotional movement,emotional movement
+540,GerDracor/kleist-die-hermannsschlacht.xml,34687,34713,"Wie, mein erlauchter Herr!",emotional movement,emotional movement,emotional movement
+541,GerDracor/kleist-die-hermannsschlacht.xml,34714,34734,Hört ich auch recht?,positive,emotions of joy,anger
+542,GerDracor/kleist-die-hermannsschlacht.xml,34735,34752,Du unterwirfst –?,negative,emotional movement,emotional movement
+543,GerDracor/kleist-die-hermannsschlacht.xml,34753,34780,"Ich bitte dich, mein Vater!",negative,emotions of fear,fear
+544,GerDracor/kleist-die-hermannsschlacht.xml,34781,34830,"Eginhardt winkt ihm, ehrfurchtsvoll zu schweigen.",negative,emotions of rejection,anger
+545,GerDracor/kleist-die-hermannsschlacht.xml,34831,34965,"Dagegen, hoff ich, übernimmt nun er, Als Deutschlands Oberherrscher, die Verpflichtung, Das Vaterland von dem Tyrannenvolk zu säubern.",negative,emotions of rejection,admiration
+546,GerDracor/kleist-die-hermannsschlacht.xml,34966,35088,"Er wird den Römeradler länger nicht Um einen Tag, steht es in seiner Macht, Auf Hermanns, seines Knechts, Gefilden dulden.",negative,emotions of rejection,"hate, disgust"
+547,GerDracor/kleist-die-hermannsschlacht.xml,35089,35260,"Und da der Augenblick sich eben günstig zeigt, Dem Varus, eh der Mond noch wechselte, Das Grab in dem Cheruskerland zu graben,  In Ehrfurcht ihm den Kriegsplan vorzulegen.",positive,emotions of affection,admiration
+548,GerDracor/kleist-die-hermannsschlacht.xml,35261,35337,"Jetzt merk wohl auf, Luitogar, Und laß kein Wort Arminius' dir entschlüpfen.",negative,emotions of rejection,anger
+549,GerDracor/kleist-die-hermannsschlacht.xml,35338,35349,Mein Vater!,emotional movement,emotional movement,emotional movement
+550,GerDracor/kleist-die-hermannsschlacht.xml,35350,35405,Meine Brust ist Erz Und ein Demantengriffel seine Rede!,negative,emotions of affection,love
+551,GerDracor/kleist-die-hermannsschlacht.xml,35406,35452,Der Plan ist einfach und begreift sich leicht.,positive,emotions of rejection,emotional movement
+552,GerDracor/kleist-die-hermannsschlacht.xml,35453,35572,"– Varus kommt, in der Nacht der düsteren Alraunen, Im Teutoburger Walde an, Der zwischen mir liegt und der Weser Strom.",negative,emotions of suffering,suffering
+553,GerDracor/kleist-die-hermannsschlacht.xml,35573,35728,"Er denkt am folgenden, dem Tag der letzten Nornen, Des Stroms Gestade völlig zu erreichen, Um, an dem Idus des Augusts, Mit seinem Heer darüberhin zu gehn.",positive,emotions of joy,joy
+554,GerDracor/kleist-die-hermannsschlacht.xml,35729,35851,"Nun aber überschifft, am Tag schon der Alraunen, Marbod der Weser Strom und rückt Ihm bis zum Wald von Teutoburg entgegen.",positive,emotions of fear,fear
+555,GerDracor/kleist-die-hermannsschlacht.xml,35852,35975,"Am gleichen Tag brech ich, dem Heer des Varus folgend, Aus meinem Lager auf, und rücke Von hinten ihm zu diesem Walde nach.",negative,emotions of fear,fear
+556,GerDracor/kleist-die-hermannsschlacht.xml,35976,36113,"Wenn nun der Tag der Nornen purpurn Des Varus Zelt bescheint, so siehst du, Freund Luitgar, Ist ihm der Lebensfaden schon durchschnitten.",positive,emotions of suffering,suffering
+557,GerDracor/kleist-die-hermannsschlacht.xml,36114,36373,"Denn nun fällt Marbod ihn von vorn, Von hinten ich ihn grimmig an, Erdrückt wird er von unsrer Doppelmacht: Und keine andre Sorge bleibt uns, Als die nur, eine Handvoll Römer zu verschonen; Die, von dem Fall der übrigen, Die Todespost an den Augustus bringen.",negative,emotions of fear,despair
+558,GerDracor/kleist-die-hermannsschlacht.xml,36374,36402,– Ich denk der Plan ist gut.,positive,emotions of joy,joy
+559,GerDracor/kleist-die-hermannsschlacht.xml,36403,36426,"Was meinst du, Luitgar?",emotional movement,emotional movement,emotional movement
+560,GerDracor/kleist-die-hermannsschlacht.xml,36427,36437,O Hermann!,emotional movement,emotions of suffering,suffering
+561,GerDracor/kleist-die-hermannsschlacht.xml,36438,36476,Wodan hat ihn selbst dir zugeflüstert!,positive,emotions of rejection,love
+562,GerDracor/kleist-die-hermannsschlacht.xml,36477,36561,"Sieh, wenn du den Cheruskern ihn wirst nennen, Sie werden, was sie nimmer tun, Sieg!",positive,emotions of joy,admiration
+563,GerDracor/kleist-die-hermannsschlacht.xml,36562,36602,vor dem ersten Keulenschlag schon rufen!,negative,emotions of rejection,anger
+564,GerDracor/kleist-die-hermannsschlacht.xml,36603,36610,Wohlan!,positive,emotions of suffering,joy
+565,GerDracor/kleist-die-hermannsschlacht.xml,36611,36734,"In dem Vertraun itzt, das ich hege,  Nach seiner höhren Weisheit billigen, Nimmt er für mich die Kraft nun des Gesetzes an.",positive,emotions of affection,admiration
+566,GerDracor/kleist-die-hermannsschlacht.xml,36735,36874,"An dem Alraunentag rück ich nunmehr so fehllos, Als wär es sein Gebot, aus meinem Lager aus, Und steh, am Nornentag, vorm Teutoburger Wald.",negative,emotions of rejection,suffering
+567,GerDracor/kleist-die-hermannsschlacht.xml,36875,36952,"Ihm aber – überlaß ich es in Ehrfurcht, Nach dem Entwurf, das Seinige zu tun.",positive,emotions of affection,admiration
+568,GerDracor/kleist-die-hermannsschlacht.xml,36953,36974,– Hast du verstanden?,negative,emotions of rejection,anger
+569,GerDracor/kleist-die-hermannsschlacht.xml,36975,37002,"Wohl, mein erlauchter Herr.",positive,emotions of affection,admiration
+570,GerDracor/kleist-die-hermannsschlacht.xml,37003,37109,"Sobald wir über Varus' Leiche uns Begegnet – beug ich ein Knie vor ihm, Und harre seines weiteren Befehls.",negative,emotions of fear,admiration
+571,GerDracor/kleist-die-hermannsschlacht.xml,37110,37147,"– Weißt du noch sonst was, Eginhardt?",negative,emotional movement,emotional movement
+572,GerDracor/kleist-die-hermannsschlacht.xml,37148,37170,"Nichts, mein Gebieter.",negative,emotions of fear,admiration
+573,GerDracor/kleist-die-hermannsschlacht.xml,37171,37188,"Oder du, Luitgar?",negative,emotional movement,emotional movement
+574,GerDracor/kleist-die-hermannsschlacht.xml,37189,37197,zögernd.,emotional movement,emotional movement,emotional movement
+575,GerDracor/kleist-die-hermannsschlacht.xml,37198,37240,"Nichts mindestens, das von Bedeutung wäre.",negative,emotional movement,emotional movement
+576,GerDracor/kleist-die-hermannsschlacht.xml,37241,37285,– Laß deiner Weisheit ganz mich unterwerfen.,positive,emotions of affection,admiration
+577,GerDracor/kleist-die-hermannsschlacht.xml,37286,37292,– Nun?,negative,emotional movement,emotional movement
+578,GerDracor/kleist-die-hermannsschlacht.xml,37293,37415,"Sag's nur dreist heraus, du siehst so starr Auf diese kleine Rolle nieder, Als hättst du nicht das Herz, sie zu ergreifen.",negative,emotions of rejection,"hate, disgust"
+579,GerDracor/kleist-die-hermannsschlacht.xml,37416,37513,"Mein Fürst, die Warheit dir zu sagen, Die Möglichkeit, daß mich ein Unfall träf, erschreckt mich.",negative,emotions of fear,fear
+580,GerDracor/kleist-die-hermannsschlacht.xml,37514,37570,"Laß uns, in keinem Stück, der Gunst des Glücks vertraun.",positive,emotions of suffering,suffering
+581,GerDracor/kleist-die-hermannsschlacht.xml,37571,37729,"Vergönne mir, ich bitte dich, Zwei Freund ins Lager Marbods mitzunehmen, Damit, wenn  Ein andrer, und ein dritter noch, Das Blatt in seine Hände bringen kann.",positive,emotions of affection,friendship
+582,GerDracor/kleist-die-hermannsschlacht.xml,37730,37754,"Nichts, nichts, Luitgar!",negative,emotions of suffering,emotional movement
+583,GerDracor/kleist-die-hermannsschlacht.xml,37755,37782,Welch ein Wort entfiel dir?,negative,emotional movement,emotional movement
+584,GerDracor/kleist-die-hermannsschlacht.xml,37783,37832,Wer wollte die gewalt'gen Götter Also versuchen?!,positive,emotions of fear,"hate, disgust"
+585,GerDracor/kleist-die-hermannsschlacht.xml,37833,37892,"Meinst du, es ließe Das große Werk sich ohne sie vollziehn?",positive,emotions of affection,admiration
+586,GerDracor/kleist-die-hermannsschlacht.xml,37893,37971,"Als ob ihr Blitz drei Boten minder, Als einen einzelnen, zerschmettern könnte!",negative,emotions of rejection,"hate, disgust"
+587,GerDracor/kleist-die-hermannsschlacht.xml,37973,38020,"Zu spät bei Marbod, oder gar nicht, ein: Sei's!",negative,emotions of rejection,emotional movement
+588,GerDracor/kleist-die-hermannsschlacht.xml,38021,38063,"mein Geschick ist's, das ich tragen werde.",positive,emotions of suffering,suffering
+589,GerDracor/kleist-die-hermannsschlacht.xml,38064,38086,Gib mir die Botschaft!,negative,emotions of fear,fear
+590,GerDracor/kleist-die-hermannsschlacht.xml,38087,38148,"Nur der Tod verhindert, Daß er sie morgen in den Händen hält.",negative,emotions of fear,despair
+591,GerDracor/kleist-die-hermannsschlacht.xml,38149,38154,Komm.,negative,emotions of fear,fear
+592,GerDracor/kleist-die-hermannsschlacht.xml,38155,38177,So gebraucht ich dich.,negative,emotions of affection,love
+593,GerDracor/kleist-die-hermannsschlacht.xml,38178,38245,"Hier ist die Rolle, Und Dolch und Kinder händg' ich gleich dir ein.",negative,emotions of joy,Schadenfreude
+594,GerDracor/kleist-die-hermannsschlacht.xml,38246,38254,Alle ab.,negative,emotional movement,anger
+595,GerDracor/kleist-die-hermannsschlacht.xml,38255,38321,"Szene: Platz vor einem Hügel, auf welchem das Zelt Hermanns steht.",positive,emotional movement,suffering
+596,GerDracor/kleist-die-hermannsschlacht.xml,38322,38431,"Zur Seite eine
+          Eiche, unter welcher ein großes Polster liegt, mit prächtigen Tigerfellen überdeckt.",positive,emotions of affection,admiration
+597,GerDracor/kleist-die-hermannsschlacht.xml,38432,38492,"Im
+          Hintergrunde sieht man die Wohnungen der Horde.",negative,emotions of rejection,anger
+598,GerDracor/kleist-die-hermannsschlacht.xml,38493,38605,"Hermann, Eginhardt, zwei Ältesten der Horde und andere stehen vor dem Zelt und
+            schauen in die Ferne.",emotional movement,emotional movement,emotional movement
+599,GerDracor/kleist-die-hermannsschlacht.xml,38606,38646,"Das ist Thuiskon, was jetzt Feuer griff?",negative,emotions of rejection,anger
+600,GerDracor/kleist-die-hermannsschlacht.xml,38647,38669,"Vergib mir, Herthakon.",negative,emotions of suffering,compassion
+601,GerDracor/kleist-die-hermannsschlacht.xml,38670,38690,"Ja, dort zur Linken.",negative,emotions of rejection,anger
+602,GerDracor/kleist-die-hermannsschlacht.xml,38691,38719,"Der Ort, der brannte längst.",negative,emotions of suffering,despair
+603,GerDracor/kleist-die-hermannsschlacht.xml,38720,38742,"Zur Rechten, mein ich.",positive,emotions of rejection,anger
+604,GerDracor/kleist-die-hermannsschlacht.xml,38743,38766,"Zur Rechten, meinst du.",negative,emotions of rejection,anger
+605,GerDracor/kleist-die-hermannsschlacht.xml,38767,38783,Das ist Helakon.,negative,emotions of joy,admiration
+606,GerDracor/kleist-die-hermannsschlacht.xml,38784,38828,Thuiskon kann man hier vom Platz nicht sehn.,positive,emotions of affection,admiration
+607,GerDracor/kleist-die-hermannsschlacht.xml,38829,38833,Was!,emotional movement,emotional movement,emotional movement
+608,GerDracor/kleist-die-hermannsschlacht.xml,38834,38842,Helakon!,positive,emotions of joy,emotional movement
+609,GerDracor/kleist-die-hermannsschlacht.xml,38843,38868,Das liegt in Asche schon.,negative,emotions of rejection,suffering
+610,GerDracor/kleist-die-hermannsschlacht.xml,38869,38907,"Ich meine, was jetzt eben Feuer griff?",negative,emotional movement,emotional movement
+611,GerDracor/kleist-die-hermannsschlacht.xml,38908,38919,Ganz recht!,positive,emotions of joy,anger
+612,GerDracor/kleist-die-hermannsschlacht.xml,38920,38952,"Das ist Thuiskon, mein Gebieter!",positive,emotions of rejection,joy
+613,GerDracor/kleist-die-hermannsschlacht.xml,38953,38995,Die Flamme schlägt jetzt übern Wald empor.,negative,emotions of fear,love
+614,GerDracor/kleist-die-hermannsschlacht.xml,38996,39004,– Pause.,emotional movement,emotional movement,emotional movement
+615,GerDracor/kleist-die-hermannsschlacht.xml,39005,39048,"Auf diesem Weg rückt, dünkt mich, Varus an?",negative,emotions of rejection,emotional movement
+616,GerDracor/kleist-die-hermannsschlacht.xml,39049,39055,Varus?,emotional movement,emotional movement,emotional movement
+617,GerDracor/kleist-die-hermannsschlacht.xml,39056,39063,Vergib.,negative,emotions of suffering,suffering
+618,GerDracor/kleist-die-hermannsschlacht.xml,39064,39089,Von deinem Jagdhaus Orla.,positive,emotions of rejection,"hate, disgust"
+619,GerDracor/kleist-die-hermannsschlacht.xml,39090,39130,"Das ist der Ort, wo heut er übernachtet.",negative,emotions of rejection,anger
+620,GerDracor/kleist-die-hermannsschlacht.xml,39131,39151,"Ja, Varus in Person.",positive,emotions of rejection,emotional movement
+621,GerDracor/kleist-die-hermannsschlacht.xml,39152,39202,"Doch die drei Haufen, Die er ins Land mir führt –?",negative,emotions of rejection,suffering
+622,GerDracor/kleist-die-hermannsschlacht.xml,39203,39214,vortretend.,emotional movement,emotional movement,emotional movement
+623,GerDracor/kleist-die-hermannsschlacht.xml,39215,39276,"Die ziehn, mein König, Durch Thuiskon, Helakon und Herthakon.",positive,emotions of joy,admiration
+624,GerDracor/kleist-die-hermannsschlacht.xml,39277,39283,Pause.,emotional movement,emotional movement,emotional movement
+625,GerDracor/kleist-die-hermannsschlacht.xml,39284,39318,indem er vom Hügel herabschreitet.,positive,emotions of rejection,suffering
+626,GerDracor/kleist-die-hermannsschlacht.xml,39319,39364,"Man soll aufs beste, will ich, sie empfangen.",positive,emotions of affection,joy
+627,GerDracor/kleist-die-hermannsschlacht.xml,39365,39556,"An Nahrung weder, reichlicher, Wie der Italier sie gewohnt, soll man's Noch auch an Met, an Fellen für die Nacht, Noch irgend sonst, wie sie auch heiße, An einer Höflichkeit gebrechen lassen.",positive,emotions of affection,anger
+628,GerDracor/kleist-die-hermannsschlacht.xml,39557,39725,"Denn meine guten Freunde sind's, Von August mir gesandt, Cheruska zu beschirmen, Und das Gesetz der Dankbarkeit erfodert, Nichts, was sie mir verbinden kann, zu sparen.",positive,emotions of affection,friendship
+629,GerDracor/kleist-die-hermannsschlacht.xml,39726,39808,"Was dein getreuer Lagerplatz besitzt, Das zweifle nicht, wird er den Römern geben.",positive,emotions of rejection,joy
+630,GerDracor/kleist-die-hermannsschlacht.xml,39809,39852,"Warum auch soll er warten, bis man's nimmt?",emotional movement,emotions of affection,anger
+631,GerDracor/kleist-die-hermannsschlacht.xml,39853,39899,Drei Hauptleute treten eilig nacheinander auf.,negative,emotional movement,emotional movement
+632,GerDracor/kleist-die-hermannsschlacht.xml,39900,39932,– Die Vorigen indem er auftritt.,positive,emotions of affection,emotional movement
+633,GerDracor/kleist-die-hermannsschlacht.xml,39933,40019,"Mein Fürst, die ungeheueren Unordnungen, die sich dies Römerheer erlaubt, Beim Himmel!",negative,emotions of suffering,emotional movement
+634,GerDracor/kleist-die-hermannsschlacht.xml,40020,40046,übersteigen allen Glauben.,positive,emotions of fear,admiration
+635,GerDracor/kleist-die-hermannsschlacht.xml,40047,40159,"Drei deiner blühndsten Plätze sind geplündert, Entflohn die Horden, alle Hütten und Gezelte – Die unerhörte Tat!",negative,emotions of rejection,despair
+636,GerDracor/kleist-die-hermannsschlacht.xml,40160,40187,– den Flammen preisgegeben!,negative,emotions of fear,fear
+637,GerDracor/kleist-die-hermannsschlacht.xml,40188,40209,heimlich und freudig.,positive,emotions of joy,joy
+638,GerDracor/kleist-die-hermannsschlacht.xml,40210,40229,"Geh, geh, Siegrest!",negative,emotions of fear,fear
+639,GerDracor/kleist-die-hermannsschlacht.xml,40230,40258,"Spreng aus, es wären sieben!",positive,emotions of rejection,fear
+640,GerDracor/kleist-die-hermannsschlacht.xml,40259,40263,Was?,emotional movement,emotional movement,emotional movement
+641,GerDracor/kleist-die-hermannsschlacht.xml,40264,40288,– Was gebeut mein König?,negative,emotional movement,emotional movement
+642,GerDracor/kleist-die-hermannsschlacht.xml,40289,40326,Hermann sagt – Er nimmt ihn beiseite.,negative,emotions of rejection,suffering
+643,GerDracor/kleist-die-hermannsschlacht.xml,40327,40367,Dort kommt ein neuer Unglücksbote schon!,negative,emotions of rejection,despair
+644,GerDracor/kleist-die-hermannsschlacht.xml,40368,40378,tritt auf.,emotional movement,emotional movement,emotional movement
+645,GerDracor/kleist-die-hermannsschlacht.xml,40379,40468,"Mein Fürst, man schickt von Herthakon mich her, Dir eine gräßliche Begebenheit zu melden!",negative,emotions of suffering,suffering
+646,GerDracor/kleist-die-hermannsschlacht.xml,40469,40705,"Ein Römer ist, in diesem armen Ort, Mit einer Wöchnerin in Streit geraten, Und hat, da sie den Vater rufen wollte, Das Kind, das sie am Busen trug, ergriffen, Des Kindes Schädel, die Hyäne, rasend An seiner Mutter Schädel eingeschlagen.",negative,emotions of rejection,anger
+647,GerDracor/kleist-die-hermannsschlacht.xml,40706,40835,"Die Feldherrn, denen man die Greueltat gemeldet, Die Achseln haben sie gezuckt, die Leichen In eine Grube heimlich werfen lassen.",negative,emotions of rejection,anger
+648,GerDracor/kleist-die-hermannsschlacht.xml,40836,40843,ebenso.,negative,emotions of suffering,anger
+649,GerDracor/kleist-die-hermannsschlacht.xml,40844,40848,Geh!,negative,emotions of rejection,fear
+650,GerDracor/kleist-die-hermannsschlacht.xml,40849,40856,Fleuch!,negative,emotions of suffering,anger
+651,GerDracor/kleist-die-hermannsschlacht.xml,40857,40889,"Verbreit es in dem Platz, Govin!",negative,emotions of rejection,"hate, disgust"
+652,GerDracor/kleist-die-hermannsschlacht.xml,40890,40970,"Versichere von mir, den Vater hätten sie Lebendig, weil er zürnte, nachgeworfen!",negative,emotions of rejection,anger
+653,GerDracor/kleist-die-hermannsschlacht.xml,40971,40975,Wie?,emotional movement,emotional movement,emotional movement
+654,GerDracor/kleist-die-hermannsschlacht.xml,40976,40997,Mein erlauchter Herr!,positive,emotions of affection,admiration
+655,GerDracor/kleist-die-hermannsschlacht.xml,40998,41017,nimmt ihn beim Arm.,positive,emotions of affection,joy
+656,GerDracor/kleist-die-hermannsschlacht.xml,41018,41067,Ich will dir sagen – Er spricht heimlich mit ihm.,negative,emotions of rejection,anger
+657,GerDracor/kleist-die-hermannsschlacht.xml,41068,41080,Beim Himmel!,negative,emotional movement,emotional movement
+658,GerDracor/kleist-die-hermannsschlacht.xml,41081,41111,Da erscheint der dritte schon!,positive,emotions of joy,joy
+659,GerDracor/kleist-die-hermannsschlacht.xml,41112,41122,tritt auf.,emotional movement,emotional movement,emotional movement
+660,GerDracor/kleist-die-hermannsschlacht.xml,41123,41213,"Mein Fürst, du mußt, wenn du die Gnade haben willst, Verzuglos dich nach Helakon verfügen.",negative,emotions of suffering,suffering
+661,GerDracor/kleist-die-hermannsschlacht.xml,41214,41342,"Die Römer fällten dort, man sagt mir, aus Versehen, Der tausendjähr'gen Eichen eine, Dem Wodan, in dem Hain der Zukunft, heilig.",positive,emotions of affection,admiration
+662,GerDracor/kleist-die-hermannsschlacht.xml,41343,41479,"Ganz Helakon hierauf, Thuiskon, Herthakon, Und alles, was den Kreis bewohnt, Mit Spieß und Schwert stand auf, die Götter zu verteid'gen.",positive,emotions of affection,admiration
+663,GerDracor/kleist-die-hermannsschlacht.xml,41481,41615,"Die Römer plötzlich alle Läger an: Das Volk, so schwer bestraft, zerstreute jammernd sich, Und heult jetzt um die Asche seiner Hütten.",negative,emotions of suffering,suffering
+664,GerDracor/kleist-die-hermannsschlacht.xml,41616,41665,"– Komm, bitt ich dich, und steure der Verwirrung.",negative,emotional movement,fear
+665,GerDracor/kleist-die-hermannsschlacht.xml,41666,41681,"Gleich, gleich!",negative,emotional movement,emotional movement
+666,GerDracor/kleist-die-hermannsschlacht.xml,41682,41797,"– Man hat mir hier gesagt, Die Römer hätten die Gefangenen gezwungen, Zeus, ihrem Greulgott, in den Staub zu knien?",negative,emotions of rejection,"hate, disgust"
+667,GerDracor/kleist-die-hermannsschlacht.xml,41798,41841,"Nein, mein Gebieter, davon weiß ich nichts.",positive,emotional movement,emotional movement
+668,GerDracor/kleist-die-hermannsschlacht.xml,41842,41848,Nicht?,negative,emotions of joy,emotional movement
+669,GerDracor/kleist-die-hermannsschlacht.xml,41849,41855,Nicht?,negative,emotions of joy,emotional movement
+670,GerDracor/kleist-die-hermannsschlacht.xml,41856,41891,– Ich hab es von dir selbst gehört!,negative,emotions of rejection,anger
+671,GerDracor/kleist-die-hermannsschlacht.xml,41892,41896,Wie?,emotional movement,emotional movement,emotional movement
+672,GerDracor/kleist-die-hermannsschlacht.xml,41897,41901,Was?,emotional movement,emotional movement,emotional movement
+673,GerDracor/kleist-die-hermannsschlacht.xml,41902,41914,in den Bart.,negative,emotions of rejection,anger
+674,GerDracor/kleist-die-hermannsschlacht.xml,41915,41919,Wie!,emotional movement,emotional movement,emotional movement
+675,GerDracor/kleist-die-hermannsschlacht.xml,41920,41924,Was!,emotional movement,emotional movement,emotional movement
+676,GerDracor/kleist-die-hermannsschlacht.xml,41925,41944,Die deutschen Uren!,negative,emotions of rejection,emotional movement
+677,GerDracor/kleist-die-hermannsschlacht.xml,41945,41987,"– Bedeut ihm, was die List sei, Eginhardt.",negative,emotions of rejection,anger
+678,GerDracor/kleist-die-hermannsschlacht.xml,41988,42012,"Versteh, Freund Ottokar!",positive,emotional movement,anger
+679,GerDracor/kleist-die-hermannsschlacht.xml,42013,42082,Der König meint – Er nimmt ihn beim Arm und spricht heimlich mit ihm.,positive,emotions of affection,love
+680,GerDracor/kleist-die-hermannsschlacht.xml,42083,42208,"Nun solche Zügellosigkeit, beim hohen Himmel, In Freundes Land noch obenein, Ward doch, seitdem die Welt steht, nicht erlebt!",negative,emotions of suffering,admiration
+681,GerDracor/kleist-die-hermannsschlacht.xml,42209,42240,"Schickt Männer aus, zu löschen!",negative,emotions of rejection,"hate, disgust"
+682,GerDracor/kleist-die-hermannsschlacht.xml,42241,42272,der wieder in die Ferne gesehn.,negative,emotions of suffering,suffering
+683,GerDracor/kleist-die-hermannsschlacht.xml,42273,42288,"Hör, Eginhardt!",negative,emotions of rejection,anger
+684,GerDracor/kleist-die-hermannsschlacht.xml,42289,42330,Was ich dir sagen wollte – Mein Gebieter!,positive,emotions of rejection,anger
+685,GerDracor/kleist-die-hermannsschlacht.xml,42331,42340,heimlich.,negative,emotions of affection,anger
+686,GerDracor/kleist-die-hermannsschlacht.xml,42341,42422,"Hast du ein Häuflein wackrer Leute wohl, Die man zu einer List gebrauchen könnte?",negative,emotions of rejection,anger
+687,GerDracor/kleist-die-hermannsschlacht.xml,42423,42469,"Mein Fürst, die War' ist selten, wie du weißt.",negative,emotions of affection,suffering
+688,GerDracor/kleist-die-hermannsschlacht.xml,42470,42497,"– Was wünschest du, sag an?",negative,emotions of affection,emotional movement
+689,GerDracor/kleist-die-hermannsschlacht.xml,42498,42502,Was?,emotional movement,emotional movement,emotional movement
+690,GerDracor/kleist-die-hermannsschlacht.xml,42503,42515,Hast du sie?,emotional movement,emotional movement,emotional movement
+691,GerDracor/kleist-die-hermannsschlacht.xml,42516,42645,"Nun hör, schick sie dem Varus, Freund, Wenn er zur Weser morgen weiter rückt, Schick sie in Römerkleidern doch vermummt ihm nach.",negative,emotions of affection,Schadenfreude
+692,GerDracor/kleist-die-hermannsschlacht.xml,42646,42743,"Laß sie, ich bitte dich, auf allen Straßen,  Wenn sie's geschickt vollziehn, will ich sie lohnen!",negative,emotions of affection,anger
+693,GerDracor/kleist-die-hermannsschlacht.xml,42744,42770,Du sollst die Leute haben.,negative,emotions of affection,joy
+694,GerDracor/kleist-die-hermannsschlacht.xml,42771,42787,Laß mich machen.,negative,emotions of rejection,anger
+695,GerDracor/kleist-die-hermannsschlacht.xml,42788,42824,Er mischt sich unter die Hauptleute.,negative,emotions of rejection,anger
+696,GerDracor/kleist-die-hermannsschlacht.xml,42825,42854,Thusnelda tritt aus dem Zelt.,negative,emotional movement,fear
+697,GerDracor/kleist-die-hermannsschlacht.xml,42855,42869,– Die Vorigen.,negative,emotions of rejection,anger
+698,GerDracor/kleist-die-hermannsschlacht.xml,42870,42877,heiter.,positive,emotions of joy,joy
+699,GerDracor/kleist-die-hermannsschlacht.xml,42878,42891,"Ei, Thuschen!",emotional movement,emotions of rejection,emotional movement
+700,GerDracor/kleist-die-hermannsschlacht.xml,42892,42897,Sieh!,positive,emotions of suffering,emotional movement
+701,GerDracor/kleist-die-hermannsschlacht.xml,42898,42909,Mein Stern!,positive,emotions of affection,love
+702,GerDracor/kleist-die-hermannsschlacht.xml,42910,42929,Was bringst du mir?,negative,emotions of rejection,anger
+703,GerDracor/kleist-die-hermannsschlacht.xml,42930,42992,"Er sieht wieder, mit vorgeschützter Hand, in die Ferne hinaus.",emotional movement,emotions of fear,fear
+704,GerDracor/kleist-die-hermannsschlacht.xml,42993,43000,Ei nun!,emotional movement,emotional movement,emotional movement
+705,GerDracor/kleist-die-hermannsschlacht.xml,43001,43076,"Die Römer, sagt man, ziehen ein; Die muß Arminius' Frau doch auch begrüßen.",positive,emotions of joy,joy
+706,GerDracor/kleist-die-hermannsschlacht.xml,43077,43090,"Gewiß, gewiß!",positive,emotions of fear,joy
+707,GerDracor/kleist-die-hermannsschlacht.xml,43091,43115,So will's die Artigkeit.,negative,emotions of affection,anger
+708,GerDracor/kleist-die-hermannsschlacht.xml,43116,43194,Doch weit sind sie im Felde noch; Komm her und laß den Zug heran uns plaudern!,negative,emotions of rejection,fear
+709,GerDracor/kleist-die-hermannsschlacht.xml,43195,43245,"Er winkt ihr, sich unter der Eiche niederzulassen.",negative,emotions of joy,anger
+710,GerDracor/kleist-die-hermannsschlacht.xml,43246,43267,den Sitz betrachtend.,emotional movement,emotional movement,emotional movement
+711,GerDracor/kleist-die-hermannsschlacht.xml,43268,43280,Der Sybarit!,negative,emotions of fear,emotional movement
+712,GerDracor/kleist-die-hermannsschlacht.xml,43281,43289,Sieh da!,positive,emotions of joy,emotional movement
+713,GerDracor/kleist-die-hermannsschlacht.xml,43290,43310,Mit seinen Polstern!,negative,emotions of rejection,emotional movement
+714,GerDracor/kleist-die-hermannsschlacht.xml,43311,43333,Schämst du dich nicht?,negative,emotions of rejection,anger
+715,GerDracor/kleist-die-hermannsschlacht.xml,43334,43362,– Wer traf die Anstalt hier?,emotional movement,emotional movement,emotional movement
+716,GerDracor/kleist-die-hermannsschlacht.xml,43363,43385,Sie setzt sich nieder.,negative,emotions of suffering,suffering
+717,GerDracor/kleist-die-hermannsschlacht.xml,43386,43395,"Ja, Kind!",negative,emotions of joy,joy
+718,GerDracor/kleist-die-hermannsschlacht.xml,43396,43432,"Die Zeiten, weißt du, sind entartet.",negative,emotions of rejection,suffering
+719,GerDracor/kleist-die-hermannsschlacht.xml,43433,43514,"– Holla, schafft Wein mir her, ihr Knaben, Damit der Perserschach vollkommen sei!",negative,emotions of rejection,emotional movement
+720,GerDracor/kleist-die-hermannsschlacht.xml,43515,43571,Er läßt sich an Thusneldens Seite nieder und umarmt sie.,positive,emotions of affection,love
+721,GerDracor/kleist-die-hermannsschlacht.xml,43572,43623,"Nun, Herzchen, sprich, wie geht's dir, mein Planet?",positive,emotions of joy,joy
+722,GerDracor/kleist-die-hermannsschlacht.xml,43624,43655,"Was macht Ventidius, dein Mond?",emotional movement,emotional movement,emotional movement
+723,GerDracor/kleist-die-hermannsschlacht.xml,43656,43669,Du sahst ihn?,emotional movement,emotions of affection,emotional movement
+724,GerDracor/kleist-die-hermannsschlacht.xml,43670,43713,Es kommen Knaben und bedienen ihn mit Wein.,negative,emotions of joy,joy
+725,GerDracor/kleist-die-hermannsschlacht.xml,43714,43724,Ventidius?,emotional movement,emotional movement,emotional movement
+726,GerDracor/kleist-die-hermannsschlacht.xml,43725,43740,Der grüßt dich.,positive,emotions of joy,joy
+727,GerDracor/kleist-die-hermannsschlacht.xml,43741,43744,So!,emotional movement,emotional movement,emotional movement
+728,GerDracor/kleist-die-hermannsschlacht.xml,43745,43758,Du sahst ihn?,emotional movement,emotions of affection,emotional movement
+729,GerDracor/kleist-die-hermannsschlacht.xml,43759,43795,Aus meinem Zimmer eben ging er fort!,negative,emotions of rejection,"hate, disgust"
+730,GerDracor/kleist-die-hermannsschlacht.xml,43796,43815,– Sieh mich mal an!,positive,emotions of affection,emotional movement
+731,GerDracor/kleist-die-hermannsschlacht.xml,43816,43820,Nun?,emotional movement,emotional movement,emotional movement
+732,GerDracor/kleist-die-hermannsschlacht.xml,43821,43838,Siehst du nichts?,emotional movement,emotions of affection,fear
+733,GerDracor/kleist-die-hermannsschlacht.xml,43839,43854,"Nein, Thuschen.",positive,emotions of rejection,emotional movement
+734,GerDracor/kleist-die-hermannsschlacht.xml,43855,43862,Nichts?,emotional movement,emotional movement,emotional movement
+735,GerDracor/kleist-die-hermannsschlacht.xml,43863,43874,Gar nichts!,negative,emotions of joy,emotional movement
+736,GerDracor/kleist-die-hermannsschlacht.xml,43875,43894,Nicht das mindeste?,negative,emotions of rejection,emotional movement
+737,GerDracor/kleist-die-hermannsschlacht.xml,43895,43912,"Nein, in der Tat!",emotional movement,emotions of rejection,emotional movement
+738,GerDracor/kleist-die-hermannsschlacht.xml,43913,43931,Was soll ich sehn?,positive,emotional movement,emotional movement
+739,GerDracor/kleist-die-hermannsschlacht.xml,43932,44057,"Nun wahrlich, Wenn Varus auch so blind, wie du, Der Feldherr Roms, den wir erwarten, So war die ganze Mühe doch verschwendet.",negative,emotions of rejection,suffering
+740,GerDracor/kleist-die-hermannsschlacht.xml,44058,44118,"indem er dem Knaben, der ihn bedient, den Becher zurückgibt.",positive,emotions of rejection,anger
+741,GerDracor/kleist-die-hermannsschlacht.xml,44119,44126,"Ja, so!",negative,emotions of suffering,anger
+742,GerDracor/kleist-die-hermannsschlacht.xml,44127,44199,"Du hast, auf meinen Wunsch, den Anzug Heut mehr gewählt, als sonst – So!",positive,emotions of rejection,anger
+743,GerDracor/kleist-die-hermannsschlacht.xml,44200,44213,Mehr gewählt!,positive,emotions of joy,joy
+744,GerDracor/kleist-die-hermannsschlacht.xml,44214,44300,"Geschmückt bin ich, beim hohen Himmel, Daß ich die Straßen Roms durchschreiten könnte!",positive,emotions of joy,joy
+745,GerDracor/kleist-die-hermannsschlacht.xml,44301,44306,Potz!,negative,emotions of rejection,anger
+746,GerDracor/kleist-die-hermannsschlacht.xml,44307,44329,Bei der großen Hertha!,positive,emotions of affection,joy
+747,GerDracor/kleist-die-hermannsschlacht.xml,44330,44336,Schau!,positive,emotions of joy,emotional movement
+748,GerDracor/kleist-die-hermannsschlacht.xml,44337,44347,"– Hör, du!",negative,emotions of rejection,anger
+749,GerDracor/kleist-die-hermannsschlacht.xml,44348,44390,"Wenn ihr den Adler seht, so ruft ihr mich.",positive,emotions of joy,fear
+750,GerDracor/kleist-die-hermannsschlacht.xml,44391,44438,"Der Knabe, der ihn bedient, nickt mit dem Kopf.",negative,emotional movement,anger
+751,GerDracor/kleist-die-hermannsschlacht.xml,44439,44443,Was?,emotional movement,emotional movement,emotional movement
+752,GerDracor/kleist-die-hermannsschlacht.xml,44444,44470,Und Ventidius war bei dir?,emotional movement,emotional movement,emotional movement
+753,GerDracor/kleist-die-hermannsschlacht.xml,44471,44486,"Ja, allerdings.",negative,emotions of joy,anger
+754,GerDracor/kleist-die-hermannsschlacht.xml,44487,44598,"Und zeigte mir am Putztisch, Wie man, in Rom, das Haar sich ordnet, Den Gürtel legt, das Kleid in Falten wirft.",positive,emotions of rejection,anger
+755,GerDracor/kleist-die-hermannsschlacht.xml,44599,44643,"Schau, wie er göttlich dir den Kopf besorgt!",positive,emotions of affection,admiration
+756,GerDracor/kleist-die-hermannsschlacht.xml,44644,44680,"Der Kopf, beim Styx, von einer Juno!",emotional movement,emotions of rejection,"hate, disgust"
+757,GerDracor/kleist-die-hermannsschlacht.xml,44681,44751,"Bis auf das Diadem sogar, Das dir vom Scheitel blitzend niederstrahlt!",positive,emotions of joy,admiration
+758,GerDracor/kleist-die-hermannsschlacht.xml,44752,44828,"Das ist das schöne Prachtgeschenk, Das du aus Rom mir jüngsthin mitgebracht.",positive,emotions of joy,joy
+759,GerDracor/kleist-die-hermannsschlacht.xml,44829,44832,So?,emotional movement,emotional movement,emotional movement
+760,GerDracor/kleist-die-hermannsschlacht.xml,44833,44873,"Der geschnittne Stein, gefaßt in Perlen?",emotional movement,emotional movement,emotional movement
+761,GerDracor/kleist-die-hermannsschlacht.xml,44874,44907,"Ein Pferd war, dünkt mich, drauf?",emotional movement,emotions of rejection,emotional movement
+762,GerDracor/kleist-die-hermannsschlacht.xml,44908,44950,"Ein wildes, ja, Das seinen Reiter abwirft.",emotional movement,emotions of rejection,"hate, disgust"
+763,GerDracor/kleist-die-hermannsschlacht.xml,44951,44978,– Er betrachtet das Diadem.,emotional movement,emotional movement,emotional movement
+764,GerDracor/kleist-die-hermannsschlacht.xml,44979,44994,"Aber, Thuschen!",negative,emotions of rejection,emotional movement
+765,GerDracor/kleist-die-hermannsschlacht.xml,44995,45004,Thuschen.,positive,emotions of rejection,emotional movement
+766,GerDracor/kleist-die-hermannsschlacht.xml,45005,45082,"Wie wirst du aussehn, liebste Frau, Wenn du mit einem kahlen Kopf wirst gehn?",negative,emotions of suffering,suffering
+767,GerDracor/kleist-die-hermannsschlacht.xml,45083,45087,Wer?,emotional movement,emotional movement,emotional movement
+768,GerDracor/kleist-die-hermannsschlacht.xml,45088,45092,Ich?,emotional movement,emotional movement,emotional movement
+769,GerDracor/kleist-die-hermannsschlacht.xml,45093,45100,"Du, ja!",positive,emotions of joy,anger
+770,GerDracor/kleist-die-hermannsschlacht.xml,45101,45177,"– Wenn Marbod erst geschlagen ist, So läuft kein Mond ins Land, beim Himmel!",negative,emotions of fear,despair
+771,GerDracor/kleist-die-hermannsschlacht.xml,45178,45218,Sie scheren dich so kahl wie eine Ratze.,negative,emotions of suffering,"hate, disgust"
+772,GerDracor/kleist-die-hermannsschlacht.xml,45219,45255,"Ich glaub, du träumst, du schwärmst!",positive,emotions of affection,love
+773,GerDracor/kleist-die-hermannsschlacht.xml,45256,45280,Wer wird den Kopf mir –?,negative,emotions of rejection,emotional movement
+774,GerDracor/kleist-die-hermannsschlacht.xml,45281,45285,Wer?,emotional movement,emotional movement,emotional movement
+775,GerDracor/kleist-die-hermannsschlacht.xml,45286,45358,"Ei, Quintilius Varus und die Römer, Mit denen ich alsdann verbunden bin.",positive,emotions of affection,friendship
+776,GerDracor/kleist-die-hermannsschlacht.xml,45359,45369,Die Römer!,negative,emotions of rejection,emotional movement
+777,GerDracor/kleist-die-hermannsschlacht.xml,45370,45374,Was!,emotional movement,emotional movement,emotional movement
+778,GerDracor/kleist-die-hermannsschlacht.xml,45375,45405,"Ja, was zum Henker, denkst du?",emotional movement,emotional movement,emotional movement
+779,GerDracor/kleist-die-hermannsschlacht.xml,45406,45486,"– Die röm'schen Damen müssen doch, Wenn sie sich schmücken, hübsche Haare haben?",negative,emotions of affection,admiration
+780,GerDracor/kleist-die-hermannsschlacht.xml,45487,45528,Nun haben denn die röm'schen Damen keine?,negative,emotions of joy,admiration
+781,GerDracor/kleist-die-hermannsschlacht.xml,45529,45543,"Nein, sag ich!",negative,emotions of rejection,anger
+782,GerDracor/kleist-die-hermannsschlacht.xml,45544,45553,Schwarze!,negative,emotions of rejection,anger
+783,GerDracor/kleist-die-hermannsschlacht.xml,45554,45582,"Schwarz und fett, wie Hexen!",negative,emotions of rejection,"hate, disgust"
+784,GerDracor/kleist-die-hermannsschlacht.xml,45583,45625,"Nicht hübsche, trockne, goldne, so wie du!",negative,emotions of suffering,"hate, disgust"
+785,GerDracor/kleist-die-hermannsschlacht.xml,45626,45633,Wohlan!,positive,emotions of suffering,joy
+786,GerDracor/kleist-die-hermannsschlacht.xml,45634,45647,So mögen sie!,positive,emotions of affection,joy
+787,GerDracor/kleist-die-hermannsschlacht.xml,45648,45667,Der trift'ge Grund!,negative,emotions of rejection,anger
+788,GerDracor/kleist-die-hermannsschlacht.xml,45668,45747,"Wenn sie mit hübschen nicht begabt, So mögen sie mit schmutz'gen sich behelfen.",negative,emotions of rejection,"hate, disgust"
+789,GerDracor/kleist-die-hermannsschlacht.xml,45748,45751,So!,emotional movement,emotional movement,emotional movement
+790,GerDracor/kleist-die-hermannsschlacht.xml,45752,45763,In der Tat!,negative,emotional movement,emotional movement
+791,GerDracor/kleist-die-hermannsschlacht.xml,45764,45826,Da sollen die Kohorten Umsonst wohl übern Rhein gekommen sein?,negative,emotions of rejection,emotional movement
+792,GerDracor/kleist-die-hermannsschlacht.xml,45827,45831,Wer?,emotional movement,emotional movement,emotional movement
+793,GerDracor/kleist-die-hermannsschlacht.xml,45832,45845,Die Kohorten?,emotional movement,emotional movement,emotional movement
+794,GerDracor/kleist-die-hermannsschlacht.xml,45846,45866,"Ja, die Varus führt.",positive,emotions of rejection,Schadenfreude
+795,GerDracor/kleist-die-hermannsschlacht.xml,45867,45873,lacht.,positive,emotions of joy,joy
+796,GerDracor/kleist-die-hermannsschlacht.xml,45874,45892,Das muß ich sagen!,negative,emotions of rejection,anger
+797,GerDracor/kleist-die-hermannsschlacht.xml,45893,45943,Der wird doch Um meiner Haare nicht gekommen sein?,negative,emotions of rejection,"hate, disgust"
+798,GerDracor/kleist-die-hermannsschlacht.xml,45944,45948,Was?,emotional movement,emotional movement,emotional movement
+799,GerDracor/kleist-die-hermannsschlacht.xml,45949,45960,Allerdings!,negative,emotions of suffering,emotional movement
+800,GerDracor/kleist-die-hermannsschlacht.xml,45961,45986,Bei unsrer großen Hertha!,positive,emotions of affection,admiration
+801,GerDracor/kleist-die-hermannsschlacht.xml,45987,46027,Hat dir Ventidius das noch nicht gesagt?,emotional movement,emotions of rejection,anger
+802,GerDracor/kleist-die-hermannsschlacht.xml,46028,46037,"Ach, geh!",negative,emotions of fear,emotional movement
+803,GerDracor/kleist-die-hermannsschlacht.xml,46038,46055,Du bist ein Affe.,negative,emotions of rejection,"hate, disgust"
+804,GerDracor/kleist-die-hermannsschlacht.xml,46056,46078,"Nun, ich schwör's dir.",negative,emotions of affection,friendship
+805,GerDracor/kleist-die-hermannsschlacht.xml,46079,46163,"– Wer war es schon, der jüngst beim Mahl erzählte, Was einer Frau in Ubien begegnet?",negative,emotions of suffering,emotional movement
+806,GerDracor/kleist-die-hermannsschlacht.xml,46164,46168,Wem?,emotional movement,emotional movement,emotional movement
+807,GerDracor/kleist-die-hermannsschlacht.xml,46169,46183,Einer Ubierin?,negative,emotions of rejection,emotional movement
+808,GerDracor/kleist-die-hermannsschlacht.xml,46184,46208,Das weißt du nicht mehr?,emotional movement,emotional movement,emotional movement
+809,GerDracor/kleist-die-hermannsschlacht.xml,46209,46222,"Nein, Lieber!",positive,emotions of affection,love
+810,GerDracor/kleist-die-hermannsschlacht.xml,46223,46299,"– Daß drei Römer sie, meinst du, In Staub gelegt urplötzlich und gebunden –?",negative,emotions of rejection,suffering
+811,GerDracor/kleist-die-hermannsschlacht.xml,46300,46307,Nun ja!,negative,emotions of rejection,anger
+812,GerDracor/kleist-die-hermannsschlacht.xml,46308,46466,"Und ihr nicht bloß, vom Haupt hinweg, Das Haar, das goldene, die Zähne auch, Die elfenbeinernen, mit einem Werkzeug, Auf offner Straße, aus dem Mund genommen?",negative,emotions of rejection,suffering
+813,GerDracor/kleist-die-hermannsschlacht.xml,46467,46476,"Ach, geh!",negative,emotions of fear,emotional movement
+814,GerDracor/kleist-die-hermannsschlacht.xml,46477,46496,Laß mich zufrieden.,positive,emotions of joy,anger
+815,GerDracor/kleist-die-hermannsschlacht.xml,46497,46518,Das glaubst du nicht?,negative,emotions of fear,emotional movement
+816,GerDracor/kleist-die-hermannsschlacht.xml,46519,46528,"Ach, was!",negative,emotions of rejection,emotional movement
+817,GerDracor/kleist-die-hermannsschlacht.xml,46529,46575,"Ventidius hat mir gesagt, Das wär ein Märchen.",emotional movement,emotions of rejection,emotional movement
+818,GerDracor/kleist-die-hermannsschlacht.xml,46576,46588,Ein Märchen!,positive,emotions of joy,joy
+819,GerDracor/kleist-die-hermannsschlacht.xml,46589,46592,So!,emotional movement,emotional movement,emotional movement
+820,GerDracor/kleist-die-hermannsschlacht.xml,46593,46681,"Ventidius hat ganz recht, wahrhaftig, Sein Schäfchen, für die Schurzeit, sich zu kirren.",negative,emotions of joy,anger
+821,GerDracor/kleist-die-hermannsschlacht.xml,46682,46729,"Nun, der wird doch den Kopf mir selber nicht –?",negative,emotions of rejection,anger
+822,GerDracor/kleist-die-hermannsschlacht.xml,46730,46740,Ventidius?,emotional movement,emotional movement,emotional movement
+823,GerDracor/kleist-die-hermannsschlacht.xml,46741,46744,Hm!,emotional movement,emotional movement,emotional movement
+824,GerDracor/kleist-die-hermannsschlacht.xml,46745,46776,"Ich steh für nichts, mein Kind.",negative,emotions of rejection,anger
+825,GerDracor/kleist-die-hermannsschlacht.xml,46777,46783,lacht.,positive,emotions of joy,joy
+826,GerDracor/kleist-die-hermannsschlacht.xml,46784,46788,Was?,emotional movement,emotional movement,emotional movement
+827,GerDracor/kleist-die-hermannsschlacht.xml,46789,46792,Er?,emotional movement,emotional movement,emotional movement
+828,GerDracor/kleist-die-hermannsschlacht.xml,46793,46801,"Er, mir?",emotional movement,emotional movement,emotional movement
+829,GerDracor/kleist-die-hermannsschlacht.xml,46802,46829,"Nun, das muß ich gestehn –!",negative,emotions of rejection,suffering
+830,GerDracor/kleist-die-hermannsschlacht.xml,46830,46840,Du lachst.,negative,emotions of rejection,anger
+831,GerDracor/kleist-die-hermannsschlacht.xml,46841,46848,Es sei.,negative,emotional movement,love
+832,GerDracor/kleist-die-hermannsschlacht.xml,46849,46874,Die Folge wird es lehren.,negative,emotions of rejection,anger
+833,GerDracor/kleist-die-hermannsschlacht.xml,46875,46881,Pause.,emotional movement,emotional movement,emotional movement
+834,GerDracor/kleist-die-hermannsschlacht.xml,46882,46892,ernsthaft.,emotional movement,emotional movement,emotional movement
+835,GerDracor/kleist-die-hermannsschlacht.xml,46893,46974,"Was denn, in aller Welt, was machen sie In Rom, mit diesen Haaren, diesen Zähnen?",emotional movement,emotional movement,emotional movement
+836,GerDracor/kleist-die-hermannsschlacht.xml,46975,47016,"Was du für Fragen tust, so wahr ich lebe!",negative,emotions of affection,anger
+837,GerDracor/kleist-die-hermannsschlacht.xml,47017,47024,Nun ja!,negative,emotions of rejection,anger
+838,GerDracor/kleist-die-hermannsschlacht.xml,47025,47058,"Wie nutzen sie, bei allen Nornen!",emotional movement,emotions of affection,joy
+839,GerDracor/kleist-die-hermannsschlacht.xml,47059,47099,Auf welche Art gebrauchen sie die Dinge?,emotional movement,emotions of rejection,emotional movement
+840,GerDracor/kleist-die-hermannsschlacht.xml,47100,47221,"Sie können doch die fremden Locken nicht An ihre eignen knüpfen, nicht die Zähne Aus ihrem eignen Schädel wachsen machen?",negative,emotions of rejection,"hate, disgust"
+841,GerDracor/kleist-die-hermannsschlacht.xml,47222,47262,Aus ihrem eignen Schädel wachsen machen!,negative,emotions of rejection,"hate, disgust"
+842,GerDracor/kleist-die-hermannsschlacht.xml,47263,47272,Nun also!,negative,emotions of rejection,anger
+843,GerDracor/kleist-die-hermannsschlacht.xml,47273,47291,Wie verfahren sie?,emotional movement,emotional movement,emotional movement
+844,GerDracor/kleist-die-hermannsschlacht.xml,47292,47302,So sprich!,negative,emotions of suffering,love
+845,GerDracor/kleist-die-hermannsschlacht.xml,47303,47313,mit Laune.,positive,emotions of joy,joy
+846,GerDracor/kleist-die-hermannsschlacht.xml,47314,47399,"Die schmutz'gen Haare schneiden sie sich ab, Und hängen unsre trocknen um die Platte!",negative,emotions of rejection,anger
+847,GerDracor/kleist-die-hermannsschlacht.xml,47401,47440,Und stecken unsre weißen in die Lücken!,negative,emotions of joy,"hate, disgust"
+848,GerDracor/kleist-die-hermannsschlacht.xml,47441,47445,Was!,emotional movement,emotional movement,emotional movement
+849,GerDracor/kleist-die-hermannsschlacht.xml,47446,47457,In der Tat!,negative,emotional movement,emotional movement
+850,GerDracor/kleist-die-hermannsschlacht.xml,47458,47488,"Ein Schelm, wenn ich dir lüge.",negative,emotions of rejection,anger
+851,GerDracor/kleist-die-hermannsschlacht.xml,47489,47499,– glühend.,negative,emotions of fear,emotional movement
+852,GerDracor/kleist-die-hermannsschlacht.xml,47500,47523,Bei allen Rachegöttern!,negative,emotions of rejection,"hate, disgust"
+853,GerDracor/kleist-die-hermannsschlacht.xml,47524,47537,Allen Furien!,negative,emotions of rejection,"hate, disgust"
+854,GerDracor/kleist-die-hermannsschlacht.xml,47538,47577,"Bei allem, was die Hölle finster macht!",negative,emotions of rejection,"hate, disgust"
+855,GerDracor/kleist-die-hermannsschlacht.xml,47578,47651,"Mit welchem Recht, wenn dem so ist, Vom Kopf uns aber nehmen sie sie weg?",negative,emotions of rejection,suffering
+856,GerDracor/kleist-die-hermannsschlacht.xml,47652,47703,"Ich weiß nicht, Thuschen, wie du heut dich stellst.",emotional movement,emotional movement,emotional movement
+857,GerDracor/kleist-die-hermannsschlacht.xml,47704,47782,"Steht August nicht, mit den Kohorten, In allen Ländern siegreich aufgepflanzt?",positive,emotions of joy,joy
+858,GerDracor/kleist-die-hermannsschlacht.xml,47783,47825,"Für wen erschaffen ward die Welt, als Rom?",negative,emotions of rejection,emotional movement
+859,GerDracor/kleist-die-hermannsschlacht.xml,47826,47942,"Nimmt August nicht dem Elefanten Das Elfenbein, das Öl der Bisamkatze, Dem Panthertier das Fell, dem Wurm die Seide?",negative,emotions of rejection,"hate, disgust"
+860,GerDracor/kleist-die-hermannsschlacht.xml,47943,47987,Was soll der Deutsche hier zum voraus haben?,emotional movement,emotional movement,anger
+861,GerDracor/kleist-die-hermannsschlacht.xml,47988,48001,sieht ihn an.,emotional movement,emotional movement,emotional movement
+862,GerDracor/kleist-die-hermannsschlacht.xml,48002,48030,Was wir zum voraus sollen –?,negative,emotional movement,emotional movement
+863,GerDracor/kleist-die-hermannsschlacht.xml,48031,48042,Allerdings.,negative,emotions of suffering,suffering
+864,GerDracor/kleist-die-hermannsschlacht.xml,48043,48085,"Daß du verderben müßtest, mit Vernünfteln!",negative,emotions of rejection,anger
+865,GerDracor/kleist-die-hermannsschlacht.xml,48086,48147,"Das sind ja Tiere, Querkopf, der du bist, Und keine Menschen!",negative,emotions of rejection,"hate, disgust"
+866,GerDracor/kleist-die-hermannsschlacht.xml,48148,48157,Menschen!,negative,emotions of suffering,emotional movement
+867,GerDracor/kleist-die-hermannsschlacht.xml,48158,48217,"Ja, mein Thuschen, Was ist der Deutsche in der Römer Augen?",negative,emotions of rejection,emotional movement
+868,GerDracor/kleist-die-hermannsschlacht.xml,48218,48250,"Nun, doch kein Tier, hoff ich –?",negative,emotions of joy,fear
+869,GerDracor/kleist-die-hermannsschlacht.xml,48251,48255,Was?,emotional movement,emotional movement,emotional movement
+870,GerDracor/kleist-die-hermannsschlacht.xml,48256,48311,"– Eine Bestie, Die auf vier Füßen in den Wäldern läuft!",negative,emotions of rejection,"hate, disgust"
+871,GerDracor/kleist-die-hermannsschlacht.xml,48312,48431,"Ein Tier, das, wo der Jäger es erschaut, Just einen Pfeilschuß wert, mehr nicht, Und ausgeweidet und gepelzt dann wird!",negative,emotions of rejection,"hate, disgust"
+872,GerDracor/kleist-die-hermannsschlacht.xml,48432,48468,"Ei, die verwünschte Menschenjägerei!",negative,emotions of rejection,"hate, disgust"
+873,GerDracor/kleist-die-hermannsschlacht.xml,48469,48490,"Ei, der Dämonenstolz!",positive,emotions of rejection,emotional movement
+874,GerDracor/kleist-die-hermannsschlacht.xml,48491,48510,Der Hohn der Hölle!,negative,emotions of rejection,"hate, disgust"
+875,GerDracor/kleist-die-hermannsschlacht.xml,48511,48517,lacht.,positive,emotions of joy,joy
+876,GerDracor/kleist-die-hermannsschlacht.xml,48518,48560,"Nun wird ihr bang, um ihre Zähn und Haare.",negative,emotions of fear,fear
+877,GerDracor/kleist-die-hermannsschlacht.xml,48561,48642,"Ei, daß wir, wie die grimm'gen Eber, doch Uns über diese Schützen werfen könnten!",negative,emotions of rejection,"hate, disgust"
+878,GerDracor/kleist-die-hermannsschlacht.xml,48643,48650,ebenso.,negative,emotions of suffering,anger
+879,GerDracor/kleist-die-hermannsschlacht.xml,48651,48676,Wie sie nur aussehn wird!,negative,emotions of joy,emotional movement
+880,GerDracor/kleist-die-hermannsschlacht.xml,48677,48694,Wie 'n Totenkopf!,negative,emotions of rejection,"hate, disgust"
+881,GerDracor/kleist-die-hermannsschlacht.xml,48695,48733,Und diese Römer nimmst du bei dir auf?,positive,emotions of rejection,emotional movement
+882,GerDracor/kleist-die-hermannsschlacht.xml,48734,48747,"Ja, Thuschen!",negative,emotions of joy,anger
+883,GerDracor/kleist-die-hermannsschlacht.xml,48748,48782,"Liebste Frau, was soll ich machen?",negative,emotional movement,emotional movement
+884,GerDracor/kleist-die-hermannsschlacht.xml,48783,48864,"Soll ich, um deiner gelben Haare, Mit Land und Leut in Kriegsgefahr mich stürzen?",negative,emotions of fear,fear
+885,GerDracor/kleist-die-hermannsschlacht.xml,48865,48881,Um meiner Haare!,negative,emotions of suffering,anger
+886,GerDracor/kleist-die-hermannsschlacht.xml,48882,48886,Was?,emotional movement,emotional movement,emotional movement
+887,GerDracor/kleist-die-hermannsschlacht.xml,48887,48908,Gilt es sonst nichts?,positive,emotions of rejection,emotional movement
+888,GerDracor/kleist-die-hermannsschlacht.xml,48909,48998,"Meinst du, wenn Varus so gestimmt, er werde Das Fell dir um die nackten Schultern lassen?",negative,emotions of affection,Schadenfreude
+889,GerDracor/kleist-die-hermannsschlacht.xml,48999,49022,"Sehr wahr, beim Himmel!",positive,emotions of suffering,emotional movement
+890,GerDracor/kleist-die-hermannsschlacht.xml,49023,49045,Das bedacht ich nicht.,negative,emotions of suffering,joy
+891,GerDracor/kleist-die-hermannsschlacht.xml,49046,49053,Es sei!,positive,emotions of rejection,fear
+892,GerDracor/kleist-die-hermannsschlacht.xml,49054,49086,Ich will die Sach mir überlegen.,negative,emotional movement,anger
+893,GerDracor/kleist-die-hermannsschlacht.xml,49087,49101,Dir überlegen!,negative,emotions of rejection,anger
+894,GerDracor/kleist-die-hermannsschlacht.xml,49102,49127,– Er rücket ja schon ein!,negative,emotions of suffering,fear
+895,GerDracor/kleist-die-hermannsschlacht.xml,49128,49146,"Je nun, mein Kind.",negative,emotions of suffering,suffering
+896,GerDracor/kleist-die-hermannsschlacht.xml,49147,49176,Man schlägt ihn wieder 'naus.,negative,emotions of rejection,anger
+897,GerDracor/kleist-die-hermannsschlacht.xml,49177,49194,Sie sieht ihn an.,emotional movement,emotional movement,emotional movement
+898,GerDracor/kleist-die-hermannsschlacht.xml,49195,49204,"Ach, geh!",negative,emotions of fear,emotional movement
+899,GerDracor/kleist-die-hermannsschlacht.xml,49205,49249,"Ein Geck bist du, ich seh's, und äffst mich!",negative,emotions of rejection,anger
+900,GerDracor/kleist-die-hermannsschlacht.xml,49250,49263,"Nicht, nicht?",negative,emotional movement,emotional movement
+901,GerDracor/kleist-die-hermannsschlacht.xml,49264,49301,Gesteh's mir nur: du scherztest bloß?,negative,emotions of rejection,anger
+902,GerDracor/kleist-die-hermannsschlacht.xml,49302,49311,küßt sie.,positive,emotions of affection,love
+903,GerDracor/kleist-die-hermannsschlacht.xml,49312,49315,Ja.,positive,emotions of joy,anger
+904,GerDracor/kleist-die-hermannsschlacht.xml,49316,49352,"– Mit der Wahrheit, wie ein Abderit.",negative,emotions of suffering,anger
+905,GerDracor/kleist-die-hermannsschlacht.xml,49353,49434,"– Warum soll sich, von seiner Not, Der Mensch, auf muntre Art, nicht unterhalten?",negative,emotions of joy,suffering
+906,GerDracor/kleist-die-hermannsschlacht.xml,49435,49552,"– Die Sach ist zehnmal schlimmer, als ich's machte, Und doch auch, wieder so betrachtet, Bei weitem nicht so schlimm.",negative,emotions of suffering,suffering
+907,GerDracor/kleist-die-hermannsschlacht.xml,49553,49569,– Beruh'ge dich.,negative,emotional movement,anger
+908,GerDracor/kleist-die-hermannsschlacht.xml,49570,49576,Pause.,emotional movement,emotional movement,emotional movement
+909,GerDracor/kleist-die-hermannsschlacht.xml,49577,49619,"Nun, meine goldnen Locken kriegt er nicht!",negative,emotions of joy,suffering
+910,GerDracor/kleist-die-hermannsschlacht.xml,49620,49737,"Die Hand, die in den Mund mir käme, Wie jener Frau, um meiner Zähne: Ich weiß nicht, Hermann, was ich mit ihr machte.",negative,emotions of suffering,love
+911,GerDracor/kleist-die-hermannsschlacht.xml,49738,49744,lacht.,positive,emotions of joy,joy
+912,GerDracor/kleist-die-hermannsschlacht.xml,49745,49780,"Ja, liebste Frau, da hast du recht!",positive,emotions of joy,joy
+913,GerDracor/kleist-die-hermannsschlacht.xml,49781,49789,Beiß zu!,negative,emotions of rejection,anger
+914,GerDracor/kleist-die-hermannsschlacht.xml,49790,49831,Danach wird weder Hund noch Katze krähen.,negative,emotions of rejection,"hate, disgust"
+915,GerDracor/kleist-die-hermannsschlacht.xml,49832,49844,– Doch sieh!,positive,emotions of suffering,suffering
+916,GerDracor/kleist-die-hermannsschlacht.xml,49845,49877,Wer fleucht so eilig dort heran?,negative,emotions of fear,emotional movement
+917,GerDracor/kleist-die-hermannsschlacht.xml,49878,49902,Ein Cherusker tritt auf.,positive,emotions of rejection,admiration
+918,GerDracor/kleist-die-hermannsschlacht.xml,49903,49915,Die Vorigen.,positive,emotions of rejection,emotional movement
+919,GerDracor/kleist-die-hermannsschlacht.xml,49916,49928,Varus kömmt!,emotional movement,emotional movement,fear
+920,GerDracor/kleist-die-hermannsschlacht.xml,49929,49941,erhebt sich.,emotional movement,emotional movement,emotional movement
+921,GerDracor/kleist-die-hermannsschlacht.xml,49942,49946,Was!,emotional movement,emotional movement,emotional movement
+922,GerDracor/kleist-die-hermannsschlacht.xml,49947,49965,Der Feldherr Roms!,positive,emotions of affection,admiration
+923,GerDracor/kleist-die-hermannsschlacht.xml,49966,49976,Unmöglich!,negative,emotions of fear,fear
+924,GerDracor/kleist-die-hermannsschlacht.xml,49977,50054,"Wer war's, der mir von seinem Einzug In Teutoburg die Nachricht geben wollte?",emotional movement,emotional movement,emotional movement
+925,GerDracor/kleist-die-hermannsschlacht.xml,50055,50071,Varus tritt auf.,emotional movement,emotions of rejection,emotional movement
+926,GerDracor/kleist-die-hermannsschlacht.xml,50072,50218,"Ihm folgen Ventidius, der Legat; Crassus und Septimius, zwei
+            römische Hauptleute; und die deutschen Fürsten Fust, Gueltar und Aristan.",emotional movement,emotions of rejection,admiration
+927,GerDracor/kleist-die-hermannsschlacht.xml,50219,50245,"– Die
+            Vorigen.",negative,emotions of rejection,anger
+928,GerDracor/kleist-die-hermannsschlacht.xml,50246,50272,indem er ihm entgegengeht.,positive,emotions of affection,fear
+929,GerDracor/kleist-die-hermannsschlacht.xml,50273,50342,"Vergib, Quintilius Varus, mir, Daß deine Hoheit mich hier suchen muß!",negative,emotions of suffering,suffering
+930,GerDracor/kleist-die-hermannsschlacht.xml,50343,50502,"Mein Wille war, dich ehrfurchtsvoll In meines Lagers Tore einzuführen, Oktav August in dir, den großen Kaiser Roms, Und meinen hochverehrten Freund, zu grüßen.",positive,emotions of affection,admiration
+931,GerDracor/kleist-die-hermannsschlacht.xml,50503,50546,"Mein Fürst, du bist sehr gütig, in der Tat.",positive,emotions of affection,admiration
+932,GerDracor/kleist-die-hermannsschlacht.xml,50547,50820,"Ich hab von außerordentlichen Unordnungen gehört, die die Kohorten sich In Helakon und Herthakon erlaubt; Von einer Wodanseiche unvorsichtiger Verletzung – Feuer, Raub und Mord, Die dieser Tat unsel'ge Folgen waren, Von einer Aufführung, mit einem Wort, Nicht eben, leider!",negative,emotions of suffering,suffering
+933,GerDracor/kleist-die-hermannsschlacht.xml,50821,50872,"sehr geschickt, Den Römer in Cheruska zu empfehlen.",positive,emotions of affection,anger
+934,GerDracor/kleist-die-hermannsschlacht.xml,50873,50964,"Sei überzeugt, ich selbst befand mich in Person  Die von der Lippe her ins Land dir rücken.",negative,emotions of rejection,love
+935,GerDracor/kleist-die-hermannsschlacht.xml,50965,51191,"Die Eiche, sagt man zwar, ward nicht aus Hohn verletzt, Der Unverstand nur achtlos warf sie um; Gleichwohl ist ein Gericht bereits bestellt, Die Täter aufzufahn, und morgen wirst du sie, Zur Sühne deinem Volk, enthaupten sehn.",negative,emotions of rejection,"hate, disgust"
+936,GerDracor/kleist-die-hermannsschlacht.xml,51192,51203,Quintilius!,emotional movement,emotions of joy,emotional movement
+937,GerDracor/kleist-die-hermannsschlacht.xml,51204,51237,Dein erhabnes Wort beschämt mich!,negative,emotions of suffering,suffering
+938,GerDracor/kleist-die-hermannsschlacht.xml,51238,51400,"Ich muß dich für die allzuraschen Cherusker dringend um Verzeihung bitten, Die eine Tat sogleich, aus Unbedacht geschehn, Mit Rebellion fanatisch strafen wollten.",negative,emotions of rejection,"hate, disgust"
+939,GerDracor/kleist-die-hermannsschlacht.xml,51401,51474,"Mißgriffe, wie die vorgefallnen, sind Auf einem Heereszuge unvermeidlich.",negative,emotions of suffering,suffering
+940,GerDracor/kleist-die-hermannsschlacht.xml,51475,51590,"Laß diesen Irrtum, ich beschwöre dich, Das Fest nicht stören, das mein Volk, Zur Feier deines Einzugs, vorbereitet.",negative,emotions of rejection,Schadenfreude
+941,GerDracor/kleist-die-hermannsschlacht.xml,51591,51747,"Gönn mir ein Wort zugunsten der Bedrängten, Die deine Rache treffen soll: Und weil sie bloß aus Unverstand gefehlt, So schenk das Leben ihnen, laß sie frei!",negative,emotions of suffering,despair
+942,GerDracor/kleist-die-hermannsschlacht.xml,51748,51768,reicht ihm die Hand.,positive,emotions of affection,admiration
+943,GerDracor/kleist-die-hermannsschlacht.xml,51769,51810,"Nun, Freund Armin; beim Jupiter, es gilt!",positive,emotions of affection,friendship
+944,GerDracor/kleist-die-hermannsschlacht.xml,51811,51889,"Nimm diese Hand, die ich dir reiche, Auf immer hast du dir mein Herz gewonnen!",positive,emotions of affection,love
+945,GerDracor/kleist-die-hermannsschlacht.xml,51890,51936,"– Die Frevler, bis auf einen, sprech ich frei!",negative,emotions of rejection,"hate, disgust"
+946,GerDracor/kleist-die-hermannsschlacht.xml,51937,52059,"Man wird den Namen ihres Retters ihnen nennen, Und hier im Staube sollen sie, Das Leben dir, das mir verwirkt war, danken.",positive,emotions of affection,admiration
+947,GerDracor/kleist-die-hermannsschlacht.xml,52060,52347,"– Den einen nur behalt ich mir bevor, Der, dem ausdrücklichen Ermahnungswort zuwider, Den ersten Schlag der Eiche zugefügt; Der Herold hat es mehr denn zehnmal ausgerufen, Daß diese Eichen heilig sind, Und das Gesetz verurteilt ihn des Kriegs, Das kein Gesuch entwaffnen kann, nicht ich.",negative,emotions of rejection,"hate, disgust"
+948,GerDracor/kleist-die-hermannsschlacht.xml,52348,52547,"– Wann du auf immer jeden Anlaß willst, Der eine Zwistigkeit entflammen könnte, Aus des Cheruskers treuer Brust entfernen, So bitt ich, würd'ge diese Eichen, Quintilius, würd'ge ein'ger Sorgfalt sie.",negative,emotions of affection,friendship
+949,GerDracor/kleist-die-hermannsschlacht.xml,52548,52629,"Von ihnen her rinnt einzig fast die Quelle Des Übels, das uns zu entzweien droht.",negative,emotions of suffering,suffering
+950,GerDracor/kleist-die-hermannsschlacht.xml,52630,52813,"Laß irgend, was es sei, ein Zeichenbild zur Warnung, Wenn du dein Lager wählst, bei diesen Stämmen pflanzen: So hast du, glaub es mir, für immer Den wackern Eingebornen dir verbunden.",positive,emotions of affection,friendship
+951,GerDracor/kleist-die-hermannsschlacht.xml,52814,52821,Wohlan!,positive,emotions of suffering,joy
+952,GerDracor/kleist-die-hermannsschlacht.xml,52822,52855,– Woran erkennt man diese Eichen?,emotional movement,emotions of rejection,emotional movement
+953,GerDracor/kleist-die-hermannsschlacht.xml,52856,52935,"An ihrem Alter und dem Schmuck der Waffen, In ihres Wipfels Wölbung aufgehängt.",positive,emotions of affection,suffering
+954,GerDracor/kleist-die-hermannsschlacht.xml,52936,52952,Septimius Nerva!,negative,emotions of rejection,emotional movement
+955,GerDracor/kleist-die-hermannsschlacht.xml,52953,52963,tritt vor.,negative,emotional movement,emotional movement
+956,GerDracor/kleist-die-hermannsschlacht.xml,52964,52989,Was gebeut mein Feldherr?,negative,emotional movement,admiration
+957,GerDracor/kleist-die-hermannsschlacht.xml,52990,53114,"Laß eine Schar von Römern gleich Sich in den Wald zerstreun, der diese Niederlassung, Cheruskas Hauptplatz Teutoburg umgibt.",negative,emotions of rejection,suffering
+958,GerDracor/kleist-die-hermannsschlacht.xml,53115,53287,"Bei jeder Eiche grauen Alters, In deren Wipfel Waffen aufgehängt, Soll eine Wache von zwei Kriegern halten, Und jeden, der vorübergeht, belehren, Daß Wodan in der Nähe sei.",positive,emotions of rejection,admiration
+959,GerDracor/kleist-die-hermannsschlacht.xml,53288,53647,"Denn Wodan ist, daß ihr's nur wißt, ihr Römer, Der Zeus der Deutschen, Herr des Blitzes Diesseits der Alpen, so wie jenseits der; Er ist der Gott, dem sich mein Knie sogleich, Beim ersten Eintritt in dies Land, gebeugt; Und kurz, Quintilius, euer Feldherr, will Mit Ehrfurcht und mit Scheu, im Tempel dieser Wälder, Wie den Olympier selbst, geehrt ihn wissen.",positive,emotions of affection,admiration
+960,GerDracor/kleist-die-hermannsschlacht.xml,53648,53692,"Man wird dein Wort, O Herr, genau vollziehn.",positive,emotions of fear,anger
+961,GerDracor/kleist-die-hermannsschlacht.xml,53693,53704,zu Hermann.,emotional movement,emotional movement,emotional movement
+962,GerDracor/kleist-die-hermannsschlacht.xml,53705,53731,"Bist du zufrieden, Freund?",positive,emotions of affection,joy
+963,GerDracor/kleist-die-hermannsschlacht.xml,53732,53788,"Du überfleuchst, Quintilius, die Wünsche deines Knechts.",negative,emotions of rejection,anger
+964,GerDracor/kleist-die-hermannsschlacht.xml,53789,53908,"nimmt ein Kissen, auf welchem Geschenke liegen, aus der Hand eines Sklaven, und
+              bringt sie der Thusnelda.",positive,emotions of affection,admiration
+965,GerDracor/kleist-die-hermannsschlacht.xml,53909,54105,"Hier, meine Fürstin, überreich ich dir, Von August, meinem hohen Herrn, Was er für dich mir jüngsthin zugesandt, Es sind Gesteine, Perlen, Federn, Öle – Ein kleines Rüstzeug, schreibt er, Kupidos.",positive,emotions of joy,joy
+966,GerDracor/kleist-die-hermannsschlacht.xml,54106,54235,"August, erlauchte Frau, bewaffnet deine Schönheit, Damit du Hermanns großes Herz, Stets in der Freundschaft Banden ihm erhaltest.",positive,emotions of affection,friendship
+967,GerDracor/kleist-die-hermannsschlacht.xml,54236,54285,empfängt das Kissen und betrachtet die Geschenke.,positive,emotions of joy,joy
+968,GerDracor/kleist-die-hermannsschlacht.xml,54286,54297,Quintilius!,emotional movement,emotions of joy,emotional movement
+969,GerDracor/kleist-die-hermannsschlacht.xml,54298,54327,Dein Kaiser macht mich stolz.,positive,emotions of affection,admiration
+970,GerDracor/kleist-die-hermannsschlacht.xml,54328,54437,"Thusnelda nimmt die Waffen an, Mit dem Versprechen, Tag und Nacht, Damit geschirrt, für ihn zu Feld zu ziehn.",positive,emotions of affection,admiration
+971,GerDracor/kleist-die-hermannsschlacht.xml,54438,54475,Sie übergibt das Kissen ihren Frauen.,negative,emotions of joy,joy
+972,GerDracor/kleist-die-hermannsschlacht.xml,54476,54487,zu Hermann.,emotional movement,emotional movement,emotional movement
+973,GerDracor/kleist-die-hermannsschlacht.xml,54488,54612,"Hier stell ich Gueltar, Fust dir und Aristan, Die tapfern Fürsten Deutschlands vor, Die meinem Heereszug sich angeschlossen.",positive,emotions of affection,admiration
+974,GerDracor/kleist-die-hermannsschlacht.xml,54613,54655,Er tritt zurück und spricht mit Ventidius.,negative,emotional movement,emotional movement
+975,GerDracor/kleist-die-hermannsschlacht.xml,54656,54701,indem er sich dem Fürsten der Cimbern nähert.,positive,emotions of affection,love
+976,GerDracor/kleist-die-hermannsschlacht.xml,54702,54788,"Wir kennen uns, wenn ich nicht irre, Fust, Aus Gallien, von der Schlacht des Ariovist.",positive,emotions of affection,friendship
+977,GerDracor/kleist-die-hermannsschlacht.xml,54789,54834,"Mein Prinz, ich kämpfte dort an deiner Seite.",positive,emotions of affection,friendship
+978,GerDracor/kleist-die-hermannsschlacht.xml,54835,54843,lebhaft.,emotional movement,emotions of affection,emotional movement
+979,GerDracor/kleist-die-hermannsschlacht.xml,54844,54924,"Ein schöner Tag, beim hohen Himmel, An den dein Helmbusch lebhaft mich erinnert!",positive,emotions of joy,joy
+980,GerDracor/kleist-die-hermannsschlacht.xml,54925,55030,"– Der Tag, an dem Germanien zwar Dem Cäsar sank, doch der zuerst Den Cäsar die Germanier schätzen lehrte.",positive,emotions of affection,admiration
+981,GerDracor/kleist-die-hermannsschlacht.xml,55031,55048,niedergeschlagen.,negative,emotions of suffering,suffering
+982,GerDracor/kleist-die-hermannsschlacht.xml,55049,55090,"Mir kam er teuer, wie du weißt, zu stehn.",negative,emotions of affection,admiration
+983,GerDracor/kleist-die-hermannsschlacht.xml,55091,55177,"Der Cimbern Thron, nicht mehr, nicht minder, Den ich nur Augusts Gnade jetzt verdanke.",positive,emotions of affection,admiration
+984,GerDracor/kleist-die-hermannsschlacht.xml,55178,55228,– indem er sich zu dem Fürsten der Nervier wendet.,negative,emotions of rejection,"hate, disgust"
+985,GerDracor/kleist-die-hermannsschlacht.xml,55229,55271,"Dich, Gueltar, auch sah ich an diesem Tag?",positive,emotions of affection,love
+986,GerDracor/kleist-die-hermannsschlacht.xml,55272,55293,Auf einen Augenblick.,emotional movement,emotional movement,emotional movement
+987,GerDracor/kleist-die-hermannsschlacht.xml,55294,55312,Ich kam sehr spät.,negative,emotions of suffering,suffering
+988,GerDracor/kleist-die-hermannsschlacht.xml,55313,55439,"Mich kostet' er, wie dir bekannt sein wird, Den Thron von Nervien; doch August hat Mich durch den Thron von Äduen entschädigt.",negative,emotions of joy,joy
+989,GerDracor/kleist-die-hermannsschlacht.xml,55440,55486,indem er sich zu dem Fürsten der Ubier wendet.,negative,emotions of rejection,"hate, disgust"
+990,GerDracor/kleist-die-hermannsschlacht.xml,55487,55526,Wo war Aristan an dem Tag der Schlacht?,emotional movement,emotional movement,emotional movement
+991,GerDracor/kleist-die-hermannsschlacht.xml,55527,55543,kalt und scharf.,negative,emotions of rejection,anger
+992,GerDracor/kleist-die-hermannsschlacht.xml,55544,55606,"Aristan war in Ubien, Diesseits des Rheines, wo er hingehörte.",positive,emotions of affection,"hate, disgust"
+993,GerDracor/kleist-die-hermannsschlacht.xml,55607,55768,"Aristan hat das Schwert niemals Den Cäsarn Roms gezückt, und er darf kühnlich sagen: Er war ihr Freund, sobald sie sich Nur an der Schwelle von Germania zeigten.",positive,emotions of affection,friendship
+994,GerDracor/kleist-die-hermannsschlacht.xml,55769,55790,mit einer Verbeugung.,positive,emotions of affection,admiration
+995,GerDracor/kleist-die-hermannsschlacht.xml,55791,55825,Arminius bewundert seine Weisheit.,positive,emotions of affection,admiration
+996,GerDracor/kleist-die-hermannsschlacht.xml,55826,55875,"– Ihr Herrn, wir werden uns noch weiter sprechen.",positive,emotional movement,anger
+997,GerDracor/kleist-die-hermannsschlacht.xml,55876,55900,Ein Marsch in der Ferne.,negative,emotions of fear,fear
+998,GerDracor/kleist-die-hermannsschlacht.xml,55901,55922,Ein Herold tritt auf.,positive,emotions of rejection,emotional movement
+999,GerDracor/kleist-die-hermannsschlacht.xml,55923,55949,Bald darauf das Römerheer.,negative,emotions of rejection,"hate, disgust"
+1000,GerDracor/kleist-die-hermannsschlacht.xml,55950,55964,– Die Vorigen.,negative,emotions of rejection,anger
+1001,GerDracor/kleist-die-hermannsschlacht.xml,55965,55995,zum Volk das zusammengelaufen.,negative,emotions of suffering,suffering
+1002,GerDracor/kleist-die-hermannsschlacht.xml,55996,56038,"Platz hier, beliebt's euch, ihr Cherusker!",positive,emotions of rejection,anger
+1003,GerDracor/kleist-die-hermannsschlacht.xml,56039,56116,"Varus', des Feldherrn Roms, Liktoren Nahn festlich an des Heeres Spitze sich!",positive,emotions of joy,admiration
+1004,GerDracor/kleist-die-hermannsschlacht.xml,56117,56128,Was gibt's?,emotional movement,emotional movement,emotional movement
+1005,GerDracor/kleist-die-hermannsschlacht.xml,56129,56145,nähert sich ihr.,negative,emotions of rejection,fear
+1006,GerDracor/kleist-die-hermannsschlacht.xml,56146,56204,"Es ist das Römerheer, Das seinen Einzug hält in Teutoburg!",positive,emotions of joy,joy
+1007,GerDracor/kleist-die-hermannsschlacht.xml,56205,56215,zerstreut.,emotional movement,emotional movement,emotional movement
+1008,GerDracor/kleist-die-hermannsschlacht.xml,56216,56230,Das Römerheer?,emotional movement,emotional movement,emotional movement
+1009,GerDracor/kleist-die-hermannsschlacht.xml,56231,56303,"Er beobachtet Varus und Ventidius, welche heimlich miteinander sprechen.",emotional movement,emotions of rejection,emotional movement
+1010,GerDracor/kleist-die-hermannsschlacht.xml,56304,56329,Wer sind die ersten dort?,emotional movement,emotional movement,emotional movement
+1011,GerDracor/kleist-die-hermannsschlacht.xml,56330,56407,"Varus' Liktoren, königliche Frau, Die des Gesetzes heil'ges Richtbeil tragen.",positive,emotions of affection,admiration
+1012,GerDracor/kleist-die-hermannsschlacht.xml,56408,56417,Das Beil?,emotional movement,emotional movement,emotional movement
+1013,GerDracor/kleist-die-hermannsschlacht.xml,56418,56422,Wem!,negative,emotional movement,emotional movement

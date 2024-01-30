@@ -1,0 +1,419 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/goethe-clavigo.xml,0,30, Der Schauplatz ist zu Madrid.,negative,emotional movement,emotional movement
+1,GerDracor/goethe-clavigo.xml,31,48,Clavigos Wohnung.,emotional movement,emotions of rejection,emotional movement
+2,GerDracor/goethe-clavigo.xml,49,57,Clavigo.,positive,emotions of joy,anger
+3,GerDracor/goethe-clavigo.xml,58,65,Carlos.,emotional movement,emotional movement,emotional movement
+4,GerDracor/goethe-clavigo.xml,66,94,vom Schreibtisch aufstehend.,emotional movement,emotional movement,emotional movement
+5,GerDracor/goethe-clavigo.xml,95,162,"Das Blatt wird eine gute Wirkung tun, es muß alle Weiber bezaubern.",positive,emotions of joy,joy
+6,GerDracor/goethe-clavigo.xml,163,270,"Sag mir, Carlos,
+            glaubst du nicht, daß meine Wochenschrift jetzt eine der ersten in Europa ist?",positive,emotions of joy,joy
+7,GerDracor/goethe-clavigo.xml,271,453,"Wir Spanier wenigstens haben keinen neueren Autor, der so viel Stärke des Gedankens, so
+            viel blühende Einbildungskraft mit einem so glänzenden und leichten Stil verbände.",positive,emotions of affection,admiration
+8,GerDracor/goethe-clavigo.xml,454,463,Laß mich!,negative,emotional movement,emotional movement
+9,GerDracor/goethe-clavigo.xml,464,534,Ich muß unter dem Volke noch der Schöpfer des guten Geschmacks werden.,negative,emotions of rejection,admiration
+10,GerDracor/goethe-clavigo.xml,535,851,"Die
+            Menschen sind willig, allerlei Eindrücke anzunehmen; ich habe einen Ruhm, ein Zutrauen
+            unter meinen Mitbürgern; und, unter uns gesagt, meine Kenntnisse breiten sich täglich
+            aus, meine Empfindungen erweitern sich, und mein Stil bildet sich immer wahrer und
+            stärker.",positive,emotions of joy,joy
+11,GerDracor/goethe-clavigo.xml,852,865,"Gut, Clavigo!",positive,emotions of joy,joy
+12,GerDracor/goethe-clavigo.xml,866,1090,"Doch wenn du mir's nicht übelnehmen willst, so gefiel mir damals deine
+            Schrift weit besser, als du sie noch zu Mariens Füßen schriebst, als noch das liebliche,
+            muntere Geschöpf auf dich Einfluß hatte.",positive,emotions of affection,joy
+13,GerDracor/goethe-clavigo.xml,1091,1146,"Ich  Es waren gute Zeiten, Carlos, die nun vorbei sind.",positive,emotions of suffering,joy
+14,GerDracor/goethe-clavigo.xml,1147,1332,"Ich gestehe dir gern, ich schrieb
+            damals mit offnerem Herzen, und wahr ist's, sie hatte viel Anteil an dem Beifall, den
+            das Publikum mir gleich anfangs gewährte.",positive,emotions of affection,love
+15,GerDracor/goethe-clavigo.xml,1333,1522,"Aber in der Länge, Carlos, man wird der Weiber
+            gar bald satt; und warst du nicht der erste, meinem Entschluß Beifall zu geben, als ich
+            mir vornahm, sie zu verlassen!",negative,emotions of rejection,suffering
+16,GerDracor/goethe-clavigo.xml,1523,1542,Du wärst versauert.,negative,emotions of suffering,suffering
+17,GerDracor/goethe-clavigo.xml,1543,1569,Sie sind gar zu einförmig.,emotional movement,emotions of affection,suffering
+18,GerDracor/goethe-clavigo.xml,1570,1731,"Nur, dünkt mich, wär's wieder Zeit, daß
+            du dich nach einem neuen Plan umsähest, es ist doch auch nichts, wenn man so ganz auf'm
+            Sand ist.",negative,emotions of suffering,Schadenfreude
+19,GerDracor/goethe-clavigo.xml,1732,1779,"Mein Plan ist der Hof, und da gilt kein Feiern.",negative,emotions of rejection,anger
+20,GerDracor/goethe-clavigo.xml,1780,1901,"Hab ich's für einen Fremden, der ohne
+            Stand, ohne Namen, ohne Vermögen hieher kam, nicht weit genug gebracht?",positive,emotions of rejection,suffering
+21,GerDracor/goethe-clavigo.xml,1902,1933,"Hier an einem
+            Hofe!",negative,emotions of rejection,anger
+22,GerDracor/goethe-clavigo.xml,1934,2012,"unter dem Gedräng von Menschen, wo es so schwer hält, sich bemerken zu machen?",emotional movement,emotional movement,emotional movement
+23,GerDracor/goethe-clavigo.xml,2013,2095,"Mir
+            ist's so wohl, wenn ich den Weg ansehe, den ich zurückgelegt habe.",positive,emotions of joy,joy
+24,GerDracor/goethe-clavigo.xml,2096,2147,"Geliebt von den
+            Ersten des Königreichs!",positive,emotions of affection,love
+25,GerDracor/goethe-clavigo.xml,2148,2195,"geehrt durch meine Wissenschaften, meinen Rang!",positive,emotions of affection,admiration
+26,GerDracor/goethe-clavigo.xml,2196,2231,"Archivarius des
+            Königs!",negative,emotions of affection,admiration
+27,GerDracor/goethe-clavigo.xml,2232,2309,"Carlos, das spornt mich alles; ich wäre nichts, wenn ich bliebe, was ich bin!",positive,emotions of joy,joy
+28,GerDracor/goethe-clavigo.xml,2322,2329,Hinauf!,negative,emotions of rejection,emotional movement
+29,GerDracor/goethe-clavigo.xml,2330,2337,Hinauf!,negative,emotions of rejection,emotional movement
+30,GerDracor/goethe-clavigo.xml,2338,2368,Und da kostet's Mühe und List!,negative,emotions of rejection,anger
+31,GerDracor/goethe-clavigo.xml,2369,2440,"Man braucht seinen ganzen Kopf; und die
+            Weiber, die Weiber!",positive,emotions of affection,love
+32,GerDracor/goethe-clavigo.xml,2441,2483,Man vertändelt gar zu viel Zeit mit ihnen.,positive,emotions of suffering,love
+33,GerDracor/goethe-clavigo.xml,2484,2512,"Narre, das ist deine Schuld.",negative,emotions of rejection,anger
+34,GerDracor/goethe-clavigo.xml,2513,2592,"Ich kann nie ohne Weiber leben, und mich hindern sie an
+            gar nichts.",positive,emotions of affection,love
+35,GerDracor/goethe-clavigo.xml,2593,2784,"Auch sag ich ihnen nicht so viel schöne Sachen, röste mich nicht monatelang
+            an Sentiments und dergleichen; wie ich denn mit honetten Mädchen am ungernsten zu tun
+            habe.",negative,emotions of suffering,"hate, disgust"
+36,GerDracor/goethe-clavigo.xml,2785,3035,"Ausgeredt hat man bald mit ihnen; hernach schleppt man sich eine Zeitlang herum,
+            und kaum sind sie ein bißchen warm bei einem, hat sie der Teufel gleich mit
+            Heiratsgedanken und Heiratsvorschlägen, die ich fürchte wie die Pest.",negative,emotions of suffering,"hate, disgust"
+37,GerDracor/goethe-clavigo.xml,3036,3077,"Du bist
+            nachdenkend, Clavigo?",emotional movement,emotional movement,emotional movement
+38,GerDracor/goethe-clavigo.xml,3078,3199,"Ich kann die Erinnerung nicht loswerden, daß ich Marien verlassen – hintergangen habe,
+            nenn's, wie du willst.",negative,emotions of suffering,suffering
+39,GerDracor/goethe-clavigo.xml,3200,3211,Wunderlich!,emotional movement,emotions of joy,emotional movement
+40,GerDracor/goethe-clavigo.xml,3212,3426,"Mich dünkt doch, man lebt nur Einmal in der Welt, hat nur Einmal diese
+            Kräfte, diese Aussichten, und wer sie nicht zum besten braucht, wer sich nicht so weit
+            treibt als möglich, ist ein Tor.",negative,emotions of suffering,"hate, disgust"
+41,GerDracor/goethe-clavigo.xml,3427,3440,Und heiraten!,positive,emotions of joy,joy
+42,GerDracor/goethe-clavigo.xml,3441,3524,"heiraten just zur Zeit, da das Leben erst
+            recht in Schwung kommen soll!",positive,emotions of joy,joy
+43,GerDracor/goethe-clavigo.xml,3525,3709,"sich häuslich niederlassen, sich einschränken, da man noch
+            die Hälfte seiner Wanderung nicht zurückgelegt, die Hälfte seiner Eroberungen noch nicht
+            gemacht hat!",negative,emotions of suffering,suffering
+44,GerDracor/goethe-clavigo.xml,3710,3874,"Daß du sie liebtest, das war natürlich, daß du ihr die Ehe versprachst, war
+            eine Narrheit, und wenn du Wort gehalten hättest, wär's gar Raserei gewesen.",positive,emotions of affection,love
+45,GerDracor/goethe-clavigo.xml,3875,3913,"Sieh, ich begreife den Menschen nicht.",emotional movement,emotional movement,"hate, disgust"
+46,GerDracor/goethe-clavigo.xml,3914,4188,"Ich liebte sie wahrlich, sie zog mich an, sie
+            hielt mich, und wie ich zu ihren Füßen saß, schwur ich ihr, schwur ich mir, daß es ewig
+            so sein sollte, daß ich der Ihrige sein wollte, sobald ich ein Amt hätte, einen Stand –
+            Und nun, Carlos!",positive,emotions of affection,love
+47,GerDracor/goethe-clavigo.xml,4189,4471,"Es wird noch Zeit genug sein, wenn du ein gemachter Mann bist, wenn du das erwünschte
+            Ziel erreicht hast, daß du alsdann, um all dein Glück zu krönen und zu befestigen, dich
+            mit einem angesehenen und reichen Hause durch eine kluge Heirat zu verbinden suchst.",positive,emotions of joy,joy
+48,GerDracor/goethe-clavigo.xml,4472,4493,Sie ist verschwunden!,negative,emotions of rejection,emotional movement
+49,GerDracor/goethe-clavigo.xml,4494,4635,"glatt aus meinem Herzen verschwunden, und wenn mir ihr Unglück
+            nicht manchmal durch den Kopf führe – Daß man so veränderlich ist!",positive,emotions of suffering,suffering
+50,GerDracor/goethe-clavigo.xml,4636,4687,"Wenn man beständig wäre, wollt ich mich verwundern.",emotional movement,emotional movement,emotional movement
+51,GerDracor/goethe-clavigo.xml,4688,4750,"Sieh doch, verändert sich nicht
+            alles in der Welt?",emotional movement,emotions of joy,emotional movement
+52,GerDracor/goethe-clavigo.xml,4751,4795,warum sollten unsere Leidenschaften bleiben?,positive,emotions of affection,love
+53,GerDracor/goethe-clavigo.xml,4796,4908,"Sei du ruhig, sie ist
+            nicht das erste verlaßne Mädchen, und nicht das erste, das sich getröstet hat.",negative,emotions of suffering,compassion
+54,GerDracor/goethe-clavigo.xml,4909,5034,"Wenn ich
+            dir raten soll, da ist die junge Witwe gegenüber – Du weißt, ich halte nicht viel auf solche Vorschläge.",negative,emotions of suffering,suffering
+55,GerDracor/goethe-clavigo.xml,5035,5128,"Ein Roman, der nicht ganz von
+            selbst kommt, ist nicht imstande, mich einzunehmen.",positive,emotions of affection,emotional movement
+56,GerDracor/goethe-clavigo.xml,5129,5154,Über die delikaten Leute!,negative,emotions of rejection,anger
+57,GerDracor/goethe-clavigo.xml,5155,5288,"Laß das gut sein, und vergiß nicht, daß unser Hauptwerk gegenwärtig sein muß, uns dem
+            neuen Minister notwendig zu machen.",positive,emotions of rejection,Schadenfreude
+58,GerDracor/goethe-clavigo.xml,5289,5381,"Daß Whal das Gouvernement von Indien niederlegt, ist
+            immer beschwerlich für uns.",negative,emotions of suffering,suffering
+59,GerDracor/goethe-clavigo.xml,5382,5496,"Zwar ist mir's weiter nicht bange; sein Einfluß bleibt –
+            Grimaldi  Und denken und tun, was wir wollen.",negative,emotions of fear,fear
+60,GerDracor/goethe-clavigo.xml,5497,5532,Das ist die Hauptsache in der Welt.,positive,emotions of joy,joy
+61,GerDracor/goethe-clavigo.xml,5533,5555,Schellt dem Bedienten.,positive,emotions of rejection,fear
+62,GerDracor/goethe-clavigo.xml,5556,5601,"Tragt das Blatt in die
+            Druckerei!",negative,emotions of rejection,anger
+63,GerDracor/goethe-clavigo.xml,5602,5627,Sieht man Euch den Abend?,positive,emotions of affection,joy
+64,GerDracor/goethe-clavigo.xml,5628,5639,Nicht wohl.,negative,emotions of suffering,suffering
+65,GerDracor/goethe-clavigo.xml,5640,5664,Nachfragen könnt Ihr ja.,negative,emotions of rejection,anger
+66,GerDracor/goethe-clavigo.xml,5665,5805,"Ich möchte heut abend gar zu gern was unternehmen, das mir das Herz erfreute; ich muß
+            diesen ganzen Nachmittag wieder schreiben.",positive,emotions of joy,joy
+67,GerDracor/goethe-clavigo.xml,5806,5823,Das endigt nicht.,negative,emotions of suffering,suffering
+68,GerDracor/goethe-clavigo.xml,5824,5840,Laß es gut sein!,negative,emotions of rejection,joy
+69,GerDracor/goethe-clavigo.xml,5841,5954,"Wenn wir nicht für so viele Leute arbeiteten, wären wir so viel Leuten
+            nicht über den Kopf gewachsen.",negative,emotions of rejection,anger
+70,GerDracor/goethe-clavigo.xml,5956,5959,Ab.,negative,emotional movement,anger
+71,GerDracor/goethe-clavigo.xml,5960,5978,Guilberts Wohnung.,emotional movement,emotions of rejection,emotional movement
+72,GerDracor/goethe-clavigo.xml,5979,5995,Sophie Guilbert.,emotional movement,emotional movement,emotional movement
+73,GerDracor/goethe-clavigo.xml,5996,6015,Marie Beaumarchais.,emotional movement,emotional movement,emotional movement
+74,GerDracor/goethe-clavigo.xml,6016,6027,Don Buenco.,positive,emotions of rejection,emotional movement
+75,GerDracor/goethe-clavigo.xml,6028,6061,Sie haben eine üble Nacht gehabt?,negative,emotions of suffering,suffering
+76,GerDracor/goethe-clavigo.xml,6062,6091,Ich sagt's ihr gestern abend.,negative,emotions of rejection,anger
+77,GerDracor/goethe-clavigo.xml,6092,6282,"Sie war so ausgelassen lustig und hat geschwatzt bis
+            eilfe, da war sie erhitzt, konnte nicht schlafen, und nun hat sie wieder keinen Atem und
+            weint den ganzen Morgen.",negative,emotions of suffering,suffering
+78,GerDracor/goethe-clavigo.xml,6283,6312,Daß unser Bruder nicht kommt!,negative,emotions of rejection,suffering
+79,GerDracor/goethe-clavigo.xml,6313,6345,Es sind zwei Tage über die Zeit.,positive,emotional movement,emotional movement
+80,GerDracor/goethe-clavigo.xml,6346,6378,"Nur Geduld, er bleibt nicht aus.",negative,emotions of suffering,suffering
+81,GerDracor/goethe-clavigo.xml,6379,6390,aufstehend.,positive,emotional movement,emotional movement
+82,GerDracor/goethe-clavigo.xml,6391,6470,"Wie begierig bin ich, diesen Bruder zu sehen; meinen Richter und meinen Retter.",positive,emotions of joy,joy
+83,GerDracor/goethe-clavigo.xml,6471,6513,"Ich
+            erinnere mich seiner kaum.",positive,emotional movement,emotional movement
+84,GerDracor/goethe-clavigo.xml,6514,6671,"O ja, ich kann mir ihn noch wohl vorstellen; er war ein feuriger, offner, braver Knabe
+            von dreizehn Jahren, als uns unser Vater hierher schickte.",positive,emotions of affection,emotional movement
+85,GerDracor/goethe-clavigo.xml,6672,6782,"Eine edle, große Seele Sie haben den Brief gelesen, so den er schrieb, als er mein
+            Unglück erfuhr.",positive,emotions of affection,admiration
+86,GerDracor/goethe-clavigo.xml,6783,6828,Jeder Buchstabe davon steht in meinem Herzen.,positive,emotions of affection,love
+87,GerDracor/goethe-clavigo.xml,6829,7025,"»Wenn du schuldig bist«,
+            schreibt er, »so erwarte keine Vergebung; über dein Elend soll noch die Verachtung eines
+            Bruders auf dir schwer werden, und der Fluch eines Vaters.",negative,emotions of rejection,"hate, disgust"
+88,GerDracor/goethe-clavigo.xml,7026,7137,"Bist du unschuldig – o dann
+            alle Rache, alle, alle glühende Rache auf den Verräter!« – Ich zittere!",negative,emotions of rejection,fear
+89,GerDracor/goethe-clavigo.xml,7138,7153,Er wird kommen.,negative,emotions of fear,joy
+90,GerDracor/goethe-clavigo.xml,7166,7201,"Ich zittere, nicht  Du hörst nicht!",negative,emotions of fear,fear
+91,GerDracor/goethe-clavigo.xml,7202,7226,Du wirst dich umbringen.,negative,emotions of fear,despair
+92,GerDracor/goethe-clavigo.xml,7227,7248,Ich will stille sein!,negative,emotional movement,emotional movement
+93,GerDracor/goethe-clavigo.xml,7249,7274,Ja ich will nicht weinen.,negative,emotions of suffering,suffering
+94,GerDracor/goethe-clavigo.xml,7275,7332,"Mich dünkt auch, ich hätte keine Tränen
+            mehr!",negative,emotions of suffering,suffering
+95,GerDracor/goethe-clavigo.xml,7333,7350,Und warum Tränen?,negative,emotions of suffering,suffering
+96,GerDracor/goethe-clavigo.xml,7351,7407,"Es ist mir nur leid, daß ich euch das Leben sauer mache.",negative,emotions of suffering,suffering
+97,GerDracor/goethe-clavigo.xml,7408,7461,"Denn im
+            Grunde, worüber beklag' ich mich?",negative,emotions of suffering,suffering
+98,GerDracor/goethe-clavigo.xml,7462,7540,"Ich habe viel Freude gehabt, solang unser alter Freund
+            noch lebte.",positive,emotions of joy,joy
+99,GerDracor/goethe-clavigo.xml,7541,7633,"Clavigos Liebe hat mir viel Freude gemacht, vielleicht mehr als ihm die
+            meinige.",positive,emotions of affection,love
+100,GerDracor/goethe-clavigo.xml,7634,7665,Und nun – was ist's nun weiter?,emotional movement,emotional movement,fear
+101,GerDracor/goethe-clavigo.xml,7666,7689,Was ist an mir gelegen?,emotional movement,emotional movement,emotional movement
+102,GerDracor/goethe-clavigo.xml,7690,7751,"an einem Mädchen
+            gelegen, ob ihm das Herz bricht?",positive,emotions of suffering,suffering
+103,GerDracor/goethe-clavigo.xml,7752,7821,"ob es sich verzehrt und sein armes junges Leben
+            ausquält?",negative,emotions of suffering,suffering
+104,GerDracor/goethe-clavigo.xml,7822,7853,"Um Gottes willen, Mademoiselle!",emotional movement,emotions of fear,fear
+105,GerDracor/goethe-clavigo.xml,7854,7912,Ob's ihm wohl einerlei ist – daß er mich nicht mehr liebt?,positive,emotions of affection,love
+106,GerDracor/goethe-clavigo.xml,7913,7917,Ach!,negative,emotions of suffering,suffering
+107,GerDracor/goethe-clavigo.xml,7918,7969,"warum bin ich nicht
+            mehr liebenswürdig?",positive,emotions of affection,emotional movement
+108,GerDracor/goethe-clavigo.xml,7970,8008,"Aber bedauern, bedauern sollt er mich!",negative,emotions of suffering,compassion
+109,GerDracor/goethe-clavigo.xml,8009,8129,"daß die Arme, der er sich so
+            notwendig gemacht hatte, nun ohne ihn ihr Leben hinschleichen, hinjammern soll.",negative,emotions of suffering,compassion
+110,GerDracor/goethe-clavigo.xml,8130,8153,"–
+            Bedauern!",negative,emotions of suffering,compassion
+111,GerDracor/goethe-clavigo.xml,8154,8199,Ich mag nicht von dem Menschen bedauert sein.,negative,emotions of suffering,suffering
+112,GerDracor/goethe-clavigo.xml,8200,8262,"Wenn ich dich ihn könnte verachten lehren, den Nichtswürdigen!",negative,emotions of rejection,"hate, disgust"
+113,GerDracor/goethe-clavigo.xml,8263,8283,den Hassenswürdigen!,negative,emotions of rejection,"hate, disgust"
+114,GerDracor/goethe-clavigo.xml,8284,8392,"Nein, Schwester, ein Nichtswürdiger ist er nicht; und muß ich denn den verachten, den
+            ich hasse?",negative,emotions of rejection,"hate, disgust"
+115,GerDracor/goethe-clavigo.xml,8393,8402,– Hassen!,negative,emotions of rejection,"hate, disgust"
+116,GerDracor/goethe-clavigo.xml,8403,8500,"Ja, manchmal kann ich ihn hassen, manchmal, wenn der spanische
+            Geist über mich kommt.",negative,emotions of rejection,"hate, disgust"
+117,GerDracor/goethe-clavigo.xml,8501,8604,"Neulich, o neulich, als wir ihm begegneten, sein Anblick wirkte
+            volle warme Liebe auf mich!",positive,emotions of affection,love
+118,GerDracor/goethe-clavigo.xml,8605,8912,"und wie ich wieder nach Hause kam, und mir sein Betragen
+            auffiel, und der ruhige, kalte Blick, den er so über mich herwarf an der Seite der
+            glänzenden Donna – da ward ich Spanierin in meinem Herzen, und griff nach meinem Dolch,
+            und nahm Gift zu mir, und verkleidete mich.",negative,emotions of rejection,"hate, disgust"
+119,GerDracor/goethe-clavigo.xml,8913,8934,"Ihr erstaunt, Buenco?",emotional movement,emotional movement,emotional movement
+120,GerDracor/goethe-clavigo.xml,8935,8980,"Alles in Gedanken,
+            versteht sich.",negative,emotional movement,emotional movement
+121,GerDracor/goethe-clavigo.xml,8981,9000,Närrisches Mädchen!,positive,emotions of rejection,"hate, disgust"
+122,GerDracor/goethe-clavigo.xml,9001,9197,"Meine Einbildungskraft führte mich ihm nach, ich sah ihn, wie er zu den Füßen seiner
+            neuen Geliebten alle die Freundlichkeit, alle die Demut verschwendete, mit der  Man verwünscht sie.",negative,emotions of suffering,love
+123,GerDracor/goethe-clavigo.xml,9198,9202,Und?,emotional movement,emotional movement,emotional movement
+124,GerDracor/goethe-clavigo.xml,9203,9223,Und läßt sie laufen.,negative,emotions of rejection,"hate, disgust"
+125,GerDracor/goethe-clavigo.xml,9224,9231,Laufen!,negative,emotions of fear,emotional movement
+126,GerDracor/goethe-clavigo.xml,9232,9284,"Nun, und warum soll ich Clavigo nicht laufen lassen?",positive,emotions of rejection,emotional movement
+127,GerDracor/goethe-clavigo.xml,9285,9365,"Wenn das in Frankreich
+            Mode ist, warum soll's nicht in Spanien sein?",emotional movement,emotions of rejection,anger
+128,GerDracor/goethe-clavigo.xml,9366,9436,"Warum soll eine Französin in Spanien nicht
+            Französin sein?",emotional movement,emotional movement,emotional movement
+129,GerDracor/goethe-clavigo.xml,9437,9548,"Wir wollen ihn laufen lassen und uns einen andern nehmen; mich dünkt,
+            sie machen's bei uns auch so.",negative,emotions of rejection,anger
+130,GerDracor/goethe-clavigo.xml,9549,9671,"Er hat eine feierliche Zusage gebrochen, und keinen leichtsinnigen Roman, kein
+            gesellschaftliches Attachement.",negative,emotions of rejection,"hate, disgust"
+131,GerDracor/goethe-clavigo.xml,9672,9749,"Mademoiselle, Sie sind bis ins innerste Herz beleidigt,
+            gekränkt.",negative,emotions of suffering,suffering
+132,GerDracor/goethe-clavigo.xml,9750,10016,"O, mir ist mein Stand, daß ich ein unbedeutender ruhiger Bürger von Madrid
+            bin, nie so beschwerlich, nie so ängstlich gewesen als jetzt, da ich mich so schwach, so
+            unvermögend fühle, Ihnen gegen den falschen Höfling Gerechtigkeit zu schaffen!",negative,emotions of fear,fear
+133,GerDracor/goethe-clavigo.xml,10017,10201,"Wie er noch Clavigo war, noch nicht Archivarius des Königs, wie er der Fremdling, der
+            Ankömmling, der Neueingeführte in unserm Hause war, wie liebenswürdig war er, wie gut!",positive,emotions of affection,joy
+134,GerDracor/goethe-clavigo.xml,10214,10293,"Wie schien all sein Ehrgeiz, all sein Aufstreben ein Kind seiner Liebe zu sein!",positive,emotions of affection,love
+135,GerDracor/goethe-clavigo.xml,10294,10368,"Für mich
+            rang er nach Namen, Stand, Gütern: er hat's, und ich!",positive,emotions of joy,joy
+136,GerDracor/goethe-clavigo.xml,10369,10388,– – Guilbert kommt.,positive,emotional movement,emotional movement
+137,GerDracor/goethe-clavigo.xml,10389,10413,heimlich zu seiner Frau.,negative,emotions of rejection,anger
+138,GerDracor/goethe-clavigo.xml,10414,10431,Der Bruder kommt.,negative,emotional movement,joy
+139,GerDracor/goethe-clavigo.xml,10432,10443,Der Bruder!,negative,emotions of affection,emotional movement
+140,GerDracor/goethe-clavigo.xml,10444,10490,"–  Sie zittert, man führt sie in einen Sessel.",negative,emotions of fear,fear
+141,GerDracor/goethe-clavigo.xml,10491,10510,Beaumarchais kommt.,emotional movement,emotional movement,emotional movement
+142,GerDracor/goethe-clavigo.xml,10511,10527,Meine Schwester!,emotional movement,emotional movement,emotional movement
+143,GerDracor/goethe-clavigo.xml,10529,10580,"Von der ältesten weg, nach der jüngsten zustürzend.",negative,emotions of suffering,suffering
+144,GerDracor/goethe-clavigo.xml,10581,10592,Bist du da?,emotional movement,emotions of joy,emotional movement
+145,GerDracor/goethe-clavigo.xml,10593,10619,"Gott sei Dank, du bist da!",positive,emotions of joy,joy
+146,GerDracor/goethe-clavigo.xml,10620,10650,Laß mich zu mir selbst kommen!,negative,emotional movement,emotional movement
+147,GerDracor/goethe-clavigo.xml,10651,10678,"Mein Herz, mein armes Herz!",negative,emotions of suffering,suffering
+148,GerDracor/goethe-clavigo.xml,10679,10693,Beruhigt euch!,emotional movement,emotional movement,emotional movement
+149,GerDracor/goethe-clavigo.xml,10694,10745,"Lieber Bruder, ich hoffte, dich gelassener zu sehn.",positive,emotions of affection,compassion
+150,GerDracor/goethe-clavigo.xml,10746,10757,Gelassener!,emotional movement,emotional movement,emotional movement
+151,GerDracor/goethe-clavigo.xml,10758,10781,Seid ihr denn gelassen?,emotional movement,emotional movement,emotional movement
+152,GerDracor/goethe-clavigo.xml,10782,11050,"Seh ich nicht an der zerstörten Gestalt dieser
+            Lieben, an deinen verweinten Augen, deiner Blässe des Kummers, an dem toten
+            Stillschweigen eurer Freunde, daß ihr so elend seid, wie ich mir euch den ganzen langen
+            Weg vorgestellt habe?",negative,emotions of suffering,suffering
+153,GerDracor/goethe-clavigo.xml,11051,11184,"Und elender – denn ich seh euch, ich hab euch in meinen Armen, die
+            Gegenwart verdoppelt meine Gefühle, o meine Schwester!",negative,emotions of affection,love
+154,GerDracor/goethe-clavigo.xml,11185,11201,Und unser Vater?,emotional movement,emotional movement,emotional movement
+155,GerDracor/goethe-clavigo.xml,11202,11247,"Er segnet euch und mich, wenn ich euch rette.",positive,emotions of affection,admiration
+156,GerDracor/goethe-clavigo.xml,11248,11461,"Mein Herr, erlauben Sie einem Unbekannten, der den edlen braven Mann in Ihnen beim
+            ersten Anblick erkennt, seinen innigsten Anteil an Tag zu legen, den er bei dieser
+            ganzen Sache empfindet.",positive,emotions of affection,love
+157,GerDracor/goethe-clavigo.xml,11462,11472,Mein Herr!,negative,emotional movement,emotional movement
+158,GerDracor/goethe-clavigo.xml,11473,11555,"Sie machen diese ungeheure Reise, Ihre Schwester zu
+            retten, zu rächen.",positive,emotions of suffering,love
+159,GerDracor/goethe-clavigo.xml,11556,11567,Willkommen!,positive,emotions of joy,joy
+160,GerDracor/goethe-clavigo.xml,11568,11648,"sein Sie willkommen wie ein Engel, ob Sie uns alle gleich
+            beschämen!",positive,emotions of suffering,suffering
+161,GerDracor/goethe-clavigo.xml,11649,11781,"Ich hoffte, mein Herr, in Spanien solche Herzen zu finden, wie das Ihre ist; das hat
+            mich angespornt den Schritt zu tun.",positive,emotions of affection,joy
+162,GerDracor/goethe-clavigo.xml,11782,11993,"Nirgend, nirgend in der Welt mangelt es an
+            teilnehmenden, beistimmenden Seelen; wenn nur einer auftritt, dessen Umstände ihm völlig
+            Freiheit lassen, all seiner Entschlossenheit zu folgen.",positive,emotions of affection,admiration
+163,GerDracor/goethe-clavigo.xml,11994,12260,"Und o, meine Freunde ich habe
+            das hoffnungsvolle Gefühl: überall gibt's treffliche Menschen unter den Mächtigen und
+            Großen, und das Ohr der Majestät ist selten taub; nur ist unsere Stimme meist zu
+            schwach, bis dahinauf zu reichen.",positive,emotions of joy,joy
+164,GerDracor/goethe-clavigo.xml,12261,12278,"Kommt, Schwester!",positive,emotions of fear,joy
+165,GerDracor/goethe-clavigo.xml,12279,12285,Kommt!,negative,emotions of fear,joy
+166,GerDracor/goethe-clavigo.xml,12286,12320,Legt Euch einen Augenblick nieder!,negative,emotions of suffering,suffering
+167,GerDracor/goethe-clavigo.xml,12322,12360,"Sie ist ganz außer
+              sich.",emotional movement,emotional movement,emotional movement
+168,GerDracor/goethe-clavigo.xml,12361,12380,Sie führen sie weg.,negative,emotions of rejection,anger
+169,GerDracor/goethe-clavigo.xml,12381,12393,Mein Bruder!,emotional movement,emotional movement,emotional movement
+170,GerDracor/goethe-clavigo.xml,12394,12471,"Will's Gott, du bist unschuldig, und dann alle, alle Rache über den Verräter!",negative,emotions of rejection,"hate, disgust"
+171,GerDracor/goethe-clavigo.xml,12472,12501,"Marie,
+            Sophie ab.",negative,emotional movement,suffering
+172,GerDracor/goethe-clavigo.xml,12502,12514,Mein Bruder!,emotional movement,emotional movement,emotional movement
+173,GerDracor/goethe-clavigo.xml,12515,12529,Meine Freunde!,positive,emotions of joy,friendship
+174,GerDracor/goethe-clavigo.xml,12530,12584,"ich seh's an euren Blicken, daß  Das Haus des Clavigo.",positive,emotions of affection,love
+175,GerDracor/goethe-clavigo.xml,12585,12593,Clavigo.,positive,emotions of joy,anger
+176,GerDracor/goethe-clavigo.xml,12594,12661,"Wer die Franzosen sein mögen, die sich bei mir haben melden lassen?",emotional movement,emotional movement,emotional movement
+177,GerDracor/goethe-clavigo.xml,12662,12674,– Franzosen!,negative,emotions of rejection,emotional movement
+178,GerDracor/goethe-clavigo.xml,12675,12725,"Sonst
+            war mir diese Nation willkommen!",positive,emotions of joy,joy
+179,GerDracor/goethe-clavigo.xml,12726,12750,– Und warum nicht jetzt?,emotional movement,emotions of joy,emotional movement
+180,GerDracor/goethe-clavigo.xml,12751,12881,"Es ist wunderbar, ein Mensch,
+            der sich über so vieles hinaussetzt, wird doch an einer Ecke mit Zwirnsfäden angebunden.",positive,emotions of joy,joy
+181,GerDracor/goethe-clavigo.xml,12894,12900,– Weg!,negative,emotions of rejection,anger
+182,GerDracor/goethe-clavigo.xml,12901,12951,– Und wär ich Marien mehr schuldig als mir selbst?,negative,emotions of affection,emotional movement
+183,GerDracor/goethe-clavigo.xml,12952,13044,"und ist's eine Pflicht, mich
+            unglücklich zu machen, weil mich ein Mädchen liebt?",negative,emotions of suffering,suffering
+184,GerDracor/goethe-clavigo.xml,13045,13059,Ein Bedienter.,negative,emotions of rejection,emotional movement
+185,GerDracor/goethe-clavigo.xml,13060,13083,"Die Fremden, mein Herr.",negative,emotional movement,emotional movement
+186,GerDracor/goethe-clavigo.xml,13084,13101,Führe sie herein!,positive,emotions of affection,fear
+187,GerDracor/goethe-clavigo.xml,13102,13181,"Du sagtest doch ihrem Bedienten, daß ich sie zum Frühstück
+            erwarte?",emotional movement,emotions of joy,joy
+188,GerDracor/goethe-clavigo.xml,13182,13199,Wie Sie befahlen.,negative,emotions of rejection,anger
+189,GerDracor/goethe-clavigo.xml,13200,13227,Ich bin gleich wieder hier.,negative,emotional movement,anger
+190,GerDracor/goethe-clavigo.xml,13229,13232,Ab.,negative,emotional movement,anger
+191,GerDracor/goethe-clavigo.xml,13233,13246,Beaumarchais.,emotional movement,emotional movement,emotional movement
+192,GerDracor/goethe-clavigo.xml,13247,13260,Saint George.,emotional movement,emotional movement,emotional movement
+193,GerDracor/goethe-clavigo.xml,13261,13302,Der Bediente setzt ihnen Stühle und geht.,negative,emotional movement,anger
+194,GerDracor/goethe-clavigo.xml,13303,13324,Es ist mir so leicht!,negative,emotions of suffering,joy
+195,GerDracor/goethe-clavigo.xml,13325,13333,so wohl!,positive,emotions of joy,joy
+196,GerDracor/goethe-clavigo.xml,13334,13432,"mein Freund, daß ich endlich hier bin, daß ich ihn habe;
+            er soll mir nicht entwischen.",positive,emotions of affection,joy
+197,GerDracor/goethe-clavigo.xml,13433,13514,"Sein Sie ruhig; wenigstens zeigen Sie ihm die gelassenste
+            Außenseite!",positive,emotions of joy,anger
+198,GerDracor/goethe-clavigo.xml,13515,13531,Meine Schwester!,emotional movement,emotional movement,emotional movement
+199,GerDracor/goethe-clavigo.xml,13532,13548,meine Schwester!,emotional movement,emotional movement,emotional movement
+200,GerDracor/goethe-clavigo.xml,13549,13616,"Wer glaubte, daß du so unschuldig als
+            unglücklich bist?",negative,emotions of suffering,suffering
+201,GerDracor/goethe-clavigo.xml,13617,13700,"Es soll an den Tag kommen, du sollst auf das grimmigste gerächt
+            werden.",negative,emotions of rejection,"hate, disgust"
+202,GerDracor/goethe-clavigo.xml,13701,13908,"Und du, guter Gott, erhalte mir die Ruhe der Seele, die du mir in diesem
+            Augenblicke gewährest, daß ich mit aller Mäßigung in dem entsetzlichen Schmerz und so
+            klug handle als möglich!",negative,emotions of suffering,suffering
+203,GerDracor/goethe-clavigo.xml,13909,13968,"Ja diese Klugheit, alles, mein Freund, was  Sein Sie ruhig!",positive,emotions of affection,friendship
+204,GerDracor/goethe-clavigo.xml,13969,14074,"Spielen Sie Ihre Rolle gut, er soll nicht wissen, mit welchem von uns
+            beiden er's zu tun hat.",positive,emotions of rejection,anger
+205,GerDracor/goethe-clavigo.xml,14075,14096,Ich will ihn martern.,negative,emotions of suffering,suffering
+206,GerDracor/goethe-clavigo.xml,14097,14187,"O, ich bin guten Humors genug, um den Kerl
+            an einem langsamen Feuer zu braten.",negative,emotions of rejection,Schadenfreude
+207,GerDracor/goethe-clavigo.xml,14188,14209,Clavigo kommt wieder.,positive,emotions of joy,Schadenfreude
+208,GerDracor/goethe-clavigo.xml,14210,14331,"Meine Herren, es ist mir eine Freude, Männer von einer Nation bei mir zu sehen, die ich
+            immer geschätzt habe.",positive,emotions of joy,joy
+209,GerDracor/goethe-clavigo.xml,14332,14453,"Mein Herr, ich wünsche, daß auch wir der Ehre würdig sein mögen, die Sie unsern
+            Landsleuten anzutun belieben.",positive,emotions of affection,admiration
+210,GerDracor/goethe-clavigo.xml,14454,14580,"Das Vergnügen, Sie kennen zu lernen, hat bei uns die Bedenklichkeit überwunden, daß wir
+            beschwerlich sein könnten.",positive,emotions of joy,joy
+211,GerDracor/goethe-clavigo.xml,14581,14685,"Personen, die der erste Anblick empfiehlt, sollten die Bescheidenheit nicht so weit
+            treiben.",positive,emotions of affection,admiration
+212,GerDracor/goethe-clavigo.xml,14686,15010,"Freilich kann Ihnen nicht fremd sein, von Unbekannten besucht zu werden, da Sie durch
+            die Vortrefflichkeit Ihrer Schriften sich ebensosehr in auswärtigen Reichen bekannt
+            gemacht haben, als die ansehnlichen Ämter, die Ihro Majestät Ihnen anvertrauen, Sie in
+            Ihrem Vaterlande distinguieren.",negative,emotions of suffering,admiration
+213,GerDracor/goethe-clavigo.xml,15011,15322,"Der König hat viel Gnade für meine geringen Dienste, und das Publikum viel Nachsicht
+            für die unbedeutenden Versuche meiner Feder; ich wünschte, daß ich einigermaßen etwas zu
+            der Verbesserung des Geschmacks in meinem Lande, zur Ausbreitung der Wissenschaften
+            beitragen könnte.",positive,emotions of affection,suffering
+214,GerDracor/goethe-clavigo.xml,15323,15604,"Denn sie sind's allein, die uns mit andern Nationen verbinden, sie
+            sind's, die aus den entferntesten Geistern Freunde machen und die angenehmste
+            Vereinigung unter denen selbst erhalten, die leider durch Staatsverhältnisse öfters
+            getrennt werden.",positive,emotions of affection,friendship
+215,GerDracor/goethe-clavigo.xml,15605,15680,"Es ist entzückend, einen Mann so reden zu  macht eine verbindliche Beugung.",positive,emotions of joy,joy
+216,GerDracor/goethe-clavigo.xml,15681,16116,"Und der eine besondere Zierde der Gelehrten ist, indem er gewußt hat, mit seinen
+            Talenten einen solchen Grad von Weltklugheit zu verbinden; dem es nicht fehlen kann, die
+            glänzenden Stufen zu besteigen, deren ihn sein Charakter und seine Kenntnisse würdig
+            machen – ich glaube, meinen Freunden keinen angenehmern Dienst leisten zu können, als
+            wenn ich sie mit einem solchen Manne verbinde.",positive,emotions of affection,admiration
+217,GerDracor/goethe-clavigo.xml,16117,16349,"Kein Vorschlag in der Welt konnte mir erwünschter sein, meine Herren: ich sehe dadurch
+            die angenehmsten Hoffnungen erfüllt, mit denen sich mein Herz oft ohne Aussicht einer
+            glücklichen Gewährung beschäftigte.",positive,emotions of joy,joy
+218,GerDracor/goethe-clavigo.xml,16350,16503,"Nicht daß ich glaubte, durch meinen Briefwechsel den
+            Wünschen Ihrer gelehrten Freunde genugtun zu können; so weit geht meine Eitelkeit nicht.",negative,emotions of affection,friendship
+219,GerDracor/goethe-clavigo.xml,16516,17175,"Aber da ich das Glück habe, daß die besten Köpfe in Spanien mit mir zusammenhängen, da
+            mir nichts unbekannt bleiben mag, was in unserm weiten Reiche von einzelnen, oft
+            verborgenen Männern für die Wissenschaften, für die Künste getan wird, so sahe ich mich
+            bisher als einen Kolporteur an, der das geringe Verdienst hat, die Erfindungen anderer
+            gemeinnützig zumachen; nun aber werd' ich durch Ihre Dazwischenkunft zum Handelsmann,
+            der das Glück hat, durch Umsetzung der einheimischen Produkte den Ruhm seines
+            Vaterlandes auszubreiten und darüber es noch mit fremden Schätzen zu bereichern.",positive,emotions of joy,admiration
+220,GerDracor/goethe-clavigo.xml,17176,17358,"Und so
+            erlauben Sie, mein Herr, daß ich einen Mann, der mit solcher Freimütigkeit eine so
+            angenehme  Ich nehme ein so gefälliges Anerbieten mit allem Dank an.",positive,emotions of affection,joy
+221,GerDracor/goethe-clavigo.xml,17359,17558,"Ich habe keine Geheimnisse
+            für Sie, mein Herr, und dieser Freund wird bei meiner Erzählung nicht zuviel sein; er
+            ist sattsam von dem unterrichtet, was ich Ihnen zu sagen habe.",positive,emotions of affection,anger
+222,GerDracor/goethe-clavigo.xml,17559,17602,betrachtet Saint George mit Aufmerksamkeit.,emotional movement,emotional movement,emotional movement
+223,GerDracor/goethe-clavigo.xml,17603,17745,"Ein französischer Kaufmann, der bei einer starken Anzahl von Kindern wenig Vermögen
+            besaß, hatte viele Korrespondenten in Spanien.",negative,emotions of suffering,suffering
+224,GerDracor/goethe-clavigo.xml,17746,17934,"Einer der reichsten kam vor fünfzehn
+            Jahren nach Paris und tat ihm den Vorschlag: »Gebt mir zwei von Euern Töchtern, ich
+            nehme sie mit nach Madrid und versorge sie.",positive,emotions of affection,joy
+225,GerDracor/goethe-clavigo.xml,17935,18209,"Ich bin ledig, bejahrt, ohne Verwandte, sie
+            werden das Glück meiner alten Tage machen, und nach meinem Tode hinterlaß ich ihnen eine
+            der ansehnlichsten Handlungen in Spanien.« Man vertraute ihm die älteste und eine der
+            jüngern Schwestern.",positive,emotions of affection,admiration
+226,GerDracor/goethe-clavigo.xml,18210,18556,"Der Vater übernahm, das Haus mit allen französischen Waren zu
+            versehn, die man verlangen würde, und so hatte alles ein gutes Ansehn, bis der
+            Korrespondent mit Tode abging, ohne die Französinnen im geringsten zu bedenken, die sich
+            denn in dem beschwerlichen Falle sahen, allein einer neuen Handlung vorzustehen.",negative,emotions of suffering,suffering
+227,GerDracor/goethe-clavigo.xml,18557,18875,"Die älteste hatte unterdessen geheiratet, und unerachtet des geringen Zustandes ihrer
+            Glücksgüter erhielten sie sich durch gute Aufführung und durch die Annehmlichkeit ihres
+            Geistes eine Menge Freunde, die sich wechselsweise beeiferten, ihren Kredit und ihre
+            Geschäfte zu erweitern.",positive,emotions of affection,friendship
+228,GerDracor/goethe-clavigo.xml,18876,18900,wird immer aufmerksamer.,emotional movement,emotional movement,emotional movement
+229,GerDracor/goethe-clavigo.xml,18901,19083,"Ungefähr um eben die Zeit hatte sich  verliert alle Munterkeit aus seinem Gesicht, und sein Ernst geht nach und nach in
+            eine Verlegenheit über, die immer sichtbarer wird.",emotional movement,emotional movement,emotional movement
+230,GerDracor/goethe-clavigo.xml,19084,19160,Ungeachtet seines geringen Standes und Vermögens nimmt man ihn gefällig auf.,positive,emotions of affection,joy
+231,GerDracor/goethe-clavigo.xml,19161,19350,"Die
+            Frauenzimmer, die eine große Begierde zur französischen Sprache an ihm bemerkten,
+            erleichtern ihm alle Mittel, sich in weniger Zeit große Kenntnisse zu erwerben.",positive,emotions of affection,joy
+232,GerDracor/goethe-clavigo.xml,19351,19580,"Voll von Begierde, sich einen Namen zu machen, fällt er auf den Gedanken, der Stadt
+            Madrid das seiner Nation noch unbekannte Vergnügen einer Wochenschrift im Geschmack des
+            englischen »Zuschauers« zu geben.",positive,emotions of joy,joy
+233,GerDracor/goethe-clavigo.xml,19581,19920,"Seine Freundinnen lassen es nicht ermangeln, ihm auf
+            alle Art beizustehn; man zweifelt nicht, daß ein solches Unternehmen großen Beifall
+            finden würde; genug, ermuntert durch die Hoffnung, nun bald ein Mensch von einiger
+            Bedeutung werden zu können, wagt er es, der jüngsten einen Heiratsvorschlag zu tun.",positive,emotions of joy,joy
+234,GerDracor/goethe-clavigo.xml,19921,19943,Man gibt ihm Hoffnung.,positive,emotions of joy,joy
+235,GerDracor/goethe-clavigo.xml,19944,20309,"»Sucht Euer Glück zu machen«, sagt die älteste, »und wenn Euch
+            ein Amt, die Gunst des Hofes, oder irgend sonst ein Mittel ein Recht wird gegeben haben,
+            an meine Schwester zu denken, wenn sie Euch denn andern Freiern vorzieht, kann ich Euch
+            meine Einwilligung nicht versagen.« bewegt sich in höchster Verwirrung auf seinem Sessel.",emotional movement,emotional movement,emotional movement
+236,GerDracor/goethe-clavigo.xml,20310,20680,"Die jüngste schlägt verschiedene ansehnliche Partieen aus; ihre Neigung gegen den
+            Menschen nimmt zu und hilft ihr die Sorge einer ungewissen Erwartung tragen; sie
+            interessiert sich für sein Glück wie für ihr eigenes, und ermuntert ihn, das erste Blatt
+            seiner Wochenschrift zu geben, das unter einem vielversprechenden Titel erscheint.",positive,emotions of affection,love
+237,GerDracor/goethe-clavigo.xml,20681,20721,ist in der entsetzlichsten Verlegenheit.,negative,emotions of fear,emotional movement
+238,GerDracor/goethe-clavigo.xml,20722,20732,ganz kalt.,negative,emotions of suffering,suffering
+239,GerDracor/goethe-clavigo.xml,20733,20896,"Das Werk macht ein erstaunendes Glück; der König selbst, durch diese liebenswürdige
+            Produktion ergetzt, gab dem Autor öffentliche Zeichen seiner Gnade.",positive,emotions of joy,joy
+240,GerDracor/goethe-clavigo.xml,20897,20976,"Man versprach ihm
+            das erste ansehnliche Amt, das sich auftun würde.",positive,emotions of joy,joy
+241,GerDracor/goethe-clavigo.xml,20977,21108,"Von dem Augenblick an entfernt  es entfährt ihm ein tiefer Seufzer, den er zu verbergen sucht, und ganz außer sich
+            ist.",negative,emotions of suffering,suffering
+242,GerDracor/goethe-clavigo.xml,21109,21228,"Die Sache hatte zu großes Aufsehn gemacht, als daß man die Entwicklung sollte
+            gleichgültig angesehen haben.",emotional movement,emotions of fear,emotional movement
+243,GerDracor/goethe-clavigo.xml,21229,21269,Ein Haus für zwei Familien war gemietet.,negative,emotions of suffering,suffering
+244,GerDracor/goethe-clavigo.xml,21270,21311,"Die ganze Stadt
+            sprach davon.",emotional movement,emotions of rejection,suffering
+245,GerDracor/goethe-clavigo.xml,21312,21374,Alle Freunde waren aufs höchste aufgebracht und suchten Rache.,negative,emotions of rejection,anger

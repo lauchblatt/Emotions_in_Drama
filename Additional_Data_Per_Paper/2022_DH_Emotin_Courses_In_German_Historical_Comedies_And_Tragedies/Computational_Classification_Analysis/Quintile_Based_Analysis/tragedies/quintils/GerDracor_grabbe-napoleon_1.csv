@@ -1,0 +1,968 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/grabbe-napoleon.xml,0,89, Dieses Drama war vor den welthistorischen Ereignissen des Juli vorigen Jahres vollendet.,negative,emotions of suffering,suffering
+1,GerDracor/grabbe-napoleon.xml,100,202,"Seitdem ist manches eingetroffen, was in ihm vorausgesagt ist, – ebensoviel aber auch
+          nicht.",positive,emotions of suffering,suffering
+2,GerDracor/grabbe-napoleon.xml,203,277,Man halte also den Verfasser an keiner Stelle für einen Propheten ex post.,negative,emotions of rejection,"hate, disgust"
+3,GerDracor/grabbe-napoleon.xml,278,562,"Seine
+          Krankheit und andere Zufälle verhinderten die frühere Beendigung des Druckes, und es
+          können erfoderlichen Falles ehrenwerte Zeugen, welche das Stück vor dem erwähnten
+          Zeitpunkt kannten, jedem Zweifelnden die Wahrheit obiger Angaben sofort beweisen.",positive,emotions of joy,suffering
+4,GerDracor/grabbe-napoleon.xml,563,569,Paris.,emotional movement,emotional movement,emotional movement
+5,GerDracor/grabbe-napoleon.xml,570,605,Unter den Arkaden des Palais Royal.,positive,emotions of suffering,emotional movement
+6,GerDracor/grabbe-napoleon.xml,606,738,"Vieles Volk treibt sich durcheinander, darunter Bürger, Offiziere, Soldaten,
+            Marktschreier, Savoyardenknaben und andere.",emotional movement,emotional movement,emotional movement
+7,GerDracor/grabbe-napoleon.xml,739,794,"Die sprechenden Personen halten sich, im Vorgrunde auf.",emotional movement,emotional movement,emotional movement
+8,GerDracor/grabbe-napoleon.xml,795,866,"Vitry und Chassecoeur sind
+            zwei abgedankte Kaisergardisten.",negative,emotions of suffering,suffering
+9,GerDracor/grabbe-napoleon.xml,867,1015,"Lustig, Chassecoeur, die Welt ist noch nicht untergegangen, – man hört sie noch –
+              dort oben im zweiten Stock wird entsetzlich gelärmt.",negative,emotions of joy,joy
+10,GerDracor/grabbe-napoleon.xml,1016,1019,So?,emotional movement,emotional movement,emotional movement
+11,GerDracor/grabbe-napoleon.xml,1020,1058,– Ich hörte nichts – Warum lärmen sie?,negative,emotional movement,emotional movement
+12,GerDracor/grabbe-napoleon.xml,1059,1105,Der alte Kanonendonner steckt dir noch im Ohr.,negative,emotions of rejection,"hate, disgust"
+13,GerDracor/grabbe-napoleon.xml,1106,1126,Hörst du denn nicht?,emotional movement,emotions of suffering,anger
+14,GerDracor/grabbe-napoleon.xml,1127,1195,"Wie rollt das
+              Geld, wie zanken sie sich – sie spielen.",positive,emotions of rejection,anger
+15,GerDracor/grabbe-napoleon.xml,1196,1303,"O mein Karabiner, dürft ich mit deiner Kolbe wieder die Kisten zerschmettern wie die
+              Gehirne!",negative,emotions of rejection,Schadenfreude
+16,GerDracor/grabbe-napoleon.xml,1304,1378,"Ja, ja, Vater Veilchen spielte um die Welt, und wir waren seine Croupiers.",positive,emotions of joy,joy
+17,GerDracor/grabbe-napoleon.xml,1379,1392,Blut und Tod!,negative,emotions of fear,despair
+18,GerDracor/grabbe-napoleon.xml,1393,1411,Wären wir es noch!,negative,emotions of fear,Schadenfreude
+19,GerDracor/grabbe-napoleon.xml,1412,1582,"Na, still, nur still – In unsrem schönen Frankreich blühn jeden Lenz das Veilchen,
+              der Frohsinn und die Liebe wieder neu, – Veilchenvater kommt auch zurück.",positive,emotions of joy,joy
+20,GerDracor/grabbe-napoleon.xml,1583,1704,"Hier, meine Herren, ist zu sehen Ludwig der Achtzehnte, König von Frankreich und von
+              Navarra, der Ersehnte.",positive,emotions of joy,joy
+21,GerDracor/grabbe-napoleon.xml,1705,1727,dem vorigen gegenüber.,emotional movement,emotions of affection,admiration
+22,GerDracor/grabbe-napoleon.xml,1728,2040,"Hier, meine Herren, sehen Sie einen der letzten des aussterbenden Geschlechtes der
+              Dronten, wackeligen Ganges, mit einem Schnabel gleich zwei Löffeln, von Isle de France
+              und Bourbon bei Madagaskar, lange von den Naturforschern ersehnt, ihn zu betrachten
+              und zu zerlegen.",negative,emotions of joy,"hate, disgust"
+23,GerDracor/grabbe-napoleon.xml,2041,2208,"Hier ist zu sehen der Monsieur, der Herzog von Angoulême, sein Sohn, die Herzogin,
+              dessen Gemahlin, der Herzog von Berry und das ganze bourbonische Haus.",positive,emotions of joy,joy
+24,GerDracor/grabbe-napoleon.xml,2209,2653,"Hier erblicken Sie den langen Orang-Utang, gezähmt und fromm, aber noch immer beißig,
+              den Pavian, ähnlichen Naturells, die Meerkatze, etwas toller als die beiden andern,
+              und so genannt, weil sie über die See zu uns gekommen, den gewöhnlichen Affen, nach
+              Linné simia silvanus, und das ganze Geschlecht der Affen, wie es nicht einmal in dem
+              Pflanzengarten oder den Tuilerien leibt und lebt.",positive,emotions of joy,"hate, disgust"
+25,GerDracor/grabbe-napoleon.xml,2654,2702,"Mensch, du beleidigst den König und die Prinzen.",negative,emotions of rejection,anger
+26,GerDracor/grabbe-napoleon.xml,2703,2740,"Wie, mein Herr, wenn ich Affen zeige?",negative,emotional movement,emotional movement
+27,GerDracor/grabbe-napoleon.xml,2741,2763,Hier mein Privilegium.,positive,emotions of joy,admiration
+28,GerDracor/grabbe-napoleon.xml,2764,2771,Rettet!,negative,emotions of fear,fear
+29,GerDracor/grabbe-napoleon.xml,2772,2796,Helft dem Unglücklichen!,negative,emotions of suffering,compassion
+30,GerDracor/grabbe-napoleon.xml,2797,2804,Was da?,emotional movement,emotional movement,emotional movement
+31,GerDracor/grabbe-napoleon.xml,2805,2927,"Aus dem zweiten Stock stürzt einer auf das Pflaster, und sein Gehirn beschmutzt die
+              Kleider der Umstehenden.",negative,emotions of suffering,suffering
+32,GerDracor/grabbe-napoleon.xml,2928,2974,"Wohl ein Spieler, der sein Alles verloren hat.",negative,emotions of suffering,suffering
+33,GerDracor/grabbe-napoleon.xml,2975,3087,"Oder den die Mitspieler aus dem Fenster geworfen haben, weil er betrogen oder zuviel
+              gewonnen hat.",negative,emotions of rejection,"hate, disgust"
+34,GerDracor/grabbe-napoleon.xml,3088,3108,Wie du raten kannst.,negative,emotions of rejection,anger
+35,GerDracor/grabbe-napoleon.xml,3109,3150,– Das Volk zittert und faßt ihn nicht an.,negative,emotions of fear,fear
+36,GerDracor/grabbe-napoleon.xml,3151,3190,"Ich will ihm
+              beispringen.",positive,emotions of affection,friendship
+37,GerDracor/grabbe-napoleon.xml,3191,3211,"Pah, laß ihn liegen.",negative,emotions of rejection,anger
+38,GerDracor/grabbe-napoleon.xml,3212,3278,"Freund, hätt er nun Frau und Kind, die ohne ihn verhungern müßten?",negative,emotions of suffering,compassion
+39,GerDracor/grabbe-napoleon.xml,3279,3294,Mir recht lieb.,positive,emotions of joy,joy
+40,GerDracor/grabbe-napoleon.xml,3295,3389,"Ich muß auch hungern, – ich wollte die ganze Welt hungerte mit zur
+              Gesellschaft.",negative,emotions of rejection,suffering
+41,GerDracor/grabbe-napoleon.xml,3390,3403,"– Vitry, Wir!",negative,emotional movement,emotional movement
+42,GerDracor/grabbe-napoleon.xml,3404,3972,"Als wir Italien, Deutschland, Spanien, Rußland, und Gott
+              weiß was sonst, plünderten und brandschatzten, tausend und aber tausend Damen dieser
+              Länder karessierten oder notzüchtigten, das Geld in Haufen auf die Straße warfen, den
+              Kindern zum Spielwerk, weil wir jede Minute neues bekommen konnten, – hätten wir da
+              gedacht, jetzt zusammen keine vier Sous in der Tasche zu haben, abgesetzt, der Gage
+              beraubt zu sein durch die schwammigen, seewässerigen, schwindsüchtelnden – Bonbons, oder wie es heißt.",negative,emotions of rejection,joy
+43,GerDracor/grabbe-napoleon.xml,3973,4001,Kenne den Namen nicht genau.,emotional movement,emotions of rejection,emotional movement
+44,GerDracor/grabbe-napoleon.xml,4002,4014,– Doch höre!,emotional movement,emotions of suffering,suffering
+45,GerDracor/grabbe-napoleon.xml,4015,4050,"Der kleine
+              Savoyarde.",negative,emotions of joy,emotional movement
+46,GerDracor/grabbe-napoleon.xml,4051,4084,mit Murmeltier und dem Dudelsack.,positive,emotions of rejection,Schadenfreude
+47,GerDracor/grabbe-napoleon.xml,4085,4148,"La marmotte, la marmotte, Avec ci, avec là, La marmotte ist da.",positive,emotions of joy,joy
+48,GerDracor/grabbe-napoleon.xml,4149,4224,"Von den Alpen – Schläft im Winter, – Wacht im Sommer, – Und tanzt in Paris.",positive,emotions of joy,joy
+49,GerDracor/grabbe-napoleon.xml,4225,4288,"La marmotte, la marmotte, Avec ci, avec là, La marmotte ist da.",positive,emotions of joy,joy
+50,GerDracor/grabbe-napoleon.xml,4289,4337,"Meine Damen und meine Herren, hieher gefälligst.",negative,emotions of rejection,anger
+51,GerDracor/grabbe-napoleon.xml,4338,4453,"– Etwas Besseres als eine elende
+              Marmotte, – die ganze Welt schauen Sie hier, wie sie rollt und lebt.",positive,emotions of joy,joy
+52,GerDracor/grabbe-napoleon.xml,4454,4485,Was schimpfst du mein Tierchen?,negative,emotions of rejection,anger
+53,GerDracor/grabbe-napoleon.xml,4486,4553,Es ist wohl ebenso gut als dein Guckkasten – Zu seinem Murmeltiere.,positive,emotions of affection,joy
+54,GerDracor/grabbe-napoleon.xml,4554,4801,"Armes Ding, siehst ordentlich betrübt aus, – der grobe Mensch hat dich beleidigt – O
+              mein Schätzchen, freue dich, sei wieder munter, – niemand glaubt dem Schimpfen – ich
+              gebe dir auch zwei dicke, süße Wurzeln zu Mittag.",negative,emotions of suffering,compassion
+55,GerDracor/grabbe-napoleon.xml,4802,4820,Nur wieder munter!,positive,emotions of joy,joy
+56,GerDracor/grabbe-napoleon.xml,4821,4840,"Sieh da, Zuschauer!",positive,emotions of joy,emotional movement
+57,GerDracor/grabbe-napoleon.xml,4841,4854,– Willkommen!,positive,emotions of joy,joy
+58,GerDracor/grabbe-napoleon.xml,4855,4937,"– Erlaubnis, daß ich erst die Gläser abwische – So
+              – Treten Sie vor.",negative,emotional movement,anger
+59,GerDracor/grabbe-napoleon.xml,4938,5065,"– Da schauen Sie die große Schlacht an der Moskwa – Hier Bonaparte
+              –  – Bonaparte auf weißem Schimmel – Du lügst!",negative,emotions of rejection,anger
+60,GerDracor/grabbe-napoleon.xml,5066,5119,Der Kaiser war zu Fuß und kommandierte aus der Ferne.,negative,emotions of fear,fear
+61,GerDracor/grabbe-napoleon.xml,5120,5186,"Ich hielt keine zwölf
+              Schritt von ihm als Ordonnanz.",negative,emotions of rejection,"hate, disgust"
+62,GerDracor/grabbe-napoleon.xml,5187,5372,"Und da, meine Herren und Damen, erblicken Sie den großen, edlen Feldmarschall Kutusow
+              – Die alte Schlafmütze, die den Löwen zu fangen verstand, aber nicht zu halten wußte.",negative,emotions of rejection,"hate, disgust"
+63,GerDracor/grabbe-napoleon.xml,5387,5508,"Hätt er mit seinen Leuten jeden Tag nur viertausend Schritt mehr gemacht, so kam kein
+              Franzose aus Rußland.",negative,emotions of rejection,"hate, disgust"
+64,GerDracor/grabbe-napoleon.xml,5509,5572,"Und hier schauen Sie  Eh, da schlug ich ja die Pontons mit auf!",positive,emotions of joy,joy
+65,GerDracor/grabbe-napoleon.xml,5573,5582,Beresina!,positive,emotions of joy,emotional movement
+66,GerDracor/grabbe-napoleon.xml,5583,5604,Eis und Todesschauer!,negative,emotions of fear,despair
+67,GerDracor/grabbe-napoleon.xml,5605,5640,– Da war ich auch – Laß doch sehen!,negative,emotions of joy,joy
+68,GerDracor/grabbe-napoleon.xml,5641,5678,Er tritt an ein Glas des Guckkastens.,emotional movement,emotional movement,emotional movement
+69,GerDracor/grabbe-napoleon.xml,5679,5705,"Mein Gott, wie erbärmlich!",negative,emotions of rejection,anger
+70,GerDracor/grabbe-napoleon.xml,5706,5727,"– Vitry, guck einmal!",emotional movement,emotions of joy,emotional movement
+71,GerDracor/grabbe-napoleon.xml,5728,5738,Ich gucke.,emotional movement,emotional movement,emotional movement
+72,GerDracor/grabbe-napoleon.xml,5739,5751,Dummes Zeug.,negative,emotions of rejection,anger
+73,GerDracor/grabbe-napoleon.xml,5752,5883,"Ich hatte damals nichts im Leibe und stand drei Fuß tief im
+              Wasser, unter herüberfliegendem feindlichen Kanonenhagel.",negative,emotions of fear,suffering
+74,GerDracor/grabbe-napoleon.xml,5884,6078,"Du gabst mir einen Schnaps
+              – Es war mein vorletzter – Wie albern hier – weder Pioniere, Gardisten, Linie sind zu unterscheiden – Und wie
+              wenig Leichen und Verwundete!",negative,emotions of rejection,anger
+75,GerDracor/grabbe-napoleon.xml,6079,6092,zum Ausrufer.,emotional movement,emotional movement,emotional movement
+76,GerDracor/grabbe-napoleon.xml,6093,6149,"Mann, kannst du Frost, Hunger, Durst und Geschrei malen?",negative,emotions of fear,despair
+77,GerDracor/grabbe-napoleon.xml,6150,6166,"Nein, mein Herr.",emotional movement,emotions of rejection,emotional movement
+78,GerDracor/grabbe-napoleon.xml,6167,6201,So ist das Malerhandwerk Lumperei.,negative,emotions of rejection,"hate, disgust"
+79,GerDracor/grabbe-napoleon.xml,6202,6313,"Ah, und da sehen Sie die so braven, aber jetzt geschlagenen Franzosen über die
+              Beresina flüchten.",positive,emotions of joy,joy
+80,GerDracor/grabbe-napoleon.xml,6314,6461,"Mein Herr und Freund, die Schläge, die wir damals erhielten, will ich sämtlich auf
+              meinen Rücken nehmen, ohne daß er davon blau wird.",negative,emotions of suffering,anger
+81,GerDracor/grabbe-napoleon.xml,6462,6475,"Recht, Vitry!",positive,emotions of joy,anger
+82,GerDracor/grabbe-napoleon.xml,6476,6602,"– Wir, nur achttausend Mann, umstellt wie ein Wildbret, schlugen uns
+              durch sechzigtausend Schufte, und entkamen.",negative,emotions of rejection,fear
+83,GerDracor/grabbe-napoleon.xml,6603,6628,Und das nannten sie Sieg!,positive,emotions of rejection,joy
+84,GerDracor/grabbe-napoleon.xml,6629,6701,"Die armen russischen Teufel wissen wohl nicht, was ein rechter Sieg ist.",negative,emotions of suffering,compassion
+85,GerDracor/grabbe-napoleon.xml,6702,7122,"Und hier, meine Damen und Herren, die große Völkerschlacht bei Leipzig – Schauen Sie:
+              da die bemooseten grauen Türme der alten Stadt, – da die alte Garde zu Fuß, voran der
+              Tambourmajor, mit dem großen Stab, wie er ihn todverhöhnend lustig in die Luft wirft,
+              – hier die alte Garde zu Pferde, im gelben Kornfelde haltend, wie ein Pfeil, der
+              abgeschossen werden soll.",emotional movement,emotions of joy,suffering
+86,GerDracor/grabbe-napoleon.xml,7123,7173,– Dort die braven Linientruppen schon im Gefechte.,negative,emotions of joy,joy
+87,GerDracor/grabbe-napoleon.xml,7174,7269,"Hier die
+              preußischen Jäger mit den kurzen Flügelhörnern – O Preußen und Patronen!",negative,emotions of joy,"hate, disgust"
+88,GerDracor/grabbe-napoleon.xml,7270,7545,"– und da im Regen, unter dem Galgen, den er verdient, der Blutsauger, der jämmerliche
+              korsische Edelmann, jetzt entflohen vor dem gerechten Zorne seines rechtmäßigen
+              Fürsten, Ludwigs des Achtzehnten, der meuchelmördrische Bonaparte – Wer sagt das?",negative,emotions of rejection,"hate, disgust"
+89,GerDracor/grabbe-napoleon.xml,7546,7650,"Schurke, mehr wert war Er, als alle deine Ludwigs, – wenigstens zahlte er den vollen
+              Sold.",negative,emotions of rejection,anger
+90,GerDracor/grabbe-napoleon.xml,7651,7688,Den Kaiser laß ich nicht beschimpfen!,negative,emotions of rejection,anger
+91,GerDracor/grabbe-napoleon.xml,7689,7712,Entzwei den Guckkasten!,negative,emotions of rejection,"hate, disgust"
+92,GerDracor/grabbe-napoleon.xml,7713,7719,Hülfe!,emotional movement,emotions of fear,fear
+93,GerDracor/grabbe-napoleon.xml,7720,7726,Hülfe!,emotional movement,emotions of fear,fear
+94,GerDracor/grabbe-napoleon.xml,7727,7742,– Konspiration!,negative,emotions of rejection,anger
+95,GerDracor/grabbe-napoleon.xml,7743,7757,– Gensd'armes!,negative,emotions of suffering,compassion
+96,GerDracor/grabbe-napoleon.xml,7758,7789,– Man spricht hier von Kaisern!,positive,emotions of affection,admiration
+97,GerDracor/grabbe-napoleon.xml,7790,7817,"Ja, und die Könige zittern!",negative,emotions of fear,fear
+98,GerDracor/grabbe-napoleon.xml,7818,7824,kommt.,emotional movement,emotional movement,emotional movement
+99,GerDracor/grabbe-napoleon.xml,7825,7860,"Kaiser, Kaiser, – ist er wieder da?",positive,emotional movement,emotional movement
+100,GerDracor/grabbe-napoleon.xml,7861,7874,Was weiß ich.,emotional movement,emotional movement,emotional movement
+101,GerDracor/grabbe-napoleon.xml,7875,7925,Meinen Kasten haben sie mir in Stücken geschlagen.,negative,emotions of rejection,"hate, disgust"
+102,GerDracor/grabbe-napoleon.xml,7926,7965,"Er kostet funfzig
+              Franks.",positive,emotions of rejection,anger
+103,GerDracor/grabbe-napoleon.xml,7966,8011,"Bitte die Angoulême, daß sie ihn dir bezahlt.",negative,emotions of rejection,anger
+104,GerDracor/grabbe-napoleon.xml,8012,8064,"– Hier ist deines Bleibens nicht
+              mehr.",negative,emotions of fear,suffering
+105,GerDracor/grabbe-napoleon.xml,8065,8094,auf den Ausrufer losdringend.,negative,emotions of rejection,anger
+106,GerDracor/grabbe-napoleon.xml,8095,8127,Der Lump – Zerreißt ihn – kommt.,negative,emotions of rejection,"hate, disgust"
+107,GerDracor/grabbe-napoleon.xml,8128,8205,"Guckkastenkerl, fort mit dir, – du veranlassest Aufruhr – Ich lobe den König.",negative,emotions of rejection,anger
+108,GerDracor/grabbe-napoleon.xml,8206,8256,Darum brauchst du andre nicht zu schimpfen – Fort!,negative,emotions of rejection,anger
+109,GerDracor/grabbe-napoleon.xml,8257,8266,Herrlich!,positive,emotions of joy,joy
+110,GerDracor/grabbe-napoleon.xml,8267,8293,Es lebe die Gensd'armerie!,negative,emotions of joy,joy
+111,GerDracor/grabbe-napoleon.xml,8294,8306,Chassecoeur.,positive,emotions of rejection,joy
+112,GerDracor/grabbe-napoleon.xml,8307,8466,"Die Stimme kenn ich von den Pyramiden her, als wir da unser Trikolor hoch über Kairos
+              Minaretts aufpflanzten, und der Nil zu unsern Füßen rollte.",negative,emotions of rejection,joy
+113,GerDracor/grabbe-napoleon.xml,8467,8531,"– Mein Hauptmann, seit
+              Ägypten sah ich dich nicht.",negative,emotions of suffering,love
+114,GerDracor/grabbe-napoleon.xml,8532,8570,Ich focht während der Zeit bald in St.,negative,emotions of suffering,fear
+115,GerDracor/grabbe-napoleon.xml,8571,8696,"Domingo, bald in Deutschland, dann bei
+              Cattaro, dann in Schwedisch Pommern, und zuletzt bei Riga und Montereau.",emotional movement,emotions of suffering,suffering
+116,GerDracor/grabbe-napoleon.xml,8697,8817,"Na, ich war die Zeit über meistens in Österreich, Italien und Spanien, zuletzt in
+              Rußland und Deutschland.",emotional movement,emotions of rejection,suffering
+117,GerDracor/grabbe-napoleon.xml,8818,8894,"Und bei Montereau kämpft' ich auch, vielleicht in deiner
+              Nähe.",positive,emotions of affection,friendship
+118,GerDracor/grabbe-napoleon.xml,8895,9127,"Chassecoeur, wir haben beide eine  Wahr – du und ich könnten so gut als Marschälle figurieren, wie die verräterischen
+              Schurken, der Augereau und der Marmont, vielleicht Kaiser dazu sein, wie der
+              Napoleon.",negative,emotions of rejection,admiration
+119,GerDracor/grabbe-napoleon.xml,9128,9134,La la!,negative,emotional movement,emotional movement
+120,GerDracor/grabbe-napoleon.xml,9135,9194,"Den einen trägt, den andern ersäuft die Woge des Geschicks.",negative,emotions of suffering,suffering
+121,GerDracor/grabbe-napoleon.xml,9195,9335,"Das Herz nur
+              frisch, es ist die Fischblase, und hebt uns, wenn wir wollen, bis wir krepieren, sei
+              es so oder so.",positive,emotions of joy,joy
+122,GerDracor/grabbe-napoleon.xml,9336,9367,Zu einer vorübergehenden Dirne.,positive,emotions of affection,"hate, disgust"
+123,GerDracor/grabbe-napoleon.xml,9368,9389,"Einen Kuß, mein Kind!",positive,emotions of affection,love
+124,GerDracor/grabbe-napoleon.xml,9390,9420,Was verwahrst du an der Brust?,negative,emotions of affection,emotional movement
+125,GerDracor/grabbe-napoleon.xml,9421,9456,"Ist es etwas zu essen, Chassecoeur?",positive,emotional movement,emotional movement
+126,GerDracor/grabbe-napoleon.xml,9457,9471,Gib mir davon.,negative,emotions of affection,anger
+127,GerDracor/grabbe-napoleon.xml,9472,9576,"Hauptmann, ich eß es nicht und doch macht es mich bisweilen satt und dich vielleicht
+              auch.",negative,emotions of joy,suffering
+128,GerDracor/grabbe-napoleon.xml,9577,9651,"Nun geht es los mit seinen verwünschten Phrasen, und sie rühren mich doch.",negative,emotions of suffering,suffering
+129,GerDracor/grabbe-napoleon.xml,9652,9784,"Es ist ein Adler der Garde, von mir gerettet, als er unter tausend Leichen hinsinken
+              wollte bei Leipzigs Elsterbrücke.",positive,emotions of joy,joy
+130,GerDracor/grabbe-napoleon.xml,9785,9817,Und – sonst hole mich der Satan!,negative,emotions of fear,"hate, disgust"
+131,GerDracor/grabbe-napoleon.xml,9818,9904,"(wenn es einen
+              gibt) die Sonne kommt zurück, zu der er wieder auffliegt.",positive,emotions of joy,joy
+132,GerDracor/grabbe-napoleon.xml,9905,10006,"Ich glaub es auch: jetzt ist es zwar Nacht, und die Toren wähnen, das Licht bliebe
+              aus.",negative,emotions of suffering,suffering
+133,GerDracor/grabbe-napoleon.xml,10007,10124,"Aber so wenig wie die Sonne dort oben, kann eine Größe wie die Seinige
+              untergehen, und Er kommt wieder.",positive,emotions of affection,admiration
+134,GerDracor/grabbe-napoleon.xml,10125,10134,Das wäre!,negative,emotions of rejection,anger
+135,GerDracor/grabbe-napoleon.xml,10135,10180,Hier werf ich meine letzten Sous in die Luft!,negative,emotions of rejection,Schadenfreude
+136,GerDracor/grabbe-napoleon.xml,10181,10239,Es lebe – Doch still – Er hält sich die Hand auf den Mund.,negative,emotions of suffering,suffering
+137,GerDracor/grabbe-napoleon.xml,10240,10275,Deine paar Sous konntest du sparen.,negative,emotions of rejection,anger
+138,GerDracor/grabbe-napoleon.xml,10276,10370,"Was hilft es uns, daß der Kaiser zurückkommt,
+              wenn wir unterdes verhungert sind?",negative,emotions of suffering,suffering
+139,GerDracor/grabbe-napoleon.xml,10371,10397,"Wer ist der Mann, Kamerad?",emotional movement,emotional movement,emotional movement
+140,GerDracor/grabbe-napoleon.xml,10398,10515,"Von der jungen Garde zu Fuß, drittes Regiment, zweite Kompanie, heißt Philipp Vitry,
+              und denkt wie ich.",positive,emotions of rejection,anger
+141,GerDracor/grabbe-napoleon.xml,10516,10565,"Er scheint sehr lustig, ungeachtet seines Elends.",positive,emotions of joy,joy
+142,GerDracor/grabbe-napoleon.xml,10566,10589,"Das bin ich, mein Herr.",negative,emotions of joy,joy
+143,GerDracor/grabbe-napoleon.xml,10590,10611,Jetzt gehts schlecht.,negative,emotions of suffering,suffering
+144,GerDracor/grabbe-napoleon.xml,10612,10720,"Aber  Kommt das Weh, Scheuch's mit Juchhe, Schlag den König am Morgen tot, Denke des Kaisers beim Abendbrot!",negative,emotions of joy,joy
+145,GerDracor/grabbe-napoleon.xml,10721,10751,"Chassecoeur, laß dich umarmen!",positive,emotions of affection,joy
+146,GerDracor/grabbe-napoleon.xml,10752,10788,"Ach, laß die ewigen Narrenteidungen!",negative,emotions of rejection,anger
+147,GerDracor/grabbe-napoleon.xml,10789,11091,"– Der springt und lacht, und mir krümmen sich
+              die Finger vor Wut in die flache Hand, als wären sie zehn getretene Würmer und mir
+              knirschen die Zähne nach – Die Angoulême mag sich nach ihren Pfaffen umsehen, kommt
+              sie in meinen Bereich – Kamerad, hoffe – Würge!",negative,emotions of rejection,anger
+148,GerDracor/grabbe-napoleon.xml,11092,11134,"Alles Lumpenzeug, so weit wir uns umsehen.",negative,emotions of rejection,"hate, disgust"
+149,GerDracor/grabbe-napoleon.xml,11135,11268,"Auch die sechstausend verabschiedeten Offiziere der großen Armee, die sich gleich uns
+              unter diesem Haufen herumtreiben?",negative,emotions of suffering,suffering
+150,GerDracor/grabbe-napoleon.xml,11269,11274,Nein.,emotional movement,emotions of joy,emotional movement
+151,GerDracor/grabbe-napoleon.xml,11275,11305,Ich sehe und schätze sie wohl.,positive,emotions of affection,admiration
+152,GerDracor/grabbe-napoleon.xml,11306,11353,Aber daß auch sie sich so lumpen lassen müssen!,negative,emotions of rejection,anger
+153,GerDracor/grabbe-napoleon.xml,11368,11529,"– Sieh, der da ist einer – und zwar von den Ingrimmigen, nicht still und traurig wie
+              du – Freund, ich habe Familie – Ja so – Doch der da hat keine.",negative,emotions of suffering,suffering
+154,GerDracor/grabbe-napoleon.xml,11530,11855,"– Am abgetragenen, faserigen Überrock, den er so
+              zornig schüttelt, an den alten Militärkamaschen, mit denen er auftritt, als ging es
+              über Leichen, und dem blutdunkelnden Auge erkennt man ihn mitten in dem Hefen des
+              vornehmen und niedrigen Gesindels, eines so schlecht als das andere.",negative,emotions of rejection,"hate, disgust"
+155,GerDracor/grabbe-napoleon.xml,11856,12030,"Tod und Hölle,
+              der ist von anderem Stahl als die neuen königlichen Haustruppen, vor denen jetzt
+              Sieger von Marengo das Gewehr präsentieren müssen.",negative,emotions of rejection,"hate, disgust"
+156,GerDracor/grabbe-napoleon.xml,12031,12183,"Der lief nicht den Bourbons nach,
+              als sie wegliefen – Geschmiedet ist er in den Batteriefeuern von Austerlitz oder
+              Borodino!",negative,emotions of rejection,"hate, disgust"
+157,GerDracor/grabbe-napoleon.xml,12184,12319,"Bruder, welch ein Tag, als unsere Lanzenreiter durch die östlichen Tore von Moskau
+              auf den Wegen nach Asien hinsprengten!",positive,emotions of joy,joy
+158,GerDracor/grabbe-napoleon.xml,12320,12495,"Ja, da konnte man noch denken in den Schatzgewölben und Harems von Persien, China und
+              Ostindien  Die Emigranten Marquis Hauterive und Herr von Villeneuve kommen.",negative,emotions of joy,joy
+159,GerDracor/grabbe-napoleon.xml,12496,12542,"Nicht mehr das alte Palais Royal, mein Teurer.",negative,emotions of affection,admiration
+160,GerDracor/grabbe-napoleon.xml,12543,12589,Alles anders – Und darum auch wohl schlechter?,negative,emotions of suffering,suffering
+161,GerDracor/grabbe-napoleon.xml,12590,12646,nach einigem Bedenken mit verachtender Miene antwortend.,negative,emotions of rejection,"hate, disgust"
+162,GerDracor/grabbe-napoleon.xml,12647,12677,"Ja, mein Freund, – schlechter.",negative,emotions of rejection,suffering
+163,GerDracor/grabbe-napoleon.xml,12678,12747,"Zu dem Herrn von Villeneuve, mit dem er etwas weiter zur Seite tritt.",negative,emotional movement,emotional movement
+164,GerDracor/grabbe-napoleon.xml,12748,12781,Was der Pöbel frech geworden ist.,negative,emotions of rejection,anger
+165,GerDracor/grabbe-napoleon.xml,12782,12838,"Er soll schon wieder werden wie sonst, bei meinem Degen.",negative,emotions of rejection,Schadenfreude
+166,GerDracor/grabbe-napoleon.xml,12839,12860,Es wird schwerhalten.,negative,emotions of fear,suffering
+167,GerDracor/grabbe-napoleon.xml,12861,12981,"Denn, Herr von Villeneuve, sollte man nicht glauben die Welt
+              wäre seit den achtziger Jahren untergegangen?",negative,emotions of suffering,emotional movement
+168,GerDracor/grabbe-napoleon.xml,12982,13157,"Es gibt nicht nur am Hofe bürgerliche
+              Dames d'atour, sondern sie sollen auch wagen, sogar in Gegenwart des Königs sich auf
+              die Taburetts zu setzen!",positive,emotions of rejection,admiration
+169,GerDracor/grabbe-napoleon.xml,13158,13182,"Schändlich, entsetzlich!",negative,emotions of rejection,"hate, disgust"
+170,GerDracor/grabbe-napoleon.xml,13183,13360,"Bei Gott, wäre Ludwig der Achtzehnte nicht mein angeborener
+              König, ich könnt ihn wegen seiner schwächlichen Nachgiebigkeit auf dieses Schwert
+              fodern.",negative,emotions of rejection,admiration
+171,GerDracor/grabbe-napoleon.xml,13361,13579,"Doch die Sache wird,  Und, Herr von Villeneuve, was sagen Sie zu den neugebackenen Fürsten, Herzogen und
+              ihren Gemahlinnen, besonders zu der Frau des Ney, sogenannten Fürstin von der
+              Moskwa?",emotional movement,emotional movement,emotional movement
+172,GerDracor/grabbe-napoleon.xml,13580,13616,Ich achte sie des Wortes nicht wert.,negative,emotions of rejection,"hate, disgust"
+173,GerDracor/grabbe-napoleon.xml,13617,13735,"Welche geschmacklose Kleidung, welches dummdreiste Benehmen, welche wüste
+              Konversation, welche Arroganz!",negative,emotions of rejection,anger
+174,GerDracor/grabbe-napoleon.xml,13736,13839,"– Weiß denn die Person nicht, daß wir recht wohl
+              wissen, daß sie eine Bäckerstochter ist?",negative,emotional movement,anger
+175,GerDracor/grabbe-napoleon.xml,13840,14021,"Mein Herr Marquis, das kommt alles davon her, daß die hochselige Marie Antoinette zu
+              herablassend mit der Kanaille umging und den König zum selben Benehmen verleitete.",negative,emotions of rejection,anger
+176,GerDracor/grabbe-napoleon.xml,14022,14082,"Nie
+              etwas Gutes aus Österreich für Frankreich!",negative,emotions of rejection,"hate, disgust"
+177,GerDracor/grabbe-napoleon.xml,14083,14207,"Ach, die gute alte Zeit – die damaligen eleganten, zierlichen Salons – Nun
+              überschwemmt von dem gemeinen Vieh!",negative,emotions of suffering,suffering
+178,GerDracor/grabbe-napoleon.xml,14208,14285,"Es muß anders, anders, und es soll anders werden, Marquis, bei meinem Wappen.",negative,emotions of joy,emotional movement
+179,GerDracor/grabbe-napoleon.xml,14300,15020,"Schurken haben uns alle unsere alten Rechte und Güter geraubt, – jedes Gericht muß uns
+              unser Eigentum wieder zuerkennen, denn wir haben ihm nie entsagt – – Denken Sie, mein
+              Herr, mein so hübscher Landsitz, la Merveille bei Tours, an dem die Loire so lieblich
+              sich hinschlängelt, in dessen Taxusgängen wir beide so oft mit den Damen der
+              Nachbarschaft uns im freundlichen Herbste von 1783 bis zum schwindenden Abendrot
+              ergötzten, in dem ich schon als Kind stets die erste Blume des Frühlings für Adelaide,
+              Vicomtesse von Clary brach, meiner toten aber nimmer vergessenen Geliebten, – gehört
+              jetzt einem filzigen Fabrikherrn!",negative,emotions of joy,joy
+180,GerDracor/grabbe-napoleon.xml,15021,15221,"Niedergerissen sind die hohen Hecken, Dampfmaschinen
+              brausen in den Gewächshäusern und Kartoffeln haben sich an die Stelle der kostbaren
+              Tulpenzwiebeln von Harlem gedrängt!",negative,emotions of joy,suffering
+181,GerDracor/grabbe-napoleon.xml,15222,15328,"Nun, Blacas d'Aulps und die Angoulême werden uns schon helfen und – Hauterive und Villeneuve gehen weiter.",positive,emotions of joy,joy
+182,GerDracor/grabbe-napoleon.xml,15329,15347,deutet ihnen nach.,negative,emotions of rejection,anger
+183,GerDracor/grabbe-napoleon.xml,15348,15370,Die beiden Emigranten!,negative,emotional movement,emotional movement
+184,GerDracor/grabbe-napoleon.xml,15371,15528,"Welche Rockschöße, welche Backentaschen, welche altfränkische
+              Mienen und Gedanken, welche Gespenster aus der guten, alten und sehr dummen Zeit!",negative,emotions of rejection,emotional movement
+185,GerDracor/grabbe-napoleon.xml,15529,15883,"Von der Revolution mit ihren blutigen Jahren wissen sie nichts, Philipp Vitry, – das
+              ist vorüber, sie aber sind geblieben, wie bisweilen der Bergstrom verbraust und das
+              Gräslein bleibt, und vielleicht darum sich für stärker hält, als die Fluten, welche es
+              eben noch überschütteten und die Ufer auseinanderrissen.",negative,emotions of suffering,suffering
+186,GerDracor/grabbe-napoleon.xml,15884,16107,"Nicht einen Strohhalm weit
+              sind sie aus sich und ihrem stolzen Wahn herausgegangen, und Ludwig der Achtzehnte
+              selbst datiert ja seine Regierung seit fünfundzwanzig Jahren – Was zum Totlachen ist!",negative,emotions of rejection,"hate, disgust"
+187,GerDracor/grabbe-napoleon.xml,16108,16357,"– Als er regiert haben will, schossen wir in Vincennes auf
+              obrigkeitlichen Befehl seinen Vetter und Helfershelfer, den Enghien, tot und ich
+              selbst band ihm, da es Nacht war, die Laterne vor die Brust, um besser zu zielen.",negative,emotions of rejection,"hate, disgust"
+188,GerDracor/grabbe-napoleon.xml,16358,16475,"O daß ich so alt geworden und nicht in einer Schlacht gefallen bin, ehe die Bourbons
+              in Paris einzogen.",negative,emotions of suffering,suffering
+189,GerDracor/grabbe-napoleon.xml,16476,16502,Zu einer Stuhlvermieterin.,negative,emotions of rejection,anger
+190,GerDracor/grabbe-napoleon.xml,16503,16536,"Dame, darf ich mich niedersetzen?",negative,emotional movement,emotional movement
+191,GerDracor/grabbe-napoleon.xml,16537,16618,"Meine Füße sind sehr müde, ich kann aber nicht für
+              den Sitz zahlen.",negative,emotions of suffering,suffering
+192,GerDracor/grabbe-napoleon.xml,16619,16676,"Ich seh Ihnen an, Sie sind ein Offizier der Großen Armee.",positive,emotions of affection,admiration
+193,GerDracor/grabbe-napoleon.xml,16677,16736,"Gebieten Sie über meine
+              Stühle nach Belieben.",negative,emotions of rejection,anger
+194,GerDracor/grabbe-napoleon.xml,16737,16751,Was Wichtiges!,emotional movement,emotional movement,emotional movement
+195,GerDracor/grabbe-napoleon.xml,16752,16762,Wichtiges!,emotional movement,emotional movement,emotional movement
+196,GerDracor/grabbe-napoleon.xml,16763,16809,"Vom Palais Bourbon, aus der Deputiertenkammer!",negative,emotions of rejection,"hate, disgust"
+197,GerDracor/grabbe-napoleon.xml,16810,16842,"Hier die
+              Journale!",positive,emotions of joy,anger
+198,GerDracor/grabbe-napoleon.xml,16843,16868,Her damit – Lies sie vor!,negative,emotions of rejection,anger
+199,GerDracor/grabbe-napoleon.xml,16869,16965,"Nein, hieher Ausrufer, – hieher – Deine wichtige Nachricht gehört an diesen
+              Tisch!",emotional movement,emotions of rejection,emotional movement
+200,GerDracor/grabbe-napoleon.xml,16966,16993,"An das morsche, alte Brett?",negative,emotions of rejection,emotional movement
+201,GerDracor/grabbe-napoleon.xml,16994,17016,"Respekt vor ihm, Mann!",negative,emotions of rejection,anger
+202,GerDracor/grabbe-napoleon.xml,17017,17128,"Der Tisch ist klassisch – Auf diesem Fleck fiel zuerst das
+              Fünkchen, welches die Welt entzündete.",positive,emotions of affection,joy
+203,GerDracor/grabbe-napoleon.xml,17129,17368,"Hier saß ich am zwölften Juli des Jahres
+              siebenzehnhundertneunundachtzig, nachmittags gegen halb vier Uhr, an einem sonnigen
+              Tage, und selbst noch jung und heiter verkaufte ich einem fröhlichen Bräutchen aus St.",positive,emotions of joy,joy
+204,GerDracor/grabbe-napoleon.xml,17383,17406,Marceau einige Spitzen.,positive,emotions of joy,emotional movement
+205,GerDracor/grabbe-napoleon.xml,17407,17492,"Wir scherzten über den Preis und dachten an nichts als den
+              Hochzeittag.",positive,emotions of joy,joy
+206,GerDracor/grabbe-napoleon.xml,17493,17874,"Da kam ein Mann mit wild flutenden Locken, brennenden Augen,
+              herzzerschmetternder Stimme – es war Camille Desmoulins, – die Tränen rannen ihm aus
+              den Augen, zwei Pistolen riß er aus der Tasche und rief: Necker hat den Abschied, eine
+              Bartholomäusnacht ist wieder da, nehmt Waffen und wählt Kokarden, daß wir einander
+              erkennen.",negative,emotions of suffering,suffering
+207,GerDracor/grabbe-napoleon.xml,17875,18484,"Und seitdem ist er, sind der gewaltige Danton, der erhabene Hérault de
+              Séchelles, der schreckliche Robespierre unter dem Messer der Guillotine gefallen,
+              seitdem hat der Kaiser über der Erde geleuchtet, daß man vor dem Glanze die Hand vor
+              die Augen hielt, und ist doch dahingeschwunden wie ein Irrwisch, drei meiner Söhne
+              sind seitdem in den Schlachten geblieben, – viel, viel Blut und unzählige Seufzer hat
+              mir die Revolution gekostet, aber sie ist mir um so teurer geworden und an diesem
+              Tische lies die wichtigen Zeitungen!",positive,emotions of affection,suffering
+208,GerDracor/grabbe-napoleon.xml,18485,18550,"– Das ist ja jetzt mein letztes einziges
+              Vergnügen!",positive,emotions of joy,suffering
+209,GerDracor/grabbe-napoleon.xml,18551,18609,"Ja, braves Mütterchen, an deinem Tische soll er sie lesen!",positive,emotions of joy,joy
+210,GerDracor/grabbe-napoleon.xml,18610,18622,Das soll er!,negative,emotions of rejection,anger
+211,GerDracor/grabbe-napoleon.xml,18623,18808,"Der Augenblick vom zwölften Juli 1789, nachmittags halb vier Uhr, an
+              diesem Tische erlebt, war mehr wert, als die Jahrhunderte, die ihn vielleicht
+              verderben!",positive,emotions of affection,love
+212,GerDracor/grabbe-napoleon.xml,18809,18925,"Nicht nötig, daß ich hier lese, meine Herren, – da kommt einer, der es euch deutlich
+              genug sagen wird.",emotional movement,emotions of rejection,anger
+213,GerDracor/grabbe-napoleon.xml,18926,18980,stürmt durch die Menge an den Tisch der Putzhändlerin.,negative,emotional movement,emotional movement
+214,GerDracor/grabbe-napoleon.xml,18981,19093,"Hört, hört, und nehmet euch in acht, daß ich euch nicht mit meiner Nachricht die
+              Ohren zersprenge!",negative,emotions of rejection,anger
+215,GerDracor/grabbe-napoleon.xml,19094,19329,"Alles, alles wird bedroht, die dummsten frechsten Hände greifen
+              dreist in die Speichen des Schicksalrades – In der Deputiertenkammer geschehen vom
+              Ministerium Anträge gegen die Käufer der Nationalgüter – Ha!",negative,emotions of rejection,anger
+216,GerDracor/grabbe-napoleon.xml,19330,19336,lacht.,positive,emotions of joy,joy
+217,GerDracor/grabbe-napoleon.xml,19337,19375,Gehts denen auch nicht besser als uns?,positive,emotions of rejection,joy
+218,GerDracor/grabbe-napoleon.xml,19376,19379,Eh!,emotional movement,emotional movement,emotional movement
+219,GerDracor/grabbe-napoleon.xml,19380,19581,"Klöster sind wieder da, die Ächtung aller Heroen der Revolution ist im Werke,
+              Leibeigenschaft wird darauf folgen – Marquis von Hauterive und Herr von Villeneuve sind wieder nähergetreten.",emotional movement,emotions of suffering,emotional movement
+220,GerDracor/grabbe-napoleon.xml,19582,19632,"Nun, mein Herr, das wäre alles noch so übel nicht.",negative,emotions of suffering,suffering
+221,GerDracor/grabbe-napoleon.xml,19633,19660,Das mein ich wahrlich auch.,positive,emotions of affection,anger
+222,GerDracor/grabbe-napoleon.xml,19661,19665,Was?,emotional movement,emotional movement,emotional movement
+223,GerDracor/grabbe-napoleon.xml,19666,19778,"»So übel nicht?« »Das mein ich auch?« Zu Boden die altadligen Schurken, die
+              dummstolzen Feiglinge!",negative,emotions of rejection,anger
+224,GerDracor/grabbe-napoleon.xml,19780,19836,"Mit Freuden – Für Gott, für meinen König und mein Recht!",positive,emotions of joy,joy
+225,GerDracor/grabbe-napoleon.xml,19837,19870,Und für die Damen unserer Jugend!,positive,emotions of affection,admiration
+226,GerDracor/grabbe-napoleon.xml,19871,19898,Jetzt wohl alte Schachteln!,negative,emotions of rejection,"hate, disgust"
+227,GerDracor/grabbe-napoleon.xml,19899,19951,"Schurke, du hast dir den Tod an den Hals gesprochen.",negative,emotions of rejection,anger
+228,GerDracor/grabbe-napoleon.xml,19952,19982,Er will den Vitry durchbohren.,negative,emotions of rejection,anger
+229,GerDracor/grabbe-napoleon.xml,19983,20057,Ich glaub es nicht – Dir aber und deinem Freunde will ich den Hals retten.,negative,emotions of fear,fear
+230,GerDracor/grabbe-napoleon.xml,20059,20223,"Vitry, sei kein Narr – Laß mich den Hunden »Marquis und Herr von« im Gedränge eins
+              unter die Rippen geben – Niemand merkt es und sie sollen verrecken.",negative,emotions of rejection,anger
+231,GerDracor/grabbe-napoleon.xml,20224,20378,"Nein, die Kerle mögen schlecht sein, aber sie haben Courage – Die schätz ich überall
+              – Hoch lebe der Mut, auch bei französischen Emigranten!",positive,emotions of affection,admiration
+232,GerDracor/grabbe-napoleon.xml,20379,20387,Er lebe!,negative,emotions of affection,love
+233,GerDracor/grabbe-napoleon.xml,20388,20446,"zum Marquis von Hauterive, indem er mit ihm entfernt wird.",negative,emotions of rejection,"hate, disgust"
+234,GerDracor/grabbe-napoleon.xml,20447,20565,"Wer sollt es glauben, Marquis, daß gemeines Volk doch noch so viel Gefühl für Mut und
+              Ehre haben könnte?",positive,emotions of affection,admiration
+235,GerDracor/grabbe-napoleon.xml,20566,20628,"Ach, es ist mehr augenblickliche Aufwallung als echtes Gefühl.",emotional movement,emotions of suffering,emotional movement
+236,GerDracor/grabbe-napoleon.xml,20629,20767,"All dieses Volk, bis zu dem Kanzler des Königs, zu dem invaliden Advokaten d'Ambray
+              hinauf, kennt es uns, die Weltenstürmer?",positive,emotions of rejection,emotional movement
+237,GerDracor/grabbe-napoleon.xml,20768,20849,"Sieht es nicht die große Nation an, als wäre
+              sie ein albernes Kind?",negative,emotions of rejection,"hate, disgust"
+238,GerDracor/grabbe-napoleon.xml,20850,20904,"Nicht uns, der Gnade Englands – Nieder die Beefsteaks!",negative,emotions of rejection,"hate, disgust"
+239,GerDracor/grabbe-napoleon.xml,20905,21012,"– der Gnade Englands verdankt seinem Irrwahn nach König Ludwig die Krone –
+              Frankreichs Krone!",positive,emotions of joy,"hate, disgust"
+240,GerDracor/grabbe-napoleon.xml,21013,21255,"so leuchtend und so gewaltig, daß sie selbst einem Riesen, der sie
+              trüge, und schwenkte er den Trident des Neptuns noch leichter als die großbritannische
+              Majestät, Aug und Haupt verblenden und zerschmettern könnte!",positive,emotions of rejection,admiration
+241,GerDracor/grabbe-napoleon.xml,21256,21485,"Und noch mehr: – wenn der
+              König uns unsere Rechte läßt, nennt er das nicht Gerechtigkeit, sondern er sagt: er
+              setze seiner durch Gott und Blut angeerbten – Schlachtenblut, nicht Weiberblut macht adlig.",negative,emotions of rejection,"hate, disgust"
+242,GerDracor/grabbe-napoleon.xml,21486,21529,– angeerbten Machtvollkommenheit Schranken.,negative,emotions of rejection,admiration
+243,GerDracor/grabbe-napoleon.xml,21530,21542,– Schranken!,negative,emotions of rejection,emotional movement
+244,GerDracor/grabbe-napoleon.xml,21543,21553,Schranken!,negative,emotions of fear,emotional movement
+245,GerDracor/grabbe-napoleon.xml,21554,21697,"– Wenn sie sich
+              nur vor dem Worte hüteten: Ludwig der Sechzehnte stand vor den  Ganz, ganz so, mein Sohn, wie Camille Desmoulins!",positive,emotions of fear,fear
+246,GerDracor/grabbe-napoleon.xml,21698,21720,Da kommen Gensd'armes!,negative,emotions of suffering,compassion
+247,GerDracor/grabbe-napoleon.xml,21721,21744,"Laß sie kommen, Freund.",positive,emotions of affection,friendship
+248,GerDracor/grabbe-napoleon.xml,21745,21795,Ich muß es aussprechen und die Wahrheit verkünden.,negative,emotions of rejection,suffering
+249,GerDracor/grabbe-napoleon.xml,21796,21993,"Selig sind
+              die, die da blind sind, und zu sehen wähnen, aber unselig sind die Sehenden, welche
+              bemerken, daß Blinde nichts erblicken, und dennoch handeln, als sähen sie.",negative,emotions of rejection,"hate, disgust"
+250,GerDracor/grabbe-napoleon.xml,21994,22129,"Der König
+              ist gut, aber das Geschmeiß der Aasfliegen aus den Zeiten der Pompadours verdunkelt
+              ihm das Auge.",negative,emotions of suffering,suffering
+251,GerDracor/grabbe-napoleon.xml,22130,22292,"– Hinter russischen, hinter preußischen Bajonetten wähnen sie die Nation
+              mit Edikten niederschlagen und sich selbst erheben zu können – Aber wartet!",emotional movement,emotions of rejection,fear
+252,GerDracor/grabbe-napoleon.xml,22293,22325,"– Nur nicht zu lange, mein Herr.",negative,emotions of rejection,anger
+253,GerDracor/grabbe-napoleon.xml,22326,22565,"Noch ist es nicht aller Tage Abend, und wär er da, so möchte wieder gebadet in den
+              Wogen seines heimatlichen Mittelmeers mit neuem Glanze ein ungeheurer Meerstern
+              aufsteigen, der die Nacht gar schnell vertriebe!",positive,emotions of joy,joy
+254,GerDracor/grabbe-napoleon.xml,22566,22725,"Der Stern hat einen grünen Rock an, Obristenepauletts, weiße Weste, weiße Hosen,
+              einen kleinen Degen, und schlägt in der Bataille die Arme unter.",negative,emotions of suffering,admiration
+255,GerDracor/grabbe-napoleon.xml,22726,22765,Wir schwingen sie desto besser für ihn!,positive,emotions of affection,joy
+256,GerDracor/grabbe-napoleon.xml,22766,22805,Aufruhrschreier – Ihr werdet verhaftet.,negative,emotional movement,anger
+257,GerDracor/grabbe-napoleon.xml,22806,22844,"Zeigt ein Gesetz, welches das erlaubt.",negative,emotions of rejection,anger
+258,GerDracor/grabbe-napoleon.xml,22845,22882,"Frei zu reden, ist nirgends verboten.",positive,emotions of rejection,anger
+259,GerDracor/grabbe-napoleon.xml,22883,22906,Frei essen wäre besser.,negative,emotions of suffering,joy
+260,GerDracor/grabbe-napoleon.xml,22907,22939,Da kommt der Herzog von Orleans!,negative,emotions of joy,emotional movement
+261,GerDracor/grabbe-napoleon.xml,22940,22999,Der ist von der bourbonischen Rasse noch der erträglichste.,positive,emotions of suffering,"hate, disgust"
+262,GerDracor/grabbe-napoleon.xml,23000,23047,"Die krumme Nase hat er
+              aber auch.",negative,emotions of suffering,anger
+263,GerDracor/grabbe-napoleon.xml,23048,23172,"Respekt vor ihm, – Er ist der Sohn Egalités, und kämpfte für Frankreich, als sein
+              Vater auf dem Schafott fiel.",positive,emotions of affection,admiration
+264,GerDracor/grabbe-napoleon.xml,23173,23217,"Gensd'armes, was für Leute verhaftet ihr da?",negative,emotions of suffering,compassion
+265,GerDracor/grabbe-napoleon.xml,23218,23252,"Aufrührerische Redner, mein Fürst.",negative,emotions of rejection,anger
+266,GerDracor/grabbe-napoleon.xml,23253,23301,"So laßt sie frei, auf der Stelle – Es geschieht.",negative,emotions of fear,compassion
+267,GerDracor/grabbe-napoleon.xml,23302,23365,"Wehe dem Lande, das sich vor Reden und Rednern zu fürchten hat.",negative,emotions of fear,fear
+268,GerDracor/grabbe-napoleon.xml,23366,23392,"Hoch Orleans, einst König.",negative,emotions of affection,admiration
+269,GerDracor/grabbe-napoleon.xml,23393,23436,"Das letztere nie, – doch stets euer Freund.",positive,emotions of affection,friendship
+270,GerDracor/grabbe-napoleon.xml,23437,23454,Er entfernt sich.,negative,emotional movement,fear
+271,GerDracor/grabbe-napoleon.xml,23455,23483,Welch ein trefflicher Prinz!,positive,emotions of affection,joy
+272,GerDracor/grabbe-napoleon.xml,23484,23545,"Würde auch endlich weggejagt, wenn er je König werden sollte.",negative,emotions of rejection,"hate, disgust"
+273,GerDracor/grabbe-napoleon.xml,23546,23549,Ha!,emotional movement,emotional movement,emotional movement
+274,GerDracor/grabbe-napoleon.xml,23550,23585,da kommt auch der Herzog von Berry!,positive,emotions of joy,joy
+275,GerDracor/grabbe-napoleon.xml,23586,23712,"Zu Fuß, von der Revue seiner Hausgarden, der altadligen Zuckerhüte, die ihre Gewehre
+              verstecken, wenn es regnet.",positive,emotions of suffering,"hate, disgust"
+276,GerDracor/grabbe-napoleon.xml,23713,23746,O Dreikaiserschlacht bei Dresden!,emotional movement,emotions of suffering,suffering
+277,GerDracor/grabbe-napoleon.xml,23747,23872,"Freilich, da regnete es sehr, und wir trieben sie doch in die böhmischen Berghöhlen,
+              wie das Vieh in den Stall.",negative,emotions of rejection,suffering
+278,GerDracor/grabbe-napoleon.xml,23873,23945,"Sieh einmal den großen weißen Federstrauß, den der Junge am Kopfe trägt!",positive,emotions of joy,joy
+279,GerDracor/grabbe-napoleon.xml,23946,23988,"Mir tun die
+              Augen davon weh!",negative,emotions of suffering,suffering
+280,GerDracor/grabbe-napoleon.xml,23989,24164,"I, Freund, das ist der Helmbusch Heinrichs des Vierten, seines Ahnherrn – Seine
+              Familie hat den Strauß so oft im Maul, da ich fürchte, er wird endlich schmutzig.",positive,emotions of joy,fear
+281,GerDracor/grabbe-napoleon.xml,24165,24185,Heinrich der Vierte?,emotional movement,emotional movement,emotional movement
+282,GerDracor/grabbe-napoleon.xml,24186,24198,Was war der?,emotional movement,emotional movement,emotional movement
+283,GerDracor/grabbe-napoleon.xml,24199,24210,Was tat er?,emotional movement,emotional movement,emotional movement
+284,GerDracor/grabbe-napoleon.xml,24211,24286,Er war König von Frankreich und schlug ein paarmal einige tausend Rebellen.,positive,emotions of rejection,admiration
+285,GerDracor/grabbe-napoleon.xml,24287,24298,Der Knirps!,negative,emotions of rejection,emotional movement
+286,GerDracor/grabbe-napoleon.xml,24299,24315,– Weiter nichts?,negative,emotional movement,emotional movement
+287,GerDracor/grabbe-napoleon.xml,24316,24364,"Da frage die Gelehrten, ich weiß nicht mehreres.",emotional movement,emotions of joy,anger
+288,GerDracor/grabbe-napoleon.xml,24365,24445,"– – Der Berry bemerkt dich, sieht
+              die Schmarren in deinem Gesicht.",negative,emotions of rejection,anger
+289,GerDracor/grabbe-napoleon.xml,24446,24469,– Er will dich anreden.,negative,emotions of rejection,anger
+290,GerDracor/grabbe-napoleon.xml,24470,24520,Er will durch mich einen Coup auf das Volk machen.,positive,emotions of rejection,"hate, disgust"
+291,GerDracor/grabbe-napoleon.xml,24521,24583,"Aber er irrt sich, der herzogliche
+              Gelbschnabel.",negative,emotions of rejection,"hate, disgust"
+292,GerDracor/grabbe-napoleon.xml,24584,24645,"Ich bin nicht darnach behandelt worden, ihm entgegenzukommen.",negative,emotions of suffering,suffering
+293,GerDracor/grabbe-napoleon.xml,24646,24683,Und wenn er dir nun etwas verspricht?,negative,emotions of rejection,anger
+294,GerDracor/grabbe-napoleon.xml,24684,24703,In den Dreck damit.,negative,emotions of rejection,anger
+295,GerDracor/grabbe-napoleon.xml,24704,24752,"Sie halten es doch nur so lange, als sie müssen.",negative,emotions of suffering,love
+296,GerDracor/grabbe-napoleon.xml,24753,24783,"Alter, braver Kamerad – Danke.",positive,emotions of affection,anger
+297,GerDracor/grabbe-napoleon.xml,24784,24818,"Ich weiß nicht, daß ich je mit Ew.",negative,emotions of suffering,love
+298,GerDracor/grabbe-napoleon.xml,24819,24857,Königlichen Hoheit zusammen gefochten.,positive,emotions of affection,friendship
+299,GerDracor/grabbe-napoleon.xml,24858,24895,Woher hast du die ehrenvollen Narben?,negative,emotions of affection,suffering
+300,GerDracor/grabbe-napoleon.xml,24896,25088,"Das können Sie an ihren Namen hören: diese heißt Quiberon, da stürzten wir die
+              Emigranten in das Meer, – diese heißt Marengo, da packten wir Italien, – diese –
+              ach!",negative,emotions of suffering,suffering
+301,GerDracor/grabbe-napoleon.xml,25089,25098,für sich.,positive,emotions of joy,emotional movement
+302,GerDracor/grabbe-napoleon.xml,25099,25112,"Ach, Leipzig!",negative,emotions of suffering,suffering
+303,GerDracor/grabbe-napoleon.xml,25113,25243,"Und wenn es gerade schlechtes Wetter oder schlechte Zeit ist, wie jetzt eben, so
+              schmerzen diese Narben entsetzlich.",negative,emotions of suffering,suffering
+304,GerDracor/grabbe-napoleon.xml,25244,25391,"Mensch, wer bist du,  Ach lieber, gnädiger Herr – Wer ich bin oder sein soll, weiß ich nicht, aber wer ich
+                 Sich stolz aufrichtend.",negative,emotions of rejection,emotional movement
+305,GerDracor/grabbe-napoleon.xml,25392,25488,"Ein kaiserlicher Gardegrenadier zu Pferde, zweite Schwadron, dem Ehrenkreuze
+              nahe.",positive,emotions of affection,admiration
+306,GerDracor/grabbe-napoleon.xml,25489,25509,zu seinem Begleiter.,positive,emotional movement,anger
+307,GerDracor/grabbe-napoleon.xml,25510,25544,"Still, rege nicht alte Wunden auf.",negative,emotions of suffering,anger
+308,GerDracor/grabbe-napoleon.xml,25545,25560,Zu Chassecoeur.,positive,emotions of rejection,admiration
+309,GerDracor/grabbe-napoleon.xml,25561,25615,Ich schaffe dir eine Versorgung im Dome der Invaliden.,negative,emotions of suffering,suffering
+310,GerDracor/grabbe-napoleon.xml,25616,25648,"Deren bedarf ich noch nicht, Ew.",negative,emotions of affection,love
+311,GerDracor/grabbe-napoleon.xml,25649,25667,Königliche Hoheit.,positive,emotions of affection,admiration
+312,GerDracor/grabbe-napoleon.xml,25668,25708,So nimm mit meinem guten Willen vorlieb.,negative,emotions of suffering,friendship
+313,GerDracor/grabbe-napoleon.xml,25709,25729,– Es lebe der König!,positive,emotions of affection,joy
+314,GerDracor/grabbe-napoleon.xml,25730,25735,– Hm!,negative,emotional movement,emotional movement
+315,GerDracor/grabbe-napoleon.xml,25736,25797,– Alles schweigt; der Herzog von Berry mit seinem Gefolge ab.,negative,emotional movement,emotional movement
+316,GerDracor/grabbe-napoleon.xml,25798,25886,"Wahrlich, wenn das so schlimm mit den Bourbons steht, wie jetzt – So fallen sie bald um.",negative,emotions of suffering,suffering
+317,GerDracor/grabbe-napoleon.xml,25887,25966,"Ob sie gehöhnt oder gelobt werden, das Volk bekümmert sich nicht einmal um sie.",negative,emotions of suffering,admiration
+318,GerDracor/grabbe-napoleon.xml,25967,26005,"Desto schlimmer, – es kennt sie nicht.",negative,emotions of suffering,suffering
+319,GerDracor/grabbe-napoleon.xml,26006,26047,Dafür kennt es einen andren desto besser.,positive,emotions of affection,anger
+320,GerDracor/grabbe-napoleon.xml,26048,26118,"– Kommt, laßt uns sehen, wo wir etwas zu
+              essen erringen.",positive,emotions of joy,joy
+321,GerDracor/grabbe-napoleon.xml,26119,26145,– Auf den Boden stampfend.,negative,emotions of rejection,anger
+322,GerDracor/grabbe-napoleon.xml,26146,26148,O!,emotional movement,emotions of suffering,emotional movement
+323,GerDracor/grabbe-napoleon.xml,26149,26195,"verdammtes Pflaster, das so viele Buben trägt!",negative,emotions of rejection,anger
+324,GerDracor/grabbe-napoleon.xml,26196,26232,Ab mit Vitry und dem alten Offizier.,negative,emotions of rejection,Schadenfreude
+325,GerDracor/grabbe-napoleon.xml,26233,26262,mit Murmeltier und Dudelsack.,negative,emotions of rejection,Schadenfreude
+326,GerDracor/grabbe-napoleon.xml,26263,26310,"La marmotte, la marmotte, Avec ci, avec là ect.",positive,emotions of suffering,emotional movement
+327,GerDracor/grabbe-napoleon.xml,26311,26315,ect.,emotional movement,emotions of rejection,anger
+328,GerDracor/grabbe-napoleon.xml,26316,26322,Paris.,emotional movement,emotional movement,emotional movement
+329,GerDracor/grabbe-napoleon.xml,26323,26354,Große Galerie in den Tuilerien.,positive,emotional movement,admiration
+330,GerDracor/grabbe-napoleon.xml,26355,26417,"Gedränge von Volk, viele altadelige Herren und Damen darunter.",emotional movement,emotional movement,emotional movement
+331,GerDracor/grabbe-napoleon.xml,26418,26510,"Schweizergarden
+            stehen auf Wache Kammerherren und Kammerdiener eilen auf und ab.",negative,emotions of fear,emotional movement
+332,GerDracor/grabbe-napoleon.xml,26511,26576,"Gleich kommt er, kommt er aus der  hält ein Mädchen auf dem Arme.",positive,emotions of affection,joy
+333,GerDracor/grabbe-napoleon.xml,26577,26717,"Madame, Mademoiselle Victoire ist mit den weißen Kokarden schon über und über
+              geschmückt und ich kann ihr keine mehr anheften.",positive,emotions of affection,admiration
+334,GerDracor/grabbe-napoleon.xml,26718,26756,"Tut nichts – Hefte, hefte – Versuch's!",negative,emotions of fear,emotional movement
+335,GerDracor/grabbe-napoleon.xml,26757,26769,– Das Weiße!,negative,emotional movement,emotional movement
+336,GerDracor/grabbe-napoleon.xml,26770,26852,"welch eine Farbe – welche
+              Reinheit, welche Tugend schimmert aus ihm.",positive,emotions of affection,admiration
+337,GerDracor/grabbe-napoleon.xml,26853,26916,"– Ach, es ist ja auch das bourbonische
+              Abzeichen.",positive,emotions of rejection,"hate, disgust"
+338,GerDracor/grabbe-napoleon.xml,26917,26975,"Madame, treten Sie vor – der König kommt mit seinem Hause.",positive,emotions of joy,joy
+339,GerDracor/grabbe-napoleon.xml,26976,26983,Zurück!,negative,emotions of rejection,fear
+340,GerDracor/grabbe-napoleon.xml,26984,27013,Wir sind treue Untertanen Sr.,positive,emotions of affection,admiration
+341,GerDracor/grabbe-napoleon.xml,27014,27106,"Majestät, wünschen gern Sein Antlitz zu sehen – Laß
+              mindestens diese Dame vor.",positive,emotions of affection,admiration
+342,GerDracor/grabbe-napoleon.xml,27107,27114,Zurück!,negative,emotions of rejection,fear
+343,GerDracor/grabbe-napoleon.xml,27115,27142,Das ist ein nordischer Bär!,positive,emotions of rejection,"hate, disgust"
+344,GerDracor/grabbe-napoleon.xml,27143,27179,Er droht uns schon mit dem Bajonett!,negative,emotions of rejection,anger
+345,GerDracor/grabbe-napoleon.xml,27180,27210,Da ist die königliche Familie!,positive,emotions of joy,joy
+346,GerDracor/grabbe-napoleon.xml,27211,27322,"König Ludwig mit dem Herzog, der Herzogin von Angoulême, dem Prinzen Condé und
+              Gefolge tritt auf.",positive,emotions of joy,admiration
+347,GerDracor/grabbe-napoleon.xml,27323,27364,Monsieur und der Herzog von Berry fehlen!,negative,emotions of suffering,suffering
+348,GerDracor/grabbe-napoleon.xml,27365,27424,Wir sehen ja hier der Erlauchten genug – Es lebe der König!,positive,emotions of affection,admiration
+349,GerDracor/grabbe-napoleon.xml,27425,27443,Es lebe der König!,positive,emotions of affection,joy
+350,GerDracor/grabbe-napoleon.xml,27444,27482,"Enkelin, rufe, ruf: es lebe der König!",positive,emotions of affection,joy
+351,GerDracor/grabbe-napoleon.xml,27483,27519,Das »lebe der König« tönt sehr dünn!,negative,emotions of rejection,suffering
+352,GerDracor/grabbe-napoleon.xml,27520,27560,Dafür kommt es aber aus adeligen Kehlen.,positive,emotions of rejection,admiration
+353,GerDracor/grabbe-napoleon.xml,27561,27576,Welch ein Mann!,negative,emotions of rejection,"hate, disgust"
+354,GerDracor/grabbe-napoleon.xml,27577,27623,"Das ist, Herr Marquis, das ist noch ein König!",positive,emotions of joy,admiration
+355,GerDracor/grabbe-napoleon.xml,27624,27732,"Ein
+                 Die unwillkürliche Grazie – Selbst in dem scheinbar nachlässigen Gange – zu dem andern.",positive,emotions of affection,admiration
+356,GerDracor/grabbe-napoleon.xml,27733,27791,Der dicke Herr König hinkt ja wie der Teufel – zum ersten.,negative,emotions of suffering,"hate, disgust"
+357,GerDracor/grabbe-napoleon.xml,27792,27814,Das kommt vom Podagra.,negative,emotions of rejection,"hate, disgust"
+358,GerDracor/grabbe-napoleon.xml,27815,27952,"Und das Podagra kommt vom Saufen, Fressen und – Sieh einmal, welch ein ernsthaftes Bocksgesicht gehe ihm zur linken Seite – Still, still!",negative,emotions of rejection,emotional movement
+359,GerDracor/grabbe-napoleon.xml,27953,28186,"Die hagere Dame auf der rechten Seite ist Frau des Bocksgesichts, – sie
+              selbst steht unter der Jesuitenkutte, er steht unter ihrem Pantoffel, der König steht
+              unter ihm, und Frankreich unter allen zusammen.",negative,emotions of rejection,"hate, disgust"
+360,GerDracor/grabbe-napoleon.xml,28187,28331,"Mönchskutte also unsre Krone, Weiberpantoffel unser Szepter, und Schwächlinge, die
+              sich davon beherrschen lassen, unsere Tyrannen!",negative,emotions of rejection,"hate, disgust"
+361,GerDracor/grabbe-napoleon.xml,28332,28511,"– – – Diese Prozession mit ihren
+              Pfaffen, – und der Kaiser mitten unter dem Generalstabe zu Pferde an den Linien der
+              Sieger dahinfliegend – Vergleiche!",positive,emotions of rejection,emotional movement
+362,GerDracor/grabbe-napoleon.xml,28512,28535,zu der Madame de Serré.,negative,emotional movement,love
+363,GerDracor/grabbe-napoleon.xml,28536,28598,Die Herzogin von Angoulême ist wirklich noch immer sehr schön.,positive,emotions of affection,admiration
+364,GerDracor/grabbe-napoleon.xml,28599,28613,"Wahr, Marquis!",positive,emotions of affection,anger
+365,GerDracor/grabbe-napoleon.xml,28614,28767,"Habsburgs Adler scheint über den Lilien Bourbons zu schweben, sieht
+              man den erhabenen Zug ihrer Nase und den blendenden Teint ihrer Wangen!",positive,emotions of joy,admiration
+366,GerDracor/grabbe-napoleon.xml,28768,28887,"Sehr fein ausgedrückt, Madame – Wie fröhlich der König dasteht und in seiner treuen
+              Nation sich umschaut.",positive,emotions of joy,joy
+367,GerDracor/grabbe-napoleon.xml,28888,28895,Nation?,emotional movement,emotional movement,emotional movement
+368,GerDracor/grabbe-napoleon.xml,28896,28915,"Höre doch, Nachbar!",negative,emotions of rejection,anger
+369,GerDracor/grabbe-napoleon.xml,28916,29010,"die paar alten, der Guillotine entlaufenen Weiber und
+              Herren nennen sich Nation!",negative,emotions of rejection,"hate, disgust"
+370,GerDracor/grabbe-napoleon.xml,29011,29052,"Wie sollte er nicht heiter sein, Marquis?",positive,emotions of joy,joy
+371,GerDracor/grabbe-napoleon.xml,29053,29092,"– Wir alle, alle, sind ja seine Kinder.",positive,emotions of affection,love
+372,GerDracor/grabbe-napoleon.xml,29093,29102,für sich.,positive,emotions of joy,emotional movement
+373,GerDracor/grabbe-napoleon.xml,29103,29141,"Ja, ihr seid  Komm, laß uns fortgehen.",negative,emotions of rejection,anger
+374,GerDracor/grabbe-napoleon.xml,29142,29187,Ich kann dies nicht mehr hören und anschauen.,negative,emotions of suffering,suffering
+375,GerDracor/grabbe-napoleon.xml,29188,29267,"Dieses
+              Geschlecht ist schlimmer als schlimm, es ist  Was seh ich?",negative,emotional movement,"hate, disgust"
+376,GerDracor/grabbe-napoleon.xml,29268,29307,"Der König winkt mir, tritt auf mich zu!",positive,emotions of rejection,joy
+377,GerDracor/grabbe-napoleon.xml,29308,29319,zum Könige.,positive,emotions of affection,joy
+378,GerDracor/grabbe-napoleon.xml,29320,29327,Zurück!,negative,emotions of rejection,fear
+379,GerDracor/grabbe-napoleon.xml,29328,29354,"Ich bin der König, Freund.",positive,emotions of affection,friendship
+380,GerDracor/grabbe-napoleon.xml,29355,29465,"Und dies ist mein Posten, auf den mich mein Offizier gestellt hat und für den ich
+              bezahlt werde.",positive,emotions of affection,anger
+381,GerDracor/grabbe-napoleon.xml,29466,29547,"Zurück, oder – Schon gut, gut, braver Krieger –  Was für ein treues, dummes Tier!",negative,emotions of rejection,anger
+382,GerDracor/grabbe-napoleon.xml,29548,29553,Laut.,emotional movement,emotional movement,emotional movement
+383,GerDracor/grabbe-napoleon.xml,29554,29796,"Madame de Serré, ich kenne Sie, und wünschte Sie zu grüßen – aber Sie sehen, meine
+              Krieger sind so felsentreu, daß sie auch mich nicht zu Ihnen kommen lassen und im
+              Stande wären, mich gegen mich selbst zu schützen.",positive,emotions of rejection,"hate, disgust"
+384,GerDracor/grabbe-napoleon.xml,29797,29886,"Sire, dieses ist der größte Tag meines Lebens – Ich – Der König mit seiner Begleitung ab.",positive,emotions of joy,joy
+385,GerDracor/grabbe-napoleon.xml,29887,29925,Sie fällt in Ohnmacht – O seliger Tod!,negative,emotions of suffering,suffering
+386,GerDracor/grabbe-napoleon.xml,29926,29950,Könnt ich jetzt sterben!,negative,emotions of fear,despair
+387,GerDracor/grabbe-napoleon.xml,29951,29971,O welch ein Monarch!,positive,emotions of affection,admiration
+388,GerDracor/grabbe-napoleon.xml,29972,30174,"– Welche Worte: »ich kenne Sie, wünschte Sie zu grüßen!« »So
+              felsentreu, mich gegen mich selbst zu schützen!« – – Man sollte sie in Erz graben, –
+              hier ein Monument errichten!",negative,emotions of affection,admiration
+389,GerDracor/grabbe-napoleon.xml,30175,30193,– Wie groß ist er!,emotional movement,emotions of affection,emotional movement
+390,GerDracor/grabbe-napoleon.xml,30194,30207,wie huldvoll!,positive,emotions of affection,admiration
+391,GerDracor/grabbe-napoleon.xml,30208,30250,"– O kennte ihn die
+              Kanaille!",negative,emotions of rejection,"hate, disgust"
+392,GerDracor/grabbe-napoleon.xml,30251,30277,begriffe sie diesen Geist!,negative,emotions of affection,emotional movement
+393,GerDracor/grabbe-napoleon.xml,30278,30290,diesen Adel!,negative,emotions of rejection,"hate, disgust"
+394,GerDracor/grabbe-napoleon.xml,30291,30393,"– Aber wir wollen sie zügeln, und
+              will sie nicht begreifen, so wollen wir es sie lehren!",negative,emotions of rejection,anger
+395,GerDracor/grabbe-napoleon.xml,30394,30415,kommt aus dem Winkel.,emotional movement,emotional movement,emotional movement
+396,GerDracor/grabbe-napoleon.xml,30416,30420,Ihr?,emotional movement,emotional movement,emotional movement
+397,GerDracor/grabbe-napoleon.xml,30421,30436,Wer sprach das?,emotional movement,emotional movement,emotional movement
+398,GerDracor/grabbe-napoleon.xml,30437,30499,Ein kleiner Ofenheizer – da springt er mit seiner Gabel davon.,negative,emotions of rejection,anger
+399,GerDracor/grabbe-napoleon.xml,30500,30517,Der elende Junge!,negative,emotions of rejection,anger
+400,GerDracor/grabbe-napoleon.xml,30518,30597,"– Doch der König »ich kenne Sie«, »felsentreu« – ungeheure
+              Worte!",negative,emotional movement,emotional movement
+401,GerDracor/grabbe-napoleon.xml,30598,30639,"Erholen Sie sich wieder, Madame de Serré!",negative,emotions of joy,joy
+402,GerDracor/grabbe-napoleon.xml,30640,30683,"Mir ists noch immer, als wär ich im Himmel.",positive,emotions of joy,joy
+403,GerDracor/grabbe-napoleon.xml,30684,30709,"Ich bitte, sehen Sie auf!",emotional movement,emotional movement,fear
+404,GerDracor/grabbe-napoleon.xml,30710,30830,"Da geht der königliche Oberzeremonienmeister mit dem
+              uralten Speisenapfe der Bourbons, mit dem Nef vorbei.",positive,emotions of rejection,Schadenfreude
+405,GerDracor/grabbe-napoleon.xml,30831,30843,Mit dem Nef!,positive,emotions of rejection,emotional movement
+406,GerDracor/grabbe-napoleon.xml,30844,30881,"– O Gott, auch das Nef ist wieder da!",negative,emotions of suffering,fear
+407,GerDracor/grabbe-napoleon.xml,30882,30909,"Ja, Christus ist erstanden!",positive,emotions of joy,joy
+408,GerDracor/grabbe-napoleon.xml,30910,30954,"jetzt
+              erst glaub ich es recht!",positive,emotions of joy,suffering
+409,GerDracor/grabbe-napoleon.xml,30955,30972,"Das Nef, das Nef!",positive,emotions of rejection,emotional movement
+410,GerDracor/grabbe-napoleon.xml,30973,30999,O Frankreich ist gerettet!,positive,emotions of joy,joy
+411,GerDracor/grabbe-napoleon.xml,31000,31039,Alle ab bis auf die Schweizergardisten.,negative,emotions of rejection,"hate, disgust"
+412,GerDracor/grabbe-napoleon.xml,31040,31050,tritt vor.,negative,emotional movement,emotional movement
+413,GerDracor/grabbe-napoleon.xml,31051,31095,"Rudi, du hast den König zu barsch behandelt.",negative,emotions of rejection,anger
+414,GerDracor/grabbe-napoleon.xml,31096,31305,"Dem Kanton Luzern hab ich geschworen, dir muß ich gehorchen, und solang du es nicht
+              befiehlst, ist es mir eins, ob ich für oder wider dieses schnatternde Gesindel jemand
+              totschlage.",negative,emotions of rejection,anger
+415,GerDracor/grabbe-napoleon.xml,31306,31341,Königliche Zimmer in den Tuilerien.,positive,emotions of joy,admiration
+416,GerDracor/grabbe-napoleon.xml,31342,31393,König Ludwig und die Herzogin von Angoulême kommen.,positive,emotions of joy,joy
+417,GerDracor/grabbe-napoleon.xml,31394,31407,Wo ist Berry?,emotional movement,emotional movement,emotional movement
+418,GerDracor/grabbe-napoleon.xml,31408,31468,"Auf der Revue, Sire, und mein Gemahl geht ihm eben entgegen.",positive,emotions of joy,joy
+419,GerDracor/grabbe-napoleon.xml,31469,31475,Revue!,positive,emotions of joy,emotional movement
+420,GerDracor/grabbe-napoleon.xml,31476,31482,Revue!,positive,emotions of joy,emotional movement
+421,GerDracor/grabbe-napoleon.xml,31483,31595,"ich traue den Truppen nicht; sie gehorchen uns nur aus Not, ein Teil
+              ist feig, ein anderer falsch.",emotional movement,emotions of rejection,"hate, disgust"
+422,GerDracor/grabbe-napoleon.xml,31596,31792,"Das sag ich dir: weit lieber würd ich in Hartwell wieder
+              meine Kräuter und Blumen suchen, und nach Linné ihre Ordnungen bestimmen, als auf dem
+              Thron Frankreichs sitzen.",positive,emotions of affection,"hate, disgust"
+423,GerDracor/grabbe-napoleon.xml,31793,31932,"Sire, der Thron von Frankreich ist dein, – du erbtest ihn, und deinen spätesten
+              Enkeln bist du schuldig, daß du ihn bewahrst.",positive,emotions of affection,admiration
+424,GerDracor/grabbe-napoleon.xml,31933,32019,"Gott führte dich auf ihn zurück, –
+              versuche mit deinem Zagen Gott nicht.",negative,emotions of fear,anger
+425,GerDracor/grabbe-napoleon.xml,32020,32129,"Du schmerzbeladene Tochter Frankreichs, Kind der beiden königlichen Menschenopfer
+              – Mein Vater!",negative,emotions of suffering,suffering
+426,GerDracor/grabbe-napoleon.xml,32130,32141,mein Vater!,emotional movement,emotional movement,emotional movement
+427,GerDracor/grabbe-napoleon.xml,32142,32155,meine Mutter!,emotional movement,emotional movement,emotional movement
+428,GerDracor/grabbe-napoleon.xml,32156,32361,"– du lange Eingekerkerte, – wie kommt es, daß gerade du, die des Schicksals Schwere
+              am härtesten empfand, von allen meines Stammes die stärkste bist, bloß im Vertrauen
+              auf Gott?",negative,emotions of suffering,suffering
+429,GerDracor/grabbe-napoleon.xml,32362,32367,Gott?,negative,emotions of fear,emotional movement
+430,GerDracor/grabbe-napoleon.xml,32368,32411,"– Wo es an Menschen fehlt, da erscheint er!",negative,emotions of affection,love
+431,GerDracor/grabbe-napoleon.xml,32412,32543,"– Oheim, ich lernt ihn kennen, dort
+              in dem Tempel, Tempel, ja des Abgrundes der Revolution, doch für mich des Lichts.",positive,emotions of affection,love
+432,GerDracor/grabbe-napoleon.xml,32544,32838,"–
+              Wer so wie ich, ein zartes Kind, da im Gefängnisse schmachtet, und bangen Ohrs die
+              Häupter des Vaters und der Mutter von  Teure Nichte, ich glaube, du sagst die Wahrheit, und Trost sinkt in meine Brust, wenn
+              ich fern von unseren Diplomaten dich höre.",negative,emotions of affection,suffering
+433,GerDracor/grabbe-napoleon.xml,32839,33026,"Bei dem ersten Tritt, den ich auf die
+              Küsten meines Landes jüngst wieder tat, durchschauerte auch mich das unbegreifliche,
+              aber gewaltige Walten der Vorsehung!",positive,emotions of affection,suffering
+434,GerDracor/grabbe-napoleon.xml,33027,33297,"– Komm an das Fenster: da breitet
+                 König, nenn ihn gewaltig, riesenhaft, ungeheuer, – doch nimmermehr groß den Mörder
+              d'Enghiens, – nun und nimmer der groß, welcher Treue, Recht, Ehr und Liebe dem Ruhm
+              und der Macht aufopfert.",negative,emotions of affection,"hate, disgust"
+435,GerDracor/grabbe-napoleon.xml,33298,33332,Das kann auch der Dämon der Hölle.,negative,emotions of rejection,"hate, disgust"
+436,GerDracor/grabbe-napoleon.xml,33333,33741,"Die wahre Größe gibt Ruhm,
+              Macht, jeden Außenschein für Ehre, Recht und inneres Glück dahin – Er aber tat das nie
+              – O, ich kenne ihn – dieser Kaisertiger hätte sich vor seinem Feinde, den er mit den
+              Klauen nicht erreichen konnte, zum Wurm verwandelt, sich von ihm treten lassen, wenn
+              er nur wußte, daß er ihm alsdann giftig in die Ferse stechen konnte.",negative,emotions of rejection,"hate, disgust"
+437,GerDracor/grabbe-napoleon.xml,33742,33752,tritt ein.,negative,emotional movement,emotional movement
+438,GerDracor/grabbe-napoleon.xml,33753,33830,"Ihre Königlichen Hoheiten, der Herzog von Angoulême und der Herzog von Berry.",positive,emotions of affection,admiration
+439,GerDracor/grabbe-napoleon.xml,33831,33867,Meine geliebten Neffen mögen kommen.,positive,emotions of affection,love
+440,GerDracor/grabbe-napoleon.xml,33868,33893,Oberzeremonienmeister ab.,negative,emotions of rejection,suffering
+441,GerDracor/grabbe-napoleon.xml,33894,33947,Herzog von Angoulême und Herzog von Berry treten ein.,emotional movement,emotional movement,admiration
+442,GerDracor/grabbe-napoleon.xml,33948,34017,"Sire, Sire, ich flehe, schonen Sie nicht mehr die Kanaille, das Volk!",negative,emotions of rejection,despair
+443,GerDracor/grabbe-napoleon.xml,34018,34043,"Ja, Sire, es wird zu arg.",negative,emotions of suffering,anger
+444,GerDracor/grabbe-napoleon.xml,34044,34062,Was ist geschehen?,negative,emotional movement,emotional movement
+445,GerDracor/grabbe-napoleon.xml,34063,34103,"Gemahl, es ist doch kein Blut geflossen?",negative,emotional movement,emotional movement
+446,GerDracor/grabbe-napoleon.xml,34104,34119,"Nein, Gemahlin.",emotional movement,emotions of joy,emotional movement
+447,GerDracor/grabbe-napoleon.xml,34120,34178,"Also wieder Kindereien, mit denen ihr den Oheim belästigt.",negative,emotions of rejection,anger
+448,GerDracor/grabbe-napoleon.xml,34179,34190,Vielleicht.,negative,emotional movement,fear
+449,GerDracor/grabbe-napoleon.xml,34191,34228,"Sire, ich komme von dem Palais Royal.",positive,emotional movement,admiration
+450,GerDracor/grabbe-napoleon.xml,34229,34435,"Dort seh ich einen Lump, den ich an seinen
+              Narben, oder, wie man es nennen sollte, an den Brandmalen aus den Schlachten des
+              korsischen Rebellen als einen seiner Söldner erkannte.",negative,emotions of rejection,"hate, disgust"
+451,GerDracor/grabbe-napoleon.xml,34436,34639,"Ich trat dem Kerl höflich
+              entgegen, redete ihn freundlich an, und wähnte, ihn dadurch wieder auf den rechten Weg
+              zu führen, und dem Volke zu zeigen, wie gütig ein Bourbon ist.",positive,emotions of affection,admiration
+452,GerDracor/grabbe-napoleon.xml,34640,34831,"Der Schurke
+              beantwortete meine wohlgemeintesten Anträge mit nichts als Grobheiten, und als ich
+              zuletzt rief »es lebe der König«, schwieg er, und der Pöbel mit ihm.",negative,emotions of rejection,anger
+453,GerDracor/grabbe-napoleon.xml,34832,34939,"– Das kann kein
+              königlicher Prinz länger verbeißen, Sire, er müßte denn Elefantenzähne haben.",positive,emotions of rejection,"hate, disgust"
+454,GerDracor/grabbe-napoleon.xml,34940,35282,"Ich habe
+              es noch einmal getan, um Ihrem Wunsche zu folgen, – aber, Sire, ich bürge nicht so
+              weit für mein  Und, Sire, wie mir Bruder Berry erzählt, ist der Orleans vorher am nämlichen Orte, wo
+              Berry mit Soldaten gesprochen, vorbeigekommen, und alles Volk hat ihm ein Lebehoch
+              zugerufen.",positive,emotions of affection,joy
+455,GerDracor/grabbe-napoleon.xml,35283,35301,"Ja, und noch mehr.",positive,emotions of rejection,anger
+456,GerDracor/grabbe-napoleon.xml,35302,35462,"Sie nannten ihn: »einst König.« Nun der Einst-König hüte sich vor
+              uns und vor Ihnen, Sire, wenn er konspirieren sollte, und ich glaube, er tut es.",positive,emotions of rejection,"hate, disgust"
+457,GerDracor/grabbe-napoleon.xml,35463,35492,"Das wäre kein Wunder, Freund.",positive,emotions of suffering,compassion
+458,GerDracor/grabbe-napoleon.xml,35493,35568,"Das Haus der Orleans wimmelte stets von Mördern der
+              Bourbons.",negative,emotions of rejection,"hate, disgust"
+459,GerDracor/grabbe-napoleon.xml,35569,35643,"Sie wollen die ersten in dem Geschlecht sein, wo sie nur die zweiten sind.",positive,emotions of rejection,admiration
+460,GerDracor/grabbe-napoleon.xml,35658,35726,Vergiftete der Regent nicht die Nachkommenschaft des großen Ludwigs?,negative,emotions of suffering,suffering
+461,GerDracor/grabbe-napoleon.xml,35727,35808,"Brachte der
+              sogenannte Egalité nicht meinen Vater auf das Schafott?",negative,emotions of rejection,suffering
+462,GerDracor/grabbe-napoleon.xml,35809,35876,"Doch der jetzige Orleans, Gemahlin, ist besser als seine Vorfahren.",positive,emotions of affection,admiration
+463,GerDracor/grabbe-napoleon.xml,35877,35898,Er ist – ein Orleans.,negative,emotions of rejection,"hate, disgust"
+464,GerDracor/grabbe-napoleon.xml,35899,35909,Und das –?,emotional movement,emotional movement,emotional movement
+465,GerDracor/grabbe-napoleon.xml,35910,35921,Sagt alles.,positive,emotions of rejection,anger
+466,GerDracor/grabbe-napoleon.xml,35922,35978,"Jeder artet nach dem Geschlecht, aus dem er entsprossen.",negative,emotions of rejection,"hate, disgust"
+467,GerDracor/grabbe-napoleon.xml,35979,36078,"Zeige mir in
+              Bonapartes Blut ein Tröpfchen von dem ewigen Adelssinn der Montmorencys!",positive,emotions of affection,"hate, disgust"
+468,GerDracor/grabbe-napoleon.xml,36079,36125,"Er war stets
+              ein gemeiner Korse.",negative,emotions of rejection,"hate, disgust"
+469,GerDracor/grabbe-napoleon.xml,36126,36211,Ein durch Jahrhunderte geheiligter Name ist der leuchtendste Wegweiser für den Enkel.,positive,emotions of affection,admiration
+470,GerDracor/grabbe-napoleon.xml,36226,36263,"Aber es gibt Ausnahmen, und wahrlich!",positive,emotions of suffering,suffering
+471,GerDracor/grabbe-napoleon.xml,36264,36441,"der einst so unbekannte Korse schmückte mein
+              Land mit einem Ruhmeskranze, wie er kein anderes Reich dieser Erde ziert, und ich bin
+              ihm dafür dankbar.",positive,emotions of affection,admiration
+472,GerDracor/grabbe-napoleon.xml,36442,36555,"Ja, Sire, Er schmückte oder befleckte es mit einem Ruhmeskranze, wie kein anderes
+              Land ihn besitzt.",positive,emotions of rejection,admiration
+473,GerDracor/grabbe-napoleon.xml,36556,36584,Kennst du die Blätter daran?,positive,emotional movement,emotional movement
+474,GerDracor/grabbe-napoleon.xml,36585,36688,"Sie triefen blutrot, wie
+              Schlachtfelder, und werden fallen, wie die gelben Herbstblätter.",negative,emotions of suffering,suffering
+475,GerDracor/grabbe-napoleon.xml,36689,36787,"– O, lob ihn wie du
+              willst, er war kleiner als sein Glück, und darum verließ es ihn.",negative,emotions of suffering,suffering
+476,GerDracor/grabbe-napoleon.xml,36788,36808,"Er lebt noch, Beste.",positive,emotions of affection,joy
+477,GerDracor/grabbe-napoleon.xml,36809,36838,– Wenn er es wieder ergriffe?,negative,emotions of rejection,emotional movement
+478,GerDracor/grabbe-napoleon.xml,36839,36870,So schlüg ich ihm auf die Hand.,negative,emotions of rejection,anger
+479,GerDracor/grabbe-napoleon.xml,36871,37024,"Die Haustruppen, welche ich befehlige, sind auch
+              tapfere Franzosen, noch dazu von echten Edelleuten kommandiert, und  Ich habe Nachrichten.",positive,emotions of joy,joy
+480,GerDracor/grabbe-napoleon.xml,37025,37150,"Er soll oft an Elbas nördlichem Ufer stehen, und nach
+              Frankreich schauen – Seine Blicke bedeuteten selten Heil.",negative,emotions of suffering,suffering
+481,GerDracor/grabbe-napoleon.xml,37151,37180,Die Blicke des armen Teufels?,negative,emotions of suffering,emotional movement
+482,GerDracor/grabbe-napoleon.xml,37181,37284,"Des Toren, dem sein gutes Los den Mund so voll warf,
+              daß er alles wieder ausspeien mußte?",negative,emotions of rejection,Schadenfreude
+483,GerDracor/grabbe-napoleon.xml,37285,37378,"Dessen, der jetzt als eine lebendige Schandsäule
+              auf seiner Insel umherwandelt?",negative,emotions of rejection,"hate, disgust"
+484,GerDracor/grabbe-napoleon.xml,37379,37570,"Dessen, den ich, wenn ich damals erwachsen gewesen
+              wäre, mit zwanzigtausend Mann treuer Soldaten mitten in seiner Glorie leicht hätte
+              nach Vincennes führen wollen?",positive,emotional movement,admiration
+485,GerDracor/grabbe-napoleon.xml,37571,37620,Wo aber waren die zwanzigtausend treuen Soldaten?,emotional movement,emotional movement,emotional movement
+486,GerDracor/grabbe-napoleon.xml,37621,37631,tritt ein.,negative,emotional movement,emotional movement
+487,GerDracor/grabbe-napoleon.xml,37632,37687,Der Kanzler und der Minister des Hauses harren draußen.,negative,emotions of fear,emotional movement
+488,GerDracor/grabbe-napoleon.xml,37688,37712,"Ah, d'Ambray und Blacas.",positive,emotions of joy,joy
+489,GerDracor/grabbe-napoleon.xml,37713,37731,Laß sie eintreten.,negative,emotional movement,fear
+490,GerDracor/grabbe-napoleon.xml,37732,37757,Oberzeremonienmeister ab.,negative,emotions of rejection,suffering
+491,GerDracor/grabbe-napoleon.xml,37758,37802,Graf Blacas d'Aulps und d'Ambray treten ein.,emotional movement,emotional movement,emotional movement
+492,GerDracor/grabbe-napoleon.xml,37803,37957,"Jetzt, Neffe Berry, frage diese erfahrenen Geschäftsmänner, ob unser Reich noch das
+              alte ist, und wir den Korsen nicht zu fürchten brauchen?",negative,emotions of rejection,fear
+493,GerDracor/grabbe-napoleon.xml,37958,38085,"Das Reich ist das alte, Sire, und wir brauchen ihn nicht zu fürchten, so gewiß ich
+              hier meinen alten Degen trage.",negative,emotions of fear,fear
+494,GerDracor/grabbe-napoleon.xml,38086,38125,"Sire, es ist so, wie mein Kollege sagt.",positive,emotional movement,joy
+495,GerDracor/grabbe-napoleon.xml,38126,38563,"Die Nation liebt und verehrt die königliche
+              Familie grenzenlos, – jedermann sehnt sich nach der Verfassung, wie sie etwa 1786 noch
+              makellos in reiner Glorie prangte, – keine Stunde, wo ich nicht Briefe von Präfekten,
+              Generalen, Maires erhielte, die diesen Wunsch nicht aussprächen, – nur ein paar
+              Schwindelköpfe, besser für das Irren- als für das Zuchthaus, wagen anders zu denken.",positive,emotions of affection,admiration
+496,GerDracor/grabbe-napoleon.xml,38578,38632,Die Gensd'armerie wird auch ihnen Vernunft beibringen.,positive,emotions of rejection,anger
+497,GerDracor/grabbe-napoleon.xml,38633,38842,"Herr d'Ambray, wenn Sie nicht zuerst wieder die alte Achtung für Religion, für die
+              angeborenen Herrscher, für die gesetzlichen Ordnungen herstellen, hilft Ihnen keine
+              Gensd'armerie.",negative,emotions of rejection,"hate, disgust"
+498,GerDracor/grabbe-napoleon.xml,38843,38904,"Und, Königliche Hoheit, wer sonst würde alles das herstellen?",negative,emotions of affection,admiration
+499,GerDracor/grabbe-napoleon.xml,38905,39024,"Die, welche die Herzen beherrschen, sie auf dem Schafott beseligen, – die tüchtigen
+              Geistlichen,  Wieder!",positive,emotions of rejection,admiration
+500,GerDracor/grabbe-napoleon.xml,39025,39032,wieder!,negative,emotions of rejection,joy
+501,GerDracor/grabbe-napoleon.xml,39033,39078,"Nichte, das Wort ist nur zu sehr in der Mode!",negative,emotions of rejection,anger
+502,GerDracor/grabbe-napoleon.xml,39079,39163,"– Verwechsle mir auch
+              nicht die Diener des Herrn mit dem Herrn selbst.",positive,emotions of rejection,anger
+503,GerDracor/grabbe-napoleon.xml,39164,39313,"König und Mensch, fühle deine Schwäche – Wie wolltest du den Herrn kennen lernen,
+              ohne die auserwählten Diener, die dich zu ihm führen?",positive,emotions of suffering,suffering
+504,GerDracor/grabbe-napoleon.xml,39314,39470,"Sire, das »wieder« möchte bis jetzt eher zu wenig, als zu sehr Mode sein – Die
+              Revolution riß frech ein, lassen Sie uns kühn wieder auf bauen.",positive,emotions of fear,joy
+505,GerDracor/grabbe-napoleon.xml,39471,39529,"Warum nicht auch die
+              Kollegien der Jesuiten?",emotional movement,emotional movement,emotional movement
+506,GerDracor/grabbe-napoleon.xml,39530,39622,"Sire, die werden die heiligsten und festesten Grundlagen Ihres
+              Thrones bilden.",positive,emotions of affection,admiration
+507,GerDracor/grabbe-napoleon.xml,39623,40054,"Und dann lassen Sie uns in den Reihen unserer Braven bis auf den
+              gemeinsten Tambour, alle die ausmerzen, welche dem Adler des Korsen folgten, – weg mit
+              den etwa noch existierenden Pensionen seiner Offiziere, – wenn wir die Summen auch nur
+              an loyale Präfekten und Maires verwenden, sind sie besser benutzt als jetzt, – solange
+              dieses Kriegsvolk nicht darbt, solange trotzt es.",negative,emotions of rejection,"hate, disgust"
+508,GerDracor/grabbe-napoleon.xml,40055,40364,"Sire, und nehmen Sie den verruchten Käufern der Nationalgüter, welche Sie, den Adel,
+              die Kirche und uns alle beraubt, – die Sie selbst in Hartwell so oft Räuber genannt
+              haben, die Beute wieder ab, – das Gesindel verwendet sie nur, daß es Feuer unter dem
+              Thron anlegt.",negative,emotions of rejection,"hate, disgust"
+509,GerDracor/grabbe-napoleon.xml,40365,40413,"Mein lieber Blacas und d'Ambray, ihr habt recht.",positive,emotions of joy,joy
+510,GerDracor/grabbe-napoleon.xml,40414,40480,"Doch auch das Recht will mit
+              Klugheit ausgeübt sein.",negative,emotions of rejection,anger
+511,GerDracor/grabbe-napoleon.xml,40481,40617,"Greifen wir die Nationalgüter voreilig an, so erregen wir
+              einen Aufstand, den wir ein paar Jahre später vermeiden konnten.",negative,emotions of rejection,anger
+512,GerDracor/grabbe-napoleon.xml,40618,40657,"Was meinst du,
+              Angoulême?",emotional movement,emotional movement,emotional movement
+513,GerDracor/grabbe-napoleon.xml,40658,40694,"Sire, ich denke, wie meine Gemahlin.",negative,emotions of affection,admiration
+514,GerDracor/grabbe-napoleon.xml,40695,40819,"– Ich sehe und sehe schon lange, – da auf dem
+              Dache sitzt ein wunderschöner Tauberich – könnte man ihn fangen!",positive,emotions of joy,joy
+515,GerDracor/grabbe-napoleon.xml,40820,40895,"– Das öffentliche Recht, Sire, will allerdings mit Politik gehandhabt sein.",negative,emotions of rejection,anger
+516,GerDracor/grabbe-napoleon.xml,40896,41047,"Aber das
+              eigne bürgerliche Gesetz der Revolutionäre und Bonapartisten, ihr Code Napoléon,
+              spricht gegen usurpierten Besitz.",negative,emotions of rejection,anger
+517,GerDracor/grabbe-napoleon.xml,41048,41103,"Und spricht das Gesetz nicht so, dann kehren wir es um.",positive,emotions of rejection,anger
+518,GerDracor/grabbe-napoleon.xml,41104,41143,"Für elende
+                 Assignaten!",negative,emotions of rejection,anger
+519,GerDracor/grabbe-napoleon.xml,41144,41166,Nenne sie nicht elend!,negative,emotions of rejection,compassion
+520,GerDracor/grabbe-napoleon.xml,41167,41269,"Ich sah die zitternden Hände, welche sie bei
+              Lebensstrafe, für ihr Geld annehmen mußten.",negative,emotions of suffering,suffering
+521,GerDracor/grabbe-napoleon.xml,41270,41353,"Die Assignaten waren mit
+                 Meine Herren, ich ergreife den Mittelweg.",positive,emotions of joy,joy
+522,GerDracor/grabbe-napoleon.xml,41354,41397,– Der Mittelweg ist oft doppelt gefährlich.,negative,emotions of fear,fear
+523,GerDracor/grabbe-napoleon.xml,41398,41409,Hier nicht.,negative,emotions of rejection,joy
+524,GerDracor/grabbe-napoleon.xml,41410,41602,"Es sollen fürerst nur Worte vom Thron fallen, die den Nationalgutskäufern
+              andeuten, wie sie für billigen Ersatz ihr Besitztum an dessen Herren zurückliefern
+              können.",positive,emotions of rejection,anger
+525,GerDracor/grabbe-napoleon.xml,41603,41629,"Oheim, du bist zu liberal.",emotional movement,emotions of rejection,anger
+526,GerDracor/grabbe-napoleon.xml,41630,41657,Wir möchten dasselbe sagen.,positive,emotions of affection,joy
+527,GerDracor/grabbe-napoleon.xml,41658,41686,Der König selbst zu liberal?,emotional movement,emotional movement,emotional movement
+528,GerDracor/grabbe-napoleon.xml,41687,41822,"Ja, Sire, und deshalb, weil er sich zu stark hält, als daß er glaubte, das Ungeheuer
+              des Liberalismus fürchten zu müssen.",negative,emotions of rejection,admiration
+529,GerDracor/grabbe-napoleon.xml,41823,41833,tritt ein.,negative,emotional movement,emotional movement
+530,GerDracor/grabbe-napoleon.xml,41834,41875,"Sire, der Brief einer Estafette von Lyon.",negative,emotional movement,emotional movement
+531,GerDracor/grabbe-napoleon.xml,41876,41901,Gut – ich will ihn lesen.,positive,emotions of joy,joy
+532,GerDracor/grabbe-napoleon.xml,41902,41927,Oberzeremonienmeister ab.,negative,emotions of rejection,suffering
+533,GerDracor/grabbe-napoleon.xml,41928,41955,während er den Brief liest.,negative,emotional movement,emotional movement
+534,GerDracor/grabbe-napoleon.xml,41956,41995,– Nachrichten von neuen Verschwörungen.,negative,emotions of rejection,fear
+535,GerDracor/grabbe-napoleon.xml,41996,42113,"Eine Gesellschaft der eisernen Nadel, die den
+              Bonaparte wieder auf den Thron setzen will, ist entdeckt.",positive,emotions of joy,admiration
+536,GerDracor/grabbe-napoleon.xml,42114,42221,"Der Korse muß fort vom nahen Elba, auf eine abgelegene Insel, weit weg, zum Beispiel
+              nach St.",negative,emotions of suffering,suffering
+537,GerDracor/grabbe-napoleon.xml,42222,42237,Helena oder St.,emotional movement,emotional movement,emotional movement
+538,GerDracor/grabbe-napoleon.xml,42238,42244,Lucie.,emotional movement,emotional movement,emotional movement
+539,GerDracor/grabbe-napoleon.xml,42245,42290,Nicht übel wäre das für uns und auch für ihn.,positive,emotions of joy,compassion
+540,GerDracor/grabbe-napoleon.xml,42291,42467,"Ich merk es allgemach auch – Wir wollen
+              bei Talleyrand in Wien anfragen, ob und wie es mit Einwilligung der fremden Monarchen
+              möglich zu machen ist.",emotional movement,emotions of joy,anger
+541,GerDracor/grabbe-napoleon.xml,42468,42519,Der Talleyrand saß auch in der Nationalversammlung!,positive,emotions of rejection,"hate, disgust"
+542,GerDracor/grabbe-napoleon.xml,42520,42619,"Nun, er ist doch aus einem altadligen Geschlecht, und rückgekommen zu seiner
+              Pflicht.",negative,emotions of suffering,anger
+543,GerDracor/grabbe-napoleon.xml,42620,42636,Wo ist Monsieur?,emotional movement,emotional movement,emotional movement
+544,GerDracor/grabbe-napoleon.xml,42637,42688,Ich wünsch ihn in dieser Angelegenheit zu befragen.,positive,emotional movement,anger
+545,GerDracor/grabbe-napoleon.xml,42689,42692,Se.,positive,emotional movement,emotional movement
+546,GerDracor/grabbe-napoleon.xml,42693,42888,"Königliche Hoheit erholen sich von den Wunden, welche Ihnen der Schmerz über die
+              Nachricht des Todes Ihres treuen Dieners Bussy geschlagen hat, in der  So will ich ihn nicht stören.",negative,emotions of suffering,suffering
+547,GerDracor/grabbe-napoleon.xml,42889,42929,"Gemahl, der König geht – Laß uns folgen.",negative,emotions of fear,fear
+548,GerDracor/grabbe-napoleon.xml,42930,42947,Wie du befiehlst.,negative,emotions of rejection,anger
+549,GerDracor/grabbe-napoleon.xml,42948,43170,"– Der Tauberich, der Tauberich da oben – Welch einen Kropf hat er –
+              Und siehe die allerliebsten Täubchen, die ihn umflattern – Ich hätt ihn längst
+              totgeschossen, aber ich muß ihn lebendig haben.",positive,emotions of joy,joy
+550,GerDracor/grabbe-napoleon.xml,43171,43200,Unser Houdet soll ihn fangen.,positive,emotions of joy,Schadenfreude
+551,GerDracor/grabbe-napoleon.xml,43201,43245,Hast du von den neuen Verschwörungen gehört?,emotional movement,emotional movement,emotional movement
+552,GerDracor/grabbe-napoleon.xml,43246,43263,Das alberne Zeug.,negative,emotions of rejection,anger
+553,GerDracor/grabbe-napoleon.xml,43264,43291,Laß uns nicht daran denken.,negative,emotions of fear,suffering
+554,GerDracor/grabbe-napoleon.xml,43292,43296,Ach!,negative,emotions of suffering,suffering
+555,GerDracor/grabbe-napoleon.xml,43297,43317,Alle entfernen sich.,negative,emotions of suffering,"hate, disgust"
+556,GerDracor/grabbe-napoleon.xml,43318,43407,"Nördliches Gestade von Elba, nicht weit von Porto Ferrajo Anbrechender
+            Abend.",positive,emotions of suffering,suffering
+557,GerDracor/grabbe-napoleon.xml,43408,43534,"Napoleon steht am Ufer, Bertrand neben ihm, – eine Ordonnanz von der polnischen
+            Legion hält zu Pferde in der Nähe.",emotional movement,emotions of fear,emotional movement
+558,GerDracor/grabbe-napoleon.xml,43535,43762,"Bertrand, dies ist ein herrlicher Platz – Ich lieb ihn abends – Da das Meer, der
+              Spiegel der Sternenwelt, hinbrausend nach den Küsten von – Ach – Der Bergwerksdirektor
+              zu Porto Ferrajo ist abgesetzt.",positive,emotions of joy,joy
+559,GerDracor/grabbe-napoleon.xml,43763,43779,Er hat betrogen.,negative,emotions of suffering,suffering
+560,GerDracor/grabbe-napoleon.xml,43780,43783,Ew.,negative,emotions of suffering,suffering
+561,GerDracor/grabbe-napoleon.xml,43784,43853,"Majestät, der Mann war doch – Ich hab es gesagt – – Pole in Gedanken?",negative,emotional movement,emotional movement
+562,GerDracor/grabbe-napoleon.xml,43854,43871,wo denkst du hin?,emotional movement,emotions of fear,emotional movement
+563,GerDracor/grabbe-napoleon.xml,43872,44032,"Wegreiten möcht ich über das Meer, nach Marseille, Paris, und zuletzt nach meinem
+              Vaterlande, aber nimmer ohne dich, mein Feldherr und mein Vater.",positive,emotions of affection,friendship
+564,GerDracor/grabbe-napoleon.xml,44033,44082,Ein Schiff erscheint da – Welche Flagge führt es?,emotional movement,emotional movement,emotional movement
+565,GerDracor/grabbe-napoleon.xml,44083,44111,Man kann sie nicht erkennen.,positive,emotions of affection,suffering
+566,GerDracor/grabbe-napoleon.xml,44112,44194,"Vermutlich ein französischer Levantefahrer, der von
+              Marseille kommt.",negative,emotions of rejection,"hate, disgust"
+567,GerDracor/grabbe-napoleon.xml,44195,44210,Der Glückliche!,positive,emotions of joy,joy
+568,GerDracor/grabbe-napoleon.xml,44211,44244,er war an den Küsten Frankreichs.,negative,emotions of affection,suffering
+569,GerDracor/grabbe-napoleon.xml,44245,44310,"– Ob man im schönen Frankreich noch
+              meiner gedenkt?",negative,emotional movement,suffering
+570,GerDracor/grabbe-napoleon.xml,44311,44329,"Kaiser, du fragst?",emotional movement,emotional movement,emotional movement
+571,GerDracor/grabbe-napoleon.xml,44330,44532,"– – So lange die Sonne in die Prachtfenster der Paläste und in die
+              schmalen Glasscheiben der Hütten funkelt, wird man Deiner gedenken, oder Frankreich
+              verdiente unterzugehen.",negative,emotions of suffering,love
+572,GerDracor/grabbe-napoleon.xml,44533,44541,Möglich.,negative,emotions of fear,emotional movement
+573,GerDracor/grabbe-napoleon.xml,44542,44612,"Aber die Leute sind vergeßlich – Der Marmont, Augereau – Die Verräter!",negative,emotions of rejection,"hate, disgust"
+574,GerDracor/grabbe-napoleon.xml,44613,44616,Ha!,emotional movement,emotional movement,emotional movement
+575,GerDracor/grabbe-napoleon.xml,44617,44665,"statt an Taten, zehrt man jetzt an Erinnerungen!",negative,emotions of suffering,joy
+576,GerDracor/grabbe-napoleon.xml,44666,44750,"Zuckte nicht einst das stolze
+              Österreich, wie ein Wurm in dieser Hand?",negative,emotions of affection,emotional movement
+577,GerDracor/grabbe-napoleon.xml,44751,44765,Nicht Preußen?,negative,emotional movement,emotional movement
+578,GerDracor/grabbe-napoleon.xml,44766,44824,"Ließ ich sie beide nicht leben
+              und bestehen?",positive,emotions of affection,love
+579,GerDracor/grabbe-napoleon.xml,44825,44882,"– Wie undankbar die Welt, das elende, schlechte Scheusal!",negative,emotions of rejection,anger
+580,GerDracor/grabbe-napoleon.xml,44883,45090,"– Mein eigner
+              Schwiegervater – Verzeih ihm, – er wurde es, weil Du befahlst – Als er nicht mehr zu gehorchen
+              brauchte, zerriß er die Bande – Bande – sage, das Herz seiner Tochter.",negative,emotions of suffering,suffering
+581,GerDracor/grabbe-napoleon.xml,45091,45165,Was kümmert das den Stolz und die Politik der alten Herrschergeschlechter?,negative,emotions of rejection,emotional movement
+582,GerDracor/grabbe-napoleon.xml,45166,45176,Die Toren!,negative,emotions of fear,joy
+583,GerDracor/grabbe-napoleon.xml,45177,45301,"Sie sehnen sich noch einst nach dieser kleinen Hand, wenn sie längst Asche
+              ist, denn  Werde wieder ein großer.",positive,emotions of affection,love
+584,GerDracor/grabbe-napoleon.xml,45302,45327,Ist die Canaille es wert?,negative,emotions of rejection,emotional movement
+585,GerDracor/grabbe-napoleon.xml,45328,45371,"Ist sie nicht zu klein, um Größe zu fassen?",emotional movement,emotions of affection,love
+586,GerDracor/grabbe-napoleon.xml,45372,45434,"Weil sie so
+              niedrig war, ward ich so riesenhaft.",negative,emotions of rejection,suffering
+587,GerDracor/grabbe-napoleon.xml,45435,45463,Du warest mehr als die Welt.,positive,emotions of affection,love
+588,GerDracor/grabbe-napoleon.xml,45464,45474,Und jetzt!,emotional movement,emotional movement,emotional movement
+589,GerDracor/grabbe-napoleon.xml,45475,45500,"Bertrand, welch ein Ende!",negative,emotions of suffering,suffering
+590,GerDracor/grabbe-napoleon.xml,45501,45580,"Hier hingeschmiedet, ein anderer Prometheus, den
+              Geier im Herzen.",negative,emotions of rejection,"hate, disgust"
+591,GerDracor/grabbe-napoleon.xml,45581,45767,"Hingeschmiedet nicht von der Kraft und Gewalt, sondern von der
+              Überzahl der Schwachen und Elenden – Sohn, Mutter, von mir gerissen – Täte man das
+              einem Bauer?",negative,emotions of rejection,suffering
+592,GerDracor/grabbe-napoleon.xml,45768,45814,"Erderschütterer, den Bauer fürchtet man nicht.",negative,emotions of fear,fear
+593,GerDracor/grabbe-napoleon.xml,45815,45891,"Hat Rußlands Alexander so ganz vergessen, wie er auf dem Niemen sich beugte?",negative,emotions of suffering,suffering
+594,GerDracor/grabbe-napoleon.xml,45892,45953,"Hat der
+              Preußenkönig – O Sire, den tadle nicht.",positive,emotions of rejection,anger
+595,GerDracor/grabbe-napoleon.xml,45954,46043,"Er verlor durch deine Schlachten die schönste Rose im Schnee
+              des Nordlands.",positive,emotions of suffering,suffering
+596,GerDracor/grabbe-napoleon.xml,46044,46135,"Ich habe sie erblickt und das Auge ward mir feucht, als ich ihren Tod
+              erfuhr.",negative,emotions of suffering,suffering
+597,GerDracor/grabbe-napoleon.xml,46136,46152,Konnt ich davor?,negative,emotions of fear,emotional movement
+598,GerDracor/grabbe-napoleon.xml,46153,46205,– Weswegen blühte sie im Gleise meines Siegeswagens?,emotional movement,emotional movement,emotional movement
+599,GerDracor/grabbe-napoleon.xml,46206,46384,"Das Geschick
+              trieb seine Räder zermalmend über noch viel härtere Herzen: Pichegru, d'Enghien,
+              Moreau – Du, selbst so Gewaltiger, glaubst ein Geschick?",negative,emotions of suffering,suffering
+600,GerDracor/grabbe-napoleon.xml,46385,46497,"Ja, es stand bei mir in Korsika, meiner meerumbrausten Wiege, und wird auch meinen
+              Sarg umbrausen.",positive,emotions of joy,suffering
+601,GerDracor/grabbe-napoleon.xml,46498,46626,"In Moskaus Flammen, nachdem ich lange es vergessen, sah ich es mit
+              seinen Fittichen sich wieder über mich erheben.",positive,emotions of affection,admiration
+602,GerDracor/grabbe-napoleon.xml,46627,46713,"– Nicht Völker oder Krieger haben mich
+              bezwungen – Das Schicksal war es.",negative,emotions of suffering,love
+603,GerDracor/grabbe-napoleon.xml,46714,46728,– Was ist dir?,negative,emotional movement,emotional movement
+604,GerDracor/grabbe-napoleon.xml,46729,46789,"Mein Kaiser, vielleicht – kaum wag ich es zu sagen – Sag es!",positive,emotions of fear,fear
+605,GerDracor/grabbe-napoleon.xml,46790,46832,– vielleicht mein Freund – Es könnte sein.,emotional movement,emotional movement,emotional movement
+606,GerDracor/grabbe-napoleon.xml,46833,46871,"Doch glaubst du es, so schweige davon.",negative,emotions of rejection,compassion
+607,GerDracor/grabbe-napoleon.xml,46872,46946,"– ich kann es nicht ertragen, Dich so zu sehen, so wie jetzt, einen – Nun?",negative,emotions of suffering,suffering
+608,GerDracor/grabbe-napoleon.xml,46947,46970,– einen Löwen im Käfig.,negative,emotions of rejection,"hate, disgust"
+609,GerDracor/grabbe-napoleon.xml,46971,47007,– Auch meine Gemahlin härmt sich ab.,negative,emotions of suffering,suffering
+610,GerDracor/grabbe-napoleon.xml,47008,47087,"Ihre Schönheit, ihre
+              Heiterkeit schwinden dahin seit Deinem Fall.",negative,emotions of affection,love
+611,GerDracor/grabbe-napoleon.xml,47088,47097,Ich weiß.,negative,emotional movement,fear
+612,GerDracor/grabbe-napoleon.xml,47098,47130,– Wie stehts wohl in Frankreich?,emotional movement,emotional movement,emotional movement
+613,GerDracor/grabbe-napoleon.xml,47131,47146,"Schlecht, Sire.",negative,emotions of rejection,anger
+614,GerDracor/grabbe-napoleon.xml,47147,47277,"Der König schwach, die Prinzen übermütig, die Ultras siegend, Deine
+              alten Krieger verhöhnt – O mein Land, mein Land!",positive,emotions of joy,suffering
+615,GerDracor/grabbe-napoleon.xml,47278,47329,"– Man sage, was man will, ich hab es stets geliebt!",positive,emotions of affection,love
+616,GerDracor/grabbe-napoleon.xml,47330,47426,"– Fühlten
+              meine Feinde den  Es ist gestern ein Offizier aus Frankreich angekommen.",positive,emotions of fear,joy
+617,GerDracor/grabbe-napoleon.xml,47427,47442,Aus Frankreich?,emotional movement,emotional movement,emotional movement
+618,GerDracor/grabbe-napoleon.xml,47443,47452,Er komme.,emotional movement,emotions of fear,joy
+619,GerDracor/grabbe-napoleon.xml,47453,47499,– Aber bemerkte ihn keiner der fremden Späher?,emotional movement,emotions of rejection,emotional movement
+620,GerDracor/grabbe-napoleon.xml,47500,47567,"Nein, – er schlich als italiänischer Matrose verkleidet bis zu uns.",negative,emotions of rejection,"hate, disgust"
+621,GerDracor/grabbe-napoleon.xml,47568,47581,Wie heißt er?,emotional movement,emotional movement,emotional movement
+622,GerDracor/grabbe-napoleon.xml,47582,47590,Graf St.,emotional movement,emotions of rejection,emotional movement
+623,GerDracor/grabbe-napoleon.xml,47591,47596,P-le.,negative,emotions of rejection,emotional movement
+624,GerDracor/grabbe-napoleon.xml,47597,47621,Von dem hört ich früher.,negative,emotions of rejection,anger
+625,GerDracor/grabbe-napoleon.xml,47622,47655,– Er focht brav bei Champeaubert.,positive,emotions of affection,admiration
+626,GerDracor/grabbe-napoleon.xml,47656,47672,"Da ist er, Sire.",positive,emotions of joy,joy
+627,GerDracor/grabbe-napoleon.xml,47673,47696,Der Offizier tritt vor.,negative,emotional movement,emotional movement
+628,GerDracor/grabbe-napoleon.xml,47697,47710,Wer sind Sie?,emotional movement,emotional movement,emotional movement
+629,GerDracor/grabbe-napoleon.xml,47711,47719,Graf St.,emotional movement,emotions of rejection,emotional movement
+630,GerDracor/grabbe-napoleon.xml,47720,47729,"P-le, Ew.",negative,emotions of joy,emotional movement
+631,GerDracor/grabbe-napoleon.xml,47730,47739,Majestät.,positive,emotions of affection,admiration
+632,GerDracor/grabbe-napoleon.xml,47740,47760,Was wollen Sie hier?,emotional movement,emotional movement,emotional movement
+633,GerDracor/grabbe-napoleon.xml,47761,47765,Ewr.,negative,emotions of suffering,emotional movement
+634,GerDracor/grabbe-napoleon.xml,47766,47782,Majestät dienen.,positive,emotions of affection,admiration
+635,GerDracor/grabbe-napoleon.xml,47783,47805,"Geht nicht, mein Herr.",negative,emotions of rejection,anger
+636,GerDracor/grabbe-napoleon.xml,47806,47833,Habe schon Offiziere genug.,negative,emotions of affection,"hate, disgust"
+637,GerDracor/grabbe-napoleon.xml,47834,47862,Ich kann Sie nicht besolden.,negative,emotions of suffering,anger
+638,GerDracor/grabbe-napoleon.xml,47863,47886,Sold verlang ich nicht.,negative,emotions of rejection,anger
+639,GerDracor/grabbe-napoleon.xml,47887,47890,So?,emotional movement,emotional movement,emotional movement
+640,GerDracor/grabbe-napoleon.xml,47891,47910,– Haben Sie Briefe?,negative,emotional movement,emotional movement
+641,GerDracor/grabbe-napoleon.xml,47911,47922,"Nein, Sire.",emotional movement,emotional movement,emotional movement
+642,GerDracor/grabbe-napoleon.xml,47923,47929,Adieu.,negative,emotions of suffering,suffering
+643,GerDracor/grabbe-napoleon.xml,47930,47971,"Sire, Briefe mitzunehmen, war gefährlich.",negative,emotions of fear,fear
+644,GerDracor/grabbe-napoleon.xml,47972,47999,Aber ich redete mit Fouché.,emotional movement,emotional movement,anger
+645,GerDracor/grabbe-napoleon.xml,48000,48022,Fouché – Was sagte er?,emotional movement,emotional movement,emotional movement
+646,GerDracor/grabbe-napoleon.xml,48023,48063,"Sagen Sie es mir, – gleich und heimlich.",negative,emotional movement,anger
+647,GerDracor/grabbe-napoleon.xml,48064,48102,Der Offizier spricht heimlich mit ihm.,negative,emotions of rejection,anger

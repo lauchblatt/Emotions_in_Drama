@@ -1,0 +1,736 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/wieland-alceste.xml,0,24, Das Zimmer der Alceste.,negative,emotional movement,emotional movement
+1,GerDracor/wieland-alceste.xml,25,32,allein.,negative,emotions of suffering,suffering
+2,GerDracor/wieland-alceste.xml,33,108,"Er ist gekommen Der Bote, der die Antwort mir des Gottes Von Delphi bringt.",positive,emotions of joy,joy
+3,GerDracor/wieland-alceste.xml,109,147,"Ich wagt' es nicht Ihn anzuhören, ach!",negative,emotions of suffering,suffering
+4,GerDracor/wieland-alceste.xml,148,197,– ich wagt' es nicht Die Augen zu ihm aufzuheben.,negative,emotions of suffering,suffering
+5,GerDracor/wieland-alceste.xml,198,279,"An seinen Lippen hängt Dein Schicksal, mein Admet, – das Schicksal deiner Gattin!",positive,emotions of affection,love
+6,GerDracor/wieland-alceste.xml,281,346,"Der frommen Liebe Flehn euch rühren lassen, So hört mich, Götter!",positive,emotions of affection,love
+7,GerDracor/wieland-alceste.xml,347,410,"rettet, rettet ihn; Wo nicht, so lasset mich mit ihm erblassen!",negative,emotions of suffering,despair
+8,GerDracor/wieland-alceste.xml,411,546,"Zwischen Angst und zwischen Hoffen Schwankt mein Leben, wie im Rachen Der empörten Fluth ein Nachen Aengstlich zwischen Klippen treibt.",negative,emotions of fear,fear
+9,GerDracor/wieland-alceste.xml,547,655,"Der Donner rollt, die Winde brausen, Die aufgewuhlten Wogen kochen; Rings um mich her ist Nacht und Grausen!",negative,emotions of fear,fear
+10,GerDracor/wieland-alceste.xml,656,730,"Dies Herz, ein Herz das nichts verbrochen, Ist alles was mir übrig bleibt!",positive,emotions of affection,love
+11,GerDracor/wieland-alceste.xml,732,832,"Schwankt mein Leben, wie im Rachen Der empörten Fluth ein Nachen Aengstlich zwischen Klippen treibt.",negative,emotions of fear,emotional movement
+12,GerDracor/wieland-alceste.xml,833,841,Alceste.,emotional movement,emotional movement,emotional movement
+13,GerDracor/wieland-alceste.xml,842,852,Parthenia.,positive,emotions of affection,emotional movement
+14,GerDracor/wieland-alceste.xml,853,863,Parthenia!,positive,emotions of joy,emotional movement
+15,GerDracor/wieland-alceste.xml,864,880,– wag ichs – Ah!,positive,emotions of joy,joy
+16,GerDracor/wieland-alceste.xml,881,905,Wie blaß ist ihre Wange!,negative,emotions of suffering,compassion
+17,GerDracor/wieland-alceste.xml,906,915,Sie bebt!,negative,emotions of fear,emotional movement
+18,GerDracor/wieland-alceste.xml,916,968,"– o Schwester, laß mich nicht In dieser Ungewißheit!",negative,emotions of fear,fear
+19,GerDracor/wieland-alceste.xml,969,1009,Hat der Gott Mein Urtheil ausgesprochen?,negative,emotions of fear,emotional movement
+20,GerDracor/wieland-alceste.xml,1010,1021,"Rede, rede!",negative,emotional movement,emotional movement
+21,GerDracor/wieland-alceste.xml,1022,1052,Bringst du mir Leben oder Tod?,negative,emotions of fear,fear
+22,GerDracor/wieland-alceste.xml,1053,1100,mit weggewandtem Gesicht und erstickter Stimme.,negative,emotions of fear,suffering
+23,GerDracor/wieland-alceste.xml,1101,1115,Ach Schwester!,negative,emotions of suffering,suffering
+24,GerDracor/wieland-alceste.xml,1116,1129,Was sagst du?,emotional movement,emotional movement,emotional movement
+25,GerDracor/wieland-alceste.xml,1130,1145,Muß er sterben?,negative,emotions of fear,despair
+26,GerDracor/wieland-alceste.xml,1146,1164,"Unerbittlich, Ach!",negative,emotions of rejection,suffering
+27,GerDracor/wieland-alceste.xml,1165,1217,unerbittlich sind die furchtbarn Töchter Des Erebus!,negative,emotions of rejection,"hate, disgust"
+28,GerDracor/wieland-alceste.xml,1218,1362,Schon strecket Atropos Die schwarze Hand – Bald wird der Faden feines Lebens Durchschnitten seyn – indem sie kraftlos auf einen Lehnstuhl sinkt.,negative,emotions of suffering,suffering
+29,GerDracor/wieland-alceste.xml,1363,1374,Ihr Götter!,negative,emotions of joy,despair
+30,GerDracor/wieland-alceste.xml,1375,1396,"Fasse dich, Geliebte!",emotional movement,emotional movement,fear
+31,GerDracor/wieland-alceste.xml,1397,1587,"Noch läßt Apoll Uns einen Stral von Hoffnung schimmern, Noch lebt er, dein Admet, und soll Bis an das fernste Ziel der Menschheit leben, Wenn jemand sich entschließt Für ihn sich hinzugeben.",positive,emotions of affection,love
+32,GerDracor/wieland-alceste.xml,1588,1616,"Parthenia, sprichst du wahr?",positive,emotions of affection,love
+33,GerDracor/wieland-alceste.xml,1617,1650,Apollo sprichts aus meinem Munde.,positive,emotions of affection,anger
+34,GerDracor/wieland-alceste.xml,1651,1724,"Und zweifelst du, ob jemand ist Der sich enschließe für Admet zu sterben?",negative,emotions of fear,love
+35,GerDracor/wieland-alceste.xml,1725,1769,"O Schwester, welch ein Mittel ihn zu retten!",positive,emotions of affection,compassion
+36,GerDracor/wieland-alceste.xml,1770,1843,"Wer wird die Liebe, wer die Großmuth bis Zu diesem Grad der Höhe treiben?",positive,emotions of affection,love
+37,GerDracor/wieland-alceste.xml,1844,2031,"Sein Vater selbst, der abgelebte Greis, Der lebendtod ein freudeleeres Daseyn Vielleicht noch wenig Tage schleppen wird, Sein Vater selbst Kann zu der edeln That sich nicht entschliessen.",negative,emotions of suffering,suffering
+38,GerDracor/wieland-alceste.xml,2032,2086,"Wir flehten ihm, wir faßten seine Knie; Wie baten wir!",negative,emotions of suffering,suffering
+39,GerDracor/wieland-alceste.xml,2087,2095,Umsonst!,negative,emotions of suffering,anger
+40,GerDracor/wieland-alceste.xml,2096,2156,"Gefühllos, taub, Taub wie ein Marmor blieb er unserm Flehen.",negative,emotions of suffering,suffering
+41,GerDracor/wieland-alceste.xml,2157,2234,Das Alter hat in seiner kalten Brust Die Quelle der Empfindung aufgetrocknet.,negative,emotions of suffering,suffering
+42,GerDracor/wieland-alceste.xml,2235,2264,"Doch, klage nicht, Parthenia!",negative,emotions of suffering,compassion
+43,GerDracor/wieland-alceste.xml,2265,2289,– Mein Admet Wird leben!,positive,emotions of affection,love
+44,GerDracor/wieland-alceste.xml,2290,2334,lebt in diesem Augenblicke Schon wieder auf!,positive,emotions of joy,emotional movement
+45,GerDracor/wieland-alceste.xml,2335,2401,"– Es ist gefunden Das Opfer, das für ihn der Parzen Zorn versöhnt.",positive,emotions of joy,anger
+46,GerDracor/wieland-alceste.xml,2402,2426,"Was sagst du, Schwester?",negative,emotional movement,emotional movement
+47,GerDracor/wieland-alceste.xml,2427,2500,O erschrecke nicht Mein ahnend Herz durch diese grauenvolle Gelassenheit!,negative,emotions of fear,fear
+48,GerDracor/wieland-alceste.xml,2501,2520,– Ich zittre – Ach!,negative,emotions of fear,fear
+49,GerDracor/wieland-alceste.xml,2521,2566,"Alceste, Welch ein Entschluß – Er ist gefaßt!",negative,emotions of fear,joy
+50,GerDracor/wieland-alceste.xml,2567,2617,"Ihr Götter der Hölle, Ihr furchtbaren Schatten, O!",negative,emotions of rejection,"hate, disgust"
+51,GerDracor/wieland-alceste.xml,2618,2637,schonet den Gatten!,negative,emotions of rejection,fear
+52,GerDracor/wieland-alceste.xml,2638,2682,"Hier bin ich, und stelle Zum Opfer mich dar.",negative,emotions of suffering,suffering
+53,GerDracor/wieland-alceste.xml,2683,2708,Euch weyh ich mein Leben!,positive,emotions of rejection,love
+54,GerDracor/wieland-alceste.xml,2709,2732,– Sie habens vernommen!,negative,emotions of rejection,anger
+55,GerDracor/wieland-alceste.xml,2733,2756,"Sie kommen, sie kommen!",positive,emotions of joy,joy
+56,GerDracor/wieland-alceste.xml,2757,2802,Ich höre das Schweben Der schwarzen Gefieder.,negative,emotions of fear,suffering
+57,GerDracor/wieland-alceste.xml,2803,2825,Sie steigen hernieder!,negative,emotions of rejection,fear
+58,GerDracor/wieland-alceste.xml,2826,2861,Sie holen das Opfer Zum Todesaltar!,negative,emotions of suffering,despair
+59,GerDracor/wieland-alceste.xml,2862,2909,"Ihr Götter der Hölle, Ihr furchtbaren Schatten!",negative,emotions of rejection,"hate, disgust"
+60,GerDracor/wieland-alceste.xml,2910,2912,O!,emotional movement,emotions of suffering,emotional movement
+61,GerDracor/wieland-alceste.xml,2913,2932,schonet den Gatten!,negative,emotions of rejection,fear
+62,GerDracor/wieland-alceste.xml,2934,2953,Zum Opfer mich dar!,negative,emotions of suffering,suffering
+63,GerDracor/wieland-alceste.xml,2954,2956,O!,emotional movement,emotions of suffering,emotional movement
+64,GerDracor/wieland-alceste.xml,2957,3058,"Götter, höret nicht Was in der Angst der zärtlichen Verzweiflung Ein Liebekrankes Herz euch angelobt!",negative,emotions of fear,despair
+65,GerDracor/wieland-alceste.xml,3059,3105,"– Komm, liebste Schwester, komm in meine Arme!",positive,emotions of suffering,love
+66,GerDracor/wieland-alceste.xml,3106,3132,Komm zu dir selbst zurück!,negative,emotional movement,love
+67,GerDracor/wieland-alceste.xml,3133,3157,"– Besinne dich, Alceste!",emotional movement,emotional movement,compassion
+68,GerDracor/wieland-alceste.xml,3158,3335,"– Sieh mich an, die dich so zärtlich Von unsrer Kindheit an geliebt, mich die du wieder So zärtlich liebtest, – kannst du den Gedanken, Mich zu verlassen, nur erträglich finden?",positive,emotions of affection,love
+69,GerDracor/wieland-alceste.xml,3336,3469,"Verlassen willst du Freunde, Vaterland Und Kinder, alles was den Sterblichen  Der Sonne mit der ewgen Nacht Des Tartarus vertauschen?",negative,emotions of suffering,despair
+70,GerDracor/wieland-alceste.xml,3470,3560,"– Jeder Freude Des Lebens, jedem schönen Blick In wonnevolle Tage die dir winken Entsagen?",positive,emotions of joy,joy
+71,GerDracor/wieland-alceste.xml,3561,3575,– Schrecklich!,negative,emotions of suffering,compassion
+72,GerDracor/wieland-alceste.xml,3576,3601,"Nein, du sollst es nicht!",negative,emotions of rejection,anger
+73,GerDracor/wieland-alceste.xml,3602,3684,"O ruf's zurück, Unsinnige, das rasche Entsetzliche Gelübd – Es ist unwiderruflich!",negative,emotions of rejection,despair
+74,GerDracor/wieland-alceste.xml,3685,3744,"Vergebens marterst du mein leidend Herz: Laß ab, Parthenia!",negative,emotions of suffering,suffering
+75,GerDracor/wieland-alceste.xml,3745,3789,Nur zu sehr empfind' ich Der Trennung Quaal.,negative,emotions of suffering,suffering
+76,GerDracor/wieland-alceste.xml,3790,3794,– O!,emotional movement,emotions of suffering,emotional movement
+77,GerDracor/wieland-alceste.xml,3795,3808,meine Kinder!,negative,emotions of fear,fear
+78,GerDracor/wieland-alceste.xml,3809,3825,– O mein Gemahl!,negative,emotions of suffering,suffering
+79,GerDracor/wieland-alceste.xml,3826,3830,– O!,emotional movement,emotions of suffering,emotional movement
+80,GerDracor/wieland-alceste.xml,3831,3847,meine Schwester!,emotional movement,emotional movement,emotional movement
+81,GerDracor/wieland-alceste.xml,3848,3908,"– Bald,  Nicht mehr voll Liebe sich An eurem Anblick weiden!",positive,emotions of affection,love
+82,GerDracor/wieland-alceste.xml,3909,3924,Die Parze ruht!,negative,emotions of rejection,suffering
+83,GerDracor/wieland-alceste.xml,3925,3942,Wir müssen – Ach!,negative,emotions of suffering,emotional movement
+84,GerDracor/wieland-alceste.xml,3943,3963,Wir müssen scheiden!,negative,emotions of affection,despair
+85,GerDracor/wieland-alceste.xml,3964,3977,Uns scheiden?,emotional movement,emotions of suffering,suffering
+86,GerDracor/wieland-alceste.xml,3978,3980,O!,emotional movement,emotions of suffering,emotional movement
+87,GerDracor/wieland-alceste.xml,3981,4009,verhütet es Gerechte Götter!,positive,emotions of affection,fear
+88,GerDracor/wieland-alceste.xml,4010,4030,"Nein, Alceste, Nein!",emotional movement,emotions of fear,emotional movement
+89,GerDracor/wieland-alceste.xml,4031,4048,Noch ist es Zeit.,negative,emotions of fear,fear
+90,GerDracor/wieland-alceste.xml,4049,4157,"Die Götter haben Mitleid Mit unsrer Schwachheit; hören nicht Gelübde, von Verzweiflung Der Liebe ausgepreßt.",negative,emotions of suffering,compassion
+91,GerDracor/wieland-alceste.xml,4158,4185,– Es ist – Es ist geschehn!,negative,emotions of suffering,emotional movement
+92,GerDracor/wieland-alceste.xml,4186,4245,"Sie haben mich erhört, Der Tod erwartet gierig seine Beute.",positive,emotions of joy,"hate, disgust"
+93,GerDracor/wieland-alceste.xml,4246,4292,Schon fühl' ich seine Hand – Wie kalt sie ist!,negative,emotions of suffering,suffering
+94,GerDracor/wieland-alceste.xml,4294,4355,"Parthenia, lege deine Hand auf diesen Arm Und fühle – Götter!",positive,emotions of affection,love
+95,GerDracor/wieland-alceste.xml,4356,4408,"Ja, ich sterbe, Und mich gereuet mein Gelübde nicht.",negative,emotions of fear,despair
+96,GerDracor/wieland-alceste.xml,4409,4425,"Du lebst, Admet!",positive,emotions of affection,love
+97,GerDracor/wieland-alceste.xml,4426,4502,"– Wie leicht, wie süß ists der Die nur für dich gelebt, für dich zu sterben!",positive,emotions of affection,love
+98,GerDracor/wieland-alceste.xml,4503,4514,"Nein, Nein!",emotional movement,emotions of rejection,emotional movement
+99,GerDracor/wieland-alceste.xml,4515,4545,Bey allen Mächten des Olympus!,positive,emotions of affection,admiration
+100,GerDracor/wieland-alceste.xml,4546,4615,"Du sollst nicht sterben, wenn im ganzen Umfang  Ein Mittel übrig ist.",negative,emotions of suffering,despair
+101,GerDracor/wieland-alceste.xml,4616,4627,– Ich eile!,negative,emotions of fear,fear
+102,GerDracor/wieland-alceste.xml,4628,4665,"– Gute Götter, O helft, o rettet sie!",positive,emotions of fear,compassion
+103,GerDracor/wieland-alceste.xml,4666,4673,allein.,negative,emotions of suffering,suffering
+104,GerDracor/wieland-alceste.xml,4674,4698,"Wohin, wohin, Parthenia?",emotional movement,emotional movement,emotional movement
+105,GerDracor/wieland-alceste.xml,4699,4709,Höre mich!,negative,emotions of rejection,emotional movement
+106,GerDracor/wieland-alceste.xml,4710,4729,– Sie ist entflohn!,negative,emotions of rejection,suffering
+107,GerDracor/wieland-alceste.xml,4730,4769,"– Unglückliche, Dein Eifer ist umsonst!",negative,emotions of suffering,compassion
+108,GerDracor/wieland-alceste.xml,4770,4850,"Kein Mittel, keine Wunderkraft der Kunst, Kann einen Tag zu meinem Leben setzen.",negative,emotions of suffering,love
+109,GerDracor/wieland-alceste.xml,4851,4895,"Ich bin den Todesgöttern heilig, Ich sterbe!",positive,emotions of affection,despair
+110,GerDracor/wieland-alceste.xml,4896,4999,"– Dieses bange, langsam durch Mein Innerstes hinkriechende Noch nie gefühlte Schaudern, Es ist der Tod!",negative,emotions of fear,fear
+111,GerDracor/wieland-alceste.xml,5000,5031,– Sie sinkt in einen Lehnstuhl.,negative,emotional movement,suffering
+112,GerDracor/wieland-alceste.xml,5032,5042,Parthenia!,positive,emotions of joy,emotional movement
+113,GerDracor/wieland-alceste.xml,5043,5051,– Admet!,positive,emotions of suffering,joy
+114,GerDracor/wieland-alceste.xml,5052,5066,– Wo seyd ihr?,emotional movement,emotional movement,emotional movement
+115,GerDracor/wieland-alceste.xml,5068,5079,Wo bist du?,emotional movement,emotional movement,emotional movement
+116,GerDracor/wieland-alceste.xml,5080,5140,"Kannst du, kannst du mich In diesem letzten Kampf verlassen?",negative,emotions of fear,fear
+117,GerDracor/wieland-alceste.xml,5141,5241,"Ich sterb', ein Opfer meiner Pflicht, Du lebst, Admet, und eilest nicht Alcestens Seele aufzufassen?",negative,emotions of fear,despair
+118,GerDracor/wieland-alceste.xml,5242,5274,Ein auf Säulen ruhender Vorsaal.,emotional movement,emotional movement,suffering
+119,GerDracor/wieland-alceste.xml,5275,5282,allein.,negative,emotions of suffering,suffering
+120,GerDracor/wieland-alceste.xml,5283,5339,"Wo ist Sie, daß ich diese Freude In ihren Busen schütte?",positive,emotions of joy,joy
+121,GerDracor/wieland-alceste.xml,5340,5369,Diese Wonne Mit ihr empfinde?,positive,emotions of affection,love
+122,GerDracor/wieland-alceste.xml,5370,5424,Dieses neue Leben In ihren Armen doppelt wieder fühle?,positive,emotions of joy,joy
+123,GerDracor/wieland-alceste.xml,5425,5444,Allmächt'ge Götter!,positive,emotions of affection,emotional movement
+124,GerDracor/wieland-alceste.xml,5445,5520,welch ein Wunder rief So plötzlich mich vom schwarzen Ufer Des Styx zurück?,emotional movement,emotional movement,emotional movement
+125,GerDracor/wieland-alceste.xml,5521,5601,"Wem dank ich dis Leben, wem dank ich die Wonne Zum zweytenmale gebohren zu seyn?",positive,emotions of affection,joy
+126,GerDracor/wieland-alceste.xml,5603,5631,Mein Auge deine Stralen ein!,positive,emotions of suffering,"hate, disgust"
+127,GerDracor/wieland-alceste.xml,5632,5651,Wohlthätige Götter!,positive,emotions of affection,admiration
+128,GerDracor/wieland-alceste.xml,5652,5709,Euch dank ich die Wonne Zum zweytenmale gebohren zu seyn!,positive,emotions of joy,joy
+129,GerDracor/wieland-alceste.xml,5710,5716,Admet.,positive,emotional movement,emotional movement
+130,GerDracor/wieland-alceste.xml,5717,5727,Parthenia.,positive,emotions of affection,emotional movement
+131,GerDracor/wieland-alceste.xml,5728,5742,Unglücklicher!,negative,emotions of suffering,compassion
+132,GerDracor/wieland-alceste.xml,5743,5774,du überlässest dich Der Freude?,positive,emotions of joy,joy
+133,GerDracor/wieland-alceste.xml,5775,5800,– Wüßtest du – Parthenia!,negative,emotional movement,emotional movement
+134,GerDracor/wieland-alceste.xml,5801,5806,Gott!,negative,emotions of fear,fear
+135,GerDracor/wieland-alceste.xml,5807,5882,wo werd' ich Worte finden Das schreckliche Geheimniß – Welch ein Geheimniß?,negative,emotional movement,emotional movement
+136,GerDracor/wieland-alceste.xml,5883,5922,"Schwester, deine Worte Sind schreckend!",negative,emotions of fear,fear
+137,GerDracor/wieland-alceste.xml,5923,5947,Schreckender dein Blick!,negative,emotions of fear,fear
+138,GerDracor/wieland-alceste.xml,5948,5961,"O rede, rede!",negative,emotional movement,suffering
+139,GerDracor/wieland-alceste.xml,5962,5980,Beweinenswürdiger!,positive,emotions of suffering,compassion
+140,GerDracor/wieland-alceste.xml,5981,6038,"– Alceste, deine Gattinn – – Ich kann nicht reden – Sieh!",emotional movement,emotions of suffering,suffering
+141,GerDracor/wieland-alceste.xml,6039,6074,Das Zimmer der Alceste öffnet sich.,positive,emotional movement,emotional movement
+142,GerDracor/wieland-alceste.xml,6075,6114,Alceste in einem Lehnstuhl schlummernd.,negative,emotions of suffering,suffering
+143,GerDracor/wieland-alceste.xml,6115,6245,"Eine Kammerfrau kniet neben ihr; zwo andere
+            stehen seitwärts, aufmerksam auf den Augenblick ihres Erwachens lauschend.",negative,emotional movement,emotional movement
+144,GerDracor/wieland-alceste.xml,6246,6270,"Die
+            Vorigen.",positive,emotions of rejection,emotional movement
+145,GerDracor/wieland-alceste.xml,6271,6279,Alceste?,emotional movement,emotional movement,emotional movement
+146,GerDracor/wieland-alceste.xml,6280,6289,– Götter!,negative,emotions of fear,emotional movement
+147,GerDracor/wieland-alceste.xml,6290,6369,welch ein tödtender Gedanke  Alceste – Stirbt – Du lebst – Nun weißst du Alles!,negative,emotions of suffering,despair
+148,GerDracor/wieland-alceste.xml,6370,6378,Weh mir!,negative,emotions of suffering,fear
+149,GerDracor/wieland-alceste.xml,6379,6390,Sie stirbt?,negative,emotions of fear,fear
+150,GerDracor/wieland-alceste.xml,6391,6418,"Sie stirbt, damit ich lebe?",negative,emotions of affection,despair
+151,GerDracor/wieland-alceste.xml,6419,6426,O Lieb!,positive,emotions of affection,love
+152,GerDracor/wieland-alceste.xml,6427,6436,o Tugend!,negative,emotions of suffering,suffering
+153,GerDracor/wieland-alceste.xml,6437,6531,"– Du, für deren Werth Die Sprache keinen Nahmen hat, Getreuste, Beste, Geliebteste der Weiber!",positive,emotions of affection,love
+154,GerDracor/wieland-alceste.xml,6532,6548,"Höre, höre mich!",negative,emotions of fear,fear
+155,GerDracor/wieland-alceste.xml,6549,6551,O!,emotional movement,emotions of suffering,emotional movement
+156,GerDracor/wieland-alceste.xml,6552,6608,"hebe deine Augen, siehe mich Zu deinen Füssen – erwacht.",positive,emotions of suffering,suffering
+157,GerDracor/wieland-alceste.xml,6609,6711,"Sie betrachtet ihn etliche Augenblicke mit liebevollen Blicken, als ob sie sich
+            seines  O!",positive,emotions of affection,love
+158,GerDracor/wieland-alceste.xml,6712,6733,"mein Admet, du lebst?",positive,emotions of affection,love
+159,GerDracor/wieland-alceste.xml,6734,6755,Dank sey den Göttern!,positive,emotions of joy,joy
+160,GerDracor/wieland-alceste.xml,6756,6765,Du lebst!,negative,emotions of affection,love
+161,GerDracor/wieland-alceste.xml,6766,6801,"Für dich, für dich allein, Alceste!",positive,emotions of affection,love
+162,GerDracor/wieland-alceste.xml,6802,6859,Was könnte dieß Geschenk der Götter ohne dich Mir helfen?,positive,emotions of affection,love
+163,GerDracor/wieland-alceste.xml,6860,6864,Ach!,negative,emotions of suffering,suffering
+164,GerDracor/wieland-alceste.xml,6865,6912,"Admet, zu theuer Zu theuer mußt du es erkaufen!",negative,emotions of rejection,anger
+165,GerDracor/wieland-alceste.xml,6913,6933,"Zu theuer, sagst du?",negative,emotions of rejection,anger
+166,GerDracor/wieland-alceste.xml,6934,7009,"– O Parthenia, Du kennest nicht was eine liebende Getreue Gattin fähig ist.",positive,emotions of affection,love
+167,GerDracor/wieland-alceste.xml,7011,7039,"Tausend Leben hinzugeben, O!",negative,emotions of suffering,love
+168,GerDracor/wieland-alceste.xml,7040,7065,mit Freuden gäb' ich sie.,positive,emotions of joy,joy
+169,GerDracor/wieland-alceste.xml,7066,7079,Große Götter!,positive,emotions of affection,emotional movement
+170,GerDracor/wieland-alceste.xml,7080,7093,welche Liebe!,positive,emotions of affection,love
+171,GerDracor/wieland-alceste.xml,7094,7127,Welch ein Beyspiel reiner Triebe!,negative,emotions of affection,"hate, disgust"
+172,GerDracor/wieland-alceste.xml,7128,7133,Nein!,emotional movement,emotions of rejection,emotional movement
+173,GerDracor/wieland-alceste.xml,7134,7154,Die Erde sah es nie!,positive,emotions of joy,love
+174,GerDracor/wieland-alceste.xml,7155,7187,"Ohne dich, wie könnt' ich leben?",negative,emotions of affection,suffering
+175,GerDracor/wieland-alceste.xml,7188,7211,"O Geliebter, sage, wie?",positive,emotional movement,emotional movement
+176,GerDracor/wieland-alceste.xml,7212,7224,Bestes Weib!,positive,emotions of rejection,anger
+177,GerDracor/wieland-alceste.xml,7225,7269,dein eignes Leben Für den Gatten hinzugeben!,negative,emotions of affection,love
+178,GerDracor/wieland-alceste.xml,7270,7327,"Hätt' ich tausend hinzugeben, O mit Freuden gäb' ich sie!",positive,emotions of joy,joy
+179,GerDracor/wieland-alceste.xml,7328,7403,"Zu lang, Alceste, ließ ich dich In einem Irthum, den mein Herz verabscheut.",negative,emotions of rejection,"hate, disgust"
+180,GerDracor/wieland-alceste.xml,7404,7483,"Du, die ich mehr als diese Augen, mehr Als meine Seele liebe, solltest sterben?",positive,emotions of affection,love
+181,GerDracor/wieland-alceste.xml,7484,7493,Für mich?,emotional movement,emotional movement,emotional movement
+182,GerDracor/wieland-alceste.xml,7494,7503,Für mich?,emotional movement,emotional movement,emotional movement
+183,GerDracor/wieland-alceste.xml,7504,7615,"– Und dein Admet, der nur Um deinetwillen noch zu athmen wünschte, Er sollt' um diesen Preis sein Leben kanfen?",negative,emotional movement,love
+184,GerDracor/wieland-alceste.xml,7616,7642,"O glaub es nicht, Alceste!",emotional movement,emotions of fear,compassion
+185,GerDracor/wieland-alceste.xml,7643,7736,"Halte nicht Den Mann, der deiner Liebe würdig war, Der schmählichen verhaßten Feigheit fähig!",negative,emotions of rejection,"hate, disgust"
+186,GerDracor/wieland-alceste.xml,7737,7772,"Admet, ich kenne deine ganze Liebe.",positive,emotions of affection,love
+187,GerDracor/wieland-alceste.xml,7774,7838,"Für deines Bürge – Bester Mann, ich kenne Die Güte deiner Seele.",positive,emotions of affection,admiration
+188,GerDracor/wieland-alceste.xml,7839,7905,"Groß und edelmüthig Ist sie, – und dieß entscheidet unsern Streit.",positive,emotions of affection,admiration
+189,GerDracor/wieland-alceste.xml,7906,7910,Wie?,emotional movement,emotional movement,emotional movement
+190,GerDracor/wieland-alceste.xml,7911,8037,"Solltest du dich weigern können Der, die du liebst, die Quaal, dich zu verliehren, Die schrecklichste der Quaalen, abzunehmen?",negative,emotions of affection,love
+191,GerDracor/wieland-alceste.xml,8038,8093,Du bist ein Mann; ich nur ein schwaches Muthloses Weib!,negative,emotions of rejection,"hate, disgust"
+192,GerDracor/wieland-alceste.xml,8094,8204,"– O sage nicht, Admet, Du liebest mich, wenn du nur denken Nur zweifeln kannst, daß ich Dich überleben sollte.",positive,emotions of affection,love
+193,GerDracor/wieland-alceste.xml,8205,8226,"Ihr hört sie, Götter!",negative,emotions of joy,despair
+194,GerDracor/wieland-alceste.xml,8227,8260,– Und ihr könntet sie Mir rauben?,positive,emotions of rejection,love
+195,GerDracor/wieland-alceste.xml,8261,8302,Könntet soviel Tugend Der Welt entziehen?,negative,emotions of rejection,"hate, disgust"
+196,GerDracor/wieland-alceste.xml,8303,8411,"Dieses holde, schöne Liebathmende Geschöpf in seiner Blühte  Ihr seyd nicht Götter, oder Ihr könnt es nicht!",positive,emotions of affection,love
+197,GerDracor/wieland-alceste.xml,8412,8414,O!,emotional movement,emotions of suffering,emotional movement
+198,GerDracor/wieland-alceste.xml,8415,8434,"mäßige dich, Admet!",negative,emotions of rejection,compassion
+199,GerDracor/wieland-alceste.xml,8435,8477,"Erzürne nicht die Mächte, die uns trennen!",negative,emotions of rejection,anger
+200,GerDracor/wieland-alceste.xml,8478,8566,"Vielleicht daß die Geduld, womit wir ihrem Willen Uns unterwerfen, ihre Strenge mildert.",negative,emotions of suffering,suffering
+201,GerDracor/wieland-alceste.xml,8567,8663,"Vielleicht erweicht sie – Doch, was hälf' es uns Mit eitler Hoffnung unsern Schmerz zu täuschen?",negative,emotions of suffering,suffering
+202,GerDracor/wieland-alceste.xml,8664,8686,Apollo hat gesprochen!,positive,emotions of joy,emotional movement
+203,GerDracor/wieland-alceste.xml,8687,8725,"– Mein Gemahl, Geliebter, bester Mann!",positive,emotional movement,love
+204,GerDracor/wieland-alceste.xml,8726,8783,wie könnt ich schöner Mein Leben als für dich verliehren?,negative,emotions of affection,love
+205,GerDracor/wieland-alceste.xml,8784,8795,Verliehren?,emotional movement,emotions of suffering,emotional movement
+206,GerDracor/wieland-alceste.xml,8796,8801,Nein!,emotional movement,emotions of rejection,emotional movement
+207,GerDracor/wieland-alceste.xml,8802,8840,"wenn Du lebst, ist es nicht Verlohren!",negative,emotions of joy,suffering
+208,GerDracor/wieland-alceste.xml,8841,8862,Leb ich nicht in dir?,positive,emotions of affection,love
+209,GerDracor/wieland-alceste.xml,8863,8882,Was kann ich sagen?,negative,emotional movement,emotional movement
+210,GerDracor/wieland-alceste.xml,8883,8888,Gott!,negative,emotions of fear,fear
+211,GerDracor/wieland-alceste.xml,8889,8916,was kann ich ihr Erwiedern?,positive,emotional movement,emotional movement
+212,GerDracor/wieland-alceste.xml,8917,8957,"– Schau' in meine Seele, Geliebtes Weib!",positive,emotions of affection,love
+213,GerDracor/wieland-alceste.xml,8958,8979,"– Alceste, höre mich!",negative,emotional movement,emotional movement
+214,GerDracor/wieland-alceste.xml,8980,9014,"Um aller Götter willen, höre mich!",negative,emotions of fear,fear
+215,GerDracor/wieland-alceste.xml,9015,9065,Du hoffst durch deinen Tod mein Leben zu erkaufen?,negative,emotions of rejection,despair
+216,GerDracor/wieland-alceste.xml,9066,9086,Vergebens hoffst du!,negative,emotions of suffering,compassion
+217,GerDracor/wieland-alceste.xml,9087,9125,– Deine Wohlthat ist An mir verlohren.,negative,emotions of suffering,suffering
+218,GerDracor/wieland-alceste.xml,9126,9152,Fordre nichts Unmögliches.,positive,emotions of affection,admiration
+219,GerDracor/wieland-alceste.xml,9153,9195,"Ich kann nicht, kann nicht Dich überleben!",negative,emotions of fear,despair
+220,GerDracor/wieland-alceste.xml,9196,9336,"Unsre Seelen hat Die Liebe unauflöslich in einander Verwebt, und ewig, ewig unzertrennbar Vereinigt, sollen sie ins Land der Schatten gehen!",positive,emotions of affection,love
+221,GerDracor/wieland-alceste.xml,9337,9404,"Er hört mich nicht – Parthenia, geh, und hole Mir seine Kinder her.",negative,emotions of rejection,anger
+222,GerDracor/wieland-alceste.xml,9405,9424,Parthenia gehorcht.,negative,emotions of affection,admiration
+223,GerDracor/wieland-alceste.xml,9425,9446,"Alceste, sey gerecht!",negative,emotions of suffering,compassion
+224,GerDracor/wieland-alceste.xml,9447,9512,"Du, die so zärtlich liebt, So edel denkt, o sey gerecht, Alceste!",positive,emotions of affection,love
+225,GerDracor/wieland-alceste.xml,9513,9603,"Kannst du von mir verlangen, was In meinen eignen, was in Aller Augen mich Entehren müßte?",negative,emotions of rejection,anger
+226,GerDracor/wieland-alceste.xml,9604,9874,"– Nein, beym Himmel, Nein, Ich will die Schmach nicht dulden, Daß jeder, dem ein Herz im Busen schlägt, Mit Fingern auf mich weise, sage: Hier geht er, hier, Der Feige, der sein Leben mehr Als seine Ehre liebt; der fähig war Mit seiner Gattinn sich vom Tode loszukaufen!",negative,emotions of rejection,"hate, disgust"
+227,GerDracor/wieland-alceste.xml,9875,9957,"Und kann Admet vergessen, daß sein Leben Nicht ihm, nicht seiner Gattinn zugehört?",negative,emotions of suffering,love
+228,GerDracor/wieland-alceste.xml,9959,10035,"Du seine Thränen, seine Opfer, seine Gelübde für dein Leben schon vergessen?",negative,emotions of suffering,suffering
+229,GerDracor/wieland-alceste.xml,10036,10148,"Vergessen, wie es schaarenweis mit bleichen Gesichtern, mit empor um Hülfe Gerungnen Armen deinen Vorhof füllte?",negative,emotions of suffering,suffering
+230,GerDracor/wieland-alceste.xml,10149,10151,O!,emotional movement,emotions of suffering,emotional movement
+231,GerDracor/wieland-alceste.xml,10152,10275,"laß nicht, mit dem Gram dich ihrer Liebe Unwerth zu sehn, Alcestens Geist beschämt Vor deinen Vätern sich verbergen müssen!",negative,emotions of suffering,suffering
+232,GerDracor/wieland-alceste.xml,10276,10285,Grausame!,negative,emotions of suffering,suffering
+233,GerDracor/wieland-alceste.xml,10286,10316,Höre auf mein Herz zu foltern!,negative,emotions of fear,suffering
+234,GerDracor/wieland-alceste.xml,10317,10394,"Ich kann in dieser schrecklichsten der Stunden Nicht denken, nichts als dich!",negative,emotions of affection,love
+235,GerDracor/wieland-alceste.xml,10395,10436,"Du, du, Alceste, Bist mir die ganze Welt!",negative,emotions of affection,love
+236,GerDracor/wieland-alceste.xml,10437,10556,"Verliehr ich dich, So ist für mich kein Volk, kein Vaterland, Kein Leben mehr – Parthenia mit den Kindern, die Vorigen.",negative,emotions of rejection,love
+237,GerDracor/wieland-alceste.xml,10557,10582,"Auch keine Kinder, Admet?",negative,emotional movement,suffering
+238,GerDracor/wieland-alceste.xml,10583,10652,"– – – Kommt, Kinder, laßt zum letztenmal An diese Brust euch drücken.",positive,emotions of suffering,suffering
+239,GerDracor/wieland-alceste.xml,10653,10682,"– Süsse, rützrende Geschöpfe!",negative,emotions of joy,joy
+240,GerDracor/wieland-alceste.xml,10683,10722,"– Bald, o meine Kinder, Sie umarmt sie.",positive,emotions of affection,joy
+241,GerDracor/wieland-alceste.xml,10723,10755,Bald habt ihr keine Mutter mehr!,negative,emotions of suffering,suffering
+242,GerDracor/wieland-alceste.xml,10756,10892,"Admet, o sieh sie an, Und wenn du jeden andern Nahmen, der dir heilig Seyn soll, vergessen hast, Kannst du vergessen, daß du Vater bist?",positive,emotions of affection,love
+243,GerDracor/wieland-alceste.xml,10893,10915,Unwiderstehlichs Weib!,positive,emotions of affection,emotional movement
+244,GerDracor/wieland-alceste.xml,10916,11030,"Wer kann dich hören, Dich sehn, dich sterben sehn  Ein Gott es ein Die Pfänder unsrer Liebe mir zu Hülfe Zu rufen!",positive,emotions of affection,love
+245,GerDracor/wieland-alceste.xml,11031,11058,"– Siehe du sie an, Alceste!",positive,emotions of affection,love
+246,GerDracor/wieland-alceste.xml,11059,11117,"Erbarm dich ihrer Unschuld, ihres zarten Hülflosen Alters!",negative,emotions of affection,compassion
+247,GerDracor/wieland-alceste.xml,11118,11200,Sieh Wie sie bestürzt mit liebevoller Angst Die kleinen Arme dir entgegenstrecken!,negative,emotions of fear,love
+248,GerDracor/wieland-alceste.xml,11201,11211,Geliebter!,positive,emotions of affection,friendship
+249,GerDracor/wieland-alceste.xml,11212,11258,schone deiner sterbenden Zu schwachen Gattinn!,negative,emotions of suffering,compassion
+250,GerDracor/wieland-alceste.xml,11259,11347,Kürze nicht durch deine Grausame Zärtlichkeit die Augenblicke Die uns die Parze schenkt!,positive,emotions of affection,love
+251,GerDracor/wieland-alceste.xml,11348,11350,O!,emotional movement,emotions of suffering,emotional movement
+252,GerDracor/wieland-alceste.xml,11351,11421,"meine Kinder, Ihr fühlet nicht was ihr verliehrt – Ich fühl's für sie.",positive,emotions of suffering,love
+253,GerDracor/wieland-alceste.xml,11422,11468,Und änderst nicht den schrecklichen Entschluß?,negative,emotions of suffering,compassion
+254,GerDracor/wieland-alceste.xml,11469,11482,Wie kann ich?,emotional movement,emotional movement,emotional movement
+255,GerDracor/wieland-alceste.xml,11483,11531,"– Ach, Admet, die Todesgötter Sind unerbittlich.",negative,emotions of fear,suffering
+256,GerDracor/wieland-alceste.xml,11532,11564,Eines von uns beyden Muß fallen!,negative,emotions of fear,fear
+257,GerDracor/wieland-alceste.xml,11565,11569,– O!,emotional movement,emotions of suffering,emotional movement
+258,GerDracor/wieland-alceste.xml,11570,11682,"um unsrer Liebe, Um dieser armen Unmündigen, um deiner Gattinn willen, Laß mich, laß mich allein das Opfer seyn!",negative,emotions of suffering,despair
+259,GerDracor/wieland-alceste.xml,11683,11704,von Thränen erstickt.,negative,emotions of suffering,suffering
+260,GerDracor/wieland-alceste.xml,11705,11719,Es ist zuviel!,emotional movement,emotions of suffering,emotional movement
+261,GerDracor/wieland-alceste.xml,11720,11758,"Weine nicht, du meines Herzens Abgott!",negative,emotions of rejection,despair
+262,GerDracor/wieland-alceste.xml,11759,11839,"Gönne mir im Scheiden Noch die süßeste der Freuden, Daß mein Tod dein Leben ist.",positive,emotions of joy,joy
+263,GerDracor/wieland-alceste.xml,11840,11844,Ach!,negative,emotions of suffering,suffering
+264,GerDracor/wieland-alceste.xml,11845,11904,die Größe deines Schmerzens Ist das Maas von meinem Leiden.,negative,emotions of suffering,suffering
+265,GerDracor/wieland-alceste.xml,11905,11917,Mein Gemahl!,negative,emotional movement,emotional movement
+266,GerDracor/wieland-alceste.xml,11918,11933,O meine Kinder!,negative,emotions of suffering,compassion
+267,GerDracor/wieland-alceste.xml,11934,12026,"Glaubet nicht, ich fühle minder, Weil mein Herz bey euerm Leiden Seiner eignen Roth vergißt!",negative,emotions of suffering,suffering
+268,GerDracor/wieland-alceste.xml,12027,12065,"Weine nicht, du meines Herzens Abgott!",negative,emotions of rejection,despair
+269,GerDracor/wieland-alceste.xml,12066,12146,"Gönne mir im Scheiden Noch die süßeste der Freuden, Daß mein Tod dein Leben ist.",positive,emotions of joy,joy
+270,GerDracor/wieland-alceste.xml,12148,12183,"Sie stirbt, o Gott, sie stirbt – O!",negative,emotions of suffering,despair
+271,GerDracor/wieland-alceste.xml,12184,12222,ist denn kein Erbarmen Im Himmel mehr!,negative,emotions of suffering,suffering
+272,GerDracor/wieland-alceste.xml,12223,12283,"– O Sonnenlicht, o mütterliches Land, O Schwester, o Gemahl!",negative,emotions of suffering,love
+273,GerDracor/wieland-alceste.xml,12284,12413,"– Zum letztenmal  An meinen Mund, Admet – ich sterbe – lebet wohl, Geliebte – lebet – Admet sinkt von Schmerzen betäubt zu Boden.",negative,emotions of suffering,suffering
+274,GerDracor/wieland-alceste.xml,12414,12450,Einige Bedienten bringen ihn hinweg.,positive,emotions of suffering,suffering
+275,GerDracor/wieland-alceste.xml,12463,12562,"Die Kammerfrauen breiten einen weißen Schleyer über das Gesicht der erblaßten
+            Königinn.",negative,emotions of suffering,suffering
+276,GerDracor/wieland-alceste.xml,12563,12565,O!,emotional movement,emotions of suffering,emotional movement
+277,GerDracor/wieland-alceste.xml,12566,12611,dieser Schmerz zerreißt die Dämme der Geduld!,negative,emotions of suffering,suffering
+278,GerDracor/wieland-alceste.xml,12612,12635,"Sie stirbt, Ihr Götter!",negative,emotions of fear,despair
+279,GerDracor/wieland-alceste.xml,12636,12700,Sie bringt den Schatten Sich selbst zum Opfer Von ihrer Pflicht!,negative,emotions of suffering,suffering
+280,GerDracor/wieland-alceste.xml,12701,12717,Grausame Götter!,negative,emotions of suffering,suffering
+281,GerDracor/wieland-alceste.xml,12718,12737,Ihr könnt es sehen?,positive,emotions of joy,joy
+282,GerDracor/wieland-alceste.xml,12739,12822,"Die Angst des Gatten, Sein heißes Flehen, Sein banges Stöhnen, Es rührt euch nicht?",negative,emotions of fear,fear
+283,GerDracor/wieland-alceste.xml,12823,12842,Da ist kein Retter!,negative,emotions of fear,fear
+284,GerDracor/wieland-alceste.xml,12843,12854,Sie stirbt!,negative,emotions of fear,despair
+285,GerDracor/wieland-alceste.xml,12855,12863,Alceste!,negative,emotions of joy,emotional movement
+286,GerDracor/wieland-alceste.xml,12864,12883,"Die treuste, beste!",positive,emotions of affection,friendship
+287,GerDracor/wieland-alceste.xml,12884,12890,Und o!,negative,emotions of suffering,emotional movement
+288,GerDracor/wieland-alceste.xml,12891,12920,"ihr Götter, Ihr rettet nicht!",negative,emotions of fear,despair
+289,GerDracor/wieland-alceste.xml,12921,13059,"Ein mit Lorbeerbäumen besetzter Vorhof, und in einiger Entfernung ein Theil des
+          königlichen Palasts auf dorischen Säulen ruhend.",positive,emotions of suffering,admiration
+290,GerDracor/wieland-alceste.xml,13060,13067,allein.,negative,emotions of suffering,suffering
+291,GerDracor/wieland-alceste.xml,13068,13089,Die Sonne neigt sich.,positive,emotions of suffering,suffering
+292,GerDracor/wieland-alceste.xml,13090,13169,"Müd' und ruhbedürftig Vetret ich deinen wohl bekannten Vorhof, Gastfreyes Haus!",negative,emotions of suffering,suffering
+293,GerDracor/wieland-alceste.xml,13170,13251,"Gesegnet sey mir, holder Sitz der Unschuld, Der Zärtlichkeit, des stillen Glücks!",positive,emotions of affection,joy
+294,GerDracor/wieland-alceste.xml,13252,13409,"Sey mir gesegnet, frohes Thal, Wo einst der Gott des Lichts In Schäfertracht Admetens Heerden führte, Und seines Götterstands entsetzt  Beglücktes Land, – o!",positive,emotions of joy,joy
+295,GerDracor/wieland-alceste.xml,13410,13552,"möcht' Alkmenens Sohn, Wenn er, von Ruhm und Siegen müde, Einst auszuruhn verdient, des Lebens Rest In deinen Schatten sanft verfließen sehen!",positive,emotions of affection,love
+296,GerDracor/wieland-alceste.xml,13553,13716,"O du, für die ich weicher Ruh Und Amors süssem Scherz entsage, Du, deren Namen ich an meiner Stirne trage, Für die ich alles thu, Für die ich alles wage, O Tugend!",positive,emotions of affection,love
+297,GerDracor/wieland-alceste.xml,13717,13779,"Einen Wunsch, nur Einen Wunsch gewähre Dem der sich dir ergab!",positive,emotions of affection,love
+298,GerDracor/wieland-alceste.xml,13780,13890,"Wenn einst die Bahn der Ehre Durchlaufen ist, wenn er sich sehnt nach Ruh,  Die Freundschaft ihm die Augen zu.",positive,emotions of affection,friendship
+299,GerDracor/wieland-alceste.xml,13891,13939,"Doch, was bedeutet diese tiefe Unzeit'ge Stille?",emotional movement,emotions of suffering,emotional movement
+300,GerDracor/wieland-alceste.xml,13940,13982,Keine Lieder hallen Den Säulengang herauf?,negative,emotions of suffering,suffering
+301,GerDracor/wieland-alceste.xml,13983,14063,"Verlassen, öde, wie die Trümmern einer Zerstörten Stadt, ist dein Palast, Admet?",negative,emotions of suffering,suffering
+302,GerDracor/wieland-alceste.xml,14064,14120,"Verlassen von den Göttern Der Freude, deren Sitz er war!",positive,emotions of joy,joy
+303,GerDracor/wieland-alceste.xml,14121,14146,Was für ein Unfall – Wie?,emotional movement,emotional movement,emotional movement
+304,GerDracor/wieland-alceste.xml,14147,14207,Mir däucht ich hörte Ein Klaggeschrey aus jener Halle tönen.,negative,emotions of suffering,"hate, disgust"
+305,GerDracor/wieland-alceste.xml,14208,14343,"Ein Bedienter kommt aus dem Hause hervor, und eilt, da er den Herkules erblickt,
+            mit einer Gebehrde der Bestürzung zurücke.",emotional movement,emotions of fear,fear
+306,GerDracor/wieland-alceste.xml,14344,14377,"O sage, Freund, – Er flieht mich!",negative,emotions of fear,fear
+307,GerDracor/wieland-alceste.xml,14378,14411,– Trübsinn hängt Um seine Stirne!,negative,emotions of suffering,suffering
+308,GerDracor/wieland-alceste.xml,14412,14464,"– Ganz gewiß, ein Unglück traf  Die Vorbedeutung ab!",negative,emotions of suffering,fear
+309,GerDracor/wieland-alceste.xml,14465,14503,"– Doch, was es fey, Ich muß es wissen!",negative,emotions of rejection,anger
+310,GerDracor/wieland-alceste.xml,14504,14640,Rastlos treibt mich zwar Der unversöhnbarn Juno Groll Ein Abentheuer nach dem andern auszuführen: Allein hier ruft die Freundschaft mir!,positive,emotions of affection,friendship
+311,GerDracor/wieland-alceste.xml,14641,14683,Ihr Ruf Geht allem andern vor – Parthenia.,negative,emotions of affection,love
+312,GerDracor/wieland-alceste.xml,14684,14693,Herkules.,negative,emotions of rejection,emotional movement
+313,GerDracor/wieland-alceste.xml,14694,14709,Alkmenens Sohn?,emotional movement,emotional movement,emotional movement
+314,GerDracor/wieland-alceste.xml,14710,14786,"– Willkommen, o Befreyer Von Gräcien, willkommen, Herkules, Dem Haus Admets!",positive,emotions of joy,joy
+315,GerDracor/wieland-alceste.xml,14787,14801,"Wo ist er, wo?",emotional movement,emotional movement,emotional movement
+316,GerDracor/wieland-alceste.xml,14802,14848,Was hält Von seines Freundes Armen ihn zurück?,positive,emotions of suffering,emotional movement
+317,GerDracor/wieland-alceste.xml,14849,14867,Du weißt es nicht?,emotional movement,emotions of joy,emotional movement
+318,GerDracor/wieland-alceste.xml,14868,14892,Kaum bin ich angekommen.,negative,emotional movement,suffering
+319,GerDracor/wieland-alceste.xml,14893,15017,Noch sah ich niemand; Nur ein Klageton Schien aus dem innern Hause mir entgegen Zu dringen – Reisse mich aus diesem Zweifel!,negative,emotions of fear,suffering
+320,GerDracor/wieland-alceste.xml,15018,15036,Er lebt doch wohl?,emotional movement,emotional movement,emotional movement
+321,GerDracor/wieland-alceste.xml,15037,15045,Er lebt.,negative,emotions of affection,suffering
+322,GerDracor/wieland-alceste.xml,15046,15102,"Er lebt – und trüber Gram umwölkt dein Auge, Princessin?",negative,emotions of suffering,suffering
+323,GerDracor/wieland-alceste.xml,15103,15133,"Traurig sagst du mir, er lebt?",negative,emotions of suffering,suffering
+324,GerDracor/wieland-alceste.xml,15134,15198,Vor wenig Stunden schwebte noch sein Geist Im Thor des Tartarus.,positive,emotions of suffering,love
+325,GerDracor/wieland-alceste.xml,15199,15212,Was sagst du?,emotional movement,emotional movement,emotional movement
+326,GerDracor/wieland-alceste.xml,15213,15258,Durch ein Wunder ist Er wieder uns geschenkt.,positive,emotions of joy,love
+327,GerDracor/wieland-alceste.xml,15259,15276,Dank hab' Apollo!,positive,emotions of joy,joy
+328,GerDracor/wieland-alceste.xml,15277,15373,"Ohne Zweifel war's Sein Werk – Und deine schöne Schwester, Alceste – Welchen Nahmen nanntest du.",positive,emotions of affection,admiration
+329,GerDracor/wieland-alceste.xml,15374,15388,Unglücklicher!,negative,emotions of suffering,compassion
+330,GerDracor/wieland-alceste.xml,15389,15407,Du schreckst mich!,negative,emotions of fear,fear
+331,GerDracor/wieland-alceste.xml,15408,15412,Wie?,emotional movement,emotional movement,emotional movement
+332,GerDracor/wieland-alceste.xml,15413,15436,Alceste – – Hat gelebt.,positive,emotions of suffering,emotional movement
+333,GerDracor/wieland-alceste.xml,15437,15461,Beklagenswerther Freund!,positive,emotions of affection,compassion
+334,GerDracor/wieland-alceste.xml,15462,15489,Was thatest du Den Göttern?,negative,emotional movement,emotional movement
+335,GerDracor/wieland-alceste.xml,15490,15508,Welch ein Wechsel!,emotional movement,emotions of joy,emotional movement
+336,GerDracor/wieland-alceste.xml,15509,15513,Ach!,negative,emotions of suffering,suffering
+337,GerDracor/wieland-alceste.xml,15514,15546,"wüßtest du erst alles, Herkules!",negative,emotions of rejection,"hate, disgust"
+338,GerDracor/wieland-alceste.xml,15547,15574,Was kann ich argers wissen?,negative,emotional movement,emotional movement
+339,GerDracor/wieland-alceste.xml,15575,15656,"Freywillig gab die treue Gattinn sich Für ihn dahin, Er lebt durch ihr Erblassen.",positive,emotions of affection,love
+340,GerDracor/wieland-alceste.xml,15657,15672,Der feige Mann!,negative,emotions of rejection,anger
+341,GerDracor/wieland-alceste.xml,15673,15736,Konnt er so niedrig seyn Um diesen Preis sein Leben anzunehmen?,negative,emotions of suffering,emotional movement
+342,GerDracor/wieland-alceste.xml,15737,15741,Ach!,negative,emotions of suffering,suffering
+343,GerDracor/wieland-alceste.xml,15742,15799,Da sie sich an seiner statt den Parzen  Er wußt es nicht.,negative,emotions of rejection,Schadenfreude
+344,GerDracor/wieland-alceste.xml,15800,15825,O Beyspiel ohne Gleiches!,positive,emotions of suffering,suffering
+345,GerDracor/wieland-alceste.xml,15826,15863,"Und du, Apollo, liessest es geschehn?",negative,emotions of suffering,emotional movement
+346,GerDracor/wieland-alceste.xml,15864,15970,"Du, der in diesem menschenfreundlichen Wohlthät'gen Haus vor meines Vaters Zorn Einst eine Freystatt fand?",positive,emotions of rejection,anger
+347,GerDracor/wieland-alceste.xml,15971,15985,– Undankbarer!,negative,emotions of rejection,anger
+348,GerDracor/wieland-alceste.xml,15986,16064,Er that was möglich war; Doch gänzlich liessen sich die Parzen nicht erbitten.,positive,emotions of suffering,joy
+349,GerDracor/wieland-alceste.xml,16065,16098,Von beyden eines mußt' erblassen!,negative,emotions of suffering,"hate, disgust"
+350,GerDracor/wieland-alceste.xml,16099,16145,"Dies war die Antwort, die der Gott uns sandte.",positive,emotions of affection,joy
+351,GerDracor/wieland-alceste.xml,16146,16252,"Kaum hörte sie den Götterspruch, So war ihr Schluß gefaßt, Und unbeweglich blieb die Heldinn unserm Flehn.",negative,emotions of suffering,love
+352,GerDracor/wieland-alceste.xml,16253,16306,Und soviel Tugend sollt ein Aschenkrug Verschliessen?,negative,emotions of rejection,"hate, disgust"
+353,GerDracor/wieland-alceste.xml,16307,16314,– Nein!,negative,emotions of rejection,emotional movement
+354,GerDracor/wieland-alceste.xml,16315,16373,"So wahr ich Sohn Des Donnergottes bin, es soll nicht seyn!",negative,emotions of rejection,despair
+355,GerDracor/wieland-alceste.xml,16374,16415,"Princessinn, kann ich nicht Admeten sehn?",positive,emotions of affection,emotional movement
+356,GerDracor/wieland-alceste.xml,16416,16466,Was wird dein Anblick ihm in diesem Jammer helfen?,negative,emotions of suffering,compassion
+357,GerDracor/wieland-alceste.xml,16467,16484,Ich muß ihn sehn.,positive,emotions of affection,love
+358,GerDracor/wieland-alceste.xml,16485,16489,Ach!,negative,emotions of suffering,suffering
+359,GerDracor/wieland-alceste.xml,16490,16517,Ist er fähig dich zu sehen?,positive,emotions of affection,emotional movement
+360,GerDracor/wieland-alceste.xml,16518,16638,"Er haßt den Tag, er haßt die Gegenwart Der Menschen die er liebte, haßt Sein eignes Daseyn, fleht den Tod Um Mitleid an.",negative,emotions of rejection,"hate, disgust"
+361,GerDracor/wieland-alceste.xml,16640,16749,"In seinem Schmerz; Sein bloßer Anblick bricht Ein fühlend Herz; Ihm Trost zu geben, fänd' Ein Gott zu schwer!",negative,emotions of suffering,suffering
+362,GerDracor/wieland-alceste.xml,16750,16886,Er hört mit taubem Ohr Der Freundschaft Stimme; Starrt zum Olymp empor In stummem Grimme; Kennt sinnlos weder Furcht Noch Hoffnung mehr!,negative,emotions of fear,love
+363,GerDracor/wieland-alceste.xml,16887,17021,"Er flucht dem Tageslicht In seinem Schmerz; Sein bloßer Anblick bricht Ein fühlend Herz; Ihm Trost zu geben, fänd' Ein Gott zu schwer!",negative,emotions of suffering,suffering
+364,GerDracor/wieland-alceste.xml,17023,17039,Für ihn zu thun?,negative,emotional movement,emotional movement
+365,GerDracor/wieland-alceste.xml,17040,17070,– Er ist – Er ist mein Freund!,positive,emotions of affection,friendship
+366,GerDracor/wieland-alceste.xml,17071,17110,Nie war er meiner Hülfe mehr benöthigt.,positive,emotions of affection,friendship
+367,GerDracor/wieland-alceste.xml,17111,17129,O laß mich – Wohl!,negative,emotions of suffering,suffering
+368,GerDracor/wieland-alceste.xml,17130,17153,"versuch es, Göttersohn!",positive,emotions of fear,despair
+369,GerDracor/wieland-alceste.xml,17154,17225,Vielleicht erweckt der Anblick eines Helden Sein schon erstorbnes Herz.,positive,emotions of affection,love
+370,GerDracor/wieland-alceste.xml,17226,17262,Ich geh Ihm deine Ankunft anzusagen.,negative,emotions of fear,anger
+371,GerDracor/wieland-alceste.xml,17263,17275,Sie geht ab.,negative,emotions of rejection,suffering
+372,GerDracor/wieland-alceste.xml,17276,17283,allein.,negative,emotions of suffering,suffering
+373,GerDracor/wieland-alceste.xml,17284,17303,Es ist beschlossen!,negative,emotions of rejection,anger
+374,GerDracor/wieland-alceste.xml,17304,17423,"Durch nie erhörte, durch den Erdensöhnen Versagte Thaten soll, o Vater Zevs, Dein Sohn den Weg sich zum Olympus öffnen!",positive,emotions of joy,admiration
+375,GerDracor/wieland-alceste.xml,17425,17474,"Zurückzugeben, – oder unterliege Der großen That!",negative,emotions of fear,fear
+376,GerDracor/wieland-alceste.xml,17475,17504,Er geht in den Palast hinein.,emotional movement,emotional movement,emotional movement
+377,GerDracor/wieland-alceste.xml,17505,17562,Der Schauplatz verwandelt sich in einen Saal des Palasts.,emotional movement,emotional movement,emotional movement
+378,GerDracor/wieland-alceste.xml,17563,17681,"Admet in einem Lehnstuhl, mit dem Arme auf einen kleinen Tisch gestützt, auf
+            welchem ein Aschenkrug steht.",negative,emotions of suffering,suffering
+379,GerDracor/wieland-alceste.xml,17682,17808,"Herkules nähert sich ihm langsam und schweigend, mit dem
+            Ausdruck der mitleidenden Freundschaft in seinen Blicken.",negative,emotions of suffering,compassion
+380,GerDracor/wieland-alceste.xml,17809,17858,"Admet sieht ihn mit starren
+            Augen an.",emotional movement,emotional movement,emotional movement
+381,GerDracor/wieland-alceste.xml,17859,17863,Wie?,emotional movement,emotional movement,emotional movement
+382,GerDracor/wieland-alceste.xml,17864,17899,kennst du deinen Freund nicht mehr?,positive,emotions of affection,emotional movement
+383,GerDracor/wieland-alceste.xml,17900,17921,"O Ja, ich kenne dich!",positive,emotions of rejection,anger
+384,GerDracor/wieland-alceste.xml,17922,17980,– Du bist – der Sohn Von einem Gotte der mich elend macht.,negative,emotions of rejection,"hate, disgust"
+385,GerDracor/wieland-alceste.xml,17981,18047,"Admet, ich bin dein Freund, wiewohl du selbst Kein Mann mehr bist.",positive,emotions of affection,friendship
+386,GerDracor/wieland-alceste.xml,18048,18134,"Ich kann nicht mit dir weinen, Nicht jammern wie ein Weib, – doch helfen will ich dir.",negative,emotions of suffering,suffering
+387,GerDracor/wieland-alceste.xml,18135,18146,Mir helfen?,emotional movement,emotional movement,emotional movement
+388,GerDracor/wieland-alceste.xml,18147,18196,"Ja, dir helfen oder im Versuch Mein Leben lassen.",negative,emotions of fear,despair
+389,GerDracor/wieland-alceste.xml,18197,18239,Dies kannst du; helfen kann kein Gott mir!,negative,emotions of fear,suffering
+390,GerDracor/wieland-alceste.xml,18240,18272,"Fasse,  Verlohren – Nicht alles?",negative,emotional movement,emotional movement
+391,GerDracor/wieland-alceste.xml,18273,18301,Ist Alceste nicht verlohren?,negative,emotions of fear,fear
+392,GerDracor/wieland-alceste.xml,18302,18311,Sieh her!,emotional movement,emotional movement,emotional movement
+393,GerDracor/wieland-alceste.xml,18312,18344,"Da, siehst du diesen Aschenkrug?",negative,emotions of rejection,anger
+394,GerDracor/wieland-alceste.xml,18345,18411,"Bald wird er Alles, Alles was von ihr Mir übrig ist, verschlingen!",negative,emotions of rejection,love
+395,GerDracor/wieland-alceste.xml,18412,18433,"Hoffe besser, Freund!",positive,emotions of joy,friendship
+396,GerDracor/wieland-alceste.xml,18434,18446,"Ich, hoffen?",negative,emotions of suffering,suffering
+397,GerDracor/wieland-alceste.xml,18447,18457,Rasest du?,negative,emotions of rejection,anger
+398,GerDracor/wieland-alceste.xml,18458,18513,"Kannst du den Orkus zwingen, seine Beute Zurückzugeben?",negative,emotions of fear,anger
+399,GerDracor/wieland-alceste.xml,18514,18554,"– Hör' es, wenn du es Noch nicht gehört!",negative,emotions of rejection,joy
+400,GerDracor/wieland-alceste.xml,18555,18574,"Todt ist sie, todt!",negative,emotions of fear,despair
+401,GerDracor/wieland-alceste.xml,18575,18613,"erkaltet, athemlos, Todt, sag ich dir!",negative,emotions of fear,despair
+402,GerDracor/wieland-alceste.xml,18614,18642,– Ich habe nichts zu hoffen!,negative,emotions of fear,suffering
+403,GerDracor/wieland-alceste.xml,18643,18676,"Dein Zustand jammert mich, Admet.",negative,emotions of suffering,compassion
+404,GerDracor/wieland-alceste.xml,18677,18702,Ich fühle deinen Schmerz.,negative,emotions of suffering,suffering
+405,GerDracor/wieland-alceste.xml,18703,18754,Doch zur Verzweiflung sinkt Die Tugend nicht herab!,negative,emotions of fear,despair
+406,GerDracor/wieland-alceste.xml,18755,18761,– Wie?,emotional movement,emotional movement,emotional movement
+407,GerDracor/wieland-alceste.xml,18762,18808,war Admet Nicht immer ein Verehrer Der Götter?,positive,emotions of affection,admiration
+408,GerDracor/wieland-alceste.xml,18809,18847,– Wo ist sein Vertraun Auf ihre Macht!,negative,emotions of fear,emotional movement
+409,GerDracor/wieland-alceste.xml,18848,18860,"Ach, Freund!",positive,emotions of affection,suffering
+410,GerDracor/wieland-alceste.xml,18861,18886,Sie haben mich verworfen!,negative,emotions of rejection,"hate, disgust"
+411,GerDracor/wieland-alceste.xml,18887,18915,Sie hörten nicht mein Flehn!,negative,emotions of suffering,suffering
+412,GerDracor/wieland-alceste.xml,18916,18973,"Der Ausgang soll mit ihnen dich versöhnen, Kleinmüthiger!",positive,emotions of affection,compassion
+413,GerDracor/wieland-alceste.xml,18974,19053,"– Ich gehe – Herkules, (Du kennest ihn) ist nicht gewohnt durch Worte Zu reden.",negative,emotional movement,emotional movement
+414,GerDracor/wieland-alceste.xml,19054,19064,Lebe wohl!,negative,emotions of suffering,love
+415,GerDracor/wieland-alceste.xml,19065,19091,Bald sehen wir uns wieder!,positive,emotions of joy,joy
+416,GerDracor/wieland-alceste.xml,19092,19123,"Was willst, was kannst du thun?",negative,emotional movement,fear
+417,GerDracor/wieland-alceste.xml,19124,19146,"Freund, zweifle nicht!",positive,emotions of affection,friendship
+418,GerDracor/wieland-alceste.xml,19147,19190,Was Herkules verspricht Das wird er halten!,positive,emotions of joy,admiration
+419,GerDracor/wieland-alceste.xml,19191,19214,Ruf deinen Muth zurück!,negative,emotions of fear,fear
+420,GerDracor/wieland-alceste.xml,19215,19233,Die Götter walten!,positive,emotions of joy,admiration
+421,GerDracor/wieland-alceste.xml,19234,19336,"Ihr Beyfall ist der Tugend Sold, Sie sind den Frommen hold, Und werden dein Geschick Bald umgestalten!",positive,emotions of affection,admiration
+422,GerDracor/wieland-alceste.xml,19337,19359,"Freund, zweifle nicht!",positive,emotions of affection,friendship
+423,GerDracor/wieland-alceste.xml,19360,19403,Was Herkules verspricht Das wird er halten!,positive,emotions of joy,admiration
+424,GerDracor/wieland-alceste.xml,19404,19416,Der Vorsaal.,emotional movement,emotional movement,emotional movement
+425,GerDracor/wieland-alceste.xml,19417,19424,allein.,negative,emotions of suffering,suffering
+426,GerDracor/wieland-alceste.xml,19425,19540,"Mit bangem Herzen, selbst des Trosts Bedürftig den ich gebe, geh ich, meine Thränen Admetens Thränen zu vermischen.",negative,emotions of suffering,suffering
+427,GerDracor/wieland-alceste.xml,19541,19562,Dank sey den Göttern!,positive,emotions of joy,joy
+428,GerDracor/wieland-alceste.xml,19563,19613,Diese Linderung Ist doch nicht länger ihm versagt.,positive,emotions of joy,suffering
+429,GerDracor/wieland-alceste.xml,19614,19733,"Nicht mehr versunken in betäubende Verzweiflung, hat sich an der Hand Der Freundschaft seine Seele wieder aufgerichtet.",positive,emotions of affection,friendship
+430,GerDracor/wieland-alceste.xml,19734,19828,"Er fühlt sich wieder selbst, kann weinen, findet Trost In mitgeweinten schwesterlichen Zähren.",negative,emotions of suffering,suffering
+431,GerDracor/wieland-alceste.xml,19829,19939,"Sogar ein Sonnenblick von Hoffnung kämpft  Alkmenens Sohn, dem nichts unmöglich ist, Ihn Hoffnung fassen hieß.",negative,emotions of suffering,joy
+432,GerDracor/wieland-alceste.xml,19940,20019,Allein zu bald verschlingt den ungewissen Stral Des Grames düstre Wolke wieder.,negative,emotions of fear,suffering
+433,GerDracor/wieland-alceste.xml,20020,20072,Er sinkt zurück in seine vorige Trostlose Kleinmuth.,negative,emotions of suffering,suffering
+434,GerDracor/wieland-alceste.xml,20073,20077,Ach!,negative,emotions of suffering,suffering
+435,GerDracor/wieland-alceste.xml,20078,20161,in diesem Zustand ists Wo er der Freundschaft sanfte Hand am meisten Vonnöthen hat.,negative,emotions of affection,friendship
+436,GerDracor/wieland-alceste.xml,20162,20166,– O!,emotional movement,emotions of suffering,emotional movement
+437,GerDracor/wieland-alceste.xml,20167,20277,"ewig theurer Schatten Wie kann ich besser meine Liebe dir beweisen, Als wenn ich was Du liebst erhalten helfe?",positive,emotions of affection,love
+438,GerDracor/wieland-alceste.xml,20278,20280,O!,emotional movement,emotions of suffering,emotional movement
+439,GerDracor/wieland-alceste.xml,20281,20472,"der ist nicht vom Schicksal ganz verlassen, Dem in der Noth ein Freund Zum Trost erscheint:  Die Thränen die er weint In seinen Busen aufzufassen, Der seiner Selbst vergißt Und mit ihm weint.",negative,emotions of suffering,suffering
+440,GerDracor/wieland-alceste.xml,20473,20475,O!,emotional movement,emotions of suffering,emotional movement
+441,GerDracor/wieland-alceste.xml,20476,20567,"der ist nicht vom Schicksal ganz verlassen, Dem in der Noth ein Freund Zum Trost erscheint!",positive,emotions of affection,joy
+442,GerDracor/wieland-alceste.xml,20568,20580,Sie geht ab.,negative,emotions of rejection,suffering
+443,GerDracor/wieland-alceste.xml,20581,20636,Der Schauplatz verwandelt sich in das Zimmer des Admet.,positive,emotional movement,emotional movement
+444,GerDracor/wieland-alceste.xml,20637,20644,allein.,negative,emotions of suffering,suffering
+445,GerDracor/wieland-alceste.xml,20645,20736,"O Jugendzeit, o goldne Wonnetage Der Liebe, schöner Frühling meines Lebens, Wo bist du hin?",positive,emotions of joy,love
+446,GerDracor/wieland-alceste.xml,20737,20792,"– Ists möglich, bin ich der Der einst so glücklich war?",positive,emotions of joy,joy
+447,GerDracor/wieland-alceste.xml,20793,20831,"So glücklich einst, Und itzt so elend!",negative,emotions of suffering,suffering
+448,GerDracor/wieland-alceste.xml,20832,20893,"Ohne Grenzen elend,  Zu folgen meine Quaal erträglich machte.",negative,emotions of suffering,suffering
+449,GerDracor/wieland-alceste.xml,20894,20905,Wo bist du?,emotional movement,emotional movement,emotional movement
+450,GerDracor/wieland-alceste.xml,20906,20960,"– Irrst du schon, geliebter Schatten, Um Lethe's Ufer?",negative,emotions of fear,emotional movement
+451,GerDracor/wieland-alceste.xml,20961,20966,– Ah!,positive,emotional movement,joy
+452,GerDracor/wieland-alceste.xml,20967,20984,Ich seh sie gehn!,positive,emotions of suffering,joy
+453,GerDracor/wieland-alceste.xml,20985,21127,"In traur'ger Majestät geht sie allein Am dämmernden Gestad; ihr weichen schüchtern Die kleinern Seelen aus, sehn mit Erstaunen Die Heldinn an.",positive,emotions of affection,suffering
+454,GerDracor/wieland-alceste.xml,21128,21220,"– Der schwarze Nachen stößt Ans Ufer, nimmt sie ein – Der Schleyer weht Um ihren Nacken – O!",negative,emotions of suffering,suffering
+455,GerDracor/wieland-alceste.xml,21221,21294,"nach wem, Geliebte, Unglückliche, nach wem siehst du so zärtlich Dich um?",negative,emotions of affection,love
+456,GerDracor/wieland-alceste.xml,21295,21322,"– Ich folge dir, ich komme!",positive,emotions of fear,joy
+457,GerDracor/wieland-alceste.xml,21323,21333,– Weh mir!,negative,emotions of suffering,fear
+458,GerDracor/wieland-alceste.xml,21334,21379,Schon hat das Ufer gegenüber Sie aufgenommen!,positive,emotions of joy,joy
+459,GerDracor/wieland-alceste.xml,21380,21446,Liebreich drängen sich Die Schatten um sie her; sie bieten ihr  O!,positive,emotions of affection,love
+460,GerDracor/wieland-alceste.xml,21447,21467,"hüte dich, Geliebte!",positive,emotions of affection,love
+461,GerDracor/wieland-alceste.xml,21468,21503,Koste nicht Von ihrem Zaubertranke!,negative,emotions of rejection,"hate, disgust"
+462,GerDracor/wieland-alceste.xml,21504,21569,Ziehe nicht mir ihm Ein schreckliches Vergessen unsrer Liebe ein.,negative,emotions of suffering,love
+463,GerDracor/wieland-alceste.xml,21570,21606,"O flieh, geliebter Schatten, fliehe!",negative,emotions of fear,despair
+464,GerDracor/wieland-alceste.xml,21607,21674,Ich unterläge dem Gewicht Von diesem schrecklichsten der Schmerzen.,negative,emotions of suffering,suffering
+465,GerDracor/wieland-alceste.xml,21675,21729,Noch lebt Admet in deinem Herzen: Dieß ist sein Alles!,positive,emotions of affection,love
+466,GerDracor/wieland-alceste.xml,21730,21775,O entziehe Dieß einz'ge letzte Gut ihm nicht!,negative,emotions of affection,love
+467,GerDracor/wieland-alceste.xml,21776,21786,Parthenia.,positive,emotions of affection,emotional movement
+468,GerDracor/wieland-alceste.xml,21787,21793,Admet.,positive,emotional movement,emotional movement
+469,GerDracor/wieland-alceste.xml,21794,21889,"Admet, der Gram erschöpft dich; die ermüdete  Aus einer schwesterlichen Hand Nimm diese Schale!",negative,emotions of suffering,suffering
+470,GerDracor/wieland-alceste.xml,21890,21923,Schmerzenstillend Ist ihre Kraft.,positive,emotions of affection,joy
+471,GerDracor/wieland-alceste.xml,21924,21987,Das Land der Isis sendet uns Den Wundertrank – Was soll er mir?,positive,emotional movement,emotional movement
+472,GerDracor/wieland-alceste.xml,21988,22077,"Ein Trunk aus Lethe selbst befreyet nicht gewisser Von jedem Kummer, jedem Leid das Herz.",negative,emotions of suffering,suffering
+473,GerDracor/wieland-alceste.xml,22078,22108,Ein allgemein Vergessen – Weg!,negative,emotions of rejection,despair
+474,GerDracor/wieland-alceste.xml,22109,22140,"Parthenia, weg mit deinem Gift!",negative,emotions of rejection,"hate, disgust"
+475,GerDracor/wieland-alceste.xml,22141,22145,Wie?,emotional movement,emotional movement,emotional movement
+476,GerDracor/wieland-alceste.xml,22146,22209,Treulos sollt ich je Der theuren Ursach meines Leids vergessen?,negative,emotions of suffering,suffering
+477,GerDracor/wieland-alceste.xml,22211,22255,Die Freud' auf ewig sich von mir geschieden.,positive,emotions of joy,joy
+478,GerDracor/wieland-alceste.xml,22256,22312,"Mein Gram ist meine Speise, mein Vergnügen, Mein Labsal!",positive,emotions of joy,joy
+479,GerDracor/wieland-alceste.xml,22313,22348,– Jede andre Lust Verschmäht Admet!,positive,emotions of rejection,love
+480,GerDracor/wieland-alceste.xml,22349,22439,"– Ich will an Sie allein Nur denken; wachend, träumend Sie, nur Sie Vor meinen Augen sehn.",positive,emotions of affection,love
+481,GerDracor/wieland-alceste.xml,22440,22480,Auf ihrem Grabe Soll meine Wohnung seyn!,negative,emotions of affection,love
+482,GerDracor/wieland-alceste.xml,22481,22551,"Von meinen Thränen sollen Die Myrten wachsen, die ihr Bild umschatten!",negative,emotions of suffering,suffering
+483,GerDracor/wieland-alceste.xml,22552,22618,"Unglücklicher, was hilft es dir Dein Daseyn trostlos wegzutrauren?",negative,emotions of suffering,suffering
+484,GerDracor/wieland-alceste.xml,22620,22652,Der Orkus giebt Sie nicht dafür!,negative,emotions of rejection,"hate, disgust"
+485,GerDracor/wieland-alceste.xml,22653,22719,"O laß mir, laß mir meine Zähren, Gransame, laß mir meinen Schmerz!",negative,emotions of suffering,suffering
+486,GerDracor/wieland-alceste.xml,22720,22758,Wie könnt' ich diesen Trost entbehren?,positive,emotions of affection,joy
+487,GerDracor/wieland-alceste.xml,22759,22795,"Er labt, er nährt mein leidend Herz.",positive,emotions of suffering,joy
+488,GerDracor/wieland-alceste.xml,22796,22831,"Bedenk, um welchen Preis du lebest?",negative,emotions of fear,fear
+489,GerDracor/wieland-alceste.xml,22832,22859,"O, der Gedanke tödtet mich!",negative,emotions of suffering,suffering
+490,GerDracor/wieland-alceste.xml,22860,22931,Wenn du in Gram dich selbst begräbest So starb Alcest umsonst für dich!,negative,emotions of suffering,suffering
+491,GerDracor/wieland-alceste.xml,22932,22991,Vemühe dich nicht länger meinen Thränen Den Lauf zu wehren.,negative,emotions of suffering,suffering
+492,GerDracor/wieland-alceste.xml,22992,23019,"Laß mich weinen, Parthenia!",negative,emotions of suffering,suffering
+493,GerDracor/wieland-alceste.xml,23020,23073,Dieß allein Kann meine Seele vor Verzweiflung retten.,positive,emotions of fear,despair
+494,GerDracor/wieland-alceste.xml,23074,23141,Und hast du deines Freundes tröstendes Versprechen schon vergessen?,positive,emotions of affection,friendship
+495,GerDracor/wieland-alceste.xml,23142,23210,Hallen nicht In deinen Ohren noch die letzten Worte Des Göttersohns?,negative,emotions of affection,suffering
+496,GerDracor/wieland-alceste.xml,23211,23231,Er hieß mich hoffen?,negative,emotions of fear,suffering
+497,GerDracor/wieland-alceste.xml,23232,23252,– Hoffen soll Admet!,negative,emotions of joy,compassion
+498,GerDracor/wieland-alceste.xml,23254,23274,Was kann ich hoffen?,negative,emotions of fear,fear
+499,GerDracor/wieland-alceste.xml,23275,23281,Alles!,negative,emotions of rejection,anger
+500,GerDracor/wieland-alceste.xml,23282,23324,Alles was den Göttern nicht Unmöglich ist!,negative,emotions of affection,admiration
+501,GerDracor/wieland-alceste.xml,23325,23399,"O Schwester, hat Apollo selbst, Apollo, der mich liebt, mir helfen können?",positive,emotions of affection,love
+502,GerDracor/wieland-alceste.xml,23400,23433,Ist Herkules allmächtiger als er?,emotional movement,emotional movement,emotional movement
+503,GerDracor/wieland-alceste.xml,23434,23438,Ach!,negative,emotions of suffering,suffering
+504,GerDracor/wieland-alceste.xml,23439,23507,zu gewiß ist was ich hoffen könnte Den Göttern selbst nicht möglich!,negative,emotions of fear,fear
+505,GerDracor/wieland-alceste.xml,23508,23563,– Laß uns nicht In wesenlose Träum uns thöricht wiegen!,negative,emotions of fear,despair
+506,GerDracor/wieland-alceste.xml,23564,23715,"Der Unglücksel'ge, der im finstern Kerker Von goldner Freyheit träumt, fühlt im Erwachen Der Ketten Zahn nur desto grausamer In seinem Fleische wühlen.",negative,emotions of suffering,suffering
+507,GerDracor/wieland-alceste.xml,23716,23722,– Ach!,negative,emotions of suffering,suffering
+508,GerDracor/wieland-alceste.xml,23723,23814,"Parthenia,  Mich aufzumuntern, wecke mein von Gram Erstorbnes Herz zu seinen Pflichten auf!",negative,emotions of suffering,suffering
+509,GerDracor/wieland-alceste.xml,23815,23915,Zu lange säumten wir Dem theuren Schatten durch ein Todesopfer Die Höllengötter günstiger zu machen.,negative,emotions of suffering,"hate, disgust"
+510,GerDracor/wieland-alceste.xml,23916,23972,Schon nähert sich die feyerliche Stunde Der Mitternacht.,negative,emotions of suffering,despair
+511,GerDracor/wieland-alceste.xml,23973,24020,"Parthenia, komm, Hilf mir das Opfer anzuordnen!",negative,emotions of suffering,fear
+512,GerDracor/wieland-alceste.xml,24021,24090,Der Schauplatz stellt einen kleinen Tempel im Palaste des Admets vor.,positive,emotions of suffering,suffering
+513,GerDracor/wieland-alceste.xml,24091,24117,"Ein
+          Todtenopfer.",negative,emotions of suffering,suffering
+514,GerDracor/wieland-alceste.xml,24118,24124,Admet.,positive,emotional movement,emotional movement
+515,GerDracor/wieland-alceste.xml,24125,24135,Parthenia.,positive,emotions of affection,emotional movement
+516,GerDracor/wieland-alceste.xml,24136,24172,Ein Chor von Hausgenossen des Admet.,positive,emotional movement,joy
+517,GerDracor/wieland-alceste.xml,24173,24266,Ihr heil'gen unnennbaren Mächte In deren grauenvolle Nächte Kein sterblich Auge dringen kann!,negative,emotions of affection,despair
+518,GerDracor/wieland-alceste.xml,24267,24278,"Du, Hekate!",negative,emotions of rejection,anger
+519,GerDracor/wieland-alceste.xml,24279,24306,"und Ihr, Gewogne Eumeniden!",positive,emotions of joy,joy
+520,GerDracor/wieland-alceste.xml,24308,24352,O seht zufrieden Seht gnädig unser Opfer an!,positive,emotions of joy,joy
+521,GerDracor/wieland-alceste.xml,24353,24415,"Euch flehen wir, o seht zufrieden, Seht gnädig unser Opfer an!",negative,emotions of suffering,suffering
+522,GerDracor/wieland-alceste.xml,24416,24471,Zürnet nicht der frommen Zähre Die auf ihre Urne fällt!,negative,emotions of affection,anger
+523,GerDracor/wieland-alceste.xml,24472,24476,Ach!,negative,emotions of suffering,suffering
+524,GerDracor/wieland-alceste.xml,24477,24573,"was ich mit Ihr entbehre, Ersetzt mir nicht der Götter Sphäre, Ersetzt mir nicht die ganze Welt!",negative,emotions of rejection,love
+525,GerDracor/wieland-alceste.xml,24574,24646,"Ihr selbst im Olympus gefürchtete Mächte,  Hyperions Fackel nie erhellt.",negative,emotions of fear,"hate, disgust"
+526,GerDracor/wieland-alceste.xml,24647,24649,O!,emotional movement,emotions of suffering,emotional movement
+527,GerDracor/wieland-alceste.xml,24650,24679,daß dieß Opfer euch versöhne!,positive,emotions of affection,suffering
+528,GerDracor/wieland-alceste.xml,24680,24743,O zürnet nicht der frommen Thräne Die auf Alcestens Urne fällt!,negative,emotions of suffering,suffering
+529,GerDracor/wieland-alceste.xml,24744,24746,O!,emotional movement,emotions of suffering,emotional movement
+530,GerDracor/wieland-alceste.xml,24747,24776,daß dieß Opfer euch versöhne!,positive,emotions of affection,suffering
+531,GerDracor/wieland-alceste.xml,24777,24844,"Verzeiht, verzeiht der frommen Thräne Die auf Alcestens Urne fällt!",negative,emotions of suffering,suffering
+532,GerDracor/wieland-alceste.xml,24845,25173,"Und du, wenn noch im Reich der Wonne, in den Kreisen Der schönen Seelen, wenn im stillen Schoos Des ewgen Friedens, ein Gedanke noch  Wenn unsre Thränen, unsre Sehnsucht, unser nie Ermüdendes Gespräch von deiner Tugend, Von deines Umgangs Reiz und unserm Glück in dir, Dich noch erreichen kann, – Geliebter Schatten, So hör uns!",negative,emotions of affection,love
+533,GerDracor/wieland-alceste.xml,25174,25300,"– Fühle, fühle wie wir unaussprechlich Dich noch im Grabe lieben, Und möchte dieß Gefühl Selbst in Elysium deine Wonne mehren!",positive,emotions of affection,love
+534,GerDracor/wieland-alceste.xml,25301,25310,Herkules.,negative,emotions of rejection,emotional movement
+535,GerDracor/wieland-alceste.xml,25311,25323,Die Vorigen.,positive,emotions of rejection,emotional movement
+536,GerDracor/wieland-alceste.xml,25324,25347,Der Chor entfernt sich.,negative,emotional movement,suffering
+537,GerDracor/wieland-alceste.xml,25348,25352,Wie?,emotional movement,emotional movement,emotional movement
+538,GerDracor/wieland-alceste.xml,25353,25407,"Seh ich, oder blendet mich der Schein Der Opferflamme?",negative,emotions of fear,emotional movement
+539,GerDracor/wieland-alceste.xml,25408,25466,Herkules schon wieder  Und Freude blitzt aus seinen Augen!,positive,emotions of joy,joy
+540,GerDracor/wieland-alceste.xml,25467,25476,– Freude?,positive,emotions of joy,joy
+541,GerDracor/wieland-alceste.xml,25477,25553,"Er sprach von Hülfe, da er gieng – Und kömmt zu halten was er dir versprach.",positive,emotions of affection,admiration
+542,GerDracor/wieland-alceste.xml,25554,25651,"O Herkules, ich hielt dich Für meinen Freund; – Ists möglich, kannst du meiner Schmerzen spotten?",negative,emotions of affection,"hate, disgust"
+543,GerDracor/wieland-alceste.xml,25652,25693,"Dein Unglück macht dich ungerecht, Admet.",negative,emotions of suffering,compassion
+544,GerDracor/wieland-alceste.xml,25694,25751,Ich tadle nicht daß du in seinem ganzen Umfang Es fühlst.,negative,emotions of affection,suffering
+545,GerDracor/wieland-alceste.xml,25752,25773,Du traurst mit Recht.,negative,emotions of suffering,compassion
+546,GerDracor/wieland-alceste.xml,25774,26010,"Alceste  Geschlechts, verdient es daß ihr Bild in Marmer Den Enkeln heilig sey; verdient, so oft der Tag, An dem sie sich für ihren Gatten hingab, Zurückkömmt, daß Thessaliens fromme Töchter Der Heldinn Grab mit Blumenkränzen schmücken.",positive,emotions of affection,admiration
+547,GerDracor/wieland-alceste.xml,26011,26055,Man soll den Frauen sie zum Beyspiel nennen!,positive,emotions of affection,love
+548,GerDracor/wieland-alceste.xml,26056,26133,Sey wie Alceste soll der Segen seyn Der künftig jede Braut zur Gattinn weyhe!,positive,emotions of affection,admiration
+549,GerDracor/wieland-alceste.xml,26134,26157,Wir sind ihrs schuldig!,negative,emotions of affection,anger
+550,GerDracor/wieland-alceste.xml,26158,26199,"Mehr, Admet, Verlangt ihr Schatten nicht.",positive,emotions of affection,love
+551,GerDracor/wieland-alceste.xml,26200,26255,Du sprichst wie einer der das Glück  Zu Neidern machte.,negative,emotions of rejection,"hate, disgust"
+552,GerDracor/wieland-alceste.xml,26256,26375,"Du verlohrest keine Alceste – Diesseits des Olymps, Admet, Ist kein Verlust, den uns die Götter nicht Ersetzen könnten.",positive,emotions of affection,suffering
+553,GerDracor/wieland-alceste.xml,26376,26431,"O Herkules, ermüde die Geduld Von deinem Freunde nicht!",positive,emotions of affection,anger
+554,GerDracor/wieland-alceste.xml,26432,26505,"– Du hast sie nie gekannt, Wenn dir Alcestens Verlust ersetzlich scheint.",negative,emotions of affection,love
+555,GerDracor/wieland-alceste.xml,26506,26558,Nicht ohne Grund spricht Herkules So zuversichtlich.,positive,emotions of joy,joy
+556,GerDracor/wieland-alceste.xml,26559,26576,"Höre mehr, Admet!",positive,emotions of rejection,joy
+557,GerDracor/wieland-alceste.xml,26577,26623,"Was dir unmöglich scheint, ist schon gefunden.",positive,emotions of joy,joy
+558,GerDracor/wieland-alceste.xml,26625,26671,Der Töchter Gräciens begleitet meine Schritte.,positive,emotions of affection,admiration
+559,GerDracor/wieland-alceste.xml,26672,26711,Dieß nennst du dein Versprechen halten?,negative,emotions of rejection,anger
+560,GerDracor/wieland-alceste.xml,26712,26814,"Was hälf es dir, den schmerzversüßenden Einladungen der Liebe deinen Busen Hartnäckig zu verschließen?",negative,emotions of suffering,love
+561,GerDracor/wieland-alceste.xml,26815,26903,"Den einz'gen Trost, den dir in deinem Gram Das Schicksal anbeut, wilt du von dir stoßen?",negative,emotions of suffering,suffering
+562,GerDracor/wieland-alceste.xml,26904,26929,"Schau um dich her, Admet?",emotional movement,emotional movement,emotional movement
+563,GerDracor/wieland-alceste.xml,26930,26995,Ist auch im ganzen Weltbau nur ein Rad Aus seinem Gleis getreten?,negative,emotional movement,emotional movement
+564,GerDracor/wieland-alceste.xml,26996,27051,"Alles ist So wie es war, da du dich glücklich hieltest.",positive,emotions of joy,joy
+565,GerDracor/wieland-alceste.xml,27052,27115,"Die Quellen jeder Freude strömen fort, Und werden ewig strömen!",positive,emotions of joy,joy
+566,GerDracor/wieland-alceste.xml,27116,27158,"Verschmachtest du, so ist es deine Schuld.",negative,emotions of suffering,compassion
+567,GerDracor/wieland-alceste.xml,27159,27194,"Erkläre mir dein Räthsel, Herkules.",negative,emotions of rejection,anger
+568,GerDracor/wieland-alceste.xml,27195,27239,Du sprichst von einer Schönen die dir folge?,positive,emotions of affection,love
+569,GerDracor/wieland-alceste.xml,27240,27258,Wie nennst du Sie?,emotional movement,emotional movement,emotional movement
+570,GerDracor/wieland-alceste.xml,27259,27284,Von wannen kömmt Sie uns?,emotional movement,emotional movement,emotional movement
+571,GerDracor/wieland-alceste.xml,27285,27305,Was kann Sie wollen?,negative,emotions of affection,emotional movement
+572,GerDracor/wieland-alceste.xml,27306,27427,"Euer Leid ergötzen, Parthenia; diese traurigen Cypressen In Rosen wandeln; diesen Tempel wieder Den Liebesgöttern weyhen.",positive,emotions of joy,joy
+573,GerDracor/wieland-alceste.xml,27428,27526,"– Starre mich Nicht so aus Augen an, Admet, worinn Verachtung Und Zorn sich mit Erstaunen mischen!",negative,emotions of rejection,"hate, disgust"
+574,GerDracor/wieland-alceste.xml,27527,27586,"Unfreundlicher, auf deines Vaters Nahmen Zu stolzer Freund!",positive,emotions of rejection,anger
+575,GerDracor/wieland-alceste.xml,27587,27595,Hör auf!,negative,emotions of rejection,anger
+576,GerDracor/wieland-alceste.xml,27596,27649,Ich will nicht länger  Und meine Liebe lästern hören!,positive,emotions of rejection,anger
+577,GerDracor/wieland-alceste.xml,27650,27672,Mich prüfen willst du?,negative,emotions of rejection,anger
+578,GerDracor/wieland-alceste.xml,27673,27692,– Spare deine Mühe!,negative,emotions of rejection,anger
+579,GerDracor/wieland-alceste.xml,27693,27718,Mein Herz verschmäht sie!,negative,emotions of rejection,love
+580,GerDracor/wieland-alceste.xml,27719,27749,– Du mißkennest meine Absicht.,negative,emotions of rejection,anger
+581,GerDracor/wieland-alceste.xml,27750,27799,"Ich will dein Glück, und du Du stössests von dir.",negative,emotions of rejection,"hate, disgust"
+582,GerDracor/wieland-alceste.xml,27800,27851,"Hast du denn die Schöne Gesehn, die mich begleitet?",positive,emotions of affection,love
+583,GerDracor/wieland-alceste.xml,27852,27868,– Sieh sie erst!,positive,emotions of affection,love
+584,GerDracor/wieland-alceste.xml,27869,27962,"Mich müßte alles trügen, wenn du mir Für das Geschenk nicht dankest, das du itzt verschmähst.",negative,emotions of rejection,suffering
+585,GerDracor/wieland-alceste.xml,27963,28037,"Nicht meine Treue – die ist ewig, ewig  Auf eine Probe der sie unterliegt.",positive,emotions of affection,love
+586,GerDracor/wieland-alceste.xml,28038,28085,Ich geh – und du – hast einen Freund verlohren!,negative,emotions of suffering,suffering
+587,GerDracor/wieland-alceste.xml,28086,28122,Ihr sollt' ich untreu werden können?,negative,emotional movement,emotional movement
+588,GerDracor/wieland-alceste.xml,28123,28145,"Dir ungetreu, Alceste?",negative,emotional movement,love
+589,GerDracor/wieland-alceste.xml,28146,28150,Dir?,emotional movement,emotional movement,emotional movement
+590,GerDracor/wieland-alceste.xml,28151,28188,Von fremder Flamme sollt ich brennen?,negative,emotional movement,emotional movement
+591,GerDracor/wieland-alceste.xml,28189,28191,O!,emotional movement,emotions of suffering,emotional movement
+592,GerDracor/wieland-alceste.xml,28192,28252,"Wenn ich dessen fähig werde, So öffne sich vor mir die Erde!",positive,emotions of joy,joy
+593,GerDracor/wieland-alceste.xml,28253,28344,"Der Eumeniden Fackel blitze Mir ins Gesicht, und aus dem Sitze Der Wonne fluch Alceste mir!",negative,emotions of fear,despair
+594,GerDracor/wieland-alceste.xml,28345,28356,Er geht ab.,negative,emotions of rejection,anger
+595,GerDracor/wieland-alceste.xml,28358,28392,"Alcmenens Sohn, bey den Göttinnen!",positive,emotions of affection,admiration
+596,GerDracor/wieland-alceste.xml,28393,28637,"Du gehst zu weit – Was konnte dich bewegen, deinen Freund So grausam, vor der Urne einer Geliebten Gattinn, an dem Tage selbst Der sie geraubt, In ihres Schattens heil'ger Gegenwart, Durch einen Antrag, der sein Herz Zerreissen muß, zu kränken?",negative,emotions of rejection,suffering
+597,GerDracor/wieland-alceste.xml,28638,28649,Zu kränken?,emotional movement,emotions of suffering,anger
+598,GerDracor/wieland-alceste.xml,28650,28663,Ferne sey es!,negative,emotions of fear,suffering
+599,GerDracor/wieland-alceste.xml,28664,28730,"glücklich, glücklich Will ich ihn machen, ihn und dich, Parthenia.",positive,emotions of joy,joy
+600,GerDracor/wieland-alceste.xml,28731,28774,Der nächste Augenblick soll für mich reden.,positive,emotions of affection,emotional movement
+601,GerDracor/wieland-alceste.xml,28775,28782,allein.,negative,emotions of suffering,suffering
+602,GerDracor/wieland-alceste.xml,28783,28802,Was kann er meynen?,negative,emotional movement,emotional movement
+603,GerDracor/wieland-alceste.xml,28803,28827,– Sollt es möglich seyn?,negative,emotions of fear,fear
+604,GerDracor/wieland-alceste.xml,28828,28846,Welch ein Gedanke!,negative,emotions of suffering,suffering
+605,GerDracor/wieland-alceste.xml,28847,28877,"– Aber nein, es ist unmöglich!",negative,emotions of fear,fear
+606,GerDracor/wieland-alceste.xml,28878,28964,"Von da, wo sie in diamantnen Mauern Die Ewigkeit gefangen hält, Ist keine Wiederkunft!",negative,emotions of fear,despair
+607,GerDracor/wieland-alceste.xml,28965,28974,Herkules.,negative,emotions of rejection,emotional movement
+608,GerDracor/wieland-alceste.xml,28975,28983,Alceste.,emotional movement,emotional movement,emotional movement
+609,GerDracor/wieland-alceste.xml,28984,28994,Parthenia.,positive,emotions of affection,emotional movement
+610,GerDracor/wieland-alceste.xml,28995,29014,Allmächt'ge Götter!,positive,emotions of affection,emotional movement
+611,GerDracor/wieland-alceste.xml,29015,29027,Was seh ich?,emotional movement,emotional movement,emotional movement
+612,GerDracor/wieland-alceste.xml,29028,29043,"– Ja, sie ists!",positive,emotions of joy,joy
+613,GerDracor/wieland-alceste.xml,29044,29053,Sie ists!,positive,emotions of joy,joy
+614,GerDracor/wieland-alceste.xml,29054,29190,"– O theurer Schatten – Sie geht mit ausgebreiteten Armen auf Alcesten zu, aber zittert wieder zurück, da
+            sie ihr nahe kömmt.",negative,emotions of suffering,fear
+615,GerDracor/wieland-alceste.xml,29191,29206,Fürchte nichts!,negative,emotions of fear,fear
+616,GerDracor/wieland-alceste.xml,29207,29267,Es ist kein Schatten der aus deinen Armen In Luft zerfließt.,positive,emotions of affection,love
+617,GerDracor/wieland-alceste.xml,29268,29277,Sie lebt.,negative,emotions of affection,suffering
+618,GerDracor/wieland-alceste.xml,29278,29342,"Es ist Alceste selbst, die ich vom Ufer Des Styx zurückgebracht.",positive,emotions of affection,love
+619,GerDracor/wieland-alceste.xml,29343,29355,O Schwester!,negative,emotions of suffering,suffering
+620,GerDracor/wieland-alceste.xml,29356,29394,Schließ ich dich in meine Arme wieder?,positive,emotions of affection,love
+621,GerDracor/wieland-alceste.xml,29395,29425,Aus welchem Traum erwach' ich!,negative,emotions of suffering,suffering
+622,GerDracor/wieland-alceste.xml,29426,29440,– O Entzücken!,positive,emotions of joy,joy
+623,GerDracor/wieland-alceste.xml,29441,29450,O Wunder!,emotional movement,emotional movement,emotional movement
+624,GerDracor/wieland-alceste.xml,29451,29499,"– Darf ich meinen Sinnen glauben, Du Göttersohn?",positive,emotions of fear,admiration
+625,GerDracor/wieland-alceste.xml,29500,29617,"– Ich seh sie, halte sie In meinem Arm, Ihr Busen schlägt an meinem Busen, Und doch besorg' ich daß es Täuschung sey.",positive,emotions of affection,love
+626,GerDracor/wieland-alceste.xml,29618,29633,Besorge nichts!,negative,emotions of fear,fear
+627,GerDracor/wieland-alceste.xml,29634,29669,Die Götter schenken sie Dir wieder.,positive,emotions of joy,love
+628,GerDracor/wieland-alceste.xml,29670,29734,"Ließ in meinen Augen, Wie glücklich mich dein Wiedersehen macht.",positive,emotions of joy,joy
+629,GerDracor/wieland-alceste.xml,29735,29775,Gewiß sie sagen dir daß ich Alceste bin!,positive,emotions of affection,admiration
+630,GerDracor/wieland-alceste.xml,29776,29804,"Ja, Schwester, ja, du bists!",positive,emotions of joy,joy
+631,GerDracor/wieland-alceste.xml,29805,29822,– O welche Wonne!,positive,emotions of joy,joy
+632,GerDracor/wieland-alceste.xml,29823,29922,Laß mich eilen – Dein Admet Kann nicht zu schnell erfahren Wie viel er seinem Freund zu danken hat.,positive,emotions of affection,emotional movement
+633,GerDracor/wieland-alceste.xml,29923,29986,"Ruf ihn zurück, Princessin, sag, es schmerze mich  Nicht alles.",negative,emotions of suffering,suffering
+634,GerDracor/wieland-alceste.xml,29987,30081,"Laß Alcesten Und mir die Freude, ihn mit seinem Glücke Da ers am mindsten hoft zu überraschen.",positive,emotions of joy,joy
+635,GerDracor/wieland-alceste.xml,30082,30161,"Wenn nur Gesicht und Ton mich nicht verräth, Dem Mund soll nichts entschlüpfen!",negative,emotions of rejection,anger
+636,GerDracor/wieland-alceste.xml,30162,30174,Sie geht ab.,negative,emotions of rejection,suffering
+637,GerDracor/wieland-alceste.xml,30175,30184,Herkules.,negative,emotions of rejection,emotional movement
+638,GerDracor/wieland-alceste.xml,30185,30193,Alceste.,emotional movement,emotional movement,emotional movement
+639,GerDracor/wieland-alceste.xml,30194,30253,"Hülle, Königin, In deinen Schleyer dich, und tritt Zurücke.",negative,emotions of affection,suffering
+640,GerDracor/wieland-alceste.xml,30254,30353,"Sein Entzücken, in der schönen Fremden Die seinen Zorn mir zuzog, dich zu finden,  Für euch gewagt!",positive,emotions of joy,"hate, disgust"
+641,GerDracor/wieland-alceste.xml,30354,30369,– O Göttersohn!,negative,emotions of suffering,suffering
+642,GerDracor/wieland-alceste.xml,30370,30453,"Noch immer scheint mir Alles Was mir begegnet ist ein Traum, Ein wunderbarer Traum!",positive,emotions of joy,joy
+643,GerDracor/wieland-alceste.xml,30454,30493,"Ich frage mich erstaunt, ob ich es bin?",emotional movement,emotional movement,emotional movement
+644,GerDracor/wieland-alceste.xml,30494,30611,"Die Erde, die ich wieder Betrete, diese Wohnung die ich kaum auf ewig Verlassen, dieser Tempel – Alles ist Mir fremd.",positive,emotional movement,emotional movement
+645,GerDracor/wieland-alceste.xml,30612,30687,Elysium schwebt Mit allen seinen unnennbaren Freuden Vor meinen Augen noch.,positive,emotions of joy,joy
+646,GerDracor/wieland-alceste.xml,30688,30706,Wie selig war ich!,positive,emotions of joy,joy
+647,GerDracor/wieland-alceste.xml,30707,30713,– Ach!,negative,emotions of suffering,suffering
+648,GerDracor/wieland-alceste.xml,30714,30776,mit meinem Glücke Verlohr ich auch die Macht es auszusprechen.,positive,emotions of joy,joy
+649,GerDracor/wieland-alceste.xml,30778,30821,Der Seele fühl' ich es – es war kein Traum.,positive,emotions of affection,suffering
+650,GerDracor/wieland-alceste.xml,30822,30907,Noch athmet mir aus ewig blühenden Gefilden Der Geist der Unvergänglichkeit entgegen.,positive,emotions of joy,joy
+651,GerDracor/wieland-alceste.xml,30908,30982,"Noch saugt mein Ohr Die Wollust eurer Lieder, o ihr Söhne Des Musengottes!",positive,emotions of joy,joy
+652,GerDracor/wieland-alceste.xml,30983,30991,– Still!,negative,emotional movement,emotional movement
+653,GerDracor/wieland-alceste.xml,30992,31035,– ich hör' Admetens Tritte – Entferne dich!,negative,emotions of rejection,anger
+654,GerDracor/wieland-alceste.xml,31036,31092,Alceste zieht sich in den Grund des Schauplatzes zurück.,negative,emotions of suffering,suffering
+655,GerDracor/wieland-alceste.xml,31093,31105,Die Vorigen.,positive,emotions of rejection,emotional movement
+656,GerDracor/wieland-alceste.xml,31106,31116,Parthenia.,positive,emotions of affection,emotional movement
+657,GerDracor/wieland-alceste.xml,31117,31210,"Admet der ihr in einiger Entfernung mit düstern
+            niedergeschlagenen Blicken folgt.",negative,emotions of suffering,suffering
+658,GerDracor/wieland-alceste.xml,31211,31230,"Admet, vergieb mir!",positive,emotions of suffering,compassion
+659,GerDracor/wieland-alceste.xml,31231,31261,Zürne nicht  Aus gutem Willen.,negative,emotions of rejection,anger
+660,GerDracor/wieland-alceste.xml,31262,31321,"Der Gedanke, wieder glücklich dich Zu machen, riß mich hin.",positive,emotions of joy,joy
+661,GerDracor/wieland-alceste.xml,31322,31342,"Vergieb mir, Freund!",positive,emotions of affection,compassion
+662,GerDracor/wieland-alceste.xml,31343,31362,Vergieb dir Selbst!,negative,emotions of suffering,compassion
+663,GerDracor/wieland-alceste.xml,31363,31455,"Unzärtlich, Herkules, War dein Betragen – Hebe deine Augen, Und sieh, was mich entschuldigt!",negative,emotions of rejection,"hate, disgust"
+664,GerDracor/wieland-alceste.xml,31456,31458,O!,emotional movement,emotions of suffering,emotional movement
+665,GerDracor/wieland-alceste.xml,31459,31481,Ihr Mächte des Olymps!,positive,emotions of joy,admiration
+666,GerDracor/wieland-alceste.xml,31482,31494,Was seh ich!,emotional movement,emotional movement,emotional movement
+667,GerDracor/wieland-alceste.xml,31495,31519,"– Nein, ich sehe nichts!",emotional movement,emotions of fear,fear
+668,GerDracor/wieland-alceste.xml,31520,31564,"– Mich täuscht Ein Gott, der meiner spottet.",negative,emotions of joy,"hate, disgust"
+669,GerDracor/wieland-alceste.xml,31565,31632,"Liebe, Sehnsucht, höhnen  Alceste nähert sich ihm mit offnen Armen.",positive,emotions of affection,love
+670,GerDracor/wieland-alceste.xml,31633,31639,– Wie!,negative,emotional movement,emotional movement
+671,GerDracor/wieland-alceste.xml,31640,31655,Es nähert sich?,emotional movement,emotions of fear,fear
+672,GerDracor/wieland-alceste.xml,31656,31718,"– Bist du's, Geliebter Schatten, der zum Troste mir erscheint?",positive,emotions of affection,joy
+673,GerDracor/wieland-alceste.xml,31719,31732,O mein Admet!,positive,emotions of suffering,suffering
+674,GerDracor/wieland-alceste.xml,31733,31768,Sie eilt auf ihn zu und umarmt ihn.,positive,emotions of affection,love
+675,GerDracor/wieland-alceste.xml,31769,31821,"O Götter, laßt ihn ewig, ewig dauren Den süßen Wahn!",positive,emotions of joy,love
+676,GerDracor/wieland-alceste.xml,31822,31848,– Er umarmt sie von neuem.,positive,emotions of affection,love
+677,GerDracor/wieland-alceste.xml,31849,31875,"Ists möglich, gute Götter!",positive,emotions of fear,fear
+678,GerDracor/wieland-alceste.xml,31876,31891,O ists möglich!,negative,emotions of fear,fear
+679,GerDracor/wieland-alceste.xml,31892,31934,"Umfaß' ich dich, Alceste, keinen Schatten?",negative,emotions of fear,love
+680,GerDracor/wieland-alceste.xml,31935,31993,"Ich bin es selbst, Admet,  Elysium in deinen Armen findet.",positive,emotions of affection,love
+681,GerDracor/wieland-alceste.xml,31994,31996,O!,emotional movement,emotions of suffering,emotional movement
+682,GerDracor/wieland-alceste.xml,31997,32044,"einmal noch und abermal, Geliebte, Umarme mich!",positive,emotions of affection,love
+683,GerDracor/wieland-alceste.xml,32045,32111,"– Ich kann nicht oft genng Mich überzeugen, daß ich glücklich bin.",positive,emotions of joy,joy
+684,GerDracor/wieland-alceste.xml,32112,32167,"Dich selbst, dich selbst, Alceste, neubelebt Umfaß ich!",positive,emotions of affection,love
+685,GerDracor/wieland-alceste.xml,32168,32194,"– Götter, welch Entzücken!",positive,emotions of joy,joy
+686,GerDracor/wieland-alceste.xml,32195,32285,"Den allvermögenden Belohnern Der Tugend, mein Admet, – und deinem Freunde Dank es mit mir!",positive,emotions of affection,friendship
+687,GerDracor/wieland-alceste.xml,32286,32419,"– Er wagte sich für uns, Stieg unerschrocken in den furchtbarn Abgrund Der ew'gen Nacht hinab, erbat, erkämpfte Von Proserpinen mich.",positive,emotions of fear,love
+688,GerDracor/wieland-alceste.xml,32420,32444,O Sohn des Donnergottes!,positive,emotions of suffering,despair
+689,GerDracor/wieland-alceste.xml,32445,32518,welch ein Dank Kann meiner unbegrenzten Schuld Mich gegen dich entbinden?,positive,emotions of suffering,joy
+690,GerDracor/wieland-alceste.xml,32519,32627,"– Sage, Den Göttern gleicher Freund, wie konntest du Lebendig in den unzugangbarn Sitz Der Schatten dringen?",negative,emotional movement,friendship
+691,GerDracor/wieland-alceste.xml,32628,32748,"– O erkläre mir Ein Wunder, das mir noch in diesem Augenblick, Da ichs mit Augen seh, mit Händen fühle, Unglaublich ist.",emotional movement,emotional movement,emotional movement
+692,GerDracor/wieland-alceste.xml,32749,32775,Begehr es nicht zu wissen!,negative,emotions of rejection,anger
+693,GerDracor/wieland-alceste.xml,32776,32891,"Ein heil'ger Schleyer, den die Götter selbst Nicht wegzuziehen wagen, liegt Auf den Geheimnissen des Geisterreichs.",positive,emotions of affection,love
+694,GerDracor/wieland-alceste.xml,32892,32932,Der Eumeniden Hand schließt meinen Mund!,positive,emotions of affection,suffering
+695,GerDracor/wieland-alceste.xml,32934,32946,Gegeben ist.,positive,emotions of joy,emotional movement
+696,GerDracor/wieland-alceste.xml,32947,33025,"Geneuß der wundervollen Wohlthat Der Götter, Freund, und feßle deinen Vorwitz.",positive,emotions of affection,joy
+697,GerDracor/wieland-alceste.xml,33026,33116,"Allgüt'ge Mächte, seht mit Wohlgefallen Die Freudenthränen au, die meinem Aug' entströmen!",positive,emotions of joy,joy
+698,GerDracor/wieland-alceste.xml,33117,33180,"Was hat ein Sterblicher, um euch zu danken, Als Frendenthränen?",positive,emotions of affection,suffering
+699,GerDracor/wieland-alceste.xml,33181,33238,Als sein Unvermögen Die Größe seines Dankes auszudrücken?,negative,emotions of affection,emotional movement
+700,GerDracor/wieland-alceste.xml,33239,33262,Wie glücklich sind wir!,positive,emotions of joy,joy
+701,GerDracor/wieland-alceste.xml,33263,33300,Wie empfind ich es Für dich und mich!,positive,emotions of affection,love
+702,GerDracor/wieland-alceste.xml,33301,33337,"– Es ist kein Blendwerk, mein Admet!",positive,emotions of affection,joy
+703,GerDracor/wieland-alceste.xml,33338,33594,"Ich leb', ich lebe wieder Für dich, und fühl' erst itzt  Schon wandelt' ich Im Chor der schönen Seelen, Schon grüßte mich Aus tausend Wunderkehlen Elysiums schönster Hayn: Ich fühlte Götterfrieden Tief in der Brust: Doch, konnte meine Lust Vollkommen seyn?",positive,emotions of affection,love
+704,GerDracor/wieland-alceste.xml,33595,33639,"Geliebter, war ich nicht Von dir geschieden?",positive,emotions of affection,love
+705,GerDracor/wieland-alceste.xml,33640,33687,Itzt findt Alceste sich in deinen Armen wieder.,positive,emotions of suffering,love
+706,GerDracor/wieland-alceste.xml,33688,33717,Elysium war ein Traumgesicht!,positive,emotions of joy,joy
+707,GerDracor/wieland-alceste.xml,33719,33735,Ist wieder dein!,positive,emotions of affection,love
+708,GerDracor/wieland-alceste.xml,33736,33804,"Vermißt nicht mehr der Amphionen Lieder, Nicht ihren schönsten Hayn!",positive,emotions of affection,joy
+709,GerDracor/wieland-alceste.xml,33805,33838,Du hast Elysiums Glück empfunden!,positive,emotions of joy,joy
+710,GerDracor/wieland-alceste.xml,33839,33874,"Sprich, ist es unsrer Wonne gleich?",positive,emotions of affection,love
+711,GerDracor/wieland-alceste.xml,33875,33908,Ich hab Elysiums Glück empfunden!,positive,emotions of joy,joy
+712,GerDracor/wieland-alceste.xml,33909,33989,"Allein dem Augenblick, wo ich dich wiedergefunden, Ist keine andre Wonne gleich.",positive,emotions of affection,love
+713,GerDracor/wieland-alceste.xml,33990,34002,zu Herkules.,negative,emotions of rejection,emotional movement
+714,GerDracor/wieland-alceste.xml,34003,34005,O!,emotional movement,emotions of suffering,emotional movement
+715,GerDracor/wieland-alceste.xml,34006,34013,Freund!,positive,emotions of affection,friendship
+716,GerDracor/wieland-alceste.xml,34014,34041,wie kann ich dir vergelten?,negative,emotional movement,admiration
+717,GerDracor/wieland-alceste.xml,34042,34065,Was ist ein Königreich?,emotional movement,emotional movement,emotional movement
+718,GerDracor/wieland-alceste.xml,34066,34118,Sind ganze Welten Dem Werthe deiner Wohlthat gleich?,positive,emotional movement,admiration
+719,GerDracor/wieland-alceste.xml,34119,34221,"Ich bin belohnt an euern Freuden Mein mitempfindend Herz zu weiden, Ich bin der glücklichste von euch!",positive,emotions of joy,joy
+720,GerDracor/wieland-alceste.xml,34222,34233,Ihr Götter!,negative,emotions of joy,despair
+721,GerDracor/wieland-alceste.xml,34234,34293,"die uns zu beglücken Dieß Wunderwerk gethan,  Zum Opfer an!",negative,emotions of joy,joy
+722,GerDracor/wieland-alceste.xml,34294,34396,"Ihr Götter, die uns zu beglücken Dieß Wunderwerk gethan: Nehmt unser dankendes Entzücken Zum Opfer an!",positive,emotions of joy,joy

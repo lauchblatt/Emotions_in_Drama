@@ -1,0 +1,402 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/baeuerle-die-buerger-in-wien.xml,0,85, Das Stück spielt in der Leopoldstadt und an der Donau unter den Weißgerbern in Wien.,positive,emotions of joy,Schadenfreude
+1,GerDracor/baeuerle-die-buerger-in-wien.xml,86,148,Gemeinschaftliches Zimmer im Hause des Bindermeisters Redlich.,positive,emotions of affection,anger
+2,GerDracor/baeuerle-die-buerger-in-wien.xml,149,167,allein am Fenster.,negative,emotions of suffering,suffering
+3,GerDracor/baeuerle-die-buerger-in-wien.xml,168,253,"Um zehn Uhr wollte er vorbeigehn, es ist Viertel auf elf, und noch ist er nicht hier.",negative,emotional movement,anger
+4,GerDracor/baeuerle-die-buerger-in-wien.xml,268,297,Vielleicht ist er verhindert.,emotional movement,emotions of joy,fear
+5,GerDracor/baeuerle-die-buerger-in-wien.xml,299,339,Sie sieht neuerdings zum Fenster hinaus.,emotional movement,emotional movement,suffering
+6,GerDracor/baeuerle-die-buerger-in-wien.xml,340,417,"Sie verneigt sich freundlich und horcht zum Fenster
+                hinunter.",positive,emotions of joy,admiration
+7,GerDracor/baeuerle-die-buerger-in-wien.xml,418,452,"Sie
+                horcht wieder.",emotional movement,emotional movement,emotional movement
+8,GerDracor/baeuerle-die-buerger-in-wien.xml,453,458,Karl.,emotional movement,emotional movement,emotional movement
+9,GerDracor/baeuerle-die-buerger-in-wien.xml,459,468,Käthchen.,positive,emotional movement,emotional movement
+10,GerDracor/baeuerle-die-buerger-in-wien.xml,469,487,fliegt auf sie zu.,positive,emotions of joy,joy
+11,GerDracor/baeuerle-die-buerger-in-wien.xml,488,640,"Geliebtes Mädchen, ich muß dich sprechen, heute kann ich nicht bloß vorbeigehen – ich
+              habe dir Dinge von der größten Wichtigkeit zu sagen.",positive,emotional movement,emotional movement
+12,GerDracor/baeuerle-die-buerger-in-wien.xml,641,775,"Wenn uns aber jemand sieht, du weißt, wie geheim wir unsere Liebe halten müssen – du
+              kennst die Absichten meiner Mutter.",positive,emotions of affection,love
+13,GerDracor/baeuerle-die-buerger-in-wien.xml,776,815,Meine Lage hat sich plötzlich geändert!,emotional movement,emotional movement,emotional movement
+14,GerDracor/baeuerle-die-buerger-in-wien.xml,816,1000,"Soeben komme ich von dem Grafen Pfahl, er ist
+              ganz für mich eingenommen, sein Sekretär ist gestorben, ich erhalte diesen Platz und
+              tausend Gulden Besoldung.",positive,emotions of affection,joy
+15,GerDracor/baeuerle-die-buerger-in-wien.xml,1001,1186,"Ach, lieber Karl, das ist noch zu wenig, meine Mutter hält zu viel auf bares Vermögen
+              und Reichtümer, als daß sie eine mäßige Besoldung und deine Talente vorziehen sollte.",negative,emotions of affection,love
+16,GerDracor/baeuerle-die-buerger-in-wien.xml,1201,1258,"Der reiche Müller soll mein Mann werden, das weißt du ja!",positive,emotions of joy,Schadenfreude
+17,GerDracor/baeuerle-die-buerger-in-wien.xml,1259,1305,Was hab ich denn von deinem Vater zu erwarten?,emotional movement,emotional movement,emotional movement
+18,GerDracor/baeuerle-die-buerger-in-wien.xml,1306,1433,"Der wäre leichter zu gewinnen; aber – mein Bruder ist Soldat, mein Vater will mich
+              nicht so bald heiraten lassen.",negative,emotions of fear,suffering
+19,GerDracor/baeuerle-die-buerger-in-wien.xml,1434,1530,"»Ich kann nicht meine bei den Kinder aus dem Hause
+              wissen«, sagte er erst neulich.",negative,emotions of rejection,anger
+20,GerDracor/baeuerle-die-buerger-in-wien.xml,1531,1545,Ist das alles?,positive,emotional movement,emotional movement
+21,GerDracor/baeuerle-die-buerger-in-wien.xml,1546,1560,Frischen Muts!,positive,emotions of fear,joy
+22,GerDracor/baeuerle-die-buerger-in-wien.xml,1561,1653,"Laß mich nur mit deinen Eltern sprechen, ich will sie
+              schon für mich gewinnen.",negative,emotions of affection,friendship
+23,GerDracor/baeuerle-die-buerger-in-wien.xml,1654,1750,"Dem Herrn Müller will ich scharf zu Leibe gehen, ein paar
+              seiner  Übereile nichts.",negative,emotions of rejection,anger
+24,GerDracor/baeuerle-die-buerger-in-wien.xml,1751,1796,"Noch ist es nicht Zeit, laß mich erst machen.",negative,emotions of rejection,anger
+25,GerDracor/baeuerle-die-buerger-in-wien.xml,1797,1955,"Nun, so will ich dir alles überlassen, sag deinen Eltern nur, daß wir uns innig
+              lieben, sag ihnen dies und noch mehr, was dir dein Herz eingibt.",positive,emotions of affection,love
+26,GerDracor/baeuerle-die-buerger-in-wien.xml,1956,1974,– Jetzt lebe wohl!,negative,emotions of suffering,suffering
+27,GerDracor/baeuerle-die-buerger-in-wien.xml,1992,2062,"Er drückt sie an sein Herz, in diesem Augenblick tritt Redlich hervor.",positive,emotions of affection,love
+28,GerDracor/baeuerle-die-buerger-in-wien.xml,2063,2104,"Beide
+                fahren auseinander.",emotional movement,emotional movement,emotional movement
+29,GerDracor/baeuerle-die-buerger-in-wien.xml,2105,2113,Redlich.,negative,emotions of affection,anger
+30,GerDracor/baeuerle-die-buerger-in-wien.xml,2114,2121,Vorige.,positive,emotions of rejection,emotional movement
+31,GerDracor/baeuerle-die-buerger-in-wien.xml,2122,2150,Was ist das für ein Manöver?,emotional movement,emotional movement,emotional movement
+32,GerDracor/baeuerle-die-buerger-in-wien.xml,2151,2175,"Nun, geniert euch nicht!",negative,emotions of rejection,compassion
+33,GerDracor/baeuerle-die-buerger-in-wien.xml,2176,2182,O weh!,negative,emotions of suffering,suffering
+34,GerDracor/baeuerle-die-buerger-in-wien.xml,2183,2194,Mein Vater!,emotional movement,emotional movement,emotional movement
+35,GerDracor/baeuerle-die-buerger-in-wien.xml,2196,2206,Will fort.,negative,emotions of rejection,anger
+36,GerDracor/baeuerle-die-buerger-in-wien.xml,2207,2218,Du bleibst!,negative,emotions of rejection,love
+37,GerDracor/baeuerle-die-buerger-in-wien.xml,2219,2269,Karl schlägt die Augen nieder und blickt zur Erde.,negative,emotions of suffering,suffering
+38,GerDracor/baeuerle-die-buerger-in-wien.xml,2270,2369,"geht um ihn herum, sieht ihn lange und starr an, nimmt eine Prise und wartet ihm
+              auf.",emotional movement,emotional movement,emotional movement
+39,GerDracor/baeuerle-die-buerger-in-wien.xml,2370,2384,Beliebt Ihnen?,positive,emotions of affection,emotional movement
+40,GerDracor/baeuerle-die-buerger-in-wien.xml,2385,2399,sehr verlegen.,negative,emotional movement,emotional movement
+41,GerDracor/baeuerle-die-buerger-in-wien.xml,2400,2430,Ich danke – zu seiner Tochter.,positive,emotions of joy,joy
+42,GerDracor/baeuerle-die-buerger-in-wien.xml,2431,2458,"Du, was will denn der Herr?",emotional movement,emotional movement,emotional movement
+43,GerDracor/baeuerle-die-buerger-in-wien.xml,2459,2463,Ach!,negative,emotions of suffering,suffering
+44,GerDracor/baeuerle-die-buerger-in-wien.xml,2464,2479,»Ach!« will er?,negative,emotional movement,emotional movement
+45,GerDracor/baeuerle-die-buerger-in-wien.xml,2480,2515,Ich habe ein paar »O weh!« für ihn.,negative,emotions of suffering,suffering
+46,GerDracor/baeuerle-die-buerger-in-wien.xml,2516,2529,"Schau, schau!",positive,emotions of joy,emotional movement
+47,GerDracor/baeuerle-die-buerger-in-wien.xml,2530,2560,"Wer ist er
+              denn?",emotional movement,emotional movement,emotional movement
+48,GerDracor/baeuerle-die-buerger-in-wien.xml,2561,2581,Ich bin ein Dichter.,positive,emotions of affection,joy
+49,GerDracor/baeuerle-die-buerger-in-wien.xml,2582,2585,So?,emotional movement,emotional movement,emotional movement
+50,GerDracor/baeuerle-die-buerger-in-wien.xml,2587,2618,Mit Beziehung auf die Umarmung.,positive,emotions of affection,love
+51,GerDracor/baeuerle-die-buerger-in-wien.xml,2619,2754,"Käthchen tritt mit sichtbarer Angst zurück, winkt jedoch Karln, als wenn sie
+              sagen wollte: »Es wird mir schlimm ergehen«.",negative,emotions of fear,fear
+52,GerDracor/baeuerle-die-buerger-in-wien.xml,2755,2768,bemerkt dies.,emotional movement,emotions of suffering,emotional movement
+53,GerDracor/baeuerle-die-buerger-in-wien.xml,2769,2788,Was ist das wieder?,negative,emotional movement,emotional movement
+54,GerDracor/baeuerle-die-buerger-in-wien.xml,2790,2798,Zu Karl.,emotional movement,emotional movement,emotional movement
+55,GerDracor/baeuerle-die-buerger-in-wien.xml,2799,2913,"Sie anbeten, sie lieben, sie meinen Himmel nennen – Hören Sie auf und kommen Sie mir nicht mit dem Schnickschnack.",positive,emotions of affection,love
+56,GerDracor/baeuerle-die-buerger-in-wien.xml,2914,2968,"Diese Redensarten kann
+              ich nicht leiden.",negative,emotions of rejection,"hate, disgust"
+57,GerDracor/baeuerle-die-buerger-in-wien.xml,2969,3018,So manches Mädel hat sich dadurch betören lassen.,positive,emotions of affection,joy
+58,GerDracor/baeuerle-die-buerger-in-wien.xml,3019,3053,Die lachende  Ich mein es ehrlich.,positive,emotions of joy,joy
+59,GerDracor/baeuerle-die-buerger-in-wien.xml,3054,3160,"Habe nichts dagegen; sind Sie meiner Katherl gut, so werden Sie auch auf die Zukunft
+              denken.",positive,emotions of affection,friendship
+60,GerDracor/baeuerle-die-buerger-in-wien.xml,3161,3241,Ich habe Hoffnungen – Das ist langweilig – Ich werde – Lassen Sie mich ausreden.,negative,emotional movement,emotional movement
+61,GerDracor/baeuerle-die-buerger-in-wien.xml,3242,3407,"Ich bin keiner von den Vätern, die ihre Kinder bloß
+                 Herr Redlich, was hab ich wegen Käthchen – Wegen Käthchen haben Sie vorderhand nichts zu hoffen.",negative,emotions of suffering,suffering
+62,GerDracor/baeuerle-die-buerger-in-wien.xml,3408,3622,"Das Mädel ist noch jung – auch
+              weiß ich nicht, ob schon ein Liebhaber in petto ist – halten Sie sich nicht länger da
+              auf; indes hätten Sie schon wieder die schönsten Verse machen können.",positive,emotions of suffering,love
+63,GerDracor/baeuerle-die-buerger-in-wien.xml,3623,3867,"– B'hüt Sie
+              Gott, sein Sie nicht kleinmütig – wenn wir uns wo sehen, alle Achtung; aber da bei
+              meiner Katherl – Sie wissen schon –, ein heimlicher Liebhaber ist wie ein versteckter
+              Feind für die Eltern.",positive,emotions of affection,love
+64,GerDracor/baeuerle-die-buerger-in-wien.xml,3868,3945,"Man bekommt öfters eine Blessur, die kein Wundarzt heilen
+              kann.",negative,emotions of suffering,suffering
+65,GerDracor/baeuerle-die-buerger-in-wien.xml,3946,3959,Herr Redlich!,emotional movement,emotions of rejection,emotional movement
+66,GerDracor/baeuerle-die-buerger-in-wien.xml,3960,3969,halblaut.,emotional movement,emotional movement,emotional movement
+67,GerDracor/baeuerle-die-buerger-in-wien.xml,3970,3977,O Gott!,negative,emotions of fear,fear
+68,GerDracor/baeuerle-die-buerger-in-wien.xml,3978,3992,sieht sich um.,emotional movement,emotional movement,emotional movement
+69,GerDracor/baeuerle-die-buerger-in-wien.xml,3993,4013,Das wird mir zuviel!,negative,emotions of suffering,suffering
+70,GerDracor/baeuerle-die-buerger-in-wien.xml,4014,4030,Bist du noch da?,emotional movement,emotional movement,emotional movement
+71,GerDracor/baeuerle-die-buerger-in-wien.xml,4031,4085,"Jetzt geh, oder ich werde böse – Käthchen entschlüpft.",negative,emotions of rejection,anger
+72,GerDracor/baeuerle-die-buerger-in-wien.xml,4086,4128,Karl wirft ihr einen Kuß nach und eilt ab.,positive,emotions of affection,love
+73,GerDracor/baeuerle-die-buerger-in-wien.xml,4129,4136,allein.,negative,emotions of suffering,suffering
+74,GerDracor/baeuerle-die-buerger-in-wien.xml,4137,4342,"Das könnt ich brauchen, verliebte Zusammenkünfte hier im Haus; da könnte zuletzt der
+              Herr Dichter und meine Tochter Werke miteinander herausgeben, die kein Mensch kaufen
+              möchte.",positive,emotions of joy,love
+75,GerDracor/baeuerle-die-buerger-in-wien.xml,4343,4356,Gott bewahre!,negative,emotions of fear,fear
+76,GerDracor/baeuerle-die-buerger-in-wien.xml,4357,4406,"Wer seine Kinder bewacht, hat ihr Glück beacht't!",positive,emotions of rejection,joy
+77,GerDracor/baeuerle-die-buerger-in-wien.xml,4407,4478,"Das ist ein
+              altes Sprichwort; ich werd's nicht vergessen.",positive,emotions of affection,joy
+78,GerDracor/baeuerle-die-buerger-in-wien.xml,4479,4487,Staberl.,positive,emotions of rejection,anger
+79,GerDracor/baeuerle-die-buerger-in-wien.xml,4488,4496,Redlich.,negative,emotions of affection,anger
+80,GerDracor/baeuerle-die-buerger-in-wien.xml,4497,4548,"Gehorsamer Diener, Herr Redlich, g'horsamer Diener!",positive,emotions of affection,admiration
+81,GerDracor/baeuerle-die-buerger-in-wien.xml,4549,4615,"Nu, was gibt's Neues, weil ich
+              grad so vorbeispring.",emotional movement,emotions of joy,emotional movement
+82,GerDracor/baeuerle-die-buerger-in-wien.xml,4616,4648,Hört man nichts von einem Krieg?,emotional movement,emotions of fear,emotional movement
+83,GerDracor/baeuerle-die-buerger-in-wien.xml,4649,4711,"Mir ist die Zeit völlig lang
+              vor lauter Frieden.",positive,emotional movement,suffering
+84,GerDracor/baeuerle-die-buerger-in-wien.xml,4712,4827,"Ich höre, wir werden gegen die Kalmukesen marschieren – mir wär's
+              recht; wenn ich nur was davon hätt.",negative,emotions of joy,joy
+85,GerDracor/baeuerle-die-buerger-in-wien.xml,4828,4862,Ist der Narr auch schon wieder da?,negative,emotions of rejection,"hate, disgust"
+86,GerDracor/baeuerle-die-buerger-in-wien.xml,4863,4866,Ei!,emotional movement,emotional movement,emotional movement
+87,GerDracor/baeuerle-die-buerger-in-wien.xml,4867,5067,"Ich bin kein Narr, o nein, ich bin g'scheit, überall red't man von dem g'scheiten
+              Staberl, weit und breit werd ich gesucht, um meine politischen Meinungen von mir zu
+              geben.",negative,emotions of rejection,anger
+88,GerDracor/baeuerle-die-buerger-in-wien.xml,5068,5330,"Der Bratelbrater da drüben sagt, ich hätte Studieren sollen und ein Redner im
+              englischen Parlament werden, wegen meinem schönen Vortrag und der Flüssigkeit meiner
+              Sprache, ich hätte durch meine Gedanken die Menschen beschirmen können.",negative,emotions of rejection,anger
+89,GerDracor/baeuerle-die-buerger-in-wien.xml,5331,5427,"Mein Vater hat
+              aber dies nicht eingesehen und hat mich zur  Der Herr ist verruckt?",negative,emotional movement,emotional movement
+90,GerDracor/baeuerle-die-buerger-in-wien.xml,5428,5431,So?,emotional movement,emotional movement,emotional movement
+91,GerDracor/baeuerle-die-buerger-in-wien.xml,5432,5583,"Ja, um ein Jahrhundert bin ich vorausgeruckt; ich kenn alles, versteh alles,
+              begreif alles, beurteil alles, wenn ich nur was davon hätte.",emotional movement,emotional movement,emotional movement
+92,GerDracor/baeuerle-die-buerger-in-wien.xml,5585,5631,"Hochdeutsch und
+                mit Beziehung.",negative,emotions of affection,anger
+93,GerDracor/baeuerle-die-buerger-in-wien.xml,5632,5642,ablenkend.,emotional movement,emotional movement,emotional movement
+94,GerDracor/baeuerle-die-buerger-in-wien.xml,5643,5686,Was hat denn der Herr Staberl Neues gehört?,emotional movement,emotional movement,emotional movement
+95,GerDracor/baeuerle-die-buerger-in-wien.xml,5687,5752,"Nu, viel und wenig, wie man's nimmt; wenn ich nur was davon hätt!",negative,emotions of suffering,joy
+96,GerDracor/baeuerle-die-buerger-in-wien.xml,5753,5959,"– Da war ich grad
+              drüben bei der Kässtecherin, die hat ihrem Zimmerherrn ihr Parapluie geliehen, und der
+              hat ihr dafür einen ordentlichen Riß hinein gemacht; schauen Sie nur her!",negative,emotions of suffering,suffering
+97,GerDracor/baeuerle-die-buerger-in-wien.xml,5961,6024,"Er
+                zeigt ihm ein häßlich zerrissenes Parapluie.",negative,emotions of suffering,"hate, disgust"
+98,GerDracor/baeuerle-die-buerger-in-wien.xml,6025,6036,lacht auch.,positive,emotions of joy,joy
+99,GerDracor/baeuerle-die-buerger-in-wien.xml,6037,6063,Sie kommen ins runde Haus.,positive,emotions of joy,emotional movement
+100,GerDracor/baeuerle-die-buerger-in-wien.xml,6064,6096,"Ja, wenn ich nur was davon hätt.",negative,emotions of rejection,Schadenfreude
+101,GerDracor/baeuerle-die-buerger-in-wien.xml,6097,6230,"Um hundert Jahr bin ich voraus, sag ich Ihnen noch
+              einmal, Herr Redlich, ich seh durch ein Brett – Wenn's ein Loch hat.",negative,emotions of joy,"hate, disgust"
+102,GerDracor/baeuerle-die-buerger-in-wien.xml,6231,6290,"Wir werden noch reden von dem Gegenstand, wir werden reden.",negative,emotional movement,anger
+103,GerDracor/baeuerle-die-buerger-in-wien.xml,6291,6299,Therese.,emotional movement,emotional movement,emotional movement
+104,GerDracor/baeuerle-die-buerger-in-wien.xml,6300,6307,Vorige.,positive,emotions of rejection,emotional movement
+105,GerDracor/baeuerle-die-buerger-in-wien.xml,6308,6624,"Das hab ich mir eingebild't, daß die politischen Brüder schon wieder beisammen sind;
+              ei, da vergeht ja keine Stunde, wo hier nicht das Glück von Europa beratschlagt wird;
+              sehnt ihr euch etwa schon wieder nach einem Krieg oder habt's vielleicht gar schon
+              geheime Nachrichten?",emotional movement,emotions of joy,emotional movement
+106,GerDracor/baeuerle-die-buerger-in-wien.xml,6625,6630,Pfui!,negative,emotions of rejection,"hate, disgust"
+107,GerDracor/baeuerle-die-buerger-in-wien.xml,6631,6725,"Alte, was ist das wieder für eine Red, wer hat sich je nach einem Krieg
+              gesehnt!",negative,emotions of rejection,"hate, disgust"
+108,GerDracor/baeuerle-die-buerger-in-wien.xml,6726,6768,– Was ist das von den politischen Brüdern?,negative,emotions of rejection,emotional movement
+109,GerDracor/baeuerle-die-buerger-in-wien.xml,6769,6949,"Der Herr Staberl ist kein Bruder
+              von mir, das bitt ich mir aus; überhaupt leg deine Zunge hübsch in Zaum und erlaub dir
+              hier keine Bemerkungen – Jawohl!",negative,emotions of rejection,anger
+110,GerDracor/baeuerle-die-buerger-in-wien.xml,6950,6988,Das Weib muß nicht hofmeistern wollen.,negative,emotions of affection,anger
+111,GerDracor/baeuerle-die-buerger-in-wien.xml,6989,7051,"Versteht sich, weil  Darüber kann die Dummheit nicht urteilen.",negative,emotions of rejection,anger
+112,GerDracor/baeuerle-die-buerger-in-wien.xml,7052,7056,Was?,emotional movement,emotional movement,emotional movement
+113,GerDracor/baeuerle-die-buerger-in-wien.xml,7057,7070,Recht hat er.,positive,emotions of joy,anger
+114,GerDracor/baeuerle-die-buerger-in-wien.xml,7071,7350,"Überhaupt stimm deinen Ton um und mäßige ein bissel dein Betragen; was
+              dein Mann g'redt hat, wird noch wenig Unheil ang'stift't haben, und wenn unsereins
+              politisiert, so ist das doch besser, als wenn man dem nächsten die Ehr
+              abschneid't.",negative,emotions of rejection,anger
+115,GerDracor/baeuerle-die-buerger-in-wien.xml,7351,7589,"Allemal – Die Weltbegebenheiten sind für einen jeden; deshalb kommen s' in die Zeitungen, aber
+              das Schicksal nachbarlicher Familien ist nicht für einen jeden, deshalb mußt du 's
+              Maul halten, und ich kann reden.",negative,emotions of rejection,anger
+116,GerDracor/baeuerle-die-buerger-in-wien.xml,7590,7830,"Dem türkischen Kaiser sein' Bart kann ich heut in
+              Gedanken abschneiden, darüber krümmt sich kein Haar, aber mein' Nächsten seine Ehr muß
+              ich ganz lassen – sonst bin ich nichts wert – Das ist nicht dalkert g'redt.",negative,emotions of suffering,"hate, disgust"
+117,GerDracor/baeuerle-die-buerger-in-wien.xml,7831,7856,sieht ihn verächtlich an.,negative,emotions of rejection,"hate, disgust"
+118,GerDracor/baeuerle-die-buerger-in-wien.xml,7857,7977,"Sie schweigen – Nimm dir da was heraus, du wirst schon wissen, was ich meine – Ja, suchen Sie sich was aus – zu Redlich.",negative,emotions of rejection,anger
+119,GerDracor/baeuerle-die-buerger-in-wien.xml,7978,8110,"Sei nur nicht gleich so grantig – Ich bin schon wieder gut, aber meine Meinung mußt du hören – Ja, ganz recht, und die meinige auch!",negative,emotions of rejection,anger
+120,GerDracor/baeuerle-die-buerger-in-wien.xml,8111,8196,"Auch ich könnt Ihnen, meine liebste Madame
+              Redlichin, mehrere  Will ab.",positive,emotions of suffering,admiration
+121,GerDracor/baeuerle-die-buerger-in-wien.xml,8197,8217,ruft Staberl zurück.,negative,emotional movement,emotional movement
+122,GerDracor/baeuerle-die-buerger-in-wien.xml,8218,8822,"Apropos, Herr Staberl – Sie sind bei mir eingeladen, wir haben in ein paar Stunden
+              ein kleines häusliches Fest; bringen Sie alle guten Nachbarn mit, mein Sohn geht zu
+              seinem Regiment – Sie speisen bei mir – G'schätzter Herr Redlich, Sie machen mir da eine Überraschung, die mir die Red
+              verschlagt; ich bin ohnehin schon lang nicht eingeladen g'wesen – nun, ich werd mich
+              auszeichnen – O Madame Redlichin, wenn ich da speis, bin ich schon wieder gut mit
+              Ihnen – ich bitte, die Suppen nicht zu versalzen, den Braten nicht zu verbrennen.",positive,emotions of joy,joy
+123,GerDracor/baeuerle-die-buerger-in-wien.xml,8823,8910,"Wenn
+              ich das Ding nur g'wußt hätt, so hätt ich acht Tage nichts gegessen!",negative,emotions of suffering,suffering
+124,GerDracor/baeuerle-die-buerger-in-wien.xml,8911,9107,"Aber hat nichts
+              zu sagen – auch ohne Ansagen g'winn ich die Partie – ich bitte nur um altdeutsche
+              Knödeln wie mein Kopf, damit ich zeigen kann, daß ich ein Patriot bin!",positive,emotions of joy,joy
+125,GerDracor/baeuerle-die-buerger-in-wien.xml,9109,9136,"Schnell
+                ab.",negative,emotional movement,emotional movement
+126,GerDracor/baeuerle-die-buerger-in-wien.xml,9137,9145,Redlich.,negative,emotions of affection,anger
+127,GerDracor/baeuerle-die-buerger-in-wien.xml,9146,9154,Therese.,emotional movement,emotional movement,emotional movement
+128,GerDracor/baeuerle-die-buerger-in-wien.xml,9155,9425,"Du hast dich wieder ausgezeichnet, alleweil g'scheit sein wollen – nachher wirst
+              ausg'lacht; ich weiß aber schon, woher dein keckes Betragen gegen mich kommt: seit der
+              superkluge Herr Müller ins Haus schleicht, bist du so schnippisch mit mir.",negative,emotions of rejection,anger
+129,GerDracor/baeuerle-die-buerger-in-wien.xml,9426,9544,"Aber
+              nächstens will ich über ihn kommen, und der zweite Stock soll mir nicht zu hoch
+              sein!",positive,emotions of rejection,anger
+130,GerDracor/baeuerle-die-buerger-in-wien.xml,9545,9603,"Laß du den Herrn Müller zufrieden, er ist ein braver Mann.",positive,emotions of joy,compassion
+131,GerDracor/baeuerle-die-buerger-in-wien.xml,9604,9811,"O ja, Geld hat er wenigstens genug, um brav zu sein; auch hat er in Österreich
+              hinlänglich Glück gehabt, ehrlich zu denken und Wien dankbar seine zweite Vaterstadt
+                 Hör mich an!",positive,emotions of joy,joy
+132,GerDracor/baeuerle-die-buerger-in-wien.xml,9812,9842,"Ich weiß, was du sagen willst.",negative,emotions of rejection,anger
+133,GerDracor/baeuerle-die-buerger-in-wien.xml,9843,9982,"Er will mein Schwiegersohn werden; ich dank für die
+              Ehr – wer kein braver Untertan ist, kann auch kein braver Ehemann werden.",positive,emotions of joy,admiration
+134,GerDracor/baeuerle-die-buerger-in-wien.xml,9983,10088,"Er soll sich
+              eine Braut über der Grenze suchen, hier im Lande wachsen keine Mädeln für ihn.",negative,emotions of rejection,"hate, disgust"
+135,GerDracor/baeuerle-die-buerger-in-wien.xml,10089,10125,Hast du auf sein Vermögen vergessen?,negative,emotional movement,emotional movement
+136,GerDracor/baeuerle-die-buerger-in-wien.xml,10126,10158,Hast du auf dein Kind vergessen?,negative,emotional movement,compassion
+137,GerDracor/baeuerle-die-buerger-in-wien.xml,10159,10177,Was ist mehr wert?,positive,emotions of affection,emotional movement
+138,GerDracor/baeuerle-die-buerger-in-wien.xml,10178,10324,"Meine Tochter hat nicht viel,
+              aber sie ist brav; er hat viel, ist aber nichts nutz, das ist ein ungleiches
+              Heiratsgut!",positive,emotions of affection,suffering
+139,GerDracor/baeuerle-die-buerger-in-wien.xml,10325,10383,"Aus der Mariage wird nichts, das kannst du ihm ausrichten.",negative,emotions of rejection,suffering
+140,GerDracor/baeuerle-die-buerger-in-wien.xml,10385,10412,"Er geht
+                ab.",negative,emotions of rejection,anger
+141,GerDracor/baeuerle-die-buerger-in-wien.xml,10413,10420,allein.,negative,emotions of suffering,suffering
+142,GerDracor/baeuerle-die-buerger-in-wien.xml,10421,10445,Das hab ich gut gemacht!,positive,emotions of joy,joy
+143,GerDracor/baeuerle-die-buerger-in-wien.xml,10446,10533,"Ich will dem guten Müller das Wort reden und hab ihm nun
+              alles verdorben.",negative,emotions of rejection,anger
+144,GerDracor/baeuerle-die-buerger-in-wien.xml,10534,10676,"Ich glaube, ich höre Herrn Müller schon – mit einer beruhigenden
+              Antwort kann ich ihn wenigstens diesmal nicht glücklich machen.",negative,emotions of suffering,joy
+145,GerDracor/baeuerle-die-buerger-in-wien.xml,10677,10684,Müller.,emotional movement,emotions of rejection,anger
+146,GerDracor/baeuerle-die-buerger-in-wien.xml,10685,10692,Vorige.,positive,emotions of rejection,emotional movement
+147,GerDracor/baeuerle-die-buerger-in-wien.xml,10693,10728,"Nun, Mama, was hab ich zu erwarten?",negative,emotions of fear,fear
+148,GerDracor/baeuerle-die-buerger-in-wien.xml,10729,10822,"Herr Redlich ist mir begegnet, aber er war ganz
+              mürrisch und sah mich nicht an.",negative,emotions of rejection,anger
+149,GerDracor/baeuerle-die-buerger-in-wien.xml,10823,10867,Sind das vielleicht schlimme Vorbedeutungen?,emotional movement,emotions of suffering,fear
+150,GerDracor/baeuerle-die-buerger-in-wien.xml,10868,10930,"Ja, vorderhand kann ich Ihnen meine Tochter nicht versprechen.",positive,emotions of joy,love
+151,GerDracor/baeuerle-die-buerger-in-wien.xml,10931,11020,"Mein Mann kann es
+              Ihnen nicht vergessen, daß Sie so sonderbar gesinnt sind.",negative,emotions of suffering,admiration
+152,GerDracor/baeuerle-die-buerger-in-wien.xml,11021,11039,Sonderbar gesinnt?,emotional movement,emotional movement,emotional movement
+153,GerDracor/baeuerle-die-buerger-in-wien.xml,11040,11060,Daß ich nicht wüßte!,negative,emotions of rejection,anger
+154,GerDracor/baeuerle-die-buerger-in-wien.xml,11061,11218,"Ich bin gewiß ein guter Mensch, aber ich
+              schreie nicht so laut; ich übe meine Pflichten im stillen und freue mich im
+              verborgenen.",positive,emotions of joy,joy
+155,GerDracor/baeuerle-die-buerger-in-wien.xml,11219,11401,"Nun, das mögen Sie halten, wie Sie wollen, darein  Ich verdiene sie auch, ich bin in meinen schönsten Jahren; und an Freuden soll es
+              Ihnen und meiner Frau nicht fehlen.",positive,emotions of joy,joy
+156,GerDracor/baeuerle-die-buerger-in-wien.xml,11402,11469,"Sie werden Equipage haben, kostbare Kleider,
+              Schmuck!",positive,emotions of affection,admiration
+157,GerDracor/baeuerle-die-buerger-in-wien.xml,11470,11516,– Mutter und Tochter sind Herren meiner Kasse.,negative,emotions of rejection,anger
+158,GerDracor/baeuerle-die-buerger-in-wien.xml,11517,11536,"Oh, Sie Goldmensch!",positive,emotions of rejection,"hate, disgust"
+159,GerDracor/baeuerle-die-buerger-in-wien.xml,11537,11569,Drum lassen Sie nur mich machen.,negative,emotions of affection,anger
+160,GerDracor/baeuerle-die-buerger-in-wien.xml,11570,11662,"Sie sollen mein Katherl
+                 Da kommt sie eben selbst; wie reizend sie aussieht!",positive,emotions of affection,love
+161,GerDracor/baeuerle-die-buerger-in-wien.xml,11663,11672,Käthchen.,positive,emotional movement,emotional movement
+162,GerDracor/baeuerle-die-buerger-in-wien.xml,11673,11685,Die Vorigen.,positive,emotions of rejection,emotional movement
+163,GerDracor/baeuerle-die-buerger-in-wien.xml,11686,11760,"Liebe Mutter, hier ist ein Brief vom Herrn Vetter, er gehört an den Vater.",negative,emotional movement,emotional movement
+164,GerDracor/baeuerle-die-buerger-in-wien.xml,11761,11850,"Der
+              Tiroler Hans hat ihn gebracht; er will Antwort, was soll ich ihm sagen?",emotional movement,emotional movement,emotional movement
+165,GerDracor/baeuerle-die-buerger-in-wien.xml,11851,11866,Er soll warten.,negative,emotions of rejection,anger
+166,GerDracor/baeuerle-die-buerger-in-wien.xml,11867,11887,"Gut, daß du da bist.",positive,emotions of joy,joy
+167,GerDracor/baeuerle-die-buerger-in-wien.xml,11888,11990,"Tröste nur den Herrn von Müller, er hat um dich
+              angehalten, du sollst seine Frau werden.",positive,emotions of suffering,compassion
+168,GerDracor/baeuerle-die-buerger-in-wien.xml,11991,12023,Der Vater nur willigt nicht ein.,negative,emotions of suffering,suffering
+169,GerDracor/baeuerle-die-buerger-in-wien.xml,12024,12028,Wie?,emotional movement,emotional movement,emotional movement
+170,GerDracor/baeuerle-die-buerger-in-wien.xml,12029,12088,Herr Müller hält um mich an und kennt doch meine Gesinnung.,negative,emotions of affection,friendship
+171,GerDracor/baeuerle-die-buerger-in-wien.xml,12089,12168,"Habe ich Ihnen nicht
+              erklärt, daß ich nie die Ihrige werden will?",negative,emotions of rejection,love
+172,GerDracor/baeuerle-die-buerger-in-wien.xml,12169,12204,Wie können Sie meine Hand begehren?,negative,emotions of affection,emotional movement
+173,GerDracor/baeuerle-die-buerger-in-wien.xml,12205,12209,Wie?,emotional movement,emotional movement,emotional movement
+174,GerDracor/baeuerle-die-buerger-in-wien.xml,12210,12235,Davon weiß ich ja nichts!,negative,emotions of rejection,emotional movement
+175,GerDracor/baeuerle-die-buerger-in-wien.xml,12236,12246,zu Müller.,emotional movement,emotional movement,anger
+176,GerDracor/baeuerle-die-buerger-in-wien.xml,12247,12329,"Glauben Sie, weil Sie ein so kurzes Gedächtnis haben, ich denke auch nicht länger?",emotional movement,emotional movement,emotional movement
+177,GerDracor/baeuerle-die-buerger-in-wien.xml,12344,12372,Sie sind kein Mann für mich.,negative,emotions of rejection,"hate, disgust"
+178,GerDracor/baeuerle-die-buerger-in-wien.xml,12373,12526,"Ich bin jung, Sie sind alt, ich sehe auf das Herz, Sie
+              auf das Geld, ich lebe mit der ganzen Welt in Frieden, Sie mit allen Leuten in Zank.",negative,emotions of rejection,joy
+179,GerDracor/baeuerle-die-buerger-in-wien.xml,12541,12570,Wir passen nicht füreinander.,positive,emotions of affection,love
+180,GerDracor/baeuerle-die-buerger-in-wien.xml,12571,12580,Larifari!,negative,emotions of rejection,anger
+181,GerDracor/baeuerle-die-buerger-in-wien.xml,12581,12593,Redensarten!,negative,emotions of rejection,anger
+182,GerDracor/baeuerle-die-buerger-in-wien.xml,12594,12681,"Sie stellen ja alle Worte so, als wenn sie Ihnen jemand
+              eingelernt hätte.",negative,emotions of rejection,anger
+183,GerDracor/baeuerle-die-buerger-in-wien.xml,12682,12725,"Worte klingen gut, doch Geld klingt besser.",negative,emotions of rejection,joy
+184,GerDracor/baeuerle-die-buerger-in-wien.xml,12726,12766,"Kennen Sie diesen
+              Schmuck?",positive,emotions of affection,emotional movement
+185,GerDracor/baeuerle-die-buerger-in-wien.xml,12768,12805,Er holt einen Schmuck aus der Tasche.,positive,emotional movement,emotional movement
+186,GerDracor/baeuerle-die-buerger-in-wien.xml,12806,12848,"Kind, der Schmuck ist tausend Gulden wert!",positive,emotions of affection,emotional movement
+187,GerDracor/baeuerle-die-buerger-in-wien.xml,12849,12867,"Pfui, Herr Müller!",negative,emotions of rejection,"hate, disgust"
+188,GerDracor/baeuerle-die-buerger-in-wien.xml,12868,12911,"Vorher haßte ich Sie, nun verachte ich Sie.",negative,emotions of rejection,"hate, disgust"
+189,GerDracor/baeuerle-die-buerger-in-wien.xml,12912,13027,"Glauben Sie, ich sei
+              so elend, daß ich um einen Schmuck meine ehrlichen Gesinnungen verkaufen könnte?",negative,emotional movement,"hate, disgust"
+190,GerDracor/baeuerle-die-buerger-in-wien.xml,13042,13204,"Denken Sie besser von mir; nehmen Sie Ihren Schmuck augenblicklich zurück und lernen
+              Sie ehren, was für eine Wienerin der größte Schmuck ist:  kalt.",negative,emotions of rejection,suffering
+191,GerDracor/baeuerle-die-buerger-in-wien.xml,13205,13240,"Ei, Sie deklamieren ja allerliebst!",positive,emotions of joy,joy
+192,GerDracor/baeuerle-die-buerger-in-wien.xml,13241,13283,"Ich spielte Komödie, wenn ich wie du wäre!",positive,emotions of rejection,Schadenfreude
+193,GerDracor/baeuerle-die-buerger-in-wien.xml,13284,13338,"Liebe Mutter, diese Anmerkung habe ich nicht verdient.",negative,emotions of suffering,suffering
+194,GerDracor/baeuerle-die-buerger-in-wien.xml,13339,13433,"Ich muß Herrn Müller die reine
+              Wahrheit sagen, die feinen Stiche fühlt er nicht.",negative,emotions of suffering,anger
+195,GerDracor/baeuerle-die-buerger-in-wien.xml,13434,13464,"Mit einem Wort, es muß heraus!",negative,emotions of rejection,anger
+196,GerDracor/baeuerle-die-buerger-in-wien.xml,13465,13557,"Diese Phrasen kommen alle von dem saubern Dichter her,
+              der ihr die Cour macht.",negative,emotions of rejection,anger
+197,GerDracor/baeuerle-die-buerger-in-wien.xml,13558,13603,Der Kerl hat keinen ganzen Groschen im Sacke.,negative,emotions of rejection,anger
+198,GerDracor/baeuerle-die-buerger-in-wien.xml,13604,13708,"Er hat Herz und Kopf, und das ist etwas, was Sie mit all Ihrem Geld nicht erkaufen
+              können.",positive,emotions of affection,friendship
+199,GerDracor/baeuerle-die-buerger-in-wien.xml,13709,13790,"Das Mädel red't wie ein Buch, aber ich wünschte, sie spräche doch lieber wie ich.",negative,emotions of rejection,"hate, disgust"
+200,GerDracor/baeuerle-die-buerger-in-wien.xml,13808,13827,Hastig zu Käthchen.,emotional movement,emotional movement,emotional movement
+201,GerDracor/baeuerle-die-buerger-in-wien.xml,13828,13862,"Faßt sich
+                schnell.",emotional movement,emotional movement,emotional movement
+202,GerDracor/baeuerle-die-buerger-in-wien.xml,13863,13871,Redlich.,negative,emotions of affection,anger
+203,GerDracor/baeuerle-die-buerger-in-wien.xml,13872,13877,Hans.,positive,emotional movement,emotional movement
+204,GerDracor/baeuerle-die-buerger-in-wien.xml,13878,13885,Vorige.,positive,emotions of rejection,emotional movement
+205,GerDracor/baeuerle-die-buerger-in-wien.xml,13886,13932,Warum laßt ihr den Menschen da draußen stehen?,negative,emotions of suffering,emotional movement
+206,GerDracor/baeuerle-die-buerger-in-wien.xml,13933,13993,"Er hat einen Brief an mich abgegeben,
+              sagt er.",negative,emotional movement,suffering
+207,GerDracor/baeuerle-die-buerger-in-wien.xml,13994,14011,Wo ist der Brief?,emotional movement,emotional movement,emotional movement
+208,GerDracor/baeuerle-die-buerger-in-wien.xml,14012,14043,"Hier, er ist von meinem Bruder!",positive,emotions of joy,joy
+209,GerDracor/baeuerle-die-buerger-in-wien.xml,14044,14069,bricht ihn auf und liest.,emotional movement,emotional movement,emotional movement
+210,GerDracor/baeuerle-die-buerger-in-wien.xml,14070,14117,Dein Herr will eine schriftliche Antwort haben?,emotional movement,emotional movement,anger
+211,GerDracor/baeuerle-die-buerger-in-wien.xml,14118,14132,Lieber Himmel!,positive,emotions of fear,fear
+212,GerDracor/baeuerle-die-buerger-in-wien.xml,14133,14169,Zum Schreiben bin  Warum denn nicht?,emotional movement,emotional movement,emotional movement
+213,GerDracor/baeuerle-die-buerger-in-wien.xml,14170,14266,"Ich bin ja ein Tiroler und vierzig Jahre alt, hab also den
+              Schnalzer schon g'hört!",negative,emotions of rejection,anger
+214,GerDracor/baeuerle-die-buerger-in-wien.xml,14267,14455,"Nun, so sag deinem Herrn, was er in dem Brief hier verlangt, das kann nicht
+              geschehen, wir sind quitt miteinander, das beweist meines Schwiegervaters
+              Testament.",positive,emotions of affection,anger
+215,GerDracor/baeuerle-die-buerger-in-wien.xml,14456,14506,"Er hat das Seinige, mein Weib hat auch das Ihrige.",positive,emotions of affection,love
+216,GerDracor/baeuerle-die-buerger-in-wien.xml,14507,14553,"Vom Herauszahlen ist keine
+              Rede.",negative,emotions of rejection,anger
+217,GerDracor/baeuerle-die-buerger-in-wien.xml,14554,14593,Das wird meinem Herrn keine Freud sein.,negative,emotions of joy,suffering
+218,GerDracor/baeuerle-die-buerger-in-wien.xml,14594,14630,Er hat auf das Geld schon gerechnet.,negative,emotions of rejection,anger
+219,GerDracor/baeuerle-die-buerger-in-wien.xml,14631,14710,"Da hat er, obschon er selbst ein Wirt ist, doch die Rechnung ohne Wirt gemacht.",negative,emotions of rejection,anger
+220,GerDracor/baeuerle-die-buerger-in-wien.xml,14711,14756,"Ich
+              bezahle nichts mehr zurück.",negative,emotions of rejection,anger
+221,GerDracor/baeuerle-die-buerger-in-wien.xml,14757,14783,Von was ist denn die Rede?,emotional movement,emotional movement,emotional movement
+222,GerDracor/baeuerle-die-buerger-in-wien.xml,14784,14942,"Dein Bruder findet in deines Vaters Verlassenschaft noch einen Schein über
+              fünfhundert Gulden, die uns der Selige vor sechs Jahren geliehen hat.",positive,emotional movement,joy
+223,GerDracor/baeuerle-die-buerger-in-wien.xml,14943,15220,"In seinem
+              Testamente steht nun ausdrücklich, alles, was der Vater während seinen Lebzeiten
+              seinen Kindern geliehen hat, soll nach seinem Tode als geschenkt angesehen werden, und
+              nun will dein Bruder die fünfhundert Gulden zurück haben.",negative,emotions of rejection,anger
+224,GerDracor/baeuerle-die-buerger-in-wien.xml,15221,15334,"Daraus wird nichts, sag ihm
+              das, Hansel, ich berufe mich auf das Testament und zahle nichts zurück.",negative,emotions of rejection,anger
+225,GerDracor/baeuerle-die-buerger-in-wien.xml,15335,15367,Ich will's ihm schon ausrichten.,negative,emotions of joy,anger
+226,GerDracor/baeuerle-die-buerger-in-wien.xml,15368,15391,Ich bin halt übel dran.,negative,emotions of suffering,suffering
+227,GerDracor/baeuerle-die-buerger-in-wien.xml,15392,15406,Wieso denn du?,emotional movement,emotional movement,emotional movement
+228,GerDracor/baeuerle-die-buerger-in-wien.xml,15407,15481,"Nun, das Geld hätt er mir geschenkt, weil ich ehrlich bei ihm gedient hab.",positive,emotions of rejection,admiration
+229,GerDracor/baeuerle-die-buerger-in-wien.xml,15482,15485,So?,emotional movement,emotional movement,emotional movement
+230,GerDracor/baeuerle-die-buerger-in-wien.xml,15486,15634,"Mein Schwager will also, wie 's Sprichwort sagt, den reichen Leuten das Leder
+              stehlen, um den Armen die Schuh daraus machen zu lassen?",emotional movement,emotions of rejection,anger
+231,GerDracor/baeuerle-die-buerger-in-wien.xml,15635,15659,Mich geht das nichts an!,negative,emotions of rejection,anger
+232,GerDracor/baeuerle-die-buerger-in-wien.xml,15660,15700,Wenn ich nur woanders ein Geld herbekäm!,negative,emotions of suffering,anger
+233,GerDracor/baeuerle-die-buerger-in-wien.xml,15701,15785,"Ich hab eine kranke
+              Mutter in Linz, für die hätt ich's Geld gebraucht.",negative,emotions of suffering,suffering
+234,GerDracor/baeuerle-die-buerger-in-wien.xml,15786,15835,"Mir ist leid, da mußt du dir schon anders helfen.",negative,emotions of suffering,compassion
+235,GerDracor/baeuerle-die-buerger-in-wien.xml,15836,15909,"Sag ihm, er soll dich besser
+              bedenken, und komm wieder her.",negative,emotions of suffering,compassion
+236,GerDracor/baeuerle-die-buerger-in-wien.xml,15910,15920,Ist recht.,positive,emotions of joy,joy
+237,GerDracor/baeuerle-die-buerger-in-wien.xml,15921,15938,Nichts für ungut.,negative,emotions of suffering,compassion
+238,GerDracor/baeuerle-die-buerger-in-wien.xml,15939,15956,B'hüt Gott indes.,positive,emotions of affection,fear
+239,GerDracor/baeuerle-die-buerger-in-wien.xml,15958,15966,Geht ab.,negative,emotions of rejection,emotional movement
+240,GerDracor/baeuerle-die-buerger-in-wien.xml,15967,15984,Vorige ohne Hans.,negative,emotions of joy,suffering
+241,GerDracor/baeuerle-die-buerger-in-wien.xml,15985,16002,erblickt Müllern.,emotional movement,emotions of rejection,emotional movement
+242,GerDracor/baeuerle-die-buerger-in-wien.xml,16003,16010,Servus!,positive,emotions of joy,joy
+243,GerDracor/baeuerle-die-buerger-in-wien.xml,16011,16061,"Hätte bald nicht die Ehre gehabt, Sie auszunehmen.",negative,emotions of rejection,"hate, disgust"
+244,GerDracor/baeuerle-die-buerger-in-wien.xml,16062,16084,Was steht zu Diensten?,emotional movement,emotions of affection,emotional movement
+245,GerDracor/baeuerle-die-buerger-in-wien.xml,16099,16232,"Apropos, bald hätt ich vergessen – aus der Heirat wird nichts, das wird Ihnen meine
+              Frau vielleicht schon gesagt haben.",negative,emotions of suffering,suffering
+246,GerDracor/baeuerle-die-buerger-in-wien.xml,16233,16294,"Ja, nicht ohne Verdruß habe ich von Ihrem Eigensinn erfahren.",negative,emotions of rejection,anger
+247,GerDracor/baeuerle-die-buerger-in-wien.xml,16295,16451,"Nicht Eigensinn, sondern eigenen Sinn, mein Herr; Sie müssen mir's nicht übelnehmen,
+              wenn ich so offenherzig bin, aber Sie gefallen mir nicht.",positive,emotions of suffering,suffering
+248,GerDracor/baeuerle-die-buerger-in-wien.xml,16452,16548,"Sie sind kein guter Mensch,
+              kein guter Untertan – Sie sind ein schlechter Patriot.",negative,emotions of rejection,"hate, disgust"
+249,GerDracor/baeuerle-die-buerger-in-wien.xml,16549,16575,Wer kann mir das beweisen?,positive,emotions of fear,anger
+250,GerDracor/baeuerle-die-buerger-in-wien.xml,16576,16599,"Beweisen, nun beweisen!",negative,emotions of fear,anger
+251,GerDracor/baeuerle-die-buerger-in-wien.xml,16600,16623,Das möchte schwer sein!,negative,emotions of suffering,suffering
+252,GerDracor/baeuerle-die-buerger-in-wien.xml,16624,16727,"Ihr Herren wißt euch schon so zu
+              benehmen, daß man euch eigentlich nie was beweisen kann.",negative,emotions of rejection,anger
+253,GerDracor/baeuerle-die-buerger-in-wien.xml,16728,16812,"Aber ich habe so meine
+              gewissen Kennzeichen und brauche keinen Beweis.",negative,emotions of affection,anger
+254,GerDracor/baeuerle-die-buerger-in-wien.xml,16813,16841,Mit Ihnen bin ich im klaren!,positive,emotions of joy,friendship
+255,GerDracor/baeuerle-die-buerger-in-wien.xml,16842,16871,Kommen Sie auf etwas anderes!,negative,emotional movement,emotional movement
+256,GerDracor/baeuerle-die-buerger-in-wien.xml,16872,16890,Auf meine Tochter?,emotional movement,emotional movement,emotional movement
+257,GerDracor/baeuerle-die-buerger-in-wien.xml,16891,16910,Ist mir auch recht.,positive,emotions of joy,joy
+258,GerDracor/baeuerle-die-buerger-in-wien.xml,16911,17082,"Also rundheraus gesagt, die können Sie nicht
+              haben, und wie mir scheint, macht sie gerade auch kein Gesicht, als wenn sie darüber
+              traurig wäre.",negative,emotions of suffering,love
+259,GerDracor/baeuerle-die-buerger-in-wien.xml,17083,17119,"O lieber Vater, nicht im geringsten.",negative,emotions of suffering,suffering
+260,GerDracor/baeuerle-die-buerger-in-wien.xml,17120,17204,"Ich hab diesem Herrn schon oft erklärt, daß ich
+              ihn nicht leiden kann.",negative,emotions of rejection,"hate, disgust"
+261,GerDracor/baeuerle-die-buerger-in-wien.xml,17205,17213,lächelt.,positive,emotions of joy,joy
+262,GerDracor/baeuerle-die-buerger-in-wien.xml,17214,17217,So?,emotional movement,emotional movement,emotional movement
+263,GerDracor/baeuerle-die-buerger-in-wien.xml,17218,17271,"Und dennoch sind Sie noch so keck, um sie anzuhalten?",emotional movement,emotions of rejection,emotional movement
+264,GerDracor/baeuerle-die-buerger-in-wien.xml,17272,17325,Kinder haben ja keinen Willen – die Mama ist mir gut.,positive,emotions of affection,joy
+265,GerDracor/baeuerle-die-buerger-in-wien.xml,17326,17349,Die Mama ist Ihnen gut?,positive,emotions of affection,emotional movement
+266,GerDracor/baeuerle-die-buerger-in-wien.xml,17350,17499,"– Nun, so heiraten Sie die Mama, denn wenn sie fortfährt,
+              solchen Leuten, wie Sie sind, gut zu sein, so wird sie mich bald losbekommen.",negative,emotions of rejection,anger
+267,GerDracor/baeuerle-die-buerger-in-wien.xml,17500,17536,Sie sind heute nicht gut disponiert.,negative,emotions of rejection,joy
+268,GerDracor/baeuerle-die-buerger-in-wien.xml,17537,17596,"Eine Wolke des Mißmuts überzieht Ihr
+              Gesicht.",negative,emotions of suffering,suffering
+269,GerDracor/baeuerle-die-buerger-in-wien.xml,17597,17657,"Ja, Sie haben recht, es ist ein Ungewitter bei mir in Anzug!",negative,emotions of joy,fear
+270,GerDracor/baeuerle-die-buerger-in-wien.xml,17658,17712,"Geben Sie acht, daß es
+              nicht einschlagt.",negative,emotions of joy,fear
+271,GerDracor/baeuerle-die-buerger-in-wien.xml,17713,17772,"Sie wissen gar nicht, warum mich Ihre Mamsell Tochter haßt.",negative,emotions of rejection,"hate, disgust"
+272,GerDracor/baeuerle-die-buerger-in-wien.xml,17773,17870,"Ist mir gleichgültig, ich will Ihre hassenswerten Eigenschaften nicht
+              kennenlernen.",negative,emotions of rejection,"hate, disgust"
+273,GerDracor/baeuerle-die-buerger-in-wien.xml,17871,17906,Sie liebt den saubern Dichter Berg.,positive,emotions of affection,love
+274,GerDracor/baeuerle-die-buerger-in-wien.xml,17908,17916,Boshaft.,negative,emotions of rejection,anger
+275,GerDracor/baeuerle-die-buerger-in-wien.xml,17917,17937,Lassen Sie den Witz.,negative,emotions of rejection,anger
+276,GerDracor/baeuerle-die-buerger-in-wien.xml,17938,17983,Sie können doch diesen Dichter nie erreichen.,negative,emotions of affection,love
+277,GerDracor/baeuerle-die-buerger-in-wien.xml,17984,18016,Freilich hab ich keine Schulden.,negative,emotions of rejection,suffering

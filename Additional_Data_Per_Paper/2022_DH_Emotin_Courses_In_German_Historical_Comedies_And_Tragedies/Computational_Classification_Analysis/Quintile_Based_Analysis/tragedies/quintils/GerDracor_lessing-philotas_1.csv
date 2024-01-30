@@ -1,0 +1,217 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/lessing-philotas.xml,0,49, Die Szene ist ein Zelt in dem Lager des Aridäus.,negative,emotional movement,suffering
+1,GerDracor/lessing-philotas.xml,50,79,So bin ich wirklich gefangen?,positive,emotions of fear,emotional movement
+2,GerDracor/lessing-philotas.xml,80,91,– Gefangen!,negative,emotions of fear,fear
+3,GerDracor/lessing-philotas.xml,92,157,"– Ein würdiger Anfang meiner kriegerischen
+            Lehrjahre!",positive,emotions of joy,joy
+4,GerDracor/lessing-philotas.xml,158,173,– O ihr Götter!,negative,emotions of fear,suffering
+5,GerDracor/lessing-philotas.xml,174,187,O mein Vater!,emotional movement,emotions of fear,suffering
+6,GerDracor/lessing-philotas.xml,188,255,"– Wie gern überredte ich mich, daß alles ein
+            Traum sei!",negative,emotions of suffering,joy
+7,GerDracor/lessing-philotas.xml,256,372,"Meine frühste Kindheit hat nie etwas anders, als Waffen, und Läger, und
+            Schlachten und Stürme geträumet.",positive,emotions of joy,joy
+8,GerDracor/lessing-philotas.xml,373,447,"Könnte der Jüngling nicht von Verlust und Entwaffnung
+            träumen?",negative,emotions of fear,suffering
+9,GerDracor/lessing-philotas.xml,448,479,"– Schmeichle dir nur, Philotas!",positive,emotions of rejection,anger
+10,GerDracor/lessing-philotas.xml,480,592,"Wenn ich sie nicht sähe, nicht fühlte, die
+            Wunde, durch die der erstarrten Hand das Schwerd entsank!",negative,emotions of suffering,suffering
+11,GerDracor/lessing-philotas.xml,593,646,"– Man hat sie mir wider Willen
+            verbunden.",negative,emotions of suffering,suffering
+12,GerDracor/lessing-philotas.xml,647,701,O der grausamen Barmherzigkeit eines listigen Feindes!,negative,emotions of suffering,"hate, disgust"
+13,GerDracor/lessing-philotas.xml,702,781,"Sie ist nicht tödlich,
+            sagte der Arzt, und glaubte mich zu trösten.",negative,emotions of suffering,joy
+14,GerDracor/lessing-philotas.xml,782,824,"– Nichtswürdiger, sie sollte tödlich sein!",negative,emotions of rejection,anger
+15,GerDracor/lessing-philotas.xml,837,868,"– Und nur eine Wunde, nur eine!",negative,emotions of suffering,compassion
+16,GerDracor/lessing-philotas.xml,869,1037,"– Wüßte ich, daß ich sie tödlich machte, wenn ich sie
+            wieder aufriß, und wieder verbinden ließ, und wieder aufriß – Ich rase, ich
+            Unglücklicher!",negative,emotions of suffering,despair
+17,GerDracor/lessing-philotas.xml,1038,1166,"– Und was für ein höhnisches Gesicht – itzt fällt mir es ein – mir der
+            alte Krieger machte, der mich vom Pferde riß!",negative,emotions of rejection,anger
+18,GerDracor/lessing-philotas.xml,1167,1188,Er nannte mich: Kind!,negative,emotions of rejection,love
+19,GerDracor/lessing-philotas.xml,1189,1275,"– Auch sein König
+            muß mich für ein Kind, für ein verzärteltes Kind halten.",negative,emotions of rejection,"hate, disgust"
+20,GerDracor/lessing-philotas.xml,1276,1335,"In was für ein Zelt hat er mich
+            bringen lassen!",negative,emotions of rejection,anger
+21,GerDracor/lessing-philotas.xml,1336,1384,"Aufgeputzt, mit allen Bequemlichkeiten versehen!",negative,emotions of joy,admiration
+22,GerDracor/lessing-philotas.xml,1385,1446,"Es muß einer von seinen
+            Beischläferinnen gehören.",negative,emotions of affection,"hate, disgust"
+23,GerDracor/lessing-philotas.xml,1447,1487,Ein ekler Aufenthalt für einen Soldaten!,negative,emotions of rejection,"hate, disgust"
+24,GerDracor/lessing-philotas.xml,1488,1550,"Und anstatt bewacht
+            zu werden, werde ich bedienet.",negative,emotions of affection,suffering
+25,GerDracor/lessing-philotas.xml,1551,1578,Hohnsprechende Höflichkeit!,negative,emotions of rejection,anger
+26,GerDracor/lessing-philotas.xml,1579,1588,– Strato.,emotional movement,emotions of rejection,emotional movement
+27,GerDracor/lessing-philotas.xml,1589,1598,Philotas.,emotional movement,emotions of rejection,emotional movement
+28,GerDracor/lessing-philotas.xml,1599,1631,Prinz – Schon wieder ein Besuch?,emotional movement,emotional movement,emotional movement
+29,GerDracor/lessing-philotas.xml,1632,1659,"Alter, ich bin gern allein.",negative,emotions of affection,suffering
+30,GerDracor/lessing-philotas.xml,1660,1719,"Prinz, ich komme auf Befehl des Königs – Ich verstehe dich!",positive,emotional movement,fear
+31,GerDracor/lessing-philotas.xml,1720,2071,"Es ist wahr, ich bin deines Königs Gefangener, und es stehet bei
+            ihm, wie er mir will begegnen lassen – Aber höre, wenn du der bist, dessen Miene du
+            trägst – bist du ein alter ehrlicher Kriegsmann, so nimm dich meiner an, und bitte den
+            König, daß er mir als einem Soldaten, und nicht als einem Weibe begegnen lasse.",negative,emotions of suffering,despair
+32,GerDracor/lessing-philotas.xml,2072,2126,"Er wird gleich bei dir sein; ich komme, ihn zu melden.",positive,emotions of joy,anger
+33,GerDracor/lessing-philotas.xml,2127,2145,Der König bei mir?,emotional movement,emotional movement,emotional movement
+34,GerDracor/lessing-philotas.xml,2146,2175,"und du kömmst, ihn zu melden?",negative,emotions of rejection,anger
+35,GerDracor/lessing-philotas.xml,2176,2298,"– Ich will nicht, daß er mir eine von
+            den Erniedrigungen erspare, die sich ein Gefangener muß gefallen lassen.",negative,emotions of rejection,anger
+36,GerDracor/lessing-philotas.xml,2299,2337,"– Komm, führe
+            mich zu ihm!",positive,emotions of rejection,anger
+37,GerDracor/lessing-philotas.xml,2338,2408,"Nach dem Schimpfe entwaffnet zu sein, ist mir nichts mehr schimpflich.",negative,emotions of rejection,anger
+38,GerDracor/lessing-philotas.xml,2409,2486,"Prinz, deine Bildung, voll jugendlicher Anmut, verspricht ein sanftres Gemüt.",positive,emotions of affection,admiration
+39,GerDracor/lessing-philotas.xml,2487,2518,Laß meine Bildung unverspottet!,negative,emotions of rejection,anger
+40,GerDracor/lessing-philotas.xml,2519,2610,"Dein Gesicht voll Narben ist freilich ein schöners
+            Gesicht – – Bei den Göttern!",positive,emotions of suffering,suffering
+41,GerDracor/lessing-philotas.xml,2611,2630,eine große Antwort!,positive,emotional movement,emotional movement
+42,GerDracor/lessing-philotas.xml,2631,2665,Ich muß dich bewundern und lieben.,positive,emotions of affection,love
+43,GerDracor/lessing-philotas.xml,2666,2725,"Möchtest du doch, wenn du mich nur erst gefürchtet hättest.",negative,emotions of fear,fear
+44,GerDracor/lessing-philotas.xml,2726,2746,Immer heldenmütiger!,positive,emotions of affection,admiration
+45,GerDracor/lessing-philotas.xml,2747,2852,"Wir haben den schrecklichsten Feind vor uns, wenn unter seiner
+            Jugend der Philotas viel sind.",negative,emotions of fear,"hate, disgust"
+46,GerDracor/lessing-philotas.xml,2853,2874,Schmeichle mir nicht!,positive,emotions of rejection,anger
+47,GerDracor/lessing-philotas.xml,2875,2974,"– Euch schrecklich zu werden, müssen sie mit meinen Gesinnungen
+            größre Taten verbinden.",negative,emotions of rejection,"hate, disgust"
+48,GerDracor/lessing-philotas.xml,2975,3006,– Darf ich deinen Namen wissen?,negative,emotional movement,emotional movement
+49,GerDracor/lessing-philotas.xml,3007,3014,Strato.,emotional movement,emotions of rejection,emotional movement
+50,GerDracor/lessing-philotas.xml,3015,3022,Strato?,emotional movement,emotional movement,emotional movement
+51,GerDracor/lessing-philotas.xml,3023,3075,"Der tapfre Strato, der meinen Vater am Lykus schlug?",emotional movement,emotional movement,admiration
+52,GerDracor/lessing-philotas.xml,3076,3123,– Gedenke mir dieses zweideutigen Sieges nicht!,negative,emotions of suffering,suffering
+53,GerDracor/lessing-philotas.xml,3124,3196,"Und wie blutig rächte sich dein Vater in
+            der Ebene Methymna!",negative,emotions of suffering,"hate, disgust"
+54,GerDracor/lessing-philotas.xml,3197,3234,So ein Vater muß so einen Sohn haben.,negative,emotions of affection,"hate, disgust"
+55,GerDracor/lessing-philotas.xml,3235,3348,"O dir darf ich es klagen, du würdigster der Feinde meines Vaters, dir darf ich mein
+            Schicksal klagen.",negative,emotions of suffering,suffering
+56,GerDracor/lessing-philotas.xml,3349,3534,"– Nur du kannst mich ganz verstehen; denn auch dich, auch dich hat das
+            herrschende Feuer der Ehre, der Ehre fürs Vaterland zu bluten, in deiner Jugend
+            verzehret.",negative,emotions of suffering,love
+57,GerDracor/lessing-philotas.xml,3535,3564,"Wärest du sonst, was du bist?",negative,emotions of rejection,emotional movement
+58,GerDracor/lessing-philotas.xml,3565,3694,"– Wie habe ich ihn nicht, meinen Vater, seit
+            sieben Tagen  Ich bin unwillig; du hättest mich nicht so bewegen sollen.",negative,emotions of rejection,anger
+59,GerDracor/lessing-philotas.xml,3695,3767,"– Ich werde mit dir zum
+            Kinde – Nein; höre, warum ich weine!",negative,emotions of suffering,suffering
+60,GerDracor/lessing-philotas.xml,3768,3999,"Es ist kein kindisches Weinen, das du mit deiner
+            männlichen Träne zu begleiten würdigest – Was ich für mein größtes Glück hielt, die
+            zärtliche Liebe, mit der mich mein Vater liebt, wird mein größtes Unglück.",negative,emotions of suffering,suffering
+61,GerDracor/lessing-philotas.xml,4000,4082,"Ich fürchte,
+            ich fürchte; er liebt mich mehr, als er sein Reich liebt!",positive,emotions of affection,love
+62,GerDracor/lessing-philotas.xml,4083,4221,"Wozu wird er sich nicht
+            verstehen, was wird ihm dein König nicht abdringen, mich aus der Gefangenschaft zu
+            retten!",negative,emotions of rejection,"hate, disgust"
+63,GerDracor/lessing-philotas.xml,4222,4396,"Durch mich Elenden, wird er an einem Tage mehr verlieren, als er in drei langen
+            mühsamen Jahren, durch das Blut seiner Edeln, durch sein eignes Blut gewonnen hat.",negative,emotions of suffering,suffering
+64,GerDracor/lessing-philotas.xml,4397,4514,"Mit
+            was für einem Angesichte soll ich wieder vor ihm erscheinen; ich, sein schlimmster
+            Feind?",negative,emotions of rejection,"hate, disgust"
+65,GerDracor/lessing-philotas.xml,4515,4750,"Und meines Vaters Untertanen – künftig einmal die meinigen, wenn ich sie zu
+            regieren, mich würdig gemacht hätte – wie werden sie den ausgelösten Prinzen ohne die
+            spöttischste Verachtung unter sich dulden können?",negative,emotions of rejection,"hate, disgust"
+66,GerDracor/lessing-philotas.xml,4751,5058,"Wann ich denn vor Scham sterbe und
+            unbetauert hinab zu den Schatten schleiche, wie finster und stolz werden die Seelen der
+            Helden bei mir vorbei ziehen, die dem Könige die Vorteile mit ihrem Leben erkaufen
+            mußten, deren er sich als Vater für einen unwürdigen Sohn begibt.",negative,emotions of rejection,"hate, disgust"
+67,GerDracor/lessing-philotas.xml,5059,5126,"– O das ist mehr als
+            eine fühlende Seele ertragen kann!",positive,emotions of suffering,suffering
+68,GerDracor/lessing-philotas.xml,5127,5152,"Fasse dich, lieber Prinz!",emotional movement,emotional movement,fear
+69,GerDracor/lessing-philotas.xml,5153,5267,"Es ist der Fehler des Jünglings, sich immer für glücklicher,
+            oder unglücklicher zu halten, als er ist.",negative,emotions of suffering,suffering
+70,GerDracor/lessing-philotas.xml,5268,5392,"Dein Schicksal ist so grausam noch nicht; der
+            König nähert sich, und du wirst aus seinem Munde mehr Trost hören.",negative,emotions of suffering,joy
+71,GerDracor/lessing-philotas.xml,5393,5407,König Aridäus.,emotional movement,emotions of rejection,emotional movement
+72,GerDracor/lessing-philotas.xml,5408,5417,Philotas.,emotional movement,emotions of rejection,emotional movement
+73,GerDracor/lessing-philotas.xml,5418,5425,Strato.,emotional movement,emotions of rejection,emotional movement
+74,GerDracor/lessing-philotas.xml,5426,5533,"Kriege, die Könige unter sich zu führen gezwungen werden, sind keine persönliche
+            Feindschaften.",negative,emotions of rejection,"hate, disgust"
+75,GerDracor/lessing-philotas.xml,5534,5565,"– Laß dich umarmen, mein Prinz!",positive,emotions of affection,joy
+76,GerDracor/lessing-philotas.xml,5566,5641,"O welcher glücklichen Tage erinnert mich
+            deine blühende Jugend!",positive,emotions of joy,joy
+77,GerDracor/lessing-philotas.xml,5642,5677,So blühte die Jugend deines Vaters!,positive,emotions of joy,joy
+78,GerDracor/lessing-philotas.xml,5678,5790,"Dies war sein offenes,
+            sprechendes Auge; dies seine ernste, redliche Miene; dies sein edler Anstand!",positive,emotions of affection,admiration
+79,GerDracor/lessing-philotas.xml,5791,5874,"– Noch
+            einmal laß dich umarmen; ich umarme deinen jüngern Vater in dir.",positive,emotions of affection,love
+80,GerDracor/lessing-philotas.xml,5875,5975,"– Hast du es nie von
+            ihm gehört, Prinz, wie vertraute Freunde wir in deinem Alter waren?",positive,emotions of affection,friendship
+81,GerDracor/lessing-philotas.xml,5976,6068,"Das war das selige
+            Alter, da wir uns noch ganz unserm Herzen überlassen durften.",positive,emotions of joy,joy
+82,GerDracor/lessing-philotas.xml,6069,6211,"Bald aber wurden wir beide
+            zum Throne gerufen, und der sorgende König, der eifersüchtige Nachbar unterdrückte,
+            leider!",negative,emotions of suffering,love
+83,GerDracor/lessing-philotas.xml,6212,6234,den gefälligen Freund.,positive,emotions of affection,friendship
+84,GerDracor/lessing-philotas.xml,6235,6313,"– Verzeih, o König, wenn du mich in Erwiderung so süßer Worte zu kalt findest.",negative,emotions of suffering,suffering
+85,GerDracor/lessing-philotas.xml,6314,6380,"Man hat
+            meine Jugend denken, aber nicht reden gelehrt.",negative,emotions of rejection,suffering
+86,GerDracor/lessing-philotas.xml,6381,6466,"– Was kann es mir itzt helfen, daß du und
+            mein Vater einst Freunde waren?",negative,emotions of affection,friendship
+87,GerDracor/lessing-philotas.xml,6467,6493,Waren: so sagst du selbst.,negative,emotions of rejection,anger
+88,GerDracor/lessing-philotas.xml,6494,6676,"Der Haß, den man auf
+            verloschne Freundschaft pfropfet, muß, unter allen, die tödlichsten Früchte bringen; –
+            oder ich kenne das menschliche Herz noch zu wenig.",negative,emotions of rejection,"hate, disgust"
+89,GerDracor/lessing-philotas.xml,6677,6754,"– Verzögere daher, König, verzögere
+            meine Verzweiflung nur nicht.",negative,emotions of fear,despair
+90,GerDracor/lessing-philotas.xml,6755,6903,"Du hast als der höfliche Staatsmann gesprochen; sprich nun
+            als der Monarch, der den Nebenbuhler seiner Größe, ganz in seiner Gewalt hat.",negative,emotions of rejection,admiration
+91,GerDracor/lessing-philotas.xml,6904,6978,"O laß ihn, König, die Ungewißheit seines Schicksals nicht länger peinigen.",negative,emotions of suffering,fear
+92,GerDracor/lessing-philotas.xml,6979,6999,"– Ich danke, Strato!",positive,emotions of joy,joy
+93,GerDracor/lessing-philotas.xml,7000,7128,"– Ja, laß mich es nur gleich hören, wie verabscheuungswürdig du
+            einen unglücklichen Sohn seinem Vater machen willst.",negative,emotions of rejection,"hate, disgust"
+94,GerDracor/lessing-philotas.xml,7129,7218,"Mit welchem schimpflichen Frieden,
+            mit wie viel Ländern soll er ihn erkaufen?",emotional movement,emotions of rejection,emotional movement
+95,GerDracor/lessing-philotas.xml,7219,7302,"Wie klein und verächtlich soll er werden, um
+            nicht verwaist zu bleiben?",negative,emotions of rejection,"hate, disgust"
+96,GerDracor/lessing-philotas.xml,7303,7318,– O mein Vater!,negative,emotions of fear,suffering
+97,GerDracor/lessing-philotas.xml,7319,7383,"– Auch diese frühe, männliche Sprache, Prinz, war deines Vaters!",negative,emotions of joy,love
+98,GerDracor/lessing-philotas.xml,7384,7406,So höre ich dich gern!,positive,emotions of joy,joy
+99,GerDracor/lessing-philotas.xml,7419,7463,"Und möchte, meiner nicht  Wie meinst du das?",negative,emotional movement,emotional movement
+100,GerDracor/lessing-philotas.xml,7464,7571,"– Die Götter – ich bin es überzeugt – wachen für unsere Tugend, wie sie für unser Leben
+            wachen.",positive,emotions of affection,admiration
+101,GerDracor/lessing-philotas.xml,7572,7649,"Die so lang als mögliche Erhaltung beider, ist ihr geheimes, ewiges Geschäft.",positive,emotions of affection,love
+102,GerDracor/lessing-philotas.xml,7650,7869,"Wo
+            weiß ein Sterblicher, wie böse er im Grunde ist, wie schlecht er handeln würde, ließen
+            sie jeden verführerischen Anlaß, sich durch kleine Taten zu beschimpfen, ganz auf ihn
+            wirken?",negative,emotions of rejection,anger
+103,GerDracor/lessing-philotas.xml,7870,8399,"– Ja, Prinz, vielleicht wäre ich der, den du mich glaubst; vielleicht hätte ich
+            nicht edel genug gedacht, das wunderliche Kriegesglück, das dich mir in die Hände
+            liefert, bescheiden zu nützen; vielleicht würde ich durch dich ertrotzt haben, was ich
+            zu erfechten nicht länger wagen mögen; vielleicht – Doch fürchte nichts; allen diesen
+            Vielleicht hat eine höhere Macht vorgebauet; ich kann deinen Vater seinen Sohn nicht
+            teurer erkaufen lassen, als – durch den meinigen.",positive,emotions of fear,fear
+104,GerDracor/lessing-philotas.xml,8400,8413,Ich erstaune!,emotional movement,emotional movement,emotional movement
+105,GerDracor/lessing-philotas.xml,8414,8500,"Du gibst mir zu verstehen – Daß mein Sohn deines Vaters Gefangener ist, wie du meiner.",negative,emotions of rejection,suffering
+106,GerDracor/lessing-philotas.xml,8501,8527,– Dein Sohn meines Vaters?,emotional movement,emotional movement,emotional movement
+107,GerDracor/lessing-philotas.xml,8528,8543,Dein Polytimet?,positive,emotional movement,emotional movement
+108,GerDracor/lessing-philotas.xml,8544,8556,– Seit wenn?,negative,emotional movement,emotional movement
+109,GerDracor/lessing-philotas.xml,8557,8561,Wie?,emotional movement,emotional movement,emotional movement
+110,GerDracor/lessing-philotas.xml,8562,8565,Wo?,emotional movement,emotional movement,emotional movement
+111,GerDracor/lessing-philotas.xml,8566,8593,So wollt' es das Schicksal!,negative,emotions of suffering,suffering
+112,GerDracor/lessing-philotas.xml,8594,8704,"Aus gleichen Waagschalen nahm es auf einmal gleiche
+            Gewichte, und die Schalen blieben noch gleich.",emotional movement,emotions of rejection,joy
+113,GerDracor/lessing-philotas.xml,8705,8738,Du willst nähere Umstände wissen.,negative,emotional movement,anger
+114,GerDracor/lessing-philotas.xml,8739,8951,"– Eben dasselbe Geschwader, dem du zu hitzig entgegen
+            eiltest, führte Polytimet; und als dich die Deinigen verloren erblickten, erhob sie Wut
+            und Verzweiflung über alle menschliche Stärke.",negative,emotions of rejection,"hate, disgust"
+115,GerDracor/lessing-philotas.xml,8952,9065,"Sie brachen ein, und alle stürmten sie
+            auf den einen, in welchem sie ihres Verlustes Ersetzung sahen.",negative,emotions of rejection,fear
+116,GerDracor/lessing-philotas.xml,9066,9084,Das Ende weißt du.,negative,emotions of fear,despair
+117,GerDracor/lessing-philotas.xml,9085,9317,"– Nun
+            nimm noch von einem alten Soldaten die Lehre an: Der Angriff ist kein Wettrennen; nicht
+            der, welcher zuerst, sondern welcher zum sichersten auf den Feind trifft, hat sich dem
+            Siege genähert.",positive,emotions of joy,anger
+118,GerDracor/lessing-philotas.xml,9318,9421,"Das merke dir, zu feuriger Prinz; sonst möchte der werdende Held im
+            ersten Keime ersticken.",positive,emotions of affection,Schadenfreude
+119,GerDracor/lessing-philotas.xml,9422,9522,"Strato, du machst den Prinzen, durch deine, zwar freundschaftliche, Warnung
+            verdrüßlich.",negative,emotions of rejection,anger
+120,GerDracor/lessing-philotas.xml,9523,9547,Wie finster er da steht!,negative,emotions of rejection,anger
+121,GerDracor/lessing-philotas.xml,9548,9560,– Nicht das!,negative,emotions of rejection,anger
+122,GerDracor/lessing-philotas.xml,9561,9666,"Aber laßt mich; in tiefe Anbetung der Vorsicht verloren – Die beste Anbetung, Prinz, ist dankende Freude.",positive,emotions of joy,admiration
+123,GerDracor/lessing-philotas.xml,9667,9682,Ermuntere dich!,negative,emotions of suffering,anger
+124,GerDracor/lessing-philotas.xml,9683,9754,"Wir Väter wollen uns
+            unsere Söhne nicht lange vorenthalten.",positive,emotions of affection,love
+125,GerDracor/lessing-philotas.xml,9755,9856,"Mein Herold hält sich bereits fertig; er soll
+            gehen, und die Auswechselung beschleunigen.",negative,emotions of rejection,emotional movement
+126,GerDracor/lessing-philotas.xml,9857,9968,"Aber du weißt wohl, freudige Nachrichten,
+            die wir allein vom Feinde erfahren, scheinen Fallstricke.",positive,emotions of rejection,fear
+127,GerDracor/lessing-philotas.xml,9969,10049,"Man könnte argwohnen, du seist
+            vielleicht an deiner Wunde gestorben.",negative,emotions of suffering,suffering
+128,GerDracor/lessing-philotas.xml,10050,10170,"Es wird daher nötig sein, daß du selbst, mit dem
+            Herolde einen unverdächtigen Boten an deinen Vater sendest.",negative,emotions of rejection,anger
+129,GerDracor/lessing-philotas.xml,10171,10184,Komm mit mir!,negative,emotions of fear,fear
+130,GerDracor/lessing-philotas.xml,10185,10276,"Suche dir
+            einen unter den Gefangenen, den du deines Vertrauens würdigen kannst.",positive,emotions of affection,friendship

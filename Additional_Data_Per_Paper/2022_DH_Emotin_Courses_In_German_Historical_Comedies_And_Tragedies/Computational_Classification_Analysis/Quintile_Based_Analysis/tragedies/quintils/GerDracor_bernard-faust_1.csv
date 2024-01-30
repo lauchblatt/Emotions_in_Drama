@@ -1,0 +1,282 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/bernard-faust.xml,0,24, Allegro vivace (C dur).,positive,emotions of joy,joy
+1,GerDracor/bernard-faust.xml,25,47,Largo e grave (E dur).,negative,emotions of suffering,suffering
+2,GerDracor/bernard-faust.xml,48,86,Tempo Imo (c moll) Platz zu Straßburg.,negative,emotional movement,emotional movement
+3,GerDracor/bernard-faust.xml,87,160,"Im Hintergrund ein erleuchtetes Haus, aus welchem Musik
+          ertönt.",positive,emotions of joy,joy
+4,GerDracor/bernard-faust.xml,161,286,"Bediente mit Fackeln oder Laternen gehen über die Bühne nach dem erleuchteten
+            Hause, ihre Herrschaften abzuholen.",negative,emotions of fear,joy
+5,GerDracor/bernard-faust.xml,287,398,"Reichgekleidete Herren und Damen treten in Gruppen
+            aus demselben und verlieren sich in den Straßen.",emotional movement,emotional movement,emotional movement
+6,GerDracor/bernard-faust.xml,400,403,Nr.,negative,emotions of rejection,emotional movement
+7,GerDracor/bernard-faust.xml,404,406,1.,positive,emotions of rejection,emotional movement
+8,GerDracor/bernard-faust.xml,407,420,Introduction.,positive,emotional movement,emotional movement
+9,GerDracor/bernard-faust.xml,421,438,Menuetto (C dur).,positive,emotions of joy,anger
+10,GerDracor/bernard-faust.xml,439,466,(Musik hinter dem Theater.),emotional movement,emotional movement,anger
+11,GerDracor/bernard-faust.xml,467,477,Recitativ.,positive,emotional movement,emotional movement
+12,GerDracor/bernard-faust.xml,478,535,In Sinnenlust so sinnlos leben: Welch' elend Gaukelspiel!,negative,emotions of joy,"hate, disgust"
+13,GerDracor/bernard-faust.xml,536,621,"Hinweg mit Schmaus und Tanz, Mit diesen schalen Festen, Geweiht der Völlerei, hinweg!",negative,emotions of rejection,"hate, disgust"
+14,GerDracor/bernard-faust.xml,622,749,"Du hast in reicher Ueppigkeit Den Abend königlich verschwelget Und schmähst nun diese Feste, Die lüstern du heute noch gesucht.",negative,emotions of rejection,"hate, disgust"
+15,GerDracor/bernard-faust.xml,750,757,Hinweg!,negative,emotions of rejection,anger
+16,GerDracor/bernard-faust.xml,758,912,Mit ekler Sättigung beladen sie Und lassen wüst und leer das Herz; Ersticken jedes höhere Gefühl Und löschen in der Seele aus Seufzend nach oben blickend.,negative,emotions of suffering,suffering
+17,GerDracor/bernard-faust.xml,913,942,Das heißerglühende Verlangen.,negative,emotional movement,emotional movement
+18,GerDracor/bernard-faust.xml,943,961,War das mein Ziel?,positive,emotions of fear,emotional movement
+19,GerDracor/bernard-faust.xml,962,984,mit verbissenem Grimm.,negative,emotions of rejection,anger
+20,GerDracor/bernard-faust.xml,985,1117,"Der Erdenwurm, kaum aus dem Schlamm hervorgekrochen, Will droben baden im Aetherglanz des Himmels Und schmausen an der Götter Tafel.",positive,emotions of rejection,joy
+21,GerDracor/bernard-faust.xml,1118,1128,aufgeregt.,emotional movement,emotional movement,emotional movement
+22,GerDracor/bernard-faust.xml,1129,1178,"Was  Das, Verworfener, zu fassen ist dir versagt.",negative,emotions of rejection,"hate, disgust"
+23,GerDracor/bernard-faust.xml,1179,1241,"D'rum mußt du ihn hassen, beneiden, herabzieh'n und verderben!",negative,emotions of rejection,"hate, disgust"
+24,GerDracor/bernard-faust.xml,1242,1307,"Doch, Menschheit, sei getrost, Ich will dich rächen an der Hölle!",negative,emotions of rejection,"hate, disgust"
+25,GerDracor/bernard-faust.xml,1308,1317,höhnisch.,negative,emotions of rejection,anger
+26,GerDracor/bernard-faust.xml,1318,1341,Mich faßt Verwunderung!,emotional movement,emotional movement,emotional movement
+27,GerDracor/bernard-faust.xml,1342,1362,Was werd' ich hören?,negative,emotional movement,emotional movement
+28,GerDracor/bernard-faust.xml,1363,1404,"O sag' es schnell, was Hohes du ersonnen!",negative,emotions of rejection,anger
+29,GerDracor/bernard-faust.xml,1405,1411,Duett.,positive,emotions of affection,love
+30,GerDracor/bernard-faust.xml,1412,1416,(Ha!,emotional movement,emotional movement,emotional movement
+31,GerDracor/bernard-faust.xml,1417,1475,"du wähntest, armer Thor, Mich mit nied'rer Lust zu fangen?",positive,emotions of suffering,compassion
+32,GerDracor/bernard-faust.xml,1476,1531,Zu betäuben dies Verlangen Durch der Sinne lauten Chor?,negative,emotions of suffering,suffering
+33,GerDracor/bernard-faust.xml,1532,1596,"Armer  (Bettlerstolzer, eitler  Mich mit Menschenlist zu fangen!",negative,emotions of suffering,compassion
+34,GerDracor/bernard-faust.xml,1597,1661,"Wohl versteh' ich dein Verlangen, Doch die Hölle kommt dir vor.)",negative,emotions of fear,suffering
+35,GerDracor/bernard-faust.xml,1662,1680,zu Mephistopheles.,negative,emotions of rejection,anger
+36,GerDracor/bernard-faust.xml,1681,1761,"Ja, es soll mir Wonne schaffen, Euch zu schlagen mit  Die mir bietet eure Macht!",positive,emotions of affection,joy
+37,GerDracor/bernard-faust.xml,1763,1796,Zum Guten will ich sie verwenden!,positive,emotions of affection,friendship
+38,GerDracor/bernard-faust.xml,1797,1804,Gebeut!,negative,emotions of suffering,fear
+39,GerDracor/bernard-faust.xml,1805,1830,und Alles ist vollbracht!,positive,emotions of joy,joy
+40,GerDracor/bernard-faust.xml,1831,1841,ergriffen.,negative,emotional movement,fear
+41,GerDracor/bernard-faust.xml,1842,1944,"Den Mangel will ich reich begaben, Mit Lust der Menschheit Elend laben, Sie lösen aus der Leiden Acht!",positive,emotions of joy,joy
+42,GerDracor/bernard-faust.xml,1945,2014,"Ich muß was dir gefällt vollzieh'n, So lang' du Herr, ich Diener bin.",positive,emotions of affection,admiration
+43,GerDracor/bernard-faust.xml,2015,2026,begeistert.,positive,emotions of joy,joy
+44,GerDracor/bernard-faust.xml,2027,2146,"Und eine Mahlzeit will ich halten, Wie sie die Welt noch nie gesehn, Die Lust soll da als  Das Elend hin zu Gaste gehn.",positive,emotions of joy,joy
+45,GerDracor/bernard-faust.xml,2147,2174,Es soll ihm einmal  schlau.,negative,emotions of joy,anger
+46,GerDracor/bernard-faust.xml,2175,2274,(Versuche dich in  Wenn du dem  Das Beste wird dir  Das  Du strafst dich selbst durch deinen Wahn!),negative,emotions of rejection,"hate, disgust"
+47,GerDracor/bernard-faust.xml,2275,2278,Nr.,negative,emotions of rejection,emotional movement
+48,GerDracor/bernard-faust.xml,2279,2281,2.,positive,emotions of joy,suffering
+49,GerDracor/bernard-faust.xml,2282,2292,Recitativ.,positive,emotional movement,emotional movement
+50,GerDracor/bernard-faust.xml,2293,2300,Wohlan!,positive,emotions of suffering,joy
+51,GerDracor/bernard-faust.xml,2301,2332,Hinweg aus diesem Sinnentaumel!,negative,emotions of rejection,anger
+52,GerDracor/bernard-faust.xml,2333,2357,"Nun, und wohin zunächst?",emotional movement,emotional movement,emotional movement
+53,GerDracor/bernard-faust.xml,2358,2365,feurig.,positive,emotions of affection,anger
+54,GerDracor/bernard-faust.xml,2366,2463,"Zu ihr, zu Röschen, Die sich mit reiner, unschuldsvoller Liebe Vertrauensvoll in meine Arme warf.",positive,emotions of affection,love
+55,GerDracor/bernard-faust.xml,2464,2489,Du wirst willkommen sein.,positive,emotions of joy,joy
+56,GerDracor/bernard-faust.xml,2490,2545,"Seit ihre Mutter Dem Tod erlag, lebt sie ja nur in dir!",positive,emotions of affection,love
+57,GerDracor/bernard-faust.xml,2546,2593,An meiner Brust soll sie den Schmerz vergessen.,negative,emotions of suffering,suffering
+58,GerDracor/bernard-faust.xml,2594,2679,Das könnte wohl auch ohne dich geschehen: Es warb der junge Goldschmied Franz um sie!,positive,emotions of affection,love
+59,GerDracor/bernard-faust.xml,2680,2698,Ihr Herz ist mein!,positive,emotions of affection,love
+60,GerDracor/bernard-faust.xml,2699,2713,halb für sich.,negative,emotions of suffering,suffering
+61,GerDracor/bernard-faust.xml,2714,2731,O arme Kunigunde!,negative,emotions of suffering,compassion
+62,GerDracor/bernard-faust.xml,2732,2774,Du wirst indeß umsonst nach Hülfe seufzen!,negative,emotions of suffering,suffering
+63,GerDracor/bernard-faust.xml,2775,2832,Bleibst der Begierde deines frechen Räubers Dahingegeben!,negative,emotions of rejection,"hate, disgust"
+64,GerDracor/bernard-faust.xml,2833,2845,entschieden.,positive,emotions of joy,anger
+65,GerDracor/bernard-faust.xml,2846,2871,"Nein, das soll sie nicht!",negative,emotions of rejection,anger
+66,GerDracor/bernard-faust.xml,2872,2893,Doch erst zu Röschen!,positive,emotions of joy,emotional movement
+67,GerDracor/bernard-faust.xml,2894,2913,Rache dann an Gulf!,negative,emotions of rejection,"hate, disgust"
+68,GerDracor/bernard-faust.xml,2914,3023,Ich halte über ihn ein streng Gericht Und führ' befreit die schöne Kunigunde Zurück in ihres treuen Hugo Arm!,positive,emotions of affection,admiration
+69,GerDracor/bernard-faust.xml,3024,3109,"Die That ist schön, doch schöner noch der Dank, Den dir das holde Wesen spenden wird.",positive,emotions of joy,joy
+70,GerDracor/bernard-faust.xml,3110,3125,immer erregter.,emotional movement,emotional movement,emotional movement
+71,GerDracor/bernard-faust.xml,3126,3214,"Wo Noth und Elend ist, da führ' mich hin, Ich will es lindern, will die Frevler strafen.",negative,emotions of rejection,compassion
+72,GerDracor/bernard-faust.xml,3215,3253,"Ja, dies sei meine Rache an der Hölle!",negative,emotions of rejection,"hate, disgust"
+73,GerDracor/bernard-faust.xml,3254,3273,spöttisch lächelnd.,positive,emotions of joy,Schadenfreude
+74,GerDracor/bernard-faust.xml,3274,3315,Da wirst du viel vergebene Arbeit finden.,negative,emotions of rejection,anger
+75,GerDracor/bernard-faust.xml,3316,3319,Ab.,negative,emotional movement,anger
+76,GerDracor/bernard-faust.xml,3320,3323,Nr.,negative,emotions of rejection,emotional movement
+77,GerDracor/bernard-faust.xml,3324,3326,3.,positive,emotions of joy,suffering
+78,GerDracor/bernard-faust.xml,3327,3337,Recitativ.,positive,emotional movement,emotional movement
+79,GerDracor/bernard-faust.xml,3338,3419,"Der Hölle selbst will ich Segen entringen, Und ihre Macht gehorche meinem Spruch!",negative,emotions of rejection,"hate, disgust"
+80,GerDracor/bernard-faust.xml,3420,3508,"Sie soll der Tugend die Belohnung bringen; Nur mich allein, mich treffe einst ihr Fluch!",negative,emotions of rejection,"hate, disgust"
+81,GerDracor/bernard-faust.xml,3509,3588,Will mir die Liebe süße Freuden geben: So ist das Ziel erreicht vom Erdenleben!,positive,emotions of joy,joy
+82,GerDracor/bernard-faust.xml,3589,3594,Arie.,positive,emotions of affection,emotional movement
+83,GerDracor/bernard-faust.xml,3595,3704,"Liebe ist die zarte Blüthe, Die mit süßem Zauberduft, Aufgekeimt in dem Gemüthe, Uns zu sanften Freuden ruft.",positive,emotions of joy,joy
+84,GerDracor/bernard-faust.xml,3705,3813,"Liebe blüht in Röschen's Armen, An der holden Brust; Dort will ich zum Glück erwarmen Und – zur Himmelslust.",positive,emotions of affection,love
+85,GerDracor/bernard-faust.xml,3814,3845,"Doch, woran denk' ich verwegen?",emotional movement,emotional movement,emotional movement
+86,GerDracor/bernard-faust.xml,3846,3999,"Mich flieht der himmlische Segen; Schlangen vom Abgrund, sie zischen herauf, Und die Macht der höllischen Nacht, – Tückisch hemmt sie den freudigen Lauf!",negative,emotions of fear,despair
+87,GerDracor/bernard-faust.xml,4000,4068,Doch selbst der Hölle gräßliches Höhnen  In Wonne in sich versunken.,positive,emotions of affection,joy
+88,GerDracor/bernard-faust.xml,4069,4180,"Liebe ist die zarte Blüthe, Die, mit süßem Zauberduft, Selbst vom Himmel seine Güte Segnend auf uns niederruft!",positive,emotions of affection,love
+89,GerDracor/bernard-faust.xml,4181,4184,Ab.,negative,emotional movement,anger
+90,GerDracor/bernard-faust.xml,4187,4190,Nr.,negative,emotions of rejection,emotional movement
+91,GerDracor/bernard-faust.xml,4191,4193,4.,positive,emotions of suffering,suffering
+92,GerDracor/bernard-faust.xml,4194,4213,Trinklied mit Chor.,positive,emotions of joy,joy
+93,GerDracor/bernard-faust.xml,4214,4276,"Der Wein erfreut des Menschen Herz, Der alte Spruch hat Recht!",positive,emotions of joy,joy
+94,GerDracor/bernard-faust.xml,4277,4348,"Der Wein erweckt zu Lust und Scherz, Macht gleich dem Herrn den Knecht!",positive,emotions of joy,joy
+95,GerDracor/bernard-faust.xml,4349,4444,"D'rum lieben wir nach altem Brauch Den gottgegeb'nen Nektar auch, Den Wein, den Wein, den Wein!",positive,emotions of affection,love
+96,GerDracor/bernard-faust.xml,4445,4607,"D'rum lieben wir nach altem Brauch u. s. w. Er ist des Menschen bester Freund, Er öffnet Herz und Mund, Und wenn es einer übel meint, So macht er's treulich kund.",positive,emotions of affection,friendship
+97,GerDracor/bernard-faust.xml,4608,4703,"D'rum lieben wir nach altem Brauch Den gottgegeb'nen Nektar auch, Den Wein, den Wein, den Wein!",positive,emotions of affection,love
+98,GerDracor/bernard-faust.xml,4704,4768,D'rum lieben wir nach altem Brauch u. s. w. Wo Faust nur bleibt?,positive,emotions of affection,love
+99,GerDracor/bernard-faust.xml,4769,4793,es ist bald Mitternacht!,negative,emotions of fear,fear
+100,GerDracor/bernard-faust.xml,4794,4808,Schweig' doch!,negative,emotions of rejection,anger
+101,GerDracor/bernard-faust.xml,4809,4828,und laß uns singen!,positive,emotions of joy,joy
+102,GerDracor/bernard-faust.xml,4829,4951,"– Doch wer ihm den Respekt versagt Und ihn zu meistern denkt, Der wird von ihm auch baß geplagt Bis er das Fähnlein senkt.",negative,emotions of suffering,suffering
+103,GerDracor/bernard-faust.xml,4953,5013,"Den gottgegeb'nen Nektar auch, Den Wein, den Wein, den Wein!",positive,emotions of joy,joy
+104,GerDracor/bernard-faust.xml,5014,5068,D'rum lieben wir nach altem Brauch u. s. w. Recitativ.,positive,emotions of affection,love
+105,GerDracor/bernard-faust.xml,5069,5089,Der Wein soll leben!,positive,emotions of joy,joy
+106,GerDracor/bernard-faust.xml,5090,5114,"Ja, der Wein soll leben!",positive,emotions of joy,joy
+107,GerDracor/bernard-faust.xml,5115,5179,"Und Faust und unsre Nachbarin, Des Goldschmieds schönes Röschen!",positive,emotions of joy,joy
+108,GerDracor/bernard-faust.xml,5180,5213,Des Goldschmieds schönes Röschen!,positive,emotions of joy,joy
+109,GerDracor/bernard-faust.xml,5214,5253,"Die hält ihn, glaub' ich, endlich fest.",positive,emotions of affection,anger
+110,GerDracor/bernard-faust.xml,5254,5275,"aufstehend, unwillig.",negative,emotions of rejection,anger
+111,GerDracor/bernard-faust.xml,5276,5308,Deshalb so lange hier zu liegen!,negative,emotions of suffering,suffering
+112,GerDracor/bernard-faust.xml,5309,5320,aufstehend.,positive,emotional movement,emotional movement
+113,GerDracor/bernard-faust.xml,5321,5332,Wahr ist's!,positive,emotions of joy,joy
+114,GerDracor/bernard-faust.xml,5333,5390,Wohl gar versäumen wir Die Kaiserkrönung d'rum zu Aachen.,positive,emotions of joy,suffering
+115,GerDracor/bernard-faust.xml,5391,5409,Wenn das nur wäre!,negative,emotions of suffering,compassion
+116,GerDracor/bernard-faust.xml,5410,5501,"Aber glaubt es mir: Wir müssen noch zu Grunde gehen, Wenn wir nicht bald von hinnen ziehen!",negative,emotions of fear,despair
+117,GerDracor/bernard-faust.xml,5502,5540,Faust treibt's ja ärger als ein König.,negative,emotions of rejection,anger
+118,GerDracor/bernard-faust.xml,5541,5648,Die Armen aus der ganzen Stadt Sind reich durch ihn; sich selbst und uns Macht er zuletzt zu Bettlern noch.,negative,emotions of suffering,"hate, disgust"
+119,GerDracor/bernard-faust.xml,5649,5661,Nicht sorge!,negative,emotions of joy,fear
+120,GerDracor/bernard-faust.xml,5662,5676,Geheimnißvoll.,emotional movement,emotional movement,emotional movement
+121,GerDracor/bernard-faust.xml,5677,5707,Er versteht ja Gold zu machen.,positive,emotions of affection,admiration
+122,GerDracor/bernard-faust.xml,5708,5755,Und dann die Liebe zu dem weinerlichen Röschen.,positive,emotions of affection,love
+123,GerDracor/bernard-faust.xml,5756,5767,aufstehend.,positive,emotional movement,emotional movement
+124,GerDracor/bernard-faust.xml,5768,5785,Nichts gegen sie!,negative,emotions of rejection,anger
+125,GerDracor/bernard-faust.xml,5786,5804,Sie ist ein Engel!,positive,emotions of affection,love
+126,GerDracor/bernard-faust.xml,5805,5867,"Doch darum Alles zu vergessen, Was Großes, Schönes er gewollt!",positive,emotions of affection,love
+127,GerDracor/bernard-faust.xml,5868,5938,"Uns hier so müßig liegen lassen, – Nein, das ertrag' ich länger nicht!",negative,emotions of suffering,suffering
+128,GerDracor/bernard-faust.xml,5939,5950,aufstehend.,positive,emotional movement,emotional movement
+129,GerDracor/bernard-faust.xml,5951,6016,"O schäme dich, des Freundes Thun Zu lästern hinter seinem Rücken!",negative,emotions of rejection,"hate, disgust"
+130,GerDracor/bernard-faust.xml,6017,6146,"Wenn zur Veränd'rung doch 'mal wieder Der Mensch mit grämlichem Gesichte,  Der brächte etwas Leben doch In dieses ew'ge Einerlei!",negative,emotions of rejection,compassion
+131,GerDracor/bernard-faust.xml,6147,6188,"Nicht schmähe ihn, er ist Faust's Freund!",positive,emotions of affection,friendship
+132,GerDracor/bernard-faust.xml,6189,6212,Der Teufel mag er sein!,negative,emotions of rejection,"hate, disgust"
+133,GerDracor/bernard-faust.xml,6213,6259,Der sieht nicht aus wie eines Menschen Freund.,negative,emotions of rejection,"hate, disgust"
+134,GerDracor/bernard-faust.xml,6260,6275,Doch nun genug!,negative,emotions of rejection,anger
+135,GerDracor/bernard-faust.xml,6276,6332,"Ich will's versuchen, Im Schlaf den Aerger zu ersticken.",negative,emotions of rejection,anger
+136,GerDracor/bernard-faust.xml,6333,6363,Durch die linke Seitenthür ab.,negative,emotional movement,suffering
+137,GerDracor/bernard-faust.xml,6364,6372,gähnend.,negative,emotions of suffering,anger
+138,GerDracor/bernard-faust.xml,6374,6384,Folgt ihm.,negative,emotions of fear,fear
+139,GerDracor/bernard-faust.xml,6385,6398,sich dehnend.,emotional movement,emotions of suffering,emotional movement
+140,GerDracor/bernard-faust.xml,6399,6473,"Mit dir allein noch hier zu bleiben, Behagt mir nicht, d'rum – gute Nacht!",negative,emotions of rejection,suffering
+141,GerDracor/bernard-faust.xml,6474,6477,Ab.,negative,emotional movement,anger
+142,GerDracor/bernard-faust.xml,6478,6491,sich setzend.,emotional movement,emotional movement,emotional movement
+143,GerDracor/bernard-faust.xml,6492,6535,Mit ihm  Doch thut ihm Keiner was zu Liebe!,positive,emotions of affection,love
+144,GerDracor/bernard-faust.xml,6536,6545,Ggähnend.,positive,emotions of suffering,Schadenfreude
+145,GerDracor/bernard-faust.xml,6546,6577,Ich werde wachend ihn erwarten!,positive,emotions of joy,joy
+146,GerDracor/bernard-faust.xml,6578,6607,Stützt sich auf den Ellbogen.,emotional movement,emotional movement,suffering
+147,GerDracor/bernard-faust.xml,6608,6673,"Es freut ihn, wenn er spät heimkehrt, Mich munter noch zu finden!",positive,emotions of joy,joy
+148,GerDracor/bernard-faust.xml,6674,6686,Schläft ein.,negative,emotions of suffering,suffering
+149,GerDracor/bernard-faust.xml,6688,6691,Nr.,negative,emotions of rejection,emotional movement
+150,GerDracor/bernard-faust.xml,6692,6694,5.,positive,emotions of joy,joy
+151,GerDracor/bernard-faust.xml,6695,6705,Recitativ.,positive,emotional movement,emotional movement
+152,GerDracor/bernard-faust.xml,6706,6798,"O weine nicht, du holdes Mädchen, Blick' wieder heiter in das Leben, Denn ihm gehörst du an!",positive,emotions of affection,love
+153,GerDracor/bernard-faust.xml,6799,6817,aufwärts blickend.,positive,emotions of joy,joy
+154,GerDracor/bernard-faust.xml,6818,6917,"Der Mutter, die im Grabe schläft, Ihr fließen meine Thränen; – Mein Lebensglück verschwand mit ihr.",negative,emotions of suffering,suffering
+155,GerDracor/bernard-faust.xml,6918,6949,O nimm Ersatz von meiner Liebe.,positive,emotions of affection,love
+156,GerDracor/bernard-faust.xml,6950,6982,Weckt Liebe auch die Todten auf?,positive,emotions of affection,love
+157,GerDracor/bernard-faust.xml,6983,7051,Sie pflanzet Blumen auf die Gräber Und giebt dem Leben neue Freuden.,positive,emotions of joy,joy
+158,GerDracor/bernard-faust.xml,7052,7064,O folge mir!,negative,emotions of fear,fear
+159,GerDracor/bernard-faust.xml,7065,7117,Entfernt von hier  Das höchste Lebensglück erblühen.,positive,emotions of joy,joy
+160,GerDracor/bernard-faust.xml,7118,7141,sich an ihn schmiegend.,positive,emotions of affection,love
+161,GerDracor/bernard-faust.xml,7142,7180,"Ach, dürft' ich deinen Worten glauben!",negative,emotions of affection,suffering
+162,GerDracor/bernard-faust.xml,7181,7220,Bei dir wird milder schon mein Schmerz.,negative,emotions of suffering,suffering
+163,GerDracor/bernard-faust.xml,7221,7268,Doch wenn du mich verlassen könntest – schnell.,negative,emotions of suffering,despair
+164,GerDracor/bernard-faust.xml,7269,7305,Der Tod allein wird mich dir rauben!,negative,emotions of rejection,despair
+165,GerDracor/bernard-faust.xml,7306,7312,Duett.,positive,emotions of affection,love
+166,GerDracor/bernard-faust.xml,7313,7373,"Folg' dem Freunde mit Vertrauen, Auf, erheit're deinen Sinn!",positive,emotions of affection,friendship
+167,GerDracor/bernard-faust.xml,7374,7436,"Fort von hier auf stille Auen Lass' uns froh, Geliebte, ziehn!",positive,emotions of joy,joy
+168,GerDracor/bernard-faust.xml,7437,7563,"Ja, ich folge mit Vertrauen, Furcht und Zweifel schwinden hin, Fort von hier auf stille Auen Werd' ich gern, Geliebter, ziehn!",positive,emotions of fear,love
+169,GerDracor/bernard-faust.xml,7564,7685,"Froh bewegt es mir die Brust, Dort mit dir vereint zu leben, Herz dem Herzen treu ergeben, Reich an Liebe, reich an Lust.",positive,emotions of joy,joy
+170,GerDracor/bernard-faust.xml,7686,7745,Keines Zwanges Fessel bindet Dort uns ferner Aug' und Mund.,positive,emotions of affection,suffering
+171,GerDracor/bernard-faust.xml,7746,7805,"Was die Seele frei empfindet, Thut sie frei und offen kund.",positive,emotions of affection,joy
+172,GerDracor/bernard-faust.xml,7806,7840,"Froh bewegt es mir die Brust, etc.",positive,emotions of joy,joy
+173,GerDracor/bernard-faust.xml,7841,7877,Wollen durch die Mittelthür abgehen.,negative,emotional movement,fear
+174,GerDracor/bernard-faust.xml,7878,7881,Nr.,negative,emotions of rejection,emotional movement
+175,GerDracor/bernard-faust.xml,7882,7884,6.,positive,emotions of joy,suffering
+176,GerDracor/bernard-faust.xml,7885,7895,Recitativ.,positive,emotional movement,emotional movement
+177,GerDracor/bernard-faust.xml,7896,7925,rasch zwischen beide tretend.,emotional movement,emotional movement,emotional movement
+178,GerDracor/bernard-faust.xml,7926,7946,Schnell rettet euch!,negative,emotions of fear,fear
+179,GerDracor/bernard-faust.xml,7947,7959,erschrocken.,emotional movement,emotions of fear,emotional movement
+180,GerDracor/bernard-faust.xml,7960,7986,"O Gott, was ist gescheh'n?",negative,emotional movement,fear
+181,GerDracor/bernard-faust.xml,7987,7996,zu Faust.,negative,emotions of rejection,anger
+182,GerDracor/bernard-faust.xml,7997,8054,"Es dringt bewaffnet Volk heran, Dir Röschen zu entreißen.",negative,emotions of rejection,"hate, disgust"
+183,GerDracor/bernard-faust.xml,8055,8073,Wo berg' ich mich?,emotional movement,emotions of suffering,emotional movement
+184,GerDracor/bernard-faust.xml,8074,8090,Wer rettet mich?,negative,emotions of fear,fear
+185,GerDracor/bernard-faust.xml,8091,8247,"Den Sturm erregte Franzen's Eifersucht, Er klagt dich an, den Tod von Röschen's Mutter herbeigeführt zu haben, Um ungehindert dann die Tochter zu verführen!",negative,emotions of rejection,"hate, disgust"
+186,GerDracor/bernard-faust.xml,8248,8260,vorstürzend.,negative,emotions of fear,fear
+187,GerDracor/bernard-faust.xml,8261,8287,"O Gott, was muß ich hören?",negative,emotions of fear,emotional movement
+188,GerDracor/bernard-faust.xml,8288,8295,zu ihr.,negative,emotional movement,love
+189,GerDracor/bernard-faust.xml,8296,8320,"Beruhige dich, Geliebte!",emotional movement,emotions of affection,compassion
+190,GerDracor/bernard-faust.xml,8321,8351,Zu Mephistopheles Rede leiser!,negative,emotions of rejection,anger
+191,GerDracor/bernard-faust.xml,8352,8387,"thut, als hätte er es nicht gehört.",negative,emotional movement,emotional movement
+192,GerDracor/bernard-faust.xml,8388,8475,"Er sagt: durch Zauber habest du Gewonnen ihre Liebe, Und wollest nun mit ihr entfliehn.",positive,emotions of affection,love
+193,GerDracor/bernard-faust.xml,8476,8487,außer sich.,negative,emotional movement,emotional movement
+194,GerDracor/bernard-faust.xml,8488,8520,O diesen Hohn ertrag' ich nicht!,negative,emotions of suffering,suffering
+195,GerDracor/bernard-faust.xml,8521,8536,ruhig und fest.,emotional movement,emotional movement,emotional movement
+196,GerDracor/bernard-faust.xml,8537,8568,"Vertraue mir, ich schütze dich!",positive,emotions of affection,fear
+197,GerDracor/bernard-faust.xml,8569,8607,Führt Röschen zum rechten Nebenzimmer.,positive,emotions of rejection,emotional movement
+198,GerDracor/bernard-faust.xml,8608,8660,"Verweile hier, ich sorg' indeß Für deine Sicherheit.",negative,emotions of fear,fear
+199,GerDracor/bernard-faust.xml,8661,8672,Röschen ab.,negative,emotional movement,suffering
+200,GerDracor/bernard-faust.xml,8673,8700,herrisch zu Mephistopheles.,negative,emotions of rejection,anger
+201,GerDracor/bernard-faust.xml,8701,8728,"Nun, Sklave, schaffe Hülfe!",negative,emotions of rejection,fear
+202,GerDracor/bernard-faust.xml,8729,8734,kalt.,negative,emotions of suffering,suffering
+203,GerDracor/bernard-faust.xml,8735,8768,"Sag' mir vorher, was hast du vor?",emotional movement,emotions of fear,fear
+204,GerDracor/bernard-faust.xml,8769,8782,entschlossen.,emotional movement,emotions of fear,anger
+205,GerDracor/bernard-faust.xml,8783,8802,Sie wird mein Weib!,positive,emotions of joy,love
+206,GerDracor/bernard-faust.xml,8803,8825,Kannst du noch fragen?,negative,emotional movement,emotional movement
+207,GerDracor/bernard-faust.xml,8826,8918,"Du hast gelobt in unserm Bunde, Mit deinem Blute unterschrieben: Der Ehe Banden zu entsagen.",negative,emotions of affection,love
+208,GerDracor/bernard-faust.xml,8919,8924,fest.,negative,emotions of rejection,anger
+209,GerDracor/bernard-faust.xml,8925,8956,Zerrissen sei der schnöde Bund!,negative,emotions of rejection,suffering
+210,GerDracor/bernard-faust.xml,8957,8966,lächelnd.,positive,emotions of joy,joy
+211,GerDracor/bernard-faust.xml,8967,8980,Du willst es?,positive,emotions of affection,anger
+212,GerDracor/bernard-faust.xml,8982,8991,Höhnisch.,positive,emotions of rejection,anger
+213,GerDracor/bernard-faust.xml,8992,9023,Doch deine Macht hat aufgehört.,negative,emotions of rejection,love
+214,GerDracor/bernard-faust.xml,9024,9095,Schon hör' ich deine Richter nahen; Sie werden dich als Zauberer  Kalt.,negative,emotions of rejection,"hate, disgust"
+215,GerDracor/bernard-faust.xml,9096,9123,Und Röschen stirbt mit dir.,negative,emotions of suffering,suffering
+216,GerDracor/bernard-faust.xml,9124,9144,Geht zur Mittelthür.,negative,emotional movement,suffering
+217,GerDracor/bernard-faust.xml,9145,9173,mit verzweifeltem Entschluß.,negative,emotions of fear,despair
+218,GerDracor/bernard-faust.xml,9174,9180,Bleib!,negative,emotions of fear,fear
+219,GerDracor/bernard-faust.xml,9181,9233,Kannst du Röschen ungesehn In ihre Wohnung schaffen?,positive,emotions of rejection,fear
+220,GerDracor/bernard-faust.xml,9234,9237,Ja!,positive,emotions of joy,anger
+221,GerDracor/bernard-faust.xml,9238,9246,So eile!,negative,emotional movement,emotional movement
+222,GerDracor/bernard-faust.xml,9247,9315,"Doch zuvor beschwör' aufs Neue Den Pakt, den früher wir geschlossen.",positive,emotions of affection,friendship
+223,GerDracor/bernard-faust.xml,9316,9359,Ich schwör' es bei der Hölle ew'gen Qualen.,negative,emotions of suffering,suffering
+224,GerDracor/bernard-faust.xml,9360,9372,unterwürfig.,positive,emotions of affection,admiration
+225,GerDracor/bernard-faust.xml,9373,9411,"Der Herr gebeut, der Knecht vollzieht.",positive,emotions of suffering,anger
+226,GerDracor/bernard-faust.xml,9412,9471,"Ich rette Röschen, du hast die Macht, Dir selbst zu helfen!",positive,emotions of affection,joy
+227,GerDracor/bernard-faust.xml,9472,9482,Rechts ab.,negative,emotional movement,anger
+228,GerDracor/bernard-faust.xml,9483,9507,mit innerer Seelenangst.,negative,emotions of fear,fear
+229,GerDracor/bernard-faust.xml,9508,9568,"Du Einzige, nach der ich rein begehrt, Dich soll ich lassen?",positive,emotions of affection,love
+230,GerDracor/bernard-faust.xml,9569,9576,– Fort!,negative,emotions of rejection,anger
+231,GerDracor/bernard-faust.xml,9577,9607,Die Hölle trennt auf ewig uns!,negative,emotions of fear,"hate, disgust"
+232,GerDracor/bernard-faust.xml,9608,9623,Wagner weckend.,positive,emotions of suffering,emotional movement
+233,GerDracor/bernard-faust.xml,9624,9646,"Wach auf, du Schläfer!",negative,emotions of rejection,anger
+234,GerDracor/bernard-faust.xml,9647,9693,Und weck' die Andern schnell: Wir müssen fort!,negative,emotions of fear,fear
+235,GerDracor/bernard-faust.xml,9694,9729,Wagner eilig ins Nebenzimmer links.,emotional movement,emotional movement,emotional movement
+236,GerDracor/bernard-faust.xml,9730,9739,Ensemble.,positive,emotions of joy,anger
+237,GerDracor/bernard-faust.xml,9740,9821,"Nur der ist frei, der nichts zu lieben hat; Ich hab' entsagt, nun rasch zur That!",negative,emotions of fear,despair
+238,GerDracor/bernard-faust.xml,9823,9840,rasch eintretend.,emotional movement,emotional movement,emotional movement
+239,GerDracor/bernard-faust.xml,9841,9907,"Sieh' uns hier bereit und fertig, Deines Winks zur Fahrt gewärtig.",positive,emotions of fear,joy
+240,GerDracor/bernard-faust.xml,9908,9915,Vorige.,positive,emotions of rejection,emotional movement
+241,GerDracor/bernard-faust.xml,9917,9954,zu den Gerichtsdienern und dem Volke.,negative,emotions of rejection,anger
+242,GerDracor/bernard-faust.xml,9955,9969,Muthig herein!,positive,emotions of fear,fear
+243,GerDracor/bernard-faust.xml,9970,9994,Wir müssen sie befrei'n.,negative,emotions of fear,compassion
+244,GerDracor/bernard-faust.xml,9995,10024,Er soll uns nicht entflieh'n!,positive,emotions of affection,admiration
+245,GerDracor/bernard-faust.xml,10025,10079,"Wir wollen sie befrei'n, Er soll uns nicht entflieh'n!",negative,emotions of affection,friendship
+246,GerDracor/bernard-faust.xml,10080,10095,ihnen entgegen.,positive,emotions of fear,joy
+247,GerDracor/bernard-faust.xml,10096,10114,Was soll das sein?,negative,emotional movement,emotional movement
+248,GerDracor/bernard-faust.xml,10115,10120,Halt!,negative,emotional movement,fear
+249,GerDracor/bernard-faust.xml,10121,10126,Halt!,negative,emotional movement,fear
+250,GerDracor/bernard-faust.xml,10127,10144,"Unsinnige, wohin?",negative,emotions of rejection,emotional movement
+251,GerDracor/bernard-faust.xml,10145,10163,auf Faust deutend.,negative,emotions of rejection,anger
+252,GerDracor/bernard-faust.xml,10164,10252,"Seht, das ist der Zaub'rer hier, Nehmet wohl in Acht die Thür, Laßt ihn nicht entrinnen!",negative,emotions of rejection,fear
+253,GerDracor/bernard-faust.xml,10253,10316,"Einige stellen sich breit vor die Thüre, die Stöcke schwingend.",negative,emotions of fear,joy
+254,GerDracor/bernard-faust.xml,10317,10347,Frei geht er nicht von hinnen!,negative,emotions of rejection,anger
+255,GerDracor/bernard-faust.xml,10348,10372,Ist das Volk von Sinnen?,negative,emotions of fear,emotional movement
+256,GerDracor/bernard-faust.xml,10373,10386,zu dem Volke.,negative,emotions of rejection,suffering
+257,GerDracor/bernard-faust.xml,10387,10424,"Sprecht, was wollt ihr hier beginnen?",emotional movement,emotional movement,emotional movement
+258,GerDracor/bernard-faust.xml,10425,10436,vortretend.,emotional movement,emotional movement,emotional movement
+259,GerDracor/bernard-faust.xml,10437,10520,Durch Zauberei und böses Wesen Habt Ihr Röschen uns entführt; Seine Axt schwingend.,negative,emotions of rejection,"hate, disgust"
+260,GerDracor/bernard-faust.xml,10521,10647,"Wir kommen mit geweihten Waffen, Aus Eurer Macht sie zu erlösen Und den Lohn Euch zu verschaffen, Wie er solcher That gebührt.",positive,emotions of affection,admiration
+261,GerDracor/bernard-faust.xml,10648,10663,Gebt sie 'raus!,negative,emotions of rejection,anger
+262,GerDracor/bernard-faust.xml,10664,10672,drohend.,negative,emotions of rejection,anger
+263,GerDracor/bernard-faust.xml,10673,10688,Gebt sie 'raus!,negative,emotions of rejection,anger
+264,GerDracor/bernard-faust.xml,10689,10714,greifen an die Schwerter.,negative,emotions of fear,anger
+265,GerDracor/bernard-faust.xml,10715,10741,"Auf, wir jagen sie hinaus!",negative,emotions of rejection,anger
+266,GerDracor/bernard-faust.xml,10742,10753,drängt vor.,emotional movement,emotions of rejection,anger
+267,GerDracor/bernard-faust.xml,10754,10769,Gebt sie 'raus!,negative,emotions of rejection,anger
+268,GerDracor/bernard-faust.xml,10770,10785,Gebt sie 'raus!,negative,emotions of rejection,anger
+269,GerDracor/bernard-faust.xml,10786,10813,sich verächtlich abwendend.,negative,emotions of rejection,anger
+270,GerDracor/bernard-faust.xml,10814,10842,Suchet sie bei euch zu Haus.,negative,emotions of affection,love
+271,GerDracor/bernard-faust.xml,10843,10848,fest.,negative,emotions of rejection,anger
+272,GerDracor/bernard-faust.xml,10849,10903,"Nein, verborgen ist sie hier, Oeffnet jene Zimmerthür!",negative,emotions of fear,fear
+273,GerDracor/bernard-faust.xml,10904,10918,Links deutend.,emotional movement,emotional movement,emotional movement
+274,GerDracor/bernard-faust.xml,10919,10926,ebenso.,negative,emotions of suffering,anger
+275,GerDracor/bernard-faust.xml,10927,10951,Oeffnet jene Zimmerthür!,negative,emotions of fear,fear
+276,GerDracor/bernard-faust.xml,10952,10959,öffnet.,emotional movement,emotional movement,emotional movement
+277,GerDracor/bernard-faust.xml,10960,10973,Ist sie hier?,emotional movement,emotional movement,emotional movement

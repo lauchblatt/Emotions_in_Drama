@@ -1,0 +1,554 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/lenz-der-hofmeister.xml,0,26, Zu Insterburg in Preußen.,emotional movement,emotions of affection,suffering
+1,GerDracor/lenz-der-hofmeister.xml,27,79,Mein Vater sagt: ich sei nicht tauglich zum Adjunkt.,negative,emotions of rejection,suffering
+2,GerDracor/lenz-der-hofmeister.xml,80,165,"Ich glaube, der Fehler liegt in
+              seinem Beutel; er will keinen bezahlen.",negative,emotions of rejection,anger
+3,GerDracor/lenz-der-hofmeister.xml,166,343,"Zum Pfaffen bin ich auch zu jung, zu gut
+              gewachsen, habe zu viel Welt gesehn, und bei der Stadtschule hat mich der Geheime Rat
+              nicht annehmen wollen.",negative,emotions of rejection,suffering
+4,GerDracor/lenz-der-hofmeister.xml,344,350,Mag's!,positive,emotions of joy,joy
+5,GerDracor/lenz-der-hofmeister.xml,351,442,"er ist ein Pedant und dem ist freilich der Teufel selber
+              nicht gelehrt genug.",negative,emotions of rejection,anger
+6,GerDracor/lenz-der-hofmeister.xml,443,690,"Im halben Jahr hätt ich doch wieder eingeholt, was ich von der
+              Schule mitgebracht, und dann wär ich für einen Klassenpräzeptor noch immer viel zu
+              gelehrt gewesen, aber der Herr Geheime Rat muß das Ding besser verstehen.",negative,emotions of rejection,anger
+7,GerDracor/lenz-der-hofmeister.xml,691,1056,"Er nennt
+              mich immer nur Monsieur Läuffer, und wenn wir von Leipzig sprechen, fragt er nach
+              Händels Kuchengarten und Richters Kaffeehaus, ich weiß nicht: soll das Satire sein,
+              oder – Ich hab ihn doch mit unserm Konrektor bisweilen tiefsinnig genug diskurieren
+              hören; er sieht mich vermutlich nicht für voll an.",emotional movement,emotional movement,anger
+8,GerDracor/lenz-der-hofmeister.xml,1057,1156,"– Da kommt er eben mit dem Major;
+              ich weiß nicht, ich scheu ihn ärger als den Teufel.",negative,emotions of fear,fear
+9,GerDracor/lenz-der-hofmeister.xml,1157,1234,"Der Kerl hat etwas in seinem
+              Gesicht, das mir unerträglich ist.",negative,emotions of rejection,"hate, disgust"
+10,GerDracor/lenz-der-hofmeister.xml,1236,1329,"Geht dem Geheimen Rat und dem Major mit viel
+                freundlichen Scharrfüßen vorbei.",positive,emotions of affection,friendship
+11,GerDracor/lenz-der-hofmeister.xml,1330,1343,Geheimer Rat.,negative,emotions of rejection,admiration
+12,GerDracor/lenz-der-hofmeister.xml,1344,1350,Major.,positive,emotions of affection,admiration
+13,GerDracor/lenz-der-hofmeister.xml,1351,1370,Was willst du denn?,emotional movement,emotional movement,emotional movement
+14,GerDracor/lenz-der-hofmeister.xml,1371,1412,Ist das nicht ein ganz artiges Männichen?,positive,emotions of affection,admiration
+15,GerDracor/lenz-der-hofmeister.xml,1413,1439,"Artig genug, nur zu artig.",positive,emotions of affection,anger
+16,GerDracor/lenz-der-hofmeister.xml,1440,1476,Aber was soll er deinen Sohn lehren?,negative,emotions of rejection,emotional movement
+17,GerDracor/lenz-der-hofmeister.xml,1477,1539,"Ich weiß nicht, Berg, du tust immer solche wunderliche Fragen.",emotional movement,emotional movement,emotional movement
+18,GerDracor/lenz-der-hofmeister.xml,1540,1556,Nein aufrichtig!,positive,emotions of affection,emotional movement
+19,GerDracor/lenz-der-hofmeister.xml,1557,1718,"du mußt doch eine Absicht haben, wenn du einen Hofmeister nimmst und
+              den Beutel mit einemmal so weit auftust, daß dreihundert Dukaten herausfallen.",positive,emotions of rejection,Schadenfreude
+20,GerDracor/lenz-der-hofmeister.xml,1719,1840,"Sag
+              mir, was meinst du mit dem Geld auszurichten; was foderst du dafür von deinem
+              Hofmeister?",negative,emotional movement,emotional movement
+21,GerDracor/lenz-der-hofmeister.xml,1841,2104,"Daß er – was ich – daß er meinen Sohn in allen Wissenschaften und Artigkeiten und
+              Weltmanieren – Ich weiß auch nicht, was du immer mit deinen Fragen willst; das wird
+              sich schon finden; das werd ich ihm alles schon zu seiner Zeit sagen.",negative,emotions of rejection,anger
+22,GerDracor/lenz-der-hofmeister.xml,2105,2269,"Das heißt: du willst Hofmeister deines Hofmeisters sein; bedenkst du aber auch, was
+              du da auf dich nimmst – Was soll dein Sohn werden, sag mir einmal?",negative,emotional movement,emotional movement
+23,GerDracor/lenz-der-hofmeister.xml,2270,2334,"Was er ... Soldat soll er werden; ein Kerl, wie ich gewesen bin.",negative,emotional movement,anger
+24,GerDracor/lenz-der-hofmeister.xml,2335,2653,"Das letzte laß nur weg, lieber Bruder; unsere Kinder sollen und müssen das nicht
+              werden, was wir waren: die Zeiten ändern sich, Sitten, Umstände, alles, und wenn du
+              nichts mehr und nichts weniger geworden wärst, als das leibhafte Kontrefei deines
+              Eltervaters – – Potz hundert!",negative,emotions of rejection,love
+25,GerDracor/lenz-der-hofmeister.xml,2654,2754,"wenn er Major wird und ein braver Kerl wie ich und dem König so redlich
+              dient als ich!",positive,emotions of affection,admiration
+26,GerDracor/lenz-der-hofmeister.xml,2755,2877,"Ganz gut, aber nach funfzig Jahren haben wir vielleicht einen andern König und eine
+              andre Art ihm zu dienen.",positive,emotions of rejection,joy
+27,GerDracor/lenz-der-hofmeister.xml,2878,3025,"Aber ich seh schon, ich kann mich mit dir in die Sachen nicht
+              einlassen, ich müßte zu weit ausholen und würde doch nichts ausrichten.",negative,emotions of rejection,suffering
+28,GerDracor/lenz-der-hofmeister.xml,3026,3151,"Du siehst
+              immer nur der graden Linie nach, die deine Frau dir mit Kreide über den Schnabel
+              zieht.",negative,emotions of rejection,anger
+29,GerDracor/lenz-der-hofmeister.xml,3152,3184,"Was willst du damit sagen, Berg?",emotional movement,emotional movement,anger
+30,GerDracor/lenz-der-hofmeister.xml,3185,3299,"Ich bitt dich, misch dich nicht in meine
+              Hausangelegenheiten, so wie ich mich nicht in die deinigen.",negative,emotions of rejection,anger
+31,GerDracor/lenz-der-hofmeister.xml,3300,3317,– Aber sieh doch!,positive,emotions of suffering,emotional movement
+32,GerDracor/lenz-der-hofmeister.xml,3318,3501,"da läuft
+              ja  Laß ihn nur – Seine lustigen Spielgesellen werden ihn minder verderben als ein
+              galonierter Müßiggänger, unterstützt von einer eiteln Patronin.",negative,emotions of rejection,anger
+33,GerDracor/lenz-der-hofmeister.xml,3502,3534,Du nimmst dir Freiheiten heraus.,negative,emotions of rejection,anger
+34,GerDracor/lenz-der-hofmeister.xml,3535,3543,– Adieu.,negative,emotions of suffering,suffering
+35,GerDracor/lenz-der-hofmeister.xml,3544,3561,Ich bedaure dich.,negative,emotions of suffering,compassion
+36,GerDracor/lenz-der-hofmeister.xml,3562,3581,Der Majorin Zimmer.,positive,emotions of suffering,emotional movement
+37,GerDracor/lenz-der-hofmeister.xml,3582,3613,Frau Majorin auf einem Kanapee.,negative,emotional movement,suffering
+38,GerDracor/lenz-der-hofmeister.xml,3614,3679,"Läuffer in sehr demütiger Stellung neben ihr
+            sitzend.",negative,emotions of suffering,suffering
+39,GerDracor/lenz-der-hofmeister.xml,3680,3694,Leopold steht.,emotional movement,emotional movement,emotional movement
+40,GerDracor/lenz-der-hofmeister.xml,3695,3851,"Ich habe mit Ihrem Herrn Vater gesprochen und von den dreihundert Dukaten stehenden
+              Gehalts sind wir bis auf hundert und funfzig einig worden.",positive,emotions of affection,joy
+41,GerDracor/lenz-der-hofmeister.xml,3852,3916,"Dafür verlang ich aber auch
+              Herr – Wie heißen Sie?",negative,emotional movement,emotional movement
+42,GerDracor/lenz-der-hofmeister.xml,3917,4024,"– Herr Läuffer, daß Sie sich in Kleidern sauber halten und
+              unserm Hause keine Schande machen.",negative,emotions of rejection,anger
+43,GerDracor/lenz-der-hofmeister.xml,4025,4137,"Ich weiß, daß Sie Geschmack haben; ich habe schon
+              von Ihnen gehört, als Sie noch in Leipzig waren.",positive,emotions of affection,admiration
+44,GerDracor/lenz-der-hofmeister.xml,4138,4262,"Sie wissen, daß man heut zu Tage auf
+              nichts in der Welt so sehr sieht, als ob ein Mensch sich zu führen wisse.",positive,emotions of rejection,"hate, disgust"
+45,GerDracor/lenz-der-hofmeister.xml,4263,4315,"Ich hoff, Euer Gnaden werden mit mir zufrieden sein.",positive,emotions of joy,joy
+46,GerDracor/lenz-der-hofmeister.xml,4316,4460,"Wenigstens hab ich in Leipzig
+              keinen Ball ausgelassen und wohl über die funfzehn Tanzmeister in meinem Leben
+              gehabt.",positive,emotions of joy,joy
+47,GerDracor/lenz-der-hofmeister.xml,4461,4464,So?,emotional movement,emotional movement,emotional movement
+48,GerDracor/lenz-der-hofmeister.xml,4465,4487,lassen Sie doch sehen.,positive,emotions of joy,joy
+49,GerDracor/lenz-der-hofmeister.xml,4489,4507,Läuffer steht auf.,emotional movement,emotional movement,emotional movement
+50,GerDracor/lenz-der-hofmeister.xml,4508,4554,"Ich spiele die Geige, und das Klavier zur Not.",positive,emotions of joy,joy
+51,GerDracor/lenz-der-hofmeister.xml,4555,4784,"Desto besser: wenn wir aufs Land gehn und Fräulein Milchzahn besuchen uns einmal; ich
+              habe bisher ihnen immer was vorsingen müssen, wenn die guten Kinder Lust bekamen zu
+              tanzen: aber besser ist besser.",positive,emotions of joy,joy
+52,GerDracor/lenz-der-hofmeister.xml,4785,4940,"Euer Gnaden setzen mich außer mich: wo wär ein Virtuos auf der Welt, der auf seinem
+              Instrument Euer Gnaden Stimme zu erreichen hoffen dürfte.",negative,emotions of affection,emotional movement
+53,GerDracor/lenz-der-hofmeister.xml,4941,5046,"Ha ha ha, Sie haben mich ja noch nicht gehört ... Warten Sie; ist Ihnen die Menuet
+              bekannt?",positive,emotions of joy,emotional movement
+54,GerDracor/lenz-der-hofmeister.xml,5047,5053,Singt.,positive,emotions of affection,joy
+55,GerDracor/lenz-der-hofmeister.xml,5054,5131,"O ... o ... verzeihen Sie dem Entzücken, dem Enthusiasmus, der mich hinreißt.",positive,emotions of joy,joy
+56,GerDracor/lenz-der-hofmeister.xml,5132,5150,Küßt ihr die Hand.,positive,emotions of affection,admiration
+57,GerDracor/lenz-der-hofmeister.xml,5151,5218,Und ich bin doch enrhumiert dazu; ich muß heut krähen wie ein Rabe.,negative,emotions of joy,emotional movement
+58,GerDracor/lenz-der-hofmeister.xml,5219,5266,"Vous parlez
+              français, sans doute?",negative,emotional movement,emotional movement
+59,GerDracor/lenz-der-hofmeister.xml,5267,5282,"Un peu, Madame.",negative,emotions of suffering,emotional movement
+60,GerDracor/lenz-der-hofmeister.xml,5285,5358,"Vous devez donc savoir, qu'en France on ne baise pas les mains, mon cher!",positive,emotions of affection,joy
+61,GerDracor/lenz-der-hofmeister.xml,5359,5376,... tritt herein.,emotional movement,emotional movement,emotional movement
+62,GerDracor/lenz-der-hofmeister.xml,5377,5424,Der Graf Wermuth ... Graf Wermuth tritt herein.,emotional movement,emotional movement,emotional movement
+63,GerDracor/lenz-der-hofmeister.xml,5425,5495,nach einigen stummen Komplimenten setzt sich zur Majorin aufs Kanapee.,positive,emotions of affection,admiration
+64,GerDracor/lenz-der-hofmeister.xml,5496,5541,"Läuffer
+              bleibt verlegen stehen.",negative,emotional movement,emotional movement
+65,GerDracor/lenz-der-hofmeister.xml,5542,5623,"Haben Euer Gnaden den neuen Tanzmeister schon gesehn, der aus Dresden angekommen?",positive,emotions of joy,joy
+66,GerDracor/lenz-der-hofmeister.xml,5624,5785,"Er
+              ist ein Marchese aus Florenz und heißt ... Aufrichtig: ich habe nur zwei auf meinen
+              Reisen angetroffen, die ihm vorzuziehen waren.",emotional movement,emotions of affection,admiration
+67,GerDracor/lenz-der-hofmeister.xml,5786,5811,"Das gesteh ich, nur zwei!",positive,emotions of suffering,suffering
+68,GerDracor/lenz-der-hofmeister.xml,5812,5927,"In der Tat, Sie machen mich neugierig; ich weiß, welchen
+              verzärtelten Geschmack der Graf Wermuth hat.",emotional movement,emotional movement,emotional movement
+69,GerDracor/lenz-der-hofmeister.xml,5928,5954,Pintinello ... nicht wahr?,positive,emotions of joy,joy
+70,GerDracor/lenz-der-hofmeister.xml,5955,6084,"ich hab ihn in Leipzig auf dem Theater tanzen sehen; er
+              tanzt nicht sonderlich ... Er tanzt – on ne peut pas mieux.",positive,emotions of affection,suffering
+71,GerDracor/lenz-der-hofmeister.xml,6085,6482,"– Wie ich Ihnen sage, gnädige Frau, in Petersburg
+              hab ich einen Beluzzi gesehn, der ihm vorzuziehen war: aber dieser hat eine
+              Leichtigkeit in seinen Füßen, so etwas Freies, Göttlichnachlässiges in seiner
+              Stellung, in seinen Armen, in seinen Wendungen – – Auf dem Kochischen Theater ward er ausgepfiffen, als er sich das letztemal sehen
+              ließ.",negative,emotions of affection,"hate, disgust"
+72,GerDracor/lenz-der-hofmeister.xml,6483,6509,"Merk Er sich, mein Freund!",positive,emotions of affection,friendship
+73,GerDracor/lenz-der-hofmeister.xml,6510,6592,"daß Domestiken in Gesellschaften von Standespersonen nicht
+              mitreden.",negative,emotions of rejection,suffering
+74,GerDracor/lenz-der-hofmeister.xml,6593,6616,Geh Er auf Sein Zimmer.,negative,emotions of rejection,anger
+75,GerDracor/lenz-der-hofmeister.xml,6617,6637,Wer hat Ihn gefragt?,emotional movement,emotional movement,emotional movement
+76,GerDracor/lenz-der-hofmeister.xml,6638,6675,Läuffer tritt einige Schritte zurück.,emotional movement,emotional movement,emotional movement
+77,GerDracor/lenz-der-hofmeister.xml,6676,6737,"Vermutlich der Hofmeister, den Sie dem jungen Herrn bestimmt?",negative,emotions of rejection,emotional movement
+78,GerDracor/lenz-der-hofmeister.xml,6738,6784,... Er kommt ganz frisch von der hohen Schule.,emotional movement,emotions of joy,emotional movement
+79,GerDracor/lenz-der-hofmeister.xml,6785,6798,– Geh Er nur!,negative,emotions of fear,fear
+80,GerDracor/lenz-der-hofmeister.xml,6799,6899,"Er hört ja, daß man von Ihm
+              spricht; desto weniger schickt es sich, stehen zu bleiben.",positive,emotions of rejection,suffering
+81,GerDracor/lenz-der-hofmeister.xml,6901,6962,"Läuffer geht mit
+                einem steifen Kompliment ab.",positive,emotions of affection,admiration
+82,GerDracor/lenz-der-hofmeister.xml,6963,7091,"Ich glaube, sein Vater ist der Prediger hier aus dem Ort ... Ich weiß nicht – es kann sein – ich habe nicht  Ist's ein Katholik?",emotional movement,emotional movement,emotional movement
+83,GerDracor/lenz-der-hofmeister.xml,7092,7258,"Nein doch, Sie wissen ja, daß in Insterburg keine katholische Kirche ist: er ist
+              lutherisch, oder protestantisch wollt ich sagen; er ist protestantisch.",emotional movement,emotions of rejection,anger
+84,GerDracor/lenz-der-hofmeister.xml,7259,7441,"Pintinello tanzt ... Es ist wahr, ich habe mir mein Tanzen einige dreißig tausend
+              Gulden kosten lassen, aber noch einmal so viel gäb ich drum, wenn ... Läuffers Zimmer.",emotional movement,emotional movement,emotional movement
+85,GerDracor/lenz-der-hofmeister.xml,7442,7450,Läuffer.,negative,emotions of joy,emotional movement
+86,GerDracor/lenz-der-hofmeister.xml,7451,7459,Leopold.,positive,emotional movement,emotional movement
+87,GerDracor/lenz-der-hofmeister.xml,7460,7470,Der Major.,positive,emotional movement,admiration
+88,GerDracor/lenz-der-hofmeister.xml,7471,7569,"Erstere sitzen an einem Tisch, ein Buch in der Hand,
+            indem sie der letztere überfällt.",negative,emotions of rejection,emotional movement
+89,GerDracor/lenz-der-hofmeister.xml,7570,7820,"So recht; so lieb ich's; hübsch fleißig – und wenn die Kanaille nicht behalten will,
+              Herr Läuffer, so schlagen Sie ihm das Buch an den Kopf, daß er's Aufstehen vergißt,
+              oder wollt ich sagen, so dürfen Sie mir's nur klagen.",negative,emotions of affection,anger
+90,GerDracor/lenz-der-hofmeister.xml,7821,7884,"Ich will dir den Kopf zurecht
+              setzen, Heiduck du!",negative,emotions of rejection,anger
+91,GerDracor/lenz-der-hofmeister.xml,7885,7924,Seht da zieht er das Maul schon wieder.,negative,emotions of rejection,anger
+92,GerDracor/lenz-der-hofmeister.xml,7925,7986,"Bist empfindlich, wenn dir
+              dein Vater was sagt?",emotional movement,emotional movement,emotional movement
+93,GerDracor/lenz-der-hofmeister.xml,7987,8013,Wer soll dir's denn sagen?,emotional movement,emotions of rejection,anger
+94,GerDracor/lenz-der-hofmeister.xml,8014,8137,"Du sollst mir anders werden, oder ich
+              will dich peitschen, daß dir die Eingeweide krachen sollen, Tuckmäuser!",negative,emotions of rejection,anger
+95,GerDracor/lenz-der-hofmeister.xml,8138,8297,"Und Sie, Herr,
+              sein Sie fleißig mit ihm, das bitt ich mir aus, und kein Feriieren und Pausieren und
+              Rekreïeren, das leid ich nicht.",negative,emotions of suffering,anger
+96,GerDracor/lenz-der-hofmeister.xml,8298,8387,"Zum Plunder, vom Arbeiten wird kein Mensch das Malum
+              hydropisiacum kriegen.",negative,emotions of rejection,"hate, disgust"
+97,GerDracor/lenz-der-hofmeister.xml,8388,8436,Das sind nur Ausreden von euch Herren Gelehrten.,negative,emotions of rejection,anger
+98,GerDracor/lenz-der-hofmeister.xml,8437,8490,"– Wie steht's,
+              kann er seinen Cornelio?",positive,emotional movement,emotional movement
+99,GerDracor/lenz-der-hofmeister.xml,8491,8498,Lippel!,negative,emotions of rejection,anger
+100,GerDracor/lenz-der-hofmeister.xml,8499,8567,"ich bitt dich um tausend Gottes willen, den Kopf
+              grad.",negative,emotions of fear,fear
+101,GerDracor/lenz-der-hofmeister.xml,8569,8581,Richtet ihn.,positive,emotions of suffering,suffering
+102,GerDracor/lenz-der-hofmeister.xml,8582,8638,Der Herr Major verzeihen: er kann kaum Lateinisch lesen.,negative,emotions of suffering,suffering
+103,GerDracor/lenz-der-hofmeister.xml,8639,8643,Was?,emotional movement,emotional movement,emotional movement
+104,GerDracor/lenz-der-hofmeister.xml,8644,9196,"So hat der Racker vergessen – Der vorige Hofmeister hat mir doch gesagt, er sei
+              perfekt im Lateinischen, perfekt ... Hat er's ausgeschwitzt – aber ich will dir – Ich
+              will es nicht einmal vor Gottes Gericht zu verantworten haben, daß ich dir keinen
+              Daumen aufs Auge gesetzt habe und daß ein Galgendieb aus dir geworden ist wie der
+              junge Hufeise oder wie deines Onkels Friedrich, eh du mir so ein gassenläuferischer
+              Taugenichts – Ich will dich zu Tode hauen –  Gibt ihm eine Ohrfeige.",negative,emotions of rejection,anger
+105,GerDracor/lenz-der-hofmeister.xml,9197,9217,Stampft mit dem Fuß.,negative,emotions of rejection,anger
+106,GerDracor/lenz-der-hofmeister.xml,9218,9250,"Leopold
+                geht ab.",negative,emotions of rejection,fear
+107,GerDracor/lenz-der-hofmeister.xml,9251,9285,Major setzt sich auf seinen Stuhl.,emotional movement,emotional movement,emotional movement
+108,GerDracor/lenz-der-hofmeister.xml,9286,9298,Zu Läuffern.,negative,emotions of suffering,emotional movement
+109,GerDracor/lenz-der-hofmeister.xml,9299,9324,Vier hundert und zwanzig.,emotional movement,emotional movement,emotional movement
+110,GerDracor/lenz-der-hofmeister.xml,9325,9337,Ist's gewiß!,positive,emotions of joy,love
+111,GerDracor/lenz-der-hofmeister.xml,9338,9355,Macht das soviel?,emotional movement,emotions of suffering,emotional movement
+112,GerDracor/lenz-der-hofmeister.xml,9356,9473,"Nun damit wir gerade Zahl haben, vierhundert Taler
+              preußisch Courant hab ich zu Ihrem Salarii bestimmt.",positive,emotions of joy,joy
+113,GerDracor/lenz-der-hofmeister.xml,9474,9536,"Sehen Sie, das ist mehr als das
+              ganze Land gibt.",positive,emotions of joy,joy
+114,GerDracor/lenz-der-hofmeister.xml,9537,9766,"Aber mit Eurer Gnaden gnädigen Erlaubnis, die Frau Majorin haben mir von hundert
+              funfzig Dukaten gesagt; das machte gerade vierhundert funfzig Taler, und auf diese
+              Bedingungen hab ich mich eingelassen.",positive,emotions of affection,joy
+115,GerDracor/lenz-der-hofmeister.xml,9767,9792,Ei was wissen die Weiber!,emotional movement,emotions of rejection,emotional movement
+116,GerDracor/lenz-der-hofmeister.xml,9793,9883,"– Vierhundert Taler, Monsieur; mehr kann Er mit gutem
+              Gewissen nicht fodern.",positive,emotions of joy,anger
+117,GerDracor/lenz-der-hofmeister.xml,9884,9979,"Der vorige hat zweihundert funfzig gehabt und ist zufrieden
+              gewesen wie ein Gott.",positive,emotions of joy,joy
+118,GerDracor/lenz-der-hofmeister.xml,9980,10003,"Er war doch, mein Seel!",positive,emotions of affection,love
+119,GerDracor/lenz-der-hofmeister.xml,10004,10174,"ein gelehrter Mann auch und ein Hofmann
+              zugleich: die ganze Welt gab ihm das Zeugnis, und Herr, Er muß noch ganz anders
+              werden, eh Er so wird.",positive,emotions of affection,admiration
+120,GerDracor/lenz-der-hofmeister.xml,10175,10420,"Ich tu es nur aus Freundschaft für Seinen Herrn Vater, was ich
+              an Ihm tue, und um Seinetwillen auch, wenn Er hübsch folgsam ist, und werd auch schon
+              einmal für Sein Glück zu sorgen wissen; das kann Er versichert sein.",positive,emotions of affection,friendship
+121,GerDracor/lenz-der-hofmeister.xml,10421,10631,"– Hör Er doch
+              einmal: ich hab eine Tochter, das mein Ebenbild ist, und die ganze Welt gibt ihr das
+              Zeugnis, daß ihres gleichen an Schönheit im ganzen Preußenlande nichts anzutreffen.",positive,emotions of affection,admiration
+122,GerDracor/lenz-der-hofmeister.xml,10646,10716,"Das Mädchen hat ein ganz anders Gemüt als mein Sohn, der Buschklepper.",negative,emotions of rejection,"hate, disgust"
+123,GerDracor/lenz-der-hofmeister.xml,10717,10773,"Mit dem muß
+              ganz anders umgegangen werden!",negative,emotions of rejection,anger
+124,GerDracor/lenz-der-hofmeister.xml,10774,11045,"Es weiß sein Christentum aus dem Grunde und in dem
+              Grunde, aber es ist denn nun doch, weil sie bald zum Nachtmahl gehen soll und ich weiß
+              wie die Pfaffen sind, so soll Er auch alle Morgen etwas aus dem Christentum mit ihr
+              nehmen.",positive,emotions of rejection,"hate, disgust"
+125,GerDracor/lenz-der-hofmeister.xml,11046,11299,"Alle Tage morgens eine Stunde, und da geht Er auf ihr Zimmer; angezogen, das
+              versteht sich: denn Gott behüte, daß Er so ein Schweinigel sein sollte wie ich einen
+              gehabt habe, der durchaus im Schlafrock an Tisch kommen wollte.",negative,emotions of rejection,anger
+126,GerDracor/lenz-der-hofmeister.xml,11300,11338,"– Kann Er auch
+              zeichnen?",emotional movement,emotional movement,emotional movement
+127,GerDracor/lenz-der-hofmeister.xml,11339,11360,"Etwas, gnädiger Herr.",negative,emotions of suffering,suffering
+128,GerDracor/lenz-der-hofmeister.xml,11361,11399,– Ich kann Ihnen einige Proben weisen.,negative,emotions of rejection,Schadenfreude
+129,GerDracor/lenz-der-hofmeister.xml,11400,11412,besieht sie.,emotional movement,emotional movement,love
+130,GerDracor/lenz-der-hofmeister.xml,11413,11434,Das ist ja scharmant!,positive,emotions of joy,joy
+131,GerDracor/lenz-der-hofmeister.xml,11435,11516,"– Recht schön; gut das: Er soll meine Tochter auch zeichnen
+              lehren.",positive,emotions of joy,joy
+132,GerDracor/lenz-der-hofmeister.xml,11517,11648,"– Aber hören Sie, werter Herr Läuffer, um Gottes willen ihr nicht scharf
+              begegnet; das Mädchen hat ein ganz  Geht ab.",negative,emotions of rejection,admiration
+133,GerDracor/lenz-der-hofmeister.xml,11649,11664,Fritz von Berg.,emotional movement,emotions of rejection,emotional movement
+134,GerDracor/lenz-der-hofmeister.xml,11665,11676,Augustchen.,positive,emotions of joy,emotional movement
+135,GerDracor/lenz-der-hofmeister.xml,11677,11830,"Sie werden nicht Wort halten Gustchen: Sie werden mir nicht schreiben, wenn Sie in
+              Heidelbrunn sind, und dann werd ich mich zu Tode grämen.",negative,emotions of rejection,anger
+136,GerDracor/lenz-der-hofmeister.xml,11831,11892,"Glaubst du denn, daß deine Juliette so unbeständig sein kann?",emotional movement,emotional movement,emotional movement
+137,GerDracor/lenz-der-hofmeister.xml,11893,11983,"O nein; ich bin ein
+              Frauenzimmer; die Mannspersonen allein sind unbeständig.",emotional movement,emotional movement,love
+138,GerDracor/lenz-der-hofmeister.xml,11984,12031,"Nein, Gustchen, die Frauenzimmer allein sind's.",positive,emotions of rejection,love
+139,GerDracor/lenz-der-hofmeister.xml,12032,12061,Ja wenn alle Julietten wären!,negative,emotions of rejection,"hate, disgust"
+140,GerDracor/lenz-der-hofmeister.xml,12062,12093,"–
+              Wissen Sie was?",negative,emotional movement,emotional movement
+141,GerDracor/lenz-der-hofmeister.xml,12094,12299,"Wenn Sie an mich schreiben, nennen Sie mich Ihren Romeo; tun Sie mir
+              den Gefallen: ich versichere Sie, ich werd in allen Stücken Romeo sein, und wenn ich
+              erst einen Degen trage!",positive,emotions of affection,friendship
+142,GerDracor/lenz-der-hofmeister.xml,12300,12350,"O ich kann mich auch erstechen, wenn's dazu kommt.",negative,emotions of fear,"hate, disgust"
+143,GerDracor/lenz-der-hofmeister.xml,12351,12365,Gehn Sie doch!,positive,emotions of fear,fear
+144,GerDracor/lenz-der-hofmeister.xml,12366,12495,"Ja Sie werden's machen, wie im Gellert steht: Er besah die Spitz' und
+              Schneide, und steckt' ihn langsam wieder ein.",negative,emotions of rejection,anger
+145,GerDracor/lenz-der-hofmeister.xml,12496,12519,Sie sollen schon sehen.,positive,emotions of joy,joy
+146,GerDracor/lenz-der-hofmeister.xml,12521,12542,Faßt sie an die Hand.,positive,emotions of suffering,emotional movement
+147,GerDracor/lenz-der-hofmeister.xml,12543,12584,Fritzchen – – so mach ich's wie Juliette.,positive,emotions of rejection,anger
+148,GerDracor/lenz-der-hofmeister.xml,12585,12594,Was denn?,emotional movement,emotional movement,emotional movement
+149,GerDracor/lenz-der-hofmeister.xml,12595,12606,– Wie denn?,emotional movement,emotional movement,emotional movement
+150,GerDracor/lenz-der-hofmeister.xml,12607,12692,"– Das ist ja nur eine Erdichtung; es gibt keine solche Art
+              Schlaftrunk.",negative,emotions of rejection,emotional movement
+151,GerDracor/lenz-der-hofmeister.xml,12693,12741,"Ja, aber es gibt Schlaftrünke zum ewigen Schlaf.",negative,emotions of rejection,"hate, disgust"
+152,GerDracor/lenz-der-hofmeister.xml,12742,12764,fällt ihr um den Hals.,positive,emotions of affection,joy
+153,GerDracor/lenz-der-hofmeister.xml,12765,12774,Grausame!,negative,emotions of suffering,suffering
+154,GerDracor/lenz-der-hofmeister.xml,12775,12841,Ich hör meinen Vater auf dem Gange – Laß uns in den Garten laufen!,negative,emotional movement,anger
+155,GerDracor/lenz-der-hofmeister.xml,12842,12876,"– Nein; er ist
+              fort.",negative,emotions of rejection,fear
+156,GerDracor/lenz-der-hofmeister.xml,12877,13037,"– Gleich nach dem Kaffee Fritzchen reisen wir, und sowie der Wagen dir aus den
+              Augen verschwindt, werd ich dir auch schon aus dem Gedächtnis sein.",positive,emotions of suffering,joy
+157,GerDracor/lenz-der-hofmeister.xml,13038,13104,"So mag Gott sich meiner nie mehr erinnern, wenn ich dich vergesse.",negative,emotions of affection,love
+158,GerDracor/lenz-der-hofmeister.xml,13105,13367,"Aber nimm dich für
+              den Grafen in Acht, er gilt soviel bei deiner Mutter, und du weißt, sie möchte dich
+              gern aus den Augen haben, und eh ich meine Schulen gemacht habe und drei Jahr auf der
+              Universität, das ist gar lange.",negative,emotions of rejection,anger
+159,GerDracor/lenz-der-hofmeister.xml,13368,13387,Wie denn Fritzchen!,emotional movement,emotional movement,emotional movement
+160,GerDracor/lenz-der-hofmeister.xml,13388,13483,"Ich bin ja noch ein Kind: ich bin noch nicht zum Abendmahl
+              gewesen, aber sag mir.",negative,emotions of suffering,suffering
+161,GerDracor/lenz-der-hofmeister.xml,13484,13531,"– O wer weiß, ob ich dich sobald wiederspreche!",negative,emotions of fear,fear
+162,GerDracor/lenz-der-hofmeister.xml,13532,13573,"– Wart, komm in
+              den Garten.",negative,emotions of rejection,anger
+163,GerDracor/lenz-der-hofmeister.xml,13574,13615,"Nein, nein, der Papa ist vorbei gegangen.",emotional movement,emotional movement,suffering
+164,GerDracor/lenz-der-hofmeister.xml,13616,13640,"– Siehst du, der Henker!",negative,emotions of joy,emotional movement
+165,GerDracor/lenz-der-hofmeister.xml,13641,13658,er ist im Garten.,negative,emotions of rejection,anger
+166,GerDracor/lenz-der-hofmeister.xml,13673,13701,– Was wolltest du mir sagen?,emotional movement,emotional movement,emotional movement
+167,GerDracor/lenz-der-hofmeister.xml,13702,13794,"Nichts ... Liebes Gustchen ... Du solltest mir – Nein, ich darf das nicht von dir verlangen.",emotional movement,emotional movement,anger
+168,GerDracor/lenz-der-hofmeister.xml,13795,13845,"Verlange mein Leben, meinen letzten Tropfen Bluts.",negative,emotions of fear,despair
+169,GerDracor/lenz-der-hofmeister.xml,13846,13887,Wir wollten uns beide einen Eid schwören.,negative,emotions of affection,friendship
+170,GerDracor/lenz-der-hofmeister.xml,13888,13895,O komm!,negative,emotions of fear,fear
+171,GerDracor/lenz-der-hofmeister.xml,13896,13909,Vortrefflich!,negative,emotions of rejection,joy
+172,GerDracor/lenz-der-hofmeister.xml,13910,14019,"Hier laß uns niederknien, am Kanapee, und heb du so deinen
+              Finger in die Höh und ich so meinen.",negative,emotions of suffering,anger
+173,GerDracor/lenz-der-hofmeister.xml,14020,14053,"– Nun sag, was soll ich schwören?",negative,emotional movement,anger
+174,GerDracor/lenz-der-hofmeister.xml,14054,14210,"Daß du in drei Jahren von der Universität zurückkommen willst und dein Gustchen zu
+              deiner Frau machen; dein Vater mag dazu sagen, was er will.",positive,emotions of joy,joy
+175,GerDracor/lenz-der-hofmeister.xml,14211,14284,"Und was willst du mir dafür wieder schwören, mein engliches ... Küßt sie.",positive,emotions of affection,love
+176,GerDracor/lenz-der-hofmeister.xml,14285,14437,"Ich will schwören, daß ich in meinem Leben keines andern Menschen Frau werden will
+              als deine, und wenn der Kaiser von Rußland selber käme.",positive,emotions of affection,love
+177,GerDracor/lenz-der-hofmeister.xml,14438,14561,"Ich schwör dir hunderttausend Eide –  Der geheime Rat tritt herein: beide
+                springen mit lautem Geschrei auf.",negative,emotional movement,emotional movement
+178,GerDracor/lenz-der-hofmeister.xml,14562,14575,Geheimer Rat.,negative,emotions of rejection,admiration
+179,GerDracor/lenz-der-hofmeister.xml,14576,14591,Fritz von Berg.,emotional movement,emotions of rejection,emotional movement
+180,GerDracor/lenz-der-hofmeister.xml,14592,14601,Gustchen.,positive,emotions of joy,emotional movement
+181,GerDracor/lenz-der-hofmeister.xml,14602,14633,"Was habt ihr, närrische Kinder?",negative,emotions of rejection,"hate, disgust"
+182,GerDracor/lenz-der-hofmeister.xml,14634,14650,Was zittert ihr?,negative,emotions of fear,fear
+183,GerDracor/lenz-der-hofmeister.xml,14651,14679,"– Gleich, gesteht mir alles.",negative,emotions of suffering,suffering
+184,GerDracor/lenz-der-hofmeister.xml,14680,14720,"Was
+              habt ihr hier gemacht?",emotional movement,emotional movement,emotional movement
+185,GerDracor/lenz-der-hofmeister.xml,14721,14758,Ihr seid beide auf den Knien gelegen.,positive,emotions of suffering,admiration
+186,GerDracor/lenz-der-hofmeister.xml,14759,14860,"– Junker Fritz, ich bitte
+              mir eine Antwort aus; unverzüglich: – Was habt ihr vorgehabt?",emotional movement,emotional movement,emotional movement
+187,GerDracor/lenz-der-hofmeister.xml,14861,14882,"Ich, gnädigster Papa?",emotional movement,emotional movement,emotional movement
+188,GerDracor/lenz-der-hofmeister.xml,14883,14887,Ich?,emotional movement,emotional movement,emotional movement
+189,GerDracor/lenz-der-hofmeister.xml,14888,14932,und das mit einem so verwundrungsvollen Ton?,emotional movement,emotions of suffering,emotional movement
+190,GerDracor/lenz-der-hofmeister.xml,14933,14959,Siehst du: ich merk alles.,positive,emotions of joy,joy
+191,GerDracor/lenz-der-hofmeister.xml,14960,15110,"Du
+              möchtest mir itzt gern eine Lüge sagen, aber entweder bist du zu dumm dazu oder zu
+              feig und willst dich mit deinem Ich?",negative,emotions of rejection,anger
+192,GerDracor/lenz-der-hofmeister.xml,15111,15145,heraushelfen ... Und Sie Mühmchen?,negative,emotional movement,fear
+193,GerDracor/lenz-der-hofmeister.xml,15146,15201,"– Ich weiß,
+              Gustchen verhehlt mir nichts.",negative,emotions of affection,fear
+194,GerDracor/lenz-der-hofmeister.xml,15202,15224,fällt ihm um die Füße.,negative,emotions of suffering,suffering
+195,GerDracor/lenz-der-hofmeister.xml,15225,15271,"Ach, mein Vater – – hebt sie auf und küßt sie.",positive,emotions of affection,love
+196,GerDracor/lenz-der-hofmeister.xml,15272,15305,Wünschst du mich zu deinem Vater?,positive,emotions of affection,love
+197,GerDracor/lenz-der-hofmeister.xml,15306,15354,"Zu früh, mein Kind, zu früh Gustchen, mein Kind.",negative,emotions of suffering,compassion
+198,GerDracor/lenz-der-hofmeister.xml,15355,15401,"Du
+              hast noch nicht kommuniziert.",negative,emotional movement,emotional movement
+199,GerDracor/lenz-der-hofmeister.xml,15402,15481,"– Denn warum soll ich euch verhehlen, daß ich euch
+              zugehört habe.",positive,emotions of rejection,anger
+200,GerDracor/lenz-der-hofmeister.xml,15482,15711,"– Das war ein sehr einfältig Stückchen von euch beiden; besonders von
+              dir, großer vernünftiger Junker Fritz, der bald einen Bart haben wird wie ich und eine
+              Perücke aufsetzen und einen Degen anstecken.",negative,emotions of rejection,anger
+201,GerDracor/lenz-der-hofmeister.xml,15712,15777,"Pfui, ich glaubt einen vernünftigern Sohn
+              zu haben.",negative,emotions of rejection,"hate, disgust"
+202,GerDracor/lenz-der-hofmeister.xml,15778,15883,"Das macht dich gleich ein Jahr jünger und macht, daß du länger auf der
+              Schule bleiben mußt.",positive,emotions of suffering,joy
+203,GerDracor/lenz-der-hofmeister.xml,15884,16012,"Und Sie, Gustchen, auch Ihnen muß ich sagen, daß es sich für Ihr
+              Alter gar nicht mehr schickt, so kindisch zu tun.",negative,emotions of rejection,anger
+204,GerDracor/lenz-der-hofmeister.xml,16013,16071,"Was sind das für Romane, die Sie da
+              spielen?",emotional movement,emotional movement,emotional movement
+205,GerDracor/lenz-der-hofmeister.xml,16072,16205,"Was für Eide, die Sie sich da schwören, und die ihr doch alle beide so gewiß
+              brechen werdet als ich itzt mit euch rede.",negative,emotions of rejection,anger
+206,GerDracor/lenz-der-hofmeister.xml,16206,16376,"Meint ihr, ihr seid in den Jahren, Eide zu
+              tun, oder meint ihr, ein Eid sei ein Kinderspiel, wie es das Versteckspiel oder die
+              blinde Kuh ist?",negative,emotions of rejection,anger
+207,GerDracor/lenz-der-hofmeister.xml,16377,16491,"Lernt erst einsehen, was ein Eid ist: lernt erst zittern dafür, und
+              alsdenn wagt's, ihn zu schwören.",negative,emotions of fear,fear
+208,GerDracor/lenz-der-hofmeister.xml,16492,16539,"Wißt, daß  Aber ich denke meinen Eid zu halten.",negative,emotions of affection,anger
+209,GerDracor/lenz-der-hofmeister.xml,16540,16557,In der Tat Romeo?,positive,emotional movement,emotional movement
+210,GerDracor/lenz-der-hofmeister.xml,16558,16561,Ha!,emotional movement,emotional movement,emotional movement
+211,GerDracor/lenz-der-hofmeister.xml,16562,16611,"du kannst dich auch erstechen, wenn's dazu kommt.",negative,emotions of rejection,"hate, disgust"
+212,GerDracor/lenz-der-hofmeister.xml,16612,16680,"Du hast
+              geschworen, daß mir die Haare zu Berg standen.",negative,emotions of rejection,anger
+213,GerDracor/lenz-der-hofmeister.xml,16681,16733,"Also gedenkst du deinen Eid zu
+              halten?",negative,emotional movement,anger
+214,GerDracor/lenz-der-hofmeister.xml,16734,16752,"Ja Papa, bei Gott!",negative,emotions of fear,fear
+215,GerDracor/lenz-der-hofmeister.xml,16753,16776,ich denk ihn zu halten.,positive,emotions of affection,love
+216,GerDracor/lenz-der-hofmeister.xml,16777,16806,Schwur mit Schwur bekräftigt!,positive,emotions of affection,love
+217,GerDracor/lenz-der-hofmeister.xml,16807,16846,– Ich werd es deinem Rektor beibringen.,negative,emotions of rejection,anger
+218,GerDracor/lenz-der-hofmeister.xml,16847,16990,"Er soll Euch
+              auf vierzehn Tage nach Sekunda herunter transportieren, Junker: inskünftige lernt
+              behutsamer schwören.",negative,emotions of rejection,suffering
+219,GerDracor/lenz-der-hofmeister.xml,16991,17002,Und worauf?,emotional movement,emotional movement,emotional movement
+220,GerDracor/lenz-der-hofmeister.xml,17003,17053,"Steht das in deiner Gewalt, was du da versicherst?",negative,emotions of fear,emotional movement
+221,GerDracor/lenz-der-hofmeister.xml,17054,17096,"Du
+              willst Gustchen heiraten!",positive,emotions of joy,love
+222,GerDracor/lenz-der-hofmeister.xml,17097,17107,Denk doch!,negative,emotional movement,emotional movement
+223,GerDracor/lenz-der-hofmeister.xml,17108,17178,"weißt du auch schon, was für ein Ding das ist,
+              Heiraten?",positive,emotions of joy,emotional movement
+224,GerDracor/lenz-der-hofmeister.xml,17179,17232,"Geh doch, heirate sie: nimm sie mit auf die Akademie.",positive,emotions of affection,love
+225,GerDracor/lenz-der-hofmeister.xml,17233,17239,Nicht?,negative,emotions of joy,emotional movement
+226,GerDracor/lenz-der-hofmeister.xml,17240,17725,"Ich habe nichts
+              dawider, daß ihr euch gern seht, daß ihr euch lieb habt, daß ihr's euch sagt, wie lieb
+              ihr euch habt; aber Narrheiten müßt ihr nicht machen; keine Affen von uns Alten sein,
+              eh ihr so reif seid als wir; keine Romane spielen wollen, die nur in der
+              ausschweifenden Einbildungskraft eines hungrigen Poeten ausgeheckt sind und von denen
+              ihr in der heutigen Welt keinen Schatten der Wirklichkeit antrefft.",positive,emotions of affection,love
+227,GerDracor/lenz-der-hofmeister.xml,17726,17731,Geht!,positive,emotions of rejection,fear
+228,GerDracor/lenz-der-hofmeister.xml,17732,17865,"ich werde
+              keinem Menschen was davon sagen, damit ihr nicht nötig habt, rot zu werden, wenn ihr
+              mich seht.",negative,emotions of rejection,anger
+229,GerDracor/lenz-der-hofmeister.xml,17866,17930,– Aber von nun an sollt ihr einander nie mehr ohne Zeugen sehen.,negative,emotions of affection,friendship
+230,GerDracor/lenz-der-hofmeister.xml,17931,17963,"Versteht
+              ihr mich?",negative,emotional movement,anger
+231,GerDracor/lenz-der-hofmeister.xml,17964,18232,"Und euch nie andere Briefe schreiben als offene, und das auch alle Monate
+              oder höchstens alle drei Wochen einmal, und sobald ein heimliches Briefchen an Junker
+              Fritz oder Fräulein Gustchen entdeckt  Fritz und Gustchen umarmen sich zitternd.",negative,emotions of suffering,love
+232,GerDracor/lenz-der-hofmeister.xml,18233,18275,"Hebt sie auf und küßt
+                sie.",positive,emotions of affection,love
+233,GerDracor/lenz-der-hofmeister.xml,18276,18375,"Gustchen geht einige Schritte,
+                sieht sich um; Fritz fliegt ihr weinend an den Hals.",negative,emotions of suffering,suffering
+234,GerDracor/lenz-der-hofmeister.xml,18376,18391,Pastor Läuffer.,negative,emotional movement,emotional movement
+235,GerDracor/lenz-der-hofmeister.xml,18392,18409,Der Geheimer Rat.,negative,emotions of rejection,emotional movement
+236,GerDracor/lenz-der-hofmeister.xml,18410,18491,"Ich bedaure ihn – und Sie noch vielmehr, Herr Pastor, daß Sie solchen Sohn haben.",negative,emotions of suffering,compassion
+237,GerDracor/lenz-der-hofmeister.xml,18492,18734,"Verzeihen Euer Gnaden, ich kann mich über meinen Sohn nicht beschweren; er ist ein
+              sittsamer und geschickter Mensch, die ganze Welt und Dero Herr Bruder und Frau
+              Schwägerin selbst werden ihm das eingestehen müssen.",positive,emotions of affection,admiration
+238,GerDracor/lenz-der-hofmeister.xml,18735,18855,"Ich sprech ihm das all nicht ab, aber er ist ein Tor und hat alle sein Mißvergnügen
+              sich selber zu danken.",negative,emotions of rejection,anger
+239,GerDracor/lenz-der-hofmeister.xml,18856,19328,"Er sollte den Sternen danken, daß meinem Bruder  Aber bedenken Sie doch: nichts mehr als hundert Dukaten; hundert arme Dukätchen; und
+              dreihundert hatt er ihm doch im ersten Jahr versprochen: aber beim Schluß desselben
+              nur hundert und vierzig ausgezahlt, jetzt beim Beschluß des zweiten, da doch die
+              Arbeit meines Sohnes immer zunimmt, zahlt' er ihm hundert, und nun beim Anfang des
+              dritten wird ihm auch das zu viel.",negative,emotions of suffering,suffering
+240,GerDracor/lenz-der-hofmeister.xml,19329,19361,– Das ist wider alle Billigkeit!,negative,emotions of rejection,anger
+241,GerDracor/lenz-der-hofmeister.xml,19362,19393,"Verzeihn Sie
+              mir.",negative,emotions of suffering,suffering
+242,GerDracor/lenz-der-hofmeister.xml,19394,19566,"Laß es doch – Das hätt ich euch Leuten voraussagen wollen, und doch sollt Ihr Sohn
+              Gott danken, wenn ihn nur der Major beim Kopf nähm und aus dem Hause würfe.",negative,emotions of rejection,anger
+243,GerDracor/lenz-der-hofmeister.xml,19567,19616,"Was soll
+              er da, sagen Sie mir Herr?",negative,emotions of rejection,anger
+244,GerDracor/lenz-der-hofmeister.xml,19617,19743,"Wollen Sie ein Vater für Ihr Kind sein und schließen so
+              Augen, Mund und Ohren für seine ganze Glückseligkeit zu?",positive,emotions of joy,joy
+245,GerDracor/lenz-der-hofmeister.xml,19744,19804,"Tagdieben und sich Geld dafür
+              bezahlen lassen?",emotional movement,emotions of rejection,anger
+246,GerDracor/lenz-der-hofmeister.xml,19805,20393,"Die edelsten Stunden des Tages bei einem jungen Herrn versitzen, der
+              nichts lernen mag und mit dem er's doch nicht verderben darf, und die übrigen Stunden,
+              die der Erhaltung seines Lebens, den Speisen und dem Schlaf geheiligt sind, an einer
+              Sklavenkette verseufzen; an den Winken der gnädigen Frau hängen und sich in die Falten
+              des gnädigen Herrn hineinstudieren; essen, wenn er satt ist, und fasten, wenn er
+              hungrig ist, Punsch trinken, wenn er p-ss-n möchte, und Karten spielen, wenn er das
+              Laufen hat.",negative,emotions of rejection,suffering
+247,GerDracor/lenz-der-hofmeister.xml,20394,20720,"Ohne Freiheit geht das Leben bergab rückwärts, Freiheit ist das Element
+              des Menschen wie das Wasser des Fisches, und ein Mensch der sich der Freiheit begibt,
+              vergiftet die edelsten Geister seines Bluts, erstickt seine süßesten Freuden des
+              Lebens in der Blüte und ermordet sich selbst.",negative,emotions of suffering,suffering
+248,GerDracor/lenz-der-hofmeister.xml,20721,20731,Aber – Oh!,negative,emotions of suffering,suffering
+249,GerDracor/lenz-der-hofmeister.xml,20732,21136,"erlauben Sie mir; das muß sich ja jeder Hofmeister gefallen lassen; man
+              kann nicht immer seinen Willen haben, und das läßt sich mein Sohn auch gern gefallen,
+              nur – Desto schlimmer, wenn er sich's gefallen läßt, desto schlimmer; er hat den Vorrechten
+              eines Menschen entsagt, der nach seinen Grundsätzen muß leben können, sonst bleibt er
+              kein Mensch.",negative,emotions of suffering,suffering
+250,GerDracor/lenz-der-hofmeister.xml,21137,21533,"Mögen die Elenden, die ihre Ideen nicht zu höherer Glückseligkeit zu
+              erheben wissen, als zu essen und zu trinken, mögen die sich im Käfigt zu Tode füttern
+              lassen, aber ein Gelehrter, ein Mensch, der den Adel seiner Seele fühlt, der den Tod
+              nicht so scheuen sollt als eine Handlung, die wider seine Grundsätze läuft ... Aber was ist zu machen in der Welt?",emotional movement,emotions of suffering,suffering
+251,GerDracor/lenz-der-hofmeister.xml,21534,21629,"Was wollte mein Sohn anfangen, wenn Dero Herr
+              Bruder ihm die Kondition aufsagten?",emotional movement,emotional movement,emotional movement
+252,GerDracor/lenz-der-hofmeister.xml,21630,21689,"Laßt den Burschen was lernen, daß er dem Staat nützen kann.",negative,emotions of rejection,anger
+253,GerDracor/lenz-der-hofmeister.xml,21690,21925,"Potz hundert Herr Pastor,
+              Sie haben ihn doch nicht zum Bedienten aufgezogen, und was ist er anders als
+              Bedienter, wenn er seine Freiheit einer Privatperson für einige Handvoll Dukaten
+              verkauft?",negative,emotions of rejection,anger
+254,GerDracor/lenz-der-hofmeister.xml,21926,22618,"Sklav ist er, über den die Herrschaft unumschränkte Gewalt hat, nur daß er
+              so viel auf der Akademie gelernt haben muß, ihren unbesonnenen Anmutungen von weitem
+              zuvorzukommen und so einen Firnis über seine Dienstbarkeit zu streichen: das heißt
+              denn ein feiner artiger Mensch, ein unvergleichlicher Mensch; ein unvergleichlicher
+              Schurke, der, statt seine Kräfte und seinen Verstand dem allgemeinen Besten
+              aufzuopfern, damit die Rasereien einer dampfigten Dame und eines abgedämpften
+              Offiziers unterstützt, die denn täglich weiter um sich fressen wie ein Krebsschaden
+              und zuletzt unheilbar werden.",negative,emotions of rejection,"hate, disgust"
+255,GerDracor/lenz-der-hofmeister.xml,22619,22657,Und was ist der ganze Gewinst am Ende?,negative,emotional movement,emotional movement
+256,GerDracor/lenz-der-hofmeister.xml,22658,22908,"Alle Mittag
+              Braten und alle Abend Punsch, und eine große Portion Galle, die ihm Tags über ins Maul
+              gestiegen, abends, wenn er zu Bett liegt, hinabgeschluckt wie Pillen; das macht
+              gesundes Blut, auf meine Ehr!",negative,emotions of rejection,joy
+257,GerDracor/lenz-der-hofmeister.xml,22909,22980,"und muß auch ein vortreffliches Herz auf die Länge
+              geben.",positive,emotions of affection,admiration
+258,GerDracor/lenz-der-hofmeister.xml,22981,23079,"Ihr beklagt euch so viel übern Adel und über seinen Stolz,  Aber Herr Geheimer Rat – Gütiger Gott!",negative,emotions of suffering,compassion
+259,GerDracor/lenz-der-hofmeister.xml,23080,23416,"es ist in der Welt nicht anders: man muß eine
+              Warte haben, von der man sich nach einem öffentlichen Amt umsehen kann, wenn man von
+              Universitäten kommt; wir müssen den göttlichen Ruf erst abwarten, und ein Patron ist
+              sehr oft das Mittel zu unserer Beförderung: wenigstens ist es mir so gegangen.",positive,emotions of suffering,emotional movement
+260,GerDracor/lenz-der-hofmeister.xml,23417,23473,"Schweigen Sie, Herr Pastor, ich bitt Sie, schweigen Sie.",negative,emotions of suffering,anger
+261,GerDracor/lenz-der-hofmeister.xml,23474,23521,"Das gereicht Ihnen nicht zur
+              Ehr.",negative,emotions of rejection,admiration
+262,GerDracor/lenz-der-hofmeister.xml,23522,23676,"Man weiß ja doch, daß Ihre selige Frau Ihr göttlicher Ruf war, sonst säßen Sie
+              noch itzt beim Herrn von Tiesen und düngten ihm seinen Acker.",positive,emotions of affection,admiration
+263,GerDracor/lenz-der-hofmeister.xml,23677,23684,Jemine!,emotional movement,emotional movement,emotional movement
+264,GerDracor/lenz-der-hofmeister.xml,23685,23788,"daß ihr Herrn
+              uns doch immer einen so ehrwürdigen schwarzen Dunst vor Augen machen wollt.",negative,emotions of rejection,"hate, disgust"
+265,GerDracor/lenz-der-hofmeister.xml,23789,24126,"Noch nie
+              hat ein Edelmann einen Hofmeister angenommen, wo er ihm nicht hinter eine Allee von
+              acht neun Sklavenjahren ein schön Gemälde von Beförderung gestellt hat, und wenn ihr
+              acht Jahr gegangen waret, so macht' er's wie Laban und rückte das Bild um noch einmal
+              so weit vorwärts.",positive,emotions of affection,admiration
+266,GerDracor/lenz-der-hofmeister.xml,24127,24134,Possen!,emotional movement,emotions of rejection,emotional movement
+267,GerDracor/lenz-der-hofmeister.xml,24135,24167,lernt etwas und seid brave Leut.,positive,emotions of joy,anger
+268,GerDracor/lenz-der-hofmeister.xml,24168,24236,"Der Staat wird euch nicht
+              lang am Markt stehen lassen.",negative,emotions of rejection,anger
+269,GerDracor/lenz-der-hofmeister.xml,24237,24452,"Brave Leut sind allenthalben zu brauchen, aber Schurken,
+              die den Namen vom Gelehrten nur auf den Zettel tragen und im Kopf ist leer Papier
+              ... Das ist sehr allgemein gesprochen, Herr Rat!",negative,emotions of rejection,anger
+270,GerDracor/lenz-der-hofmeister.xml,24453,24480,"– Es müssen doch, bei Gott!",negative,emotions of fear,despair
+271,GerDracor/lenz-der-hofmeister.xml,24481,24632,"auch
+              Hauslehrer in der Welt sein; nicht jedermann kann gleich Geheimer Rat werden, und wenn
+              er gleich ein Hugo Grotius wär.",negative,emotions of rejection,admiration
+272,GerDracor/lenz-der-hofmeister.xml,24633,24709,"Es gehören heutiges Tags andere Sachen dazu als
+              Gelehrsamkeit.",negative,emotions of rejection,anger
+273,GerDracor/lenz-der-hofmeister.xml,24710,24739,"Sie werden warm, Herr Pastor!",positive,emotions of joy,joy
+274,GerDracor/lenz-der-hofmeister.xml,24740,24840,"– Lieber, werter Herr Pastor, lassen Sie uns den Faden
+              unsers Streits nicht verlieren.",positive,emotional movement,anger
+275,GerDracor/lenz-der-hofmeister.xml,24841,24912,"Ich behaupt: es müssen keine Hauslehrer in der Welt
+              sein!",positive,emotions of rejection,"hate, disgust"
+276,GerDracor/lenz-der-hofmeister.xml,24913,24955,das Geschmeiß taucht den Teufel zu nichts.,negative,emotions of rejection,anger
+277,GerDracor/lenz-der-hofmeister.xml,24956,25060,"Ich bin nicht hergekommen mir Grobheiten sagen zu lassen: ich bin auch Hauslehrer
+              gewesen.",negative,emotions of rejection,anger
+278,GerDracor/lenz-der-hofmeister.xml,25061,25127,"Ich habe die Ehre – – Warten Sie; bleiben Sie, lieber Herr Pastor!",negative,emotional movement,emotional movement
+279,GerDracor/lenz-der-hofmeister.xml,25128,25151,Behüte mich der Himmel!,positive,emotions of affection,admiration
+280,GerDracor/lenz-der-hofmeister.xml,25152,25305,"Ich habe Sie
+              nicht beleidigen wollen, und wenn's wider meinen Willen geschehen ist, so bitt ich Sie
+              tausendmal um Verzeihung.",negative,emotions of suffering,anger
+281,GerDracor/lenz-der-hofmeister.xml,25306,25546,"Es ist einmal meine üble Gewohnheit, daß ich gleich in Feuer
+              gerate, wenn mir ein Gespräch interessant wird: alles übrige verschwindt mir denn aus
+              dem Gesicht und ich sehe nur den Gegenstand, von dem ich spreche.",negative,emotions of rejection,emotional movement
+282,GerDracor/lenz-der-hofmeister.xml,25547,25695,"Sie schütten – verzeihen Sie mir, ich bin auch ein Cholerikus und rede gern von der
+              Lunge ab – Sie schütten das Kind mit dem Bade aus.",negative,emotions of rejection,suffering
+283,GerDracor/lenz-der-hofmeister.xml,25696,25772,"Hauslehrer taugen zu nichts – wie
+              können Sie mir das beweisen?",negative,emotions of rejection,anger
+284,GerDracor/lenz-der-hofmeister.xml,25773,25855,"Wer soll euch jungen Herrn denn Verstand und gute Sitten
+              beibringen!",negative,emotions of rejection,anger
+285,GerDracor/lenz-der-hofmeister.xml,25856,25970,"Was wär aus Ihnen geworden, mein werter Herr Geheimer Rat, wenn Sie keinen
+              Hauslehrer gehabt hätten?",negative,emotions of suffering,compassion
+286,GerDracor/lenz-der-hofmeister.xml,25971,26135,"Ich bin von meinem Vater zur öffentlichen Schul gehalten worden und segne seine Asche
+              dafür, und so, hoff ich, wird mein Sohn Fritz auch dereinst tun.",positive,emotions of affection,admiration
+287,GerDracor/lenz-der-hofmeister.xml,26136,26184,Ja – da ist aber noch viel drüber zu sagen Herr!,positive,emotions of rejection,anger
+288,GerDracor/lenz-der-hofmeister.xml,26185,26514,"Ich meinerseits bin Ihrer Meinung
+              nicht; ja wenn die öffentlichen Schulen das wären, was sie sein sollten – Aber die
+              nüchternen Subjecta, so oft den Klassen vorstehen; die pedantischen Methoden, die sie
+              brauchen, die unter der Jugend eingerissenen verderbten Sitten – Wes ist die Schuld?",negative,emotions of suffering,anger
+289,GerDracor/lenz-der-hofmeister.xml,26515,26588,"Wer ist schuld dran, als ihr  Ich habe nicht Zeit,  Zieht die Uhr heraus.",negative,emotions of rejection,anger
+290,GerDracor/lenz-der-hofmeister.xml,26589,26752,"So sollten die Bürger meiner Meinung sein – Die Not würde den Adel schon auf andere
+              Gedanken bringen, und wir könnten uns bessere Zeiten versprechen.",negative,emotions of joy,joy
+291,GerDracor/lenz-der-hofmeister.xml,26754,26800,Ich bin um zehn Uhr zu einem Kranken bestellt.,negative,emotional movement,suffering
+292,GerDracor/lenz-der-hofmeister.xml,26801,26826,Sie werden mir verzeihen.,negative,emotions of suffering,friendship
+293,GerDracor/lenz-der-hofmeister.xml,26827,26874,"–  Im
+                Abgehen wendt er sich um.",negative,emotional movement,emotional movement
+294,GerDracor/lenz-der-hofmeister.xml,26875,26925,"Laß ihn quittieren – Ich tu es nicht, Herr Pastor!",negative,emotions of rejection,anger
+295,GerDracor/lenz-der-hofmeister.xml,26926,26958,Davon bin ich nicht abzubringen.,positive,emotions of affection,friendship
+296,GerDracor/lenz-der-hofmeister.xml,26973,27096,"Ich will Ihrem Herrn Sohn die dreißig Dukaten lieber schenken; aber meinen Sohn geb
+              ich zu keinem Hofmeister.",negative,emotions of rejection,anger
+297,GerDracor/lenz-der-hofmeister.xml,27098,27134,Der Pastor hält ihm einen Brief hin.,negative,emotions of rejection,anger
+298,GerDracor/lenz-der-hofmeister.xml,27135,27161,Lesen Sie – lesen Sie nur.,negative,emotions of joy,joy
+299,GerDracor/lenz-der-hofmeister.xml,27162,27195,"– Je nun, Ihm ist nicht –  Liest.",negative,emotional movement,suffering
+300,GerDracor/lenz-der-hofmeister.xml,27196,27224,Wirft den Brief an die Erde.,negative,emotions of rejection,suffering
+301,GerDracor/lenz-der-hofmeister.xml,27225,27251,Ja das ist eben die Sache.,negative,emotions of joy,anger
+302,GerDracor/lenz-der-hofmeister.xml,27253,27272,Hebt den Brief auf.,emotional movement,emotional movement,emotional movement
+303,GerDracor/lenz-der-hofmeister.xml,27273,27293,Was ist da zu lesen?,emotional movement,emotional movement,emotional movement
+304,GerDracor/lenz-der-hofmeister.xml,27294,27303,–  Liest.,positive,emotional movement,emotional movement
+305,GerDracor/lenz-der-hofmeister.xml,27304,27319,In Heidelbrunn.,positive,emotions of joy,suffering
+306,GerDracor/lenz-der-hofmeister.xml,27320,27329,Gustchen.,positive,emotions of joy,emotional movement
+307,GerDracor/lenz-der-hofmeister.xml,27330,27338,Läuffer.,negative,emotions of joy,emotional movement
+308,GerDracor/lenz-der-hofmeister.xml,27339,27360,Was fehlt Ihnen denn?,negative,emotions of suffering,compassion
+309,GerDracor/lenz-der-hofmeister.xml,27361,27392,Wie steht's mit meinem Porträt?,emotional movement,emotional movement,suffering
+310,GerDracor/lenz-der-hofmeister.xml,27393,27434,"Nicht wahr, Sie haben nicht dran gedacht?",negative,emotions of joy,emotional movement
+311,GerDracor/lenz-der-hofmeister.xml,27435,27593,"Wenn ich
+              auch so saumselig gewesen wäre – Hätt ich das gewußt: ich hätt Ihren Brief so lang
+              zurückgehalten, aber ich war ein Narr.",negative,emotions of rejection,anger
+312,GerDracor/lenz-der-hofmeister.xml,27594,27603,Ha ha ha.,positive,emotions of joy,joy
+313,GerDracor/lenz-der-hofmeister.xml,27604,27627,Lieber Herr Hofmeister!,positive,emotions of affection,joy
+314,GerDracor/lenz-der-hofmeister.xml,27628,27671,ich habe wahrhaftig noch nicht Zeit gehabt.,negative,emotions of rejection,emotional movement
+315,GerDracor/lenz-der-hofmeister.xml,27672,27681,Grausame!,negative,emotions of suffering,suffering
+316,GerDracor/lenz-der-hofmeister.xml,27682,27708,Aber was fehlt Ihnen denn?,negative,emotions of suffering,compassion
+317,GerDracor/lenz-der-hofmeister.xml,27709,27728,Sagen Sie mir doch!,negative,emotions of rejection,anger
+318,GerDracor/lenz-der-hofmeister.xml,27729,27786,"So tiefsinnig sind Sie ja noch nie
+              gewesen.",emotional movement,emotional movement,suffering
+319,GerDracor/lenz-der-hofmeister.xml,27787,27802,Die  Haben Sie?,positive,emotions of affection,emotional movement
+320,GerDracor/lenz-der-hofmeister.xml,27803,27814,In der Tat?,emotional movement,emotional movement,emotional movement
+321,GerDracor/lenz-der-hofmeister.xml,27815,27858,Sie sind ein rechtes Muster des Mitleidens.,negative,emotions of suffering,compassion
+322,GerDracor/lenz-der-hofmeister.xml,27859,27929,O Herr Hofmeister – – Wollen Sie heut nachmittag Zeichenstunde halten?,positive,emotional movement,emotional movement
+323,GerDracor/lenz-der-hofmeister.xml,27930,27951,faßt ihn an die Hand.,negative,emotions of affection,love
+324,GerDracor/lenz-der-hofmeister.xml,27952,27977,Liebster Herr Hofmeister!,positive,emotions of affection,love

@@ -1,0 +1,492 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/gerstenberg-ugolino.xml,0,55, Die Geschichte dieses Drama ist aus dem Dante bekannt.,negative,emotions of suffering,suffering
+1,GerDracor/gerstenberg-ugolino.xml,56,136,"Ugolino, Graf von Gherardesca, und
+          seine drei Söhne sind die Personen.",negative,emotional movement,admiration
+2,GerDracor/gerstenberg-ugolino.xml,137,184,Die Zeit der Vorstellung eine stürmische Nacht.,negative,emotional movement,emotional movement
+3,GerDracor/gerstenberg-ugolino.xml,185,235,Die Szene ein schwach erleuchtetes Zimmer im Turm.,emotional movement,emotional movement,suffering
+4,GerDracor/gerstenberg-ugolino.xml,236,269,"Hilf dem armen Gaddo, mein Vater!",negative,emotions of suffering,compassion
+5,GerDracor/gerstenberg-ugolino.xml,270,303,Sein Anblick dringt mir ans Herz.,positive,emotions of affection,love
+6,GerDracor/gerstenberg-ugolino.xml,304,336,"Guten Mut, mein wackrer Anselmo.",negative,emotions of fear,joy
+7,GerDracor/gerstenberg-ugolino.xml,337,351,– Armer Gaddo!,negative,emotions of suffering,compassion
+8,GerDracor/gerstenberg-ugolino.xml,352,368,"Ach, mein Vater!",negative,emotions of fear,compassion
+9,GerDracor/gerstenberg-ugolino.xml,369,437,"Ich dachte nicht, daß es so böse Menschen auf der Welt geben könnte.",negative,emotions of rejection,"hate, disgust"
+10,GerDracor/gerstenberg-ugolino.xml,438,516,"Warum hat der
+            Turmwärter dem armen Gaddo nichts zu essen gebracht?",negative,emotions of suffering,compassion
+11,GerDracor/gerstenberg-ugolino.xml,517,565,"Ein tückischer Mann, der
+            Turmwärter!",negative,emotions of rejection,"hate, disgust"
+12,GerDracor/gerstenberg-ugolino.xml,566,626,Er kann krank sein; es kann ihn ein Unglück betroffen haben.,negative,emotions of suffering,suffering
+13,GerDracor/gerstenberg-ugolino.xml,627,674,"Er ist unschuldig an
+            unserm Hunger.",negative,emotions of rejection,compassion
+14,GerDracor/gerstenberg-ugolino.xml,675,710,"Hungert dich denn auch, mein Vater?",negative,emotions of suffering,compassion
+15,GerDracor/gerstenberg-ugolino.xml,711,735,"Dich nicht, mein Lieber?",positive,emotions of affection,love
+16,GerDracor/gerstenberg-ugolino.xml,736,815,"Mich dünkt, daß mich weniger hungern würde, wenn der arme Gaddo zu essen hätte.",negative,emotions of suffering,compassion
+17,GerDracor/gerstenberg-ugolino.xml,816,899,"Ich
+            kann sein eingefallnes bleiches Gesicht nicht ohne Schmerz ansehen.",negative,emotions of suffering,suffering
+18,GerDracor/gerstenberg-ugolino.xml,901,928,"Umarmt
+              Gaddo.",positive,emotions of affection,joy
+19,GerDracor/gerstenberg-ugolino.xml,929,941,Armer Gaddo!,negative,emotions of suffering,compassion
+20,GerDracor/gerstenberg-ugolino.xml,942,972,"Sei nicht traurig, mein Vater.",negative,emotions of suffering,suffering
+21,GerDracor/gerstenberg-ugolino.xml,973,1013,"Sieh, mein Vater, ich bin nicht traurig.",positive,emotions of suffering,suffering
+22,GerDracor/gerstenberg-ugolino.xml,1015,1042,Trocknet sich die Augen ab.,negative,emotions of suffering,suffering
+23,GerDracor/gerstenberg-ugolino.xml,1043,1075,Und müßt ihr meine Tröster sein?,negative,emotions of affection,suffering
+24,GerDracor/gerstenberg-ugolino.xml,1076,1079,Ha!,emotional movement,emotional movement,emotional movement
+25,GerDracor/gerstenberg-ugolino.xml,1080,1094,es ist bitter.,negative,emotions of suffering,suffering
+26,GerDracor/gerstenberg-ugolino.xml,1095,1147,"Du sagtest, dem Turmwärter sei ein Unglück begegnet.",negative,emotions of suffering,suffering
+27,GerDracor/gerstenberg-ugolino.xml,1148,1237,"Ist denn niemand, der ihm den
+            Liebesdienst tun könne, statt seiner zu kommen?",positive,emotions of affection,love
+28,GerDracor/gerstenberg-ugolino.xml,1238,1299,"Es ist doch unbillig, daß Gaddo nicht
+            essen soll.",negative,emotions of suffering,compassion
+29,GerDracor/gerstenberg-ugolino.xml,1300,1343,"Kein Weib, keine Tochter, kein Blutsfreund?",emotional movement,emotional movement,emotional movement
+30,GerDracor/gerstenberg-ugolino.xml,1344,1401,"Ich hoffe, mein Anselmo, daß jemand für ihn kommen werde.",positive,emotions of affection,compassion
+31,GerDracor/gerstenberg-ugolino.xml,1402,1498,"Die Bedauernswürdigen haben unsrer vielleicht über dem Unglück des Mannes
+            vergessen.",negative,emotions of suffering,compassion
+32,GerDracor/gerstenberg-ugolino.xml,1499,1508,So ist's.,negative,emotions of suffering,joy
+33,GerDracor/gerstenberg-ugolino.xml,1509,1536,Ich bedaure sie von Herzen.,negative,emotions of suffering,compassion
+34,GerDracor/gerstenberg-ugolino.xml,1537,1584,"Gott wird dich wieder bedauern, mein Geliebter.",negative,emotions of suffering,compassion
+35,GerDracor/gerstenberg-ugolino.xml,1585,1607,Und den kranken Gaddo.,negative,emotions of suffering,suffering
+36,GerDracor/gerstenberg-ugolino.xml,1608,1617,Uns alle.,negative,emotions of suffering,joy
+37,GerDracor/gerstenberg-ugolino.xml,1618,1623,Dich?,emotional movement,emotional movement,emotional movement
+38,GerDracor/gerstenberg-ugolino.xml,1624,1674,"Und ein Gott müßt es nur sein, der dich bedauerte.",negative,emotions of suffering,compassion
+39,GerDracor/gerstenberg-ugolino.xml,1675,1761,"Von der Welt braucht ein so
+            großer Mann, wie du, nicht bedauert zu werden.",negative,emotions of suffering,compassion
+40,GerDracor/gerstenberg-ugolino.xml,1762,1859,"Meine Mutter hat mir oft gesagt, daß du
+            ein sehr großer Mann bist; jedermann sagt es.",positive,emotions of affection,admiration
+41,GerDracor/gerstenberg-ugolino.xml,1860,1968,"Wenn ich ein Mann wäre, ich will nicht
+            träumen, ein großer Mann: denn was habe ich, ich Pflanze!",negative,emotions of rejection,joy
+42,GerDracor/gerstenberg-ugolino.xml,1969,2025,"getan, daß ich ein Mann sein
+            könnte, wie du?",negative,emotions of rejection,"hate, disgust"
+43,GerDracor/gerstenberg-ugolino.xml,2026,2084,"aber wenn ich ein Mann wäre, niemand sollte mich bedauern.",negative,emotions of suffering,compassion
+44,GerDracor/gerstenberg-ugolino.xml,2085,2093,Wie das?,emotional movement,emotional movement,emotional movement
+45,GerDracor/gerstenberg-ugolino.xml,2094,2313,"Doch itzt besinne ich mich: ich müßte auch ein freier Mann sein; nicht im finstern Turm
+            eingesperrt sitzen; frei müßt ich sein; frei meine Hand (sie würde dann Nerve haben);
+            frei dieser Arm – ha!",positive,emotions of joy,joy
+46,GerDracor/gerstenberg-ugolino.xml,2314,2327,Du schweigst?,negative,emotional movement,emotional movement
+47,GerDracor/gerstenberg-ugolino.xml,2328,2338,du glühst?,negative,emotional movement,emotional movement
+48,GerDracor/gerstenberg-ugolino.xml,2339,2370,"Rede weiter, mein Sohn Anselmo.",negative,emotional movement,emotional movement
+49,GerDracor/gerstenberg-ugolino.xml,2371,2382,Mein Vater!,emotional movement,emotional movement,emotional movement
+50,GerDracor/gerstenberg-ugolino.xml,2384,2422,Seinen Arm um seinen Vater schlingend.,negative,emotions of suffering,love
+51,GerDracor/gerstenberg-ugolino.xml,2423,2463,"Mein geliebter, mein edler Sohn Anselmo!",positive,emotions of affection,admiration
+52,GerDracor/gerstenberg-ugolino.xml,2464,2493,Mein männlicher Sohn Anselmo!,emotional movement,emotional movement,joy
+53,GerDracor/gerstenberg-ugolino.xml,2494,2512,auf und ab gehend.,emotional movement,emotional movement,emotional movement
+54,GerDracor/gerstenberg-ugolino.xml,2513,2599,Ich bin nur dreizehn Jahre alt: aber Ugolino Gherardesca hat mich seinen Sohn genannt.,positive,emotions of affection,love
+55,GerDracor/gerstenberg-ugolino.xml,2612,2694,"Männlicher Sohn ist zu viel: aber genug, Gherardesca hat mich seinen Sohn genannt!",positive,emotions of rejection,anger
+56,GerDracor/gerstenberg-ugolino.xml,2707,2818,"Zittre du, o du, den ich itzt denke, zittre vor dem Sohne Gherardescas, wenn er ein Mann
+            sein wird!",negative,emotions of fear,fear
+57,GerDracor/gerstenberg-ugolino.xml,2819,2890,"Welch großer Gedanke drängt sich, und keimt auf in deiner zarten Seele?",emotional movement,emotions of suffering,emotional movement
+58,GerDracor/gerstenberg-ugolino.xml,2903,2920,Bewundernswürdig!,positive,emotions of affection,admiration
+59,GerDracor/gerstenberg-ugolino.xml,2921,3067,"Ein Sprung vom Turme, sagte Francesco, ist ein kühner Gedanke: allein ein kühner
+            Gedanke, setzte er hinzu, ist ein angenehmer Gedanke.",positive,emotions of joy,joy
+60,GerDracor/gerstenberg-ugolino.xml,3068,3162,"Es ist wahr; je höher ich mir den
+            Turm denke, desto höher erhebt sich meine Seele.",positive,emotions of joy,joy
+61,GerDracor/gerstenberg-ugolino.xml,3163,3167,Nun?,emotional movement,emotional movement,emotional movement
+62,GerDracor/gerstenberg-ugolino.xml,3168,3229,"Wie ärgert's mich, daß Francesco mir darin zuvorkommen mußte!",negative,emotions of rejection,anger
+63,GerDracor/gerstenberg-ugolino.xml,3230,3254,"Was schwärmst du, Knabe?",positive,emotions of rejection,love
+64,GerDracor/gerstenberg-ugolino.xml,3255,3273,Worin zuvorkommen?,emotional movement,emotional movement,emotional movement
+65,GerDracor/gerstenberg-ugolino.xml,3274,3288,Das zu denken!,negative,emotions of suffering,anger
+66,GerDracor/gerstenberg-ugolino.xml,3289,3293,ach!,negative,emotions of suffering,suffering
+67,GerDracor/gerstenberg-ugolino.xml,3294,3377,"– In jedem entzückenden gefahrvollen Gedanken läßt er mich hinter
+            sich.",positive,emotions of joy,joy
+68,GerDracor/gerstenberg-ugolino.xml,3378,3440,"Du würdest mich  Ruggieri, laß deinen Grimm diesen Weg nehmen!",negative,emotions of rejection,anger
+69,GerDracor/gerstenberg-ugolino.xml,3442,3464,Auf sein Herz zeigend.,positive,emotions of affection,love
+70,GerDracor/gerstenberg-ugolino.xml,3465,3477,erschrocken.,emotional movement,emotions of fear,emotional movement
+71,GerDracor/gerstenberg-ugolino.xml,3478,3494,Wen nanntest du?,emotional movement,emotional movement,emotional movement
+72,GerDracor/gerstenberg-ugolino.xml,3495,3510,"Ah, mein Vater!",positive,emotions of joy,joy
+73,GerDracor/gerstenberg-ugolino.xml,3511,3520,Ruggieri?,emotional movement,emotional movement,emotional movement
+74,GerDracor/gerstenberg-ugolino.xml,3521,3546,"O sieh, sieh, mein Vater!",positive,emotions of joy,joy
+75,GerDracor/gerstenberg-ugolino.xml,3548,3575,Hält ihm seinen Nacken hin.,negative,emotions of rejection,suffering
+76,GerDracor/gerstenberg-ugolino.xml,3576,3584,Traurig!,negative,emotions of suffering,suffering
+77,GerDracor/gerstenberg-ugolino.xml,3585,3596,jammervoll!,negative,emotions of suffering,compassion
+78,GerDracor/gerstenberg-ugolino.xml,3597,3627,wie sie in meiner Seele wütet!,negative,emotions of rejection,suffering
+79,GerDracor/gerstenberg-ugolino.xml,3628,3647,o diese Erinnerung!,negative,emotions of suffering,suffering
+80,GerDracor/gerstenberg-ugolino.xml,3648,3663,Er schlug mich!,negative,emotions of rejection,anger
+81,GerDracor/gerstenberg-ugolino.xml,3664,3689,So hob er seine Hand auf!,positive,emotions of affection,admiration
+82,GerDracor/gerstenberg-ugolino.xml,3690,3712,– Dann schlug er mich.,negative,emotions of rejection,anger
+83,GerDracor/gerstenberg-ugolino.xml,3713,3783,"Weder mein Vater, noch
+            meine Mutter haben mich geschlagen.",negative,emotions of rejection,anger
+84,GerDracor/gerstenberg-ugolino.xml,3784,3888,"Meine Mutter wollte mich in ihrem Busen verbergen;
+            und der eiserne Erzbischof traf auch sie.",positive,emotions of suffering,love
+85,GerDracor/gerstenberg-ugolino.xml,3889,3944,Und wo war ich bei dieser schändlichen grausamen Szene?,negative,emotions of suffering,emotional movement
+86,GerDracor/gerstenberg-ugolino.xml,3945,3956,"Ah, Barbar!",negative,emotions of rejection,"hate, disgust"
+87,GerDracor/gerstenberg-ugolino.xml,3957,3968,das ist es!,positive,emotions of joy,joy
+88,GerDracor/gerstenberg-ugolino.xml,3969,3994,"das
+            schmerzt!",negative,emotions of suffering,suffering
+89,GerDracor/gerstenberg-ugolino.xml,3995,4117,"Daß deine Büttel mich unter der schwärzesten aller Nächte (verbannt sei sie
+            auf ewig aus meinem Gedächtnisse!)",negative,emotions of rejection,"hate, disgust"
+90,GerDracor/gerstenberg-ugolino.xml,4118,4380,"niederdrücken mußten, daß ich nicht um mich her
+            schauen, nicht in dem gerechten Zorne meiner Seele mich erheben, dich nicht zwischen
+            meine ausgestreckten Hände fassen, dir nicht das verruchte Herz aus dem Leibe drücken
+            konnte!",negative,emotions of rejection,suffering
+91,GerDracor/gerstenberg-ugolino.xml,4381,4489,"Doch du tatst wohl, daß du den Bären aus seiner Höhle entferntest, und Dank sei
+            deiner Weisheit!",positive,emotions of joy,Schadenfreude
+92,GerDracor/gerstenberg-ugolino.xml,4490,4518,"Beruhigt euch, meine Kinder!",emotional movement,emotional movement,emotional movement
+93,GerDracor/gerstenberg-ugolino.xml,4519,4536,"Wie ist's, Gaddo?",emotional movement,emotional movement,emotional movement
+94,GerDracor/gerstenberg-ugolino.xml,4537,4602,"Sage mir, mein Vater, warum ward dieses Fenster so klein gemacht?",negative,emotional movement,emotional movement
+95,GerDracor/gerstenberg-ugolino.xml,4603,4638,"Daß man nicht durchschlüpfe, Gaddo.",negative,emotions of fear,fear
+96,GerDracor/gerstenberg-ugolino.xml,4639,4663,Ein glücklicher Einfall!,positive,emotions of joy,joy
+97,GerDracor/gerstenberg-ugolino.xml,4664,4799,"Man hat vorausgesehn, daß der Erzbischof versuchen würde, zu
+            uns zu kommen, und darum hat man das Fenster so klein gemacht.",negative,emotions of rejection,fear
+98,GerDracor/gerstenberg-ugolino.xml,4800,4818,Ein guter Einfall!,positive,emotions of joy,joy
+99,GerDracor/gerstenberg-ugolino.xml,4819,4897,"Ich
+            wunderte mich schon, daß er uns so lange in Ruhe gelassen hat.",emotional movement,emotions of rejection,emotional movement
+100,GerDracor/gerstenberg-ugolino.xml,4898,4919,"Wollte Gott, er käme!",negative,emotions of fear,fear
+101,GerDracor/gerstenberg-ugolino.xml,4920,4934,"Pfui, Anselmo!",negative,emotions of rejection,"hate, disgust"
+102,GerDracor/gerstenberg-ugolino.xml,4935,4978,"Ich sage noch einmal, wollte Gott, er käme.",negative,emotions of fear,love
+103,GerDracor/gerstenberg-ugolino.xml,4979,5030,"Das Blut starrt mir in den Adern, du böser Anselmo.",negative,emotions of suffering,"hate, disgust"
+104,GerDracor/gerstenberg-ugolino.xml,5031,5194,"Aber wohl zu verstehn, durch dies kleine Fenster: den Kopf voran, und die übrige
+            Schlange strotzte draußen im Freien, und könnte sich nicht nachwinden!",negative,emotions of rejection,Schadenfreude
+105,GerDracor/gerstenberg-ugolino.xml,5195,5245,"und ich stünde
+            hinter ihm an der Wand!",negative,emotions of rejection,"hate, disgust"
+106,GerDracor/gerstenberg-ugolino.xml,5246,5255,ungesehn!,negative,emotions of rejection,emotional movement
+107,GerDracor/gerstenberg-ugolino.xml,5256,5267,"Hei, Gaddo!",positive,emotions of joy,joy
+108,GerDracor/gerstenberg-ugolino.xml,5268,5281,Umarmt Gaddo.,positive,emotions of affection,joy
+109,GerDracor/gerstenberg-ugolino.xml,5282,5294,Mutwilliger!,negative,emotions of rejection,anger
+110,GerDracor/gerstenberg-ugolino.xml,5295,5334,Er würde seine Büttel mit sich bringen.,positive,emotions of rejection,anger
+111,GerDracor/gerstenberg-ugolino.xml,5335,5365,Die möchten wieder heimkehren.,positive,emotions of suffering,joy
+112,GerDracor/gerstenberg-ugolino.xml,5366,5409,"Ich wünsche keinem Menschen Arges, als ihm.",negative,emotions of rejection,"hate, disgust"
+113,GerDracor/gerstenberg-ugolino.xml,5410,5438,Hat er dich auch geschlagen?,negative,emotions of rejection,anger
+114,GerDracor/gerstenberg-ugolino.xml,5439,5461,"Was Schlimmers, Gaddo.",negative,emotions of suffering,compassion
+115,GerDracor/gerstenberg-ugolino.xml,5462,5482,Er hat mich gehöhnt.,negative,emotions of suffering,"hate, disgust"
+116,GerDracor/gerstenberg-ugolino.xml,5483,5491,Gehöhnt?,negative,emotional movement,suffering
+117,GerDracor/gerstenberg-ugolino.xml,5492,5637,"Er hob mich auf seine verhaßten Arme, als wäre ich ein Säugling, setzte mir sein Barett
+            auf den Kopf, und nannte mich Prinz von Pisa.",negative,emotions of rejection,"hate, disgust"
+118,GerDracor/gerstenberg-ugolino.xml,5638,5653,Prinz von Pisa?,emotional movement,emotional movement,emotional movement
+119,GerDracor/gerstenberg-ugolino.xml,5654,5666,Was ist das?,negative,emotional movement,emotional movement
+120,GerDracor/gerstenberg-ugolino.xml,5667,5732,"Merkst du denn nicht, daß er unsers großen Vaters spotten wollte?",negative,emotions of rejection,anger
+121,GerDracor/gerstenberg-ugolino.xml,5733,5746,So scheint's.,negative,emotions of suffering,suffering
+122,GerDracor/gerstenberg-ugolino.xml,5747,5754,Und du?,emotional movement,emotional movement,emotional movement
+123,GerDracor/gerstenberg-ugolino.xml,5755,5768,Ich zitterte.,negative,emotions of fear,fear
+124,GerDracor/gerstenberg-ugolino.xml,5769,5804,"»Bischof!« stammelte ich, »Bischof!",negative,emotional movement,emotional movement
+125,GerDracor/gerstenberg-ugolino.xml,5805,5811,warum?,emotional movement,emotional movement,emotional movement
+126,GerDracor/gerstenberg-ugolino.xml,5812,5816,wie?,emotional movement,emotional movement,emotional movement
+127,GerDracor/gerstenberg-ugolino.xml,5817,5839,für was diese Krönung?,positive,emotional movement,emotional movement
+128,GerDracor/gerstenberg-ugolino.xml,5852,5894,"Ich mache keine Ansprüche darauf, Bischof.",negative,emotions of rejection,admiration
+129,GerDracor/gerstenberg-ugolino.xml,5895,5970,"Ich lege das Diadema – zu deinen Füßen.« –
+            Weg flog das Barett.",positive,emotions of affection,love
+130,GerDracor/gerstenberg-ugolino.xml,5971,6017,"Gut war's, daß du das Barett nicht behieltest.",positive,emotions of joy,joy
+131,GerDracor/gerstenberg-ugolino.xml,6018,6103,"Wer weiß, es könnt ihn gereut haben; und
+            so hätt er dich auch geschlagen.",negative,emotions of suffering,anger
+132,GerDracor/gerstenberg-ugolino.xml,6104,6134,Ihr Kinder macht mich lächeln.,positive,emotions of joy,joy
+133,GerDracor/gerstenberg-ugolino.xml,6135,6211,"Wie, mein kleiner Freund, du warfst ihm das Barett vor
+            die Füße?",emotional movement,emotions of rejection,anger
+134,GerDracor/gerstenberg-ugolino.xml,6212,6234,Was sagte der Mann da?,emotional movement,emotional movement,emotional movement
+135,GerDracor/gerstenberg-ugolino.xml,6235,6396,"Seine plumpen Augen schwollen ihm ganz dick im Kopf auf, recht so, wie ich's an der
+            Kröte gesehen habe, die Francesco mit dem Wurf einer Orange traf.",negative,emotions of suffering,suffering
+136,GerDracor/gerstenberg-ugolino.xml,6397,6594,"Er preßte mich fest an
+            sich, kniff blaue Mäler in meinen Arm, biß die Lippen zusammen, und ließ sie dann
+            hangen, sprach kein Wörtchen, nahm das Barett langsam vom Boden auf.",negative,emotions of affection,suffering
+137,GerDracor/gerstenberg-ugolino.xml,6595,6736,"Traun, er kam mir
+            so hölzern vor, daß ich ihn im Bücken von mir stieß, und mit einem Schwünge seinen Armen
+            entsprang.",negative,emotions of affection,love
+138,GerDracor/gerstenberg-ugolino.xml,6737,6771,Was für boshafte Menschen es gibt!,positive,emotions of rejection,anger
+139,GerDracor/gerstenberg-ugolino.xml,6772,6844,"Er kniff dich doch, ob du ihm gleich das Barett
+            zurückgabst!",negative,emotions of rejection,anger
+140,GerDracor/gerstenberg-ugolino.xml,6845,6869,Nun fand er die Sprache.,negative,emotions of joy,joy
+141,GerDracor/gerstenberg-ugolino.xml,6870,7086,"Er rief seinen Sbirren, mich den Buben (so schalt seine Wut)
+            meinem Vater (ich verschweige den Namen seiner Vergiftung: was über seine Zunge geht,
+            wird ein Greuel) – Er hat keine andre Waffen.",negative,emotions of rejection,anger
+142,GerDracor/gerstenberg-ugolino.xml,7087,7170,"– nachzuschleppen, mich aus dem Drachenneste hinweg in den Turmkerker zu schleppen.",negative,emotions of suffering,suffering
+143,GerDracor/gerstenberg-ugolino.xml,7183,7440,"»Ich danke dir«, antwortete ich mit einer Verbeugung, »ein Drachennest ward diese
+            Wohnung erst, da du sie mit deiner Brut betratst.« Ich wollte mehr Ach, Anselmo, du süßer Knabe, kannst du – Du wendest deine teuren Augen von mir weg, mein Vater?",positive,emotions of affection,admiration
+144,GerDracor/gerstenberg-ugolino.xml,7441,7519,"Kannst du – und du, mein sanfter Gaddo – könnt ihr mir vergeben, meine Kinder?",negative,emotions of suffering,compassion
+145,GerDracor/gerstenberg-ugolino.xml,7520,7529,zu Gaddo.,negative,emotional movement,emotional movement
+146,GerDracor/gerstenberg-ugolino.xml,7530,7563,Unser Vater ist wunderbar bewegt.,emotional movement,emotional movement,emotional movement
+147,GerDracor/gerstenberg-ugolino.xml,7564,7591,Wie er mir die Hand drückt!,positive,emotions of affection,joy
+148,GerDracor/gerstenberg-ugolino.xml,7592,7606,Nur dies noch.,negative,emotions of fear,despair
+149,GerDracor/gerstenberg-ugolino.xml,7607,7639,"– Ihr Unschuldigen, vergebt mir!",negative,emotions of suffering,compassion
+150,GerDracor/gerstenberg-ugolino.xml,7640,7644,Ach!,negative,emotions of suffering,suffering
+151,GerDracor/gerstenberg-ugolino.xml,7645,7667,"er zürnt, unser Vater.",negative,emotions of rejection,anger
+152,GerDracor/gerstenberg-ugolino.xml,7668,7686,Was mag er meinen?,emotional movement,emotional movement,emotional movement
+153,GerDracor/gerstenberg-ugolino.xml,7687,7722,Er riß sich mit Gewalt von uns los.,negative,emotions of rejection,"hate, disgust"
+154,GerDracor/gerstenberg-ugolino.xml,7723,7904,"Er wollte noch etwas sagen; ich sah's; er zwang die
+            Sprache zurück in seine männliche Brust; eine hohle dumpfigte Sprache, wie eines
+            Schluchzenden – weinend.",negative,emotions of suffering,suffering
+155,GerDracor/gerstenberg-ugolino.xml,7905,7908,Ah!,positive,emotional movement,emotional movement
+156,GerDracor/gerstenberg-ugolino.xml,7909,7922,Fürchterlich!,negative,emotions of suffering,fear
+157,GerDracor/gerstenberg-ugolino.xml,7923,7950,"Erblasse nicht so, Anselmo!",negative,emotions of suffering,compassion
+158,GerDracor/gerstenberg-ugolino.xml,7951,7980,Du erschreckst mich nur mehr.,negative,emotions of fear,fear
+159,GerDracor/gerstenberg-ugolino.xml,7981,8003,Er wendet sich zu uns.,negative,emotional movement,suffering
+160,GerDracor/gerstenberg-ugolino.xml,8004,8022,Holdseliger Vater!,positive,emotions of joy,joy
+161,GerDracor/gerstenberg-ugolino.xml,8023,8044,wie er uns anlächelt!,positive,emotions of joy,joy
+162,GerDracor/gerstenberg-ugolino.xml,8045,8056,setzt sich.,emotional movement,emotional movement,anger
+163,GerDracor/gerstenberg-ugolino.xml,8057,8193,"Komm her, mein Gaddo – wenn die Entkräftung dir noch so viel Schritte erlaubt –
+            geliebtes Kind –  Hebt ihn auf seinen Schoß.",positive,emotions of affection,love
+164,GerDracor/gerstenberg-ugolino.xml,8194,8198,Ich?,emotional movement,emotional movement,emotional movement
+165,GerDracor/gerstenberg-ugolino.xml,8199,8226,ich sollte entkräftet sein?,emotional movement,emotional movement,emotional movement
+166,GerDracor/gerstenberg-ugolino.xml,8228,8256,Seines Vaters Hände küssend.,positive,emotions of affection,admiration
+167,GerDracor/gerstenberg-ugolino.xml,8257,8330,"Nein, Vater, belebende Kraft geht von deinem Antlitze aus; das ist gewiß.",positive,emotions of affection,love
+168,GerDracor/gerstenberg-ugolino.xml,8331,8354,"Wie alt bist du, Gaddo?",emotional movement,emotional movement,emotional movement
+169,GerDracor/gerstenberg-ugolino.xml,8355,8366,weißt du's?,positive,emotions of joy,emotional movement
+170,GerDracor/gerstenberg-ugolino.xml,8367,8397,"Zwölf Jahre, wo mir recht ist.",positive,emotions of joy,joy
+171,GerDracor/gerstenberg-ugolino.xml,8398,8416,Einfältiger Gaddo!,negative,emotions of rejection,anger
+172,GerDracor/gerstenberg-ugolino.xml,8417,8428,kaum sechs.,positive,emotions of suffering,joy
+173,GerDracor/gerstenberg-ugolino.xml,8429,8446,"Laß ihn, Anselmo.",negative,emotions of suffering,anger
+174,GerDracor/gerstenberg-ugolino.xml,8447,8514,Jammer und Elend haben seinen kleinen Lebenslauf schnell beflügelt.,negative,emotions of suffering,suffering
+175,GerDracor/gerstenberg-ugolino.xml,8527,8558,Er zählt besser als du glaubst.,negative,emotions of affection,admiration
+176,GerDracor/gerstenberg-ugolino.xml,8559,8575,"Wie, mein Vater?",emotional movement,emotional movement,emotional movement
+177,GerDracor/gerstenberg-ugolino.xml,8576,8618,Ich selbst bin wenig über zwölf Jahre alt.,positive,emotions of joy,love
+178,GerDracor/gerstenberg-ugolino.xml,8619,8658,"Ich müßte doch drum
+            wissen.",negative,emotions of suffering,anger
+179,GerDracor/gerstenberg-ugolino.xml,8659,8670,Wahr ist's.,positive,emotions of suffering,suffering
+180,GerDracor/gerstenberg-ugolino.xml,8671,8716,Deine reifern Tage haben viel Freude gekannt.,positive,emotions of joy,joy
+181,GerDracor/gerstenberg-ugolino.xml,8717,8759,"O du liebesvolle
+            Genügsamkeit!",positive,emotions of affection,compassion
+182,GerDracor/gerstenberg-ugolino.xml,8760,8790,"Du hassest Ruggieri, sagst du?",negative,emotions of rejection,"hate, disgust"
+183,GerDracor/gerstenberg-ugolino.xml,8791,8824,"sprich nicht, daß du ihn hassest.",negative,emotions of rejection,"hate, disgust"
+184,GerDracor/gerstenberg-ugolino.xml,8825,8829,Ihn?,emotional movement,emotional movement,emotional movement
+185,GerDracor/gerstenberg-ugolino.xml,8830,8852,Er ist mir ein Grauen!,negative,emotions of rejection,"hate, disgust"
+186,GerDracor/gerstenberg-ugolino.xml,8853,8870,"dir nicht, Gaddo?",negative,emotions of joy,emotional movement
+187,GerDracor/gerstenberg-ugolino.xml,8871,8892,Hassest du ihn nicht?,negative,emotions of rejection,"hate, disgust"
+188,GerDracor/gerstenberg-ugolino.xml,8893,8900,Sprich.,negative,emotions of rejection,anger
+189,GerDracor/gerstenberg-ugolino.xml,8901,8925,"Ich fürcht ihn, Anselmo.",negative,emotions of fear,fear
+190,GerDracor/gerstenberg-ugolino.xml,8926,8966,"Daß ich ihn hasse, kann ich nicht sagen.",negative,emotions of rejection,"hate, disgust"
+191,GerDracor/gerstenberg-ugolino.xml,8967,9007,"Ich weiß nicht, was
+            das ist.",emotional movement,emotional movement,emotional movement
+192,GerDracor/gerstenberg-ugolino.xml,9008,9025,Gaddo liebt mich.,positive,emotions of affection,love
+193,GerDracor/gerstenberg-ugolino.xml,9026,9104,"Nicht mehr, als ich dich liebe; nicht mehr als ich deinetwegen Ruggieri hasse!",positive,emotions of rejection,love
+194,GerDracor/gerstenberg-ugolino.xml,9105,9117,Meinetwegen?,emotional movement,emotional movement,emotional movement
+195,GerDracor/gerstenberg-ugolino.xml,9118,9192,"Deinetwegen: deiner zerstörten Glückseligkeit wegen, du Befreier von Pisa!",positive,emotions of joy,joy
+196,GerDracor/gerstenberg-ugolino.xml,9193,9270,"laß mich
+            dich dies erstemal mit diesem Namen nennen, großer Mann!",positive,emotions of affection,admiration
+197,GerDracor/gerstenberg-ugolino.xml,9271,9340,"Aber auch meiner Mutter wegen;
+            ihrer vielen Tränen wegen!",negative,emotions of suffering,suffering
+198,GerDracor/gerstenberg-ugolino.xml,9341,9364,Aber auch Gaddos wegen!,positive,emotions of rejection,emotional movement
+199,GerDracor/gerstenberg-ugolino.xml,9365,9453,"sollt ich den Feind deiner Ehre, den
+            Urheber deines Verderbens nicht hassen?",negative,emotions of rejection,"hate, disgust"
+200,GerDracor/gerstenberg-ugolino.xml,9454,9521,"Mein Vater, so müßt ich mich selbst hassen;
+            vergib mir.",negative,emotions of rejection,"hate, disgust"
+201,GerDracor/gerstenberg-ugolino.xml,9522,9535,Nicht weiter!,negative,emotions of rejection,anger
+202,GerDracor/gerstenberg-ugolino.xml,9536,9573,nicht weiter grausamer junger Mensch.,negative,emotions of rejection,"hate, disgust"
+203,GerDracor/gerstenberg-ugolino.xml,9574,9642,"Du bis schwerer zu ertragen, als
+            ein unruhiges Gewissen.",negative,emotions of suffering,suffering
+204,GerDracor/gerstenberg-ugolino.xml,9643,9654,Mein Vater!,emotional movement,emotional movement,emotional movement
+205,GerDracor/gerstenberg-ugolino.xml,9655,9659,Geh!,negative,emotions of rejection,fear
+206,GerDracor/gerstenberg-ugolino.xml,9660,9698,"Den Urheber – Geh, sag ich, entfleuch!",negative,emotions of rejection,anger
+207,GerDracor/gerstenberg-ugolino.xml,9699,9710,Vergib mir.,negative,emotions of suffering,compassion
+208,GerDracor/gerstenberg-ugolino.xml,9711,9746,Den Störer deiner Ruhe – Verstumme!,negative,emotions of rejection,anger
+209,GerDracor/gerstenberg-ugolino.xml,9747,9754,Zittre!,negative,emotions of fear,fear
+210,GerDracor/gerstenberg-ugolino.xml,9755,9802,Den Herrschsüchtigen – Zittre; du hassest mich!,negative,emotions of rejection,"hate, disgust"
+211,GerDracor/gerstenberg-ugolino.xml,9803,9915,"Der Urheber eures Verderbens, der Störer eurer Ruhe, der
+            Herrschsüchtige, der Verräter, der bin ich!",negative,emotions of rejection,"hate, disgust"
+212,GerDracor/gerstenberg-ugolino.xml,9916,9938,"Genug, Schmerzenssohn!",negative,emotions of rejection,anger
+213,GerDracor/gerstenberg-ugolino.xml,9939,10003,"Du hast nicht
+            verdient, was du für mich leiden mußt.",negative,emotions of suffering,suffering
+214,GerDracor/gerstenberg-ugolino.xml,10004,10013,zu Gaddo.,negative,emotional movement,emotional movement
+215,GerDracor/gerstenberg-ugolino.xml,10014,10058,Neue Wolken gehn in unsers Vaters Augen auf.,negative,emotions of suffering,suffering
+216,GerDracor/gerstenberg-ugolino.xml,10059,10078,Ich für ihn leiden?,negative,emotions of suffering,love
+217,GerDracor/gerstenberg-ugolino.xml,10079,10094,"Ach, mit Wonne!",positive,emotions of joy,joy
+218,GerDracor/gerstenberg-ugolino.xml,10095,10117,"mit
+            Wonne!",positive,emotions of joy,joy
+219,GerDracor/gerstenberg-ugolino.xml,10118,10147,wenn nur er dann nicht litte!,negative,emotions of suffering,compassion
+220,GerDracor/gerstenberg-ugolino.xml,10148,10220,"Nicht wahr, Gaddo, du wolltest auch für unsern
+            Vater leiden?",negative,emotions of suffering,compassion
+221,GerDracor/gerstenberg-ugolino.xml,10221,10233,wolltest du?,negative,emotions of affection,anger
+222,GerDracor/gerstenberg-ugolino.xml,10234,10239,O ja!,positive,emotional movement,anger
+223,GerDracor/gerstenberg-ugolino.xml,10240,10277,"viel lieber, als ihn so traurig sehn.",negative,emotions of suffering,suffering
+224,GerDracor/gerstenberg-ugolino.xml,10278,10301,Und worüber so traurig?,negative,emotions of suffering,suffering
+225,GerDracor/gerstenberg-ugolino.xml,10302,10343,sind wir nicht hier bei dem besten Manne?,positive,emotions of affection,joy
+226,GerDracor/gerstenberg-ugolino.xml,10344,10404,"Du auf seinem Schoße,
+            ich in seinen Arm gelehnt?",positive,emotions of affection,love
+227,GerDracor/gerstenberg-ugolino.xml,10405,10575,"Wenn jemand sich zu beklagen hat, so ist's unsre Mutter – Der der Mann mit dem traurigen Namen so unfreundlich begegnete – Recht, daß er sie allein im Palaste zurückließ.",negative,emotions of suffering,compassion
+228,GerDracor/gerstenberg-ugolino.xml,10576,10680,"Hier hätt er sie herschicken sollen;
+            und wir wären eine Welt der Freude füreinander gewesen.",positive,emotions of joy,joy
+229,GerDracor/gerstenberg-ugolino.xml,10681,10761,"Dies einzige ist's, glaube mir,
+            Gaddo, denn was könnt es sonst sein?",positive,emotions of affection,love
+230,GerDracor/gerstenberg-ugolino.xml,10762,10802,was unsern Vater so  Läuft ihm entgegen.,negative,emotions of suffering,joy
+231,GerDracor/gerstenberg-ugolino.xml,10803,10820,leise zu Anselmo.,negative,emotional movement,emotional movement
+232,GerDracor/gerstenberg-ugolino.xml,10821,10893,Freue dich Anselmo: der Entwurf ist reif; und er soll ausgeführt werden.,positive,emotions of joy,joy
+233,GerDracor/gerstenberg-ugolino.xml,10894,10960,Ist irgendein Beinbruch oder Armbruch oder so was damit verbunden?,emotional movement,emotions of suffering,fear
+234,GerDracor/gerstenberg-ugolino.xml,10961,11026,"Nein, das ist eben das Schlimme, daß die Sache so gar leicht ist.",negative,emotions of suffering,suffering
+235,GerDracor/gerstenberg-ugolino.xml,11027,11080,"Nicht die mindeste
+            Gefahr, auf mein Wort.",negative,emotions of fear,fear
+236,GerDracor/gerstenberg-ugolino.xml,11081,11094,Erkläre dich.,negative,emotional movement,anger
+237,GerDracor/gerstenberg-ugolino.xml,11095,11128,Du hast die Öffnung gesehn – Was?,emotional movement,emotional movement,emotional movement
+238,GerDracor/gerstenberg-ugolino.xml,11129,11165,die Öffnung in der Spitze des Turms?,emotional movement,emotional movement,emotional movement
+239,GerDracor/gerstenberg-ugolino.xml,11166,11189,Du schwärmst Francesco!,positive,emotions of rejection,love
+240,GerDracor/gerstenberg-ugolino.xml,11190,11195,Haha!,positive,emotions of joy,joy
+241,GerDracor/gerstenberg-ugolino.xml,11196,11219,schwindelt dir so früh?,negative,emotions of rejection,emotional movement
+242,GerDracor/gerstenberg-ugolino.xml,11220,11272,"Die Öffnung, sagst du, oben an der Spitze des Turms!",negative,emotions of joy,emotional movement
+243,GerDracor/gerstenberg-ugolino.xml,11273,11282,Geh doch!,negative,emotions of fear,fear
+244,GerDracor/gerstenberg-ugolino.xml,11283,11287,geh!,negative,emotions of rejection,fear
+245,GerDracor/gerstenberg-ugolino.xml,11288,11418,"dieser Gedanke ist
+            so erhaben, daß ich ihn dir nicht nachdenken kann: um desto mehr aber bewundre ich
+            ihn.",negative,emotions of fear,admiration
+246,GerDracor/gerstenberg-ugolino.xml,11419,11431,Schmeichler!,positive,emotions of affection,anger
+247,GerDracor/gerstenberg-ugolino.xml,11432,11457,Ganz wider meine Absicht.,negative,emotions of rejection,emotional movement
+248,GerDracor/gerstenberg-ugolino.xml,11458,11515,"Überdem getraut ich mir kaum, ein Bein hindurchzubringen.",negative,emotions of fear,suffering
+249,GerDracor/gerstenberg-ugolino.xml,11516,11533,Nicht gestritten!,negative,emotions of rejection,anger
+250,GerDracor/gerstenberg-ugolino.xml,11534,11649,"Ich sage dir Bübchen, die Öffnung ist so groß, daß sie beide
+            durchschlüpfen, Kopf und Arme hintendrein.",positive,emotions of joy,joy
+251,GerDracor/gerstenberg-ugolino.xml,11650,11678,Und wie hast du das gemacht?,emotional movement,emotional movement,emotional movement
+252,GerDracor/gerstenberg-ugolino.xml,11679,11695,Wie macht man's?,emotional movement,emotional movement,emotional movement
+253,GerDracor/gerstenberg-ugolino.xml,11696,11875,"Erst hab ich einen Stein gelöst, dann wieder einen, dann noch einen,
+            und abermals einen gelöst: genug, Schwätzer, wenn du mir nicht glaubst, komm und
+            sieh.",negative,emotions of rejection,anger
+254,GerDracor/gerstenberg-ugolino.xml,11876,11943,Dann springst du von oben mit einem Sprunge aufs Pflaster herunter!,positive,emotions of joy,emotional movement
+255,GerDracor/gerstenberg-ugolino.xml,11944,11951,Patsch!,negative,emotions of rejection,anger
+256,GerDracor/gerstenberg-ugolino.xml,11952,11979,"war's nicht
+            so?",negative,emotional movement,emotional movement
+257,GerDracor/gerstenberg-ugolino.xml,11980,11996,Nicht völlig so.,negative,emotions of affection,joy
+258,GerDracor/gerstenberg-ugolino.xml,11997,12057,"Mit Absätzen spring ich, wie das Eichhörnchen vom Ahornbaum.",negative,emotions of fear,emotional movement
+259,GerDracor/gerstenberg-ugolino.xml,12058,12096,"Du hast's
+            ja wohl gesehen.",positive,emotions of joy,joy
+260,GerDracor/gerstenberg-ugolino.xml,12097,12126,"Ich springe doch mit, Lieber?",positive,emotions of joy,fear
+261,GerDracor/gerstenberg-ugolino.xml,12127,12199,"Nun du mir davon sprichst, wird's mir ja ganz warm im
+            Kopfe.",positive,emotions of joy,joy
+262,GerDracor/gerstenberg-ugolino.xml,12200,12206,Nicht?,negative,emotions of joy,emotional movement
+263,GerDracor/gerstenberg-ugolino.xml,12207,12239,"ich springe doch mit, Francesco?",positive,emotions of joy,joy
+264,GerDracor/gerstenberg-ugolino.xml,12240,12251,Nicht doch!,negative,emotions of suffering,emotional movement
+265,GerDracor/gerstenberg-ugolino.xml,12252,12311,Du schreitest mit aller Gemächlichkeit zur Turmtüre hinaus.,emotional movement,emotional movement,emotional movement
+266,GerDracor/gerstenberg-ugolino.xml,12312,12398,"Was ist
+            begreiflicher, als daß ich die Turmtüre öffne, wenn ich unten bin?",positive,emotions of rejection,emotional movement
+267,GerDracor/gerstenberg-ugolino.xml,12399,12442,"Doch dies muß seine
+            Zeit haben.",negative,emotions of suffering,emotional movement
+268,GerDracor/gerstenberg-ugolino.xml,12443,12498,"Soviel verspreche ich, ehe der Morgen kömmt,  horchend.",negative,emotions of rejection,anger
+269,GerDracor/gerstenberg-ugolino.xml,12499,12515,Ach lieber Gott!,negative,emotions of fear,fear
+270,GerDracor/gerstenberg-ugolino.xml,12516,12542,dann wird gegessen werden!,positive,emotions of rejection,joy
+271,GerDracor/gerstenberg-ugolino.xml,12543,12551,traurig.,negative,emotions of suffering,suffering
+272,GerDracor/gerstenberg-ugolino.xml,12552,12626,"Und ich soll unten wie ein armseliger Tropf, zur Turmtüre hinausschreiten?",negative,emotions of suffering,suffering
+273,GerDracor/gerstenberg-ugolino.xml,12627,12661,"was sag ich
+            schreiten?",negative,emotions of fear,emotional movement
+274,GerDracor/gerstenberg-ugolino.xml,12662,12673,schleichen!,negative,emotions of rejection,fear
+275,GerDracor/gerstenberg-ugolino.xml,12674,12724,Eher soll man mich bei den Haaren hinausschleppen!,negative,emotions of rejection,anger
+276,GerDracor/gerstenberg-ugolino.xml,12725,12771,"Merke dir's,
+            Stolzer, ich springe!",negative,emotions of joy,fear
+277,GerDracor/gerstenberg-ugolino.xml,12772,12821,"Tor, wird unser Vater nicht auch hinausschreiten?",negative,emotions of fear,fear
+278,GerDracor/gerstenberg-ugolino.xml,12822,12881,"der seines Vaters Schoß verläßt, und Anselmo am Rock zupft.",emotional movement,emotions of affection,suffering
+279,GerDracor/gerstenberg-ugolino.xml,12882,12914,"Sprich, daß du schreiten willst!",negative,emotions of fear,fear
+280,GerDracor/gerstenberg-ugolino.xml,12915,12937,Was ist daran gelegen?,emotional movement,emotional movement,emotional movement
+281,GerDracor/gerstenberg-ugolino.xml,12938,12962,Geht's doch hinauswärts!,negative,emotions of rejection,anger
+282,GerDracor/gerstenberg-ugolino.xml,12963,12974,auffahrend.,emotional movement,emotional movement,emotional movement
+283,GerDracor/gerstenberg-ugolino.xml,12975,12995,Was habt ihr Kinder?,negative,emotional movement,emotional movement
+284,GerDracor/gerstenberg-ugolino.xml,12996,13111,"Mein Vater, es findet sich im Turm eine Öffnung – eine Öffnung – von der ich dein
+            Urteil wissen möchte.",negative,emotional movement,anger
+285,GerDracor/gerstenberg-ugolino.xml,13112,13236,"Der heftige Sturm, der über uns im Gewölke kracht, und die Spitze schüttelt, hat
+            vermutlich die Mauer zerrissen.",negative,emotions of fear,suffering
+286,GerDracor/gerstenberg-ugolino.xml,13237,13291,"Ist der Riß so tief, daß man auf die Gasse sehen kann?",negative,emotions of fear,suffering
+287,GerDracor/gerstenberg-ugolino.xml,13304,13473,"Es würde mir ein neuer schöner Anblick sein, auch außer diesen Wänden Menschen, das Bild
+            Gottes, zu erblicken; sowenig die in Pisa es um mich verdient haben.",positive,emotions of suffering,joy
+288,GerDracor/gerstenberg-ugolino.xml,13474,13483,O Himmel!,negative,emotions of suffering,fear
+289,GerDracor/gerstenberg-ugolino.xml,13484,13518,"einen Riß nennst du's, mein Vater?",negative,emotions of suffering,anger
+290,GerDracor/gerstenberg-ugolino.xml,13519,13553,"Komm, komm, du sollst Wunder sehn.",positive,emotions of joy,joy
+291,GerDracor/gerstenberg-ugolino.xml,13554,13557,Ha!,emotional movement,emotional movement,emotional movement
+292,GerDracor/gerstenberg-ugolino.xml,13558,13589,"ist's mehr, als ein bloßer Riß?",negative,emotions of suffering,emotional movement
+293,GerDracor/gerstenberg-ugolino.xml,13590,13742,"Einen Schlund nenn es, mein Vater; wofern man das einen Schlund nennen kann, was den
+            Leib eines Menschen durchläßt – Was sagst du, Jüngling?",negative,emotional movement,anger
+294,GerDracor/gerstenberg-ugolino.xml,13743,13786,Du treibst mir das Herz an den Hals hinauf!,positive,emotions of affection,suffering
+295,GerDracor/gerstenberg-ugolino.xml,13787,13790,Ha!,emotional movement,emotional movement,emotional movement
+296,GerDracor/gerstenberg-ugolino.xml,13791,13827,"geschwind laß
+            mich sehn.",positive,emotional movement,joy
+297,GerDracor/gerstenberg-ugolino.xml,13828,13842,winkt Anselmo.,negative,emotions of rejection,anger
+298,GerDracor/gerstenberg-ugolino.xml,13843,13940,"Gib acht, Bübchen, unser Vater wird's nicht nur verstatten: er wird mich drum
+            bitten.",positive,emotions of rejection,fear
+299,GerDracor/gerstenberg-ugolino.xml,13941,13948,Hurtig!,positive,emotions of rejection,emotional movement
+300,GerDracor/gerstenberg-ugolino.xml,13949,13956,hurtig!,negative,emotions of fear,emotional movement
+301,GerDracor/gerstenberg-ugolino.xml,13957,13979,Geht mit Francesco ab.,negative,emotions of rejection,fear
+302,GerDracor/gerstenberg-ugolino.xml,13980,14021,Bemerktest du den Übermut unsers Bruders?,positive,emotions of rejection,emotional movement
+303,GerDracor/gerstenberg-ugolino.xml,14022,14077,"O Gaddo, es ist ein unerträglicher
+            Gedanke!",negative,emotions of suffering,suffering
+304,GerDracor/gerstenberg-ugolino.xml,14078,14109,Ein unerträglich süßer Gedanke!,negative,emotions of suffering,suffering
+305,GerDracor/gerstenberg-ugolino.xml,14110,14139,Nun kann ich's kaum abwarten.,positive,emotions of joy,joy
+306,GerDracor/gerstenberg-ugolino.xml,14140,14172,Er der Erretter des Gherardesca?,emotional movement,emotional movement,fear
+307,GerDracor/gerstenberg-ugolino.xml,14173,14434,"Wie wird's des Übermütigen Herz aufschwellen, wenn
+            unsere Mutter mit dem Finger hinzeigt, sprechend: »Seht, dies ist mein Erstgeborner, der
+            seinen Vater, und seine beiden Brüder befreite!« Von uns aber sagt man kein
+            Wörtchen!",positive,emotions of joy,joy
+308,GerDracor/gerstenberg-ugolino.xml,14435,14541,"Wenn unsere Mutter das spricht, so wird mir's so lieb sein, als spräche sie es von mir:
+            warum?",positive,emotional movement,joy
+309,GerDracor/gerstenberg-ugolino.xml,14542,14560,es gebührt ihm so!,positive,emotions of affection,admiration
+310,GerDracor/gerstenberg-ugolino.xml,14561,14572,Allerdings.,negative,emotions of suffering,suffering
+311,GerDracor/gerstenberg-ugolino.xml,14573,14636,"Aber hätt ich nicht machen können, daß es mir auch so gebührte?",positive,emotions of affection,admiration
+312,GerDracor/gerstenberg-ugolino.xml,14637,14658,"Schäme dich, Anselmo.",negative,emotions of rejection,anger
+313,GerDracor/gerstenberg-ugolino.xml,14659,14734,"Du liebst Francesco nicht, wenn du ihn nicht loben hören
+            magst.",positive,emotions of affection,love
+314,GerDracor/gerstenberg-ugolino.xml,14735,14808,"O Gaddo, ich lieb ihn gewiß mehr, als du: denn ich möcht ihm gleich sein.",positive,emotions of affection,love
+315,GerDracor/gerstenberg-ugolino.xml,14809,14845,Ugolino und Francesco kommen zurück.,emotional movement,emotional movement,joy
+316,GerDracor/gerstenberg-ugolino.xml,14846,14872,schnell auf und ab gehend.,emotional movement,emotional movement,emotional movement
+317,GerDracor/gerstenberg-ugolino.xml,14873,14934,"Wenn diese Öffnung so tief unten wäre, als sie hoch oben ist!",negative,emotional movement,suffering
+318,GerDracor/gerstenberg-ugolino.xml,14935,14988,"– Glaube nicht, mein Vater, daß sie zu hoch oben ist.",positive,emotions of affection,love
+319,GerDracor/gerstenberg-ugolino.xml,14989,15056,"Du wirst die Zinnen draußen an der
+            Mauer bemerkt haben.",positive,emotions of joy,emotional movement
+320,GerDracor/gerstenberg-ugolino.xml,15057,15104,Gram und Alter haben mich schwerfällig gemacht.,negative,emotions of suffering,suffering
+321,GerDracor/gerstenberg-ugolino.xml,15105,15116,O Ruggieri!,emotional movement,emotions of suffering,suffering
+322,GerDracor/gerstenberg-ugolino.xml,15117,15128,Verworfner!,negative,emotions of rejection,anger
+323,GerDracor/gerstenberg-ugolino.xml,15129,15188,"nur einmal dich
+            so unter meiner Hand zu wissen!",negative,emotions of affection,love
+324,GerDracor/gerstenberg-ugolino.xml,15189,15224,so dein Schlangenhaar zu ergreifen!,negative,emotions of rejection,"hate, disgust"
+325,GerDracor/gerstenberg-ugolino.xml,15225,15288,"so dein Leben an die
+            Spitze meines Fußes zu heften!",positive,emotions of affection,love
+326,GerDracor/gerstenberg-ugolino.xml,15289,15340,so dir die höllische Seele aus dem Leibe zu treten!,negative,emotions of rejection,"hate, disgust"
+327,GerDracor/gerstenberg-ugolino.xml,15341,15361,Königlicher Anblick!,positive,emotions of joy,joy
+328,GerDracor/gerstenberg-ugolino.xml,15362,15387,was wollt ich drum geben!,negative,emotions of affection,emotional movement
+329,GerDracor/gerstenberg-ugolino.xml,15388,15421,Der Zorn schwellt ihm die Lippen!,negative,emotions of rejection,anger
+330,GerDracor/gerstenberg-ugolino.xml,15422,15437,Gib mir Geduld!,negative,emotions of rejection,anger
+331,GerDracor/gerstenberg-ugolino.xml,15438,15453,Gott im Himmel!,negative,emotions of fear,emotional movement
+332,GerDracor/gerstenberg-ugolino.xml,15454,15469,Gib mir Geduld!,negative,emotions of rejection,anger
+333,GerDracor/gerstenberg-ugolino.xml,15470,15496,"Wartet hier, meine Kinder.",negative,emotions of rejection,fear
+334,GerDracor/gerstenberg-ugolino.xml,15497,15534,"Ich komme
+            gleich zu euch.",negative,emotions of joy,joy
+335,GerDracor/gerstenberg-ugolino.xml,15535,15543,Geht ab.,negative,emotions of rejection,emotional movement
+336,GerDracor/gerstenberg-ugolino.xml,15544,15589,Er wird die Öffnung näher untersuchen wollen.,negative,emotions of fear,anger
+337,GerDracor/gerstenberg-ugolino.xml,15590,15784,"Wenn er sich nur nicht im edlen Grimm
+            seines Herzens auf das Ungeheuer herabstürzt, gleich dem erhabnen Vogel, der sich ins
+            Steintal wirft, wo er einen Drachen erblickte.",negative,emotions of rejection,"hate, disgust"
+338,GerDracor/gerstenberg-ugolino.xml,15785,15814,"Fürchte das nicht, Francesco.",negative,emotions of fear,fear
+339,GerDracor/gerstenberg-ugolino.xml,15815,15919,"So aufgebracht unser Vater wider Ruggieri ist, so ist
+            er's doch noch mehr wider sich selbst.",negative,emotions of rejection,emotional movement
+340,GerDracor/gerstenberg-ugolino.xml,15920,15940,Mir zwar ein Rätsel.,emotional movement,emotional movement,emotional movement
+341,GerDracor/gerstenberg-ugolino.xml,15941,16043,"O es ist ein großer, ein wunderbar großer Geist, der in diesem Manne, unserm Vater,
+            wohnt!",positive,emotions of affection,admiration
+342,GerDracor/gerstenberg-ugolino.xml,16044,16110,"Er schmälert seine Verdienste, um sein Schicksal zu rechtfertigen.",negative,emotions of suffering,suffering
+343,GerDracor/gerstenberg-ugolino.xml,16111,16165,"Sie schmälern, die kein Sterblicher zu schmälern wagt?",negative,emotions of rejection,admiration
+344,GerDracor/gerstenberg-ugolino.xml,16166,16187,Sie selbst schmälern?,negative,emotions of rejection,emotional movement
+345,GerDracor/gerstenberg-ugolino.xml,16188,16214,"Wie kann
+            er's?",emotional movement,emotional movement,emotional movement
+346,GerDracor/gerstenberg-ugolino.xml,16215,16259,Pisa seufzte unter dem Joche eines Tyrannen.,negative,emotions of suffering,suffering
+347,GerDracor/gerstenberg-ugolino.xml,16260,16320,"Gherardesca stand auf, und rächte die
+            Seufzende.",negative,emotions of suffering,suffering
+348,GerDracor/gerstenberg-ugolino.xml,16321,16339,War es nicht edel?,positive,emotions of affection,admiration
+349,GerDracor/gerstenberg-ugolino.xml,16340,16362,war es nicht göttlich?,positive,emotions of affection,emotional movement
+350,GerDracor/gerstenberg-ugolino.xml,16363,16380,Was war es nicht!,negative,emotions of rejection,joy
+351,GerDracor/gerstenberg-ugolino.xml,16381,16582,"Aber nun blies ihm Ruggieri, schon lange sein heimlicher Neider, nun
+            blies ihm der Gesandte des Abgrundes, der, um sichrer zu verschlingen, im  Wußte der Heimtückische ihn so zu verwickeln.",negative,emotions of rejection,"hate, disgust"
+352,GerDracor/gerstenberg-ugolino.xml,16583,16600,Ist das die Welt?,emotional movement,emotional movement,emotional movement
+353,GerDracor/gerstenberg-ugolino.xml,16601,16670,"Nun, bei der heiligen
+            Mutter Gottes, ich verabscheue sie!",negative,emotions of rejection,"hate, disgust"
+354,GerDracor/gerstenberg-ugolino.xml,16671,16819,"Die Gualandi, die Sismondi, die Lanfranchi, die Buondelmonti, die Cavicciulli, alle
+            seine Freunde und Bewundrer, sie alle verließen ihn.",positive,emotions of suffering,suffering
+355,GerDracor/gerstenberg-ugolino.xml,16820,16868,"Noch mehr: sie schwuren seinen
+            Fall.",negative,emotions of rejection,admiration
+356,GerDracor/gerstenberg-ugolino.xml,16869,16889,So fiel Gherardesca.,negative,emotions of suffering,suffering
+357,GerDracor/gerstenberg-ugolino.xml,16890,16910,Durch seine Freunde!,positive,emotions of joy,friendship
+358,GerDracor/gerstenberg-ugolino.xml,16911,16929,O es ist unerhört!,negative,emotions of rejection,emotional movement
+359,GerDracor/gerstenberg-ugolino.xml,16930,16946,es ist unerhört!,negative,emotions of rejection,anger
+360,GerDracor/gerstenberg-ugolino.xml,16947,16998,"Francesco, wir sind
+            Gherardescas Söhne!",positive,emotions of joy,joy
+361,GerDracor/gerstenberg-ugolino.xml,16999,17050,"Und ehe der Morgen kömmt, Gherardescas freie Söhne!",positive,emotions of joy,joy
+362,GerDracor/gerstenberg-ugolino.xml,17051,17081,"Gib mir deine Hand, Francesco!",positive,emotions of affection,love
+363,GerDracor/gerstenberg-ugolino.xml,17082,17111,Bei dieser brüderlichen Hand!,positive,emotions of affection,admiration
+364,GerDracor/gerstenberg-ugolino.xml,17112,17180,"gehüllt ins Dunkel dieser
+            schauernden Mitternachtstunde!",negative,emotions of fear,fear
+365,GerDracor/gerstenberg-ugolino.xml,17181,17192,schwör ich!,negative,emotions of affection,anger
+366,GerDracor/gerstenberg-ugolino.xml,17193,17291,"und so möge lautes Hohngelächter mir auf der
+            Ferse folgen, wenn ich vergebens schwöre!",negative,emotions of joy,anger
+367,GerDracor/gerstenberg-ugolino.xml,17292,17330,ich will den Namen Gherardesca rächen!,negative,emotions of fear,"hate, disgust"
+368,GerDracor/gerstenberg-ugolino.xml,17331,17338,rächen!,negative,emotions of fear,anger
+369,GerDracor/gerstenberg-ugolino.xml,17351,17358,rächen!,negative,emotions of fear,anger
+370,GerDracor/gerstenberg-ugolino.xml,17359,17371,Gaddo weint?,negative,emotions of suffering,suffering
+371,GerDracor/gerstenberg-ugolino.xml,17372,17395,warum weint mein Gaddo?,negative,emotions of suffering,suffering
+372,GerDracor/gerstenberg-ugolino.xml,17396,17439,"Ja wohl, eine schauernde Mitternachtstunde!",negative,emotions of fear,fear
+373,GerDracor/gerstenberg-ugolino.xml,17440,17499,"Muß ich so was von meinem Bruder Anselmo
+            hören!",negative,emotions of rejection,anger
+374,GerDracor/gerstenberg-ugolino.xml,17500,17542,Geht weg von mir; ihr macht mich fürchten.,negative,emotions of fear,fear
+375,GerDracor/gerstenberg-ugolino.xml,17543,17562,tritt an die Szene.,emotional movement,emotional movement,emotional movement
+376,GerDracor/gerstenberg-ugolino.xml,17563,17633,"Ich wollte dir nur sagen, Francesco, daß du nicht weiter daran denkst.",negative,emotions of rejection,anger
+377,GerDracor/gerstenberg-ugolino.xml,17634,17701,"Gherardesca soll
+            nicht flüchten, als wär er ein Bandit.",negative,emotions of rejection,fear
+378,GerDracor/gerstenberg-ugolino.xml,17702,17778,"Überdem ist der Sprung unmöglich; und unten
+            lauern Kundschafter.",negative,emotions of fear,fear
+379,GerDracor/gerstenberg-ugolino.xml,17780,17788,Geht ab.,negative,emotions of rejection,emotional movement
+380,GerDracor/gerstenberg-ugolino.xml,17789,17798,bestürzt.,negative,emotions of fear,fear
+381,GerDracor/gerstenberg-ugolino.xml,17799,17817,Eine Donnerstimme!,positive,emotions of joy,joy
+382,GerDracor/gerstenberg-ugolino.xml,17818,17827,Glück zu.,positive,emotions of joy,joy
+383,GerDracor/gerstenberg-ugolino.xml,17828,17900,"Dir verbot es unser Vater: aber ich darf den Sprung wagen, und ich will.",positive,emotions of joy,anger

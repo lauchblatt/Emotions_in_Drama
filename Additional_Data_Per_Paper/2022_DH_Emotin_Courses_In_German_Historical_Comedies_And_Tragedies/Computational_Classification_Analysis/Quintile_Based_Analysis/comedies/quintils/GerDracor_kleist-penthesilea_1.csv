@@ -1,0 +1,501 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/kleist-penthesilea.xml,0,31, Szene: Schlachtfeld bei Troja.,negative,emotional movement,suffering
+1,GerDracor/kleist-penthesilea.xml,32,131,"Odysseus und Diomedes von der einen Seite, Antilochus von der andern, Gefolge treten
+          auf.",emotional movement,emotional movement,emotional movement
+2,GerDracor/kleist-penthesilea.xml,132,161,"Seid mir gegrüßt, ihr Könige!",positive,emotions of joy,joy
+3,GerDracor/kleist-penthesilea.xml,162,212,"Wie geht's, Seit wir zuletzt bei Troja uns gesehn?",emotional movement,emotional movement,emotional movement
+4,GerDracor/kleist-penthesilea.xml,213,232,"Schlecht, Antiloch.",negative,emotions of rejection,"hate, disgust"
+5,GerDracor/kleist-penthesilea.xml,233,351,"Du siehst auf diesen Feldern, Der Griechen und der Amazonen Heer, Wie zwei erboste Wölfe sich umkämpfen: Beim Jupiter!",negative,emotions of rejection,anger
+6,GerDracor/kleist-penthesilea.xml,352,375,sie wissen nicht warum?,emotional movement,emotional movement,emotional movement
+7,GerDracor/kleist-penthesilea.xml,376,579,"Wenn Mars entrüstet, oder Delius, Den Stecken nicht ergreift, der Wolkenrüttler Mit Donnerkeilen nicht dazwischenwettert: Tot sinken die Verbißnen heut noch nieder, Des einen Zahn im Schlund des anderen.",negative,emotions of rejection,"hate, disgust"
+8,GerDracor/kleist-penthesilea.xml,580,612,– Schafft einen Helm mit Wasser!,negative,emotions of fear,fear
+9,GerDracor/kleist-penthesilea.xml,613,621,Element!,negative,emotions of rejection,emotional movement
+10,GerDracor/kleist-penthesilea.xml,622,652,Was wollen diese Amazonen uns?,negative,emotions of rejection,emotional movement
+11,GerDracor/kleist-penthesilea.xml,653,965,"Wir zogen aus, auf des Atriden Rat, Mit der gesamten Schar der Myrmidonen, Achill und ich; Penthesilea, hieß es, Sei in den scyth'schen Wäldern aufgestanden, Und führ ein Heer, bedeckt mit Schlangenhäuten, Von Amazonen, heißer Kampflust voll, Durch der Gebirge Windungen heran, Den Priamus in Troja zu entsetzen.",positive,emotions of joy,joy
+12,GerDracor/kleist-penthesilea.xml,966,1097,"Am Ufer des Skamandros hören wir, Deiphobus auch, der Priamide, sei Aus Ilium mit einer Schar gezogen,  Nach Freundesart zu grüßen.",positive,emotions of joy,friendship
+13,GerDracor/kleist-penthesilea.xml,1098,1243,"Wir verschlingen Die Straße jetzt, uns zwischen dieser Gegner Heillosem Bündnis wehrend aufzupflanzen; Die ganze Nacht durch windet sich der Zug.",negative,emotions of fear,suffering
+14,GerDracor/kleist-penthesilea.xml,1244,1415,"Doch, bei des Morgens erster Dämmerröte, Welch ein Erstaunen faßt' uns, Antiloch, Da wir, in einem weiten Tal vor uns, Mit des Deiphobus Iliern im Kampf Die Amazonen sehn!",emotional movement,emotions of joy,emotional movement
+15,GerDracor/kleist-penthesilea.xml,1416,1583,"Penthesilea, Wie Sturmwind ein zerrissenes Gewölk, Weht der Trojaner Reihen vor sich her, Als gält es, übern Hellespont hinaus, Hinweg vom Rund der Erde sie zu blasen.",negative,emotions of suffering,suffering
+16,GerDracor/kleist-penthesilea.xml,1584,1609,"Seltsam, bei unserm Gott!",emotional movement,emotional movement,emotional movement
+17,GerDracor/kleist-penthesilea.xml,1610,1758,"Wir sammeln uns, Der Trojer Flucht, die wetternd auf uns ein, Gleich einem Anfall keilt, zu widerstehen, Und dicht zur Mauer drängen wir die Spieße.",negative,emotions of fear,fear
+18,GerDracor/kleist-penthesilea.xml,1759,1914,"Auf diesen Anblick stutzt der Priamide; Und wir, im kurzen Rat beschließen, gleich, Die Amazonenfürstin zu begrüßen: Sie auch hat ihren Siegeslauf gehemmt.",emotional movement,emotions of joy,emotional movement
+19,GerDracor/kleist-penthesilea.xml,1915,1953,War je ein Rat einfältiger und besser?,emotional movement,emotions of rejection,emotional movement
+20,GerDracor/kleist-penthesilea.xml,1954,2034,"Hätt ihn Athene, wenn ich sie befragt, Ins Ohr verständiger mir flüstern können?",negative,emotional movement,emotional movement
+21,GerDracor/kleist-penthesilea.xml,2035,2055,"Sie muß, beim Hades!",negative,emotions of fear,"hate, disgust"
+22,GerDracor/kleist-penthesilea.xml,2056,2301,"diese Jungfrau, doch, Die wie vom Himmel plötzlich, kampfgerüstet, In unsern Streit fällt, sich darin zu mischen, Sie muß zu einer der Partein sich schlagen; Und uns die Freundin müssen wir sie glauben, Da sie sich Teukrischen die Feindin zeigt.",negative,emotions of affection,"hate, disgust"
+23,GerDracor/kleist-penthesilea.xml,2302,2323,"Was sonst, beim Styx!",negative,emotions of rejection,"hate, disgust"
+24,GerDracor/kleist-penthesilea.xml,2324,2345,Nichts anders gibt's.,negative,emotions of rejection,"hate, disgust"
+25,GerDracor/kleist-penthesilea.xml,2346,2354,Nun gut.,positive,emotions of rejection,joy
+26,GerDracor/kleist-penthesilea.xml,2355,2572,"Wir finden sie, die Heldin Scythiens,  An ihrer Jungfraun Spitze aufgepflanzt, Geschürzt, der Helmbusch wallt ihr von der Scheitel, Und seine Gold- und Purpurtroddeln regend, Zerstampft ihr Zelter unter ihr den Grund.",positive,emotions of joy,admiration
+27,GerDracor/kleist-penthesilea.xml,2573,2944,"Gedankenvoll, auf einen Augenblick, Sicht sie in unsre Schar, von Ausdruck leer, Als ob in Stein gehaun wir vor ihr stünden; Hier diese flache Hand, versichr ich dich, Ist ausdrucksvoller als ihr Angesicht: Bis jetzt ihr Aug auf den Peliden trifft: Und Glut ihr plötzlich, bis zum Hals hinab, Das Antlitz färbt, als schlüge rings um ihr Die Welt in helle Flammenlohe auf.",negative,emotional movement,love
+28,GerDracor/kleist-penthesilea.xml,2945,3163,"Sie schwingt, mit einer zuckenden Bewegung, – Und einen finstern Blick wirft sie auf ihn – Vom Rücken sich des Pferds herab, und fragt, Die Zügel einer Dienrin überliefernd, Was uns, in solchem Prachtzug, zu ihr führe.",emotional movement,emotions of rejection,anger
+29,GerDracor/kleist-penthesilea.xml,3164,3502,"Ich jetzt, wie wir Argiver hoch erfreut, Auf eine Feindin des Dardanervolks zu stoßen; Was für ein Haß den Priamiden längst Entbrannt sei in der Griechen Brust, wie nützlich, So ihr, wie uns, ein Bündnis würde sein; Und was der Augenblick noch sonst mir beut: Doch mit Erstaunen, in dem Fluß der Rede, Bemerk ich, daß sie mich nicht hört.",negative,emotional movement,joy
+30,GerDracor/kleist-penthesilea.xml,3503,3759,"Sie wendet, Mit einem Ausdruck der Verwunderung, Gleich einem sechzehnjähr'gen Mädchen plötzlich, Das von olymp'schen Spielen wiederkehrt, Zu einer Freundin, ihr zur Seite sich, Und ruft: solch einem Mann, o Prothoe, ist Otrere, meine Mutter, nie begegnet!",emotional movement,emotions of affection,emotional movement
+31,GerDracor/kleist-penthesilea.xml,3760,3995,"Die Freundin, auf dies Wort betreten, schweigt, Achill und ich, wir sehn uns lächelnd an, Sie ruht, sie selbst, mit trunknem Blick schon wieder  Bis jen' ihr schüchtern naht, und sie erinnert, Daß sie mir noch die Antwort schuldig sei.",positive,emotions of affection,emotional movement
+32,GerDracor/kleist-penthesilea.xml,3996,4245,"Drauf mit der Wangen Rot, war's Wut, war's Scham, Die Rüstung wieder bis zum Gurt sich färbend, Verwirrt und stolz und wild zugleich: sie sei Penthesilea, kehrt sie sich zu mir, Der Amazonen Königin, und werde Aus Köchern mir die Antwort übersenden!",negative,emotions of rejection,anger
+33,GerDracor/kleist-penthesilea.xml,4246,4349,"So, Wort für Wort, der Bote, den du sandtest; Doch keiner in dem ganzen Griechenlager, Der ihn begriff.",negative,emotions of affection,anger
+34,GerDracor/kleist-penthesilea.xml,4350,4572,"Hierauf unwissend jetzt, Was wir von diesem Auftritt denken sollen, In grimmiger Beschämung gehn wir heim, Und sehn die Teukrischen, die unsre Schmach Von fern her, die hohnlächelnden, erraten, Wie im Triumph sich sammeln.",negative,emotions of suffering,"hate, disgust"
+35,GerDracor/kleist-penthesilea.xml,4573,4793,"Sie beschließen Im Wahn, sie seien die Begünstigten, Und nur ein Irrtum, der sich lösen müsse, Sei an dem Zorn der Amazone schuld, Schnell ihr, durch einen Herold, Herz und Hand, Die sie verschmäht, von neuem anzutragen.",negative,emotions of rejection,anger
+36,GerDracor/kleist-penthesilea.xml,4794,5051,"Doch eh der Bote, den sie senden wollen, Den Staub noch von der Rüstung abgeschüttelt, Stürzt die Kentaurin, mit verhängtem Zügel, Auf sie und uns schon, Griech' und Trojer, ein, Mit eines Waldstroms wütendem Erguß Die einen, wie die andern, niederbrausend.",negative,emotions of rejection,"hate, disgust"
+37,GerDracor/kleist-penthesilea.xml,5052,5078,"Ganz unerhört, ihr Danaer!",emotional movement,emotions of rejection,anger
+38,GerDracor/kleist-penthesilea.xml,5079,5181,"Jetzt hebt Ein Kampf an, wie er, seit die Furien walten, Noch nicht gekämpft ward auf der Erde Rücken.",negative,emotions of fear,"hate, disgust"
+39,GerDracor/kleist-penthesilea.xml,5182,5268,"Soviel ich weiß, gibt es in der Natur Kraft bloß und ihren Widerstand, nichts Drittes.",negative,emotions of affection,love
+40,GerDracor/kleist-penthesilea.xml,5269,5490,"Was Glut des Feuers löscht, löst Wasser siedend  Zeigt ein ergrimmter Feind von beiden sich, Bei dessen Eintritt nicht das Feuer weiß, Ob's mit dem Wasser rieseln soll, das Wasser, Ob's mit dem Feuer himmelan soll lecken.",negative,emotions of rejection,"hate, disgust"
+41,GerDracor/kleist-penthesilea.xml,5491,5748,"Der Trojer wirft, gedrängt von Amazonen, Sich hinter eines Griechen Schild, der Grieche Befreit ihn von der Jungfrau, die ihn drängte, Und Griech' und Trojer müssen jetzt sich fast, Dem Raub der Helena zu Trotz, vereinen, Um dem gemeinen Feinde zu begegnen.",positive,emotions of fear,Schadenfreude
+42,GerDracor/kleist-penthesilea.xml,5749,5779,Ein Grieche bringt ihm Wasser.,negative,emotions of suffering,anger
+43,GerDracor/kleist-penthesilea.xml,5780,5785,Dank!,negative,emotions of joy,joy
+44,GerDracor/kleist-penthesilea.xml,5786,5805,Meine Zunge lechzt.,negative,emotions of rejection,"hate, disgust"
+45,GerDracor/kleist-penthesilea.xml,5806,5957,"Seit jenem Tage Grollt über dieser Ebne unverrückt Die Schlacht, mit immer reger Wut, wie ein Gewitter, zwischen waldgekrönter Felsen Gipfeln Geklemmt.",negative,emotions of rejection,anger
+46,GerDracor/kleist-penthesilea.xml,5958,6156,"Als ich mit den Ätoliern gestern Erschien, der Unsern Reihen zu verstärken, Schlug sie mit Donnerkrachen eben ein, Als wollte sie den ganzen Griechenstamm Bis auf den Grund, die Wütende, zerspalten.",negative,emotions of rejection,"hate, disgust"
+47,GerDracor/kleist-penthesilea.xml,6157,6359,"Der Krone ganze Blüte liegt, Ariston, Astyanax, von Sturm herabgerüttelt, Menandros, auf dem Schlachtfeld da, den Lorbeer, Mit ihren jungen, schönen Leibern groß, Für diese kühne Tochter Ares', düngend.",positive,emotions of affection,admiration
+48,GerDracor/kleist-penthesilea.xml,6360,6482,"Mehr der Gefangnen siegreich nahm sie schon, Als sie uns Augen, sie zu missen, Arme, Sie wieder zu befrein, uns übrigließ.",positive,emotions of affection,love
+49,GerDracor/kleist-penthesilea.xml,6483,6529,"Und niemand kann, was sie uns will, ergründen?",negative,emotions of rejection,emotional movement
+50,GerDracor/kleist-penthesilea.xml,6530,6619,"Kein Mensch, das eben ist's: wohin wir spähend Auch des Gedankens Senkblei fallen lassen.",negative,emotions of fear,love
+51,GerDracor/kleist-penthesilea.xml,6620,6664,"– Oft, aus der sonderbaren Wut zu schließen.",negative,emotions of rejection,anger
+52,GerDracor/kleist-penthesilea.xml,6666,6756,"Der Thetis sucht, scheint's uns, als ob ein Haß Persönlich wider ihn die Brust ihr füllte.",negative,emotions of rejection,"hate, disgust"
+53,GerDracor/kleist-penthesilea.xml,6757,6932,"So folgt, so hungerheiß, die Wölfin nicht, Durch Wälder, die der Schnee bedeckt, der Beute, Die sich ihr Auge grimmig auserkor, Als sie, durch unsre Schlachtreihn, dem Achill.",negative,emotions of rejection,"hate, disgust"
+54,GerDracor/kleist-penthesilea.xml,6933,7106,"Doch jüngst, in einem Augenblick, da schon Sein Leben war in ihre Macht gegeben, Gab sie es lächelnd, ein Geschenk, ihm wieder: Er stieg zum Orkus, wenn sie ihn nicht hielt.",positive,emotions of affection,love
+55,GerDracor/kleist-penthesilea.xml,7107,7111,Wie?,emotional movement,emotional movement,emotional movement
+56,GerDracor/kleist-penthesilea.xml,7112,7125,Wenn ihn wer?,negative,emotions of rejection,emotional movement
+57,GerDracor/kleist-penthesilea.xml,7126,7138,Die Königin?,emotional movement,emotional movement,emotional movement
+58,GerDracor/kleist-penthesilea.xml,7139,7150,Sie selbst!,negative,emotions of joy,joy
+59,GerDracor/kleist-penthesilea.xml,7151,7438,"Denn als sie, um die Abenddämmrung gestern, Im Kampf, Penthesilea und Achill, Einander trafen, stürmt Deiphobus her, Und auf der Jungfrau Seite hingestellt, Der Teukrische, trifft er dem Peleïden Mit einem tück'schen Schlag die Rüstung prasselnd, Daß rings der Ormen Wipfel widerhallten.",negative,emotions of rejection,"hate, disgust"
+60,GerDracor/kleist-penthesilea.xml,7439,7767,"Die Königin, entfärbt, läßt zwei Minuten Die Arme sinken: und die Locken dann Entrüstet um entflammte Wangen schüttelnd, Hebt sie vom Pferdesrücken hoch sich auf, Und senkt, wie aus dem Firmament geholt, Das Schwert ihm wetterstrahlend in den Hals, Daß er zu Füßen hin, der Unberufne, Dem Sohn, dem göttlichen, der Thetis rollt!",negative,emotions of rejection,"hate, disgust"
+61,GerDracor/kleist-penthesilea.xml,7768,8042,"Er jetzt, zum Dank, will ihr, der Peleïde, Ein Gleiches tun; doch sie bis auf den Hals Gebückt, den mähnumflossenen, des Schecken, Der, in den Goldzaum beißend, sich herumwirft, Weicht seinem Mordhieb aus, und schießt die Zügel, Und sieht sich um, und lächelt, und ist fort.",positive,emotions of joy,"hate, disgust"
+62,GerDracor/kleist-penthesilea.xml,8043,8058,Ganz wunderbar!,positive,emotions of joy,joy
+63,GerDracor/kleist-penthesilea.xml,8059,8088,Was bringst du uns von Troja?,negative,emotional movement,emotional movement
+64,GerDracor/kleist-penthesilea.xml,8089,8209,"Mich sendet Agamemnon her, und fragt dich, Ob Klugheit nicht, bei so gewandelten Verhältnissen, den Rückzug dir gebiete.",negative,emotions of rejection,anger
+65,GerDracor/kleist-penthesilea.xml,8210,8334,"Uns gelt es Iliums Mauern einzustürzen, Nicht einer freien Fürstin Heereszug, Nach einem uns gleichgült'gen Ziel, zu stören.",negative,emotions of rejection,admiration
+66,GerDracor/kleist-penthesilea.xml,8335,8536,"Falls du daher Gewißheit dir verschafft, Daß nicht mit Hülfe der Dardanerburg Penthesilea naht, woll er, daß ihr Sogleich, um welchen Preis gleichviel, euch wieder In die argivische Verschanzung werft.",negative,emotions of rejection,Schadenfreude
+67,GerDracor/kleist-penthesilea.xml,8537,8694,"Verfolgt sie euch, so werd er, der Atride, Dann an des Heeres Spitze selber sehn, Wozu sich diese rätselhafte Sphinx Im Angesicht von Troja wird entscheiden.",negative,emotions of fear,fear
+68,GerDracor/kleist-penthesilea.xml,8695,8708,Beim Jupiter!,emotional movement,emotions of joy,emotional movement
+69,GerDracor/kleist-penthesilea.xml,8709,8734,Der Meinung bin ich auch.,negative,emotions of affection,friendship
+70,GerDracor/kleist-penthesilea.xml,8735,8808,"Meint ihr, daß der Laertiade sich In diesem sinnentblößten Kampf gefällt?",negative,emotions of rejection,"hate, disgust"
+71,GerDracor/kleist-penthesilea.xml,8809,8851,Schafft den Peliden weg von diesem Platze!,negative,emotions of rejection,"hate, disgust"
+72,GerDracor/kleist-penthesilea.xml,8852,9198,"Denn wie die Dogg entkoppelt, mit Geheul In das Geweih des Hirsches fällt: der Jäger, Erfüllt von Sorge, lockt und ruft sie ab; Jedoch verbissen in des Prachttiers Nacken, Tanzt sie durch Berge neben ihm, und Ströme, Fern in des Waldes Nacht hinein: so er, Der Rasende, seit in der Forst des Krieges Dies Wild sich von so seltner Art, ihm zeigte.",negative,emotions of rejection,fear
+73,GerDracor/kleist-penthesilea.xml,9199,9404,"Durchbohrt mit einem Pfeilschuß, ihn zu fesseln, Die Schenkel ihm: er weicht, so schwört er, eher Von dieser Amazone Ferse nicht, Bis er bei ihren seidnen Haaren sie Von dem gefleckten Tigerpferd gerissen.",negative,emotions of rejection,"hate, disgust"
+74,GerDracor/kleist-penthesilea.xml,9405,9528,"Versuch's, o Antiloch, wenn's dir beliebt, Und sieh, was deine rednerische Kunst, Wenn seine Lippe schäumt, bei ihm vermag.",positive,emotions of joy,Schadenfreude
+75,GerDracor/kleist-penthesilea.xml,9529,9611,"Laßt uns vereint, ihr Könige, noch einmal  Auf seine rasende Entschließung setzen.",negative,emotions of rejection,anger
+76,GerDracor/kleist-penthesilea.xml,9612,9696,"Du wirst, erfindungsreicher Larissäer, Den Riß schon, den er beut, zu finden wissen.",negative,emotions of joy,Schadenfreude
+77,GerDracor/kleist-penthesilea.xml,9697,9865,"Weicht er dir nicht, wohlan, so will ich ihn Mit zwei Ätoliern auf den Rücken nehmen, Und einem Klotz gleich, weil der Sinn ihm fehlt, In dem Argiverlager niederwerfen.",negative,emotions of rejection,"hate, disgust"
+78,GerDracor/kleist-penthesilea.xml,9866,9876,Folgt mir!,negative,emotions of fear,fear
+79,GerDracor/kleist-penthesilea.xml,9877,9881,Nun?,emotional movement,emotional movement,emotional movement
+80,GerDracor/kleist-penthesilea.xml,9882,9911,Wer auch eilt uns dort heran?,negative,emotions of fear,fear
+81,GerDracor/kleist-penthesilea.xml,9912,9926,Es ist Adrast.,negative,emotions of suffering,emotional movement
+82,GerDracor/kleist-penthesilea.xml,9927,9953,So bleich und so verstört.,emotional movement,emotional movement,emotional movement
+83,GerDracor/kleist-penthesilea.xml,9954,9966,Die Vorigen.,positive,emotions of rejection,emotional movement
+84,GerDracor/kleist-penthesilea.xml,9967,9991,Ein Hauptmann tritt auf.,positive,emotions of rejection,admiration
+85,GerDracor/kleist-penthesilea.xml,9992,10007,Was bringst du?,negative,emotions of rejection,anger
+86,GerDracor/kleist-penthesilea.xml,10008,10018,Botschaft?,emotional movement,emotional movement,emotional movement
+87,GerDracor/kleist-penthesilea.xml,10019,10065,"Euch die ödeste, Die euer Ohr noch je vernahm.",negative,emotions of rejection,suffering
+88,GerDracor/kleist-penthesilea.xml,10066,10070,Wie?,emotional movement,emotional movement,emotional movement
+89,GerDracor/kleist-penthesilea.xml,10071,10076,Rede!,negative,emotional movement,emotional movement
+90,GerDracor/kleist-penthesilea.xml,10077,10155,"Achill – ist in der Amazonen Händen, Und Pergams Mauern fallen jetzt nicht um.",positive,emotions of affection,admiration
+91,GerDracor/kleist-penthesilea.xml,10156,10184,"Ihr Götter, ihr olympischen!",positive,emotions of affection,admiration
+92,GerDracor/kleist-penthesilea.xml,10185,10198,Unglücksbote!,negative,emotions of rejection,fear
+93,GerDracor/kleist-penthesilea.xml,10199,10239,"Wann trug, wo, das Entsetzliche sich zu?",negative,emotions of suffering,fear
+94,GerDracor/kleist-penthesilea.xml,10240,10441,"Ein neuer Anfall, heiß, wie Wetterstrahl, Schmolz, dieser wuterfüllten Mavorstöchter, Rings der Ätolier wackre Reihen hin, Auf uns, wie Wassersturz, hernieder sie, Die unbesiegten Myrmidonier, gießend.",negative,emotions of suffering,suffering
+95,GerDracor/kleist-penthesilea.xml,10442,10612,Vergebens drängen wir dem Fluchtgewog Entgegen uns: in wilder Überschwemmung Reißt's uns vom Kampfplatz strudelnd mit sich fort:  Als fern von dem Peliden fest zu setzen.,negative,emotions of fear,fear
+96,GerDracor/kleist-penthesilea.xml,10613,11001,"Erst jetzo wickelt er, umstarrt von Spießen, Sich aus der Nacht des Kampfes los, er rollt Von eines Hügels Spitze scheu herab, Auf uns kehrt glücklich sich sein Lauf, wir senden Aufjauchzend ihm den Rettungsgruß schon zu: Doch es erstirbt der Laut im Busen uns, Da plötzlich jetzt sein Viergespann zurück Vor einem Abgrund stutzt, und hoch aus Wolken In grause Tiefe bäumend niederschaut.",negative,emotions of joy,joy
+97,GerDracor/kleist-penthesilea.xml,11002,11323,"Vergehens jetzt, in der er Meister ist, Des Isthmus ganze vielgeübte Kunst: Das Roßgeschwader wendet, das erschrockne, Die Häupter rückwärts in die Geißelhiebe, Und im verworrenen Geschirre fallend, Zum Chaos, Pferd' und Wagen, eingestürzt, Liegt unser Göttersohn, mit seinem Fuhrwerk, Wie in der Schlinge eingefangen da.",negative,emotions of suffering,suffering
+98,GerDracor/kleist-penthesilea.xml,11324,11336,Der Rasende!,negative,emotions of rejection,anger
+99,GerDracor/kleist-penthesilea.xml,11337,11356,Wohin treibt ihn –?,negative,emotional movement,emotional movement
+100,GerDracor/kleist-penthesilea.xml,11357,11487,"Es stürzt Automedon, des Fahrzeugs rüst'ger Lenker, In die Verwirrung hurtig sich der Rosse: Er hilft dem Viergekoppel wieder auf.",emotional movement,emotional movement,emotional movement
+101,GerDracor/kleist-penthesilea.xml,11488,11688,"Doch eh er noch aus allen Knoten rings Die Schenkel, die verwickelten, gelöst, Sprengt schon die Königin, mit einem Schwarm Siegreicher Amazonen, ins Geklüft, Jedweden Weg zur Rettung ihm versperrend.",positive,emotions of fear,despair
+102,GerDracor/kleist-penthesilea.xml,11689,11705,Ihr Himmlischen!,positive,emotions of affection,love
+103,GerDracor/kleist-penthesilea.xml,11706,12096,"Sie hemmt, Staub rings umqualmt sie, Des Zelters flücht'gen Lauf, und hoch zum Gipfel Das Angesicht, das funkelnde, gekehrt, Mißt sie, auf einen Augenblick, die Wand: Der Helmbusch selbst, als ob er sich entsetzte,  Drauf plötzlich jetzt legt sie die Zügel weg: Man sieht, gleich einer Schwindelnden, sie hastig Die Stirn, von einer Lockenflut umwallt, In ihre beiden kleinen Hände drücken.",emotional movement,emotions of suffering,suffering
+104,GerDracor/kleist-penthesilea.xml,12097,12414,"Bestürzt, bei diesem sonderbaren Anblick, Umwimmeln alle Jungfraun sie, mit heiß Eindringlicher Gebärde sie beschwörend; Die eine, die zunächst verwandt ihr scheint, Schlingt ihren Arm um sie, indes die andre Entschloßner noch, des Pferdes Zügel greift: Man will den Fortschritt mit Gewalt ihr wehren, Doch sie – Wie?",emotional movement,emotional movement,emotional movement
+105,GerDracor/kleist-penthesilea.xml,12415,12427,wagt sie es?,negative,emotions of fear,fear
+106,GerDracor/kleist-penthesilea.xml,12428,12441,"Nein, sprich!",negative,emotions of rejection,emotional movement
+107,GerDracor/kleist-penthesilea.xml,12442,12453,Ihr hört's.,positive,emotions of joy,joy
+108,GerDracor/kleist-penthesilea.xml,12454,12931,"Umsonst sind die Versuche, sie zu halten, Sie drängt mit sanfter Macht von beiden Seiten Die Fraun hinweg, und im unruh'gen Trabe An dem Geklüfte auf und nieder streifend, Sucht sie, ob nicht ein schmaler Pfad sich biete Für einen Wunsch, der keine Flügel hat; Drauf jetzt, gleich einer Rasenden, sieht man Empor sie an des Felsens Wände klimmen, Jetzt hier, in glühender Begier, jetzt dort, Unsinn'ger Hoffnung voll, auf diesem Wege Die Beute, die im Garn liegt, zu erhaschen.",negative,emotions of fear,emotional movement
+109,GerDracor/kleist-penthesilea.xml,12932,13153,"Jetzt hat sie jeden sanftern Riß versucht, Den sich im Fels der Regen ausgewaschen; Der Absturz ist, sie sieht es, unersteiglich; Doch, wie beraubt des Urteils, kehrt sie um, Und fängt, als wär's von vorn, zu klettern an.",negative,emotions of fear,suffering
+110,GerDracor/kleist-penthesilea.xml,13154,13786,"Und schwingt, die Unverdrossene, sich wirklich Auf Pfaden, die des Wandrers Fußtritt scheut, Schwingt sich des Gipfels höchstem Rande näher Um einer Orme Höh; und da sie jetzt auf einem  Als eine Gemse sich zu halten braucht; Von ragendem Geklüfte rings geschreckt, Den Schritt nicht vorwärts mehr, nicht rückwärts wagt; Der Weiber Angstgeschrei durchkreischt die Luft: Stürzt sie urplötzlich, Roß und Reuterin, Von los sich lösendem Gestein umprasselt, Als ob sie in den Orkus führe, schmetternd Bis an des Felsens tiefsten Fuß zurück, Und bricht den Hals sich nicht und lernt auch nichts: Sie rafft sich bloß zu neuem Klimmen auf.",negative,emotions of fear,fear
+111,GerDracor/kleist-penthesilea.xml,13787,13821,"Seht die Hyäne, die blind-wütende!",negative,emotions of rejection,"hate, disgust"
+112,GerDracor/kleist-penthesilea.xml,13822,13826,Nun?,emotional movement,emotional movement,emotional movement
+113,GerDracor/kleist-penthesilea.xml,13827,13841,Und Automedon?,emotional movement,emotional movement,emotional movement
+114,GerDracor/kleist-penthesilea.xml,13842,14090,"Er endlich schwingt, Das Fahrzeug steht, die Rosse auch, geordnet – – Hephästos hätt in so viel Zeit fast neu Den ganzen erznen Wagen schmieden können – Er schwingt dem Sitz sich zu, und greift die Zügel: Ein Stein fällt uns Argivern von der Brust.",negative,emotions of fear,joy
+115,GerDracor/kleist-penthesilea.xml,14091,14334,"Doch eben jetzt, da er die Pferde wendet, Erspähn die Amazonen einen Pfad, Dem Gipfel sanfthin zugeführt, und rufen, Das Tal rings mit Geschrei des Jubels füllend, Die Königin dahin, die sinnberaubte, Die immer noch des Felsens Sturz versucht.",positive,emotions of joy,joy
+116,GerDracor/kleist-penthesilea.xml,14335,14649,"Sie, auf dies Wort, das Roß zurücke werfend, Rasch einen Blick den Pfad schickt sie hinan; Und dem gestreckten Parder gleich, folgt sie Dem Blick auch auf dem Fuß: er, der Pelide, Entwich zwar mit den Rossen, rückwärts strebend; Doch in den Gründen bald verschwand er mir, Und was aus ihm geworden, weiß ich nicht.",negative,emotions of suffering,fear
+117,GerDracor/kleist-penthesilea.xml,14650,14666,Verloren ist er!,negative,emotions of rejection,despair
+118,GerDracor/kleist-penthesilea.xml,14667,14671,Auf!,negative,emotions of fear,emotional movement
+119,GerDracor/kleist-penthesilea.xml,14672,14693,"Was tun wir, Freunde?",positive,emotions of affection,emotional movement
+120,GerDracor/kleist-penthesilea.xml,14694,14729,"Was unser Herz, ihr Könige, gebeut!",positive,emotions of affection,admiration
+121,GerDracor/kleist-penthesilea.xml,14730,14734,Auf!,negative,emotions of fear,emotional movement
+122,GerDracor/kleist-penthesilea.xml,14735,14770,laßt uns ihn der Königin entreißen!,negative,emotions of rejection,despair
+123,GerDracor/kleist-penthesilea.xml,14772,14812,Den Kampf bei den Atriden fecht ich aus.,positive,emotions of rejection,Schadenfreude
+124,GerDracor/kleist-penthesilea.xml,14813,14847,"Odysseus, Diomedes, Antilochus ab.",negative,emotional movement,suffering
+125,GerDracor/kleist-penthesilea.xml,14848,14862,Der Hauptmann.,positive,emotional movement,anger
+126,GerDracor/kleist-penthesilea.xml,14863,14947,"Eine Schar von Griechen, welche währenddessen einen Hügel bestiegen
+          haben.",negative,emotions of joy,joy
+127,GerDracor/kleist-penthesilea.xml,14948,14971,in die Gegend schauend.,emotional movement,emotional movement,emotional movement
+128,GerDracor/kleist-penthesilea.xml,14972,14977,Seht!,positive,emotions of joy,joy
+129,GerDracor/kleist-penthesilea.xml,14978,15056,"Steigt dort über jenes Berges Rücken, Ein Haupt nicht, ein bewaffnetes, empor?",negative,emotions of fear,fear
+130,GerDracor/kleist-penthesilea.xml,15057,15097,"Ein Helm, von Federbüschen überschattet?",emotional movement,emotions of suffering,emotional movement
+131,GerDracor/kleist-penthesilea.xml,15098,15143,"Der Nacken schon, der mächt'ge, der es trägt?",negative,emotions of suffering,suffering
+132,GerDracor/kleist-penthesilea.xml,15144,15188,"Die Schultern auch, die Arme, stahlumglänzt?",emotional movement,emotions of suffering,admiration
+133,GerDracor/kleist-penthesilea.xml,15189,15277,"Das ganze Brustgebild, o seht doch, Freunde, Bis wo den Leib der goldne Gurt umschließt?",positive,emotions of affection,joy
+134,GerDracor/kleist-penthesilea.xml,15278,15281,Ha!,emotional movement,emotional movement,emotional movement
+135,GerDracor/kleist-penthesilea.xml,15282,15289,Wessen!,emotional movement,emotional movement,emotional movement
+136,GerDracor/kleist-penthesilea.xml,15290,15297,Wessen!,emotional movement,emotional movement,emotional movement
+137,GerDracor/kleist-penthesilea.xml,15298,15321,"Träum ich, ihr Argiver?",negative,emotions of fear,suffering
+138,GerDracor/kleist-penthesilea.xml,15322,15391,"Die Häupter sieht man schon, geschmückt mit Blessen, Des Roßgespanns!",positive,emotions of suffering,admiration
+139,GerDracor/kleist-penthesilea.xml,15392,15457,"Nur noch die Schenkel sind, Die Hufen, von der Höhe Rand bedeckt!",negative,emotions of suffering,joy
+140,GerDracor/kleist-penthesilea.xml,15458,15518,"Jetzt, auf dem Horizonte, steht das ganze Kriegsfahrzeug da!",negative,emotions of fear,"hate, disgust"
+141,GerDracor/kleist-penthesilea.xml,15519,15583,So geht die Sonne prachtvoll An einem heitern Frühlingstage auf!,positive,emotions of joy,joy
+142,GerDracor/kleist-penthesilea.xml,15584,15592,Triumph!,positive,emotions of joy,joy
+143,GerDracor/kleist-penthesilea.xml,15593,15609,Achilleus ist's!,positive,emotions of joy,joy
+144,GerDracor/kleist-penthesilea.xml,15610,15625,Der Göttersohn!,positive,emotions of joy,joy
+145,GerDracor/kleist-penthesilea.xml,15626,15662,Selbst die Quadriga führet er heran!,positive,emotions of joy,admiration
+146,GerDracor/kleist-penthesilea.xml,15663,15679,Er ist gerettet!,positive,emotions of joy,joy
+147,GerDracor/kleist-penthesilea.xml,15680,15696,Ihr Olympischen!,positive,emotions of joy,joy
+148,GerDracor/kleist-penthesilea.xml,15697,15729,So sei euch ew'ger Ruhm gegönnt!,positive,emotions of affection,admiration
+149,GerDracor/kleist-penthesilea.xml,15730,15741,– Odysseus!,negative,emotional movement,emotional movement
+150,GerDracor/kleist-penthesilea.xml,15742,15785,– Flieg einer den argol'schen Fürsten nach!,negative,emotions of rejection,"hate, disgust"
+151,GerDracor/kleist-penthesilea.xml,15786,15809,Ein Grieche schnell ab.,negative,emotions of rejection,"hate, disgust"
+152,GerDracor/kleist-penthesilea.xml,15810,15839,"Naht er sich uns, ihr Danaer?",emotional movement,emotions of fear,emotional movement
+153,GerDracor/kleist-penthesilea.xml,15840,15847,O sieh!,positive,emotions of suffering,suffering
+154,GerDracor/kleist-penthesilea.xml,15848,15859,Was gibt's?,emotional movement,emotional movement,emotional movement
+155,GerDracor/kleist-penthesilea.xml,15860,15894,"O mir vergeht der Atem, Hauptmann!",negative,emotions of fear,emotional movement
+156,GerDracor/kleist-penthesilea.xml,15895,15911,"So rede, sprich!",negative,emotions of rejection,love
+157,GerDracor/kleist-penthesilea.xml,15912,15977,"Oh, wie er mit der Linken  Wie er die Geißel umschwingt über sie!",negative,emotions of rejection,"hate, disgust"
+158,GerDracor/kleist-penthesilea.xml,15978,16061,"Wie sie von ihrem bloßen Klang erregt, Der Erde Grund, die göttlichen, zerstampfen!",negative,emotions of rejection,emotional movement
+159,GerDracor/kleist-penthesilea.xml,16062,16143,"Am Zügel ziehn sie, beim Lebendigen, Mit ihrer Schlünde Dampf, das Fahrzeug fort!",negative,emotions of rejection,anger
+160,GerDracor/kleist-penthesilea.xml,16144,16187,Gehetzter Hirsche Flug ist schneller nicht!,negative,emotions of rejection,joy
+161,GerDracor/kleist-penthesilea.xml,16188,16282,"Der Blick drängt unzerknickt sich durch die Räder, Zur Scheibe fliegend eingedreht, nicht hin!",negative,emotional movement,suffering
+162,GerDracor/kleist-penthesilea.xml,16283,16305,Doch hinter ihm – Was?,emotional movement,emotional movement,fear
+163,GerDracor/kleist-penthesilea.xml,16306,16422,"An des Berges Saum – Staub – Staub aufqualmend, wie Gewitterwolken: Und, wie der Blitz vorzuckt – Ihr ew'gen Götter!",negative,emotions of fear,suffering
+164,GerDracor/kleist-penthesilea.xml,16423,16435,Penthesilea.,emotional movement,emotional movement,emotional movement
+165,GerDracor/kleist-penthesilea.xml,16436,16440,Wer?,emotional movement,emotional movement,emotional movement
+166,GerDracor/kleist-penthesilea.xml,16441,16453,Die Königin!,positive,emotions of joy,admiration
+167,GerDracor/kleist-penthesilea.xml,16454,16535,"– Ihm auf dem Fuß, dem Peleïden, schon Mit ihrem ganzen Troß von Weibern folgend.",positive,emotions of fear,admiration
+168,GerDracor/kleist-penthesilea.xml,16536,16554,Die rasende Megär!,negative,emotions of rejection,anger
+169,GerDracor/kleist-penthesilea.xml,16555,16562,rufend.,negative,emotional movement,emotional movement
+170,GerDracor/kleist-penthesilea.xml,16563,16579,Hieher der Lauf!,positive,emotions of rejection,emotional movement
+171,GerDracor/kleist-penthesilea.xml,16580,16622,"Hieher den Lauf, du Göttlicher, gerichtet!",positive,emotions of affection,despair
+172,GerDracor/kleist-penthesilea.xml,16623,16640,Auf uns den Lauf!,negative,emotions of fear,joy
+173,GerDracor/kleist-penthesilea.xml,16641,16646,Seht!,positive,emotions of joy,joy
+174,GerDracor/kleist-penthesilea.xml,16647,16711,wie sie mit den Schenkeln Des Tigers Leib inbrünstiglich umarmt!,positive,emotions of affection,love
+175,GerDracor/kleist-penthesilea.xml,16712,16799,"Wie sie, bis auf die Mähn herabgebeugt, Hinweg die Luft trinkt lechzend, die sie hemmt!",negative,emotions of suffering,suffering
+176,GerDracor/kleist-penthesilea.xml,16801,16839,Numid'sche Pfeile sind nicht hurtiger!,negative,emotions of joy,anger
+177,GerDracor/kleist-penthesilea.xml,16840,16934,"Das Heer bleibt keuchend, hinter ihr, wie Köter, Wenn sich ganz aus die Dogge streckt, zurück!",negative,emotions of fear,suffering
+178,GerDracor/kleist-penthesilea.xml,16935,16975,Kaum daß ihr Federbusch ihr folgen kann!,negative,emotions of rejection,emotional movement
+179,GerDracor/kleist-penthesilea.xml,16976,16992,So naht sie ihm?,negative,emotions of affection,emotional movement
+180,GerDracor/kleist-penthesilea.xml,16993,17002,Naht ihm!,negative,emotions of affection,fear
+181,GerDracor/kleist-penthesilea.xml,17003,17023,Naht ihm noch nicht!,negative,emotions of fear,fear
+182,GerDracor/kleist-penthesilea.xml,17024,17045,"Naht ihm, ihr Danaer!",negative,emotions of fear,fear
+183,GerDracor/kleist-penthesilea.xml,17046,17159,"Mit jedem Hufschlag, Schlingt sie, wie hungerheiß, ein Stück des Weges, Der sie von dem Peliden trennt, hinunter!",negative,emotions of rejection,"hate, disgust"
+184,GerDracor/kleist-penthesilea.xml,17160,17202,"Bei allen hohen Göttern, die uns schützen!",positive,emotions of affection,admiration
+185,GerDracor/kleist-penthesilea.xml,17203,17242,Sie wächst zu seiner Größe schon heran!,positive,emotions of affection,love
+186,GerDracor/kleist-penthesilea.xml,17243,17327,"Sie atmet schon, zurückgeführt vom Winde, Den Staub, den säumend seine Fahrt erregt!",negative,emotions of suffering,suffering
+187,GerDracor/kleist-penthesilea.xml,17328,17455,"Der rasche Zelter wirft, auf dem sie reitet, Erdschollen, aufgewühlt von seiner Flucht, Schon in die Muschel seines Wagens hin!",negative,emotions of rejection,emotional movement
+188,GerDracor/kleist-penthesilea.xml,17456,17483,Und jetzt – der Übermüt'ge!,negative,emotions of rejection,anger
+189,GerDracor/kleist-penthesilea.xml,17484,17492,Rasende!,negative,emotions of rejection,anger
+190,GerDracor/kleist-penthesilea.xml,17493,17525,Er lenkt im Bogen spielend noch!,positive,emotions of joy,joy
+191,GerDracor/kleist-penthesilea.xml,17526,17570,Gib acht: Die Amazone wird die Sehne nehmen.,positive,emotions of affection,fear
+192,GerDracor/kleist-penthesilea.xml,17571,17581,Siehst du?,positive,emotions of joy,emotional movement
+193,GerDracor/kleist-penthesilea.xml,17582,17616,Sie schneidet ihm den Lauf – Hilf!,negative,emotions of fear,despair
+194,GerDracor/kleist-penthesilea.xml,17617,17622,Zeus!,negative,emotions of rejection,emotional movement
+195,GerDracor/kleist-penthesilea.xml,17623,17656,An seiner Seite fliegt sie schon!,positive,emotions of affection,joy
+196,GerDracor/kleist-penthesilea.xml,17657,17732,"Ihr Schatten, Groß, wie ein Riese, in der Morgensonne, Erschlägt ihn schon!",negative,emotions of fear,despair
+197,GerDracor/kleist-penthesilea.xml,17733,17825,Doch jetzt urplötzlich reißt er – Das ganze Roßgeschwader reißt er plötzlich Zur Seit herum!,negative,emotions of rejection,emotional movement
+198,GerDracor/kleist-penthesilea.xml,17826,17854,Zu uns her fliegt er wieder!,positive,emotions of joy,joy
+199,GerDracor/kleist-penthesilea.xml,17855,17858,Ha!,emotional movement,emotional movement,emotional movement
+200,GerDracor/kleist-penthesilea.xml,17859,17875,Der Verschlagne!,negative,emotions of rejection,"hate, disgust"
+201,GerDracor/kleist-penthesilea.xml,17876,17896,Er betrog sie – Hui!,negative,emotions of suffering,emotional movement
+202,GerDracor/kleist-penthesilea.xml,17897,18006,"Wie sie, die Unaufhaltsame, vorbei Schießt an dem Fuhrwerk – Prellt, im Sattel fliegt, Und stolpert – Stürzt!",negative,emotions of fear,emotional movement
+203,GerDracor/kleist-penthesilea.xml,18007,18011,Was?,emotional movement,emotional movement,emotional movement
+204,GerDracor/kleist-penthesilea.xml,18012,18032,"Stürzt, die Königin!",negative,emotions of fear,fear
+205,GerDracor/kleist-penthesilea.xml,18033,18119,Und eine Jungfrau blindhin über sie – Und eine noch – Und wieder – Und noch eine – Ha!,positive,emotions of rejection,"hate, disgust"
+206,GerDracor/kleist-penthesilea.xml,18120,18137,"Stürzen, Freunde?",negative,emotions of suffering,fear
+207,GerDracor/kleist-penthesilea.xml,18138,18245,"Stürzen – Stürzen, Hauptmann, Wie in der Feueresse eingeschmelzt, Zum Haufen, Roß und Reutrinnen, zusammen!",negative,emotions of suffering,suffering
+208,GerDracor/kleist-penthesilea.xml,18246,18270,Daß sie zu Asche würden!,negative,emotions of rejection,"hate, disgust"
+209,GerDracor/kleist-penthesilea.xml,18271,18382,"Staub ringsum, Vom Glanz der Rüstungen durchzuckt und Waffen: Das Aug erkennt nichts mehr, wie scharf es sieht.",negative,emotions of suffering,suffering
+210,GerDracor/kleist-penthesilea.xml,18383,18516,"Ein Knäuel, ein verworrener, von Jungfraun, Durchwebt von Rossen bunt: das Chaos war, Das erst', aus dem die Welt sprang, deutlicher.",emotional movement,emotional movement,emotional movement
+211,GerDracor/kleist-penthesilea.xml,18517,18604,"Doch jetzt – ein Wind erhebt sich; Tag wird es, Und eine der Gestürzten rafft sich auf.",negative,emotions of suffering,fear
+212,GerDracor/kleist-penthesilea.xml,18605,18608,Ha!,emotional movement,emotional movement,emotional movement
+213,GerDracor/kleist-penthesilea.xml,18609,18643,Wie sich das Gewimmel lustig regt!,negative,emotions of joy,joy
+214,GerDracor/kleist-penthesilea.xml,18644,18728,"Wie sie die Spieße sich, die Helme, suchen, Die weithin auf das Feld geschleuderten!",negative,emotions of rejection,Schadenfreude
+215,GerDracor/kleist-penthesilea.xml,18729,18812,"Drei Rosse noch, und eine Reuterin, liegen Gestreckt wie tot – Ist das die Königin?",negative,emotions of suffering,suffering
+216,GerDracor/kleist-penthesilea.xml,18813,18836,"Penthesilea, fragst du?",emotional movement,emotional movement,emotional movement
+217,GerDracor/kleist-penthesilea.xml,18837,18854,Ob's die Königin?,negative,emotional movement,emotional movement
+218,GerDracor/kleist-penthesilea.xml,18855,18896,– Daß mir den Dienst die Augen weigerten!,negative,emotions of rejection,suffering
+219,GerDracor/kleist-penthesilea.xml,18897,18912,Dort steht sie!,positive,emotions of joy,joy
+220,GerDracor/kleist-penthesilea.xml,18913,18916,Wo?,emotional movement,emotional movement,emotional movement
+221,GerDracor/kleist-penthesilea.xml,18917,18930,"Nein, sprich!",negative,emotions of rejection,emotional movement
+222,GerDracor/kleist-penthesilea.xml,18931,18993,"Dort, beim Kroniden, Wo sie gestürzt: in jener Eiche Schatten!",negative,emotions of suffering,suffering
+223,GerDracor/kleist-penthesilea.xml,18994,19081,"An ihres Pferdes Nacken hält sie sich, Das Haupt entblößt – seht ihr den Helm am Boden?",negative,emotions of suffering,suffering
+224,GerDracor/kleist-penthesilea.xml,19082,19186,"Die Locken schwachhin mit der Rechten greifend, Wischt sie, ist's Staub, ist's Blut, sich von der Stirn.",negative,emotions of fear,suffering
+225,GerDracor/kleist-penthesilea.xml,19187,19207,"Bei Gott, sie ist's!",positive,emotions of joy,emotional movement
+226,GerDracor/kleist-penthesilea.xml,19208,19227,Die Unverwüstliche!,positive,emotions of affection,despair
+227,GerDracor/kleist-penthesilea.xml,19228,19274,"Die Katze, die so stürzt, verreckt; nicht sie!",negative,emotions of suffering,despair
+228,GerDracor/kleist-penthesilea.xml,19275,19289,Und der Pelid?,emotional movement,emotional movement,emotional movement
+229,GerDracor/kleist-penthesilea.xml,19290,19315,Ihn schützen alle Götter!,positive,emotions of affection,admiration
+230,GerDracor/kleist-penthesilea.xml,19316,19361,Um drei Pfeilschüsse flog er fort und drüber!,negative,emotions of rejection,emotional movement
+231,GerDracor/kleist-penthesilea.xml,19362,19481,"Kaum mehr mit Blicken kann sie ihn erreichen, Und der Gedanke selbst, der strebende, Macht ihr im atemlosen Busen halt!",negative,emotions of suffering,emotional movement
+232,GerDracor/kleist-penthesilea.xml,19482,19490,Triumph!,positive,emotions of joy,joy
+233,GerDracor/kleist-penthesilea.xml,19491,19524,Dort tritt Odysseus jetzt hervor!,negative,emotions of fear,emotional movement
+234,GerDracor/kleist-penthesilea.xml,19525,19614,"Das ganze Griechenheer, im Strahl der Sonne, Tritt plötzlich aus des Waldes Nacht hervor!",negative,emotions of fear,emotional movement
+235,GerDracor/kleist-penthesilea.xml,19615,19620,Odyß?,emotional movement,emotional movement,emotional movement
+236,GerDracor/kleist-penthesilea.xml,19621,19637,Und Diomed auch?,emotional movement,emotional movement,emotional movement
+237,GerDracor/kleist-penthesilea.xml,19638,19651,O ihr Götter!,negative,emotions of fear,suffering
+238,GerDracor/kleist-penthesilea.xml,19652,19694,– Wie weit noch in dem Feld ist er zurück?,emotional movement,emotional movement,emotional movement
+239,GerDracor/kleist-penthesilea.xml,19695,19727,"Kaum einen Steinwurf, Hauptmann!",positive,emotions of fear,emotional movement
+240,GerDracor/kleist-penthesilea.xml,19728,19825,"Sein Gespann Fliegt auf die Höhen am Skamandros schon, Wo sich das Heer raschhin am Rande ordnet.",positive,emotions of fear,joy
+241,GerDracor/kleist-penthesilea.xml,19826,19877,Die Reihn schon wettert er entlang – aus der Ferne.,negative,emotions of rejection,anger
+242,GerDracor/kleist-penthesilea.xml,19878,19887,Heil dir!,positive,emotions of affection,compassion
+243,GerDracor/kleist-penthesilea.xml,19888,19927,"Sie rufen, die Argiver, ihm – Heil dir!",positive,emotions of rejection,despair
+244,GerDracor/kleist-penthesilea.xml,19928,19935,Achill!,emotional movement,emotional movement,suffering
+245,GerDracor/kleist-penthesilea.xml,19936,19953,"Heil dir, Pelide!",positive,emotions of affection,compassion
+246,GerDracor/kleist-penthesilea.xml,19954,19965,Göttersohn!,negative,emotions of fear,emotional movement
+247,GerDracor/kleist-penthesilea.xml,19966,19975,Heil dir!,positive,emotions of affection,compassion
+248,GerDracor/kleist-penthesilea.xml,19976,19985,Heil dir!,positive,emotions of affection,compassion
+249,GerDracor/kleist-penthesilea.xml,19986,19995,Heil dir!,positive,emotions of affection,compassion
+250,GerDracor/kleist-penthesilea.xml,19996,20014,Er hemmt den Lauf!,negative,emotions of suffering,emotional movement
+251,GerDracor/kleist-penthesilea.xml,20015,20069,Vor den versammelten Argiverfürsten Hemmt er den Lauf!,negative,emotions of rejection,anger
+252,GerDracor/kleist-penthesilea.xml,20070,20093,Odysseus naht sich ihm!,positive,emotions of fear,fear
+253,GerDracor/kleist-penthesilea.xml,20095,20117,Die Zügel gibt er weg!,negative,emotions of rejection,anger
+254,GerDracor/kleist-penthesilea.xml,20118,20133,Er wendet sich!,negative,emotions of suffering,suffering
+255,GerDracor/kleist-penthesilea.xml,20134,20181,"Er nimmt den Helm ab, der sein Haupt beschwert!",negative,emotions of suffering,suffering
+256,GerDracor/kleist-penthesilea.xml,20182,20211,Und alle Könige umringen ihn!,positive,emotions of joy,admiration
+257,GerDracor/kleist-penthesilea.xml,20212,20371,"Die Griechen reißen ihn, die jauchzenden, Um seine Kniee wimmelnd, mit sich fort: Indes Automedon die Rosse schrittweis, Die dampfenden, an seiner Seite führt!",negative,emotions of joy,joy
+258,GerDracor/kleist-penthesilea.xml,20372,20427,Hier wälzt der ganze Jubelzug sich schon Auf uns heran!,positive,emotions of joy,joy
+259,GerDracor/kleist-penthesilea.xml,20428,20437,Heil dir!,positive,emotions of affection,compassion
+260,GerDracor/kleist-penthesilea.xml,20438,20452,du Göttlicher!,positive,emotions of affection,admiration
+261,GerDracor/kleist-penthesilea.xml,20453,20497,"O seht doch her, seht her – Da ist er schon!",positive,emotions of joy,joy
+262,GerDracor/kleist-penthesilea.xml,20498,20625,"Achilles, ihm folgen Odysseus, Diomedes, Antilochus, Automedon mit der Quadriga ihm
+          zur Seite, das Heer der Griechen.",positive,emotions of fear,admiration
+263,GerDracor/kleist-penthesilea.xml,20626,20672,"Sei mir, Äginerheld, aus heißer Brust Gegrüßt!",positive,emotions of joy,joy
+264,GerDracor/kleist-penthesilea.xml,20673,20707,Du Sieger auch noch in der Flucht!,negative,emotions of rejection,joy
+265,GerDracor/kleist-penthesilea.xml,20708,20721,Beim Jupiter!,emotional movement,emotions of joy,emotional movement
+266,GerDracor/kleist-penthesilea.xml,20722,20920,"Wenn hinter deinem Rücken, Durch deines Geistes Obmacht über ihren, In Staub die Feindin stürzt, was wird geschehn, Wenn's dir gelingt, du Göttlicher, sie einst Von Angesicht zu Angesicht zu fassen.",negative,emotions of joy,admiration
+267,GerDracor/kleist-penthesilea.xml,20921,20992,er hält den Helm in der Hand und wischt sich den Schweiß von der Stirn.,negative,emotions of suffering,anger
+268,GerDracor/kleist-penthesilea.xml,20993,21112,"Zwei
+            Griechen ergreifen, ihm unbewußt, einen seiner Arme, der verwundet ist, und verbinden
+            ihn.",negative,emotions of suffering,suffering
+269,GerDracor/kleist-penthesilea.xml,21113,21121,Was ist?,emotional movement,emotional movement,emotional movement
+270,GerDracor/kleist-penthesilea.xml,21122,21133,Was gibt's?,emotional movement,emotional movement,emotional movement
+271,GerDracor/kleist-penthesilea.xml,21134,21312,"Du hast in einem Kampf Wetteifernder Geschwindigkeit bestanden, Neridensohn, wie losgelassene Gewitterstürm, am Himmelsplane brausend, Noch der erstaunten Welt ihn nicht gezeigt.",positive,emotions of joy,admiration
+272,GerDracor/kleist-penthesilea.xml,21313,21330,Bei den Erinnyen!,negative,emotions of joy,emotional movement
+273,GerDracor/kleist-penthesilea.xml,21331,21521,"Meiner Reue würd ich Mit deinem flüchtigen Gespann entfliehn, Hätt ich, des Lebens Gleise schwer durchknarrend, Die Sünden von der ganzen Trojerburg Der Muschel meiner Brust auch aufgeladen.",negative,emotions of suffering,suffering
+274,GerDracor/kleist-penthesilea.xml,21522,21597,"zu den zwei Griechen, welche ihn mit ihrem Geschäft zu belästigen scheinen.",negative,emotions of rejection,anger
+275,GerDracor/kleist-penthesilea.xml,21598,21609,Die Narren.,negative,emotions of rejection,"hate, disgust"
+276,GerDracor/kleist-penthesilea.xml,21610,21614,Wer?,emotional movement,emotional movement,emotional movement
+277,GerDracor/kleist-penthesilea.xml,21615,21657,Was neckt ihr – der ihm den Arm verbindet.,emotional movement,emotions of affection,emotional movement
+278,GerDracor/kleist-penthesilea.xml,21658,21663,Halt!,negative,emotional movement,fear
+279,GerDracor/kleist-penthesilea.xml,21664,21675,Du blutest!,negative,emotions of suffering,compassion
+280,GerDracor/kleist-penthesilea.xml,21676,21683,Nun ja.,negative,emotions of rejection,suffering
+281,GerDracor/kleist-penthesilea.xml,21684,21692,So steh!,negative,emotions of rejection,anger
+282,GerDracor/kleist-penthesilea.xml,21693,21720,So laß dich auch verbinden.,positive,emotions of affection,love
+283,GerDracor/kleist-penthesilea.xml,21721,21743,Gleich ist's geschehn.,negative,emotions of fear,fear
+284,GerDracor/kleist-penthesilea.xml,21744,21972,"– Es hieß zu Anfang hier, Der Rückzug meiner Völker habe dich In diese Flucht gestürzt; beschäftiget Mit dem Ulyß, den Antiloch zu hören, Der Botschaft uns von den Atriden brachte, War ich selbst auf dem Platz nicht gegenwärtig.",negative,emotions of suffering,suffering
+285,GerDracor/kleist-penthesilea.xml,21973,22080,"Doch alles, was ich sehe, überzeugt mich, Daß dieser meisterhaften Fahrt ein freier Entwurf zum Grunde lag.",positive,emotions of joy,joy
+286,GerDracor/kleist-penthesilea.xml,22081,22339,"Man könnte fragen, Ob du bei Tagesanbruch, da wir zum Gefecht noch allererst uns rüsteten, Den Feldstein schon gedacht dir, über welchen Die Königin zusammenstürzen sollte: So sichern Schrittes, bei den ewigen Göttern, Hast du zu diesem Stein sie hingeführt.",negative,emotions of fear,love
+287,GerDracor/kleist-penthesilea.xml,22340,22463,"Doch jetzt, Doloperheld, wirst du gefällig, Wenn dich ein anderes nicht besser dünkt, Mit uns dich ins Argiverlager werfen.",negative,emotions of rejection,anger
+288,GerDracor/kleist-penthesilea.xml,22464,22499,Die Söhne Atreus' rufen uns zurück.,emotional movement,emotional movement,joy
+289,GerDracor/kleist-penthesilea.xml,22500,22633,"Wir werden mit verstelltem Rückzug sie In das Skamandrostal zu locken suchen, Wo Agamemnon aus dem Hinterhalt  Beim Gott des Donners!",positive,emotions of rejection,fear
+290,GerDracor/kleist-penthesilea.xml,22634,22789,"Nirgends, oder dort Kühlst du die Brunst dir ab, die, rastlos drängend, Gleich einem jungen Spießer, dich verfolgt: Und meinen besten Segen schenk ich dir.",positive,emotions of rejection,"hate, disgust"
+291,GerDracor/kleist-penthesilea.xml,22790,22999,"Denn mir ein Greul auch, in den Tod verhaßt, Schweift die Megäre, unsre Taten störend, Auf diesem Feld herum, und gern möcht ich, Gesteh ich dir, die Spur von deinem Fußtritt Auf ihrer rosenblütnen Wange sehn.",negative,emotions of rejection,"hate, disgust"
+292,GerDracor/kleist-penthesilea.xml,23000,23032,sein Blick fällt auf die Pferde.,emotional movement,emotional movement,admiration
+293,GerDracor/kleist-penthesilea.xml,23033,23047,Sie schwitzen.,negative,emotions of suffering,suffering
+294,GerDracor/kleist-penthesilea.xml,23048,23052,Wer?,emotional movement,emotional movement,emotional movement
+295,GerDracor/kleist-penthesilea.xml,23053,23092,indem er ihre Hälse mit der Hand prüft.,negative,emotions of affection,love
+296,GerDracor/kleist-penthesilea.xml,23093,23102,Wie Blei.,negative,emotions of suffering,suffering
+297,GerDracor/kleist-penthesilea.xml,23103,23107,Gut.,positive,emotions of joy,joy
+298,GerDracor/kleist-penthesilea.xml,23108,23118,Führe sie.,positive,emotions of affection,love
+299,GerDracor/kleist-penthesilea.xml,23119,23151,Und wenn die Luft sie abgekühlt!,negative,emotions of suffering,suffering
+300,GerDracor/kleist-penthesilea.xml,23152,23205,so wasche Brüst ihnen und der Schenkel Paar mit Wein.,negative,emotions of suffering,"hate, disgust"
+301,GerDracor/kleist-penthesilea.xml,23206,23237,Man bringt die Schläuche schon.,negative,emotions of rejection,anger
+302,GerDracor/kleist-penthesilea.xml,23238,23305,"– Hier siehst du wohl, Vortrefflicher, daß wir im Nachteil kämpfen.",negative,emotions of suffering,suffering
+303,GerDracor/kleist-penthesilea.xml,23306,23470,"Bedeckt, so weit das schärfste Auge reicht, Sind alle Hügel von der Weiber Haufen; Heuschrecken lassen dichtgeschloßner nicht Auf eine reife Saatenflur sich nieder.",negative,emotions of rejection,"hate, disgust"
+304,GerDracor/kleist-penthesilea.xml,23471,23517,"Wem noch gelang ein Sieg, wie er ihn wünschte?",positive,emotions of joy,joy
+305,GerDracor/kleist-penthesilea.xml,23518,23593,"Ist einer, außer dir, der sagen kann, Er hab auch die Kentaurin nur gesehn?",positive,emotions of affection,emotional movement
+306,GerDracor/kleist-penthesilea.xml,23594,23932,"Umsonst, daß wir, in goldnen Rüstungen, Hervor uns drängen, unsern Fürstenstand Lautschmetternd durch Trompeten ihr verkünden: Sie rückt nicht aus dem Hintergrund hervor; Und wer auch fern, vom Windzug hergeführt, Nur ihre Silberstimme hören wollte, Müßt eine Schlacht, unrühmlich, zweifelhaft,  Das sie, den Höllenhunden gleich, bewacht.",negative,emotions of rejection,admiration
+307,GerDracor/kleist-penthesilea.xml,23933,23961,in die Ferne hinausschauend.,emotional movement,emotions of fear,fear
+308,GerDracor/kleist-penthesilea.xml,23962,23980,Steht sie noch da?,emotional movement,emotional movement,emotional movement
+309,GerDracor/kleist-penthesilea.xml,23981,23991,Du fragst?,emotional movement,emotional movement,emotional movement
+310,GerDracor/kleist-penthesilea.xml,23992,24006,– Die Königin?,emotional movement,emotional movement,emotional movement
+311,GerDracor/kleist-penthesilea.xml,24007,24032,Man sieht nichts – Platz!,emotional movement,emotional movement,emotional movement
+312,GerDracor/kleist-penthesilea.xml,24033,24055,Die Federbüsch hinweg!,negative,emotions of rejection,anger
+313,GerDracor/kleist-penthesilea.xml,24056,24082,der ihm den Arm verbindet.,positive,emotions of suffering,love
+314,GerDracor/kleist-penthesilea.xml,24083,24088,Halt!,negative,emotional movement,fear
+315,GerDracor/kleist-penthesilea.xml,24089,24106,Einen Augenblick.,emotional movement,emotional movement,emotional movement
+316,GerDracor/kleist-penthesilea.xml,24107,24124,"Dort, allerdings!",negative,emotions of suffering,suffering
+317,GerDracor/kleist-penthesilea.xml,24125,24128,Wo?,emotional movement,emotional movement,emotional movement
+318,GerDracor/kleist-penthesilea.xml,24129,24163,"Bei der Eiche, unter der sie fiel.",negative,emotions of suffering,suffering
+319,GerDracor/kleist-penthesilea.xml,24164,24254,"Der Helmbusch wallt schon wieder ihr vom Haupte, Und ihr Mißschicksal scheint verschmerzt.",positive,emotions of suffering,joy
+320,GerDracor/kleist-penthesilea.xml,24255,24269,– Nun endlich!,positive,emotions of joy,joy
+321,GerDracor/kleist-penthesilea.xml,24270,24320,"Den Arm jetzt magst du, wie du willst, gebrauchen.",positive,emotions of affection,Schadenfreude
+322,GerDracor/kleist-penthesilea.xml,24321,24342,Jetzt kannst du gehn.,positive,emotions of rejection,joy
+323,GerDracor/kleist-penthesilea.xml,24343,24414,Die Griechen verknüpfen noch einen Knoten und lassen seinen Arm fahren.,positive,emotions of suffering,suffering
+324,GerDracor/kleist-penthesilea.xml,24415,24463,"Hast du gehört, Pelide, Was wir dir vorgestellt?",positive,emotions of joy,joy
+325,GerDracor/kleist-penthesilea.xml,24464,24480,Mir vorgestellt?,emotional movement,emotions of suffering,emotional movement
+326,GerDracor/kleist-penthesilea.xml,24481,24494,"Nein, nichts.",emotional movement,emotional movement,emotional movement
+327,GerDracor/kleist-penthesilea.xml,24495,24505,Was war's?,emotional movement,emotional movement,emotional movement
+328,GerDracor/kleist-penthesilea.xml,24506,24520,Was wollt ihr?,negative,emotions of rejection,anger
+329,GerDracor/kleist-penthesilea.xml,24521,24536,Was wir wollen?,positive,emotions of affection,emotional movement
+330,GerDracor/kleist-penthesilea.xml,24537,24545,Seltsam.,emotional movement,emotional movement,emotional movement
+331,GerDracor/kleist-penthesilea.xml,24546,24601,– Wir unterrichteten von den Befehlen Dich der Atriden!,negative,emotions of rejection,anger
+332,GerDracor/kleist-penthesilea.xml,24602,24747,"Agamemnon will, Daß wir sogleich ins Griechenlager kehren; Den Antiloch sandt er, wenn du ihn siehst, Mit diesem Schluß des Feldherrnrats uns ab.",negative,emotions of rejection,Schadenfreude
+333,GerDracor/kleist-penthesilea.xml,24748,24991,"Der Kriegsplan ist, die Amazonenkönigin Herab nach der Dardanerburg zu locken, Wo sie, in beider Heere Mitte nun,  Sich muß, wem sie die Freundin sei, erklären; Und wir dann, sie erwähle, was sie wolle, Wir werden wissen mindstens, was zu tun.",positive,emotions of rejection,anger
+334,GerDracor/kleist-penthesilea.xml,24992,25070,"Ich traue deiner Klugheit zu, Pelide, Du folgst der Weisheit dieser Anordnung.",positive,emotions of affection,anger
+335,GerDracor/kleist-penthesilea.xml,25071,25260,"Denn Wahnsinn wär's, bei den Olympischen, Da dringend uns der Krieg nach Troja ruft, Mit diesen Jungfraun hier uns einzulassen, Bevor wir wissen,  Noch überhaupt nur, ob sie uns was wollen?",negative,emotions of affection,"hate, disgust"
+336,GerDracor/kleist-penthesilea.xml,25261,25300,indem er sich den Helm wieder aufsetzt.,negative,emotions of rejection,fear
+337,GerDracor/kleist-penthesilea.xml,25301,25441,"Kämpft ihr, wie die Verschnittnen, wenn ihr wollt; Mich einen Mann fühl ich, und diesen Weibern, Wenn keiner sonst im Heere, will ich stehn!",negative,emotions of affection,love
+338,GerDracor/kleist-penthesilea.xml,25442,25663,"Ob ihr hier länger, unter kühlen Fichten, Ohnmächtiger Lust voll, sie umschweift, ob nicht, Vom Bette fern der Schlacht, die sie umwogt, Gilt mir gleichviel: beim Styx, ich will'ge drein, Daß ihr nach Ilium zurücke kehrt.",positive,emotions of affection,love
+339,GerDracor/kleist-penthesilea.xml,25664,25786,"Was  Brautwerber schickt sie mir, gefiederte, Genug in Lüften zu, die ihre Wünsche Mit Todgeflüster in das Ohr mir raunen.",negative,emotions of rejection,"hate, disgust"
+340,GerDracor/kleist-penthesilea.xml,25787,26140,"Im Leben keiner Schönen war ich spröd; Seit mir der Bart gekeimt, ihr lieben Freunde, Ihr wißt's, zu Willen jeder war ich gern: Und wenn ich dieser mich gesperrt bis heute, Beim Zeus, des Donners Gott, geschah's, weil ich Das Plätzchen unter Büschen noch nicht fand, Sie ungestört, ganz wie ihr Herz es wünscht, Auf Küssen heiß von Erz im Arm zu nehmen.",positive,emotions of affection,love
+341,GerDracor/kleist-penthesilea.xml,26141,26500,"Kurz, geht: ins Griechenlager folg ich euch; Die Schäferstunde bleibt nicht lang mehr aus: Doch müßt ich auch durch ganze Monden noch, Und Jahre, um sie frein: den Wagen dort  Ich schwör's, und Pergamos nicht wiedersehn, Als bis ich sie zu meiner Braut gemacht, Und sie, die Stirn bekränzt mit Todeswunden, Kann durch die Straßen häuptlings mit mir schleifen.",negative,emotions of affection,suffering
+342,GerDracor/kleist-penthesilea.xml,26501,26511,Folgt mir!,negative,emotions of fear,fear
+343,GerDracor/kleist-penthesilea.xml,26512,26522,tritt auf.,emotional movement,emotional movement,emotional movement
+344,GerDracor/kleist-penthesilea.xml,26523,26557,"Penthesilea naht sich dir, Pelide!",negative,emotions of joy,joy
+345,GerDracor/kleist-penthesilea.xml,26558,26567,Ich auch.,positive,emotions of joy,suffering
+346,GerDracor/kleist-penthesilea.xml,26568,26604,Bestieg sie schon den Perser wieder?,positive,emotional movement,emotional movement
+347,GerDracor/kleist-penthesilea.xml,26605,26616,Noch nicht.,emotional movement,emotional movement,joy
+348,GerDracor/kleist-penthesilea.xml,26617,26690,"Zu Fuße schreitet sie heran, Doch ihr zur Seite stampft der Perser schon.",negative,emotions of rejection,fear
+349,GerDracor/kleist-penthesilea.xml,26691,26698,Wohlan!,positive,emotions of suffering,joy
+350,GerDracor/kleist-penthesilea.xml,26699,26740,"So schafft mir auch ein Roß, ihr Freunde!",positive,emotions of affection,"hate, disgust"
+351,GerDracor/kleist-penthesilea.xml,26741,26781,"– Folgt, meine tapfern Myrmidonier, mir.",positive,emotions of fear,admiration
+352,GerDracor/kleist-penthesilea.xml,26782,26802,Das Heer bricht auf.,negative,emotions of fear,fear
+353,GerDracor/kleist-penthesilea.xml,26803,26815,Der Rasende!,negative,emotions of rejection,anger
+354,GerDracor/kleist-penthesilea.xml,26816,26874,"Nun, so versuche doch Jetzt deine Rednerkunst, o Antiloch!",negative,emotions of rejection,anger
+355,GerDracor/kleist-penthesilea.xml,26875,26919,Laßt mit Gewalt uns ihn – Fort ist er schon!,negative,emotions of rejection,despair
+356,GerDracor/kleist-penthesilea.xml,26920,26956,Verwünscht sei dieser Amazonenkrieg!,negative,emotions of rejection,"hate, disgust"
+357,GerDracor/kleist-penthesilea.xml,26957,26965,Alle ab.,negative,emotional movement,anger
+358,GerDracor/kleist-penthesilea.xml,26966,27030,"Penthesilea, Prothoe, Meroe, Asteria, Gefolge, das Amazonenheer.",positive,emotions of joy,admiration
+359,GerDracor/kleist-penthesilea.xml,27031,27053,"Heil dir, du Siegerin!",positive,emotions of joy,joy
+360,GerDracor/kleist-penthesilea.xml,27054,27067,Überwinderin!,negative,emotions of rejection,fear
+361,GerDracor/kleist-penthesilea.xml,27068,27092,Des Rosenfestes Königin!,positive,emotions of affection,joy
+362,GerDracor/kleist-penthesilea.xml,27093,27105,Triumph dir!,positive,emotions of joy,joy
+363,GerDracor/kleist-penthesilea.xml,27106,27129,Nichts vom Triumph mir!,positive,emotions of rejection,joy
+364,GerDracor/kleist-penthesilea.xml,27130,27152,Nichts vom Rosenfeste!,negative,emotions of rejection,suffering
+365,GerDracor/kleist-penthesilea.xml,27153,27200,Es ruft die Schlacht noch einmal mich ins Feld.,negative,emotions of fear,fear
+366,GerDracor/kleist-penthesilea.xml,27201,27334,"Den jungen trotz'gen Kriegsgott bändg' ich mir, Gefährtinnen, zehntausend Sonnen dünken,  Nicht, als ein Sieg, ein Sieg mir über ihn.",positive,emotions of affection,friendship
+367,GerDracor/kleist-penthesilea.xml,27335,27375,"Geliebte, ich beschwöre dich – Laß mich!",negative,emotions of affection,love
+368,GerDracor/kleist-penthesilea.xml,27376,27501,"Du hörst, was ich beschloß, eh würdest du Den Strom, wenn er herab von Bergen schießt, Als meiner Seele Donnersturz regieren.",positive,emotions of rejection,"hate, disgust"
+369,GerDracor/kleist-penthesilea.xml,27502,27660,"Ich will zu meiner Füße Staub ihn sehen, Den Übermütigen, der mir an diesem Glorwürd'gen Schlachtentag, wie keiner noch, Das kriegerische Hochgefühl verwirrt.",negative,emotions of joy,joy
+370,GerDracor/kleist-penthesilea.xml,27661,27813,"Ist das die Siegerin, die schreckliche, Der Amazonen stolze Königin, Die seines Busens erzne Rüstung mir, Wenn sich mein Fuß ihm naht, zurücke spiegelt?",positive,emotions of fear,admiration
+371,GerDracor/kleist-penthesilea.xml,27814,28023,"Fühl ich, mit aller Götter Fluch Beladne, Da rings das Heer der Griechen vor mir flieht, Bei dieses einz'gen Helden Anblick mich Gelähmt nicht, in dem Innersten getroffen, Mich, mich die Überwundene, Besiegte?",negative,emotions of suffering,suffering
+372,GerDracor/kleist-penthesilea.xml,28024,28108,"Wo ist der Sitz mir, der kein Busen ward, Auch des Gefühls, das mich zu Boden wirft?",negative,emotions of suffering,suffering
+373,GerDracor/kleist-penthesilea.xml,28109,28227,"Ins Schlachtgetümmel stürzen will ich mich, Wo der Hohnlächelnde mein harrt, und ihn Mir überwinden, oder leben nicht!",negative,emotions of rejection,Schadenfreude
+374,GerDracor/kleist-penthesilea.xml,28228,28306,"Wenn du dein Haupt doch, teure Königin, An diesem treuen Busen ruhen wolltest.",positive,emotions of affection,love
+375,GerDracor/kleist-penthesilea.xml,28307,28434,"Der Sturz, der dir die Brust gewaltsam traf, Hat dir das Blut entflammt, den Sinn empört: An allen jungen Gliedern zitterst du!",negative,emotions of fear,suffering
+376,GerDracor/kleist-penthesilea.xml,28435,28516,"Beschließe nichts, wir alle flehen dich, Bis heitrer dir der Geist zurückgekehrt.",negative,emotions of suffering,despair
+377,GerDracor/kleist-penthesilea.xml,28517,28555,"Komm, ruhe dich bei mir ein wenig aus.",negative,emotions of suffering,suffering
+378,GerDracor/kleist-penthesilea.xml,28556,28562,Warum?,emotional movement,emotional movement,emotional movement
+379,GerDracor/kleist-penthesilea.xml,28563,28571,Weshalb?,emotional movement,emotional movement,emotional movement
+380,GerDracor/kleist-penthesilea.xml,28572,28589,Was ist geschehn?,emotional movement,emotional movement,emotional movement
+381,GerDracor/kleist-penthesilea.xml,28590,28603,Was sagt ich?,emotional movement,emotional movement,emotional movement
+382,GerDracor/kleist-penthesilea.xml,28604,28614,Hab ich –?,emotional movement,emotional movement,emotional movement
+383,GerDracor/kleist-penthesilea.xml,28615,28634,Was hab ich denn –?,emotional movement,emotional movement,emotional movement
+384,GerDracor/kleist-penthesilea.xml,28635,28737,"Um eines Siegs, Der deine junge Seele flüchtig reizt, Willst du das Spiel der Schlachten neu beginnen?",positive,emotions of fear,joy
+385,GerDracor/kleist-penthesilea.xml,28738,28909,"Weil unerfüllt ein Wunsch, ich weiß nicht welcher, Dir im geheimen Herzen blieb, den Segen, Gleich einem übellaunigen Kind, hinweg, Der deines Volks Gebete krönte, werfen?",negative,emotions of affection,suffering
+386,GerDracor/kleist-penthesilea.xml,28910,28919,"Ha, sieh!",positive,emotions of joy,emotional movement
+387,GerDracor/kleist-penthesilea.xml,28920,28956,Verwünscht das Los mir dieses Tages!,negative,emotions of rejection,"hate, disgust"
+388,GerDracor/kleist-penthesilea.xml,28957,29082,"Wie mit dem Schicksal heut, dem tückischen, Sich meiner Seele liebste Freundinnen Verbünden, mir zu schaden, mich zu kränken!",negative,emotions of suffering,suffering
+389,GerDracor/kleist-penthesilea.xml,29083,29294,"Wo sich die Hand, die lüsterne, nur regt, Den Ruhm, wenn er bei mir vorüberfleucht, Bei seinem goldnen Lockenhaar zu fassen, Tritt eine Macht mir hämisch in den Weg – – Und Trotz ist, Widerspruch, die Seele mir!",negative,emotions of rejection,"hate, disgust"
+390,GerDracor/kleist-penthesilea.xml,29295,29302,Hinweg!,negative,emotions of rejection,anger
+391,GerDracor/kleist-penthesilea.xml,29303,29312,für sich.,positive,emotions of joy,emotional movement
+392,GerDracor/kleist-penthesilea.xml,29313,29345,"Ihr Himmlischen, beschützet sie!",positive,emotions of affection,love
+393,GerDracor/kleist-penthesilea.xml,29346,29408,Denk ich bloß  Die mich zurück aufs Feld der Schlachten rufen?,negative,emotions of fear,suffering
+394,GerDracor/kleist-penthesilea.xml,29409,29538,"Ist es das Volk, ist's das Verderben nicht, Das in des Siegs wahnsinniger Berauschung, Hörbaren Flügelschlags, von fern ihm naht?",negative,emotions of fear,despair
+395,GerDracor/kleist-penthesilea.xml,29539,29625,"Was ist geschehn, daß wir zur Vesper schon, Wie nach vollbrachter Arbeit ruhen wollen?",negative,emotional movement,suffering
+396,GerDracor/kleist-penthesilea.xml,29626,29833,"Gemäht liegt uns, zu Garben eingebunden, Der Ernte üpp'ger Schatz, in Scheuern hoch, Die in den Himmel ragen, aufgetürmt: Jedoch die Wolke heillos überschwebt ihn, Und den Vernichtungsstrahl droht sie herab.",negative,emotions of fear,despair
+397,GerDracor/kleist-penthesilea.xml,29834,29993,"Die Jünglingsschar, die überwundene, Ihr werdet sie, bekränzt mit Blumen nicht, Bei der Posaunen und der Zimbeln Klang, Zu euren duft'gen Heimatstälern führen.",positive,emotions of joy,joy
+398,GerDracor/kleist-penthesilea.xml,29995,30299,"Der sich ihm beut, seh ich den Peleïden Auf euren frohen Jubelzug sich stürzen; Euch und dem Trosse der Gefangenen, Bis zu den Mauern Themiscyras folgen; Ja in der Artemis geweihtem Tempel Die Ketten noch, die rosenblütenen, Von ihren Gliedern reißen und die unsern Mit erzgegoßner Fessel Last bewuchten.",positive,emotions of joy,joy
+399,GerDracor/kleist-penthesilea.xml,30300,30534,"Soll ich von seiner Fers, ich Rasende, Die nun fünf schweißerfüllte Sonnen schon An seinem Sturze rüttelte, entweichen: Da er vom Windzug eines Streiches muß, Getroffen, unter meines Rosses Huf, Wie eine reife Südfrucht, niederfallen?",negative,emotions of fear,suffering
+400,GerDracor/kleist-penthesilea.xml,30535,30883,"Nein, eh ich, was so herrlich mir begonnen, So groß, nicht endige, eh ich nicht völlig Den Kranz, der mir die Stirn umrauscht', erfasse, Eh ich Mars' Töchter nicht, wie ich versprach, Jetzt auf des Glückes Gipfel jauchzend führe, Eh möge seine Pyramide schmetternd Zusammenbrechen über mich und sie: Verflucht das Herz, das sich nicht mäß'gen kann.",negative,emotions of suffering,joy
+401,GerDracor/kleist-penthesilea.xml,30884,31051,"Dein Aug, o Herrscherin, erglüht ganz fremd, Ganz unbegreiflich, und Gedanken wälzen, So finster, wie der ew'gen Nacht entstiegen, In meinem ahndungsvollen Busen sich.",emotional movement,emotional movement,emotional movement
+402,GerDracor/kleist-penthesilea.xml,31052,31190,"Die Schar, die deine Seele seltsam fürchtet, Entfloh rings vor dir her, wie Spreu vor Winden; Kaum daß ein Speer sich noch erblicken läßt.",negative,emotions of fear,fear
+403,GerDracor/kleist-penthesilea.xml,31191,31413,"Achill, so wie du mit dem Heer dich stelltest, Von dem Skamandros ist er abgeschnitten; Reiz ihn nicht mehr, aus seinem Blick nur weiche: Den ersten Schritt, beim Jupiter, ich schwör's, In seine Danaerschanze setzt er hin.",negative,emotions of suffering,suffering
+404,GerDracor/kleist-penthesilea.xml,31414,31463,"Ich will, ich, dir des Heeres Schweif beschirmen.",positive,emotions of affection,friendship
+405,GerDracor/kleist-penthesilea.xml,31465,31492,Gefangenen entreißt er dir!,positive,emotions of rejection,fear
+406,GerDracor/kleist-penthesilea.xml,31493,31682,"Es soll Der Glanz, auch meilenfernhin, seiner Waffen, Dein Heer nicht schrecken, seiner Rosse ferner Tritt Dir kein Gelächter einer Jungfrau stören: Mit meinem Haupt steh ich dir dafür ein!",positive,emotions of affection,admiration
+407,GerDracor/kleist-penthesilea.xml,31683,31726,indem sie sich plötzlich zu Asteria wendet.,emotional movement,emotional movement,emotional movement
+408,GerDracor/kleist-penthesilea.xml,31727,31754,"Kann das geschehn, Asteria?",emotional movement,emotions of fear,fear
+409,GerDracor/kleist-penthesilea.xml,31755,31846,"Herrscherin – Kann ich das Heer, wie Prothoe verlangt, Nach Themiscyra wohl zurücke führen?",emotional movement,emotional movement,emotional movement
+410,GerDracor/kleist-penthesilea.xml,31847,31906,"Vergib, wenn ich in meinem Fall, o Fürstin – Sprich dreist.",negative,emotions of rejection,anger
+411,GerDracor/kleist-penthesilea.xml,31907,31916,Du hörst.,emotional movement,emotions of rejection,joy
+412,GerDracor/kleist-penthesilea.xml,31917,31928,schüchtern.,emotional movement,emotional movement,emotional movement
+413,GerDracor/kleist-penthesilea.xml,31929,31995,Wenn du den Rat willst gütig Versammelt aller Fürstinnen befragen.,positive,emotions of affection,admiration
+414,GerDracor/kleist-penthesilea.xml,31996,32067,So wird – Den Rat hier  – Was bin ich denn seit einer Handvoll Stunden?,negative,emotional movement,emotional movement
+415,GerDracor/kleist-penthesilea.xml,32068,32103,"Pause, in welcher sie sich sammelt.",emotional movement,emotional movement,emotional movement
+416,GerDracor/kleist-penthesilea.xml,32104,32191,"– – Kann ich das Heer, du sprichst, Asteria, Kann ich es wohl zurück zur Heimat führen?",positive,emotions of fear,emotional movement
+417,GerDracor/kleist-penthesilea.xml,32192,32322,"Wenn du so willst, o Herrscherin, so laß Mich dir gestehn, wie ich des Schauspiels staune, Das mir in die ungläub'gen Sinne fällt.",emotional movement,emotional movement,emotional movement
+418,GerDracor/kleist-penthesilea.xml,32323,32481,"Vom Kaukasus, mit meinem Völkerstamm, Um eine Sonne später aufgebrochen, Konnt ich dem Zuge deines Heeres nicht, Der reißend wie ein Strom dahinschoß, folgen.",negative,emotions of suffering,suffering
+419,GerDracor/kleist-penthesilea.xml,32482,32720,"Erst heute, weißt du, mit der Dämmerung, Auf diesen Platz schlagfertig treff ich ein; Und jauchzend schallt aus tausend Kehlen mir Die Nachricht zu: Der Sieg, er sei erkämpft, Beschlossen schon, auf jede Forderung Der ganze Amazonenkrieg.",positive,emotions of joy,joy
+420,GerDracor/kleist-penthesilea.xml,32721,33078,"Erfreut,  So leicht, und unbedürftig mein, erfüllt, Ordn ich zur Rückkehr alles wieder an; Neugierde treibt mich doch, die Schar zu sehen, Die man mir als des Sieges Beute rühmt; Und eine Handvoll Knechte, bleich und zitternd, Erblickt mein Auge, der Argiver Auswurf, Auf Schildern, die sie fliehend weggeworfen, Von deinem Kriegstroß schwärmend aufgelesen.",positive,emotions of joy,joy
+421,GerDracor/kleist-penthesilea.xml,33079,33529,"Vor Trojas stolzen Mauern steht das ganze Hellenenheer, steht Agamemnon noch, Stehn Menelaus, Ajax, Palamed; Ulysses, Diomedes, Antilochus, Sie wagen dir ins Angesicht zu trotzen: Ja jener junge Nereïdensohn, Den deine Hand mit Rosen schmücken sollte, Die Stirn baut er, der Übermüt'ge, dir; Den Fußtritt will er, und erklärt es laut, Auf deinen königlichen Nacken setzen: Und meine große Arestochter fragt mich, Ob sie den Siegesheimzug feiern darf?",negative,emotions of rejection,"hate, disgust"
+422,GerDracor/kleist-penthesilea.xml,33530,33547,leidenschaftlich.,positive,emotional movement,love
+423,GerDracor/kleist-penthesilea.xml,33548,33633,"Der Königin, du Falsche, sanken Helden An Hoheit, Mut und Schöne – Schweig, Verhaßte!",negative,emotions of rejection,"hate, disgust"
+424,GerDracor/kleist-penthesilea.xml,33634,33758,"Asteria fühlt, wie ich, es ist nur  Hier mir zu sinken wert: und dieser  Dort steht er noch im Feld der Schlacht und trotzt!",negative,emotions of affection,admiration
+425,GerDracor/kleist-penthesilea.xml,33759,33825,"Nicht von der Leidenschaft, o Herrscherin, Wirst du dich – Natter!",negative,emotions of rejection,despair
+426,GerDracor/kleist-penthesilea.xml,33826,33852,Deine Zunge nimm gefangen!,negative,emotions of rejection,"hate, disgust"
+427,GerDracor/kleist-penthesilea.xml,33853,33901,– Willst du den Zorn nicht deiner Königin wagen!,negative,emotions of rejection,anger
+428,GerDracor/kleist-penthesilea.xml,33902,33909,Hinweg!,negative,emotions of rejection,anger
+429,GerDracor/kleist-penthesilea.xml,33910,33941,So wag ich meiner Königin Zorn!,negative,emotions of rejection,anger
+430,GerDracor/kleist-penthesilea.xml,33942,34242,"Eh will ich nie dein Antlitz wiedersehen, Als feig, in diesem Augenblick, dir eine  Du bist, in Flammen wie du loderst, nicht Geschickt, den Krieg der Jungfraun fortzuführen; So wenig, wie, sich mit dem Spieß zu messen, Der Löwe, wenn er von dem Gift getrunken, Das ihm der Jäger tückisch vorgesetzt.",negative,emotions of rejection,"hate, disgust"
+431,GerDracor/kleist-penthesilea.xml,34243,34494,"Nicht den Peliden, bei den ew'gen Göttern, Wirst du in dieser Stimmung dir gewinnen: Vielmehr, noch eh die Sonne sinkt, versprech ich, Die Jünglinge, die unser Arm bezwungen, So vieler unschätzbaren Mühen Preis, Uns bloß, in deiner Raserei, verlieren.",negative,emotions of rejection,"hate, disgust"
+432,GerDracor/kleist-penthesilea.xml,34495,34534,Das ist ja sonderbar und unbegreiflich!,emotional movement,emotional movement,emotional movement
+433,GerDracor/kleist-penthesilea.xml,34535,34573,Was macht dich plötzlich denn so feig?,negative,emotions of rejection,"hate, disgust"
+434,GerDracor/kleist-penthesilea.xml,34574,34583,Was mich?,negative,emotional movement,emotional movement
+435,GerDracor/kleist-penthesilea.xml,34584,34616,"– Wen überwandst du, sag mir an?",negative,emotions of fear,emotional movement
+436,GerDracor/kleist-penthesilea.xml,34617,34657,"Lykaon, Den jungen Fürsten der Arkadier.",emotional movement,emotions of suffering,love
+437,GerDracor/kleist-penthesilea.xml,34658,34683,"Mich dünkt, du sahst ihn.",positive,emotions of affection,love
+438,GerDracor/kleist-penthesilea.xml,34684,34691,"So, so.",emotional movement,emotional movement,emotional movement
+439,GerDracor/kleist-penthesilea.xml,34692,34801,"War es jener, Der zitternd stand, mit eingeknicktem Helmbusch, Als ich mich den Gefangnen gestern – Zitternd!",negative,emotions of fear,fear
+440,GerDracor/kleist-penthesilea.xml,34802,34842,"Er stand so fest, wie je dir der Pelide!",positive,emotions of affection,admiration
+441,GerDracor/kleist-penthesilea.xml,34843,35011,"Im Kampf von meinen Pfeilen heiß getroffen, Sank er zu Füßen mir, stolz werd ich ihn, An jenem Fest der Rosen, stolz, wie eine, Zu unserm heil'gen Tempel führen können.",positive,emotions of affection,admiration
+442,GerDracor/kleist-penthesilea.xml,35012,35023,Wahrhaftig?,positive,emotions of affection,emotional movement
+443,GerDracor/kleist-penthesilea.xml,35024,35050,Wie du so begeistert bist.,positive,emotions of joy,joy
+444,GerDracor/kleist-penthesilea.xml,35051,35099,– Nun denn – er soll dir nicht entrissen werden!,positive,emotions of affection,love
+445,GerDracor/kleist-penthesilea.xml,35100,35170,"– Führt aus der Schar ihn den Gefangenen, Lykaon, den Arkadier herbei!",negative,emotions of rejection,despair
+446,GerDracor/kleist-penthesilea.xml,35171,35465,"– Nimm, du Unkriegerische Jungfrau, ihn, Entfleuch, daß er dir nicht verlorengehe, Aus dem Geräusch der Schlacht mit ihm, bergt euch In Hecken von süß duftendem Holunder,  Wollüstig Lied die Nachtigall dir flötet, Und feir' es gleich, du Lüsterne, das Fest, Das deine Seele nicht erwarten kann.",negative,emotions of affection,"hate, disgust"
+447,GerDracor/kleist-penthesilea.xml,35466,35668,"Doch aus dem Angesicht sei ewig mir, Sei aus der Hauptstadt mir verbannt, laß den Geliebten dich und seine Küsse, trösten, Wenn alles, Ruhm dir, Vaterland und Liebe, Die Königin, die Freundin untergeht.",negative,emotions of affection,love
+448,GerDracor/kleist-penthesilea.xml,35669,35691,Geh und befreie – geh!,negative,emotions of fear,despair
+449,GerDracor/kleist-penthesilea.xml,35692,35715,ich will nichts wissen!,negative,emotions of rejection,anger
+450,GerDracor/kleist-penthesilea.xml,35716,35756,Von deinem hassenswürd'gen Anblick mich!,negative,emotions of rejection,"hate, disgust"
+451,GerDracor/kleist-penthesilea.xml,35757,35769,"Oh, Königin!",positive,emotions of suffering,emotional movement
+452,GerDracor/kleist-penthesilea.xml,35770,35788,aus ihrem Gefolge.,negative,emotions of fear,fear
+453,GerDracor/kleist-penthesilea.xml,35789,35816,Welch ein Wort sprachst du?,emotional movement,emotional movement,emotional movement
+454,GerDracor/kleist-penthesilea.xml,35817,35835,"Schweigt, sag ich!",negative,emotions of rejection,anger
+455,GerDracor/kleist-penthesilea.xml,35836,35878,"Der Rache weih ich den, der für sie fleht!",negative,emotions of fear,"hate, disgust"
+456,GerDracor/kleist-penthesilea.xml,35879,35889,tritt auf.,emotional movement,emotional movement,emotional movement
+457,GerDracor/kleist-penthesilea.xml,35890,35924,"Achilles nahet dir, o Herrscherin!",negative,emotions of fear,suffering
+458,GerDracor/kleist-penthesilea.xml,35925,35977,"Er naht – Wohlauf, ihr Jungfraun, denn zur Schlacht!",positive,emotions of fear,fear
+459,GerDracor/kleist-penthesilea.xml,35978,36066,"– Reicht mir der Spieße treffendsten, o reicht Der Schwerter wetterflammendstes mir her!",positive,emotions of rejection,Schadenfreude
+460,GerDracor/kleist-penthesilea.xml,36067,36195,"Die Lust, ihr Götter, müßt ihr mir gewähren, Den einen heißersehnten Jüngling siegreich Zum Staub mir noch der Füße hinzuwerfen.",positive,emotions of joy,joy
+461,GerDracor/kleist-penthesilea.xml,36196,36268,"Das ganze Maß von Glück erlaß ich euch, Das meinem Leben zugemessen ist.",positive,emotions of joy,joy
+462,GerDracor/kleist-penthesilea.xml,36269,36279,– Asteria!,positive,emotional movement,emotional movement
+463,GerDracor/kleist-penthesilea.xml,36280,36308,Du wirst die Scharen führen.,positive,emotions of rejection,joy
+464,GerDracor/kleist-penthesilea.xml,36309,36394,Beschäftige den Griechentroß und sorge Daß sich des Kampfes Inbrunst mir nicht störe.,negative,emotions of suffering,suffering
+465,GerDracor/kleist-penthesilea.xml,36395,36461,"Der Jungfraun keine, wer sie immer sei, Trifft den Peliden selbst!",positive,emotions of rejection,love
+466,GerDracor/kleist-penthesilea.xml,36462,36529,"Dem ist ein Pfeil Geschärft des Todes, der sein Haupt, was sag ich!",negative,emotions of rejection,"hate, disgust"
+467,GerDracor/kleist-penthesilea.xml,36530,36565,Der seiner Locken eine mir berührt!,negative,emotions of affection,love
+468,GerDracor/kleist-penthesilea.xml,36566,36609,"Ich nur, ich weiß den Göttersohn zu fällen.",negative,emotions of affection,admiration
+469,GerDracor/kleist-penthesilea.xml,36610,36686,"Hier dieses Eisen soll, Gefährtinnen,  (Weil ich mit Eisen ihn umarmen muß!)",negative,emotions of affection,love
+470,GerDracor/kleist-penthesilea.xml,36687,36726,An meinen Busen schmerzlos niederziehn.,negative,emotions of suffering,suffering
+471,GerDracor/kleist-penthesilea.xml,36727,36812,"Hebt euch, ihr Frühlingsblumen, seinem Fall, Daß seiner Glieder keines sich verletze.",negative,emotions of joy,joy
+472,GerDracor/kleist-penthesilea.xml,36813,36858,"Blut meines Herzens mißt ich ehr, als seines.",negative,emotions of affection,admiration
+473,GerDracor/kleist-penthesilea.xml,36859,37222,"Nicht eher ruhn will ich, bis ich aus Lüften, Gleich einem schöngefärbten Vogel, ihn Zu mir herabgestürzt; doch liegt er jetzt Mit eingeknickten Fittichen, ihr Jungfraun, Zu Füßen mir, kein Purpurstäubchen missend, Nun dann, so mögen alle Seligen Daniedersteigen, unsern Sieg zu feiern, Zur Heimat geht der Jubelzug, dann bin ich Die Königin des Rosenfestes euch!",positive,emotions of joy,joy
+474,GerDracor/kleist-penthesilea.xml,37223,37237,– Jetzt kommt!,negative,emotions of fear,fear
+475,GerDracor/kleist-penthesilea.xml,37238,37323,"– Indem sie abgehen will, erblickt sie die weinende Prothoe, und wendet sich unruhig.",negative,emotions of suffering,emotional movement
+476,GerDracor/kleist-penthesilea.xml,37336,37386,"Darauf plötzlich, indem sie ihr um den Hals fällt.",positive,emotions of affection,love
+477,GerDracor/kleist-penthesilea.xml,37387,37395,Prothoe!,negative,emotions of rejection,anger
+478,GerDracor/kleist-penthesilea.xml,37396,37420,Meiner Seelen Schwester!,positive,emotions of affection,love
+479,GerDracor/kleist-penthesilea.xml,37421,37442,Willst du mir folgen?,negative,emotions of fear,anger
+480,GerDracor/kleist-penthesilea.xml,37443,37466,mit gebrochener Stimme.,negative,emotions of suffering,suffering
+481,GerDracor/kleist-penthesilea.xml,37467,37484,In den Orkus dir!,negative,emotions of rejection,"hate, disgust"
+482,GerDracor/kleist-penthesilea.xml,37485,37524,Ging ich auch zu den Seligen ohne dich?,positive,emotions of suffering,love
+483,GerDracor/kleist-penthesilea.xml,37525,37555,"Du Bessere, als Menschen sind!",positive,emotions of affection,admiration
+484,GerDracor/kleist-penthesilea.xml,37556,37569,Du willst es?,positive,emotions of affection,anger
+485,GerDracor/kleist-penthesilea.xml,37570,37691,"Wohlan, wir kämpfen, siegen miteinander, Wir  Ist: Rosen für die Scheitel unsrer Helden, Oder Zypressen für die unsrigem.",positive,emotions of affection,admiration
+486,GerDracor/kleist-penthesilea.xml,37692,37700,Alle ab.,negative,emotional movement,anger
+487,GerDracor/kleist-penthesilea.xml,37701,37765,Die Oberpriesterin der Diana mit ihren Priesterinnen treten auf.,positive,emotions of affection,admiration
+488,GerDracor/kleist-penthesilea.xml,37766,37922,"Ihnen folgen eine
+          Schar junger Mädchen mit Rosen in Körben auf den Köpfen, und die Gefangenen, geführt von
+          einigen bewaffneten Amazonen.",positive,emotions of fear,suffering
+489,GerDracor/kleist-penthesilea.xml,37923,38014,"Nun, ihr geliebten, kleinen Rosenjungfraun, Laßt jetzt die Frucht mich eurer Wandrung sehn.",positive,emotions of joy,love
+490,GerDracor/kleist-penthesilea.xml,38015,38137,"Hier, wo die Felsenquelle einsam schäumt, Beschattet von der Pinie, sind wir sicher: Hier schüttet eure Ernte vor mir aus.",positive,emotions of joy,joy
+491,GerDracor/kleist-penthesilea.xml,38138,38162,ihren Korb ausschüttend.,positive,emotions of rejection,suffering
+492,GerDracor/kleist-penthesilea.xml,38163,38209,"Sieh, diese Rosen pflückt ich, heil'ge Mutter!",positive,emotions of joy,joy

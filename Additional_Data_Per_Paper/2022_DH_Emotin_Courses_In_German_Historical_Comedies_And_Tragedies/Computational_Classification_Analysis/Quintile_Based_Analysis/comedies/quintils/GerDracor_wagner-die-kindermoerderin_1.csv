@@ -1,0 +1,468 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/wagner-die-kindermoerderin.xml,0,64," Der Schauplatz ist in Straßburg, die Handlung währt neun Monat.",positive,emotional movement,suffering
+1,GerDracor/wagner-die-kindermoerderin.xml,65,264,"Ein schlechtes Zimmer im Wirtshaus »Zum Gelben Kreuz«: die Art wie es möblieret sein
+          muß, ist aus dem Akt selbst zu ersehn: auf der Seite eine Türe, die in eine Nebenkammer
+          führt.",negative,emotions of suffering,suffering
+2,GerDracor/wagner-die-kindermoerderin.xml,265,332,Lieutenant von Gröningseck führt Frau Humbrecht an der Hand herein.,negative,emotions of affection,suffering
+3,GerDracor/wagner-die-kindermoerderin.xml,333,380,"Evchen ihre
+          Tochter geht hinterdrein.",negative,emotions of fear,emotional movement
+4,GerDracor/wagner-die-kindermoerderin.xml,381,470,"Die Frauenzimmer haben Domino, er eine Wildschur an; alle noch
+          ihre Masken vor.",negative,emotions of rejection,"hate, disgust"
+5,GerDracor/wagner-die-kindermoerderin.xml,471,512,"setzt ein Licht auf den Tisch, im Abgehn.",emotional movement,emotional movement,emotional movement
+6,GerDracor/wagner-die-kindermoerderin.xml,513,538,Sie haben schon befohlen?,emotional movement,emotional movement,emotional movement
+7,GerDracor/wagner-die-kindermoerderin.xml,540,570,die Maske vom Gesicht ziehend.,negative,emotions of suffering,suffering
+8,GerDracor/wagner-die-kindermoerderin.xml,571,586,Herr Hauptmann!,emotional movement,emotional movement,emotional movement
+9,GerDracor/wagner-die-kindermoerderin.xml,587,643,"Sie stehn mir doch – wirft Wildschur, Maske und Hut hin.",negative,emotions of affection,admiration
+10,GerDracor/wagner-die-kindermoerderin.xml,644,676,"Für alles, liebe Frau Humbrecht!",positive,emotions of affection,joy
+11,GerDracor/wagner-die-kindermoerderin.xml,677,687,für alles!,positive,emotions of affection,Schadenfreude
+12,GerDracor/wagner-die-kindermoerderin.xml,688,777,"– Ein Mäulchen, Kleine; das ist Ballrecht:
+               Zieht Evchen die Maske auch ab.",positive,emotions of joy,Schadenfreude
+13,GerDracor/wagner-die-kindermoerderin.xml,778,799,Küßt sie; zur Mutter.,positive,emotions of affection,love
+14,GerDracor/wagner-die-kindermoerderin.xml,800,814,verneigt sich.,positive,emotions of affection,admiration
+15,GerDracor/wagner-die-kindermoerderin.xml,815,872,"Wie Sie befehlen; Sie stehn mir doch, Herr Major – Bravo!",positive,emotions of joy,joy
+16,GerDracor/wagner-die-kindermoerderin.xml,873,879,bravo!,positive,emotions of joy,joy
+17,GerDracor/wagner-die-kindermoerderin.xml,880,893,immer besser!,positive,emotions of joy,joy
+18,GerDracor/wagner-die-kindermoerderin.xml,894,903,ha ha ha!,negative,emotions of joy,joy
+19,GerDracor/wagner-die-kindermoerderin.xml,904,1025,"Ei, Mutter, stell Sie sich doch nicht so artig; Major ist ja noch mehr als Hauptmann,
+            Sie weiß ja gar nichts.",positive,emotional movement,anger
+20,GerDracor/wagner-die-kindermoerderin.xml,1026,1087,– Der Herr Lieutenant wohnt schon einen ganzen Monat bei uns.,positive,emotions of joy,joy
+21,GerDracor/wagner-die-kindermoerderin.xml,1100,1139,"– Einen Monat und drei Tage, mein Kind!",negative,emotions of suffering,suffering
+22,GerDracor/wagner-die-kindermoerderin.xml,1140,1168,ich hab jede Minute gezählt.,negative,emotions of fear,suffering
+23,GerDracor/wagner-die-kindermoerderin.xml,1169,1179,Denk doch!,negative,emotional movement,emotional movement
+24,GerDracor/wagner-die-kindermoerderin.xml,1180,1216,ist Ihnen die Zeit so lang geworden.,negative,emotions of suffering,suffering
+25,GerDracor/wagner-die-kindermoerderin.xml,1217,1228,Noch nicht!,emotional movement,emotions of joy,emotional movement
+26,GerDracor/wagner-die-kindermoerderin.xml,1229,1283,"aber bald möchte sie mir's werden, wenn du nicht – Du!",positive,emotions of rejection,love
+27,GerDracor/wagner-die-kindermoerderin.xml,1284,1306,seit wann so vertraut?,emotional movement,emotions of affection,emotional movement
+28,GerDracor/wagner-die-kindermoerderin.xml,1307,1326,"Zank nicht, Evchen!",negative,emotions of rejection,anger
+29,GerDracor/wagner-die-kindermoerderin.xml,1327,1338,zank nicht!,negative,emotions of rejection,anger
+30,GerDracor/wagner-die-kindermoerderin.xml,1339,1428,"Müßt mir heut nichts übelnehmen, Leutchen, ich hab ein
+            Gläschen Likör zuviel.",negative,emotions of suffering,anger
+31,GerDracor/wagner-die-kindermoerderin.xml,1429,1541,"Was ich fragen wollt, Herr Leutenant, Sie stehn mir doch davor, daß wir in einem
+            honetten Haus sind?",emotional movement,emotions of rejection,anger
+32,GerDracor/wagner-die-kindermoerderin.xml,1542,1601,"So soll mich der Teufel lebendig zerreißen, Frau Humbrecht!",negative,emotions of rejection,anger
+33,GerDracor/wagner-die-kindermoerderin.xml,1602,1750,"wenn hier nicht täglich
+            alles, was beau monde heißt, zusammenkommt: – sehn Sie nur an, wie schlecht das Zimmer
+            möbliert ist.",negative,emotions of suffering,suffering
+34,GerDracor/wagner-die-kindermoerderin.xml,1751,1763,– Eben drum!,positive,emotions of suffering,suffering
+35,GerDracor/wagner-die-kindermoerderin.xml,1764,1774,Eben drum!,negative,emotions of suffering,compassion
+36,GerDracor/wagner-die-kindermoerderin.xml,1775,1795,"freilich, eben drum!",negative,emotions of suffering,suffering
+37,GerDracor/wagner-die-kindermoerderin.xml,1796,1848,"Das macht, die guten Zimmer sind alle schon besetzt.",negative,emotions of rejection,suffering
+38,GerDracor/wagner-die-kindermoerderin.xml,1861,1884,Meint Sie denn pardieu!,positive,emotions of affection,emotional movement
+39,GerDracor/wagner-die-kindermoerderin.xml,1885,1982,"der Lieutenant von Gröningseck würde sich sonst in einen solchen
+            Stall weisen lassen.",negative,emotions of rejection,"hate, disgust"
+40,GerDracor/wagner-die-kindermoerderin.xml,1983,2038,"Drei Stühl, und ein Tisch, den man nicht anrühren darf!",negative,emotions of suffering,suffering
+41,GerDracor/wagner-die-kindermoerderin.xml,2039,2099,"Er stößt daran, der Tisch fällt um, das Licht mit, geht aus.",negative,emotional movement,emotional movement
+42,GerDracor/wagner-die-kindermoerderin.xml,2100,2121,Herrjemine das Licht!,positive,emotions of fear,suffering
+43,GerDracor/wagner-die-kindermoerderin.xml,2122,2148,"Herr Leutenant, das Licht!",negative,emotions of joy,emotional movement
+44,GerDracor/wagner-die-kindermoerderin.xml,2149,2164,ihr nachäffend.,negative,emotions of rejection,anger
+45,GerDracor/wagner-die-kindermoerderin.xml,2165,2175,Das Licht!,negative,emotions of fear,emotional movement
+46,GerDracor/wagner-die-kindermoerderin.xml,2176,2186,das Licht!,negative,emotions of fear,emotional movement
+47,GerDracor/wagner-die-kindermoerderin.xml,2187,2202,Hat der  Sucht.,negative,emotions of suffering,suffering
+48,GerDracor/wagner-die-kindermoerderin.xml,2203,2226,Hier hab ich ihn schon.,positive,emotions of joy,suffering
+49,GerDracor/wagner-die-kindermoerderin.xml,2227,2230,Wo?,emotional movement,emotional movement,emotional movement
+50,GerDracor/wagner-die-kindermoerderin.xml,2231,2234,wo?,emotional movement,emotional movement,emotional movement
+51,GerDracor/wagner-die-kindermoerderin.xml,2235,2243,Ei hier!,emotional movement,emotional movement,emotional movement
+52,GerDracor/wagner-die-kindermoerderin.xml,2244,2278,Sie greifen ja dran vorbei – pfui!,negative,emotions of rejection,"hate, disgust"
+53,GerDracor/wagner-die-kindermoerderin.xml,2279,2289,– Was ist?,emotional movement,emotional movement,emotional movement
+54,GerDracor/wagner-die-kindermoerderin.xml,2290,2301,was gibt's?,emotional movement,emotional movement,emotional movement
+55,GerDracor/wagner-die-kindermoerderin.xml,2302,2313,Gar nichts!,negative,emotions of joy,emotional movement
+56,GerDracor/wagner-die-kindermoerderin.xml,2315,2361,"Nimmt den Leuchter ab, und geht nach der Türe.",negative,emotions of rejection,"hate, disgust"
+57,GerDracor/wagner-die-kindermoerderin.xml,2362,2466,"Ein altes Weib hält ihm, ohne sich recht sehn zu lassen, ein Licht hin, er steckt
+            seines an.",negative,emotions of suffering,suffering
+58,GerDracor/wagner-die-kindermoerderin.xml,2467,2508,sich die Hände am Schnupftuch abwischend.,negative,emotions of suffering,suffering
+59,GerDracor/wagner-die-kindermoerderin.xml,2509,2561,Ei da hab ich mir die Hände am Inschlitt beschmiert.,negative,emotions of suffering,suffering
+60,GerDracor/wagner-die-kindermoerderin.xml,2563,2644,"Wirft dem Lieutenant
+              heimlich einen drohenden Blick zu; er lächelt.",positive,emotions of joy,anger
+61,GerDracor/wagner-die-kindermoerderin.xml,2645,2716,"Wenn's sonst nichts ist – stellt den Tisch wieder auf, das Licht drauf.",negative,emotions of rejection,anger
+62,GerDracor/wagner-die-kindermoerderin.xml,2717,2746,Das war ma foi ein Hauptspaß!,positive,emotions of joy,joy
+63,GerDracor/wagner-die-kindermoerderin.xml,2747,2930,"eben red ich von dem krüpplichten Hund, da stürzt die
+            Kanaille zu Boden – Bald hätten wir das Beste übersehn, le diable m'emporte, c'est
+            charmant; c'est divin!",negative,emotions of rejection,"hate, disgust"
+64,GerDracor/wagner-die-kindermoerderin.xml,2931,3088,"seht doch das Stellagie da an, halb Bett, halb Kanapee; ich glaub
+            gar, es ist ein Feldschragen, den sie aus dem Spital gestohlen haben; ha ha ha!",positive,emotions of joy,joy
+65,GerDracor/wagner-die-kindermoerderin.xml,3089,3176,"– Was
+            wett ich: Sie haben kein so schönes Brautbett gehabt, Frau Humbrecht?",positive,emotions of joy,admiration
+66,GerDracor/wagner-die-kindermoerderin.xml,3177,3243,"– Zwar nur ein
+            Strohsack –  Drückt mit der Hand drauf.",negative,emotions of suffering,suffering
+67,GerDracor/wagner-die-kindermoerderin.xml,3244,3254,halb böse.,negative,emotions of rejection,anger
+68,GerDracor/wagner-die-kindermoerderin.xml,3255,3278,"Ei was, Herr Leutenant!",emotional movement,emotions of rejection,emotional movement
+69,GerDracor/wagner-die-kindermoerderin.xml,3279,3352,"in Gegenwart meiner Tochter – Muß ich Sie küssen – guckst scheel, Evchen?",negative,emotional movement,love
+70,GerDracor/wagner-die-kindermoerderin.xml,3353,3390,"– noch einmal, dem Evchen zum Possen!",negative,emotions of joy,Schadenfreude
+71,GerDracor/wagner-die-kindermoerderin.xml,3391,3396,– so!,negative,emotional movement,emotional movement
+72,GerDracor/wagner-die-kindermoerderin.xml,3409,3436,aller guter Ding sind drei.,positive,emotions of joy,joy
+73,GerDracor/wagner-die-kindermoerderin.xml,3437,3545,"–  Geht auf Evchen los, bietet ihr die Hand, sieht ihr
+              starr in die Augen, sachte zur Tochter.",negative,emotions of affection,"hate, disgust"
+74,GerDracor/wagner-die-kindermoerderin.xml,3546,3572,"Evchen lacht, schlägt ein.",positive,emotions of joy,joy
+75,GerDracor/wagner-die-kindermoerderin.xml,3573,3598,während obiger Pantomime.,positive,emotions of joy,joy
+76,GerDracor/wagner-die-kindermoerderin.xml,3599,3634,Er ist zum Fressen der kleine Narr!,negative,emotions of rejection,"hate, disgust"
+77,GerDracor/wagner-die-kindermoerderin.xml,3635,3724,"man muß ihm gut sein, nicht ob man will: wie
+            Quecksilber, bald da, bald dort.",negative,emotions of rejection,"hate, disgust"
+78,GerDracor/wagner-die-kindermoerderin.xml,3725,3731,kommt.,emotional movement,emotional movement,emotional movement
+79,GerDracor/wagner-die-kindermoerderin.xml,3732,3763,"Befehlen Sie, daß man aufträgt?",negative,emotions of rejection,anger
+80,GerDracor/wagner-die-kindermoerderin.xml,3764,3790,Das versteht sich pardieu!,negative,emotions of rejection,anger
+81,GerDracor/wagner-die-kindermoerderin.xml,3791,3832,"je eher je besser, und je mehr je lieber!",positive,emotions of joy,joy
+82,GerDracor/wagner-die-kindermoerderin.xml,3833,3843,"Komm, Eve!",negative,emotions of fear,fear
+83,GerDracor/wagner-die-kindermoerderin.xml,3844,3912,"ich muß den Domino ein wenig ausziehn, es wird mir so warm ums Herz.",positive,emotions of joy,joy
+84,GerDracor/wagner-die-kindermoerderin.xml,3913,3929,Mir auch Mutter!,negative,emotions of suffering,suffering
+85,GerDracor/wagner-die-kindermoerderin.xml,3931,4016,"Nimmt der Magd die Lampe ab, und geht mit ihrer Mutter ins
+              Nebenzimmer.",negative,emotions of rejection,anger
+86,GerDracor/wagner-die-kindermoerderin.xml,4017,4030,Desto besser!,positive,emotions of joy,joy
+87,GerDracor/wagner-die-kindermoerderin.xml,4032,4039,Sachte.,emotional movement,emotional movement,emotional movement
+88,GerDracor/wagner-die-kindermoerderin.xml,4040,4056,Ruft ihnen nach.,negative,emotions of affection,anger
+89,GerDracor/wagner-die-kindermoerderin.xml,4057,4063,Ei ja!,emotional movement,emotional movement,emotional movement
+90,GerDracor/wagner-die-kindermoerderin.xml,4064,4082,das wär mir schön.,positive,emotions of joy,joy
+91,GerDracor/wagner-die-kindermoerderin.xml,4083,4132,"Nein, so eine Kammermagd wär uns viel zu vornehm.",negative,emotions of affection,admiration
+92,GerDracor/wagner-die-kindermoerderin.xml,4133,4170,"Wir können's ohne Sie, Herr Blaurock!",negative,emotions of rejection,anger
+93,GerDracor/wagner-die-kindermoerderin.xml,4171,4241,"Schabt ihm hinterrücks der Mutter ein Rübchen, und schlägt die Tür zu.",negative,emotions of rejection,anger
+94,GerDracor/wagner-die-kindermoerderin.xml,4242,4296,"Wo führt denn dich das Donnerwetter hierher, Marianel?",positive,emotions of rejection,emotional movement
+95,GerDracor/wagner-die-kindermoerderin.xml,4297,4355,"bist nicht mehr im Kaffeehaus
+            dort an der Eck?",negative,emotions of rejection,joy
+96,GerDracor/wagner-die-kindermoerderin.xml,4356,4464,"– das kleine Stübchen war sehr bequem – Gar recht, daß du selbst davon anfängst, du Teufelskind – gar recht!",negative,emotions of rejection,joy
+97,GerDracor/wagner-die-kindermoerderin.xml,4465,4561,"bist mir auch noch
+            's Christkindel schuldig, gleich gib mir's, oder ich verrat dich.",positive,emotions of rejection,anger
+98,GerDracor/wagner-die-kindermoerderin.xml,4562,4583,– Ich – dir schuldig?,negative,emotions of affection,emotional movement
+99,GerDracor/wagner-die-kindermoerderin.xml,4584,4673,"hab ich dir nicht jedesmal deinen kleinen Taler gegeben, wenn – Ja schön allemal bezahlt!",positive,emotions of rejection,anger
+100,GerDracor/wagner-die-kindermoerderin.xml,4674,4708,wie oft hab ich dir borgen müssen?,positive,emotions of suffering,emotional movement
+101,GerDracor/wagner-die-kindermoerderin.xml,4709,5164,"gelt du weißt es nit du
+            Saufigel, wie Er den Sonntag vor Weihnachten noch des Nachts um zwölf einen Lärm machte,
+            als wollt Er das Haus stürmen, und wie ich Ihn heimlich zur Hintertür herein ließ, und
+            wie ich Ihm Tee kochte, und wie Er mich über und über bespie, und – Und – und – halt 's Maul zum – hier sind sechs Livres, du Schindaas – Aber eins mußt du
+            mir zu Gefallen tun – Alles, alles, mein Kostbarle!",negative,emotions of rejection,anger
+102,GerDracor/wagner-die-kindermoerderin.xml,5165,5169,sag!,negative,emotions of rejection,anger
+103,GerDracor/wagner-die-kindermoerderin.xml,5170,5174,red!,negative,emotions of rejection,anger
+104,GerDracor/wagner-die-kindermoerderin.xml,5175,5194,Will ihn liebkosen.,positive,emotions of affection,love
+105,GerDracor/wagner-die-kindermoerderin.xml,5195,5214,stößt sie von sich.,negative,emotions of rejection,"hate, disgust"
+106,GerDracor/wagner-die-kindermoerderin.xml,5215,5296,"Das ist heut überflüssig: wenn der Soldat Eierweck hat, frißt er kein Kommißbrot.",negative,emotions of rejection,anger
+107,GerDracor/wagner-die-kindermoerderin.xml,5297,5307,Denk doch!,negative,emotional movement,emotional movement
+108,GerDracor/wagner-die-kindermoerderin.xml,5308,5398,"Kostbarle, bist sehr verschleckt; wirst froh sein und von selbst
+            wiederkommen.",positive,emotions of joy,joy
+109,GerDracor/wagner-die-kindermoerderin.xml,5399,5423,"Das denk ich auch, Narr!",negative,emotions of rejection,anger
+110,GerDracor/wagner-die-kindermoerderin.xml,5424,5451,so bös ist's nicht gemeint!,negative,emotions of rejection,anger
+111,GerDracor/wagner-die-kindermoerderin.xml,5452,5625,"– sieh, da ist ein Päckchen, das
+            nimm, und wenn ich um Punsch ruf, so tu das Pulver, das drin ist, ins erste Glas voll,
+            das du auf den Tisch stellst.",positive,emotions of joy,joy
+112,GerDracor/wagner-die-kindermoerderin.xml,5626,5698,"– Geh du zum lüftigen Teufel mitsamt deinem Pulver, du Tausendsakerment!",negative,emotions of rejection,"hate, disgust"
+113,GerDracor/wagner-die-kindermoerderin.xml,5699,5749,"willst mich die
+            Leut vergiften machen?",negative,emotions of rejection,anger
+114,GerDracor/wagner-die-kindermoerderin.xml,5750,5797,"– meinst, ich hab kein Gewissen, du Höllenhund?",negative,emotions of rejection,anger
+115,GerDracor/wagner-die-kindermoerderin.xml,5798,5832,"– So hör mich doch an, Marianchen!",negative,emotions of affection,suffering
+116,GerDracor/wagner-die-kindermoerderin.xml,5833,6004,"sakerment hör mich, oder – Es ist kein Gift, ein
+            kleiner Schlaftrunk ist's, wenn's doch wissen willst – und hier ist noch ein großer
+            Taler – Ja so!",emotional movement,emotions of rejection,joy
+117,GerDracor/wagner-die-kindermoerderin.xml,6005,6041,das ist was anders – so gib nur her.,negative,emotions of rejection,joy
+118,GerDracor/wagner-die-kindermoerderin.xml,6042,6091,"Sie greift nach dem Geld, er steckt's wieder ein.",negative,emotions of rejection,anger
+119,GerDracor/wagner-die-kindermoerderin.xml,6092,6140,Hier ist das Pulver – mach deine Sachen ja klug!,negative,emotions of joy,anger
+120,GerDracor/wagner-die-kindermoerderin.xml,6141,6199,"wenn ich fortgeh, kriegst du den
+            großen Taler.",positive,emotions of joy,joy
+121,GerDracor/wagner-die-kindermoerderin.xml,6200,6219,Warum nicht gleich?,emotional movement,emotional movement,emotional movement
+122,GerDracor/wagner-die-kindermoerderin.xml,6220,6266,Einer Hur ist niemals zu trauen – im Fortgehn.,negative,emotions of rejection,"hate, disgust"
+123,GerDracor/wagner-die-kindermoerderin.xml,6267,6369,"Keinem Schelmen auch nicht, und wenn keine Hurenbuben wären; so gäb's lauter brave
+            Mädels.",positive,emotions of affection,Schadenfreude
+124,GerDracor/wagner-die-kindermoerderin.xml,6370,6479,"– Darft's wohl noch schimpfen ihr – erst schnitzt ihr euch euren Herrgott, dann
+            kreuzigt ihr ihn.",negative,emotions of rejection,anger
+125,GerDracor/wagner-die-kindermoerderin.xml,6480,6495,– Halt 's Maul!,negative,emotions of rejection,anger
+126,GerDracor/wagner-die-kindermoerderin.xml,6496,6522,"und tu, was ich dir sagte.",negative,emotions of rejection,anger
+127,GerDracor/wagner-die-kindermoerderin.xml,6523,6550,'s wird einen Dreck nutzen.,negative,emotions of rejection,anger
+128,GerDracor/wagner-die-kindermoerderin.xml,6551,6554,Ab.,negative,emotional movement,anger
+129,GerDracor/wagner-die-kindermoerderin.xml,6555,6575,Das ist meine Sorge!,negative,emotions of fear,fear
+130,GerDracor/wagner-die-kindermoerderin.xml,6576,6720,"Es müßte toll hergehn, wenn ich die Alte nicht über den Gänsmist
+            führen sollt –  Zu Evchen, die zurückkommt, die Mutter hinterdrein.",negative,emotions of rejection,anger
+131,GerDracor/wagner-die-kindermoerderin.xml,6721,6762,"Na, Herr Leutenant, wie seh denn ich aus?",emotional movement,emotional movement,emotional movement
+132,GerDracor/wagner-die-kindermoerderin.xml,6763,6768,gelt!,positive,emotions of joy,anger
+133,GerDracor/wagner-die-kindermoerderin.xml,6769,6803,zum Spektakel – ohne sie anzusehn.,negative,emotions of rejection,emotional movement
+134,GerDracor/wagner-die-kindermoerderin.xml,6804,6819,"Superb, superb!",positive,emotions of joy,joy
+135,GerDracor/wagner-die-kindermoerderin.xml,6820,6854,das Negligé steht Ihnen recht gut.,positive,emotions of joy,admiration
+136,GerDracor/wagner-die-kindermoerderin.xml,6855,6940,"Ja, das sagt er so: Gedanken sind zollfrei, denkt er; – wenn nur ein Spiegel da wäre!",negative,emotions of joy,anger
+137,GerDracor/wagner-die-kindermoerderin.xml,6953,7019,"– Wie göttlich schön dir das derangierte Haar läßt, mein Liebchen!",positive,emotions of joy,compassion
+138,GerDracor/wagner-die-kindermoerderin.xml,7020,7087,"kann mich nicht satt
+            an dir sehn: – die Zöpfe so flott!",positive,emotions of joy,admiration
+139,GerDracor/wagner-die-kindermoerderin.xml,7088,7200,"Küßt sie, und führt sie, den Arm um ihren Leib geschlungen, dem Tisch zu, setzen
+            sich nebeneinander.",positive,emotions of affection,love
+140,GerDracor/wagner-die-kindermoerderin.xml,7201,7230,sich mittlerweil betrachtend.,emotional movement,emotional movement,emotional movement
+141,GerDracor/wagner-die-kindermoerderin.xml,7231,7431,"Du hast fast recht, Eve, ich hätte den Domino wieder umwerfen sollen – jetzt seh ich's
+            erst, bei der Lampe hab ich's nicht so bemerkt – mein Mantlett ist fast gar zu
+            schmutzig.",negative,emotions of suffering,anger
+142,GerDracor/wagner-die-kindermoerderin.xml,7432,7495,"Hab's Ihr ja gleich gesagt, aber da hat Sie keine Ohren gehabt.",negative,emotions of rejection,anger
+143,GerDracor/wagner-die-kindermoerderin.xml,7496,7517,"Es ist gut, Leutchen!",positive,emotions of joy,joy
+144,GerDracor/wagner-die-kindermoerderin.xml,7518,7529,'s ist gut!,positive,emotions of joy,joy
+145,GerDracor/wagner-die-kindermoerderin.xml,7530,7565,"Frau Humbrecht 's ist gut, sag ich.",positive,emotions of joy,joy
+146,GerDracor/wagner-die-kindermoerderin.xml,7566,7574,Na denn!,negative,emotions of rejection,anger
+147,GerDracor/wagner-die-kindermoerderin.xml,7575,7668,"wenn's nur Ihnen gut genug ist –  Geht zu ihm, und spielt ihm an der
+              Epaulette.",positive,emotions of affection,Schadenfreude
+148,GerDracor/wagner-die-kindermoerderin.xml,7669,7826,"Eine vortreffliche Haushälterin, bei meiner Treu;  Läßt Evchens Hand gehen, packt
+              ihre Mutter um den Leib, und stellt sie zwischen seine Beine.",positive,emotions of affection,admiration
+149,GerDracor/wagner-die-kindermoerderin.xml,7827,7887,"Ei wer kann denn da müd werden, es gibt immer etwas zu sehn!",positive,emotions of joy,joy
+150,GerDracor/wagner-die-kindermoerderin.xml,7888,7904,immer was Neues!,positive,emotions of joy,joy
+151,GerDracor/wagner-die-kindermoerderin.xml,7905,8055,"ich hätt,
+            glaub ich, noch die ganze Nacht und den ganzen Tag durch ohngegessen und ohngetrunken
+            auf einem Fleck sitzen können.",negative,emotions of suffering,suffering
+152,GerDracor/wagner-die-kindermoerderin.xml,8056,8066,Ich nicht!,negative,emotions of joy,anger
+153,GerDracor/wagner-die-kindermoerderin.xml,8067,8102,am Zusehn hätt ich gar keine Freud.,positive,emotions of joy,joy
+154,GerDracor/wagner-die-kindermoerderin.xml,8103,8143,"Du machst lieber selbst mit, nicht wahr?",negative,emotions of rejection,Schadenfreude
+155,GerDracor/wagner-die-kindermoerderin.xml,8144,8155,unschuldig.,negative,emotions of affection,suffering
+156,GerDracor/wagner-die-kindermoerderin.xml,8156,8159,Ja!,positive,emotions of joy,anger
+157,GerDracor/wagner-die-kindermoerderin.xml,8160,8363,"lacht; sich recht auszulachen bückt sie sich vorwärts an des Lieutenants Brust, das
+            Gesicht von Evchen abgekehrt: Er spielt ihr am Halsband, sie drückt ihm die Hand, und
+            küßt sie.",positive,emotions of joy,joy
+158,GerDracor/wagner-die-kindermoerderin.xml,8364,8439,Das hat sie nicht verstanden: müssen ihr ihre Dummheit nicht übel auslegen.,negative,emotions of rejection,anger
+159,GerDracor/wagner-die-kindermoerderin.xml,8441,8472,"Sich
+              aufrichtend.",emotional movement,emotional movement,emotional movement
+160,GerDracor/wagner-die-kindermoerderin.xml,8473,8534,"bringt Essen, hernach Wein und Gläser, setzt es hin, geht ab.",negative,emotional movement,anger
+161,GerDracor/wagner-die-kindermoerderin.xml,8535,8546,Allons fix!,positive,emotions of joy,joy
+162,GerDracor/wagner-die-kindermoerderin.xml,8547,8575,Platz genommen meine Lieben!,positive,emotions of affection,love
+163,GerDracor/wagner-die-kindermoerderin.xml,8576,8612,Das Frühstück ist da; – zugegriffen!,positive,emotions of joy,joy
+164,GerDracor/wagner-die-kindermoerderin.xml,8613,8659,"–
+               Sie setzen sich, er legt vor.",emotional movement,emotional movement,emotional movement
+165,GerDracor/wagner-die-kindermoerderin.xml,8660,8670,Pfui doch!,negative,emotions of rejection,"hate, disgust"
+166,GerDracor/wagner-die-kindermoerderin.xml,8671,8811,"ich hab's Ihnen ja schon oft gesagt, ich mag nicht Madame heißen; ich bin
+            halt Frau schlechtweg – sorgen Sie aber auch für sich.",negative,emotions of rejection,"hate, disgust"
+167,GerDracor/wagner-die-kindermoerderin.xml,8812,8832,– Wo denken Sie hin?,emotional movement,emotional movement,emotional movement
+168,GerDracor/wagner-die-kindermoerderin.xml,8833,8876,– was soll ich mit alle dem Essen anfangen?,negative,emotional movement,emotional movement
+169,GerDracor/wagner-die-kindermoerderin.xml,8877,8911,Will wieder in die Schüssel legen.,negative,emotions of rejection,anger
+170,GerDracor/wagner-die-kindermoerderin.xml,8912,8930,"Laß nur, behalt's!",emotional movement,emotions of rejection,anger
+171,GerDracor/wagner-die-kindermoerderin.xml,8931,9018,"– Kannst ja, was du nicht essen kannst, in die Poschen stecken: –
+            nit wahr?",negative,emotions of rejection,Schadenfreude
+172,GerDracor/wagner-die-kindermoerderin.xml,9019,9034,Herr Leutenant!,emotional movement,emotional movement,emotional movement
+173,GerDracor/wagner-die-kindermoerderin.xml,9035,9064,– bezahlt muß es doch werden.,negative,emotions of rejection,anger
+174,GerDracor/wagner-die-kindermoerderin.xml,9065,9088,"Richtig, mein Weibchen!",positive,emotions of rejection,joy
+175,GerDracor/wagner-die-kindermoerderin.xml,9090,9153,"Kneipt ihr in die Backen, und schielt auf
+              Evchen.",negative,emotions of rejection,Schadenfreude
+176,GerDracor/wagner-die-kindermoerderin.xml,9154,9163,Stößt an.,emotional movement,emotional movement,emotional movement
+177,GerDracor/wagner-die-kindermoerderin.xml,9164,9218,O das hat noch Zeit; – sie ist erst achtzehn Jahr alt.,negative,emotions of suffering,emotional movement
+178,GerDracor/wagner-die-kindermoerderin.xml,9219,9244,Schon drei Jahr verloren!,negative,emotions of suffering,suffering
+179,GerDracor/wagner-die-kindermoerderin.xml,9245,9255,Denk doch!,negative,emotional movement,emotional movement
+180,GerDracor/wagner-die-kindermoerderin.xml,9256,9419,"und ich war nächst an den vierundzwanzigen, als ich meinen Humbrecht
+            kriegte, und doch lachten mich meine Kameräden all aus, daß ich so jung heiratete.",positive,emotions of joy,Schadenfreude
+181,GerDracor/wagner-die-kindermoerderin.xml,9420,9436,Gotische Zeiten!,negative,emotional movement,emotional movement
+182,GerDracor/wagner-die-kindermoerderin.xml,9437,9453,Gotische Sitten!,negative,emotions of rejection,emotional movement
+183,GerDracor/wagner-die-kindermoerderin.xml,9454,9466,–  Stößt an.,emotional movement,emotional movement,emotional movement
+184,GerDracor/wagner-die-kindermoerderin.xml,9467,9476,Hi hi hi!,positive,emotions of joy,joy
+185,GerDracor/wagner-die-kindermoerderin.xml,9477,9540,"Sie wollen mir, glaub ich, ein Räuschchen anhängen, nein, nein!",negative,emotions of rejection,anger
+186,GerDracor/wagner-die-kindermoerderin.xml,9541,9574,"da wird
+            nichts draus.",negative,emotions of suffering,suffering
+187,GerDracor/wagner-die-kindermoerderin.xml,9575,9651,– Na denn; meinem lieben Mann zu Ehren; ich geb mir die Ehr – Will aufstehn.,positive,emotions of joy,joy
+188,GerDracor/wagner-die-kindermoerderin.xml,9652,9670,hält sie davon ab.,negative,emotions of rejection,anger
+189,GerDracor/wagner-die-kindermoerderin.xml,9671,9689,Ohne Komplimenten!,positive,emotions of affection,joy
+190,GerDracor/wagner-die-kindermoerderin.xml,9690,9785,"wir trinken noch eine Bouteille, und dann setzen wir ein Gläschen
+            Punsch obendrauf.",positive,emotions of joy,joy
+191,GerDracor/wagner-die-kindermoerderin.xml,9786,9804,Behüt und bewahre!,negative,emotions of affection,suffering
+192,GerDracor/wagner-die-kindermoerderin.xml,9805,9862,"Das würde mir eine schöne Wirtschaft geben: – nein, nein!",positive,emotions of rejection,joy
+193,GerDracor/wagner-die-kindermoerderin.xml,9863,9944,"wenn's
+            Ihnen gefällig ist, wollen wir jetzt auf brechen – Aufbrechen?",positive,emotions of fear,fear
+194,GerDracor/wagner-die-kindermoerderin.xml,9945,9957,jetzt schon?,emotional movement,emotional movement,emotional movement
+195,GerDracor/wagner-die-kindermoerderin.xml,9958,9981,rappelt dir's Weibchen?,negative,emotional movement,emotional movement
+196,GerDracor/wagner-die-kindermoerderin.xml,9982,10006,–  Faßt sie um den Hals.,positive,emotions of rejection,emotional movement
+197,GerDracor/wagner-die-kindermoerderin.xml,10007,10025,Sieht auf die Uhr.,emotional movement,emotional movement,emotional movement
+198,GerDracor/wagner-die-kindermoerderin.xml,10026,10038,O ja Mutter!,negative,emotional movement,anger
+199,GerDracor/wagner-die-kindermoerderin.xml,10039,10064,noch auf den Ball wieder!,positive,emotions of joy,fear
+200,GerDracor/wagner-die-kindermoerderin.xml,10065,10076,Na so denn!,negative,emotions of rejection,anger
+201,GerDracor/wagner-die-kindermoerderin.xml,10077,10292,"weil ich dir doch eine Freude hab machen wollen; und weil uns der Herr
+            Leutenant so viel Ehr erzeigt, so will ich's denn nur erlauben – dein närrischer Vater
+            läßt dich ja so nie aus dem Haus.",positive,emotions of joy,joy
+202,GerDracor/wagner-die-kindermoerderin.xml,10293,10470,"Das heiß ich geredet: wenn man nur selten ans Vergnügen kommt, so muß man's auch recht
+            genießen, zudem ist heute der letzte Ball für dies Jahr: also – frisch Evchen!",positive,emotions of joy,joy
+203,GerDracor/wagner-die-kindermoerderin.xml,10471,10537,"nicht so
+            geleppert, das Glas muß aus:  Evchen leert's.",negative,emotions of suffering,compassion
+204,GerDracor/wagner-die-kindermoerderin.xml,10538,10547,Küßt sie.,positive,emotions of affection,love
+205,GerDracor/wagner-die-kindermoerderin.xml,10548,10589,"Marianel macht
+              die Tür auf.",positive,emotional movement,emotional movement
+206,GerDracor/wagner-die-kindermoerderin.xml,10590,10605,Magd wieder ab.,negative,emotions of rejection,anger
+207,GerDracor/wagner-die-kindermoerderin.xml,10606,10665,"Was ist denn der Punsch eigentlich für ein Getränk, Mutter?",emotional movement,emotional movement,emotional movement
+208,GerDracor/wagner-die-kindermoerderin.xml,10666,10917,"Ich weiß selbst – es ist halt – Wie Evchen, du weißt nicht, was Punsch ist,  Marianel bringt
+              drei Schoppengläser auf einem Kredenzteller; er nimmt ihr eins nach dem andern ab,
+              beim ersten, das sie ihm hinhält, frägt er sie.",emotional movement,emotional movement,emotional movement
+209,GerDracor/wagner-die-kindermoerderin.xml,10918,10939,sich tief verneigend.,positive,emotions of affection,admiration
+210,GerDracor/wagner-die-kindermoerderin.xml,10940,11196,"Ihnen gehorsamst aufzuwarten –  Zwickt ihn, ungesehn der andern im Arm, er sieht
+              sie stolz an, und macht eine Bewegung mit der Hand, daß sie fortgehn soll: sie
+              verneigt sich nochmals, und geht mit Mühe das Lachen verbeißend, ab.",positive,emotions of rejection,admiration
+211,GerDracor/wagner-die-kindermoerderin.xml,11197,11223,hält das Glas an die Nase.,emotional movement,emotions of suffering,suffering
+212,GerDracor/wagner-die-kindermoerderin.xml,11224,11353,"Ja da kommen Sie mir schön an, beim Blut; da trink ich keinen Tropfen von; – das riecht
+            einem ja, Gott verzeih mir's!",negative,emotions of suffering,anger
+213,GerDracor/wagner-die-kindermoerderin.xml,11354,11428,"so stark in die Nase, daß man vom bloßen Geruch besoffen
+            wird.",negative,emotions of rejection,"hate, disgust"
+214,GerDracor/wagner-die-kindermoerderin.xml,11429,11459,"Grade das Gegenteil, Weibchen!",negative,emotions of rejection,"hate, disgust"
+215,GerDracor/wagner-die-kindermoerderin.xml,11460,11746,"grade das Gegenteil; – ich geb Ihnen meine parole
+            d'officier, oder auch meine parole de maçon, welche Sie wollen, daß ich mich schon
+            mehrmals zwei- auch dreimal in einem Nachmittag besoffen, und jedesmal im Punsch mich
+            wieder nüchtern getrunken habe.",negative,emotions of rejection,anger
+216,GerDracor/wagner-die-kindermoerderin.xml,11747,11845,"Ja Sie: Sie haben den Magen schon ausgepicht, aber ich bin gar nichts Starkes
+            gewohnt.",negative,emotions of rejection,suffering
+217,GerDracor/wagner-die-kindermoerderin.xml,11846,11850,Gut!,positive,emotions of joy,joy
+218,GerDracor/wagner-die-kindermoerderin.xml,11851,12027,"so will ich kapitulieren: Evchen trinkt, soviel sie will, und ihren Rest nehm ich
+            noch auf mich; die Mama aber leert ihr Glas so ist hübsch die Proportion gehalten.",negative,emotions of suffering,compassion
+219,GerDracor/wagner-die-kindermoerderin.xml,12028,12050,"–
+            Allegro!",positive,emotions of joy,emotional movement
+220,GerDracor/wagner-die-kindermoerderin.xml,12051,12062,ins Gewehr!,negative,emotions of fear,anger
+221,GerDracor/wagner-die-kindermoerderin.xml,12063,12127,"– Er reicht jeder ihr Glas, nimmt seines, stößt an, sie trinken.",positive,emotions of suffering,suffering
+222,GerDracor/wagner-die-kindermoerderin.xml,12128,12138,speit aus.,negative,emotional movement,emotional movement
+223,GerDracor/wagner-die-kindermoerderin.xml,12139,12144,Pfui!,negative,emotions of rejection,"hate, disgust"
+224,GerDracor/wagner-die-kindermoerderin.xml,12145,12183,das brennt einen ja bis auf die Seele.,positive,emotions of suffering,suffering
+225,GerDracor/wagner-die-kindermoerderin.xml,12184,12193,Du Unart!,negative,emotions of rejection,anger
+226,GerDracor/wagner-die-kindermoerderin.xml,12194,12229,geht man denn mit Gottes Gab so um?,negative,emotions of suffering,emotional movement
+227,GerDracor/wagner-die-kindermoerderin.xml,12231,12250,Trinkt wieder fort.,negative,emotions of suffering,suffering
+228,GerDracor/wagner-die-kindermoerderin.xml,12251,12267,"So ungefähr, ja!",negative,emotions of rejection,anger
+229,GerDracor/wagner-die-kindermoerderin.xml,12268,12306,"– wenn's Ihnen nur schmeckt, Weibchen.",positive,emotions of rejection,"hate, disgust"
+230,GerDracor/wagner-die-kindermoerderin.xml,12307,12511,"– Aber eins, Evchen, mußt du
+            mir, wenn wir wieder auf den Ball fahren, versprechen, daß du mir keinen Teutschen mit
+            jemand anders, als mit mir tanzest; Kontertänz soviel du willst.",positive,emotions of rejection,anger
+231,GerDracor/wagner-die-kindermoerderin.xml,12512,12517,Gelt!,negative,emotions of rejection,emotional movement
+232,GerDracor/wagner-die-kindermoerderin.xml,12518,12534,sie kann nichts!,negative,emotions of rejection,emotional movement
+233,GerDracor/wagner-die-kindermoerderin.xml,12535,12562,hat's eben wieder verlernt.,negative,emotions of rejection,anger
+234,GerDracor/wagner-die-kindermoerderin.xml,12563,12576,– Nicht doch!,negative,emotions of suffering,suffering
+235,GerDracor/wagner-die-kindermoerderin.xml,12577,12780,"– sie tanzt nur zu gut, macht ihre Figuren, Wendungen, Stellungen mit zu
+            viel grâce, zu reizend, zu einnehmend – ich kann's ohne heimlich eifersüchtig zu werden,
+            nicht mit ansehn.",positive,emotions of affection,love
+236,GerDracor/wagner-die-kindermoerderin.xml,12781,12814,Ei Sie belieben halt zu vexieren!,negative,emotions of rejection,emotional movement
+237,GerDracor/wagner-die-kindermoerderin.xml,12815,12899,"– sie hat zwar drei Winter hintereinander beim
+            Sauveur Lektion genommen.",negative,emotions of rejection,anger
+238,GerDracor/wagner-die-kindermoerderin.xml,12900,12915,– Beim Sauveur!,positive,emotions of rejection,joy
+239,GerDracor/wagner-die-kindermoerderin.xml,12916,12926,– pardieu!,negative,emotions of rejection,anger
+240,GerDracor/wagner-die-kindermoerderin.xml,12927,13061,"da wundert's mich nicht mehr – ich hab auch bei ihm repetiert:
+            – c'est un excellent maître pour former une jeune personne!",positive,emotions of affection,admiration
+241,GerDracor/wagner-die-kindermoerderin.xml,13062,13078,– sein Wohlsein!,positive,emotional movement,joy
+242,GerDracor/wagner-die-kindermoerderin.xml,13080,13124,"Frau
+              Humbrecht und er trinken.",negative,emotions of suffering,suffering
+243,GerDracor/wagner-die-kindermoerderin.xml,13125,13305,"Es waren auch drei Baronen und ein reicher Schweizer, die beim Herr Schaffner neben uns
+            logierten, und weil sie noch Frauenzimmer brauchten, so luden sie mich auch ein.",positive,emotions of joy,joy
+244,GerDracor/wagner-die-kindermoerderin.xml,13306,13344,"Die Kerls hatten, hol mich der Teufel!",negative,emotions of rejection,anger
+245,GerDracor/wagner-die-kindermoerderin.xml,13345,13368,keinen übeln Geschmack.,negative,emotions of rejection,"hate, disgust"
+246,GerDracor/wagner-die-kindermoerderin.xml,13369,13387,– Wie lang ist es?,emotional movement,emotional movement,emotional movement
+247,GerDracor/wagner-die-kindermoerderin.xml,13388,13396,gähnend.,negative,emotions of suffering,anger
+248,GerDracor/wagner-die-kindermoerderin.xml,13397,13479,"Schon fünf Jahr, glaub ich – Ja so lang ist's gewiß, wenn's nicht gar sechse sind.",negative,emotions of suffering,suffering
+249,GerDracor/wagner-die-kindermoerderin.xml,13480,13601,"Das laß ich gelten: – da warst du zwölf Jahr alt, und stachst doch schon den Barons in
+            die Augen – Ei Mutter!",negative,emotions of rejection,Schadenfreude
+250,GerDracor/wagner-die-kindermoerderin.xml,13602,13652,"Sie wird doch, hoff ich, nicht einschlafen wollen?",negative,emotions of suffering,fear
+251,GerDracor/wagner-die-kindermoerderin.xml,13653,13755,"faßt sie mit der einen Hand um den Hals, und hält ihr mit der andern das Glas an
+            den Mund.",positive,emotions of suffering,love
+252,GerDracor/wagner-die-kindermoerderin.xml,13756,13792,"– Das Restchen noch, Frau Humbrecht!",negative,emotions of joy,Schadenfreude
+253,GerDracor/wagner-die-kindermoerderin.xml,13793,13817,stößt das Glas von sich.,negative,emotions of fear,suffering
+254,GerDracor/wagner-die-kindermoerderin.xml,13818,13836,Kein Tropfen mehr.,negative,emotions of suffering,suffering
+255,GerDracor/wagner-die-kindermoerderin.xml,13838,13854,Er setzt es weg.,negative,emotions of rejection,emotional movement
+256,GerDracor/wagner-die-kindermoerderin.xml,13855,13899,Fällt schlafend dem Lieutenant an die Brust.,positive,emotions of suffering,suffering
+257,GerDracor/wagner-die-kindermoerderin.xml,13900,13915,Gerechter Gott!,positive,emotions of fear,emotional movement
+258,GerDracor/wagner-die-kindermoerderin.xml,13916,13939,was soll das denn sein?,emotional movement,emotional movement,emotional movement
+259,GerDracor/wagner-die-kindermoerderin.xml,13940,14021,"–  Springt ganz erschrocken und besorgt
+              auf, schüttelt ihre Mutter.",negative,emotions of fear,emotional movement
+260,GerDracor/wagner-die-kindermoerderin.xml,14022,14040,"Sei ruhig, Evchen!",positive,emotional movement,fear
+261,GerDracor/wagner-die-kindermoerderin.xml,14041,14193,"es hat nichts zu bedeuten – in einer Viertelstunde ist sie wieder so
+            wach, als vorher: – Der Punsch hat's getan – sie ist ihn nicht gewohnt.",positive,emotions of suffering,joy
+262,GerDracor/wagner-die-kindermoerderin.xml,14194,14215,schüttelt sie wieder.,negative,emotional movement,suffering
+263,GerDracor/wagner-die-kindermoerderin.xml,14216,14223,Mutter!,negative,emotional movement,emotional movement
+264,GerDracor/wagner-die-kindermoerderin.xml,14224,14233,– Mutter!,negative,emotional movement,emotional movement
+265,GerDracor/wagner-die-kindermoerderin.xml,14234,14287,"– sie liegt in Ohnmacht, glaub ich, oder ist gar tot.",negative,emotions of suffering,suffering
+266,GerDracor/wagner-die-kindermoerderin.xml,14288,14299,– Ohnmacht!,negative,emotions of suffering,despair
+267,GerDracor/wagner-die-kindermoerderin.xml,14300,14306,– Tot!,negative,emotions of fear,suffering
+268,GerDracor/wagner-die-kindermoerderin.xml,14307,14323,– Narrenspossen!,negative,emotions of rejection,"hate, disgust"
+269,GerDracor/wagner-die-kindermoerderin.xml,14324,14412,"– fühl den Puls hier – sie hat ein wenig zu hastig
+            getrunken, das ist alles.",emotional movement,emotions of suffering,emotional movement
+270,GerDracor/wagner-die-kindermoerderin.xml,14413,14428,"– Komm, Evchen!",negative,emotions of joy,fear
+271,GerDracor/wagner-die-kindermoerderin.xml,14429,14512,"hilf mir sie aufs Bett dort führen, sie wird
+            mir wahrlich zu schwer so.",negative,emotions of suffering,suffering
+272,GerDracor/wagner-die-kindermoerderin.xml,14513,14588,"–  Evchen und er führen sie ans Bett, und legen sie
+              querüber.",negative,emotions of suffering,suffering
+273,GerDracor/wagner-die-kindermoerderin.xml,14589,14603,ganz bestürzt.,negative,emotional movement,emotional movement
+274,GerDracor/wagner-die-kindermoerderin.xml,14604,14643,"Noch weiß ich nicht, wie mir geschieht!",negative,emotional movement,suffering
+275,GerDracor/wagner-die-kindermoerderin.xml,14644,14671,– hätt ich sie nur zu Haus.,negative,emotions of rejection,"hate, disgust"
+276,GerDracor/wagner-die-kindermoerderin.xml,14672,14724,"setzt sich neben die Mutter, zieht Evchen nach sich.",negative,emotions of affection,love
+277,GerDracor/wagner-die-kindermoerderin.xml,14725,14754,"Sei doch kein Kind, ma chère!",negative,emotions of rejection,compassion
+278,GerDracor/wagner-die-kindermoerderin.xml,14755,14777,was ist's denn weiter?,emotional movement,emotional movement,fear
+279,GerDracor/wagner-die-kindermoerderin.xml,14778,14841,"– wir kommen noch zeitig genug
+            wieder auf den Ball.",positive,emotions of joy,joy
+280,GerDracor/wagner-die-kindermoerderin.xml,14843,14875,Sieht ihr starr unter die Augen.,emotional movement,emotional movement,emotional movement
+281,GerDracor/wagner-die-kindermoerderin.xml,14876,14947,Um Himmels willen sehn Sie mich nicht so an; ich kann's nicht ausstehn.,negative,emotions of rejection,"hate, disgust"
+282,GerDracor/wagner-die-kindermoerderin.xml,14948,14975,"Warum denn nicht, Närrchen?",positive,emotions of joy,emotional movement
+283,GerDracor/wagner-die-kindermoerderin.xml,14976,15078,"Küßt ihr mit vieler Hitze die Hand, und sieht ihr bei jedem Kuß wieder starr in die
+            Augen.",positive,emotions of affection,love
+284,GerDracor/wagner-die-kindermoerderin.xml,15079,15085,Darum!,negative,emotions of suffering,fear
+285,GerDracor/wagner-die-kindermoerderin.xml,15086,15103,– ich will nicht.,negative,emotions of rejection,anger
+286,GerDracor/wagner-die-kindermoerderin.xml,15104,15211,"–  Er will sie umarmen und küssen, sie sträubt sich,
+              reißt sich los, und lauft der Kammer zu.",negative,emotional movement,love
+287,GerDracor/wagner-die-kindermoerderin.xml,15212,15227,ihr nacheilend.,negative,emotions of fear,fear
+288,GerDracor/wagner-die-kindermoerderin.xml,15228,15263,Du sollst mir doch nicht entlaufen!,negative,emotions of rejection,anger
+289,GerDracor/wagner-die-kindermoerderin.xml,15264,15293,–  Schmeißt die Kammertür zu.,negative,emotions of rejection,anger
+290,GerDracor/wagner-die-kindermoerderin.xml,15294,15446,"Inwendig Getös;
+              die alte Wirtin und Marianel kommen, stellen sich aber, als hörten sie nichts: nach
+              und nach wird's stiller.",emotional movement,emotional movement,emotional movement
+291,GerDracor/wagner-die-kindermoerderin.xml,15447,15511,"Räum geschwind ab; – sieh, wie das alte Murmeltier dort schläft.",negative,emotions of suffering,anger
+292,GerDracor/wagner-die-kindermoerderin.xml,15512,15590,"Hättet Ihr mir nur meinen Willen gelassen; weiß wohl, wer jetzt schlafen müßt!",negative,emotions of rejection,anger
+293,GerDracor/wagner-die-kindermoerderin.xml,15591,15645,"– da
+            hätt man doch auch was fangen können.",negative,emotions of joy,joy
+294,GerDracor/wagner-die-kindermoerderin.xml,15646,15656,Ja fangen!,positive,emotions of joy,joy
+295,GerDracor/wagner-die-kindermoerderin.xml,15657,15682,– du und der Teufel fang!,negative,emotions of joy,anger
+296,GerDracor/wagner-die-kindermoerderin.xml,15683,15717,Die Offizier sind dir die Rechten.,positive,emotions of rejection,admiration
+297,GerDracor/wagner-die-kindermoerderin.xml,15718,15873,"– Da verlor
+            einer vom Corps royal vorm Jahr einen lumpichten Kugelring, hat mir der Racker nit bald
+            's Fell über die Ohren gezogen!",negative,emotions of rejection,anger
+298,GerDracor/wagner-die-kindermoerderin.xml,15874,15998,"– wollt mir 's Haus über dem Kopf anstecken, wenn ihn
+            nicht die Christine noch im Strohsack wiedergefunden hätt.",negative,emotions of rejection,Schadenfreude
+299,GerDracor/wagner-die-kindermoerderin.xml,15999,16048,"– Geh du an Galgen mit deinem
+            Fangen!",positive,emotions of rejection,"hate, disgust"
+300,GerDracor/wagner-die-kindermoerderin.xml,16049,16065,– mir komm nit!.,negative,emotions of fear,anger
+301,GerDracor/wagner-die-kindermoerderin.xml,16066,16093,– – Was steckst in Sack da!,negative,emotions of rejection,anger
+302,GerDracor/wagner-die-kindermoerderin.xml,16094,16097,he!,negative,emotional movement,emotional movement
+303,GerDracor/wagner-die-kindermoerderin.xml,16098,16113,Staubbesenwar'!,negative,emotions of rejection,anger
+304,GerDracor/wagner-die-kindermoerderin.xml,16114,16142,"was steckst
+            ein?",negative,emotions of rejection,anger
+305,GerDracor/wagner-die-kindermoerderin.xml,16143,16156,willst reden?,negative,emotions of rejection,emotional movement
+306,GerDracor/wagner-die-kindermoerderin.xml,16157,16164,St; st!,negative,emotions of fear,emotional movement
+307,GerDracor/wagner-die-kindermoerderin.xml,16165,16224,eine Tobaksbüchs: – wir teilen – gehört dem Marmottel dort.,negative,emotions of rejection,Schadenfreude
+308,GerDracor/wagner-die-kindermoerderin.xml,16225,16231,Gewiß?,negative,emotions of fear,emotional movement
+309,GerDracor/wagner-die-kindermoerderin.xml,16232,16260,– wenn sie dem Leutnant ist!,negative,emotions of affection,love
+310,GerDracor/wagner-die-kindermoerderin.xml,16261,16282,"– Nein doch, sag ich.",negative,emotions of joy,emotional movement
+311,GerDracor/wagner-die-kindermoerderin.xml,16283,16312,– Ich weiß es – So mach fort!,negative,emotions of rejection,anger
+312,GerDracor/wagner-die-kindermoerderin.xml,16313,16322,– marsch!,negative,emotions of rejection,anger
+313,GerDracor/wagner-die-kindermoerderin.xml,16323,16365,die Bouteillen können noch stehen bleiben.,positive,emotions of joy,emotional movement
+314,GerDracor/wagner-die-kindermoerderin.xml,16366,16435,"– Wenn er nach der
+            Zech frägt – anderthalb Louisdor – Ab.",negative,emotions of rejection,anger
+315,GerDracor/wagner-die-kindermoerderin.xml,16436,16446,Schon gut!,positive,emotions of joy,joy
+316,GerDracor/wagner-die-kindermoerderin.xml,16447,16482,"und eine halbe für mich, macht zwo.",positive,emotions of joy,Schadenfreude
+317,GerDracor/wagner-die-kindermoerderin.xml,16483,16537,"Räumt vollends ab, und schleicht auf den Zehen hinaus.",negative,emotions of rejection,fear
+318,GerDracor/wagner-die-kindermoerderin.xml,16538,16600,"stürzt wieder aus dem Nebenzimmer heraus, auf ihre Mutter hin.",negative,emotional movement,emotional movement
+319,GerDracor/wagner-die-kindermoerderin.xml,16601,16610,– Mutter!,negative,emotional movement,emotional movement
+320,GerDracor/wagner-die-kindermoerderin.xml,16611,16623,Rabenmutter!,negative,emotions of rejection,emotional movement
+321,GerDracor/wagner-die-kindermoerderin.xml,16624,16645,schlaf – schlaf ewig!,negative,emotions of suffering,suffering
+322,GerDracor/wagner-die-kindermoerderin.xml,16646,16844,"– deine Tochter ist zur Hure gemacht –
+               Fällt schluchzend ihrer Mutter auf die Brust; der Lieutenant geht ein paarmal
+              die Stub auf und ab, endlich stellt er sich vor sie.",negative,emotions of suffering,suffering
+323,GerDracor/wagner-die-kindermoerderin.xml,16845,16904,"So wollen Sie denn gar nicht Raison annehmen, Mademoiselle?",negative,emotions of rejection,anger
+324,GerDracor/wagner-die-kindermoerderin.xml,16905,16972,"– wollen sich selbst fürs
+            Teufels Gewalt prostituieren?",negative,emotions of rejection,"hate, disgust"
+325,GerDracor/wagner-die-kindermoerderin.xml,16973,17024,"– alle Welt wissen lassen, was jetzt unter uns ist?",negative,emotions of rejection,emotional movement
+326,GerDracor/wagner-die-kindermoerderin.xml,17025,17088,"richtet sich auf, bedeckt aber das Gesicht mit dem Schnupftuch.",negative,emotions of suffering,suffering
+327,GerDracor/wagner-die-kindermoerderin.xml,17089,17102,"– Fort, fort!",negative,emotions of rejection,anger
+328,GerDracor/wagner-die-kindermoerderin.xml,17103,17117,Henkersknecht!,negative,emotions of rejection,anger
+329,GerDracor/wagner-die-kindermoerderin.xml,17118,17144,– Teufel in Engelsgestalt!,negative,emotions of rejection,"hate, disgust"
+330,GerDracor/wagner-die-kindermoerderin.xml,17145,17188,"– Sie haben Romanen gelesen, wie's scheint?",negative,emotional movement,emotional movement
+331,GerDracor/wagner-die-kindermoerderin.xml,17189,17274,"– Ewig schade wär's ja, wenn Sie nicht selbst
+            eine Heldin geworden wären.",negative,emotions of suffering,compassion
+332,GerDracor/wagner-die-kindermoerderin.xml,17275,17298,Geht wieder auf und ab.,emotional movement,emotional movement,emotional movement
+333,GerDracor/wagner-die-kindermoerderin.xml,17299,17335,"Spott nur, Ehrenschänder, spott nur!",negative,emotions of rejection,anger
+334,GerDracor/wagner-die-kindermoerderin.xml,17336,17473,"– ja ich hab Romanen gelesen, las sie, um euch
+            Ungeheuer kennenzulernen, mich vor euren Ränken hüten zu können – und dennoch!",negative,emotions of rejection,"hate, disgust"
+335,GerDracor/wagner-die-kindermoerderin.xml,17474,17479,Gott!,negative,emotions of fear,fear
+336,GerDracor/wagner-die-kindermoerderin.xml,17492,17497,Gott!,negative,emotions of fear,fear
+337,GerDracor/wagner-die-kindermoerderin.xml,17498,17540,"– dein Schlaf ist nicht natürlich, Mutter!",negative,emotions of suffering,suffering
+338,GerDracor/wagner-die-kindermoerderin.xml,17541,17558,jetzt merk ich's.,negative,emotions of suffering,anger
+339,GerDracor/wagner-die-kindermoerderin.xml,17559,17601,"– Ums Himmels willen, so komm doch zu dir!",negative,emotions of fear,fear
+340,GerDracor/wagner-die-kindermoerderin.xml,17602,17662,– du bist ja nicht die erste – Die du zu Fall gebracht hast?,negative,emotions of rejection,anger
+341,GerDracor/wagner-die-kindermoerderin.xml,17663,17699,– bin ich's nicht – nicht die erste?,positive,emotions of joy,emotional movement
+342,GerDracor/wagner-die-kindermoerderin.xml,17700,17793,"o sag mir's noch
+               Nicht die erste, sag ich, die Frau wurde, eh sie getraut war.",negative,emotions of suffering,suffering
+343,GerDracor/wagner-die-kindermoerderin.xml,17794,17990,"– Von dem jetzigen
+            Augenblick an bist du die Meinige; ich schwur's schon in der Kammer, und wiederhol's
+            hier bei allem, was heilig ist; – auf meinen Knieen wiederhol ich's.",positive,emotions of affection,love
+344,GerDracor/wagner-die-kindermoerderin.xml,17991,18118,"– In fünf Monaten
+            bin ich majorenn, dann führ ich dich an Altar, erkenne dich öffentlich für die
+            Meine.",positive,emotions of affection,love
+345,GerDracor/wagner-die-kindermoerderin.xml,18119,18166,"Darf ich dir trauen, nach dem, was vorgefallen?",negative,emotions of affection,fear
+346,GerDracor/wagner-die-kindermoerderin.xml,18167,18177,– Doch ja!,positive,emotions of suffering,emotional movement
+347,GerDracor/wagner-die-kindermoerderin.xml,18178,18250,"ich muß – ich bin so
+            verächtlich als du, verächtlicher noch!",negative,emotions of rejection,"hate, disgust"
+348,GerDracor/wagner-die-kindermoerderin.xml,18251,18299,"– kann's nicht mehr werden, nicht tiefer sinken!",negative,emotions of suffering,despair
+349,GerDracor/wagner-die-kindermoerderin.xml,18312,18338,–  Die Tränen abtrocknend.,negative,emotions of suffering,suffering
+350,GerDracor/wagner-die-kindermoerderin.xml,18339,18349,Steht auf.,positive,emotional movement,emotional movement
+351,GerDracor/wagner-die-kindermoerderin.xml,18350,18365,"Ja, ja, Evchen!",positive,emotions of joy,joy
+352,GerDracor/wagner-die-kindermoerderin.xml,18366,18389,so wahr ich hier stehe!,negative,emotions of affection,anger
+353,GerDracor/wagner-die-kindermoerderin.xml,18390,18459,"– küßt ihn, reißt sich aber, sobald er sie wieder geküßt, gleich los.",positive,emotions of affection,love
+354,GerDracor/wagner-die-kindermoerderin.xml,18460,18471,Hör weiter!,negative,emotions of rejection,anger
+355,GerDracor/wagner-die-kindermoerderin.xml,18472,18538,"so sei dieser Kuß der Trauring, den wir einander auf die Eh geben.",positive,emotions of affection,love

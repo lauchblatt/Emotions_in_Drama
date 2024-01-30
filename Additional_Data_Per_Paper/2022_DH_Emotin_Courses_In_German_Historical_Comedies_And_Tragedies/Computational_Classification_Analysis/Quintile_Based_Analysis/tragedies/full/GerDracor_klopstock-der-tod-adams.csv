@@ -1,0 +1,941 @@
+,file,start,end,text,pre1_base_polarity,pre1_main_emotion_class,pre1_tag_type
+0,GerDracor/klopstock-der-tod-adams.xml,0,31, Der Schauplatz ist eine Hütte.,negative,emotions of suffering,suffering
+1,GerDracor/klopstock-der-tod-adams.xml,32,142,"In der Tiefe derselben ist Adams besonderes Zimmer, wo
+          Abels Altar steht, und wo er zu beten pflegt.",positive,emotions of suffering,suffering
+2,GerDracor/klopstock-der-tod-adams.xml,143,358,"Die Schönheiten eines Trauerspiels, die es mehr durch Gewohnheiten und Sitten einer
+          Nation, als durch die einfältige Natur sind, haben sich oft dadurch der Gefahr ausgesetzt,
+          weniger zu gefallen.",negative,emotions of affection,suffering
+3,GerDracor/klopstock-der-tod-adams.xml,359,502,"Und nicht selten sind sie der Gefahr unterlegen, wenn diese
+          Gewohnheiten und Sitten ein zu fremder Zusatz zu der schönen Natur waren.",negative,emotions of suffering,fear
+4,GerDracor/klopstock-der-tod-adams.xml,503,1003,"Denn, wenn wir
+          uns in diesem Falle auch mit noch so vieler Bemühung in die Zeiten und Umstände versetzen,
+          worauf sich ein Trauerspiel vorzüglich bezieht: so bleibt uns doch allezeit aufs Wenigste
+          eine gewisse zarte Widersetzlichkeit der Empfindung übrig, die den großen Mann, für den
+          uns die Geschichte und der Dichter einnehmen wollen, lieber in andern, als in solchen
+          Umständen, die der Natur so oft ein falsches Colorit geben, handeln sehn möchte.",negative,emotions of suffering,love
+5,GerDracor/klopstock-der-tod-adams.xml,1004,1144,"Diese Anmerkung ist eine von den Ursachen gewesen, warum ich unsern Stammvater zu der
+          Hauptperson eines Trauerspiels gemacht habe.",negative,emotions of suffering,suffering
+6,GerDracor/klopstock-der-tod-adams.xml,1145,1255,"Vielen Lesern wird hier gleich einfallen: daß
+          man kein Trauerspiel aus der Offenbarung nehmen müsse.",negative,emotions of rejection,anger
+7,GerDracor/klopstock-der-tod-adams.xml,1256,1695,"Wenn Das so viel heißen soll, daß
+          die großen Männer, die uns die Bibel aufbehalten hat, nicht so würdig sind vor uns zu
+          erscheinen, als die großen Männer des Heidenthums: so  Ein gewisser Geschmack hat eingeführt, daß wir an einem Tage, der kein Feiertag, und an
+          einem Orte, da keine Kirche ist, schlechterdings nicht erlauben, daß uns Jemand an so
+          etwas Ernsthaftes, als die Religion ist, erinnere.",negative,emotions of rejection,anger
+8,GerDracor/klopstock-der-tod-adams.xml,1696,1914,"Dieses und die nothwendige äußerste
+          Einfalt bei der Vorstellung dieses Stücks wird auch dann noch, wenn wir gute Schauspieler
+          haben werden, verursachen, daß es niemals wird aufgeführt werden können.",negative,emotions of suffering,suffering
+9,GerDracor/klopstock-der-tod-adams.xml,1915,1976,"Ich habe es auch
+          nicht zu diesem Endzwecke gemacht.",negative,emotions of rejection,"hate, disgust"
+10,GerDracor/klopstock-der-tod-adams.xml,1977,2350,"Wenn ein Scribent seine guten Gründe haben kann, zu
+          einer Begebenheit die Art vorzustellen, die dem Trauerspiele eigen ist, bequemer, als eine
+          andere zu finden: so begreife ich nicht, warum es ihm nicht erlaubt seyn sollte, sie zu
+          wählen, ob er gleich einsieht, daß sein Stück wegen gewisser Nebenumstände nicht aufs
+          Theater gehöret.",emotional movement,emotions of rejection,anger
+11,GerDracor/klopstock-der-tod-adams.xml,2351,2356,Seth.,emotional movement,emotional movement,emotional movement
+12,GerDracor/klopstock-der-tod-adams.xml,2357,2364,Selima.,emotional movement,emotional movement,emotional movement
+13,GerDracor/klopstock-der-tod-adams.xml,2365,2412,Wie schön ist dieser glückselige Tag der Liebe!,positive,emotions of joy,joy
+14,GerDracor/klopstock-der-tod-adams.xml,2413,2429,Wie hell ist er!,emotional movement,emotions of joy,emotional movement
+15,GerDracor/klopstock-der-tod-adams.xml,2430,2499,"Wie viel freudiger,
+              als alle Tage, die ich gelebt habe!",positive,emotions of joy,joy
+16,GerDracor/klopstock-der-tod-adams.xml,2500,2694,"Und nun ist unsre Mutter auch hingegangen, daß sie
+              sehe, wie ihre Töchter meine Brautlaube schmücken, und mit mütterlicher Hand auch
+              einen Zweig in die Laube flechte.",positive,emotions of joy,joy
+17,GerDracor/klopstock-der-tod-adams.xml,2695,2733,Ich habe kühlende Früchte abgebrochen.,negative,emotions of suffering,suffering
+18,GerDracor/klopstock-der-tod-adams.xml,2734,2889,"Ich habe sie
+              schon auf die Teppiche geschüttet, daß unsre Brüder und Schwestern sich erfrischen,
+              wenn sie von der Laube kommen.",negative,emotions of joy,joy
+19,GerDracor/klopstock-der-tod-adams.xml,2890,2935,Ich habe sie mit röthlichen Trauben gekränzt.,positive,emotions of joy,suffering
+20,GerDracor/klopstock-der-tod-adams.xml,2936,3015,"Die
+              schönsten für Heman habe ich mit thauvollen Blättern bedeckt.",positive,emotions of affection,joy
+21,GerDracor/klopstock-der-tod-adams.xml,3016,3032,Ich Glückselige!,positive,emotions of joy,joy
+22,GerDracor/klopstock-der-tod-adams.xml,3033,3099,"Der
+              weise, der tugendhafte Heman hat Selima gewählt!",positive,emotions of affection,admiration
+23,GerDracor/klopstock-der-tod-adams.xml,3100,3119,Heman liebt Selima!,positive,emotions of affection,love
+24,GerDracor/klopstock-der-tod-adams.xml,3120,3362,"Und dazu werden
+              die Enkelinnen mit der Abendröthe kommen und ihre dreijährigen Knaben Adam das erste
+              Mal bringen, daß er sie segne und uns mit allen seinen väterlichen Freuden in die
+              Brautlaube führe.",positive,emotions of joy,joy
+25,GerDracor/klopstock-der-tod-adams.xml,3363,3414,"Aber warum siehst du mich so ernst an, mein Bruder?",emotional movement,emotional movement,emotional movement
+26,GerDracor/klopstock-der-tod-adams.xml,3415,3470,"Warum lächelte
+              dieses Lächeln nicht ganz?",positive,emotions of joy,joy
+27,GerDracor/klopstock-der-tod-adams.xml,3471,3484,Meine Selima!,positive,emotions of suffering,love
+28,GerDracor/klopstock-der-tod-adams.xml,3485,3541,Ich sann mit ernsten Freuden deiner Glückseligkeit nach.,positive,emotions of joy,joy
+29,GerDracor/klopstock-der-tod-adams.xml,3542,3646,"Aber du sagtest ja Dieses – du sagtest es mit einer Stimme, die Unruh verschweigen
+              wollte.",emotional movement,emotional movement,emotional movement
+30,GerDracor/klopstock-der-tod-adams.xml,3647,3683,"Was kann ich dir, Selima, verbergen!",negative,emotions of rejection,emotional movement
+31,GerDracor/klopstock-der-tod-adams.xml,3684,3712,Ich wollte es dir verbergen.,negative,emotions of rejection,fear
+32,GerDracor/klopstock-der-tod-adams.xml,3713,3882,"Allein die reine
+              Aufrichtigkeit meines Herzens und dieser wartende Kummer, mit dem du vor mir stehst,
+              zwingen mich, daß ich dir es sagen muß.",negative,emotions of suffering,suffering
+33,GerDracor/klopstock-der-tod-adams.xml,3883,3915,"Aber betrübe dich nicht, Selima.",negative,emotions of suffering,suffering
+34,GerDracor/klopstock-der-tod-adams.xml,3916,4100,"Die Liebe zu
+              unserm Vater machte mich zu aufmerksam auf seinen Ernst, mit dem er zu Abels Altare
+              hineinging, als du vor der Hütte standst und Eva nachsahst.",positive,emotions of affection,love
+35,GerDracor/klopstock-der-tod-adams.xml,4101,4144,"Soll ich hingehen, und seine Hand umfassen?",positive,emotions of affection,love
+36,GerDracor/klopstock-der-tod-adams.xml,4145,4164,und sie festhalten?,positive,emotions of affection,emotional movement
+37,GerDracor/klopstock-der-tod-adams.xml,4165,4204,"und ihn kindlich
+              ansehen?",emotional movement,emotions of affection,emotional movement
+38,GerDracor/klopstock-der-tod-adams.xml,4205,4245,"und ihm flehn, daß er nicht traurig sey?",negative,emotions of suffering,suffering
+39,GerDracor/klopstock-der-tod-adams.xml,4246,4265,"– Ach, mein Bruder!",negative,emotions of suffering,compassion
+40,GerDracor/klopstock-der-tod-adams.xml,4266,4278,mein Bruder!,emotional movement,emotional movement,emotional movement
+41,GerDracor/klopstock-der-tod-adams.xml,4279,4324,"du
+              verschweigst mir noch etwas!",negative,emotions of rejection,emotional movement
+42,GerDracor/klopstock-der-tod-adams.xml,4325,4370,So hab' ich dich noch niemals weinen gesehen!,negative,emotions of suffering,suffering
+43,GerDracor/klopstock-der-tod-adams.xml,4371,4420,"Meine Selima, wärst du in der Vorhütte geblieben!",negative,emotions of suffering,compassion
+44,GerDracor/klopstock-der-tod-adams.xml,4421,4449,Du hast mich zu sehr bewegt!,emotional movement,emotional movement,emotional movement
+45,GerDracor/klopstock-der-tod-adams.xml,4450,4507,"Denn
+              nun – ja, nun muß ich dir Alles sagen.",negative,emotions of rejection,anger
+46,GerDracor/klopstock-der-tod-adams.xml,4508,4601,"Noch niemals hab' ich unsern Vater so gesehen,
+              wie er erst vor mir vorüberging.",positive,emotions of affection,love
+47,GerDracor/klopstock-der-tod-adams.xml,4602,4639,Sein Gesicht war fürchterlich bleich!,negative,emotions of suffering,suffering
+48,GerDracor/klopstock-der-tod-adams.xml,4640,4682,"Er bebte fort,
+              kaum ging er.",negative,emotions of suffering,emotional movement
+49,GerDracor/klopstock-der-tod-adams.xml,4683,4717,Seine Augen starrten auf mich her!,emotional movement,emotional movement,emotional movement
+50,GerDracor/klopstock-der-tod-adams.xml,4718,4736,Er sah mich nicht.,emotional movement,emotions of affection,suffering
+51,GerDracor/klopstock-der-tod-adams.xml,4737,4777,"Er ging zum Altare
+              hinein.",positive,emotions of affection,love
+52,GerDracor/klopstock-der-tod-adams.xml,4778,4805,Da hört ich ihn laut beten!,negative,emotions of suffering,suffering
+53,GerDracor/klopstock-der-tod-adams.xml,4806,4823,und laut zittern!,negative,emotions of fear,fear
+54,GerDracor/klopstock-der-tod-adams.xml,4824,4885,"Aber ich verstand seine
+              gebrochnen Worte nicht.",emotional movement,emotions of suffering,emotional movement
+55,GerDracor/klopstock-der-tod-adams.xml,4886,4932,"Seitdem du hier bist, hör' ich ihn nicht mehr.",negative,emotions of affection,anger
+56,GerDracor/klopstock-der-tod-adams.xml,4933,4979,"Ach, Selima, du
+              hast es gewollt.",negative,emotions of affection,love
+57,GerDracor/klopstock-der-tod-adams.xml,4980,5009,Ich hab' es dir sagen müssen!,negative,emotions of rejection,anger
+58,GerDracor/klopstock-der-tod-adams.xml,5010,5043,– Hörst du unsers Vaters Schritt?,negative,emotions of fear,emotional movement
+59,GerDracor/klopstock-der-tod-adams.xml,5044,5067,"Er
+              kömmt.",emotional movement,emotional movement,emotional movement
+60,GerDracor/klopstock-der-tod-adams.xml,5068,5073,Adam.,emotional movement,emotional movement,emotional movement
+61,GerDracor/klopstock-der-tod-adams.xml,5074,5079,Seth.,emotional movement,emotional movement,emotional movement
+62,GerDracor/klopstock-der-tod-adams.xml,5080,5087,Selima.,emotional movement,emotional movement,emotional movement
+63,GerDracor/klopstock-der-tod-adams.xml,5088,5114,Seth und Selima sind hier?,emotional movement,emotional movement,emotional movement
+64,GerDracor/klopstock-der-tod-adams.xml,5115,5169,"– Es ist ein finstrer, es ist ein schreckenvoller Tag!",negative,emotions of fear,fear
+65,GerDracor/klopstock-der-tod-adams.xml,5170,5223,"–
+              Er wird wieder heiter werden, Selima!",positive,emotions of joy,joy
+66,GerDracor/klopstock-der-tod-adams.xml,5224,5319,"Doch geh zu deiner Mutter und lies Blumen mit
+              ihr, deine Brautlaube zu schmücken.",positive,emotions of joy,love
+67,GerDracor/klopstock-der-tod-adams.xml,5320,5440,"Sag' ihr, daß es auf meinen Befehl geschieht, daß
+              du hierin wider die Gewohnheit einer Verlobten handelst.",negative,emotions of rejection,anger
+68,GerDracor/klopstock-der-tod-adams.xml,5441,5462,"Ich gehe, mein Vater.",negative,emotions of fear,fear
+69,GerDracor/klopstock-der-tod-adams.xml,5463,5470,– Adam.,negative,emotional movement,emotional movement
+70,GerDracor/klopstock-der-tod-adams.xml,5471,5476,Seth.,emotional movement,emotional movement,emotional movement
+71,GerDracor/klopstock-der-tod-adams.xml,5477,5503,Sie hat eine schöne Seele!,positive,emotions of affection,admiration
+72,GerDracor/klopstock-der-tod-adams.xml,5504,5552,"Wie sie es empfand, daß sie uns verlassen mußte.",negative,emotions of suffering,suffering
+73,GerDracor/klopstock-der-tod-adams.xml,5553,5577,"Mein
+              Sohn!",emotional movement,emotional movement,emotional movement
+74,GerDracor/klopstock-der-tod-adams.xml,5578,5598,– – (Gott segne sie!,positive,emotions of affection,love
+75,GerDracor/klopstock-der-tod-adams.xml,5599,5632,Ich werde sie nicht wieder sehen!,negative,emotions of affection,love
+76,GerDracor/klopstock-der-tod-adams.xml,5633,5692,"Sie ist wie Eva, da der
+              Fluch noch nicht war!",positive,emotions of affection,love
+77,GerDracor/klopstock-der-tod-adams.xml,5693,5709,Gott segne sie!),positive,emotions of affection,admiration
+78,GerDracor/klopstock-der-tod-adams.xml,5710,5720,Mein Sohn!,emotional movement,emotional movement,emotional movement
+79,GerDracor/klopstock-der-tod-adams.xml,5721,5738,Mein bester Sohn!,positive,emotions of affection,admiration
+80,GerDracor/klopstock-der-tod-adams.xml,5739,5825,"Ich weiß, wie du
+              den Unerschaffnen kennst, und wie tief du ihn anbetest!",positive,emotions of affection,admiration
+81,GerDracor/klopstock-der-tod-adams.xml,5826,5853,Du bist ein Mann mein Sohn!,negative,emotions of affection,joy
+82,GerDracor/klopstock-der-tod-adams.xml,5868,5893,Ich kann dir Alles sagen!,negative,emotions of rejection,anger
+83,GerDracor/klopstock-der-tod-adams.xml,5894,5912,– Heut sterb' ich!,negative,emotions of fear,despair
+84,GerDracor/klopstock-der-tod-adams.xml,5913,5922,vor sich.,negative,emotions of suffering,suffering
+85,GerDracor/klopstock-der-tod-adams.xml,5923,5934,Mein Vater!,emotional movement,emotional movement,emotional movement
+86,GerDracor/klopstock-der-tod-adams.xml,5935,5942,– Adam!,emotional movement,emotional movement,emotional movement
+87,GerDracor/klopstock-der-tod-adams.xml,5943,5954,mein Vater!,emotional movement,emotional movement,emotional movement
+88,GerDracor/klopstock-der-tod-adams.xml,5955,5968,Er verstummt!,negative,emotional movement,suffering
+89,GerDracor/klopstock-der-tod-adams.xml,5969,6002,Ich werde bald länger verstummen!,negative,emotions of suffering,emotional movement
+90,GerDracor/klopstock-der-tod-adams.xml,6004,6012,Zu Seth.,emotional movement,emotional movement,emotional movement
+91,GerDracor/klopstock-der-tod-adams.xml,6013,6027,"Sage mir, ach!",negative,emotions of suffering,suffering
+92,GerDracor/klopstock-der-tod-adams.xml,6028,6068,"sage mir, mein Vater: Du willst sterben?",negative,emotions of fear,despair
+93,GerDracor/klopstock-der-tod-adams.xml,6069,6119,"Wie gern blieb' ich noch unter euch, meine Kinder!",positive,emotions of affection,joy
+94,GerDracor/klopstock-der-tod-adams.xml,6120,6155,"Ach, bleib denn, mein Vater, bleib!",negative,emotions of fear,compassion
+95,GerDracor/klopstock-der-tod-adams.xml,6156,6176,"Laß mich, mein Sohn!",negative,emotions of suffering,emotional movement
+96,GerDracor/klopstock-der-tod-adams.xml,6177,6211,Meine Seele hängt an deiner Seele!,positive,emotions of affection,love
+97,GerDracor/klopstock-der-tod-adams.xml,6212,6221,Laß mich!,negative,emotional movement,emotional movement
+98,GerDracor/klopstock-der-tod-adams.xml,6222,6267,"Du bist mein sehr
+              theurer Sohn!",positive,emotions of affection,admiration
+99,GerDracor/klopstock-der-tod-adams.xml,6268,6335,"Aber, der das Todesurtheil über mich aussprach, ist anbetenswürdig!",positive,emotions of affection,admiration
+100,GerDracor/klopstock-der-tod-adams.xml,6336,6346,Er ist es!,positive,emotions of joy,joy
+101,GerDracor/klopstock-der-tod-adams.xml,6347,6357,Er ist es!,positive,emotions of joy,joy
+102,GerDracor/klopstock-der-tod-adams.xml,6358,6606,"– Aber könnte dich, mein Vater, die Liebe zu deinen Kindern
+              nicht täuschen, daß du eine starke Erschütterung deiner männlichen Gesundheit, dieser
+              Gesundheit, die Jahrhunderte gedauert hat, für den kommenden Tod hieltest?",positive,emotions of suffering,love
+103,GerDracor/klopstock-der-tod-adams.xml,6607,6678,"Wie kann ich dem geliebtesten meiner Söhne antworten, wenn er so redet?",positive,emotional movement,emotional movement
+104,GerDracor/klopstock-der-tod-adams.xml,6679,6752,"O, wenn es
+              der Todesengel nur nicht zu schnell entscheidet!",negative,emotions of fear,fear
+105,GerDracor/klopstock-der-tod-adams.xml,6753,6830,"Wenn meines Sohnes Augen den
+              Furchtbaren nur nicht selbst sehn!",negative,emotions of fear,despair
+106,GerDracor/klopstock-der-tod-adams.xml,6831,6860,"– Dort ist Abels Altar, Sohn!",positive,emotions of affection,admiration
+107,GerDracor/klopstock-der-tod-adams.xml,6861,6936,"dort, wo er noch mit
+              dem Blute deines Bruders bezeichnet ist!",positive,emotions of affection,love
+108,GerDracor/klopstock-der-tod-adams.xml,6937,6973,dort fass' ihn mit ringenden Händen!,negative,emotions of suffering,suffering
+109,GerDracor/klopstock-der-tod-adams.xml,6974,7008,"dort
+              hebe sie empor!",positive,emotions of affection,admiration
+110,GerDracor/klopstock-der-tod-adams.xml,7009,7013,Geh!,negative,emotions of rejection,fear
+111,GerDracor/klopstock-der-tod-adams.xml,7014,7027,werd' erhört!,positive,emotions of affection,admiration
+112,GerDracor/klopstock-der-tod-adams.xml,7028,7101,"Vielleicht, daß du noch einen Tag zu meinem Leben
+              erflehst!",negative,emotions of suffering,love
+113,GerDracor/klopstock-der-tod-adams.xml,7102,7110,O Vater!,negative,emotions of suffering,emotional movement
+114,GerDracor/klopstock-der-tod-adams.xml,7111,7130,"– Adam, mein Vater!",emotional movement,emotional movement,emotional movement
+115,GerDracor/klopstock-der-tod-adams.xml,7131,7142,– Ich gehe.,negative,emotional movement,fear
+116,GerDracor/klopstock-der-tod-adams.xml,7143,7155,Adam allein.,negative,emotions of suffering,suffering
+117,GerDracor/klopstock-der-tod-adams.xml,7156,7175,Er ist hingegangen!,positive,emotions of joy,joy
+118,GerDracor/klopstock-der-tod-adams.xml,7176,7241,"Wenn er auch wird beten können, wird er doch nicht erhört werden!",negative,emotions of suffering,suffering
+119,GerDracor/klopstock-der-tod-adams.xml,7242,7275,"–
+            Was ist Das in mir!",negative,emotional movement,emotional movement
+120,GerDracor/klopstock-der-tod-adams.xml,7276,7299,Hört die Betäubung auf?,negative,emotional movement,emotional movement
+121,GerDracor/klopstock-der-tod-adams.xml,7300,7383,"Und fängt die Empfindung des Todes mit allen
+            ihren Schrecken wieder an?",negative,emotions of fear,suffering
+122,GerDracor/klopstock-der-tod-adams.xml,7384,7421,Jetzt steh' ich noch über dem Staube!,negative,emotions of rejection,suffering
+123,GerDracor/klopstock-der-tod-adams.xml,7422,7482,"In wenigen Stunden
+            werd' ich unter ihm verwesen!",negative,emotions of suffering,despair
+124,GerDracor/klopstock-der-tod-adams.xml,7483,7580,"Und wenn nun meine geliebte Eva, wenn nun meine Kinder
+            kommen und mich sterben sehen!",negative,emotions of suffering,suffering
+125,GerDracor/klopstock-der-tod-adams.xml,7581,7694,"– Nein, so entsetzlich ist der Gedanke von der Verwesung
+            nicht, als der, wenn mich Eva sterben sieht!",negative,emotions of fear,despair
+126,GerDracor/klopstock-der-tod-adams.xml,7695,7715,– Die Mitgeschaffne!,negative,emotions of suffering,joy
+127,GerDracor/klopstock-der-tod-adams.xml,7716,7790,"die Geliebteste unter
+            den Geliebten, wird sie mit mir sterben?",positive,emotions of suffering,love
+128,GerDracor/klopstock-der-tod-adams.xml,7791,7861,"Du weißt es, und nur du, der den Fluch über uns
+            aussprach!",negative,emotions of rejection,"hate, disgust"
+129,GerDracor/klopstock-der-tod-adams.xml,7862,7867,Adam.,emotional movement,emotional movement,emotional movement
+130,GerDracor/klopstock-der-tod-adams.xml,7868,7873,Seth.,emotional movement,emotional movement,emotional movement
+131,GerDracor/klopstock-der-tod-adams.xml,7874,7891,Du kömmst wieder.,positive,emotions of rejection,joy
+132,GerDracor/klopstock-der-tod-adams.xml,7892,7914,"Hast du gebetet, Sohn?",negative,emotional movement,suffering
+133,GerDracor/klopstock-der-tod-adams.xml,7915,7945,Wie ich noch nie gebetet habe.,positive,emotions of affection,suffering
+134,GerDracor/klopstock-der-tod-adams.xml,7946,7966,Schauer auf Schauer!,negative,emotions of fear,fear
+135,GerDracor/klopstock-der-tod-adams.xml,7967,7986,Das war mein Gebet.,positive,emotions of affection,suffering
+136,GerDracor/klopstock-der-tod-adams.xml,7987,8003,"Aber, mein Sohn!",negative,emotions of suffering,fear
+137,GerDracor/klopstock-der-tod-adams.xml,8004,8040,Wenn nun Eva mit ihren Kindern käme!,negative,emotions of rejection,fear
+138,GerDracor/klopstock-der-tod-adams.xml,8041,8071,Sollen sie mich sterben sehen?,negative,emotions of fear,despair
+139,GerDracor/klopstock-der-tod-adams.xml,8086,8214,"Geh, Sohn, und sage ihnen, daß ich allein opfern wolle, und daß sie erst kommen, wenn
+              die Sonne untergegangen ist.",positive,emotions of rejection,anger
+140,GerDracor/klopstock-der-tod-adams.xml,8215,8283,"Ich kann dich jetzt nicht verlassen, mein Vater, Das kann ich nicht!",negative,emotions of fear,emotional movement
+141,GerDracor/klopstock-der-tod-adams.xml,8284,8354,"Ich habe dir in
+              meinem ganzen Leben  So kommen sie denn!",positive,emotions of suffering,love
+142,GerDracor/klopstock-der-tod-adams.xml,8355,8391,"Nun, so wird mein Herz eher brechen.",negative,emotions of suffering,suffering
+143,GerDracor/klopstock-der-tod-adams.xml,8392,8411,Ich höre Fußtritte.,negative,emotions of rejection,anger
+144,GerDracor/klopstock-der-tod-adams.xml,8412,8437,Das sind die Füße Selima.,positive,emotions of suffering,love
+145,GerDracor/klopstock-der-tod-adams.xml,8438,8461,Jetzt kommen sie schon!,negative,emotions of joy,joy
+146,GerDracor/klopstock-der-tod-adams.xml,8462,8491,"O meine Kinder, meine Kinder!",negative,emotions of suffering,compassion
+147,GerDracor/klopstock-der-tod-adams.xml,8492,8544,"Ich unglückseligster unter den
+              Vätern!",negative,emotions of suffering,suffering
+148,GerDracor/klopstock-der-tod-adams.xml,8545,8550,Adam.,emotional movement,emotional movement,emotional movement
+149,GerDracor/klopstock-der-tod-adams.xml,8551,8556,Seth.,emotional movement,emotional movement,emotional movement
+150,GerDracor/klopstock-der-tod-adams.xml,8557,8564,Selima.,emotional movement,emotional movement,emotional movement
+151,GerDracor/klopstock-der-tod-adams.xml,8565,8574,vor sich.,negative,emotions of suffering,suffering
+152,GerDracor/klopstock-der-tod-adams.xml,8575,8627,"Sie ist todtblaß, wie Abel war, da er am Altare lag!",negative,emotions of suffering,suffering
+153,GerDracor/klopstock-der-tod-adams.xml,8629,8639,Zu Selima.,positive,emotional movement,love
+154,GerDracor/klopstock-der-tod-adams.xml,8640,8701,"Zürne nicht mit mir, mein Vater, daß ich dir nicht gehorchte.",negative,emotions of suffering,anger
+155,GerDracor/klopstock-der-tod-adams.xml,8702,8749,"Habe Mitleiden mit
+              deiner Selima.",negative,emotions of suffering,compassion
+156,GerDracor/klopstock-der-tod-adams.xml,8750,8948,"Da ich eilte zu meiner Mutter zu gehn, da wurde ich so bang, so
+              beklommen über Das, was mir Seth von dir gesagt hatte, daß es mir auf Einmal dunkel
+              vor meinen Augen ward.",negative,emotions of fear,fear
+157,GerDracor/klopstock-der-tod-adams.xml,8949,8984,"Weiter weiß ich nicht, was geschah.",emotional movement,emotional movement,emotional movement
+158,GerDracor/klopstock-der-tod-adams.xml,8985,9054,"Ich habe mich seitdem unter
+              den Blumen wieder gefunden.",positive,emotions of joy,joy
+159,GerDracor/klopstock-der-tod-adams.xml,9055,9110,"Ach, zürne nicht, daß ich nicht zur Laube gegangen bin.",negative,emotions of rejection,anger
+160,GerDracor/klopstock-der-tod-adams.xml,9125,9136,Mein Vater!,emotional movement,emotional movement,emotional movement
+161,GerDracor/klopstock-der-tod-adams.xml,9138,9160,Sie umfaßt seine Knie.,positive,emotions of affection,love
+162,GerDracor/klopstock-der-tod-adams.xml,9161,9179,"Steh' auf, Selima!",positive,emotions of fear,emotional movement
+163,GerDracor/klopstock-der-tod-adams.xml,9180,9211,Du bist meine geliebte Tochter!,positive,emotions of affection,love
+164,GerDracor/klopstock-der-tod-adams.xml,9212,9244,Sey meinetwegen nicht bekümmert.,negative,emotions of suffering,compassion
+165,GerDracor/klopstock-der-tod-adams.xml,9259,9283,Ich habe nur eine  Adam.,positive,emotions of affection,love
+166,GerDracor/klopstock-der-tod-adams.xml,9284,9289,Seth.,emotional movement,emotional movement,emotional movement
+167,GerDracor/klopstock-der-tod-adams.xml,9290,9372,"Wäre sie länger geblieben, so hätte ich ihren Anblick nicht mehr aushalten können.",positive,emotions of affection,emotional movement
+168,GerDracor/klopstock-der-tod-adams.xml,9387,9460,"Ach, du kannst mir es nicht nachempfinden, Seth, wie unglücklich ich bin!",negative,emotions of suffering,suffering
+169,GerDracor/klopstock-der-tod-adams.xml,9461,9553,"Diese Blume,
+              diese unschuldvolle Blume wird auch abfallen und in Staub sinken!",negative,emotions of affection,despair
+170,GerDracor/klopstock-der-tod-adams.xml,9554,9609,"und die Enkelinnen
+              ihrer Enkelinnen auch!",positive,emotions of joy,joy
+171,GerDracor/klopstock-der-tod-adams.xml,9610,9736,"Du weißt es, und du verstandst mich immer am Meisten, wenn ich
+              euch erzählte, wer ich nach meiner Schöpfung war!",positive,emotions of rejection,emotional movement
+172,GerDracor/klopstock-der-tod-adams.xml,9737,9762,Aber nun muß ich sterben!,negative,emotions of fear,despair
+173,GerDracor/klopstock-der-tod-adams.xml,9763,9814,"und alle
+              meine Kinder müssen sterben!",negative,emotions of fear,despair
+174,GerDracor/klopstock-der-tod-adams.xml,9815,9848,Er liegt wie ein Gebirge auf mir!,negative,emotions of suffering,suffering
+175,GerDracor/klopstock-der-tod-adams.xml,9849,9896,"Es ist ein
+              entsetzlicher Gedanke!",negative,emotions of suffering,compassion
+176,GerDracor/klopstock-der-tod-adams.xml,9897,9937,"– Geh, mein Sohn, und heitre Selima auf.",positive,emotions of joy,compassion
+177,GerDracor/klopstock-der-tod-adams.xml,9938,10009,"Ich will hingehen und
+              mir bei dem Altare ein Grab machen.",negative,emotions of fear,joy
+178,GerDracor/klopstock-der-tod-adams.xml,10010,10034,Ich verlasse dich nicht!,negative,emotions of affection,love
+179,GerDracor/klopstock-der-tod-adams.xml,10035,10070,Und du sollst dir kein Grab machen!,negative,emotions of rejection,anger
+180,GerDracor/klopstock-der-tod-adams.xml,10071,10128,"Ich beschwöre dich bei
+              dem lebendigen Gott!",negative,emotions of affection,admiration
+181,GerDracor/klopstock-der-tod-adams.xml,10129,10149,mache dir kein Grab!,negative,emotions of rejection,suffering
+182,GerDracor/klopstock-der-tod-adams.xml,10150,10175,Abel liegt dort begraben!,negative,emotions of suffering,suffering
+183,GerDracor/klopstock-der-tod-adams.xml,10176,10211,Ich will dort auch begraben liegen!,negative,emotions of affection,love
+184,GerDracor/klopstock-der-tod-adams.xml,10212,10271,"Wollt ihr mich vor
+              euren Augen verwesen sehn?",negative,emotions of fear,despair
+185,GerDracor/klopstock-der-tod-adams.xml,10272,10315,"Du furchtbarer Gott, der uns gerichtet hat!",negative,emotions of fear,"hate, disgust"
+186,GerDracor/klopstock-der-tod-adams.xml,10316,10372,– Die Schrecken des Allmächtigen ergreifen mich zu sehr!,negative,emotions of fear,suffering
+187,GerDracor/klopstock-der-tod-adams.xml,10373,10430,"Ich muß mein Antlitz von dir
+              wen den, Sohn!",negative,emotions of affection,despair
+188,GerDracor/klopstock-der-tod-adams.xml,10431,10456,– Es ist ein dunkler Tag!,negative,emotions of fear,fear
+189,GerDracor/klopstock-der-tod-adams.xml,10457,10471,Was bebt dort?,emotional movement,emotional movement,emotional movement
+190,GerDracor/klopstock-der-tod-adams.xml,10472,10518,"Ein schwarzer entsetzlicher
+              Tag!",negative,emotions of suffering,despair
+191,GerDracor/klopstock-der-tod-adams.xml,10519,10553,"– Hörst du die Felsen beben, Sohn?",negative,emotions of fear,emotional movement
+192,GerDracor/klopstock-der-tod-adams.xml,10554,10584,Er wandelt immer näher herauf!,positive,emotions of fear,fear
+193,GerDracor/klopstock-der-tod-adams.xml,10585,10661,"Vernahmst du,
+              wie jetzt der Hügel an unsrer Hütte bewegt ward?",emotional movement,emotional movement,emotional movement
+194,GerDracor/klopstock-der-tod-adams.xml,10662,10685,Auf dem Hügel steht er!,positive,emotions of joy,suffering
+195,GerDracor/klopstock-der-tod-adams.xml,10686,10729,"Siehst du den
+              Fürchterlichen?",negative,emotions of fear,fear
+196,GerDracor/klopstock-der-tod-adams.xml,10730,10771,Es ist Nacht um mich; aber mein Ohr hört!,negative,emotions of suffering,suffering
+197,GerDracor/klopstock-der-tod-adams.xml,10772,10780,zu Seth.,emotional movement,emotional movement,emotional movement
+198,GerDracor/klopstock-der-tod-adams.xml,10781,10806,So hör denn mich und ihn!,negative,emotions of rejection,love
+199,GerDracor/klopstock-der-tod-adams.xml,10808,10823,Zum Todesengel.,negative,emotions of fear,despair
+200,GerDracor/klopstock-der-tod-adams.xml,10824,11057,"So sagt Der, der dich aus Staube zum Menschen schuf: Eh die Sonne den Cedernwald
+              hinunter gestiegen ist, sollst  Sage Dem, der mich geschaffen und gerichtet hat, daß ich mich aufmache und komme und
+              anbete!",positive,emotions of affection,"hate, disgust"
+201,GerDracor/klopstock-der-tod-adams.xml,11058,11131,"Fleh' ihn an, du Furchtbarer, daß er Lindrung in meine Todesangst mische.",negative,emotions of fear,despair
+202,GerDracor/klopstock-der-tod-adams.xml,11132,11182,"O du mein theurer Vater, ich will mit dir sterben!",negative,emotions of fear,friendship
+203,GerDracor/klopstock-der-tod-adams.xml,11183,11232,"Warum gehst du von mir, mein
+              Vater?",negative,emotional movement,emotional movement
+204,GerDracor/klopstock-der-tod-adams.xml,11233,11243,Anzubeten!,positive,emotions of affection,admiration
+205,GerDracor/klopstock-der-tod-adams.xml,11244,11256,Seth allein.,emotional movement,emotions of suffering,suffering
+206,GerDracor/klopstock-der-tod-adams.xml,11257,11295,"Zu bittrer, unaussprechlicher Schmerz!",negative,emotions of suffering,suffering
+207,GerDracor/klopstock-der-tod-adams.xml,11296,11331,Du namlosester unter den Schmerzen!,negative,emotions of suffering,suffering
+208,GerDracor/klopstock-der-tod-adams.xml,11332,11424,"Du wirst
+            mein Leben zerreißen, bis ich mich auch bei seinen Gebeinen niederlege!",negative,emotions of rejection,"hate, disgust"
+209,GerDracor/klopstock-der-tod-adams.xml,11425,11473,"Ach, du erster
+            und bester der Väter!",negative,emotions of affection,admiration
+210,GerDracor/klopstock-der-tod-adams.xml,11474,11510,Vater der Unmündigen und Ungebornen!,negative,emotions of fear,"hate, disgust"
+211,GerDracor/klopstock-der-tod-adams.xml,11511,11579,"(Meine Ungebornen werden
+            seine grauen Haare nicht sehn!)",negative,emotions of rejection,"hate, disgust"
+212,GerDracor/klopstock-der-tod-adams.xml,11580,11592,Du Todestag!,negative,emotions of fear,despair
+213,GerDracor/klopstock-der-tod-adams.xml,11593,11624,"Ach, du Todestag meines Vaters!",negative,emotions of suffering,suffering
+214,GerDracor/klopstock-der-tod-adams.xml,11625,11708,"wie schnell
+            bist du gekommen, mich laut zu fragen: ob ich Gott fürchte?",negative,emotions of fear,fear
+215,GerDracor/klopstock-der-tod-adams.xml,11709,11785,"Ich will hingehen und mich
+            mit meinem Vater vor den Altar legen.",positive,emotions of joy,love
+216,GerDracor/klopstock-der-tod-adams.xml,11786,11850,"Dieser bebende Arm soll ihm sein Grab mit
+            aufgraben!",negative,emotions of suffering,anger
+217,GerDracor/klopstock-der-tod-adams.xml,11851,11861,O du Grab!,negative,emotions of suffering,suffering
+218,GerDracor/klopstock-der-tod-adams.xml,11862,11884,du Grab meines Vaters!,negative,emotions of rejection,despair
+219,GerDracor/klopstock-der-tod-adams.xml,11885,11978,"Und du erschreckliche Stimme: Eh die Sonne
+            den Cedernwald hinunter gestiegen ist!",negative,emotions of suffering,fear
+220,GerDracor/klopstock-der-tod-adams.xml,11979,11984,Adam.,emotional movement,emotional movement,emotional movement
+221,GerDracor/klopstock-der-tod-adams.xml,11985,11990,Seth.,emotional movement,emotional movement,emotional movement
+222,GerDracor/klopstock-der-tod-adams.xml,11991,12041,"der, an den Altar gelehnt, bei seinem Grabe steht.",negative,emotions of suffering,suffering
+223,GerDracor/klopstock-der-tod-adams.xml,12042,12068,"Es ist fürchterlich, Sohn!",negative,emotions of suffering,compassion
+224,GerDracor/klopstock-der-tod-adams.xml,12069,12181,"Zwar diese kühle Erde, in der auch die duftende Rose und
+              die schadende Ceder wächst, ist es nicht!",negative,emotions of suffering,admiration
+225,GerDracor/klopstock-der-tod-adams.xml,12182,12227,Aber hier soll ich  Dort liegt Edens Gebirge.,positive,emotions of joy,admiration
+226,GerDracor/klopstock-der-tod-adams.xml,12228,12255,Ich sehe kein Gebirge mehr!,negative,emotions of joy,suffering
+227,GerDracor/klopstock-der-tod-adams.xml,12256,12300,"Ist die Sonne mit Wolken ganz bedeckt, Sohn?",emotional movement,emotions of fear,suffering
+228,GerDracor/klopstock-der-tod-adams.xml,12301,12368,"Es sind noch viel Wolken da, aber die Sonne ist nicht ganz bedeckt.",emotional movement,emotions of joy,suffering
+229,GerDracor/klopstock-der-tod-adams.xml,12369,12403,Ist sie noch weit vom Cedernwalde?,positive,emotions of joy,emotional movement
+230,GerDracor/klopstock-der-tod-adams.xml,12404,12477,"Doch sage mir's nicht, ich will dich hernach
+              wieder fragen.",negative,emotions of rejection,anger
+231,GerDracor/klopstock-der-tod-adams.xml,12478,12515,Jetzt bedecken sie die Wolken wieder.,positive,emotions of suffering,suffering
+232,GerDracor/klopstock-der-tod-adams.xml,12516,12545,Schwarze Wolken bedecken sie.,negative,emotions of suffering,suffering
+233,GerDracor/klopstock-der-tod-adams.xml,12546,12615,"So seh' ich sie nicht mehr, wenn sie auch hernach wieder hervorkömmt!",negative,emotions of suffering,love
+234,GerDracor/klopstock-der-tod-adams.xml,12616,12719,"denn, sobald
+              ich zu meinem Grabe zurück gegangen bin, so geh' ich nicht wieder davon weg.",negative,emotions of affection,suffering
+235,GerDracor/klopstock-der-tod-adams.xml,12720,12778,"Komm,
+              mein Sohn, daß ich mich an dich lehne.",positive,emotions of affection,love
+236,GerDracor/klopstock-der-tod-adams.xml,12779,12790,Mein Vater!,emotional movement,emotional movement,emotional movement
+237,GerDracor/klopstock-der-tod-adams.xml,12791,12812,– Ihr schöne Gefilde!,positive,emotions of joy,joy
+238,GerDracor/klopstock-der-tod-adams.xml,12813,12839,Ihr hohe quellvolle Berge!,negative,emotions of joy,admiration
+239,GerDracor/klopstock-der-tod-adams.xml,12840,12923,"Ihr schattende kühle Thäler, und ihr
+              Kinder der Berge und der Thäler!",negative,emotions of joy,suffering
+240,GerDracor/klopstock-der-tod-adams.xml,12924,13032,"die ihr euch unter dem Fuße des Wandrers biegt oder
+              eure Wipfel über die hohe Wolke emporhebt!",positive,emotions of joy,joy
+241,GerDracor/klopstock-der-tod-adams.xml,13033,13261,"ihr segenvolle Gefilde, wo ich gewandelt,
+              wo ich Leben und Freude eingeathmet, wo ich so lange, wo ich so oft glückselig gewesen
+              bin, wo ich alle meine Kinder, so viele Lebendige um mich gesehen habe!",positive,emotions of joy,joy
+242,GerDracor/klopstock-der-tod-adams.xml,13262,13548,"und du vor
+              allen, o Eden – doch ich kann deine Wonne nicht nennen, ich müßte Thränen unter die
+              Wonne mischen, und ich will dich durch Thränen nicht entweihen – von euch nehm' ich
+              heut feierlich Abschied, da ich aufhöre, ein Sterblicher zu seyn!",negative,emotions of suffering,love
+243,GerDracor/klopstock-der-tod-adams.xml,13549,13664,"Doch ihr hört nicht
+              auf, die Folgen des Fluchs zu tragen, der mit meiner Sterblichkeit über euch kam.",negative,emotions of rejection,suffering
+244,GerDracor/klopstock-der-tod-adams.xml,13665,13792,"–
+              Ich will mich wegwenden, mein Sohn, denn ich kann den Strom kaum mehr von der Ebne
+              unterscheiden.",negative,emotions of fear,suffering
+245,GerDracor/klopstock-der-tod-adams.xml,13793,13892,"Wie wird mir seyn, wenn ich nun bald den besten meiner Söhne nicht mehr
+              kennen werde!",negative,emotions of suffering,suffering
+246,GerDracor/klopstock-der-tod-adams.xml,13894,13903,Vor sich.,negative,emotions of suffering,suffering
+247,GerDracor/klopstock-der-tod-adams.xml,13904,13912,Zu Seth.,emotional movement,emotional movement,emotional movement
+248,GerDracor/klopstock-der-tod-adams.xml,13913,13968,"Nun kann ich's dir nicht mehr verschweigen, mein Vater.",positive,emotions of joy,love
+249,GerDracor/klopstock-der-tod-adams.xml,13969,14072,"Es kömmt mir vor, als wenn
+              ich Selima schon einige Zeit ängstlich hin und her gehen höre.",negative,emotions of fear,fear
+250,GerDracor/klopstock-der-tod-adams.xml,14073,14146,"Sie geht schneller
+              gegen die Thüre zu, als sie zurück geht.",negative,emotional movement,anger
+251,GerDracor/klopstock-der-tod-adams.xml,14147,14201,"Sage mir, mein Sohn, würd' ich's ihr verbergen können?",emotional movement,emotional movement,emotional movement
+252,GerDracor/klopstock-der-tod-adams.xml,14202,14282,"Oder fängt der Tod schon an,
+              sich auf meinem Wangen zu verbreiten?",negative,emotions of suffering,despair
+253,GerDracor/klopstock-der-tod-adams.xml,14283,14307,Du wendest dich von mir?,negative,emotions of rejection,suffering
+254,GerDracor/klopstock-der-tod-adams.xml,14308,14366,"Ach, jedes Wort aus deinem Munde geht mir durch die Seele!",negative,emotions of suffering,suffering
+255,GerDracor/klopstock-der-tod-adams.xml,14367,14421,"Du bist fürchterlich
+              bleich, mein Vater!",negative,emotions of suffering,suffering
+256,GerDracor/klopstock-der-tod-adams.xml,14422,14570,"Ich habe Abel nicht gesehen, aber ich habe einen Jüngling gesehen,
+              der in seiner Blüthe starb, und dessen Tod sie dir verborgen haben.",negative,emotions of suffering,suffering
+257,GerDracor/klopstock-der-tod-adams.xml,14571,14618,Also treff' ich bei Abel noch meiner Kinder an?,negative,emotional movement,emotional movement
+258,GerDracor/klopstock-der-tod-adams.xml,14619,14709,"Ach, sie haben vielleicht mir und
+              auch dir noch vieler andern Tod verborgen!",negative,emotions of suffering,suffering
+259,GerDracor/klopstock-der-tod-adams.xml,14710,14773,"Er fürchtete den Allmächtigen doch, der
+              Jüngling?",negative,emotions of fear,fear
+260,GerDracor/klopstock-der-tod-adams.xml,14774,14801,Er hatte eine schöne Seele.,positive,emotions of affection,admiration
+261,GerDracor/klopstock-der-tod-adams.xml,14802,14857,Ueber ihn vergaß ich die finstre Seite des Todes lange.,negative,emotions of suffering,suffering
+262,GerDracor/klopstock-der-tod-adams.xml,14872,14915,Denn er starb mit dem Lächeln eines Engels.,positive,emotions of affection,admiration
+263,GerDracor/klopstock-der-tod-adams.xml,14916,14993,"Aber ich konnte seinen Anblick nicht
+              aushalten, da er todt war.",negative,emotions of suffering,despair
+264,GerDracor/klopstock-der-tod-adams.xml,14994,15012,Doch Selima kömmt.,emotional movement,emotional movement,emotional movement
+265,GerDracor/klopstock-der-tod-adams.xml,15013,15083,"Ach, Sunim, mein jüngster Sohn, Sunim auch noch nicht wieder gefunden!",negative,emotions of suffering,suffering
+266,GerDracor/klopstock-der-tod-adams.xml,15084,15091,Selima.,emotional movement,emotional movement,emotional movement
+267,GerDracor/klopstock-der-tod-adams.xml,15092,15104,Die Vorigen.,positive,emotions of rejection,emotional movement
+268,GerDracor/klopstock-der-tod-adams.xml,15105,15179,"Mein Vater, werde nicht zornig, daß ich schon wieder dein Gebot übertrete.",negative,emotions of rejection,anger
+269,GerDracor/klopstock-der-tod-adams.xml,15180,15221,"Aber höre
+              mich, mein Vater.",negative,emotions of suffering,suffering
+270,GerDracor/klopstock-der-tod-adams.xml,15222,15362,"Es geht ein Mann, ein Mann, wie ich noch keinen gesehen habe, um
+              unsre Hütte herum und droht mir, daß ich ihm die Hütte öffne.",negative,emotions of rejection,anger
+271,GerDracor/klopstock-der-tod-adams.xml,15363,15379,Er will zu Adam.,negative,emotional movement,anger
+272,GerDracor/klopstock-der-tod-adams.xml,15380,15419,"Er
+              erschreckte mich sehr.",negative,emotions of fear,fear
+273,GerDracor/klopstock-der-tod-adams.xml,15420,15525,"Es müssen noch irgendwo Menschen wohnen, die deine Söhne nicht
+              sind, und deren Sohn er ist.",positive,emotions of rejection,emotional movement
+274,GerDracor/klopstock-der-tod-adams.xml,15526,15550,Er ist Adams Sohn nicht!,negative,emotions of rejection,"hate, disgust"
+275,GerDracor/klopstock-der-tod-adams.xml,15551,15586,"Wie ist der Mann gestaltet, Selima?",emotional movement,emotional movement,emotional movement
+276,GerDracor/klopstock-der-tod-adams.xml,15587,15619,Es ist ein hoher drohender Mann.,negative,emotions of rejection,"hate, disgust"
+277,GerDracor/klopstock-der-tod-adams.xml,15620,15670,"Er hat tiefe Augen, mit denen er wild umherschaut.",emotional movement,emotional movement,emotional movement
+278,GerDracor/klopstock-der-tod-adams.xml,15685,15741,"Er hat sich mit fleckigen Häuten bedeckt, die schimmern.",negative,emotions of suffering,suffering
+279,GerDracor/klopstock-der-tod-adams.xml,15742,15796,"Er trägt eine schwere
+              knotenvolle Keule.",negative,emotions of suffering,"hate, disgust"
+280,GerDracor/klopstock-der-tod-adams.xml,15797,15891,"Er sieht verbrannt und doch bleich aus; aber nicht so bleich, als
+              du jetzt bist.",negative,emotions of suffering,suffering
+281,GerDracor/klopstock-der-tod-adams.xml,15892,15908,"Ach, mein Vater!",negative,emotions of fear,compassion
+282,GerDracor/klopstock-der-tod-adams.xml,15909,15948,– Hatte der Mann seine Stirn' entblößt?,negative,emotions of suffering,emotional movement
+283,GerDracor/klopstock-der-tod-adams.xml,15949,16083,"Ja, er hatte sie entblößt und auf derselben etwas, das ich nicht beschreiben kann,
+              weil ich es kaum anzusehen vermochte.",negative,emotions of suffering,love
+284,GerDracor/klopstock-der-tod-adams.xml,16084,16180,"Röthlich, glühend, fürchterlich lief es über sie
+              herunter, wie der zückende Blitz.",negative,emotions of rejection,suffering
+285,GerDracor/klopstock-der-tod-adams.xml,16181,16212,"Es ist Kain, Seth, es ist Kain!",positive,emotions of rejection,emotional movement
+286,GerDracor/klopstock-der-tod-adams.xml,16213,16301,"Der Allmächtige hat ihn gesandt, daß er mir meinen
+              Tod noch bittrer mache.",negative,emotions of fear,despair
+287,GerDracor/klopstock-der-tod-adams.xml,16302,16445,"Geh, daß wir gewiß erfahren, ob ihn der Allmächtige gesandt
+              habe, geh, sag' ihm, daß er sich wende und mein Angesicht nicht sehe!",negative,emotions of rejection,anger
+288,GerDracor/klopstock-der-tod-adams.xml,16446,16560,"Aber, wenn er
+              dennoch kommen will, so hab' ichs verdient, daß er komme, und so hat ihn Gott gesandt!",negative,emotions of joy,admiration
+289,GerDracor/klopstock-der-tod-adams.xml,16575,16647,"Doch verschleuß vorher den Altar, daß er seines Bruders Blut nicht sehe.",negative,emotions of rejection,despair
+290,GerDracor/klopstock-der-tod-adams.xml,16648,16655,Selima.,emotional movement,emotional movement,emotional movement
+291,GerDracor/klopstock-der-tod-adams.xml,16656,16735,"Adam Mein Vater, ach, was war denn Das für eine geöffnete Tiefe bei dem Altare?",emotional movement,emotional movement,emotional movement
+292,GerDracor/klopstock-der-tod-adams.xml,16736,16775,"Du hast noch kein Grab gesehen, Selima?",emotional movement,emotions of suffering,emotional movement
+293,GerDracor/klopstock-der-tod-adams.xml,16776,16810,"Was ist Das, ein Grab, mein Vater?",negative,emotions of fear,suffering
+294,GerDracor/klopstock-der-tod-adams.xml,16811,16820,vor sich.,negative,emotions of suffering,suffering
+295,GerDracor/klopstock-der-tod-adams.xml,16821,16841,Zu jammervoller Tag!,negative,emotions of suffering,compassion
+296,GerDracor/klopstock-der-tod-adams.xml,16842,16853,Kain kömmt!,negative,emotions of joy,fear
+297,GerDracor/klopstock-der-tod-adams.xml,16854,16923,"Und dieses unschuldvolle, dieses geliebte Kind vor
+              mir!",negative,emotions of affection,suffering
+298,GerDracor/klopstock-der-tod-adams.xml,16924,16952,"O, rede mit mir, mein Vater!",negative,emotional movement,fear
+299,GerDracor/klopstock-der-tod-adams.xml,16953,16990,Du bist doch nicht zornig auf Selima?,negative,emotions of rejection,anger
+300,GerDracor/klopstock-der-tod-adams.xml,16991,17044,"Sonst nanntest du
+              mich ja deine Selima.",positive,emotions of rejection,"hate, disgust"
+301,GerDracor/klopstock-der-tod-adams.xml,17045,17061,Du bist es auch!,positive,emotions of joy,joy
+302,GerDracor/klopstock-der-tod-adams.xml,17062,17098,Du bist meine sehr geliebte Tochter!,positive,emotions of affection,love
+303,GerDracor/klopstock-der-tod-adams.xml,17099,17207,"Ach, du sagtest ja, mein Vater, daß Kain gekommen wäre, dir deinen Tod noch bittrer
+              zu machen.",negative,emotions of rejection,suffering
+304,GerDracor/klopstock-der-tod-adams.xml,17208,17212,Ach!,negative,emotions of suffering,suffering
+305,GerDracor/klopstock-der-tod-adams.xml,17213,17242,ich kann's nicht aussprechen!,positive,emotions of suffering,joy
+306,GerDracor/klopstock-der-tod-adams.xml,17243,17300,"– Du willst doch nicht sterben, mein
+              Vater?",negative,emotions of fear,fear
+307,GerDracor/klopstock-der-tod-adams.xml,17301,17338,"Sey nicht so bekümmert, meine Selima.",negative,emotions of suffering,compassion
+308,GerDracor/klopstock-der-tod-adams.xml,17339,17449,"Dn weißt es ja, daß uns Gott gesagt hat: Wir
+              sollen wieder Erde werden, woraus wir gemacht sind.",positive,emotions of joy,"hate, disgust"
+309,GerDracor/klopstock-der-tod-adams.xml,17450,17543,"Meine Haare sind schon lange grau
+              gewesen, lange vorher, eh du geboren wurdest!",negative,emotions of suffering,suffering
+310,GerDracor/klopstock-der-tod-adams.xml,17544,17599,"Wenn mich nun Kain heut zu sehr
+              betrübte!",negative,emotions of suffering,suffering
+311,GerDracor/klopstock-der-tod-adams.xml,17600,17715,"– Ach, um deiner bessern Söhne willen, um Abels, um Seths, um Hemans willen  Sie
+                umfaßt seine Knie.",negative,emotions of affection,admiration
+312,GerDracor/klopstock-der-tod-adams.xml,17716,17747,"Weine nicht, du theure Tochter!",negative,emotions of suffering,compassion
+313,GerDracor/klopstock-der-tod-adams.xml,17748,17760,– Steh' auf.,positive,emotional movement,emotional movement
+314,GerDracor/klopstock-der-tod-adams.xml,17761,17772,Sie kommen.,positive,emotions of suffering,joy
+315,GerDracor/klopstock-der-tod-adams.xml,17773,17778,Kain.,emotional movement,emotions of rejection,emotional movement
+316,GerDracor/klopstock-der-tod-adams.xml,17779,17784,Seth.,emotional movement,emotional movement,emotional movement
+317,GerDracor/klopstock-der-tod-adams.xml,17785,17797,Die Vorigen.,positive,emotions of rejection,emotional movement
+318,GerDracor/klopstock-der-tod-adams.xml,17798,17811,Ist Das Adam?,emotional movement,emotional movement,emotional movement
+319,GerDracor/klopstock-der-tod-adams.xml,17812,17910,"Du wurdest ja sonst beim Anblick Derjenigen nicht bleich, die du elend
+              gemacht hast.",negative,emotions of suffering,"hate, disgust"
+320,GerDracor/klopstock-der-tod-adams.xml,17911,17954,Schone mindstens dieser weinenden Unschuld!,negative,emotions of suffering,suffering
+321,GerDracor/klopstock-der-tod-adams.xml,17955,18024,"Ist Unschuld auf der Erden gewesen, seitdem Adam Kinder geboren sind?",emotional movement,emotional movement,love
+322,GerDracor/klopstock-der-tod-adams.xml,18025,18035,zu Selima.,positive,emotional movement,love
+323,GerDracor/klopstock-der-tod-adams.xml,18036,18071,"Verlass' uns, meine Tochter Selima.",negative,emotions of suffering,compassion
+324,GerDracor/klopstock-der-tod-adams.xml,18072,18107,Seth soll dich wieder zu mir rufen.,negative,emotions of rejection,anger
+325,GerDracor/klopstock-der-tod-adams.xml,18108,18113,Adam.,emotional movement,emotional movement,emotional movement
+326,GerDracor/klopstock-der-tod-adams.xml,18114,18119,Kain.,emotional movement,emotions of rejection,emotional movement
+327,GerDracor/klopstock-der-tod-adams.xml,18120,18125,Seth.,emotional movement,emotional movement,emotional movement
+328,GerDracor/klopstock-der-tod-adams.xml,18126,18225,"Warum hast du mein Gebot übertreten und bist in meine friedsame Hütte gekommen,
+              Kain?",negative,emotions of rejection,emotional movement
+329,GerDracor/klopstock-der-tod-adams.xml,18226,18291,"Beantworte mir vorher auch eine Frage, so will ich dir antworten.",negative,emotions of rejection,anger
+330,GerDracor/klopstock-der-tod-adams.xml,18292,18358,"Wer ist der Mann,
+              der mich zu dir hereingeführt hat?",emotional movement,emotional movement,emotional movement
+331,GerDracor/klopstock-der-tod-adams.xml,18359,18389,Es ist mein zweiter Sohn Seth.,positive,emotions of joy,joy
+332,GerDracor/klopstock-der-tod-adams.xml,18390,18420,Ich mag deines Mitleids nicht!,negative,emotions of rejection,"hate, disgust"
+333,GerDracor/klopstock-der-tod-adams.xml,18421,18446,Es ist dein dritter Sohn!,positive,emotions of joy,joy
+334,GerDracor/klopstock-der-tod-adams.xml,18447,18497,"Und nun will ich dir auch
+              antworten.",negative,emotional movement,anger
+335,GerDracor/klopstock-der-tod-adams.xml,18498,18544,"Ich bin gekommen, mich an dir zu rächen, Adam!",negative,emotions of fear,"hate, disgust"
+336,GerDracor/klopstock-der-tod-adams.xml,18545,18582,Willst du meinen Vater auch erwürgen?,negative,emotions of rejection,anger
+337,GerDracor/klopstock-der-tod-adams.xml,18583,18631,"Eh du geboren wurdest, war ich schon ganz elend!",negative,emotions of suffering,suffering
+338,GerDracor/klopstock-der-tod-adams.xml,18632,18663,Laß mich und Adam allein reden.,negative,emotional movement,emotional movement
+339,GerDracor/klopstock-der-tod-adams.xml,18664,18713,"Ich
+              will deinen Vater nicht tödten!",negative,emotions of fear,despair
+340,GerDracor/klopstock-der-tod-adams.xml,18714,18755,"Wofür willst du dich an mir rächen, Kain?",negative,emotions of rejection,"hate, disgust"
+341,GerDracor/klopstock-der-tod-adams.xml,18756,18783,Daß du mir das Leben gabst!,positive,emotions of affection,love
+342,GerDracor/klopstock-der-tod-adams.xml,18784,18814,"Dafür, mein erstgeborner Sohn?",negative,emotional movement,emotional movement
+343,GerDracor/klopstock-der-tod-adams.xml,18815,18867,"Ja, dafür, daß ich meinen Bruder Abel erwürget habe!",negative,emotions of rejection,"hate, disgust"
+344,GerDracor/klopstock-der-tod-adams.xml,18868,18930,"daß sein Blut laut zum
+              Allmächtigen gerufen hat!",negative,emotions of affection,admiration
+345,GerDracor/klopstock-der-tod-adams.xml,18931,19057,"daß ich der Unglückseligste unter allen deinen Kindern bin,
+              die dir geboren sind und noch geboren werden sollen!",negative,emotions of suffering,suffering
+346,GerDracor/klopstock-der-tod-adams.xml,19058,19153,"daß ich, mit diesem Elende
+              belastet, auf der Erde herumirre und keine Ruhe finde!",negative,emotions of rejection,suffering
+347,GerDracor/klopstock-der-tod-adams.xml,19154,19204,"selbst im Himmel keine finden
+              würde!",negative,emotions of affection,love
+348,GerDracor/klopstock-der-tod-adams.xml,19205,19239,Dafür will ich mich an dir rächen!,negative,emotions of rejection,"hate, disgust"
+349,GerDracor/klopstock-der-tod-adams.xml,19240,19360,"Eh' ich dir gebot, daß du mein Antlitz nicht mehr sehen solltest, hab' ich dir Dieß
+              schon oft beantwortet.",negative,emotions of rejection,anger
+350,GerDracor/klopstock-der-tod-adams.xml,19361,19496,"Aber so hast du es mir noch nie gesagt, und so hab' ich es noch
+              nie empfunden, als an diesem schrecklichsten meiner Tage!",negative,emotions of suffering,suffering
+351,GerDracor/klopstock-der-tod-adams.xml,19497,19534,Du hast es mir nie genug beantwortet.,negative,emotions of affection,emotional movement
+352,GerDracor/klopstock-der-tod-adams.xml,19535,19656,"Und wenn du es heut' empfunden hast, wie stark
+              und wie wahr es ist, so ist Das doch meine Rache noch nicht!",negative,emotions of rejection,"hate, disgust"
+353,GerDracor/klopstock-der-tod-adams.xml,19657,19765,"Jahre schon, lange Jahre
+              hab' ich dich, heiße, gerechte, wiedervergeltende Rache, beschlossen!",negative,emotions of rejection,"hate, disgust"
+354,GerDracor/klopstock-der-tod-adams.xml,19766,19810,"heut' will ich
+              dich ausführen!",positive,emotions of affection,joy
+355,GerDracor/klopstock-der-tod-adams.xml,19811,19913,"Wenn dein starres Auge vor Wuth noch sieht, so schau', o Kain, schau seine grauen
+              Haare!",negative,emotions of suffering,"hate, disgust"
+356,GerDracor/klopstock-der-tod-adams.xml,19914,19935,Grau oder abgefallen!,negative,emotions of suffering,emotional movement
+357,GerDracor/klopstock-der-tod-adams.xml,19936,19985,Ich bin der Unglückseligste unter seinen Kindern!,negative,emotions of suffering,suffering
+358,GerDracor/klopstock-der-tod-adams.xml,19986,20028,"Ich will mich
+              an ihm rächen!",negative,emotions of rejection,"hate, disgust"
+359,GerDracor/klopstock-der-tod-adams.xml,20029,20076,"Rächen will ich mich, daß er mir das Leben gab!",negative,emotions of rejection,"hate, disgust"
+360,GerDracor/klopstock-der-tod-adams.xml,20077,20085,zu Seth.,emotional movement,emotional movement,emotional movement
+361,GerDracor/klopstock-der-tod-adams.xml,20086,20127,Sein und mein Richter hat ihn hergesandt!,negative,emotions of rejection,anger
+362,GerDracor/klopstock-der-tod-adams.xml,20128,20161,"– Was ist denn deine Rache, Kain?",negative,emotions of fear,fear
+363,GerDracor/klopstock-der-tod-adams.xml,20162,20183,Ich will dir fluchen!,negative,emotions of rejection,anger
+364,GerDracor/klopstock-der-tod-adams.xml,20184,20220,"– – Das ist zu viel, mein Sohn Kain!",negative,emotions of suffering,anger
+365,GerDracor/klopstock-der-tod-adams.xml,20221,20247,Fluche deinem Vater nicht!,negative,emotions of rejection,anger
+366,GerDracor/klopstock-der-tod-adams.xml,20248,20330,"Um der Rettung willen,
+              die du noch finden kannst, fluch' Adam nicht!",negative,emotions of affection,despair
+367,GerDracor/klopstock-der-tod-adams.xml,20331,20352,Ich will dir fluchen!,negative,emotions of rejection,anger
+368,GerDracor/klopstock-der-tod-adams.xml,20353,20421,"So komm denn, ich will dir den Ort zeigen, wo du mir fluchen sollst!",negative,emotions of rejection,anger
+369,GerDracor/klopstock-der-tod-adams.xml,20422,20470,"Komm, Dieß ist
+              deines Vaters Grab!",negative,emotions of fear,despair
+370,GerDracor/klopstock-der-tod-adams.xml,20471,20494,Ich werde heut sterben!,negative,emotions of fear,despair
+371,GerDracor/klopstock-der-tod-adams.xml,20495,20531,Ein Todesengel hat mirs angekündigt!,negative,emotions of fear,despair
+372,GerDracor/klopstock-der-tod-adams.xml,20532,20562,Und was ist Das für ein Altar?,emotional movement,emotional movement,emotional movement
+373,GerDracor/klopstock-der-tod-adams.xml,20563,20644,"Du Unglückseligster unter den Menschen, weil du der Boshafteste unter ihnen bist!",negative,emotions of rejection,"hate, disgust"
+374,GerDracor/klopstock-der-tod-adams.xml,20645,20679,"Das
+              ist Abels Altar!",positive,emotions of joy,"hate, disgust"
+375,GerDracor/klopstock-der-tod-adams.xml,20680,20722,"und, an diesen Steinen, Das ist sein Blut!",negative,emotions of fear,"hate, disgust"
+376,GerDracor/klopstock-der-tod-adams.xml,20723,20768,– Die Wuth des Abgrunds steigt zu mir herauf!,negative,emotions of rejection,"hate, disgust"
+377,GerDracor/klopstock-der-tod-adams.xml,20769,20846,"Der Altar, der fürchterliche Altar, liegt
+              wie ein Fels auf mir!",negative,emotions of rejection,suffering
+378,GerDracor/klopstock-der-tod-adams.xml,20847,20858,Wo bin ich?,emotional movement,emotional movement,emotional movement
+379,GerDracor/klopstock-der-tod-adams.xml,20859,20873,– Wo ist Adam?,emotional movement,emotional movement,emotional movement
+380,GerDracor/klopstock-der-tod-adams.xml,20874,20892,"– Höre mich, Adam!",negative,emotions of rejection,emotional movement
+381,GerDracor/klopstock-der-tod-adams.xml,20893,20967,"Mein Fluch
+              beginnt: An dem Tage, da du sterben willst, Adam!",negative,emotions of rejection,"hate, disgust"
+382,GerDracor/klopstock-der-tod-adams.xml,20968,21078,"– an dem letzten deiner Tage – müsse
+              dich die Todesangst von siebentausend Sterbenden ergreifen!",negative,emotions of fear,fear
+383,GerDracor/klopstock-der-tod-adams.xml,21079,21141,"müsse das Bild der
+              Verwesung – – Es ist zu viel!",negative,emotions of suffering,despair
+384,GerDracor/klopstock-der-tod-adams.xml,21142,21181,"Es ist zu viel, mein erstgeborner Sohn!",negative,emotions of suffering,emotional movement
+385,GerDracor/klopstock-der-tod-adams.xml,21182,21305,"– Nun versteh' ich dich ganz,
+              du Todesurtheil, das dort über mich ausgesprochen ward, ich verstehe dich ganz!",negative,emotions of suffering,suffering
+386,GerDracor/klopstock-der-tod-adams.xml,21306,21363,"–
+              Lass' ab von mir, mein erstgeborner Sohn!",negative,emotions of rejection,anger
+387,GerDracor/klopstock-der-tod-adams.xml,21364,21368,Ach!,negative,emotions of suffering,suffering
+388,GerDracor/klopstock-der-tod-adams.xml,21369,21373,Ach!,negative,emotions of suffering,suffering
+389,GerDracor/klopstock-der-tod-adams.xml,21374,21414,– hab' ich meines Vaters Blut vergossen?,negative,emotions of fear,suffering
+390,GerDracor/klopstock-der-tod-adams.xml,21415,21426,Wo bin ich?,emotional movement,emotional movement,emotional movement
+391,GerDracor/klopstock-der-tod-adams.xml,21427,21546,"Wer leitet mich aus
+              dieser schreckenden Dämmerung, wer leitet mich, daß ich die Nacht des Abgrunds finde?",negative,emotions of fear,fear
+392,GerDracor/klopstock-der-tod-adams.xml,21561,21592,– – – Doch hier ist mein Vater!,positive,emotional movement,emotional movement
+393,GerDracor/klopstock-der-tod-adams.xml,21593,21612,– Ist er es selbst?,negative,emotional movement,emotional movement
+394,GerDracor/klopstock-der-tod-adams.xml,21613,21635,oder erscheint er mir?,emotional movement,emotional movement,emotional movement
+395,GerDracor/klopstock-der-tod-adams.xml,21636,21701,"Wende dein
+              Antlitz von mir, daß ich entfliehn kann.",negative,emotions of rejection,love
+396,GerDracor/klopstock-der-tod-adams.xml,21702,21715,Er entflieht.,negative,emotions of fear,fear
+397,GerDracor/klopstock-der-tod-adams.xml,21716,21721,Adam.,emotional movement,emotional movement,emotional movement
+398,GerDracor/klopstock-der-tod-adams.xml,21722,21727,Seth.,emotional movement,emotional movement,emotional movement
+399,GerDracor/klopstock-der-tod-adams.xml,21728,21765,Er hat meine ganze Seele erschüttert!,emotional movement,emotional movement,emotional movement
+400,GerDracor/klopstock-der-tod-adams.xml,21766,21786,"Geh' ihm nach, Seth.",negative,emotions of fear,anger
+401,GerDracor/klopstock-der-tod-adams.xml,21787,21804,Er ist mein Sohn!,positive,emotions of affection,joy
+402,GerDracor/klopstock-der-tod-adams.xml,21805,21946,"Geh' ihm
+              nach und such ihn auf und sag' ihm: daß er seine Hand nicht an mich gelegt hat, und
+              daß ich ihm vergebe.",negative,emotions of suffering,compassion
+403,GerDracor/klopstock-der-tod-adams.xml,21947,21994,"Erinnere ihn nicht daran, daß ich heute sterbe.",negative,emotions of suffering,despair
+404,GerDracor/klopstock-der-tod-adams.xml,21995,22007,Adam allein.,negative,emotions of suffering,suffering
+405,GerDracor/klopstock-der-tod-adams.xml,22008,22027,Was ist Das in mir?,negative,emotional movement,emotional movement
+406,GerDracor/klopstock-der-tod-adams.xml,22028,22114,"Ich werde ruhig, da mein Elend zu seiner letzten Höhe empor
+            gestiegen ist?",negative,emotional movement,suffering
+407,GerDracor/klopstock-der-tod-adams.xml,22115,22174,"Oder kannst du noch höher steigen, du Elend des Sterbenden?",negative,emotions of rejection,despair
+408,GerDracor/klopstock-der-tod-adams.xml,22175,22349,"Wenn du Das
+            kannst, so mag denn diese schreckende Ruhe meine Seele ganz einnehmen, daß sie ihr Opfer
+            bereite und es nicht ungekränzt zum Altare führe!",negative,emotions of fear,emotional movement
+409,GerDracor/klopstock-der-tod-adams.xml,22350,22439,"– O du kühles, stilles Grab, nimm den
+            müden Wandrer bald in deinen Schoß auf!",negative,emotions of suffering,suffering
+410,GerDracor/klopstock-der-tod-adams.xml,22440,22501,"Und du, Seele meines Sohns Abel, du schöne
+            Seele.",positive,emotions of affection,admiration
+411,GerDracor/klopstock-der-tod-adams.xml,22502,22825,"– denn du schwebst gewiß jetzt um deines Vaters Grab – wenn du es hörtest, da dem
+            furchtbarsten der Engel geboten wurde, mir den Tod anzukündigen, wenn du hier bist, mein
+            bester Sohn: so begegne meiner Seele, wenn sie sich nun von dem brechenden Auge oder von
+            der kalten Lippe emporhebt!",negative,emotions of affection,despair
+412,GerDracor/klopstock-der-tod-adams.xml,22826,22956,"Ach, du starbst nicht, wie ich sterbe; dreimal seufztest du
+            nur, als du in deinem Blute lagst, und da entschliefst du!",negative,emotions of suffering,suffering
+413,GerDracor/klopstock-der-tod-adams.xml,22957,22962,Adam.,emotional movement,emotional movement,emotional movement
+414,GerDracor/klopstock-der-tod-adams.xml,22963,22968,Seth.,emotional movement,emotional movement,emotional movement
+415,GerDracor/klopstock-der-tod-adams.xml,22969,22992,Ich habe Kain gefunden.,emotional movement,emotions of joy,joy
+416,GerDracor/klopstock-der-tod-adams.xml,22993,23026,Er lag auf der Erde ausgestreckt.,negative,emotions of suffering,suffering
+417,GerDracor/klopstock-der-tod-adams.xml,23027,23184,"Da er mich sah, stützt' er
+              sich auf und rief mir zu: Ach, einen Trunk aus dieser Quelle, Seth, einen Trunk, daß
+              ich nicht sterbe!",negative,emotions of suffering,suffering
+418,GerDracor/klopstock-der-tod-adams.xml,23185,23224,"Ich schöpfte und gab ihm, und er trank.",positive,emotions of suffering,suffering
+419,GerDracor/klopstock-der-tod-adams.xml,23225,23279,"Ich sagte ihm Alles, was du
+              mir gebotst.",negative,emotions of rejection,anger
+420,GerDracor/klopstock-der-tod-adams.xml,23280,23327,Er richtete sich noch mehr auf und sah mich an.,emotional movement,emotional movement,emotional movement
+421,GerDracor/klopstock-der-tod-adams.xml,23328,23408,"Es schien, als wenn er
+              weinen wollte; aber er konnte nicht weinen.",negative,emotions of suffering,suffering
+422,GerDracor/klopstock-der-tod-adams.xml,23409,23449,Zuletzt sagte er mir: Es ist mein Vater!,positive,emotions of joy,love
+423,GerDracor/klopstock-der-tod-adams.xml,23464,23513,"Gott müsse ihm vergeben, wie er mir vergeben hat!",negative,emotions of suffering,compassion
+424,GerDracor/klopstock-der-tod-adams.xml,23514,23527,Es ist genug!,negative,emotions of rejection,anger
+425,GerDracor/klopstock-der-tod-adams.xml,23528,23562,"– Du bist ja so ruhig, mein Vater!",emotional movement,emotional movement,emotional movement
+426,GerDracor/klopstock-der-tod-adams.xml,23563,23573,Ich bin's!,positive,emotions of joy,joy
+427,GerDracor/klopstock-der-tod-adams.xml,23574,23609,"Was in mir vorgeht, weiß ich nicht.",emotional movement,emotional movement,emotional movement
+428,GerDracor/klopstock-der-tod-adams.xml,23610,23627,Ist es Betäubung?,emotional movement,emotional movement,emotional movement
+429,GerDracor/klopstock-der-tod-adams.xml,23628,23679,"Ist es höhere Kraft, die mich
+              stärkt?",emotional movement,emotions of affection,joy
+430,GerDracor/klopstock-der-tod-adams.xml,23680,23719,Ich bin auch auf Einmal ruhig geworden.,emotional movement,emotional movement,emotional movement
+431,GerDracor/klopstock-der-tod-adams.xml,23720,23803,"Lass' uns sehn, ob unsre Ruhe in unserm Herzen sey oder nur leicht darüber schwebe?",positive,emotions of joy,love
+432,GerDracor/klopstock-der-tod-adams.xml,23818,23862,"Hast du die Sonne gesehn, da du zurückkamst?",emotional movement,emotional movement,emotional movement
+433,GerDracor/klopstock-der-tod-adams.xml,23863,23933,"Sie war mit Wolken bedeckt, doch war sie nicht ganz dunkel eingehüllt.",emotional movement,emotions of suffering,suffering
+434,GerDracor/klopstock-der-tod-adams.xml,23934,24018,"Wenn mich mein
+              Auge nicht trügt, so war sie – weit herunter gestiegen!",negative,emotions of suffering,suffering
+435,GerDracor/klopstock-der-tod-adams.xml,24019,24033,Weit herunter.,negative,emotions of suffering,suffering
+436,GerDracor/klopstock-der-tod-adams.xml,24034,24087,"– Siehe aus, mein Sohn, ob die Wolken nicht weg sind?",negative,emotions of fear,fear
+437,GerDracor/klopstock-der-tod-adams.xml,24088,24134,"und ob deine
+              Mutter nicht kömmt?",emotional movement,emotional movement,fear
+438,GerDracor/klopstock-der-tod-adams.xml,24135,24192,"Angst, Todesangst hat mich wieder ringsum eingeschlossen!",negative,emotions of fear,fear
+439,GerDracor/klopstock-der-tod-adams.xml,24193,24240,"Jammer,
+              wenn ich sie wieder sehe!",negative,emotions of suffering,compassion
+440,GerDracor/klopstock-der-tod-adams.xml,24241,24285,"Und, wenn ich sie nicht wieder sehe, Jammer!",negative,emotions of suffering,compassion
+441,GerDracor/klopstock-der-tod-adams.xml,24286,24321,"– Soll ich sie
+              rufen?",negative,emotional movement,fear
+442,GerDracor/klopstock-der-tod-adams.xml,24322,24374,oder soll ich meine Hütte fest vor ihr verschließen?,negative,emotions of rejection,fear
+443,GerDracor/klopstock-der-tod-adams.xml,24375,24422,"Die Wolken sind nicht weg, und Eva kömmt nicht.",negative,emotions of suffering,suffering
+444,GerDracor/klopstock-der-tod-adams.xml,24423,24441,Was soll ich thun?,negative,emotional movement,emotional movement
+445,GerDracor/klopstock-der-tod-adams.xml,24442,24542,"– Ich will es Dem überlassen, der der Sonne ihren Lauf und dem
+              Todesengel Gericht gab.",negative,emotions of affection,admiration
+446,GerDracor/klopstock-der-tod-adams.xml,24543,24582,"Es geschehe, wie er es beschlossen hat!",positive,emotions of rejection,anger
+447,GerDracor/klopstock-der-tod-adams.xml,24583,24994,"– Mein Sohn Seth, mein
+              erstgeborner Sohn – denn Kain hat mir geflucht, und Abel ist nicht mehr – wenn du nun
+              auch alt und grau geworden bist, und deiner Kinder Kinder, die Enkel meiner Enkel um
+              dich versammelt sind und dich nach mir fragen, um dich hertreten und sprechen: Du hast
+              unsern Vater Adam sterben gesehn; was sagte unser Vater Adam, da er starb?",negative,emotions of suffering,suffering
+448,GerDracor/klopstock-der-tod-adams.xml,24995,25257,"so
+              antworte: – mein Herz will mir brechen; aber du mußt es ihnen sagen – antworte ihnen:
+              An dem Abend, da er sterben wollte, lehnte er sich an mich, und sprach: Ach, meine
+              Kinder, mein Fluch ist auch euer Fluch geworden!",negative,emotions of suffering,despair
+449,GerDracor/klopstock-der-tod-adams.xml,25258,25290,Ich hab' ihn über euch gebracht!,positive,emotions of rejection,"hate, disgust"
+450,GerDracor/klopstock-der-tod-adams.xml,25291,25378,"Der
+              mich zum Unsterblichen geschaffen hatte, legte mir Leben und Tod vor.",positive,emotions of affection,love
+451,GerDracor/klopstock-der-tod-adams.xml,25379,25456,"Ich wollte noch
+              mehr, als unsterblich seyn, und wählte den Tod!",negative,emotions of rejection,despair
+452,GerDracor/klopstock-der-tod-adams.xml,25457,25515,"– Welch ein Weinen schallt von den
+              Gebirgen!",negative,emotions of suffering,suffering
+453,GerDracor/klopstock-der-tod-adams.xml,25516,25562,Welch stumme Angst sinkt in die Thäler nieder!,negative,emotions of fear,fear
+454,GerDracor/klopstock-der-tod-adams.xml,25563,25771,"Der Vater hat seine Tochter,
+              die Mutter ihren Sohn, die Kinder haben ihre Mutter, die Wittwe, die Schwester den
+              Bruder, der Freund den Freund, der Bräutigam hat die Braut begraben!",negative,emotions of suffering,suffering
+455,GerDracor/klopstock-der-tod-adams.xml,25772,25879,"Kehrt eure Blicke
+              nicht von meinem Grabe, wenn ihr es seht, und flucht meinen Gebeinen nicht!",negative,emotions of suffering,suffering
+456,GerDracor/klopstock-der-tod-adams.xml,25880,25983,"Erbarmet
+              euch meiner, meine Kinder, wenn ihr mein Grab seht, oder wenn ihr an mich denkt!",negative,emotions of suffering,suffering
+457,GerDracor/klopstock-der-tod-adams.xml,25998,26047,Erbarmet euch meiner und flucht dem Todten nicht!,negative,emotions of affection,compassion
+458,GerDracor/klopstock-der-tod-adams.xml,26048,26082,– Sie werden sich meiner erbarmen!,positive,emotions of affection,compassion
+459,GerDracor/klopstock-der-tod-adams.xml,26097,26236,"Denn Gott, der Mensch werden wird, die Hoffnung, die Wonne, der Retter des
+              menschlichen Geschlechts hat sich meiner erbarmet!",positive,emotions of joy,joy
+460,GerDracor/klopstock-der-tod-adams.xml,26237,26387,"Sag' ihnen: Ohne ihn, der kommen
+              wird,  Er setzt sich bei seinem Grabe auf den Altar, wo dieser ein wenig eingesunken
+              ist.",negative,emotions of suffering,suffering
+461,GerDracor/klopstock-der-tod-adams.xml,26388,26418,Sein Haupt sinkt starrend hin.,negative,emotional movement,suffering
+462,GerDracor/klopstock-der-tod-adams.xml,26419,26423,Ach!,negative,emotions of suffering,suffering
+463,GerDracor/klopstock-der-tod-adams.xml,26424,26436,– stirbt er?,negative,emotions of suffering,fear
+464,GerDracor/klopstock-der-tod-adams.xml,26437,26442,Adam!,emotional movement,emotional movement,emotional movement
+465,GerDracor/klopstock-der-tod-adams.xml,26443,26454,mein Vater!,emotional movement,emotional movement,emotional movement
+466,GerDracor/klopstock-der-tod-adams.xml,26455,26466,mein Vater!,emotional movement,emotional movement,emotional movement
+467,GerDracor/klopstock-der-tod-adams.xml,26467,26502,"lebst
+              du, mein Vater?",negative,emotions of suffering,emotional movement
+468,GerDracor/klopstock-der-tod-adams.xml,26503,26512,Laß mich!,negative,emotional movement,emotional movement
+469,GerDracor/klopstock-der-tod-adams.xml,26513,26548,Es ist Linderung in der Todesangst.,positive,emotions of fear,fear
+470,GerDracor/klopstock-der-tod-adams.xml,26549,26610,"Es ist der letzte Schlummer, den ich
+              schlummre.",positive,emotions of suffering,suffering
+471,GerDracor/klopstock-der-tod-adams.xml,26611,26644,Wie schnell er eingeschlafen ist!,negative,emotions of suffering,emotional movement
+472,GerDracor/klopstock-der-tod-adams.xml,26645,26669,Wie sanft er schlummert!,positive,emotions of joy,suffering
+473,GerDracor/klopstock-der-tod-adams.xml,26670,26785,"Ich will sein heiliges
+              Haupt zudecken – Ach, ich will deinen Gebeinen nicht fluchen, du bester Vater!",negative,emotions of affection,suffering
+474,GerDracor/klopstock-der-tod-adams.xml,26786,26857,"– Ach,
+              so tief, so tief ist die Sonne herunter gestiegen!",negative,emotions of suffering,suffering
+475,GerDracor/klopstock-der-tod-adams.xml,26858,26888,– Wer kömmt dort in der Ferne?,emotional movement,emotions of fear,fear
+476,GerDracor/klopstock-der-tod-adams.xml,26889,27030,"Aber
+              unsre Mutter kömmt ja sonst niemals allein, sie kömmt immer mit ihren Kindern – Sie
+              ist es, sie ist es doch!",positive,emotions of affection,love
+477,GerDracor/klopstock-der-tod-adams.xml,27031,27112,"O mein Herz, mein belastetes Herz, was wirst dn nun noch
+              empfinden!",negative,emotions of suffering,suffering
+478,GerDracor/klopstock-der-tod-adams.xml,27113,27243,"Aber ich will weggehen und mich verbergen, daß ich mich fasse, daß ich ein
+              Mann sey und diese letzte Angst aushalte!",negative,emotions of fear,fear
+479,GerDracor/klopstock-der-tod-adams.xml,27244,27291,"Eva von einer, und Selima von der andern Seite.",emotional movement,emotions of affection,love
+480,GerDracor/klopstock-der-tod-adams.xml,27292,27333,"Ach, da kömmt meine unglückselige Mutter!",negative,emotions of suffering,compassion
+481,GerDracor/klopstock-der-tod-adams.xml,27334,27393,"Nein, ich kann ihren Anblick nicht
+              aushalten!",positive,emotions of affection,love
+482,GerDracor/klopstock-der-tod-adams.xml,27394,27419,Alles ist hier so einsam!,negative,emotions of suffering,suffering
+483,GerDracor/klopstock-der-tod-adams.xml,27420,27432,Wo ist Adam?,emotional movement,emotional movement,emotional movement
+484,GerDracor/klopstock-der-tod-adams.xml,27433,27445,Wo ist Seth?,emotional movement,emotional movement,emotional movement
+485,GerDracor/klopstock-der-tod-adams.xml,27446,27460,Wo ist Selima?,emotional movement,emotional movement,emotional movement
+486,GerDracor/klopstock-der-tod-adams.xml,27461,27599,"O, wo sind sie,
+              daß ich ihnen alle meine Freuden, daß ich ihnen die ganze Glückseligkeit dieses Tages
+              erzähle?",positive,emotions of joy,joy
+487,GerDracor/klopstock-der-tod-adams.xml,27600,27621,"Ach, ich Glückselige!",positive,emotions of joy,joy
+488,GerDracor/klopstock-der-tod-adams.xml,27622,27656,Ich Glückselige unter den Müttern!,positive,emotions of joy,joy
+489,GerDracor/klopstock-der-tod-adams.xml,27657,27662,Seth.,emotional movement,emotional movement,emotional movement
+490,GerDracor/klopstock-der-tod-adams.xml,27663,27667,Eva.,emotional movement,emotional movement,emotional movement
+491,GerDracor/klopstock-der-tod-adams.xml,27668,27686,ehe ihn Eva sieht.,negative,emotions of affection,love
+492,GerDracor/klopstock-der-tod-adams.xml,27687,27730,"Verstumme, du blutender Schmerz, verstumme!",negative,emotions of suffering,suffering
+493,GerDracor/klopstock-der-tod-adams.xml,27731,27805,"Helft mir ihren Anblick, helft mir den
+              aushalten, ihr Engel!",negative,emotions of affection,suffering
+494,GerDracor/klopstock-der-tod-adams.xml,27806,27830,Da kömmt mein Sohn Seth!,negative,emotional movement,joy
+495,GerDracor/klopstock-der-tod-adams.xml,27831,27891,"Mein Sohn Seth, ich bin die Glückseligste unter den Müttern!",positive,emotions of joy,joy
+496,GerDracor/klopstock-der-tod-adams.xml,27906,27918,Wo ist Adam?,emotional movement,emotional movement,emotional movement
+497,GerDracor/klopstock-der-tod-adams.xml,27919,27968,"Ach, ich bin die Glückseligste unter den Müttern!",positive,emotions of joy,joy
+498,GerDracor/klopstock-der-tod-adams.xml,27969,27996,"Adam schläft, meine Mutter.",negative,emotional movement,emotional movement
+499,GerDracor/klopstock-der-tod-adams.xml,27997,28007,Wo ist er?,emotional movement,emotional movement,emotional movement
+500,GerDracor/klopstock-der-tod-adams.xml,28008,28022,Wo schläft er?,emotional movement,emotional movement,emotional movement
+501,GerDracor/klopstock-der-tod-adams.xml,28023,28076,daß ich ihn aufwecke und ihm alle meine Freuden sage!,positive,emotions of joy,joy
+502,GerDracor/klopstock-der-tod-adams.xml,28077,28109,Er ist nur erst eingeschlummert.,negative,emotions of suffering,suffering
+503,GerDracor/klopstock-der-tod-adams.xml,28110,28138,Lass' ihn noch meine Mutter!,negative,emotions of rejection,fear
+504,GerDracor/klopstock-der-tod-adams.xml,28139,28168,"Laß mich hingehen, mein Sohn.",negative,emotions of affection,anger
+505,GerDracor/klopstock-der-tod-adams.xml,28169,28191,Ich muß ihn aufwecken!,negative,emotions of fear,emotional movement
+506,GerDracor/klopstock-der-tod-adams.xml,28192,28212,Ach ich Glückselige!,positive,emotions of joy,joy
+507,GerDracor/klopstock-der-tod-adams.xml,28213,28252,"Nein, thu' es noch nicht, meine Mutter.",negative,emotional movement,love
+508,GerDracor/klopstock-der-tod-adams.xml,28253,28296,"Er bittet dich, daß du ihn nicht aufweckst.",negative,emotions of suffering,anger
+509,GerDracor/klopstock-der-tod-adams.xml,28311,28331,Er hat mir's gesagt.,negative,emotions of rejection,anger
+510,GerDracor/klopstock-der-tod-adams.xml,28332,28398,Er wird in der Nähe so vieler Freuden nicht lange schlafen können.,positive,emotions of joy,joy
+511,GerDracor/klopstock-der-tod-adams.xml,28399,28447,"Er wird von sich
+              selbst aufwachen.",negative,emotions of suffering,emotional movement
+512,GerDracor/klopstock-der-tod-adams.xml,28448,28559,"Ach, mein Sohn Seth, ich habe den Knaben, deinen jüngsten Bruder,
+              ich habe Sunim wieder gefunden!",positive,emotions of joy,joy
+513,GerDracor/klopstock-der-tod-adams.xml,28560,28752,"Da er zu den Hütten seiner Brüder gehn wollte, hat er
+              sich in einer Einöde diese lange traurige Zeit verloren und ist wunderbar erhalten,
+              wunderbar errettet worden!",positive,emotions of joy,joy
+514,GerDracor/klopstock-der-tod-adams.xml,28753,28806,Doch er soll Dieß alles seinem Vater selbst erzählen.,negative,emotions of rejection,anger
+515,GerDracor/klopstock-der-tod-adams.xml,28807,28927,"O,
+              wie wird ihm sein Herz schlagen, dem armen Sunim, daß er noch nicht bei seinem Vater
+              ist!",negative,emotions of suffering,compassion
+516,GerDracor/klopstock-der-tod-adams.xml,28928,28962,Aber ich hab' ihn zurück gehalten.,negative,emotions of suffering,emotional movement
+517,GerDracor/klopstock-der-tod-adams.xml,28963,28993,Er kömmt mit den drei Müttern.,negative,emotional movement,suffering
+518,GerDracor/klopstock-der-tod-adams.xml,28994,29141,"Ich wollt' es
+              Adam erst sagen, damit ihn die Freude nicht zu sehr bewegte, wenn er den Knaben auf
+              Einmal vor sich sähe!",positive,emotions of joy,joy
+519,GerDracor/klopstock-der-tod-adams.xml,29142,29167,Er kömmt mit den Müttern.,negative,emotions of rejection,suffering
+520,GerDracor/klopstock-der-tod-adams.xml,29168,29204,Die führen drei vollblühende Knaben.,positive,emotions of affection,admiration
+521,GerDracor/klopstock-der-tod-adams.xml,29219,29346,"Und zu allen diesen Freuden kömmt noch diese, daß ich heut meinen Heman und meine
+              Selima in die Brautlaube führe.",positive,emotions of joy,joy
+522,GerDracor/klopstock-der-tod-adams.xml,29347,29451,"Das dachtet ihr nicht, meine Kinder, daß euch Sunim
+              die hochzeitliche Fackel tragen würde!",positive,emotions of joy,joy
+523,GerDracor/klopstock-der-tod-adams.xml,29452,29473,O du geliebte Mutter!,positive,emotions of affection,love
+524,GerDracor/klopstock-der-tod-adams.xml,29474,29518,"Warum siehst du mich so ernst an, mein Sohn?",emotional movement,emotional movement,emotional movement
+525,GerDracor/klopstock-der-tod-adams.xml,29519,29573,"Freuest du dich nicht mit deiner
+              Mutter?",positive,emotions of joy,joy
+526,GerDracor/klopstock-der-tod-adams.xml,29574,29619,So viel Freuden auf Einmal machen mich ernst!,positive,emotions of joy,joy
+527,GerDracor/klopstock-der-tod-adams.xml,29620,29657,Ich sehe die Mütter von ferne kommen!,negative,emotions of fear,emotional movement
+528,GerDracor/klopstock-der-tod-adams.xml,29658,29690,Ich muß gehn und Adam aufwecken.,negative,emotions of fear,emotional movement
+529,GerDracor/klopstock-der-tod-adams.xml,29691,29752,"der die Hände zusammenschlägt und gen Himmel sieht, vor sich.",negative,emotions of fear,emotional movement
+530,GerDracor/klopstock-der-tod-adams.xml,29753,29779,O du unglückselige Mutter!,negative,emotions of suffering,compassion
+531,GerDracor/klopstock-der-tod-adams.xml,29781,29788,Zu Eva.,emotional movement,emotional movement,emotional movement
+532,GerDracor/klopstock-der-tod-adams.xml,29789,29832,"Wo ist er denn, mein Sohn, wenn er schläft?",emotional movement,emotional movement,emotional movement
+533,GerDracor/klopstock-der-tod-adams.xml,29833,29845,Beim Altare.,positive,emotions of affection,suffering
+534,GerDracor/klopstock-der-tod-adams.xml,29846,29871,Beim Altare schläft Adam?,negative,emotional movement,emotional movement
+535,GerDracor/klopstock-der-tod-adams.xml,29872,29908,Er hat sich dort ein Lager bereitet.,negative,emotions of rejection,fear
+536,GerDracor/klopstock-der-tod-adams.xml,29909,29941,Dort will er nun immer schlafen.,negative,emotions of joy,anger
+537,GerDracor/klopstock-der-tod-adams.xml,29942,29946,Eva.,emotional movement,emotional movement,emotional movement
+538,GerDracor/klopstock-der-tod-adams.xml,29947,29952,Adam.,emotional movement,emotional movement,emotional movement
+539,GerDracor/klopstock-der-tod-adams.xml,29953,29958,Seth.,emotional movement,emotional movement,emotional movement
+540,GerDracor/klopstock-der-tod-adams.xml,29959,29999,die den Teppich vor dem Altare aufzieht.,positive,emotions of affection,emotional movement
+541,GerDracor/klopstock-der-tod-adams.xml,30000,30058,"Ach, Das ist seine unüberwindliche Traurigkeit wegen Abel!",negative,emotions of suffering,suffering
+542,GerDracor/klopstock-der-tod-adams.xml,30059,30118,"Warum hat er sein Antlitz
+              bedeckt, mein Sohn?",negative,emotions of suffering,emotional movement
+543,GerDracor/klopstock-der-tod-adams.xml,30119,30149,Was habt ihr dort aufgegraben?,emotional movement,emotions of rejection,emotional movement
+544,GerDracor/klopstock-der-tod-adams.xml,30150,30202,"Hat Adam seines Sohns Gebeine
+              gesucht?",emotional movement,emotional movement,emotional movement
+545,GerDracor/klopstock-der-tod-adams.xml,30203,30250,"Ach, der Schmerz um Abel wird Adam noch tödten!",negative,emotions of suffering,suffering
+546,GerDracor/klopstock-der-tod-adams.xml,30251,30275,Du antwortest mir nicht?,negative,emotional movement,emotional movement
+547,GerDracor/klopstock-der-tod-adams.xml,30276,30306,"Es ist ein Grab, meine Mutter!",negative,emotions of suffering,suffering
+548,GerDracor/klopstock-der-tod-adams.xml,30307,30332,Verbergt mir die Gebeine!,negative,emotions of rejection,fear
+549,GerDracor/klopstock-der-tod-adams.xml,30333,30371,Zeigt mir meines Sohnes Gebeine nicht.,negative,emotions of suffering,compassion
+550,GerDracor/klopstock-der-tod-adams.xml,30372,30433,"Mein Herz würde mir
+              brechen, wenn ich sie sähe.",negative,emotions of suffering,suffering
+551,GerDracor/klopstock-der-tod-adams.xml,30434,30458,Wir haben keine Gebeine.,negative,emotions of fear,suffering
+552,GerDracor/klopstock-der-tod-adams.xml,30459,30495,So sind auch sie zu Staube geworden?,negative,emotions of fear,"hate, disgust"
+553,GerDracor/klopstock-der-tod-adams.xml,30496,30568,"– Seth, mein Sohn Seth, dein Vater schläft sehr
+              ängstlich.",negative,emotions of fear,fear
+554,GerDracor/klopstock-der-tod-adams.xml,30569,30585,Und diese Hände!,negative,emotions of suffering,"hate, disgust"
+555,GerDracor/klopstock-der-tod-adams.xml,30586,30617,"O Himmel, diese bleichen Hände!",negative,emotions of suffering,compassion
+556,GerDracor/klopstock-der-tod-adams.xml,30618,30664,"der von der einen Seite zurückkömmt, vor sich.",emotional movement,emotions of suffering,suffering
+557,GerDracor/klopstock-der-tod-adams.xml,30665,30683,So dicht am Walde!,negative,emotions of fear,suffering
+558,GerDracor/klopstock-der-tod-adams.xml,30685,30692,Zu Eva.,emotional movement,emotional movement,emotional movement
+559,GerDracor/klopstock-der-tod-adams.xml,30693,30710,Er verhüllt sich.,negative,emotions of fear,emotional movement
+560,GerDracor/klopstock-der-tod-adams.xml,30711,30751,Eva sinkt an die andre Seite des Altars.,negative,emotions of suffering,suffering
+561,GerDracor/klopstock-der-tod-adams.xml,30752,30782,der erwacht und sich aufdeckt.,negative,emotions of suffering,emotional movement
+562,GerDracor/klopstock-der-tod-adams.xml,30783,30825,Das ist ein ängstlicher Schlummer gewesen!,negative,emotions of fear,fear
+563,GerDracor/klopstock-der-tod-adams.xml,30826,30885,"Du, in dieser Ruhestatt, du wirst süßer
+              seyn!",positive,emotions of joy,love
+564,GerDracor/klopstock-der-tod-adams.xml,30886,30925,"– Hast du Selima zu mir gebracht, Seth?",emotional movement,emotional movement,emotional movement
+565,GerDracor/klopstock-der-tod-adams.xml,30926,30960,"Sey nicht so sehr gebeugt, Selima!",negative,emotions of suffering,suffering
+566,GerDracor/klopstock-der-tod-adams.xml,30961,31026,"deine
+              Mutter, deine liebevolle Mutter lebt ja noch!",positive,emotions of affection,love
+567,GerDracor/klopstock-der-tod-adams.xml,31027,31130,"Ich bin – ach, wenn du diese gebrochne Stimme noch kennst, o Adam – ich bin nicht
+              Selima!",negative,emotional movement,suffering
+568,GerDracor/klopstock-der-tod-adams.xml,31131,31153,"O Tod, den ich sterbe!",negative,emotions of suffering,despair
+569,GerDracor/klopstock-der-tod-adams.xml,31154,31176,der Adams Knie umfaßt.,negative,emotions of affection,admiration
+570,GerDracor/klopstock-der-tod-adams.xml,31177,31200,"Mein Vater, stirbst du?",negative,emotions of fear,fear
+571,GerDracor/klopstock-der-tod-adams.xml,31201,31222,Stürzte der Fels ein?,emotional movement,emotions of fear,fear
+572,GerDracor/klopstock-der-tod-adams.xml,31223,31249,Der Fels stürzt nicht ein.,negative,emotions of fear,fear
+573,GerDracor/klopstock-der-tod-adams.xml,31250,31274,"Leite mich zu ihm, Sohn!",positive,emotions of affection,friendship
+574,GerDracor/klopstock-der-tod-adams.xml,31275,31302,"– Kennst du mich nun, Adam?",positive,emotional movement,emotional movement
+575,GerDracor/klopstock-der-tod-adams.xml,31303,31371,"Ich würde dich nicht ganz kennen, wenn ich deine Stimme nicht hörte.",positive,emotions of affection,love
+576,GerDracor/klopstock-der-tod-adams.xml,31372,31435,Nannte denn der Todesengel meinen Namen nicht mit deinem Namen?,emotional movement,emotional movement,love
+577,GerDracor/klopstock-der-tod-adams.xml,31436,31486,"Ach, soll ich nicht
+              mit dir sterben?",negative,emotions of fear,despair
+578,GerDracor/klopstock-der-tod-adams.xml,31487,31580,"Das war immer meine Zuflucht in meinen trüben Stunden,  O du Geliebteste unter den Geliebten!",positive,emotions of affection,love
+579,GerDracor/klopstock-der-tod-adams.xml,31581,31661,"Noch theurer, noch geliebter an diesem dunkeln
+              entsetzlichen Tage!",positive,emotions of affection,love
+580,GerDracor/klopstock-der-tod-adams.xml,31662,31666,Eva!,emotional movement,emotional movement,emotional movement
+581,GerDracor/klopstock-der-tod-adams.xml,31667,31684,Du Mitgeschaffne!,negative,emotions of suffering,joy
+582,GerDracor/klopstock-der-tod-adams.xml,31685,31700,"Eva, meine Eva!",positive,emotional movement,emotional movement
+583,GerDracor/klopstock-der-tod-adams.xml,31701,31779,"(sehn kann mein Auge nicht
+              mehr, aber es kann doch noch weinen!)",negative,emotions of suffering,suffering
+584,GerDracor/klopstock-der-tod-adams.xml,31780,31797,Lass' ab von mir!,negative,emotions of rejection,anger
+585,GerDracor/klopstock-der-tod-adams.xml,31798,31870,"Er ist noch mehr Tod, der Tod,
+              wenn ich deine Stimme höre!",negative,emotions of fear,despair
+586,GerDracor/klopstock-der-tod-adams.xml,31871,31880,vor sich.,negative,emotions of suffering,suffering
+587,GerDracor/klopstock-der-tod-adams.xml,31881,31914,"O Himmel, die Mütter kommen auch!",negative,emotions of suffering,emotional movement
+588,GerDracor/klopstock-der-tod-adams.xml,31915,31942,Was für Fußtritte hör' ich?,negative,emotions of rejection,anger
+589,GerDracor/klopstock-der-tod-adams.xml,31943,31977,Es sind die drei Mütter und Heman.,positive,emotional movement,love
+590,GerDracor/klopstock-der-tod-adams.xml,31978,32083,"Die drei Mütter mit ihren Söhnen, und Sunim von einer, Selima und Heman von der
+            andern Seite.",negative,emotional movement,suffering
+591,GerDracor/klopstock-der-tod-adams.xml,32084,32105,Nun will ich mitgehn.,positive,emotions of joy,joy
+592,GerDracor/klopstock-der-tod-adams.xml,32106,32135,Nun will ich auch hineingehn!,positive,emotions of joy,Schadenfreude
+593,GerDracor/klopstock-der-tod-adams.xml,32136,32172,"Ich will auch mitgehn, meine Selima!",positive,emotions of joy,joy
+594,GerDracor/klopstock-der-tod-adams.xml,32173,32191,"Ach, meine Selima!",negative,emotions of suffering,compassion
+595,GerDracor/klopstock-der-tod-adams.xml,32192,32242,"Nein, ich kann's noch nicht
+              glauben!",positive,emotions of joy,joy
+596,GerDracor/klopstock-der-tod-adams.xml,32243,32255,"Komm, Sunim!",positive,emotions of joy,joy
+597,GerDracor/klopstock-der-tod-adams.xml,32256,32269,Was seh' ich!,emotional movement,emotional movement,emotional movement
+598,GerDracor/klopstock-der-tod-adams.xml,32270,32290,Ist Das unser Vater?,emotional movement,emotions of fear,emotional movement
+599,GerDracor/klopstock-der-tod-adams.xml,32291,32320,"Geh zu ihnen, mein Sohn Seth.",positive,emotions of affection,love
+600,GerDracor/klopstock-der-tod-adams.xml,32321,32372,"Schaut mich nicht an, sonst verstumme ich vor euch!",negative,emotions of rejection,despair
+601,GerDracor/klopstock-der-tod-adams.xml,32374,32517,"Es ist schon lange her, daß ich diese Todesangst fühle, die euch sagen muß: Ehe die
+              Sonne die Cedern hinunter ist, stirbt – Adam!",negative,emotions of fear,fear
+602,GerDracor/klopstock-der-tod-adams.xml,32518,32549,Er hat einen Todesengel gesehn.,negative,emotions of fear,despair
+603,GerDracor/klopstock-der-tod-adams.xml,32550,32581,"Der
+              kömmt wieder.",negative,emotions of rejection,anger
+604,GerDracor/klopstock-der-tod-adams.xml,32582,32635,"Wenn der Fels an der Hütte einstürzt, dann ist er da.",negative,emotions of suffering,fear
+605,GerDracor/klopstock-der-tod-adams.xml,32636,32653,Dann stirbt Adam!,negative,emotions of fear,despair
+606,GerDracor/klopstock-der-tod-adams.xml,32668,32687,Hier ist sein Grab!,negative,emotions of fear,suffering
+607,GerDracor/klopstock-der-tod-adams.xml,32688,32744,"– O, wendet euch und schaut nach seinem Grabe nicht hin!",negative,emotions of suffering,suffering
+608,GerDracor/klopstock-der-tod-adams.xml,32745,32854,"Was ist Das für eine Stimme unter den Stimmen der Weinenden, der ich mich nicht genug
+              erinnere!",negative,emotions of suffering,suffering
+609,GerDracor/klopstock-der-tod-adams.xml,32855,32885,Das ist keine von den Müttern!,negative,emotions of rejection,"hate, disgust"
+610,GerDracor/klopstock-der-tod-adams.xml,32886,32950,"Das ist auch nicht die Stimme Selimas oder
+              Hemans.",emotional movement,emotions of rejection,love
+611,GerDracor/klopstock-der-tod-adams.xml,32951,33010,"So freue dich denn noch einmal in deinem Leben, mein Vater!",positive,emotions of joy,joy
+612,GerDracor/klopstock-der-tod-adams.xml,33011,33032,Es ist Sunims Stimme.,positive,emotional movement,love
+613,GerDracor/klopstock-der-tod-adams.xml,33033,33091,"Sie
+              haben deinen Sohn Sunim wieder gefunden.",positive,emotions of joy,joy
+614,GerDracor/klopstock-der-tod-adams.xml,33092,33233,"Will mich mein Sohn Seth in meinem Tode täuschen, der mich in meinem Leben nie
+              getäuscht hat, damit ich mich noch einmal freue?",positive,emotions of joy,joy
+615,GerDracor/klopstock-der-tod-adams.xml,33234,33297,"Wisse, Sohn, für mich ist hier keine
+              Freude mehr!",negative,emotions of joy,suffering
+616,GerDracor/klopstock-der-tod-adams.xml,33298,33309,Mein Vater!,emotional movement,emotional movement,emotional movement
+617,GerDracor/klopstock-der-tod-adams.xml,33310,33372,"– – Aber – warum redet Sunim nicht, daß ich seine Stimme höre?",emotional movement,emotional movement,emotional movement
+618,GerDracor/klopstock-der-tod-adams.xml,33373,33409,Der Knabe ist vor Schmerz verstummt.,negative,emotions of suffering,suffering
+619,GerDracor/klopstock-der-tod-adams.xml,33410,33519,"So führ' ihn denn her zu mir, daß ich seine starken Locken, daß ich die Wange des
+              Knaben fühle.",positive,emotions of affection,love
+620,GerDracor/klopstock-der-tod-adams.xml,33520,33532,Hier ist er.,positive,emotions of joy,joy
+621,GerDracor/klopstock-der-tod-adams.xml,33533,33564,"zu Sunim, der sein Knie umfaßt.",negative,emotions of affection,admiration
+622,GerDracor/klopstock-der-tod-adams.xml,33565,33576,Du bist es!,positive,emotions of joy,joy
+623,GerDracor/klopstock-der-tod-adams.xml,33577,33613,"Du bist es, du bist mein Sohn Sunim!",positive,emotions of joy,joy
+624,GerDracor/klopstock-der-tod-adams.xml,33614,33628,Ich bin Sunim!,positive,emotions of joy,joy
+625,GerDracor/klopstock-der-tod-adams.xml,33629,33663,"– Geh zu deiner Mutter, mein Sohn!",negative,emotions of fear,fear
+626,GerDracor/klopstock-der-tod-adams.xml,33664,33682,Sunim geht zu Eva.,emotional movement,emotional movement,love
+627,GerDracor/klopstock-der-tod-adams.xml,33683,33710,Gehe zu deinem Bruder Seth!,positive,emotions of rejection,love
+628,GerDracor/klopstock-der-tod-adams.xml,33711,33742,"Ach, du hast keine Mutter mehr!",negative,emotions of suffering,suffering
+629,GerDracor/klopstock-der-tod-adams.xml,33743,33768,Sunim lehnt sich an Seth.,emotional movement,emotional movement,emotional movement
+630,GerDracor/klopstock-der-tod-adams.xml,33769,33817,"O du Todesurtheil, das über sie gesprochen ward!",negative,emotions of suffering,compassion
+631,GerDracor/klopstock-der-tod-adams.xml,33818,33852,"– – – Richte dich auf, mein Sunim!",positive,emotions of joy,suffering
+632,GerDracor/klopstock-der-tod-adams.xml,33867,33876,Laß mich!,negative,emotional movement,emotional movement
+633,GerDracor/klopstock-der-tod-adams.xml,33877,33908,Ich komme eilend zu dir zurück.,negative,emotions of fear,fear
+634,GerDracor/klopstock-der-tod-adams.xml,33910,33928,Da er zurückkommt.,negative,emotions of suffering,emotional movement
+635,GerDracor/klopstock-der-tod-adams.xml,33929,33949,Sie steigt hinunter?,negative,emotional movement,emotional movement
+636,GerDracor/klopstock-der-tod-adams.xml,33950,33990,"– Komm, komm', o Tod, so komm denn, Tod!",negative,emotions of fear,despair
+637,GerDracor/klopstock-der-tod-adams.xml,33991,34048,"– Ich kann euch nicht
+              segnen, meine Kinder.",negative,emotions of affection,suffering
+638,GerDracor/klopstock-der-tod-adams.xml,34049,34085,"Der euch geschaffen hat, segne euch!",positive,emotions of affection,love
+639,GerDracor/klopstock-der-tod-adams.xml,34086,34151,"Ich kann euch nicht segnen:
+              der Fluch ruht auf mir.",negative,emotions of rejection,"hate, disgust"
+640,GerDracor/klopstock-der-tod-adams.xml,34152,34173,Gib uns deinen Segen!,positive,emotions of affection,friendship
+641,GerDracor/klopstock-der-tod-adams.xml,34174,34195,Gib uns deinen Segen!,positive,emotions of affection,friendship
+642,GerDracor/klopstock-der-tod-adams.xml,34196,34222,– – Ich habe keinen Segen!,negative,emotions of rejection,suffering
+643,GerDracor/klopstock-der-tod-adams.xml,34223,34235,–  Vor sich.,negative,emotions of suffering,emotional movement
+644,GerDracor/klopstock-der-tod-adams.xml,34236,34257,der gen Himmel sieht.,positive,emotions of fear,despair
+645,GerDracor/klopstock-der-tod-adams.xml,34258,34381,"Wenn diese gerungenen Hände, wenn dieß Herz, das mit seinem Herzen bricht – – Ist Seth, ist mein Sohn Seth so nahe bei mir?",emotional movement,emotions of suffering,emotional movement
+646,GerDracor/klopstock-der-tod-adams.xml,34382,34411,"Ich hörte deine Stimme, Seth.",emotional movement,emotions of affection,love
+647,GerDracor/klopstock-der-tod-adams.xml,34412,34462,"Ach, ich
+              habe so sanft geschlummert.",negative,emotions of suffering,suffering
+648,GerDracor/klopstock-der-tod-adams.xml,34463,34487,"O ihr Engel, er lächelt!",positive,emotions of joy,joy
+649,GerDracor/klopstock-der-tod-adams.xml,34488,34503,"– Kommt, kommt!",positive,emotions of fear,joy
+650,GerDracor/klopstock-der-tod-adams.xml,34504,34515,"Komm', Eva!",negative,emotional movement,fear
+651,GerDracor/klopstock-der-tod-adams.xml,34516,34540,"komm', Heman und Selima!",positive,emotions of joy,joy
+652,GerDracor/klopstock-der-tod-adams.xml,34541,34569,"und
+              Sunim, du!",positive,emotions of rejection,despair
+653,GerDracor/klopstock-der-tod-adams.xml,34570,34588,"Kommt, ihr Mütter!",negative,emotions of joy,joy
+654,GerDracor/klopstock-der-tod-adams.xml,34589,34624,laßt uns sein letztes Lächeln sehn!,positive,emotions of joy,joy
+655,GerDracor/klopstock-der-tod-adams.xml,34625,34644,Wir sind Alle hier.,positive,emotions of joy,joy
+656,GerDracor/klopstock-der-tod-adams.xml,34659,34681,"Segne uns, mein Vater!",positive,emotions of affection,love
+657,GerDracor/klopstock-der-tod-adams.xml,34682,34706,"Kommt her, meine Kinder!",positive,emotions of joy,joy
+658,GerDracor/klopstock-der-tod-adams.xml,34707,34804,"Wo bist du, Seth, daß ich meine Rechte auf dich lege, auf
+              dich, Heman, meine Linke.",positive,emotions of rejection,emotional movement
+659,GerDracor/klopstock-der-tod-adams.xml,34805,34851,"Selima neige sich an Heman, und Sunim an Seth.",positive,emotions of suffering,suffering
+660,GerDracor/klopstock-der-tod-adams.xml,34852,34914,"Kommt, ihr
+              Mütter, und führt mir eure Söhne her.",positive,emotions of joy,joy
+661,GerDracor/klopstock-der-tod-adams.xml,34915,34945,Eva segne ihre Kinder mit mir!,positive,emotions of affection,love
+662,GerDracor/klopstock-der-tod-adams.xml,34946,34963,Sie knien um ihn.,negative,emotions of affection,suffering
+663,GerDracor/klopstock-der-tod-adams.xml,34964,34999,indem sie zuletzt auch niederkniet.,negative,emotions of suffering,admiration
+664,GerDracor/klopstock-der-tod-adams.xml,35000,35031,"Du mußt mich auch segnen, Adam!",positive,emotions of affection,love
+665,GerDracor/klopstock-der-tod-adams.xml,35032,35057,Ich soll Eva auch segnen?,positive,emotions of affection,emotional movement
+666,GerDracor/klopstock-der-tod-adams.xml,35058,35104,Da hast du meinen Segen: Komm mir eilend nach!,positive,emotions of joy,joy
+667,GerDracor/klopstock-der-tod-adams.xml,35105,35179,"Du wurdest
+              bald nach mir geschaffen, du Mutter der Menschen!",positive,emotions of rejection,"hate, disgust"
+668,GerDracor/klopstock-der-tod-adams.xml,35180,35211,So müssest du nach mir sterben!,negative,emotions of rejection,"hate, disgust"
+669,GerDracor/klopstock-der-tod-adams.xml,35212,35245,"Hier
+              ist mein Grab!",negative,emotions of fear,suffering
+670,GerDracor/klopstock-der-tod-adams.xml,35246,35300,"Das waren Worte eines Engels, die du sprachst, o Adam!",positive,emotions of affection,admiration
+671,GerDracor/klopstock-der-tod-adams.xml,35301,35456,"Das ist mein Segen, meine Kinder, Das ist mein Segen, mit dem ich die Enkel eurer
+              Enkel, mit dem ich das ganze Geschlecht der Menschen segne.",positive,emotions of affection,joy
+672,GerDracor/klopstock-der-tod-adams.xml,35457,35765,"– Der Gott eures Vaters,
+              der Staub zum Menschen emporgehoben und ihm eine unsterbliche Seele eingehaucht hat,
+              dessen Erscheinungen ich gesehen habe, der mich gesegnet und gerichtet Indem er diese letztern Worte spricht, wird ein dumpfes Geräusch in der Ferne
+              gehört.",negative,emotions of suffering,admiration
+673,GerDracor/klopstock-der-tod-adams.xml,35766,35791,der ängstlich aufspringt.,negative,emotions of fear,fear
+674,GerDracor/klopstock-der-tod-adams.xml,35792,35818,Hört ihr die Felsen beben?,emotional movement,emotions of fear,emotional movement
+675,GerDracor/klopstock-der-tod-adams.xml,35819,35824,Adam!,emotional movement,emotional movement,emotional movement
+676,GerDracor/klopstock-der-tod-adams.xml,35825,35854,Sie beben immer näher herauf!,negative,emotions of fear,suffering
+677,GerDracor/klopstock-der-tod-adams.xml,35855,35872,Richter der Welt!,negative,emotions of rejection,"hate, disgust"
+678,GerDracor/klopstock-der-tod-adams.xml,35873,35883,ich komme!,negative,emotions of fear,joy
+679,GerDracor/klopstock-der-tod-adams.xml,35885,35919,Indem der Fels krachend einstürzt.,negative,emotions of fear,suffering
