@@ -46,7 +46,7 @@ Some information regarding the classification results:
 
 ## Metadata
 
-Metadata about the plays used for the classification process. Plays can be identified via the file attribute. 
+Metadata about the plays used for the classification process. Plays can be identified via the file attribute. The metadata was acquired during the corpus preparation process of the project.
 
 Some information regarding the metadata:
 <ul>
