@@ -34,6 +34,7 @@ The annotation folder contains the final annotations of 18 plays according to ou
       <li>Please refer to <a href="https://doi.org/10.5281/zenodo.6228152">Dennerlein, Schmidt and Wolff (2022c)</a> for explanations of annotation data, processes and German/English translations.</li>
       <li>Main annotation attributes are: tag_type (sub-emotions), main_emotion_class, base_polarity (positive, negative, being moved, eventually no annotation)</li>
       <li>Annotations of different annotators are seperable via the annotator attribute and consist of 2-letter-abbreviations (e.g. VH, LS)</li>
+      <li>The annotations were performed under guidance by the following students: Carlina Eizenberger, Viola Hippler, Nadine Kastenhofer, Julia Jäger, Emma Russ, Leon Sautter, Lisa Schattmann.</li>
     </ul>
 
 ## Classification_Model
