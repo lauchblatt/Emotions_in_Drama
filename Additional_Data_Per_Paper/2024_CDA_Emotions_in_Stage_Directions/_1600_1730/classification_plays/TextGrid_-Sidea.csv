@@ -1,0 +1,1714 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+0,0,TextGrid/-Sidea.xml,"
+                                 Kompt Jahn Molitor, ist sehr staubig von Meel, lacht vnd sagt.",0,96,stage_direction,1,0,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+1,1,TextGrid/-Sidea.xml,"
+                                 Rollus, der Baur, geht mit Ela, seiner Tochter, ein, die tregt ein eingewickelts Kind.",0,120,stage_direction,1,0,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2,2,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+3,3,TextGrid/-Sidea.xml,"
+                                    Sie da, El!",0,48,character_speech,1,0,,ROLLUS,ROLLUS,1.0,UNKNOWN,abhorrence,negative,emotions of rejection
+4,4,TextGrid/-Sidea.xml,"dort steht der vnflat,
+                                    Dem wölln wir dein Kind heim tragen
+                                    Vnd, das er dich bhalt, zu jhm sagen.",49,217,character_speech,1,0,,ROLLUS,ROLLUS,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+5,5,TextGrid/-Sidea.xml,"Thut ers nit, so verklag ich jhn.",254,287,character_speech,1,0,,ROLLUS,ROLLUS,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+6,6,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+7,7,TextGrid/-Sidea.xml,O laß vns nur balt zu jhm hin!,0,30,character_speech,1,0,,ELA,ELA,2.0,UNKNOWN,love,positive,emotions of affection
+8,8,TextGrid/-Sidea.xml,"
+                                    Sie gehn zu Jahn Molitor.",0,62,stage_direction,1,0,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+9,9,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+10,10,TextGrid/-Sidea.xml,"
+                                    Ey, Müller, da find wir euch recht.",0,72,character_speech,1,0,,ROLLUS,ROLLUS,3.0,UNKNOWN,joy,positive,emotions of pleasure
+11,11,TextGrid/-Sidea.xml,"Weil jhr mir habt mein Tochter gschwecht,
+                                    Die mit euch hat tragen ein Kindt,
+                                    So müst jhr euch erkleren gschwindt,
+                                    Ob jhr s' wolt wider zu ehrn bringen.",109,368,character_speech,1,0,,ROLLUS,ROLLUS,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+12,12,TextGrid/-Sidea.xml,"
+                                    kratzt sich im kopff vnd sagt.",0,67,stage_direction,1,0,speech_part,,,4.0,UNKNOWN,anger,negative,emotions of rejection
+13,13,TextGrid/-Sidea.xml,"
+                                    Ir sagt mir von seltzamen dingen,
+                                    Ich sol eur Tochter bringen zu ehrn.",0,143,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+14,14,TextGrid/-Sidea.xml,"Der gleichen Kunst thet ich nie lehrn,
+                                    Dann an ehrn mir selbst mangeln thut.",180,292,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+15,15,TextGrid/-Sidea.xml,"Ist eur Tochter gut, so bleib s' gut.",329,366,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+16,16,TextGrid/-Sidea.xml,Ich bin des Kindes Vatter nicht.,403,435,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,4.0,UNKNOWN,being moved,being moved,being moved
+17,17,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+18,18,TextGrid/-Sidea.xml,"
+                                    Ja, du Schelm!",0,51,character_speech,1,0,,ROLLUS,ROLLUS,5.0,UNKNOWN,anger,negative,emotions of rejection
+19,19,TextGrid/-Sidea.xml,"du hast jhrs zugricht,
+                                    Wil ich bey meinem Eyd erhalten.",52,143,character_speech,1,0,,ROLLUS,ROLLUS,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+20,20,TextGrid/-Sidea.xml,"
+                                    lacht, deut auff den Bauern vnd sagt.",0,74,stage_direction,1,0,speech_part,,,6.0,UNKNOWN,joy,positive,emotions of pleasure
+21,21,TextGrid/-Sidea.xml,"
+                                    Schau einer den leichtfertigen Altn!",0,73,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,6.0,UNKNOWN,anger,negative,emotions of rejection
+22,22,TextGrid/-Sidea.xml,"Der schwert da für die Tochter sein
+                                    Vnd glaubt, was sie jhm bildet ein,
+                                    Vnd er hats weder ghört noch gsehen.",110,290,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+23,23,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+24,24,TextGrid/-Sidea.xml,"
+                                    Nein, es ist dennoch also gschehen
+                                    Vnd du laugnest so hart darfür.",0,139,character_speech,1,0,,ELA,ELA,7.0,UNKNOWN,anger,negative,emotions of rejection
+25,25,TextGrid/-Sidea.xml,Das Kind hab ich allein von dir.,176,208,character_speech,1,0,,ELA,ELA,7.0,UNKNOWN,love,positive,emotions of affection
+26,26,TextGrid/-Sidea.xml,Schaus nur!,245,256,character_speech,1,0,,ELA,ELA,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+27,27,TextGrid/-Sidea.xml,es ist ein schöns Söhnlein.,257,284,character_speech,1,0,,ELA,ELA,7.0,UNKNOWN,joy,positive,emotions of pleasure
+28,28,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+29,29,TextGrid/-Sidea.xml,"
+                                    Ists schön, so solts ein Mäidlein sein,
+                                    So gried es seiner Mutter nach.",0,144,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+30,30,TextGrid/-Sidea.xml,Gebt mir ein bedacht heint den tag!,181,216,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,joy,positive,emotions of pleasure
+31,31,TextGrid/-Sidea.xml,Als dann so will ich mich erklern.,253,287,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+32,32,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+33,33,TextGrid/-Sidea.xml,Ey gut!,0,7,character_speech,1,0,,ROLLUS,ROLLUS,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+34,34,TextGrid/-Sidea.xml,das wöll wir thun gar gern.,8,35,character_speech,1,0,,ROLLUS,ROLLUS,9.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+35,35,TextGrid/-Sidea.xml,"
+                                    Sie gehn ein wenig auff die seiten, reden zusammen in die Ohrn.",0,100,stage_direction,1,0,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+36,36,TextGrid/-Sidea.xml,Jahn lacht.,101,112,stage_direction,1,0,speech_part,,,9.0,UNKNOWN,joy,positive,emotions of pleasure
+37,37,TextGrid/-Sidea.xml,"So kompt Dietrich mit Agnes, seiner Tochter, die tregt auch ein Kind.",113,182,stage_direction,1,0,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+38,38,TextGrid/-Sidea.xml,"
+                                    geht zu jhm vnd sagt zornig.",0,65,stage_direction,1,0,speech_part,,,10.0,UNKNOWN,anger,negative,emotions of rejection
+39,39,TextGrid/-Sidea.xml,"Find ich dich hie, du ehrlicher Mann?",0,37,character_speech,1,0,,DIETRICH,DIETRICH,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+40,40,TextGrid/-Sidea.xml,"
+                                    erschrickt, kratzt sich im kopff vnd sagt.",0,79,stage_direction,1,0,speech_part,,,11.0,UNKNOWN,fear,negative,emotions of anxiety
+41,41,TextGrid/-Sidea.xml,"Ja, was hab ich dann dir gethan?",0,32,character_speech,1,0,,JAHN,JAHN,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+42,42,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+43,43,TextGrid/-Sidea.xml,"
+                                    Mein Tochter hast mir zschanden gmacht.",0,76,character_speech,1,0,,DIETRICH,DIETRICH,12.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+44,44,TextGrid/-Sidea.xml,Da hab wir dir das Kind gebracht.,113,146,character_speech,1,0,,DIETRICH,DIETRICH,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+45,45,TextGrid/-Sidea.xml,Das wird dir zu ziehen gebürn.,183,213,character_speech,1,0,,DIETRICH,DIETRICH,12.0,UNKNOWN,anger,negative,emotions of rejection
+46,46,TextGrid/-Sidea.xml,"Auch so mustu gen Kirchen führn
+                                    Mein Tochter, bhalten zu der Eh.",250,350,character_speech,1,0,,DIETRICH,DIETRICH,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+47,47,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+48,48,TextGrid/-Sidea.xml,"
+                                    Deiner Tochter ich keins Kinds gsteh,
+                                    So hab ich sie auch nit genommen.",0,144,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,13.0,UNKNOWN,love,positive,emotions of affection
+49,49,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+50,50,TextGrid/-Sidea.xml,"
+                                    Lestus für die Obrigkeit kommen,
+                                    So wirst wol sehen, was du gwinst.",0,140,character_speech,1,0,,DIETRICH,DIETRICH,14.0,UNKNOWN,anger,negative,emotions of rejection
+51,51,TextGrid/-Sidea.xml,"Du must ins gfengknus auffs aller minst
+                                    Vnd dennoch bhalten die Tochter mein.",177,290,character_speech,1,0,,DIETRICH,DIETRICH,14.0,UNKNOWN,love,positive,emotions of affection
+52,52,TextGrid/-Sidea.xml,"Ich will dir ein guter Schwer sein
+                                    Vnd hundert gulden geben darzu.",327,429,character_speech,1,0,,DIETRICH,DIETRICH,14.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+53,53,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+54,54,TextGrid/-Sidea.xml,"
+                                    Hundert gultn vnd wolt mir flicken die Schu,
+                                    Das ich euch nichts darff lohnen darfür.",0,158,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,15.0,UNKNOWN,anger,negative,emotions of rejection
+55,55,TextGrid/-Sidea.xml,"Ein Weib ist not zu nemen mir,
+                                    Dann ichs mit meinen Mäid vnd Knechten
+                                    Nicht als kan erstreitten vnd fechten.",195,375,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,15.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+56,56,TextGrid/-Sidea.xml,Aber verziecht ein weil hier innen!,412,447,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+57,57,TextGrid/-Sidea.xml,Ich muß mich vor darauff besinnen.,484,518,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+58,58,TextGrid/-Sidea.xml,"
+                                    Er geht abwerts, wo der Rollus mit seiner Tochter steht.",0,93,stage_direction,1,0,speech_part,,,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+59,59,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+60,60,TextGrid/-Sidea.xml,"
+                                    Hört!",0,42,character_speech,1,0,,JAHN,JAHN,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+61,61,TextGrid/-Sidea.xml,"was wolt jhr mir geben darzu,
+                                    Wann ich eur Tochter nemen thu
+                                    Zu eim ehrlichen HeüratGut?",43,203,character_speech,1,0,,JAHN,JAHN,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+62,62,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+63,63,TextGrid/-Sidea.xml,"
+                                    Wann jhr mein Tochter nemen thut,
+                                    Gib ich euch hundert galten mit jhr.",0,143,character_speech,1,0,,ROLLUS,ROLLUS,17.0,UNKNOWN,love,positive,emotions of affection
+64,64,TextGrid/-Sidea.xml,"
+                                    deut auff den Schuster vnd sagt.",0,69,stage_direction,1,0,speech_part,,,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+65,65,TextGrid/-Sidea.xml,"
+                                    O der beut hundert Thaler mir
+                                    Vnd hat mir noch verheissen darzu,
+                                    Vmb sunst zu nicken all mein Schu,
+                                    Vnd ist sein Tochtr schöner, als die.",0,282,character_speech,1,0,,JAHN,JAHN,18.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+66,66,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+67,67,TextGrid/-Sidea.xml,"
+                                    Wiltu zu Kirchen führen sie,
+                                    So gib ich dir ein guten zaler
+                                    Zu jhr anderthalb hundert Tahler
+                                    Vnd führ dir vmb sunst auß dein mist.",0,275,character_speech,1,0,,ROLLUS,ROLLUS,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+68,68,TextGrid/-Sidea.xml,"
+                                    schmutzt vnd sagt.",0,55,stage_direction,1,0,speech_part,,,20.0,UNKNOWN,abhorrence,negative,emotions of rejection
+69,69,TextGrid/-Sidea.xml,"
+                                    Das alles dennoch gut mit ist.",0,67,character_speech,1,0,,JAHN,JAHN,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+70,70,TextGrid/-Sidea.xml,Verziecht!,145,155,character_speech,1,0,,JAHN,JAHN,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+71,71,TextGrid/-Sidea.xml,ich muß nur etwas fragen.,156,181,character_speech,1,0,,JAHN,JAHN,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+72,72,TextGrid/-Sidea.xml,Ich will euch balt gut antwort sagen.,218,255,character_speech,1,0,,JAHN,JAHN,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+73,73,TextGrid/-Sidea.xml,"
+                                    lacht vnd sagt.",0,52,stage_direction,1,0,speech_part,,,21.0,UNKNOWN,joy,positive,emotions of pleasure
+74,74,TextGrid/-Sidea.xml,"
+                                    Wann sie nicht wölln höcher nauff,
+                                    So wird auß dem gebot kein kauff.",0,141,character_speech,1,0,,JAHN,JAHN,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+75,75,TextGrid/-Sidea.xml,"
+                                    Er geht zu dem Schuster vnd sagt.",0,70,stage_direction,1,0,speech_part,,,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+76,76,TextGrid/-Sidea.xml,"
+                                    Hört jhr, mein Meister Dietrich!",0,69,character_speech,1,0,,JAHN,JAHN,21.0,UNKNOWN,joy,positive,emotions of pleasure
+77,77,TextGrid/-Sidea.xml,"Fürwar, eur Tochter ist nicht für mich.",106,145,character_speech,1,0,,JAHN,JAHN,21.0,UNKNOWN,love,positive,emotions of affection
+78,78,TextGrid/-Sidea.xml,"Ihr gebt jhr zu weng HeüratGut
+                                    Der Rollus mir anbieten thut
+                                    Zwey hundert Thaler, das jhrs wist,
+                                    Vnd will mir auß führn all mein mist,
+                                    So lang ich vnd er thut leben.",182,490,character_speech,1,0,,JAHN,JAHN,21.0,UNKNOWN,anger,negative,emotions of rejection
+79,79,TextGrid/-Sidea.xml,"
+                                    verwundert sich vnd sagt.",0,62,stage_direction,1,0,speech_part,,,22.0,UNKNOWN,being moved,being moved,being moved
+80,80,TextGrid/-Sidea.xml,"
+                                    Zwey hundert Gultn wil ich dir geben.",0,74,character_speech,1,0,,DIETRICH,DIETRICH,22.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+81,81,TextGrid/-Sidea.xml,"Ich meint, ich thet der sach genug.",111,146,character_speech,1,0,,DIETRICH,DIETRICH,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+82,82,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+83,83,TextGrid/-Sidea.xml,"
+                                    So habt noch ein kleinen verzug!",0,69,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+84,84,TextGrid/-Sidea.xml,Ich wils gehn dem Rollus abschlagen.,106,142,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+85,85,TextGrid/-Sidea.xml,"
+                                    Die zwey, der Schuster vnd sein Tochter, stosen die köpff zusammen; er geht zum Rollo vnd sagt.",0,132,stage_direction,1,0,speech_part,,,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+86,86,TextGrid/-Sidea.xml,"
+                                    Hört!",0,42,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+87,87,TextGrid/-Sidea.xml,"mit eim wort wil ichs euch sagen:
+                                    Er will zwey hundert Thaler geben
+                                    Vnd mein Schu flicken, weil wir leben.",43,221,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,23.0,UNKNOWN,anger,negative,emotions of rejection
+88,88,TextGrid/-Sidea.xml,"Nun ist sein Tochtr ein BurgersKind,
+                                    Die ehrlicher, als die Baurn, sind.",258,366,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,23.0,UNKNOWN,joy,positive,emotions of pleasure
+89,89,TextGrid/-Sidea.xml,Darumb wil ich dieselben nemen.,403,434,character_speech,1,0,,JAHN MOLITOR,JAHN MOLITOR,23.0,UNKNOWN,love,positive,emotions of affection
+90,90,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+91,91,TextGrid/-Sidea.xml,"
+                                    Ey, ich wolt mich in mein hertz schemen,
+                                    Das ich nit so gut, als er, wer.",0,146,character_speech,1,0,,ROLLUS,ROLLUS,24.0,UNKNOWN,love,positive,emotions of affection
+92,92,TextGrid/-Sidea.xml,"Vil mag dir wol verheisen er;
+                                    Nicht weiß ich, wie er zahln wür.",183,282,character_speech,1,0,,ROLLUS,ROLLUS,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+93,93,TextGrid/-Sidea.xml,"Iedoch so will ich geben dir
+                                    Zwey hundert Thaler, wie vor gemelt.",319,420,character_speech,1,0,,ROLLUS,ROLLUS,24.0,UNKNOWN,anger,negative,emotions of rejection
+94,94,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+95,95,TextGrid/-Sidea.xml,"
+                                    Zwey hundert Thaler ist vil gelt.",0,70,character_speech,1,0,,JAHN,JAHN,25.0,UNKNOWN,joy,positive,emotions of pleasure
+96,96,TextGrid/-Sidea.xml,"Nun hab ich zu bedencken frey,
+                                    Welche mir die nutzlichste sey.",107,205,character_speech,1,0,,JAHN,JAHN,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+97,97,TextGrid/-Sidea.xml,"
+                                    Er geht wegk, vnd eh er zum Schuster kompt, sagt er.",0,89,stage_direction,1,0,speech_part,,,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+98,98,TextGrid/-Sidea.xml,"
+                                    Ich mag ebn der Hurn keine nit.",0,68,character_speech,1,0,,JAHN,JAHN,25.0,UNKNOWN,abhorrence,negative,emotions of rejection
+99,99,TextGrid/-Sidea.xml,"Ietzt wil ich machen ein vnfrid,
+                                    Das die zwen sollen vneins wern,
+                                    Vnd weil sie an einander bern,
+                                    Die weil so treh ich mich davon.",105,342,character_speech,1,0,,JAHN,JAHN,25.0,UNKNOWN,fear,negative,emotions of anxiety
+100,100,TextGrid/-Sidea.xml,"
+                                    Er geht zum Dietrich vnd sagt.",0,67,stage_direction,1,0,speech_part,,,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+101,101,TextGrid/-Sidea.xml,"
+                                    Was sol ich mit deiner Tochter than?",0,73,character_speech,1,0,,JAHN,JAHN,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+102,102,TextGrid/-Sidea.xml,"Rollus sagt vnverholn vnd frey,
+                                    Das sie doch nur dein Hurnkind sey
+                                    Vnd du seist auch nit Ehlich geborn.",110,285,character_speech,1,0,,JAHN,JAHN,25.0,UNKNOWN,abhorrence,negative,emotions of rejection
+103,103,TextGrid/-Sidea.xml,"
+                                    sagt zornig.",0,49,stage_direction,1,0,speech_part,,,26.0,UNKNOWN,anger,negative,emotions of rejection
+104,104,TextGrid/-Sidea.xml,"
+                                    Des sey dem schelm ein Eyd geschworn,
+                                    Wolt er solchs ding von vns außgeben,
+                                    Es müst jhn kosten leib vnd leben.",0,219,character_speech,1,0,,DIETRICH,DIETRICH,26.0,UNKNOWN,abhorrence,negative,emotions of rejection
+105,105,TextGrid/-Sidea.xml,Ich will jhm sein Leib Himlblau schlagen.,256,297,character_speech,1,0,,DIETRICH,DIETRICH,26.0,UNKNOWN,abhorrence,negative,emotions of rejection
+106,106,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+107,107,TextGrid/-Sidea.xml,Verzeich!,0,9,character_speech,1,0,,JAHN,JAHN,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+108,108,TextGrid/-Sidea.xml,ich wil jhn vor recht fragen.,10,39,character_speech,1,0,,JAHN,JAHN,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+109,109,TextGrid/-Sidea.xml,"
+                                    Er geht zum Rollus vnd sagt.",0,65,stage_direction,1,0,speech_part,,,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+110,110,TextGrid/-Sidea.xml,"
+                                    Rollus, dein Tochter ich nit mag.",0,70,character_speech,1,0,,JAHN,JAHN,27.0,UNKNOWN,abhorrence,negative,emotions of rejection
+111,111,TextGrid/-Sidea.xml,Geh!,107,111,character_speech,1,0,,JAHN,JAHN,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+112,112,TextGrid/-Sidea.xml,"hör, was Dietrich von dir sag,
+                                    Du seist ein schelm, solst gedencken,
+                                    Man thet dir dein Vatter erhencken,
+                                    Auch hab man dir ein Bruder gricht.",112,360,character_speech,1,0,,JAHN,JAHN,27.0,UNKNOWN,anger,negative,emotions of rejection
+113,113,TextGrid/-Sidea.xml,"
+                                    laufft zum Schuster vnd sagt.",0,66,stage_direction,1,0,speech_part,,,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+114,114,TextGrid/-Sidea.xml,"
+                                    Du leugst, wie ein schelm vnd bößwicht.",0,76,character_speech,1,0,,ROLLUS,ROLLUS,28.0,UNKNOWN,anger,negative,emotions of rejection
+115,115,TextGrid/-Sidea.xml,Ey schweig!,113,124,character_speech,1,0,,ROLLUS,ROLLUS,28.0,UNKNOWN,anger,negative,emotions of rejection
+116,116,TextGrid/-Sidea.xml,ich wil dich lernen lügen.,125,151,character_speech,1,0,,ROLLUS,ROLLUS,28.0,UNKNOWN,anger,negative,emotions of rejection
+117,117,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+118,118,TextGrid/-Sidea.xml,Komb her!,0,9,character_speech,1,0,,DIETRICH,DIETRICH,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+119,119,TextGrid/-Sidea.xml,du solst deins Manns wol kriegen.,10,43,character_speech,1,0,,DIETRICH,DIETRICH,29.0,UNKNOWN,anger,negative,emotions of rejection
+120,120,TextGrid/-Sidea.xml,"
+                                    Sie schlagen einander.",0,59,stage_direction,1,0,speech_part,,,29.0,UNKNOWN,anger,negative,emotions of rejection
+121,121,TextGrid/-Sidea.xml,"Jahn lacht, schlegt die hend zusammen 
+vnd laufft ab; sie schlagen auch einander ab.",60,144,stage_direction,1,0,speech_part,,,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+122,122,TextGrid/-Sidea.xml,"Leudegast, der Fürst in der Wiltau mit Francisco vnnd Elemao, seinen zweyen Rähten, vnd seinem Sohn Engelbrecht (sein, auser deß Fürsten, wie Jäger staffirt) geht ein vnd sagt.",145,321,stage_direction,1,0,speech_part,,,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+123,123,TextGrid/-Sidea.xml,"
+                                    Weil jhr je nauß wolt auff das Jagen,
+                                    So wil ichs euch mit treuen sagen,
+                                    Das jhr gebt auff einander acht.",0,214,character_speech,1,0,,DIETRICH,DIETRICH,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+124,124,TextGrid/-Sidea.xml,"Ir wist, das der Feind stettigs wacht,
+                                    Solt der euch Wehrloß im Walt finden
+                                    Oder mit Waffen überwinden,
+                                    So leget er euch an groß leidt.",251,494,character_speech,1,0,,DIETRICH,DIETRICH,29.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+125,125,TextGrid/-Sidea.xml,"Darumb brauchet bescheidenheit
+                                    Vnd halt zusammen alle sander!",531,628,character_speech,1,0,,DIETRICH,DIETRICH,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+126,126,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+127,127,TextGrid/-Sidea.xml,"
+                                    Wir lassen gar nicht von einander.",0,71,character_speech,1,0,,ENGELBRECHT,ENGELBRECHT,30.0,UNKNOWN,love,positive,emotions of affection
+128,128,TextGrid/-Sidea.xml,"Hett sich einer verriten schon,
+                                    So kan er durch der hörner thon
+                                    Leichtlich auß der jrr werden bracht.",108,281,character_speech,1,0,,ENGELBRECHT,ENGELBRECHT,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+129,129,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+130,130,TextGrid/-Sidea.xml,"
+                                    Deß Ludolffs gwalt ich wenig acht.",0,71,character_speech,1,0,,FRANCISCUS,FRANCISCUS,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+131,131,TextGrid/-Sidea.xml,"Der hat kein Leut vnd Land nicht mehr,
+                                    Das man auff jhn darff sehen sehr.",108,217,character_speech,1,0,,FRANCISCUS,FRANCISCUS,31.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+132,132,TextGrid/-Sidea.xml,"Zu dem wer weiß, wo er vmb zeucht,
+                                    Vor vns in fleder Meußwinckl kreucht!",254,362,character_speech,1,0,,FRANCISCUS,FRANCISCUS,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+133,133,TextGrid/-Sidea.xml,Er setzt sich gwißlich daher nicht.,399,434,character_speech,1,0,,FRANCISCUS,FRANCISCUS,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+134,134,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+135,135,TextGrid/-Sidea.xml,"
+                                    Er kompt vns nimmermehr zu gsicht.",0,71,character_speech,1,0,,ELEMAUS,ELEMAUS,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+136,136,TextGrid/-Sidea.xml,Seinthalb hat es kein mangel nit.,108,141,character_speech,1,0,,ELEMAUS,ELEMAUS,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+137,137,TextGrid/-Sidea.xml,"LEUDEGAST, DER FÜRST sagt.",178,204,character_speech,1,0,,ELEMAUS,ELEMAUS,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+138,138,TextGrid/-Sidea.xml,"Nun wol, so ziehet hin in frid!",278,309,character_speech,1,0,,ELEMAUS,ELEMAUS,32.0,UNKNOWN,joy,positive,emotions of pleasure
+139,139,TextGrid/-Sidea.xml,Der Hirsch ist jetzund in der feist.,346,382,character_speech,1,0,,ELEMAUS,ELEMAUS,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+140,140,TextGrid/-Sidea.xml,"Secht, das jhr jhn abbruch beweist!",419,454,character_speech,1,0,,ELEMAUS,ELEMAUS,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+141,141,TextGrid/-Sidea.xml,"
+                                    Sie gehn alle ab.",0,54,stage_direction,1,0,speech_part,,,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+142,142,TextGrid/-Sidea.xml,"Kompt Ludolff mit Sidea, hat ein weissen stab.",55,101,stage_direction,1,0,speech_part,,,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+143,143,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+144,144,TextGrid/-Sidea.xml,"
+                                    Mein geist thet mir heint offenbarn,
+                                    
+                                       
+Das in dem Walt auffs gejäid wöll fahrn
+                                    Deß Hertzogen Sohn Engelbrecht.",0,258,character_speech,1,0,,LUDOLFF,LUDOLFF,33.0,UNKNOWN,love,positive,emotions of affection
+145,145,TextGrid/-Sidea.xml,Der soll mir kommen eben recht.,295,326,character_speech,1,0,,LUDOLFF,LUDOLFF,33.0,UNKNOWN,joy,positive,emotions of pleasure
+146,146,TextGrid/-Sidea.xml,"Den wil ich in dem Walt außspürn,
+                                    Fangen vnd der maß tribulirn,
+                                    Der gleichen keim zu vor ist gschehen,",363,537,character_speech,1,0,,LUDOLFF,LUDOLFF,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+147,147,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+148,148,TextGrid/-Sidea.xml,"
+                                    Fürwar das wolt ich gern sehen.",0,68,character_speech,1,0,,SIDEA,SIDEA,34.0,UNKNOWN,joy,positive,emotions of pleasure
+149,149,TextGrid/-Sidea.xml,"Wann wir den Vogel kriegen theten,
+                                    Als dann wir gute hoffnung betten,
+                                    Wider zu bringen in die hend
+                                    Das gantz Fürstliche Regiment,
+                                    Vnd woltn jhn weidlich Rancionirn.",105,413,character_speech,1,0,,SIDEA,SIDEA,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+150,150,TextGrid/-Sidea.xml,"Vnd wolt er das leben nicht verlirn,
+                                    Müst er vns wider setzen ein.",450,552,character_speech,1,0,,SIDEA,SIDEA,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+151,151,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+152,152,TextGrid/-Sidea.xml,"
+                                    Schweig nur!",0,49,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,anger,negative,emotions of rejection
+153,153,TextGrid/-Sidea.xml,"es sol sich schicken fein,
+                                    Dann ich wil mich kurtz an jhm rechen
+                                    Oder mich vnd dich selbst erstechen.",50,223,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+154,154,TextGrid/-Sidea.xml,"
+                                    Er laufft mit der Tochter gantz traurig ab.",0,80,stage_direction,1,0,speech_part,,,35.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+155,155,TextGrid/-Sidea.xml,"Kompt Engelbrecht mit seinem Famulo, schreien erstlich im eingang.",81,147,stage_direction,1,0,speech_part,,,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+156,156,TextGrid/-Sidea.xml,Holla!,0,6,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,being moved,being moved,being moved
+157,157,TextGrid/-Sidea.xml,holla!,7,13,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,anger,negative,emotions of rejection
+158,158,TextGrid/-Sidea.xml,holla!,14,20,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,anger,negative,emotions of rejection
+159,159,TextGrid/-Sidea.xml,"
+                                    Als dann sie auffziehen, sagt Engelbrecht.",0,79,stage_direction,1,0,speech_part,,,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+160,160,TextGrid/-Sidea.xml,"
+                                    Wir sind weit kommen von der Strassen.",0,75,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+161,161,TextGrid/-Sidea.xml,"Wir schreyen oder die Hörrner blasen,
+                                    So gibt man vns doch kein antwort
+                                    Schau, schau!",112,269,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+162,162,TextGrid/-Sidea.xml,was gehn für Leut nur dort?,270,297,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,being moved,being moved,being moved
+163,163,TextGrid/-Sidea.xml,Sie lauffen warlich auff vns zu.,334,366,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+164,164,TextGrid/-Sidea.xml,Darumb dich wol fürsehen thu!,403,432,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+165,165,TextGrid/-Sidea.xml,"
+                                    Sie greiffen zu den Rappirn.",0,65,stage_direction,1,0,speech_part,,,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+166,166,TextGrid/-Sidea.xml,"Kompt Ludolff, der Fürst, mit der Sidea, hat in der ein hand ein blose Wehr, in der andern ein weisen stab vnd sagt.",66,182,stage_direction,1,0,speech_part,,,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+167,167,TextGrid/-Sidea.xml,"Du Junger Fürst, balt gib dich gfangen!",0,39,character_speech,1,0,,LUDOLFF,LUDOLFF,35.0,UNKNOWN,joy,positive,emotions of pleasure
+168,168,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+169,169,TextGrid/-Sidea.xml,"
+                                    
+                                       
+Den Raub wirstu heut nicht erlangen.",0,114,character_speech,1,0,,ENGELBRECHT,ENGELBRECHT,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+170,170,TextGrid/-Sidea.xml,"Famule, stoß durch jhn die Klingen!",151,186,character_speech,1,0,,ENGELBRECHT,ENGELBRECHT,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+171,171,TextGrid/-Sidea.xml,"
+                                    Sie wollen vom Leder ziehen.",0,65,stage_direction,1,0,speech_part,,,36.0,UNKNOWN,anger,negative,emotions of rejection
+172,172,TextGrid/-Sidea.xml,Ludolff schlegt mit dem stab auff die Wehr.,66,109,stage_direction,1,0,speech_part,,,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+173,173,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+174,174,TextGrid/-Sidea.xml,"
+                                    Mein Wehr kan ich nicht herauß bringen.",0,76,character_speech,1,0,,FAMULUS,FAMULUS,37.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+175,175,TextGrid/-Sidea.xml,"Ich glaub, das sie bezaubert sey.",113,146,character_speech,1,0,,FAMULUS,FAMULUS,37.0,UNKNOWN,being moved,being moved,being moved
+176,176,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+177,177,TextGrid/-Sidea.xml,"
+                                    Ja, es ist lauter Zauberey.",0,64,character_speech,1,0,,ENGELBRECHT,ENGELBRECHT,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+178,178,TextGrid/-Sidea.xml,"Ich bin erlembt an beyden henden,
+                                    Kan mich nicht wol rucken vnd wenden.",101,208,character_speech,1,0,,ENGELBRECHT,ENGELBRECHT,38.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+179,179,TextGrid/-Sidea.xml,"Derhalb, weils nit kan anderst sein,
+                                    So muß ich sein der gfangen dein
+                                    Vnd dißmals deines willens geleben.",245,422,character_speech,1,0,,ENGELBRECHT,ENGELBRECHT,38.0,UNKNOWN,love,positive,emotions of affection
+180,180,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,39.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+181,181,TextGrid/-Sidea.xml,"
+                                    So thu mir deß dein treu balt geben,
+                                    Du lecker!",0,120,character_speech,1,0,,LUDOLFF,LUDOLFF,39.0,UNKNOWN,abhorrence,negative,emotions of rejection
+182,182,TextGrid/-Sidea.xml,aber balt troll dich wegk!,121,147,character_speech,1,0,,LUDOLFF,LUDOLFF,39.0,UNKNOWN,anger,negative,emotions of rejection
+183,183,TextGrid/-Sidea.xml,"Oder ich tritt dich in den dreck
+                                    Vnd hau dir alle viere ab,
+                                    Das ich vor dir zu bleiben hab
+                                    Vnd das dich fressen Krahen vnd Raben.",184,421,character_speech,1,0,,LUDOLFF,LUDOLFF,39.0,UNKNOWN,anger,negative,emotions of rejection
+184,184,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,40.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+185,185,TextGrid/-Sidea.xml,"
+                                    Ach weh!",0,45,character_speech,1,0,,FAMULUS,FAMULUS,40.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+186,186,TextGrid/-Sidea.xml,ein böse Jagt wir haben.,46,70,character_speech,1,0,,FAMULUS,FAMULUS,40.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+187,187,TextGrid/-Sidea.xml,"Gnediger Fürst, in grosem Leid
+                                    Ich zu dem mal von euch abscheid.",107,207,character_speech,1,0,,FAMULUS,FAMULUS,40.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+188,188,TextGrid/-Sidea.xml,"
+                                    Famulus geht ab.",0,53,stage_direction,1,0,speech_part,,,40.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+189,189,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,1,0,speech_part,,,41.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+190,190,TextGrid/-Sidea.xml,"
+                                    Ietzt bistu mein Leibeygner Knecht.",0,72,character_speech,1,0,,LUDOLFF,LUDOLFF,41.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+191,191,TextGrid/-Sidea.xml,"Wie mich dein Vatter wider recht
+                                    Hat getrieben von Leut vnd Land
+                                    Vnd auffgethan groß schmach vnd schand,
+                                    Also solstu geschieden sein
+                                    Von jhm vnd gantzer Landschafft dein,
+                                    Solst meiner Tochter Holtz tragen
+                                    Vnd alles, was sie dir thut sagen,
+                                    Solstu verrichten vnd volbringen.",109,634,character_speech,1,0,,LUDOLFF,LUDOLFF,41.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+192,192,TextGrid/-Sidea.xml,"Darzu solls dich mit schlegen zwingen
+                                    
+                                       
+Vnd, wo sie klagsweis bringt für mich,
+                                    Das du wolst etwas weigern dich.",671,893,character_speech,1,0,,LUDOLFF,LUDOLFF,41.0,UNKNOWN,anger,negative,emotions of rejection
+193,193,TextGrid/-Sidea.xml,Als balt wil dich erschlagen ich.,930,963,character_speech,1,0,,LUDOLFF,LUDOLFF,41.0,UNKNOWN,abhorrence,negative,emotions of rejection
+194,194,TextGrid/-Sidea.xml,"
+                                    Er stöst jhn zum abgang, schlegt jhn mit dem stab auff die Lend, also auch die Tochter, vnd gehn alle ab.",0,142,stage_direction,1,0,speech_part,,,41.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+195,195,TextGrid/-Sidea.xml,"
+                                 Kommen Dietrich vnd Rollus mit eim grosen geschrey geloffen.",0,94,stage_direction,2,0,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+196,196,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+197,197,TextGrid/-Sidea.xml,"
+                                    Nun hör auff, wenns anderst ist gnug!",0,74,character_speech,2,0,,ROLLUS,ROLLUS,1.0,UNKNOWN,anger,negative,emotions of rejection
+198,198,TextGrid/-Sidea.xml,"Kein Mensch mich mein tag also schlug
+                                    Vnd ich hab dir kein Leid gethan.",111,218,character_speech,2,0,,ROLLUS,ROLLUS,1.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+199,199,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+200,200,TextGrid/-Sidea.xml,"
+                                    Bin ich ein HurnKind, so zeig an,
+                                    Vnd von wem du es hast vernommen!",0,140,character_speech,2,0,,DIETRICH,DIETRICH,2.0,UNKNOWN,anger,negative,emotions of rejection
+201,201,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+202,202,TextGrid/-Sidea.xml,"
+                                    Es ist mir auß meim maul nie kommen.",0,73,character_speech,2,0,,ROLLUS,ROLLUS,3.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+203,203,TextGrid/-Sidea.xml,"Der Müller aber sagen thet,
+                                    Ein Schelmen jhr mich gschmehet hett
+                                    Vnd man hett mein Vatter ghangen,
+                                    Also wers auch meim Bruder gangen.",110,351,character_speech,2,0,,ROLLUS,ROLLUS,3.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+204,204,TextGrid/-Sidea.xml,Das selbig wolt auß führen ich.,388,419,character_speech,2,0,,ROLLUS,ROLLUS,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+205,205,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+206,206,TextGrid/-Sidea.xml,"
+                                    Ich hab kein schelm gscholten dich.",0,72,character_speech,2,0,,DIETRICH,DIETRICH,4.0,UNKNOWN,anger,negative,emotions of rejection
+207,207,TextGrid/-Sidea.xml,"So ist mir auch nie ingedencken
+                                    Von deins Vatters vnd Bruders hencken,
+                                    Wie ich dann kein wort weiß davon.",109,286,character_speech,2,0,,DIETRICH,DIETRICH,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+208,208,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+209,209,TextGrid/-Sidea.xml,"
+                                    So hat vns also ghetzet an
+                                    Der Müller; dem wöll wirs nit schencken,
+                                    Den schelm selber lasen hencken.",0,209,character_speech,2,0,,ROLLUS,ROLLUS,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+210,210,TextGrid/-Sidea.xml,"Wir wollen jhn vor dem Schultheiß verklagen
+                                    Vnd nicht mehr dencken an das schlagen,
+                                    Weil wir darzu seind worden ghetzt.",246,437,character_speech,2,0,,ROLLUS,ROLLUS,5.0,UNKNOWN,anger,negative,emotions of rejection
+211,211,TextGrid/-Sidea.xml,Es sol an jhm auß gehn zu letzt.,474,506,character_speech,2,0,,ROLLUS,ROLLUS,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+212,212,TextGrid/-Sidea.xml,"
+                                    
+                                       
+Sie lauffen ab, kommen zur andern seiten wider rein.",0,130,stage_direction,2,0,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+213,213,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+214,214,TextGrid/-Sidea.xml,Der schelm bat sich gedrehet auß.,0,33,character_speech,2,0,,DIETRICH,DIETRICH,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+215,215,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+216,216,TextGrid/-Sidea.xml,"
+                                    Ja, er ist je nit in seim Hauß.",0,68,character_speech,2,0,,ROLLUS,ROLLUS,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+217,217,TextGrid/-Sidea.xml,"Iedoch so laß ich gar nit ab,
+                                    Biß ich den Hudler gfunden hab.",105,202,character_speech,2,0,,ROLLUS,ROLLUS,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+218,218,TextGrid/-Sidea.xml,"
+                                    Kommt Jahn, hat sich wie ein alt Weib verkleid, geht an einem Krücklein.",0,109,stage_direction,2,0,speech_part,,,7.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+219,219,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+220,220,TextGrid/-Sidea.xml,"
+                                    Mein liebe alte, thu mir verjehen!",0,71,character_speech,2,0,,DIETRICH,DIETRICH,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+221,221,TextGrid/-Sidea.xml,Hastu nit den Jahn Müller gsehen?,108,141,character_speech,2,0,,DIETRICH,DIETRICH,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+222,222,TextGrid/-Sidea.xml,"
+                                    in einer alten Frauen gstalt sagt klein.",0,77,stage_direction,2,0,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+223,223,TextGrid/-Sidea.xml,"
+                                    Jahn Müller?",0,49,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,9.0,UNKNOWN,being moved,being moved,being moved
+224,224,TextGrid/-Sidea.xml,was soll ich jhn gsehn han?,50,77,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+225,225,TextGrid/-Sidea.xml,Was Teuffls hab ich mit jhm zu than?,114,150,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,9.0,UNKNOWN,being moved,being moved,being moved
+226,226,TextGrid/-Sidea.xml,"Fragt ander Leut, die wissen drum!",187,221,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+227,227,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+228,228,TextGrid/-Sidea.xml,"
+                                    Ey liebe alte Mutter, kum!",0,63,character_speech,2,0,,ROLLUS,ROLLUS,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+229,229,TextGrid/-Sidea.xml,"Ich kenn ein wol, den will ich fragen.",100,138,character_speech,2,0,,ROLLUS,ROLLUS,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+230,230,TextGrid/-Sidea.xml,Was gelts?,175,185,character_speech,2,0,,ROLLUS,ROLLUS,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+231,231,TextGrid/-Sidea.xml,er wirdts vns gar balt sagen.,186,215,character_speech,2,0,,ROLLUS,ROLLUS,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+232,232,TextGrid/-Sidea.xml,"
+                                    in gestalt einer alten Frauen sagt.",0,72,stage_direction,2,0,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+233,233,TextGrid/-Sidea.xml,"
+                                    Ja, wenn er das kan, so ists viel.",0,71,character_speech,2,0,,JAHN,JAHN,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+234,234,TextGrid/-Sidea.xml,Derhalb ich auch mit euch gehn wil.,108,143,character_speech,2,0,,JAHN,JAHN,11.0,UNKNOWN,friendship,positive,emotions of affection
+235,235,TextGrid/-Sidea.xml,"
+                                    Sie gehn alle ab.",0,54,stage_direction,2,0,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+236,236,TextGrid/-Sidea.xml,"Kompt Leudegast, der Fürst, mit Francisco vnd Elemaus, setzt sich vnd sagt.",55,130,stage_direction,2,0,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+237,237,TextGrid/-Sidea.xml,"
+                                    Es kombt mir zwar gar seltzam für,
+                                    Das allein zu hauß kommet jhr
+                                    Vnd last mir auß mein liehen Sohn,
+                                    Den ich euch hoch befohlen han,
+                                    Das jhr ja sollet bey jhm bleiben.",0,347,character_speech,2,0,,JAHN,JAHN,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+238,238,TextGrid/-Sidea.xml,"Last vns an alle örtter schreiben,
+                                    Das ich erforsch, wo er hin kum!",384,487,character_speech,2,0,,JAHN,JAHN,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+239,239,TextGrid/-Sidea.xml,Dann jhr brecht mich sunst mit jhm vmb.,524,563,character_speech,2,0,,JAHN,JAHN,11.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+240,240,TextGrid/-Sidea.xml,Das wer mir ein traurigs gejäid.,600,632,character_speech,2,0,,JAHN,JAHN,11.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+241,241,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+242,242,TextGrid/-Sidea.xml,"
+                                    
+                                       
+Es ist vns gar ein treulichs Leid,
+                                    Das er so von vns kommen soll.",0,179,character_speech,2,0,,FRANCISCUS,FRANCISCUS,12.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+243,243,TextGrid/-Sidea.xml,"Ein Hirschen hett wir im gestell,
+                                    Den wolt der junge Fürst selbst bürschen
+                                    Vnd wird verlorn mit sambt dem Hirschen.",216,403,character_speech,2,0,,FRANCISCUS,FRANCISCUS,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+244,244,TextGrid/-Sidea.xml,"Dem macht wir nach ein Jägergschrey,
+                                    Bliesen vnser Hörner dabey,
+                                    Vermeinten, er solt wider kehrn.",440,609,character_speech,2,0,,FRANCISCUS,FRANCISCUS,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+245,245,TextGrid/-Sidea.xml,So kond wir jhn nicht sehen noch hörn.,646,684,character_speech,2,0,,FRANCISCUS,FRANCISCUS,12.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+246,246,TextGrid/-Sidea.xml,"Doch seind wir nicht verzaget gar,
+                                    Weil wir wusten, das bey jhm war
+                                    Sein LeibJung, der geht da herein.",721,895,character_speech,2,0,,FRANCISCUS,FRANCISCUS,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+247,247,TextGrid/-Sidea.xml,"
+                                    Famulus geht ein.",0,54,stage_direction,2,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+248,248,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+249,249,TextGrid/-Sidea.xml,"
+                                    Wo lestu dann den Sohne mein?",0,66,character_speech,2,0,,DER FÜRST,DER FÜRST,13.0,UNKNOWN,being moved,being moved,being moved
+250,250,TextGrid/-Sidea.xml,Wie hats euch auff der Jagt ergangen?,103,140,character_speech,2,0,,DER FÜRST,DER FÜRST,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+251,251,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+252,252,TextGrid/-Sidea.xml,"
+                                    Ach weh!",0,45,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+253,253,TextGrid/-Sidea.xml,der jung Herr ist gefangen.,46,73,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+254,254,TextGrid/-Sidea.xml,"Als er nach Jaget einem Hirschen,
+                                    Den er wolt auß seim gschoß erbürschen,
+                                    Hat sich derselbig Hirsch verlorn
+                                    Vnd sind wir in dem Walt jrr worn,
+                                    Weder Hund noch Jäger hörn kunden.",110,431,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+255,255,TextGrid/-Sidea.xml,"Als wir gleich in gedancken stunden,
+                                    Stieß vns ein Weib auff vnd ein Mann,
+                                    Der selbig grieff vns kecklich an,
+                                    Wolt, wir selten vns gfangen geben,
+                                    Vnd betroht vns gar hart darneben.",468,792,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+256,256,TextGrid/-Sidea.xml,"Wir aber grieffen zu den Wehrn,
+                                    Wollen jhn von vns mit abkehrn.",829,928,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+257,257,TextGrid/-Sidea.xml,"So hett er in der band ein stab,
+                                    Ein klein streich auff die Wehr vns gab:
+                                    Da kond wir keine ziehen auß
+                                    Vnd kam vns an ein solcher grauß,
+                                    Das wir vns musten geben gfangen.",965,1279,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+258,258,TextGrid/-Sidea.xml,"Vnd als er vns hart troht nach langen,
+                                    Hat er mich meins wegs heisen gahn
+                                    Vnd hat bhalten eur Gnaden Sohn.",1316,1494,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+259,259,TextGrid/-Sidea.xml,Also hat sich all sach zutragen.,1572,1604,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+260,260,TextGrid/-Sidea.xml,"LEUDEGAST, DER FÜRST sagt.",1641,1667,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+261,261,TextGrid/-Sidea.xml,Ach du böß vnglückliches Jagen!,1741,1772,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,joy,positive,emotions of pleasure
+262,262,TextGrid/-Sidea.xml,Wie übel kombstu mir zu Hauß?,1809,1838,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,anger,negative,emotions of rejection
+263,263,TextGrid/-Sidea.xml,"Vnd wenn ich wer gezogen nauß,
+                                    So wer es mir auch also gangen.",1875,1973,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+264,264,TextGrid/-Sidea.xml,"Wie sol ich nun mein sach anfangen,
+                                    Das ich mein Sohn wider erlöß?",2010,2112,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+265,265,TextGrid/-Sidea.xml,Ludolff der meints gegen vns gar böß.,2149,2186,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,anger,negative,emotions of rejection
+266,266,TextGrid/-Sidea.xml,"Ist ers, der mein Sohn hat bekommen,
+                                    So wird jhm gwiß das leben gnommen.",2223,2331,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+267,267,TextGrid/-Sidea.xml,Darumb so dörff wir feyern nicht.,2368,2401,character_speech,2,0,,FAMULUS,FAMULUS,14.0,UNKNOWN,fear,negative,emotions of anxiety
+268,268,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+269,269,TextGrid/-Sidea.xml,"
+                                    Es ist ein seltzame geschieht,
+                                    Davon nicht gut ist vil zu sagen
+                                    Vnd doch hochnötig zu Rathschlagen,
+                                    Wie man alle sach fang klüglich an.",0,280,character_speech,2,0,,ELEMAUS,ELEMAUS,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+270,270,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+271,271,TextGrid/-Sidea.xml,"
+                                    So kombt!",0,46,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+272,272,TextGrid/-Sidea.xml,last vns reden davon!,47,68,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+273,273,TextGrid/-Sidea.xml,Lang daher stehn ist wenig nutz.,105,137,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+274,274,TextGrid/-Sidea.xml,Meim Sohn dem müß wir suchen schutz.,174,210,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+275,275,TextGrid/-Sidea.xml,"
+                                    Sie gehn alle ab.",0,54,stage_direction,2,0,speech_part,,,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+276,276,TextGrid/-Sidea.xml,"Kompt Ludolff, der Fürst, mit seinem stab vnd sagt.",55,106,stage_direction,2,0,speech_part,,,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+277,277,TextGrid/-Sidea.xml,"
+                                    Ietzt hat sich das glück wider gwend
+                                    Vnd ich hab mein Feind in der hend.",0,145,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+278,278,TextGrid/-Sidea.xml,Dem will ich jetzund hart gnug sein.,182,218,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+279,279,TextGrid/-Sidea.xml,Schau!,255,261,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+280,280,TextGrid/-Sidea.xml,was kompt da für gsind herein?,262,292,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+281,281,TextGrid/-Sidea.xml,"
+                                    Kommen Dietrich vnd Rollus mit Jahn Molitor in Weibskleidern.",0,98,stage_direction,2,0,speech_part,,,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+282,282,TextGrid/-Sidea.xml,"
+                                    DIETRICH, DER SCHUSTER sagt.",0,65,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+283,283,TextGrid/-Sidea.xml,"Gnediger Herr, wir bede hetten
+                                    Mit euch etwas heimlichs zu reden.",139,240,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+284,284,TextGrid/-Sidea.xml,"Weil mirs nicht können erfahrn sunst,
+                                    So helfft vns mit eur Zauberkunst!",277,385,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+285,285,TextGrid/-Sidea.xml,Wir wölln euch gern reichlich lohnen.,422,459,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+286,286,TextGrid/-Sidea.xml,"Ein Müller thut naht bey vns wohnen,
+                                    
+                                       
+Der hat vns zugfügt grose schmach.",496,644,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+287,287,TextGrid/-Sidea.xml,"Zu dem wir haben schwere klag,
+                                    So lest er sich daheim nit finnen
+                                    Vnd duncket vns in vnser sinnen,
+                                    Die alte Frau wiß, wo er sey.",681,916,character_speech,2,0,,LEUDEGAST,LEUDEGAST,16.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+288,288,TextGrid/-Sidea.xml,"
+                                    in gestalt eines alten Weibs sagt.",0,71,stage_direction,2,0,speech_part,,,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+289,289,TextGrid/-Sidea.xml,"
+                                    Nein ich weiß nit, bey meiner treü.",0,72,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+290,290,TextGrid/-Sidea.xml,"So weiß ich auch nicht, wer er ist.",109,144,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+291,291,TextGrid/-Sidea.xml,"LUDOLFF, DER FÜRST schüttelt den Kopff, legt jhr den stab auff den Kopff vnd sagt.",181,263,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+292,292,TextGrid/-Sidea.xml,Ein rechte lose Hur du bist.,337,365,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,17.0,UNKNOWN,abhorrence,negative,emotions of rejection
+293,293,TextGrid/-Sidea.xml,"Ich kenn dich wol, du loser dropff!",402,437,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,17.0,UNKNOWN,abhorrence,negative,emotions of rejection
+294,294,TextGrid/-Sidea.xml,Thu mir den stauchen von dem kopff!,474,509,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,17.0,UNKNOWN,anger,negative,emotions of rejection
+295,295,TextGrid/-Sidea.xml,So wöll wir balt den Müller finnen.,546,581,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,17.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+296,296,TextGrid/-Sidea.xml,"
+                                    Er schlecht jhm den stauchen mit dem stab vom kopff, so ists der Jahn Molitor.",0,115,stage_direction,2,0,speech_part,,,17.0,UNKNOWN,abhorrence,negative,emotions of rejection
+297,297,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+298,298,TextGrid/-Sidea.xml,"
+                                    Nun kombst nit lebendig von hinnen.",0,72,character_speech,2,0,,DIETRICH,DIETRICH,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+299,299,TextGrid/-Sidea.xml,"Wir wölln dich straffn nach vnsern sinnen,
+                                    Das durch dich nicht werd, als vorhin,
+                                    Ein guter Mann bracht in vnraht.",109,295,character_speech,2,0,,DIETRICH,DIETRICH,18.0,UNKNOWN,anger,negative,emotions of rejection
+300,300,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+301,301,TextGrid/-Sidea.xml,"
+                                    O Herr Zaubrer, ich bitt vmb gnad.",0,71,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,19.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+302,302,TextGrid/-Sidea.xml,"Eur Kunst ist besser, als die mein.",108,143,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+303,303,TextGrid/-Sidea.xml,"LUDOLFF, DER FÜRST sagt.",180,204,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+304,304,TextGrid/-Sidea.xml,"Was begert jhr denn für ein pein,
+                                    Das ich sol jhm anlegen fluchß?",278,379,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,19.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+305,305,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+306,306,TextGrid/-Sidea.xml,"
+                                    Herr Zaubrer, macht jhn zu eim Fuchß,
+                                    Das er fort nicht sey so vermessen!",0,146,character_speech,2,0,,ROLLUS,ROLLUS,20.0,UNKNOWN,anger,negative,emotions of rejection
+307,307,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+308,308,TextGrid/-Sidea.xml,"
+                                    So wolt ich dir dein Hüner fressen
+                                    Vnd noch mehr vbls, als jetzo, than.",0,144,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,21.0,UNKNOWN,anger,negative,emotions of rejection
+309,309,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+310,310,TextGrid/-Sidea.xml,"
+                                    Herr Zauberer, wenns der Herr kan,
+                                    
+                                       
+So mach der Herr ein Esel auß jhm!",0,183,character_speech,2,0,,DIETRICH,DIETRICH,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+311,311,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+312,312,TextGrid/-Sidea.xml,"
+                                    Mein Närrischer Schuster, so vernim!",0,73,character_speech,2,0,,JOHAN MOLITOR,JOHAN MOLITOR,23.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+313,313,TextGrid/-Sidea.xml,"Wenn du zum Esel machest mich,
+                                    So wolt ich gar verderben dich,
+                                    Das in dem Land Küh, Pfert vnd Schwein
+                                    Müsten lauter Esel werffen allein.",110,354,character_speech,2,0,,JOHAN MOLITOR,JOHAN MOLITOR,23.0,UNKNOWN,abhorrence,negative,emotions of rejection
+314,314,TextGrid/-Sidea.xml,"Der Heut zeucht man nur auff die Drummen:
+                                    Wo wolstu Narr Leder bekummen?",391,499,character_speech,2,0,,JOHAN MOLITOR,JOHAN MOLITOR,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+315,315,TextGrid/-Sidea.xml,Was gelts?,536,546,character_speech,2,0,,JOHAN MOLITOR,JOHAN MOLITOR,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+316,316,TextGrid/-Sidea.xml,ich wolt dirs Esels geben.,547,573,character_speech,2,0,,JOHAN MOLITOR,JOHAN MOLITOR,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+317,317,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+318,318,TextGrid/-Sidea.xml,"
+                                    Ey so last jhn ein Menschen leben
+                                    Vnd straffet jhn nach eurem sinn!",0,140,character_speech,2,0,,DIETRICH,DIETRICH,24.0,UNKNOWN,anger,negative,emotions of rejection
+319,319,TextGrid/-Sidea.xml,"LUDOLFF, DER FÜRST sagt.",177,201,character_speech,2,0,,DIETRICH,DIETRICH,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+320,320,TextGrid/-Sidea.xml,Deß selben ich schon willens bin.,275,308,character_speech,2,0,,DIETRICH,DIETRICH,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+321,321,TextGrid/-Sidea.xml,"Im Walt soll er hie bey mir bleiben
+                                    Vnd, das keine löffley nit treiben
+                                    Mein Tochter vnd der Engelbrecht,
+                                    Soll er auff sie acht haben schlecht
+                                    Vnd mir dasselbig zeigen an.",345,659,character_speech,2,0,,DIETRICH,DIETRICH,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+322,322,TextGrid/-Sidea.xml,"Glob mirs balt an, dastus wilt than!",696,732,character_speech,2,0,,DIETRICH,DIETRICH,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+323,323,TextGrid/-Sidea.xml,"
+                                    Er globt an vnd sie gehn alle ab.",0,70,stage_direction,2,0,speech_part,,,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+324,324,TextGrid/-Sidea.xml,"Sidea bringt den Jungen Fürsten Engelbrecht gar übel bekleid, der tregt etliche klötz holtz vnd ein holtz hacken, legt sie nider.",71,200,stage_direction,2,0,speech_part,,,24.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+325,325,TextGrid/-Sidea.xml,"
+                                    throt jhm mit dem stab vnd sagt.",0,69,stage_direction,2,0,speech_part,,,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+326,326,TextGrid/-Sidea.xml,"
+                                    Balt keil du mir das Holtz zu scheiten,
+                                    Wiltu anderst die streich nit leiden!",0,150,character_speech,2,0,,SIDEA,SIDEA,25.0,UNKNOWN,anger,negative,emotions of rejection
+327,327,TextGrid/-Sidea.xml,Du bist ein rechter fauler Hund.,187,219,character_speech,2,0,,SIDEA,SIDEA,25.0,UNKNOWN,abhorrence,negative,emotions of rejection
+328,328,TextGrid/-Sidea.xml,"
+                                    fellt jhr zu fuß, hebt die hend auff vnd sagt.",0,83,stage_direction,2,0,speech_part,,,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+329,329,TextGrid/-Sidea.xml,"
+                                    Ach ich bin kranck von hertzen grund
+                                    Vnd weis mir nicht weiter zu gehn,
+                                    Noch einiger Arbeit vorzustehn,
+                                    Dann ich bin außgemergelt matt.",0,280,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,26.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+330,330,TextGrid/-Sidea.xml,Mein gantzer Leib kein krafft mehr hat.,317,356,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,26.0,UNKNOWN,love,positive,emotions of affection
+331,331,TextGrid/-Sidea.xml,"Besser ists, ich werd erschlagen,
+                                    
+                                       
+Dann täglich solchen last zu tragen
+                                    Vnd solche schwere arbeit zu than.",393,610,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,26.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+332,332,TextGrid/-Sidea.xml,"Ich bitt, so hoch ich bitten kan,
+                                    Erschlaget mich folgents zu todt!",647,750,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,26.0,UNKNOWN,despair,negative,emotions of anxiety
+333,333,TextGrid/-Sidea.xml,"
+                                    sagt zun Leuten.",0,53,stage_direction,2,0,speech_part,,,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+334,334,TextGrid/-Sidea.xml,"
+                                    Wie wol in groß vnglück vnd noth
+                                    Sein Vatter bringt den Vatter mein
+                                    Vnd mich, sein Fürstlichs Fräuelein,
+                                    Das wir hetten vrsach zur Rach.",0,281,character_speech,2,0,,SIDEA,SIDEA,27.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+335,335,TextGrid/-Sidea.xml,"Doch, wenn ich denck den sachen nach,
+                                    So ist er auch Fürstlich geborn
+                                    Vnd an vns gar nicht schuldig worn.",318,495,character_speech,2,0,,SIDEA,SIDEA,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+336,336,TextGrid/-Sidea.xml,"Darumb er, die warheit zu melden,
+                                    Seins Vatters nit hat zu entgelten.",532,637,character_speech,2,0,,SIDEA,SIDEA,27.0,UNKNOWN,anger,negative,emotions of rejection
+337,337,TextGrid/-Sidea.xml,"So ist er ein solche Person,
+                                    Dem ich schön halb nicht feind sein kan.",674,779,character_speech,2,0,,SIDEA,SIDEA,27.0,UNKNOWN,friendship,positive,emotions of affection
+338,338,TextGrid/-Sidea.xml,"Vnd wenn ich gleich solcher gestalt
+                                    Lang bleiben müst in disem Walt,
+                                    Was hett ich lust vnd freud dabey?",816,991,character_speech,2,0,,SIDEA,SIDEA,27.0,UNKNOWN,joy,positive,emotions of pleasure
+339,339,TextGrid/-Sidea.xml,"Wenn er mir wolt erweisen treu
+                                    Vnd mich behalten zu der Eh,
+                                    Wolt ich jhm helffen auß noth vnd web.",1028,1198,character_speech,2,0,,SIDEA,SIDEA,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+340,340,TextGrid/-Sidea.xml,Ich wils jhm heimlich zeigen an.,1235,1267,character_speech,2,0,,SIDEA,SIDEA,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+341,341,TextGrid/-Sidea.xml,"
+                                    Sie geht zu jhm vnd sagt.",0,62,stage_direction,2,0,speech_part,,,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+342,342,TextGrid/-Sidea.xml,"
+                                    Mein Engelbrecht, was wolstu than,
+                                    Wenn ich dir deiner Dienstbarkeit
+                                    Zu wegen brecht jetzt ein freyheit
+                                    Vnd dich als dann nem zu der Eh?",0,281,character_speech,2,0,,SIDEA,SIDEA,27.0,UNKNOWN,fear,negative,emotions of anxiety
+343,343,TextGrid/-Sidea.xml,"
+                                    fellt nider zu fuß vnd sagt.",0,65,stage_direction,2,0,speech_part,,,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+344,344,TextGrid/-Sidea.xml,"
+                                    Ach schweigt!",0,50,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,28.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+345,345,TextGrid/-Sidea.xml,verstürtzt ich gar vergeh.,51,77,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,28.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+346,346,TextGrid/-Sidea.xml,"All lebendig Götter diser Erden
+                                    Können nicht machen, das war mög werden.",114,222,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+347,347,TextGrid/-Sidea.xml,"Wenn aber das war werden künd,
+                                    Mein sach zum aller besten stünd.",259,359,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+348,348,TextGrid/-Sidea.xml,"Ja ich wolt mich eur Lieb ergeben
+                                    Zu dienst mit Leib vnd auch mit Leben
+                                    
+                                       
+Vnd euch zu einer Fürstin machen.",396,614,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,28.0,UNKNOWN,love,positive,emotions of affection
+349,349,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+350,350,TextGrid/-Sidea.xml,"
+                                    Dörfft ich dir trauen in den sachen
+                                    Vnd du wilt dem so kommen nach,
+                                    Mir mit der Hand vnd Mund zusag!",0,209,character_speech,2,0,,SIDEA,SIDEA,29.0,UNKNOWN,anger,negative,emotions of rejection
+351,351,TextGrid/-Sidea.xml,So will ich ferrners reden mit dir.,246,281,character_speech,2,0,,SIDEA,SIDEA,29.0,UNKNOWN,anger,negative,emotions of rejection
+352,352,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+353,353,TextGrid/-Sidea.xml,"
+                                    Ja, dasselb solt jhr trauen mir
+                                    Vnd jhr solt auch mein Gemahl sein.",0,140,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+354,354,TextGrid/-Sidea.xml,"
+                                    Sie geben die hend aneinander.",0,67,stage_direction,2,0,speech_part,,,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+355,355,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+356,356,TextGrid/-Sidea.xml,Bistu denn mein?,0,16,character_speech,2,0,,SIDEA,SIDEA,31.0,UNKNOWN,love,positive,emotions of affection
+357,357,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+358,358,TextGrid/-Sidea.xml,Ja.,0,3,character_speech,2,0,,ENGELBRECHT,ENGELBRECHT,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+359,359,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+360,360,TextGrid/-Sidea.xml,"
+                                    So bleib ich dein.",0,55,character_speech,2,0,,SIDEA,SIDEA,33.0,UNKNOWN,love,positive,emotions of affection
+361,361,TextGrid/-Sidea.xml,Die Götter bleiben mit vns beyden!,92,126,character_speech,2,0,,SIDEA,SIDEA,33.0,UNKNOWN,love,positive,emotions of affection
+362,362,TextGrid/-Sidea.xml,Nun sol vns nichts als der todt scheiden!,163,204,character_speech,2,0,,SIDEA,SIDEA,33.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+363,363,TextGrid/-Sidea.xml,"Vnd das du meinen ernst auch spürst,
+                                    Zih ich mit dir, wo du mich hinführst.",241,352,character_speech,2,0,,SIDEA,SIDEA,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+364,364,TextGrid/-Sidea.xml,"
+                                    Sie trucken einander; kompt Runzifall, der Teuffel, vnd sagt.",0,98,stage_direction,2,0,speech_part,,,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+365,365,TextGrid/-Sidea.xml,"
+                                    Sidea, disen deinen anschlag
+                                    Ich deinem Vatter strachs ansag,
+                                    Dann es will sich gar nicht gebürn,
+                                    Das du dich lest von hinnen führn.",0,277,character_speech,2,0,,SIDEA,SIDEA,33.0,UNKNOWN,anger,negative,emotions of rejection
+366,366,TextGrid/-Sidea.xml,"
+                                    nimbt jhrn stab, schlegt jhn mit auffs maul, der deut, er könn nicht reden, vnd geht traurig ab; als dann spricht sie.",0,155,stage_direction,2,0,speech_part,,,34.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+367,367,TextGrid/-Sidea.xml,"
+                                    Also kan vns der Geist zu schaden
+                                    Bey meinem Vatter nicht verrahten.",0,141,character_speech,2,0,,SIDEA,SIDEA,34.0,UNKNOWN,fear,negative,emotions of anxiety
+368,368,TextGrid/-Sidea.xml,"So können wir all bede sand
+                                    Dieweil kommen auß disem Land.",178,272,character_speech,2,0,,SIDEA,SIDEA,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+369,369,TextGrid/-Sidea.xml,"
+                                    Sie gehn ab.",0,49,stage_direction,2,0,speech_part,,,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+370,370,TextGrid/-Sidea.xml,"Kompt Ludolff, der Fürst, mit Jahn",50,84,stage_direction,2,0,speech_part,,,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+371,371,TextGrid/-Sidea.xml,"
+                                    Molitor, ist gar zornig, schlegt den Jahnnen mit dem stab auff den kopff vnd sagt.",0,119,stage_direction,2,0,speech_part,,,34.0,UNKNOWN,anger,negative,emotions of rejection
+372,372,TextGrid/-Sidea.xml,Wo ist Sidea?,0,13,character_speech,2,0,,SIDEA,SIDEA,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+373,373,TextGrid/-Sidea.xml,sag mir balt!,14,27,character_speech,2,0,,SIDEA,SIDEA,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+374,374,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+375,375,TextGrid/-Sidea.xml,"
+                                    Ich weis nit; ist sie nit im Walt,
+                                    So ist sie bey dem Engelbrecht.",0,139,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+376,376,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+377,377,TextGrid/-Sidea.xml,"
+                                    Bistu nicht mein Leibeigner Knecht,
+                                    Der achtung auff sie haben sol?",0,140,character_speech,2,0,,LUDOLFF,LUDOLFF,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+378,378,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+379,379,TextGrid/-Sidea.xml,"
+                                    Ja, ja; dasselbig weis ich wol.",0,68,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+380,380,TextGrid/-Sidea.xml,"Aber, Gnediger Herr, jhr sein zwen
+                                    Vnd sagn mir nicht, wo sie hin gehn.",105,212,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+381,381,TextGrid/-Sidea.xml,"Drumb weis ich gar nit, wo sie sein.",249,285,character_speech,2,0,,JAHN MOLITOR,JAHN MOLITOR,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+382,382,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,2,0,speech_part,,,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+383,383,TextGrid/-Sidea.xml,"
+                                    Das sol dir kosten das leben dein.",0,71,character_speech,2,0,,LUDOLFF,LUDOLFF,38.0,UNKNOWN,abhorrence,negative,emotions of rejection
+384,384,TextGrid/-Sidea.xml,"Drumb zih hin vnd such, wo sie sind!",108,144,character_speech,2,0,,LUDOLFF,LUDOLFF,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+385,385,TextGrid/-Sidea.xml,"Vnd wirstu sie nit bringen gschwind,
+                                    So schlag ich dir ab deinen grint.",181,288,character_speech,2,0,,LUDOLFF,LUDOLFF,38.0,UNKNOWN,abhorrence,negative,emotions of rejection
+386,386,TextGrid/-Sidea.xml,"
+                                    Jahn Molitor kratzt sich im kopff vnd gehn ab.",0,83,stage_direction,2,0,speech_part,,,38.0,UNKNOWN,being moved,being moved,being moved
+387,387,TextGrid/-Sidea.xml,"
+                                 Kommen Engelbrecht vnd Sidea, die sagt.",0,73,stage_direction,3,0,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+388,388,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+389,389,TextGrid/-Sidea.xml,"
+                                    Ach last euch sein die sach nit schwer!",0,76,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,1.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+390,390,TextGrid/-Sidea.xml,"Wann jhr nicht weiters künd zu fuß,
+                                    Mau euch zu Kutschen führen muß.",113,217,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+391,391,TextGrid/-Sidea.xml,"Wart mein alhie, bis ich zu rück
+                                    Euch wider ein Kutschen rauß schick
+                                    Mit Knechten, die sollen euch holn!",254,430,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+392,392,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+393,393,TextGrid/-Sidea.xml,"
+                                    Von meim Vatter hab ich mich gstoln.",0,73,character_speech,3,0,,SIDEA,SIDEA,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+394,394,TextGrid/-Sidea.xml,"Meint jhr, vnd das er es vnderlaß,
+                                    Mir nicht nach forsch auff alle straß?",110,219,character_speech,3,0,,SIDEA,SIDEA,2.0,UNKNOWN,fear,negative,emotions of anxiety
+395,395,TextGrid/-Sidea.xml,"Vnd wenn er mich hie finden thet,
+                                    Ich euch das letzt mal gsehen hett
+                                    Vnd müst sterben vor seim angsicht.",256,432,character_speech,3,0,,SIDEA,SIDEA,2.0,UNKNOWN,fear,negative,emotions of anxiety
+396,396,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+397,397,TextGrid/-Sidea.xml,"
+                                    Ey, das wölln ja die Götter nicht!",0,71,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,3.0,UNKNOWN,being moved,being moved,being moved
+398,398,TextGrid/-Sidea.xml,"Das euch eur Vatter nicht mehr find,
+                                    Ir auff den Baum nauff sitzen künd:
+                                    Darunder laufft er sechs mal für,
+                                    Eh vnd wann er euch da auß spür.",108,355,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+399,399,TextGrid/-Sidea.xml,Darzu bleibt jhr alhie nit lang.,392,424,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+400,400,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+401,401,TextGrid/-Sidea.xml,"
+                                    Ach wie ist mir so angst vnd bang!",0,71,character_speech,3,0,,SIDEA,SIDEA,4.0,UNKNOWN,fear,negative,emotions of anxiety
+402,402,TextGrid/-Sidea.xml,"Dann ich fürcht, jhr vergesset mein",108,143,character_speech,3,0,,SIDEA,SIDEA,4.0,UNKNOWN,fear,negative,emotions of anxiety
+403,403,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+404,404,TextGrid/-Sidea.xml,"
+                                    Ach hertzLieb, last das sorgen sein!",0,73,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,5.0,UNKNOWN,compassion,negative,emotions of suffering and empathy
+405,405,TextGrid/-Sidea.xml,Ich verheiß euch mein treu vnd ehr.,110,145,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,5.0,UNKNOWN,love,positive,emotions of affection
+406,406,TextGrid/-Sidea.xml,Die vergiß ich mein tag nit mehr.,182,215,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,5.0,UNKNOWN,love,positive,emotions of affection
+407,407,TextGrid/-Sidea.xml,"
+                                    Er hebt sie auff den Baum; sie sagt.",0,73,stage_direction,3,0,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+408,408,TextGrid/-Sidea.xml,"
+                                    Ich hoff, ich will da sicher sein.",0,71,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+409,409,TextGrid/-Sidea.xml,Doch bitt ich euch: vergest nit mein!,108,145,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,5.0,UNKNOWN,fear,negative,emotions of anxiety
+410,410,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+411,411,TextGrid/-Sidea.xml,"
+                                    Ey, was sol das vergessens vil?",0,68,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,anger,negative,emotions of rejection
+412,412,TextGrid/-Sidea.xml,Als balt ich euch da holen wil.,105,136,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,joy,positive,emotions of pleasure
+413,413,TextGrid/-Sidea.xml,"
+                                    Er geht ab.",0,48,stage_direction,3,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+414,414,TextGrid/-Sidea.xml,Die Jungfrau sitzt auff den Baum vnd sagt kläglich.,49,100,stage_direction,3,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+415,415,TextGrid/-Sidea.xml,"
+                                    Ach, solt mich der Fürst setzen an,
+                                    Dem ich hab so vil guts gethan,
+                                    So wolt ich jetzt vnd all mein tag
+                                    Vber jhn schreyen straff vnd rach.",0,282,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+416,416,TextGrid/-Sidea.xml,"
+                                    Kompt Finelia, des Schusters Weib, will wasser holn, tregt 
+ein Krug vnd sagt.",0,115,stage_direction,3,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+417,417,TextGrid/-Sidea.xml,"
+                                    Alhie in dieser armen Stadt
+                                    Es kein guten trinckBrunnen hat,
+                                    Müssen das trinckwasser weit holn.",0,204,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+418,418,TextGrid/-Sidea.xml,"Mein Mann mir daheim hat befohln,
+                                    Ich solt eillend ein wasser bringen.",241,347,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,anger,negative,emotions of rejection
+419,419,TextGrid/-Sidea.xml,"Wasser macht weder Tantzen noch springen,
+                                    Darumb ich bath vnd haben wolt,
+                                    Das er ein Bier doch kauffen solt,
+                                    So ist der Narr so karck vnd gnau.",384,635,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+420,420,TextGrid/-Sidea.xml,"
+                                    Sie geht zum Brunnen, als woll sie eins schöpffen, vnd sagt.",0,97,stage_direction,3,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+421,421,TextGrid/-Sidea.xml,"
+                                    Ey, ey, jetzund ich mich beschau
+                                    Auß dem schatten in dem Brunnen.",0,138,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+422,422,TextGrid/-Sidea.xml,"
+                                    Sie wirfft den Krug nider, schwantzt auff der Brücken rumb vnd sagt.",0,105,stage_direction,3,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+423,423,TextGrid/-Sidea.xml,"
+                                    Meins gleichen nicht alhie wird gfunnen
+                                    Ein außbündig schön Creatur.",0,141,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+424,424,TextGrid/-Sidea.xml,"Was hab ich mich geziehen nur,
+                                    Das ich hab gnommen den Pechpatzen,
+                                    Den heßlichen vngschaffnen Fratzen?",178,352,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,anger,negative,emotions of rejection
+425,425,TextGrid/-Sidea.xml,"Nun will ich bey jhm nicht mehr leben,
+                                    Sonder mich strachs gen Hof begeben.",389,500,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,abhorrence,negative,emotions of rejection
+426,426,TextGrid/-Sidea.xml,"
+                                    Sie geht ab.",0,49,stage_direction,3,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+427,427,TextGrid/-Sidea.xml,"Ela, die BauernMagd, geht ein mit einem geschirr, Wasser zu holen, kommt zum Brunnen, will einschöpffen, sieht den schatten vnd sagt.",50,183,stage_direction,3,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+428,428,TextGrid/-Sidea.xml,"
+                                    Nicht gnug kan ich verwundern mich,
+                                    Ietzt, so ich meinen schatten sich,
+                                    Befind ich, wie ich so schön bin.",0,214,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,being moved,being moved,being moved
+429,429,TextGrid/-Sidea.xml,"Ey ey, wo hab ich nur dacht hin,
+                                    Das ich vermeint, den Müller zu nemen?",251,358,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,being moved,being moved,being moved
+430,430,TextGrid/-Sidea.xml,"Ich wolt michs in mein hertz nein schemen,
+                                    Ob ich schon hab ein Eyssen abgrendt.",395,511,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,joy,positive,emotions of pleasure
+431,431,TextGrid/-Sidea.xml,"Iedoch vil Leut in der Welt sendt,
+                                    Die es nicht wissen oder schmecken.",548,654,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+432,432,TextGrid/-Sidea.xml,Vnd ich solt mich zu jhm verstecken?,691,727,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,being moved,being moved,being moved
+433,433,TextGrid/-Sidea.xml,"O nein, ich mag den Müller nimmer.",764,798,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,love,positive,emotions of affection
+434,434,TextGrid/-Sidea.xml,Ich will gehn Hof ins Frauenzimmer.,876,911,character_speech,3,0,,ENGELBRECHT,ENGELBRECHT,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+435,435,TextGrid/-Sidea.xml,"
+                                    Sie wirfft jhr Gefäß auch hin vnd geht gar stoltz ab.",0,90,stage_direction,3,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+436,436,TextGrid/-Sidea.xml,"
+                                    geht ein vnd sagt.",0,55,stage_direction,3,0,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+437,437,TextGrid/-Sidea.xml,"
+                                    Mein Herr thut grausam schwermen vnd fluchen,
+                                    Ich soll sein Tochter wider suchen;
+                                    Weil ich nicht recht auff sie thet sehen,
+                                    Thet mich lestern, sehenden vnd schmehen.",0,310,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,7.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+438,438,TextGrid/-Sidea.xml,"Ja er thet mirs vnters gsicht sagen,
+                                    Find ichs nicht, wolt er mich erschlagen.",347,461,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,7.0,UNKNOWN,fear,negative,emotions of anxiety
+439,439,TextGrid/-Sidea.xml,"Ich hin den gantzen Wald durchloffen,
+                                    Hab nichts gefressen noch gesoffen,
+                                    Vnd brennd so mechtig heiß die Sunnen.",498,682,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,7.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+440,440,TextGrid/-Sidea.xml,Schau!,719,725,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+441,441,TextGrid/-Sidea.xml,"da vnten hats ein schön Brunnen,
+                                    Da will ich mich ein wenig laben.",726,828,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+442,442,TextGrid/-Sidea.xml,"
+                                    Er geht zum Brunnen, sicht nein, steht wider auff, sicht auff den Baum vnd sagt.",0,117,stage_direction,3,0,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+443,443,TextGrid/-Sidea.xml,"
+                                    Vor dem schatten bin ich erschrocken.",0,74,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,7.0,UNKNOWN,fear,negative,emotions of anxiety
+444,444,TextGrid/-Sidea.xml,Wie tregt der Baum die schönsten Docken!,111,151,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+445,445,TextGrid/-Sidea.xml,"Ach wie der aller glücklichst Brunnen,
+                                    Weil ich da nah die Jungkfrau gfunnen!",188,301,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,7.0,UNKNOWN,joy,positive,emotions of pleasure
+446,446,TextGrid/-Sidea.xml,"Nun will ich gehn sagen meim Herrn,
+                                    Der wird sie gar bald holn wern.",338,442,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+447,447,TextGrid/-Sidea.xml,"
+                                    Jahn geht ab.",0,50,stage_direction,3,0,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+448,448,TextGrid/-Sidea.xml,"
+                                    sagt auff dem Baumen kleglich.",0,67,stage_direction,3,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+449,449,TextGrid/-Sidea.xml,"
+                                    Ach wehe!",0,46,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+450,450,TextGrid/-Sidea.xml,wo soll ich nun hinauß?,47,70,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+451,451,TextGrid/-Sidea.xml,"Mein hertzliebster bleibt zu lang auß
+                                    Vnd ich bin durch des Wassers schatten
+                                    Dem Jahn Molitor schon verrahten
+                                    Vnd er wirds sagen dem Vatter mein.",107,360,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,love,positive,emotions of affection
+452,452,TextGrid/-Sidea.xml,Ach weh deß jammers vnd der pein!,397,430,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+453,453,TextGrid/-Sidea.xml,Nun steh ich hie in neuer gfahr.,467,499,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+454,454,TextGrid/-Sidea.xml,Engelbrecht hat mein vergessen gar.,536,571,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,love,positive,emotions of affection
+455,455,TextGrid/-Sidea.xml,Ach jammer!,608,619,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+456,456,TextGrid/-Sidea.xml,weh!,620,624,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+457,457,TextGrid/-Sidea.xml,wo soll ich hin?,625,641,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+458,458,TextGrid/-Sidea.xml,"Das aller elendst Mensch ich bin,
+                                    Das nicht auff dieser Welt kan leben.",678,785,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+459,459,TextGrid/-Sidea.xml,Ach wie thu ich in hertzleid schweben!,822,860,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+460,460,TextGrid/-Sidea.xml,"O jammer, weh!",897,911,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+461,461,TextGrid/-Sidea.xml,ich hör schon Leut.,912,931,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+462,462,TextGrid/-Sidea.xml,"
+                                    DIETERICH, DER SCHUSTER geht ein vnd spricht.",0,82,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+463,463,TextGrid/-Sidea.xml,"Ich weiß nicht, was es doch bedeut.",156,191,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+464,464,TextGrid/-Sidea.xml,"Meiner Frauen hat ich befohln,
+                                    Das sie mir soll ein Wasser holn;
+                                    So kompt sie heimb so vnbesunnen,
+                                    Sagt, sie hab gsehen in dem Brunnen,
+                                    Wie sie sey so ein schönes Weib,
+                                    Darumb sie nicht mehr bey mir bleib,
+                                    Sonder will kommen ins Frauenzimmer.",228,686,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+465,465,TextGrid/-Sidea.xml,"So kan ich den durst leiden nimmer,
+                                    Denn, will ich nicht vor durst versincken,
+                                    Muß ich mir selbst holen zu Trincken.",723,911,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+466,466,TextGrid/-Sidea.xml,"Darneben will ich auch beschauen,
+                                    Was so närrisch hab gmacht mein Frauen.",948,1057,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+467,467,TextGrid/-Sidea.xml,"
+                                    Er geht zum Brunnen, schöpfft Wasser vnd sagt.",0,83,stage_direction,3,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+468,468,TextGrid/-Sidea.xml,"
+                                    Der Brunnen gibt von sich ein schein.",0,74,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+469,469,TextGrid/-Sidea.xml,"Ein schönes Weibsbild muß da sein
+                                    Vnd hie vber dem Brunnen sitzen.",111,213,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+470,470,TextGrid/-Sidea.xml,"
+                                    Er siecht sich vmb, ersicht die Sidea vnd sagt.",0,84,stage_direction,3,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+471,471,TextGrid/-Sidea.xml,"
+                                    Ja ich habs schon ersehen jetzen.",0,70,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+472,472,TextGrid/-Sidea.xml,"Ach zarte Jungfrau, saget mir!",107,137,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+473,473,TextGrid/-Sidea.xml,Was machet auff dem Baumen jhr?,174,205,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+474,474,TextGrid/-Sidea.xml,Wem steht jhr zu?,242,259,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+475,475,TextGrid/-Sidea.xml,wo kompt jhr her?,260,277,character_speech,3,0,,SIDEA,SIDEA,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+476,476,TextGrid/-Sidea.xml,"
+                                    hebt die Hend auff vnd sagt.",0,65,stage_direction,3,0,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+477,477,TextGrid/-Sidea.xml,"
+                                    Ach guter Freund, ich bitt euch sehr,
+                                    Ihr wollet mir doch helffen wider,
+                                    Das ich komb von dem Baum hernider,
+                                    Vnd beherbrigt mich nur zwen tag,
+                                    Das ich ein weng außruhen mag
+                                    Vnd entgeh meim Feind auß den henden!",0,427,character_speech,3,0,,SIDEA,SIDEA,9.0,UNKNOWN,fear,negative,emotions of anxiety
+478,478,TextGrid/-Sidea.xml,"Helft jhr mir das vnglück abwenden,
+                                    Ich will euch geben reichen lohn.",464,569,character_speech,3,0,,SIDEA,SIDEA,9.0,UNKNOWN,fear,negative,emotions of anxiety
+479,479,TextGrid/-Sidea.xml,"DIETERICH, DER SCHUSTER hebt sie von dem Baumen vnd sagt.",606,663,character_speech,3,0,,SIDEA,SIDEA,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+480,480,TextGrid/-Sidea.xml,"Ey ja, das will ich gerne thon.",737,768,character_speech,3,0,,SIDEA,SIDEA,9.0,UNKNOWN,anger,negative,emotions of rejection
+481,481,TextGrid/-Sidea.xml,Iedoch es geht bey mir schlecht zu.,805,840,character_speech,3,0,,SIDEA,SIDEA,9.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+482,482,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+483,483,TextGrid/-Sidea.xml,"
+                                    Drinnen ich euch als sagen thu,
+                                    Wie ich bin leider kommen her,
+                                    Dann ich furcht mich sehr, das ich wer
+                                    Gefangen, wenn ich lang hie stehe;
+                                    So kern ich in jammer vnd wehe.",0,349,character_speech,3,0,,SIDEA,SIDEA,10.0,UNKNOWN,fear,negative,emotions of anxiety
+484,484,TextGrid/-Sidea.xml,"
+                                    Sie gehn mit einander ab.",0,62,stage_direction,3,0,speech_part,,,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+485,485,TextGrid/-Sidea.xml,"Kompt Ludolff, der Fürst, vnd sagt.",63,98,stage_direction,3,0,speech_part,,,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+486,486,TextGrid/-Sidea.xml,"
+                                    Alhie wart ich auff meinen Geist.",0,70,character_speech,3,0,,SIDEA,SIDEA,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+487,487,TextGrid/-Sidea.xml,"Wenn mir der nicht mein Tochter weist,
+                                    So ists mit dem Müllner verlorn.",107,214,character_speech,3,0,,SIDEA,SIDEA,10.0,UNKNOWN,anger,negative,emotions of rejection
+488,488,TextGrid/-Sidea.xml,"Vnd sey jhm dann ein Eyd geschworn,
+                                    Er muß sterben von meiner band.",251,354,character_speech,3,0,,SIDEA,SIDEA,10.0,UNKNOWN,abhorrence,negative,emotions of rejection
+489,489,TextGrid/-Sidea.xml,"
+                                    Ietzt macht Ludolff mit seinem stab ein kreiß; so springt Runcifall herauß.",0,112,stage_direction,3,0,speech_part,,,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+490,490,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+491,491,TextGrid/-Sidea.xml,"
+                                    Runcifall, mach du mir bekannt!",0,68,character_speech,3,0,,LUDOLFF,LUDOLFF,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+492,492,TextGrid/-Sidea.xml,Wo ist mein Tochter kommen hin?,105,136,character_speech,3,0,,LUDOLFF,LUDOLFF,11.0,UNKNOWN,being moved,being moved,being moved
+493,493,TextGrid/-Sidea.xml,"Auff dich ich hart erzörnet bin,
+                                    Das du sie hast glassen davon
+                                    Vnd mir solches nicht zeiget an.",173,340,character_speech,3,0,,LUDOLFF,LUDOLFF,11.0,UNKNOWN,anger,negative,emotions of rejection
+494,494,TextGrid/-Sidea.xml,"
+                                    Runcifall deut, er hab kein schuld daran, er künne nicht reden.",0,100,stage_direction,3,0,speech_part,,,11.0,UNKNOWN,anger,negative,emotions of rejection
+495,495,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+496,496,TextGrid/-Sidea.xml,Wie stellstu dich?,0,18,character_speech,3,0,,LUDOLFF,LUDOLFF,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+497,497,TextGrid/-Sidea.xml,bald red mit mir!,19,36,character_speech,3,0,,LUDOLFF,LUDOLFF,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+498,498,TextGrid/-Sidea.xml,"
+                                    Runcifall deut, er könns nicht.",0,68,stage_direction,3,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+499,499,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+500,500,TextGrid/-Sidea.xml,"Er ist verzaubert, das merck ich schir.",0,39,character_speech,3,0,,LUDOLFF,LUDOLFF,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+501,501,TextGrid/-Sidea.xml,"
+                                    Er schlegt den Teuffel mit dem stab auffs maul.",0,84,stage_direction,3,0,speech_part,,,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+502,502,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+503,503,TextGrid/-Sidea.xml,"
+                                    Dein Tochter hat den Fürsten gnommen
+                                    Vnd ich bin eben darzu kommen
+                                    Vnd hab dir dasselb wöllen sagen,
+                                    So hat sie mich auffs maul geschlagen,
+                                    Das mir mein Zung verstummen thet,
+                                    Vnd hab seither kein wort mehr gredt.",0,429,character_speech,3,0,,RUNCIFALL,RUNCIFALL,14.0,UNKNOWN,anger,negative,emotions of rejection
+504,504,TextGrid/-Sidea.xml,Wie hab ich dirs dann sagen können?,466,501,character_speech,3,0,,RUNCIFALL,RUNCIFALL,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+505,505,TextGrid/-Sidea.xml,"Alsdann theten sie dir entdrinnen
+                                    Vnd ziehen zu seim Vatter hin.",538,638,character_speech,3,0,,RUNCIFALL,RUNCIFALL,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+506,506,TextGrid/-Sidea.xml,"
+                                    sagt kleglich.",0,51,stage_direction,3,0,speech_part,,,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+507,507,TextGrid/-Sidea.xml,"
+                                    
+                                       
+Nun ich erst gar verdorben bin.",0,109,character_speech,3,0,,LUDOLFF,LUDOLFF,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+508,508,TextGrid/-Sidea.xml,"Find sie mein Jahn Molitor nit,
+                                    So hat mein hertz nimmer kein frid.",146,249,character_speech,3,0,,LUDOLFF,LUDOLFF,15.0,UNKNOWN,love,positive,emotions of affection
+509,509,TextGrid/-Sidea.xml,"
+                                    In dem gehet Jahn Molitor ein, hat ein Drümmelein vnd Pfeiffen, er pfeifft.",0,112,stage_direction,3,0,speech_part,,,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+510,510,TextGrid/-Sidea.xml,Der Teuffel hebt an zu Tantzen.,113,144,stage_direction,3,0,speech_part,,,15.0,UNKNOWN,joy,positive,emotions of pleasure
+511,511,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+512,512,TextGrid/-Sidea.xml,"
+                                    Jahn, weil du Pfeiffst vnd lustig bist,
+                                    So sag mir, wo mein Tochter ist!",0,145,character_speech,3,0,,LUDOLFFUS,LUDOLFFUS,16.0,UNKNOWN,joy,positive,emotions of pleasure
+513,513,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+514,514,TextGrid/-Sidea.xml,Eur Tochter?,0,12,character_speech,3,0,,JAHN,JAHN,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+515,515,TextGrid/-Sidea.xml,"
+                                    Er Pfeifft wider vnd Drummelt.",0,67,stage_direction,3,0,speech_part,,,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+516,516,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+517,517,TextGrid/-Sidea.xml,"Ja, meine Tochter; wo ist sie?",0,30,character_speech,3,0,,LUDOLFF,LUDOLFF,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+518,518,TextGrid/-Sidea.xml,Ich hab gar wol gesehen die.,0,28,character_speech,3,0,,JAHN MOLITOR.,JAHN MOLITOR.,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+519,519,TextGrid/-Sidea.xml,"
+                                    Jahn Pfeifft vnd Drummelt wider, so tantzt allweg der Teuffel.",0,99,stage_direction,3,0,speech_part,,,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+520,520,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+521,521,TextGrid/-Sidea.xml,Wo hastu sie gsehen?,0,20,character_speech,3,0,,LUDOLFF,LUDOLFF,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+522,522,TextGrid/-Sidea.xml,zeig an!,21,29,character_speech,3,0,,LUDOLFF,LUDOLFF,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+523,523,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+524,524,TextGrid/-Sidea.xml,Ich sah sie,0,11,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,21.0,UNKNOWN,love,positive,emotions of affection
+525,525,TextGrid/-Sidea.xml,"
+                                    Er Pfeifft wider, dann sagt er.",0,68,stage_direction,3,0,speech_part,,,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+526,526,TextGrid/-Sidea.xml,Auff eim Baumen stabil.,0,23,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+527,527,TextGrid/-Sidea.xml,"
+                                    sagt zornig.",0,49,stage_direction,3,0,speech_part,,,22.0,UNKNOWN,anger,negative,emotions of rejection
+528,528,TextGrid/-Sidea.xml,"
+                                    Hör auff deins Pfeiffens!",0,62,character_speech,3,0,,LUDOLFF,LUDOLFF,22.0,UNKNOWN,anger,negative,emotions of rejection
+529,529,TextGrid/-Sidea.xml,"sag darfür
+                                    Von meiner lieben Tochter mir!",63,140,character_speech,3,0,,LUDOLFF,LUDOLFF,22.0,UNKNOWN,love,positive,emotions of affection
+530,530,TextGrid/-Sidea.xml,"
+                                    Jahn Pfeifft vnnd Drummelt.",0,64,stage_direction,3,0,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+531,531,TextGrid/-Sidea.xml,"Der Teuffel Tantzt, lauffen etliche Teuffel rauß, die alle Tantzen.",65,132,stage_direction,3,0,speech_part,,,22.0,UNKNOWN,joy,positive,emotions of pleasure
+532,532,TextGrid/-Sidea.xml,Endtlich hört Jahn Molitor auff.,133,165,stage_direction,3,0,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+533,533,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+534,534,TextGrid/-Sidea.xml,"
+                                    Ich glaub, du seyst gar töricht worn,
+                                    Daß du thust so grausam rumorn.",0,142,character_speech,3,0,,LUDOLFF,LUDOLFF,23.0,UNKNOWN,anger,negative,emotions of rejection
+535,535,TextGrid/-Sidea.xml,"Ihr Geister, ziecht eurs wegs bald fort
+                                    Vnd du sag mir bald mit eim wort,
+                                    Wo du mein Tochter gsehen hast!",179,356,character_speech,3,0,,LUDOLFF,LUDOLFF,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+536,536,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+537,537,TextGrid/-Sidea.xml,"
+                                    
+                                       
+Sie sitzt dort auff eins Baumens ast
+                                    Zu allernechsten bey dem Brunnen,
+                                    Vnd weil ich sie hab wider gfunnen,
+                                    Bin ich erfreuet worden hoch.",0,322,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,24.0,UNKNOWN,joy,positive,emotions of pleasure
+538,538,TextGrid/-Sidea.xml,Kompt her!,359,369,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+539,539,TextGrid/-Sidea.xml,wir wollens finden noch.,370,394,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+540,540,TextGrid/-Sidea.xml,"Ich zwar hett sie gesehen nit,
+                                    Der schattn im Brunnen sie verrieht,
+                                    Als ich eben da trincken wolt.",431,601,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+541,541,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+542,542,TextGrid/-Sidea.xml,"
+                                    Ach das ichs wider kriegen solt!",0,69,character_speech,3,0,,LUDOLFF,LUDOLFF,25.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+543,543,TextGrid/-Sidea.xml,Drumb geh bald fort thu dich nicht bsinnen!,106,149,character_speech,3,0,,LUDOLFF,LUDOLFF,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+544,544,TextGrid/-Sidea.xml,Hilff mir wider mein Tochter finnen!,186,222,character_speech,3,0,,LUDOLFF,LUDOLFF,25.0,UNKNOWN,compassion,negative,emotions of suffering and empathy
+545,545,TextGrid/-Sidea.xml,"
+                                    Sie gehn ab.",0,49,stage_direction,3,0,speech_part,,,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+546,546,TextGrid/-Sidea.xml,"Kompt Dietrich, der Schuster, mit seiner Frauen.",50,98,stage_direction,3,0,speech_part,,,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+547,547,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+548,548,TextGrid/-Sidea.xml,"
+                                    Finelia mein, sag doch mir,
+                                    Was hastu eingebildet dir,
+                                    Das du mir kein gut mehr wilt than?",0,199,character_speech,3,0,,DIETRICH,DIETRICH,26.0,UNKNOWN,being moved,being moved,being moved
+549,549,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+550,550,TextGrid/-Sidea.xml,"
+                                    Mich reuts, das ich dich gnommen han,
+                                    Vnd darzu, das ich bey dir bleib.",0,144,character_speech,3,0,,FINELIA,FINELIA,27.0,UNKNOWN,joy,positive,emotions of pleasure
+551,551,TextGrid/-Sidea.xml,"Ich bin ein herrlichs schönes Weib,
+                                    Dergleich keine ist in der Statt.",181,286,character_speech,3,0,,FINELIA,FINELIA,27.0,UNKNOWN,love,positive,emotions of affection
+552,552,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+553,553,TextGrid/-Sidea.xml,"
+                                    Sag, wer dir solches gsaget hat!",0,69,character_speech,3,0,,DIETRICH,DIETRICH,28.0,UNKNOWN,anger,negative,emotions of rejection
+554,554,TextGrid/-Sidea.xml,Der hat dich übel überredt.,106,133,character_speech,3,0,,DIETRICH,DIETRICH,28.0,UNKNOWN,anger,negative,emotions of rejection
+555,555,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+556,556,TextGrid/-Sidea.xml,"
+                                    Der Widerschein mins sagen thet,
+                                    Welchen ich durch den Schein der Sunnen
+                                    Hab auß dem Wasser in dem Brunnen
+                                    Besser gesehen, als zuvor nie.",0,282,character_speech,3,0,,FINELIA,FINELIA,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+557,557,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+558,558,TextGrid/-Sidea.xml,"
+                                    So komb mit mir zum Brunnen vnd sih,
+                                    Ob du nicht seist betrogen worn!",0,142,character_speech,3,0,,DIETRICH,DIETRICH,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+559,559,TextGrid/-Sidea.xml,"
+                                    geht mit jhm zum Brunnen, sicht hinein vnd sagt.",0,85,stage_direction,3,0,speech_part,,,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+560,560,TextGrid/-Sidea.xml,"
+                                    
+                                       
+Mein vorige gstalt hab ich verlorn.",0,113,character_speech,3,0,,FINELIA,FINELIA,31.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+561,561,TextGrid/-Sidea.xml,"Also, wie ich jetzunder sich,
+                                    Kan ich gar nicht verwechßln mich
+                                    Vnd ich bin dir kaum gut genug.",150,317,character_speech,3,0,,FINELIA,FINELIA,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+562,562,TextGrid/-Sidea.xml,"Aber da ich zerwarff den Krug,
+                                    Da wart ich also zart vnd schön,
+                                    Wie die Jungkfrauen zu Hof hergehn.",354,525,character_speech,3,0,,FINELIA,FINELIA,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+563,563,TextGrid/-Sidea.xml,Deßmal daucht ich mich dir zu gut.,562,596,character_speech,3,0,,FINELIA,FINELIA,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+564,564,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+565,565,TextGrid/-Sidea.xml,"
+                                    Mein Finelia, sey gemuht!",0,62,character_speech,3,0,,DIETRICH,DIETRICH,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+566,566,TextGrid/-Sidea.xml,Schau!,99,105,character_speech,3,0,,DIETRICH,DIETRICH,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+567,567,TextGrid/-Sidea.xml,"dorten dritt ein Jungkfrau rein,
+                                    Die gab in Brunnen diesen schein,
+                                    Die ich fand sitzen auff dem Baum.",106,279,character_speech,3,0,,DIETRICH,DIETRICH,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+568,568,TextGrid/-Sidea.xml,"Dein schön war ein erdichter traum,
+                                    Dann dein schön taug zu der gar nit.",316,424,character_speech,3,0,,DIETRICH,DIETRICH,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+569,569,TextGrid/-Sidea.xml,"
+                                    geht ein vnd sagt.",0,55,stage_direction,3,0,speech_part,,,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+570,570,TextGrid/-Sidea.xml,"
+                                    Mein Meister Schuster, es ist mein bitt,
+                                    Ihr wolt euch willig lassen finnen,
+                                    Mir eurs Weibs kleider vergünnen,
+                                    Das ichs anleg auff der Strassen,
+                                    Vnd wolt sie mit mir gehn lassen,
+                                    Das sie trag meine kleider mir!",0,427,character_speech,3,0,,SIDEA,SIDEA,33.0,UNKNOWN,anger,negative,emotions of rejection
+571,571,TextGrid/-Sidea.xml,"Reichlich will ichs belohnen jhr,
+                                    Dann ich je nicht weiter beger,
+                                    Als das ans Fürsten Hof ich wer.",464,634,character_speech,3,0,,SIDEA,SIDEA,33.0,UNKNOWN,joy,positive,emotions of pleasure
+572,572,TextGrid/-Sidea.xml,Ich will sie balt schicken zu rück.,671,706,character_speech,3,0,,SIDEA,SIDEA,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+573,573,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+574,574,TextGrid/-Sidea.xml,"
+                                    Das als soll sein, darzu mit glück
+                                    Wölln euch die Götter beleiten!",0,139,character_speech,3,0,,DIETERICH,DIETERICH,34.0,UNKNOWN,joy,positive,emotions of pleasure
+575,575,TextGrid/-Sidea.xml,"Vnd das wir mit bessern freüden
+                                    Balt wider zammen kommen mügen,
+                                    Das wöllen alle Götter füegen.",176,342,character_speech,3,0,,DIETERICH,DIETERICH,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+576,576,TextGrid/-Sidea.xml,"
+                                    Sie gehn alle ab.",0,54,stage_direction,3,0,speech_part,,,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+577,577,TextGrid/-Sidea.xml,"Kompt Ludolff, der Fürst, mit Jahn Molitor.",55,98,stage_direction,3,0,speech_part,,,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+578,578,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+579,579,TextGrid/-Sidea.xml,"
+                                    Auff diesem Baum ob diesem Brunnen
+                                    
+                                       
+Hab ich eur Gnaden Tochter gfunnen,
+                                    Sie ist aber jetzt nicht mehr do.",0,254,character_speech,3,0,,JAHN,JAHN,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+580,580,TextGrid/-Sidea.xml,"LUDOLFF, DER FÜRST sagt.",291,315,character_speech,3,0,,JAHN,JAHN,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+581,581,TextGrid/-Sidea.xml,Deins findens bin ich so nicht fro.,389,424,character_speech,3,0,,JAHN,JAHN,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+582,582,TextGrid/-Sidea.xml,"Such sie, wo sie wird sein hinkommen!",461,498,character_speech,3,0,,JAHN,JAHN,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+583,583,TextGrid/-Sidea.xml,"Du solst sie haben mit dir gnommen
+                                    Vnd sie mit dir heim haben bracht.",535,640,character_speech,3,0,,JAHN,JAHN,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+584,584,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+585,585,TextGrid/-Sidea.xml,"
+                                    Vor freud hab ich daran nicht dacht,
+                                    Vermeint, wenn eur Gnad selbst kemen
+                                    Vnd die Jungkfrau vom Baum nemen,
+                                    So wer es vil ein grössre freud.",0,285,character_speech,3,0,,JAHN MOLITOR,JAHN MOLITOR,36.0,UNKNOWN,joy,positive,emotions of pleasure
+586,586,TextGrid/-Sidea.xml,"
+                                    schlegt jhn mit dem stab vnd sagt.",0,71,stage_direction,3,0,speech_part,,,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+587,587,TextGrid/-Sidea.xml,"
+                                    Was ist aber jetzt für ein Leit?",0,69,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+588,588,TextGrid/-Sidea.xml,"Du vnbesunner grober knopff,
+                                    Du bist ein einfeltiger tropff
+                                    Vnd gar ein einfeltiges Kalb.",106,267,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,abhorrence,negative,emotions of rejection
+589,589,TextGrid/-Sidea.xml,"Was du solst thun, thustu nicht halb.",304,341,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+590,590,TextGrid/-Sidea.xml,Das mustu zahlen mit der häut.,378,408,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,anger,negative,emotions of rejection
+591,591,TextGrid/-Sidea.xml,"RUNCIFALL, DER TEUFFEL laufft ein vnd sagt.",445,488,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+592,592,TextGrid/-Sidea.xml,"Es ist vergebens, was jhr streit.",562,595,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+593,593,TextGrid/-Sidea.xml,Ich bin jhr allenthalb nach zogen.,632,666,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+594,594,TextGrid/-Sidea.xml,Wir sind durch list von jhr betrogen.,703,740,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,fear,negative,emotions of anxiety
+595,595,TextGrid/-Sidea.xml,Sie zieht zum Fürsten von Wiltau.,777,810,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+596,596,TextGrid/-Sidea.xml,Da wird sie deß Engelbrechts Frau.,847,881,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+597,597,TextGrid/-Sidea.xml,Darumb last eur nachfolgen bleiben!,918,953,character_speech,3,0,,LUDOLFF,LUDOLFF,37.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+598,598,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,3,0,speech_part,,,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+599,599,TextGrid/-Sidea.xml,"
+                                    Mein vnglück ist nicht zu beschreiben,
+                                    Ietzt komb ich in mehr leids vnd schaden.",0,153,character_speech,3,0,,LUDOLFF,LUDOLFF,38.0,UNKNOWN,joy,positive,emotions of pleasure
+600,600,TextGrid/-Sidea.xml,"Ich bin verkauft vnd auch verrahten,
+                                    Weis nicht, wie ich mein sach anfang.",190,300,character_speech,3,0,,LUDOLFF,LUDOLFF,38.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+601,601,TextGrid/-Sidea.xml,"Darumb last vns nicht warten lang,
+                                    Sondern hinein gehn in mein höln!",337,441,character_speech,3,0,,LUDOLFF,LUDOLFF,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+602,602,TextGrid/-Sidea.xml,"Allda wir still abreden wölln,
+                                    Wie ich mög meine sach anstelln.",519,618,character_speech,3,0,,LUDOLFF,LUDOLFF,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+603,603,TextGrid/-Sidea.xml,"
+                                    Abgang jhr aller.",0,54,stage_direction,3,0,speech_part,,,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+604,604,TextGrid/-Sidea.xml,"
+                                 Kompt Leudegast, der Fürst inn der Wiltau, mit Francisco vnd Elemao vnd sagt kleglich.",0,120,stage_direction,4,0,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+605,605,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+606,606,TextGrid/-Sidea.xml,"
+                                    Wir sollen keinen fleiß nicht sparn,
+                                    Sonder dran wenden, was wir künnen,
+                                    Biß wir den Jungen Fürsten finnen.",0,216,character_speech,4,0,,FRANCISCUS,FRANCISCUS,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+607,607,TextGrid/-Sidea.xml,"Auch soll man bey nacht vnd bey tag
+                                    Mit Kriegsmacht Ludolff folgen nach
+                                    Vnd jhn erschlagen wie ein Hund,
+                                    Dann er feirt doch zu keiner stund,
+                                    Vns vnd dem Land schaden zu thon.",253,571,character_speech,4,0,,FRANCISCUS,FRANCISCUS,1.0,UNKNOWN,abhorrence,negative,emotions of rejection
+608,608,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+609,609,TextGrid/-Sidea.xml,"
+                                    Wöll wir eur Fürstlich Gnaden Sohn
+                                    Bringen auß deß Ludolffen Henden,
+                                    Müß wir ein groses Heer außsenden
+                                    Vnd jhm den mit gwalt tringen ab.",0,281,character_speech,4,0,,ELEMAUS,ELEMAUS,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+610,610,TextGrid/-Sidea.xml,"Mich dunckt, wie ich vernommen hab,
+                                    
+                                       
+Das sich Leut finden vor der Thür.",318,465,character_speech,4,0,,ELEMAUS,ELEMAUS,2.0,UNKNOWN,fear,negative,emotions of anxiety
+611,611,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+612,612,TextGrid/-Sidea.xml,"
+                                    Was draussen ist, das laß als für!",0,71,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+613,613,TextGrid/-Sidea.xml,"Vielleicht kompt vns ein Bottschafft her
+                                    Von meinem Sohn ohn als gefehr.",108,216,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+614,614,TextGrid/-Sidea.xml,"
+                                    Elemaus thut auff, so gehet Engelbrecht gar übel zerrissen ein.",0,100,stage_direction,4,0,speech_part,,,3.0,UNKNOWN,anger,negative,emotions of rejection
+615,615,TextGrid/-Sidea.xml,"
+                                    LEUDEGAST, DER FÜRST stehet auff, gehet jhm entgegen vnd sagt.",0,99,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+616,616,TextGrid/-Sidea.xml,Ach secht!,173,183,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+617,617,TextGrid/-Sidea.xml,ach weh!,184,192,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+618,618,TextGrid/-Sidea.xml,was soll wir thon?,193,211,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+619,619,TextGrid/-Sidea.xml,"Ach, sey vns Willkomm, lieber Sohn!",248,283,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,joy,positive,emotions of pleasure
+620,620,TextGrid/-Sidea.xml,"Ach, solstu sein ein Fürst geborn
+                                    Vnd so gar übl sein ghalten worn?",320,423,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+621,621,TextGrid/-Sidea.xml,"Ach, wo bistu blieben die zeit?",460,491,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+622,622,TextGrid/-Sidea.xml,"Geht eylend vnd bringt jhm ein Kleid,
+                                    Neu Schu vnd auch ein FingerRing
+                                    Vnd seyt mit mir all guter ding!",528,703,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,joy,positive,emotions of pleasure
+623,623,TextGrid/-Sidea.xml,Du aber sag!,740,752,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+624,624,TextGrid/-Sidea.xml,wie ist dirs gangen?,753,773,character_speech,4,0,,LEUDEGAST,LEUDEGAST,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+625,625,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+626,626,TextGrid/-Sidea.xml,"
+                                    Ludolff, der Fürst, hat mich gefangen.",0,75,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,4.0,UNKNOWN,joy,positive,emotions of pleasure
+627,627,TextGrid/-Sidea.xml,"Durch den kam ich in groß vnruh,
+                                    Must jhm holtz genug tragen zu
+                                    Vnd auch dasselb schneiden vnd spalten
+                                    Vnd thet mich auch gar übel halten
+                                    Vnd seiner Tochter übergeben,
+                                    Die mir balt gnommen hett das leben.",112,496,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,4.0,UNKNOWN,love,positive,emotions of affection
+628,628,TextGrid/-Sidea.xml,"Dann thet sie sich über mich armen
+                                    Halb todtkrancken Menschen erbarmen,
+                                    Thet mir forthin nicht mehr so wehe.",533,713,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,4.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+629,629,TextGrid/-Sidea.xml,"Die hat mich gnommen zu der Ehe,
+                                    Ist mit mir zogen biß nahend her.",750,852,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+630,630,TextGrid/-Sidea.xml,"Als sie kund nicht fort kommen mehr,
+                                    Hab ich sie abwegs von der Strassen
+                                    Auff einen Baumen steigen lassen,
+                                    Auff einer Kutschen her zu holn.",889,1136,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+631,631,TextGrid/-Sidea.xml,"Drumb, Herr Vatter, es wird befohln,
+                                    Das man Sidea führ hieher.",1173,1272,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+632,632,TextGrid/-Sidea.xml,"
+                                    
+                                       
+Ietzt kommen die Räht, bringen jhm kleider, legen jhn an.",0,135,stage_direction,4,0,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+633,633,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+634,634,TextGrid/-Sidea.xml,"
+                                    Mein lieber Sohn, was fehlt dir mehr?",0,74,character_speech,4,0,,LEUDEGAST,LEUDEGAST,5.0,UNKNOWN,compassion,negative,emotions of suffering and empathy
+635,635,TextGrid/-Sidea.xml,"Dann alles, was du thust begern,
+                                    Des woll wir dich gnedig gewern.",111,212,character_speech,4,0,,LEUDEGAST,LEUDEGAST,5.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+636,636,TextGrid/-Sidea.xml,"Auch theten wir dir vmbschauen
+                                    Nach der allerschönsten Jungkfrauen,
+                                    Die solstu nemen zu eim Weib.",249,418,character_speech,4,0,,LEUDEGAST,LEUDEGAST,5.0,UNKNOWN,love,positive,emotions of affection
+637,637,TextGrid/-Sidea.xml,"Derhalb, mein Sohn, fort bey vns bleib
+                                    Vnd gib dich nicht, wie vor, in gfehr!",455,568,character_speech,4,0,,LEUDEGAST,LEUDEGAST,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+638,638,TextGrid/-Sidea.xml,"Ihr Herrn, bringt doch die Jungkfrau her,
+                                    Die hie schon lang gewartet dein!",605,716,character_speech,4,0,,LEUDEGAST,LEUDEGAST,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+639,639,TextGrid/-Sidea.xml,Die wird auch hoch erfreuet sein.,753,786,character_speech,4,0,,LEUDEGAST,LEUDEGAST,5.0,UNKNOWN,joy,positive,emotions of pleasure
+640,640,TextGrid/-Sidea.xml,"
+                                    geht ab, tregt die Kleider ab, kompt wider, bringt Juliam, die Jungkfrau, vnd sagt.",0,120,stage_direction,4,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+641,641,TextGrid/-Sidea.xml,"
+                                    Gnediger Fürst, ich bring die Jungkfrau,
+                                    Das sie eur Gnaden Sohn anschau,
+                                    Den wir mit Freuden theten sehen!",0,216,character_speech,4,0,,ELEMAUS,ELEMAUS,6.0,UNKNOWN,joy,positive,emotions of pleasure
+642,642,TextGrid/-Sidea.xml,"JULIA, DIE JUNGKFRAU sagt.",253,279,character_speech,4,0,,ELEMAUS,ELEMAUS,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+643,643,TextGrid/-Sidea.xml,"Den Göttern wöll wir lob verjehen,
+                                    Die eur lieb zu Land gholffen han.",353,458,character_speech,4,0,,ELEMAUS,ELEMAUS,6.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+644,644,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+645,645,TextGrid/-Sidea.xml,"
+                                    Mein freud ich nicht außsprechen kan,
+                                    Das ich die stund hab eine gnommen,
+                                    Vnd das vnglück, darauß ich kommen,
+                                    Kan mir kein Mensch glauben auff Erden.",0,294,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,joy,positive,emotions of pleasure
+646,646,TextGrid/-Sidea.xml,"Doch hoff ich, es soll besser werden.",331,368,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+647,647,TextGrid/-Sidea.xml,Nach Regen kompt der Sonnenschein.,405,439,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,joy,positive,emotions of pleasure
+648,648,TextGrid/-Sidea.xml,"LEUDEGAST, DER FÜRST sagt.",476,502,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+649,649,TextGrid/-Sidea.xml,"Hertzlieber Sohn, so komb herein!",576,609,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+650,650,TextGrid/-Sidea.xml,"So wöll wir reden von den sachen,
+                                    Wie wir auffs ehest ein Hochzeit machen
+                                    Vnd als auffs köstlichst richten zu,
+                                    Das es an nichten mangeln thu!",646,895,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+651,651,TextGrid/-Sidea.xml,"
+                                    Sie gehn alle ab.",0,54,stage_direction,4,0,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+652,652,TextGrid/-Sidea.xml,Engelbrecht führet die Jungkfrau.,55,88,stage_direction,4,0,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+653,653,TextGrid/-Sidea.xml,"Ludolff, 
+der Hertzog, geht ein mit seinem Jahnen vnd sagt.",89,148,stage_direction,4,0,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+654,654,TextGrid/-Sidea.xml,"
+                                    Jahn Molitor, nun sein wir verdorben.",0,74,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+655,655,TextGrid/-Sidea.xml,Es muß sein gwunnen oder gstorben.,111,145,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+656,656,TextGrid/-Sidea.xml,"Mein Tochter will ich wider han
+                                    Oder mein leben setzen dran.",182,278,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,love,positive,emotions of affection
+657,657,TextGrid/-Sidea.xml,"Will der Jung Fürst Sidea bhalten,
+                                    Muß er mich beim Vatter, dem alten,
+                                    Wider zu hult vnd gnaden bringen.",315,491,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+658,658,TextGrid/-Sidea.xml,"Weil du bist schuldig an den dingen,
+                                    Das Sidea ist zogen davon,
+                                    So wirstu wissen, das best zu thon
+                                    Oder zu zahlen mit der häut.",528,763,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,7.0,UNKNOWN,anger,negative,emotions of rejection
+659,659,TextGrid/-Sidea.xml,"
+                                    ziecht ab vnd sagt.",0,56,stage_direction,4,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+660,660,TextGrid/-Sidea.xml,"
+                                    Ein kluger Mann ward ich allzeit.",0,70,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+661,661,TextGrid/-Sidea.xml,"Drumb, wenn eur Gnad mir folgen wolt,
+                                    Mein Kleider jhr anziehen solt,
+                                    So wolt ich eure ziehen an
+                                    Vnd darinn auch gen Hof mit gahn,
+                                    So vil practict suchen vnd finden,
+                                    Wie wir wider wegk führen künden
+                                    Die Sideam oder den Jungen.",107,549,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+662,662,TextGrid/-Sidea.xml,"Dardurch wird der alt Fürst bezwungen,
+                                    Das er zu fürkommung den schaden
+                                    Eur Fürstlich Gnad auch thet begnaden
+                                    Vnd machet mit euch einen Fridt.",586,836,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+663,663,TextGrid/-Sidea.xml,"LUDOLFFUS, DER FÜRST sagt.",873,899,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+664,664,TextGrid/-Sidea.xml,"Ja wol, versuchen schadt doch nit.",973,1007,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+665,665,TextGrid/-Sidea.xml,Wir wolln versuchen vnser Heil.,1044,1075,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+666,666,TextGrid/-Sidea.xml,Guts glück wöll sein auff vnserm theil!,1112,1151,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,joy,positive,emotions of pleasure
+667,667,TextGrid/-Sidea.xml,"
+                                    Sie gehn ab.",0,49,stage_direction,4,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+668,668,TextGrid/-Sidea.xml,Kompt Julia vnd sagt traurig.,50,79,stage_direction,4,0,speech_part,,,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+669,669,TextGrid/-Sidea.xml,"
+                                    Ach, ich bin in erfahrung kommen,
+                                    Fürst Engelbrecht hab vorhin gnommen
+                                    Sideam, die allrschönst Jungkfrau,
+                                    Deß Fürsten Tochter in Littau.",0,281,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+670,670,TextGrid/-Sidea.xml,Ach weh!,318,326,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+671,671,TextGrid/-Sidea.xml,"vnd wann das war soll sein,
+                                    So würd sie sich auch lassen ein,
+                                    
+                                       
+Mein Verliebnuß zu disputirn.",327,531,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,love,positive,emotions of affection
+672,672,TextGrid/-Sidea.xml,"So müst ich als die letzt verliern,
+                                    Darzu bestehn in spot vnd schand
+                                    Vor Reich vnd Armen in dem Land.",568,741,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+673,673,TextGrid/-Sidea.xml,"Ach, wenn ich das solt haben gwist,
+                                    Es bett mich keines Menschen list
+                                    In das Land nimmermehr gebracht.",778,952,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+674,674,TextGrid/-Sidea.xml,"Der Fürst mir die sach wol gut macht,
+                                    Verheist mir Silber Hügel vnd Berg.",989,1098,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+675,675,TextGrid/-Sidea.xml,"Geht mir derhalb nichts über zwerg,
+                                    Möcht ich villeicht noch wol bestehn.",1135,1244,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+676,676,TextGrid/-Sidea.xml,Ich will jetzt in mein Gmach nein gehn.,1281,1320,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+677,677,TextGrid/-Sidea.xml,"
+                                    Abgang.",0,44,stage_direction,4,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+678,678,TextGrid/-Sidea.xml,"Kompt Sidea, hat über jhre schöne Kleider eine schlechte Schauben an, eine stauchen auff, die sie bald von jhr werffen kan, tregt ein Scheurn voll Getrancks vnd sagt.",45,211,stage_direction,4,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+679,679,TextGrid/-Sidea.xml,"
+                                    Nun bin ich wol gen Hof her kommen,
+                                    Aber sehr böse mehr vernommen,
+                                    Nemlich das der Fürst Englbrecht
+                                    Hab nun mehr gar vergessen schlecht
+                                    Mein wohlthat, die ich jhm gethan,
+                                    Auch leib vnd leben gwaget dran,
+                                    Allerdings auß den augen gsetzt
+                                    Vnd ein andere gnommen zu letzt,
+                                    Mit der er heint helt sein Hochzeit.",0,630,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,anger,negative,emotions of rejection
+680,680,TextGrid/-Sidea.xml,"So hab ich jhm ein Trunck bereit,
+                                    Mit dem ich schleich nein zu den Gästen,
+                                    Vnd wenn sie sind bereit am besten,
+                                    So beut ich jhm den trunck zu Trincken.",667,925,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+681,681,TextGrid/-Sidea.xml,"Den ersten tropffen, den er will schlincken,
+                                    Der macht, das er mich muß erkennen,
+                                    Mich ehrn vnd mit Kamen nennen
+                                    Vnd dencken, was er mir versprach,
+                                    Mich zu Kirchen führen darnach,
+                                    Damit vnser traurigkeit anfang
+                                    Gewinn ein frölichen außgang.",962,1418,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+682,682,TextGrid/-Sidea.xml,"
+                                    Sie geht ab.",0,49,stage_direction,4,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+683,683,TextGrid/-Sidea.xml,"Kompt Leudegast, der Fürst, mit seinen Räthen Francisco vnd Elemao, Julia vnnd",50,128,stage_direction,4,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+684,684,TextGrid/-Sidea.xml,"
+                                    Engelbrecht, seinem Sohn, 
+setzt sich vnd sagt.",0,84,stage_direction,4,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+685,685,TextGrid/-Sidea.xml,"
+                                    Nun weil heut ist der Hochzeittag,
+                                    So legt von euch als leit vnd klagt
+                                    Es samblen sich die Fürsten vnd Herrn
+                                    Von allen Landen weit vnd ferrn,
+                                    Die begeren, vns diß Fest zu zirn.",0,357,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+686,686,TextGrid/-Sidea.xml,"Darumb so wil vns auch gebürn,
+                                    Bas wir jhn erzeigen als guts.",394,491,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+687,687,TextGrid/-Sidea.xml,Darumb seit alle gutes muts!,528,556,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+688,688,TextGrid/-Sidea.xml,"Balt wöll wir nach altem Exempl
+                                    Gehn in Jovis, deß grosen, Templ,
+                                    Euch darinn lassen Copulirn,
+                                    Essen, Trincken vnd Musicirn,
+                                    Rennen, Stechen, Streiten vnd Kempffen,
+                                    Mit kurtzweil alles trauren dempffen.",593,975,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+689,689,TextGrid/-Sidea.xml,"Darumb empfangt die frembten Gäst
+                                    Vnd ehret sie auffs allerbest!",1012,1112,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+690,690,TextGrid/-Sidea.xml,"
+                                    Sie neigen sich alle.",0,58,stage_direction,4,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+691,691,TextGrid/-Sidea.xml,"Kompt Sidea, wie vor gemelt, verkleidet, tregt jhre Scheurn in henden, gibt jhnen die hend, sagt darnach zum Breutigam.",59,178,stage_direction,4,0,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+692,692,TextGrid/-Sidea.xml,"
+                                    Herr Breutigam, ich bin ein gsande,
+                                    Villeicht euch gar ein vnbekante,
+                                    Doch von grossen Leuten hergschickt,
+                                    Das jhr euch jetzt stattlich erquickt
+                                    Vnd heut erfahrt, das jhr nicht west.",0,363,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+693,693,TextGrid/-Sidea.xml,So trinckt den Wein!,400,420,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+694,694,TextGrid/-Sidea.xml,der ist der best.,421,438,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+695,695,TextGrid/-Sidea.xml,"Den wil ich euch verehren heut
+                                    Auff euer Fürstliche Hochzeit.",475,572,character_speech,4,0,,JAHN MOLITOR,JAHN MOLITOR,8.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+696,696,TextGrid/-Sidea.xml,"
+                                    nimbt die Scheurn, sicht sie an, trinckt, legt die hend zusammen vnd sagt.",0,111,stage_direction,4,0,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+697,697,TextGrid/-Sidea.xml,"
+                                    Ach weh!",0,45,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,9.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+698,698,TextGrid/-Sidea.xml,"ich bin je gwest vermessen,
+                                    Das ich hab so schendlich vergessen
+                                    Sidea, der hertzliebsten mein.",46,212,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,9.0,UNKNOWN,love,positive,emotions of affection
+699,699,TextGrid/-Sidea.xml,"O weh, weh, jammer, angst vnd pein!",249,284,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,9.0,UNKNOWN,fear,negative,emotions of anxiety
+700,700,TextGrid/-Sidea.xml,"Weh, hertzenleid, seufftzen vnd schmertzen!",321,364,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,9.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+701,701,TextGrid/-Sidea.xml,"
+                                    Er zuckt den Dolchen vnd sagt.",0,67,stage_direction,4,0,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+702,702,TextGrid/-Sidea.xml,"
+                                    
+                                       
+Ich will meinem betrübten hertzen
+                                    Hiemit helffen auß langer pein
+                                    Vnd mir selbsten ein Richter sein,
+                                    Das ich meiner liebsten vergessen.",0,320,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,9.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+703,703,TextGrid/-Sidea.xml,"
+                                    Sidea fellt in Dolchen, sie lauffen alle zu.",0,81,stage_direction,4,0,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+704,704,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+705,705,TextGrid/-Sidea.xml,"
+                                    Mit was thorheit seit jhr besessen?",0,72,character_speech,4,0,,SIDEA,SIDEA,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+706,706,TextGrid/-Sidea.xml,Seit getrost!,109,122,character_speech,4,0,,SIDEA,SIDEA,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+707,707,TextGrid/-Sidea.xml,all sach wird noch gut.,123,146,character_speech,4,0,,SIDEA,SIDEA,10.0,UNKNOWN,joy,positive,emotions of pleasure
+708,708,TextGrid/-Sidea.xml,"Drumb fast, euch selbst ein kecken mut!",183,222,character_speech,4,0,,SIDEA,SIDEA,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+709,709,TextGrid/-Sidea.xml,"Ob jhr schon auf der willen Strassen
+                                    Sideam auff dem Baum verlassen,
+                                    So lebt sie doch noch frisch vnd gsund
+                                    Vnd jhr soll, sie sehen jetzund.",259,507,character_speech,4,0,,SIDEA,SIDEA,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+710,710,TextGrid/-Sidea.xml,"
+                                    Sidea wirfft die schauben vnd stauchen von sich.",0,85,stage_direction,4,0,speech_part,,,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+711,711,TextGrid/-Sidea.xml,"
+                                    fellt dem Vatter zu fuß vnd sagt.",0,70,stage_direction,4,0,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+712,712,TextGrid/-Sidea.xml,"
+                                    Ach, Herr Vatter, erbarmt euch mein!",0,73,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,11.0,UNKNOWN,compassion,negative,emotions of suffering and empathy
+713,713,TextGrid/-Sidea.xml,"Secht das Mensch, das da kompt herein,
+                                    Ist ein Tochter Fürsten Ludolffs,
+                                    Deß gmüt war böser, denn eins Wolffs.",110,292,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+714,714,TextGrid/-Sidea.xml,Der hat mich jhr zu eygen geben.,329,361,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,11.0,UNKNOWN,anger,negative,emotions of rejection
+715,715,TextGrid/-Sidea.xml,Die hat mich erhalten beim leben.,398,431,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,11.0,UNKNOWN,love,positive,emotions of affection
+716,716,TextGrid/-Sidea.xml,"Vnd hett die Jungkfrau nicht gethan,
+                                    Wehr ich vor lengst erfaulet schon.",468,576,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,11.0,UNKNOWN,fear,negative,emotions of anxiety
+717,717,TextGrid/-Sidea.xml,"Der versprach ich Ehliche pflicht,
+                                    Vnd als sie fort konnt kommen nicht,
+                                    Stellt ich s' auff einen Baum im Walt,
+                                    Verhieß, sie her zu holen balt,
+                                    Wie ich euch zeigt, Herr Vatter, an.",613,936,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+718,718,TextGrid/-Sidea.xml,"Darnach ich es vergessen han
+                                    Vnd mich mit Julia verlobt.",973,1065,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+719,719,TextGrid/-Sidea.xml,"Derhalb mein gwissen also tobt,
+                                    Das ich s' nicht kan zu Kirchen führn,
+                                    Will eh mein leben drob verliehrn.",1102,1279,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,11.0,UNKNOWN,anger,negative,emotions of rejection
+720,720,TextGrid/-Sidea.xml,"
+                                    Zu der Julia sagt er.",0,58,stage_direction,4,0,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+721,721,TextGrid/-Sidea.xml,"
+                                    Drumb bitt ich, Fürstlichs Fräuelein,
+                                    Last euch erbarmen meiner pein
+                                    Vnd gebt mich meiner Ehpflicht loß!",0,213,character_speech,4,0,,ENGELBRECHT,ENGELBRECHT,11.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+722,722,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+723,723,TextGrid/-Sidea.xml,"
+                                    Es ist daran nicht glegen groß.",0,68,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+724,724,TextGrid/-Sidea.xml,"Wann jhr sie vor mir habt genommen,
+                                    Solt ich billich nicht her sein kommen,
+                                    Dann das erst gelobt gehet doch vor.",105,289,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+725,725,TextGrid/-Sidea.xml,"Also muß ich nun armer thor
+                                    Von jederman groß schimpff einnemen.",326,426,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,anger,negative,emotions of rejection
+726,726,TextGrid/-Sidea.xml,"Doch habt jhrs euch noch mehr zu schemen,
+                                    Als ich, die ich nichts darumb west.",463,577,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,anger,negative,emotions of rejection
+727,727,TextGrid/-Sidea.xml,"LEUDEGAST, DER FÜRST sagt.",614,640,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+728,728,TextGrid/-Sidea.xml,"Ach, last bey euch bestehn das best!",714,750,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+729,729,TextGrid/-Sidea.xml,"Ist es gschehen vnwissent doch,
+                                    Das euch kein schimpff so groß vnd hoch,
+                                    Wie jhr vermelt, drauß kan entstehn.",787,968,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+730,730,TextGrid/-Sidea.xml,Thut mit vns in die Kirchen gehn!,1005,1038,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,joy,positive,emotions of pleasure
+731,731,TextGrid/-Sidea.xml,"Wir wöllen euch mit seines gleichen
+                                    Ein Gfürsten Sohn schönen vnd reichen,
+                                    Eh jhr wegk kompt, noch wol begaben.",1075,1258,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+732,732,TextGrid/-Sidea.xml,"Auch solt jhr von vns abtrag haben
+                                    Alles eurs schadens groß vnd klein.",1295,1401,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+733,733,TextGrid/-Sidea.xml,"
+                                    Er geht zu der Sidea, gibt jhr die hend vnd sagt.",0,86,stage_direction,4,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+734,734,TextGrid/-Sidea.xml,"
+                                    Ach, solt jhr denn mein Schnur fort sein?",0,78,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+735,735,TextGrid/-Sidea.xml,Eur Vatter ist mein ergster Feindt.,115,150,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,friendship,positive,emotions of affection
+736,736,TextGrid/-Sidea.xml,"So wolt ich, das er auch köm heint;
+                                    Wir wolten vns beede vertragen
+                                    Vnd forthin bey all vnsern tagen
+                                    Kein vnfried haben nimmermehr.",187,425,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+737,737,TextGrid/-Sidea.xml,"Auch habet danck der treu vnd ehr,
+                                    Die jhr habt meinem Sohn gethan!",462,565,character_speech,4,0,,JULIA,JULIA,12.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+738,738,TextGrid/-Sidea.xml,"
+                                    Man klopfft.",0,49,stage_direction,4,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+739,739,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+740,740,TextGrid/-Sidea.xml,"Lieber, sich, wer doch klopffet an!",0,35,character_speech,4,0,,DER FÜRST,DER FÜRST,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+741,741,TextGrid/-Sidea.xml,"
+                                    Man thut auff; geht Ludolffus, der Fürst, mit Jahn Molitor ein, stellt sich in ein ecken.",0,126,stage_direction,4,0,speech_part,,,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+742,742,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+743,743,TextGrid/-Sidea.xml,"
+                                    Wer seint die Leut, die herein gehn?",0,73,character_speech,4,0,,HERTZOG LEUDEGAST,HERTZOG LEUDEGAST,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+744,744,TextGrid/-Sidea.xml,Zwar gar vngleicher Gsellen zwen.,110,143,character_speech,4,0,,HERTZOG LEUDEGAST,HERTZOG LEUDEGAST,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+745,745,TextGrid/-Sidea.xml,"
+                                    sicht sich vmb, erkennt alsbalt jhrn Vatter vnd sagt.",0,90,stage_direction,4,0,speech_part,,,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+746,746,TextGrid/-Sidea.xml,"
+                                    Ach weh!",0,45,character_speech,4,0,,SIDEA,SIDEA,15.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+747,747,TextGrid/-Sidea.xml,es ist der Vatter mein.,46,69,character_speech,4,0,,SIDEA,SIDEA,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+748,748,TextGrid/-Sidea.xml,Wie waget er sich da herein?,106,134,character_speech,4,0,,SIDEA,SIDEA,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+749,749,TextGrid/-Sidea.xml,"
+                                    Zu jhrem Vatter sagt sie.",0,62,stage_direction,4,0,speech_part,,,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+750,750,TextGrid/-Sidea.xml,"
+                                    Ach, Herr Vatter, was macht jhr hie?",0,73,character_speech,4,0,,SIDEA,SIDEA,15.0,UNKNOWN,being moved,being moved,being moved
+751,751,TextGrid/-Sidea.xml,"Für euch bin ich erschrocken je,
+                                    Das jhr euch daher wagen thut.",110,209,character_speech,4,0,,SIDEA,SIDEA,15.0,UNKNOWN,being moved,being moved,being moved
+752,752,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+753,753,TextGrid/-Sidea.xml,"
+                                    Ach, solstu sein mein fleisch vnd blut
+                                    Vnd mich so jämmerlich verrahten?",0,145,character_speech,4,0,,LUDOLFF,LUDOLFF,16.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+754,754,TextGrid/-Sidea.xml,"
+                                    Er geht zu Leudegast vnd sagt.",0,67,stage_direction,4,0,speech_part,,,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+755,755,TextGrid/-Sidea.xml,"
+                                    Ich bitt, eur Lieb wöll mich begnaden.",0,75,character_speech,4,0,,LUDOLFF,LUDOLFF,16.0,UNKNOWN,love,positive,emotions of affection
+756,756,TextGrid/-Sidea.xml,"Weil sich die sach so hat begeben,
+                                    So will ich fort bey meinem leben
+                                    Nimmermehr thun wider eur Liebt.",112,285,character_speech,4,0,,LUDOLFF,LUDOLFF,16.0,UNKNOWN,love,positive,emotions of affection
+757,757,TextGrid/-Sidea.xml,"LEUDEGAST, DER FÜRST gibt jhm die hend vnd sagt.",322,370,character_speech,4,0,,LUDOLFF,LUDOLFF,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+758,758,TextGrid/-Sidea.xml,"Weil sich all ding also begibt,
+                                    Das wir nun sollen gut Freund sein,
+                                    Gib ich euch eur Land wider ein
+                                    Vnd mach mit euch ein stetten Fried,
+                                    Das keiner mehr den breche nit,
+                                    Sonder es stets dabey soll bleiben.",444,828,character_speech,4,0,,LUDOLFF,LUDOLFF,16.0,UNKNOWN,friendship,positive,emotions of affection
+759,759,TextGrid/-Sidea.xml,"So wöll wir den fleissig beschreiben,
+                                    Nach dem wir vns werden bereden,
+                                    Vnd Sigln mit vnsern Secreten,
+                                    So balt die Hochzeit hat ein end.",865,1108,character_speech,4,0,,LUDOLFF,LUDOLFF,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+760,760,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+761,761,TextGrid/-Sidea.xml,"
+                                    Aller vnfried soll sein verwend
+                                    In lauter Lieb vnd gut Freundschafft.",0,142,character_speech,4,0,,LUDOLFF,LUDOLFF,17.0,UNKNOWN,friendship,positive,emotions of affection
+762,762,TextGrid/-Sidea.xml,"Das auch fort derselbig hat krafft
+                                    Vnd fang balt an zu dieser stund,
+                                    Versprich ich euch mit Hand vnd Mund.",179,357,character_speech,4,0,,LUDOLFF,LUDOLFF,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+763,763,TextGrid/-Sidea.xml,"
+                                    gibt jhm die Hand vnd sagt zu seinem Eyden.",0,80,stage_direction,4,0,speech_part,,,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+764,764,TextGrid/-Sidea.xml,"
+                                    
+                                       
+Nun wünsch ich euch vil glücks vnd heil.",0,118,character_speech,4,0,,LUDOLFF,LUDOLFF,18.0,UNKNOWN,joy,positive,emotions of pleasure
+765,765,TextGrid/-Sidea.xml,"Wiewol ich euch hart hielt zum theil,
+                                    Ist es doch abgangen ohn schaden
+                                    Vnd noch alles zum besten grahten.",155,332,character_speech,4,0,,LUDOLFF,LUDOLFF,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+766,766,TextGrid/-Sidea.xml,"
+                                    sagt zum Jahnen.",0,53,stage_direction,4,0,speech_part,,,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+767,767,TextGrid/-Sidea.xml,"
+                                    Seh hin!",0,45,character_speech,4,0,,LUDOLFF,LUDOLFF,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+768,768,TextGrid/-Sidea.xml,hab dein Kleider wider!,46,69,character_speech,4,0,,LUDOLFF,LUDOLFF,19.0,UNKNOWN,anger,negative,emotions of rejection
+769,769,TextGrid/-Sidea.xml,Leg mir dargegen meine nider!,106,135,character_speech,4,0,,LUDOLFF,LUDOLFF,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+770,770,TextGrid/-Sidea.xml,"
+                                    Er legt sich Hochzeitlich an, Leudegast nimbt Juliam bey der hand vnd sagt.",0,112,stage_direction,4,0,speech_part,,,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+771,771,TextGrid/-Sidea.xml,"
+                                    Weil sich dann das glück zu vns wend
+                                    Vnd alle feindschafft hat ein end,
+                                    So kompt allsampt mit vns herein!",0,214,character_speech,4,0,,LUDOLFF,LUDOLFF,19.0,UNKNOWN,joy,positive,emotions of pleasure
+772,772,TextGrid/-Sidea.xml,"Last vns lustig vnd frölich sein
+                                    Vnd die Hochzeit anfangen schan!",251,352,character_speech,4,0,,LUDOLFF,LUDOLFF,19.0,UNKNOWN,joy,positive,emotions of pleasure
+773,773,TextGrid/-Sidea.xml,"Euch, Julia, gebn wir zum Mann
+                                    Vnsern Fürsten, Herrn Franciscum,
+                                    Mit einem zimlichen Reichthum,
+                                    Auff das dest grösser werd die freüd.",389,630,character_speech,4,0,,LUDOLFF,LUDOLFF,19.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+774,774,TextGrid/-Sidea.xml,"
+                                    Er führt sie zum Fürsten Francisco, gibt sie zusammen vnd sagt.",0,100,stage_direction,4,0,speech_part,,,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+775,775,TextGrid/-Sidea.xml,"
+                                    So gebn wir euch zusammen beyd;
+                                    So geht die Hochzeit in eim hin.",0,137,character_speech,4,0,,LUDOLFF,LUDOLFF,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+776,776,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+777,777,TextGrid/-Sidea.xml,"
+                                    Es ist kein schad, es bringt ein gwin.",0,75,character_speech,4,0,,FRANCISCUS,FRANCISCUS,20.0,UNKNOWN,joy,positive,emotions of pleasure
+778,778,TextGrid/-Sidea.xml,"Hertzallerliebste, nun seit getröst!",112,148,character_speech,4,0,,FRANCISCUS,FRANCISCUS,20.0,UNKNOWN,joy,positive,emotions of pleasure
+779,779,TextGrid/-Sidea.xml,Auß allem leidt seit jhr erlöst.,185,217,character_speech,4,0,,FRANCISCUS,FRANCISCUS,20.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+780,780,TextGrid/-Sidea.xml,Die Heüraht soll euch nicht gereuhen.,254,291,character_speech,4,0,,FRANCISCUS,FRANCISCUS,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+781,781,TextGrid/-Sidea.xml,"
+                                    sagt.",0,42,stage_direction,4,0,speech_part,,,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+782,782,TextGrid/-Sidea.xml,"
+                                    Wenns eur Lieb meint gen mir in treuen,
+                                    Ich mit eur Lieb zu frieden bin
+                                    Vnd ist mir alles trauren hin,
+                                    Will auch als thun, was euch gefellt.",0,285,character_speech,4,0,,JULIA,JULIA,21.0,UNKNOWN,love,positive,emotions of affection
+783,783,TextGrid/-Sidea.xml,"LEUDEGAST, DER FÜRST sagt.",322,348,character_speech,4,0,,JULIA,JULIA,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+784,784,TextGrid/-Sidea.xml,"Weil dann alle ding ist bestellt
+                                    Vnd die zeit ist vorhanden schen,
+                                    
+                                       
+Das man die Hochzeit fange an,
+                                    So folget vns allsampt hernach
+                                    Vnd leget von euch alle klag!",422,765,character_speech,4,0,,JULIA,JULIA,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+785,785,TextGrid/-Sidea.xml,Heut ist eur aller Freudentag.,802,832,character_speech,4,0,,JULIA,JULIA,21.0,UNKNOWN,joy,positive,emotions of pleasure
+786,786,TextGrid/-Sidea.xml,"
+                                    Sie gehn alle in einer Ordnung ab.",0,71,stage_direction,4,0,speech_part,,,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+787,787,TextGrid/-Sidea.xml,"
+                                    bleibt herauß vnd beschleust.",0,66,stage_direction,5,0,speech_part,,,1.0,UNKNOWN,joy,positive,emotions of pleasure
+788,788,TextGrid/-Sidea.xml,"
+                                    Diese History zeiget an,
+                                    Böß sey, dem sterckern stand zu than.",0,135,character_speech,5,0,,JAHN MOLITOR,JAHN MOLITOR,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+789,789,TextGrid/-Sidea.xml,"Derhalben, wo es sich zutregt,
+                                    Das man zu zoren wird bewegt,
+                                    Das man sich darin moderir,
+                                    Bedenck, wenn man die sach verlier,
+                                    Was schads vnd nachtheyl drauß entstehe.",172,481,character_speech,5,0,,JAHN MOLITOR,JAHN MOLITOR,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+790,790,TextGrid/-Sidea.xml,"Wol sagt man: aygner schad thut wehe;
+                                    Iedoch soll man dem sterckern reichen
+                                    Viel lieber schweigen oder weichen,
+                                    Als sich mit jhm in zanck begeben,
+                                    Dann der sterckst thut gmeincklich ob schweben.",518,856,character_speech,5,0,,JAHN MOLITOR,JAHN MOLITOR,1.0,UNKNOWN,fear,negative,emotions of anxiety
+791,791,TextGrid/-Sidea.xml,"Vnd ob schon der gering hernach
+                                    Erfind ein vortheil zu der rach,
+                                    Soll er sich doch deß nicht anmassen,
+                                    Vermeints glück nicht verführn lassen,
+                                    Dieweil es sich offt thut begeben,
+                                    Das heut ein theil thut oben schweben,
+                                    Das er doch kürtzlich wider fellt;
+                                    Dann girigkeit Gott nicht gefellt,
+                                    Sonder, wie die Schrifft thut melten,
+                                    Wöll er das böß selbst vergelten.",893,1574,character_speech,5,0,,JAHN MOLITOR,JAHN MOLITOR,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+792,792,TextGrid/-Sidea.xml,"Drumb thu man ein wenig gemach
+                                    Vnd handel also in der sach,
+                                    Das sichs zu beyden theilen leit
+                                    Vnd auß vorigem zanck vnd streit
+                                    Werde ein ewig einigkeit!",1611,1906,character_speech,5,0,,JAHN MOLITOR,JAHN MOLITOR,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+793,793,TextGrid/-Sidea.xml,"
+                                    Abgang.",0,44,stage_direction,5,0,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+794,794,TextGrid/-Sidea.xml,Ende.,0,5,character_speech,5,0,,JAHN MOLITOR,JAHN MOLITOR,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
