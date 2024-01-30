@@ -1,10 +1,10 @@
 # Emotions in Drama
 
-This is a GitHub-repository for the research project <a href="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Emotions_in_Drama/">Emotions in Drama</a>.
+This is a GitHub-repository for the research project <a href="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Emotions_in_Drama/">Emotions in Drama</a> (EmoDrama).
 
 The repository is used to store data and other material that is created during the project and meant to be published or serves as additional material for papers.
 
-Please refer to the reference section for informations about all publications and scientific contributions. 
+Please refer to the reference section for information about all publications and scientific contributions. 
 
 Some general information about the repository:
 <ul>
@@ -40,11 +40,11 @@ The annotation folder contains the final annotations of 18 plays according to ou
 ## Classification_Model
 This folder contains a link to the model used in <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> and Dennerlein, Schmidt and Wolff (2024) as well as evaluation information. The model achieves an average F1-score for sub-emotion classification of 72% and was fine-tuned for four epochs with a batch size of 32, a learning rate of 4e-5, and the Adam optimizer, utilizing a Tesla P100 GPU with the filtered annotations. 
 
-Please refer to the <a href="https://huggingface.co/">hugging face library</a> on how to use the unzipped model. We also included a link to a google colab for a basic usage example.
+Please refer to the <a href="https://huggingface.co/">hugging face library</a> on how to use the unzipped model and the models in this repository in general. We also included a link to a google colab for a basic usage example in this folder.
 
 ## Classification_Results
 
-The results of the application of the classification model on the sentences of 313 plays. Subsets of these results are used in <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> and Dennerlein, Schmidt and Wolff (2024). The original plays are from <a href="https://dracor.org/ger">GerDracor</a>, <a href="https://textgrid.de/">TextGrid</a> or based on our own preparations.
+The results of the application of the classification model on the sentences of 313 plays. Subsets of these results are used in <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> and Dennerlein, Schmidt and Wolff (2024). The original plays are from <a href="https://dracor.org/ger">GerDracor</a>, <a href="https://textgrid.de/">TextGrid</a> or based on our own work.
 
 Some information regarding the classification results:
 <ul>
@@ -62,7 +62,7 @@ Metadata about the plays used for the classification process. Plays can be ident
 Some information regarding the metadata:
 <ul>
   <li>The correct publication year (as used for Dennerlein, Schmidt & Wolff, 2024) is stored in the "Sortierdatum"-attribute. Other year attributes offer additional information.</li>
-  <li>Genre is stored in "genre classification": S=Schauspiel, T=Tragedy, K=Comedy. Via the subgenre attribute satirical typecomedies ("Sächsische Typenkomödien") are marked as they are used in <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a>.</li>
+  <li>Genre is stored in "genre classification": S=Schauspiel, T=Tragedy, K=Comedy. Via the subgenre attribute, satirical typecomedies ("Sächsische Typenkomödien") are marked as they are used in <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a>.</li>
 </ul>
 
 ## Additional_Data_Per_Paper
