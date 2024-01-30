@@ -21,13 +21,13 @@ The main components of this repository are described as follows:
 The annotation folder contains the final annotations of 18 plays according to our guidelines <a href="https://doi.org/10.5281/zenodo.6228152
 ">(Dennerlein, Schmidt & Wolff, 2022c)</a> and has the following structure:
 <ul>
-  <li>Emotions: Emotion annotations for 18 plays including implicit source/target annotations.</li>
+  <li><b>Emotions</b>: Emotion annotations for 18 plays including implicit source/target annotations.</li>
   <ul>
-    <li>Raw_Emotion_Annotations: Unfiltered (raw) emotion annotations by two annotators each.</li>
-    <li>Filtered_Emotion_Annotations_withNoAnnotation: Emotion annotations filterd by disagreements and including the no annotation class (non-annotated material).
+    <li><b>Raw_Emotion_Annotations</b>: Unfiltered (raw) emotion annotations by two annotators each.</li>
+    <li><b>Filtered_Emotion_Annotations_withNoAnnotation</b>: Emotion annotations filterd by disagreements and including the no annotation class (non-annotated material).
     These are the annotations used to train the final classification model.</li>
    </ul>
-    <li>Source_Target: Implicit and explicit source/target annotations for 18 plays and overall.</li>
+    <li><b>Source_Target</b>: Implicit and explicit source/target annotations for 18 plays and overall.</li>
   </ul>
   Some information regarding the annotations:
     <ul>
