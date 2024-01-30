@@ -99,3 +99,7 @@ Wolff, C., Dennerlein, K. & Schmidt, T. (2020). Emotions in Drama - Emotionen im
   <li><a href="https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/mitarbeiter/dennerlein/">Katrin Dennerlein</a></li>
   <li><a href="https://go.ur.de/christian-wolff">Christian Wolff</a></li>
 </ul>
+
+## Funding
+
+This project is funded by the DFG (German Research Association) in the priority programme Computational Literary Studies (SPP 2207/1) with two grants (project number 424207618; grants DE 2188/3-1 and WO 835/4-1). https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Emotions_in_Drama/
