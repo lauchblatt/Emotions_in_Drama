@@ -64,6 +64,21 @@ Some information regarding the metadata:
   <li>Genre is stored in "genre classification": S=Schauspiel, T=Tragedy, K=Comedy. Via the subgenre attribute satirical typecomedies ("Sächsische Typenkomödien") are marked as they are used in <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a>.</li>
 </ul>
 
+## Additional_Data_Per_Paper
+
+This folder contains additional data seperated by papers and publications:
+<ul>
+  <li><b>2021_vDHd_Using_Deep_Learning_For_Emotion_Analysis</b>: Evaluation results, models and further data for <a href="https://doi.org/10.26298/melusina.8f8w-y749-udlf ">Schmidt, Dennerlein and Wolff (2021c)</a>.</li>
+  <li><b>2021_LDK_Towards_A_Corpus_Historical_German_Plays_With_Emotion_Annotations</b>: All relevant data for <a href="https://doi.org/10.4230/OASIcs.LDK.2021.9">Schmidt, Dennerlein and Wolff (2021b)</a> can be found in the <b>Annotations</b>-folder in the main branch.</li>
+  <li><b>2021_LaTeCHCLfL_Emotion_Classification_In_German_Plays</b>: Evaluation results, models, and further data for <a href="https://doi.org/10.18653/v1/2021.latechclfl-1.8">Schmidt, Dennerlein and Wolff (2021a)</a>.</li>
+  <li><b>2022_DHd_Emotionen_Im_Kulturellen_Gedaechtnis_bewahren</b>: Additional annotation trend results (tables and visualizations) for <a href="https://doi.org/10.5281/zenodo.6327957">Dennerlein, Schmidt and Wolff (2022b)</a>. </li>
+  <li><b>2022_DHd_Evaluation_Computergestuetzter_Verfahren_der_Emotionsklassifikation</b>: Additional data (evaluation results, models etc.) for Schmidt, Dennerlein and Wolff (2022) can be found in the folder <b>2021_vDHd_Using_Deep_Learning_For_Emotion_Analysis</b>.</li>
+  <li><b>2022_DH_Emotion_Courses_In_German_Historical_Comedies_And_Tragedies</b>: Additional material including annotation and classification trend results (tables and visualizations), models, distribution data, graphs, and classification results for <a href="https://dh-abstracts.library.cmu.edu/works/11929">Dennerlein, Schmidt and Wolff (2022a)</a></li>
+  <li><b>2023_DH_Results_Of_Emotion_Annotation</b>: All relevant data for <a href="https://doi.org/10.5281/ZENODO.8107952">Schmidt, Dennerlein and Wolff (2023)</a> can be found in the <b>Annotations</b>-folder in the main branch.</li>
+  <li><b></b></li>
+  <li><b></b></li>
+</ul>
+
 ## Publications
 
 Brandes, Ph., Dennerlein, K., Jacke, J., Marshall, S., Pielström, St., Schneider, F. (2022). Modelling and Operationalizing Concepts in Computational Literary Studies. In DH2022 Local Organizing Committee (Ed.), Responding to Asian Diversity. Digital Humanities 2022 Conference Abstracts. (pp. 70–73). Alliance of Digital Humanities Organizations (ADHO). https://dh-abstracts.library.virginia.edu/works/11818 
