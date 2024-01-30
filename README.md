@@ -129,3 +129,20 @@ Wolff, C., Dennerlein, K. & Schmidt, T. (2020). Emotions in Drama - Emotionen im
 ## Funding
 
 This project is funded by the DFG (German Research Association) in the priority programme Computational Literary Studies (SPP 2207/1) with two grants (project number 424207618; grants DE 2188/3-1 and WO 835/4-1). https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Emotions_in_Drama/
+
+## License and Citation Information
+All material on this repository is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0 Deed license</a>. 
+
+That means if you use any material of this repository, please cite one or more of the papers in the publications section depending on what material you use and what fits your usage best. 
+
+If you use the annotations in general without a focus on a specific publication, please cite the following publications:
+
+Dennerlein, K., Schmidt, T., & Wolff, C. (2023b). EmoDrama. Ein Korpus mit Emotionsinformationen in Dramen von 1650-1815. Zeitschrift für digitale Geisteswissenschaften (ZfdG). https://doi.org/10.17175/2023_010
+
+Schmidt, T., Dennerlein, K., & Wolff, C. (2023). Results of Emotion Annotation in German Drama from 1650-1815. In A. Baillot, T. Tasovac, W. Scholger, & G. Vogeler (Eds.), Digital Humanities 2023. Collaboration as Opportunity (DH2023) (pp. 181–183). Alliance of Digital Humanities Organizations (ADHO). https://doi.org/10.5281/ZENODO.8107952
+
+If you use the final classification model or classification results from the main folder without a focus on a specific publication, please cite the following publications:
+
+Schmidt, T., Dennerlein, K., & Wolff, C. (2021). Emotion Classification in German Plays with Transformer-based Language Models Pretrained on Historical and Contemporary Language. In S. Degaetano-Ortlieb, A. Kazantseva, N. Reiter, & S. Szpakowicz (Eds.), Proceedings of the 5th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (pp. 67–79). Association for Computational Linguistics. https://doi.org/10.18653/v1/2021.latechclfl-1.8 
+
+Dennerlein, K., Schmidt, T., & Wolff, C. (2023). Computational emotion classification for genre corpora of German tragedies and comedies from 17th to early 19th century. Digital Scholarship in the Humanities, 38(4), 1466–1481. https://doi.org/10.1093/llc/fqad046 
