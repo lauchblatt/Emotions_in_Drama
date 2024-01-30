@@ -4,7 +4,17 @@ This is a GitHub-repository for the research project <a href="https://dfg-spp-cl
 
 The repository is used to store data and other material that is created during the project and meant to be published or serves as additional material for papers.
 
-Please refer to the reference section for informations about all publications and scientific contributions. The main components of this repository are described as follows:
+Please refer to the reference section for informations about all publications and scientific contributions. 
+
+Some general information about the repository:
+<ul>
+  <li>All data larger than 100 MB is either zipped or linked via Google Drive or Seafile.</li>
+  <li>English/German-translation information can be found here.</li>
+  <li>Some vocabulary in naming conventions of data may differ from the papers: tag_type = sub-emotions, base_polarity = (positive, negative, being moved, eventually no annotation), polarity = (only positive/negative)</li>
+  <li>Despite great care, errors in the data or folder structure can always occur. If you think you noticed a problem, feel free to reach out: thomas.schmidt@ur.de</li>
+</ul>
+
+The main components of this repository are described as follows:
 
 ## Annotations
 
