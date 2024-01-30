@@ -9,7 +9,7 @@ Please refer to the reference section for informations about all publications an
 Some general information about the repository:
 <ul>
   <li>All data larger than 100 MB is either zipped or linked via Google Drive or Seafile.</li>
-  <li>English/German-translation information can be found here.</li>
+  <li>English/German-translation information can be found <a href="https://github.com/lauchblatt/Emotions_in_Drama/blob/main/Annotations/emodrama_translation_set.pdf">here</a>.</li>
   <li>Some vocabulary in naming conventions of data may differ from the papers: tag_type = sub-emotions, base_polarity = (positive, negative, being moved, eventually no annotation), polarity = (only positive/negative)</li>
   <li>Despite great care, errors in the data or folder structure can always occur. If you think you noticed a problem, feel free to reach out: thomas.schmidt@ur.de</li>
 </ul>
