@@ -76,9 +76,9 @@ This folder contains additional data seperated by papers and publications:
   <li><b>2022_DHd_Evaluation_Computergestuetzter_Verfahren_der_Emotionsklassifikation</b>: Additional data (evaluation results, models etc.) for Schmidt, Dennerlein and Wolff (2022) can be found in the folder <b>2021_vDHd_Using_Deep_Learning_For_Emotion_Analysis</b>.</li>
   <li><b>2022_DH_Emotion_Courses_In_German_Historical_Comedies_And_Tragedies</b>: Additional material including annotation and classification trend results (tables and visualizations), models, distribution data, graphs, and classification results for <a href="https://dh-abstracts.library.cmu.edu/works/11929">Dennerlein, Schmidt and Wolff (2022a)</a></li>
   <li><b>2023_DH_Results_Of_Emotion_Annotation</b>: All relevant data for <a href="https://doi.org/10.5281/ZENODO.8107952">Schmidt, Dennerlein and Wolff (2023)</a> can be found in the <b>Annotations</b>-folder in the main branch.</li>
-  <li><b>2023_DSH_Computational_Emotion_Classification_For_Genre_Corpora</b>: All additional material for <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> including distribution analysis, visualizations, and classification results. The model used in this study can be found in the <b>Classification_Model folder of the main branch</b>.</li>
+  <li><b>2023_DSH_Computational_Emotion_Classification_For_Genre_Corpora</b>: All additional material for <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> including distribution analysis, visualizations, and classification results. The model used in this study can be found in the <b>Classification_Model</b> folder of the main branch.</li>
   <li><b>2023_ZfdG_EmoDrama_Ein_Korpus_mit_Emotionsinformationen</b>: All relevant data for <a href="https://doi.org/10.5281/ZENODO.8107952">Dennerlein, Schmidt and Wolff (2023b)</a> can be found in the <b>Annotations</b>-folder in the main branch.</li>
-  <li><b>2024_CDA_Emotions_in_Stage_Directions</b>:All additional material for Dennerlein, Schmidt and Wolff (2024) including distribution tables, visualizations, classification results, and word frequency data like word clouds. Please note that data regarding stage directions uses the abbreviation _stages and character speeches (spoken text) cp. The model used in this study can be found in the <b>Classification_Model folder of the main branch</b>. </li>
+  <li><b>2024_CDA_Emotions_in_Stage_Directions</b>:All additional material for Dennerlein, Schmidt and Wolff (2024) including distribution tables, visualizations, classification results, and word frequency data like word clouds. Please note that data regarding stage directions uses the abbreviation _stages and character speeches (spoken text) cp. The model used in this study can be found in the <b>Classification_Model</b> folder of the main branch. </li>
 </ul>
 
 ## Publications
@@ -136,7 +136,7 @@ All material on this repository is licensed under a <a href="https://creativecom
 
 <b>That means if you use any material of this repository, please cite one or more of the papers in the publications section depending on what material you use and what fits your usage best.</b>
 
-If you use <b>the annotations in general</b> without a focus on a specific publication, please cite the following publications:
+If you use <b>the annotations in general</b> or the metadata without a focus on a specific publication, please cite the following publications:
 <ul>
 <li>Dennerlein, K., Schmidt, T., & Wolff, C. (2023b). EmoDrama. Ein Korpus mit Emotionsinformationen in Dramen von 1650-1815. Zeitschrift für digitale Geisteswissenschaften (ZfdG). https://doi.org/10.17175/2023_010</li>
 
