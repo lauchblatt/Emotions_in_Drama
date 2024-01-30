@@ -1,0 +1,385 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1567,1567,1567,GerDracor/hafner-der-furchtsame.xml,"Alcantor, welcher Henrietten mit Gewalt in das Zimmer führt, Valere und Hanswurst
+            als Geister /Lisette / der Friseur / welcher zwey Lichter trägt, und die
+            Vorigen.",0,187,stage_direction,3,10,pre_speech,,,,,no_annotation,K,,1764.0,no_annotation,no_annotation
+1568,1568,1568,GerDracor/hafner-der-furchtsame.xml,im Herausgehen zu Valere.,0,25,stage_direction,3,10,speech_part,,#alcantor,517.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1569,1569,1569,GerDracor/hafner-der-furchtsame.xml,"Ich hoffe doch nicht, daß du so vermessen seyn wirst, Henrietten mit Gewalt mir aus
+              den Händen zu reißen?",0,119,character_speech,3,10,,ALCANTOR,#alcantor,517.0,MALE,fear,K,,1764.0,negative,emotions of anxiety
+1570,1570,1570,GerDracor/hafner-der-furchtsame.xml,/ Bruder Hasenkopf!,120,139,character_speech,3,10,,ALCANTOR,#alcantor,517.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1571,1571,1571,GerDracor/hafner-der-furchtsame.xml,Hausmeister!,140,152,character_speech,3,10,,ALCANTOR,#alcantor,517.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1572,1572,1572,GerDracor/hafner-der-furchtsame.xml,"und wer zugegen ist, hier bring
+              ich euch die lebendigen Geister zurück, die euch geplagt haben; es geht Betrug vor /
+              steht mir bey, die Gespenster sind mein Sohn und der Hanswurst.",153,361,character_speech,3,10,,ALCANTOR,#alcantor,517.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1573,1573,1573,GerDracor/hafner-der-furchtsame.xml,"Beyde wollen
+              Henrietten und Lisetten entführen.",362,423,character_speech,3,10,,ALCANTOR,#alcantor,517.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1574,1574,1574,GerDracor/hafner-der-furchtsame.xml,zu Hanswurst.,0,13,stage_direction,3,10,speech_part,,#valere,518.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1575,1575,1575,GerDracor/hafner-der-furchtsame.xml,Was fuer ein Teufel hat eben meinen Vater hiehergeführt?,0,56,character_speech,3,10,,VALERE,#valere,518.0,MALE,being moved,K,,1764.0,being moved,being moved
+1576,1576,1576,GerDracor/hafner-der-furchtsame.xml,"Fragen sie noch, wer anders, als der Friseurteufel; itzt wirds gut werden.",0,74,character_speech,3,10,,HANSWURST.,#hanswurst,519.0,MALE,Schadenfreude,K,,1764.0,positive,emotions of pleasure
+1577,1577,1577,GerDracor/hafner-der-furchtsame.xml,und Heinzenfeld stehen von der Erde auf.,0,40,stage_direction,3,10,speech_part,,#hasenkopf,520.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1578,1578,1578,GerDracor/hafner-der-furchtsame.xml,"Traum ich, oder wach ich?",0,25,character_speech,3,10,,HASENKOPF,#hasenkopf,520.0,MALE,being moved,K,,1764.0,being moved,being moved
+1579,1579,1579,GerDracor/hafner-der-furchtsame.xml,bist du hier Herr Bruder?,26,51,character_speech,3,10,,HASENKOPF,#hasenkopf,520.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1580,1580,1580,GerDracor/hafner-der-furchtsame.xml,was sagst du?,52,65,character_speech,3,10,,HASENKOPF,#hasenkopf,520.0,MALE,being moved,K,,1764.0,being moved,being moved
+1581,1581,1581,GerDracor/hafner-der-furchtsame.xml,"soll dieß möglich
+              seyn?",66,103,character_speech,3,10,,HASENKOPF,#hasenkopf,520.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1582,1582,1582,GerDracor/hafner-der-furchtsame.xml,so hat man mich betrügen wollen?,104,136,character_speech,3,10,,HASENKOPF,#hasenkopf,520.0,MALE,being moved,K,,1764.0,being moved,being moved
+1583,1583,1583,GerDracor/hafner-der-furchtsame.xml,Ja!,0,3,character_speech,3,10,,VALERE.,#valere,521.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1584,1584,1584,GerDracor/hafner-der-furchtsame.xml,"ich läugne es nicht, ich habe Henrietten entführen wollen; Henrietten, die,
+              ungeachtet ich sie dermalen durch List nicht habe erhalten können, dennoch meine
+              Gemahlin werden muß.",4,209,character_speech,3,10,,VALERE.,#valere,521.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1585,1585,1585,GerDracor/hafner-der-furchtsame.xml,Ja!,0,3,character_speech,3,10,,HANSWURST.,#hanswurst,522.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1586,1586,1586,GerDracor/hafner-der-furchtsame.xml,"ich läugne es auch nicht, ich habe die Lisette entführen wollen; die Lisette,
+              die, ungeachtet ich sie als Geist nicht habe davonbringen können, ich dennoch als
+              Fourierschütz mitnehmen werde.",4,222,character_speech,3,10,,HANSWURST.,#hanswurst,522.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1587,1587,1587,GerDracor/hafner-der-furchtsame.xml,Was für ein verdammter Zufall!,0,30,character_speech,3,10,,HASENKOPF.,#hasenkopf,523.0,MALE,being moved,K,,1764.0,being moved,being moved
+1588,1588,1588,GerDracor/hafner-der-furchtsame.xml,"was für eine ausserordentliche Vermessenheit, meine
+              Tochter mir mit Gewalt entführen zu wollen, und dieses noch dazu auf eine Art, die mir
+              einen solchen Schröcken zufüget, der mich hätte umbringen können.",31,263,character_speech,3,10,,HASENKOPF.,#hasenkopf,523.0,MALE,suffering,K,,1764.0,negative,emotions of suffering and empathy
+1589,1589,1589,GerDracor/hafner-der-furchtsame.xml,"Was wär es denn auch gewesen, wenn sie gleich gestorben wären, sie sind ja ohnedieß
+              schon alt.",0,108,character_speech,3,10,,HANSWURST.,#hanswurst,524.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1590,1590,1590,GerDracor/hafner-der-furchtsame.xml,Ja?,0,3,character_speech,3,10,,HASENKOPF.,#hasenkopf,525.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1591,1591,1591,GerDracor/hafner-der-furchtsame.xml,"das ist vortreflich gedacht, er wird ohnehin wieder der Urheber dieser schönen
+              Unternehmung gewesen seyn.",4,123,character_speech,3,10,,HASENKOPF.,#hasenkopf,525.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1592,1592,1592,GerDracor/hafner-der-furchtsame.xml,"Der Urheber war ich eben nicht, aber mein Mögliches hab ich beygetragen.",0,72,character_speech,3,10,,HANSWURST.,#hanswurst,526.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1593,1593,1593,GerDracor/hafner-der-furchtsame.xml,Dafür soll ihn der Henker belohnen.,0,35,character_speech,3,10,,HASENKOPF.,#hasenkopf,527.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1594,1594,1594,GerDracor/hafner-der-furchtsame.xml,"Aber euch Beyde kann ich weit weniger verdenken,
+              als die zwey Weibsbilder, die so vermessen sind, mit Soldaten bey der Nacht
+              durchzugehen.",36,202,character_speech,3,10,,HASENKOPF.,#hasenkopf,527.0,MALE,"admiration, reverence",K,,1764.0,positive,emotions of affection
+1595,1595,1595,GerDracor/hafner-der-furchtsame.xml,"Da sie, Herr Vater!",0,19,character_speech,3,10,,HENRIETTE.,#henriette,528.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1596,1596,1596,GerDracor/hafner-der-furchtsame.xml,"jederzeit einer zärtlichen Liebe, die nichts Sträfliches in sich
+              hatte, ohne Ursach entgegen waren, so hab ich endlich meinem liebsten Valere den
+              Vorschlag zugesagt, den er mir machte, daß ich heute Nacht mit ihm die Flucht
+              ergreifen sollte.",20,303,character_speech,3,10,,HENRIETTE.,#henriette,528.0,FEMALE,love,K,,1764.0,positive,emotions of affection
+1597,1597,1597,GerDracor/hafner-der-furchtsame.xml,"Sie mögen nun diese Sache mit vernünftigen oder zornigen Augen
+              ansehen, so sag ich ihnen, daß ich hiedurch ein geringes Verbrechen begangen habe,
+              weil meine Flucht nur einzig die Verbindung mit dem Valere zum Zwecke hatte, welcher
+              mich aus wahrer Liebe ehlichen und zugleich von der Sclaverey eines Vaters befreyen
+              wollte, der, nachdem er mich solange durch seine eingebildete Furcht fast zu todte
+              quälte, mich noch dazu mit dem närrischen ungeschliffenen und abgeschmackten
+              Heinzenfeld zu verbinden suchte.",304,895,character_speech,3,10,,HENRIETTE.,#henriette,528.0,FEMALE,abhorrence,K,,1764.0,negative,emotions of rejection
+1598,1598,1598,GerDracor/hafner-der-furchtsame.xml,vor sich.,0,9,stage_direction,3,10,speech_part,,#heinzenfeld,529.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1599,1599,1599,GerDracor/hafner-der-furchtsame.xml,Conjecturaliter oder vermuthlicher Weise sprechen sie von mir.,0,62,character_speech,3,10,,HEINZENFELD,#heinzenfeld,529.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1600,1600,1600,GerDracor/hafner-der-furchtsame.xml,Ja!,0,3,character_speech,3,10,,HASENKOPF.,#hasenkopf,530.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1601,1601,1601,GerDracor/hafner-der-furchtsame.xml,"und du must, und du wirst auch den Herrn von Heinzenfeld heyrathen.",4,71,character_speech,3,10,,HASENKOPF.,#hasenkopf,530.0,MALE,"admiration, reverence",K,,1764.0,positive,emotions of affection
+1602,1602,1602,GerDracor/hafner-der-furchtsame.xml,zu Hasenkopf.,0,13,stage_direction,3,10,speech_part,,#valere,531.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1603,1603,1603,GerDracor/hafner-der-furchtsame.xml,"Dafür steh ich ihnen, daß es nicht geschehen soll, eh soll sie das Wetter
+              erschlagen.",0,99,character_speech,3,10,,VALERE,#valere,531.0,MALE,"admiration, reverence",K,,1764.0,positive,emotions of affection
+1604,1604,1604,GerDracor/hafner-der-furchtsame.xml,zu Alcantor.,0,12,stage_direction,3,10,speech_part,,#hasenkopf,532.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1605,1605,1605,GerDracor/hafner-der-furchtsame.xml,"Aber so seh doch nur Herr Bruder, was sich dein Herr Sohn unterfängt, und du stehst
+              hier wie ein Hienz, als ob du nicht Vater wärest, und redest kein Wort.",0,169,character_speech,3,10,,HASENKOPF,#hasenkopf,532.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1606,1606,1606,GerDracor/hafner-der-furchtsame.xml,O Himmel!,0,9,character_speech,3,10,,ALCANTOR.,#alcantor,533.0,MALE,being moved,K,,1764.0,being moved,being moved
+1607,1607,1607,GerDracor/hafner-der-furchtsame.xml,ich werde mich leider gezwungener Weise in das Mittel legen müssen.,10,77,character_speech,3,10,,ALCANTOR.,#alcantor,533.0,MALE,suffering,K,,1764.0,negative,emotions of suffering and empathy
+1608,1608,1608,GerDracor/hafner-der-furchtsame.xml,"O ich werde der Sache ein End zu machen wissen, sobald der morgige Tag kömmt, soll
+              Henriette im Kloster seyn.",0,123,character_speech,3,10,,HASENKOPF.,#hasenkopf,534.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1609,1609,1609,GerDracor/hafner-der-furchtsame.xml,"Das werden sie vergebens unternehmen, denn ich versichere sie, daß keine
+              Klostermauren oder andere Gefängnisse mich so einzukerkern vermögend seyn sollten, daß
+              ich nicht den Weg finden würde, zu meinem Valere zu gelangen.",0,249,character_speech,3,10,,HENRIETTE.,#henriette,535.0,FEMALE,suffering,K,,1764.0,negative,emotions of suffering and empathy
+1610,1610,1610,GerDracor/hafner-der-furchtsame.xml,"Ich schwöhre desgleichen, daß ich wie ein zweyter Orpheus, Henrietten als meine
+              Euridice auch aus der Hölle hohlen wollte, und kurz ich muß Henrietten besitzen, oder
+              erwarten sie von mir ein Unternehmen, das ihrem Hause ein erstaunliches Unglück über
+              den Hals ziehen wird.",0,314,character_speech,3,10,,VALERE.,#valere,536.0,MALE,love,K,,1764.0,positive,emotions of affection
+1611,1611,1611,GerDracor/hafner-der-furchtsame.xml,zu Alcantor.,0,12,stage_direction,3,10,speech_part,,#hasenkopf,537.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1612,1612,1612,GerDracor/hafner-der-furchtsame.xml,"Herr Bruder, was ist zu thun?",0,29,character_speech,3,10,,HASENKOPF,#hasenkopf,537.0,MALE,compassion,K,,1764.0,negative,emotions of suffering and empathy
+1613,1613,1613,GerDracor/hafner-der-furchtsame.xml,"dein Sohn ist im Stande, ermordt sich selbst, und geht
+              nachdem feurig in meinem Hause herum, die zwey Leuthe sind rasend ineinander verliebt;
+              wenn du meyntest Herr Bruder, so könnten wir, die Schande unsrer Häuser zu vermeyden,
+              sie wohl zusammen heyrathen lassen, ich wollte schon sehen mit dem Heinzenfeld
+              zurechte zu kommen.",30,412,character_speech,3,10,,HASENKOPF,#hasenkopf,537.0,MALE,love,K,,1764.0,positive,emotions of affection
+1614,1614,1614,GerDracor/hafner-der-furchtsame.xml,vor sich.,0,9,stage_direction,3,10,speech_part,,#alcantor,538.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1615,1615,1615,GerDracor/hafner-der-furchtsame.xml,"Die Sache geht zu weit, nun kann ich nicht mehr, o Himmel!",0,58,character_speech,3,10,,ALCANTOR,#alcantor,538.0,MALE,suffering,K,,1764.0,negative,emotions of suffering and empathy
+1616,1616,1616,GerDracor/hafner-der-furchtsame.xml,"gib mir Kräfte, mich zu
+              entlarven.",59,107,character_speech,3,10,,ALCANTOR,#alcantor,538.0,MALE,fear,K,,1764.0,negative,emotions of anxiety
+1617,1617,1617,GerDracor/hafner-der-furchtsame.xml,Hasenkopf!,108,118,character_speech,3,10,,ALCANTOR,#alcantor,538.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1618,1618,1618,GerDracor/hafner-der-furchtsame.xml,/ Henriette!,119,131,character_speech,3,10,,ALCANTOR,#alcantor,538.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1619,1619,1619,GerDracor/hafner-der-furchtsame.xml,Valere!,132,139,character_speech,3,10,,ALCANTOR,#alcantor,538.0,MALE,being moved,K,,1764.0,being moved,being moved
+1620,1620,1620,GerDracor/hafner-der-furchtsame.xml,"höret mich, und erstaunet zugleich über ein
+              Geheimniß, das ich zwar erst auf meinem Sterbbethe zu offenbahren mir vorgenommen
+              habe, das ich aber nunmehro entdecken muß, um die größte Schande und ein
+              erschröckliches Laster von meinem Hause abzuwenden; es fällt mir zwar ungemein
+              schwehr, daß ich, liebster Hasenkopf!",140,511,character_speech,3,10,,ALCANTOR,#alcantor,538.0,MALE,being moved,K,,1764.0,being moved,being moved
+1621,1621,1621,GerDracor/hafner-der-furchtsame.xml,"mich dir, als einen Betrüger zeigen muß, allein
+              die Notwendigkeit der Sache, und mein innerer Richter befehlen mir, dir zu sagen, daß
+              Henriette keinesweges deine, sondern meine wahrhafte Tochter, und Valerens ächte
+              Schwester ist.",512,783,character_speech,3,10,,ALCANTOR,#alcantor,538.0,MALE,abhorrence,K,,1764.0,negative,emotions of rejection
+1622,1622,1622,GerDracor/hafner-der-furchtsame.xml,erstaunt.,0,9,stage_direction,3,10,speech_part,,#hasenkopf,539.0,MALE,being moved,K,,1764.0,being moved,being moved
+1623,1623,1623,GerDracor/hafner-der-furchtsame.xml,Was sagst du Herr Bruder!,0,25,character_speech,3,10,,HASENKOPF,#hasenkopf,539.0,MALE,being moved,K,,1764.0,being moved,being moved
+1624,1624,1624,GerDracor/hafner-der-furchtsame.xml,–,26,27,character_speech,3,10,,HASENKOPF,#hasenkopf,539.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1625,1625,1625,GerDracor/hafner-der-furchtsame.xml,erschrocken.,0,12,stage_direction,3,10,speech_part,,#henriette,540.0,FEMALE,being moved,K,,1764.0,being moved,being moved
+1626,1626,1626,GerDracor/hafner-der-furchtsame.xml,O Himmel!,0,9,character_speech,3,10,,HENRIETTE,#henriette,540.0,FEMALE,being moved,K,,1764.0,being moved,being moved
+1627,1627,1627,GerDracor/hafner-der-furchtsame.xml,"Valere, mein Bruder?",10,30,character_speech,3,10,,HENRIETTE,#henriette,540.0,FEMALE,being moved,K,,1764.0,being moved,being moved
+1628,1628,1628,GerDracor/hafner-der-furchtsame.xml,bestuerzt.,0,10,stage_direction,3,10,speech_part,,#valere,541.0,MALE,being moved,K,,1764.0,being moved,being moved
+1629,1629,1629,GerDracor/hafner-der-furchtsame.xml,"Henriette, die Geliebte!",0,24,character_speech,3,10,,VALERE,#valere,541.0,MALE,love,K,,1764.0,positive,emotions of affection
+1630,1630,1630,GerDracor/hafner-der-furchtsame.xml,meine Schwester!,25,41,character_speech,3,10,,VALERE,#valere,541.0,MALE,being moved,K,,1764.0,being moved,being moved
+1631,1631,1631,GerDracor/hafner-der-furchtsame.xml,Alcantor!,0,9,character_speech,3,10,,HASENKOPF.,#hasenkopf,542.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1632,1632,1632,GerDracor/hafner-der-furchtsame.xml,wie!,10,14,character_speech,3,10,,HASENKOPF.,#hasenkopf,542.0,MALE,being moved,K,,1764.0,being moved,being moved
+1633,1633,1633,GerDracor/hafner-der-furchtsame.xml,"wär es möglich, was du sagest?",15,45,character_speech,3,10,,HASENKOPF.,#hasenkopf,542.0,MALE,being moved,K,,1764.0,being moved,being moved
+1634,1634,1634,GerDracor/hafner-der-furchtsame.xml,"/ Henriette, deine Tochter?",46,73,character_speech,3,10,,HASENKOPF.,#hasenkopf,542.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1635,1635,1635,GerDracor/hafner-der-furchtsame.xml,Ja es ist nur allzuwahr!,0,24,character_speech,3,10,,ALCANTOR.,#alcantor,543.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1636,1636,1636,GerDracor/hafner-der-furchtsame.xml,"ich will dir alles entdecken; du weist noch sehr wohl, daß
+              zur nemlichen Zeit, wo du einer Erbschaft wegen dich verreiset hattest, unsere beyden
+              verstorbenen Frauen sich beysammen auf deinem Landgute befanden, allda zu gleicher
+              Zeit in das Wochenbeth kamen, und Jede eine Tochter zur Welt brachte, du weist auch
+              noch wohl, daß damals der Ruf ergieng, daß jene Tochter, welche meine Frau gebohren
+              hatte, in einigen Tagen gestorben wär.",25,529,character_speech,3,10,,ALCANTOR.,#alcantor,543.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1637,1637,1637,GerDracor/hafner-der-furchtsame.xml,"Darinn steckt nun der Betrug, den man gegen
+              dich bisher gespielet hat.",530,614,character_speech,3,10,,ALCANTOR.,#alcantor,543.0,MALE,abhorrence,K,,1764.0,negative,emotions of rejection
+1638,1638,1638,GerDracor/hafner-der-furchtsame.xml,"Das verstorbene Kind war dasjenige, wovon deine Frau die
+              Mutter gewesen, ich und mein Weib bedienten uns dieser seltenen Gelegenheit, und
+              überredeten deine Frau, welche ohnehin ganz kleinmüthig wegen des Schröckens war, den
+              sie durch die Bekanntmachung des Verlustes deiner Tochter dir verursachen würde, daß
+              sie meine gegenwärtige Tochter an Kindes statt annehmen, und dir hingegen mit uns
+              vormachen sollte, daß wir unsres Kindes verlustiget worden wären.",615,1141,character_speech,3,10,,ALCANTOR.,#alcantor,543.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1639,1639,1639,GerDracor/hafner-der-furchtsame.xml,"Deine Gemahlin
+              willigte um desto leichter in diesen Vorschlag, weil sie meine Frau besonders liebte,
+              und unser Kind durch dein Vermögen einst glücklich zu machen dachte.",1142,1339,character_speech,3,10,,ALCANTOR.,#alcantor,543.0,MALE,love,K,,1764.0,positive,emotions of affection
+1640,1640,1640,GerDracor/hafner-der-furchtsame.xml,"Der Betrug wurd
+              erwünscht zu Stande gebracht, und das Kindsweib und die Amme, ausser denen kein Mensch
+              Wissenschaft hievon hatte, brachte man durch Geld zur Verschwiegenheit, die ihnen der
+              Todt in einigen Jahren darnach ewig auferlegte; deine Gemahlin, meine Frau und ich
+              setzten eine Schrift auf, in welcher der Ausnahm enthalten war, daß, wenn du einst
+              noch durch die Ehe einen Erben bekommen solltest, deinem rechten Kinde nichts zu
+              entwenden, dir das ganze Geheimniß entdeckt werden sollte.",1340,1918,character_speech,3,10,,ALCANTOR.,#alcantor,543.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1641,1641,1641,GerDracor/hafner-der-furchtsame.xml,"Da sich aber dieses nicht
+              mehr erreignet hatte, so liessen wir die Sache auch bey unserer Absicht bewenden.",1919,2040,character_speech,3,10,,ALCANTOR.,#alcantor,543.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1642,1642,1642,GerDracor/hafner-der-furchtsame.xml,"Deine Frau und mein Weib mochten hierüber sich gleichwol vielleicht einige
+              Gewissensscrupel gemacht haben, weswegen sie sich entschlossen, bey ihrem Lebensende
+              dir den Irrthum aufzuklären, und dir dabey meine Tochter anzubefehlen, da aber deine
+              Gemahlin leider von einem jähen Todte überfallen ward, und mein Weib auf dem Lande
+              starb, so blieb dieß Geheimniß bis nun verborgen, und würde noch verborgen geblieben
+              seyn, wenn nicht der Himmel durch die sträfliche Liebe meines Sohnes gegen seine
+              eigene Schwester mich gezwungen hätte, den Betrug an den Tag zu legen.",2055,2703,character_speech,3,10,,ALCANTOR.,#alcantor,543.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1643,1643,1643,GerDracor/hafner-der-furchtsame.xml,"/ Herr Bruder,
+              wenn ich noch dieses Namens bey dir würdig bin, hier lis das Blat, wo deine Frau mit
+              unterzeichnet ist",2704,2849,character_speech,3,10,,ALCANTOR.,#alcantor,543.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1644,1644,1644,GerDracor/hafner-der-furchtsame.xml,Gibt dem Hasenkopf eine Schrift.,0,32,stage_direction,3,10,inner_speech,,#alcantor,543.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1645,1645,1645,GerDracor/hafner-der-furchtsame.xml,Ich weiß mich vor Erstaunen kaum zu fassen,0,42,character_speech,3,10,,HASENKOPF.,#hasenkopf,544.0,MALE,being moved,K,,1764.0,being moved,being moved
+1646,1646,1646,GerDracor/hafner-der-furchtsame.xml,List heimlich.,0,14,stage_direction,3,10,inner_speech,,#hasenkopf,544.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1647,1647,1647,GerDracor/hafner-der-furchtsame.xml,O Himmel!,0,9,character_speech,3,10,,HENRIETTE.,#henriette,545.0,FEMALE,being moved,K,,1764.0,being moved,being moved
+1648,1648,1648,GerDracor/hafner-der-furchtsame.xml,so spät lassest du mich meinen rechten Vater und Bruder erkennen,10,74,character_speech,3,10,,HENRIETTE.,#henriette,545.0,FEMALE,friendship,K,,1764.0,positive,emotions of affection
+1649,1649,1649,GerDracor/hafner-der-furchtsame.xml,Weint.,0,6,stage_direction,3,10,inner_speech,,#henriette,545.0,FEMALE,suffering,K,,1764.0,negative,emotions of suffering and empathy
+1650,1650,1650,GerDracor/hafner-der-furchtsame.xml,zu Henriette.,0,13,stage_direction,3,10,speech_part,,#hanswurst,546.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1651,1651,1651,GerDracor/hafner-der-furchtsame.xml,Seyen sie froh!,0,15,character_speech,3,10,,HANSWURST,#hanswurst,546.0,MALE,joy,K,,1764.0,positive,emotions of pleasure
+1652,1652,1652,GerDracor/hafner-der-furchtsame.xml,"sie kennen doch itzt gar zween Väter, einen rechten und einen
+              Ziehvater, lassen sie also vielmehr jene Kinder weinen, die sogar nicht einmal von
+              einem Vater etwas wissen.",16,214,character_speech,3,10,,HANSWURST,#hanswurst,546.0,MALE,suffering,K,,1764.0,negative,emotions of suffering and empathy
+1653,1653,1653,GerDracor/hafner-der-furchtsame.xml,Ja ja!,0,6,character_speech,3,10,,HASENKOPF.,#hasenkopf,547.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1654,1654,1654,GerDracor/hafner-der-furchtsame.xml,"Alcantor es ist deine Handschrift und zugleich die Unterschrift meines Weibes
+              / es ist wahr du hast mich hintergangen, allein du hast mich auf eine Art
+              hintergangen, die zu vergeben ist, denn da mich der Himmel mit keinem Kinde mehr
+              gesegnet hat, so ist mir durch diesen Betrug kein Leid zugefüget worden.",7,354,character_speech,3,10,,HASENKOPF.,#hasenkopf,547.0,MALE,suffering,K,,1764.0,negative,emotions of suffering and empathy
+1655,1655,1655,GerDracor/hafner-der-furchtsame.xml,fällt dem Hasenkopf zu Fuß.,0,27,stage_direction,3,10,speech_part,,#alcantor,548.0,MALE,abhorrence,K,,1764.0,negative,emotions of rejection
+1656,1656,1656,GerDracor/hafner-der-furchtsame.xml,Mein theurister Herr Bruder!,0,28,character_speech,3,10,,ALCANTOR,#alcantor,548.0,MALE,"admiration, reverence",K,,1764.0,positive,emotions of affection
+1657,1657,1657,GerDracor/hafner-der-furchtsame.xml,"sehe mich zu deinen Füssen, bey welchen ich dich um
+              Vergebung bitte, daß ich deine Güte und deine Freundschaft durch ein Unternehmen
+              mißgebrauchet habe, zu welchem mich meine vormalige Armuth, und dabey das sträfliche
+              Absehen, meine Tochter durch dein Vermögen einst glücklich zu machen, verleitet hat.",29,373,character_speech,3,10,,ALCANTOR,#alcantor,548.0,MALE,friendship,K,,1764.0,positive,emotions of affection
+1658,1658,1658,GerDracor/hafner-der-furchtsame.xml,"Bey deinen Füssen dank ich dir auch zugleich für alles, was du meinem Kinde, das ohne
+              sein Verschulden der Werkzeug meiner Betrügerey gewesen ist, Gutes erwiesen hast.",388,569,character_speech,3,10,,ALCANTOR,#alcantor,548.0,MALE,"admiration, reverence",K,,1764.0,positive,emotions of affection
+1659,1659,1659,GerDracor/hafner-der-furchtsame.xml,kniend.,0,7,stage_direction,3,10,speech_part,,#henriette,549.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1660,1660,1660,GerDracor/hafner-der-furchtsame.xml,Ach mein Erzeuger!,0,18,character_speech,3,10,,HENRIETTE,#henriette,549.0,FEMALE,being moved,K,,1764.0,being moved,being moved
+1661,1661,1661,GerDracor/hafner-der-furchtsame.xml,/ ach mein Pflegvater!,19,41,character_speech,3,10,,HENRIETTE,#henriette,549.0,FEMALE,suffering,K,,1764.0,negative,emotions of suffering and empathy
+1662,1662,1662,GerDracor/hafner-der-furchtsame.xml,"erlauben sie, daß eine unglückselige
+              Unschuldige sich zu ihren Füssen werffe, und ihr kindliches Herz für Beyde zugleich
+              theile.",42,198,character_speech,3,10,,HENRIETTE,#henriette,549.0,FEMALE,love,K,,1764.0,positive,emotions of affection
+1663,1663,1663,GerDracor/hafner-der-furchtsame.xml,Zum Alcantor.,0,13,stage_direction,3,10,inner_speech,,#henriette,549.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1664,1664,1664,GerDracor/hafner-der-furchtsame.xml," Sie mein Erzeuger, den ich in diesen beglückten
+              Augenblicken erst kennen lehrne, und sie mein Pflegvater!",0,120,character_speech,3,10,,HENRIETTE,#henriette,549.0,FEMALE,joy,K,,1764.0,positive,emotions of pleasure
+1665,1665,1665,GerDracor/hafner-der-furchtsame.xml,"Zum
+                Hasenkopf.",0,30,stage_direction,3,10,inner_speech,,#henriette,549.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1666,1666,1666,GerDracor/hafner-der-furchtsame.xml," dem ich durch alle Jahre meines Lebens so viele Gnaden, ja alles,
+              was ich besitze zu verdanken habe, sind Beyde meiner kindlichen Liebe gleich würdig,
+              ich umfasse ihre Knie, der Himmel segne sie, und ersetze ihnen aus seiner Hand häufig,
+              was meine Liebe, Gehorsam und Dankbarkeit Beyden sowol wegen Ertheilung als Erhaltung
+              meines Lebens zu bezahlen, unvermögend sind.",0,425,character_speech,3,10,,HENRIETTE,#henriette,549.0,FEMALE,love,K,,1764.0,positive,emotions of affection
+1667,1667,1667,GerDracor/hafner-der-furchtsame.xml,hebt Beyde von der Erde auf.,0,28,stage_direction,3,10,speech_part,,#hasenkopf,550.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1668,1668,1668,GerDracor/hafner-der-furchtsame.xml,Stehet auf!,0,11,character_speech,3,10,,HASENKOPF,#hasenkopf,550.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1669,1669,1669,GerDracor/hafner-der-furchtsame.xml,/ meine Henriette!,12,30,character_speech,3,10,,HASENKOPF,#hasenkopf,550.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1670,1670,1670,GerDracor/hafner-der-furchtsame.xml,"du bist mir unschätzbar, und ob du gleich deinen
+              rechten Vater gefunden hast, so sollst du doch, wie vorhin meine Tochter verbleiben,
+              denn du bist meiner Liebe vollkommen würdig.",31,237,character_speech,3,10,,HASENKOPF,#hasenkopf,550.0,MALE,love,K,,1764.0,positive,emotions of affection
+1671,1671,1671,GerDracor/hafner-der-furchtsame.xml,"Hat dein rechter Vater mich dadurch zu
+              hintergehen gesucht, daß er dich mir als ein Kind zugegeben hat, so sey auch dafür
+              seine Strafe, daß du meine Tochter verbleiben, mich wie deinen Vater ferners ehren,
+              lieben, und einstens die Besitzerin meines ganzen Vermögens werden sollest.",238,561,character_speech,3,10,,HASENKOPF,#hasenkopf,550.0,MALE,abhorrence,K,,1764.0,negative,emotions of rejection
+1672,1672,1672,GerDracor/hafner-der-furchtsame.xml,küst dem Hasenkopf die Hand.,0,28,stage_direction,3,10,speech_part,,#henriette,551.0,FEMALE,abhorrence,K,,1764.0,negative,emotions of rejection
+1673,1673,1673,GerDracor/hafner-der-furchtsame.xml,Was für Gnade!,0,14,character_speech,3,10,,HENRIETTE,#henriette,551.0,FEMALE,fear,K,,1764.0,negative,emotions of anxiety
+1674,1674,1674,GerDracor/hafner-der-furchtsame.xml,mein Herr!,15,25,character_speech,3,10,,HENRIETTE,#henriette,551.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1675,1675,1675,GerDracor/hafner-der-furchtsame.xml,–,26,27,character_speech,3,10,,HENRIETTE,#henriette,551.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1676,1676,1676,GerDracor/hafner-der-furchtsame.xml,zu Henriette.,0,13,stage_direction,3,10,speech_part,,#alcantor,552.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1677,1677,1677,GerDracor/hafner-der-furchtsame.xml,"Nenne ihn nicht Herr, sondern Vater, denn er ist allein bey dir dieses theuren Namens
+              würdig / ich habe mich deiner kindlichen Liebe gänzlichen unwürdig gemacht.",0,175,character_speech,3,10,,ALCANTOR,#alcantor,552.0,MALE,love,K,,1764.0,positive,emotions of affection
+1678,1678,1678,GerDracor/hafner-der-furchtsame.xml,"Da ich
+              dich meine Tochter, meine rechtschaffene Tochter solange verläugnet habe, nur
+              Hasenkopf ist deiner Liebe werth, und ich bin seiner Freundschaft gänzlich
+              unwürdig.",176,387,character_speech,3,10,,ALCANTOR,#alcantor,552.0,MALE,friendship,K,,1764.0,positive,emotions of affection
+1679,1679,1679,GerDracor/hafner-der-furchtsame.xml,"Nein Alcantor, dieser Zufall soll vielmehr das Band unsrer so alten Freundschaft von
+              neuen befestigen, wir wollen, da wir uns bishero nur dem Namen nach Brüder genennt
+              haben, uns in Zukunft wie würkliche Brueder auf das theuriste lieben.",0,265,character_speech,3,10,,HASENKOPF.,#hasenkopf,553.0,MALE,friendship,K,,1764.0,positive,emotions of affection
+1680,1680,1680,GerDracor/hafner-der-furchtsame.xml,Alcantor und Hasenkopf umarmen sich.,0,36,stage_direction,3,10,speech_part,,#hasenkopf,553.0,MALE,joy,K,,1764.0,positive,emotions of pleasure
+1681,1681,1681,GerDracor/hafner-der-furchtsame.xml,welcher bisher in Gedanken gestanden.,0,37,stage_direction,3,10,speech_part,,#valere,554.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1682,1682,1682,GerDracor/hafner-der-furchtsame.xml,"Endlich komm ich von meinem Erstaunen zu mir selbst, o Himmel!",0,62,character_speech,3,10,,VALERE,#valere,554.0,MALE,joy,K,,1764.0,positive,emotions of pleasure
+1683,1683,1683,GerDracor/hafner-der-furchtsame.xml,"was lassest du mich
+              erleben!",63,105,character_speech,3,10,,VALERE,#valere,554.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1684,1684,1684,GerDracor/hafner-der-furchtsame.xml,"ich, der ich mich noch niemals in eine verbindliche Liebe eingelassen habe,
+              muste eben ohne meinen Wissen die sträflichste Liebe der Welt erwählen, und meine
+              eigene Schwester lieben?",106,316,character_speech,3,10,,VALERE,#valere,554.0,MALE,love,K,,1764.0,positive,emotions of affection
+1685,1685,1685,GerDracor/hafner-der-furchtsame.xml,/ Henriette!,317,329,character_speech,3,10,,VALERE,#valere,554.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1686,1686,1686,GerDracor/hafner-der-furchtsame.xml,"Sie nennt sich nicht Henriette, sie heist Rosette, denn diesen Nam gab man ihr, als
+              sie zur Welt kamm.",0,116,character_speech,3,10,,ALCANTOR.,#alcantor,555.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1687,1687,1687,GerDracor/hafner-der-furchtsame.xml,"Sie muß Henriette verbleiben, da sie meine Tochter verbleibt.",0,61,character_speech,3,10,,HASENKOPF.,#hasenkopf,556.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1688,1688,1688,GerDracor/hafner-der-furchtsame.xml,"Henriette, vormals angebettete Geliebte, nunmehro theuriste Schwester!",0,70,character_speech,3,10,,VALERE.,#valere,557.0,MALE,love,K,,1764.0,positive,emotions of affection
+1689,1689,1689,GerDracor/hafner-der-furchtsame.xml,"/ was soll ich
+              zu dir sagen?",71,113,character_speech,3,10,,VALERE.,#valere,557.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1690,1690,1690,GerDracor/hafner-der-furchtsame.xml,"soll ich mich des Glückes erfreuen, dich als Schwester gefunden zu
+              haben, da ich dadurch an dir diejenige, die ich über alles der Welt geliebt habe, ja
+              eine Gemahlin selbst verliehre?",114,325,character_speech,3,10,,VALERE.,#valere,557.0,MALE,love,K,,1764.0,positive,emotions of affection
+1691,1691,1691,GerDracor/hafner-der-furchtsame.xml,"Verdopple deine brüderliche Liebe gegen mich, so wie ich sie als Schwester gegen dich
+              vervielfältige, wir wollen uns immer stärker lieben, und einer sträflichen Liebe
+              gänzlichen vergessen, die uns auch nur bey der Erinnerung Schröcken und Abscheu
+              erwecken muß, und die, falls sie zu Stande gekommen wär, uns Lebenslang dem Himmel
+              verabscheuungswürdig und unglücklich gemacht hätte.",0,437,character_speech,3,10,,HENRIETTE.,#henriette,558.0,FEMALE,love,K,,1764.0,positive,emotions of affection
+1692,1692,1692,GerDracor/hafner-der-furchtsame.xml,"Der Himmel hat mir die Gnade gegeben, noch zur Zeit eurem Unglücke vorzukommen.",0,79,character_speech,3,10,,ALCANTOR.,#alcantor,559.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1693,1693,1693,GerDracor/hafner-der-furchtsame.xml,"Liebt
+              euch Beyde mit der Freundschaft heiliger Liebe, solang ihr athmet.",80,166,character_speech,3,10,,ALCANTOR.,#alcantor,559.0,MALE,love,K,,1764.0,positive,emotions of affection
+1694,1694,1694,GerDracor/hafner-der-furchtsame.xml,Das ist eine Begebenheit!,0,25,character_speech,3,10,,LISETTE.,#lisette,560.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1695,1695,1695,GerDracor/hafner-der-furchtsame.xml,wer hätte dieß heut noch alles vermuthen sollen.,26,74,character_speech,3,10,,LISETTE.,#lisette,560.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1696,1696,1696,GerDracor/hafner-der-furchtsame.xml,"Die Welt gleicht einem Kopfe, der lange nicht gekraußt worden, denn sie ist voll
+              Verwicklung.",0,107,character_speech,3,10,,FRISEUR.,#friseur,561.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1697,1697,1697,GerDracor/hafner-der-furchtsame.xml,Was erlebt man nicht alles temporaliter oder zeitlicher Weise.,0,62,character_speech,3,10,,HEINZENFELD.,#heinzenfeld,562.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1698,1698,1698,GerDracor/hafner-der-furchtsame.xml,"Wer hätt sich sollen vorstellen, daß das Fräulein Henriette ein Wechselbalg seyn
+              sollte?",0,102,character_speech,3,10,,HANSWURST.,#hanswurst,563.0,MALE,being moved,K,,1764.0,being moved,being moved
+1699,1699,1699,GerDracor/hafner-der-furchtsame.xml,Wie?,0,4,character_speech,3,10,,HASENKOPF.,#hasenkopf,564.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1700,1700,1700,GerDracor/hafner-der-furchtsame.xml,/ was sagt er guter Freund?,5,32,character_speech,3,10,,HASENKOPF.,#hasenkopf,564.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1701,1701,1701,GerDracor/hafner-der-furchtsame.xml,wer ist ein Wechselbalg?,33,57,character_speech,3,10,,HASENKOPF.,#hasenkopf,564.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1702,1702,1702,GerDracor/hafner-der-furchtsame.xml,Nu!,0,3,character_speech,3,10,,HANSWURST.,#hanswurst,565.0,MALE,being moved,K,,1764.0,being moved,being moved
+1703,1703,1703,GerDracor/hafner-der-furchtsame.xml,"das Fräulein ist ja verwechselt worden, folgsam ist es ja ein Wechselbalg.",4,78,character_speech,3,10,,HANSWURST.,#hanswurst,565.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1704,1704,1704,GerDracor/hafner-der-furchtsame.xml,"Sie ist freylich mir statt meiner Tochter gegeben worden, aber derowegen ist sie kein
+              Wechselbalg.",0,112,character_speech,3,10,,HASENKOPF.,#hasenkopf,566.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1705,1705,1705,GerDracor/hafner-der-furchtsame.xml,"Wechselbälge nennt man nur diejenigen ungestalteten Geschöpfe, die statt
+              anderer Kinder den Eltern durch Gespenster oder sonst durch böse Leuthe verwechselt
+              werden.",113,305,character_speech,3,10,,HASENKOPF.,#hasenkopf,566.0,MALE,abhorrence,K,,1764.0,negative,emotions of rejection
+1706,1706,1706,GerDracor/hafner-der-furchtsame.xml,Ja!,0,3,character_speech,3,10,,HANSWURST.,#hanswurst,567.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1707,1707,1707,GerDracor/hafner-der-furchtsame.xml,"das müssen sie freylich wohl wissen, denn sie sind ja der Geister und
+              Trudenmacher.",4,101,character_speech,3,10,,HANSWURST.,#hanswurst,567.0,MALE,abhorrence,K,,1764.0,negative,emotions of rejection
+1708,1708,1708,GerDracor/hafner-der-furchtsame.xml,"Ey schweig er, er weiß nicht, was er redet.",0,43,character_speech,3,10,,HASENKOPF.,#hasenkopf,568.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1709,1709,1709,GerDracor/hafner-der-furchtsame.xml,Was wird denn finaliter oder endlicher Weise aus der ganzen Sache werden?,0,73,character_speech,3,10,,HEINZENFELD.,#heinzenfeld,569.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1710,1710,1710,GerDracor/hafner-der-furchtsame.xml,"wollen sie
+              die ganze Nacht hier stehen bleiben?",74,135,character_speech,3,10,,HEINZENFELD.,#heinzenfeld,569.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1711,1711,1711,GerDracor/hafner-der-furchtsame.xml,"Da sich eine so unverhofte Sache in der Nacht ereignet hat, so glaub ich wenigstens,
+              daß Keines von allen, die hieran Antheil haben, sich zu Bethe legen, gesinnet seyn
+              wird, allein wir wollen uns in ein anderes Zimmer begeben, wo wir uns alle setzen, und
+              weiter aus der Sache reden können.",0,331,character_speech,3,10,,HASENKOPF.,#hasenkopf,570.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1712,1712,1712,GerDracor/hafner-der-furchtsame.xml,zu Hasenkopf.,0,13,stage_direction,3,10,speech_part,,#heinzenfeld,571.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1713,1713,1713,GerDracor/hafner-der-furchtsame.xml,"Da geh ich nicht mit, ich habe gerne meine Ruh bey der Nacht; ich gehe sie nur
+              quaestionaliter oder Fragweise an, ob das Fräulein mich heyrathen will oder nicht?",0,175,character_speech,3,10,,HEINZENFELD,#heinzenfeld,571.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1714,1714,1714,GerDracor/hafner-der-furchtsame.xml,"Ich als ihr Pflegvater nehme mich der Sache nichts mehr an, sondern überlasse alles
+              ihrem eigenen Willen.",0,119,character_speech,3,10,,HASENKOPF.,#hasenkopf,572.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1715,1715,1715,GerDracor/hafner-der-furchtsame.xml,"Und ich als ihr Erzeuger bin nicht entgegen, wenn sie ja spricht.",0,65,character_speech,3,10,,ALCANTOR.,#alcantor,573.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1716,1716,1716,GerDracor/hafner-der-furchtsame.xml,"Herr von Heinzenfeld, ich sage ihnen ohne Verstellung, daß sie für mich nicht gemacht
+              sind, und daß ich, da mein Geliebter zum Bruder geworden, mich nicht zu verbinden
+              gedenke, sondern vielleicht gar entschliessen werde, in ein Kloster zu gehen.",0,273,character_speech,3,10,,HENRIETTE.,#henriette,574.0,FEMALE,love,K,,1764.0,positive,emotions of affection
+1717,1717,1717,GerDracor/hafner-der-furchtsame.xml,Nu!,0,3,character_speech,3,10,,HEINZENFELD.,#heinzenfeld,575.0,MALE,being moved,K,,1764.0,being moved,being moved
+1718,1718,1718,GerDracor/hafner-der-furchtsame.xml,"wenn sie lieber claustraliter oder klösterlicher Weise, als conjugaliter oder
+              ehlicher Weise leben wollen, so kann ich auch nicht dafür, es ist gut, daß ich es
+              weiß, so geh ich morgen recessualiter oder zurückkehrender Weise nach meinem
+              Vaterlande",4,293,character_speech,3,10,,HEINZENFELD.,#heinzenfeld,575.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1719,1719,1719,GerDracor/hafner-der-furchtsame.xml,Geht ab.,0,8,stage_direction,3,10,inner_speech,,#heinzenfeld,575.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1720,1720,1720,GerDracor/hafner-der-furchtsame.xml,"Die heute so unverhoft entstandene Begebenheit macht, daß ich meiner Schwester zu
+              Liebe die Abreise zum Regimente bis übermorgen verschieben werde, denn ein so
+              unverhofter Zufall wird hinreichend seyn, mich zu entschuldigen, wenn ich auch etwas
+              später beym Regimente eintreffe.",0,319,character_speech,3,10,,VALERE.,#valere,576.0,MALE,joy,K,,1764.0,positive,emotions of pleasure
+1721,1721,1721,GerDracor/hafner-der-furchtsame.xml,"Ich muß also gegen 12 Uhr nach dem Wirthshause gehen, und die Post abschaffen.",0,78,character_speech,3,10,,HANSWURST.,#hanswurst,577.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1722,1722,1722,GerDracor/hafner-der-furchtsame.xml,"Herr
+              von Hasenkopf, da unser Vorhaben nicht ausgeführt worden, so nehmen sie hier die
+              Chatouille wieder, die mit uns hätt reisen sollen",79,242,character_speech,3,10,,HANSWURST.,#hanswurst,577.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1723,1723,1723,GerDracor/hafner-der-furchtsame.xml,"Gibt sie dem
+                Hasenkopf.",0,39,stage_direction,3,10,inner_speech,,#hanswurst,577.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1724,1724,1724,GerDracor/hafner-der-furchtsame.xml,"Pravo, ihr habt recht treflich eingepackt.",0,42,character_speech,3,10,,HASENKOPF.,#hasenkopf,578.0,MALE,joy,K,,1764.0,positive,emotions of pleasure
+1725,1725,1725,GerDracor/hafner-der-furchtsame.xml,Ja!,0,3,character_speech,3,10,,HANSWURST.,#hanswurst,579.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1726,1726,1726,GerDracor/hafner-der-furchtsame.xml,"wir hätten das Haus auch gerne hineingepackt, wenn es möglich gewesen wär.",4,78,character_speech,3,10,,HANSWURST.,#hanswurst,579.0,MALE,joy,K,,1764.0,positive,emotions of pleasure
+1727,1727,1727,GerDracor/hafner-der-furchtsame.xml,Das will ich gerne glauben.,0,27,character_speech,3,10,,HASENKOPF.,#hasenkopf,580.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1728,1728,1728,GerDracor/hafner-der-furchtsame.xml,"Der Herr Fourierschütz muß überhaupt das meiste überall
+              beygetragen haben.",28,116,character_speech,3,10,,HASENKOPF.,#hasenkopf,580.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1729,1729,1729,GerDracor/hafner-der-furchtsame.xml,"/ Nun ist zwar alles verziehen, aber als Gespenster mich zu
+              erschrecken, das war zu arg, wo ihr doch wisset, wie sehr ich der Furcht ergeben
+              bin.",117,290,character_speech,3,10,,HASENKOPF.,#hasenkopf,580.0,MALE,fear,K,,1764.0,negative,emotions of anxiety
+1730,1730,1730,GerDracor/hafner-der-furchtsame.xml,"Wir haben eben geglaubt, sie dadurch gescheider zu machen.",0,58,character_speech,3,10,,HANSWURST.,#hanswurst,581.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1731,1731,1731,GerDracor/hafner-der-furchtsame.xml,Und was will denn der Friseur so spät bey mir im Hause?,0,55,character_speech,3,10,,HASENKOPF.,#hasenkopf,582.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1732,1732,1732,GerDracor/hafner-der-furchtsame.xml,Ich hab die ganze Hochzeit auseinander frisieren müssen.,0,56,character_speech,3,10,,FRISEUR.,#friseur,583.0,MALE,suffering,K,,1764.0,negative,emotions of suffering and empathy
+1733,1733,1733,GerDracor/hafner-der-furchtsame.xml,"Er war mein Werkzeug, er hat alles ausspaehen, und mir zur Ausführung meines
+              Vorhabens verhülflich seyn müssen.",0,125,character_speech,3,10,,ALCANTOR.,#alcantor,584.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1734,1734,1734,GerDracor/hafner-der-furchtsame.xml,"Den Friseur muß ich, bevor ich noch zum Regimente reise, mit meinen Händen
+              aufkrausen, denn er hat mit meinem Herrn schlecht gehandelt.",0,149,character_speech,3,10,,HANSWURST.,#hanswurst,585.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1735,1735,1735,GerDracor/hafner-der-furchtsame.xml,zu Hanswurst.,0,13,stage_direction,3,10,speech_part,,#valere,586.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1736,1736,1736,GerDracor/hafner-der-furchtsame.xml,"Dank ihm vielmehr, daß er meiner Liebe hinderlich gewesen.",0,58,character_speech,3,10,,VALERE,#valere,586.0,MALE,love,K,,1764.0,positive,emotions of affection
+1737,1737,1737,GerDracor/hafner-der-furchtsame.xml,"Frisirt wird heut Nacht nichts mehr, sonst bin ich auch hier nicht nothwendig, ich",0,82,character_speech,3,10,,FRISEUR.,#friseur,587.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1738,1738,1738,GerDracor/hafner-der-furchtsame.xml, werd für mich ein Beth suchen.,0,31,character_speech,3,10,,FRISEUR.,#friseur,587.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1739,1739,1739,GerDracor/hafner-der-furchtsame.xml,Gehorsamster Diener allerseits,32,62,character_speech,3,10,,FRISEUR.,#friseur,587.0,MALE,"admiration, reverence",K,,1764.0,positive,emotions of affection
+1740,1740,1740,GerDracor/hafner-der-furchtsame.xml,Geht ab.,0,8,stage_direction,3,10,inner_speech,,#friseur,587.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1741,1741,1741,GerDracor/hafner-der-furchtsame.xml,zu Alcantor.,0,12,stage_direction,3,10,speech_part,,#hanswurst,588.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1742,1742,1742,GerDracor/hafner-der-furchtsame.xml,"Nur das einzige sagen sie mir zur Gnade, durch was für einen Schelmenstreich sie mir
+              den Schmähbrief an das Fräulein und an die Lisette in die Hand gespielt haben.",0,177,character_speech,3,10,,HANSWURST,#hanswurst,588.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1743,1743,1743,GerDracor/hafner-der-furchtsame.xml,"Eben als du deines Herrn Brief der Lisette geben wolltest, hab ich hinter euch meinen
+              der Lisette vorgehalten, und deinen weggenommen.",0,148,character_speech,3,10,,ALCANTOR.,#alcantor,589.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1744,1744,1744,GerDracor/hafner-der-furchtsame.xml,Was sie für ein sinnreicher Strick sind.,0,40,character_speech,3,10,,HANSWURST.,#hanswurst,590.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1745,1745,1745,GerDracor/hafner-der-furchtsame.xml,zu Hanswurst.,0,13,stage_direction,3,10,speech_part,,#hasenkopf,591.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1746,1746,1746,GerDracor/hafner-der-furchtsame.xml,"He, vergeht euch gegen den Vater eures Herrn nicht!",0,51,character_speech,3,10,,HASENKOPF,#hasenkopf,591.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1747,1747,1747,GerDracor/hafner-der-furchtsame.xml,"/ Freunde, Tochter!",52,71,character_speech,3,10,,HASENKOPF,#hasenkopf,591.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1748,1748,1748,GerDracor/hafner-der-furchtsame.xml,"folget mir,
+              wir wollen die heutige Nacht mit Unterredungen zubringen, und wenn wir uns von unserer
+              Verwunderung gnug erholet haben, erst zu Bethe gehn.",72,251,character_speech,3,10,,HASENKOPF,#hasenkopf,591.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1749,1749,1749,GerDracor/hafner-der-furchtsame.xml,"Mir ist es ohnehin gleich recht,
+              denn ich wollte, daß ich alle Nächte so viele Leuthe um mich hätte.",252,366,character_speech,3,10,,HASENKOPF,#hasenkopf,591.0,MALE,joy,K,,1764.0,positive,emotions of pleasure
+1750,1750,1750,GerDracor/hafner-der-furchtsame.xml,Liebster Bruder!,0,16,character_speech,3,10,,ALCANTOR.,#alcantor,592.0,MALE,love,K,,1764.0,positive,emotions of affection
+1751,1751,1751,GerDracor/hafner-der-furchtsame.xml,"für alle deine Gnaden, die du mir und meinem Kinde bisher erwiesen
+              hast, und noch erweisen willst, weiß ich dir nichts anderes Dienstbares zu bezeigen,
+              als daß ich alle Kraefte anwende, dir deine ungegründete Furcht, die dich bisher fast
+              zu todte geqäulet hat, zu benehmen, und ehe nicht nachlasse, bis ich dieses mein
+              Vorhaben zu Stande gebracht habe.",17,425,character_speech,3,10,,ALCANTOR.,#alcantor,592.0,MALE,"admiration, reverence",K,,1764.0,positive,emotions of affection
+1752,1752,1752,GerDracor/hafner-der-furchtsame.xml,nimmt ein Licht vom Tische.,0,27,stage_direction,3,10,speech_part,,#hasenkopf,593.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1753,1753,1753,GerDracor/hafner-der-furchtsame.xml,"Es ist wahr, daß meine Furcht meistentheils ohne Ursach gewesen, die heutige Nacht
+              allein hat mir so vielen Schröcken verursachet, den ich leicht hätte vermeiden können,
+              wenn ich den Grund der Sache genauer untersucht hätte; ich werde in Zukunft mich so
+              leichterdingen nicht mehr fürchten, aber daß es Geister gebe, werd ich Lebenslang
+              glauben, und wegen der Trud und der Klage, davon wollen wir ein andermal reden –
+              Folgen sie mir.",0,502,character_speech,3,10,,HASENKOPF,#hasenkopf,593.0,MALE,fear,K,,1764.0,negative,emotions of anxiety
+1754,1754,1754,GerDracor/hafner-der-furchtsame.xml,"Hasenkopf, Valere, Henriette und Alcantor gehen ab.",0,51,stage_direction,3,10,inner_speech,,#hasenkopf,593.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1755,1755,1755,GerDracor/hafner-der-furchtsame.xml,zu Hanswurst.,0,13,stage_direction,3,10,speech_part,,#lisette,594.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1756,1756,1756,GerDracor/hafner-der-furchtsame.xml,Wie steht es denn bey dieser Verwirrung mit unserer Heyrath?,0,60,character_speech,3,10,,LISETTE,#lisette,594.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1757,1757,1757,GerDracor/hafner-der-furchtsame.xml,Sehr schlecht.,0,14,character_speech,3,10,,HANSWURST.,#hanswurst,595.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1758,1758,1758,GerDracor/hafner-der-furchtsame.xml,"Die Henriette hat mein Herr doch für eine Tochter des alten Hasenkopf
+              gehalten, und gleichwol ist es zuletzt herausgekommen, daß sie einen andern Vater hat,
+              und seine Schwester ist.",15,224,character_speech,3,10,,HANSWURST.,#hanswurst,595.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1759,1759,1759,GerDracor/hafner-der-furchtsame.xml,Wie koennt es erst bey uns gehn?,225,257,character_speech,3,10,,HANSWURST.,#hanswurst,595.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1760,1760,1760,GerDracor/hafner-der-furchtsame.xml,"du hast keine Eltern mehr,
+              und ich weiß gar nicht, ob ich einen Vater gehabt hab, denn ich bin beym Regimente
+              aufgewachsen.",258,409,character_speech,3,10,,HANSWURST.,#hanswurst,595.0,MALE,suffering,K,,1764.0,negative,emotions of suffering and empathy
+1761,1761,1761,GerDracor/hafner-der-furchtsame.xml,"Einstens, wenn ich dich schon geheyrathet hätte, könnt es herauskommen,
+              daß ich entweder dein Bruder wäre, oder daß du gar die Schwester vom ganzen Regiment
+              wärest, da könnt alsdenn eine Historie entstehn, daß wir die Händ über den Kopf
+              zusammenschlagen müsten.",410,713,character_speech,3,10,,HANSWURST.,#hanswurst,595.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1762,1762,1762,GerDracor/hafner-der-furchtsame.xml,"Es ist gesnüder, wir bleiben jedes für sich",714,757,character_speech,3,10,,HANSWURST.,#hanswurst,595.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1763,1763,1763,GerDracor/hafner-der-furchtsame.xml,"Geht
+                ab.",0,24,stage_direction,3,10,inner_speech,,#hanswurst,595.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1764,1764,1764,GerDracor/hafner-der-furchtsame.xml,"Er macht es eben so, wie alle falsche Mannsbilder, die froh sind, wenn sie eine
+              Ausrede finden, sich von einem Mädel loszubringen, der sie schon lange das Maul
+              gemacht haben",0,201,character_speech,3,10,,LISETTE.,#lisette,596.0,FEMALE,abhorrence,K,,1764.0,negative,emotions of rejection
+1765,1765,1765,GerDracor/hafner-der-furchtsame.xml,Geht ab.,0,8,stage_direction,3,10,inner_speech,,#lisette,596.0,FEMALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1766,1766,1766,GerDracor/hafner-der-furchtsame.xml,"richtet sich im Bethe auf, und schreyt.",0,39,stage_direction,3,10,speech_part,,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1767,1767,1767,GerDracor/hafner-der-furchtsame.xml,He!,0,3,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1768,1768,1768,GerDracor/hafner-der-furchtsame.xml,wie viel Uhr ists?,4,22,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1769,1769,1769,GerDracor/hafner-der-furchtsame.xml,Springt zum Beth heraus.,0,24,stage_direction,3,10,inner_speech,,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1770,1770,1770,GerDracor/hafner-der-furchtsame.xml, Was Plunder!,0,13,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,anger,K,,1764.0,negative,emotions of rejection
+1771,1771,1771,GerDracor/hafner-der-furchtsame.xml,"ist kein
+              Mensch mehr hier?",14,54,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,despair,K,,1764.0,negative,emotions of anxiety
+1772,1772,1772,GerDracor/hafner-der-furchtsame.xml,"sind sie alle fortgelaufen, und haben mich alleine liegen lassen?",55,120,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,being moved,K,,1764.0,being moved,being moved
+1773,1773,1773,GerDracor/hafner-der-furchtsame.xml,oder sind sie alle von Geistern zerrissen worden?,135,184,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,being moved,K,,1764.0,being moved,being moved
+1774,1774,1774,GerDracor/hafner-der-furchtsame.xml,da muß ich gleich nachsehen.,185,213,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1775,1775,1775,GerDracor/hafner-der-furchtsame.xml,"– Aber
+              ich hab unvergleichlich geschlafen, und noch dazu einen recht wunderlichen Traum
+              gehabt.",214,337,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1776,1776,1776,GerDracor/hafner-der-furchtsame.xml,"Mir traumte, daß ich in der Komödie agiret, zuletzt, wie sie gewöhnlich auf
+              folgenden Tag verkünden, selbst verkündet, und gesagt hätte: Es wird etc.",338,501,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1777,1777,1777,GerDracor/hafner-der-furchtsame.xml,etc.,502,506,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1778,1778,1778,GerDracor/hafner-der-furchtsame.xml,–,507,508,character_speech,3,10,,HAUSMEISTER,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1779,1779,1779,GerDracor/hafner-der-furchtsame.xml,Nb.,0,3,stage_direction,3,10,speech_part,,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation
+1780,1780,1780,GerDracor/hafner-der-furchtsame.xml,"Hier meldet er das nächstkünftige Schauspiel, und die Decke fällt zu.",4,73,stage_direction,3,10,speech_part,,#hausmeister,597.0,MALE,no_annotation,K,,1764.0,no_annotation,no_annotation

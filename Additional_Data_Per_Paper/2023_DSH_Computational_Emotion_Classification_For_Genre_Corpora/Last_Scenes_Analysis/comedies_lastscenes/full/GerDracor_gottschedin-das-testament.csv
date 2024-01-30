@@ -1,0 +1,80 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2636,2636,2636,GerDracor/gottschedin-das-testament.xml,Frau von Tiefenborn.,0,20,stage_direction,5,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2637,2637,2637,GerDracor/gottschedin-das-testament.xml,Fräulein Amalie.,21,37,stage_direction,5,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2638,2638,2638,GerDracor/gottschedin-das-testament.xml,Fräulein Karoline.,38,56,stage_direction,5,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2639,2639,2639,GerDracor/gottschedin-das-testament.xml,"Herr Landrat von
+            Ziegendorf.",57,97,stage_direction,5,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2640,2640,2640,GerDracor/gottschedin-das-testament.xml,Der Kammerherr von Ziegendorf.,98,128,stage_direction,5,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2641,2641,2641,GerDracor/gottschedin-das-testament.xml,Herr von Kaltenbrunn.,129,150,stage_direction,5,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2642,2642,2642,GerDracor/gottschedin-das-testament.xml,Herr von Kreuzweg.,151,169,stage_direction,5,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2643,2643,2643,GerDracor/gottschedin-das-testament.xml,Dr.,170,173,stage_direction,5,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2644,2644,2644,GerDracor/gottschedin-das-testament.xml,Hippokras.,186,196,stage_direction,5,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2645,2645,2645,GerDracor/gottschedin-das-testament.xml,Sie stehen alle auf.,0,20,stage_direction,5,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2646,2646,2646,GerDracor/gottschedin-das-testament.xml,zur Amalie.,0,11,stage_direction,5,9,speech_part,,#frau_von_tiefenborn,1109.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2647,2647,2647,GerDracor/gottschedin-das-testament.xml,"Nun, Fräulein?",0,14,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1109.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2648,2648,2648,GerDracor/gottschedin-das-testament.xml,Den Ausgang des Testaments hättest du dir wohl nicht vermutet?,15,77,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1109.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2649,2649,2649,GerDracor/gottschedin-das-testament.xml,sehr betrübt.,0,13,stage_direction,5,9,speech_part,,#fraeulein_amalie,1110.0,FEMALE,suffering,K,ST,1745.0,negative,emotions of suffering and empathy
+2650,2650,2650,GerDracor/gottschedin-das-testament.xml,"Ich weiß freilich nicht, womit ich eine so große Ungnade verdienet habe.",0,72,character_speech,5,9,,FRÄULEIN AMALIE,#fraeulein_amalie,1110.0,FEMALE,abhorrence,K,ST,1745.0,negative,emotions of rejection
+2651,2651,2651,GerDracor/gottschedin-das-testament.xml,Womit?,0,6,character_speech,5,9,,FRAU VON TIEFENBORN.,#frau_von_tiefenborn,1111.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2652,2652,2652,GerDracor/gottschedin-das-testament.xml,"Mit deinem falschen, bösartigen Herzen; mit deiner undankbaren Art, mich
+              hinter meinem Rücken zu schmähen und vor den Augen noch so freundlich zu tun.",7,171,character_speech,5,9,,FRAU VON TIEFENBORN.,#frau_von_tiefenborn,1111.0,FEMALE,anger,K,ST,1745.0,negative,emotions of rejection
+2653,2653,2653,GerDracor/gottschedin-das-testament.xml,"Bedenke
+              nur alles, was du gegen den Herrn von Ziegendorf gesagt hast, wie du ihn noch für den
+              Doktor Schlagbalsam hieltest, so wirst du dich nicht mehr wundern, warum ich so mit
+              dir verfahre.",172,405,character_speech,5,9,,FRAU VON TIEFENBORN.,#frau_von_tiefenborn,1111.0,FEMALE,anger,K,ST,1745.0,negative,emotions of rejection
+2654,2654,2654,GerDracor/gottschedin-das-testament.xml,"Indessen steht es noch bei dir, ob du es künftig besser haben willst.",406,475,character_speech,5,9,,FRAU VON TIEFENBORN.,#frau_von_tiefenborn,1111.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2655,2655,2655,GerDracor/gottschedin-das-testament.xml,Mein Haus soll ferner dein Aufenthalt sein.,490,533,character_speech,5,9,,FRAU VON TIEFENBORN.,#frau_von_tiefenborn,1111.0,FEMALE,love,K,ST,1745.0,positive,emotions of affection
+2656,2656,2656,GerDracor/gottschedin-das-testament.xml,"Ich will dir nichts von allem dem
+              entziehen, was ich bisher auf dich gewandt habe; und wirst du dein Herz bessern, so
+              kann ich vielleicht auch, weil ich noch lebe, meine Wohltaten gegen dich verdoppeln.",534,764,character_speech,5,9,,FRAU VON TIEFENBORN.,#frau_von_tiefenborn,1111.0,FEMALE,"admiration, reverence",K,ST,1745.0,positive,emotions of affection
+2657,2657,2657,GerDracor/gottschedin-das-testament.xml,"Nur daß ich dich in den Stand habe setzen müssen, daß dir künftighin mein Leben so
+              lieb sein muß, als dir bisher mein Tod angenehm erschienen.",779,935,character_speech,5,9,,FRAU VON TIEFENBORN.,#frau_von_tiefenborn,1111.0,FEMALE,love,K,ST,1745.0,positive,emotions of affection
+2658,2658,2658,GerDracor/gottschedin-das-testament.xml,geht betrübt hin und küßt ihr die Hand.,0,39,stage_direction,5,9,speech_part,,#fraeulein_amalie,1112.0,FEMALE,"admiration, reverence",K,ST,1745.0,positive,emotions of affection
+2659,2659,2659,GerDracor/gottschedin-das-testament.xml,zum Herrn von Kaltenbrunn.,0,26,stage_direction,5,9,speech_part,,#frau_von_tiefenborn,1113.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2660,2660,2660,GerDracor/gottschedin-das-testament.xml,"Und du, mein sauberer Herr Neffe, kannst deinen heutigen Abendschmaus immer
+              einstellen.",0,101,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1113.0,FEMALE,anger,K,ST,1745.0,negative,emotions of rejection
+2661,2661,2661,GerDracor/gottschedin-das-testament.xml,"Ich wollte gern die Ehre haben, dich bei meiner Verlöbnis zu sehen, und es
+              wird kein so großes Verbrechen sein, wenn man einmal ein paar Juden zum Narren hat.",102,274,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1113.0,FEMALE,anger,K,ST,1745.0,negative,emotions of rejection
+2662,2662,2662,GerDracor/gottschedin-das-testament.xml,Ernsthaft.,0,10,stage_direction,5,9,inner_speech,,#frau_von_tiefenborn,1113.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2663,2663,2663,GerDracor/gottschedin-das-testament.xml," Du hast ja meine bisherigen Wohltaten zu deinem eigenen
+              Verderben übel genug angewandt und meine Güte auf eine recht schändliche Weise
+              gemißbraucht.",0,177,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1113.0,FEMALE,abhorrence,K,ST,1745.0,negative,emotions of rejection
+2664,2664,2664,GerDracor/gottschedin-das-testament.xml,Anjetzund habe ich dir also zween Vorschläge zu tun.,178,230,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1113.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2665,2665,2665,GerDracor/gottschedin-das-testament.xml,"Entweder suche
+              Kriegsdienste.",231,274,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1113.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2666,2666,2666,GerDracor/gottschedin-das-testament.xml,"Ich will selbst durch meine guten Freunde dir eine Fähnrichsstelle zu
+              verschaffen suchen.",275,378,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1113.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2667,2667,2667,GerDracor/gottschedin-das-testament.xml,"Du darfst dir nur ein Regiment erwählen, wo die meisten Freimäurer
+              drunter sind.",379,473,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1113.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2668,2668,2668,GerDracor/gottschedin-das-testament.xml,"Oder räume noch heute abend mein Haus, komme mir nimmermehr wieder vor
+              die Augen, und sage keinem Menschen, daß ich deine Muhme sei.",474,620,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1113.0,FEMALE,being moved,K,ST,1745.0,being moved,being moved
+2669,2669,2669,GerDracor/gottschedin-das-testament.xml,macht einen tiefen Reverenz.,0,28,stage_direction,5,9,speech_part,,#herr_von_kaltenbrunn,1114.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2670,2670,2670,GerDracor/gottschedin-das-testament.xml,zur Fräulein Karoline.,0,22,stage_direction,5,9,speech_part,,#herr_von_kreuzweg,1115.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2671,2671,2671,GerDracor/gottschedin-das-testament.xml,"Erlauben Sie mir, mein schönstes Fräulein, daß ich mir anitzt von der Frau Oberstin
+              eine gnädige Einwilligung ausbitten darf, mich durch Dero Besitz glücklich zu
+              machen.",0,197,character_speech,5,9,,HERR VON KREUZWEG,#herr_von_kreuzweg,1115.0,MALE,joy,K,ST,1745.0,positive,emotions of pleasure
+2672,2672,2672,GerDracor/gottschedin-das-testament.xml,lächelnd.,0,9,stage_direction,5,9,speech_part,,#fraeulein_karoline,1116.0,FEMALE,joy,K,ST,1745.0,positive,emotions of pleasure
+2673,2673,2673,GerDracor/gottschedin-das-testament.xml,"Ersparen Sie sich die Mühe, mein Herr von Kreuzweg.",0,51,character_speech,5,9,,FRÄULEIN KAROLINE,#fraeulein_karoline,1116.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2674,2674,2674,GerDracor/gottschedin-das-testament.xml,"Ich habe nur gar zu deutlich
+              gemerkt, daß Ihr Entschluß, um eine von uns beiden zu werben, auf der Freigebigkeit
+              der Frau Muhme beruhet hat.",52,220,character_speech,5,9,,FRÄULEIN KAROLINE,#fraeulein_karoline,1116.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2675,2675,2675,GerDracor/gottschedin-das-testament.xml,"Allein, ich will Ihnen nur meine Eigenliebe verraten.",221,274,character_speech,5,9,,FRÄULEIN KAROLINE,#fraeulein_karoline,1116.0,FEMALE,love,K,ST,1745.0,positive,emotions of affection
+2676,2676,2676,GerDracor/gottschedin-das-testament.xml,"Mich
+              dünkt, ich wäre auch ohne das nicht eben zu verachten gewesen, und damit ich's kurz
+              mache: vorhin war ich Ihnen zu arm, und itzt komme ich mir zu reich gegen Sie vor.",275,474,character_speech,5,9,,FRÄULEIN KAROLINE,#fraeulein_karoline,1116.0,FEMALE,abhorrence,K,ST,1745.0,negative,emotions of rejection
+2677,2677,2677,GerDracor/gottschedin-das-testament.xml,"Anitzt erfordert ohnedem die Dankbegierde von mir, daß ich meine bisherigen Dienste
+              gegen die Frau Muhme verdoppele, und ich werde gewiß, solange sie lebt, an keine
+              Heirat denken.",489,696,character_speech,5,9,,FRÄULEIN KAROLINE,#fraeulein_karoline,1116.0,FEMALE,"admiration, reverence",K,ST,1745.0,positive,emotions of affection
+2678,2678,2678,GerDracor/gottschedin-das-testament.xml,zum Herrn von Kreuzweg.,0,23,stage_direction,5,9,speech_part,,#frau_von_tiefenborn,1117.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2679,2679,2679,GerDracor/gottschedin-das-testament.xml,Ich kann es meiner Muhme nicht verdenken.,0,41,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1117.0,FEMALE,joy,K,ST,1745.0,positive,emotions of pleasure
+2680,2680,2680,GerDracor/gottschedin-das-testament.xml,"Es ist nicht gar zu verbindlich gegen das
+              Frauenzimmer, wenn man den Eigennutz so gar sehr merken läßt.",42,159,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1117.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2681,2681,2681,GerDracor/gottschedin-das-testament.xml,"Zu allen
+                Anwesenden.",0,36,stage_direction,5,9,inner_speech,,#frau_von_tiefenborn,1117.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2682,2682,2682,GerDracor/gottschedin-das-testament.xml, Kommen Sie in den Speisesaal.,0,30,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1117.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2683,2683,2683,GerDracor/gottschedin-das-testament.xml,"Die Tafel wird fertig sein, und
+              ich will, daß ferner von diesen Verdrießlichkeiten nicht geredet werde und heute alles
+              in meinem Hause vergnügt sei.",31,207,character_speech,5,9,,FRAU VON TIEFENBORN,#frau_von_tiefenborn,1117.0,FEMALE,joy,K,ST,1745.0,positive,emotions of pleasure
+2684,2684,2684,GerDracor/gottschedin-das-testament.xml,Sie gehen alle ab.,0,18,stage_direction,5,9,speech_part,,#frau_von_tiefenborn,1117.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2685,2685,2685,GerDracor/gottschedin-das-testament.xml,"Nachdem sie alle fort sind, sagt",19,51,stage_direction,5,9,speech_part,,#frau_von_tiefenborn,1117.0,FEMALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+2686,2686,2686,GerDracor/gottschedin-das-testament.xml,"Ein Schelm, der einen Bissen frißt!",0,35,character_speech,5,9,,HERR VON KALTENBRUNN.,#herr_von_kaltenbrunn,1118.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation

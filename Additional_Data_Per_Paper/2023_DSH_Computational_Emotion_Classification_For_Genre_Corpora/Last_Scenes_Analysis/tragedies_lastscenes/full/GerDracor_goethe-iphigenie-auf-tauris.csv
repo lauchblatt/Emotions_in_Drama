@@ -1,0 +1,190 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+991,991,991,GerDracor/goethe-iphigenie-auf-tauris.xml,Iphigenie.,0,10,stage_direction,5,6,pre_speech,,,,,no_annotation,T,,1800.0,no_annotation,no_annotation
+992,992,992,GerDracor/goethe-iphigenie-auf-tauris.xml,Thoas.,11,17,stage_direction,5,6,pre_speech,,,,,no_annotation,T,,1800.0,no_annotation,no_annotation
+993,993,993,GerDracor/goethe-iphigenie-auf-tauris.xml,Orest.,18,24,stage_direction,5,6,pre_speech,,,,,no_annotation,T,,1800.0,no_annotation,no_annotation
+994,994,994,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              Befreit von Sorge mich, eh' ihr zu sprechen
+              Beginnet.",0,82,character_speech,5,6,,IPHIGENIE.,#iphigenie,299.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+995,995,995,GerDracor/goethe-iphigenie-auf-tauris.xml,"Ich befürchte bösen Zwist,
+              Wenn du, o König, nicht der Billigkeit
+               Gelinde Stimme hörest, du, mein Bruder,
+              Der raschen Jugend nicht gebieten willst.",83,273,character_speech,5,6,,IPHIGENIE.,#iphigenie,299.0,FEMALE,fear,T,,1800.0,negative,emotions of anxiety
+996,996,996,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              Ich halte meinen Zorn, wie es dem Ältern
+              Geziemt, zurück.",0,86,character_speech,5,6,,THOAS.,#thoas,300.0,MALE,anger,T,,1800.0,negative,emotions of rejection
+997,997,997,GerDracor/goethe-iphigenie-auf-tauris.xml,Antworte mir!,87,100,character_speech,5,6,,THOAS.,#thoas,300.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+998,998,998,GerDracor/goethe-iphigenie-auf-tauris.xml,"Womit
+              Bezeugst du, daß du Agamemnons Sohn
+              Und dieser Bruder bist?",101,194,character_speech,5,6,,THOAS.,#thoas,300.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+999,999,999,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              Hier ist das Schwert,
+              Mit dem er Trojas tapfre Männer schlug.",0,90,character_speech,5,6,,OREST.,#orest,301.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1000,1000,1000,GerDracor/goethe-iphigenie-auf-tauris.xml,"Dies nahm ich seinem Mörder ab und bat
+              Die Himmlischen, den Mut und Arm, das Glück
+              Des großen Königes mir zu verleihn
+              Und einen schönern Tod mir zu gewähren.",105,304,character_speech,5,6,,OREST.,#orest,301.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1001,1001,1001,GerDracor/goethe-iphigenie-auf-tauris.xml,"Wähl' einen aus den Edlen deines Heers
+              Und stelle mir den Besten gegenüber.",319,408,character_speech,5,6,,OREST.,#orest,301.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1002,1002,1002,GerDracor/goethe-iphigenie-auf-tauris.xml,"So weit die Erde Heldensöhne nährt,
+              Ist keinem Fremden dies Gesuch verweigert.",423,515,character_speech,5,6,,OREST.,#orest,301.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1003,1003,1003,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              Dies Vorrecht hat die alte Sitte nie
+              Dem Fremden hier gestattet.",0,93,character_speech,5,6,,THOAS.,#thoas,302.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1004,1004,1004,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              So beginne
+              Die neue Sitte denn von dir und mir!",0,76,character_speech,5,6,,OREST.,#orest,303.0,MALE,abhorrence,T,,1800.0,negative,emotions of rejection
+1005,1005,1005,GerDracor/goethe-iphigenie-auf-tauris.xml,"Nachahmend heiliget ein ganzes Volk
+              Die edle Tat der Herrscher zum Gesetz.",91,179,character_speech,5,6,,OREST.,#orest,303.0,MALE,"admiration, reverence",T,,1800.0,positive,emotions of affection
+1006,1006,1006,GerDracor/goethe-iphigenie-auf-tauris.xml,"Und laß mich nicht allein für unsre Freiheit,
+              Laß mich, den Fremden für die Fremden, kämpfen!",194,301,character_speech,5,6,,OREST.,#orest,303.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1007,1007,1007,GerDracor/goethe-iphigenie-auf-tauris.xml,"Fall' ich, so ist ihr Urteil mit dem meinen
+              Gesprochen; aber gönnet mir das Glück,
+              Zu überwinden, so betrete nie
+              Ein Mann dies Ufer, dem der schnelle Blick
+              Hilfreicher Liebe nicht begegnet, und
+              Getröstet scheide jeglicher hinweg!",316,615,character_speech,5,6,,OREST.,#orest,303.0,MALE,love,T,,1800.0,positive,emotions of affection
+1008,1008,1008,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              Nicht unwert scheinest du, o Jüngling, mir
+              Der Ahnherrn, deren du dich rühmst, zu sein.",0,116,character_speech,5,6,,THOAS.,#thoas,304.0,MALE,"admiration, reverence",T,,1800.0,positive,emotions of affection
+1009,1009,1009,GerDracor/goethe-iphigenie-auf-tauris.xml,"Groß ist die Zahl der edeln, tapfern Männer,
+              Die mich begleiten; doch ich stehe selbst
+              In meinen Jahren noch dem Feinde, bin
+              Bereit, mit dir der Waffen Los zu wagen.",131,338,character_speech,5,6,,THOAS.,#thoas,304.0,MALE,"admiration, reverence",T,,1800.0,positive,emotions of affection
+1010,1010,1010,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              Mit nichten!",0,27,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,anger,T,,1800.0,negative,emotions of rejection
+1011,1011,1011,GerDracor/goethe-iphigenie-auf-tauris.xml,"Dieses blutigen Beweises
+              Bedarf es nicht, o König!",28,92,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1012,1012,1012,GerDracor/goethe-iphigenie-auf-tauris.xml,"Laßt die Hand
+              Vom Schwerte!",93,134,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1013,1013,1013,GerDracor/goethe-iphigenie-auf-tauris.xml,Denkt an mich und mein Geschick.,135,167,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1014,1014,1014,GerDracor/goethe-iphigenie-auf-tauris.xml,"Der rasche Kampf verewigt einen Mann:
+              Er falle gleich, so preiset ihn das Lied.",183,276,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,"admiration, reverence",T,,1800.0,positive,emotions of affection
+1015,1015,1015,GerDracor/goethe-iphigenie-auf-tauris.xml,"Allein die Tränen, die unendlichen,
+              Der überbliebnen, der verlaßnen Frau
+              Zählt keine Nachwelt, und der Dichter schweigt
+              Von tausend durchgeweinten Tag' und Nächten,
+              Wo eine stille Seele den verlornen,
+              Rasch abgeschiednen Freund vergebens sich
+              Zurückzurufen bangt und sich verzehrt.",291,656,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,suffering,T,,1800.0,negative,emotions of suffering and empathy
+1016,1016,1016,GerDracor/goethe-iphigenie-auf-tauris.xml,"Mich selbst hat eine Sorge gleich gewarnt,
+              Daß der Betrug nicht eines Räubers mich
+              Vom sichern Schutzort reiße, mich der Knechtschaft
+              Verrate.",671,855,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,fear,T,,1800.0,negative,emotions of anxiety
+1017,1017,1017,GerDracor/goethe-iphigenie-auf-tauris.xml,"Fleißig hab' ich sie befragt,
+              Nach jedem Umstand mich erkundigt, Zeichen
+              Gefordert, und gewiß ist nun mein Herz.",856,996,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,love,T,,1800.0,positive,emotions of affection
+1018,1018,1018,GerDracor/goethe-iphigenie-auf-tauris.xml,"Sieh hier an seiner rechten Hand das Mal
+              Wie von drei Sternen, das am Tage schon,
+              Da er geboren ward, sich zeigte, das
+              Auf schwere Tat, mit dieser Faust zu üben,
+              Der Priester deutete.",1011,1250,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1019,1019,1019,GerDracor/goethe-iphigenie-auf-tauris.xml,"Dann überzeugt
+              Mich doppelt diese Schramme, die ihm hier
+              Die Augenbraue spaltet.",1251,1359,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,"admiration, reverence",T,,1800.0,positive,emotions of affection
+1020,1020,1020,GerDracor/goethe-iphigenie-auf-tauris.xml,"Als ein Kind
+              Ließ ihn Elektra, rasch und unvorsichtig
+              Nach ihrer Art, aus ihren Armen stürzen.",1360,1482,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1021,1021,1021,GerDracor/goethe-iphigenie-auf-tauris.xml,Er schlug auf einen Dreifuß auf.,1497,1529,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1022,1022,1022,GerDracor/goethe-iphigenie-auf-tauris.xml,"– Er ist's –
+              Soll ich dir noch die Ähnlichkeit des Vaters,
+              Soll ich das innre Jauchzen meines Herzens
+              Dir auch als Zeugen der Versichrung nennen?",1530,1717,character_speech,5,6,,IPHIGENIE.,#iphigenie,305.0,FEMALE,joy,T,,1800.0,positive,emotions of pleasure
+1023,1023,1023,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              Und hübe deine Rede jeden Zweifel,
+              Und bändigt' ich den Zorn in meiner Brust,
+              So würden doch die Waffen zwischen uns
+              Entscheiden müssen; Frieden seh' ich nicht.",0,217,character_speech,5,6,,THOAS.,#thoas,306.0,MALE,anger,T,,1800.0,negative,emotions of rejection
+1024,1024,1024,GerDracor/goethe-iphigenie-auf-tauris.xml,"Sie sind gekommen, du bekennest selbst,
+              Das heil'ge Bild der Göttin mir zu rauben.",232,328,character_speech,5,6,,THOAS.,#thoas,306.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1025,1025,1025,GerDracor/goethe-iphigenie-auf-tauris.xml,"Glaubt ihr, ich sehe dies gelassen an?",343,381,character_speech,5,6,,THOAS.,#thoas,306.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1026,1026,1026,GerDracor/goethe-iphigenie-auf-tauris.xml,"Der Grieche wendet oft sein lüstern Auge
+              Den fernen Schätzen der Barbaren zu,
+              Dem goldnen Felle, Pferden, schönen Töchtern;
+              Doch führte sie Gewalt und List nicht immer
+               Mit den erlangten Gütern glücklich heim.",396,661,character_speech,5,6,,THOAS.,#thoas,306.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1027,1027,1027,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              Das Bild, o König, soll uns nicht entzweien!",0,59,character_speech,5,6,,OREST.,#orest,307.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1028,1028,1028,GerDracor/goethe-iphigenie-auf-tauris.xml,"Jetzt kennen wir den Irrtum, den ein Gott
+              Wie einen Schleier um das Haupt uns legte,
+              Da er den Weg hierher uns wandern hieß.",74,226,character_speech,5,6,,OREST.,#orest,307.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1029,1029,1029,GerDracor/goethe-iphigenie-auf-tauris.xml,"Um Rat und um Befreiung bat ich ihn
+              Von dem Geleit der Furien; er sprach:
+              ›Bringst du die Schwester, die an Tauris' Ufer
+              Im Heiligtume wider Willen bleibt,
+              Nach Griechenland, so löset sich der Fluch.‹
+              Wir legten's von Apollens Schwester aus,
+              Und er gedachte dich!",241,588,character_speech,5,6,,OREST.,#orest,307.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1030,1030,1030,GerDracor/goethe-iphigenie-auf-tauris.xml,"Die strengen Bande
+              Sind nun gelöst: du bist den Deinen wieder,
+              Du Heilige, geschenkt.",589,702,character_speech,5,6,,OREST.,#orest,307.0,MALE,love,T,,1800.0,positive,emotions of affection
+1031,1031,1031,GerDracor/goethe-iphigenie-auf-tauris.xml,"Von dir berührt,
+              War ich geheilt; in deinen Armen faßte
+              Das Übel mich mit allen seinen Klauen
+              Zum letzten Mal und schüttelte das Mark
+              Entsetzlich mir zusammen; dann entfloh's
+              Wie eine Schlange zu der Höhle.",703,979,character_speech,5,6,,OREST.,#orest,307.0,MALE,love,T,,1800.0,positive,emotions of affection
+1032,1032,1032,GerDracor/goethe-iphigenie-auf-tauris.xml,"Neu
+              Genieß' ich nun durch dich das weite Licht
+              Des Tages.",980,1065,character_speech,5,6,,OREST.,#orest,307.0,MALE,joy,T,,1800.0,positive,emotions of pleasure
+1033,1033,1033,GerDracor/goethe-iphigenie-auf-tauris.xml,"Schön und herrlich zeigt sich mir
+              Der Göttin Rat.",1066,1129,character_speech,5,6,,OREST.,#orest,307.0,MALE,"admiration, reverence",T,,1800.0,positive,emotions of affection
+1034,1034,1034,GerDracor/goethe-iphigenie-auf-tauris.xml,"Gleich einem heil'gen Bilde,
+              Daran der Stadt unwandelbar Geschick
+              Durch ein geheimes Götterwort gebannt ist,
+              Nahm sie dich weg, dich Schützerin des Hauses;
+              Bewahrte dich in einer heil'gen Stille
+              Zum Segen deines Bruders und der Deinen.",1130,1435,character_speech,5,6,,OREST.,#orest,307.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1035,1035,1035,GerDracor/goethe-iphigenie-auf-tauris.xml,"Da alle Rettung auf der weiten Erde
+              Verloren schien, gibst du uns alles wieder.",1450,1543,character_speech,5,6,,OREST.,#orest,307.0,MALE,joy,T,,1800.0,positive,emotions of pleasure
+1036,1036,1036,GerDracor/goethe-iphigenie-auf-tauris.xml,"Laß deine Seele sich zum Frieden wenden,
+              O König!",1558,1621,character_speech,5,6,,OREST.,#orest,307.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1037,1037,1037,GerDracor/goethe-iphigenie-auf-tauris.xml,"Hindre nicht, daß sie die Weihe
+              Des väterlichen Hauses nun vollbringe,
+              Mich der entsühnten Halle wiedergebe,
+              Mir auf das Haupt die alte Krone drücke!",1622,1813,character_speech,5,6,,OREST.,#orest,307.0,MALE,joy,T,,1800.0,positive,emotions of pleasure
+1038,1038,1038,GerDracor/goethe-iphigenie-auf-tauris.xml,"Vergilt den Segen, den sie dir gebracht,
+              Und laß des nähern Rechtes mich genießen!",1828,1924,character_speech,5,6,,OREST.,#orest,307.0,MALE,joy,T,,1800.0,positive,emotions of pleasure
+1039,1039,1039,GerDracor/goethe-iphigenie-auf-tauris.xml,"Gewalt und List, der Männer höchster Ruhm,
+              Wird durch die Wahrheit dieser hohen Seele
+              Beschämt, und reines kindliches Vertrauen
+               Zu einem edlen Manne wird belohnt.",1939,2144,character_speech,5,6,,OREST.,#orest,307.0,MALE,"admiration, reverence",T,,1800.0,positive,emotions of affection
+1040,1040,1040,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              Denk' an dein Wort und laß durch diese Rede
+              Aus einem graden treuen Munde dich
+              Bewegen!",0,130,character_speech,5,6,,IPHIGENIE.,#iphigenie,308.0,FEMALE,"admiration, reverence",T,,1800.0,positive,emotions of affection
+1041,1041,1041,GerDracor/goethe-iphigenie-auf-tauris.xml,Sieh uns an!,131,143,character_speech,5,6,,IPHIGENIE.,#iphigenie,308.0,FEMALE,love,T,,1800.0,positive,emotions of affection
+1042,1042,1042,GerDracor/goethe-iphigenie-auf-tauris.xml,"du hast nicht oft
+              Zu solcher edeln Tat Gelegenheit.",144,209,character_speech,5,6,,IPHIGENIE.,#iphigenie,308.0,FEMALE,"admiration, reverence",T,,1800.0,positive,emotions of affection
+1043,1043,1043,GerDracor/goethe-iphigenie-auf-tauris.xml,Versagen kannst du's nicht; gewähr' es bald.,224,268,character_speech,5,6,,IPHIGENIE.,#iphigenie,308.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1044,1044,1044,GerDracor/goethe-iphigenie-auf-tauris.xml,So geht!,0,8,character_speech,5,6,,THOAS.,#thoas,309.0,MALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1045,1045,1045,GerDracor/goethe-iphigenie-auf-tauris.xml,"
+              Nicht so, mein König!",0,36,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1046,1046,1046,GerDracor/goethe-iphigenie-auf-tauris.xml,"Ohne Segen,
+              In Widerwillen, scheid' ich nicht von dir.",37,105,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,abhorrence,T,,1800.0,negative,emotions of rejection
+1047,1047,1047,GerDracor/goethe-iphigenie-auf-tauris.xml,Verbann' uns nicht!,120,139,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,anger,T,,1800.0,negative,emotions of rejection
+1048,1048,1048,GerDracor/goethe-iphigenie-auf-tauris.xml,"Ein freundlich Gastrecht walte
+              Von dir zu uns: so sind wir nicht auf ewig
+              Getrennt und abgeschieden.",140,268,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1049,1049,1049,GerDracor/goethe-iphigenie-auf-tauris.xml,"Wert und teuer,
+              Wie mir mein Vater war, so bist du's mir,
+              Und dieser Eindruck bleibt in meiner Seele.",269,398,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,love,T,,1800.0,positive,emotions of affection
+1050,1050,1050,GerDracor/goethe-iphigenie-auf-tauris.xml,"Bringt der Geringste deines Volkes je
+              Den Ton der Stimme mir ins Ohr zurück,
+              Den ich an euch gewohnt zu hören bin,
+              Und seh' ich an dem Ärmsten eure Tracht:
+              Empfangen will ich ihn wie einen Gott,
+              Ich will ihm selbst ein Lager zubereiten,
+              Auf einen Stuhl ihn an das Feuer laden
+              Und nur nach dir und deinem Schicksal fragen.",413,832,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,no_annotation,T,,1800.0,no_annotation,no_annotation
+1051,1051,1051,GerDracor/goethe-iphigenie-auf-tauris.xml,"O geben dir die Götter deiner Taten
+              Und deiner Milde wohlverdienten Lohn!",847,934,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,"admiration, reverence",T,,1800.0,positive,emotions of affection
+1052,1052,1052,GerDracor/goethe-iphigenie-auf-tauris.xml,Leb' wohl!,949,959,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,suffering,T,,1800.0,negative,emotions of suffering and empathy
+1053,1053,1053,GerDracor/goethe-iphigenie-auf-tauris.xml,"O wende dich zu uns und gib
+              Ein holdes Wort des Abschieds mir zurück!",960,1043,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,suffering,T,,1800.0,negative,emotions of suffering and empathy
+1054,1054,1054,GerDracor/goethe-iphigenie-auf-tauris.xml,"Dann schwellt der Wind die Segel sanfter an,
+              Und Tränen fließen lindernder vom Auge
+              Des Scheidenden.",1058,1186,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,suffering,T,,1800.0,negative,emotions of suffering and empathy
+1055,1055,1055,GerDracor/goethe-iphigenie-auf-tauris.xml,Leb' wohl!,1187,1197,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,suffering,T,,1800.0,negative,emotions of suffering and empathy
+1056,1056,1056,GerDracor/goethe-iphigenie-auf-tauris.xml,"und reiche mir
+              Zum Pfand der alten Freundschaft deine Rechte.",1198,1273,character_speech,5,6,,IPHIGENIE.,#iphigenie,310.0,FEMALE,friendship,T,,1800.0,positive,emotions of affection
+1057,1057,1057,GerDracor/goethe-iphigenie-auf-tauris.xml,Lebt wohl!,0,10,character_speech,5,6,,THOAS.,#thoas,311.0,MALE,suffering,T,,1800.0,negative,emotions of suffering and empathy

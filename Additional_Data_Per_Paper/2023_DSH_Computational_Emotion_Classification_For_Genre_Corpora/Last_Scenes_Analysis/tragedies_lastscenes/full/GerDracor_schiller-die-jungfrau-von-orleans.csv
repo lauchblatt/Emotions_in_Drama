@@ -1,0 +1,79 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2691,2691,2691,GerDracor/schiller-die-jungfrau-von-orleans.xml,Soldaten mit fliegenden Fahnen erfüllen den Hintergrund.,0,56,stage_direction,6,14,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+2692,2692,2692,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Vor ihnen der König und
+            der Herzog von Burgund, in den Armen beider Fürsten liegt Johanna tödlich verwundet,
+            ohne Zeichen des Lebens.",57,214,stage_direction,6,14,pre_speech,,,,,suffering,T,,1801.0,negative,emotions of suffering and empathy
+2693,2693,2693,GerDracor/schiller-die-jungfrau-von-orleans.xml,Sie treten langsam vorwärts.,215,243,stage_direction,6,14,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+2694,2694,2694,GerDracor/schiller-die-jungfrau-von-orleans.xml,Agnes Sorel stürzt herein.,244,270,stage_direction,6,14,pre_speech,,,,,no_annotation,T,,1801.0,no_annotation,no_annotation
+2695,2695,2695,GerDracor/schiller-die-jungfrau-von-orleans.xml,wirft sich an des Königs Brust.,0,31,stage_direction,6,14,speech_part,,#agnes_sorel,820.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+2696,2696,2696,GerDracor/schiller-die-jungfrau-von-orleans.xml,Ihr seid befreit – Ihr lebt – Ich hab Euch wieder!,0,50,character_speech,6,14,,SOREL,#agnes_sorel,820.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+2697,2697,2697,GerDracor/schiller-die-jungfrau-von-orleans.xml,Ich bin befreit – Ich bins um diesen Preis!,0,43,character_speech,6,14,,KÖNIG.,#koenig_karl,821.0,MALE,joy,T,,1801.0,positive,emotions of pleasure
+2698,2698,2698,GerDracor/schiller-die-jungfrau-von-orleans.xml,Zeigt auf Johanna.,0,18,stage_direction,6,14,speech_part,,#koenig_karl,821.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2699,2699,2699,GerDracor/schiller-die-jungfrau-von-orleans.xml,Johanna!,0,8,character_speech,6,14,,SOREL.,#agnes_sorel,822.0,FEMALE,being moved,T,,1801.0,being moved,being moved
+2700,2700,2700,GerDracor/schiller-die-jungfrau-von-orleans.xml,Gott!,9,14,character_speech,6,14,,SOREL.,#agnes_sorel,822.0,FEMALE,being moved,T,,1801.0,being moved,being moved
+2701,2701,2701,GerDracor/schiller-die-jungfrau-von-orleans.xml,Sie stirbt!,15,26,character_speech,6,14,,SOREL.,#agnes_sorel,822.0,FEMALE,despair,T,,1801.0,negative,emotions of anxiety
+2702,2702,2702,GerDracor/schiller-die-jungfrau-von-orleans.xml,"
+              Sie hat geendet!",0,31,character_speech,6,14,,BURGUND.,#burgund,823.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+2703,2703,2703,GerDracor/schiller-die-jungfrau-von-orleans.xml,Seht einen Engel scheiden!,46,72,character_speech,6,14,,BURGUND.,#burgund,823.0,MALE,love,T,,1801.0,positive,emotions of affection
+2704,2704,2704,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Seht, wie sie daliegt,
+              Schmerzlos und ruhig wie ein schlafend Kind!",73,154,character_speech,6,14,,BURGUND.,#burgund,823.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+2705,2705,2705,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Des Himmels Friede spielt um ihre Züge,
+              Kein Atem hebt den Busen mehr, doch Leben
+              Ist noch zu spüren in der warmen Hand.",169,317,character_speech,6,14,,BURGUND.,#burgund,823.0,MALE,love,T,,1801.0,positive,emotions of affection
+2706,2706,2706,GerDracor/schiller-die-jungfrau-von-orleans.xml,"
+              Sie ist dahin – Sie wird nicht mehr erwachen,
+               Ihr Auge wird das Irdsche nicht mehr schauen.",0,121,character_speech,6,14,,KÖNIG.,#koenig_karl,824.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+2707,2707,2707,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Schon schwebt sie droben ein verklärter Geist,
+              Sieht unsern Schmerz nicht mehr und unsre Reue.",136,244,character_speech,6,14,,KÖNIG.,#koenig_karl,824.0,MALE,suffering,T,,1801.0,negative,emotions of suffering and empathy
+2708,2708,2708,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Sie schlägt die Augen auf, sie lebt!",0,36,character_speech,6,14,,SOREL.,#agnes_sorel,825.0,FEMALE,love,T,,1801.0,positive,emotions of affection
+2709,2709,2709,GerDracor/schiller-die-jungfrau-von-orleans.xml,erstaunt.,0,9,stage_direction,6,14,speech_part,,#burgund,826.0,MALE,being moved,T,,1801.0,being moved,being moved
+2710,2710,2710,GerDracor/schiller-die-jungfrau-von-orleans.xml,"
+              Kehrt sie
+              Uns aus dem Grab zurück?",0,63,character_speech,6,14,,BURGUND,#burgund,826.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2711,2711,2711,GerDracor/schiller-die-jungfrau-von-orleans.xml,Zwingt sie den Tod?,64,83,character_speech,6,14,,BURGUND,#burgund,826.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2712,2712,2712,GerDracor/schiller-die-jungfrau-von-orleans.xml,Sie richtet sich empor!,98,121,character_speech,6,14,,BURGUND,#burgund,826.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2713,2713,2713,GerDracor/schiller-die-jungfrau-von-orleans.xml,Sie steht!,122,132,character_speech,6,14,,BURGUND,#burgund,826.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2714,2714,2714,GerDracor/schiller-die-jungfrau-von-orleans.xml,steht ganz aufgerichtet und schaut umher.,0,41,stage_direction,6,14,speech_part,,#johanna,827.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2715,2715,2715,GerDracor/schiller-die-jungfrau-von-orleans.xml,Wo bin ich?,0,11,character_speech,6,14,,JOHANNA,#johanna,827.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2716,2716,2716,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Bei deinem Volk, Johanna!",0,25,character_speech,6,14,,BURGUND.,#burgund,828.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2717,2717,2717,GerDracor/schiller-die-jungfrau-von-orleans.xml,Bei den Deinen!,26,41,character_speech,6,14,,BURGUND.,#burgund,828.0,MALE,love,T,,1801.0,positive,emotions of affection
+2718,2718,2718,GerDracor/schiller-die-jungfrau-von-orleans.xml,"In deiner Freunde, deines Königs Armen!",0,39,character_speech,6,14,,KÖNIG.,#koenig_karl,829.0,MALE,friendship,T,,1801.0,positive,emotions of affection
+2719,2719,2719,GerDracor/schiller-die-jungfrau-von-orleans.xml,nachdem sie ihn lange starr angesehen.,0,38,stage_direction,6,14,speech_part,,#johanna,830.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2720,2720,2720,GerDracor/schiller-die-jungfrau-von-orleans.xml,"
+              Nein, ich bin keine Zauberin!",0,44,character_speech,6,14,,JOHANNA,#johanna,830.0,FEMALE,anger,T,,1801.0,negative,emotions of rejection
+2721,2721,2721,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Gewiß
+              Ich bins nicht.",45,80,character_speech,6,14,,JOHANNA,#johanna,830.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2722,2722,2722,GerDracor/schiller-die-jungfrau-von-orleans.xml,"
+              Du bist heilig wie die Engel,
+              Doch unser Auge war mit Nacht bedeckt.",0,97,character_speech,6,14,,KÖNIG.,#koenig_karl,831.0,MALE,love,T,,1801.0,positive,emotions of affection
+2723,2723,2723,GerDracor/schiller-die-jungfrau-von-orleans.xml,sieht heiter lächelnd umher.,0,28,stage_direction,6,14,speech_part,,#johanna,832.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+2724,2724,2724,GerDracor/schiller-die-jungfrau-von-orleans.xml,"
+              Und ich bin wirklich unter meinem Volk,
+              Und bin nicht mehr verachtet und verstoßen?",0,112,character_speech,6,14,,JOHANNA,#johanna,832.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2725,2725,2725,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Man flucht mir nicht, man sieht mich gütig an?",127,173,character_speech,6,14,,JOHANNA,#johanna,832.0,FEMALE,being moved,T,,1801.0,being moved,being moved
+2726,2726,2726,GerDracor/schiller-die-jungfrau-von-orleans.xml,"– Ja, jetzt erkenn ich deutlich alles wieder!",188,233,character_speech,6,14,,JOHANNA,#johanna,832.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2727,2727,2727,GerDracor/schiller-die-jungfrau-von-orleans.xml,Das ist mein König!,248,267,character_speech,6,14,,JOHANNA,#johanna,832.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2728,2728,2728,GerDracor/schiller-die-jungfrau-von-orleans.xml,Das sind Frankreichs Fahnen!,268,296,character_speech,6,14,,JOHANNA,#johanna,832.0,FEMALE,"admiration, reverence",T,,1801.0,positive,emotions of affection
+2729,2729,2729,GerDracor/schiller-die-jungfrau-von-orleans.xml,Doch meine Fahne seh ich nicht – Wo ist sie?,311,355,character_speech,6,14,,JOHANNA,#johanna,832.0,FEMALE,being moved,T,,1801.0,being moved,being moved
+2730,2730,2730,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Nicht ohne meine Fahne darf ich kommen,
+              Von meinem Meister ward sie mir vertraut,
+              Vor seinem Thron muß ich sie niederlegen,
+              Ich darf sie zeigen, denn ich trug sie treu.",370,580,character_speech,6,14,,JOHANNA,#johanna,832.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2731,2731,2731,GerDracor/schiller-die-jungfrau-von-orleans.xml,mit abgewandtem Gesicht.,0,24,stage_direction,6,14,speech_part,,#koenig_karl,833.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2732,2732,2732,GerDracor/schiller-die-jungfrau-von-orleans.xml,Gebt ihr die Fahne!,0,19,character_speech,6,14,,KÖNIG,#koenig_karl,833.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2733,2733,2733,GerDracor/schiller-die-jungfrau-von-orleans.xml,Man reicht sie ihr.,0,19,stage_direction,6,14,speech_part,,#koenig_karl,833.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2734,2734,2734,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Sie steht ganz frei aufgerichtet, die Fahne in der Hand – Der
+              Himmel ist von einem rosigten Schein beleuchtet.",20,144,stage_direction,6,14,speech_part,,#koenig_karl,833.0,MALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2735,2735,2735,GerDracor/schiller-die-jungfrau-von-orleans.xml,"
+              Seht ihr den Regenbogen in der Luft?",0,51,character_speech,6,14,,JOHANNA.,#johanna,834.0,FEMALE,no_annotation,T,,1801.0,no_annotation,no_annotation
+2736,2736,2736,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Der Himmel öffnet seine goldnen Tore,
+              Im Chor der Engel steht sie glänzend da,
+              Sie hält den ewgen Sohn an ihrer Brust,
+              Die Arme streckt sie lächelnd mir entgegen.",66,270,character_speech,6,14,,JOHANNA.,#johanna,834.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+2737,2737,2737,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Wie wird mir – Leichte Wolken heben mich –
+               Der schwere Panzer wird zum Flügelkleide.",285,384,character_speech,6,14,,JOHANNA.,#johanna,834.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+2738,2738,2738,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Hinauf – hinauf – Die Erde flieht zurück –
+              Kurz ist der Schmerz und ewig ist die Freude!",399,501,character_speech,6,14,,JOHANNA.,#johanna,834.0,FEMALE,joy,T,,1801.0,positive,emotions of pleasure
+2739,2739,2739,GerDracor/schiller-die-jungfrau-von-orleans.xml,"Die Fahne entfällt ihr, sie sinkt tot darauf nieder – Alle stehen lange in
+              sprachloser Rührung- Auf einen leisen Wink des Königs werden alle Fahnen sanft auf sie
+              niedergelassen, daß sie ganz davon bedeckt wird.",0,238,stage_direction,6,14,speech_part,,#johanna,834.0,FEMALE,suffering,T,,1801.0,negative,emotions of suffering and empathy

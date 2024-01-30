@@ -1,0 +1,79 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1377,1377,1377,GerDracor/gottsched-der-sterbende-cato.xml,Cato.,0,5,stage_direction,5,8,pre_speech,,,,,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1378,1378,1378,GerDracor/gottsched-der-sterbende-cato.xml,Porcius.,6,14,stage_direction,5,8,pre_speech,,,,,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1379,1379,1379,GerDracor/gottsched-der-sterbende-cato.xml,Phokas.,15,22,stage_direction,5,8,pre_speech,,,,,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1380,1380,1380,GerDracor/gottsched-der-sterbende-cato.xml,Porcia.,23,30,stage_direction,5,8,pre_speech,,,,,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1381,1381,1381,GerDracor/gottsched-der-sterbende-cato.xml,Phönice.,31,39,stage_direction,5,8,pre_speech,,,,,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1382,1382,1382,GerDracor/gottsched-der-sterbende-cato.xml,Artaban.,40,48,stage_direction,5,8,pre_speech,,,,,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1383,1383,1383,GerDracor/gottsched-der-sterbende-cato.xml,Das ist nun dein Triumph!,0,25,character_speech,5,8,,ARTABAN.,#artabanus,266.0,MALE,Schadenfreude,T,HT,1730.0,positive,emotions of pleasure
+1384,1384,1384,GerDracor/gottsched-der-sterbende-cato.xml,"So, Cäsar, kannst du siegen!",26,54,character_speech,5,8,,ARTABAN.,#artabanus,266.0,MALE,joy,T,HT,1730.0,positive,emotions of pleasure
+1385,1385,1385,GerDracor/gottsched-der-sterbende-cato.xml,"Nun ist es aus mit Rom, so hoch es auch gestiegen!",0,50,character_speech,5,8,,PHOKAS.,#phokas,267.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1386,1386,1386,GerDracor/gottsched-der-sterbende-cato.xml,geht ihm entgegen.,0,18,stage_direction,5,8,speech_part,,#porcius,268.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1387,1387,1387,GerDracor/gottsched-der-sterbende-cato.xml,Mein Vater!,0,11,character_speech,5,8,,PORCIUS,#porcius,268.0,MALE,being moved,T,HT,1730.0,being moved,being moved
+1388,1388,1388,GerDracor/gottsched-der-sterbende-cato.xml,stirb doch nicht.,12,29,character_speech,5,8,,PORCIUS,#porcius,268.0,MALE,despair,T,HT,1730.0,negative,emotions of anxiety
+1389,1389,1389,GerDracor/gottsched-der-sterbende-cato.xml,"den man getragen bringt, ganz matt.",0,35,stage_direction,5,8,speech_part,,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1390,1390,1390,GerDracor/gottsched-der-sterbende-cato.xml,"
+              So weit!",0,23,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1391,1391,1391,GerDracor/gottsched-der-sterbende-cato.xml,hier setzt mich her.,24,44,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1392,1392,1392,GerDracor/gottsched-der-sterbende-cato.xml,"Getrost, mein Sohn, getrost!",59,87,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1393,1393,1393,GerDracor/gottsched-der-sterbende-cato.xml,Das Reden fällt mir schwer.,88,115,character_speech,5,8,,CATO,#cato,269.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1394,1394,1394,GerDracor/gottsched-der-sterbende-cato.xml,"Tritt näher, Porcius.",130,151,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1395,1395,1395,GerDracor/gottsched-der-sterbende-cato.xml,Wie stehts mit unsern Freunden?,152,183,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1396,1396,1396,GerDracor/gottsched-der-sterbende-cato.xml,Sind sie schon eingeschifft?,198,226,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1397,1397,1397,GerDracor/gottsched-der-sterbende-cato.xml,Entkommen sie den Feinden?,227,253,character_speech,5,8,,CATO,#cato,269.0,MALE,fear,T,HT,1730.0,negative,emotions of anxiety
+1398,1398,1398,GerDracor/gottsched-der-sterbende-cato.xml,"Sprich, ob ich ihnen sonst noch irgend dienen kann?",268,319,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1399,1399,1399,GerDracor/gottsched-der-sterbende-cato.xml,"Du aber, ruf den Feind nie um Vergebung an.",334,377,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1400,1400,1400,GerDracor/gottsched-der-sterbende-cato.xml,"Versäume niemals was, die Freyheit Roms zu retten.",393,443,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1401,1401,1401,GerDracor/gottsched-der-sterbende-cato.xml,Itzt folgt sie mir ins Grab!,458,486,character_speech,5,8,,CATO,#cato,269.0,MALE,abhorrence,T,HT,1730.0,negative,emotions of rejection
+1402,1402,1402,GerDracor/gottsched-der-sterbende-cato.xml,noch sterb ich sonder Ketten.,487,516,character_speech,5,8,,CATO,#cato,269.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1403,1403,1403,GerDracor/gottsched-der-sterbende-cato.xml,"Und bin recht sehr erfreut, daß, da ich frey gelebt,
+              Ich noch ein Römer bin, indem man mich begräbt.",531,645,character_speech,5,8,,CATO,#cato,269.0,MALE,joy,T,HT,1730.0,positive,emotions of pleasure
+1404,1404,1404,GerDracor/gottsched-der-sterbende-cato.xml,Dem Beyspiel folge nach!,660,684,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1405,1405,1405,GerDracor/gottsched-der-sterbende-cato.xml,"Du stammst aus meinem Saamen:
+              Befleiße dich denn auch dem Cato nachzuahmen!",685,774,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1406,1406,1406,GerDracor/gottsched-der-sterbende-cato.xml,"Gehab dich wohl, mein Sohn!",789,816,character_speech,5,8,,CATO,#cato,269.0,MALE,compassion,T,HT,1730.0,negative,emotions of suffering and empathy
+1407,1407,1407,GerDracor/gottsched-der-sterbende-cato.xml,Er umarmt ihn.,0,14,stage_direction,5,8,speech_part,,#cato,269.0,MALE,joy,T,HT,1730.0,positive,emotions of pleasure
+1408,1408,1408,GerDracor/gottsched-der-sterbende-cato.xml,"
+              Du aber Porcia,
+              Die ich vorlängst verlohr, itzt wenig Stunden sah,
+              Und wiederum verliehr; denk meiner Vaterliebe,
+              Und folg in allem Thun, dem tugendhaften Triebe,
+              Der dich bereits erfüllt.",0,259,character_speech,5,8,,CATO,#cato,269.0,MALE,love,T,HT,1730.0,positive,emotions of affection
+1409,1409,1409,GerDracor/gottsched-der-sterbende-cato.xml,"Beweine nicht mein Grab:
+              Rom!",260,303,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1410,1410,1410,GerDracor/gottsched-der-sterbende-cato.xml,Rom!,304,308,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1411,1411,1411,GerDracor/gottsched-der-sterbende-cato.xml,dein Vaterland dringt dir die Thränen ab!,309,350,character_speech,5,8,,CATO,#cato,269.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1412,1412,1412,GerDracor/gottsched-der-sterbende-cato.xml,"Verdamme Cäsars Glut, die dich zur Sklavinn machet:
+              Und weil was römisches in deiner Brust erwachet,
+              So wähle künftig mir den Held zum Tochtermann,
+              Der den Tyrannen straft und Rom befreyen kann.",365,601,character_speech,5,8,,CATO,#cato,269.0,MALE,abhorrence,T,HT,1730.0,negative,emotions of rejection
+1413,1413,1413,GerDracor/gottsched-der-sterbende-cato.xml,"Umarme mich, mein Kind!",616,639,character_speech,5,8,,CATO,#cato,269.0,MALE,love,T,HT,1730.0,positive,emotions of affection
+1414,1414,1414,GerDracor/gottsched-der-sterbende-cato.xml,"– – Ihr Freunde, seht mich sterben!",640,675,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1415,1415,1415,GerDracor/gottsched-der-sterbende-cato.xml,Ihr seufzet?,690,702,character_speech,5,8,,CATO,#cato,269.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1416,1416,1416,GerDracor/gottsched-der-sterbende-cato.xml,thut es nicht!,703,717,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1417,1417,1417,GerDracor/gottsched-der-sterbende-cato.xml,Beweinet Roms Verderben!,718,742,character_speech,5,8,,CATO,#cato,269.0,MALE,despair,T,HT,1730.0,negative,emotions of anxiety
+1418,1418,1418,GerDracor/gottsched-der-sterbende-cato.xml,"Lebt wohl, seyd Rom getreu!",757,784,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1419,1419,1419,GerDracor/gottsched-der-sterbende-cato.xml,Ihr Götter!,785,796,character_speech,5,8,,CATO,#cato,269.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1420,1420,1420,GerDracor/gottsched-der-sterbende-cato.xml,"hab ich hier
+              Vieleicht zu viel gethan: ach!",797,854,character_speech,5,8,,CATO,#cato,269.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1421,1421,1421,GerDracor/gottsched-der-sterbende-cato.xml,so vergebt es mir!,855,873,character_speech,5,8,,CATO,#cato,269.0,MALE,compassion,T,HT,1730.0,negative,emotions of suffering and empathy
+1422,1422,1422,GerDracor/gottsched-der-sterbende-cato.xml,"Ihr kennt ja unser Herz, und prüfet die Gedanken!",888,937,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1423,1423,1423,GerDracor/gottsched-der-sterbende-cato.xml,Der Beste kann ja leicht vom Tugendpfade wanken.,952,1000,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1424,1424,1424,GerDracor/gottsched-der-sterbende-cato.xml,Doch ihr seyd voller Huld.,1015,1041,character_speech,5,8,,CATO,#cato,269.0,MALE,love,T,HT,1730.0,positive,emotions of affection
+1425,1425,1425,GerDracor/gottsched-der-sterbende-cato.xml,Erbarmt euch!,1042,1055,character_speech,5,8,,CATO,#cato,269.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1426,1426,1426,GerDracor/gottsched-der-sterbende-cato.xml,– – Ha!,1056,1063,character_speech,5,8,,CATO,#cato,269.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1427,1427,1427,GerDracor/gottsched-der-sterbende-cato.xml,Er stirbt!,0,10,character_speech,5,8,,ARTABANUS.,#artabanus,270.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1428,1428,1428,GerDracor/gottsched-der-sterbende-cato.xml,"
+              O Schmerz!",0,25,character_speech,5,8,,PHOKAS.,#phokas,271.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1429,1429,1429,GerDracor/gottsched-der-sterbende-cato.xml,O harter Fall!,26,40,character_speech,5,8,,PHOKAS.,#phokas,271.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1430,1430,1430,GerDracor/gottsched-der-sterbende-cato.xml,"Der größte Mann verdirbt,
+              Den jemals Rom gesehn!",41,103,character_speech,5,8,,PHOKAS.,#phokas,271.0,MALE,abhorrence,T,HT,1730.0,negative,emotions of rejection
+1431,1431,1431,GerDracor/gottsched-der-sterbende-cato.xml,"Das Ebenbild der Götter,
+              Und, hätten sie gewollt, des Vaterlandes Retter.",104,191,character_speech,5,8,,PHOKAS.,#phokas,271.0,MALE,"admiration, reverence",T,HT,1730.0,positive,emotions of affection
+1432,1432,1432,GerDracor/gottsched-der-sterbende-cato.xml,"
+              Kommt!",0,21,character_speech,5,8,,PORCIUS.,#porcius,272.0,MALE,no_annotation,T,HT,1730.0,no_annotation,no_annotation
+1433,1433,1433,GerDracor/gottsched-der-sterbende-cato.xml,"tragt den todten Leib vor Cäsars Angesicht:
+              Wer weis, ob ihm nicht noch sein Herz vor Wehmuth bricht;
+              Wenn er den Helden sieht in seinem Blute liegen?",22,200,character_speech,5,8,,PORCIUS.,#porcius,272.0,MALE,suffering,T,HT,1730.0,negative,emotions of suffering and empathy
+1434,1434,1434,GerDracor/gottsched-der-sterbende-cato.xml,O Rom!,0,6,character_speech,5,8,,ARTABANUS.,#artabanus,273.0,MALE,being moved,T,HT,1730.0,being moved,being moved
+1435,1435,1435,GerDracor/gottsched-der-sterbende-cato.xml,Das ist die Frucht von deinen Bürgerkriegen!,7,51,character_speech,5,8,,ARTABANUS.,#artabanus,273.0,MALE,abhorrence,T,HT,1730.0,negative,emotions of rejection

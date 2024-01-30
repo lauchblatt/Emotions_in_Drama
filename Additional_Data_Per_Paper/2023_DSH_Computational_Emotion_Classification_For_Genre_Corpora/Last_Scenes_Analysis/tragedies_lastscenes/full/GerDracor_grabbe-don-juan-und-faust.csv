@@ -1,0 +1,805 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1985,1985,1985,GerDracor/grabbe-don-juan-und-faust.xml,Rom.,0,4,stage_direction,5,4,pre_speech,,,,,no_annotation,T,,1829.0,no_annotation,no_annotation
+1986,1986,1986,GerDracor/grabbe-don-juan-und-faust.xml,Prächtiger Saal im Hause des Don Juan.,5,43,stage_direction,5,4,pre_speech,,,,,no_annotation,T,,1829.0,no_annotation,no_annotation
+1987,1987,1987,GerDracor/grabbe-don-juan-und-faust.xml,"Mondschein und Sternlicht strahlt durch
+            die Fenster.",44,108,stage_direction,5,4,pre_speech,,,,,no_annotation,T,,1829.0,no_annotation,no_annotation
+1988,1988,1988,GerDracor/grabbe-don-juan-und-faust.xml,Der Ritter erscheint.,0,21,stage_direction,5,4,pre_speech,,,,,no_annotation,T,,1829.0,no_annotation,no_annotation
+1989,1989,1989,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Hier in dem Prachtsaal Don Juans schlag ich
+              Den Sitz der Hölle auf – Wo ich bin, thronet sie!",0,122,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+1990,1990,1990,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              – Nun beide mein: der Faust durch eignen Willen,
+              Der Don Juan durch fromme Geisterhände!",123,241,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+1991,1991,1991,GerDracor/grabbe-don-juan-und-faust.xml,– Ha!,256,261,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+1992,1992,1992,GerDracor/grabbe-don-juan-und-faust.xml,"endlich kann ich triumphieren –
+              O darum bin ich gekrochen – Kriechen
+              Und kriechen, immer kriechen – doch bloß deshalb,
+              Um desto furchtbarer vom Bodenschlamm
+              Mich wieder zu erheben – Jetzt erheb
+              Ich mich – Und sieh, die Stern erblassen, und
+              Die Nacht bricht ein, wie dunkle Meereswogen!",262,631,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+1993,1993,1993,GerDracor/grabbe-don-juan-und-faust.xml,Es wird dunkel und Wolken ziehen auf.,0,37,stage_direction,5,4,speech_part,,#der_ritter,728.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+1994,1994,1994,GerDracor/grabbe-don-juan-und-faust.xml,– Weg mit Verkleidung!,0,22,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+1995,1995,1995,GerDracor/grabbe-don-juan-und-faust.xml,"Er reißt sich das schwarze Gewand und die Maske ab und steht rot gekleidet mit
+              zornflammendem Antlitz da.",0,119,stage_direction,5,4,speech_part,,#der_ritter,728.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+1996,1996,1996,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Wieder trag ich
+              Die Farbe meiner Elemente!",0,71,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+1997,1997,1997,GerDracor/grabbe-don-juan-und-faust.xml,Furchtbarer Blitz und Donner.,0,29,stage_direction,5,4,speech_part,,#der_ritter,728.0,MALE,fear,T,,1829.0,negative,emotions of anxiety
+1998,1998,1998,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Ah, erkennt
+              Ihr mich?",0,50,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+1999,1999,1999,GerDracor/grabbe-don-juan-und-faust.xml,"Mit Jubel mich begrüßend, stürzt
+              Der Blitz zu meinen Füßen!",51,124,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2000,2000,2000,GerDracor/grabbe-don-juan-und-faust.xml,Seid gedankt!,139,152,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2001,2001,2001,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              – Nichts ist das Recht, – Spaß ist die Hölle, – wenn
+              Am Ziel der Sieg nur blinkt!",153,264,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2002,2002,2002,GerDracor/grabbe-don-juan-und-faust.xml,"– Wer da siegt, hat recht!",265,291,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2003,2003,2003,GerDracor/grabbe-don-juan-und-faust.xml,"– –
+              – – Stunde, nach der ich strebe, wo ich Ihn,
+              Des angemaßten Namen ich nicht nenne,
+              Im Schutte seiner Herrlichkeit begrabe,
+              Statt seines Lichts, der Flamme Zunge leuchten
+              Und fressen lasse – muß ich dein gedenken?",292,578,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2004,2004,2004,GerDracor/grabbe-don-juan-und-faust.xml,"Jedoch du kommst – ich fühls – ich werd dich schaun –
+              Ich bin unsterblich und bin unermüdlich!",593,701,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2005,2005,2005,GerDracor/grabbe-don-juan-und-faust.xml,"– – –
+              – – Der Don Juan mit seinem Diener kommt heran.",702,769,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2006,2006,2006,GerDracor/grabbe-don-juan-und-faust.xml,"Unsichtbar weil' ich hier, bis daß für Faust,
+               Und dann für ihn die Stunde schlagen wird!",784,887,character_speech,5,4,,DER RITTER.,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2007,2007,2007,GerDracor/grabbe-don-juan-und-faust.xml,Tritt in den Hintergrund und geht da auf und ab.,0,48,stage_direction,5,4,speech_part,,#der_ritter,728.0,MALE,being moved,T,,1829.0,being moved,being moved
+2008,2008,2008,GerDracor/grabbe-don-juan-und-faust.xml,Don Juan und Leporello kommen.,0,30,stage_direction,5,4,speech_part,,#der_ritter,728.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2009,2009,2009,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Mir summt ein Spruch im Ohr, wie Wasser
+              Durchs Mühlrad:
+              »Nur frischen Sinns durchs Leben hin,
+              Vor nichts gebeugt den stolzen Sinn,
+              Mit Freude jede Maid geküßt,
+              Mit Hochmut jeden Narrn gegrüßt,
+              So wirst du glücklich, wirst du groß,
+              Und schaffest dir dein eignes Los!«",0,379,character_speech,5,4,,DON JUAN.,#don_juan,729.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2010,2010,2010,GerDracor/grabbe-don-juan-und-faust.xml,"Ach, merkt Ihr nicht, daß ein Gewitter aufgeht?",0,47,character_speech,5,4,,LEPORELLO.,#leporello,730.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2011,2011,2011,GerDracor/grabbe-don-juan-und-faust.xml,Was kümmern mich Gewitter?,0,26,character_speech,5,4,,DON JUAN.,#don_juan,731.0,MALE,being moved,T,,1829.0,being moved,being moved
+2012,2012,2012,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Wie unheimlich
+              Und schwül ists hier im Saal – Ists nicht, als wär
+              'Ne Donnerwolke drin versperrt –",0,141,character_speech,5,4,,LEPORELLO.,#leporello,732.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2013,2013,2013,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Schaff Licht,
+              Und mach die Fenster auf!",0,68,character_speech,5,4,,DON JUAN.,#don_juan,733.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2014,2014,2014,GerDracor/grabbe-don-juan-und-faust.xml,"in den Hintergrund auf die Gegend deutend, wo der Ritter auf- und abgeht.",0,73,stage_direction,5,4,speech_part,,#leporello,734.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2015,2015,2015,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Bemerkt
+              Ihr nicht, wie dort die roten Funken zucken?",0,81,character_speech,5,4,,LEPORELLO,#leporello,734.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2016,2016,2016,GerDracor/grabbe-don-juan-und-faust.xml,"Licht, sag ich, Licht!",0,22,character_speech,5,4,,DON JUAN.,#don_juan,735.0,MALE,being moved,T,,1829.0,being moved,being moved
+2017,2017,2017,GerDracor/grabbe-don-juan-und-faust.xml,"Gleich, Herr, – gleich!",0,23,character_speech,5,4,,LEPORELLO.,#leporello,736.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2018,2018,2018,GerDracor/grabbe-don-juan-und-faust.xml,Ab.,0,3,stage_direction,5,4,speech_part,,#leporello,736.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2019,2019,2019,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Es ist wahr –
+              Schwül ists im Zimmer!",0,65,character_speech,5,4,,DON JUAN.,#don_juan,737.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2020,2020,2020,GerDracor/grabbe-don-juan-und-faust.xml,Geisterhaft ists schwül!,66,90,character_speech,5,4,,DON JUAN.,#don_juan,737.0,MALE,being moved,T,,1829.0,being moved,being moved
+2021,2021,2021,GerDracor/grabbe-don-juan-und-faust.xml,"– Doch mit Geruch des Bratens werd ich das
+              Verscheuchen.",105,175,character_speech,5,4,,DON JUAN.,#don_juan,737.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2022,2022,2022,GerDracor/grabbe-don-juan-und-faust.xml,"– Nichts Reellres in der Welt, als der
+              Geruch – Er zaubert uns im Augenblick
+              Ins Reich der Wirklichkeit – Riechst du in Eden
+              Den Duft von Speisen oder Grabesdunst –
+              Du bist aus Eden fort und glaubst dich
+              Zu einem Schmause oder in 'ne Gruft
+              Versetzt.",176,509,character_speech,5,4,,DON JUAN.,#don_juan,737.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2023,2023,2023,GerDracor/grabbe-don-juan-und-faust.xml,–,510,511,character_speech,5,4,,DON JUAN.,#don_juan,737.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2024,2024,2024,GerDracor/grabbe-don-juan-und-faust.xml,"Leporello kommt zurück mit Armleuchtern, auf denen die Kerzen brennen.",0,70,stage_direction,5,4,speech_part,,#don_juan,737.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2025,2025,2025,GerDracor/grabbe-don-juan-und-faust.xml,"Herr, auf der Treppe ist ein Lärm.",0,34,character_speech,5,4,,LEPORELLO.,#leporello,738.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2026,2026,2026,GerDracor/grabbe-don-juan-und-faust.xml,"Die Gäste sinds gewiß, die ich geladen.",0,39,character_speech,5,4,,DON JUAN.,#don_juan,739.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2027,2027,2027,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Nein, nein, es ist kein bürgerlicher, es ist
+              Ein Polizeischritt!",0,93,character_speech,5,4,,LEPORELLO.,#leporello,740.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2028,2028,2028,GerDracor/grabbe-don-juan-und-faust.xml,Und woran kennst du den?,0,24,character_speech,5,4,,DON JUAN.,#don_juan,741.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2029,2029,2029,GerDracor/grabbe-don-juan-und-faust.xml,An würdevoller Grobheit.,0,24,character_speech,5,4,,LEPORELLO.,#leporello,742.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2030,2030,2030,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Würd mit Grobheit
+              Ist Unsinn.",0,58,character_speech,5,4,,DON JUAN.,#don_juan,743.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2031,2031,2031,GerDracor/grabbe-don-juan-und-faust.xml,– Laß herein die Polizei!,59,84,character_speech,5,4,,DON JUAN.,#don_juan,743.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2032,2032,2032,GerDracor/grabbe-don-juan-und-faust.xml,"Herr, wißt Ihr was Ihr tut?",0,27,character_speech,5,4,,LEPORELLO.,#leporello,744.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2033,2033,2033,GerDracor/grabbe-don-juan-und-faust.xml,Laß sie herein!,0,15,character_speech,5,4,,DON JUAN.,#don_juan,745.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2034,2034,2034,GerDracor/grabbe-don-juan-und-faust.xml,Signor Rubio und Signor Negro mit Polizeidienern treten ein.,0,60,stage_direction,5,4,speech_part,,#don_juan,745.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2035,2035,2035,GerDracor/grabbe-don-juan-und-faust.xml,"
+              – Wie wird mir?",0,30,character_speech,5,4,,SIGNOR NEGRO.,#signor_negro,746.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2036,2036,2036,GerDracor/grabbe-don-juan-und-faust.xml,"Hier drückts grad so schwül aufs Herz
+              Wie auf dem Todeshall des Gouverneurs.",31,121,character_speech,5,4,,SIGNOR NEGRO.,#signor_negro,746.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2037,2037,2037,GerDracor/grabbe-don-juan-und-faust.xml,"Ists Blut – , ists Feuer – Dunst?",136,169,character_speech,5,4,,SIGNOR NEGRO.,#signor_negro,746.0,MALE,being moved,T,,1829.0,being moved,being moved
+2038,2038,2038,GerDracor/grabbe-don-juan-und-faust.xml,–,170,171,character_speech,5,4,,SIGNOR NEGRO.,#signor_negro,746.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2039,2039,2039,GerDracor/grabbe-don-juan-und-faust.xml,"Was wollt ihr, Leute?",0,21,character_speech,5,4,,DON JUAN.,#don_juan,747.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2040,2040,2040,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Sprecht nicht von Leuten, Herr.",0,46,character_speech,5,4,,SIGNOR NEGRO.,#signor_negro,748.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2041,2041,2041,GerDracor/grabbe-don-juan-und-faust.xml,"Der da ist Rubio,
+              Der Polizeidirektor, ich bin Signor Negro.",47,121,character_speech,5,4,,SIGNOR NEGRO.,#signor_negro,748.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2042,2042,2042,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Also nicht Leut und Menschen – Ihr ein Signor,
+              Der ein Direktor.",0,93,character_speech,5,4,,DON JUAN.,#don_juan,749.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2043,2043,2043,GerDracor/grabbe-don-juan-und-faust.xml,"Mein Direktor, was
+              Begehrt Ihr?",94,139,character_speech,5,4,,DON JUAN.,#don_juan,749.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2044,2044,2044,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Euch verhaft ich, Herr, wie man
+              Zu sagen pflegt, weil Ihr den Gouverneur
+              Und den Octavio ermordetet, wie man
+              Zu sagen pflegt.",0,182,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,750.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2045,2045,2045,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Dir, Signor Negro, dank ich das!",0,47,character_speech,5,4,,DON JUAN.,#don_juan,751.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2046,2046,2046,GerDracor/grabbe-don-juan-und-faust.xml,"Du drolliger Patron, der stolz ohn Kraft
+              Und Mut ist, und daher anstatt das Schlimme
+              Selbst auszuführen, nur ihm gierig nachspürt,
+              Anstatt den Dolch in eigner Hand zu schwingen,
+              Angeber wird, und mit Gericht und mit
+              Schafotten sucht zu quälen und zu würgen!",62,389,character_speech,5,4,,DON JUAN.,#don_juan,751.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2047,2047,2047,GerDracor/grabbe-don-juan-und-faust.xml,"– Auf, Leporello, wirf den Signor da
+              Hinunter – tu's nur dreist – du kannst ihn zwingen –",404,507,character_speech,5,4,,DON JUAN.,#don_juan,751.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2048,2048,2048,GerDracor/grabbe-don-juan-und-faust.xml,Mir spitzen sich die Finger.,0,28,character_speech,5,4,,LEPORELLO.,#leporello,752.0,MALE,being moved,T,,1829.0,being moved,being moved
+2049,2049,2049,GerDracor/grabbe-don-juan-und-faust.xml,– Kann ich ihn auch zwingen?,29,57,character_speech,5,4,,LEPORELLO.,#leporello,752.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2050,2050,2050,GerDracor/grabbe-don-juan-und-faust.xml,Ohn allen Zweifel.,0,18,character_speech,5,4,,DON JUAN.,#don_juan,753.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2051,2051,2051,GerDracor/grabbe-don-juan-und-faust.xml,zu Signor Negro.,0,16,stage_direction,5,4,speech_part,,#leporello,754.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2052,2052,2052,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Herr, was ich kann zwingen,
+              Das drück ich unter!",0,77,character_speech,5,4,,LEPORELLO,#leporello,754.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2053,2053,2053,GerDracor/grabbe-don-juan-und-faust.xml,unter!,78,84,character_speech,5,4,,LEPORELLO,#leporello,754.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2054,2054,2054,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Recht – Was hätte sonst
+              Das »zwingen können« auch für einen Nutzen?",0,96,character_speech,5,4,,DON JUAN.,#don_juan,755.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2055,2055,2055,GerDracor/grabbe-don-juan-und-faust.xml,O Polizeidirektor!,0,18,character_speech,5,4,,SIGNOR NEGRO.,#signor_negro,756.0,MALE,being moved,T,,1829.0,being moved,being moved
+2056,2056,2056,GerDracor/grabbe-don-juan-und-faust.xml,Signor Rubio!,19,32,character_speech,5,4,,SIGNOR NEGRO.,#signor_negro,756.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2057,2057,2057,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Helft
+              Ihm, Leute!",0,46,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,757.0,MALE,compassion,T,,1829.0,negative,emotions of suffering and empathy
+2058,2058,2058,GerDracor/grabbe-don-juan-und-faust.xml,Signor Rubio und dessen Leute zurückhaltend.,0,44,stage_direction,5,4,speech_part,,#don_juan,758.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2059,2059,2059,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Mein Direktor, an dem Negro üb
+              Ich Hausrecht.",0,74,character_speech,5,4,,DON JUAN,#don_juan,758.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2060,2060,2060,GerDracor/grabbe-don-juan-und-faust.xml,"Nicht befugt ist er, frech wie
+              Ers tat, um Mordverdacht hier einzudringen.",75,163,character_speech,5,4,,DON JUAN,#don_juan,758.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2061,2061,2061,GerDracor/grabbe-don-juan-und-faust.xml,"Euch aber, als Beamten, alle Ehre.",178,212,character_speech,5,4,,DON JUAN,#don_juan,758.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2062,2062,2062,GerDracor/grabbe-don-juan-und-faust.xml,"– Ich bitt, laßt Eure Diener nur in Ruhe!",227,268,character_speech,5,4,,DON JUAN,#don_juan,758.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2063,2063,2063,GerDracor/grabbe-don-juan-und-faust.xml,"Herr, Ihr erlaubt Euch –",0,24,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,759.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2064,2064,2064,GerDracor/grabbe-don-juan-und-faust.xml,"Alles, was ich kann.",0,20,character_speech,5,4,,DON JUAN.,#don_juan,760.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2065,2065,2065,GerDracor/grabbe-don-juan-und-faust.xml,Ihr seid –,0,10,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,761.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2066,2066,2066,GerDracor/grabbe-don-juan-und-faust.xml,"Der, der ich bin!",0,17,character_speech,5,4,,DON JUAN.,#don_juan,762.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2067,2067,2067,GerDracor/grabbe-don-juan-und-faust.xml,Ihr habt –,0,10,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,763.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2068,2068,2068,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Getan,
+              Was mir gefiel!",0,51,character_speech,5,4,,DON JUAN.,#don_juan,764.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2069,2069,2069,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Ei, laßt mich doch zu Wort
+              Erst kommen!",0,68,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,765.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2070,2070,2070,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Gleich!",0,22,character_speech,5,4,,DON JUAN.,#don_juan,766.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2071,2071,2071,GerDracor/grabbe-don-juan-und-faust.xml,"– Doch erst sagt an, wer seid
+              Denn Ihr?",23,76,character_speech,5,4,,DON JUAN.,#don_juan,766.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2072,2072,2072,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Habts ja längst gehört!",0,38,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,767.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2073,2073,2073,GerDracor/grabbe-don-juan-und-faust.xml,"Ich bin,
+              Wie man zu sagen pflege, die Polizei.",39,99,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,767.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2074,2074,2074,GerDracor/grabbe-don-juan-und-faust.xml,Habt Ihr 'nen Paß?,0,18,character_speech,5,4,,DON JUAN.,#don_juan,768.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2075,2075,2075,GerDracor/grabbe-don-juan-und-faust.xml,habt Ihr Atteste?,19,36,character_speech,5,4,,DON JUAN.,#don_juan,768.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2076,2076,2076,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Wie?",0,19,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,769.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2077,2077,2077,GerDracor/grabbe-don-juan-und-faust.xml,raset Ihr?,20,30,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,769.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2078,2078,2078,GerDracor/grabbe-don-juan-und-faust.xml,"Die Polizei soll Pässe,
+              Atteste haben?",31,83,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,769.0,MALE,being moved,T,,1829.0,being moved,being moved
+2079,2079,2079,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Sie brachts schon so weit,
+              Daß man ihr selbst nicht ohne Paß traut.",0,96,character_speech,5,4,,DON JUAN.,#don_juan,770.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2080,2080,2080,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Wollt
+              Ihr mit mir spielen?",0,55,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,771.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2081,2081,2081,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Nein, Ihr seid ein Blatt,
+              Auf das ich keinen Heller setzen möchte.",0,95,character_speech,5,4,,DON JUAN.,#don_juan,772.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2082,2082,2082,GerDracor/grabbe-don-juan-und-faust.xml,Wie alt seid Ihr?,110,127,character_speech,5,4,,DON JUAN.,#don_juan,772.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2083,2083,2083,GerDracor/grabbe-don-juan-und-faust.xml,So sechsundfünfzig Jahr.,0,24,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,773.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2084,2084,2084,GerDracor/grabbe-don-juan-und-faust.xml,Wie heißt Ihr?,0,14,character_speech,5,4,,DON JUAN.,#don_juan,774.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2085,2085,2085,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Signor Rubio, wie man
+              Zu sagen pflegt.",0,67,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,775.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2086,2086,2086,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Derselbe Rubio,
+              Der auf Octavios Hochzeitsfest
+              Betrunken war?",0,104,character_speech,5,4,,DON JUAN.,#don_juan,776.0,MALE,being moved,T,,1829.0,being moved,being moved
+2087,2087,2087,GerDracor/grabbe-don-juan-und-faust.xml,Was habt Ihr mich zu fragen?,0,28,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,777.0,MALE,being moved,T,,1829.0,being moved,being moved
+2088,2088,2088,GerDracor/grabbe-don-juan-und-faust.xml,Warum habt Ihr mir geantwortet?,0,31,character_speech,5,4,,DON JUAN.,#don_juan,778.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2089,2089,2089,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Weil es
+               So klappte!",0,49,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,779.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2090,2090,2090,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Seht, das Klappen!",0,33,character_speech,5,4,,DON JUAN.,#don_juan,780.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2091,2091,2091,GerDracor/grabbe-don-juan-und-faust.xml,"– Unversehn
+              Ist leicht geschehn!",34,80,character_speech,5,4,,DON JUAN.,#don_juan,780.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2092,2092,2092,GerDracor/grabbe-don-juan-und-faust.xml,– Jetzt merkt wohl!,81,100,character_speech,5,4,,DON JUAN.,#don_juan,780.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2093,2093,2093,GerDracor/grabbe-don-juan-und-faust.xml,"Es gibt
+              'Ne hohe Polizei und eine niedere –
+              Die hohe ist die klügste – denn die niedere
+              Beachtet das nur, was Vergehen ist,
+              Die hohe achtet nur auf das, was nützt.",101,320,character_speech,5,4,,DON JUAN.,#don_juan,780.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2094,2094,2094,GerDracor/grabbe-don-juan-und-faust.xml,"Wahr ists, daß unter andern Mädchen ich
+              Der Donna Anna nachgestellt und nachstell,
+              Daß ich deshalb den Gouverneur, den Don
+              Octavio erschlagen habe – Wahr
+              Ists aber auch, daß ich ein span'scher Grande,
+              Der Neffe Gonzalos, des Kardinals,
+              Günstling des Papstes, bin.",335,682,character_speech,5,4,,DON JUAN.,#don_juan,780.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2095,2095,2095,GerDracor/grabbe-don-juan-und-faust.xml,"Herr, sprecht: was sagt
+              Ihr nun?",683,729,character_speech,5,4,,DON JUAN.,#don_juan,780.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2096,2096,2096,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Mein Gott, ein Grande!",0,37,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,being moved,T,,1829.0,being moved,being moved
+2097,2097,2097,GerDracor/grabbe-don-juan-und-faust.xml,"Neffe vom
+              Allmächtgen Gonzalo!",38,82,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,"admiration, reverence",T,,1829.0,positive,emotions of affection
+2098,2098,2098,GerDracor/grabbe-don-juan-und-faust.xml,"– Don, verzeiht, ich irrte
+              In der Person mich!",83,143,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2099,2099,2099,GerDracor/grabbe-don-juan-und-faust.xml,"Der verfluchte Negro,
+              Wie man zu sagen pflegt!",158,218,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2100,2100,2100,GerDracor/grabbe-don-juan-und-faust.xml,"– Nun gilts wahrhaftig
+              Nicht Polizei – nun gilt es Politik!",219,292,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2101,2101,2101,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              – Sprach ich von Morde, Herr!",293,338,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2102,2102,2102,GerDracor/grabbe-don-juan-und-faust.xml,"Was will das sagen,
+              Wie man zu sagen pflegt?",339,397,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2103,2103,2103,GerDracor/grabbe-don-juan-und-faust.xml,"– So kleines Mördchen,
+              Und unter guten Freunden, wie sich das
+              Von selbst versteht, kann allzu leicht passieren –
+              Was ists denn weiter?",398,574,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2104,2104,2104,GerDracor/grabbe-don-juan-und-faust.xml,"Tot der eine, und
+              Der andere bleibt lebendig!",575,634,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2105,2105,2105,GerDracor/grabbe-don-juan-und-faust.xml,"Alles ganz
+              Natürlich; beim gemeinen Volk indes
+              Muß man auch das Gewöhnliche bestrafen,
+              Es kommt zu oft sonst vor, und wird deshalb
+              Leicht Recht.",635,835,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2106,2106,2106,GerDracor/grabbe-don-juan-und-faust.xml,"Sie morden nicht aus Ehr und Ruhm,
+              Sondern aus Haß.",836,901,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,781.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2107,2107,2107,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Wir wären miteinander
+              Jetzt fertig.",0,64,character_speech,5,4,,DON JUAN.,#don_juan,782.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2108,2108,2108,GerDracor/grabbe-don-juan-und-faust.xml,Packt Euch fort aus meinem Zimmer!,65,99,character_speech,5,4,,DON JUAN.,#don_juan,782.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2109,2109,2109,GerDracor/grabbe-don-juan-und-faust.xml,"Verzeihet, ganz gewöhnlich und natürlich!",114,155,character_speech,5,4,,DON JUAN.,#don_juan,782.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2110,2110,2110,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              Da, diesen Faustschlag nehmt mit auf den Rücken!",156,220,character_speech,5,4,,DON JUAN.,#don_juan,782.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2111,2111,2111,GerDracor/grabbe-don-juan-und-faust.xml,O alles ganz natürlich!,235,258,character_speech,5,4,,DON JUAN.,#don_juan,782.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2112,2112,2112,GerDracor/grabbe-don-juan-und-faust.xml,"– Wagt Euch nicht
+              Zurück mit Euren Lumpenhunden!",259,321,character_speech,5,4,,DON JUAN.,#don_juan,782.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2113,2113,2113,GerDracor/grabbe-don-juan-und-faust.xml,"– Ganz gewöhnlich,
+              Wie man zu sagen pflegt!",322,379,character_speech,5,4,,DON JUAN.,#don_juan,782.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2114,2114,2114,GerDracor/grabbe-don-juan-und-faust.xml,Empfehl mich!,0,13,character_speech,5,4,,SIGNOR RUBIO.,#signor_rubio,783.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2115,2115,2115,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Hast
+               Sehr nötig, daß du dich empfiehlst.",0,70,character_speech,5,4,,DON JUAN.,#don_juan,784.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2116,2116,2116,GerDracor/grabbe-don-juan-und-faust.xml,Signor Rubio nebst seinem Gefolge wird von Don Juan fortgetrieben.,0,66,stage_direction,5,4,speech_part,,#don_juan,784.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2117,2117,2117,GerDracor/grabbe-don-juan-und-faust.xml,"Leporello
+              kommt zurück.",67,104,stage_direction,5,4,speech_part,,#don_juan,784.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2118,2118,2118,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Ist der
+              Herr Negro tüchtig expediert?",0,66,character_speech,5,4,,DON JUAN.,#don_juan,785.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2119,2119,2119,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Kopfs über,
+              Kopfs unter!",0,53,character_speech,5,4,,LEPORELLO.,#leporello,786.0,MALE,being moved,T,,1829.0,being moved,being moved
+2120,2120,2120,GerDracor/grabbe-don-juan-und-faust.xml,"Wohl, so bring das Essen!",0,25,character_speech,5,4,,DON JUAN.,#don_juan,787.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2121,2121,2121,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Herr,
+              Herr!",0,40,character_speech,5,4,,LEPORELLO.,#leporello,788.0,MALE,being moved,T,,1829.0,being moved,being moved
+2122,2122,2122,GerDracor/grabbe-don-juan-und-faust.xml,"– Schwarz, pechschwarz wie Mohren-Fäuste,
+              Die enger stets und fester sich bis zu
+              Der Sonn aufballen, in die Welt hineindräund,
+              Erheben sich Gewitterwolken!",41,238,character_speech,5,4,,LEPORELLO.,#leporello,788.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2123,2123,2123,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Mags sich heben,
+              Und mögen Blitze zischen nach Vergnügen.",0,86,character_speech,5,4,,DON JUAN.,#don_juan,789.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2124,2124,2124,GerDracor/grabbe-don-juan-und-faust.xml,"Ich will jetzt speisen, will jetzt trinken!",101,144,character_speech,5,4,,DON JUAN.,#don_juan,789.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2125,2125,2125,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Horcht!",0,22,character_speech,5,4,,LEPORELLO.,#leporello,790.0,MALE,being moved,T,,1829.0,being moved,being moved
+2126,2126,2126,GerDracor/grabbe-don-juan-und-faust.xml,Welch Windesbrausen!,37,57,character_speech,5,4,,LEPORELLO.,#leporello,790.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2127,2127,2127,GerDracor/grabbe-don-juan-und-faust.xml,"Furchtbar tönts, doch schön!",0,28,character_speech,5,4,,DON JUAN.,#don_juan,791.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2128,2128,2128,GerDracor/grabbe-don-juan-und-faust.xml,Es klopft!,0,10,character_speech,5,4,,LEPORELLO.,#leporello,792.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2129,2129,2129,GerDracor/grabbe-don-juan-und-faust.xml,– Es ist doch nicht?,11,31,character_speech,5,4,,LEPORELLO.,#leporello,792.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2130,2130,2130,GerDracor/grabbe-don-juan-und-faust.xml,–,32,33,character_speech,5,4,,LEPORELLO.,#leporello,792.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2131,2131,2131,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Nur näher!",0,25,character_speech,5,4,,DON JUAN.,#don_juan,793.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2132,2132,2132,GerDracor/grabbe-don-juan-und-faust.xml,"– Wer
+              Da draußen?",26,57,character_speech,5,4,,DON JUAN.,#don_juan,793.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2133,2133,2133,GerDracor/grabbe-don-juan-und-faust.xml,"Faust, bleich, entstellten Gesichts, tritt ein: der im Hintergrunde verweilende
+              Ritter will auf ihn losstürzen.",0,125,stage_direction,5,4,speech_part,,#don_juan,793.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2134,2134,2134,GerDracor/grabbe-don-juan-und-faust.xml,zu dem Ritter.,0,14,stage_direction,5,4,speech_part,,#faust,794.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2135,2135,2135,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Du!",0,18,character_speech,5,4,,FAUST,#faust,794.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2136,2136,2136,GerDracor/grabbe-don-juan-und-faust.xml,Zurück!,19,26,character_speech,5,4,,FAUST,#faust,794.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2137,2137,2137,GerDracor/grabbe-don-juan-und-faust.xml,Wart bis es Zeit ist!,27,48,character_speech,5,4,,FAUST,#faust,794.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2138,2138,2138,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              Mit jenem da, muß ich erst reden!",49,98,character_speech,5,4,,FAUST,#faust,794.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2139,2139,2139,GerDracor/grabbe-don-juan-und-faust.xml,–,99,100,character_speech,5,4,,FAUST,#faust,794.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2140,2140,2140,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Mit wem spricht man hier außer mir?",0,50,character_speech,5,4,,DON JUAN.,#don_juan,795.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2141,2141,2141,GerDracor/grabbe-don-juan-und-faust.xml,"– – Ha, Faust!",65,79,character_speech,5,4,,DON JUAN.,#don_juan,795.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2142,2142,2142,GerDracor/grabbe-don-juan-und-faust.xml,"– Wie sieht er aus – Man sollte
+              grausen!",80,134,character_speech,5,4,,DON JUAN.,#don_juan,795.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2143,2143,2143,GerDracor/grabbe-don-juan-und-faust.xml,"Zerschlagner Welten Trümmer schimmern so
+              Im Licht des Abends, wenn es sich vor Schmerz
+              Darüber bricht!",149,279,character_speech,5,4,,DON JUAN.,#don_juan,795.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2144,2144,2144,GerDracor/grabbe-don-juan-und-faust.xml,–,280,281,character_speech,5,4,,DON JUAN.,#don_juan,795.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2145,2145,2145,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Weh mir, von Stund zu Stunde
+              Wächst meine Liebe!",0,77,character_speech,5,4,,FAUST.,#faust,796.0,MALE,love,T,,1829.0,positive,emotions of affection
+2146,2146,2146,GerDracor/grabbe-don-juan-und-faust.xml,wächst mein Schmerz!,78,98,character_speech,5,4,,FAUST.,#faust,796.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2147,2147,2147,GerDracor/grabbe-don-juan-und-faust.xml,Zu Don Juan.,0,12,stage_direction,5,4,speech_part,,#faust,796.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2148,2148,2148,GerDracor/grabbe-don-juan-und-faust.xml,"
+              – Mann,
+              Hast du sie auch geliebt?",0,62,character_speech,5,4,,FAUST.,#faust,796.0,MALE,love,T,,1829.0,positive,emotions of affection
+2149,2149,2149,GerDracor/grabbe-don-juan-und-faust.xml,Meinst du die Anna?,0,19,character_speech,5,4,,DON JUAN.,#don_juan,797.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2150,2150,2150,GerDracor/grabbe-don-juan-und-faust.xml,Die Anna!,0,9,character_speech,5,4,,FAUST.,#faust,798.0,MALE,being moved,T,,1829.0,being moved,being moved
+2151,2151,2151,GerDracor/grabbe-don-juan-und-faust.xml,Fragst du?,0,10,character_speech,5,4,,DON JUAN.,#don_juan,799.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2152,2152,2152,GerDracor/grabbe-don-juan-und-faust.xml,Ist sie denn nicht schön?,11,36,character_speech,5,4,,DON JUAN.,#don_juan,799.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2153,2153,2153,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Tot ist sie, tot!",0,32,character_speech,5,4,,FAUST.,#faust,800.0,MALE,despair,T,,1829.0,negative,emotions of anxiety
+2154,2154,2154,GerDracor/grabbe-don-juan-und-faust.xml,"Hörs und verzweifle du
+              Mit mir!",33,78,character_speech,5,4,,FAUST.,#faust,800.0,MALE,despair,T,,1829.0,negative,emotions of anxiety
+2155,2155,2155,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Verzweifeln?",0,27,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,despair,T,,1829.0,negative,emotions of anxiety
+2156,2156,2156,GerDracor/grabbe-don-juan-und-faust.xml,"Da wo Weh und Jammer,
+              Des Unglücks und des Herzbluts hohe Wogen
+              Auf uns einstürmen, – gilts die Flagge auf –
+              Zuziehn, die an des Lebens Masten flattert,
+              Gilt es für ihre Ehr, für ihren Ruhm
+              Zu streiten bis zum Abgrund des Verderbens!",28,331,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2157,2157,2157,GerDracor/grabbe-don-juan-und-faust.xml,"– Ja, mich erschüttert Donna Annas Tod!",346,385,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,being moved,T,,1829.0,being moved,being moved
+2158,2158,2158,GerDracor/grabbe-don-juan-und-faust.xml,Die tiefste Brust bewegt er!,400,428,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,being moved,T,,1829.0,being moved,being moved
+2159,2159,2159,GerDracor/grabbe-don-juan-und-faust.xml,"– Doch ich spann
+              Die Segel wieder, fahr mit neuem Winde!",429,499,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2160,2160,2160,GerDracor/grabbe-don-juan-und-faust.xml,– Gibts nicht der schönen Mädchen tausend andre?,514,562,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,love,T,,1829.0,positive,emotions of affection
+2161,2161,2161,GerDracor/grabbe-don-juan-und-faust.xml,Wie sollt ich mich um Eine grämen?,577,611,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2162,2162,2162,GerDracor/grabbe-don-juan-und-faust.xml,"– Hab
+              Ich sie geliebt, so zeig ichs dadurch, daß
+              Ich nicht den Tod scheu, sie zu rächen!",612,728,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,love,T,,1829.0,positive,emotions of affection
+2163,2163,2163,GerDracor/grabbe-don-juan-und-faust.xml,"– Du bists gewiß, der sie erwürgte!",743,778,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2164,2164,2164,GerDracor/grabbe-don-juan-und-faust.xml,"Ähnlich
+              Sieht dirs, der immer selber seine Himmel
+              Zertrümmerte!",779,870,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2165,2165,2165,GerDracor/grabbe-don-juan-und-faust.xml,– Zum Zweikampf!,871,887,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2166,2166,2166,GerDracor/grabbe-don-juan-und-faust.xml,"Ein paar Gänge
+              Versuch einmal!",888,932,character_speech,5,4,,DON JUAN.,#don_juan,801.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2167,2167,2167,GerDracor/grabbe-don-juan-und-faust.xml,"
+              »Der seine Himmel selber
+              Zertrümmerte!« – Er wagts mir vorzuwerfen!",0,96,character_speech,5,4,,FAUST.,#faust,802.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2168,2168,2168,GerDracor/grabbe-don-juan-und-faust.xml,Und er hat Recht.,111,128,character_speech,5,4,,FAUST.,#faust,802.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2169,2169,2169,GerDracor/grabbe-don-juan-und-faust.xml,"Ich schlug das Herrlichste
+              Zu Trümmern, weil ichs nicht begriff!",129,207,character_speech,5,4,,FAUST.,#faust,802.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2170,2170,2170,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              – – Du bist
+              Dahin für mich, o Donna Anna!",208,279,character_speech,5,4,,FAUST.,#faust,802.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2171,2171,2171,GerDracor/grabbe-don-juan-und-faust.xml,"Nie
+              Erblick ich deiner Augen Schimmer, nie
+              Bad ich in deiner Schönheit Glanz mich wieder,
+              Und niemals wird ein Wörtchen nur, verschönt
+              Durch deiner Stimme Zauber, zu mir klingen –
+              Doch ewig werd ich dein gedenken, und
+              Schon der Gedanke wird die Wirklichkeit
+              Der Höll zuschande machen!",280,662,character_speech,5,4,,FAUST.,#faust,802.0,MALE,love,T,,1829.0,positive,emotions of affection
+2172,2172,2172,GerDracor/grabbe-don-juan-und-faust.xml,"Zum Ritter, der sich dem Faust wieder genähert hat.",0,51,stage_direction,5,4,speech_part,,#faust,802.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2173,2173,2173,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Trotzend
+              Stürz ich in deine Arme – Wisse aber:
+              Wenn ich ein ewges Wesen bin, so ring
+              Ich auch mit dir von Ewigkeit,
+              Zu Ewigkeit, und möglich, daß ich siege,
+              Dich nochmals tretend, wie ich schon getan!",0,285,character_speech,5,4,,FAUST.,#faust,802.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2174,2174,2174,GerDracor/grabbe-don-juan-und-faust.xml,den Faust packend und sofort erdrosselnd.,0,41,stage_direction,5,4,speech_part,,#der_ritter,803.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2175,2175,2175,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Erwarten wollen wirs!",0,36,character_speech,5,4,,DER RITTER,#der_ritter,803.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2176,2176,2176,GerDracor/grabbe-don-juan-und-faust.xml,– Mit ihm zum tiefsten Pfuhl!,37,66,character_speech,5,4,,DER RITTER,#der_ritter,803.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2177,2177,2177,GerDracor/grabbe-don-juan-und-faust.xml,"Häuft brennende Ölberge, wär auch der
+              Von Zions Stadt darunter, Feuerberge
+              Häuft über seine Seel!",82,207,character_speech,5,4,,DER RITTER,#der_ritter,803.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2178,2178,2178,GerDracor/grabbe-don-juan-und-faust.xml,"– Den Körper laßt
+              Nur liegen!",208,251,character_speech,5,4,,DER RITTER,#der_ritter,803.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2179,2179,2179,GerDracor/grabbe-don-juan-und-faust.xml,"– Macht es gut, ihr Geister – Bald
+              Komm ich mit Don Juan ihm nach!",252,332,character_speech,5,4,,DER RITTER,#der_ritter,803.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2180,2180,2180,GerDracor/grabbe-don-juan-und-faust.xml,"Er tritt wieder in den Hintergrund und bleibt während der ganzen Szene darin, den
+              Don Juan fixierend.",0,115,stage_direction,5,4,speech_part,,#der_ritter,803.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2181,2181,2181,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Der Zaubrer
+              Wird wohl verzaubert?",0,62,character_speech,5,4,,DON JUAN.,#don_juan,804.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2182,2182,2182,GerDracor/grabbe-don-juan-und-faust.xml,Spricht er mit der Luft?,63,87,character_speech,5,4,,DON JUAN.,#don_juan,804.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2183,2183,2183,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Er stürzt vom Stuhl – Ihr Heiligen, er stirbt –
+              Und kohlschwarz starrt sein Antlitz
+              Im Rücken ihm!",0,141,character_speech,5,4,,LEPORELLO.,#leporello,805.0,MALE,despair,T,,1829.0,negative,emotions of anxiety
+2184,2184,2184,GerDracor/grabbe-don-juan-und-faust.xml,"– Hier in der Stube spukt
+              Ein Teufel!",142,193,character_speech,5,4,,LEPORELLO.,#leporello,805.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2185,2185,2185,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Kerl, laß deine Fratzen!",0,39,character_speech,5,4,,DON JUAN.,#don_juan,806.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2186,2186,2186,GerDracor/grabbe-don-juan-und-faust.xml,"Schlagfluß
+              Hat ihn gerührt!",40,81,character_speech,5,4,,DON JUAN.,#don_juan,806.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2187,2187,2187,GerDracor/grabbe-don-juan-und-faust.xml,Bring ihn sogleich von dannen!,82,112,character_speech,5,4,,DON JUAN.,#don_juan,806.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2188,2188,2188,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Wegbringen?",0,26,character_speech,5,4,,LEPORELLO.,#leporello,807.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2189,2189,2189,GerDracor/grabbe-don-juan-und-faust.xml,Den?,27,31,character_speech,5,4,,LEPORELLO.,#leporello,807.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2190,2190,2190,GerDracor/grabbe-don-juan-und-faust.xml,"Anfassen ihn, den Gott
+              Gezeichnet?",32,80,character_speech,5,4,,LEPORELLO.,#leporello,807.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2191,2191,2191,GerDracor/grabbe-don-juan-und-faust.xml,Eben sprachst du ja vom Teufel!,0,31,character_speech,5,4,,DON JUAN.,#don_juan,808.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2192,2192,2192,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Das ist ganz eins – Gott zeichnet mit dem Teufel,
+              Wie Kinder mit der Kohle!",0,104,character_speech,5,4,,LEPORELLO.,#leporello,809.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2193,2193,2193,GerDracor/grabbe-don-juan-und-faust.xml,drohend.,0,8,stage_direction,5,4,speech_part,,#don_juan,810.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2194,2194,2194,GerDracor/grabbe-don-juan-und-faust.xml,Fort den Leichnam.,0,18,character_speech,5,4,,DON JUAN,#don_juan,810.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2195,2195,2195,GerDracor/grabbe-don-juan-und-faust.xml,schafft bebend den Leichnam des Faust beiseit und kehrt zurück.,0,63,stage_direction,5,4,speech_part,,#leporello,811.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2196,2196,2196,GerDracor/grabbe-don-juan-und-faust.xml,"
+              – Ich schöpfe wieder etwas Luft.",0,47,character_speech,5,4,,LEPORELLO,#leporello,811.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2197,2197,2197,GerDracor/grabbe-don-juan-und-faust.xml,"– Das Untier
+              Wär weggeschafft!",48,92,character_speech,5,4,,LEPORELLO,#leporello,811.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2198,2198,2198,GerDracor/grabbe-don-juan-und-faust.xml,–,93,94,character_speech,5,4,,LEPORELLO,#leporello,811.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2199,2199,2199,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Freund, was gelobtest du
+              Auf dem Montblanc?",0,72,character_speech,5,4,,DON JUAN.,#don_juan,812.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2200,2200,2200,GerDracor/grabbe-don-juan-und-faust.xml,"Du wolltst dich bessern, wolltest
+              Lisetten eh'lichen.",73,140,character_speech,5,4,,DON JUAN.,#don_juan,812.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2201,2201,2201,GerDracor/grabbe-don-juan-und-faust.xml,"
+              O Don, bedenkt:
+              Versprechen ist was anders als das Halten:
+              Was ich verspreche, das versprech ich,
+              Und was ich halt, das halt ich.",0,186,character_speech,5,4,,LEPORELLO.,#leporello,813.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2202,2202,2202,GerDracor/grabbe-don-juan-und-faust.xml,"Auch vernahm
+              Ich nicht, daß mein Gelübde akzeptiert ward!",187,258,character_speech,5,4,,LEPORELLO.,#leporello,813.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2203,2203,2203,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Decke
+              Den Tisch!",0,45,character_speech,5,4,,DON JUAN.,#don_juan,814.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2204,2204,2204,GerDracor/grabbe-don-juan-und-faust.xml,– wo bleiben unsre Gäste?,46,71,character_speech,5,4,,DON JUAN.,#don_juan,814.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2205,2205,2205,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Gäste?",0,21,character_speech,5,4,,LEPORELLO.,#leporello,815.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2206,2206,2206,GerDracor/grabbe-don-juan-und-faust.xml,"Hört Ihr nicht, daß der Wind gleich einem Besen
+              Vor dem Gewitter herfliegt, und die Straßen
+              Auskehrt von Staub und Menschen?",36,188,character_speech,5,4,,LEPORELLO.,#leporello,815.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2207,2207,2207,GerDracor/grabbe-don-juan-und-faust.xml,"– Können
+               Noch Gäste kommen?",189,231,character_speech,5,4,,LEPORELLO.,#leporello,815.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2208,2208,2208,GerDracor/grabbe-don-juan-und-faust.xml,Deck den Tisch!,0,15,character_speech,5,4,,DON JUAN.,#don_juan,816.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2209,2209,2209,GerDracor/grabbe-don-juan-und-faust.xml,Ich tu's!,0,9,character_speech,5,4,,LEPORELLO.,#leporello,817.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2210,2210,2210,GerDracor/grabbe-don-juan-und-faust.xml,Er deckt den Tisch und trägt Speisen auf und Wein.,0,50,stage_direction,5,4,speech_part,,#leporello,817.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2211,2211,2211,GerDracor/grabbe-don-juan-und-faust.xml,sich Wein einschenkend.,0,23,stage_direction,5,4,speech_part,,#don_juan,818.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2212,2212,2212,GerDracor/grabbe-don-juan-und-faust.xml,"
+              – Die Donna Anna!",0,32,character_speech,5,4,,DON JUAN,#don_juan,818.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2213,2213,2213,GerDracor/grabbe-don-juan-und-faust.xml,"– Überflut sie, Wein!",33,54,character_speech,5,4,,DON JUAN,#don_juan,818.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2214,2214,2214,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              Ah, der Franzose da: Champagner – Wildfang!",55,114,character_speech,5,4,,DON JUAN,#don_juan,818.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2215,2215,2215,GerDracor/grabbe-don-juan-und-faust.xml,"Bis an die Decke fliegt dein Schaum, mein Jubel
+              Soll aber trotz der Donna Anna, trotz
+              Des Jammers, an die Sterne schlagen!",129,279,character_speech,5,4,,DON JUAN,#don_juan,818.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2216,2216,2216,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              – Schuft,
+              Was machst du?",280,334,character_speech,5,4,,DON JUAN,#don_juan,818.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2217,2217,2217,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Trank ich?",0,25,character_speech,5,4,,LEPORELLO.,#leporello,819.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2218,2218,2218,GerDracor/grabbe-don-juan-und-faust.xml,"Es war Eure
+              Gesundheit!",26,63,character_speech,5,4,,LEPORELLO.,#leporello,819.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2219,2219,2219,GerDracor/grabbe-don-juan-und-faust.xml,Die erfleht Eur treuer Knecht!,64,94,character_speech,5,4,,LEPORELLO.,#leporello,819.0,MALE,"admiration, reverence",T,,1829.0,positive,emotions of affection
+2220,2220,2220,GerDracor/grabbe-don-juan-und-faust.xml,Pasteten – Braten her – Salat!,0,30,character_speech,5,4,,DON JUAN.,#don_juan,820.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2221,2221,2221,GerDracor/grabbe-don-juan-und-faust.xml,Er ißt.,0,7,stage_direction,5,4,speech_part,,#don_juan,820.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2222,2222,2222,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Erträglich
+              Ist alles zubereitet.",0,61,character_speech,5,4,,DON JUAN.,#don_juan,820.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2223,2223,2223,GerDracor/grabbe-don-juan-und-faust.xml,"– Hast du Musikanten
+              Bestellt?",62,106,character_speech,5,4,,DON JUAN.,#don_juan,820.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2224,2224,2224,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Herr, sie sind draußen.",0,38,character_speech,5,4,,LEPORELLO.,#leporello,821.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2225,2225,2225,GerDracor/grabbe-don-juan-und-faust.xml,"Dürfen sie
+              Eintreten?",39,74,character_speech,5,4,,LEPORELLO.,#leporello,821.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2226,2226,2226,GerDracor/grabbe-don-juan-und-faust.xml,"
+              So?",0,18,character_speech,5,4,,DON JUAN.,#don_juan,822.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2227,2227,2227,GerDracor/grabbe-don-juan-und-faust.xml,"daß ich säh, wie sie
+              Die Töne kratzten, pusteten?",19,82,character_speech,5,4,,DON JUAN.,#don_juan,822.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2228,2228,2228,GerDracor/grabbe-don-juan-und-faust.xml,"– Sie sollen
+              Aufspielen, aber laß mich sie nicht sehen!",83,152,character_speech,5,4,,DON JUAN.,#don_juan,822.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2229,2229,2229,GerDracor/grabbe-don-juan-und-faust.xml,Leporello ab und kommt gleich zurück.,0,37,stage_direction,5,4,speech_part,,#don_juan,822.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2230,2230,2230,GerDracor/grabbe-don-juan-und-faust.xml,Dann Musik.,38,49,stage_direction,5,4,speech_part,,#don_juan,822.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2231,2231,2231,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Beim Essen ist Musik ein guter Prüfstein –
+              Denn ist das Essen gut, so hört man die
+              Musik nicht!",0,138,character_speech,5,4,,DON JUAN.,#don_juan,823.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2232,2232,2232,GerDracor/grabbe-don-juan-und-faust.xml,Speisend.,0,9,stage_direction,5,4,speech_part,,#don_juan,823.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2233,2233,2233,GerDracor/grabbe-don-juan-und-faust.xml,"Schön, ich hör sie jetzt nicht!",0,31,character_speech,5,4,,DON JUAN.,#don_juan,823.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2234,2234,2234,GerDracor/grabbe-don-juan-und-faust.xml,Zu Leporello.,0,13,stage_direction,5,4,speech_part,,#don_juan,823.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2235,2235,2235,GerDracor/grabbe-don-juan-und-faust.xml,"Mensch, – was ißt du?",0,21,character_speech,5,4,,DON JUAN.,#don_juan,823.0,MALE,being moved,T,,1829.0,being moved,being moved
+2236,2236,2236,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Ich essen?",0,25,character_speech,5,4,,LEPORELLO.,#leporello,824.0,MALE,being moved,T,,1829.0,being moved,being moved
+2237,2237,2237,GerDracor/grabbe-don-juan-und-faust.xml,"Den Fasan probier ich, ob
+              Er gut gebraten.",26,82,character_speech,5,4,,LEPORELLO.,#leporello,824.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2238,2238,2238,GerDracor/grabbe-don-juan-und-faust.xml,Essen und Probieren!,83,103,character_speech,5,4,,LEPORELLO.,#leporello,824.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2239,2239,2239,GerDracor/grabbe-don-juan-und-faust.xml,Ein großer Unterschied!,118,141,character_speech,5,4,,LEPORELLO.,#leporello,824.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2240,2240,2240,GerDracor/grabbe-don-juan-und-faust.xml,"– O wär die Welt
+              Doch ein gebratener Kapaun, und wär
+              Ichs doch, der ihn anfräß.",142,249,character_speech,5,4,,LEPORELLO.,#leporello,824.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2241,2241,2241,GerDracor/grabbe-don-juan-und-faust.xml,"– Schauderhaft
+              Laßt Ihr mich hungern!",250,301,character_speech,5,4,,LEPORELLO.,#leporello,824.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2242,2242,2242,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Kerl, dir geb ich nichts,
+              Da ich doch weiß, daß du es stiehlst!",0,92,character_speech,5,4,,DON JUAN.,#don_juan,825.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2243,2243,2243,GerDracor/grabbe-don-juan-und-faust.xml,"Wein, Wein
+               Leer sind die Flaschen!",107,156,character_speech,5,4,,DON JUAN.,#don_juan,825.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2244,2244,2244,GerDracor/grabbe-don-juan-und-faust.xml,–,157,158,character_speech,5,4,,DON JUAN.,#don_juan,825.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2245,2245,2245,GerDracor/grabbe-don-juan-und-faust.xml,Leporello setzt neue Flaschen auf.,0,34,stage_direction,5,4,speech_part,,#don_juan,825.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2246,2246,2246,GerDracor/grabbe-don-juan-und-faust.xml,trinkend.,0,9,stage_direction,5,4,speech_part,,#don_juan,826.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2247,2247,2247,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Mahomet soll leben!",0,34,character_speech,5,4,,DON JUAN,#don_juan,826.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2248,2248,2248,GerDracor/grabbe-don-juan-und-faust.xml,"Den Wein verbot er, weil er ihn so sehr
+              Geliebt.",49,111,character_speech,5,4,,DON JUAN,#don_juan,826.0,MALE,love,T,,1829.0,positive,emotions of affection
+2249,2249,2249,GerDracor/grabbe-don-juan-und-faust.xml,"Denn das Verbot, so schloß er richtig,
+              Verdoppelt den Genuß!",112,186,character_speech,5,4,,DON JUAN,#don_juan,826.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2250,2250,2250,GerDracor/grabbe-don-juan-und-faust.xml,"Blitze, Donner.",0,15,stage_direction,5,4,speech_part,,#don_juan,826.0,MALE,being moved,T,,1829.0,being moved,being moved
+2251,2251,2251,GerDracor/grabbe-don-juan-und-faust.xml,am Fenster.,0,11,stage_direction,5,4,speech_part,,#leporello,827.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2252,2252,2252,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Herr, christlich!",0,32,character_speech,5,4,,LEPORELLO,#leporello,827.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2253,2253,2253,GerDracor/grabbe-don-juan-und-faust.xml,christlich!,33,44,character_speech,5,4,,LEPORELLO,#leporello,827.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2254,2254,2254,GerDracor/grabbe-don-juan-und-faust.xml,"Seht, seht die Wolken!",59,81,character_speech,5,4,,LEPORELLO,#leporello,827.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2255,2255,2255,GerDracor/grabbe-don-juan-und-faust.xml,– Regen – Blitz – und – Donner!,82,113,character_speech,5,4,,LEPORELLO,#leporello,827.0,MALE,being moved,T,,1829.0,being moved,being moved
+2256,2256,2256,GerDracor/grabbe-don-juan-und-faust.xml,"Kein Ende – Wie ein feuerspeiender
+              Vulkan hängt über uns der Himmel.",128,210,character_speech,5,4,,LEPORELLO,#leporello,827.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2257,2257,2257,GerDracor/grabbe-don-juan-und-faust.xml,"– Da
+              Schlägts ein in den Palast des Erzbischofs!",211,273,character_speech,5,4,,LEPORELLO,#leporello,827.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2258,2258,2258,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Da capo!",0,23,character_speech,5,4,,DON JUAN.,#don_juan,828.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2259,2259,2259,GerDracor/grabbe-don-juan-und-faust.xml,"Alle Blitze mögen ewig flammen,
+              Besonders, wenn sie treffen!",24,98,character_speech,5,4,,DON JUAN.,#don_juan,828.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2260,2260,2260,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Gnade!",0,21,character_speech,5,4,,LEPORELLO.,#leporello,829.0,MALE,fear,T,,1829.0,negative,emotions of anxiety
+2261,2261,2261,GerDracor/grabbe-don-juan-und-faust.xml,Gnade!,22,28,character_speech,5,4,,LEPORELLO.,#leporello,829.0,MALE,fear,T,,1829.0,negative,emotions of anxiety
+2262,2262,2262,GerDracor/grabbe-don-juan-und-faust.xml,"Da blitzts, da donnerts wieder!",43,74,character_speech,5,4,,LEPORELLO.,#leporello,829.0,MALE,fear,T,,1829.0,negative,emotions of anxiety
+2263,2263,2263,GerDracor/grabbe-don-juan-und-faust.xml,– Ach wie tobts!,75,91,character_speech,5,4,,LEPORELLO.,#leporello,829.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2264,2264,2264,GerDracor/grabbe-don-juan-und-faust.xml,ein Glas Wein hinunterstürzend.,0,31,stage_direction,5,4,speech_part,,#don_juan,830.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2265,2265,2265,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Hoch lebe
+              Der Donner, – mög er tausend Jahre rollen
+              Wie heute!",0,105,character_speech,5,4,,DON JUAN,#don_juan,830.0,MALE,"admiration, reverence",T,,1829.0,positive,emotions of affection
+2266,2266,2266,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Herr, das Gewitter – enger stets und enger
+              Umzieht es uns – Kaum kann ich atmen.",0,109,character_speech,5,4,,LEPORELLO.,#leporello,831.0,MALE,fear,T,,1829.0,negative,emotions of anxiety
+2267,2267,2267,GerDracor/grabbe-don-juan-und-faust.xml,"– Herr,
+              Es ist auf uns gemünzt!",110,155,character_speech,5,4,,LEPORELLO.,#leporello,831.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2268,2268,2268,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Den Saft der Traube
+              Schlürf ich – der macht mich heiß – Und Blitz und
+              Donner
+              Sind nichts als Schnee dagegen!",0,165,character_speech,5,4,,DON JUAN.,#don_juan,832.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2269,2269,2269,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Hab ich Eisen
+              An mir?",0,50,character_speech,5,4,,LEPORELLO.,#leporello,833.0,MALE,being moved,T,,1829.0,being moved,being moved
+2270,2270,2270,GerDracor/grabbe-don-juan-und-faust.xml,"Man sagt, der Blitz zieh sich darnach –",51,90,character_speech,5,4,,LEPORELLO.,#leporello,833.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2271,2271,2271,GerDracor/grabbe-don-juan-und-faust.xml,"Schlüssel, Schuhe usw.",0,22,stage_direction,5,4,speech_part,,#leporello,833.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2272,2272,2272,GerDracor/grabbe-don-juan-und-faust.xml,wegwerfend.,23,34,stage_direction,5,4,speech_part,,#leporello,833.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2273,2273,2273,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Da!",0,18,character_speech,5,4,,LEPORELLO.,#leporello,833.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2274,2274,2274,GerDracor/grabbe-don-juan-und-faust.xml,Schlüssel!,19,29,character_speech,5,4,,LEPORELLO.,#leporello,833.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2275,2275,2275,GerDracor/grabbe-don-juan-und-faust.xml,"– Schuh' mit Nägeln – Spangen,
+              Hinweg damit!",30,88,character_speech,5,4,,LEPORELLO.,#leporello,833.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2276,2276,2276,GerDracor/grabbe-don-juan-und-faust.xml,"– O Gott, da kommt jemand, und stapft
+              Und stapft, daß man durchs Donnerwetter es
+              Vernimmt!",103,221,character_speech,5,4,,LEPORELLO.,#leporello,833.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2277,2277,2277,GerDracor/grabbe-don-juan-und-faust.xml,Es wird ein Gast sein!,0,22,character_speech,5,4,,DON JUAN.,#don_juan,834.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2278,2278,2278,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Ists nur nicht
+              Der steinerne, den Ihr habt eingeladen?",0,83,character_speech,5,4,,LEPORELLO.,#leporello,835.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2279,2279,2279,GerDracor/grabbe-don-juan-und-faust.xml,"– Das sind nicht Menschentritte, – nein, es sind
+              Erdbeben, die herannahn!",98,185,character_speech,5,4,,LEPORELLO.,#leporello,835.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2280,2280,2280,GerDracor/grabbe-don-juan-und-faust.xml,Schwert!,0,8,character_speech,5,4,,DON JUAN.,#don_juan,836.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2281,2281,2281,GerDracor/grabbe-don-juan-und-faust.xml,mein Schwert!,9,22,character_speech,5,4,,DON JUAN.,#don_juan,836.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2282,2282,2282,GerDracor/grabbe-don-juan-und-faust.xml,Hier ists!,0,10,character_speech,5,4,,LEPORELLO.,#leporello,837.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2283,2283,2283,GerDracor/grabbe-don-juan-und-faust.xml,das Schwert entblößend.,0,23,stage_direction,5,4,speech_part,,#don_juan,838.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2284,2284,2284,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Sei willkommen, meiner Freunde treuster!",0,55,character_speech,5,4,,DON JUAN,#don_juan,838.0,MALE,friendship,T,,1829.0,positive,emotions of affection
+2285,2285,2285,GerDracor/grabbe-don-juan-und-faust.xml,"Du, der den Feind erschlägt, und mich nicht eher
+              Verlassen wird, als bis die Hand mir abfällt!",70,178,character_speech,5,4,,DON JUAN,#don_juan,838.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2286,2286,2286,GerDracor/grabbe-don-juan-und-faust.xml,"– Mein Fühlhorn sei, mit deiner Spitze
+              Laß mich den Marmorgast befühlen –",193,280,character_speech,5,4,,DON JUAN,#don_juan,838.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2287,2287,2287,GerDracor/grabbe-don-juan-und-faust.xml,Zu Leporello.,0,13,stage_direction,5,4,speech_part,,#don_juan,838.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2288,2288,2288,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Öffne
+              Die Tür!",0,43,character_speech,5,4,,DON JUAN,#don_juan,838.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2289,2289,2289,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Das Öffnen tut nicht not!",0,40,character_speech,5,4,,LEPORELLO.,#leporello,839.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2290,2290,2290,GerDracor/grabbe-don-juan-und-faust.xml,"Man hat so angeklopft, daß schon die Tür
+              Von selbst einbricht.",55,131,character_speech,5,4,,LEPORELLO.,#leporello,839.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2291,2291,2291,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Wer wagts, so unverschämt
+              In mein Gemach zu treten?",0,80,character_speech,5,4,,DON JUAN.,#don_juan,840.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2292,2292,2292,GerDracor/grabbe-don-juan-und-faust.xml,Die Bildsäule des Gouverneurs tritt in das Zimmer.,0,50,stage_direction,5,4,speech_part,,#don_juan,840.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2293,2293,2293,GerDracor/grabbe-don-juan-und-faust.xml,Ha!,0,3,character_speech,5,4,,DON JUAN.,#don_juan,840.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2294,2294,2294,GerDracor/grabbe-don-juan-und-faust.xml,"
+              O Christus!",0,26,character_speech,5,4,,LEPORELLO.,#leporello,841.0,MALE,being moved,T,,1829.0,being moved,being moved
+2295,2295,2295,GerDracor/grabbe-don-juan-und-faust.xml,Die Bildsäule von dem Kirchhof!,41,72,character_speech,5,4,,LEPORELLO.,#leporello,841.0,MALE,being moved,T,,1829.0,being moved,being moved
+2296,2296,2296,GerDracor/grabbe-don-juan-und-faust.xml,– Ich vergehe!,73,87,character_speech,5,4,,LEPORELLO.,#leporello,841.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2297,2297,2297,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Entsetzlich oder auch wohl närrisch!",0,51,character_speech,5,4,,DON JUAN.,#don_juan,842.0,MALE,fear,T,,1829.0,negative,emotions of anxiety
+2298,2298,2298,GerDracor/grabbe-don-juan-und-faust.xml,"– Still,
+              Still, Leporello!",52,92,character_speech,5,4,,DON JUAN.,#don_juan,842.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2299,2299,2299,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Hört ich einen Hahn
+              Nur krähen – einen dummen Entrich schnattern –
+              Die Erde fühlt ich wieder!",0,136,character_speech,5,4,,LEPORELLO.,#leporello,843.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2300,2300,2300,GerDracor/grabbe-don-juan-und-faust.xml,"– Doch dies ist
+              Das Reich der Geister!",137,189,character_speech,5,4,,LEPORELLO.,#leporello,843.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2301,2301,2301,GerDracor/grabbe-don-juan-und-faust.xml,Don Juan –,0,10,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,844.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2302,2302,2302,GerDracor/grabbe-don-juan-und-faust.xml,O welche Stimme!,0,16,character_speech,5,4,,LEPORELLO.,#leporello,845.0,MALE,"admiration, reverence",T,,1829.0,positive,emotions of affection
+2303,2303,2303,GerDracor/grabbe-don-juan-und-faust.xml,Mark- und Bein-zerknirschend!,17,46,character_speech,5,4,,LEPORELLO.,#leporello,845.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2304,2304,2304,GerDracor/grabbe-don-juan-und-faust.xml,Du hast befohlen und ich bin erschienen!,0,40,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,846.0,MALE,"admiration, reverence",T,,1829.0,positive,emotions of affection
+2305,2305,2305,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Ists eine Bildsäul, ist es keine?",0,48,character_speech,5,4,,DON JUAN.,#don_juan,847.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2306,2306,2306,GerDracor/grabbe-don-juan-und-faust.xml,"– Das Auge weiß – Kein Stern darin – Ich stürz
+              Zu Boden!",63,133,character_speech,5,4,,DON JUAN.,#don_juan,847.0,MALE,despair,T,,1829.0,negative,emotions of anxiety
+2307,2307,2307,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              Doch ich rufe meinen Namen,
+              Ist er auch blutbefleckt, so ist er doch
+              Voll Ehre!",134,257,character_speech,5,4,,DON JUAN.,#don_juan,847.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2308,2308,2308,GerDracor/grabbe-don-juan-und-faust.xml,"Und wie eine Feuerglocke
+              Die Städte aufregt und das weite Land,
+              So richten auch bei seinem vollen Schalle
+              All meine Kraft sich auf und all mein Mut!",258,448,character_speech,5,4,,DON JUAN.,#don_juan,847.0,MALE,love,T,,1829.0,positive,emotions of affection
+2309,2309,2309,GerDracor/grabbe-don-juan-und-faust.xml,"– Ich heiße Don Juan und biet dir Kampf
+               Und Trotz!",463,528,character_speech,5,4,,DON JUAN.,#don_juan,847.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2310,2310,2310,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Ohnmächtiger, kein Lebender
+              Vermag mich zu bekämpfen!",0,82,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,848.0,MALE,despair,T,,1829.0,negative,emotions of anxiety
+2311,2311,2311,GerDracor/grabbe-don-juan-und-faust.xml,sich an der Stirn fassend.,0,26,stage_direction,5,4,speech_part,,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2312,2312,2312,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Welche Töne!",0,27,character_speech,5,4,,DON JUAN,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2313,2313,2313,GerDracor/grabbe-don-juan-und-faust.xml,"– Doch,
+              Vielleicht ein Gaukler!",42,87,character_speech,5,4,,DON JUAN,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2314,2314,2314,GerDracor/grabbe-don-juan-und-faust.xml,"– Laßt uns prüfen,
+              Ob dieser Stein ein böhmischer, ob es
+              Ein echter, der den Stahl verträgt!",88,208,character_speech,5,4,,DON JUAN,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2315,2315,2315,GerDracor/grabbe-don-juan-und-faust.xml,"Er haut mit dem Schwerte auf die Bildsäule des Gouverneurs und das Schwert
+              zersplittert.",0,102,stage_direction,5,4,speech_part,,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2316,2316,2316,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Ein echter!",0,26,character_speech,5,4,,DON JUAN,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2317,2317,2317,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              – Noch hab ich einen Dolch – Zwar kürzer als
+              Das Schwert, doch näher, sicherer!",27,136,character_speech,5,4,,DON JUAN,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2318,2318,2318,GerDracor/grabbe-don-juan-und-faust.xml,Er zieht den Dolch und schwingt ihn wild um das Haupt.,0,54,stage_direction,5,4,speech_part,,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2319,2319,2319,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Noch bin ich
+              Gewaffnet, und wer zagte unter Waffen?",0,80,character_speech,5,4,,DON JUAN,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2320,2320,2320,GerDracor/grabbe-don-juan-und-faust.xml,Zu Leporello.,0,13,stage_direction,5,4,speech_part,,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2321,2321,2321,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Wo sind die Musikanten?",0,38,character_speech,5,4,,DON JUAN,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2322,2322,2322,GerDracor/grabbe-don-juan-und-faust.xml,"Weshalb ließen
+              Im Spiele sie sich stören?",39,94,character_speech,5,4,,DON JUAN,#don_juan,849.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2323,2323,2323,GerDracor/grabbe-don-juan-und-faust.xml,Donner und Blitz.,0,17,stage_direction,5,4,speech_part,,#don_juan,849.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2324,2324,2324,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Hört Ihr, Herr,
+              Es musiziert da, daß die Saiten reißen!",0,84,character_speech,5,4,,LEPORELLO.,#leporello,850.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2325,2325,2325,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Herr Gouverneur, beliebts Euch, sich zu setzen?",0,62,character_speech,5,4,,DON JUAN.,#don_juan,851.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2326,2326,2326,GerDracor/grabbe-don-juan-und-faust.xml,Hier ist ein Stuhl –,77,97,character_speech,5,4,,DON JUAN.,#don_juan,851.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2327,2327,2327,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Der Stuhl wird unter dem
+              Zusammenbrechen, wie Korn unterm Mühlstein!",0,97,character_speech,5,4,,LEPORELLO.,#leporello,852.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2328,2328,2328,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Hier Suppe von Schildkröten – Hier Wildbraten –
+              Auch Beefsteak – Rostbeef – Frikasséen –
+              Endiviensalat – Da Wein, Tokaier,
+              Champagner und Burgunder – Langt nur zu, Herr!",0,226,character_speech,5,4,,DON JUAN.,#don_juan,853.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2329,2329,2329,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Ich komme von den Sternen.",0,41,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,854.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2330,2330,2330,GerDracor/grabbe-don-juan-und-faust.xml,"Irdscher Nahrung
+              Bedarf ich nicht.",42,90,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,854.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2331,2331,2331,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Mit Sternenspeise kann
+              Ich dir nicht dienen, und zum irdschen Mahle
+              Lud ich dich ein.",0,128,character_speech,5,4,,DON JUAN.,#don_juan,855.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2332,2332,2332,GerDracor/grabbe-don-juan-und-faust.xml,"Narr, wenn du kamst in Hoffnung
+              Von anderen Genüssen!",129,196,character_speech,5,4,,DON JUAN.,#don_juan,855.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2333,2333,2333,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Donna Anna
+               Und Don Octavio, im Himmel jetzt
+              Im seligen Verein, den Erdenschmerz
+              In ihrem Antlitze zu leichtem Lächeln,
+              Zu Perlen ihre Tränen umgewandelt,
+              Gedachten dein in ihrer Wonne, und
+              Sie senden mich hernieder, daß ich dich
+              Zur Reu und Beßrung mahne.",0,369,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,856.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2334,2334,2334,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Danke für
+              Den Gruß!",0,48,character_speech,5,4,,DON JUAN.,#don_juan,857.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2335,2335,2335,GerDracor/grabbe-don-juan-und-faust.xml,"– Doch nichts hab ich getan, weshalb
+              Ich Reue spürte!",49,116,character_speech,5,4,,DON JUAN.,#don_juan,857.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2336,2336,2336,GerDracor/grabbe-don-juan-und-faust.xml,"Alles, was ich tat,
+              Gefällt mir!",117,163,character_speech,5,4,,DON JUAN.,#don_juan,857.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2337,2337,2337,GerDracor/grabbe-don-juan-und-faust.xml,"Nicht bedarf ich Beßrung,
+              Denn mit mir selbst bin ich gar sehr zufrieden!",164,251,character_speech,5,4,,DON JUAN.,#don_juan,857.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2338,2338,2338,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Klein beigegeben, Herr, klein beigegeben!",0,56,character_speech,5,4,,LEPORELLO.,#leporello,858.0,MALE,compassion,T,,1829.0,negative,emotions of suffering and empathy
+2339,2339,2339,GerDracor/grabbe-don-juan-und-faust.xml,Lügt ihm was vor!,71,88,character_speech,5,4,,LEPORELLO.,#leporello,858.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2340,2340,2340,GerDracor/grabbe-don-juan-und-faust.xml,Es findet sich nachher!,89,112,character_speech,5,4,,LEPORELLO.,#leporello,858.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2341,2341,2341,GerDracor/grabbe-don-juan-und-faust.xml,"–
+              – Bedenkt, Ihr zieht dadurch mich Schuldlosen
+              Mit Euch aus diesem Elend!",113,215,character_speech,5,4,,LEPORELLO.,#leporello,858.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2342,2342,2342,GerDracor/grabbe-don-juan-und-faust.xml,"Hu, der Marmor
+              Knirscht wieder!",230,275,character_speech,5,4,,LEPORELLO.,#leporello,858.0,MALE,fear,T,,1829.0,negative,emotions of anxiety
+2343,2343,2343,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Hast du Mut, gib mir die Hand
+              Darauf, daß du beteurst, dich nicht zu bessern!",0,106,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,859.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2344,2344,2344,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Die Hand!",0,24,character_speech,5,4,,DON JUAN.,#don_juan,860.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2345,2345,2345,GerDracor/grabbe-don-juan-und-faust.xml,die Hand!,25,34,character_speech,5,4,,DON JUAN.,#don_juan,860.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2346,2346,2346,GerDracor/grabbe-don-juan-und-faust.xml,– Doch bin ich nicht in Rom?,35,63,character_speech,5,4,,DON JUAN.,#don_juan,860.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2347,2347,2347,GerDracor/grabbe-don-juan-und-faust.xml,"Hier reckte
+              Der Scävola die Rechte in das Feuer –
+              Ich tue mehr: ich strecke kühn auffodernd
+              Sie in das Reich der Unterwelt, und spreche:
+              Das Leben ist ein Nichts, wenn es nicht allem
+              Was ihm begegnet, Stirne bietet!",64,349,character_speech,5,4,,DON JUAN.,#don_juan,860.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2348,2348,2348,GerDracor/grabbe-don-juan-und-faust.xml,Da!,364,367,character_speech,5,4,,DON JUAN.,#don_juan,860.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2349,2349,2349,GerDracor/grabbe-don-juan-und-faust.xml,"Er gibt der Bildsäule des Gouverneurs die Hand, welche sie einige Augenblicke
+              festhält und dann losläßt.",0,118,stage_direction,5,4,speech_part,,#don_juan,860.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2350,2350,2350,GerDracor/grabbe-don-juan-und-faust.xml,"
+              O schnöder Schurke!",0,34,character_speech,5,4,,DON JUAN.,#don_juan,861.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2351,2351,2351,GerDracor/grabbe-don-juan-und-faust.xml,"Leichenkälte fließt
+              Aus deiner Hand in meine Adern!",35,100,character_speech,5,4,,DON JUAN.,#don_juan,861.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2352,2352,2352,GerDracor/grabbe-don-juan-und-faust.xml,"– Lohnst
+              Du so den Handschlag eines Spaniers?",101,160,character_speech,5,4,,DON JUAN.,#don_juan,861.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2353,2353,2353,GerDracor/grabbe-don-juan-und-faust.xml,"O Niederträchtiger, du wärest wert,
+              Du lebtest nochmals, daß ich nochmals dich
+              Erschlüge!",175,292,character_speech,5,4,,DON JUAN.,#don_juan,861.0,MALE,anger,T,,1829.0,negative,emotions of rejection
+2354,2354,2354,GerDracor/grabbe-don-juan-und-faust.xml,Er greift die Bildsäule des Gouverneurs mit dem Dolche an.,0,58,stage_direction,5,4,speech_part,,#don_juan,861.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2355,2355,2355,GerDracor/grabbe-don-juan-und-faust.xml,Weich!,0,6,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,862.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2356,2356,2356,GerDracor/grabbe-don-juan-und-faust.xml,Don Juan taumelt zurück.,0,24,stage_direction,5,4,speech_part,,#der_gouverneur,862.0,MALE,being moved,T,,1829.0,being moved,being moved
+2357,2357,2357,GerDracor/grabbe-don-juan-und-faust.xml,"
+              – Schau, die dunkle Flamm dort hinten
+               Kommt auf dich zu!",0,86,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,862.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2358,2358,2358,GerDracor/grabbe-don-juan-und-faust.xml,"Der Satan ists im Fest-
+              Gewand –",87,133,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,862.0,MALE,abhorrence,T,,1829.0,negative,emotions of rejection
+2359,2359,2359,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Ach, meine Ahnung!",0,33,character_speech,5,4,,LEPORELLO.,#leporello,863.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2360,2360,2360,GerDracor/grabbe-don-juan-und-faust.xml,"Darum wars
+              So schwül im Zimmer – Satan, Herr!",34,93,character_speech,5,4,,LEPORELLO.,#leporello,863.0,MALE,being moved,T,,1829.0,being moved,being moved
+2361,2361,2361,GerDracor/grabbe-don-juan-und-faust.xml,"zu schlecht
+              Bin ich, daß Ihr mich holt.",94,147,character_speech,5,4,,LEPORELLO.,#leporello,863.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2362,2362,2362,GerDracor/grabbe-don-juan-und-faust.xml,–,148,149,character_speech,5,4,,LEPORELLO.,#leporello,863.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2363,2363,2363,GerDracor/grabbe-don-juan-und-faust.xml,Auf den Don Juan deutend,0,24,stage_direction,5,4,speech_part,,#leporello,863.0,MALE,"admiration, reverence",T,,1829.0,positive,emotions of affection
+2364,2364,2364,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Nehmt ihn, Ihr habt
+              Genug daran!",0,61,character_speech,5,4,,LEPORELLO.,#leporello,863.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2365,2365,2365,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Er lauert schon, daß er dem Faust
+              Dich zugeselle.",0,78,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,864.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2366,2366,2366,GerDracor/grabbe-don-juan-und-faust.xml,"– Doch ich kann dich retten,
+              Wenn du bereuen willst – Zum letzten Mal
+              Frag ich dich mit der Gottheit Donnerstimme:
+              Willst du bereuen und dich bessern?",79,271,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,864.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2367,2367,2367,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Was
+              Ich bin, das bleib ich!",0,56,character_speech,5,4,,DON JUAN.,#don_juan,865.0,MALE,love,T,,1829.0,positive,emotions of affection
+2368,2368,2368,GerDracor/grabbe-don-juan-und-faust.xml,"Bin ich Don
+                Juan,
+              So bin ich nichts, werd ich ein anderer!",57,145,character_speech,5,4,,DON JUAN.,#don_juan,865.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2369,2369,2369,GerDracor/grabbe-don-juan-und-faust.xml,"Weit eher Don Juan im Abgrundsschwefel
+              Als Heiliger im Paradieseslichte!",160,246,character_speech,5,4,,DON JUAN.,#don_juan,865.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2370,2370,2370,GerDracor/grabbe-don-juan-und-faust.xml,"Mit Donnerstimme hast du mich gefragt,
+              Mit Donnerstimme geb ich dir die Antwort: Nein!",261,361,character_speech,5,4,,DON JUAN.,#don_juan,865.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2371,2371,2371,GerDracor/grabbe-don-juan-und-faust.xml,Wir sehen uns nicht wieder!,0,27,character_speech,5,4,,DIE BILDSÄULE DES GOUVERNEURS.,#der_gouverneur,866.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2372,2372,2372,GerDracor/grabbe-don-juan-und-faust.xml,Sie versinkt.,0,13,stage_direction,5,4,speech_part,,#der_gouverneur,866.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2373,2373,2373,GerDracor/grabbe-don-juan-und-faust.xml,seinen roten Mantel in die Höhe werfend.,0,40,stage_direction,5,4,speech_part,,#der_ritter,867.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2374,2374,2374,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Mantel, breit
+              Dich aus, entfalt den Stoff, aus dem du bist
+              Verfertigt, überflamm als Feuersbrunst
+              Dies Haus, samt den Bewohnern es verzehrend!",0,199,character_speech,5,4,,DER RITTER,#der_ritter,867.0,MALE,despair,T,,1829.0,negative,emotions of anxiety
+2375,2375,2375,GerDracor/grabbe-don-juan-und-faust.xml,Feuer und Feuerregen.,0,21,stage_direction,5,4,speech_part,,#der_ritter,867.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2376,2376,2376,GerDracor/grabbe-don-juan-und-faust.xml,"
+              – Dich aber, Juan, reiß ich mit mir, – schmiede
+              Dich an den Faust – Ich weiß, ihr strebet nach
+              Demselben Ziel und karrt doch auf zwei Wagen!",0,183,character_speech,5,4,,DER RITTER,#der_ritter,867.0,MALE,no_annotation,T,,1829.0,no_annotation,no_annotation
+2377,2377,2377,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Noch jetzt ruf ich, als letztes Wort auf
+              Erden:
+              »König und Ruhm, und Vaterland und Liebe!«",0,133,character_speech,5,4,,DON JUAN.,#don_juan,868.0,MALE,love,T,,1829.0,positive,emotions of affection
+2378,2378,2378,GerDracor/grabbe-don-juan-und-faust.xml,"Der Ritter versinkt, und reißt den Don Juan mit fort.",0,53,stage_direction,5,4,speech_part,,#don_juan,868.0,MALE,suffering,T,,1829.0,negative,emotions of suffering and empathy
+2379,2379,2379,GerDracor/grabbe-don-juan-und-faust.xml,"
+              Es brennt in jeder Eck, – ich muß verbrennen.",0,60,character_speech,5,4,,LEPORELLO.,#leporello,869.0,MALE,despair,T,,1829.0,negative,emotions of anxiety
+2380,2380,2380,GerDracor/grabbe-don-juan-und-faust.xml,Gibts keine Hülfe?,75,93,character_speech,5,4,,LEPORELLO.,#leporello,869.0,MALE,fear,T,,1829.0,negative,emotions of anxiety
+2381,2381,2381,GerDracor/grabbe-don-juan-und-faust.xml,"Weh, die Flammen kommen!",94,118,character_speech,5,4,,LEPORELLO.,#leporello,869.0,MALE,fear,T,,1829.0,negative,emotions of anxiety
+2382,2382,2382,GerDracor/grabbe-don-juan-und-faust.xml,Sie kommen!,133,144,character_speech,5,4,,LEPORELLO.,#leporello,869.0,MALE,joy,T,,1829.0,positive,emotions of pleasure
+2383,2383,2383,GerDracor/grabbe-don-juan-und-faust.xml,Keine Flucht!,145,158,character_speech,5,4,,LEPORELLO.,#leporello,869.0,MALE,fear,T,,1829.0,negative,emotions of anxiety
+2384,2384,2384,GerDracor/grabbe-don-juan-und-faust.xml,Ich muß verbrennen!,159,178,character_speech,5,4,,LEPORELLO.,#leporello,869.0,MALE,despair,T,,1829.0,negative,emotions of anxiety
+2385,2385,2385,GerDracor/grabbe-don-juan-und-faust.xml,"Der Vorhang fällt unter Feuer, Donner und Blitz.",0,48,stage_direction,5,4,speech_part,,#leporello,869.0,MALE,being moved,T,,1829.0,being moved,being moved

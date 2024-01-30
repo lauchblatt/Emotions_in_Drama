@@ -1,0 +1,640 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+15,15,15,GerDracor/solbrig-die-dorfschule.xml,Schulmeister.,0,13,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1812.0,no_annotation,no_annotation
+16,16,16,GerDracor/solbrig-die-dorfschule.xml,Die Schulkinder.,14,30,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1812.0,no_annotation,no_annotation
+17,17,17,GerDracor/solbrig-die-dorfschule.xml,"Guten Morgen, Herr Schulmeister!",0,32,character_speech,1,2,,Gottlieb.,#gottlieb,2.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+18,18,18,GerDracor/solbrig-die-dorfschule.xml,"Guten Morgen, Gottlieb!",0,23,character_speech,1,2,,Schulmeister.,#schulmeister,3.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+19,19,19,GerDracor/solbrig-die-dorfschule.xml,setz' dich nieder.,24,42,character_speech,1,2,,Schulmeister.,#schulmeister,3.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+20,20,20,GerDracor/solbrig-die-dorfschule.xml,(Gottlieb setzt sich.),0,22,stage_direction,1,2,speech_part,,#schulmeister,3.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+21,21,21,GerDracor/solbrig-die-dorfschule.xml,(tritt ein; ein Butterbrod in der Hand.),0,40,stage_direction,1,2,speech_part,,#traugott,4.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+22,22,22,GerDracor/solbrig-die-dorfschule.xml,"Guten Morgen, Herr Schulmeister!",0,32,character_speech,1,2,,Traugott.,#traugott,4.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+23,23,23,GerDracor/solbrig-die-dorfschule.xml,Bringst du schon wieder eine Butterschnitte mit?,0,48,character_speech,1,2,,Schulmeister.,#schulmeister,5.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+24,24,24,GerDracor/solbrig-die-dorfschule.xml,– Her damit!,49,61,character_speech,1,2,,Schulmeister.,#schulmeister,5.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+25,25,25,GerDracor/solbrig-die-dorfschule.xml,(weinend.),0,10,stage_direction,1,2,speech_part,,#traugott,6.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+26,26,26,GerDracor/solbrig-die-dorfschule.xml,"Ach, Herr Jemine!",0,17,character_speech,1,2,,Traugott.,#traugott,6.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+27,27,27,GerDracor/solbrig-die-dorfschule.xml,Herr Jemine!,18,30,character_speech,1,2,,Traugott.,#traugott,6.0,MALE,being moved,K,,1812.0,being moved,being moved
+28,28,28,GerDracor/solbrig-die-dorfschule.xml,(reißt ihm das Butterbrod aus der Hand.),0,40,stage_direction,1,2,speech_part,,#schulmeister,7.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+29,29,29,GerDracor/solbrig-die-dorfschule.xml,Her damit!,0,10,character_speech,1,2,,Schulmeister.,#schulmeister,7.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+30,30,30,GerDracor/solbrig-die-dorfschule.xml,Du hast so das vorige Mal nicht aufgepasst!,11,54,character_speech,1,2,,Schulmeister.,#schulmeister,7.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+31,31,31,GerDracor/solbrig-die-dorfschule.xml,(schluchzend.),0,14,stage_direction,1,2,speech_part,,#traugott,8.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+32,32,32,GerDracor/solbrig-die-dorfschule.xml,"Ach, meine Butterbemme!",0,23,character_speech,1,2,,Traugott.,#traugott,8.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+33,33,33,GerDracor/solbrig-die-dorfschule.xml,meine Butterbemme!,24,42,character_speech,1,2,,Traugott.,#traugott,8.0,MALE,love,K,,1812.0,positive,emotions of affection
+34,34,34,GerDracor/solbrig-die-dorfschule.xml,"Ja, das hilft nichts.",0,21,character_speech,1,2,,Schulmeister.,#schulmeister,9.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+35,35,35,GerDracor/solbrig-die-dorfschule.xml,Strafe muß seyn!,22,38,character_speech,1,2,,Schulmeister.,#schulmeister,9.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+36,36,36,GerDracor/solbrig-die-dorfschule.xml,Die Butterbemme soll mir gar gut schmecken.,39,82,character_speech,1,2,,Schulmeister.,#schulmeister,9.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+37,37,37,GerDracor/solbrig-die-dorfschule.xml,"–
+            Nun setz' dich nieder.",83,119,character_speech,1,2,,Schulmeister.,#schulmeister,9.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+38,38,38,GerDracor/solbrig-die-dorfschule.xml,Strafe muß seyn!,120,136,character_speech,1,2,,Schulmeister.,#schulmeister,9.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+39,39,39,GerDracor/solbrig-die-dorfschule.xml,(Traugott setzt sich.),0,22,stage_direction,1,2,inner_speech,,#schulmeister,9.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+40,40,40,GerDracor/solbrig-die-dorfschule.xml,(tritt ein; ihm ragt aus der Tasche ein kleines Packet.),0,56,stage_direction,1,2,speech_part,,#hanstoeffel,10.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+41,41,41,GerDracor/solbrig-die-dorfschule.xml,(Spricht verschnupft.),0,22,stage_direction,1,2,inner_speech,,#hanstoeffel,10.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+42,42,42,GerDracor/solbrig-die-dorfschule.xml," Guten Morgen, Herr Schulmeister!",0,33,character_speech,1,2,,Hanstöffel.,#hanstoeffel,10.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+43,43,43,GerDracor/solbrig-die-dorfschule.xml,"Nun, Hanstöffel, wie red'st du denn wieder einmal?",0,50,character_speech,1,2,,Schulmeister.,#schulmeister,11.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+44,44,44,GerDracor/solbrig-die-dorfschule.xml,"Ja, Herr Schulmeister, ich kann mir nicht helfen, ich habe den Stockschnupfen.",0,78,character_speech,1,2,,Hanstöffel.,#hanstoeffel,12.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+45,45,45,GerDracor/solbrig-die-dorfschule.xml,Halt's Maul!,0,12,character_speech,1,2,,Schulmeister.,#schulmeister,13.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+46,46,46,GerDracor/solbrig-die-dorfschule.xml,"Rede nur nicht erst, ich kann's gar nicht hören.",13,61,character_speech,1,2,,Schulmeister.,#schulmeister,13.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+47,47,47,GerDracor/solbrig-die-dorfschule.xml,"(wird das Päckchen
+              in Hanstöffels Tasche gewahr.)",0,63,stage_direction,1,2,inner_speech,,#schulmeister,13.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+48,48,48,GerDracor/solbrig-die-dorfschule.xml, Und was guckt mer'n da h'raus?,0,31,character_speech,1,2,,Schulmeister.,#schulmeister,13.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+49,49,49,GerDracor/solbrig-die-dorfschule.xml,He!,32,35,character_speech,1,2,,Schulmeister.,#schulmeister,13.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+50,50,50,GerDracor/solbrig-die-dorfschule.xml,"Das ist ein Stückchen Schwarzfleisch; ich muß gleich von hier weg, wenn die Schule aus
+            ist, nach Rothenhayn gehen, da hat mir die Mutter ein Stückchen Brod und Schwarzfleisch
+            eingepackt.",0,210,character_speech,1,2,,Hanstöffel.,#hanstoeffel,14.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+51,51,51,GerDracor/solbrig-die-dorfschule.xml,"Höre, mit deinem Stockschnupfen, da ist es auch wohl nur Verstellung?",0,69,character_speech,1,2,,Schulmeister.,#schulmeister,15.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+52,52,52,GerDracor/solbrig-die-dorfschule.xml,"Ne, ne, das macht die Witterung.",0,32,character_speech,1,2,,Hanstöffel.,#hanstoeffel,16.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+53,53,53,GerDracor/solbrig-die-dorfschule.xml,"Es ist auf einmal gekommen, und da habe ich den
+            Stockschnupfen gekriegt.",33,117,character_speech,1,2,,Hanstöffel.,#hanstoeffel,16.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+54,54,54,GerDracor/solbrig-die-dorfschule.xml,"Geh, du bist ein Narr, mit sammt deinem Stockschnupfen!",0,55,character_speech,1,2,,Schulmeister.,#schulmeister,17.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+55,55,55,GerDracor/solbrig-die-dorfschule.xml,"– Mir kömmt die ganze Sache wie
+            eine Verstellung vor.",56,121,character_speech,1,2,,Schulmeister.,#schulmeister,17.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+56,56,56,GerDracor/solbrig-die-dorfschule.xml,"– Ja, ja, mir scheint's eine bloße Verstellung, und die muß
+            bestraft werden; weißt du was – Strafe muß seyn!",122,242,character_speech,1,2,,Schulmeister.,#schulmeister,17.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+57,57,57,GerDracor/solbrig-die-dorfschule.xml,"gieb du dein Packet her, das werde ich
+            zu mir nehmen.",243,308,character_speech,1,2,,Schulmeister.,#schulmeister,17.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+58,58,58,GerDracor/solbrig-die-dorfschule.xml,Strafe muß seyn!,309,325,character_speech,1,2,,Schulmeister.,#schulmeister,17.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+59,59,59,GerDracor/solbrig-die-dorfschule.xml,–,326,327,character_speech,1,2,,Schulmeister.,#schulmeister,17.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+60,60,60,GerDracor/solbrig-die-dorfschule.xml,(heult laut.),0,13,stage_direction,1,2,speech_part,,#hanstoeffel,18.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+61,61,61,GerDracor/solbrig-die-dorfschule.xml,"Ach, mein Brod!",0,15,character_speech,1,2,,Hanstöffel.,#hanstoeffel,18.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+62,62,62,GerDracor/solbrig-die-dorfschule.xml,"ach, mein Schwarzfleisch!",16,41,character_speech,1,2,,Hanstöffel.,#hanstoeffel,18.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+63,63,63,GerDracor/solbrig-die-dorfschule.xml,Nun geh' und setz' dich ruhig an Ort und Stelle.,0,48,character_speech,1,2,,Schulmeister.,#schulmeister,19.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+64,64,64,GerDracor/solbrig-die-dorfschule.xml,"Ihr sollt mir nicht solche Sachen mit
+            in die Schule bringen, die sind nur zur Verführung.",49,150,character_speech,1,2,,Schulmeister.,#schulmeister,19.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+65,65,65,GerDracor/solbrig-die-dorfschule.xml,"Setz' dich nun bald, sonst kriegst
+            du noch ein Paar Ohrfeigen oben drein; du hast so noch etwas im Fasse; du wirst's nicht
+            mehr wissen, weswegen; aber Strafe muß seyn!",151,342,character_speech,1,2,,Schulmeister.,#schulmeister,19.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+66,66,66,GerDracor/solbrig-die-dorfschule.xml,–,343,344,character_speech,1,2,,Schulmeister.,#schulmeister,19.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+67,67,67,GerDracor/solbrig-die-dorfschule.xml,(setzt sich heulend nieder.),0,28,stage_direction,1,2,speech_part,,#hanstoeffel,20.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+68,68,68,GerDracor/solbrig-die-dorfschule.xml,"(tritt ein, und hat, ohne daß es der Schulmeister gewahr geworden ist, ein Packet
+            an der Thüre niedergelegt.)",0,121,stage_direction,1,2,speech_part,,#fritze,21.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+69,69,69,GerDracor/solbrig-die-dorfschule.xml,"Guten Morgen, Herr Schulmeister!",0,32,character_speech,1,2,,Fritze.,#fritze,21.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+70,70,70,GerDracor/solbrig-die-dorfschule.xml,Ich soll – ich soll ein –,33,58,character_speech,1,2,,Fritze.,#fritze,21.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+71,71,71,GerDracor/solbrig-die-dorfschule.xml,"(fängt immer mehr an
+              zu stottern.)",0,48,stage_direction,1,2,inner_speech,,#fritze,21.0,MALE,fear,K,,1812.0,negative,emotions of anxiety
+72,72,72,GerDracor/solbrig-die-dorfschule.xml," Ich soll ein schönes Kumpelment ausrichten – und dernach soll
+            ich – und auch ein schönes Kumpelment ausrichten – und da – und ein schönes – und da
+            schickten – ein Kumpel –",0,196,character_speech,1,2,,Fritze.,#fritze,21.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+73,73,73,GerDracor/solbrig-die-dorfschule.xml,Nun höre bald auf zu welschen und zu stottern!,0,46,character_speech,1,2,,Schulmeister.,#schulmeister,22.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+74,74,74,GerDracor/solbrig-die-dorfschule.xml,"Nun hab' ich's gerade satt; sonst
+            setzt's was Warmes!",47,112,character_speech,1,2,,Schulmeister.,#schulmeister,22.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+75,75,75,GerDracor/solbrig-die-dorfschule.xml,ich habe dich lange auf'm Korne!,113,145,character_speech,1,2,,Schulmeister.,#schulmeister,22.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+76,76,76,GerDracor/solbrig-die-dorfschule.xml,"Nun mache, daß du fertig wirst.",146,177,character_speech,1,2,,Schulmeister.,#schulmeister,22.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+77,77,77,GerDracor/solbrig-die-dorfschule.xml,(wie oben.),0,11,stage_direction,1,2,speech_part,,#fritze,23.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+78,78,78,GerDracor/solbrig-die-dorfschule.xml,"Ich soll ein schönes Kumpelment – soll ich – ich soll ein – und da – Herr Schulmeister
+            – da soll ich auch – und –",0,125,character_speech,1,2,,Fritze.,#fritze,23.0,MALE,being moved,K,,1812.0,being moved,being moved
+79,79,79,GerDracor/solbrig-die-dorfschule.xml,(prügelt Fritz.),0,16,stage_direction,1,2,speech_part,,#schulmeister,24.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+80,80,80,GerDracor/solbrig-die-dorfschule.xml,"Da hast du was für's Stottern, Canaille!",0,40,character_speech,1,2,,Schulmeister.,#schulmeister,24.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+81,81,81,GerDracor/solbrig-die-dorfschule.xml,(während er geprügelt wird.),0,28,stage_direction,1,2,speech_part,,#fritze,25.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+82,82,82,GerDracor/solbrig-die-dorfschule.xml,(Weinend.),0,10,stage_direction,1,2,inner_speech,,#fritze,25.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+83,83,83,GerDracor/solbrig-die-dorfschule.xml, Ich soll – ich soll ein schönes Kump – ach!,0,44,character_speech,1,2,,Fritze.,#fritze,25.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+84,84,84,GerDracor/solbrig-die-dorfschule.xml,Herr Jesus!,45,56,character_speech,1,2,,Fritze.,#fritze,25.0,MALE,being moved,K,,1812.0,being moved,being moved
+85,85,85,GerDracor/solbrig-die-dorfschule.xml,"Herr
+            Jesus!",57,80,character_speech,1,2,,Fritze.,#fritze,25.0,MALE,being moved,K,,1812.0,being moved,being moved
+86,86,86,GerDracor/solbrig-die-dorfschule.xml,ich soll –,81,91,character_speech,1,2,,Fritze.,#fritze,25.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+87,87,87,GerDracor/solbrig-die-dorfschule.xml,"Nun, sprichst du nun bald ordentlich, wie sich's gehört und gebührt?",0,68,character_speech,1,2,,Schulmeister.,#schulmeister,26.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+88,88,88,GerDracor/solbrig-die-dorfschule.xml,(immer noch weinend und schluchzend.),0,37,stage_direction,1,2,speech_part,,#fritze,27.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+89,89,89,GerDracor/solbrig-die-dorfschule.xml,Ein schönes Kumpelment soll ich – an den – schönes – ein schö – Schulmeister –,0,78,character_speech,1,2,,Fritze.,#fritze,27.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+90,90,90,GerDracor/solbrig-die-dorfschule.xml,(ihn zornig unterbrechend.),0,27,stage_direction,1,2,speech_part,,#schulmeister,28.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+91,91,91,GerDracor/solbrig-die-dorfschule.xml,"Siehst du, du gottloser Bösewicht!",0,34,character_speech,1,2,,Schulmeister.,#schulmeister,28.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+92,92,92,GerDracor/solbrig-die-dorfschule.xml,Du fängst doch wieder an zu stottern.,35,72,character_speech,1,2,,Schulmeister.,#schulmeister,28.0,MALE,fear,K,,1812.0,negative,emotions of anxiety
+93,93,93,GerDracor/solbrig-die-dorfschule.xml,"Ich muß dich
+            noch einmal durchgallern, ich mag wollen oder nicht.",73,150,character_speech,1,2,,Schulmeister.,#schulmeister,28.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+94,94,94,GerDracor/solbrig-die-dorfschule.xml,"(macht Miene, ihn auf's Neue
+              zu prügeln.)",0,55,stage_direction,1,2,inner_speech,,#schulmeister,28.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+95,95,95,GerDracor/solbrig-die-dorfschule.xml,Ich soll –,0,10,character_speech,1,2,,Fritze.,#fritze,29.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+96,96,96,GerDracor/solbrig-die-dorfschule.xml,(sich sammelnd.),0,16,stage_direction,1,2,inner_speech,,#fritze,29.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+97,97,97,GerDracor/solbrig-die-dorfschule.xml," ja – und sie hätten gestern geschlachtet,
+            und da schickten ihn meine Eltern auch eine Leberwurst.",0,110,character_speech,1,2,,Fritze.,#fritze,29.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+98,98,98,GerDracor/solbrig-die-dorfschule.xml,"(holt das Packet, was er
+              vorher an der Thür niedergelegt.)",0,72,stage_direction,1,2,inner_speech,,#fritze,29.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+99,99,99,GerDracor/solbrig-die-dorfschule.xml,(ganz erstaunt.),0,16,stage_direction,1,2,speech_part,,#schulmeister,30.0,MALE,being moved,K,,1812.0,being moved,being moved
+100,100,100,GerDracor/solbrig-die-dorfschule.xml,"Ne, nun sieh' einmal an, was du für ein einfältiger Junge bist!",0,63,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+101,101,101,GerDracor/solbrig-die-dorfschule.xml,– Eine Leberwurst!,64,82,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+102,102,102,GerDracor/solbrig-die-dorfschule.xml,"Ja –
+            das giebt der Sache eine ganz andere Wendung.",83,145,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+103,103,103,GerDracor/solbrig-die-dorfschule.xml,I Jemine!,146,155,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,being moved,K,,1812.0,being moved,being moved
+104,104,104,GerDracor/solbrig-die-dorfschule.xml,"das konntest du mir ja gleich
+            sagen.",156,204,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+105,105,105,GerDracor/solbrig-die-dorfschule.xml,–,205,206,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+106,106,106,GerDracor/solbrig-die-dorfschule.xml,(bedauernd.),0,12,stage_direction,1,2,inner_speech,,#schulmeister,30.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+107,107,107,GerDracor/solbrig-die-dorfschule.xml, Nun hast du ganz unschuldig Prügel gekriegt.,0,45,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+108,108,108,GerDracor/solbrig-die-dorfschule.xml,"Je, du
+            brauchtest gar nichts zu",46,89,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+109,109,109,GerDracor/solbrig-die-dorfschule.xml," sagen, durftest die Leberwurst ganz still auf den
+            Tisch legen, da wusst' ich schon, was es geschlagen hatte.",0,121,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+110,110,110,GerDracor/solbrig-die-dorfschule.xml,"– I, i, i!",122,132,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+111,111,111,GerDracor/solbrig-die-dorfschule.xml,"habt ihr
+            geschlachtet?",133,167,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+112,112,112,GerDracor/solbrig-die-dorfschule.xml,"– Siehst du, Traugott!",168,190,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+113,113,113,GerDracor/solbrig-die-dorfschule.xml,"ihr habt neulich auch geschlachtet, aber mir habt
+            ihr nichts geschickt; ich mache mir nichts d'raus; aber ich hätte doch die Liebe
+            gesehen.",191,354,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+114,114,114,GerDracor/solbrig-die-dorfschule.xml,"– Du kannst es immer zu Hause wieder sagen, und ihr Alle – ich mache mir nichts
+            d'raus – Ihr könnt es sagen: ich hätte von Kochlöffels Fritzen eine Leberwurst gekriegt,
+            die hätte mir eine kindische Freude gemacht.",355,592,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,Schadenfreude,K,,1812.0,positive,emotions of pleasure
+115,115,115,GerDracor/solbrig-die-dorfschule.xml,"– I, i!",593,600,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+116,116,116,GerDracor/solbrig-die-dorfschule.xml,habt ihr geschlachtet?,601,623,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+117,117,117,GerDracor/solbrig-die-dorfschule.xml,(besieht die Wurst.),0,20,stage_direction,1,2,inner_speech,,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+118,118,118,GerDracor/solbrig-die-dorfschule.xml, Was das für eine hübsche Leberwurst ist!,0,41,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,"admiration, reverence",K,,1812.0,positive,emotions of affection
+119,119,119,GerDracor/solbrig-die-dorfschule.xml,"da lacht
+            einem doch das Herze im Leibe!",42,93,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+120,120,120,GerDracor/solbrig-die-dorfschule.xml,"– Ei, die ist ja bald zu groß für mich.",94,133,character_speech,1,2,,Schulmeister.,#schulmeister,30.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+121,121,121,GerDracor/solbrig-die-dorfschule.xml,"Ja, mein Vater meinte auch: »sie wäre zu groß für ihn;« aber die Mutter sagte: »I, laß
+            nur gut seyn, das arme Best hat auch –«",0,138,character_speech,1,2,,Fritze.,#fritze,31.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+122,122,122,GerDracor/solbrig-die-dorfschule.xml,(schnell einfallend.),0,21,stage_direction,1,2,speech_part,,#schulmeister,32.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+123,123,123,GerDracor/solbrig-die-dorfschule.xml,"Nu, nu!",0,7,character_speech,1,2,,Schulmeister.,#schulmeister,32.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+124,124,124,GerDracor/solbrig-die-dorfschule.xml,es ist gut!,8,19,character_speech,1,2,,Schulmeister.,#schulmeister,32.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+125,125,125,GerDracor/solbrig-die-dorfschule.xml,von solchen Sachen wollen wir weiter nicht reden!,20,69,character_speech,1,2,,Schulmeister.,#schulmeister,32.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+126,126,126,GerDracor/solbrig-die-dorfschule.xml,"setz' dich
+            nieder, Fritzchen!",70,111,character_speech,1,2,,Schulmeister.,#schulmeister,32.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+127,127,127,GerDracor/solbrig-die-dorfschule.xml,(Fritze setzt sich.),0,20,stage_direction,1,2,speech_part,,#schulmeister,32.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+128,128,128,GerDracor/solbrig-die-dorfschule.xml,"(sehr stark schreiend, indem er eintritt.)",0,42,stage_direction,1,2,speech_part,,#gottfried,33.0,MALE,fear,K,,1812.0,negative,emotions of anxiety
+129,129,129,GerDracor/solbrig-die-dorfschule.xml,"Guten Morgen, Herr Sch –",0,24,character_speech,1,2,,Gottfried.,#gottfried,33.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+130,130,130,GerDracor/solbrig-die-dorfschule.xml,(schnell einfallend.),0,21,stage_direction,1,2,speech_part,,#schulmeister,34.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+131,131,131,GerDracor/solbrig-die-dorfschule.xml,"Schrei' nicht so wie ein Esel, du Rindvieh!",0,43,character_speech,1,2,,Schulmeister.,#schulmeister,34.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+132,132,132,GerDracor/solbrig-die-dorfschule.xml,wenn du herein kommst.,44,66,character_speech,1,2,,Schulmeister.,#schulmeister,34.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+133,133,133,GerDracor/solbrig-die-dorfschule.xml,Setz' dich!,67,78,character_speech,1,2,,Schulmeister.,#schulmeister,34.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+134,134,134,GerDracor/solbrig-die-dorfschule.xml,(Gottfried setzt sich.),0,23,stage_direction,1,2,inner_speech,,#schulmeister,34.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+135,135,135,GerDracor/solbrig-die-dorfschule.xml,(tritt ein.),0,12,stage_direction,1,2,speech_part,,#christlieb,35.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+136,136,136,GerDracor/solbrig-die-dorfschule.xml,"Guten Morgen, Herr Schulmeister!",0,32,character_speech,1,2,,Christlieb.,#christlieb,35.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+137,137,137,GerDracor/solbrig-die-dorfschule.xml,"Junge, warum bleibst du so lange?",0,33,character_speech,1,2,,Schulmeister.,#schulmeister,36.0,MALE,being moved,K,,1812.0,being moved,being moved
+138,138,138,GerDracor/solbrig-die-dorfschule.xml,"– Warte, das muß aufnotirt werden.",34,68,character_speech,1,2,,Schulmeister.,#schulmeister,36.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+139,139,139,GerDracor/solbrig-die-dorfschule.xml,"(schreibt
+              etwas auf eine Tafel.)",0,46,stage_direction,1,2,inner_speech,,#schulmeister,36.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+140,140,140,GerDracor/solbrig-die-dorfschule.xml," Sieh'st du, da steht's.",0,24,character_speech,1,2,,Schulmeister.,#schulmeister,36.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+141,141,141,GerDracor/solbrig-die-dorfschule.xml,"Das muß der Herr Magister und
+            der Herr Superintendent erfahren, und auch die Ursache will ich dazu schreiben.",25,146,character_speech,1,2,,Schulmeister.,#schulmeister,36.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+142,142,142,GerDracor/solbrig-die-dorfschule.xml,(streng fragend.),0,17,stage_direction,1,2,inner_speech,,#schulmeister,36.0,MALE,being moved,K,,1812.0,being moved,being moved
+143,143,143,GerDracor/solbrig-die-dorfschule.xml, Warum bist du nicht eher gekommen?,0,35,character_speech,1,2,,Schulmeister.,#schulmeister,36.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+144,144,144,GerDracor/solbrig-die-dorfschule.xml,He!,36,39,character_speech,1,2,,Schulmeister.,#schulmeister,36.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+145,145,145,GerDracor/solbrig-die-dorfschule.xml,(ängstlich.),0,12,stage_direction,1,2,speech_part,,#christlieb,37.0,MALE,fear,K,,1812.0,negative,emotions of anxiety
+146,146,146,GerDracor/solbrig-die-dorfschule.xml,Die Frau Schulmeisterin schickte mich nach Schnapse.,0,52,character_speech,1,2,,Christlieb.,#christlieb,37.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+147,147,147,GerDracor/solbrig-die-dorfschule.xml,So!,0,3,character_speech,1,2,,Schulmeister.,#schulmeister,38.0,MALE,being moved,K,,1812.0,being moved,being moved
+148,148,148,GerDracor/solbrig-die-dorfschule.xml,"– Nun, weil das ist, da will ich's nur wieder ausstreichen dasmal.",4,70,character_speech,1,2,,Schulmeister.,#schulmeister,38.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+149,149,149,GerDracor/solbrig-die-dorfschule.xml,"– Du hast doch
+            nicht genascht?",71,113,character_speech,1,2,,Schulmeister.,#schulmeister,38.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+150,150,150,GerDracor/solbrig-die-dorfschule.xml,He!,114,117,character_speech,1,2,,Schulmeister.,#schulmeister,38.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+151,151,151,GerDracor/solbrig-die-dorfschule.xml,(immer ängstlicher.),0,20,stage_direction,1,2,speech_part,,#christlieb,39.0,MALE,fear,K,,1812.0,negative,emotions of anxiety
+152,152,152,GerDracor/solbrig-die-dorfschule.xml,Ach ne!,0,7,character_speech,1,2,,Christlieb.,#christlieb,39.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+153,153,153,GerDracor/solbrig-die-dorfschule.xml,ach ne!,8,15,character_speech,1,2,,Christlieb.,#christlieb,39.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+154,154,154,GerDracor/solbrig-die-dorfschule.xml,"ich dachte, was mich bisse!",16,43,character_speech,1,2,,Christlieb.,#christlieb,39.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+155,155,155,GerDracor/solbrig-die-dorfschule.xml,– Ne!,44,49,character_speech,1,2,,Christlieb.,#christlieb,39.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+156,156,156,GerDracor/solbrig-die-dorfschule.xml,ne!,50,53,character_speech,1,2,,Christlieb.,#christlieb,39.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+157,157,157,GerDracor/solbrig-die-dorfschule.xml,Laß einmal riechen.,0,19,character_speech,1,2,,Schulmeister.,#schulmeister,40.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+158,158,158,GerDracor/solbrig-die-dorfschule.xml,(riecht ihn an.),0,16,stage_direction,1,2,inner_speech,,#schulmeister,40.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+159,159,159,GerDracor/solbrig-die-dorfschule.xml, Junge!,0,7,character_speech,1,2,,Schulmeister.,#schulmeister,40.0,MALE,being moved,K,,1812.0,being moved,being moved
+160,160,160,GerDracor/solbrig-die-dorfschule.xml,"der Schnapps riecht dir ja
+            aus dem Halse: warte, Brut!",8,74,character_speech,1,2,,Schulmeister.,#schulmeister,40.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+161,161,161,GerDracor/solbrig-die-dorfschule.xml,du!,75,78,character_speech,1,2,,Schulmeister.,#schulmeister,40.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+162,162,162,GerDracor/solbrig-die-dorfschule.xml,(prügelt ihn.),0,14,stage_direction,1,2,inner_speech,,#schulmeister,40.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+163,163,163,GerDracor/solbrig-die-dorfschule.xml,(heult laut.),0,13,stage_direction,1,2,speech_part,,#christlieb,41.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+164,164,164,GerDracor/solbrig-die-dorfschule.xml,Ach Herr Je!,0,12,character_speech,1,2,,Christlieb.,#christlieb,41.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+165,165,165,GerDracor/solbrig-die-dorfschule.xml,ach Herr Je!,13,25,character_speech,1,2,,Christlieb.,#christlieb,41.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+166,166,166,GerDracor/solbrig-die-dorfschule.xml,"ich habe heute früh Meerrettig gegessen, davon riech' ich so.",26,87,character_speech,1,2,,Christlieb.,#christlieb,41.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+167,167,167,GerDracor/solbrig-die-dorfschule.xml,–,100,101,character_speech,1,2,,Christlieb.,#christlieb,41.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+168,168,168,GerDracor/solbrig-die-dorfschule.xml,Esel!,0,5,character_speech,1,2,,Schulmeister.,#schulmeister,42.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+169,169,169,GerDracor/solbrig-die-dorfschule.xml,"ich werde nicht wissen, wie Schnapps riecht!",6,50,character_speech,1,2,,Schulmeister.,#schulmeister,42.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+170,170,170,GerDracor/solbrig-die-dorfschule.xml,Wenn ich alles so gut wüsste.,51,80,character_speech,1,2,,Schulmeister.,#schulmeister,42.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+171,171,171,GerDracor/solbrig-die-dorfschule.xml,"– Nun,
+            dem Herrn Magister will ich dasmal noch nichts sagen; sag' du auch nichts.",81,174,character_speech,1,2,,Schulmeister.,#schulmeister,42.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+172,172,172,GerDracor/solbrig-die-dorfschule.xml,"Laß dir an
+            den Prügeln genug seyn, und bessre dich.",175,238,character_speech,1,2,,Schulmeister.,#schulmeister,42.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+173,173,173,GerDracor/solbrig-die-dorfschule.xml,– Setz' dich nieder!,239,259,character_speech,1,2,,Schulmeister.,#schulmeister,42.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+174,174,174,GerDracor/solbrig-die-dorfschule.xml,"(Christlieb setzt
+              sich.)",0,38,stage_direction,1,2,inner_speech,,#schulmeister,42.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+175,175,175,GerDracor/solbrig-die-dorfschule.xml,(schreit.),0,10,stage_direction,1,2,speech_part,,#fritze,43.0,MALE,fear,K,,1812.0,negative,emotions of anxiety
+176,176,176,GerDracor/solbrig-die-dorfschule.xml,Der da – der hier – der da!,0,27,character_speech,1,2,,Fritze.,#fritze,43.0,MALE,being moved,K,,1812.0,being moved,being moved
+177,177,177,GerDracor/solbrig-die-dorfschule.xml,"Nun, was giebt's denn wieder da unten?",0,38,character_speech,1,2,,Schulmeister.,#schulmeister,44.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+178,178,178,GerDracor/solbrig-die-dorfschule.xml,Was habt ihr denn wieder vor?,39,68,character_speech,1,2,,Schulmeister.,#schulmeister,44.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+179,179,179,GerDracor/solbrig-die-dorfschule.xml,Der hier ist es – der –,0,23,character_speech,1,2,,Fritze.,#fritze,45.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+180,180,180,GerDracor/solbrig-die-dorfschule.xml,"Nun, was hast du denn, Fritzchen!",0,33,character_speech,1,2,,Schulmeister.,#schulmeister,46.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+181,181,181,GerDracor/solbrig-die-dorfschule.xml,wer thut dir denn was?,34,56,character_speech,1,2,,Schulmeister.,#schulmeister,46.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+182,182,182,GerDracor/solbrig-die-dorfschule.xml,"Der da, der leckt mir immer die Butter vom Brodte.",0,50,character_speech,1,2,,Fritze.,#fritze,47.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+183,183,183,GerDracor/solbrig-die-dorfschule.xml,–,51,52,character_speech,1,2,,Fritze.,#fritze,47.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+184,184,184,GerDracor/solbrig-die-dorfschule.xml,"I, sprich doch, er soll –",0,25,character_speech,1,2,,Schulmeister.,#schulmeister,48.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+185,185,185,GerDracor/solbrig-die-dorfschule.xml,(schnell einlenkend.),0,21,stage_direction,1,2,inner_speech,,#schulmeister,48.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+186,186,186,GerDracor/solbrig-die-dorfschule.xml," Macht nicht solche dumme
+            Streiche, und haltet Ruhe!",0,64,character_speech,1,2,,Schulmeister.,#schulmeister,48.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+187,187,187,GerDracor/solbrig-die-dorfschule.xml,(treten ein.),0,13,stage_direction,1,2,speech_part,,#leberecht #benjamin,49.0,UNKNOWN,no_annotation,K,,1812.0,no_annotation,no_annotation
+188,188,188,GerDracor/solbrig-die-dorfschule.xml,Beide zugleich:,0,15,stage_direction,1,2,inner_speech,,#leberecht #benjamin,49.0,UNKNOWN,no_annotation,K,,1812.0,no_annotation,no_annotation
+189,189,189,GerDracor/solbrig-die-dorfschule.xml," Guten Morgen, Herr Schulmeister!",0,33,character_speech,1,2,,Leberecht und Benjamin.,#leberecht #benjamin,49.0,UNKNOWN,no_annotation,K,,1812.0,no_annotation,no_annotation
+190,190,190,GerDracor/solbrig-die-dorfschule.xml,–,34,35,character_speech,1,2,,Leberecht und Benjamin.,#leberecht #benjamin,49.0,UNKNOWN,no_annotation,K,,1812.0,no_annotation,no_annotation
+191,191,191,GerDracor/solbrig-die-dorfschule.xml,(geht ihnen entgegen.),0,22,stage_direction,1,2,speech_part,,#schulmeister,50.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+192,192,192,GerDracor/solbrig-die-dorfschule.xml,"Wart't, wart't!",0,15,character_speech,1,2,,Schulmeister.,#schulmeister,50.0,MALE,fear,K,,1812.0,negative,emotions of anxiety
+193,193,193,GerDracor/solbrig-die-dorfschule.xml,ich will euch lernen so späte kommen!,16,53,character_speech,1,2,,Schulmeister.,#schulmeister,50.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+194,194,194,GerDracor/solbrig-die-dorfschule.xml,"(macht Miene, sie zu prügeln.)",0,30,stage_direction,1,2,speech_part,,#schulmeister,50.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+195,195,195,GerDracor/solbrig-die-dorfschule.xml,Wir mussten warten.,0,19,character_speech,1,2,,Leberecht.,#leberecht,51.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+196,196,196,GerDracor/solbrig-die-dorfschule.xml,(mit Pathos.),0,13,stage_direction,1,2,speech_part,,#schulmeister,52.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+197,197,197,GerDracor/solbrig-die-dorfschule.xml,Worauf habt ihr gewartet?,0,25,character_speech,1,2,,Schulmeister.,#schulmeister,52.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+198,198,198,GerDracor/solbrig-die-dorfschule.xml,"Nichts ist kräftige Entschuldigung, um so spät in die Schule
+            zu kommen!",26,109,character_speech,1,2,,Schulmeister.,#schulmeister,52.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+199,199,199,GerDracor/solbrig-die-dorfschule.xml,"Worauf habt ihr, Rabenkinder!",110,139,character_speech,1,2,,Schulmeister.,#schulmeister,52.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+200,200,200,GerDracor/solbrig-die-dorfschule.xml,warten müssen?,140,154,character_speech,1,2,,Schulmeister.,#schulmeister,52.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+201,201,201,GerDracor/solbrig-die-dorfschule.xml,Worauf?,155,162,character_speech,1,2,,Schulmeister.,#schulmeister,52.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+202,202,202,GerDracor/solbrig-die-dorfschule.xml,"Auf die Eier, die die Mutter vom Hühnerhause holte –",0,52,character_speech,1,2,,Benjamin.,#benjamin,53.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+203,203,203,GerDracor/solbrig-die-dorfschule.xml,Die wir der Frau Schulmeisterin mitgebracht haben.,0,50,character_speech,1,2,,Leberecht.,#leberecht,54.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+204,204,204,GerDracor/solbrig-die-dorfschule.xml,(etwas verblüfft.),0,18,stage_direction,1,2,speech_part,,#schulmeister,55.0,MALE,being moved,K,,1812.0,being moved,being moved
+205,205,205,GerDracor/solbrig-die-dorfschule.xml,Ah!,0,3,character_speech,1,2,,Schulmeister.,#schulmeister,55.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+206,206,206,GerDracor/solbrig-die-dorfschule.xml,Dann musstet ihr freilich warten.,4,37,character_speech,1,2,,Schulmeister.,#schulmeister,55.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+207,207,207,GerDracor/solbrig-die-dorfschule.xml,– Herrendienst geht vor Gottesdienst!,38,75,character_speech,1,2,,Schulmeister.,#schulmeister,55.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+208,208,208,GerDracor/solbrig-die-dorfschule.xml,"– Setzt
+            euch, liebe Kleine!",76,115,character_speech,1,2,,Schulmeister.,#schulmeister,55.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+209,209,209,GerDracor/solbrig-die-dorfschule.xml,(Benjamin und Leberecht setzen sich.),0,37,stage_direction,1,2,speech_part,,#schulmeister,55.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+210,210,210,GerDracor/solbrig-die-dorfschule.xml,"(geht, fragend, auf und ab.)",0,28,stage_direction,1,2,speech_part,,#schulmeister,56.0,MALE,being moved,K,,1812.0,being moved,being moved
+211,211,211,GerDracor/solbrig-die-dorfschule.xml,Wovon haben wir in der vorigen Stunde gehandelt?,0,48,character_speech,1,2,,Schulmeister.,#schulmeister,56.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+212,212,212,GerDracor/solbrig-die-dorfschule.xml,"– Nun, Fritzchen, was meinst du?",49,81,character_speech,1,2,,Schulmeister.,#schulmeister,56.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+213,213,213,GerDracor/solbrig-die-dorfschule.xml,"–
+            Nun, von der –",82,110,character_speech,1,2,,Schulmeister.,#schulmeister,56.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+214,214,214,GerDracor/solbrig-die-dorfschule.xml,Von der –,0,9,character_speech,1,2,,Fritze.,#fritze,57.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+215,215,215,GerDracor/solbrig-die-dorfschule.xml,Von der Sü –,0,12,character_speech,1,2,,Schulmeister.,#schulmeister,58.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+216,216,216,GerDracor/solbrig-die-dorfschule.xml,Von der Sü –,0,12,character_speech,1,2,,Fritze.,#fritze,59.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+217,217,217,GerDracor/solbrig-die-dorfschule.xml,Von der Sünde.,0,14,character_speech,1,2,,Schulmeister.,#schulmeister,60.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+218,218,218,GerDracor/solbrig-die-dorfschule.xml,Von der Sünde.,0,14,character_speech,1,2,,Fritze.,#fritze,61.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+219,219,219,GerDracor/solbrig-die-dorfschule.xml,(belobend.),0,11,stage_direction,1,2,speech_part,,#schulmeister,62.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+220,220,220,GerDracor/solbrig-die-dorfschule.xml,"Ja, von der Sünde!",0,18,character_speech,1,2,,Schulmeister.,#schulmeister,62.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+221,221,221,GerDracor/solbrig-die-dorfschule.xml,– Von der Sünde haben wir gehandelt.,19,55,character_speech,1,2,,Schulmeister.,#schulmeister,62.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+222,222,222,GerDracor/solbrig-die-dorfschule.xml,"(zu Leberecht
+              gewendet.)",0,38,stage_direction,1,2,inner_speech,,#schulmeister,62.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+223,223,223,GerDracor/solbrig-die-dorfschule.xml, Was heißt denn das:,0,20,character_speech,1,2,,Schulmeister.,#schulmeister,62.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+224,224,224,GerDracor/solbrig-die-dorfschule.xml,Das weiß ich nicht mehr.,0,24,character_speech,1,2,,Leberecht.,#leberecht,63.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+225,225,225,GerDracor/solbrig-die-dorfschule.xml,"Nun, Sünde hieß: Unr –",0,22,character_speech,1,2,,Schulmeister.,#schulmeister,64.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+226,226,226,GerDracor/solbrig-die-dorfschule.xml,Unr –,0,5,character_speech,1,2,,Leberecht.,#leberecht,65.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+227,227,227,GerDracor/solbrig-die-dorfschule.xml,(einhelfend.),0,13,stage_direction,1,2,speech_part,,#schulmeister,66.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+228,228,228,GerDracor/solbrig-die-dorfschule.xml,Unrecht.,0,8,character_speech,1,2,,Schulmeister.,#schulmeister,66.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+229,229,229,GerDracor/solbrig-die-dorfschule.xml,Unrecht.,0,8,character_speech,1,2,,Leberecht.,#leberecht,67.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+230,230,230,GerDracor/solbrig-die-dorfschule.xml,(belobend.),0,11,stage_direction,1,2,speech_part,,#schulmeister,68.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+231,231,231,GerDracor/solbrig-die-dorfschule.xml,"Ja, Sünde ist Unrecht.",0,22,character_speech,1,2,,Schulmeister.,#schulmeister,68.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+232,232,232,GerDracor/solbrig-die-dorfschule.xml,– Was hab' ich denn Euch für einen Spruch angeführt?,23,75,character_speech,1,2,,Schulmeister.,#schulmeister,68.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+233,233,233,GerDracor/solbrig-die-dorfschule.xml,Benjamin!,76,85,character_speech,1,2,,Schulmeister.,#schulmeister,68.0,MALE,being moved,K,,1812.0,being moved,being moved
+234,234,234,GerDracor/solbrig-die-dorfschule.xml,"Nu, wir sind –",98,112,character_speech,1,2,,Schulmeister.,#schulmeister,68.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+235,235,235,GerDracor/solbrig-die-dorfschule.xml,Wir sind –,0,10,character_speech,1,2,,Benjamin.,#benjamin,69.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+236,236,236,GerDracor/solbrig-die-dorfschule.xml,(stärker.),0,10,stage_direction,1,2,speech_part,,#schulmeister,70.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+237,237,237,GerDracor/solbrig-die-dorfschule.xml,Wir sind allzumal –,0,19,character_speech,1,2,,Schulmeister.,#schulmeister,70.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+238,238,238,GerDracor/solbrig-die-dorfschule.xml,Wir sind allzumal –,0,19,character_speech,1,2,,Benjamin.,#benjamin,71.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+239,239,239,GerDracor/solbrig-die-dorfschule.xml,Nu!,0,3,character_speech,1,2,,Schulmeister.,#schulmeister,72.0,MALE,being moved,K,,1812.0,being moved,being moved
+240,240,240,GerDracor/solbrig-die-dorfschule.xml,Weiter!,4,11,character_speech,1,2,,Schulmeister.,#schulmeister,72.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+241,241,241,GerDracor/solbrig-die-dorfschule.xml,weiter!,12,19,character_speech,1,2,,Schulmeister.,#schulmeister,72.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+242,242,242,GerDracor/solbrig-die-dorfschule.xml,"Wir sind allzumal Sünder, und –",20,51,character_speech,1,2,,Schulmeister.,#schulmeister,72.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+243,243,243,GerDracor/solbrig-die-dorfschule.xml,(nachsprechend.),0,16,stage_direction,1,2,speech_part,,#benjamin,73.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+244,244,244,GerDracor/solbrig-die-dorfschule.xml,Wir sind allzumal Sünder und –,0,30,character_speech,1,2,,Benjamin.,#benjamin,73.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+245,245,245,GerDracor/solbrig-die-dorfschule.xml,"Und mangeln des Ruhms, den wir haben sollen.",0,44,character_speech,1,2,,Schulmeister.,#schulmeister,74.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+246,246,246,GerDracor/solbrig-die-dorfschule.xml,(wie oben.),0,11,stage_direction,1,2,speech_part,,#benjamin,75.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+247,247,247,GerDracor/solbrig-die-dorfschule.xml,"Und mangeln des Ruhms, den wir haben sollen.",0,44,character_speech,1,2,,Benjamin.,#benjamin,75.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+248,248,248,GerDracor/solbrig-die-dorfschule.xml,"Ja, ganz recht!",0,15,character_speech,1,2,,Schulmeister.,#schulmeister,76.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+249,249,249,GerDracor/solbrig-die-dorfschule.xml,"Wir sind allzumal Sünder, und mangeln des Ruhms, den wir haben sollen.",16,86,character_speech,1,2,,Schulmeister.,#schulmeister,76.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+250,250,250,GerDracor/solbrig-die-dorfschule.xml,– Was sind wir also?,99,119,character_speech,1,2,,Schulmeister.,#schulmeister,76.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+251,251,251,GerDracor/solbrig-die-dorfschule.xml,Gottfried!,120,130,character_speech,1,2,,Schulmeister.,#schulmeister,76.0,MALE,being moved,K,,1812.0,being moved,being moved
+252,252,252,GerDracor/solbrig-die-dorfschule.xml,Sünder.,0,7,character_speech,1,2,,Gottfried.,#gottfried,77.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+253,253,253,GerDracor/solbrig-die-dorfschule.xml,"Ja, Sünder sind wir.",0,20,character_speech,1,2,,Schulmeister.,#schulmeister,78.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+254,254,254,GerDracor/solbrig-die-dorfschule.xml,– Was sind wir denn weiter?,21,48,character_speech,1,2,,Schulmeister.,#schulmeister,78.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+255,255,255,GerDracor/solbrig-die-dorfschule.xml,Traugott!,49,58,character_speech,1,2,,Schulmeister.,#schulmeister,78.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+256,256,256,GerDracor/solbrig-die-dorfschule.xml,Mangeln – Mangeln.,0,18,character_speech,1,2,,Traugott.,#traugott,79.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+257,257,257,GerDracor/solbrig-die-dorfschule.xml,Was?,0,4,character_speech,1,2,,Schulmeister.,#schulmeister,80.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+258,258,258,GerDracor/solbrig-die-dorfschule.xml,Mangeln?,5,13,character_speech,1,2,,Schulmeister.,#schulmeister,80.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+259,259,259,GerDracor/solbrig-die-dorfschule.xml,– was meinst du denn damit?,14,41,character_speech,1,2,,Schulmeister.,#schulmeister,80.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+260,260,260,GerDracor/solbrig-die-dorfschule.xml,Was heißt denn das: Mangeln?,42,70,character_speech,1,2,,Schulmeister.,#schulmeister,80.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+261,261,261,GerDracor/solbrig-die-dorfschule.xml,"Drehrollen, Drehrollen.",0,23,character_speech,1,2,,Traugott.,#traugott,81.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+262,262,262,GerDracor/solbrig-die-dorfschule.xml,Geh!,0,4,character_speech,1,2,,Schulmeister.,#schulmeister,82.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+263,263,263,GerDracor/solbrig-die-dorfschule.xml,du bist nicht gescheid.,5,28,character_speech,1,2,,Schulmeister.,#schulmeister,82.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+264,264,264,GerDracor/solbrig-die-dorfschule.xml,"Wir mangeln des Ruhms; das heißt: Wir haben keinen Ruhm,
+            uns fehlt der Ruhm; aber deswegen sind wir noch keine Drehrollen, du Esel!",29,172,character_speech,1,2,,Schulmeister.,#schulmeister,82.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+265,265,265,GerDracor/solbrig-die-dorfschule.xml,"– Wie könnt'
+            ich nun so dumm seyn!",173,219,character_speech,1,2,,Schulmeister.,#schulmeister,82.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+266,266,266,GerDracor/solbrig-die-dorfschule.xml,"– Seht, wir sind alle Sünder, wir haben alle keinen Ruhm.",220,277,character_speech,1,2,,Schulmeister.,#schulmeister,82.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+267,267,267,GerDracor/solbrig-die-dorfschule.xml,"Ich bin
+            euer Schulmeister, aber ich habe doch wohl auch keinen Ruhm; ihr könnt mit mir reden,
+            wie mit einem gemeinen Manne.",278,425,character_speech,1,2,,Schulmeister.,#schulmeister,82.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+268,268,268,GerDracor/solbrig-die-dorfschule.xml,"Ja, ja, ich habe auch keinen Ruhm.",426,460,character_speech,1,2,,Schulmeister.,#schulmeister,82.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+269,269,269,GerDracor/solbrig-die-dorfschule.xml,"Ich bin von euch dummen
+            Jungen der erste; ich bin so zu sagen euer Chef, aber ein Sünder bin ich eben auch; denn
+            wir sind – nu?",461,612,character_speech,1,2,,Schulmeister.,#schulmeister,82.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+270,270,270,GerDracor/solbrig-die-dorfschule.xml,Christlieb!,613,624,character_speech,1,2,,Schulmeister.,#schulmeister,82.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+271,271,271,GerDracor/solbrig-die-dorfschule.xml,(schnappernd.),0,14,stage_direction,1,2,speech_part,,#christlieb,83.0,MALE,Schadenfreude,K,,1812.0,positive,emotions of pleasure
+272,272,272,GerDracor/solbrig-die-dorfschule.xml,"Wir sind allzumal Sünder und mangeln des Ruhms, den wir haben sollen.",0,69,character_speech,1,2,,Christlieb.,#christlieb,83.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+273,273,273,GerDracor/solbrig-die-dorfschule.xml,"Sieh, Fritze!",0,13,character_speech,1,2,,Schulmeister.,#schulmeister,84.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+274,274,274,GerDracor/solbrig-die-dorfschule.xml,"wir sind allzumal Sünder; deine Eltern haben mir eine Leberwurst verehrt;
+            aber deswegen muß ich",14,121,character_speech,1,2,,Schulmeister.,#schulmeister,84.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+275,275,275,GerDracor/solbrig-die-dorfschule.xml," sie doch auch Sünder nennen, und sie mangeln des
+            Ruhms eben so gut",0,79,character_speech,1,2,,Schulmeister.,#schulmeister,84.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+276,276,276,GerDracor/solbrig-die-dorfschule.xml,(mit Bezug.),0,12,stage_direction,1,2,inner_speech,,#schulmeister,84.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+277,277,277,GerDracor/solbrig-die-dorfschule.xml,", wie die Geizhälse, die mir nichts
+            schicken.",0,57,character_speech,1,2,,Schulmeister.,#schulmeister,84.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+278,278,278,GerDracor/solbrig-die-dorfschule.xml,– Aber freilich sind sie nicht so große Sünder.,58,105,character_speech,1,2,,Schulmeister.,#schulmeister,84.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+279,279,279,GerDracor/solbrig-die-dorfschule.xml,"Denn eine Leberwurst ist und
+            bleibt doch, genau besehen, etwas Gutes; und etwas Gutes, das ist Tugend, und Tugend das
+            ist wieder?",106,259,character_speech,1,2,,Schulmeister.,#schulmeister,84.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+280,280,280,GerDracor/solbrig-die-dorfschule.xml,"– Nun, Hanstöffel!",260,278,character_speech,1,2,,Schulmeister.,#schulmeister,84.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+281,281,281,GerDracor/solbrig-die-dorfschule.xml,Eine Leberwurst.,0,16,character_speech,1,2,,Hanstöffel.,#hanstoeffel,85.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+282,282,282,GerDracor/solbrig-die-dorfschule.xml,"I, warum nicht gar; Tugend ist etwas Gutes.",0,43,character_speech,1,2,,Schulmeister.,#schulmeister,86.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+283,283,283,GerDracor/solbrig-die-dorfschule.xml,Das merkt euch hübsch.,44,66,character_speech,1,2,,Schulmeister.,#schulmeister,86.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+284,284,284,GerDracor/solbrig-die-dorfschule.xml,"– Wir haben ferner
+            in der vorigen Stunde von der Naturgeschichte gehandelt; von Bären, Affen, Elephanten,
+            Ochsen und andern Amphibien; vorzüglich aber haben wir uns mit der Naturgeschichte des
+            Lö – Nun Traugott?",67,314,character_speech,1,2,,Schulmeister.,#schulmeister,86.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+285,285,285,GerDracor/solbrig-die-dorfschule.xml,Des Löwen.,0,10,character_speech,1,2,,Traugott.,#traugott,87.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+286,286,286,GerDracor/solbrig-die-dorfschule.xml,(fortfahrend.),0,14,stage_direction,1,2,speech_part,,#schulmeister,88.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+287,287,287,GerDracor/solbrig-die-dorfschule.xml,Des Löwen beschäftiget.,0,23,character_speech,1,2,,Schulmeister.,#schulmeister,88.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+288,288,288,GerDracor/solbrig-die-dorfschule.xml,"– Ja, mit dem Löwen.",24,44,character_speech,1,2,,Schulmeister.,#schulmeister,88.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+289,289,289,GerDracor/solbrig-die-dorfschule.xml,Was habe ich denn von dem Löwen gesagt?,45,84,character_speech,1,2,,Schulmeister.,#schulmeister,88.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+290,290,290,GerDracor/solbrig-die-dorfschule.xml,"Nun, Gottlieb!",97,111,character_speech,1,2,,Schulmeister.,#schulmeister,88.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+291,291,291,GerDracor/solbrig-die-dorfschule.xml,was habe ich gesagt?,112,132,character_speech,1,2,,Schulmeister.,#schulmeister,88.0,MALE,being moved,K,,1812.0,being moved,being moved
+292,292,292,GerDracor/solbrig-die-dorfschule.xml,(Pause),0,7,stage_direction,1,2,inner_speech,,#schulmeister,88.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+293,293,293,GerDracor/solbrig-die-dorfschule.xml," Siehst du, du hast alles
+            wieder vergessen!",0,55,character_speech,1,2,,Schulmeister.,#schulmeister,88.0,MALE,being moved,K,,1812.0,being moved,being moved
+294,294,294,GerDracor/solbrig-die-dorfschule.xml,"– Ich habe gesagt: der Löwe ist ein grau – nun weiter, Gottlieb!",56,120,character_speech,1,2,,Schulmeister.,#schulmeister,88.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+295,295,295,GerDracor/solbrig-die-dorfschule.xml,"der
+            Löwe ist ein grau –",121,156,character_speech,1,2,,Schulmeister.,#schulmeister,88.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+296,296,296,GerDracor/solbrig-die-dorfschule.xml,Ein graues Thier.,0,17,character_speech,1,2,,Gottlieb.,#gottlieb,89.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+297,297,297,GerDracor/solbrig-die-dorfschule.xml,"I, warum nicht gar, ein graues Thier; ein grausames Thier!",0,58,character_speech,1,2,,Schulmeister.,#schulmeister,90.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+298,298,298,GerDracor/solbrig-die-dorfschule.xml,"Grau ist er gar
+            nicht; er spielt mehr in's Gelblichte!",59,125,character_speech,1,2,,Schulmeister.,#schulmeister,90.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+299,299,299,GerDracor/solbrig-die-dorfschule.xml,"das sehen wir aus Abbildungen in ABC-Büchern und
+            andern berühmten Kupferwerken.",126,217,character_speech,1,2,,Schulmeister.,#schulmeister,90.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+300,300,300,GerDracor/solbrig-die-dorfschule.xml,Das könnt ihr euch merken.,218,244,character_speech,1,2,,Schulmeister.,#schulmeister,90.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+301,301,301,GerDracor/solbrig-die-dorfschule.xml,"Ferner habe ich euch erzählt:
+            der Löwe ist großm – nun, Hanstöffel!",245,324,character_speech,1,2,,Schulmeister.,#schulmeister,90.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+302,302,302,GerDracor/solbrig-die-dorfschule.xml,Großmäulig.,0,11,character_speech,1,2,,Hanstöffel.,#hanstoeffel,91.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+303,303,303,GerDracor/solbrig-die-dorfschule.xml,– Der Löwe ist ein großmäuliges Thier.,12,50,character_speech,1,2,,Hanstöffel.,#hanstoeffel,91.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+304,304,304,GerDracor/solbrig-die-dorfschule.xml,"Ach, bewahre; er hat zwar auch ein großes Maul – Rachen genannt, – aber eine
+            Haupt-Eigenschaft dieses Thieres ist: die Großmuth; er ist
+              großmüthig.",0,173,character_speech,1,2,,Schulmeister.,#schulmeister,92.0,MALE,"admiration, reverence",K,,1812.0,positive,emotions of affection
+305,305,305,GerDracor/solbrig-die-dorfschule.xml,"Wie ist er also, Hanstöffel?",174,202,character_speech,1,2,,Schulmeister.,#schulmeister,92.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+306,306,306,GerDracor/solbrig-die-dorfschule.xml,Großmüthig.,0,11,character_speech,1,2,,Hanstöffel.,#hanstoeffel,93.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+307,307,307,GerDracor/solbrig-die-dorfschule.xml,"Ja, er ist großmüthig.",0,22,character_speech,1,2,,Schulmeister.,#schulmeister,94.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+308,308,308,GerDracor/solbrig-die-dorfschule.xml,"– Er ist ferner ein grimmiges Thier; aber nur, wenn man ihn rei
+            – nun, Gottlieb!",23,115,character_speech,1,2,,Schulmeister.,#schulmeister,94.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+309,309,309,GerDracor/solbrig-die-dorfschule.xml,– wenn man ihn rei –,116,136,character_speech,1,2,,Schulmeister.,#schulmeister,94.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+310,310,310,GerDracor/solbrig-die-dorfschule.xml,Reibt.,0,6,character_speech,1,2,,Gottlieb.,#gottlieb,95.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+311,311,311,GerDracor/solbrig-die-dorfschule.xml,Wenn man ihn reibt.,7,26,character_speech,1,2,,Gottlieb.,#gottlieb,95.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+312,312,312,GerDracor/solbrig-die-dorfschule.xml,Reizt!,0,6,character_speech,1,2,,Schulmeister.,#schulmeister,96.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+313,313,313,GerDracor/solbrig-die-dorfschule.xml,Esel!,7,12,character_speech,1,2,,Schulmeister.,#schulmeister,96.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+314,314,314,GerDracor/solbrig-die-dorfschule.xml,"– ja wenn man ihn reizt; das heißt: wenn man ihn
+              böse macht.",13,87,character_speech,1,2,,Schulmeister.,#schulmeister,96.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+315,315,315,GerDracor/solbrig-die-dorfschule.xml,"Seht Ihr's, so bin ich auch;  accurat wie ein
+            Löwe; ich bin auch nur grimmig.",88,177,character_speech,1,2,,Schulmeister.,#schulmeister,96.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+316,316,316,GerDracor/solbrig-die-dorfschule.xml,– Junge!,178,186,character_speech,1,2,,Schulmeister.,#schulmeister,96.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+317,317,317,GerDracor/solbrig-die-dorfschule.xml,"Du da drüben, Traugott!",187,210,character_speech,1,2,,Schulmeister.,#schulmeister,96.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+318,318,318,GerDracor/solbrig-die-dorfschule.xml,"du giebst ja nicht
+            Achtung.",211,250,character_speech,1,2,,Schulmeister.,#schulmeister,96.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+319,319,319,GerDracor/solbrig-die-dorfschule.xml,Was hab' ich allweile gesagt?,251,280,character_speech,1,2,,Schulmeister.,#schulmeister,96.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+320,320,320,GerDracor/solbrig-die-dorfschule.xml,Wenn bin ich nur grimmig?,281,306,character_speech,1,2,,Schulmeister.,#schulmeister,96.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+321,321,321,GerDracor/solbrig-die-dorfschule.xml,Nun!,307,311,character_speech,1,2,,Schulmeister.,#schulmeister,96.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+322,322,322,GerDracor/solbrig-die-dorfschule.xml,Wenn unsere Eltern keine Würste und Eier mitschicken.,0,53,character_speech,1,2,,Traugott.,#traugott,97.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+323,323,323,GerDracor/solbrig-die-dorfschule.xml,"I, warum nicht gar!",0,19,character_speech,1,2,,Schulmeister.,#schulmeister,98.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+324,324,324,GerDracor/solbrig-die-dorfschule.xml,da mache ich mir nichts d'raus; das ist mir gerade wie Pomade!,20,82,character_speech,1,2,,Schulmeister.,#schulmeister,98.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+325,325,325,GerDracor/solbrig-die-dorfschule.xml,"–
+            Nein, grimmig werde ich, wenn man mich rei – nun, Fritze!",83,154,character_speech,1,2,,Schulmeister.,#schulmeister,98.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+326,326,326,GerDracor/solbrig-die-dorfschule.xml,wenn man mich rei –,155,174,character_speech,1,2,,Schulmeister.,#schulmeister,98.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+327,327,327,GerDracor/solbrig-die-dorfschule.xml,Reinigt.,0,8,character_speech,1,2,,Fritze.,#fritze,99.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+328,328,328,GerDracor/solbrig-die-dorfschule.xml,Reizt.,0,6,character_speech,1,2,,Schulmeister.,#schulmeister,100.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+329,329,329,GerDracor/solbrig-die-dorfschule.xml,"Ja, wenn man mich reizt; böse macht; in Harnisch
+            bringt; da bin ich alsdann, wie ein Löwe.",7,109,character_speech,1,2,,Schulmeister.,#schulmeister,100.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+330,330,330,GerDracor/solbrig-die-dorfschule.xml,– Ihr habt noch keinen Löwen geseh'n –,110,148,character_speech,1,2,,Schulmeister.,#schulmeister,100.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+331,331,331,GerDracor/solbrig-die-dorfschule.xml,O ja – o ja!,0,12,character_speech,1,2,,Christlieb.,#christlieb,101.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+332,332,332,GerDracor/solbrig-die-dorfschule.xml,"Bis stille, Junge, es ist nicht wahr!",0,37,character_speech,1,2,,Schulmeister.,#schulmeister,102.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+333,333,333,GerDracor/solbrig-die-dorfschule.xml,"ich wüsste nicht, wo?",38,59,character_speech,1,2,,Schulmeister.,#schulmeister,102.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+334,334,334,GerDracor/solbrig-die-dorfschule.xml,Der Müller hat ihrer sechse.,0,28,character_speech,1,2,,Christlieb.,#christlieb,103.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+335,335,335,GerDracor/solbrig-die-dorfschule.xml,Du Narre!,0,9,character_speech,1,2,,Schulmeister.,#schulmeister,104.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+336,336,336,GerDracor/solbrig-die-dorfschule.xml,das sind keine Löwen; das sind Esel.,10,46,character_speech,1,2,,Schulmeister.,#schulmeister,104.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+337,337,337,GerDracor/solbrig-die-dorfschule.xml,– Das wären schöne Löwen.,47,72,character_speech,1,2,,Schulmeister.,#schulmeister,104.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+338,338,338,GerDracor/solbrig-die-dorfschule.xml,"Nun, also
+            merkt's euch, und reizt mich nicht, und bringt mich nicht in Harnisch und in die Hitze;
+            sonst seh' ich aus, wie?",73,219,character_speech,1,2,,Schulmeister.,#schulmeister,104.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+339,339,339,GerDracor/solbrig-die-dorfschule.xml,– Gottfried!,220,232,character_speech,1,2,,Schulmeister.,#schulmeister,104.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+340,340,340,GerDracor/solbrig-die-dorfschule.xml,(schnell antwortend.),0,21,stage_direction,1,2,speech_part,,#gottfried,105.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+341,341,341,GerDracor/solbrig-die-dorfschule.xml,Wie ein Esel!,0,13,character_speech,1,2,,Gottfried.,#gottfried,105.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+342,342,342,GerDracor/solbrig-die-dorfschule.xml,Nicht doch!,0,11,character_speech,1,2,,Schulmeister.,#schulmeister,106.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+343,343,343,GerDracor/solbrig-die-dorfschule.xml,wie ein Löwe.,12,25,character_speech,1,2,,Schulmeister.,#schulmeister,106.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+344,344,344,GerDracor/solbrig-die-dorfschule.xml,"– Ach apropos, du dort, Leberecht!",26,60,character_speech,1,2,,Schulmeister.,#schulmeister,106.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+345,345,345,GerDracor/solbrig-die-dorfschule.xml,"mit deinem schlechten
+            Namensgedächtnisse; hast du dir denn den kleinen Mann gemerkt, von dem ich aus der
+            biblischen Historia mit euch redete; der gerne was hat sehen wollen?",61,258,character_speech,1,2,,Schulmeister.,#schulmeister,106.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+346,346,346,GerDracor/solbrig-die-dorfschule.xml,"– Wie hieß denn
+            der?",259,291,character_speech,1,2,,Schulmeister.,#schulmeister,106.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+347,347,347,GerDracor/solbrig-die-dorfschule.xml,Zachäus.,0,8,character_speech,1,2,,Leberecht.,#leberecht,107.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+348,348,348,GerDracor/solbrig-die-dorfschule.xml,Richtig!,0,8,character_speech,1,2,,Schulmeister.,#schulmeister,108.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+349,349,349,GerDracor/solbrig-die-dorfschule.xml,Zachäus.,9,17,character_speech,1,2,,Schulmeister.,#schulmeister,108.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+350,350,350,GerDracor/solbrig-die-dorfschule.xml,Was that er denn?,18,35,character_speech,1,2,,Schulmeister.,#schulmeister,108.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+351,351,351,GerDracor/solbrig-die-dorfschule.xml,– Nun er stieg – Gottfried!,36,63,character_speech,1,2,,Schulmeister.,#schulmeister,108.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+352,352,352,GerDracor/solbrig-die-dorfschule.xml,"– er stieg auf einen
+            Maul –",64,103,character_speech,1,2,,Schulmeister.,#schulmeister,108.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+353,353,353,GerDracor/solbrig-die-dorfschule.xml,Maulwurfshaufen.,0,16,character_speech,1,2,,Gottfried.,#gottfried,109.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+354,354,354,GerDracor/solbrig-die-dorfschule.xml,"Ei, da würde er was Rechts haben sehen können.",0,46,character_speech,1,2,,Schulmeister.,#schulmeister,110.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+355,355,355,GerDracor/solbrig-die-dorfschule.xml,"Nein, sondern er stieg – Benjamin!",47,81,character_speech,1,2,,Schulmeister.,#schulmeister,110.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+356,356,356,GerDracor/solbrig-die-dorfschule.xml,"auf
+            einen Maul –",82,110,character_speech,1,2,,Schulmeister.,#schulmeister,110.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+357,357,357,GerDracor/solbrig-die-dorfschule.xml,Maulesel.,0,9,character_speech,1,2,,Benjamin.,#benjamin,111.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+358,358,358,GerDracor/solbrig-die-dorfschule.xml,"Junge, pass' auf!",0,17,character_speech,1,2,,Schulmeister.,#schulmeister,112.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+359,359,359,GerDracor/solbrig-die-dorfschule.xml,Er stieg auf einen – Maulbeer –,18,49,character_speech,1,2,,Schulmeister.,#schulmeister,112.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+360,360,360,GerDracor/solbrig-die-dorfschule.xml,Maulbeeresel.,0,13,character_speech,1,2,,Benjamin.,#benjamin,113.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+361,361,361,GerDracor/solbrig-die-dorfschule.xml,"Ich dachte, was mich bisse.",0,27,character_speech,1,2,,Schulmeister.,#schulmeister,114.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+362,362,362,GerDracor/solbrig-die-dorfschule.xml,"Ich habe in meinem Leben nichts von einem Maulbeeresel
+            gehört.",28,102,character_speech,1,2,,Schulmeister.,#schulmeister,114.0,MALE,"admiration, reverence",K,,1812.0,positive,emotions of affection
+363,363,363,GerDracor/solbrig-die-dorfschule.xml,– Er stieg vielmehr auf einen Maulbeerbaum; und weswegen denn?,103,165,character_speech,1,2,,Schulmeister.,#schulmeister,114.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+364,364,364,GerDracor/solbrig-die-dorfschule.xml,Weil er klein war.,0,18,character_speech,1,2,,Benjamin.,#benjamin,115.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+365,365,365,GerDracor/solbrig-die-dorfschule.xml,Brav geantwortet!,0,17,character_speech,1,2,,Schulmeister.,#schulmeister,116.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+366,366,366,GerDracor/solbrig-die-dorfschule.xml,– Weil er klein war.,18,38,character_speech,1,2,,Schulmeister.,#schulmeister,116.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+367,367,367,GerDracor/solbrig-die-dorfschule.xml,"Wenn er so groß gewesen wäre, wie der
+            Maulbeerbaum, so wär' er nicht erst hinaufgestiegen.",39,141,character_speech,1,2,,Schulmeister.,#schulmeister,116.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+368,368,368,GerDracor/solbrig-die-dorfschule.xml,– Aber was wollt' er denn oben?,142,173,character_speech,1,2,,Schulmeister.,#schulmeister,116.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+369,369,369,GerDracor/solbrig-die-dorfschule.xml,Traugott!,186,195,character_speech,1,2,,Schulmeister.,#schulmeister,116.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+370,370,370,GerDracor/solbrig-die-dorfschule.xml,was wollte er denn oben?,196,220,character_speech,1,2,,Schulmeister.,#schulmeister,116.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+371,371,371,GerDracor/solbrig-die-dorfschule.xml,Er wollte –,221,232,character_speech,1,2,,Schulmeister.,#schulmeister,116.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+372,372,372,GerDracor/solbrig-die-dorfschule.xml,(nachsprechend.),0,16,stage_direction,1,2,speech_part,,#traugott,117.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+373,373,373,GerDracor/solbrig-die-dorfschule.xml,Er wollte –,0,11,character_speech,1,2,,Traugott.,#traugott,117.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+374,374,374,GerDracor/solbrig-die-dorfschule.xml,"Nun, was will man denn, wenn man auf einen Baum steigt?",0,55,character_speech,1,2,,Schulmeister.,#schulmeister,118.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+375,375,375,GerDracor/solbrig-die-dorfschule.xml,Vogelnester ausnehmen.,0,22,character_speech,1,2,,Traugott.,#traugott,119.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+376,376,376,GerDracor/solbrig-die-dorfschule.xml,(aufgebracht.),0,14,stage_direction,1,2,speech_part,,#schulmeister,120.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+377,377,377,GerDracor/solbrig-die-dorfschule.xml,"Junge, bringe mir keine Allotria.",0,33,character_speech,1,2,,Schulmeister.,#schulmeister,120.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+378,378,378,GerDracor/solbrig-die-dorfschule.xml,"– Er wollte oben was sehn, nämlich den Durch –
+            nun!",34,97,character_speech,1,2,,Schulmeister.,#schulmeister,120.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+379,379,379,GerDracor/solbrig-die-dorfschule.xml,Den Durchgang der Kinder Israel durch's rothe Meer.,0,51,character_speech,1,2,,Traugott.,#traugott,121.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+380,380,380,GerDracor/solbrig-die-dorfschule.xml,"Dummes Zeug, den konnte man dort nicht sehn, der war wohl viele 100,000 Meilen weit
+            davon, und der war auch damals gewissermaßen schon vorbei.",0,154,character_speech,1,2,,Schulmeister.,#schulmeister,122.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+381,381,381,GerDracor/solbrig-die-dorfschule.xml,"Nein, sondern den feierlichen
+            Durchzug wollte er sehen, der gerade damals unten gehalten wurde.",155,262,character_speech,1,2,,Schulmeister.,#schulmeister,122.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+382,382,382,GerDracor/solbrig-die-dorfschule.xml,"– Auch habe ich noch
+            bei der Naturgeschichte von denen Amphibien geredet, und erklärt, daß das Geschöpfe
+            sind, welchen das Nasse, das ist die Flüssigkeit, nicht zuwider ist.",263,460,character_speech,1,2,,Schulmeister.,#schulmeister,122.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+383,383,383,GerDracor/solbrig-die-dorfschule.xml,"Hast du dich
+            vielleicht seit gestern noch auf so ein Geschöpf besonnen, Gottfried?",461,555,character_speech,1,2,,Schulmeister.,#schulmeister,122.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+384,384,384,GerDracor/solbrig-die-dorfschule.xml,O ja – o ja.,0,12,character_speech,1,2,,Gottfried.,#gottfried,123.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+385,385,385,GerDracor/solbrig-die-dorfschule.xml,Das sich durch die Flüssigkeit nicht stören und abschrecken lässt?,0,66,character_speech,1,2,,Schulmeister.,#schulmeister,124.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+386,386,386,GerDracor/solbrig-die-dorfschule.xml,"Nun, so nenne dies
+            Geschöpf!",67,107,character_speech,1,2,,Schulmeister.,#schulmeister,124.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+387,387,387,GerDracor/solbrig-die-dorfschule.xml,(schnell.),0,10,stage_direction,1,2,speech_part,,#gottfried,125.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+388,388,388,GerDracor/solbrig-die-dorfschule.xml,Mein Vater!,0,11,character_speech,1,2,,Gottfried.,#gottfried,125.0,MALE,being moved,K,,1812.0,being moved,being moved
+389,389,389,GerDracor/solbrig-die-dorfschule.xml,"Der trinkt alle Tage 3 Nösel Branntwein und auch noch unterschiedliche
+            Krüge Bier; der kann die Flüssigkeit vertragen.",12,142,character_speech,1,2,,Gottfried.,#gottfried,125.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+390,390,390,GerDracor/solbrig-die-dorfschule.xml,"Deshalb ist er doch noch keine Amphibie; denn selbige können beständig im Nassen leben,
+            und machen sich nichts d'raus.",0,130,character_speech,1,2,,Schulmeister.,#schulmeister,126.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+391,391,391,GerDracor/solbrig-die-dorfschule.xml,"– Ich habe ferner geredet, von den Eigenschaften
+              der Geister.",131,206,character_speech,1,2,,Schulmeister.,#schulmeister,126.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+392,392,392,GerDracor/solbrig-die-dorfschule.xml,"Die Haupt-Eigenschaften eines Geistes – er mag nun ein
+            Feuer-Geist, oder ein Wasser-Geist, oder ein Erd-Geist, oder ein Luft-Geist seyn – die
+            Haupt-Eigenschaft eines jeden Geistes ist?",207,415,character_speech,1,2,,Schulmeister.,#schulmeister,126.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+393,393,393,GerDracor/solbrig-die-dorfschule.xml,"– Nun – Hanstöffel, was meinst du?",416,450,character_speech,1,2,,Schulmeister.,#schulmeister,126.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+394,394,394,GerDracor/solbrig-die-dorfschule.xml,–,451,452,character_speech,1,2,,Schulmeister.,#schulmeister,126.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+395,395,395,GerDracor/solbrig-die-dorfschule.xml,Ein Geist hat nicht Fleisch und Bein!,0,37,character_speech,1,2,,Hanstöffel.,#hanstoeffel,127.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+396,396,396,GerDracor/solbrig-die-dorfschule.xml,Richtig!,0,8,character_speech,1,2,,Schulmeister.,#schulmeister,128.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+397,397,397,GerDracor/solbrig-die-dorfschule.xml,"– Aber es giebt Dinge in der Welt, die auch kein Fleisch haben, und doch nicht
+            zu den Geistern gezählt werden können; z. B. der Ofen – Gottlieb!",9,165,character_speech,1,2,,Schulmeister.,#schulmeister,128.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+398,398,398,GerDracor/solbrig-die-dorfschule.xml,"ist denn das ein
+            Geist?",166,201,character_speech,1,2,,Schulmeister.,#schulmeister,128.0,MALE,being moved,K,,1812.0,being moved,being moved
+399,399,399,GerDracor/solbrig-die-dorfschule.xml,"Ne, ne!",0,7,character_speech,1,2,,Gottlieb.,#gottlieb,129.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+400,400,400,GerDracor/solbrig-die-dorfschule.xml,der hat ein Paar Beine; der hat ein Paar Beine!,8,55,character_speech,1,2,,Gottlieb.,#gottlieb,129.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+401,401,401,GerDracor/solbrig-die-dorfschule.xml,"Und wenn er auch keine Beine hätte, so wäre er dennoch kein Geist, denn ihm fehlen zwei
+            Haupt-Eigenschaften zu einem Geiste; erstlich: ist er nicht unsichtbar, und zweitens ist
+            er nicht überall.",0,218,character_speech,1,2,,Schulmeister.,#schulmeister,130.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+402,402,402,GerDracor/solbrig-die-dorfschule.xml,Ein Geist ist – Gottfried?,219,245,character_speech,1,2,,Schulmeister.,#schulmeister,130.0,MALE,being moved,K,,1812.0,being moved,being moved
+403,403,403,GerDracor/solbrig-die-dorfschule.xml,Allerwegen.,0,11,character_speech,1,2,,Gottfried.,#gottfried,131.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+404,404,404,GerDracor/solbrig-die-dorfschule.xml,"Ja, der ist überall; aller Orten und Enden.",0,43,character_speech,1,2,,Schulmeister.,#schulmeister,132.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+405,405,405,GerDracor/solbrig-die-dorfschule.xml,"– Wenn nun ein Geist überall ist –
+            Hanstöffel!",44,102,character_speech,1,2,,Schulmeister.,#schulmeister,132.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+406,406,406,GerDracor/solbrig-die-dorfschule.xml,ist er denn auch in der Kirche?,103,134,character_speech,1,2,,Schulmeister.,#schulmeister,132.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+407,407,407,GerDracor/solbrig-die-dorfschule.xml,O ja.,0,5,character_speech,1,2,,Hanstöffel.,#hanstoeffel,133.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+408,408,408,GerDracor/solbrig-die-dorfschule.xml,"Ja, er ist auch in der Kirche; denn er ist – Traugott!",0,54,character_speech,1,2,,Schulmeister.,#schulmeister,134.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+409,409,409,GerDracor/solbrig-die-dorfschule.xml,über –,55,61,character_speech,1,2,,Schulmeister.,#schulmeister,134.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+410,410,410,GerDracor/solbrig-die-dorfschule.xml,(nachsprechend.),0,16,stage_direction,1,2,speech_part,,#traugott,135.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+411,411,411,GerDracor/solbrig-die-dorfschule.xml,Ueber –,0,7,character_speech,1,2,,Traugott.,#traugott,135.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+412,412,412,GerDracor/solbrig-die-dorfschule.xml,Ueberall.,0,9,character_speech,1,2,,Schulmeister.,#schulmeister,136.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+413,413,413,GerDracor/solbrig-die-dorfschule.xml,Ueberall.,0,9,character_speech,1,2,,Traugott.,#traugott,137.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+414,414,414,GerDracor/solbrig-die-dorfschule.xml,(beifällig.),0,12,stage_direction,1,2,speech_part,,#schulmeister,138.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+415,415,415,GerDracor/solbrig-die-dorfschule.xml,Ja er ist überall; er ist in der Kirche; – ist er denn auch in der Sakristei?,0,77,character_speech,1,2,,Schulmeister.,#schulmeister,138.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+416,416,416,GerDracor/solbrig-die-dorfschule.xml,Fritze!,90,97,character_speech,1,2,,Schulmeister.,#schulmeister,138.0,MALE,being moved,K,,1812.0,being moved,being moved
+417,417,417,GerDracor/solbrig-die-dorfschule.xml,O ja!,0,5,character_speech,1,2,,Fritze.,#fritze,139.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+418,418,418,GerDracor/solbrig-die-dorfschule.xml,"Ja, er ist auch in der Sakristei – denn er ist über –",0,53,character_speech,1,2,,Schulmeister.,#schulmeister,140.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+419,419,419,GerDracor/solbrig-die-dorfschule.xml,Ueberall.,0,9,character_speech,1,2,,Fritze.,#fritze,141.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+420,420,420,GerDracor/solbrig-die-dorfschule.xml,(wie oben.),0,11,stage_direction,1,2,speech_part,,#schulmeister,142.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+421,421,421,GerDracor/solbrig-die-dorfschule.xml,Ueberall!,0,9,character_speech,1,2,,Schulmeister.,#schulmeister,142.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+422,422,422,GerDracor/solbrig-die-dorfschule.xml,ja er ist überall.,10,28,character_speech,1,2,,Schulmeister.,#schulmeister,142.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+423,423,423,GerDracor/solbrig-die-dorfschule.xml,– Wenn er nun überall ist – Christlieb!,29,68,character_speech,1,2,,Schulmeister.,#schulmeister,142.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+424,424,424,GerDracor/solbrig-die-dorfschule.xml,"ist er denn auch
+            auf dem Thurme?",69,113,character_speech,1,2,,Schulmeister.,#schulmeister,142.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+425,425,425,GerDracor/solbrig-die-dorfschule.xml,Ja; denn er ist überall.,0,24,character_speech,1,2,,Christlieb.,#christlieb,143.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+426,426,426,GerDracor/solbrig-die-dorfschule.xml,Er ist überall.,0,15,character_speech,1,2,,Schulmeister.,#schulmeister,144.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+427,427,427,GerDracor/solbrig-die-dorfschule.xml,– Auch in deinem Garten?,16,40,character_speech,1,2,,Schulmeister.,#schulmeister,144.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+428,428,428,GerDracor/solbrig-die-dorfschule.xml,Benjamin!,41,50,character_speech,1,2,,Schulmeister.,#schulmeister,144.0,MALE,being moved,K,,1812.0,being moved,being moved
+429,429,429,GerDracor/solbrig-die-dorfschule.xml,Ja.,0,3,character_speech,1,2,,Benjamin.,#benjamin,145.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+430,430,430,GerDracor/solbrig-die-dorfschule.xml,Gottfried!,0,10,character_speech,1,2,,Schulmeister.,#schulmeister,146.0,MALE,being moved,K,,1812.0,being moved,being moved
+431,431,431,GerDracor/solbrig-die-dorfschule.xml,ist er denn auch in deiner Scheune?,11,46,character_speech,1,2,,Schulmeister.,#schulmeister,146.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+432,432,432,GerDracor/solbrig-die-dorfschule.xml,Ja.,0,3,character_speech,1,2,,Gottfried.,#gottfried,147.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+433,433,433,GerDracor/solbrig-die-dorfschule.xml,In deines Nachbars Garten?,0,26,character_speech,1,2,,Schulmeister.,#schulmeister,148.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+434,434,434,GerDracor/solbrig-die-dorfschule.xml,O ja.,0,5,character_speech,1,2,,Gottfried.,#gottfried,149.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+435,435,435,GerDracor/solbrig-die-dorfschule.xml,Ist denn ein Geist auch in deiner Küche?,0,40,character_speech,1,2,,Schulmeister.,#schulmeister,150.0,MALE,being moved,K,,1812.0,being moved,being moved
+436,436,436,GerDracor/solbrig-die-dorfschule.xml,O ja.,0,5,character_speech,1,2,,Gottfried.,#gottfried,151.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+437,437,437,GerDracor/solbrig-die-dorfschule.xml,Auch in deiner Rauchkammer?,0,27,character_speech,1,2,,Schulmeister.,#schulmeister,152.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+438,438,438,GerDracor/solbrig-die-dorfschule.xml,O ja.,0,5,character_speech,1,2,,Gottfried.,#gottfried,153.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+439,439,439,GerDracor/solbrig-die-dorfschule.xml,Auch in deinem Brodtschranke?,0,29,character_speech,1,2,,Schulmeister.,#schulmeister,154.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+440,440,440,GerDracor/solbrig-die-dorfschule.xml,O ja.,0,5,character_speech,1,2,,Gottfried.,#gottfried,155.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+441,441,441,GerDracor/solbrig-die-dorfschule.xml,Ja!,0,3,character_speech,1,2,,Schulmeister.,#schulmeister,156.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+442,442,442,GerDracor/solbrig-die-dorfschule.xml,denn er ist úber –,4,22,character_speech,1,2,,Schulmeister.,#schulmeister,156.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+443,443,443,GerDracor/solbrig-die-dorfschule.xml,Ueberall.,0,9,character_speech,1,2,,Gottfried.,#gottfried,157.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+444,444,444,GerDracor/solbrig-die-dorfschule.xml,(mit Beifall.),0,14,stage_direction,1,2,speech_part,,#schulmeister,158.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+445,445,445,GerDracor/solbrig-die-dorfschule.xml,"Ja – er ist überall; es giebt gar keinen Ort, wo ein Geist nicht wäre; er
+            ist in der Kirche, er ist in der Sakristei, er ist auf dem Thurme, er ist in deinem
+            Garten, in des Nachbars Garten, in deiner Küche, in deiner Rauchkammer, in deinem
+            Brodtschranke, in deiner Scheune; kurz, es giebt gar keinen Ort – wo er nicht –",0,355,character_speech,1,2,,Schulmeister.,#schulmeister,158.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+446,446,446,GerDracor/solbrig-die-dorfschule.xml,(schnell.),0,10,stage_direction,1,2,speech_part,,#gottfried,159.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+447,447,447,GerDracor/solbrig-die-dorfschule.xml,Wo er nicht wäre.,0,17,character_speech,1,2,,Gottfried.,#gottfried,159.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+448,448,448,GerDracor/solbrig-die-dorfschule.xml,(wie oben.),0,11,stage_direction,1,2,speech_part,,#schulmeister,160.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+449,449,449,GerDracor/solbrig-die-dorfschule.xml,"Ja, wo er nicht wäre.",0,21,character_speech,1,2,,Schulmeister.,#schulmeister,160.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+450,450,450,GerDracor/solbrig-die-dorfschule.xml,– Ist er denn auch in deinem Kuhstalle?,22,61,character_speech,1,2,,Schulmeister.,#schulmeister,160.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+451,451,451,GerDracor/solbrig-die-dorfschule.xml,O ja.,0,5,character_speech,1,2,,Gottfried.,#gottfried,161.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+452,452,452,GerDracor/solbrig-die-dorfschule.xml,In deinem Keller?,0,17,character_speech,1,2,,Schulmeister.,#schulmeister,162.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+453,453,453,GerDracor/solbrig-die-dorfschule.xml,"Ne, ne!",0,7,character_speech,1,2,,Gottfried.,#gottfried,163.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+454,454,454,GerDracor/solbrig-die-dorfschule.xml,–,8,9,character_speech,1,2,,Gottfried.,#gottfried,163.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+455,455,455,GerDracor/solbrig-die-dorfschule.xml,Junge!,0,6,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,being moved,K,,1812.0,being moved,being moved
+456,456,456,GerDracor/solbrig-die-dorfschule.xml,gieb Achtung!,7,20,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,fear,K,,1812.0,negative,emotions of anxiety
+457,457,457,GerDracor/solbrig-die-dorfschule.xml,ich habe dich so auf dem Rohre!,21,52,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+458,458,458,GerDracor/solbrig-die-dorfschule.xml,Canaille!,53,62,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+459,459,459,GerDracor/solbrig-die-dorfschule.xml,paß auf!,63,71,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+460,460,460,GerDracor/solbrig-die-dorfschule.xml,"Du kriegst
+            Schmiere!",72,104,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+461,461,461,GerDracor/solbrig-die-dorfschule.xml,ich habe lange d'rauf gewartet.,105,136,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+462,462,462,GerDracor/solbrig-die-dorfschule.xml,Ihr habt auch letzthin geschlachtet; ihr  habt mir nichts geschickt.,137,205,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+463,463,463,GerDracor/solbrig-die-dorfschule.xml,"Ich bin derjenige Mann nicht, der sein Herz an
+            dergleichen irdische Dinge hängt; aber ich hätte doch die Liebe gesehn.",206,336,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,love,K,,1812.0,positive,emotions of affection
+464,464,464,GerDracor/solbrig-die-dorfschule.xml,"Du kannst es
+            immer daheim wieder sagen: ich hatte dich höllisch auf dem Korne!",337,427,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+465,465,465,GerDracor/solbrig-die-dorfschule.xml,"Jetzt frage ich dich
+            noch einmal: ist er denn in deinem Keller?",428,503,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+466,466,466,GerDracor/solbrig-die-dorfschule.xml,–,504,505,character_speech,1,2,,Schulmeister.,#schulmeister,164.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+467,467,467,GerDracor/solbrig-die-dorfschule.xml,"Ne, ne!",0,7,character_speech,1,2,,Gottfried.,#gottfried,165.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+468,468,468,GerDracor/solbrig-die-dorfschule.xml,(wüthend.),0,10,stage_direction,1,2,speech_part,,#schulmeister,166.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+469,469,469,GerDracor/solbrig-die-dorfschule.xml,Junge!,0,6,character_speech,1,2,,Schulmeister.,#schulmeister,166.0,MALE,being moved,K,,1812.0,being moved,being moved
+470,470,470,GerDracor/solbrig-die-dorfschule.xml,reize mich nicht!,7,24,character_speech,1,2,,Schulmeister.,#schulmeister,166.0,MALE,love,K,,1812.0,positive,emotions of affection
+471,471,471,GerDracor/solbrig-die-dorfschule.xml,bring' mich nicht in Zorn!,25,51,character_speech,1,2,,Schulmeister.,#schulmeister,166.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+472,472,472,GerDracor/solbrig-die-dorfschule.xml,"Du weißt, wenn ich hitzig werde, da
+            bin ich wie ein –",52,117,character_speech,1,2,,Schulmeister.,#schulmeister,166.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+473,473,473,GerDracor/solbrig-die-dorfschule.xml,(schnell einfallend.),0,21,stage_direction,1,2,speech_part,,#gottfried,167.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+474,474,474,GerDracor/solbrig-die-dorfschule.xml,Wie ein Es –,0,12,character_speech,1,2,,Gottfried.,#gottfried,167.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+475,475,475,GerDracor/solbrig-die-dorfschule.xml,(einlenkend.),0,13,stage_direction,1,2,inner_speech,,#gottfried,167.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+476,476,476,GerDracor/solbrig-die-dorfschule.xml, wie ein Löwe.,0,14,character_speech,1,2,,Gottfried.,#gottfried,167.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+477,477,477,GerDracor/solbrig-die-dorfschule.xml,Das war dein Glück!,0,19,character_speech,1,2,,Schulmeister.,#schulmeister,168.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+478,478,478,GerDracor/solbrig-die-dorfschule.xml,"Nun, also?",20,30,character_speech,1,2,,Schulmeister.,#schulmeister,168.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+479,479,479,GerDracor/solbrig-die-dorfschule.xml,Ist er in deinem Keller?,31,55,character_speech,1,2,,Schulmeister.,#schulmeister,168.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+480,480,480,GerDracor/solbrig-die-dorfschule.xml,"Ne, ne!",0,7,character_speech,1,2,,Gottfried.,#gottfried,169.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+481,481,481,GerDracor/solbrig-die-dorfschule.xml,(prügelt ihn.),0,14,stage_direction,1,2,speech_part,,#schulmeister,170.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+482,482,482,GerDracor/solbrig-die-dorfschule.xml,"Warte, Canaille!",0,16,character_speech,1,2,,Schulmeister.,#schulmeister,170.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+483,483,483,GerDracor/solbrig-die-dorfschule.xml,"ich will dir die Allgegenwart eines Geistes anstreichen, daß man die
+            blauen Flecke auf Klein-Pfingsten noch sehen soll.",17,148,character_speech,1,2,,Schulmeister.,#schulmeister,170.0,MALE,"admiration, reverence",K,,1812.0,positive,emotions of affection
+484,484,484,GerDracor/solbrig-die-dorfschule.xml,"Ist er in deinem
+            Keller?",149,185,character_speech,1,2,,Schulmeister.,#schulmeister,170.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+485,485,485,GerDracor/solbrig-die-dorfschule.xml,(heulend und schluchzend.),0,26,stage_direction,1,2,speech_part,,#gottfried,171.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+486,486,486,GerDracor/solbrig-die-dorfschule.xml,"Ach, Herr Jemine!",0,17,character_speech,1,2,,Gottfried.,#gottfried,171.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+487,487,487,GerDracor/solbrig-die-dorfschule.xml,Herr Jemers!,18,30,character_speech,1,2,,Gottfried.,#gottfried,171.0,MALE,being moved,K,,1812.0,being moved,being moved
+488,488,488,GerDracor/solbrig-die-dorfschule.xml,"Ne, ne!",31,38,character_speech,1,2,,Gottfried.,#gottfried,171.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+489,489,489,GerDracor/solbrig-die-dorfschule.xml,(schüttelt ihn.),0,16,stage_direction,1,2,speech_part,,#schulmeister,172.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+490,490,490,GerDracor/solbrig-die-dorfschule.xml,Warum denn nicht?,0,17,character_speech,1,2,,Schulmeister.,#schulmeister,172.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+491,491,491,GerDracor/solbrig-die-dorfschule.xml,du Range!,18,27,character_speech,1,2,,Schulmeister.,#schulmeister,172.0,MALE,abhorrence,K,,1812.0,negative,emotions of rejection
+492,492,492,GerDracor/solbrig-die-dorfschule.xml,(unter heftigem Schluchzen.),0,28,stage_direction,1,2,speech_part,,#gottfried,173.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+493,493,493,GerDracor/solbrig-die-dorfschule.xml,Mer – mer – mer hab'n kenen!,0,28,character_speech,1,2,,Gottfried.,#gottfried,173.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+494,494,494,GerDracor/solbrig-die-dorfschule.xml,mer hab'n kenen!,29,45,character_speech,1,2,,Gottfried.,#gottfried,173.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+495,495,495,GerDracor/solbrig-die-dorfschule.xml,(lässt ihn los.),0,16,stage_direction,1,2,speech_part,,#schulmeister,174.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+496,496,496,GerDracor/solbrig-die-dorfschule.xml,Ihr habt keinen Keller?,0,23,character_speech,1,2,,Schulmeister.,#schulmeister,174.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+497,497,497,GerDracor/solbrig-die-dorfschule.xml,"nun, da hast du unschuldig Schmiere gekriegt.",24,69,character_speech,1,2,,Schulmeister.,#schulmeister,174.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+498,498,498,GerDracor/solbrig-die-dorfschule.xml,"– Ihr habt
+            keinen; i, das konnt'st du gleich sagen; nun, du sollst's ein andermal gut haben.",70,174,character_speech,1,2,,Schulmeister.,#schulmeister,174.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+499,499,499,GerDracor/solbrig-die-dorfschule.xml,(vor sich.),0,11,stage_direction,1,2,inner_speech,,#schulmeister,174.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+500,500,500,GerDracor/solbrig-die-dorfschule.xml," Ich muß mir nur die anmerken, die etwas gut haben; Fritze
+            hat etwas gut,",0,85,character_speech,1,2,,Schulmeister.,#schulmeister,174.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+501,501,501,GerDracor/solbrig-die-dorfschule.xml,(laut.),0,7,stage_direction,1,2,inner_speech,,#schulmeister,174.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+502,502,502,GerDracor/solbrig-die-dorfschule.xml," Ja, da kann ein Geist, und wenn er noch
+            so gerne wollte, nicht d'rinnen seyn.",0,90,character_speech,1,2,,Schulmeister.,#schulmeister,174.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+503,503,503,GerDracor/solbrig-die-dorfschule.xml,– Ihr habt keinen!,91,109,character_speech,1,2,,Schulmeister.,#schulmeister,174.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+504,504,504,GerDracor/solbrig-die-dorfschule.xml,"Aber überlege dir's einmal,
+            Gottfried!",110,160,character_speech,1,2,,Schulmeister.,#schulmeister,174.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+505,505,505,GerDracor/solbrig-die-dorfschule.xml,(immer noch schluchzend.),0,25,stage_direction,1,2,speech_part,,#gottfried,175.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+506,506,506,GerDracor/solbrig-die-dorfschule.xml,Ach!,0,4,character_speech,1,2,,Gottfried.,#gottfried,175.0,MALE,suffering,K,,1812.0,negative,emotions of suffering and empathy
+507,507,507,GerDracor/solbrig-die-dorfschule.xml,"ne, ne!",5,12,character_speech,1,2,,Gottfried.,#gottfried,175.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+508,508,508,GerDracor/solbrig-die-dorfschule.xml,"Ob du nicht wieder anfängst, mich toll zu machen.",0,49,character_speech,1,2,,Schulmeister.,#schulmeister,176.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+509,509,509,GerDracor/solbrig-die-dorfschule.xml,"Ich weiß nun, daß du keinen Keller
+            hast.",50,102,character_speech,1,2,,Schulmeister.,#schulmeister,176.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+510,510,510,GerDracor/solbrig-die-dorfschule.xml,"Stelle dir aber recht lebhaft vor, als wenn du einen hättest, nun
+              da wär' er doch d'rinnen?",103,208,character_speech,1,2,,Schulmeister.,#schulmeister,176.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+511,511,511,GerDracor/solbrig-die-dorfschule.xml,Antwort!,209,217,character_speech,1,2,,Schulmeister.,#schulmeister,176.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+512,512,512,GerDracor/solbrig-die-dorfschule.xml,(wie vorher.),0,13,stage_direction,1,2,speech_part,,#gottfried,177.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+513,513,513,GerDracor/solbrig-die-dorfschule.xml,Ne!,0,3,character_speech,1,2,,Gottfried.,#gottfried,177.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+514,514,514,GerDracor/solbrig-die-dorfschule.xml,Ein gottloser Junge!,0,20,character_speech,1,2,,Schulmeister.,#schulmeister,178.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+515,515,515,GerDracor/solbrig-die-dorfschule.xml,"das da; nun, warum denn nicht?",21,51,character_speech,1,2,,Schulmeister.,#schulmeister,178.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+516,516,516,GerDracor/solbrig-die-dorfschule.xml,(wie oben.),0,11,stage_direction,1,2,speech_part,,#gottfried,179.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+517,517,517,GerDracor/solbrig-die-dorfschule.xml,"Meine Mutter sagte: wenn wir einen Keller hätten, da wollten wir Erdäpfel h'nein
+              thun.",0,100,character_speech,1,2,,Gottfried.,#gottfried,179.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+518,518,518,GerDracor/solbrig-die-dorfschule.xml,(lächelnd.),0,11,stage_direction,1,2,speech_part,,#schulmeister,180.0,MALE,joy,K,,1812.0,positive,emotions of pleasure
+519,519,519,GerDracor/solbrig-die-dorfschule.xml,"Ei, deswegen wäre ein Geist immer d'rinn.",0,41,character_speech,1,2,,Schulmeister.,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+520,520,520,GerDracor/solbrig-die-dorfschule.xml,"Aus den Erdäpfeln macht sich ein Geist gar
+            nichts.",42,104,character_speech,1,2,,Schulmeister.,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+521,521,521,GerDracor/solbrig-die-dorfschule.xml,"– Da kann er dem ohngeachtet noch d'rinnen seyn; das ist so einem Geiste wie
+            Pomade.",105,201,character_speech,1,2,,Schulmeister.,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+522,522,522,GerDracor/solbrig-die-dorfschule.xml,–,202,203,character_speech,1,2,,Schulmeister.,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+523,523,523,GerDracor/solbrig-die-dorfschule.xml,(Man hört eine Uhr 10 schlagen.),0,32,stage_direction,1,2,inner_speech,,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+524,524,524,GerDracor/solbrig-die-dorfschule.xml,(Die Jungen werden unruhig.),0,28,stage_direction,1,2,speech_part,,#schulmeister,180.0,MALE,being moved,K,,1812.0,being moved,being moved
+525,525,525,GerDracor/solbrig-die-dorfschule.xml,"Nun, ihr wollt wohl nicht mehr aushalten?",0,41,character_speech,1,2,,Schulmeister.,#schulmeister,180.0,MALE,anger,K,,1812.0,negative,emotions of rejection
+526,526,526,GerDracor/solbrig-die-dorfschule.xml,"Nun, so macht nur, daß ihr fort kommt?",42,80,character_speech,1,2,,Schulmeister.,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+527,527,527,GerDracor/solbrig-die-dorfschule.xml,–,81,82,character_speech,1,2,,Schulmeister.,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+528,528,528,GerDracor/solbrig-die-dorfschule.xml,(Die Jungen brechen auf.),0,25,stage_direction,1,2,speech_part,,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+529,529,529,GerDracor/solbrig-die-dorfschule.xml,(mit lauter Stimme.),0,20,stage_direction,1,2,inner_speech,,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+530,530,530,GerDracor/solbrig-die-dorfschule.xml," Es wird nöthig
+            seyn, daß jedes Kind ein Stücker 3, 4, 5, oder 6 Eier mit zur Stelle anhero bringt, um
+            die Sache euch deutlich zu machen, die Algebra; wer",0,178,character_speech,1,2,,Schulmeister.,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation
+531,531,531,GerDracor/solbrig-die-dorfschule.xml,"(Knaben
+            ab.)",0,24,stage_direction,1,2,inner_speech,,#schulmeister,180.0,MALE,no_annotation,K,,1812.0,no_annotation,no_annotation

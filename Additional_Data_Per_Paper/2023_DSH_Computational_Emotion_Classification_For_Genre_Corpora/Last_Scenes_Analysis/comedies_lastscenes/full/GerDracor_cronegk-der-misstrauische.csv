@@ -1,0 +1,193 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2507,2507,2507,GerDracor/cronegk-der-misstrauische.xml,"Timant, Philipp, Geronte, Orgon, Climene, Damon, Lisette.",0,57,stage_direction,5,8,pre_speech,,,,,no_annotation,K,,1766.0,no_annotation,no_annotation
+2508,2508,2508,GerDracor/cronegk-der-misstrauische.xml,hält Climenen auf.,0,18,stage_direction,5,8,speech_part,,#timant,670.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2509,2509,2509,GerDracor/cronegk-der-misstrauische.xml,"Wohin eilen Sie, gnädiges Fräulein?",0,35,character_speech,5,8,,TIMANT,#timant,670.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2510,2510,2510,GerDracor/cronegk-der-misstrauische.xml,"Erlauben Sie, daß ich Sie einige Augenblicke
+              aufhalte.",36,104,character_speech,5,8,,TIMANT,#timant,670.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2511,2511,2511,GerDracor/cronegk-der-misstrauische.xml,"Ihre Gegenwart ist diesesmal zu nöthig: es wird Sie nicht reuen, sich
+              aufgehalten zu haben.",105,210,character_speech,5,8,,TIMANT,#timant,670.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2512,2512,2512,GerDracor/cronegk-der-misstrauische.xml,"– Auch Sie sind hier, liebster Freund, großmüthiger Damon!",211,269,character_speech,5,8,,TIMANT,#timant,670.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2513,2513,2513,GerDracor/cronegk-der-misstrauische.xml,Kommen Sie in meine Arme.,284,309,character_speech,5,8,,TIMANT,#timant,670.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2514,2514,2514,GerDracor/cronegk-der-misstrauische.xml,Sie umarmen einander.,0,21,stage_direction,5,8,speech_part,,#timant,670.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2515,2515,2515,GerDracor/cronegk-der-misstrauische.xml,"Sie weinen, Damon?",0,18,character_speech,5,8,,TIMANT,#timant,670.0,MALE,suffering,K,,1766.0,negative,emotions of suffering and empathy
+2516,2516,2516,GerDracor/cronegk-der-misstrauische.xml,Ist es aus Schmerz oder aus Zärtlichkeit?,19,60,character_speech,5,8,,TIMANT,#timant,670.0,MALE,suffering,K,,1766.0,negative,emotions of suffering and empathy
+2517,2517,2517,GerDracor/cronegk-der-misstrauische.xml,"Sie werden mich jetzo
+              kennen lernen.",61,111,character_speech,5,8,,TIMANT,#timant,670.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2518,2518,2518,GerDracor/cronegk-der-misstrauische.xml,"Sie haben mich gelehrt, mich selbst zu kennen.",112,158,character_speech,5,8,,TIMANT,#timant,670.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2519,2519,2519,GerDracor/cronegk-der-misstrauische.xml,Gnädiger Herr Vater!,159,179,character_speech,5,8,,TIMANT,#timant,670.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2520,2520,2520,GerDracor/cronegk-der-misstrauische.xml,Herr Geronte!,194,207,character_speech,5,8,,TIMANT,#timant,670.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2521,2521,2521,GerDracor/cronegk-der-misstrauische.xml,"darf ich mir ausbitten, daß Sie mir einige Minuten lang ruhig
+              zuhören?",208,292,character_speech,5,8,,TIMANT,#timant,670.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2522,2522,2522,GerDracor/cronegk-der-misstrauische.xml,Zu was soll nun wieder diese lange Vorrede?,0,43,character_speech,5,8,,GERONTE.,#geronte,671.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2523,2523,2523,GerDracor/cronegk-der-misstrauische.xml,Wir warten droben eine Stunde auf ihn.,44,82,character_speech,5,8,,GERONTE.,#geronte,671.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2524,2524,2524,GerDracor/cronegk-der-misstrauische.xml,–,97,98,character_speech,5,8,,GERONTE.,#geronte,671.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2525,2525,2525,GerDracor/cronegk-der-misstrauische.xml,Laß ihn reden: ich bitte dich.,0,30,character_speech,5,8,,ORGON.,#orgon,672.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2526,2526,2526,GerDracor/cronegk-der-misstrauische.xml,Er scheint uns etwas wichtiges zu sagen zu haben.,31,80,character_speech,5,8,,ORGON.,#orgon,672.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2527,2527,2527,GerDracor/cronegk-der-misstrauische.xml,zu Philippen.,0,13,stage_direction,5,8,speech_part,,#lisette,673.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2528,2528,2528,GerDracor/cronegk-der-misstrauische.xml,"Sage mir leise, was dein Herr vorhat, und was das alles bedeuten soll?",0,70,character_speech,5,8,,LISETTE,#lisette,673.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2529,2529,2529,GerDracor/cronegk-der-misstrauische.xml,Stille doch!,0,12,character_speech,5,8,,PHILIPP.,#philipp,674.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2530,2530,2530,GerDracor/cronegk-der-misstrauische.xml,Stille!,13,20,character_speech,5,8,,PHILIPP.,#philipp,674.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2531,2531,2531,GerDracor/cronegk-der-misstrauische.xml,"Du weist ja, daß ich verschwiegen bin, und meines Herrn
+              Geheimnisse nicht ausplaudere.",21,121,character_speech,5,8,,PHILIPP.,#philipp,674.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2532,2532,2532,GerDracor/cronegk-der-misstrauische.xml,"Meine Vorurtheile und meine mistrauischen Thorheiten haben mich lange genug
+              lächerlich und Ihnen allen beschwerlich gemacht, da ich weder lächerlich noch
+              ungerecht zu seyn glaubte.",0,208,character_speech,5,8,,TIMANT.,#timant,675.0,MALE,abhorrence,K,,1766.0,negative,emotions of rejection
+2533,2533,2533,GerDracor/cronegk-der-misstrauische.xml,"Dieses ist die Eigenschaft der meisten Thorheiten, daß man
+              aufhöret, thöricht und lächerlich zu seyn, so bald man erkennet, daß man es ist.",209,362,character_speech,5,8,,TIMANT.,#timant,675.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2534,2534,2534,GerDracor/cronegk-der-misstrauische.xml,"Ich
+              erkenne nun meine Thorheit.",363,408,character_speech,5,8,,TIMANT.,#timant,675.0,MALE,anger,K,,1766.0,negative,emotions of rejection
+2535,2535,2535,GerDracor/cronegk-der-misstrauische.xml,"Dieses bin ich schuldig, und vor allem Ihnen, großmüthiger
+              Damon!",409,488,character_speech,5,8,,TIMANT.,#timant,675.0,MALE,"admiration, reverence",K,,1766.0,positive,emotions of affection
+2536,2536,2536,GerDracor/cronegk-der-misstrauische.xml,"Ihre Handlungen haben mich überzeugt, daß noch eine wahre Tugend in der Welt
+              ist, und daß die Fehler, die ich bey andern fand, und die mein Mistrauen verursachet,
+              ihren meisten Grund in meiner verdorbenen Einbildung hatten.",489,740,character_speech,5,8,,TIMANT.,#timant,675.0,MALE,abhorrence,K,,1766.0,negative,emotions of rejection
+2537,2537,2537,GerDracor/cronegk-der-misstrauische.xml,"Ich erkenne, wie
+              niederträchtig ich war.",741,795,character_speech,5,8,,TIMANT.,#timant,675.0,MALE,abhorrence,K,,1766.0,negative,emotions of rejection
+2538,2538,2538,GerDracor/cronegk-der-misstrauische.xml,"Ich schäme mich meiner Handlungen, meiner Reden, meiner
+              Gedanken.",796,875,character_speech,5,8,,TIMANT.,#timant,675.0,MALE,abhorrence,K,,1766.0,negative,emotions of rejection
+2539,2539,2539,GerDracor/cronegk-der-misstrauische.xml,"Ich sehe, was ein Mistrauischer in der menschlichen Gesellschaft für eine
+              unglückliche und hassenswürdige Rolle spielet; und wenn ich nicht hoffete, meine
+              Thorheiten durch tugendhafte Handlungen und durch edlere Gedanken zu ersetzen, so
+              würde ich in Verzweiflung gerathen.",876,1190,character_speech,5,8,,TIMANT.,#timant,675.0,MALE,abhorrence,K,,1766.0,negative,emotions of rejection
+2540,2540,2540,GerDracor/cronegk-der-misstrauische.xml,Diese Art zu denken bin ich Ihnen schuldig.,1191,1234,character_speech,5,8,,TIMANT.,#timant,675.0,MALE,"admiration, reverence",K,,1766.0,positive,emotions of affection
+2541,2541,2541,GerDracor/cronegk-der-misstrauische.xml,"Diese Beichte war nicht unrecht, nur daß sie zu lang war.",0,57,character_speech,5,8,,GERONTE.,#geronte,676.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2542,2542,2542,GerDracor/cronegk-der-misstrauische.xml,"Was soll aus allem diesen
+              heraus kommen?",58,112,character_speech,5,8,,GERONTE.,#geronte,676.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2543,2543,2543,GerDracor/cronegk-der-misstrauische.xml,"Unterbrich ihn nicht, er hat mich gerührt, ich weine vor Freuden.",0,65,character_speech,5,8,,ORGON.,#orgon,677.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2544,2544,2544,GerDracor/cronegk-der-misstrauische.xml,"Wie sehr erfreue ich mich, solche Gesinnungen bey Ihnen zu finden!",0,66,character_speech,5,8,,DAMON.,#damon,678.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2545,2545,2545,GerDracor/cronegk-der-misstrauische.xml,"Ich bin genug für
+              alles belohnt, was ich für Sie gethan habe.",67,142,character_speech,5,8,,DAMON.,#damon,678.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2546,2546,2546,GerDracor/cronegk-der-misstrauische.xml,"Ihre Lobeserhebungen aber sind Sie nicht
+              mir, sondern Ihrem großmüthigen Vater, schuldig.",143,246,character_speech,5,8,,DAMON.,#damon,678.0,MALE,"admiration, reverence",K,,1766.0,positive,emotions of affection
+2547,2547,2547,GerDracor/cronegk-der-misstrauische.xml,zu Philippen.,0,13,stage_direction,5,8,speech_part,,#lisette,679.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2548,2548,2548,GerDracor/cronegk-der-misstrauische.xml,Wie lange hat dein Herr an dieser Predigt auswendig gelernet?,0,61,character_speech,5,8,,LISETTE,#lisette,679.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2549,2549,2549,GerDracor/cronegk-der-misstrauische.xml,"Ich bitte Sie aber noch einmal, unterbrechen Sie mich nicht.",0,60,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2550,2550,2550,GerDracor/cronegk-der-misstrauische.xml,"Ich habe Ihnen dieses
+              zum Voraus sagen müssen, um Ihnen zu zeigen, daß ich anfange, mich selbst kennen zu
+              lernen.",61,202,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2551,2551,2551,GerDracor/cronegk-der-misstrauische.xml,"Die nämliche Tugend, die mein Mistrauen gegen andere zu nichte macht, macht
+              mich gegen mich selbst mistrauisch, und das mit allem Rechte.",203,354,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,abhorrence,K,,1766.0,negative,emotions of rejection
+2552,2552,2552,GerDracor/cronegk-der-misstrauische.xml,"So lange eingewurzelte
+              Thorheiten, besonders, wenn sie ihren Grund zum Theil aus dem Temperamente haben,
+              lassen sich nicht so leicht auf einmal tilgen.",355,534,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2553,2553,2553,GerDracor/cronegk-der-misstrauische.xml,"Es ist eine große Verwegenheit, wenn
+              man, ehe man angefangen hat, sich in einer Tugend fest zu setzen, sicher genug ist, um
+              keinen Rückfall zu befürchten.",535,717,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2554,2554,2554,GerDracor/cronegk-der-misstrauische.xml,"Ich weiß, daß ich noch öfters thöricht, noch öfters
+              mistrauisch seyn werde, und bitte Sie alle schon zum Voraus deswegen um Verzeihung.",718,867,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,suffering,K,,1766.0,negative,emotions of suffering and empathy
+2555,2555,2555,GerDracor/cronegk-der-misstrauische.xml,"Erst nach langer Zeit und Mühe hoffe  ich, ganz vernünftig zu werden, und
+              ich will mich indessen hauptsächlich hüten, daß ich durch die Anfälle des Mistrauens,
+              die mich überfallen möchten, niemand unglücklich mache, und niemanden beschwerlich
+              falle.",882,1173,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2556,2556,2556,GerDracor/cronegk-der-misstrauische.xml,"Wie unglücklich würde eine Gemahlinn nicht bey mir seyn, ehe ich diese
+              Gemüthsart völlig überwinde!",1174,1287,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,suffering,K,,1766.0,negative,emotions of suffering and empathy
+2557,2557,2557,GerDracor/cronegk-der-misstrauische.xml,"Je mehr ich sie liebte, desto heftiger würde ich sie
+              quälen.",1288,1362,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,love,K,,1766.0,positive,emotions of affection
+2558,2558,2558,GerDracor/cronegk-der-misstrauische.xml,"Meine Liebe, meine Zärtlichkeit selbsten, würde mich mistrauisch machen, und
+              meine völlige Besserung hindern.",1363,1486,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,love,K,,1766.0,positive,emotions of affection
+2559,2559,2559,GerDracor/cronegk-der-misstrauische.xml,"Wenn ich einem Hauswesen vorstehen sollte: so würde
+              ich meine Bediente quälen, und allen denen, mit denen ich umgehen müßte, beschwerlich
+              fallen.",1487,1660,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,suffering,K,,1766.0,negative,emotions of suffering and empathy
+2560,2560,2560,GerDracor/cronegk-der-misstrauische.xml,"Die Sorge, die es erforderte, würde mich vielleicht zu einem Rückfalle
+              bringen.",1661,1754,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2561,2561,2561,GerDracor/cronegk-der-misstrauische.xml,"Beydes würde mich unglücklich machen, und der Tugend widerstehen.",1755,1820,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,suffering,K,,1766.0,negative,emotions of suffering and empathy
+2562,2562,2562,GerDracor/cronegk-der-misstrauische.xml,"Sagen Sie
+              nun, kann ich Climenens Hand annehmen?",1821,1883,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2563,2563,2563,GerDracor/cronegk-der-misstrauische.xml,"Kann ich die Verwaltung meines väterlichen
+              Gutes über mich nehmen?",1884,1964,character_speech,5,8,,TIMANT.,#timant,680.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2564,2564,2564,GerDracor/cronegk-der-misstrauische.xml,"Ho, ho, was soll das heißen?",0,28,character_speech,5,8,,GERONTE.,#geronte,681.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2565,2565,2565,GerDracor/cronegk-der-misstrauische.xml,"Ich beschwöre dich darum, sage ihm nichts!",0,42,character_speech,5,8,,ORGON.,#orgon,682.0,MALE,fear,K,,1766.0,negative,emotions of anxiety
+2566,2566,2566,GerDracor/cronegk-der-misstrauische.xml,"O mein Sohn, laß dich umarmen!",43,73,character_speech,5,8,,ORGON.,#orgon,682.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2567,2567,2567,GerDracor/cronegk-der-misstrauische.xml,"Wie
+              glücklich bin ich nicht!",74,116,character_speech,5,8,,ORGON.,#orgon,682.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2568,2568,2568,GerDracor/cronegk-der-misstrauische.xml,"Ich weiß nicht, was ich sagen soll.",0,35,character_speech,5,8,,DAMON.,#damon,683.0,MALE,being moved,K,,1766.0,being moved,being moved
+2569,2569,2569,GerDracor/cronegk-der-misstrauische.xml,zu Lisetten.,0,12,stage_direction,5,8,speech_part,,#climene,684.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2570,2570,2570,GerDracor/cronegk-der-misstrauische.xml,"Ich fange an, zu hoffen.",0,24,character_speech,5,8,,CLIMENE,#climene,684.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2571,2571,2571,GerDracor/cronegk-der-misstrauische.xml,zu Philippen.,0,13,stage_direction,5,8,speech_part,,#lisette,685.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2572,2572,2572,GerDracor/cronegk-der-misstrauische.xml,"Dein Herr fängt endlich wirklich an, vernünftig zu werden.",0,58,character_speech,5,8,,LISETTE,#lisette,685.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2573,2573,2573,GerDracor/cronegk-der-misstrauische.xml,Es ist auch Zeit; er ist bald dreyßig Jahre alt.,0,48,character_speech,5,8,,PHILIPP.,#philipp,686.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2574,2574,2574,GerDracor/cronegk-der-misstrauische.xml,"Welche Besserung würde es seyn, wenn ich statt mistrauisch zu bleiben, unedelmüthig
+              und undankbar würde?",0,118,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,suffering,K,,1766.0,negative,emotions of suffering and empathy
+2575,2575,2575,GerDracor/cronegk-der-misstrauische.xml,"Wenn ich meinem Freunde seine Geliebte, meinem Vater seine Güter
+              entzöge?",119,206,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2576,2576,2576,GerDracor/cronegk-der-misstrauische.xml,"Wenn ich Sie unglücklich machte, vortreffliche Climene?",207,262,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2577,2577,2577,GerDracor/cronegk-der-misstrauische.xml,"Wenn ich mich in den
+              Stand setzte, Sie auf das neue zu beleidigen, Sie, die alle an meiner Besserung, an
+              meinem Glücke, Schuld sind?",263,423,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,anger,K,,1766.0,negative,emotions of rejection
+2578,2578,2578,GerDracor/cronegk-der-misstrauische.xml,"Muthen Sie mir es nicht zu, gnädiger Herr Vater!",424,472,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,fear,K,,1766.0,negative,emotions of anxiety
+2579,2579,2579,GerDracor/cronegk-der-misstrauische.xml,"Herr
+              Geronte, wenn Sie jemals eynige Gewogenheit für mich gehabt haben: so seyn Sie mit
+              dem, was ich jetzo unternehme, zufrieden.",473,630,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2580,2580,2580,GerDracor/cronegk-der-misstrauische.xml,Er nimmt Climenen bey der Hand.,0,31,stage_direction,5,8,speech_part,,#timant,687.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2581,2581,2581,GerDracor/cronegk-der-misstrauische.xml,"Ihr gnädiger Herr Vater hatte mir Ihre Hand zugedacht, vortreffliche Climene!",0,77,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,"admiration, reverence",K,,1766.0,positive,emotions of affection
+2582,2582,2582,GerDracor/cronegk-der-misstrauische.xml,"Erlauben Sie, daß ich sie einige Augenblicke nehme, um Sie in bessere Hände zu
+              überliefern!",92,197,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,"admiration, reverence",K,,1766.0,positive,emotions of affection
+2583,2583,2583,GerDracor/cronegk-der-misstrauische.xml,Zu Damon.,0,9,stage_direction,5,8,speech_part,,#timant,687.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2584,2584,2584,GerDracor/cronegk-der-misstrauische.xml,"Treten Sie näher, liebster Freund!",0,34,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,friendship,K,,1766.0,positive,emotions of affection
+2585,2585,2585,GerDracor/cronegk-der-misstrauische.xml,Empfangen Sie Climenen von meinen Händen!,35,76,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,"admiration, reverence",K,,1766.0,positive,emotions of affection
+2586,2586,2586,GerDracor/cronegk-der-misstrauische.xml,"Sie sind
+              ihrer werth; Sie machen mich glücklich, da Sie mich tugendhaft machen.",77,170,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2587,2587,2587,GerDracor/cronegk-der-misstrauische.xml,"Wie froh bin
+              ich nicht, daß ich Sie wiederum glücklich machen kann!",171,252,character_speech,5,8,,TIMANT.,#timant,687.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2588,2588,2588,GerDracor/cronegk-der-misstrauische.xml,"Nun, es ist ordentlich, als wenn diese beyden den Ball mit meiner Tochter spielten:
+              keiner will sie haben; einer schiebt sie dem andern zu.",0,153,character_speech,5,8,,GERONTE.,#geronte,688.0,MALE,suffering,K,,1766.0,negative,emotions of suffering and empathy
+2589,2589,2589,GerDracor/cronegk-der-misstrauische.xml,"Will man mich zum Narren
+              haben?",154,199,character_speech,5,8,,GERONTE.,#geronte,688.0,MALE,anger,K,,1766.0,negative,emotions of rejection
+2590,2590,2590,GerDracor/cronegk-der-misstrauische.xml,Ich beschwöre Sie darum!,0,24,character_speech,5,8,,TIMANT.,#timant,689.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2591,2591,2591,GerDracor/cronegk-der-misstrauische.xml,"Erlauben Sie mir, Climenen meinem Freunde abzutreten.",25,78,character_speech,5,8,,TIMANT.,#timant,689.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2592,2592,2592,GerDracor/cronegk-der-misstrauische.xml,"Sie
+              wollten sie ihm ja vorhin geben.",79,129,character_speech,5,8,,TIMANT.,#timant,689.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2593,2593,2593,GerDracor/cronegk-der-misstrauische.xml,"Zu Ihnen, mein gnädiger Herr Vater, will ich, wenn
+              Sie es erlauben, wollen, auf Ihr Landgut ziehen.",130,243,character_speech,5,8,,TIMANT.,#timant,689.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2594,2594,2594,GerDracor/cronegk-der-misstrauische.xml,"Dort will ich mich immer besser
+              kennen zu lernen, und mich durch die Weltweisheit und die Tugend zu bessern suchen.",244,373,character_speech,5,8,,TIMANT.,#timant,689.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2595,2595,2595,GerDracor/cronegk-der-misstrauische.xml,"Die Ausübung meiner kindlichen Pflicht und die Besserung meines Herzens, soll meine
+              vornehmste Beschäftigung seyn.",388,516,character_speech,5,8,,TIMANT.,#timant,689.0,MALE,love,K,,1766.0,positive,emotions of affection
+2596,2596,2596,GerDracor/cronegk-der-misstrauische.xml,Sie erlauben mir es?,517,537,character_speech,5,8,,TIMANT.,#timant,689.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2597,2597,2597,GerDracor/cronegk-der-misstrauische.xml,O mein Sohn!,0,12,character_speech,5,8,,ORGON.,#orgon,690.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2598,2598,2598,GerDracor/cronegk-der-misstrauische.xml,O glücklicher Tag!,13,31,character_speech,5,8,,ORGON.,#orgon,690.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2599,2599,2599,GerDracor/cronegk-der-misstrauische.xml,"Solche Freude zu erleben, hatte ich die Hoffnung
+              nicht mehr.",32,106,character_speech,5,8,,ORGON.,#orgon,690.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2600,2600,2600,GerDracor/cronegk-der-misstrauische.xml,Ich bin mit allem zufrieden.,107,135,character_speech,5,8,,ORGON.,#orgon,690.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2601,2601,2601,GerDracor/cronegk-der-misstrauische.xml,Wie werth bist du meiner Liebe!,136,167,character_speech,5,8,,ORGON.,#orgon,690.0,MALE,love,K,,1766.0,positive,emotions of affection
+2602,2602,2602,GerDracor/cronegk-der-misstrauische.xml,"Wie wohl
+              ersetzest du mir durch die Freude dieses Augenblickes alle Sorgen, die du mir gemacht
+              hast!",168,296,character_speech,5,8,,ORGON.,#orgon,690.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2603,2603,2603,GerDracor/cronegk-der-misstrauische.xml,"– Und Sie, mein liebster Damon, auch Sie werden nun glücklich seyn.",297,364,character_speech,5,8,,ORGON.,#orgon,690.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2604,2604,2604,GerDracor/cronegk-der-misstrauische.xml,"Wie froh bin
+              ich nicht!",365,402,character_speech,5,8,,ORGON.,#orgon,690.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2605,2605,2605,GerDracor/cronegk-der-misstrauische.xml,"Sey nur auch zufrieden, mein lieber Geronte!",403,447,character_speech,5,8,,ORGON.,#orgon,690.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2606,2606,2606,GerDracor/cronegk-der-misstrauische.xml,"Mein Sohn thut nichts, als
+              seine Schuldigkeit; und Damons Tugend ist Climenens werth.",448,547,character_speech,5,8,,ORGON.,#orgon,690.0,MALE,"admiration, reverence",K,,1766.0,positive,emotions of affection
+2607,2607,2607,GerDracor/cronegk-der-misstrauische.xml,"Je nun, ich bin auch zufrieden, wenn alles zufrieden ist.",0,57,character_speech,5,8,,GERONTE.,#geronte,691.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2608,2608,2608,GerDracor/cronegk-der-misstrauische.xml,"Was sagen Sie, Damon?",58,79,character_speech,5,8,,GERONTE.,#geronte,691.0,MALE,being moved,K,,1766.0,being moved,being moved
+2609,2609,2609,GerDracor/cronegk-der-misstrauische.xml,"Ich bewundere meinen vortrefflichen Freund; mit Thränen von Dankbarkeit und Freude
+              umarme ich ihn.",0,112,character_speech,5,8,,DAMON.,#damon,692.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2610,2610,2610,GerDracor/cronegk-der-misstrauische.xml,"Ich danke Ihnen auf dem Knie für Ihre Einwilligung; und Sie,
+              Climene?",113,196,character_speech,5,8,,DAMON.,#damon,692.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2611,2611,2611,GerDracor/cronegk-der-misstrauische.xml,"Sie fragen mich, Damon, und Sie kennen mein Herz!",0,49,character_speech,5,8,,CLIMENE.,#climene,693.0,FEMALE,love,K,,1766.0,positive,emotions of affection
+2612,2612,2612,GerDracor/cronegk-der-misstrauische.xml,Sie giebt ihm ihre Hand.,0,24,stage_direction,5,8,speech_part,,#climene,693.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2613,2613,2613,GerDracor/cronegk-der-misstrauische.xml,"Nun, Timant hat wirklich recht klug gethan.",0,43,character_speech,5,8,,GERONTE.,#geronte,694.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2614,2614,2614,GerDracor/cronegk-der-misstrauische.xml,"Ich bin ihm noch einmal so gut, nun da er
+              klug geworden ist.",44,118,character_speech,5,8,,GERONTE.,#geronte,694.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2615,2615,2615,GerDracor/cronegk-der-misstrauische.xml,Nun wollen wir geschwind zum Notarius hinlaufen.,119,167,character_speech,5,8,,GERONTE.,#geronte,694.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2616,2616,2616,GerDracor/cronegk-der-misstrauische.xml,Er nimmt den Orgon bey der Hand.,0,32,stage_direction,5,8,speech_part,,#geronte,694.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2617,2617,2617,GerDracor/cronegk-der-misstrauische.xml,"Komm, ich will dich führen.",0,27,character_speech,5,8,,GERONTE.,#geronte,694.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2618,2618,2618,GerDracor/cronegk-der-misstrauische.xml,"Damon, führen Sie Ihre Braut!",28,57,character_speech,5,8,,GERONTE.,#geronte,694.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2619,2619,2619,GerDracor/cronegk-der-misstrauische.xml,"Komm, meine Tochter, es
+              reuet sonst den Bräutigam wieder, und er giebt dich dem andern.",58,159,character_speech,5,8,,GERONTE.,#geronte,694.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2620,2620,2620,GerDracor/cronegk-der-misstrauische.xml,"Kommen Sie,
+              Timant!",160,193,character_speech,5,8,,GERONTE.,#geronte,694.0,MALE,joy,K,,1766.0,positive,emotions of pleasure
+2621,2621,2621,GerDracor/cronegk-der-misstrauische.xml,"Philipp, wollen wir auch mit hinauf gehen?",0,42,character_speech,5,8,,LISETTE.,#lisette,695.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2622,2622,2622,GerDracor/cronegk-der-misstrauische.xml,"Ich verstehe dich schon, du lose Kleine!",0,40,character_speech,5,8,,PHILIPP.,#philipp,696.0,MALE,anger,K,,1766.0,negative,emotions of rejection
+2623,2623,2623,GerDracor/cronegk-der-misstrauische.xml,Je nun ja!,41,51,character_speech,5,8,,PHILIPP.,#philipp,696.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2624,2624,2624,GerDracor/cronegk-der-misstrauische.xml,"Da mein Herr närrisch war, war
+              ich klug.",52,106,character_speech,5,8,,PHILIPP.,#philipp,696.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2625,2625,2625,GerDracor/cronegk-der-misstrauische.xml,"Nun, da er klug geworden ist, möchte ich närrisch genug werden, dich zu
+              heurathen.",107,203,character_speech,5,8,,PHILIPP.,#philipp,696.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2626,2626,2626,GerDracor/cronegk-der-misstrauische.xml,"Geh voran, ich will ihn um Erlaubniß bitten.",204,248,character_speech,5,8,,PHILIPP.,#philipp,696.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2627,2627,2627,GerDracor/cronegk-der-misstrauische.xml,Und ich will meinem Fräulein Glück wünschen.,0,44,character_speech,5,8,,LISETTE.,#lisette,697.0,FEMALE,joy,K,,1766.0,positive,emotions of pleasure
+2628,2628,2628,GerDracor/cronegk-der-misstrauische.xml,Sie geht ab.,0,12,stage_direction,5,8,speech_part,,#lisette,697.0,FEMALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2629,2629,2629,GerDracor/cronegk-der-misstrauische.xml,"der unterdessen in Gedanken stand, zum Philipp.",0,47,stage_direction,5,8,speech_part,,#timant,698.0,MALE,no_annotation,K,,1766.0,no_annotation,no_annotation
+2630,2630,2630,GerDracor/cronegk-der-misstrauische.xml,"Bey allem dem glaube ich noch, sie hatten meinen Entschluß zum Voraus gesehen, und
+              sie haben mich mit allen ihren Lobeserhebungen zum Besten.",0,155,character_speech,5,8,,"TIMANT,",#timant,698.0,MALE,"admiration, reverence",K,,1766.0,positive,emotions of affection

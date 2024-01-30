@@ -1,0 +1,268 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2282,2282,2282,GerDracor/goethe-der-grosskophta.xml,Die Vorigen.,0,12,stage_direction,5,8,pre_speech,,,,,no_annotation,K,,1791.0,no_annotation,no_annotation
+2283,2283,2283,GerDracor/goethe-der-grosskophta.xml,Der Ritter.,13,24,stage_direction,5,8,pre_speech,,,,,no_annotation,K,,1791.0,no_annotation,no_annotation
+2284,2284,2284,GerDracor/goethe-der-grosskophta.xml,"Ja, hier bin ich, die Abscheulichen zu beschämen und die Toren zu bedauern!",0,75,character_speech,5,8,,RITTER.,#der_ritter,832.0,MALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2285,2285,2285,GerDracor/goethe-der-grosskophta.xml,außer dem Obersten.,0,19,stage_direction,5,8,speech_part,,#nichte #domherr #der_marquis #die_marquise #der_graf,833.0,UNKNOWN,no_annotation,K,,1791.0,no_annotation,no_annotation
+2286,2286,2286,GerDracor/goethe-der-grosskophta.xml,Was soll das heißen?,0,20,character_speech,5,8,,DIE ÜBRIGEN,#nichte #domherr #der_marquis #die_marquise #der_graf,833.0,UNKNOWN,no_annotation,K,,1791.0,no_annotation,no_annotation
+2287,2287,2287,GerDracor/goethe-der-grosskophta.xml,Der Ritter!,21,32,character_speech,5,8,,DIE ÜBRIGEN,#nichte #domherr #der_marquis #die_marquise #der_graf,833.0,UNKNOWN,no_annotation,K,,1791.0,no_annotation,no_annotation
+2288,2288,2288,GerDracor/goethe-der-grosskophta.xml,Entsetzlich!,33,45,character_speech,5,8,,DIE ÜBRIGEN,#nichte #domherr #der_marquis #die_marquise #der_graf,833.0,UNKNOWN,fear,K,,1791.0,negative,emotions of anxiety
+2289,2289,2289,GerDracor/goethe-der-grosskophta.xml,Es ist nicht möglich!,46,67,character_speech,5,8,,DIE ÜBRIGEN,#nichte #domherr #der_marquis #die_marquise #der_graf,833.0,UNKNOWN,no_annotation,K,,1791.0,no_annotation,no_annotation
+2290,2290,2290,GerDracor/goethe-der-grosskophta.xml,"Ja, ich bin hier, um gegen euch alle zu zeugen.",0,47,character_speech,5,8,,RITTER.,#der_ritter,834.0,MALE,anger,K,,1791.0,negative,emotions of rejection
+2291,2291,2291,GerDracor/goethe-der-grosskophta.xml,Daran bin ich allein schuld!,0,28,character_speech,5,8,,NICHTE.,#nichte,835.0,FEMALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2292,2292,2292,GerDracor/goethe-der-grosskophta.xml,Was soll das heißen?,0,20,character_speech,5,8,,DOMHERR.,#domherr,836.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2293,2293,2293,GerDracor/goethe-der-grosskophta.xml,Ich werde wahnsinnig!,21,42,character_speech,5,8,,DOMHERR.,#domherr,836.0,MALE,fear,K,,1791.0,negative,emotions of anxiety
+2294,2294,2294,GerDracor/goethe-der-grosskophta.xml,Sie kennen also diesen Mann?,0,28,character_speech,5,8,,OBERSTER.,#oberst,837.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2295,2295,2295,GerDracor/goethe-der-grosskophta.xml,"Hier geht alles natürlich zu, außer daß",29,68,character_speech,5,8,,OBERSTER.,#oberst,837.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2296,2296,2296,GerDracor/goethe-der-grosskophta.xml,Zum Domherrn.,0,13,stage_direction,5,8,inner_speech,,#oberst,837.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2297,2297,2297,GerDracor/goethe-der-grosskophta.xml," Zuvörderst also, damit Sie
+              einsehen, auf welchem Wege man Sie bisher geführt, von wem Sie geführt worden, wie
+              sehr Sie betrogen sind, so erkennen Sie doch endlich das Phantom, womit man diesen
+              Abend unsre Fürstin gelästert hat.",0,270,character_speech,5,8,,OBERSTER.,#oberst,837.0,MALE,abhorrence,K,,1791.0,negative,emotions of rejection
+2298,2298,2298,GerDracor/goethe-der-grosskophta.xml,"Er hebt der Nichte den Schleier vom
+                Gesicht.",0,60,stage_direction,5,8,inner_speech,,#oberst,837.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2299,2299,2299,GerDracor/goethe-der-grosskophta.xml,Domherr erkennt sie und drückt pantomimisch sein Entsetzen aus.,0,63,stage_direction,5,8,speech_part,,#oberst,837.0,MALE,fear,K,,1791.0,negative,emotions of anxiety
+2300,2300,2300,GerDracor/goethe-der-grosskophta.xml,"Wie die Fürstin, so die Geister!",0,32,character_speech,5,8,,RITTER.,#der_ritter,838.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2301,2301,2301,GerDracor/goethe-der-grosskophta.xml,– Solchen Menschen vertrauten Sie!,33,67,character_speech,5,8,,RITTER.,#der_ritter,838.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2302,2302,2302,GerDracor/goethe-der-grosskophta.xml,"Auch Ihnen vertraut ich, und Sie, merk ich, haben mich zugrunde gerichtet.",0,74,character_speech,5,8,,DOMHERR.,#domherr,839.0,MALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2303,2303,2303,GerDracor/goethe-der-grosskophta.xml,"Diese Nichtswürdigen haben sich Ihrer Schwäche bedient und Sie zu den strafwürdigsten
+              Unternehmungen angefeuert.",0,126,character_speech,5,8,,OBERSTER.,#oberst,840.0,MALE,abhorrence,K,,1791.0,negative,emotions of rejection
+2304,2304,2304,GerDracor/goethe-der-grosskophta.xml,Was können Sie erwarten?,127,151,character_speech,5,8,,OBERSTER.,#oberst,840.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2305,2305,2305,GerDracor/goethe-der-grosskophta.xml,Herr Oberst –,0,13,character_speech,5,8,,DOMHERR.,#domherr,841.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2306,2306,2306,GerDracor/goethe-der-grosskophta.xml,Beruhigen Sie sich!,0,19,character_speech,5,8,,OBERST.,#oberst,842.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2307,2307,2307,GerDracor/goethe-der-grosskophta.xml,"Und erfahren Sie zuvörderst, daß der Fürst edel genug denkt, um
+              auch diesmal Ihren Leichtsinn, Ihren Frevel mit Gelindigkeit zu bestrafen.",20,172,character_speech,5,8,,OBERST.,#oberst,842.0,MALE,"admiration, reverence",K,,1791.0,positive,emotions of affection
+2308,2308,2308,GerDracor/goethe-der-grosskophta.xml,"Was sag
+              ich, bestrafen?",173,210,character_speech,5,8,,OBERST.,#oberst,842.0,MALE,anger,K,,1791.0,negative,emotions of rejection
+2309,2309,2309,GerDracor/goethe-der-grosskophta.xml,"Er will vielmehr den zweiten Versuch machen, ob es möglich sei, Sie zu
+              bessern, Sie der großen Ahnherrn würdig zu machen, von denen Sie abstammen.",211,371,character_speech,5,8,,OBERST.,#oberst,842.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2310,2310,2310,GerDracor/goethe-der-grosskophta.xml,"Ihre
+              Entfernung vom Hofe, die nun zwei Jahre dauert, hat Ihnen wenig genutzt.",372,463,character_speech,5,8,,OBERST.,#oberst,842.0,MALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2311,2311,2311,GerDracor/goethe-der-grosskophta.xml,"Ich kündige
+              Ihnen an, daß Sie frei sind, aber nur mit der Bedingung, daß Sie binnen acht Tagen das
+              Land verlassen, unter dem Vorwande, als wenn Sie eine große Reise zu tun willens
+              wären.",464,692,character_speech,5,8,,OBERST.,#oberst,842.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2312,2312,2312,GerDracor/goethe-der-grosskophta.xml,"Mit Ihrem Oheim, den der Fürst besonders schätzt, dem er vertraut,
+              wird alles abgeredet und eingerichtet werden.",694,820,character_speech,5,8,,OBERST.,#oberst,842.0,MALE,"admiration, reverence",K,,1791.0,positive,emotions of affection
+2313,2313,2313,GerDracor/goethe-der-grosskophta.xml,"Sie können frei in Ihrem Wagen
+              zurückkehren, wenn Sie nur erst unterrichtet sind, wie es mit dem gefährlichen
+              Juwelenhandel aussieht, in den Sie sich eingelassen haben.",821,1017,character_speech,5,8,,OBERST.,#oberst,842.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2314,2314,2314,GerDracor/goethe-der-grosskophta.xml,Was muß ich erfahren!,0,21,character_speech,5,8,,DOMHERR.,#domherr,843.0,MALE,anger,K,,1791.0,negative,emotions of rejection
+2315,2315,2315,GerDracor/goethe-der-grosskophta.xml,Was muß ich erleben!,22,42,character_speech,5,8,,DOMHERR.,#domherr,843.0,MALE,being moved,K,,1791.0,being moved,being moved
+2316,2316,2316,GerDracor/goethe-der-grosskophta.xml,zu dem Marquis.,0,15,stage_direction,5,8,speech_part,,#oberst,844.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2317,2317,2317,GerDracor/goethe-der-grosskophta.xml,"Geben Sie zuvörderst die Juwelen heraus, die Sie in der Tasche haben.",0,69,character_speech,5,8,,OBERST,#oberst,844.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2318,2318,2318,GerDracor/goethe-der-grosskophta.xml,Die Juwelen?,0,12,character_speech,5,8,,MARQUIS.,#der_marquis,845.0,MALE,being moved,K,,1791.0,being moved,being moved
+2319,2319,2319,GerDracor/goethe-der-grosskophta.xml,Ich weiß von keinen!,13,33,character_speech,5,8,,MARQUIS.,#der_marquis,845.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2320,2320,2320,GerDracor/goethe-der-grosskophta.xml,Er hat da was erst in den Busch geworfen.,0,41,character_speech,5,8,,EIN SCHWEIZER.,#ein_schweizer_5-8,846.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2321,2321,2321,GerDracor/goethe-der-grosskophta.xml,Es muß nicht weit liegen.,42,67,character_speech,5,8,,EIN SCHWEIZER.,#ein_schweizer_5-8,846.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2322,2322,2322,GerDracor/goethe-der-grosskophta.xml,"Man sucht und bringt das Kästchen hervor, das man dem Obersten
+              überreicht.",0,88,stage_direction,5,8,speech_part,,#ein_schweizer_5-8,846.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2323,2323,2323,GerDracor/goethe-der-grosskophta.xml,Leugnet nicht weiter!,0,21,character_speech,5,8,,OBERST.,#oberst,847.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2324,2324,2324,GerDracor/goethe-der-grosskophta.xml,Es ist alles am Tage.,22,43,character_speech,5,8,,OBERST.,#oberst,847.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2325,2325,2325,GerDracor/goethe-der-grosskophta.xml,Zur Marquise.,0,13,stage_direction,5,8,inner_speech,,#oberst,847.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2326,2326,2326,GerDracor/goethe-der-grosskophta.xml," Wo sind die
+              übrigen Steine?",0,42,character_speech,5,8,,OBERST.,#oberst,847.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2327,2327,2327,GerDracor/goethe-der-grosskophta.xml,Gestehn Sie nur!,43,59,character_speech,5,8,,OBERST.,#oberst,847.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2328,2328,2328,GerDracor/goethe-der-grosskophta.xml,"Sie kommen nicht wieder nach Hause, und zu Hause bei
+              Ihnen ist in diesem Augenblicke alles versiegelt.",60,176,character_speech,5,8,,OBERST.,#oberst,847.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2329,2329,2329,GerDracor/goethe-der-grosskophta.xml,"Verdienen Sie die Gelindigkeit, mit
+              der man Sie zu behandeln gedenkt.",177,260,character_speech,5,8,,OBERST.,#oberst,847.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2330,2330,2330,GerDracor/goethe-der-grosskophta.xml,Hier sind sie.,0,14,character_speech,5,8,,MARQUISE.,#die_marquise,848.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2331,2331,2331,GerDracor/goethe-der-grosskophta.xml,Das Schmuckkästchen hervorbringend.,0,35,stage_direction,5,8,inner_speech,,#die_marquise,848.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2332,2332,2332,GerDracor/goethe-der-grosskophta.xml," So dacht ich sie
+              nicht loszuwerden.",0,50,character_speech,5,8,,MARQUISE.,#die_marquise,848.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2333,2333,2333,GerDracor/goethe-der-grosskophta.xml,zum Domherrn.,0,13,stage_direction,5,8,speech_part,,#oberst,849.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2334,2334,2334,GerDracor/goethe-der-grosskophta.xml,"Man wird diese Juwelen den Hofjuwelieren wieder zustellen und Ihre Verbindlichkeit
+              dagegen einlösen.",0,114,character_speech,5,8,,OBERST,#oberst,849.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2335,2335,2335,GerDracor/goethe-der-grosskophta.xml,"Die falsche Unterschrift der Prinzessin werden Sie dagegen
+              zurücklassen.",115,201,character_speech,5,8,,OBERST,#oberst,849.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2336,2336,2336,GerDracor/goethe-der-grosskophta.xml,"Ich halte Sie nicht weiter auf, Sie können gehen.",202,251,character_speech,5,8,,OBERST,#oberst,849.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2337,2337,2337,GerDracor/goethe-der-grosskophta.xml,"Ja, ich gehe.",0,13,character_speech,5,8,,DOMHERR.,#domherr,850.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2338,2338,2338,GerDracor/goethe-der-grosskophta.xml,"Sie haben mich beschämt gesehn; aber glauben Sie nicht, daß ich
+              erniedrigt bin.",14,107,character_speech,5,8,,DOMHERR.,#domherr,850.0,MALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2339,2339,2339,GerDracor/goethe-der-grosskophta.xml,"Meine Geburt gibt mir ein Recht auf die ersten Bedienungen im Staate;
+              diese Vorzüge kann mir niemand nehmen, und noch weniger wird man mir die Leidenschaft
+              aus dem Herzen reißen, die ich für meine Fürstin empfinde.",108,350,character_speech,5,8,,DOMHERR.,#domherr,850.0,MALE,love,K,,1791.0,positive,emotions of affection
+2340,2340,2340,GerDracor/goethe-der-grosskophta.xml,"Sagen Sie es ihr, wie
+              glücklich mich dieses Phantom gemacht hat.",351,429,character_speech,5,8,,DOMHERR.,#domherr,850.0,MALE,joy,K,,1791.0,positive,emotions of pleasure
+2341,2341,2341,GerDracor/goethe-der-grosskophta.xml,"Sagen Sie ihr, daß alle Demütigungen nichts
+              gegen",430,493,character_speech,5,8,,DOMHERR.,#domherr,850.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2342,2342,2342,GerDracor/goethe-der-grosskophta.xml," den Schmerz sind, mich noch weiter von ihr entfernen zu müssen; in
+              ein Land zu gehen, wo ich sie nicht mehr auch nur im Vorüberfahren erblicken werde:
+              aber ihr Bild und die Hoffnung werden nie aus meinem Herzen kommen, solange ich lebe.",0,265,character_speech,5,8,,DOMHERR.,#domherr,850.0,MALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2343,2343,2343,GerDracor/goethe-der-grosskophta.xml,Sagen Sie ihr das.,280,298,character_speech,5,8,,DOMHERR.,#domherr,850.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2344,2344,2344,GerDracor/goethe-der-grosskophta.xml,Euch übrige verachte ich.,299,324,character_speech,5,8,,DOMHERR.,#domherr,850.0,MALE,abhorrence,K,,1791.0,negative,emotions of rejection
+2345,2345,2345,GerDracor/goethe-der-grosskophta.xml,"Ihr waret geschäftig um meine
+              Leidenschaft, wie Käfer um einen blühenden Baum; die Blätter konntet ihr verzehren,
+              daß ich mitten im Sommer wie ein dürres Reis dastehe; aber die Äste, die Wurzeln
+              mußtet ihr unangetastet lassen.",325,593,character_speech,5,8,,DOMHERR.,#domherr,850.0,MALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2346,2346,2346,GerDracor/goethe-der-grosskophta.xml,"Schwärmt hin, wo ihr wieder Nahrung findet!",594,637,character_speech,5,8,,DOMHERR.,#domherr,850.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2347,2347,2347,GerDracor/goethe-der-grosskophta.xml,"Der
+                Domherr geht ab.",0,36,stage_direction,5,8,inner_speech,,#domherr,850.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2348,2348,2348,GerDracor/goethe-der-grosskophta.xml,"Die übrigen werden unter guter Bedeckung ganz in der Stille auf eine Grenzfestung
+              gebracht, bis man hinlänglich untersucht hat, ob ihre Schelmstreiche nicht vielleicht
+              noch weiter um sich gegriffen haben.",0,232,character_speech,5,8,,OBERSTER.,#oberst,851.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2349,2349,2349,GerDracor/goethe-der-grosskophta.xml,"Findet sich's, daß sie in weiter keine Händel
+              verwickelt sind, so wird man sie in der Stille des Landes verweisen und so von diesem
+              betrügerischen Volke sich befreien.",233,428,character_speech,5,8,,OBERSTER.,#oberst,851.0,MALE,abhorrence,K,,1791.0,negative,emotions of rejection
+2350,2350,2350,GerDracor/goethe-der-grosskophta.xml,"Es sind eben vier, ein Wagen voll.",429,463,character_speech,5,8,,OBERSTER.,#oberst,851.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2351,2351,2351,GerDracor/goethe-der-grosskophta.xml,Fort mit ihnen!,464,479,character_speech,5,8,,OBERSTER.,#oberst,851.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2352,2352,2352,GerDracor/goethe-der-grosskophta.xml,"Man begleite sie bis an das große Tor, wo ein Fuhrwerk steht, und übergebe sie dort
+              den Dragonern.",494,606,character_speech,5,8,,OBERSTER.,#oberst,851.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2353,2353,2353,GerDracor/goethe-der-grosskophta.xml,"Wenn ein unglückliches Mädchen von einem strengen Urteilsspruch noch auf Gnade sich
+              berufen darf, so hören Sie mich an.",0,133,character_speech,5,8,,NICHTE.,#nichte,852.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2354,2354,2354,GerDracor/goethe-der-grosskophta.xml,"Ich unterziehe mich jeder Strafe, nur trennen Sie
+              mich von diesen Menschen, die meine Verwandten sind, sich meine Freunde nannten und
+              mich in das tiefste Elend gestürzt haben.",134,337,character_speech,5,8,,NICHTE.,#nichte,852.0,FEMALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2355,2355,2355,GerDracor/goethe-der-grosskophta.xml,"Verwahren Sie mich, entfernen Sie mich; nur
+              haben Sie Barmherzigkeit, bringen Sie mich in ein Kloster.",338,454,character_speech,5,8,,NICHTE.,#nichte,852.0,FEMALE,despair,K,,1791.0,negative,emotions of anxiety
+2356,2356,2356,GerDracor/goethe-der-grosskophta.xml,Was höre ich?,0,13,character_speech,5,8,,RITTER.,#der_ritter,853.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2357,2357,2357,GerDracor/goethe-der-grosskophta.xml,Ist es Ihr Ernst?,0,17,character_speech,5,8,,OBERST.,#oberst,854.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2358,2358,2358,GerDracor/goethe-der-grosskophta.xml,"O hätte dieser Mann geglaubt, daß meine Gesinnungen aufrichtig seien, so wären wir
+              alle nicht, wo wir sind.",0,121,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2359,2359,2359,GerDracor/goethe-der-grosskophta.xml,"Ritter, Sie haben nicht edel gehandelt!",122,161,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,anger,K,,1791.0,negative,emotions of rejection
+2360,2360,2360,GerDracor/goethe-der-grosskophta.xml,"Durch meine
+              Unvorsichtigkeit, durch einen Zufall haben Sie das Geheimnis erfahren.",162,258,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2361,2361,2361,GerDracor/goethe-der-grosskophta.xml,"Wären Sie der
+              Mann gewesen, für den",259,308,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2362,2362,2362,GerDracor/goethe-der-grosskophta.xml," ich Sie hielt, Sie hätten diesen Gebrauch nicht
+              davon gemacht, Sie hätten den Domherrn unterrichten, die Juwelen beischaffen und ein
+              Mädchen retten können, das nun unwiederbringlich verloren ist.",0,224,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2363,2363,2363,GerDracor/goethe-der-grosskophta.xml,"Es ist wahr, man wird
+              Sie für diesen Dienst belohnen; unser Unglück wird ein Kapital sein, von dem Sie große
+              Renten ziehen.",225,376,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,joy,K,,1791.0,positive,emotions of pleasure
+2364,2364,2364,GerDracor/goethe-der-grosskophta.xml,"Ich verlange nicht, daß Sie im Genuß der fürstlichen Gunst, der
+              einträglichen Stellen, in deren Besitz Sie sich bald befinden werden, an die Tränen
+              eines armen Mädchens denken sollen, deren Zutraulichkeit Ihnen Gelegenheit gab, zu
+              horchen.",377,658,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2365,2365,2365,GerDracor/goethe-der-grosskophta.xml,"Aber brauchen Sie jetzt, da Sie ein bedeutender Mann bei Hofe sind, Ihren
+              Einfluß, das zu bewirken, warum ich Sie bat, da Sie noch nichts hatten, wenigstens
+              zeigten, als Gesinnungen, die ich ehren mußte.",659,890,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2366,2366,2366,GerDracor/goethe-der-grosskophta.xml,"Erlangen Sie von diesem ernsthaften
+              würdigen Manne nur, daß ich nicht mit dieser Gesellschaft weggebracht werde; daß meine
+              Jugend in einem fremden Lande nicht größern Erniedrigungen ausgesetzt werde, als ich
+              in diesem leider schon dulden mußte.",891,1177,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2367,2367,2367,GerDracor/goethe-der-grosskophta.xml,Zum Obersten.,0,13,stage_direction,5,8,inner_speech,,#nichte,855.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2368,2368,2368,GerDracor/goethe-der-grosskophta.xml," Ich bitte, ich
+              beschwöre Sie, mein Herr, wenn Sie eine Tochter haben, an der Sie Freude zu erleben
+              wünschen, so schicken Sie mich fort; aber allein.",0,177,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2369,2369,2369,GerDracor/goethe-der-grosskophta.xml,"Verwahren Sie mich; aber verbannen
+              Sie mich nicht!",178,242,character_speech,5,8,,NICHTE.,#nichte,855.0,FEMALE,being moved,K,,1791.0,being moved,being moved
+2370,2370,2370,GerDracor/goethe-der-grosskophta.xml,Sie rührt mich!,0,15,character_speech,5,8,,OBERST.,#oberst,856.0,MALE,love,K,,1791.0,positive,emotions of affection
+2371,2371,2371,GerDracor/goethe-der-grosskophta.xml,Ist es Ihr Ernst?,0,17,character_speech,5,8,,RITTER.,#der_ritter,857.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2372,2372,2372,GerDracor/goethe-der-grosskophta.xml,O hätten Sie es früher geglaubt!,0,32,character_speech,5,8,,NICHTE.,#nichte,858.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2373,2373,2373,GerDracor/goethe-der-grosskophta.xml,Ich kann Ihren Wunsch erfüllen; ich gehe in nichts von meiner Instruktion ab.,0,77,character_speech,5,8,,OBERST.,#oberst,859.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2374,2374,2374,GerDracor/goethe-der-grosskophta.xml,"Ja, Sie erfüllen ganz Ihre Instruktion, wenn die Absicht ist, wie es scheint, diesen
+              verwegenen Handel im stillen beizulegen.",0,139,character_speech,5,8,,NICHTE.,#nichte,860.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2375,2375,2375,GerDracor/goethe-der-grosskophta.xml,"Verbannen Sie mich nicht, schicken Sie mich
+              in kein fremdes Land; denn die Neugierde wird rege werden.",140,256,character_speech,5,8,,NICHTE.,#nichte,860.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2376,2376,2376,GerDracor/goethe-der-grosskophta.xml,"Man wird die Geschichte
+              erzählen, man wird sie wiederholen.",257,330,character_speech,5,8,,NICHTE.,#nichte,860.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2377,2377,2377,GerDracor/goethe-der-grosskophta.xml,"Man wird fragen: »Wie sieht das abenteuerliche
+              Mädchen aus?",331,404,character_speech,5,8,,NICHTE.,#nichte,860.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2378,2378,2378,GerDracor/goethe-der-grosskophta.xml,"Sie soll, sie muß der Prinzessin gleichen, sonst hätte die Fabel nicht
+              können erfunden, nicht gespielt werden.",405,529,character_speech,5,8,,NICHTE.,#nichte,860.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2379,2379,2379,GerDracor/goethe-der-grosskophta.xml,Wo ist sie?,530,541,character_speech,5,8,,NICHTE.,#nichte,860.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2380,2380,2380,GerDracor/goethe-der-grosskophta.xml,"Man muß sie sehen, man
+              muß sie kennen.« O Ritter, wenn ich ein Geschöpf war, wie Sie dachten, so wäre der
+              gegenwärtige Fall für mich erwünscht genug, und ich brauchte keine Ausstattung weiter,
+              um in der Welt mein Glück zu machen.",542,813,character_speech,5,8,,NICHTE.,#nichte,860.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2381,2381,2381,GerDracor/goethe-der-grosskophta.xml,Hiermit sei es genug!,0,21,character_speech,5,8,,OBERST.,#oberst,861.0,MALE,anger,K,,1791.0,negative,emotions of rejection
+2382,2382,2382,GerDracor/goethe-der-grosskophta.xml,"Begleitet jene drei an den Wagen; der Offizier, dem ihr sie
+              übergebt, weiß schon das Weitere.",22,129,character_speech,5,8,,OBERST.,#oberst,861.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2383,2383,2383,GerDracor/goethe-der-grosskophta.xml,leise zur Marquise.,0,19,stage_direction,5,8,speech_part,,#der_marquis,862.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2384,2384,2384,GerDracor/goethe-der-grosskophta.xml,Es ist nur von Verbannung die Rede.,0,35,character_speech,5,8,,MARQUIS,#der_marquis,862.0,MALE,abhorrence,K,,1791.0,negative,emotions of rejection
+2385,2385,2385,GerDracor/goethe-der-grosskophta.xml,"Wir wollen demütig abziehn, um das Übel nicht
+              ärger zu machen.",36,112,character_speech,5,8,,MARQUIS,#der_marquis,862.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2386,2386,2386,GerDracor/goethe-der-grosskophta.xml,Wut und Verdruß kochen mir im Herzen; nur die Furcht vor einem größern.,0,71,character_speech,5,8,,MARQUISE.,#die_marquise,863.0,FEMALE,fear,K,,1791.0,negative,emotions of anxiety
+2387,2387,2387,GerDracor/goethe-der-grosskophta.xml,"Übel hält
+              mich ab, ihr Luft zu machen.",72,124,character_speech,5,8,,MARQUISE.,#die_marquise,863.0,FEMALE,anger,K,,1791.0,negative,emotions of rejection
+2388,2388,2388,GerDracor/goethe-der-grosskophta.xml,Nun fort!,0,9,character_speech,5,8,,OBERST.,#oberst,864.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2389,2389,2389,GerDracor/goethe-der-grosskophta.xml,"Bedenken Sie, Herr Oberst, und lassen Sie den Fürsten bedenken, welches Blut in
+              meinen Adern fließt, daß ich ihm verwandt bin und daß er seine eigne Ehre verletzt,
+              wenn er mich erniedrigt!",0,216,character_speech,5,8,,MARQUISE.,#die_marquise,865.0,FEMALE,compassion,K,,1791.0,negative,emotions of suffering and empathy
+2390,2390,2390,GerDracor/goethe-der-grosskophta.xml,Das hätten Sie bedenken sollen!,0,31,character_speech,5,8,,OBERST.,#oberst,866.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2391,2391,2391,GerDracor/goethe-der-grosskophta.xml,– Gehen Sie!,32,44,character_speech,5,8,,OBERST.,#oberst,866.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2392,2392,2392,GerDracor/goethe-der-grosskophta.xml,"Schon hat man diese noch lange nicht
+              erwiesene Verwandtschaft zu Ihrem Vorteil mit in Anschlag gebracht.",45,163,character_speech,5,8,,OBERST.,#oberst,866.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2393,2393,2393,GerDracor/goethe-der-grosskophta.xml,"Mein Herr, Sie vermischen mit diesem Gesindel einen Mann, der gewohnt ist, überall
+              ehrenvoll behandelt zu werden.",0,127,character_speech,5,8,,GRAF.,#der_graf,867.0,MALE,abhorrence,K,,1791.0,negative,emotions of rejection
+2394,2394,2394,GerDracor/goethe-der-grosskophta.xml,Gehorchen Sie!,0,14,character_speech,5,8,,OBERST.,#oberst,868.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2395,2395,2395,GerDracor/goethe-der-grosskophta.xml,Es ist mir unmöglich!,0,21,character_speech,5,8,,GRAF.,#der_graf,869.0,MALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2396,2396,2396,GerDracor/goethe-der-grosskophta.xml,So wird man Sie's lehren.,0,25,character_speech,5,8,,OBERST.,#oberst,870.0,MALE,Schadenfreude,K,,1791.0,positive,emotions of pleasure
+2397,2397,2397,GerDracor/goethe-der-grosskophta.xml,"Ein Reisender, der überall, wo er hinkommt, Wohltaten verbreitet.",0,65,character_speech,5,8,,GRAF.,#der_graf,871.0,MALE,"admiration, reverence",K,,1791.0,positive,emotions of affection
+2398,2398,2398,GerDracor/goethe-der-grosskophta.xml,Es wird sich zeigen.,0,20,character_speech,5,8,,OBERST.,#oberst,872.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2399,2399,2399,GerDracor/goethe-der-grosskophta.xml,Dem man wie einem Schutzgeist Tempel bauen sollte.,0,50,character_speech,5,8,,GRAF.,#der_graf,873.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2400,2400,2400,GerDracor/goethe-der-grosskophta.xml,Es wird sich finden.,0,20,character_speech,5,8,,OBERST.,#oberst,874.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2401,2401,2401,GerDracor/goethe-der-grosskophta.xml,Der sich als Großkophta legitimiert hat.,0,40,character_speech,5,8,,GRAF.,#der_graf,875.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2402,2402,2402,GerDracor/goethe-der-grosskophta.xml,Wodurch?,0,8,character_speech,5,8,,OBERST.,#oberst,876.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2403,2403,2403,GerDracor/goethe-der-grosskophta.xml,Durch Wunder.,0,13,character_speech,5,8,,GRAF.,#der_graf,877.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2404,2404,2404,GerDracor/goethe-der-grosskophta.xml,"Wiederholen Sie eins und das andre, rufen Sie Ihre Geister herbei, lassen Sie sich
+              befreien!",0,106,character_speech,5,8,,OBERST.,#oberst,878.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2405,2405,2405,GerDracor/goethe-der-grosskophta.xml,"Ich achte euch nicht genug, um meine Macht vor euch sehen zu lassen.",0,68,character_speech,5,8,,GRAF.,#der_graf,879.0,MALE,abhorrence,K,,1791.0,negative,emotions of rejection
+2406,2406,2406,GerDracor/goethe-der-grosskophta.xml,Groß gedacht!,0,13,character_speech,5,8,,OBERST.,#oberst,880.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2407,2407,2407,GerDracor/goethe-der-grosskophta.xml,So unterwerfen Sie sich dem Befehl.,14,49,character_speech,5,8,,OBERST.,#oberst,880.0,MALE,"admiration, reverence",K,,1791.0,positive,emotions of affection
+2408,2408,2408,GerDracor/goethe-der-grosskophta.xml,"Ich tue es, meine Langmut zu zeigen; aber bald werde ich mich offenbaren.",0,73,character_speech,5,8,,GRAF.,#der_graf,881.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2409,2409,2409,GerDracor/goethe-der-grosskophta.xml,"Ich werde
+              Ihrem Fürsten solche Geheimnisse melden, daß er mich im Triumphe zurückholen soll, und
+              Sie werden vor dem Wagen voranreiten, in dem der Großkophta verherrlicht zurückkehren
+              wird.",74,304,character_speech,5,8,,GRAF.,#der_graf,881.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2410,2410,2410,GerDracor/goethe-der-grosskophta.xml,Das wird sich alles finden; nur heute kann ich Sie unmöglich begleiten.,0,71,character_speech,5,8,,OBERST.,#oberst,882.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2411,2411,2411,GerDracor/goethe-der-grosskophta.xml,"Fort mit
+              Ihnen!",72,101,character_speech,5,8,,OBERST.,#oberst,882.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2412,2412,2412,GerDracor/goethe-der-grosskophta.xml,"Fort, sagt der Oberste, und wenn Ihr nicht geht, so werdet Ihr unsre Hellebarden
+              fühlen.",0,102,character_speech,5,8,,SCHWEIZER.,#die_schweizer,883.0,MALE,anger,K,,1791.0,negative,emotions of rejection
+2413,2413,2413,GerDracor/goethe-der-grosskophta.xml,"Ihr Elenden, ihr werdet bald vor mir ins Gewehr treten.",0,55,character_speech,5,8,,GRAF.,#der_graf,884.0,MALE,abhorrence,K,,1791.0,negative,emotions of rejection
+2414,2414,2414,GerDracor/goethe-der-grosskophta.xml,schlagen auf ihn los.,0,21,stage_direction,5,8,speech_part,,#die_schweizer,885.0,MALE,anger,K,,1791.0,negative,emotions of rejection
+2415,2415,2415,GerDracor/goethe-der-grosskophta.xml,Will Er das letzte Wort haben?,0,30,character_speech,5,8,,DIE SCHWEIZER,#die_schweizer,885.0,MALE,anger,K,,1791.0,negative,emotions of rejection
+2416,2416,2416,GerDracor/goethe-der-grosskophta.xml,Die Schweizer mit den drei Personen ab.,0,39,stage_direction,5,8,speech_part,,#die_schweizer,885.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2417,2417,2417,GerDracor/goethe-der-grosskophta.xml,zur Nichte.,0,11,stage_direction,5,8,speech_part,,#oberst,886.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2418,2418,2418,GerDracor/goethe-der-grosskophta.xml,"Und Sie sollen noch heute nacht in das Frauenkloster, das keine Viertelstunde von
+              hier liegt.",0,107,character_speech,5,8,,OBERST,#oberst,886.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2419,2419,2419,GerDracor/goethe-der-grosskophta.xml,"Wenn es Ihr Ernst ist, sich von der Welt zu scheiden, so sollen Sie
+              Gelegenheit finden.",108,209,character_speech,5,8,,OBERST,#oberst,886.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2420,2420,2420,GerDracor/goethe-der-grosskophta.xml,Es ist mein völliger Ernst.,0,27,character_speech,5,8,,NICHTE.,#nichte,887.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2421,2421,2421,GerDracor/goethe-der-grosskophta.xml,Ich habe keine Hoffnung mehr auf dieser Welt.,28,73,character_speech,5,8,,NICHTE.,#nichte,887.0,FEMALE,despair,K,,1791.0,negative,emotions of anxiety
+2422,2422,2422,GerDracor/goethe-der-grosskophta.xml,"Zum
+                Ritter.",0,27,stage_direction,5,8,inner_speech,,#nichte,887.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2423,2423,2423,GerDracor/goethe-der-grosskophta.xml," Aber das muß ich Ihnen noch sagen, daß ich meine erste, lebhafte
+              Neigung mit in die Einsamkeit nehme – die Neigung zu Ihnen.",0,139,character_speech,5,8,,NICHTE.,#nichte,887.0,FEMALE,love,K,,1791.0,positive,emotions of affection
+2424,2424,2424,GerDracor/goethe-der-grosskophta.xml,"Sagen Sie das nicht, strafen Sie mich nicht so hart.",0,52,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,anger,K,,1791.0,negative,emotions of rejection
+2425,2425,2425,GerDracor/goethe-der-grosskophta.xml,"Jedes Ihrer Worte verwundet mich
+              tief.",53,105,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2426,2426,2426,GerDracor/goethe-der-grosskophta.xml,Ihr Zustand ist gegen den meinigen zu beneiden.,106,153,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,joy,K,,1791.0,positive,emotions of pleasure
+2427,2427,2427,GerDracor/goethe-der-grosskophta.xml,"Sie können sagen: »Man hat mich
+              unglücklich gemacht«; und welchen unerträglichen Schmerz muß ich empfinden, wenn ich
+              mir sage:  »Auch dich zählt sie unter die Menschen, die zu ihrem Verderben
+              mitwirkten.« O vergeben Sie mir!",154,420,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2428,2428,2428,GerDracor/goethe-der-grosskophta.xml,"vergeben Sie einer Leidenschaft, die, durch einen
+              unglückseligen Zufall mit sich selbst uneins, das verletzte, was ihr noch
+              vor wenig Augenblicken das Liebste, das Werteste auf der Welt war.",421,639,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,love,K,,1791.0,positive,emotions of affection
+2429,2429,2429,GerDracor/goethe-der-grosskophta.xml,"Wir sollen uns
+              trennen!",640,677,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,anger,K,,1791.0,negative,emotions of rejection
+2430,2430,2430,GerDracor/goethe-der-grosskophta.xml,"Unaussprechlich ist die Qual, die ich in diesem Zustand empfinde.",678,743,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2431,2431,2431,GerDracor/goethe-der-grosskophta.xml,"Erkennen
+              Sie meine Liebe und bedauren Sie mich.",744,805,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,compassion,K,,1791.0,negative,emotions of suffering and empathy
+2432,2432,2432,GerDracor/goethe-der-grosskophta.xml,"O daß ich nicht meiner Empfindung folgte und
+              nach der zufälligen Entdeckung gleich zum Domherrn eilte!",806,922,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2433,2433,2433,GerDracor/goethe-der-grosskophta.xml,"Ich hätte mir einen Freund,
+              eine Geliebte erworben, und ich hätte mein Glück mit Freuden genießen können.",923,1042,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,joy,K,,1791.0,positive,emotions of pleasure
+2434,2434,2434,GerDracor/goethe-der-grosskophta.xml,"Es ist
+              alles verloren.",1043,1079,character_speech,5,8,,RITTER.,#der_ritter,888.0,MALE,despair,K,,1791.0,negative,emotions of anxiety
+2435,2435,2435,GerDracor/goethe-der-grosskophta.xml,Fassen Sie sich!,0,16,character_speech,5,8,,OBERST.,#oberst,889.0,MALE,being moved,K,,1791.0,being moved,being moved
+2436,2436,2436,GerDracor/goethe-der-grosskophta.xml,Leben Sie wohl!,0,15,character_speech,5,8,,NICHTE.,#nichte,890.0,FEMALE,suffering,K,,1791.0,negative,emotions of suffering and empathy
+2437,2437,2437,GerDracor/goethe-der-grosskophta.xml,Diese letzten tröstlichen Worte werden mir immer gegenwärtig bleiben.,16,85,character_speech,5,8,,NICHTE.,#nichte,890.0,FEMALE,joy,K,,1791.0,positive,emotions of pleasure
+2438,2438,2438,GerDracor/goethe-der-grosskophta.xml,Zum Oberst.,0,11,stage_direction,5,8,inner_speech,,#nichte,890.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2439,2439,2439,GerDracor/goethe-der-grosskophta.xml," Ich sehe an Ihren Augen, daß ich scheiden soll.",0,48,character_speech,5,8,,NICHTE.,#nichte,890.0,FEMALE,love,K,,1791.0,positive,emotions of affection
+2440,2440,2440,GerDracor/goethe-der-grosskophta.xml,"Möge Ihre
+              Menschlichkeit belohnt werden!",49,103,character_speech,5,8,,NICHTE.,#nichte,890.0,FEMALE,"admiration, reverence",K,,1791.0,positive,emotions of affection
+2441,2441,2441,GerDracor/goethe-der-grosskophta.xml,Sie geht mit der Wache ab.,0,26,stage_direction,5,8,speech_part,,#nichte,890.0,FEMALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2442,2442,2442,GerDracor/goethe-der-grosskophta.xml,Das arme Geschöpf dauert mich!,0,30,character_speech,5,8,,OBERST.,#oberst,891.0,MALE,compassion,K,,1791.0,negative,emotions of suffering and empathy
+2443,2443,2443,GerDracor/goethe-der-grosskophta.xml,Kommen Sie!,31,42,character_speech,5,8,,OBERST.,#oberst,891.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2444,2444,2444,GerDracor/goethe-der-grosskophta.xml,Alles ist gut gegangen.,43,66,character_speech,5,8,,OBERST.,#oberst,891.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2445,2445,2445,GerDracor/goethe-der-grosskophta.xml,"Ihre Belohnung
+              wird nicht ausbleiben.",67,118,character_speech,5,8,,OBERST.,#oberst,891.0,MALE,joy,K,,1791.0,positive,emotions of pleasure
+2446,2446,2446,GerDracor/goethe-der-grosskophta.xml,"Sie mag sein, welche sie will, so fürstlich, als ich sie erwarten darf; ich werde
+              nichts genießen können, denn ich habe nicht recht gehandelt.",0,156,character_speech,5,8,,RITTER.,#der_ritter,892.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation
+2447,2447,2447,GerDracor/goethe-der-grosskophta.xml,"Mir bleibt nur ein Wunsch
+              und eine Hoffnung, das gute Mädchen aufzurichten und sie sich selbst und der Welt
+              wiederzugeben.",157,307,character_speech,5,8,,RITTER.,#der_ritter,892.0,MALE,no_annotation,K,,1791.0,no_annotation,no_annotation

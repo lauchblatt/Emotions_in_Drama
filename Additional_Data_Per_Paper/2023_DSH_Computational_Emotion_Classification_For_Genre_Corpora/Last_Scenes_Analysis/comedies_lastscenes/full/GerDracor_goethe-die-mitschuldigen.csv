@@ -1,0 +1,85 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1078,1078,1078,GerDracor/goethe-die-mitschuldigen.xml,Alcest.,0,7,stage_direction,1,15,pre_speech,,,,,no_annotation,K,,1776.0,no_annotation,no_annotation
+1079,1079,1079,GerDracor/goethe-die-mitschuldigen.xml,Söller.,8,15,stage_direction,1,15,pre_speech,,,,,no_annotation,K,,1776.0,no_annotation,no_annotation
+1080,1080,1080,GerDracor/goethe-die-mitschuldigen.xml,Sophie.,16,23,stage_direction,1,15,pre_speech,,,,,no_annotation,K,,1776.0,no_annotation,no_annotation
+1081,1081,1081,GerDracor/goethe-die-mitschuldigen.xml,Der Wirt.,24,33,stage_direction,1,15,pre_speech,,,,,no_annotation,K,,1776.0,no_annotation,no_annotation
+1082,1082,1082,GerDracor/goethe-die-mitschuldigen.xml,im Fond.,0,8,stage_direction,1,15,speech_part,,#sophie,395.0,FEMALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1083,1083,1083,GerDracor/goethe-die-mitschuldigen.xml,"
+            Mein harter Vater bleibt
+            Bei dem verhaßten Ton.",0,72,character_speech,1,15,,SOPHIE,#sophie,395.0,FEMALE,abhorrence,K,,1776.0,negative,emotions of rejection
+1084,1084,1084,GerDracor/goethe-die-mitschuldigen.xml,im Fond.,0,8,stage_direction,1,15,speech_part,,#der_wirt,396.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1085,1085,1085,GerDracor/goethe-die-mitschuldigen.xml,Das Mädchen will nicht weichen.,0,31,character_speech,1,15,,DER WIRT,#der_wirt,396.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1086,1086,1086,GerDracor/goethe-die-mitschuldigen.xml,Da ist Alcest!,0,14,character_speech,1,15,,SOPHIE.,#sophie,397.0,FEMALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1087,1087,1087,GerDracor/goethe-die-mitschuldigen.xml,erblickt Alcesten.,0,18,stage_direction,1,15,speech_part,,#der_wirt,398.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1088,1088,1088,GerDracor/goethe-die-mitschuldigen.xml,Aha!,0,4,character_speech,1,15,,DER WIRT,#der_wirt,398.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1089,1089,1089,GerDracor/goethe-die-mitschuldigen.xml,"Es muß, es muß sich zeigen.",0,27,character_speech,1,15,,SOPHIE.,#sophie,399.0,FEMALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1090,1090,1090,GerDracor/goethe-die-mitschuldigen.xml,zum Alcest.,0,11,stage_direction,1,15,speech_part,,#der_wirt,400.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1091,1091,1091,GerDracor/goethe-die-mitschuldigen.xml,Mein Herr!,0,10,character_speech,1,15,,DER WIRT,#der_wirt,400.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1092,1092,1092,GerDracor/goethe-die-mitschuldigen.xml,Sie ist der Dieb.,11,28,character_speech,1,15,,DER WIRT,#der_wirt,400.0,MALE,abhorrence,K,,1776.0,negative,emotions of rejection
+1093,1093,1093,GerDracor/goethe-die-mitschuldigen.xml,auf der andern Seite.,0,21,stage_direction,1,15,speech_part,,#sophie,401.0,FEMALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1094,1094,1094,GerDracor/goethe-die-mitschuldigen.xml,"Er ist der Dieb, mein Herr!",0,27,character_speech,1,15,,SOPHIE,#sophie,401.0,FEMALE,abhorrence,K,,1776.0,negative,emotions of rejection
+1095,1095,1095,GerDracor/goethe-die-mitschuldigen.xml,"sieht sie beide lachend an, dann sagt er, in dem Tone wie sie, auf Söllern
+            deutend.",0,95,stage_direction,1,15,speech_part,,#alcest,402.0,MALE,joy,K,,1776.0,positive,emotions of pleasure
+1096,1096,1096,GerDracor/goethe-die-mitschuldigen.xml,Der ist der Dieb.,0,17,character_speech,1,15,,ALCEST,#alcest,402.0,MALE,abhorrence,K,,1776.0,negative,emotions of rejection
+1097,1097,1097,GerDracor/goethe-die-mitschuldigen.xml,vor sich.,0,9,stage_direction,1,15,speech_part,,#soeller,403.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1098,1098,1098,GerDracor/goethe-die-mitschuldigen.xml,"Nun, Haut, nun halt dich feste.",0,31,character_speech,1,15,,SÖLLER,#soeller,403.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1099,1099,1099,GerDracor/goethe-die-mitschuldigen.xml,Er!,0,3,character_speech,1,15,,DER WIRT UND SOPHIE.,#der_wirt #sophie,404.0,UNKNOWN,being moved,K,,1776.0,being moved,being moved
+1100,1100,1100,GerDracor/goethe-die-mitschuldigen.xml,Sie haben's beide nicht.,0,24,character_speech,1,15,,ALCEST.,#alcest,405.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1101,1101,1101,GerDracor/goethe-die-mitschuldigen.xml,Er hat's.,25,34,character_speech,1,15,,ALCEST.,#alcest,405.0,MALE,joy,K,,1776.0,positive,emotions of pleasure
+1102,1102,1102,GerDracor/goethe-die-mitschuldigen.xml,"
+            Schlagt einen Nagel
+            Ihm durch den Kopf, aufs Rad!",0,74,character_speech,1,15,,DER WIRT.,#der_wirt,406.0,MALE,anger,K,,1776.0,negative,emotions of rejection
+1103,1103,1103,GerDracor/goethe-die-mitschuldigen.xml,Du!,0,3,character_speech,1,15,,SOPHIE.,#sophie,407.0,FEMALE,abhorrence,K,,1776.0,negative,emotions of rejection
+1104,1104,1104,GerDracor/goethe-die-mitschuldigen.xml,Uh!,0,3,character_speech,1,15,,SÖLLER.,#soeller,408.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1105,1105,1105,GerDracor/goethe-die-mitschuldigen.xml,ein neuer Hagel!,4,20,character_speech,1,15,,SÖLLER.,#soeller,408.0,MALE,suffering,K,,1776.0,negative,emotions of suffering and empathy
+1106,1106,1106,GerDracor/goethe-die-mitschuldigen.xml,Ich möchte dich –,0,17,character_speech,1,15,,DER WIRT.,#der_wirt,409.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1107,1107,1107,GerDracor/goethe-die-mitschuldigen.xml,"
+            Mein Herr!",0,23,character_speech,1,15,,ALCEST.,#alcest,410.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1108,1108,1108,GerDracor/goethe-die-mitschuldigen.xml,Ich bitte nur Geduld!,24,45,character_speech,1,15,,ALCEST.,#alcest,410.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1109,1109,1109,GerDracor/goethe-die-mitschuldigen.xml,"All wart ihr im Verdacht, und ihr habt alle schuld.",58,109,character_speech,1,15,,ALCEST.,#alcest,410.0,MALE,anger,K,,1776.0,negative,emotions of rejection
+1110,1110,1110,GerDracor/goethe-die-mitschuldigen.xml,"Sophie besuchte mich, der Schritt war wohl verwegen,
+            Doch ihre Tugend darf's.",122,211,character_speech,1,15,,ALCEST.,#alcest,410.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1111,1111,1111,GerDracor/goethe-die-mitschuldigen.xml,Zu Söllern.,0,11,stage_direction,1,15,speech_part,,#alcest,410.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1112,1112,1112,GerDracor/goethe-die-mitschuldigen.xml,"
+            Sie waren ja zugegen.",0,34,character_speech,1,15,,ALCEST.,#alcest,410.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1113,1113,1113,GerDracor/goethe-die-mitschuldigen.xml,Es war uns unbewußt.,47,67,character_speech,1,15,,ALCEST.,#alcest,410.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1114,1114,1114,GerDracor/goethe-die-mitschuldigen.xml,Still war's und Mitternacht.,68,96,character_speech,1,15,,ALCEST.,#alcest,410.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1115,1115,1115,GerDracor/goethe-die-mitschuldigen.xml,Die Tugend!,109,120,character_speech,1,15,,ALCEST.,#alcest,410.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1116,1116,1116,GerDracor/goethe-die-mitschuldigen.xml,"Ja, sie hat mir ziemlich warm gemacht.",0,38,character_speech,1,15,,SÖLLER.,#soeller,411.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1117,1117,1117,GerDracor/goethe-die-mitschuldigen.xml,zum Wirt.,0,9,stage_direction,1,15,speech_part,,#alcest,412.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1118,1118,1118,GerDracor/goethe-die-mitschuldigen.xml,Und Sie?,0,8,character_speech,1,15,,ALCEST,#alcest,412.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1119,1119,1119,GerDracor/goethe-die-mitschuldigen.xml,"
+            Ja, Herr Alcest, und ich war auch gekommen!",0,56,character_speech,1,15,,DER WIRT.,#der_wirt,413.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1120,1120,1120,GerDracor/goethe-die-mitschuldigen.xml,Und der verwünschte Brief!,69,95,character_speech,1,15,,DER WIRT.,#der_wirt,413.0,MALE,being moved,K,,1776.0,being moved,being moved
+1121,1121,1121,GerDracor/goethe-die-mitschuldigen.xml,Ich war so eingenommen.,96,119,character_speech,1,15,,DER WIRT.,#der_wirt,413.0,MALE,being moved,K,,1776.0,being moved,being moved
+1122,1122,1122,GerDracor/goethe-die-mitschuldigen.xml,"Ich dacht, es schrieb ein Prinz, ein polnischer Magnat.",132,187,character_speech,1,15,,DER WIRT.,#der_wirt,413.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1123,1123,1123,GerDracor/goethe-die-mitschuldigen.xml,Und aus dem Prinzen ward ein Pachter Kandidat.,200,246,character_speech,1,15,,DER WIRT.,#der_wirt,413.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1124,1124,1124,GerDracor/goethe-die-mitschuldigen.xml,"
+            Verzeihen Sie den Scherz.",0,38,character_speech,1,15,,ALCEST.,#alcest,414.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1125,1125,1125,GerDracor/goethe-die-mitschuldigen.xml,"Und Sie, Sophie, vergeben
+            Mir auch!",39,86,character_speech,1,15,,ALCEST.,#alcest,414.0,MALE,suffering,K,,1776.0,negative,emotions of suffering and empathy
+1126,1126,1126,GerDracor/goethe-die-mitschuldigen.xml,Wie gern.,0,9,character_speech,1,15,,SOPHIE.,#sophie,415.0,FEMALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1127,1127,1127,GerDracor/goethe-die-mitschuldigen.xml,"
+            Ich zweifl' in meinem Leben
+            An Ihrer Tugend nie.",0,73,character_speech,1,15,,ALCEST.,#alcest,416.0,MALE,"admiration, reverence",K,,1776.0,positive,emotions of affection
+1128,1128,1128,GerDracor/goethe-die-mitschuldigen.xml,"Verzeihn Sie jenen Schritt,
+            So groß wie tugendhaft.",74,137,character_speech,1,15,,ALCEST.,#alcest,416.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1129,1129,1129,GerDracor/goethe-die-mitschuldigen.xml,Fast glaub ich's selbsten mit.,0,30,character_speech,1,15,,SÖLLER.,#soeller,417.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1130,1130,1130,GerDracor/goethe-die-mitschuldigen.xml,Und Sie verzeihen doch auch unserm Söller!,0,42,character_speech,1,15,,ALCEST.,#alcest,418.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1131,1131,1131,GerDracor/goethe-die-mitschuldigen.xml,Gerne.,0,6,character_speech,1,15,,SOPHIE.,#sophie,419.0,FEMALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1132,1132,1132,GerDracor/goethe-die-mitschuldigen.xml,Sie gibt ihm die Hand.,0,22,stage_direction,1,15,speech_part,,#sophie,419.0,FEMALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1133,1133,1133,GerDracor/goethe-die-mitschuldigen.xml,Da!,0,3,character_speech,1,15,,SOPHIE.,#sophie,419.0,FEMALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1134,1134,1134,GerDracor/goethe-die-mitschuldigen.xml,zum Wirt.,0,9,stage_direction,1,15,speech_part,,#alcest,420.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1135,1135,1135,GerDracor/goethe-die-mitschuldigen.xml,Allons.,0,7,character_speech,1,15,,ALCEST,#alcest,420.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1136,1136,1136,GerDracor/goethe-die-mitschuldigen.xml,gibt ihm die Hand.,0,18,stage_direction,1,15,speech_part,,#der_wirt,421.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1137,1137,1137,GerDracor/goethe-die-mitschuldigen.xml,Stiehl nicht mehr.,0,18,character_speech,1,15,,DER WIRT,#der_wirt,421.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1138,1138,1138,GerDracor/goethe-die-mitschuldigen.xml,Die Länge bringt die Ferne.,0,27,character_speech,1,15,,SÖLLER.,#soeller,422.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1139,1139,1139,GerDracor/goethe-die-mitschuldigen.xml,"Herr Wirt, nimm Er das Geld und teilt es.",0,41,character_speech,1,15,,ALCEST.,#alcest,423.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1140,1140,1140,GerDracor/goethe-die-mitschuldigen.xml,Wie!,0,4,character_speech,1,15,,DER WIRT.,#der_wirt,424.0,MALE,being moved,K,,1776.0,being moved,being moved
+1141,1141,1141,GerDracor/goethe-die-mitschuldigen.xml,"
+            Ihr drei!",0,22,character_speech,1,15,,ALCEST.,#alcest,425.0,MALE,joy,K,,1776.0,positive,emotions of pleasure
+1142,1142,1142,GerDracor/goethe-die-mitschuldigen.xml,"Herr Söller, hoff ich, wird hübsch höflich, still und treu.",35,94,character_speech,1,15,,ALCEST.,#alcest,425.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1143,1143,1143,GerDracor/goethe-die-mitschuldigen.xml,"Doch untersteht Er sich, noch einmal anzufangen,
+            So –",107,172,character_speech,1,15,,ALCEST.,#alcest,425.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1144,1144,1144,GerDracor/goethe-die-mitschuldigen.xml,Er zeigt ihm das Hängen.,0,24,stage_direction,1,15,speech_part,,#alcest,425.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation
+1145,1145,1145,GerDracor/goethe-die-mitschuldigen.xml,"Nein, das wär zuviel, ein Hahnrei und gehangen.",0,47,character_speech,1,15,,SÖLLER.,#soeller,426.0,MALE,no_annotation,K,,1776.0,no_annotation,no_annotation

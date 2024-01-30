@@ -1,0 +1,181 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+1550,1550,1550,GerDracor/ayrenhoff-der-postzug.xml,Die Vorigen.,0,12,stage_direction,2,14,pre_speech,,,,,no_annotation,K,,1769.0,no_annotation,no_annotation
+1551,1551,1551,GerDracor/ayrenhoff-der-postzug.xml,Der Baron.,13,23,stage_direction,2,14,pre_speech,,,,,no_annotation,K,,1769.0,no_annotation,no_annotation
+1552,1552,1552,GerDracor/ayrenhoff-der-postzug.xml,Die Baroninn.,24,37,stage_direction,2,14,pre_speech,,,,,no_annotation,K,,1769.0,no_annotation,no_annotation
+1553,1553,1553,GerDracor/ayrenhoff-der-postzug.xml,Das Fräulein.,38,51,stage_direction,2,14,pre_speech,,,,,no_annotation,K,,1769.0,no_annotation,no_annotation
+1554,1554,1554,GerDracor/ayrenhoff-der-postzug.xml,Blumenkranz.,52,64,stage_direction,2,14,pre_speech,,,,,no_annotation,K,,1769.0,no_annotation,no_annotation
+1555,1555,1555,GerDracor/ayrenhoff-der-postzug.xml,Der Hauptmann.,65,79,stage_direction,2,14,pre_speech,,,,,no_annotation,K,,1769.0,no_annotation,no_annotation
+1556,1556,1556,GerDracor/ayrenhoff-der-postzug.xml,Lisette.,92,100,stage_direction,2,14,pre_speech,,,,,no_annotation,K,,1769.0,no_annotation,no_annotation
+1557,1557,1557,GerDracor/ayrenhoff-der-postzug.xml,Was der Geyer!,0,14,character_speech,2,14,,BARON.,#baron,679.0,MALE,abhorrence,K,,1769.0,negative,emotions of rejection
+1558,1558,1558,GerDracor/ayrenhoff-der-postzug.xml,"ist es wahr Reitbahn, daß du meine Tochter verhandelt hast?",15,74,character_speech,2,14,,BARON.,#baron,679.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1559,1559,1559,GerDracor/ayrenhoff-der-postzug.xml,Es ist alles richtig; die Schäcken sind mein.,0,45,character_speech,2,14,,REITBAHN.,#reitbahn,680.0,MALE,joy,K,,1769.0,positive,emotions of pleasure
+1560,1560,1560,GerDracor/ayrenhoff-der-postzug.xml,Cela est bien drôle Madame.,0,27,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,681.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1561,1561,1561,GerDracor/ayrenhoff-der-postzug.xml,"Bien drôle, sagen Sie?",0,22,character_speech,2,14,,BARONINN.,#die_baroninn,682.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1562,1562,1562,GerDracor/ayrenhoff-der-postzug.xml,"– Und wie haben Sie sich unterstehen können, mir
+              einen solchen Affront anzuthun?",23,117,character_speech,2,14,,BARONINN.,#die_baroninn,682.0,FEMALE,anger,K,,1769.0,negative,emotions of rejection
+1563,1563,1563,GerDracor/ayrenhoff-der-postzug.xml,sagen Sie Herr Major!,118,139,character_speech,2,14,,BARONINN.,#die_baroninn,682.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1564,1564,1564,GerDracor/ayrenhoff-der-postzug.xml,"Dem Grafen Reitbahn waren meine Schäcken lieber als seine Braut; und ich hätte nicht
+              nur meine Schäcken, ich hätte mein Blut für das Fräulein gegeben.",0,164,character_speech,2,14,,MAJOR.,#major,683.0,MALE,love,K,,1769.0,positive,emotions of affection
+1565,1565,1565,GerDracor/ayrenhoff-der-postzug.xml,Mein Schatz!,0,12,character_speech,2,14,,BARON.,#baron,684.0,MALE,joy,K,,1769.0,positive,emotions of pleasure
+1566,1566,1566,GerDracor/ayrenhoff-der-postzug.xml,"Nicht der Major, der närrische Reitbahn hat uns beleidigt.",13,71,character_speech,2,14,,BARON.,#baron,684.0,MALE,abhorrence,K,,1769.0,negative,emotions of rejection
+1567,1567,1567,GerDracor/ayrenhoff-der-postzug.xml,Auch ist das Fräulein noch nicht mein: der Graf steht nur von seinen Ansprüchen ab.,0,83,character_speech,2,14,,MAJOR.,#major,685.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1568,1568,1568,GerDracor/ayrenhoff-der-postzug.xml,Mein Glück hängt nun bloß von Dero Gnade und dem Willen ihrer Fräulein Tochter ab.,98,180,character_speech,2,14,,MAJOR.,#major,685.0,MALE,love,K,,1769.0,positive,emotions of affection
+1569,1569,1569,GerDracor/ayrenhoff-der-postzug.xml,"Ja, das ist noch das Beste.",0,27,character_speech,2,14,,BARONINN.,#die_baroninn,686.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1570,1570,1570,GerDracor/ayrenhoff-der-postzug.xml,Erschrecklicher Affront!,28,52,character_speech,2,14,,BARONINN.,#die_baroninn,686.0,FEMALE,being moved,K,,1769.0,being moved,being moved
+1571,1571,1571,GerDracor/ayrenhoff-der-postzug.xml,Graf Reitbahn!,53,67,character_speech,2,14,,BARONINN.,#die_baroninn,686.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1572,1572,1572,GerDracor/ayrenhoff-der-postzug.xml,"schmeicheln Sie
+              sich nicht, daß ihr abscheulicher Handel Statt finden wird.",68,157,character_speech,2,14,,BARONINN.,#die_baroninn,686.0,FEMALE,abhorrence,K,,1769.0,negative,emotions of rejection
+1573,1573,1573,GerDracor/ayrenhoff-der-postzug.xml,"Ich werde Sie verklagen,
+              bey Hofe werd' ich Sie verklagen; und ich will nicht leben, oder eine hinlängliche
+              Genugthuung erhalten.",158,315,character_speech,2,14,,BARONINN.,#die_baroninn,686.0,FEMALE,suffering,K,,1769.0,negative,emotions of suffering and empathy
+1574,1574,1574,GerDracor/ayrenhoff-der-postzug.xml,"Der Handel kann nicht mehr zurückgehen, das ist vergebens.",0,58,character_speech,2,14,,REITBAHN.,#reitbahn,687.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1575,1575,1575,GerDracor/ayrenhoff-der-postzug.xml,"Verklagen können Sie mich,
+              wo Sie wollen.",59,114,character_speech,2,14,,REITBAHN.,#reitbahn,687.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1576,1576,1576,GerDracor/ayrenhoff-der-postzug.xml,Die Schäcken sind mein.,115,138,character_speech,2,14,,REITBAHN.,#reitbahn,687.0,MALE,joy,K,,1769.0,positive,emotions of pleasure
+1577,1577,1577,GerDracor/ayrenhoff-der-postzug.xml,Madame!,0,7,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,688.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1578,1578,1578,GerDracor/ayrenhoff-der-postzug.xml,"ich dächte, Sie sollten nicht viel aus der Affaire machen.",8,66,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,688.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1579,1579,1579,GerDracor/ayrenhoff-der-postzug.xml,"Geschehen ist sie
+              – und bey Hofe werden Sie nicht viel ausrichten; zumal, wenn ich mich meines Cousins
+              annehme.",67,206,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,688.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1580,1580,1580,GerDracor/ayrenhoff-der-postzug.xml,So?,0,3,character_speech,2,14,,BARONINN.,#die_baroninn,689.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1581,1581,1581,GerDracor/ayrenhoff-der-postzug.xml,"– Sie hätten also das Herz, eine so schändliche That zu billigen?",4,69,character_speech,2,14,,BARONINN.,#die_baroninn,689.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1582,1582,1582,GerDracor/ayrenhoff-der-postzug.xml,Was ist daraus zu machen?,0,25,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,690.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1583,1583,1583,GerDracor/ayrenhoff-der-postzug.xml,Bagatelle!,26,36,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,690.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1584,1584,1584,GerDracor/ayrenhoff-der-postzug.xml,"eine Braut ist noch lange keine Gemahlinn: und
+              wie Mancher gäbe seine Gemahlinn für einen schönen Postzug hin!",37,161,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,690.0,MALE,joy,K,,1769.0,positive,emotions of pleasure
+1585,1585,1585,GerDracor/ayrenhoff-der-postzug.xml,Blumenkranz!,0,12,character_speech,2,14,,BARON.,#baron,691.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1586,1586,1586,GerDracor/ayrenhoff-der-postzug.xml,"du bist ein gescheider Kerl, aber hier hast du dich verstolvert.",13,77,character_speech,2,14,,BARON.,#baron,691.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1587,1587,1587,GerDracor/ayrenhoff-der-postzug.xml,"Sein
+              Weib gibt man viel leichter weg, als seine Braut – ob ich gleich das meinige um nichts
+              in der Welt verhandelte.",78,222,character_speech,2,14,,BARON.,#baron,691.0,MALE,love,K,,1769.0,positive,emotions of affection
+1588,1588,1588,GerDracor/ayrenhoff-der-postzug.xml,Même chose mon frere.,0,21,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,692.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1589,1589,1589,GerDracor/ayrenhoff-der-postzug.xml,Ach mein Schatz!,0,16,character_speech,2,14,,BARONINN.,#die_baroninn,693.0,FEMALE,joy,K,,1769.0,positive,emotions of pleasure
+1590,1590,1590,GerDracor/ayrenhoff-der-postzug.xml,ich bin vor Schaam und Zorn außer mir.,17,55,character_speech,2,14,,BARONINN.,#die_baroninn,693.0,FEMALE,anger,K,,1769.0,negative,emotions of rejection
+1591,1591,1591,GerDracor/ayrenhoff-der-postzug.xml,Mein Schatz!,0,12,character_speech,2,14,,BARON.,#baron,694.0,MALE,joy,K,,1769.0,positive,emotions of pleasure
+1592,1592,1592,GerDracor/ayrenhoff-der-postzug.xml,halte dich nicht lange auf!,13,40,character_speech,2,14,,BARON.,#baron,694.0,MALE,anger,K,,1769.0,negative,emotions of rejection
+1593,1593,1593,GerDracor/ayrenhoff-der-postzug.xml,gib dem Major das Mädchen!,41,67,character_speech,2,14,,BARON.,#baron,694.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1594,1594,1594,GerDracor/ayrenhoff-der-postzug.xml,Dem Major?,0,10,character_speech,2,14,,BARONINN.,#die_baroninn,695.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1595,1595,1595,GerDracor/ayrenhoff-der-postzug.xml,wie sprichst du?,11,27,character_speech,2,14,,BARONINN.,#die_baroninn,695.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1596,1596,1596,GerDracor/ayrenhoff-der-postzug.xml,hat er die erforderlichen Eigenschaften?,28,68,character_speech,2,14,,BARONINN.,#die_baroninn,695.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1597,1597,1597,GerDracor/ayrenhoff-der-postzug.xml,"– Verzeihen Sie
+              mir Herr Major!",69,114,character_speech,2,14,,BARONINN.,#die_baroninn,695.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1598,1598,1598,GerDracor/ayrenhoff-der-postzug.xml,man muß weiter denken.,115,137,character_speech,2,14,,BARONINN.,#die_baroninn,695.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1599,1599,1599,GerDracor/ayrenhoff-der-postzug.xml,"Ich weiß wohl, was du Eigenschaften nennest.",0,44,character_speech,2,14,,BARON.,#baron,696.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1600,1600,1600,GerDracor/ayrenhoff-der-postzug.xml,"Narrheit, mein Schatz!",45,67,character_speech,2,14,,BARON.,#baron,696.0,MALE,anger,K,,1769.0,negative,emotions of rejection
+1601,1601,1601,GerDracor/ayrenhoff-der-postzug.xml,"Geld und Geburt –
+              das sind die Eigenschaften.",68,127,character_speech,2,14,,BARON.,#baron,696.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1602,1602,1602,GerDracor/ayrenhoff-der-postzug.xml,"Wenn auch: ich gebe dem Major, was ich dem Reitbahn
+              gegeben hätte; so wird er gut leben.",128,230,character_speech,2,14,,BARON.,#baron,696.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1603,1603,1603,GerDracor/ayrenhoff-der-postzug.xml,"Und die Geburt – sein Vater war Oberster – von
+              Fortune, aber ein braver Kerl, der dem Staate besser gedient hat, als alle Reitbahne.",231,377,character_speech,2,14,,BARON.,#baron,696.0,MALE,"admiration, reverence",K,,1769.0,positive,emotions of affection
+1604,1604,1604,GerDracor/ayrenhoff-der-postzug.xml,"Nach meinem Urtheil ist der Major hundertmal mehr werth, als der stiftmäßige  Hasenfuß; und meine Tochter wird glücklicher mit ihm leben.",392,529,character_speech,2,14,,BARON.,#baron,696.0,MALE,love,K,,1769.0,positive,emotions of affection
+1605,1605,1605,GerDracor/ayrenhoff-der-postzug.xml,"Was sagst Du
+              dazu Lenorl?",530,569,character_speech,2,14,,BARON.,#baron,696.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1606,1606,1606,GerDracor/ayrenhoff-der-postzug.xml,Ach Papa!,0,9,character_speech,2,14,,LEONORE.,#leonore,697.0,FEMALE,being moved,K,,1769.0,being moved,being moved
+1607,1607,1607,GerDracor/ayrenhoff-der-postzug.xml,Gnädige Frau!,0,13,character_speech,2,14,,MAJOR.,#major,698.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1608,1608,1608,GerDracor/ayrenhoff-der-postzug.xml,sehen Sie mich zu ihren Füßen!,14,44,character_speech,2,14,,MAJOR.,#major,698.0,MALE,love,K,,1769.0,positive,emotions of affection
+1609,1609,1609,GerDracor/ayrenhoff-der-postzug.xml,Seyn Sie nicht unerbittlich!,45,73,character_speech,2,14,,MAJOR.,#major,698.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1610,1610,1610,GerDracor/ayrenhoff-der-postzug.xml,"ich
+              beschwöre Sie, widersetzen Sie sich nicht dem Glück eines Mannes, der ihre Tochter so
+              zärtlich liebt.",74,207,character_speech,2,14,,MAJOR.,#major,698.0,MALE,love,K,,1769.0,positive,emotions of affection
+1611,1611,1611,GerDracor/ayrenhoff-der-postzug.xml,"Was mir an Glücksgütern fehlt, das werd ich zeitlebens durch meine
+              zärtliche Liebe, durch meine Rechtschaffenheit zu ersetzen trachten.",208,357,character_speech,2,14,,MAJOR.,#major,698.0,MALE,love,K,,1769.0,positive,emotions of affection
+1612,1612,1612,GerDracor/ayrenhoff-der-postzug.xml,die ihr auf einen Wink des Barons ebenfalls zu Füßen fällt.,0,59,stage_direction,2,14,speech_part,,#leonore,699.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1613,1613,1613,GerDracor/ayrenhoff-der-postzug.xml,Gnädigste Mama!,0,15,character_speech,2,14,,LEONORE,#leonore,699.0,FEMALE,"admiration, reverence",K,,1769.0,positive,emotions of affection
+1614,1614,1614,GerDracor/ayrenhoff-der-postzug.xml,"erlauben Sie, daß ich meine Bitte mit der Bitte des Herrn Majors
+              vereinige.",16,105,character_speech,2,14,,LEONORE,#leonore,699.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1615,1615,1615,GerDracor/ayrenhoff-der-postzug.xml,"Ich liebe ihn über alles in der Welt: ich werd' Ihnen das Glück meines
+              ganzen Lebens, wie das Leben selbst, zu verdanken haben.",106,247,character_speech,2,14,,LEONORE,#leonore,699.0,FEMALE,love,K,,1769.0,positive,emotions of affection
+1616,1616,1616,GerDracor/ayrenhoff-der-postzug.xml,"Laß dich nicht so lange bitten, mein Schatz!",0,44,character_speech,2,14,,BARON.,#baron,700.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1617,1617,1617,GerDracor/ayrenhoff-der-postzug.xml,– steh auf!,45,56,character_speech,2,14,,BARON.,#baron,700.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1618,1618,1618,GerDracor/ayrenhoff-der-postzug.xml,– ein Major knieen!,57,76,character_speech,2,14,,BARON.,#baron,700.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1619,1619,1619,GerDracor/ayrenhoff-der-postzug.xml,Ach gnädige Frau!,0,17,character_speech,2,14,,MAJOR.,#major,701.0,MALE,suffering,K,,1769.0,negative,emotions of suffering and empathy
+1620,1620,1620,GerDracor/ayrenhoff-der-postzug.xml,seyn Sie nicht so hart – ertheilen Sie ihre Einwilligung!,18,75,character_speech,2,14,,MAJOR.,#major,701.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1621,1621,1621,GerDracor/ayrenhoff-der-postzug.xml,"Ja ja, gnädige Frau!",0,20,character_speech,2,14,,HAUPTMANN.,#der_hauptmann,702.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1622,1622,1622,GerDracor/ayrenhoff-der-postzug.xml,Auch ich bitte Sie!,21,40,character_speech,2,14,,HAUPTMANN.,#der_hauptmann,702.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1623,1623,1623,GerDracor/ayrenhoff-der-postzug.xml,Wahrhaftig!,0,11,character_speech,2,14,,REITBAHN.,#reitbahn,703.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1624,1624,1624,GerDracor/ayrenhoff-der-postzug.xml,"unser ganzer Handel hat nicht mehr Zeit gekostet, als dieses Jawort.",12,80,character_speech,2,14,,REITBAHN.,#reitbahn,703.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1625,1625,1625,GerDracor/ayrenhoff-der-postzug.xml,Stehen Sie auf!,0,15,character_speech,2,14,,BARONINN.,#die_baroninn,704.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1626,1626,1626,GerDracor/ayrenhoff-der-postzug.xml,"– Ihnen zum Trotz, ungebärdiger Graf!",16,53,character_speech,2,14,,BARONINN.,#die_baroninn,704.0,FEMALE,abhorrence,K,,1769.0,negative,emotions of rejection
+1627,1627,1627,GerDracor/ayrenhoff-der-postzug.xml,"ertheile ich meine
+              Einwilligung.",54,100,character_speech,2,14,,BARONINN.,#die_baroninn,704.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1628,1628,1628,GerDracor/ayrenhoff-der-postzug.xml,"Die ganze Welt wird erkennen, daß Sie durch ihren niederträchtigen
+              Tausch, nicht meine Familie, sondern sich selbst beschimpfet haben.",101,249,character_speech,2,14,,BARONINN.,#die_baroninn,704.0,FEMALE,anger,K,,1769.0,negative,emotions of rejection
+1629,1629,1629,GerDracor/ayrenhoff-der-postzug.xml,"Gebt euch die
+              Hände!",250,284,character_speech,2,14,,BARONINN.,#die_baroninn,704.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1630,1630,1630,GerDracor/ayrenhoff-der-postzug.xml,liebt euch!,285,296,character_speech,2,14,,BARONINN.,#die_baroninn,704.0,FEMALE,love,K,,1769.0,positive,emotions of affection
+1631,1631,1631,GerDracor/ayrenhoff-der-postzug.xml,"Weil mein Gemahl in eure Verbindung willigt, so willige ich auch
+              darein.",297,383,character_speech,2,14,,BARONINN.,#die_baroninn,704.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1632,1632,1632,GerDracor/ayrenhoff-der-postzug.xml,Ach beste Schwiegermutter!,0,26,character_speech,2,14,,MAJOR.,#major,705.0,MALE,love,K,,1769.0,positive,emotions of affection
+1633,1633,1633,GerDracor/ayrenhoff-der-postzug.xml,Beste Mama.,0,11,character_speech,2,14,,LEONORE.,#leonore,706.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1634,1634,1634,GerDracor/ayrenhoff-der-postzug.xml,Sie küssen ihr die Hände.,0,25,stage_direction,2,14,inner_speech,,#leonore,706.0,FEMALE,"admiration, reverence",K,,1769.0,positive,emotions of affection
+1635,1635,1635,GerDracor/ayrenhoff-der-postzug.xml,"Und Sie, mein großmüthiger Schwiegervater – wodurch werde ich im Stande seyn, ihre
+              redliche Freundschaft zu vergelten.",0,132,character_speech,2,14,,MAJOR.,#major,707.0,MALE,friendship,K,,1769.0,positive,emotions of affection
+1636,1636,1636,GerDracor/ayrenhoff-der-postzug.xml,"Keine Umstände, lieber Schwiegersohn!",0,37,character_speech,2,14,,BARON.,#baron,708.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1637,1637,1637,GerDracor/ayrenhoff-der-postzug.xml,ich bin dein Schuldner.,38,61,character_speech,2,14,,BARON.,#baron,708.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1638,1638,1638,GerDracor/ayrenhoff-der-postzug.xml,"Du machtest mir keine
+              kleine Freude durch die ungarischen Windhunde: warum soll ich dir nicht wieder eine
+              Gefälligkeit erweisen?",62,218,character_speech,2,14,,BARON.,#baron,708.0,MALE,joy,K,,1769.0,positive,emotions of pleasure
+1639,1639,1639,GerDracor/ayrenhoff-der-postzug.xml,– Herr Notarius!,219,235,character_speech,2,14,,BARON.,#baron,708.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1640,1640,1640,GerDracor/ayrenhoff-der-postzug.xml,Morgen wird die Hochzeit seyn.,236,266,character_speech,2,14,,BARON.,#baron,708.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1641,1641,1641,GerDracor/ayrenhoff-der-postzug.xml,"Mache der Herr
+              gleich den Aufsatz vom Heyrathsbriefe.",267,334,character_speech,2,14,,BARON.,#baron,708.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1642,1642,1642,GerDracor/ayrenhoff-der-postzug.xml,"Ich gebe dem Major jährlich 4000 Gulden Zulage,
+              und wenn ich sterbe, meine Herrschaft.",335,435,character_speech,2,14,,BARON.,#baron,708.0,MALE,"admiration, reverence",K,,1769.0,positive,emotions of affection
+1643,1643,1643,GerDracor/ayrenhoff-der-postzug.xml,Und wie widerlegen dieses der Herr Major?,0,41,character_speech,2,14,,NOTARIUS.,#notarius,709.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1644,1644,1644,GerDracor/ayrenhoff-der-postzug.xml,"Mit Allem, was ich besitze, und jemals zu besitzen Hoffnung habe.",0,65,character_speech,2,14,,MAJOR.,#major,710.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1645,1645,1645,GerDracor/ayrenhoff-der-postzug.xml,Gut!,0,4,character_speech,2,14,,BARON.,#baron,711.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1646,1646,1646,GerDracor/ayrenhoff-der-postzug.xml,aber die Windhunde gehören nicht mehr zu seinem Vermögen.,5,62,character_speech,2,14,,BARON.,#baron,711.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1647,1647,1647,GerDracor/ayrenhoff-der-postzug.xml,Der fünfte Schäck auch nicht.,0,29,character_speech,2,14,,REITBAHN.,#reitbahn,712.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1648,1648,1648,GerDracor/ayrenhoff-der-postzug.xml,Nein!,0,5,character_speech,2,14,,MAJOR.,#major,713.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1649,1649,1649,GerDracor/ayrenhoff-der-postzug.xml,den werd' ich Ihnen morgen in die Stadt schicken.,6,55,character_speech,2,14,,MAJOR.,#major,713.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1650,1650,1650,GerDracor/ayrenhoff-der-postzug.xml,"Geht
+              ab.",0,22,stage_direction,2,14,inner_speech,,#notarius,714.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1651,1651,1651,GerDracor/ayrenhoff-der-postzug.xml,"Nun Madame – die Sache war nicht so schwer, wie Sie glaubten.",0,61,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,715.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1652,1652,1652,GerDracor/ayrenhoff-der-postzug.xml,Ma foi!,62,69,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,715.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1653,1653,1653,GerDracor/ayrenhoff-der-postzug.xml,mir ist diese Affaire lieber als 100 Louisd'or.,84,131,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,715.0,MALE,joy,K,,1769.0,positive,emotions of pleasure
+1654,1654,1654,GerDracor/ayrenhoff-der-postzug.xml,"Was für Gelächter werd' ich erwecken,
+              wenn ichs in der Stadt erzähle!",132,215,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,715.0,MALE,joy,K,,1769.0,positive,emotions of pleasure
+1655,1655,1655,GerDracor/ayrenhoff-der-postzug.xml,"Aber man muß sich gut aufs Erzählen verstehen, um
+              alles ridicule hineinzubringen, das hinein gehört.",216,330,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,715.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1656,1656,1656,GerDracor/ayrenhoff-der-postzug.xml,"Herr Graf, dafür sorgen Sie nicht: in Ihrem Munde wird jede Erzählung
+                ridicule.",0,95,character_speech,2,14,,MAJOR.,#major,716.0,MALE,abhorrence,K,,1769.0,negative,emotions of rejection
+1657,1657,1657,GerDracor/ayrenhoff-der-postzug.xml,"Ich bemerkte heute mehr, als einmal, daß Sie sich Mühe geben,
+              Leute lächerlich zu machen, die es weit weniger sind, als Sie selbst: Sie verstehen
+              mich schon – Es ging mich damals nicht an, sonst hätt' ich Ihnen längst den Kitzel
+              benommen.",96,376,character_speech,2,14,,MAJOR.,#major,716.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1658,1658,1658,GerDracor/ayrenhoff-der-postzug.xml,"Künftig rathe ich Ihnen, in diesem Hause nichts mehr lächerlich zu
+              finden.",377,465,character_speech,2,14,,MAJOR.,#major,716.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1659,1659,1659,GerDracor/ayrenhoff-der-postzug.xml,Oui oui Monsieur le Major!,0,26,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,717.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1660,1660,1660,GerDracor/ayrenhoff-der-postzug.xml,"Ich werde diesem Hause und Ihnen nicht mehr
+              zur Last seyn.",27,99,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,717.0,MALE,suffering,K,,1769.0,negative,emotions of suffering and empathy
+1661,1661,1661,GerDracor/ayrenhoff-der-postzug.xml,Ha!,100,103,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,717.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1662,1662,1662,GerDracor/ayrenhoff-der-postzug.xml,ha!,104,107,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,717.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1663,1663,1663,GerDracor/ayrenhoff-der-postzug.xml,ha!,108,111,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,717.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1664,1664,1664,GerDracor/ayrenhoff-der-postzug.xml,Sie werden besser thun.,0,23,character_speech,2,14,,MAJOR.,#major,718.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1665,1665,1665,GerDracor/ayrenhoff-der-postzug.xml,"Was machen Sie, Herr Schwiegersohn?",0,35,character_speech,2,14,,BARONINN.,#die_baroninn,719.0,FEMALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1666,1666,1666,GerDracor/ayrenhoff-der-postzug.xml,"Ich nehme mich Ihrer an: es ist besser, wenn Sie nicht mehr davon wissen.",0,73,character_speech,2,14,,MAJOR.,#major,720.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1667,1667,1667,GerDracor/ayrenhoff-der-postzug.xml,für sich.,0,9,stage_direction,2,14,speech_part,,#blumenkranz,721.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1668,1668,1668,GerDracor/ayrenhoff-der-postzug.xml,Quelle grossierté!,0,18,character_speech,2,14,,BLUMENKRANZ,#blumenkranz,721.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1669,1669,1669,GerDracor/ayrenhoff-der-postzug.xml,– Allons mon Cousin!,19,39,character_speech,2,14,,BLUMENKRANZ,#blumenkranz,721.0,MALE,"admiration, reverence",K,,1769.0,positive,emotions of affection
+1670,1670,1670,GerDracor/ayrenhoff-der-postzug.xml,partons!,40,48,character_speech,2,14,,BLUMENKRANZ,#blumenkranz,721.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1671,1671,1671,GerDracor/ayrenhoff-der-postzug.xml,Ich bin schon bereit.,0,21,character_speech,2,14,,REITBAHN.,#reitbahn,722.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1672,1672,1672,GerDracor/ayrenhoff-der-postzug.xml,"Die Schäcken sind angespannt; und mit den Schimmeln kann mein
+              Kerl nachkommen.",22,114,character_speech,2,14,,REITBAHN.,#reitbahn,722.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1673,1673,1673,GerDracor/ayrenhoff-der-postzug.xml,"Im
+                Abgehen.",0,27,stage_direction,2,14,inner_speech,,#blumenkranz,723.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1674,1674,1674,GerDracor/ayrenhoff-der-postzug.xml, Diese,0,6,character_speech,2,14,,BLUMENKRANZ.,#blumenkranz,723.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1675,1675,1675,GerDracor/ayrenhoff-der-postzug.xml,Ich empfehle mich allerseits.,0,29,character_speech,2,14,,REITBAHN.,#reitbahn,724.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1676,1676,1676,GerDracor/ayrenhoff-der-postzug.xml,"Nehmen Sie mir nichts übel – Die Schäcken sind
+              mein.",30,96,character_speech,2,14,,REITBAHN.,#reitbahn,724.0,MALE,joy,K,,1769.0,positive,emotions of pleasure
+1677,1677,1677,GerDracor/ayrenhoff-der-postzug.xml,"Der andere Windbeutel geht fort, ohne sich zu beurlauben.",0,57,character_speech,2,14,,BARON.,#baron,725.0,MALE,abhorrence,K,,1769.0,negative,emotions of rejection
+1678,1678,1678,GerDracor/ayrenhoff-der-postzug.xml,"Ha mein Schatz, es ist so
+              recht gut geschehen.",58,118,character_speech,2,14,,BARON.,#baron,725.0,MALE,joy,K,,1769.0,positive,emotions of pleasure
+1679,1679,1679,GerDracor/ayrenhoff-der-postzug.xml,Morgen ist die Hochzeit.,119,143,character_speech,2,14,,BARON.,#baron,725.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1680,1680,1680,GerDracor/ayrenhoff-der-postzug.xml,"Unterrichte die Lenorl noch heut, was
+              sie dabey zu beobachten hat.",144,224,character_speech,2,14,,BARON.,#baron,725.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation
+1681,1681,1681,GerDracor/ayrenhoff-der-postzug.xml,"Lade mir alle Nachbarn dazu, Alle, nur den dummen
+              Lembrand nicht!",225,304,character_speech,2,14,,BARON.,#baron,725.0,MALE,anger,K,,1769.0,negative,emotions of rejection
+1682,1682,1682,GerDracor/ayrenhoff-der-postzug.xml,Er soll in seinem Leben keinen Bissen von meinem Wildpret essen!,305,369,character_speech,2,14,,BARON.,#baron,725.0,MALE,abhorrence,K,,1769.0,negative,emotions of rejection
+1683,1683,1683,GerDracor/ayrenhoff-der-postzug.xml,"– Und
+              Du Major, komm itzt mit mir auf den Anstand.",370,434,character_speech,2,14,,BARON.,#baron,725.0,MALE,no_annotation,K,,1769.0,no_annotation,no_annotation

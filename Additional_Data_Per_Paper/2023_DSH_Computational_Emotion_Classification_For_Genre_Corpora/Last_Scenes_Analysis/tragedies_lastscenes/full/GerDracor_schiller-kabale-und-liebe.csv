@@ -1,0 +1,113 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+3181,3181,3181,GerDracor/schiller-kabale-und-liebe.xml,Ferdinand.,0,10,stage_direction,5,8,pre_speech,,,,,no_annotation,T,,1784.0,no_annotation,no_annotation
+3182,3182,3182,GerDracor/schiller-kabale-und-liebe.xml,Der Präsident.,11,25,stage_direction,5,8,pre_speech,,,,,no_annotation,T,,1784.0,no_annotation,no_annotation
+3183,3183,3183,GerDracor/schiller-kabale-und-liebe.xml,"Wurm und Bediente, welche alle voll Schrecken ins Zimmer
+            stürzen; darauf Miller mit Volk und Gerichtsdienern, welche sich im Hintergrund
+            sammeln.",26,195,stage_direction,5,8,pre_speech,,,,,no_annotation,T,,1784.0,no_annotation,no_annotation
+3184,3184,3184,GerDracor/schiller-kabale-und-liebe.xml,den Brief in der Hand.,0,22,stage_direction,5,8,speech_part,,#praesident,905.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3185,3185,3185,GerDracor/schiller-kabale-und-liebe.xml,"Sohn, was ist das?",0,18,character_speech,5,8,,PRÄSIDENT,#praesident,905.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3186,3186,3186,GerDracor/schiller-kabale-und-liebe.xml,– Ich will doch nimmermehr glauben –,19,55,character_speech,5,8,,PRÄSIDENT,#praesident,905.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3187,3187,3187,GerDracor/schiller-kabale-und-liebe.xml,wirft ihm das Glas vor die Fuße.,0,32,stage_direction,5,8,speech_part,,#ferdinand,906.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3188,3188,3188,GerDracor/schiller-kabale-und-liebe.xml,"So sieh, Mörder!",0,16,character_speech,5,8,,FERDINAND,#ferdinand,906.0,MALE,abhorrence,T,,1784.0,negative,emotions of rejection
+3189,3189,3189,GerDracor/schiller-kabale-und-liebe.xml,taumelt hinter sich.,0,20,stage_direction,5,8,speech_part,,#praesident,907.0,MALE,fear,T,,1784.0,negative,emotions of anxiety
+3190,3190,3190,GerDracor/schiller-kabale-und-liebe.xml,Alle erstarren.,21,36,stage_direction,5,8,speech_part,,#praesident,907.0,MALE,being moved,T,,1784.0,being moved,being moved
+3191,3191,3191,GerDracor/schiller-kabale-und-liebe.xml,Eine schröckhafte Pause.,37,61,stage_direction,5,8,speech_part,,#praesident,907.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3192,3192,3192,GerDracor/schiller-kabale-und-liebe.xml,Mein Sohn!,0,10,character_speech,5,8,,PRÄSIDENT,#praesident,907.0,MALE,being moved,T,,1784.0,being moved,being moved
+3193,3193,3193,GerDracor/schiller-kabale-und-liebe.xml,Warum hast du mir das getan?,11,39,character_speech,5,8,,PRÄSIDENT,#praesident,907.0,MALE,being moved,T,,1784.0,being moved,being moved
+3194,3194,3194,GerDracor/schiller-kabale-und-liebe.xml,ohne ihn anzusehen.,0,19,stage_direction,5,8,speech_part,,#ferdinand,908.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3195,3195,3195,GerDracor/schiller-kabale-und-liebe.xml,O ja freilich!,0,14,character_speech,5,8,,FERDINAND,#ferdinand,908.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3196,3196,3196,GerDracor/schiller-kabale-und-liebe.xml,"Ich hätte den Staatsmann erst hören sollen, ob der Streich auch zu
+              seinen Karten passe?",15,116,character_speech,5,8,,FERDINAND,#ferdinand,908.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3197,3197,3197,GerDracor/schiller-kabale-und-liebe.xml,"– Fein und bewundernswert, ich gestehs, war die Finte, den Bund
+              unsrer Herzen zu zerreißen durch Eifersucht – Die Rechnung hatte ein Meister gemacht,
+              aber schade nur, daß die zürnende Liebe dem Draht nicht so gehorsam blieb wie deine
+              hölzerne Puppe.",117,408,character_speech,5,8,,FERDINAND,#ferdinand,908.0,MALE,abhorrence,T,,1784.0,negative,emotions of rejection
+3198,3198,3198,GerDracor/schiller-kabale-und-liebe.xml,sucht mit verdrehten Augen im ganzen Kreis herum.,0,49,stage_direction,5,8,speech_part,,#praesident,909.0,MALE,being moved,T,,1784.0,being moved,being moved
+3199,3199,3199,GerDracor/schiller-kabale-und-liebe.xml,"Ist hier niemand, der um einen trostlosen Vater weinte?",0,55,character_speech,5,8,,PRÄSIDENT,#praesident,909.0,MALE,suffering,T,,1784.0,negative,emotions of suffering and empathy
+3200,3200,3200,GerDracor/schiller-kabale-und-liebe.xml,hinter der Szene rufend.,0,24,stage_direction,5,8,speech_part,,#miller,910.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3201,3201,3201,GerDracor/schiller-kabale-und-liebe.xml,Laßt mich hinein!,0,17,character_speech,5,8,,MILLER,#miller,910.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3202,3202,3202,GerDracor/schiller-kabale-und-liebe.xml,Um Gottes willen!,18,35,character_speech,5,8,,MILLER,#miller,910.0,MALE,being moved,T,,1784.0,being moved,being moved
+3203,3203,3203,GerDracor/schiller-kabale-und-liebe.xml,Laßt mich!,36,46,character_speech,5,8,,MILLER,#miller,910.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3204,3204,3204,GerDracor/schiller-kabale-und-liebe.xml,Das Mädchen ist eine Heilige – für,0,34,character_speech,5,8,,FERDINAND.,#ferdinand,911.0,MALE,love,T,,1784.0,positive,emotions of affection
+3205,3205,3205,GerDracor/schiller-kabale-und-liebe.xml,"Er öffnet Millern die Türe, der mit Volk und Gerichtsdienern
+                hereinstürzt.",0,90,stage_direction,5,8,inner_speech,,#ferdinand,911.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3206,3206,3206,GerDracor/schiller-kabale-und-liebe.xml,in der fürchterlichsten Angst.,0,30,stage_direction,5,8,speech_part,,#miller,912.0,MALE,fear,T,,1784.0,negative,emotions of anxiety
+3207,3207,3207,GerDracor/schiller-kabale-und-liebe.xml,Mein Kind!,0,10,character_speech,5,8,,MILLER,#miller,912.0,MALE,being moved,T,,1784.0,being moved,being moved
+3208,3208,3208,GerDracor/schiller-kabale-und-liebe.xml,Mein Kind!,11,21,character_speech,5,8,,MILLER,#miller,912.0,MALE,being moved,T,,1784.0,being moved,being moved
+3209,3209,3209,GerDracor/schiller-kabale-und-liebe.xml,"– Gift – Gift, schreit man, sei hier genommen worden – Meine
+              Tochter!",22,105,character_speech,5,8,,MILLER,#miller,912.0,MALE,fear,T,,1784.0,negative,emotions of anxiety
+3210,3210,3210,GerDracor/schiller-kabale-und-liebe.xml,Wo bist du?,106,117,character_speech,5,8,,MILLER,#miller,912.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3211,3211,3211,GerDracor/schiller-kabale-und-liebe.xml,führt ihn zwischen den Präsidenten und Luisens Leiche.,0,54,stage_direction,5,8,speech_part,,#ferdinand,913.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3212,3212,3212,GerDracor/schiller-kabale-und-liebe.xml,Ich bin unschuldig – Danke diesem hier.,0,39,character_speech,5,8,,FERDINAND,#ferdinand,913.0,MALE,despair,T,,1784.0,negative,emotions of anxiety
+3213,3213,3213,GerDracor/schiller-kabale-und-liebe.xml,fällt an ihr zu Boden.,0,22,stage_direction,5,8,speech_part,,#miller,914.0,MALE,suffering,T,,1784.0,negative,emotions of suffering and empathy
+3214,3214,3214,GerDracor/schiller-kabale-und-liebe.xml,O Jesus!,0,8,character_speech,5,8,,MILLER,#miller,914.0,MALE,being moved,T,,1784.0,being moved,being moved
+3215,3215,3215,GerDracor/schiller-kabale-und-liebe.xml,"In wenig Worten, Vater – sie fangen an, mir kostbar zu werden – Ich bin bübisch um
+              mein Leben bestohlen, bestohlen durch",0,134,character_speech,5,8,,FERDINAND.,#ferdinand,915.0,MALE,suffering,T,,1784.0,negative,emotions of suffering and empathy
+3216,3216,3216,GerDracor/schiller-kabale-und-liebe.xml,"Mit
+                furchtbar erhobener Stimme.",0,47,stage_direction,5,8,inner_speech,,#ferdinand,915.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3217,3217,3217,GerDracor/schiller-kabale-und-liebe.xml," einen Mord, den",0,16,character_speech,5,8,,FERDINAND.,#ferdinand,915.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3218,3218,3218,GerDracor/schiller-kabale-und-liebe.xml,Ihn zu Luisen hinführend.,0,25,stage_direction,5,8,inner_speech,,#ferdinand,915.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3219,3219,3219,GerDracor/schiller-kabale-und-liebe.xml," Hier, Barbar!",0,14,character_speech,5,8,,FERDINAND.,#ferdinand,915.0,MALE,abhorrence,T,,1784.0,negative,emotions of rejection
+3220,3220,3220,GerDracor/schiller-kabale-und-liebe.xml,"Weide dich an
+              der entsetzlichen Frucht deines Witzes, auf dieses Gesicht ist mit Verzerrungen dein
+              Name geschrieben, und die Würgengel werden ihn lesen – Eine Gestalt wie diese ziehe
+              den Vorhang von deinem Bette, wenn du schläfst, und gebe dir ihre eiskalte Hand – Eine
+              Gestalt wie diese stehe vor deiner Seele, wenn du stirbst, und dränge dein letztes
+              Gebet weg.",15,448,character_speech,5,8,,FERDINAND.,#ferdinand,915.0,MALE,abhorrence,T,,1784.0,negative,emotions of rejection
+3221,3221,3221,GerDracor/schiller-kabale-und-liebe.xml,"– Eine Gestalt wie diese stehe auf deinem Grabe, wenn du auferstehst und –
+              neben Gott, wenn er dich richtet.",449,571,character_speech,5,8,,FERDINAND.,#ferdinand,915.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3222,3222,3222,GerDracor/schiller-kabale-und-liebe.xml,"Er wird ohnmächtig, Bediente halten
+                ihn.",0,56,stage_direction,5,8,inner_speech,,#ferdinand,915.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3223,3223,3223,GerDracor/schiller-kabale-und-liebe.xml,eine schreckliche Bewegung des Arms gegen den Himmel.,0,53,stage_direction,5,8,speech_part,,#praesident,916.0,MALE,suffering,T,,1784.0,negative,emotions of suffering and empathy
+3224,3224,3224,GerDracor/schiller-kabale-und-liebe.xml,"Von mir nicht, von mir nicht, Richter der Welt, fodre diese Seelen von",0,70,character_speech,5,8,,PRÄSIDENT,#praesident,916.0,MALE,abhorrence,T,,1784.0,negative,emotions of rejection
+3225,3225,3225,GerDracor/schiller-kabale-und-liebe.xml,Er geht auf Wurm zu.,0,20,stage_direction,5,8,inner_speech,,#praesident,916.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3226,3226,3226,GerDracor/schiller-kabale-und-liebe.xml,auffahrend.,0,11,stage_direction,5,8,speech_part,,#wurm,917.0,MALE,being moved,T,,1784.0,being moved,being moved
+3227,3227,3227,GerDracor/schiller-kabale-und-liebe.xml,Von mir?,0,8,character_speech,5,8,,WURM,#wurm,917.0,MALE,being moved,T,,1784.0,being moved,being moved
+3228,3228,3228,GerDracor/schiller-kabale-und-liebe.xml,"Verfluchter, von dir!",0,21,character_speech,5,8,,PRÄSIDENT.,#praesident,918.0,MALE,abhorrence,T,,1784.0,negative,emotions of rejection
+3229,3229,3229,GerDracor/schiller-kabale-und-liebe.xml,"Von dir, Satan!",22,37,character_speech,5,8,,PRÄSIDENT.,#praesident,918.0,MALE,abhorrence,T,,1784.0,negative,emotions of rejection
+3230,3230,3230,GerDracor/schiller-kabale-und-liebe.xml,"– Du, du gabst den Schlangenrat – Über
+                dich die Verantwortung – Ich wasche die Hände.",38,139,character_speech,5,8,,PRÄSIDENT.,#praesident,918.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3231,3231,3231,GerDracor/schiller-kabale-und-liebe.xml,Über mich?,0,10,character_speech,5,8,,WURM.,#wurm,919.0,MALE,being moved,T,,1784.0,being moved,being moved
+3232,3232,3232,GerDracor/schiller-kabale-und-liebe.xml,Er fängt gräßlich an zu lachen.,0,31,stage_direction,5,8,inner_speech,,#wurm,919.0,MALE,Schadenfreude,T,,1784.0,positive,emotions of pleasure
+3233,3233,3233,GerDracor/schiller-kabale-und-liebe.xml, Lustig!,0,8,character_speech,5,8,,WURM.,#wurm,919.0,MALE,joy,T,,1784.0,positive,emotions of pleasure
+3234,3234,3234,GerDracor/schiller-kabale-und-liebe.xml,Lustig!,9,16,character_speech,5,8,,WURM.,#wurm,919.0,MALE,joy,T,,1784.0,positive,emotions of pleasure
+3235,3235,3235,GerDracor/schiller-kabale-und-liebe.xml,So,17,19,character_speech,5,8,,WURM.,#wurm,919.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3236,3236,3236,GerDracor/schiller-kabale-und-liebe.xml," weiß ich doch nun auch, auf was Art sich die Teufel danken.",0,60,character_speech,5,8,,WURM.,#wurm,919.0,MALE,joy,T,,1784.0,positive,emotions of pleasure
+3237,3237,3237,GerDracor/schiller-kabale-und-liebe.xml,"– Über mich,
+              dummer Bösewicht?",61,105,character_speech,5,8,,WURM.,#wurm,919.0,MALE,anger,T,,1784.0,negative,emotions of rejection
+3238,3238,3238,GerDracor/schiller-kabale-und-liebe.xml,War es,106,112,character_speech,5,8,,WURM.,#wurm,919.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3239,3239,3239,GerDracor/schiller-kabale-und-liebe.xml,Will gehn.,0,10,stage_direction,5,8,inner_speech,,#wurm,919.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3240,3240,3240,GerDracor/schiller-kabale-und-liebe.xml,hält ihn.,0,9,stage_direction,5,8,speech_part,,#praesident,920.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3241,3241,3241,GerDracor/schiller-kabale-und-liebe.xml,"Du wirst doch nicht, Rasender?",0,30,character_speech,5,8,,PRÄSIDENT,#praesident,920.0,MALE,anger,T,,1784.0,negative,emotions of rejection
+3242,3242,3242,GerDracor/schiller-kabale-und-liebe.xml,klopft ihn auf die Schultern.,0,29,stage_direction,5,8,speech_part,,#wurm,921.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3243,3243,3243,GerDracor/schiller-kabale-und-liebe.xml,"Ich werde, Kamerad!",0,19,character_speech,5,8,,WURM,#wurm,921.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3244,3244,3244,GerDracor/schiller-kabale-und-liebe.xml,"Ich werde – Rasend bin ich, das ist wahr – das ist dein Werk – so
+              will ich auch jetzt handeln wie ein Rasender – Arm in Arm mit",20,161,character_speech,5,8,,WURM,#wurm,921.0,MALE,abhorrence,T,,1784.0,negative,emotions of rejection
+3245,3245,3245,GerDracor/schiller-kabale-und-liebe.xml,Er wird abgeführt.,0,18,stage_direction,5,8,inner_speech,,#wurm,921.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3246,3246,3246,GerDracor/schiller-kabale-und-liebe.xml,"der die ganze Zeit über, den Kopf in Luisens Schoß gesunken, in stummem Schmerze
+              gelegen hat, steht schnell auf und wirft dem Major die Börse vor die Füße.",0,169,stage_direction,5,8,speech_part,,#miller,922.0,MALE,suffering,T,,1784.0,negative,emotions of suffering and empathy
+3247,3247,3247,GerDracor/schiller-kabale-und-liebe.xml,Giftmischer!,0,12,character_speech,5,8,,MILLER,#miller,922.0,MALE,abhorrence,T,,1784.0,negative,emotions of rejection
+3248,3248,3248,GerDracor/schiller-kabale-und-liebe.xml,Behalt dein verfluchtes Gold!,13,42,character_speech,5,8,,MILLER,#miller,922.0,MALE,abhorrence,T,,1784.0,negative,emotions of rejection
+3249,3249,3249,GerDracor/schiller-kabale-und-liebe.xml,"– Wolltest du mir mein Kind damit
+              abkaufen?",43,100,character_speech,5,8,,MILLER,#miller,922.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3250,3250,3250,GerDracor/schiller-kabale-und-liebe.xml,Er stürzt aus dem Zimmer.,0,25,stage_direction,5,8,inner_speech,,#miller,922.0,MALE,fear,T,,1784.0,negative,emotions of anxiety
+3251,3251,3251,GerDracor/schiller-kabale-und-liebe.xml,mit brechender Stimme.,0,22,stage_direction,5,8,speech_part,,#ferdinand,923.0,MALE,suffering,T,,1784.0,negative,emotions of suffering and empathy
+3252,3252,3252,GerDracor/schiller-kabale-und-liebe.xml,Geht ihm nach!,0,14,character_speech,5,8,,FERDINAND,#ferdinand,923.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3253,3253,3253,GerDracor/schiller-kabale-und-liebe.xml,"Er verzweifelt – Das Geld hier soll man ihm retten – Es ist meine
+              fürchterliche Erkenntlichkeit.",15,125,character_speech,5,8,,FERDINAND,#ferdinand,923.0,MALE,despair,T,,1784.0,negative,emotions of anxiety
+3254,3254,3254,GerDracor/schiller-kabale-und-liebe.xml,"Luise – Luise – Ich komme – – Lebt wohl – – Laßt mich
+              an diesem Altar verscheiden –",126,223,character_speech,5,8,,FERDINAND,#ferdinand,923.0,MALE,being moved,T,,1784.0,being moved,being moved
+3255,3255,3255,GerDracor/schiller-kabale-und-liebe.xml,"aus einer dumpfen Betäubung, zu seinem Sohn.",0,44,stage_direction,5,8,speech_part,,#praesident,924.0,MALE,suffering,T,,1784.0,negative,emotions of suffering and empathy
+3256,3256,3256,GerDracor/schiller-kabale-und-liebe.xml,Sohn Ferdinand!,0,15,character_speech,5,8,,PRÄSIDENT,#praesident,924.0,MALE,being moved,T,,1784.0,being moved,being moved
+3257,3257,3257,GerDracor/schiller-kabale-und-liebe.xml,Soll kein Blick mehr auf einen zerschmetterten Vater fallen?,16,76,character_speech,5,8,,PRÄSIDENT,#praesident,924.0,MALE,suffering,T,,1784.0,negative,emotions of suffering and empathy
+3258,3258,3258,GerDracor/schiller-kabale-und-liebe.xml,Der Major wird neben Luisen niedergelassen.,0,43,stage_direction,5,8,inner_speech,,#praesident,924.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3259,3259,3259,GerDracor/schiller-kabale-und-liebe.xml,Gott dem Erbarmenden gehört dieser letzte.,0,42,character_speech,5,8,,FERDINAND.,#ferdinand,925.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3260,3260,3260,GerDracor/schiller-kabale-und-liebe.xml,in der schrecklichsten Qual vor ihm niederfallend.,0,50,stage_direction,5,8,speech_part,,#praesident,926.0,MALE,suffering,T,,1784.0,negative,emotions of suffering and empathy
+3261,3261,3261,GerDracor/schiller-kabale-und-liebe.xml,"Geschöpf und Schöpfer verlassen mich – Soll kein Blick mehr zu meiner letzten
+              Erquickung fallen?",0,110,character_speech,5,8,,PRÄSIDENT,#praesident,926.0,MALE,suffering,T,,1784.0,negative,emotions of suffering and empathy
+3262,3262,3262,GerDracor/schiller-kabale-und-liebe.xml,reicht ihm seine sterbende Hand.,0,32,stage_direction,5,8,speech_part,,#ferdinand,927.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3263,3263,3263,GerDracor/schiller-kabale-und-liebe.xml,steht schnell auf.,0,18,stage_direction,5,8,speech_part,,#praesident,928.0,MALE,being moved,T,,1784.0,being moved,being moved
+3264,3264,3264,GerDracor/schiller-kabale-und-liebe.xml,Er vergab mir!,0,14,character_speech,5,8,,PRÄSIDENT,#praesident,928.0,MALE,joy,T,,1784.0,positive,emotions of pleasure
+3265,3265,3265,GerDracor/schiller-kabale-und-liebe.xml,Zu den andern.,0,14,stage_direction,5,8,inner_speech,,#praesident,928.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3266,3266,3266,GerDracor/schiller-kabale-und-liebe.xml, Jetzt euer Gefangener!,0,23,character_speech,5,8,,PRÄSIDENT,#praesident,928.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation
+3267,3267,3267,GerDracor/schiller-kabale-und-liebe.xml,"Er geht ab, Gerichtsdiener folgen ihm, der Vorhang fällt.",0,57,stage_direction,5,8,speech_part,,#praesident,928.0,MALE,no_annotation,T,,1784.0,no_annotation,no_annotation

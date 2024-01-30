@@ -1,0 +1,31 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+849,849,849,GerDracor/gottschedin-der-witzling.xml,Herr Vielwitz.,0,14,stage_direction,1,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+850,850,850,GerDracor/gottschedin-der-witzling.xml,Herr Reinhart.,15,29,stage_direction,1,9,pre_speech,,,,,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+851,851,851,GerDracor/gottschedin-der-witzling.xml,sehr erschrocken.,0,17,stage_direction,1,9,speech_part,,#herr_vielwitz,362.0,MALE,being moved,K,ST,1745.0,being moved,being moved
+852,852,852,GerDracor/gottschedin-der-witzling.xml,Was?,0,4,character_speech,1,9,,HERR VIELWITZ,#herr_vielwitz,362.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+853,853,853,GerDracor/gottschedin-der-witzling.xml,"Sie haben die Verse an der Jungfer, in Ihrem Umschlage?",5,60,character_speech,1,9,,HERR VIELWITZ,#herr_vielwitz,362.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+854,854,854,GerDracor/gottschedin-der-witzling.xml,"Ja, da sind sie.",0,16,character_speech,1,9,,HERR REINHART.,#der_junge_reinhart,363.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+855,855,855,GerDracor/gottschedin-der-witzling.xml,Er giebt sie ihm.,0,17,stage_direction,1,9,inner_speech,,#der_junge_reinhart,363.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+856,856,856,GerDracor/gottschedin-der-witzling.xml,schlägt die Hände zusammen.,0,27,stage_direction,1,9,speech_part,,#herr_vielwitz,364.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+857,857,857,GerDracor/gottschedin-der-witzling.xml,Nun bin ich verlohren!,0,22,character_speech,1,9,,HERR VIELWITZ,#herr_vielwitz,364.0,MALE,despair,K,ST,1745.0,negative,emotions of anxiety
+858,858,858,GerDracor/gottschedin-der-witzling.xml,das ist wieder ein neues Unglück vor mir.,23,64,character_speech,1,9,,HERR VIELWITZ,#herr_vielwitz,364.0,MALE,suffering,K,ST,1745.0,negative,emotions of suffering and empathy
+859,859,859,GerDracor/gottschedin-der-witzling.xml,Wie so?,0,7,character_speech,1,9,,HERR REINHART.,#der_junge_reinhart,365.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+860,860,860,GerDracor/gottschedin-der-witzling.xml,Ach!,0,4,character_speech,1,9,,HERR VIELWITZ.,#herr_vielwitz,366.0,MALE,suffering,K,ST,1745.0,negative,emotions of suffering and empathy
+861,861,861,GerDracor/gottschedin-der-witzling.xml,so habe ich meinem Vater das verwünschte Schäferspiel eingesiegelt!,5,72,character_speech,1,9,,HERR VIELWITZ.,#herr_vielwitz,366.0,MALE,Schadenfreude,K,ST,1745.0,positive,emotions of pleasure
+862,862,862,GerDracor/gottschedin-der-witzling.xml,"Was wird der
+            Mann von mir denken?",73,118,character_speech,1,9,,HERR VIELWITZ.,#herr_vielwitz,366.0,MALE,being moved,K,ST,1745.0,being moved,being moved
+863,863,863,GerDracor/gottschedin-der-witzling.xml,Er enterbt mich gewiß: denn er ist ein sehr hitziger Mann.,119,177,character_speech,1,9,,HERR VIELWITZ.,#herr_vielwitz,366.0,MALE,abhorrence,K,ST,1745.0,negative,emotions of rejection
+864,864,864,GerDracor/gottschedin-der-witzling.xml,"Ich bin
+            des Todes!",178,208,character_speech,1,9,,HERR VIELWITZ.,#herr_vielwitz,366.0,MALE,despair,K,ST,1745.0,negative,emotions of anxiety
+865,865,865,GerDracor/gottschedin-der-witzling.xml,"Ich wollte gern ein Mitleiden mit Ihnen haben: allein es ist mir allemal eine Freude,
+            wenn die Thorheit und Bosheit in ihre eigene Falle fällt.",0,155,character_speech,1,9,,HERR REINHART.,#der_junge_reinhart,367.0,MALE,compassion,K,ST,1745.0,negative,emotions of suffering and empathy
+866,866,866,GerDracor/gottschedin-der-witzling.xml,"Ich muß den Augenblick der Post eine Staffette nachschicken, und versuchen, ob ich
+            meinen Brief wieder bekommen kann.",0,129,character_speech,1,9,,HERR VIELWITZ.,#herr_vielwitz,368.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+867,867,867,GerDracor/gottschedin-der-witzling.xml,"Mein Diener aber soll mir noch heute die Post
+            bestellen.",130,198,character_speech,1,9,,HERR VIELWITZ.,#herr_vielwitz,368.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+868,868,868,GerDracor/gottschedin-der-witzling.xml,"Ich will stehendes Fußes von einer Akademie fort, wo mir alles so verkehrt
+            geht.",199,291,character_speech,1,9,,HERR VIELWITZ.,#herr_vielwitz,368.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+869,869,869,GerDracor/gottschedin-der-witzling.xml,Er geht ab.,0,11,stage_direction,1,9,inner_speech,,#herr_vielwitz,368.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation
+870,870,870,GerDracor/gottschedin-der-witzling.xml,"Und ich will die schöne Lobschrift lesen, die Sie mir gemacht haben: damit ich Ihnen
+            desto herzlicher zu Ihrer Abreise Glück wünschen könnte.",0,153,character_speech,1,9,,HERR REINHART.,#der_junge_reinhart,369.0,MALE,joy,K,ST,1745.0,positive,emotions of pleasure
+871,871,871,GerDracor/gottschedin-der-witzling.xml,Er geht ab.,0,11,stage_direction,1,9,inner_speech,,#der_junge_reinhart,369.0,MALE,no_annotation,K,ST,1745.0,no_annotation,no_annotation

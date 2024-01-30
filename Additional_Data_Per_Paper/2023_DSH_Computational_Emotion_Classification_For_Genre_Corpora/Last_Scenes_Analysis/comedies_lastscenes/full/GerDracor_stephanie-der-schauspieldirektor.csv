@@ -1,0 +1,61 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+831,831,831,GerDracor/stephanie-der-schauspieldirektor.xml,"Die Vorigen, Eiler, Madame Pfeil und Madame Krone.",0,50,stage_direction,1,10,pre_speech,,,,,no_annotation,K,,1786.0,no_annotation,no_annotation
+832,832,832,GerDracor/stephanie-der-schauspieldirektor.xml,"Was hab ich gehört, Herr Frank, Sie geben andern sechzehn Thaler, und mir nur zwölfe?",0,85,character_speech,1,10,,MADAME PFEIL.,#madame_pfeil,342.0,FEMALE,being moved,K,,1786.0,being moved,being moved
+833,833,833,GerDracor/stephanie-der-schauspieldirektor.xml,da wird nichts draus.,98,119,character_speech,1,10,,MADAME PFEIL.,#madame_pfeil,342.0,FEMALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+834,834,834,GerDracor/stephanie-der-schauspieldirektor.xml,"Ich muß die höchste Gagehaben; denn ich bin in allen Fächern zu
+            brauchen.",120,205,character_speech,1,10,,MADAME PFEIL.,#madame_pfeil,342.0,FEMALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+835,835,835,GerDracor/stephanie-der-schauspieldirektor.xml,heimlich zu Frank.,0,18,stage_direction,1,10,speech_part,,#eiler,343.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+836,836,836,GerDracor/stephanie-der-schauspieldirektor.xml,Gestehn Sie ihrs nur ein.,0,25,character_speech,1,10,,EILER,#eiler,343.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+837,837,837,GerDracor/stephanie-der-schauspieldirektor.xml,Ich zahle ja so alles.,26,48,character_speech,1,10,,EILER,#eiler,343.0,MALE,anger,K,,1786.0,negative,emotions of rejection
+838,838,838,GerDracor/stephanie-der-schauspieldirektor.xml,heimlich zu Madame Pfeil.,0,25,stage_direction,1,10,speech_part,,#frank,344.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+839,839,839,GerDracor/stephanie-der-schauspieldirektor.xml,Beruhigen Sie sich nur; Sie sollen einen Separat-Kontrakt haben.,0,64,character_speech,1,10,,FRANK,#frank,344.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+840,840,840,GerDracor/stephanie-der-schauspieldirektor.xml,So laß ichs gelten.,0,19,character_speech,1,10,,MADAME PFEIL.,#madame_pfeil,345.0,FEMALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+841,841,841,GerDracor/stephanie-der-schauspieldirektor.xml,Was ist das?,0,12,character_speech,1,10,,MADAME KRONE UND MADAME VOGELSANG.,#madame_krone #madame_vogelsang,346.0,UNKNOWN,no_annotation,K,,1786.0,no_annotation,no_annotation
+842,842,842,GerDracor/stephanie-der-schauspieldirektor.xml,Was ist das?,0,12,character_speech,1,10,,MADAME HERZ UND MADEMOISELLE SILBERKLANG.,#madame_herz #mademoiselle_silberklang,347.0,UNKNOWN,no_annotation,K,,1786.0,no_annotation,no_annotation
+843,843,843,GerDracor/stephanie-der-schauspieldirektor.xml,"Daß ich gar keine Gesellschaft errichten will; wenn ich gleich anfangs so viel
+            Hinderdernisse finde.",0,112,character_speech,1,10,,FRANK.,#frank,348.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+844,844,844,GerDracor/stephanie-der-schauspieldirektor.xml,Nach einer kleinen Pause.,0,25,stage_direction,1,10,speech_part,,#frank,348.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+845,845,845,GerDracor/stephanie-der-schauspieldirektor.xml,"Herr Frank, ich will der Kunst mein Intresse aufopfern.",0,55,character_speech,1,10,,MADAME KRONE.,#madame_krone,349.0,FEMALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+846,846,846,GerDracor/stephanie-der-schauspieldirektor.xml,Ich will mich am Beyfall schadlos halten.,0,41,character_speech,1,10,,MADAME VOGELSANG.,#madame_vogelsang,350.0,FEMALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+847,847,847,GerDracor/stephanie-der-schauspieldirektor.xml,Ich auch.,0,9,character_speech,1,10,,MADAME HERZ.,#madame_herz,351.0,FEMALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+848,848,848,GerDracor/stephanie-der-schauspieldirektor.xml,Daran wird mirs auch nicht fehlen.,0,34,character_speech,1,10,,MADEMOISELLE SILBERKLANG.,#mademoiselle_silberklang,352.0,FEMALE,joy,K,,1786.0,positive,emotions of pleasure
+849,849,849,GerDracor/stephanie-der-schauspieldirektor.xml,Nun so wäre alles wieder in Ruhe.,0,33,character_speech,1,10,,PUF.,#puf,353.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+850,850,850,GerDracor/stephanie-der-schauspieldirektor.xml,Bey Seite.,0,10,stage_direction,1,10,inner_speech,,#puf,353.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+851,851,851,GerDracor/stephanie-der-schauspieldirektor.xml, Bis es wieder ausbricht.,0,25,character_speech,1,10,,PUF.,#puf,353.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+852,852,852,GerDracor/stephanie-der-schauspieldirektor.xml,"Herr Frank, ich wünsche Ihnen Glück zu ihrer Gesellschaft.",38,96,character_speech,1,10,,PUF.,#puf,353.0,MALE,joy,K,,1786.0,positive,emotions of pleasure
+853,853,853,GerDracor/stephanie-der-schauspieldirektor.xml,"Ich fürchte nichts – als daß
+            sie lauter erste Aktrisen und erste Sängerinnen haben.",97,192,character_speech,1,10,,PUF.,#puf,353.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+854,854,854,GerDracor/stephanie-der-schauspieldirektor.xml,Schlußgesang.,0,13,stage_direction,1,10,speech_part,,#puf,353.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+855,855,855,GerDracor/stephanie-der-schauspieldirektor.xml,"
+            Jeder Künstler strebt nach Ehre,
+            Wünscht der einzige zu seyn;
+            Und wenn dieser Trieb nicht wäre,
+            Bliebe jede Kunst nur klein.",0,173,character_speech,1,10,,MADEMOISELLE SILBERKLANG.,#mademoiselle_silberklang,354.0,FEMALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+856,856,856,GerDracor/stephanie-der-schauspieldirektor.xml,"
+            Künstler müssen freylich streben
+            Stets des Vorzugs werth zu seyn;
+            Doch sich selbst den Vorzug geben,
+            Ueber andre sich erheben,
+            Macht den größten Künstler klein.",0,221,character_speech,1,10,,ALLE.,#frank #puf #herz #madame_herz #mademoiselle_silberklang #madame_vogelsang #monsieur_vogelsang #eiler #madame_pfeil #madame_krone,355.0,UNKNOWN,no_annotation,K,,1786.0,no_annotation,no_annotation
+857,857,857,GerDracor/stephanie-der-schauspieldirektor.xml,"
+            Einigkeit rühm ich vor allen
+            Andern Tugenden uns an;
+            Denn das Ganze muß gefallen
+            Und nicht bloß ein einzler Mann.",0,162,character_speech,1,10,,MONSIEUR VOGELSANG.,#monsieur_vogelsang,356.0,MALE,"admiration, reverence",K,,1786.0,positive,emotions of affection
+858,858,858,GerDracor/stephanie-der-schauspieldirektor.xml,Künstler müssen freylich streben etc.,0,37,character_speech,1,10,,ALLE.,#frank #puf #herz #madame_herz #mademoiselle_silberklang #madame_vogelsang #monsieur_vogelsang #eiler #madame_pfeil #madame_krone,357.0,UNKNOWN,no_annotation,K,,1786.0,no_annotation,no_annotation
+859,859,859,GerDracor/stephanie-der-schauspieldirektor.xml,"
+            Jedes leiste was ihm eigen,
+            Halte Kunst, Natur, gleich werth;
+            Laßt das Publikum dann zeigen
+            Wem das größte Lob gehört.",0,167,character_speech,1,10,,MADAME HERZ.,#madame_herz,358.0,FEMALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+860,860,860,GerDracor/stephanie-der-schauspieldirektor.xml,Künstler müssen freylich streben etc.,0,37,character_speech,1,10,,ALLE.,#frank #puf #herz #madame_herz #mademoiselle_silberklang #madame_vogelsang #monsieur_vogelsang #eiler #madame_pfeil #madame_krone,359.0,UNKNOWN,no_annotation,K,,1786.0,no_annotation,no_annotation
+861,861,861,GerDracor/stephanie-der-schauspieldirektor.xml,"
+            Ich bin hier unter diesen Sängern
+            Der erste Buffo das ist klar;
+            Ich heiße Puf – nur um ein O
+            Brauch ich den Namen zu verlängern,
+            So heiß ich ohne Streit: Buffo.",0,221,character_speech,1,10,,PUF.,#puf,360.0,MALE,no_annotation,K,,1786.0,no_annotation,no_annotation
+862,862,862,GerDracor/stephanie-der-schauspieldirektor.xml,"Und daß, wie ich, keins singen kann,
+            Sieht man den Herren doch wohl an?",234,317,character_speech,1,10,,PUF.,#puf,360.0,MALE,anger,K,,1786.0,negative,emotions of rejection
+863,863,863,GerDracor/stephanie-der-schauspieldirektor.xml,Künstler müssen freylich streben.,0,33,character_speech,1,10,,ALLE.,#frank #puf #herz #madame_herz #mademoiselle_silberklang #madame_vogelsang #monsieur_vogelsang #eiler #madame_pfeil #madame_krone,361.0,UNKNOWN,no_annotation,K,,1786.0,no_annotation,no_annotation
+864,864,864,GerDracor/stephanie-der-schauspieldirektor.xml,etc.,34,38,character_speech,1,10,,ALLE.,#frank #puf #herz #madame_herz #mademoiselle_silberklang #madame_vogelsang #monsieur_vogelsang #eiler #madame_pfeil #madame_krone,361.0,UNKNOWN,no_annotation,K,,1786.0,no_annotation,no_annotation

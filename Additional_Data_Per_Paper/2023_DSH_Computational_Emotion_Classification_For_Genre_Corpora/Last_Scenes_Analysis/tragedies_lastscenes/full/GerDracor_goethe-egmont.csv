@@ -1,0 +1,434 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2198,2198,2198,GerDracor/goethe-egmont.xml,Egmont liegt schlafend auf dem Ruhebette.,0,41,stage_direction,5,4,pre_speech,,,,,no_annotation,T,,1789.0,no_annotation,no_annotation
+2199,2199,2199,GerDracor/goethe-egmont.xml,"Es entsteht ein Gerassel mit Schlüsseln,
+            und die Tür tut sich auf.",42,120,stage_direction,5,4,pre_speech,,,,,no_annotation,T,,1789.0,no_annotation,no_annotation
+2200,2200,2200,GerDracor/goethe-egmont.xml,"Diener mit Fackeln treten herein; ihnen folgt Ferdinand, Albas
+            Sohn, und Silva, begleitet von Gewaffneten.",121,239,stage_direction,5,4,pre_speech,,,,,no_annotation,T,,1789.0,no_annotation,no_annotation
+2201,2201,2201,GerDracor/goethe-egmont.xml,Egmont fährt aus dem Schlaf auf.,240,272,stage_direction,5,4,pre_speech,,,,,being moved,T,,1789.0,being moved,being moved
+2202,2202,2202,GerDracor/goethe-egmont.xml,"Wer seid ihr, die ihr mir unfreundlich den Schlaf von den Augen schüttelt?",0,74,character_speech,5,4,,EGMONT.,#egmont,763.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2203,2203,2203,GerDracor/goethe-egmont.xml,"Was künden
+              eure trotzigen, unsichern Blicke mir an?",75,140,character_speech,5,4,,EGMONT.,#egmont,763.0,MALE,being moved,T,,1789.0,being moved,being moved
+2204,2204,2204,GerDracor/goethe-egmont.xml,Warum diesen fürchterlichen Aufzug?,141,176,character_speech,5,4,,EGMONT.,#egmont,763.0,MALE,being moved,T,,1789.0,being moved,being moved
+2205,2205,2205,GerDracor/goethe-egmont.xml,"Welchen
+              Schreckenstraum kommt ihr der halberwachten Seele vorzulügen?",177,260,character_speech,5,4,,EGMONT.,#egmont,763.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2206,2206,2206,GerDracor/goethe-egmont.xml,"Uns schickt der Herzog, dir dein Urteil anzukündigen.",0,53,character_speech,5,4,,SILVA.,#silva,764.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2207,2207,2207,GerDracor/goethe-egmont.xml,"Bringst du den Henker auch mit, es zu vollziehen?",0,49,character_speech,5,4,,EGMONT.,#egmont,765.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2208,2208,2208,GerDracor/goethe-egmont.xml,"Vernimm es, so wirst du wissen, was deiner wartet.",0,50,character_speech,5,4,,SILVA.,#silva,766.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2209,2209,2209,GerDracor/goethe-egmont.xml,So ziemt es euch und euerm schändlichen Beginnen!,0,49,character_speech,5,4,,EGMONT.,#egmont,767.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2210,2210,2210,GerDracor/goethe-egmont.xml,"In Nacht gebrütet und in Nacht
+              vollführt.",50,105,character_speech,5,4,,EGMONT.,#egmont,767.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2211,2211,2211,GerDracor/goethe-egmont.xml,So mag diese freche Tat der Ungerechtigkeit sich verbergen!,106,165,character_speech,5,4,,EGMONT.,#egmont,767.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2212,2212,2212,GerDracor/goethe-egmont.xml,"Tritt kühn
+              hervor, der du das Schwert verhüllt unter dem Mantel trägst; hier ist mein Haupt, das
+              freieste, das je die Tyrannei vom Rumpf gerissen.",166,340,character_speech,5,4,,EGMONT.,#egmont,767.0,MALE,love,T,,1789.0,positive,emotions of affection
+2213,2213,2213,GerDracor/goethe-egmont.xml,Du irrst!,0,9,character_speech,5,4,,SILVA.,#silva,768.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2214,2214,2214,GerDracor/goethe-egmont.xml,"Was gerechte Richter beschließen, werden sie vorm Angesicht des Tages nicht
+              verbergen.",10,110,character_speech,5,4,,SILVA.,#silva,768.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2215,2215,2215,GerDracor/goethe-egmont.xml,So übersteigt die Frechheit jeden Begriff und Gedanken.,0,55,character_speech,5,4,,EGMONT.,#egmont,769.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2216,2216,2216,GerDracor/goethe-egmont.xml,"nimmt einem Dabeistehenden das Urteil ab, entfaltet's und liest.",0,64,stage_direction,5,4,speech_part,,#silva,770.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2217,2217,2217,GerDracor/goethe-egmont.xml,"»Im Namen des Königs, und kraft besonderer von Seiner Majestät uns übertragenen
+              Gewalt, alle seine Untertanen, wes Standes sie seien, zugleich die Ritter des Goldnen
+              Vlieses zu richten, erkennen wir –«",0,229,character_speech,5,4,,SILVA,#silva,770.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2218,2218,2218,GerDracor/goethe-egmont.xml,Kann die der König übertragen?,0,30,character_speech,5,4,,EGMONT.,#egmont,771.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2219,2219,2219,GerDracor/goethe-egmont.xml,"»Erkennen wir, nach vorgängiger genauer, gesetzlicher Untersuchung, dich Heinrich
+              Grafen Egmont, Prinzen von Gaure, des Hochverrates schuldig, und sprechen das Urteil:
+              daß du mit der Frühe des einbrechenden Morgens",0,242,character_speech,5,4,,SILVA.,#silva,772.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2220,2220,2220,GerDracor/goethe-egmont.xml," aus dem Kerker auf den
+              Markt geführt, und dort vorm Angesicht des Volks zur Warnung aller Verräter mit dem
+              Schwerte vom Leben zum Tode gebracht werden sollest.",0,188,character_speech,5,4,,SILVA.,#silva,772.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2221,2221,2221,GerDracor/goethe-egmont.xml,Gegeben Brüssel am«,189,208,character_speech,5,4,,SILVA.,#silva,772.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2222,2222,2222,GerDracor/goethe-egmont.xml,"Datum
+                und Jahrzahl werden undeutlich gelesen, so daß sie der Zuhörer nicht
+                versteht.",0,116,stage_direction,5,4,inner_speech,,#silva,772.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2223,2223,2223,GerDracor/goethe-egmont.xml," »Ferdinand, Herzog von Alba, Vorsitzer des Gerichts der Zwölfe.«
+              Du weißt nun dein Schicksal; es bleibt dir wenige Zeit, dich drein zu ergeben, dein
+              Haus zu bestellen und von den Deinigen Abschied zu nehmen.",0,236,character_speech,5,4,,SILVA.,#silva,772.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2224,2224,2224,GerDracor/goethe-egmont.xml,Silva mit dem Gefolge geht ab.,0,30,stage_direction,5,4,speech_part,,#silva,772.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2225,2225,2225,GerDracor/goethe-egmont.xml,"Es bleibt Ferdinand und zwei Fackeln; das Theater
+              ist mäßig erleuchtet.",31,116,stage_direction,5,4,speech_part,,#silva,772.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2226,2226,2226,GerDracor/goethe-egmont.xml,"hat eine Weile in sich versenkt stille gestanden und Silva, ohne sich umzusehen,
+              abgehen lassen.",0,110,stage_direction,5,4,speech_part,,#egmont,773.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2227,2227,2227,GerDracor/goethe-egmont.xml,"Er glaubt sich allein, und da er die Augen aufhebt, erblickt er Albas
+              Sohn.",111,200,stage_direction,5,4,speech_part,,#egmont,773.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2228,2228,2228,GerDracor/goethe-egmont.xml,Du stehst und bleibst?,0,22,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,being moved,T,,1789.0,being moved,being moved
+2229,2229,2229,GerDracor/goethe-egmont.xml,"Willst du mein Erstaunen, mein Entsetzen noch durch deine
+              Gegenwart vermehren?",23,115,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,being moved,T,,1789.0,being moved,being moved
+2230,2230,2230,GerDracor/goethe-egmont.xml,"Willst du noch etwa die willkommne Botschaft deinem Vater
+              bringen, daß ich unmännlich verzweifle?",116,227,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2231,2231,2231,GerDracor/goethe-egmont.xml,Geh!,228,232,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2232,2232,2232,GerDracor/goethe-egmont.xml,Sag ihm!,233,241,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2233,2233,2233,GerDracor/goethe-egmont.xml,"Sag ihm, daß er weder mich noch
+              die Welt belügt.",242,304,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2234,2234,2234,GerDracor/goethe-egmont.xml,"Ihm, dem Ruhmsüchtigen, wird man es erst hinter den Schultern leise
+              lispeln, dann laut und lauter sagen, und wenn er einst von diesem Gipfel herabsteigt,
+              werden tausend Stimmen es ihm entgegenrufen!",305,531,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2235,2235,2235,GerDracor/goethe-egmont.xml,"Nicht das Wohl des Staats, nicht die
+              Würde des Königs, nicht die Ruhe der Provinzen haben ihn hierher gebracht.",532,657,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2236,2236,2236,GerDracor/goethe-egmont.xml,"Um sein
+              selbst willen hat er Krieg geraten, daß der Krieger im Kriege gelte.",658,748,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2237,2237,2237,GerDracor/goethe-egmont.xml,"Er hat diese
+              ungeheure Verwirrung erregt, damit man seiner bedürfe.",749,830,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,being moved,T,,1789.0,being moved,being moved
+2238,2238,2238,GerDracor/goethe-egmont.xml,"Und ich falle, ein Opfer seines
+              niedrigen Hasses, seines kleinlichen Neides.",831,921,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2239,2239,2239,GerDracor/goethe-egmont.xml,"Ja, ich weiß es, und ich darf es sagen;
+              der Sterbende, der tödlich Verwundete kann es sagen: mich hat der Eingebildete
+              beneidet; mich wegzutilgen hat er lange gesonnen und gedacht.",922,1130,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2240,2240,2240,GerDracor/goethe-egmont.xml,"Schon damals, als wir, noch jünger, mit Würfeln spielten, und die Haufen Goldes,
+              einer nach dem andern, von seiner Seite zu mir herübereilten, da stand er grimmig, log
+              Gelassenheit, und innerlich verzehrt ihn die Ärgernis, mehr über mein Glück als über
+              seinen Verlust.",0,310,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2241,2241,2241,GerDracor/goethe-egmont.xml,"Noch erinnere ich mich des funkelnden Blicks, der verräterischen
+              Blässe, als wir an einem öffentlichen Feste vor vielen tausend Menschen 
+              um die Wette schossen.",311,499,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2242,2242,2242,GerDracor/goethe-egmont.xml,"Er forderte mich auf, und beide Nationen standen, die Spanier,
+              die Niederländer, wetteten und wünschten.",500,618,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2243,2243,2243,GerDracor/goethe-egmont.xml,"Ich überwand ihn; seine Kugel irrte, die
+              meine traf; ein lauter Freudenschrei der Meinigen durchbrach die Luft.",619,744,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2244,2244,2244,GerDracor/goethe-egmont.xml,"Nun trifft mich
+              sein Geschoß.",745,788,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2245,2245,2245,GerDracor/goethe-egmont.xml,"Sag ihm, daß ich's weiß, daß ich ihn kenne, daß die Welt jede
+              Siegszeichen verachtet, die ein kleiner Geist erschleichend sich aufrichtet.",789,941,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2246,2246,2246,GerDracor/goethe-egmont.xml,Und du!,942,949,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,being moved,T,,1789.0,being moved,being moved
+2247,2247,2247,GerDracor/goethe-egmont.xml,"wenn einem Sohne möglich ist, von der Sitte des Vaters zu weichen, übe beizeiten die
+              Scham, indem du dich für den schämst, den du gerne von ganzem Herzen verehren
+              möchtest.",964,1164,character_speech,5,4,,EGMONT,#egmont,773.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2248,2248,2248,GerDracor/goethe-egmont.xml,"Ich höre dich an, ohne dich zu unterbrechen!",0,44,character_speech,5,4,,FERDINAND.,#ferdinand,774.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2249,2249,2249,GerDracor/goethe-egmont.xml,"Deine Vorwürfe lasten wie Keulschläge
+              auf einen Helm; ich fühle die Erschütterung, aber ich bin bewaffnet.",45,165,character_speech,5,4,,FERDINAND.,#ferdinand,774.0,MALE,being moved,T,,1789.0,being moved,being moved
+2250,2250,2250,GerDracor/goethe-egmont.xml,"Du triffst mich,
+              du verwundest mich nicht; fühlbar ist mir allein der Schmerz, der mir den Busen
+              zerreißt.",166,300,character_speech,5,4,,FERDINAND.,#ferdinand,774.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2251,2251,2251,GerDracor/goethe-egmont.xml,Wehe mir!,301,310,character_speech,5,4,,FERDINAND.,#ferdinand,774.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2252,2252,2252,GerDracor/goethe-egmont.xml,Wehe!,311,316,character_speech,5,4,,FERDINAND.,#ferdinand,774.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2253,2253,2253,GerDracor/goethe-egmont.xml,"Zu einem solchen Anblick bin ich aufgewachsen, zu einem
+              solchen Schauspiele bin ich gesendet!",317,424,character_speech,5,4,,FERDINAND.,#ferdinand,774.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2254,2254,2254,GerDracor/goethe-egmont.xml,Du brichst in Klagen aus?,0,25,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2255,2255,2255,GerDracor/goethe-egmont.xml,"Was rührt, was bekümmert dich?",26,56,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,compassion,T,,1789.0,negative,emotions of suffering and empathy
+2256,2256,2256,GerDracor/goethe-egmont.xml,"Ist es eine späte Reue, daß
+              du der schändlichen Verschwörung deinen Dienst geliehen?",57,155,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,compassion,T,,1789.0,negative,emotions of suffering and empathy
+2257,2257,2257,GerDracor/goethe-egmont.xml,"Du bist so jung und hast ein
+              glückliches Ansehn.",156,218,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2258,2258,2258,GerDracor/goethe-egmont.xml,"Du warst so zutraulich, so freundlich gegen mich.",219,268,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,friendship,T,,1789.0,positive,emotions of affection
+2259,2259,2259,GerDracor/goethe-egmont.xml,"Solang ich dich
+              sah, war ich mit deinem Vater versöhnt.",269,338,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,friendship,T,,1789.0,positive,emotions of affection
+2260,2260,2260,GerDracor/goethe-egmont.xml,"Und ebenso verstellt, verstellter als er,
+              lockst du mich in das Netz.",339,422,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2261,2261,2261,GerDracor/goethe-egmont.xml,Du bist der Abscheuliche!,423,448,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2262,2262,2262,GerDracor/goethe-egmont.xml,"Wer ihm traut, mag er es auf
+              seine Gefahr tun; aber wer fürchtete Gefahr, dir zu vertrauen?",449,554,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2263,2263,2263,GerDracor/goethe-egmont.xml,Geh!,555,559,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2264,2264,2264,GerDracor/goethe-egmont.xml,Geh!,560,564,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2265,2265,2265,GerDracor/goethe-egmont.xml,"Raube mir
+              nicht die wenigen Augenblicke!",565,619,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2266,2266,2266,GerDracor/goethe-egmont.xml,"Geh, daß ich mich sammle, die Welt und dich zuerst
+              vergesse!",620,694,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2267,2267,2267,GerDracor/goethe-egmont.xml,–,695,696,character_speech,5,4,,EGMONT.,#egmont,775.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2268,2268,2268,GerDracor/goethe-egmont.xml,Was soll ich dir sagen?,0,23,character_speech,5,4,,FERDINAND.,#ferdinand,776.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2269,2269,2269,GerDracor/goethe-egmont.xml,"Ich stehe und sehe dich an, und sehe dich nicht, und fühle
+              mich nicht.",24,108,character_speech,5,4,,FERDINAND.,#ferdinand,776.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2270,2270,2270,GerDracor/goethe-egmont.xml,Soll ich mich entschuldigen?,109,137,character_speech,5,4,,FERDINAND.,#ferdinand,776.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2271,2271,2271,GerDracor/goethe-egmont.xml,"Soll ich dich versichern, daß ich erst spät,
+              erst ganz zuletzt des Vaters Absichten erfuhr, daß ich als ein gezwungenes, ein
+              lebloses Werkzeug seines Willens handelte?",138,333,character_speech,5,4,,FERDINAND.,#ferdinand,776.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2272,2272,2272,GerDracor/goethe-egmont.xml,"Was fruchtet's, welche Meinung du von mir
+              haben magst?",334,402,character_speech,5,4,,FERDINAND.,#ferdinand,776.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2273,2273,2273,GerDracor/goethe-egmont.xml,"Du bist verloren; und ich Unglücklicher stehe nur da, um dich's zu
+              versichern, um dich zu bejammern.",403,517,character_speech,5,4,,FERDINAND.,#ferdinand,776.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2274,2274,2274,GerDracor/goethe-egmont.xml,"Welche sonderbare Stimme, welch ein unerwarteter Trost begegnet mir auf dem Wege zum
+              Grabe?",0,105,character_speech,5,4,,EGMONT.,#egmont,777.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2275,2275,2275,GerDracor/goethe-egmont.xml,"Du,  Sohn meines ersten, meines fast einzigen Feindes, du
+              bedauerst mich, du bist nicht unter meinen Mördern?",106,229,character_speech,5,4,,EGMONT.,#egmont,777.0,MALE,compassion,T,,1789.0,negative,emotions of suffering and empathy
+2276,2276,2276,GerDracor/goethe-egmont.xml,"Sage, rede!",230,241,character_speech,5,4,,EGMONT.,#egmont,777.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2277,2277,2277,GerDracor/goethe-egmont.xml,"Für wen soll ich dich
+              halten?",242,285,character_speech,5,4,,EGMONT.,#egmont,777.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2278,2278,2278,GerDracor/goethe-egmont.xml,Grausamer Vater!,0,16,character_speech,5,4,,FERDINAND.,#ferdinand,778.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2279,2279,2279,GerDracor/goethe-egmont.xml,"Ja, ich erkenne dich in diesem Befehle.",17,56,character_speech,5,4,,FERDINAND.,#ferdinand,778.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2280,2280,2280,GerDracor/goethe-egmont.xml,"Du kanntest mein Herz, meine
+              Gesinnung, die du so oft als Erbteil einer zärtlichen Mutter schaltest.",57,171,character_speech,5,4,,FERDINAND.,#ferdinand,778.0,MALE,love,T,,1789.0,positive,emotions of affection
+2281,2281,2281,GerDracor/goethe-egmont.xml,"Mich dir
+              gleich zu bilden, sandtest du mich hierher.",172,238,character_speech,5,4,,FERDINAND.,#ferdinand,778.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2282,2282,2282,GerDracor/goethe-egmont.xml,"Diesen Mann am Rande des gähnenden Grabes,
+              in der Gewalt eines willkürlichen Todes zu sehen, zwingst du mich; daß ich den
+              tiefsten Schmerz empfinde, daß ich taub gegen alles Schicksal, daß ich unempfindlich
+              werde, es geschehe mir, was wolle.",239,522,character_speech,5,4,,FERDINAND.,#ferdinand,778.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2283,2283,2283,GerDracor/goethe-egmont.xml,Ich erstaune!,0,13,character_speech,5,4,,EGMONT.,#egmont,779.0,MALE,being moved,T,,1789.0,being moved,being moved
+2284,2284,2284,GerDracor/goethe-egmont.xml,Fasse dich!,14,25,character_speech,5,4,,EGMONT.,#egmont,779.0,MALE,being moved,T,,1789.0,being moved,being moved
+2285,2285,2285,GerDracor/goethe-egmont.xml,"Stehe, rede wie ein Mann!",26,51,character_speech,5,4,,EGMONT.,#egmont,779.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2286,2286,2286,GerDracor/goethe-egmont.xml,O daß ich ein Weib wäre!,0,24,character_speech,5,4,,FERDINAND.,#ferdinand,780.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2287,2287,2287,GerDracor/goethe-egmont.xml,daß man mir sagen könnte: was rührt dich?,25,66,character_speech,5,4,,FERDINAND.,#ferdinand,780.0,MALE,compassion,T,,1789.0,negative,emotions of suffering and empathy
+2288,2288,2288,GerDracor/goethe-egmont.xml,was ficht dich an?,67,85,character_speech,5,4,,FERDINAND.,#ferdinand,780.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2289,2289,2289,GerDracor/goethe-egmont.xml,"Sage mir ein größeres, ein ungeheureres Übel, mache mich zum Zeugen einer
+              schrecklichern Tat; ich will dir danken, ich will sagen: es war nichts.",100,259,character_speech,5,4,,FERDINAND.,#ferdinand,780.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2290,2290,2290,GerDracor/goethe-egmont.xml,Du verlierst dich.,0,18,character_speech,5,4,,EGMONT.,#egmont,781.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2291,2291,2291,GerDracor/goethe-egmont.xml,Wo bist du?,19,30,character_speech,5,4,,EGMONT.,#egmont,781.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2292,2292,2292,GerDracor/goethe-egmont.xml,"Laß diese Leidenschaft rasen, laß mich losgebunden klagen!",0,58,character_speech,5,4,,FERDINAND.,#ferdinand,782.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2293,2293,2293,GerDracor/goethe-egmont.xml,"Ich will nicht standhaft
+              scheinen, wenn alles in mir zusammenbricht.",59,141,character_speech,5,4,,FERDINAND.,#ferdinand,782.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2294,2294,2294,GerDracor/goethe-egmont.xml,Dich soll ich hier sehn?,142,166,character_speech,5,4,,FERDINAND.,#ferdinand,782.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2295,2295,2295,GerDracor/goethe-egmont.xml,Dich?,167,172,character_speech,5,4,,FERDINAND.,#ferdinand,782.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2296,2296,2296,GerDracor/goethe-egmont.xml,"– Es ist
+              entsetzlich!",173,208,character_speech,5,4,,FERDINAND.,#ferdinand,782.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2297,2297,2297,GerDracor/goethe-egmont.xml,Du verstehst mich nicht!,209,233,character_speech,5,4,,FERDINAND.,#ferdinand,782.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2298,2298,2298,GerDracor/goethe-egmont.xml,Und sollst du mich verstehen?,234,263,character_speech,5,4,,FERDINAND.,#ferdinand,782.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2299,2299,2299,GerDracor/goethe-egmont.xml,Egmont!,264,271,character_speech,5,4,,FERDINAND.,#ferdinand,782.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2300,2300,2300,GerDracor/goethe-egmont.xml,Egmont!,272,279,character_speech,5,4,,FERDINAND.,#ferdinand,782.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2301,2301,2301,GerDracor/goethe-egmont.xml,Ihm um den Hals fallend.,0,24,stage_direction,5,4,inner_speech,,#ferdinand,782.0,MALE,love,T,,1789.0,positive,emotions of affection
+2302,2302,2302,GerDracor/goethe-egmont.xml,Löse mir das Geheimnis!,0,23,character_speech,5,4,,EGMONT.,#egmont,783.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2303,2303,2303,GerDracor/goethe-egmont.xml,Kein Geheimnis.,0,15,character_speech,5,4,,FERDINAND.,#ferdinand,784.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2304,2304,2304,GerDracor/goethe-egmont.xml,Wie bewegt dich so tief das Schicksal eines fremden Mannes?,0,59,character_speech,5,4,,EGMONT.,#egmont,785.0,MALE,being moved,T,,1789.0,being moved,being moved
+2305,2305,2305,GerDracor/goethe-egmont.xml,Nicht fremd!,0,12,character_speech,5,4,,FERDINAND.,#ferdinand,786.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2306,2306,2306,GerDracor/goethe-egmont.xml,Du bist mir nicht fremd.,13,37,character_speech,5,4,,FERDINAND.,#ferdinand,786.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2307,2307,2307,GerDracor/goethe-egmont.xml,"Dein Name war's, der mir in meiner ersten
+              Jugend gleich einem Stern des Himmels entgegenleuchtete.",38,150,character_speech,5,4,,FERDINAND.,#ferdinand,786.0,MALE,love,T,,1789.0,positive,emotions of affection
+2308,2308,2308,GerDracor/goethe-egmont.xml,"Wie oft hab ich nach dir
+              gehorcht, gefragt!",151,208,character_speech,5,4,,FERDINAND.,#ferdinand,786.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2309,2309,2309,GerDracor/goethe-egmont.xml,"Des Kindes Hoffnung ist der Jüngling, des Jünglings der Mann.",209,270,character_speech,5,4,,FERDINAND.,#ferdinand,786.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2310,2310,2310,GerDracor/goethe-egmont.xml,"So
+              bist du vor mir her geschritten; immer vor, und ohne Neid sah ich dich vor, und
+              schritt dir nach, und fort und fort.",271,418,character_speech,5,4,,FERDINAND.,#ferdinand,786.0,MALE,"admiration, reverence",T,,1789.0,positive,emotions of affection
+2311,2311,2311,GerDracor/goethe-egmont.xml,"Nun hofft ich endlich dich zu sehen, und sah
+              dich, und mein Herz flog dir entgegen.",419,516,character_speech,5,4,,FERDINAND.,#ferdinand,786.0,MALE,love,T,,1789.0,positive,emotions of affection
+2312,2312,2312,GerDracor/goethe-egmont.xml,"Dich hatt ich mir bestimmt, und wählte dich  aufs neue, da ich dich sah.",517,589,character_speech,5,4,,FERDINAND.,#ferdinand,786.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2313,2313,2313,GerDracor/goethe-egmont.xml,"Nun hofft ich erst, mit dir zu sein, mit dir
+              zu leben, dich zu fassen, dich – Das ist nun alles weggeschnitten, und ich sehe dich
+              hier!",590,753,character_speech,5,4,,FERDINAND.,#ferdinand,786.0,MALE,love,T,,1789.0,positive,emotions of affection
+2314,2314,2314,GerDracor/goethe-egmont.xml,"Mein Freund, wenn es dir wohltun kann, so nimm die Versicherung, daß im ersten
+              Augenblicke mein Gemüt dir entgegenkam.",0,132,character_speech,5,4,,EGMONT.,#egmont,787.0,MALE,friendship,T,,1789.0,positive,emotions of affection
+2315,2315,2315,GerDracor/goethe-egmont.xml,Und höre mich.,133,147,character_speech,5,4,,EGMONT.,#egmont,787.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2316,2316,2316,GerDracor/goethe-egmont.xml,"Laß uns ein ruhiges Wort
+              untereinander wechseln.",148,210,character_speech,5,4,,EGMONT.,#egmont,787.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2317,2317,2317,GerDracor/goethe-egmont.xml,"Sage mir: ist es der strenge, ernste Wille deines Vaters, mich
+              zu töten?",211,297,character_speech,5,4,,EGMONT.,#egmont,787.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2318,2318,2318,GerDracor/goethe-egmont.xml,Er ist's.,0,9,character_speech,5,4,,FERDINAND.,#ferdinand,788.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2319,2319,2319,GerDracor/goethe-egmont.xml,"Dieses Urteil wäre nicht ein leeres Schreckbild, mich zu ängstigen, durch Furcht und
+              Drohung zu strafen, mich zu erniedrigen und dann mit königlicher Gnade mich wieder
+              aufzuheben?",0,207,character_speech,5,4,,EGMONT.,#egmont,789.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2320,2320,2320,GerDracor/goethe-egmont.xml,"Nein, ach leider nein!",0,22,character_speech,5,4,,FERDINAND.,#ferdinand,790.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2321,2321,2321,GerDracor/goethe-egmont.xml,"Anfangs schmeichelte ich mir mit dieser ausweichenden
+              Hoffnung; und schon da empfand ich Angst und Schmerz, dich in diesem Zustande zu
+              sehen.",23,192,character_speech,5,4,,FERDINAND.,#ferdinand,790.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2322,2322,2322,GerDracor/goethe-egmont.xml,"Nun ist es wirklich, ist gewiß.",193,224,character_speech,5,4,,FERDINAND.,#ferdinand,790.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2323,2323,2323,GerDracor/goethe-egmont.xml,"Nein, ich regiere mich nicht.",225,254,character_speech,5,4,,FERDINAND.,#ferdinand,790.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2324,2324,2324,GerDracor/goethe-egmont.xml,"Wer gibt mir eine
+              Hülfe, wer einen Rat, dem Unvermeidlichen zu entgehen?",255,341,character_speech,5,4,,FERDINAND.,#ferdinand,790.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2325,2325,2325,GerDracor/goethe-egmont.xml,So höre mich!,0,13,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2326,2326,2326,GerDracor/goethe-egmont.xml,"Wenn deine Seele so gewaltsam dringt, mich zu retten, wenn du die
+              Übermacht verabscheust, die mich gefesselt hält, so rette mich!",14,157,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2327,2327,2327,GerDracor/goethe-egmont.xml,"Die Augenblicke sind
+              kostbar.",158,201,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2328,2328,2328,GerDracor/goethe-egmont.xml,"Du bist des Allgewaltigen Sohn, und selbst gewaltig – Laß uns entfliehen!",202,275,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2329,2329,2329,GerDracor/goethe-egmont.xml,"Ich
+              kenne die Wege; die Mittel können dir nicht unbekannt sein.",276,353,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2330,2330,2330,GerDracor/goethe-egmont.xml,"Nur diese Mauern, nur
+              wenige Meilen entfernen mich von meinen Freunden.",354,439,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,friendship,T,,1789.0,positive,emotions of affection
+2331,2331,2331,GerDracor/goethe-egmont.xml,"Löse diese Bande, bringe mich zu
+              ihnen und sei unser!",440,507,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,love,T,,1789.0,positive,emotions of affection
+2332,2332,2332,GerDracor/goethe-egmont.xml,"Gewiß, der König dankt dir dereinst meine Rettung.",508,558,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,"admiration, reverence",T,,1789.0,positive,emotions of affection
+2333,2333,2333,GerDracor/goethe-egmont.xml,"Jetzt ist er
+              überrascht, und vielleicht ist ihm alles unbekannt.",559,637,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,being moved,T,,1789.0,being moved,being moved
+2334,2334,2334,GerDracor/goethe-egmont.xml,"Dein Vater wagt; und die Majestät
+              muß das Geschehene billigen, wenn sie sich auch davor entsetzet.",638,750,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2335,2335,2335,GerDracor/goethe-egmont.xml,Du denkst?,751,761,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2336,2336,2336,GerDracor/goethe-egmont.xml,"O denke
+              mir den Weg der Freiheit aus!",762,813,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2337,2337,2337,GerDracor/goethe-egmont.xml,"Sprich, und nähre die Hoffnung der lebendigen Seele!",814,866,character_speech,5,4,,EGMONT.,#egmont,791.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2338,2338,2338,GerDracor/goethe-egmont.xml,Schweig!,0,8,character_speech,5,4,,FERDINAND.,#ferdinand,792.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2339,2339,2339,GerDracor/goethe-egmont.xml,o schweige!,9,20,character_speech,5,4,,FERDINAND.,#ferdinand,792.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2340,2340,2340,GerDracor/goethe-egmont.xml,Du vermehrst mit jedem Worte meine Verzweiflung.,21,69,character_speech,5,4,,FERDINAND.,#ferdinand,792.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2341,2341,2341,GerDracor/goethe-egmont.xml,"Hier ist kein
+              Ausweg, kein Rat, keine Flucht.",70,129,character_speech,5,4,,FERDINAND.,#ferdinand,792.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2342,2342,2342,GerDracor/goethe-egmont.xml,"– Das quält mich, das greift und faßt mir wie mit
+              Klauen die Brust.",130,211,character_speech,5,4,,FERDINAND.,#ferdinand,792.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2343,2343,2343,GerDracor/goethe-egmont.xml,"Ich habe selbst das Netz zusammengezogen; ich kenne die strengen
+              festen Knoten; ich weiß, wie jeder Kühnheit, jeder List die Wege verrennt  sind; ich fühle mich mit dir und mit allen andern gefesselt.",212,426,character_speech,5,4,,FERDINAND.,#ferdinand,792.0,MALE,friendship,T,,1789.0,positive,emotions of affection
+2344,2344,2344,GerDracor/goethe-egmont.xml,"Würde ich klagen,
+              hätte ich nicht alles versucht?",427,490,character_speech,5,4,,FERDINAND.,#ferdinand,792.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2345,2345,2345,GerDracor/goethe-egmont.xml,"Zu seinen Füßen habe ich gelegen, geredet und gebeten.",491,545,character_speech,5,4,,FERDINAND.,#ferdinand,792.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2346,2346,2346,GerDracor/goethe-egmont.xml,"Er schickte mich hierher, um alles, was von Lebenslust und -freude mit mir lebt, in
+              diesem Augenblicke zu zerstören.",560,690,character_speech,5,4,,FERDINAND.,#ferdinand,792.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2347,2347,2347,GerDracor/goethe-egmont.xml,Und keine Rettung?,0,18,character_speech,5,4,,EGMONT.,#egmont,793.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2348,2348,2348,GerDracor/goethe-egmont.xml,Keine!,0,6,character_speech,5,4,,FERDINAND.,#ferdinand,794.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2349,2349,2349,GerDracor/goethe-egmont.xml,mit dem Fuße stampfend.,0,23,stage_direction,5,4,speech_part,,#egmont,795.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2350,2350,2350,GerDracor/goethe-egmont.xml,Keine Rettung!,0,14,character_speech,5,4,,EGMONT,#egmont,795.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2351,2351,2351,GerDracor/goethe-egmont.xml,– – Süßes Leben!,15,31,character_speech,5,4,,EGMONT,#egmont,795.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2352,2352,2352,GerDracor/goethe-egmont.xml,"schöne freundliche Gewohnheit des Daseins und
+              Wirkens!",32,100,character_speech,5,4,,EGMONT,#egmont,795.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2353,2353,2353,GerDracor/goethe-egmont.xml,von dir soll ich scheiden!,101,127,character_speech,5,4,,EGMONT,#egmont,795.0,MALE,love,T,,1789.0,positive,emotions of affection
+2354,2354,2354,GerDracor/goethe-egmont.xml,So gelassen scheiden!,128,149,character_speech,5,4,,EGMONT,#egmont,795.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2355,2355,2355,GerDracor/goethe-egmont.xml,"Nicht im Tumulte der
+              Schlacht, unter dem Geräusch der Waffen, in der Zerstreuung des Getümmels gibst du mir
+              ein flüchtiges Lebewohl; du nimmst keinen eiligen Abschied, verkürzest nicht den
+              Augenblick der Trennung.",150,405,character_speech,5,4,,EGMONT,#egmont,795.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2356,2356,2356,GerDracor/goethe-egmont.xml,"Ich soll deine Hand fassen, dir noch einmal in die Augen
+              sehn, deine Schöne, deinen Wert recht lebhaft fühlen und dann mich entschlossen
+              losreißen und sagen: Fahre hin!",406,602,character_speech,5,4,,EGMONT,#egmont,795.0,MALE,being moved,T,,1789.0,being moved,being moved
+2357,2357,2357,GerDracor/goethe-egmont.xml,"Und ich soll daneben stehn, zusehn, dich nicht halten, nicht hindern können!",0,76,character_speech,5,4,,FERDINAND.,#ferdinand,796.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2358,2358,2358,GerDracor/goethe-egmont.xml,"O welche
+              Stimme reichte zur Klage!",77,125,character_speech,5,4,,FERDINAND.,#ferdinand,796.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2359,2359,2359,GerDracor/goethe-egmont.xml,"Welches Herz flösse nicht aus seinen Banden vor diesem
+              Jammer!",126,202,character_speech,5,4,,FERDINAND.,#ferdinand,796.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2360,2360,2360,GerDracor/goethe-egmont.xml,Fasse dich!,0,11,character_speech,5,4,,EGMONT.,#egmont,797.0,MALE,being moved,T,,1789.0,being moved,being moved
+2361,2361,2361,GerDracor/goethe-egmont.xml,"Du kannst dich fassen, du kannst entsagen, den schweren Schritt an der Hand der
+              Notwendigkeit heldenmäßig gehn.",0,125,character_speech,5,4,,FERDINAND.,#ferdinand,798.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2362,2362,2362,GerDracor/goethe-egmont.xml,Was kann ich?,126,139,character_speech,5,4,,FERDINAND.,#ferdinand,798.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2363,2363,2363,GerDracor/goethe-egmont.xml,Was soll ich?,140,153,character_speech,5,4,,FERDINAND.,#ferdinand,798.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2364,2364,2364,GerDracor/goethe-egmont.xml,"Du überwindest dich selbst
+              und uns; du überstehst; ich überlebe dich und mich selbst.",154,253,character_speech,5,4,,FERDINAND.,#ferdinand,798.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2365,2365,2365,GerDracor/goethe-egmont.xml,"Bei der Freude des Mahls
+              hab ich mein Licht, im Getümmel der Schlacht meine Fahne verloren.",254,359,character_speech,5,4,,FERDINAND.,#ferdinand,798.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2366,2366,2366,GerDracor/goethe-egmont.xml,"Schal, verworren,
+              trüb scheint mir die Zukunft.",360,421,character_speech,5,4,,FERDINAND.,#ferdinand,798.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2367,2367,2367,GerDracor/goethe-egmont.xml,"Junger Freund, den ich durch ein sonderbares Schicksal zugleich gewinne und verliere,
+              der für mich die Todesschmerzen empfindet, für mich leidet, sieh mich in diesen
+              Augenblicken an; du verlierst mich nicht.",0,235,character_speech,5,4,,EGMONT.,#egmont,799.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2368,2368,2368,GerDracor/goethe-egmont.xml,"War dir mein Leben ein Spiegel, in welchem
+              du dich gerne betrachtetest, so sei es auch mein Tod.",236,346,character_speech,5,4,,EGMONT.,#egmont,799.0,MALE,love,T,,1789.0,positive,emotions of affection
+2369,2369,2369,GerDracor/goethe-egmont.xml,"Die Menschen sind nicht nur
+              zusammen, wenn sie beisammen sind; auch der Entfernte, der Abgeschiedne lebt uns.",347,470,character_speech,5,4,,EGMONT.,#egmont,799.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2370,2370,2370,GerDracor/goethe-egmont.xml,"Ich
+              lebe dir, und habe mir genug gelebt.",471,525,character_speech,5,4,,EGMONT.,#egmont,799.0,MALE,love,T,,1789.0,positive,emotions of affection
+2371,2371,2371,GerDracor/goethe-egmont.xml,"Eines jeden Tages hab ich mich gefreut, an jedem
+              Tage mit rascher Wirkung meine Pflicht  getan, wie mein Gewissen mir sie
+              zeigte.",526,683,character_speech,5,4,,EGMONT.,#egmont,799.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2372,2372,2372,GerDracor/goethe-egmont.xml,"Nun endigt sich das Leben, wie es sich früher, früher, schon auf dem Sande von
+              Gravelingen hätte endigen können.",684,810,character_speech,5,4,,EGMONT.,#egmont,799.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2373,2373,2373,GerDracor/goethe-egmont.xml,Ich höre auf zu leben; aber ich habe gelebt.,811,855,character_speech,5,4,,EGMONT.,#egmont,799.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2374,2374,2374,GerDracor/goethe-egmont.xml,"So leb
+              auch du, mein Freund, gern und mit Lust, und scheue den Tod nicht!",856,943,character_speech,5,4,,EGMONT.,#egmont,799.0,MALE,friendship,T,,1789.0,positive,emotions of affection
+2375,2375,2375,GerDracor/goethe-egmont.xml,"Du hättest dich für uns erhalten können, erhalten sollen.",0,57,character_speech,5,4,,FERDINAND.,#ferdinand,800.0,MALE,"admiration, reverence",T,,1789.0,positive,emotions of affection
+2376,2376,2376,GerDracor/goethe-egmont.xml,"Du hast dich selber
+              getötet.",58,100,character_speech,5,4,,FERDINAND.,#ferdinand,800.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2377,2377,2377,GerDracor/goethe-egmont.xml,"Oft hört ich, wenn kluge Männer über dich sprachen, feindselige,
+              wohlwollende, sie stritten lang über deinen Wert; doch endlich vereinigten sie sich,
+              keiner wagt' es zu leugnen, jeder gestand: ja, er wandelt einen gefährlichen Weg.",101,360,character_speech,5,4,,FERDINAND.,#ferdinand,800.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2378,2378,2378,GerDracor/goethe-egmont.xml,"Wie
+              oft wünscht ich, dich warnen zu können!",361,418,character_speech,5,4,,FERDINAND.,#ferdinand,800.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2379,2379,2379,GerDracor/goethe-egmont.xml,Hattest du denn keine Freunde?,419,449,character_speech,5,4,,FERDINAND.,#ferdinand,800.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2380,2380,2380,GerDracor/goethe-egmont.xml,Ich war gewarnt.,0,16,character_speech,5,4,,EGMONT.,#egmont,801.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2381,2381,2381,GerDracor/goethe-egmont.xml,"Und wie ich punktweise alle diese Beschuldigungen wieder in der Anklage fand, und
+              deine Antworten!",0,112,character_speech,5,4,,FERDINAND.,#ferdinand,802.0,MALE,being moved,T,,1789.0,being moved,being moved
+2382,2382,2382,GerDracor/goethe-egmont.xml,"Gut genug, dich zu entschuldigen; nicht triftig genug, dich von der
+              Schuld zu befreien –",113,215,character_speech,5,4,,FERDINAND.,#ferdinand,802.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2383,2383,2383,GerDracor/goethe-egmont.xml,Dies sei beiseitegelegt.,0,24,character_speech,5,4,,EGMONT.,#egmont,803.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2384,2384,2384,GerDracor/goethe-egmont.xml,"Es glaubt der Mensch, sein Leben zu leiten, sich selbst zu
+              führen; und sein Innerstes wird unwiderstehlich nach seinem Schicksale gezogen.",25,177,character_speech,5,4,,EGMONT.,#egmont,803.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2385,2385,2385,GerDracor/goethe-egmont.xml,"Laß
+              uns darüber nicht sinnen; dieser Gedanken entschlag ich mich leicht – schwerer der
+              Sorge für dieses Land!",178,315,character_speech,5,4,,EGMONT.,#egmont,803.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2386,2386,2386,GerDracor/goethe-egmont.xml,doch auch dafür wird gesorgt sein.,316,350,character_speech,5,4,,EGMONT.,#egmont,803.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2387,2387,2387,GerDracor/goethe-egmont.xml,"Kann mein Blut für viele
+              fließen, meinem Volk Friede bringen, so fließt es willig.",351,447,character_speech,5,4,,EGMONT.,#egmont,803.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2388,2388,2388,GerDracor/goethe-egmont.xml,"Leider wird's nicht so
+              werden.",448,492,character_speech,5,4,,EGMONT.,#egmont,803.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2389,2389,2389,GerDracor/goethe-egmont.xml,"Doch es ziemt dem Menschen, nicht mehr zu grübeln, wo er nicht mehr wirken
+              soll.",493,587,character_speech,5,4,,EGMONT.,#egmont,803.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2390,2390,2390,GerDracor/goethe-egmont.xml,"Kannst du die verderbende Gewalt deines Vaters aufhalten, lenken, so tu's!",588,662,character_speech,5,4,,EGMONT.,#egmont,803.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2391,2391,2391,GerDracor/goethe-egmont.xml,"Wer
+              wird das können?",663,697,character_speech,5,4,,EGMONT.,#egmont,803.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2392,2392,2392,GerDracor/goethe-egmont.xml,– Leb wohl!,698,709,character_speech,5,4,,EGMONT.,#egmont,803.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2393,2393,2393,GerDracor/goethe-egmont.xml,Ich kann nicht gehn.,0,20,character_speech,5,4,,FERDINAND.,#ferdinand,804.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2394,2394,2394,GerDracor/goethe-egmont.xml,Laß meine Leute dir aufs beste empfohlen sein!,0,46,character_speech,5,4,,EGMONT.,#egmont,805.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2395,2395,2395,GerDracor/goethe-egmont.xml,"Ich habe gute Menschen zu Dienern; daß
+              sie nicht zerstreut nicht unglücklich werden!",47,145,character_speech,5,4,,EGMONT.,#egmont,805.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2396,2396,2396,GerDracor/goethe-egmont.xml,"Wie steht es um Richard, meinen
+              Schreiber?",146,202,character_speech,5,4,,EGMONT.,#egmont,805.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2397,2397,2397,GerDracor/goethe-egmont.xml,Er ist dir vorangegangen.,0,25,character_speech,5,4,,FERDINAND.,#ferdinand,806.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2398,2398,2398,GerDracor/goethe-egmont.xml,"Sie haben ihn als Mitschuldigen des Hochverrats
+              enthauptet.",26,99,character_speech,5,4,,FERDINAND.,#ferdinand,806.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2399,2399,2399,GerDracor/goethe-egmont.xml,Arme Seele!,0,11,character_speech,5,4,,EGMONT.,#egmont,807.0,MALE,compassion,T,,1789.0,negative,emotions of suffering and empathy
+2400,2400,2400,GerDracor/goethe-egmont.xml,"– Noch eins, und dann leb wohl, ich kann nicht mehr.",12,64,character_speech,5,4,,EGMONT.,#egmont,807.0,MALE,despair,T,,1789.0,negative,emotions of anxiety
+2401,2401,2401,GerDracor/goethe-egmont.xml,"Was auch den Geist
+              gewaltsam beschäftigt,  fordert die Natur zuletzt doch unwiderstehlich
+              ihre Rechte; und wie ein Kind, umwunden von der Schlange, des erquickenden Schlafs
+              genießt, so legt der Müde sich noch einmal vor der Pforte des Todes nieder und ruht
+              tief aus, als ob er einen weiten Weg zu wandern hätte.",65,432,character_speech,5,4,,EGMONT.,#egmont,807.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2402,2402,2402,GerDracor/goethe-egmont.xml,"– Noch eins – Ich kenne ein
+              Mädchen; du wirst sie nicht verachten, weil sie mein war.",433,532,character_speech,5,4,,EGMONT.,#egmont,807.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2403,2403,2403,GerDracor/goethe-egmont.xml,"Nun ich sie dir empfehle,
+              sterb ich ruhig.",533,589,character_speech,5,4,,EGMONT.,#egmont,807.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2404,2404,2404,GerDracor/goethe-egmont.xml,"Du bist ein edler Mann; ein Weib, das den findet, ist geborgen.",590,653,character_speech,5,4,,EGMONT.,#egmont,807.0,MALE,"admiration, reverence",T,,1789.0,positive,emotions of affection
+2405,2405,2405,GerDracor/goethe-egmont.xml,"Lebt
+              mein alter Adolf?",654,690,character_speech,5,4,,EGMONT.,#egmont,807.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2406,2406,2406,GerDracor/goethe-egmont.xml,ist er frei?,691,703,character_speech,5,4,,EGMONT.,#egmont,807.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2407,2407,2407,GerDracor/goethe-egmont.xml,"Der muntre Greis, der Euch zu Pferde immer begleitete?",0,54,character_speech,5,4,,FERDINAND.,#ferdinand,808.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2408,2408,2408,GerDracor/goethe-egmont.xml,Derselbe.,0,9,character_speech,5,4,,EGMONT.,#egmont,809.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2409,2409,2409,GerDracor/goethe-egmont.xml,"Er lebt, er ist frei.",0,21,character_speech,5,4,,FERDINAND.,#ferdinand,810.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2410,2410,2410,GerDracor/goethe-egmont.xml,"Er weiß ihre Wohnung; laß dich von ihm führen und lohn ihm bis an sein Ende, daß er
+              dir den Weg zu diesem Kleinode zeigt.",0,135,character_speech,5,4,,EGMONT.,#egmont,811.0,MALE,"admiration, reverence",T,,1789.0,positive,emotions of affection
+2411,2411,2411,GerDracor/goethe-egmont.xml,– Leb wohl!,136,147,character_speech,5,4,,EGMONT.,#egmont,811.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2412,2412,2412,GerDracor/goethe-egmont.xml,Ich gehe nicht.,0,15,character_speech,5,4,,FERDINAND.,#ferdinand,812.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2413,2413,2413,GerDracor/goethe-egmont.xml,ihn nach der Tür drängend.,0,26,stage_direction,5,4,speech_part,,#egmont,813.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2414,2414,2414,GerDracor/goethe-egmont.xml,Leb wohl!,0,9,character_speech,5,4,,EGMONT,#egmont,813.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2415,2415,2415,GerDracor/goethe-egmont.xml,O laß mich noch!,0,16,character_speech,5,4,,FERDINAND.,#ferdinand,814.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2416,2416,2416,GerDracor/goethe-egmont.xml,"Freund, keinen Abschied!",0,24,character_speech,5,4,,EGMONT.,#egmont,815.0,MALE,friendship,T,,1789.0,positive,emotions of affection
+2417,2417,2417,GerDracor/goethe-egmont.xml,Er begleitet Ferdinanden bis an die Tür und reißt sich dort von ihm los.,0,72,stage_direction,5,4,speech_part,,#egmont,815.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2418,2418,2418,GerDracor/goethe-egmont.xml,"Ferdinand, betäubt, entfernt sich eilend.",0,41,stage_direction,5,4,speech_part,,#egmont,815.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2419,2419,2419,GerDracor/goethe-egmont.xml,allein.,0,7,stage_direction,5,4,speech_part,,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2420,2420,2420,GerDracor/goethe-egmont.xml,Feindseliger Mann!,0,18,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,compassion,T,,1789.0,negative,emotions of suffering and empathy
+2421,2421,2421,GerDracor/goethe-egmont.xml,"Du glaubtest nicht, mir diese Wohltat durch deinen Sohn zu
+              erzeigen.",19,101,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2422,2422,2422,GerDracor/goethe-egmont.xml,"Durch ihn bin ich der Sorgen los und der Schmerzen, der Furcht und jedes
+              ängstlichen Gefühls.",102,209,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2423,2423,2423,GerDracor/goethe-egmont.xml,Sanft und dringend fordert die Natur ihren letzten Zoll.,210,266,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2424,2424,2424,GerDracor/goethe-egmont.xml,"Es ist
+              vorbei, es ist beschlossen!",267,315,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,anger,T,,1789.0,negative,emotions of rejection
+2425,2425,2425,GerDracor/goethe-egmont.xml,"und was die letzte Nacht mich ungewiß auf meinem Lager
+              wachend hielt, das schläfert nun mit unbezwinglicher Gewißheit meine Sinnen ein.",316,465,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2426,2426,2426,GerDracor/goethe-egmont.xml,Er setzt sich aufs Ruhebett.,0,28,stage_direction,5,4,speech_part,,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2427,2427,2427,GerDracor/goethe-egmont.xml,Musik.,29,35,stage_direction,5,4,speech_part,,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2428,2428,2428,GerDracor/goethe-egmont.xml,Süßer Schlaf!,0,13,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2429,2429,2429,GerDracor/goethe-egmont.xml,"Du kommst wie ein reines Glück ungebeten, unerfleht am willigsten.",14,80,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2430,2430,2430,GerDracor/goethe-egmont.xml,"Du
+              lösest die Knoten der strengen Gedanken, vermischest alle Bilder der Freude und des
+              Schmerzes; ungehindert fließt der Kreis innerer Harmonien, und eingehüllt in
+              gefälligen Wahnsinn, versinken wir und hören auf zu sein.",81,344,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2431,2431,2431,GerDracor/goethe-egmont.xml,Er entschläft; die Musik begleitet seinen Schlummer.,0,52,stage_direction,5,4,speech_part,,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2432,2432,2432,GerDracor/goethe-egmont.xml,"Hinter seinem Lager scheint
+              sich die Mauer zu eröffnen, eine glänzende Erscheinung",53,149,stage_direction,5,4,speech_part,,#egmont,816.0,MALE,"admiration, reverence",T,,1789.0,positive,emotions of affection
+2433,2433,2433,GerDracor/goethe-egmont.xml,Verschwunden ist der Kranz!,0,27,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2434,2434,2434,GerDracor/goethe-egmont.xml,"Du schönes Bild, das Licht des Tages hat dich
+              verscheuchet!",28,101,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2435,2435,2435,GerDracor/goethe-egmont.xml,"Ja, sie waren's, sie waren vereint, die beiden süßesten Freuden meines
+              Herzens.",102,195,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2436,2436,2436,GerDracor/goethe-egmont.xml,"Die göttliche Freiheit, von meiner Geliebten borgte sie die Gestalt; das
+              reizende Mädchen kleidete sich in der Freundin himmlisches Gewand.",196,349,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2437,2437,2437,GerDracor/goethe-egmont.xml,"In einem ernsten
+              Augenblick erscheinen sie vereinigt, ernster als lieblich.",350,439,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2438,2438,2438,GerDracor/goethe-egmont.xml,"Mit blutbefleckten Sohlen
+              trat sie vor mir auf, die wehenden Falten des Saumes mit Blut befleckt.",440,551,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2439,2439,2439,GerDracor/goethe-egmont.xml,"Es war mein
+              Blut und vieler Edeln Blut.",552,605,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2440,2440,2440,GerDracor/goethe-egmont.xml,"Nein, es ward nicht umsonst vergossen.",606,644,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2441,2441,2441,GerDracor/goethe-egmont.xml,Schreitet durch!,645,661,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2442,2442,2442,GerDracor/goethe-egmont.xml,Braves Volk!,676,688,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2443,2443,2443,GerDracor/goethe-egmont.xml,Die Siegesgöttin führt dich an!,689,720,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,"admiration, reverence",T,,1789.0,positive,emotions of affection
+2444,2444,2444,GerDracor/goethe-egmont.xml,"Und wie das Meer durch eure Dämme bricht,
+              so brecht, so reißt den Wall der Tyrannei zusammen und schwemmt ersäufend sie von
+              ihrem Grunde, den sie sich anmaßt, weg!",721,912,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2445,2445,2445,GerDracor/goethe-egmont.xml,Trommeln näher.,0,15,stage_direction,5,4,speech_part,,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2446,2446,2446,GerDracor/goethe-egmont.xml,Horch!,0,6,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,being moved,T,,1789.0,being moved,being moved
+2447,2447,2447,GerDracor/goethe-egmont.xml,Horch!,7,13,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,being moved,T,,1789.0,being moved,being moved
+2448,2448,2448,GerDracor/goethe-egmont.xml,"Wie oft rief mich dieser Schall zum freien Schritt nach dem Felde des
+              Streits und des Siegs!",14,120,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2449,2449,2449,GerDracor/goethe-egmont.xml,"Wie munter traten die Gefährten auf der gefährlichen rühmlichen
+              Bahn!",121,204,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2450,2450,2450,GerDracor/goethe-egmont.xml,"Auch ich schreite einem ehrenvollen Tode aus diesem Kerker entgegen; ich sterbe
+              für die Freiheit, für die ich lebte und focht, und der ich mich jetzt leidend
+              opfre.",205,397,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2451,2451,2451,GerDracor/goethe-egmont.xml,"Ja, führt sie nur zusammen!",0,27,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2452,2452,2452,GerDracor/goethe-egmont.xml,"Schließt eure Reihen, ihr schreckt mich nicht.",28,74,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2453,2453,2453,GerDracor/goethe-egmont.xml,"Ich bin
+              gewohnt, vor Speeren gegen Speere zu stehn und, rings umgeben von dem drohenden Tod,
+              das mutige Leben nur doppelt rasch zu fühlen.",75,241,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,suffering,T,,1789.0,negative,emotions of suffering and empathy
+2454,2454,2454,GerDracor/goethe-egmont.xml,Trommeln.,0,9,stage_direction,5,4,speech_part,,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2455,2455,2455,GerDracor/goethe-egmont.xml,Dich schließt der Feind von allen Seiten ein!,0,45,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,abhorrence,T,,1789.0,negative,emotions of rejection
+2456,2456,2456,GerDracor/goethe-egmont.xml,"Es blinken Schwerter – Freunde, höhren
+              Mut!",46,103,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2457,2457,2457,GerDracor/goethe-egmont.xml,"Im Rücken habt ihr Eltern, Weiber, Kinder!",104,146,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2458,2458,2458,GerDracor/goethe-egmont.xml,Auf die Wache zeigend.,0,22,stage_direction,5,4,speech_part,,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2459,2459,2459,GerDracor/goethe-egmont.xml,"Und diese treibt ein hohles Wort des Herrschers, nicht ihr Gemüt.",0,65,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2460,2460,2460,GerDracor/goethe-egmont.xml,Schützt eure Güter!,66,85,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,fear,T,,1789.0,negative,emotions of anxiety
+2461,2461,2461,GerDracor/goethe-egmont.xml,"Und euer Liebstes zu erretten, fallt freudig, wie ich euch ein Beispiel gebe.",100,177,character_speech,5,4,,EGMONT,#egmont,816.0,MALE,joy,T,,1789.0,positive,emotions of pleasure
+2462,2462,2462,GerDracor/goethe-egmont.xml,Trommeln.,0,9,stage_direction,5,4,speech_part,,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation
+2463,2463,2463,GerDracor/goethe-egmont.xml,"Wie er auf die Wache los und auf die Hintertür zu geht, fällt der Vorhang: die
+              Musik fällt ein und schließt mit einer Siegessymphonie das Stück.",0,158,stage_direction,5,4,speech_part,,#egmont,816.0,MALE,no_annotation,T,,1789.0,no_annotation,no_annotation

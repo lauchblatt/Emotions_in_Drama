@@ -1,0 +1,184 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+513,513,513,GerDracor/schink-der-neue-doktor-faust.xml,Faust.,0,6,stage_direction,2,6,pre_speech,,,,,no_annotation,K,,1782.0,no_annotation,no_annotation
+514,514,514,GerDracor/schink-der-neue-doktor-faust.xml,Rosalinde.,7,17,stage_direction,2,6,pre_speech,,,,,no_annotation,K,,1782.0,no_annotation,no_annotation
+515,515,515,GerDracor/schink-der-neue-doktor-faust.xml,"in einer sehr verfürerischen, reizenden Kleidung.",18,67,stage_direction,2,6,pre_speech,,,,,"admiration, reverence",K,,1782.0,positive,emotions of affection
+516,516,516,GerDracor/schink-der-neue-doktor-faust.xml,"sie bleibt in der Ferne stehen, tritt zu des Doktors Klavier, und singt.",0,72,stage_direction,2,6,speech_part,,#rosalinde,178.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+517,517,517,GerDracor/schink-der-neue-doktor-faust.xml,"
+              Rosen blühen, Nelken düsten,
+              Balsamhauch schwimmt in den Lüften,
+              Wolgeruch steigt auf vom Tal,
+              Frende winket überall.",0,174,character_speech,2,6,,ROSALINDE,#rosalinde,178.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+518,518,518,GerDracor/schink-der-neue-doktor-faust.xml,"Lerchen trillern, Nachtigallen
+              Lassen süsse Lieder schallen;
+              Liebe winkt, o Jüngling!",189,302,character_speech,2,6,,ROSALINDE,#rosalinde,178.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+519,519,519,GerDracor/schink-der-neue-doktor-faust.xml,"dir:
+              Höre sie, und folge ihr!",303,346,character_speech,2,6,,ROSALINDE,#rosalinde,178.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+520,520,520,GerDracor/schink-der-neue-doktor-faust.xml,aus seiner Verzweiflung erwachend.,0,34,stage_direction,2,6,speech_part,,#faust,179.0,MALE,despair,K,,1782.0,negative,emotions of anxiety
+521,521,521,GerDracor/schink-der-neue-doktor-faust.xml,Was ist das?,0,12,character_speech,2,6,,FAUST,#faust,179.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+522,522,522,GerDracor/schink-der-neue-doktor-faust.xml,welche zauberische Töne!,13,37,character_speech,2,6,,FAUST,#faust,179.0,MALE,joy,K,,1782.0,positive,emotions of pleasure
+523,523,523,GerDracor/schink-der-neue-doktor-faust.xml,"Erblikt Rosalinden und färt
+                zusammen.",0,53,stage_direction,2,6,inner_speech,,#faust,179.0,MALE,love,K,,1782.0,positive,emotions of affection
+524,524,524,GerDracor/schink-der-neue-doktor-faust.xml, Ha das ist sie!,0,16,character_speech,2,6,,FAUST,#faust,179.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+525,525,525,GerDracor/schink-der-neue-doktor-faust.xml,Mit trunkenem Auge an ihr hangend.,0,34,stage_direction,2,6,inner_speech,,#faust,179.0,MALE,suffering,K,,1782.0,negative,emotions of suffering and empathy
+526,526,526,GerDracor/schink-der-neue-doktor-faust.xml,"
+              Himmel, welche Schönheit!",0,40,character_speech,2,6,,FAUST,#faust,179.0,MALE,"admiration, reverence",K,,1782.0,positive,emotions of affection
+527,527,527,GerDracor/schink-der-neue-doktor-faust.xml,"Das Lüchein der Liebe schwimmt in ihren Augen, auf ihren
+              Wangen glüht Morgenrot, und auf ihren Lippen Florens Kinder.",41,172,character_speech,2,6,,FAUST,#faust,179.0,MALE,love,K,,1782.0,positive,emotions of affection
+528,528,528,GerDracor/schink-der-neue-doktor-faust.xml,"Plözlich sich
+                abwendend.",0,40,stage_direction,2,6,inner_speech,,#faust,179.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+529,529,529,GerDracor/schink-der-neue-doktor-faust.xml," O ich darf sie nicht länger ausehn, oder ich bin verloren.",0,59,character_speech,2,6,,FAUST,#faust,179.0,MALE,despair,K,,1782.0,negative,emotions of anxiety
+530,530,530,GerDracor/schink-der-neue-doktor-faust.xml,näher tretend.,0,14,stage_direction,2,6,speech_part,,#rosalinde,180.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+531,531,531,GerDracor/schink-der-neue-doktor-faust.xml,"Sieh mich an, liebenswürdiger Sterblicher; las dich mein Auge zur Liebe laden.",0,78,character_speech,2,6,,ROSALINDE,#rosalinde,180.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+532,532,532,GerDracor/schink-der-neue-doktor-faust.xml,"mit abgewanten Gesicht, mit einer Bewegung des Entfernens.",0,58,stage_direction,2,6,speech_part,,#faust,181.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+533,533,533,GerDracor/schink-der-neue-doktor-faust.xml,"Weg, Weib des Verderbens, weg!",0,30,character_speech,2,6,,FAUST,#faust,181.0,MALE,abhorrence,K,,1782.0,negative,emotions of rejection
+534,534,534,GerDracor/schink-der-neue-doktor-faust.xml,seine Hand ergreifend.,0,22,stage_direction,2,6,speech_part,,#rosalinde,182.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+535,535,535,GerDracor/schink-der-neue-doktor-faust.xml,Ich dich verderben?,0,19,character_speech,2,6,,ROSALINDE,#rosalinde,182.0,FEMALE,fear,K,,1782.0,negative,emotions of anxiety
+536,536,536,GerDracor/schink-der-neue-doktor-faust.xml,womit sollt ich das?,20,40,character_speech,2,6,,ROSALINDE,#rosalinde,182.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+537,537,537,GerDracor/schink-der-neue-doktor-faust.xml,Mit diesem Blik voll Liede?,41,68,character_speech,2,6,,ROSALINDE,#rosalinde,182.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+538,538,538,GerDracor/schink-der-neue-doktor-faust.xml,"Sich mich doch
+              an!",69,101,character_speech,2,6,,ROSALINDE,#rosalinde,182.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+539,539,539,GerDracor/schink-der-neue-doktor-faust.xml,wie oben.,0,9,stage_direction,2,6,speech_part,,#faust,183.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+540,540,540,GerDracor/schink-der-neue-doktor-faust.xml,Weg!,0,4,character_speech,2,6,,FAUST,#faust,183.0,MALE,anger,K,,1782.0,negative,emotions of rejection
+541,541,541,GerDracor/schink-der-neue-doktor-faust.xml,Nur einen Blik!,0,15,character_speech,2,6,,ROSALINDE.,#rosalinde,184.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+542,542,542,GerDracor/schink-der-neue-doktor-faust.xml,"Faust hat den Blik zur Erde gesenkt, sie fast ihn an dem Kinn,
+                und hebt ihm das Gesicht in die Höh.",0,115,stage_direction,2,6,inner_speech,,#rosalinde,184.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+543,543,543,GerDracor/schink-der-neue-doktor-faust.xml, Nur einen!,0,11,character_speech,2,6,,ROSALINDE.,#rosalinde,184.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+544,544,544,GerDracor/schink-der-neue-doktor-faust.xml,sieh mich an.,12,25,character_speech,2,6,,ROSALINDE.,#rosalinde,184.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+545,545,545,GerDracor/schink-der-neue-doktor-faust.xml,"mit der Leidenschaft kämpfend, aber noch immer den Blik abgewant.",0,65,stage_direction,2,6,speech_part,,#faust,185.0,MALE,being moved,K,,1782.0,being moved,being moved
+546,546,546,GerDracor/schink-der-neue-doktor-faust.xml,Weh mir!,0,8,character_speech,2,6,,FAUST,#faust,185.0,MALE,suffering,K,,1782.0,negative,emotions of suffering and empathy
+547,547,547,GerDracor/schink-der-neue-doktor-faust.xml,mit dem Berüren ihrer Finger schlagen elektrische Funken in meine Seele.,9,81,character_speech,2,6,,FAUST,#faust,185.0,MALE,love,K,,1782.0,positive,emotions of affection
+548,548,548,GerDracor/schink-der-neue-doktor-faust.xml,"O
+              was wirds erst werden, wenn ihre Augen den meinigen begegnen?",82,159,character_speech,2,6,,FAUST,#faust,185.0,MALE,being moved,K,,1782.0,being moved,being moved
+549,549,549,GerDracor/schink-der-neue-doktor-faust.xml,"Mit beiden Händen
+                ihre Hand fassend, den Blik immer auf die Erde.",0,81,stage_direction,2,6,inner_speech,,#faust,185.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+550,550,550,GerDracor/schink-der-neue-doktor-faust.xml," Weib, las mich!",0,16,character_speech,2,6,,FAUST,#faust,185.0,MALE,anger,K,,1782.0,negative,emotions of rejection
+551,551,551,GerDracor/schink-der-neue-doktor-faust.xml,"willst du
+              mich nicht ins Elend stürzen?",17,70,character_speech,2,6,,FAUST,#faust,185.0,MALE,suffering,K,,1782.0,negative,emotions of suffering and empathy
+552,552,552,GerDracor/schink-der-neue-doktor-faust.xml,Dich ins Elend stürzen?,0,23,character_speech,2,6,,ROSALINDE.,#rosalinde,186.0,FEMALE,suffering,K,,1782.0,negative,emotions of suffering and empathy
+553,553,553,GerDracor/schink-der-neue-doktor-faust.xml,Ihm abermal das Gesicht in die Höhe hebend.,0,43,stage_direction,2,6,inner_speech,,#rosalinde,186.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+554,554,554,GerDracor/schink-der-neue-doktor-faust.xml,"
+              Närrchen, sieh doch her.",0,39,character_speech,2,6,,ROSALINDE.,#rosalinde,186.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+555,555,555,GerDracor/schink-der-neue-doktor-faust.xml,"mit einem Blik auf sie, wie versteinert.",0,40,stage_direction,2,6,speech_part,,#faust,187.0,MALE,being moved,K,,1782.0,being moved,being moved
+556,556,556,GerDracor/schink-der-neue-doktor-faust.xml,"Himmel und Seligkeit, was für ein Glanz!",0,40,character_speech,2,6,,FAUST,#faust,187.0,MALE,joy,K,,1782.0,positive,emotions of pleasure
+557,557,557,GerDracor/schink-der-neue-doktor-faust.xml,"Nun, war das ein Blik voll Verderben?",0,37,character_speech,2,6,,ROSALINDE.,#rosalinde,188.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+558,558,558,GerDracor/schink-der-neue-doktor-faust.xml,"halb in Entzükkung, halb in Verzweiflung.",0,41,stage_direction,2,6,speech_part,,#faust,189.0,MALE,being moved,K,,1782.0,being moved,being moved
+559,559,559,GerDracor/schink-der-neue-doktor-faust.xml,"Ja, ja!",0,7,character_speech,2,6,,FAUST,#faust,189.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+560,560,560,GerDracor/schink-der-neue-doktor-faust.xml,"mit all dem Elisium, das aus ihm stralt – Weib, als der Schöpfer dich
+              bildete, schlug er einen Funken aus der Sonne, und schuf dein Auge.",8,159,character_speech,2,6,,FAUST,#faust,189.0,MALE,love,K,,1782.0,positive,emotions of affection
+561,561,561,GerDracor/schink-der-neue-doktor-faust.xml,"Aber las mich, du
+              bringst mich um Ruh und Glükseligkeit, giessest Verzweiflung in meine Seele.",160,268,character_speech,2,6,,FAUST,#faust,189.0,MALE,despair,K,,1782.0,negative,emotions of anxiety
+562,562,562,GerDracor/schink-der-neue-doktor-faust.xml,"Glaubst du, daß ich das könnte – mag dirs dieser Händedruk sagen.",0,65,character_speech,2,6,,ROSALINDE.,#rosalinde,190.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+563,563,563,GerDracor/schink-der-neue-doktor-faust.xml,"Las mich, las mich!",0,19,character_speech,2,6,,FAUST.,#faust,191.0,MALE,love,K,,1782.0,positive,emotions of affection
+564,564,564,GerDracor/schink-der-neue-doktor-faust.xml,Ich füle durch alle meine Adern verderbendes Feuer.,20,71,character_speech,2,6,,FAUST.,#faust,191.0,MALE,abhorrence,K,,1782.0,negative,emotions of rejection
+565,565,565,GerDracor/schink-der-neue-doktor-faust.xml,"Wart, ich wills löschen.",0,24,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+566,566,566,GerDracor/schink-der-neue-doktor-faust.xml,Küst ihn.,0,9,stage_direction,2,6,inner_speech,,#rosalinde,192.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+567,567,567,GerDracor/schink-der-neue-doktor-faust.xml," Widersteh mir nun länger, wenn du
+              kannst!",0,56,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+568,568,568,GerDracor/schink-der-neue-doktor-faust.xml,–,57,58,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+569,569,569,GerDracor/schink-der-neue-doktor-faust.xml,Seine Hand fassend.,0,19,stage_direction,2,6,inner_speech,,#rosalinde,192.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+570,570,570,GerDracor/schink-der-neue-doktor-faust.xml," Deine Hand bebt – du zitterst – O las gut
+              sein, bald soll dein Zittern schwinden.",0,96,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,fear,K,,1782.0,negative,emotions of anxiety
+571,571,571,GerDracor/schink-der-neue-doktor-faust.xml,Höre:,97,102,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+572,572,572,GerDracor/schink-der-neue-doktor-faust.xml,"Sie tritt ans Klavier, spielt und
+                singt mit der verfürerischsten Melodie.",0,89,stage_direction,2,6,inner_speech,,#rosalinde,192.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+573,573,573,GerDracor/schink-der-neue-doktor-faust.xml,"
+              Hörst du nicht in Rosenbüschen
+              Nachtigallen Liebe singen?",0,86,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+574,574,574,GerDracor/schink-der-neue-doktor-faust.xml,"Hörst du nicht aus Liliennischen
+              Leise Weste Liehe zischen?",101,174,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+575,575,575,GerDracor/schink-der-neue-doktor-faust.xml,"Hörst du nicht auf Rasensizzen
+              Stille Grillen Liebe schwirren?",189,265,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+576,576,576,GerDracor/schink-der-neue-doktor-faust.xml,"Nicht auf grüner Bäume Spizzen
+              Stille Täubchen Liebe girren?",280,354,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+577,577,577,GerDracor/schink-der-neue-doktor-faust.xml,"Warum sollten Rosen glühen,
+              Warum Nelk und Lilien blühen?",369,440,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,being moved,K,,1782.0,being moved,being moved
+578,578,578,GerDracor/schink-der-neue-doktor-faust.xml,"Sollst sie brechen, ihren Dust
+              Liebeatmend in dich ziehen!",456,528,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+579,579,579,GerDracor/schink-der-neue-doktor-faust.xml,"Warum wär auf meinen Wangen
+              Sonst der Früling aufgegangen?",543,615,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+580,580,580,GerDracor/schink-der-neue-doktor-faust.xml,"Sollst sie küssen, sollst in Küssen
+              Ganz in Seligkeit zerfliessen;
+              Darum winkt dir Liebe hier,
+              Und du widerständest ihr!",630,792,character_speech,2,6,,ROSALINDE.,#rosalinde,192.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+581,581,581,GerDracor/schink-der-neue-doktor-faust.xml,"vom Zauber ihrer Stimme auser sich, ganz in trunkner Ekstase versunken, stürzt zu
+              ihren Füssen, fast ihre Hände, drükt sie an seine Lippen, und ruft.",0,163,stage_direction,2,6,speech_part,,#faust,193.0,MALE,being moved,K,,1782.0,being moved,being moved
+582,582,582,GerDracor/schink-der-neue-doktor-faust.xml,Nein!,0,5,character_speech,2,6,,FAUST,#faust,193.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+583,583,583,GerDracor/schink-der-neue-doktor-faust.xml,"ich widersteh nicht länger, Zauberin, ich widersteh nicht länger, vermag nicht!",6,85,character_speech,2,6,,FAUST,#faust,193.0,MALE,despair,K,,1782.0,negative,emotions of anxiety
+584,584,584,GerDracor/schink-der-neue-doktor-faust.xml,"Ich bin dein, auf ewig dein.",100,128,character_speech,2,6,,FAUST,#faust,193.0,MALE,love,K,,1782.0,positive,emotions of affection
+585,585,585,GerDracor/schink-der-neue-doktor-faust.xml,"O las mich nun hangen an deinen Lippen, vergehn im
+              Wonnegenus!",129,205,character_speech,2,6,,FAUST,#faust,193.0,MALE,joy,K,,1782.0,positive,emotions of pleasure
+586,586,586,GerDracor/schink-der-neue-doktor-faust.xml,las mich!,206,215,character_speech,2,6,,FAUST,#faust,193.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+587,587,587,GerDracor/schink-der-neue-doktor-faust.xml,"auf einen Augenblik von seiner Schwärmerei angestekt, drükt ihm die Hand, neigt
+              sich zu ihm herab, zieht sich aber plözlich zurük, und schlägt ein Gelächter
+              auf.",0,189,stage_direction,2,6,speech_part,,#rosalinde,194.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+588,588,588,GerDracor/schink-der-neue-doktor-faust.xml,Hab ich dich?,0,13,character_speech,2,6,,ROSALINDE,#rosalinde,194.0,FEMALE,anger,K,,1782.0,negative,emotions of rejection
+589,589,589,GerDracor/schink-der-neue-doktor-faust.xml,"Armer Faust – der Teufel und das vermeinte schöne Weib, dem du die
+              Hände drükst, sind eins!",14,119,character_speech,2,6,,ROSALINDE,#rosalinde,194.0,FEMALE,compassion,K,,1782.0,negative,emotions of suffering and empathy
+590,590,590,GerDracor/schink-der-neue-doktor-faust.xml,mit Entsezzen ausspringend.,0,27,stage_direction,2,6,speech_part,,#faust,195.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+591,591,591,GerDracor/schink-der-neue-doktor-faust.xml,Eins?,0,5,character_speech,2,6,,FAUST,#faust,195.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+592,592,592,GerDracor/schink-der-neue-doktor-faust.xml,–,6,7,character_speech,2,6,,FAUST,#faust,195.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+593,593,593,GerDracor/schink-der-neue-doktor-faust.xml,Eins!,0,5,character_speech,2,6,,ROSALINDE.,#rosalinde,196.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+594,594,594,GerDracor/schink-der-neue-doktor-faust.xml,"Nun bist du mein, und ich lasse dich nicht, lasse nicht ein Fäserchen von dir.",6,84,character_speech,2,6,,ROSALINDE.,#rosalinde,196.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+595,595,595,GerDracor/schink-der-neue-doktor-faust.xml,"Da ist dein Kontrakt, mit deinem Blut unterzeichnet, du bist mein!",99,165,character_speech,2,6,,ROSALINDE.,#rosalinde,196.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+596,596,596,GerDracor/schink-der-neue-doktor-faust.xml,"wild, verzweifelnd die Hände ringend.",0,37,stage_direction,2,6,speech_part,,#faust,197.0,MALE,despair,K,,1782.0,negative,emotions of anxiety
+597,597,597,GerDracor/schink-der-neue-doktor-faust.xml,Wehe!,0,5,character_speech,2,6,,FAUST,#faust,197.0,MALE,suffering,K,,1782.0,negative,emotions of suffering and empathy
+598,598,598,GerDracor/schink-der-neue-doktor-faust.xml,Wehe!,6,11,character_speech,2,6,,FAUST,#faust,197.0,MALE,suffering,K,,1782.0,negative,emotions of suffering and empathy
+599,599,599,GerDracor/schink-der-neue-doktor-faust.xml,Elend ohne Ende!,12,28,character_speech,2,6,,FAUST,#faust,197.0,MALE,suffering,K,,1782.0,negative,emotions of suffering and empathy
+600,600,600,GerDracor/schink-der-neue-doktor-faust.xml,Jammer und Qualen ohne Namen!,29,58,character_speech,2,6,,FAUST,#faust,197.0,MALE,suffering,K,,1782.0,negative,emotions of suffering and empathy
+601,601,601,GerDracor/schink-der-neue-doktor-faust.xml,"Bitter und
+                heftig.",0,34,stage_direction,2,6,inner_speech,,#faust,197.0,MALE,abhorrence,K,,1782.0,negative,emotions of rejection
+602,602,602,GerDracor/schink-der-neue-doktor-faust.xml," O du hämischer, Schadenfroher Teufel.",0,38,character_speech,2,6,,FAUST,#faust,197.0,MALE,anger,K,,1782.0,negative,emotions of rejection
+603,603,603,GerDracor/schink-der-neue-doktor-faust.xml,in ihrem wahren Ton.,0,20,stage_direction,2,6,speech_part,,#rosalinde,198.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+604,604,604,GerDracor/schink-der-neue-doktor-faust.xml,"Nein Doktor, kein Schadenfroher, ein rechter Spashafter Teufel, ein rechter guter
+              Teufel.",0,103,character_speech,2,6,,ROSALINDE,#rosalinde,198.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+605,605,605,GerDracor/schink-der-neue-doktor-faust.xml,"Hören Sie mich nur, Doktor: kennen Sie nicht in ihrer Nachbarschaft eine junge
+              Frau, Namens Rosalinde, eine Oberstenwitwe?",104,240,character_speech,2,6,,ROSALINDE,#rosalinde,198.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+606,606,606,GerDracor/schink-der-neue-doktor-faust.xml,Deren Bruder bei mir im Hause wont?,0,35,character_speech,2,6,,FAUST.,#faust,199.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+607,607,607,GerDracor/schink-der-neue-doktor-faust.xml,Die nemliche!,0,13,character_speech,2,6,,ROSALINDE.,#rosalinde,200.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+608,608,608,GerDracor/schink-der-neue-doktor-faust.xml,Kennen Sie sie?,14,29,character_speech,2,6,,ROSALINDE.,#rosalinde,200.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+609,609,609,GerDracor/schink-der-neue-doktor-faust.xml,"Dem Namen nach, ja.",0,19,character_speech,2,6,,FAUST.,#faust,201.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+610,610,610,GerDracor/schink-der-neue-doktor-faust.xml,"Man hat mir viel von ihrer Schönheit gesagt, und ihr Bruder viel
+              von ihrem Geiste.",20,116,character_speech,2,6,,FAUST.,#faust,201.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+611,611,611,GerDracor/schink-der-neue-doktor-faust.xml,"Nun, Herr Doktor, der Student, der heut bei Ihnen hören wollte, der Teufel, den Sie
+              zitirten, das schöne Weib, das er Ihnen über den Hals schikte, und diese Rosalinde",0,180,character_speech,2,6,,ROSALINDE.,#rosalinde,202.0,FEMALE,being moved,K,,1782.0,being moved,being moved
+612,612,612,GerDracor/schink-der-neue-doktor-faust.xml,Mit einem tiefen Kniks.,0,23,stage_direction,2,6,inner_speech,,#rosalinde,202.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+613,613,613,GerDracor/schink-der-neue-doktor-faust.xml," machen Ihnen ihr Kompliment, denn alle sind
+              eins.",0,64,character_speech,2,6,,ROSALINDE.,#rosalinde,202.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+614,614,614,GerDracor/schink-der-neue-doktor-faust.xml,Was?,0,4,character_speech,2,6,,FAUST.,#faust,203.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+615,615,615,GerDracor/schink-der-neue-doktor-faust.xml,–,5,6,character_speech,2,6,,FAUST.,#faust,203.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+616,616,616,GerDracor/schink-der-neue-doktor-faust.xml,"Ja, Herr Doktor, ganz richtig.",0,30,character_speech,2,6,,ROSALINDE.,#rosalinde,204.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+617,617,617,GerDracor/schink-der-neue-doktor-faust.xml,Ich hatte mich in Sie verliebt.,31,62,character_speech,2,6,,ROSALINDE.,#rosalinde,204.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+618,618,618,GerDracor/schink-der-neue-doktor-faust.xml,"Ihre Narrheit mit den
+              Geisterzitazionen ging mir zu Herzen; ich entschlos mich, Sie zu kuriren, und da
+              spielt ich Ihnen denn die Komödie.",63,228,character_speech,2,6,,ROSALINDE.,#rosalinde,204.0,FEMALE,suffering,K,,1782.0,negative,emotions of suffering and empathy
+619,619,619,GerDracor/schink-der-neue-doktor-faust.xml,"Wenn Sie sich nun einem Teufel, wie ich, mit Leib
+              und Seel  ergeben, und zum Rekompens ein Vermögen von 50000 Thaler dafür
+              nemen wollen, so steh ich zu Befel.",229,415,character_speech,2,6,,ROSALINDE.,#rosalinde,204.0,FEMALE,abhorrence,K,,1782.0,negative,emotions of rejection
+620,620,620,GerDracor/schink-der-neue-doktor-faust.xml,"Und, daß Sie nur nicht etwa Anstand nemen: da ist
+              Ihr Kontrakt, Sie dürfen nicht zurük!",416,517,character_speech,2,6,,ROSALINDE.,#rosalinde,204.0,FEMALE,anger,K,,1782.0,negative,emotions of rejection
+621,621,621,GerDracor/schink-der-neue-doktor-faust.xml,voll Entzükken ihre Hand ergreifend.,0,36,stage_direction,2,6,speech_part,,#faust,205.0,MALE,joy,K,,1782.0,positive,emotions of pleasure
+622,622,622,GerDracor/schink-der-neue-doktor-faust.xml,Weib!,0,5,character_speech,2,6,,FAUST,#faust,205.0,MALE,anger,K,,1782.0,negative,emotions of rejection
+623,623,623,GerDracor/schink-der-neue-doktor-faust.xml,Engel!,6,12,character_speech,2,6,,FAUST,#faust,205.0,MALE,being moved,K,,1782.0,being moved,being moved
+624,624,624,GerDracor/schink-der-neue-doktor-faust.xml,"o wie schön hast du mich von meiner Torheit geheilt – Und du könntest
+              mich lieben?",13,109,character_speech,2,6,,FAUST,#faust,205.0,MALE,love,K,,1782.0,positive,emotions of affection
+625,625,625,GerDracor/schink-der-neue-doktor-faust.xml,Ueber die Frage!,0,16,character_speech,2,6,,ROSALINDE.,#rosalinde,206.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+626,626,626,GerDracor/schink-der-neue-doktor-faust.xml,"Wozu denn alle meine Maskeraden, wenn Liebe nicht im Spiel war?",17,80,character_speech,2,6,,ROSALINDE.,#rosalinde,206.0,FEMALE,love,K,,1782.0,positive,emotions of affection
+627,627,627,GerDracor/schink-der-neue-doktor-faust.xml,sie in seine Arme fassend.,0,26,stage_direction,2,6,speech_part,,#faust,207.0,MALE,joy,K,,1782.0,positive,emotions of pleasure
+628,628,628,GerDracor/schink-der-neue-doktor-faust.xml,O so darf ich?,0,14,character_speech,2,6,,FAUST,#faust,207.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+629,629,629,GerDracor/schink-der-neue-doktor-faust.xml,"gütiges, himmlisches Weib!",15,41,character_speech,2,6,,FAUST,#faust,207.0,MALE,"admiration, reverence",K,,1782.0,positive,emotions of affection
+630,630,630,GerDracor/schink-der-neue-doktor-faust.xml,daß ich nicht sterbe für Freude!,42,74,character_speech,2,6,,FAUST,#faust,207.0,MALE,joy,K,,1782.0,positive,emotions of pleasure
+631,631,631,GerDracor/schink-der-neue-doktor-faust.xml,Sachte!,0,7,character_speech,2,6,,ROSALINDE.,#rosalinde,208.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+632,632,632,GerDracor/schink-der-neue-doktor-faust.xml,mit der Freude wäre mir nicht gedient.,8,46,character_speech,2,6,,ROSALINDE.,#rosalinde,208.0,FEMALE,joy,K,,1782.0,positive,emotions of pleasure
+633,633,633,GerDracor/schink-der-neue-doktor-faust.xml,"Ueberlassen Sie das unsern Poeten,
+              lieber Doktor, die sterben so gern für Ihre Damen.",47,146,character_speech,2,6,,ROSALINDE.,#rosalinde,208.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+634,634,634,GerDracor/schink-der-neue-doktor-faust.xml,"Auch bin ich keine grausame
+              Prinzes.",147,197,character_speech,2,6,,ROSALINDE.,#rosalinde,208.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+635,635,635,GerDracor/schink-der-neue-doktor-faust.xml,"– Und nun kommen Sie mit zu meinem Bruder – auch der war einer von den
+              Teufeln.",198,291,character_speech,2,6,,ROSALINDE.,#rosalinde,208.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+636,636,636,GerDracor/schink-der-neue-doktor-faust.xml,"Er mus doch wissen, daß der Teufel den Doktor Faust wirklich geholt hat.",292,364,character_speech,2,6,,ROSALINDE.,#rosalinde,208.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+637,637,637,GerDracor/schink-der-neue-doktor-faust.xml,Nicht wahr?,379,390,character_speech,2,6,,ROSALINDE.,#rosalinde,208.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+638,638,638,GerDracor/schink-der-neue-doktor-faust.xml,–,391,392,character_speech,2,6,,ROSALINDE.,#rosalinde,208.0,FEMALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+639,639,639,GerDracor/schink-der-neue-doktor-faust.xml,"Tor, der ich war – und bin nun so glüklich!",0,43,character_speech,2,6,,FAUST.,#faust,209.0,MALE,joy,K,,1782.0,positive,emotions of pleasure
+640,640,640,GerDracor/schink-der-neue-doktor-faust.xml,Verdien ichs?,44,57,character_speech,2,6,,FAUST.,#faust,209.0,MALE,being moved,K,,1782.0,being moved,being moved
+641,641,641,GerDracor/schink-der-neue-doktor-faust.xml,–,58,59,character_speech,2,6,,FAUST.,#faust,209.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation
+642,642,642,GerDracor/schink-der-neue-doktor-faust.xml,Sie gehen ab.,0,13,stage_direction,2,6,speech_part,,#faust,209.0,MALE,no_annotation,K,,1782.0,no_annotation,no_annotation

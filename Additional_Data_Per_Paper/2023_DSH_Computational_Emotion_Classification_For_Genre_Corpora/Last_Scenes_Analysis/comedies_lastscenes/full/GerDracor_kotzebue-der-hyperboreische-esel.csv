@@ -1,0 +1,83 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+693,693,693,GerDracor/kotzebue-der-hyperboreische-esel.xml,Die Vorigen ohne Karl.,0,22,stage_direction,1,12,pre_speech,,,,,no_annotation,K,,1799.0,no_annotation,no_annotation
+694,694,694,GerDracor/kotzebue-der-hyperboreische-esel.xml,Das ist also unsere heutige Bildung?,0,36,character_speech,1,12,,FÜRST.,#fuerst,296.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+695,695,695,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Impertinente Anmaßung, hochtrabender Unsinn, und
+            gänzliche Mutlosigkeit.",37,121,character_speech,1,12,,FÜRST.,#fuerst,296.0,MALE,abhorrence,K,,1799.0,negative,emotions of rejection
+696,696,696,GerDracor/kotzebue-der-hyperboreische-esel.xml,bei Seite.,0,10,stage_direction,1,12,speech_part,,#baron,297.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+697,697,697,GerDracor/kotzebue-der-hyperboreische-esel.xml,Ich möchte bersten!,0,19,character_speech,1,12,,BARON,#baron,297.0,MALE,fear,K,,1799.0,negative,emotions of anxiety
+698,698,698,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Wenn diese Pest um sich greift, was soll aus der menschlichen Gesellschaft werden!",0,82,character_speech,1,12,,FÜRST.,#fuerst,298.0,MALE,abhorrence,K,,1799.0,negative,emotions of rejection
+699,699,699,GerDracor/kotzebue-der-hyperboreische-esel.xml,"–
+            Weinen Sie nicht, Madame.",83,122,character_speech,1,12,,FÜRST.,#fuerst,298.0,MALE,suffering,K,,1799.0,negative,emotions of suffering and empathy
+700,700,700,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Er verdient Ihr Mitleid, nicht Ihren Zorn.",123,165,character_speech,1,12,,FÜRST.,#fuerst,298.0,MALE,compassion,K,,1799.0,negative,emotions of suffering and empathy
+701,701,701,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Ein paar Jahre im
+            Tollhause werden ihn schon zur Vernunft bringen.",166,244,character_speech,1,12,,FÜRST.,#fuerst,298.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+702,702,702,GerDracor/kotzebue-der-hyperboreische-esel.xml,–,245,246,character_speech,1,12,,FÜRST.,#fuerst,298.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+703,703,703,GerDracor/kotzebue-der-hyperboreische-esel.xml,Zu Hans.,0,8,stage_direction,1,12,inner_speech,,#fuerst,298.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+704,704,704,GerDracor/kotzebue-der-hyperboreische-esel.xml," Nun, mein
+            lieber junger Freund, Sie sagen gar nichts zu dem Allen?",0,79,character_speech,1,12,,FÜRST.,#fuerst,298.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+705,705,705,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Ich, Ew.",0,8,character_speech,1,12,,HANS.,#hans,299.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+706,706,706,GerDracor/kotzebue-der-hyperboreische-esel.xml,Durchlaucht?,9,21,character_speech,1,12,,HANS.,#hans,299.0,MALE,"admiration, reverence",K,,1799.0,positive,emotions of affection
+707,707,707,GerDracor/kotzebue-der-hyperboreische-esel.xml,ich habe auch gar nichts davon verstanden.,22,64,character_speech,1,12,,HANS.,#hans,299.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+708,708,708,GerDracor/kotzebue-der-hyperboreische-esel.xml,Desto besser für Sie.,0,21,character_speech,1,12,,FÜRST.,#fuerst,300.0,MALE,joy,K,,1799.0,positive,emotions of pleasure
+709,709,709,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Ach nein, gnädigster Herr.",0,26,character_speech,1,12,,HANS.,#hans,301.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+710,710,710,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Wenn ich Alles verstanden hätte, so würde ich vielleicht
+            meinen Bruder zu vertheidigen wissen.",27,133,character_speech,1,12,,HANS.,#hans,301.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+711,711,711,GerDracor/kotzebue-der-hyperboreische-esel.xml,Schwerlich.,0,11,character_speech,1,12,,FÜRST.,#fuerst,302.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+712,712,712,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Auch gehört das nicht in Ihr Departement, Herr Oberforstmeister.",12,76,character_speech,1,12,,FÜRST.,#fuerst,302.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+713,713,713,GerDracor/kotzebue-der-hyperboreische-esel.xml,Oberforstmeister?,0,17,character_speech,1,12,,BARON.,#baron,303.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+714,714,714,GerDracor/kotzebue-der-hyperboreische-esel.xml,Wie?,18,22,character_speech,1,12,,BARON.,#baron,303.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+715,715,715,GerDracor/kotzebue-der-hyperboreische-esel.xml,Alle stutzen.,0,13,stage_direction,1,12,inner_speech,,#baron,303.0,MALE,being moved,K,,1799.0,being moved,being moved
+716,716,716,GerDracor/kotzebue-der-hyperboreische-esel.xml,Sie stutzen?,0,12,character_speech,1,12,,FÜRST.,#fuerst,304.0,MALE,being moved,K,,1799.0,being moved,being moved
+717,717,717,GerDracor/kotzebue-der-hyperboreische-esel.xml,"kann ich denn weniger für einen Mann thun, der mir diesen Morgen
+            vielleicht das Leben gerettet hat?",13,124,character_speech,1,12,,FÜRST.,#fuerst,304.0,MALE,love,K,,1799.0,positive,emotions of affection
+718,718,718,GerDracor/kotzebue-der-hyperboreische-esel.xml,ganz verblüfft.,0,15,stage_direction,1,12,speech_part,,#hans,305.0,MALE,being moved,K,,1799.0,being moved,being moved
+719,719,719,GerDracor/kotzebue-der-hyperboreische-esel.xml,Ew.,0,3,character_speech,1,12,,HANS,#hans,305.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+720,720,720,GerDracor/kotzebue-der-hyperboreische-esel.xml,Durchlaucht –,4,17,character_speech,1,12,,HANS,#hans,305.0,MALE,"admiration, reverence",K,,1799.0,positive,emotions of affection
+721,721,721,GerDracor/kotzebue-der-hyperboreische-esel.xml,Gnädigster Fürst –,0,18,character_speech,1,12,,FRAU VON BERG.,#frau_von_berg,306.0,FEMALE,"admiration, reverence",K,,1799.0,positive,emotions of affection
+722,722,722,GerDracor/kotzebue-der-hyperboreische-esel.xml,Keinen Dank.,0,12,character_speech,1,12,,FÜRST.,#fuerst,307.0,MALE,anger,K,,1799.0,negative,emotions of rejection
+723,723,723,GerDracor/kotzebue-der-hyperboreische-esel.xml,Ich will das nicht.,13,32,character_speech,1,12,,FÜRST.,#fuerst,307.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+724,724,724,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Es war längst mein Vorsatz, in Einem Ihrer Söhne die
+            Verdienste seiner Vorfahren zu belohnen.",33,138,character_speech,1,12,,FÜRST.,#fuerst,307.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+725,725,725,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Der Zufall im Wald macht mir diese Belohnung
+            jetzt zur persönlichen Pflicht.",139,227,character_speech,1,12,,FÜRST.,#fuerst,307.0,MALE,joy,K,,1799.0,positive,emotions of pleasure
+726,726,726,GerDracor/kotzebue-der-hyperboreische-esel.xml,Hans umarmend.,0,14,stage_direction,1,12,speech_part,,#frau_von_berg,308.0,FEMALE,joy,K,,1799.0,positive,emotions of pleasure
+727,727,727,GerDracor/kotzebue-der-hyperboreische-esel.xml,Gott!,0,5,character_speech,1,12,,FRAU VON BERG,#frau_von_berg,308.0,FEMALE,being moved,K,,1799.0,being moved,being moved
+728,728,728,GerDracor/kotzebue-der-hyperboreische-esel.xml,so warst du mir zum Versorger erkohren!,6,45,character_speech,1,12,,FRAU VON BERG,#frau_von_berg,308.0,FEMALE,friendship,K,,1799.0,positive,emotions of affection
+729,729,729,GerDracor/kotzebue-der-hyperboreische-esel.xml,"du, an dem ich mich oft durch
+            Geringschätzung versündigt habe!",46,120,character_speech,1,12,,FRAU VON BERG,#frau_von_berg,308.0,FEMALE,abhorrence,K,,1799.0,negative,emotions of rejection
+730,730,730,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Es geschieht nicht selten, Madam, daß Eltern den simpeln, aber nützlichen Menschen
+            vernachlässigen, und  den Feuerkopf zum Liebling wählen, der Alles
+            durcheinander wirft, aber nichts wieder in Ordnung stellt.",0,232,character_speech,1,12,,FÜRST.,#fuerst,309.0,MALE,abhorrence,K,,1799.0,negative,emotions of rejection
+731,731,731,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Gnädigster Herr – ich bin so bewegt – komm' her, Vetter – laß dich an mein Herz
+            drücken!",0,100,character_speech,1,12,,BARON.,#baron,310.0,MALE,being moved,K,,1799.0,being moved,being moved
+732,732,732,GerDracor/kotzebue-der-hyperboreische-esel.xml,Auch ich habe dir abzubitten.,101,130,character_speech,1,12,,BARON.,#baron,310.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+733,733,733,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Ja, du bist ein wackerer Mensch, und ein guter
+            Oberforstmeister.",131,207,character_speech,1,12,,BARON.,#baron,310.0,MALE,"admiration, reverence",K,,1799.0,positive,emotions of affection
+734,734,734,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Du verstehst Wälder anzupflanzen, die einst unsern Nachkommen Schatten
+            und Wärme geben werden; jener Bube versteht nur Alles auszuwurzeln, was unsern Vorfahren
+            und uns Schatten und Wärme gab.",208,423,character_speech,1,12,,BARON.,#baron,310.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+735,735,735,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Mein Gott, ich habe nichts gethan, und Sie loben mich Alle.",0,59,character_speech,1,12,,HANS.,#hans,311.0,MALE,joy,K,,1799.0,positive,emotions of pleasure
+736,736,736,GerDracor/kotzebue-der-hyperboreische-esel.xml,Weil du ein löblicher Mensch bist.,0,34,character_speech,1,12,,BARON.,#baron,312.0,MALE,"admiration, reverence",K,,1799.0,positive,emotions of affection
+737,737,737,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Ja, Hans, du sollst mein Erbe werden, mein
+            Schwiegersohn.",35,104,character_speech,1,12,,BARON.,#baron,312.0,MALE,joy,K,,1799.0,positive,emotions of pleasure
+738,738,738,GerDracor/kotzebue-der-hyperboreische-esel.xml,Oheim!,0,6,character_speech,1,12,,HANS.,#hans,313.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+739,739,739,GerDracor/kotzebue-der-hyperboreische-esel.xml,– um Gotteswillen!,7,25,character_speech,1,12,,HANS.,#hans,313.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+740,740,740,GerDracor/kotzebue-der-hyperboreische-esel.xml,ist das Ernst?,26,40,character_speech,1,12,,HANS.,#hans,313.0,MALE,being moved,K,,1799.0,being moved,being moved
+741,741,741,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Ernst, Herr Oberforstmeister.",0,29,character_speech,1,12,,BARON.,#baron,314.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+742,742,742,GerDracor/kotzebue-der-hyperboreische-esel.xml,Wird Malchen wollen?,0,20,character_speech,1,12,,HANS.,#hans,315.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+743,743,743,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Den Hals drehe ich ihr um, wenn sie noch an dem Tollhäusler hängt.",0,66,character_speech,1,12,,BARON.,#baron,316.0,MALE,abhorrence,K,,1799.0,negative,emotions of rejection
+744,744,744,GerDracor/kotzebue-der-hyperboreische-esel.xml,ängstlich zu Malchen.,0,21,stage_direction,1,12,speech_part,,#hans,317.0,MALE,fear,K,,1799.0,negative,emotions of anxiety
+745,745,745,GerDracor/kotzebue-der-hyperboreische-esel.xml,Cousine – Schwester –,0,21,character_speech,1,12,,HANS,#hans,317.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+746,746,746,GerDracor/kotzebue-der-hyperboreische-esel.xml,Nichts mehr davon –,0,19,character_speech,1,12,,MALCHEN.,#malchen,318.0,FEMALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+747,747,747,GerDracor/kotzebue-der-hyperboreische-esel.xml,Sie reicht ihm freundlich die Hand.,0,35,stage_direction,1,12,inner_speech,,#malchen,318.0,FEMALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+748,748,748,GerDracor/kotzebue-der-hyperboreische-esel.xml, Dein Weib.,0,11,character_speech,1,12,,MALCHEN.,#malchen,318.0,FEMALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+749,749,749,GerDracor/kotzebue-der-hyperboreische-esel.xml,an ihre Brust sinkend.,0,22,stage_direction,1,12,speech_part,,#hans,319.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+750,750,750,GerDracor/kotzebue-der-hyperboreische-esel.xml,Ach!,0,4,character_speech,1,12,,HANS,#hans,319.0,MALE,suffering,K,,1799.0,negative,emotions of suffering and empathy
+751,751,751,GerDracor/kotzebue-der-hyperboreische-esel.xml,das verdien' ich nicht!,5,28,character_speech,1,12,,HANS,#hans,319.0,MALE,anger,K,,1799.0,negative,emotions of rejection
+752,752,752,GerDracor/kotzebue-der-hyperboreische-esel.xml,Verzeihen Ew.,0,13,character_speech,1,12,,BARON.,#baron,320.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+753,753,753,GerDracor/kotzebue-der-hyperboreische-esel.xml,"Durchlaucht, es ist wider den Respekt.",14,52,character_speech,1,12,,BARON.,#baron,320.0,MALE,"admiration, reverence",K,,1799.0,positive,emotions of affection
+754,754,754,GerDracor/kotzebue-der-hyperboreische-esel.xml,Was?,0,4,character_speech,1,12,,FÜRST.,#fuerst,321.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+755,755,755,GerDracor/kotzebue-der-hyperboreische-esel.xml,– doch wohl nicht diese Scene?,5,35,character_speech,1,12,,FÜRST.,#fuerst,321.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+756,756,756,GerDracor/kotzebue-der-hyperboreische-esel.xml,"– Was könnte einem Fürsten willkomm'ner sein, als
+            das häusliche Glück seiner Unterthanen!",36,137,character_speech,1,12,,FÜRST.,#fuerst,321.0,MALE,no_annotation,K,,1799.0,no_annotation,no_annotation
+757,757,757,GerDracor/kotzebue-der-hyperboreische-esel.xml,Der Vorhang fällt.,0,18,stage_direction,1,12,pre_speech,,,,,no_annotation,K,,1799.0,no_annotation,no_annotation

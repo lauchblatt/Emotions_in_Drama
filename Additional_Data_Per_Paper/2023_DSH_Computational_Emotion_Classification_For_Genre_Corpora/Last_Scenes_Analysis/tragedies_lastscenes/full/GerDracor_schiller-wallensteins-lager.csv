@@ -1,0 +1,592 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+487,487,487,GerDracor/schiller-wallensteins-lager.xml,Vorige.,0,7,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+488,488,488,GerDracor/schiller-wallensteins-lager.xml,Kürassiere.,8,19,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+489,489,489,GerDracor/schiller-wallensteins-lager.xml,Friede!,0,7,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,173.0,MALE,no_annotation,no_annotation,no_annotation
+490,490,490,GerDracor/schiller-wallensteins-lager.xml,Was gibts mit dem Bauer da?,8,35,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,173.0,MALE,no_annotation,no_annotation,no_annotation
+491,491,491,GerDracor/schiller-wallensteins-lager.xml,"'s ist ein Schelm, hat im Spiel betrogen!",0,41,character_speech,1,11,,ERSTER SCHARFSCHÜTZ.,#erster_scharfschuetz,174.0,MALE,anger,negative,emotions of rejection
+492,492,492,GerDracor/schiller-wallensteins-lager.xml,Hat er dich betrogen etwa?,0,26,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,175.0,MALE,no_annotation,no_annotation,no_annotation
+493,493,493,GerDracor/schiller-wallensteins-lager.xml,"Ja, und hat mich rein ausgezogen.",0,33,character_speech,1,11,,ERSTER SCHARFSCHÜTZ.,#erster_scharfschuetz,176.0,MALE,no_annotation,no_annotation,no_annotation
+494,494,494,GerDracor/schiller-wallensteins-lager.xml,"
+            Wie?",0,17,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,177.0,MALE,no_annotation,no_annotation,no_annotation
+495,495,495,GerDracor/schiller-wallensteins-lager.xml,"du bist ein Friedländischer Mann,
+            Kannst dich so wegwerfen und blamieren,
+            Mit einem Bauer dein Glück probieren?",18,153,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,177.0,MALE,joy,positive,emotions of pleasure
+496,496,496,GerDracor/schiller-wallensteins-lager.xml,"Der laufe, was er laufen kann.",166,196,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,177.0,MALE,no_annotation,no_annotation,no_annotation
+497,497,497,GerDracor/schiller-wallensteins-lager.xml,"Bauer entwischt, die andern treten zusammen.",0,44,stage_direction,1,11,speech_part,,#erster_kuerassier,177.0,MALE,no_annotation,no_annotation,no_annotation
+498,498,498,GerDracor/schiller-wallensteins-lager.xml,"
+            Der macht kurze Arbeit, ist resolut,
+            Das ist mit solchem Volke gut.",0,92,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,178.0,MALE,"admiration, reverence",positive,emotions of affection
+499,499,499,GerDracor/schiller-wallensteins-lager.xml,Was ists für einer?,105,124,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,178.0,MALE,no_annotation,no_annotation,no_annotation
+500,500,500,GerDracor/schiller-wallensteins-lager.xml,Es ist kein Böhm.,125,142,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,178.0,MALE,no_annotation,no_annotation,no_annotation
+501,501,501,GerDracor/schiller-wallensteins-lager.xml,"
+            's ist ein Wallon!",0,31,character_speech,1,11,,MARKETENDERIN.,#marketenderin,179.0,FEMALE,no_annotation,no_annotation,no_annotation
+502,502,502,GerDracor/schiller-wallensteins-lager.xml,Respekt vor dem!,32,48,character_speech,1,11,,MARKETENDERIN.,#marketenderin,179.0,FEMALE,"admiration, reverence",positive,emotions of affection
+503,503,503,GerDracor/schiller-wallensteins-lager.xml,Von des Pappenheims Kürassieren.,61,93,character_speech,1,11,,MARKETENDERIN.,#marketenderin,179.0,FEMALE,no_annotation,no_annotation,no_annotation
+504,504,504,GerDracor/schiller-wallensteins-lager.xml,tritt dazu.,0,11,stage_direction,1,11,speech_part,,#erster_dragoner,180.0,MALE,no_annotation,no_annotation,no_annotation
+505,505,505,GerDracor/schiller-wallensteins-lager.xml,"
+            Der Piccolomini, der junge, tut sie jetzt führen,
+            Den haben sie sich aus eigner Macht
+            Zum Oberst gesetzt in der Lützner Schlacht,
+            Als der Pappenheim umgekommen.",0,209,character_speech,1,11,,ERSTER DRAGONER,#erster_dragoner,180.0,MALE,"admiration, reverence",positive,emotions of affection
+506,506,506,GerDracor/schiller-wallensteins-lager.xml,Haben sie sich so was rausgenommen?,0,35,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,181.0,MALE,being moved,being moved,being moved
+507,507,507,GerDracor/schiller-wallensteins-lager.xml,"
+            Dies Regiment hat was voraus,
+            Es war immer voran bei jedem Strauß.",0,91,character_speech,1,11,,ERSTER DRAGONER.,#erster_dragoner,182.0,MALE,"admiration, reverence",positive,emotions of affection
+508,508,508,GerDracor/schiller-wallensteins-lager.xml,"Darf auch seine eigene Justiz ausüben,
+            Und der Friedländer tuts besonders lieben.",104,197,character_speech,1,11,,ERSTER DRAGONER.,#erster_dragoner,182.0,MALE,no_annotation,no_annotation,no_annotation
+509,509,509,GerDracor/schiller-wallensteins-lager.xml,zum andern.,0,11,stage_direction,1,11,speech_part,,#erster_kuerassier,183.0,MALE,no_annotation,no_annotation,no_annotation
+510,510,510,GerDracor/schiller-wallensteins-lager.xml,Ists auch gewiß?,0,16,character_speech,1,11,,ERSTER KÜRASSIER,#erster_kuerassier,183.0,MALE,no_annotation,no_annotation,no_annotation
+511,511,511,GerDracor/schiller-wallensteins-lager.xml,Wer bracht es aus?,17,35,character_speech,1,11,,ERSTER KÜRASSIER,#erster_kuerassier,183.0,MALE,no_annotation,no_annotation,no_annotation
+512,512,512,GerDracor/schiller-wallensteins-lager.xml,Ich habs aus des Obersts eigenem Munde.,0,39,character_speech,1,11,,ZWEITER KÜRASSIER.,#zweiter_kuerassier,184.0,MALE,no_annotation,no_annotation,no_annotation
+513,513,513,GerDracor/schiller-wallensteins-lager.xml,Was Teufel!,0,11,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,185.0,MALE,anger,negative,emotions of rejection
+514,514,514,GerDracor/schiller-wallensteins-lager.xml,Wir sind nicht ihre Hunde.,12,38,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,185.0,MALE,anger,negative,emotions of rejection
+515,515,515,GerDracor/schiller-wallensteins-lager.xml,Was haben die da?,0,17,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,186.0,MALE,no_annotation,no_annotation,no_annotation
+516,516,516,GerDracor/schiller-wallensteins-lager.xml,sind voller Gift.,18,35,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,186.0,MALE,abhorrence,negative,emotions of rejection
+517,517,517,GerDracor/schiller-wallensteins-lager.xml,"Ists was, ihr Herrn, das uns mitbetrifft?",0,41,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,187.0,MALE,no_annotation,no_annotation,no_annotation
+518,518,518,GerDracor/schiller-wallensteins-lager.xml,Es hat sich keiner drüber zu freuen.,0,36,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,188.0,MALE,joy,positive,emotions of pleasure
+519,519,519,GerDracor/schiller-wallensteins-lager.xml,Soldaten treten herzu.,0,22,stage_direction,1,11,speech_part,,#erster_kuerassier,188.0,MALE,no_annotation,no_annotation,no_annotation
+520,520,520,GerDracor/schiller-wallensteins-lager.xml,"
+            Sie wollen uns in die Niederland leihen;
+            Kürassiere, Jäger, reitende Schützen,
+            Sollen achttausend Mann aufsitzen.",0,150,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,188.0,MALE,no_annotation,no_annotation,no_annotation
+521,521,521,GerDracor/schiller-wallensteins-lager.xml,"
+            Was?",0,17,character_speech,1,11,,MARKETENDERIN.,#marketenderin,189.0,FEMALE,no_annotation,no_annotation,no_annotation
+522,522,522,GerDracor/schiller-wallensteins-lager.xml,was?,18,22,character_speech,1,11,,MARKETENDERIN.,#marketenderin,189.0,FEMALE,no_annotation,no_annotation,no_annotation
+523,523,523,GerDracor/schiller-wallensteins-lager.xml,da sollen wir wieder wandern?,23,52,character_speech,1,11,,MARKETENDERIN.,#marketenderin,189.0,FEMALE,anger,negative,emotions of rejection
+524,524,524,GerDracor/schiller-wallensteins-lager.xml,Bin erst seit gestern zurück aus Flandern.,65,107,character_speech,1,11,,MARKETENDERIN.,#marketenderin,189.0,FEMALE,no_annotation,no_annotation,no_annotation
+525,525,525,GerDracor/schiller-wallensteins-lager.xml,zu den Dragonern.,0,17,stage_direction,1,11,speech_part,,#zweiter_kuerassier,190.0,MALE,no_annotation,no_annotation,no_annotation
+526,526,526,GerDracor/schiller-wallensteins-lager.xml,Ihr Buttlerischen sollt auch mitreiten.,0,39,character_speech,1,11,,ZWEITER KÜRASSIER,#zweiter_kuerassier,190.0,MALE,abhorrence,negative,emotions of rejection
+527,527,527,GerDracor/schiller-wallensteins-lager.xml,Und absonderlich wir Wallonen.,0,30,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,191.0,MALE,abhorrence,negative,emotions of rejection
+528,528,528,GerDracor/schiller-wallensteins-lager.xml,"Ei, das sind ja die allerbesten Schwadronen!",0,44,character_speech,1,11,,MARKETENDERIN.,#marketenderin,192.0,FEMALE,no_annotation,no_annotation,no_annotation
+529,529,529,GerDracor/schiller-wallensteins-lager.xml,Den aus Mailand sollen wir hinbegleiten.,0,40,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,193.0,MALE,no_annotation,no_annotation,no_annotation
+530,530,530,GerDracor/schiller-wallensteins-lager.xml,Den Infanten!,0,13,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,194.0,MALE,no_annotation,no_annotation,no_annotation
+531,531,531,GerDracor/schiller-wallensteins-lager.xml,Das ist ja kurios!,14,32,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,194.0,MALE,being moved,being moved,being moved
+532,532,532,GerDracor/schiller-wallensteins-lager.xml,Den Pfaffen!,0,12,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,195.0,MALE,anger,negative,emotions of rejection
+533,533,533,GerDracor/schiller-wallensteins-lager.xml,Da geht der Teufel los.,13,36,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,195.0,MALE,being moved,being moved,being moved
+534,534,534,GerDracor/schiller-wallensteins-lager.xml,"
+            Wir sollen von dem Friedländer lassen,
+            Der den Soldaten so nobel hält,
+            Mit dem Spanier ziehen zu Feld,
+            Dem Knauser, den wir von Herzen hassen?",0,191,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,196.0,MALE,abhorrence,negative,emotions of rejection
+535,535,535,GerDracor/schiller-wallensteins-lager.xml,"Nein, das geht nicht!",204,225,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,196.0,MALE,compassion,negative,emotions of suffering and empathy
+536,536,536,GerDracor/schiller-wallensteins-lager.xml,Wir laufen fort.,226,242,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,196.0,MALE,no_annotation,no_annotation,no_annotation
+537,537,537,GerDracor/schiller-wallensteins-lager.xml,"
+            Was zum Henker!",0,28,character_speech,1,11,,TROMPETER.,#trompeter,197.0,MALE,being moved,being moved,being moved
+538,538,538,GerDracor/schiller-wallensteins-lager.xml,sollen wir dort?,29,45,character_speech,1,11,,TROMPETER.,#trompeter,197.0,MALE,no_annotation,no_annotation,no_annotation
+539,539,539,GerDracor/schiller-wallensteins-lager.xml,"Dem Kaiser verkauften wir unser Blut
+            Und nicht dem hispanischen roten Hut.",58,144,character_speech,1,11,,TROMPETER.,#trompeter,197.0,MALE,abhorrence,negative,emotions of rejection
+540,540,540,GerDracor/schiller-wallensteins-lager.xml,"
+            Auf des Friedländers Wort und Kredit allein
+            Haben wir Reitersdienst genommen;
+            Wärs nicht aus Lieb für den Wallenstein,
+            Der Ferdinand hätt uns nimmer bekommen.",0,207,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,198.0,MALE,"admiration, reverence",positive,emotions of affection
+541,541,541,GerDracor/schiller-wallensteins-lager.xml,"
+            Tät uns der Friedländer nicht formieren?",0,53,character_speech,1,11,,ERSTER DRAGONER.,#erster_dragoner,199.0,MALE,no_annotation,no_annotation,no_annotation
+542,542,542,GerDracor/schiller-wallensteins-lager.xml,Seine Fortuna soll uns führen.,66,96,character_speech,1,11,,ERSTER DRAGONER.,#erster_dragoner,199.0,MALE,"admiration, reverence",positive,emotions of affection
+543,543,543,GerDracor/schiller-wallensteins-lager.xml,"
+            Laßt euch bedeuten, hört mich an.",0,46,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,200.0,MALE,no_annotation,no_annotation,no_annotation
+544,544,544,GerDracor/schiller-wallensteins-lager.xml,Mit dem Gered da ists nicht getan.,59,93,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,200.0,MALE,no_annotation,no_annotation,no_annotation
+545,545,545,GerDracor/schiller-wallensteins-lager.xml,"Ich sehe weiter als ihr alle,
+            Dahinter steckt eine böse Falle.",106,180,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,200.0,MALE,no_annotation,no_annotation,no_annotation
+546,546,546,GerDracor/schiller-wallensteins-lager.xml,Hört das Befehlbuch!,0,20,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,201.0,MALE,no_annotation,no_annotation,no_annotation
+547,547,547,GerDracor/schiller-wallensteins-lager.xml,Stille doch!,21,33,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,201.0,MALE,no_annotation,no_annotation,no_annotation
+548,548,548,GerDracor/schiller-wallensteins-lager.xml,"
+            Bäschen Gustel, füllt mir erst noch
+            Ein Gläschen Melnecker für den Magen,
+            Alsdann will ich euch meine Gedanken sagen.",0,154,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,202.0,MALE,no_annotation,no_annotation,no_annotation
+549,549,549,GerDracor/schiller-wallensteins-lager.xml,ihm einschenkend.,0,17,stage_direction,1,11,speech_part,,#marketenderin,203.0,FEMALE,no_annotation,no_annotation,no_annotation
+550,550,550,GerDracor/schiller-wallensteins-lager.xml,"
+            Hier, Herr Wachtmeister!",0,37,character_speech,1,11,,MARKETENDERIN,#marketenderin,203.0,FEMALE,no_annotation,no_annotation,no_annotation
+551,551,551,GerDracor/schiller-wallensteins-lager.xml,Er macht mir Schrecken.,38,61,character_speech,1,11,,MARKETENDERIN,#marketenderin,203.0,FEMALE,fear,negative,emotions of anxiety
+552,552,552,GerDracor/schiller-wallensteins-lager.xml,Es wird doch nichts Böses dahinterstecken!,74,116,character_speech,1,11,,MARKETENDERIN,#marketenderin,203.0,FEMALE,being moved,being moved,being moved
+553,553,553,GerDracor/schiller-wallensteins-lager.xml,"
+            Seht, ihr Herrn, das ist all recht gut,
+            Daß jeder das Nächste bedenken tut;
+            Aber, pflegt der Feldherr zu sagen,
+            Man muß immer das Ganze überschlagen.",0,198,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,no_annotation,no_annotation,no_annotation
+554,554,554,GerDracor/schiller-wallensteins-lager.xml,Wir nennen uns alle des Friedländers Truppen.,211,256,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,"admiration, reverence",positive,emotions of affection
+555,555,555,GerDracor/schiller-wallensteins-lager.xml,"Der Bürger, er nimmt uns ins Quartier,
+             Und pflegt uns und kocht uns warme Suppen.",269,363,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,joy,positive,emotions of pleasure
+556,556,556,GerDracor/schiller-wallensteins-lager.xml,"Der Bauer muß den Gaul und den Stier
+            Vorspannen an unsre Bagagewagen,
+            Vergebens wird er sich drüber beklagen.",376,509,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,suffering,negative,emotions of suffering and empathy
+557,557,557,GerDracor/schiller-wallensteins-lager.xml,"Läßt sich ein Gefreiter mit sieben Mann
+            In einem Dorfe von weitem spüren,
+            Er ist die Obrigkeit drin und kann
+            Nach Lust drin walten und kommandieren.",522,706,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,no_annotation,no_annotation,no_annotation
+558,558,558,GerDracor/schiller-wallensteins-lager.xml,Zum Henker!,719,730,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,being moved,being moved,being moved
+559,559,559,GerDracor/schiller-wallensteins-lager.xml,"Sie mögen uns alle nicht,
+            Und sähen des Teufels sein Angesicht
+            Weit lieber als unsre gelben Kolletter.",731,857,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,abhorrence,negative,emotions of rejection
+560,560,560,GerDracor/schiller-wallensteins-lager.xml,Warum schmeißen sie uns nicht aus dem Land?,870,913,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,fear,negative,emotions of anxiety
+561,561,561,GerDracor/schiller-wallensteins-lager.xml,Potz Wetter!,914,926,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,joy,positive,emotions of pleasure
+562,562,562,GerDracor/schiller-wallensteins-lager.xml,"Sind uns an Anzahl doch überlegen,
+            Führen den Knittel, wie wir den Degen.",939,1024,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,no_annotation,no_annotation,no_annotation
+563,563,563,GerDracor/schiller-wallensteins-lager.xml,Warum dürfen wir ihrer lachen?,1037,1067,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,joy,positive,emotions of pleasure
+564,564,564,GerDracor/schiller-wallensteins-lager.xml,Weil wir einen furchtbaren Haufen ausmachen!,1080,1124,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,204.0,MALE,abhorrence,negative,emotions of rejection
+565,565,565,GerDracor/schiller-wallensteins-lager.xml,"
+            Ja, ja, im Ganzen, da sitzt die Macht!",0,51,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,205.0,MALE,no_annotation,no_annotation,no_annotation
+566,566,566,GerDracor/schiller-wallensteins-lager.xml,"Der Friedländer hat das wohl erfahren,
+            Wie er dem Kaiser vor acht – neun Jahren
+            Die große Armee zusammenbracht.",64,199,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,205.0,MALE,no_annotation,no_annotation,no_annotation
+567,567,567,GerDracor/schiller-wallensteins-lager.xml,"Sie wollten erst nur von zwölftausend hören:
+            Die, sagt' er, die kann ich nicht ernähren;
+            Aber ich will sechzigtausend werben,
+            Die, weiß ich, werden nicht Hungers sterben.",212,418,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,205.0,MALE,no_annotation,no_annotation,no_annotation
+568,568,568,GerDracor/schiller-wallensteins-lager.xml,Und so wurden wir Wallensteiner.,431,463,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,205.0,MALE,"admiration, reverence",positive,emotions of affection
+569,569,569,GerDracor/schiller-wallensteins-lager.xml,"
+            Zum Exempel, da hack mir einer
+            Von den fünf Fingern, die ich hab,
+            Hier an der Rechten den kleinen ab.",0,138,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,suffering,negative,emotions of suffering and empathy
+570,570,570,GerDracor/schiller-wallensteins-lager.xml,Habt ihr mir den Finger bloß genommen?,151,189,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,no_annotation,no_annotation,no_annotation
+571,571,571,GerDracor/schiller-wallensteins-lager.xml,"Nein, beim Kuckuck!",202,221,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,no_annotation,no_annotation,no_annotation
+572,572,572,GerDracor/schiller-wallensteins-lager.xml,ich bin um die Hand gekommen!,222,251,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,no_annotation,no_annotation,no_annotation
+573,573,573,GerDracor/schiller-wallensteins-lager.xml,"'s ist nur ein Stumpf, und nichts mehr wert.",264,308,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,suffering,negative,emotions of suffering and empathy
+574,574,574,GerDracor/schiller-wallensteins-lager.xml,"Ja, und diese achttausend Pferd,
+            Die man nach Flandern jetzt begehrt,
+            Sind von der Armee nur der kleine Finger.",321,456,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,no_annotation,no_annotation,no_annotation
+575,575,575,GerDracor/schiller-wallensteins-lager.xml,"Läßt man sie ziehn, ihr tröstet euch,
+            Wir seien um ein Fünftel nur geringer?",469,557,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,suffering,negative,emotions of suffering and empathy
+576,576,576,GerDracor/schiller-wallensteins-lager.xml,Prost Mahlzeit!,571,586,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,no_annotation,no_annotation,no_annotation
+577,577,577,GerDracor/schiller-wallensteins-lager.xml,da fällt das Ganze gleich.,587,613,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,no_annotation,no_annotation,no_annotation
+578,578,578,GerDracor/schiller-wallensteins-lager.xml,"Die Furcht ist weg, der Respekt, die Scheu,
+            Da schwillt dem Bauer der Kamm aufs neu,
+            Da schreiben sie uns in der Wiener Kanzlei
+            Den Quartier- und den Küchenzettel,
+            Und es ist wieder der alte Bettel.",626,872,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,fear,negative,emotions of anxiety
+579,579,579,GerDracor/schiller-wallensteins-lager.xml,"Ja, und wie lang wirds stehen an,
+            So nehmen sie uns auch noch den Feldhauptmann –
+            Sie sind ihm am Hofe so nicht grün,
+            Nun, da fällt eben alles hin!",885,1068,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,anger,negative,emotions of rejection
+580,580,580,GerDracor/schiller-wallensteins-lager.xml,Wer hilft uns dann wohl zu unserm Geld?,1081,1120,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,being moved,being moved,being moved
+581,581,581,GerDracor/schiller-wallensteins-lager.xml,"Sorgt, daß man uns die Kontrakte hält?",1133,1171,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,no_annotation,no_annotation,no_annotation
+582,582,582,GerDracor/schiller-wallensteins-lager.xml,"Wer hat den Nachdruck und hat den Verstand,
+            Den schnellen Witz und die feste Hand,
+            Diese gestückelten Heeresmassen
+            Zusammenzufügen und – zupassen?",1184,1366,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,no_annotation,no_annotation,no_annotation
+583,583,583,GerDracor/schiller-wallensteins-lager.xml,"Zum Exempel – Dragoner – sprich:
+            Aus welchem Vaterland schreibst du dich?",1379,1464,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,206.0,MALE,no_annotation,no_annotation,no_annotation
+584,584,584,GerDracor/schiller-wallensteins-lager.xml,Weit aus Hibernien her komm ich.,0,32,character_speech,1,11,,ERSTER DRAGONER.,#erster_dragoner,207.0,MALE,no_annotation,no_annotation,no_annotation
+585,585,585,GerDracor/schiller-wallensteins-lager.xml,zu den beiden Kürassieren.,0,26,stage_direction,1,11,speech_part,,#wachtmeister,208.0,MALE,no_annotation,no_annotation,no_annotation
+586,586,586,GerDracor/schiller-wallensteins-lager.xml,"
+            Ihr, das weiß ich, seid ein Wallon,
+            Ihr ein Welscher.",0,78,character_speech,1,11,,WACHTMEISTER,#wachtmeister,208.0,MALE,no_annotation,no_annotation,no_annotation
+587,587,587,GerDracor/schiller-wallensteins-lager.xml,Man hörts am Ton.,79,96,character_speech,1,11,,WACHTMEISTER,#wachtmeister,208.0,MALE,no_annotation,no_annotation,no_annotation
+588,588,588,GerDracor/schiller-wallensteins-lager.xml,"
+            Wer ich bin?",0,25,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,209.0,MALE,being moved,being moved,being moved
+589,589,589,GerDracor/schiller-wallensteins-lager.xml,"ich habs nie können erfahren,
+            Sie stahlen mich schon in jungen Jahren.",26,108,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,209.0,MALE,suffering,negative,emotions of suffering and empathy
+590,590,590,GerDracor/schiller-wallensteins-lager.xml,Und du bist auch nicht aus der Näh?,0,35,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,210.0,MALE,no_annotation,no_annotation,no_annotation
+591,591,591,GerDracor/schiller-wallensteins-lager.xml,Ich bin von Buchau am Feder-See.,0,32,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,211.0,MALE,no_annotation,no_annotation,no_annotation
+592,592,592,GerDracor/schiller-wallensteins-lager.xml,"Und Ihr, Nachbar?",0,17,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,212.0,MALE,no_annotation,no_annotation,no_annotation
+593,593,593,GerDracor/schiller-wallensteins-lager.xml,Aus der Schwitz.,0,16,character_speech,1,11,,ZWEITER ARKEBUSIER.,#zweiter_arkebusier,213.0,MALE,no_annotation,no_annotation,no_annotation
+594,594,594,GerDracor/schiller-wallensteins-lager.xml,zum zweiten Jäger.,0,18,stage_direction,1,11,speech_part,,#wachtmeister,214.0,MALE,no_annotation,no_annotation,no_annotation
+595,595,595,GerDracor/schiller-wallensteins-lager.xml,"Was für ein Landsmann bist du, Jäger?",0,37,character_speech,1,11,,WACHTMEISTER,#wachtmeister,214.0,MALE,no_annotation,no_annotation,no_annotation
+596,596,596,GerDracor/schiller-wallensteins-lager.xml,Hinter Wismar ist meiner Eltern Sitz.,0,37,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,215.0,MALE,no_annotation,no_annotation,no_annotation
+597,597,597,GerDracor/schiller-wallensteins-lager.xml,auf den Trompeter zeigend.,0,26,stage_direction,1,11,speech_part,,#wachtmeister,216.0,MALE,no_annotation,no_annotation,no_annotation
+598,598,598,GerDracor/schiller-wallensteins-lager.xml,"
+            Und der da und ich, wir sind aus Eger.",0,51,character_speech,1,11,,WACHTMEISTER,#wachtmeister,216.0,MALE,no_annotation,no_annotation,no_annotation
+599,599,599,GerDracor/schiller-wallensteins-lager.xml,Nun!,64,68,character_speech,1,11,,WACHTMEISTER,#wachtmeister,216.0,MALE,no_annotation,no_annotation,no_annotation
+600,600,600,GerDracor/schiller-wallensteins-lager.xml,"und wer merkt uns das nun an,
+            Daß wir aus Süden und aus Norden
+            Zusammengeschneit und – geblasen worden?",69,196,character_speech,1,11,,WACHTMEISTER,#wachtmeister,216.0,MALE,no_annotation,no_annotation,no_annotation
+601,601,601,GerDracor/schiller-wallensteins-lager.xml,Sehn wir nicht aus wie aus einem Span?,210,248,character_speech,1,11,,WACHTMEISTER,#wachtmeister,216.0,MALE,no_annotation,no_annotation,no_annotation
+602,602,602,GerDracor/schiller-wallensteins-lager.xml,"Stehn wir nicht gegen den Feind geschlossen,
+            Recht wie zusammengeleimt und – gegossen?",261,359,character_speech,1,11,,WACHTMEISTER,#wachtmeister,216.0,MALE,no_annotation,no_annotation,no_annotation
+603,603,603,GerDracor/schiller-wallensteins-lager.xml,"Greifen wir nicht wie ein Mühlwerk flink
+            Ineinander, auf Wort und Wink?",372,455,character_speech,1,11,,WACHTMEISTER,#wachtmeister,216.0,MALE,no_annotation,no_annotation,no_annotation
+604,604,604,GerDracor/schiller-wallensteins-lager.xml,"Wer hat uns so zusammengeschmiedet,
+            Daß ihr uns nimmer unterschiedet?",468,549,character_speech,1,11,,WACHTMEISTER,#wachtmeister,216.0,MALE,being moved,being moved,being moved
+605,605,605,GerDracor/schiller-wallensteins-lager.xml,Kein andrer sonst als der Wallenstein!,562,600,character_speech,1,11,,WACHTMEISTER,#wachtmeister,216.0,MALE,"admiration, reverence",positive,emotions of affection
+606,606,606,GerDracor/schiller-wallensteins-lager.xml,"
+            Das fiel mir mein Lebtag nimmer ein,
+            Daß wir so gut zusammenpassen;
+            Hab mich immer nur gehen lassen.",0,137,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,217.0,MALE,no_annotation,no_annotation,no_annotation
+607,607,607,GerDracor/schiller-wallensteins-lager.xml,"
+            Dem Wachtmeister muß ich Beifall geben.",0,52,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,218.0,MALE,no_annotation,no_annotation,no_annotation
+608,608,608,GerDracor/schiller-wallensteins-lager.xml,"Dem Kriegsstand kämen sie gern ans Leben;
+            Den Soldaten wollen sie niederhalten,
+            Daß sie alleine können walten.",65,199,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,218.0,MALE,anger,negative,emotions of rejection
+609,609,609,GerDracor/schiller-wallensteins-lager.xml,"'s ist eine Verschwörung, ein Komplott.",212,251,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,218.0,MALE,being moved,being moved,being moved
+610,610,610,GerDracor/schiller-wallensteins-lager.xml,"
+            Eine Verschwörung?",0,31,character_speech,1,11,,MARKETENDERIN.,#marketenderin,219.0,FEMALE,being moved,being moved,being moved
+611,611,611,GerDracor/schiller-wallensteins-lager.xml,du lieber Gott!,32,47,character_speech,1,11,,MARKETENDERIN.,#marketenderin,219.0,FEMALE,love,positive,emotions of affection
+612,612,612,GerDracor/schiller-wallensteins-lager.xml,Da können die Herren ja nicht mehr zahlen.,60,102,character_speech,1,11,,MARKETENDERIN.,#marketenderin,219.0,FEMALE,anger,negative,emotions of rejection
+613,613,613,GerDracor/schiller-wallensteins-lager.xml,"
+            Freilich!",0,22,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,220.0,MALE,no_annotation,no_annotation,no_annotation
+614,614,614,GerDracor/schiller-wallensteins-lager.xml,Es wird alles bankerott.,23,47,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,220.0,MALE,no_annotation,no_annotation,no_annotation
+615,615,615,GerDracor/schiller-wallensteins-lager.xml,"Viele von den Hauptleuten und Generalen
+            Stellten aus ihren eignen Kassen
+            Die Regimenter, wollten sich sehen lassen,
+            Täten sich angreifen über Vermögen,
+            Dachten, es bring ihnen großen Segen.",60,297,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,220.0,MALE,joy,positive,emotions of pleasure
+616,616,616,GerDracor/schiller-wallensteins-lager.xml,"Und die alle sind um ihr Geld,
+            Wenn das Haupt, wenn der Herzog fällt.",310,391,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,220.0,MALE,suffering,negative,emotions of suffering and empathy
+617,617,617,GerDracor/schiller-wallensteins-lager.xml,"
+            Ach!",0,17,character_speech,1,11,,MARKETENDERIN.,#marketenderin,221.0,FEMALE,suffering,negative,emotions of suffering and empathy
+618,618,618,GerDracor/schiller-wallensteins-lager.xml,du mein Heiland!,18,34,character_speech,1,11,,MARKETENDERIN.,#marketenderin,221.0,FEMALE,"admiration, reverence",positive,emotions of affection
+619,619,619,GerDracor/schiller-wallensteins-lager.xml,das bringt mir Fluch!,35,56,character_speech,1,11,,MARKETENDERIN.,#marketenderin,221.0,FEMALE,abhorrence,negative,emotions of rejection
+620,620,620,GerDracor/schiller-wallensteins-lager.xml,Die halbe Armee steht in meinem Buch.,69,106,character_speech,1,11,,MARKETENDERIN.,#marketenderin,221.0,FEMALE,no_annotation,no_annotation,no_annotation
+621,621,621,GerDracor/schiller-wallensteins-lager.xml,"Der Graf Isolani, der böse Zahler,
+            Restiert mir allein noch zweihundert Taler.",119,209,character_speech,1,11,,MARKETENDERIN.,#marketenderin,221.0,FEMALE,abhorrence,negative,emotions of rejection
+622,622,622,GerDracor/schiller-wallensteins-lager.xml,"
+            Was ist da zu machen, Kameraden?",0,45,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,222.0,MALE,no_annotation,no_annotation,no_annotation
+623,623,623,GerDracor/schiller-wallensteins-lager.xml,"Es ist nur eins, was uns retten kann,
+            Verbunden können sie uns nichts schaden,
+            Wir stehen alle für einen Mann.",58,192,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,222.0,MALE,"admiration, reverence",positive,emotions of affection
+624,624,624,GerDracor/schiller-wallensteins-lager.xml,"Laßt sie schicken und ordenanzen,
+            Wir wollen uns fest in Böhmen pflanzen,
+             Wir geben nicht nach und marschieren nicht,
+            Der Soldat jetzt um seine Ehre ficht.",205,397,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,222.0,MALE,fear,negative,emotions of anxiety
+625,625,625,GerDracor/schiller-wallensteins-lager.xml,"
+            Wir lassen uns nicht so im Land rum führen!",0,56,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,223.0,MALE,anger,negative,emotions of rejection
+626,626,626,GerDracor/schiller-wallensteins-lager.xml,Sie sollen kommen und sollens probieren!,69,109,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,223.0,MALE,joy,positive,emotions of pleasure
+627,627,627,GerDracor/schiller-wallensteins-lager.xml,"
+            Liebe Herren, bedenkts mit Fleiß,
+            's ist des Kaisers Will und Geheiß.",0,94,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,224.0,MALE,"admiration, reverence",positive,emotions of affection
+628,628,628,GerDracor/schiller-wallensteins-lager.xml,Werden uns viel um den Kaiser scheren.,0,38,character_speech,1,11,,TROMPETER.,#trompeter,225.0,MALE,abhorrence,negative,emotions of rejection
+629,629,629,GerDracor/schiller-wallensteins-lager.xml,Laß Er mich das nicht zweimal hören.,0,36,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,226.0,MALE,anger,negative,emotions of rejection
+630,630,630,GerDracor/schiller-wallensteins-lager.xml,"'s ist aber doch so, wie ich gesagt.",0,36,character_speech,1,11,,TROMPETER.,#trompeter,227.0,MALE,no_annotation,no_annotation,no_annotation
+631,631,631,GerDracor/schiller-wallensteins-lager.xml,"
+            Ja, ja, ich hörts immer so erzählen,
+            Der Friedländer hab hier allein zu befehlen.",0,106,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,228.0,MALE,no_annotation,no_annotation,no_annotation
+632,632,632,GerDracor/schiller-wallensteins-lager.xml,"
+            So ists auch, das ist sein Beding und Pakt.",0,56,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,229.0,MALE,no_annotation,no_annotation,no_annotation
+633,633,633,GerDracor/schiller-wallensteins-lager.xml,"Absolute Gewalt hat er, müßt ihr wissen,
+            Krieg zu führen und Frieden zu schließen,
+            Geld und Gut kann er konfiszieren,
+            Kann henken lassen und pardonieren,
+            Offiziere kann er und Obersten machen,
+            Kurz, er hat alle die Ehrensachen.",69,356,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,229.0,MALE,no_annotation,no_annotation,no_annotation
+634,634,634,GerDracor/schiller-wallensteins-lager.xml,Das hat er vom Kaiser eigenhändig.,369,403,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,229.0,MALE,no_annotation,no_annotation,no_annotation
+635,635,635,GerDracor/schiller-wallensteins-lager.xml,"
+            Der Herzog ist gewaltig und hochverständig;
+            Aber er bleibt doch, schlecht und recht,
+            Wie wir alle, des Kaisers Knecht.",0,155,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,230.0,MALE,no_annotation,no_annotation,no_annotation
+636,636,636,GerDracor/schiller-wallensteins-lager.xml,"
+            Nicht wie wir alle!",0,32,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,231.0,MALE,no_annotation,no_annotation,no_annotation
+637,637,637,GerDracor/schiller-wallensteins-lager.xml,das wißt Ihr schlecht.,33,55,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,231.0,MALE,no_annotation,no_annotation,no_annotation
+638,638,638,GerDracor/schiller-wallensteins-lager.xml,"Er ist ein unmittelbarer und freier
+            Des Reiches Fürst, so gut wie der Bayer.",68,156,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,231.0,MALE,no_annotation,no_annotation,no_annotation
+639,639,639,GerDracor/schiller-wallensteins-lager.xml,"Sah ichs etwa nicht selbst mit an,
+            Als ich zu Brandeis die Wach getan,
+            Wie ihm der Kaiser selbsten erlaubt
+            Zu bedecken sein fürstlich Haupt?",169,345,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,231.0,MALE,no_annotation,no_annotation,no_annotation
+640,640,640,GerDracor/schiller-wallensteins-lager.xml,"
+            Das war für das Mecklenburger Land,
+            Das ihm der Kaiser versetzt als Pfand.",0,99,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,232.0,MALE,no_annotation,no_annotation,no_annotation
+641,641,641,GerDracor/schiller-wallensteins-lager.xml,zum Wachtmeister.,0,17,stage_direction,1,11,speech_part,,#erster_jaeger,233.0,MALE,no_annotation,no_annotation,no_annotation
+642,642,642,GerDracor/schiller-wallensteins-lager.xml,"
+            Wie?",0,17,character_speech,1,11,,ERSTER JÄGER,#erster_jaeger,233.0,MALE,no_annotation,no_annotation,no_annotation
+643,643,643,GerDracor/schiller-wallensteins-lager.xml,In des Kaisers Gegenwart?,18,43,character_speech,1,11,,ERSTER JÄGER,#erster_jaeger,233.0,MALE,no_annotation,no_annotation,no_annotation
+644,644,644,GerDracor/schiller-wallensteins-lager.xml,Das ist doch seltsam und sehr apart!,56,92,character_speech,1,11,,ERSTER JÄGER,#erster_jaeger,233.0,MALE,being moved,being moved,being moved
+645,645,645,GerDracor/schiller-wallensteins-lager.xml,fährt in die Tasche.,0,20,stage_direction,1,11,speech_part,,#wachtmeister,234.0,MALE,anger,negative,emotions of rejection
+646,646,646,GerDracor/schiller-wallensteins-lager.xml,"
+            Wollt ihr mein Wort nicht gelten lassen,
+             Sollt ihrs mit Händen greifen und fassen.",0,108,character_speech,1,11,,WACHTMEISTER,#wachtmeister,234.0,MALE,anger,negative,emotions of rejection
+647,647,647,GerDracor/schiller-wallensteins-lager.xml,Eine Münze zeigend.,0,19,stage_direction,1,11,speech_part,,#wachtmeister,234.0,MALE,no_annotation,no_annotation,no_annotation
+648,648,648,GerDracor/schiller-wallensteins-lager.xml,Wes ist das Bild und Gepräg?,0,28,character_speech,1,11,,WACHTMEISTER,#wachtmeister,234.0,MALE,no_annotation,no_annotation,no_annotation
+649,649,649,GerDracor/schiller-wallensteins-lager.xml,"
+            Weist her!",0,23,character_speech,1,11,,MARKETENDERIN.,#marketenderin,235.0,FEMALE,no_annotation,no_annotation,no_annotation
+650,650,650,GerDracor/schiller-wallensteins-lager.xml,"Ei, das ist ja ein Wallensteiner!",36,69,character_speech,1,11,,MARKETENDERIN.,#marketenderin,235.0,FEMALE,"admiration, reverence",positive,emotions of affection
+651,651,651,GerDracor/schiller-wallensteins-lager.xml,"
+            Na!",0,16,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,236.0,MALE,no_annotation,no_annotation,no_annotation
+652,652,652,GerDracor/schiller-wallensteins-lager.xml,"da habt ihrs, was wollt ihr mehr?",17,50,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,236.0,MALE,joy,positive,emotions of pleasure
+653,653,653,GerDracor/schiller-wallensteins-lager.xml,Ist er nicht Fürst so gut als einer?,63,99,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,236.0,MALE,no_annotation,no_annotation,no_annotation
+654,654,654,GerDracor/schiller-wallensteins-lager.xml,"Schlägt er nicht Geld, wie der Ferdinand?",112,153,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,236.0,MALE,no_annotation,no_annotation,no_annotation
+655,655,655,GerDracor/schiller-wallensteins-lager.xml,Hat er nicht eigenes Volk und Land?,166,201,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,236.0,MALE,no_annotation,no_annotation,no_annotation
+656,656,656,GerDracor/schiller-wallensteins-lager.xml,Eine Durchlauchtigkeit läßt er sich nennen!,214,257,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,236.0,MALE,"admiration, reverence",positive,emotions of affection
+657,657,657,GerDracor/schiller-wallensteins-lager.xml,Drum muß er Soldaten halten können.,270,305,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,236.0,MALE,"admiration, reverence",positive,emotions of affection
+658,658,658,GerDracor/schiller-wallensteins-lager.xml,"
+            Das disputiert ihm niemand nicht.",0,46,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,237.0,MALE,no_annotation,no_annotation,no_annotation
+659,659,659,GerDracor/schiller-wallensteins-lager.xml,"Wir aber stehn in des Kaisers Pflicht,
+            Und wer uns bezahlt, das ist der Kaiser.",59,150,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,237.0,MALE,"admiration, reverence",positive,emotions of affection
+660,660,660,GerDracor/schiller-wallensteins-lager.xml,"
+            Das leugn ich Ihm, sieht Er, ins Angesicht.",0,56,character_speech,1,11,,TROMPETER.,#trompeter,238.0,MALE,no_annotation,no_annotation,no_annotation
+661,661,661,GerDracor/schiller-wallensteins-lager.xml,"Wer uns nicht zahlt, das ist der Kaiser!",69,109,character_speech,1,11,,TROMPETER.,#trompeter,238.0,MALE,anger,negative,emotions of rejection
+662,662,662,GerDracor/schiller-wallensteins-lager.xml,"Hat man uns nicht seit vierzig Wochen
+            Die Löhnung immer umsonst versprochen?",122,210,character_speech,1,11,,TROMPETER.,#trompeter,238.0,MALE,anger,negative,emotions of rejection
+663,663,663,GerDracor/schiller-wallensteins-lager.xml,Ei was!,0,7,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,239.0,MALE,being moved,being moved,being moved
+664,664,664,GerDracor/schiller-wallensteins-lager.xml,das steht ja in guten Händen.,8,37,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,239.0,MALE,no_annotation,no_annotation,no_annotation
+665,665,665,GerDracor/schiller-wallensteins-lager.xml,"
+            Fried, ihr Herrn!",0,30,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,240.0,MALE,no_annotation,no_annotation,no_annotation
+666,666,666,GerDracor/schiller-wallensteins-lager.xml,Wollt ihr mit Schlägen enden?,31,60,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,240.0,MALE,anger,negative,emotions of rejection
+667,667,667,GerDracor/schiller-wallensteins-lager.xml,"Ist denn darüber Zank und Zwist,
+            Ob der Kaiser unser Gebieter ist?",73,151,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,240.0,MALE,being moved,being moved,being moved
+668,668,668,GerDracor/schiller-wallensteins-lager.xml,"Eben drum, weil wir gern in Ehren
+            Seine tüchtigen Reiter wären,
+            Wollen wir nicht seine Herde sein,
+            Wollen uns nicht von den Pfaffen und Schranzen
+            Herum lassen führen und verpflanzen.",164,394,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,240.0,MALE,abhorrence,negative,emotions of rejection
+669,669,669,GerDracor/schiller-wallensteins-lager.xml,Sagt selber!,407,419,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,240.0,MALE,no_annotation,no_annotation,no_annotation
+670,670,670,GerDracor/schiller-wallensteins-lager.xml,"Kommts nicht dem Herrn zugut,
+            Wenn sein Kriegsvolk was auf sich halten tut?",420,507,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,240.0,MALE,no_annotation,no_annotation,no_annotation
+671,671,671,GerDracor/schiller-wallensteins-lager.xml,"Wer anders macht ihn als seine Soldaten
+            Zu dem großmächtigen Potentaten?",520,604,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,240.0,MALE,"admiration, reverence",positive,emotions of affection
+672,672,672,GerDracor/schiller-wallensteins-lager.xml,"Verschafft und bewahrt ihm weit und breit
+            Das große Wort in der Christenheit?",617,706,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,240.0,MALE,no_annotation,no_annotation,no_annotation
+673,673,673,GerDracor/schiller-wallensteins-lager.xml,"Mögen sich die sein Joch auf laden,
+            Die mitessen von seinen Gnaden,
+            Die mit ihm tafeln im goldnen Zimmer.",719,848,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,240.0,MALE,"admiration, reverence",positive,emotions of affection
+674,674,674,GerDracor/schiller-wallensteins-lager.xml,"Wir, wir haben von seinem Glanz und Schimmer
+            Nichts als die Müh und als die Schmerzen,
+            Und wofür wir uns halten in unserm Herzen.",862,1015,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,240.0,MALE,suffering,negative,emotions of suffering and empathy
+675,675,675,GerDracor/schiller-wallensteins-lager.xml,"
+            Alle großen Tyrannen und Kaiser
+            Hieltens so und waren viel weiser.",0,91,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,241.0,MALE,no_annotation,no_annotation,no_annotation
+676,676,676,GerDracor/schiller-wallensteins-lager.xml,"Alles andre täten sie hudeln und schänden,
+            Den Soldaten trugen sie auf den Händen.",104,198,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,241.0,MALE,"admiration, reverence",positive,emotions of affection
+677,677,677,GerDracor/schiller-wallensteins-lager.xml,"
+            Der Soldat muß sich können fühlen.",0,47,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,242.0,MALE,"admiration, reverence",positive,emotions of affection
+678,678,678,GerDracor/schiller-wallensteins-lager.xml,"Wers nicht edel und nobel treibt,
+            Lieber weit von dem Handwerk bleibt.",60,142,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,242.0,MALE,no_annotation,no_annotation,no_annotation
+679,679,679,GerDracor/schiller-wallensteins-lager.xml,"Soll ich frisch um mein Leben spielen,
+            Muß mir noch etwas gelten mehr.",155,237,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,242.0,MALE,no_annotation,no_annotation,no_annotation
+680,680,680,GerDracor/schiller-wallensteins-lager.xml,"Oder ich lasse mich eben schlachten
+            Wie der Kroat – und muß mich verachten.",250,337,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,242.0,MALE,abhorrence,negative,emotions of rejection
+681,681,681,GerDracor/schiller-wallensteins-lager.xml,"Ja, übers Leben noch geht die Ehr!",0,34,character_speech,1,11,,BEIDE JÄGER.,#erster_jaeger #zweiter_jaeger,243.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+682,682,682,GerDracor/schiller-wallensteins-lager.xml,"
+            Das Schwert ist kein Spaten, kein Pflug,
+            Wer damit ackern wollte, wäre nicht klug.",0,107,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,244.0,MALE,no_annotation,no_annotation,no_annotation
+683,683,683,GerDracor/schiller-wallensteins-lager.xml,"Es grünt uns kein Halm, es wächst keine Saat,
+            Ohne Heimat muß der Soldat
+            Auf dem Erdboden flüchtig schwärmen,
+            Darf sich an eignem Herd nicht wärmen,
+            Er muß vorbei an der Städte Glanz,
+            An des Dörfleins lustigen, grünen Auen,
+            Die Traubenlese, den Erntekranz
+            Muß er wandernd von ferne schauen.",120,494,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,244.0,MALE,no_annotation,no_annotation,no_annotation
+684,684,684,GerDracor/schiller-wallensteins-lager.xml,"Sagt mir, was hat er an Gut und Wert,
+            Wenn der Soldat sich nicht selber ehrt?",507,596,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,244.0,MALE,no_annotation,no_annotation,no_annotation
+685,685,685,GerDracor/schiller-wallensteins-lager.xml,"Etwas muß er sein eigen nennen,
+            Oder der Mensch wird morden und brennen.",609,693,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,244.0,MALE,abhorrence,negative,emotions of rejection
+686,686,686,GerDracor/schiller-wallensteins-lager.xml,"Das weiß Gott, 's ist ein elend Leben!",0,38,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,245.0,MALE,suffering,negative,emotions of suffering and empathy
+687,687,687,GerDracor/schiller-wallensteins-lager.xml,"
+            Möchts doch nicht für ein andres geben.",0,52,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,246.0,MALE,no_annotation,no_annotation,no_annotation
+688,688,688,GerDracor/schiller-wallensteins-lager.xml,"Seht, ich bin weit in der Welt rumkommen,
+            Hab alles in Erfahrung genommen.",65,151,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,246.0,MALE,no_annotation,no_annotation,no_annotation
+689,689,689,GerDracor/schiller-wallensteins-lager.xml,"Hab der hispanischen Monarchie
+            Gedient und der Republik Venedig
+            Und dem Königreich Napoli,
+             Aber das Glück war mir nirgends gnädig.",164,331,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,246.0,MALE,joy,positive,emotions of pleasure
+690,690,690,GerDracor/schiller-wallensteins-lager.xml,"Hab den Kaufmann gesehn und den Ritter,
+            Und den Handwerksmann und den Jesuiter,
+            Und kein Rock hat mir unter allen
+            Wie mein eisernes Wams gefallen.",344,526,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,246.0,MALE,love,positive,emotions of affection
+691,691,691,GerDracor/schiller-wallensteins-lager.xml,Ne!,0,3,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,247.0,MALE,no_annotation,no_annotation,no_annotation
+692,692,692,GerDracor/schiller-wallensteins-lager.xml,das kann ich eben nicht sagen.,4,34,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,247.0,MALE,no_annotation,no_annotation,no_annotation
+693,693,693,GerDracor/schiller-wallensteins-lager.xml,"
+            Will einer in der Welt was erjagen,
+            Mag er sich rühren und mag sich plagen,
+            Will er zu hohen Ehren und Würden,
+            Bück er sich unter die goldnen Bürden.",0,198,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,248.0,MALE,no_annotation,no_annotation,no_annotation
+694,694,694,GerDracor/schiller-wallensteins-lager.xml,"Will er genießen den Vatersegen,
+            Kinder und Enkelein um sich pflegen,
+            Treib er ein ehrlich Gewerb in Ruh.",211,340,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,248.0,MALE,no_annotation,no_annotation,no_annotation
+695,695,695,GerDracor/schiller-wallensteins-lager.xml,Ich – ich hab kein Gemüt dazu.,353,383,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,248.0,MALE,no_annotation,no_annotation,no_annotation
+696,696,696,GerDracor/schiller-wallensteins-lager.xml,"Frei will ich leben und also sterben,
+            Niemand berauben und niemand beerben,
+            Und auf das Gehudel unter mir
+            Leicht wegschauen von meinem Tier.",396,572,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,248.0,MALE,joy,positive,emotions of pleasure
+697,697,697,GerDracor/schiller-wallensteins-lager.xml,Bravo!,0,6,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,249.0,MALE,joy,positive,emotions of pleasure
+698,698,698,GerDracor/schiller-wallensteins-lager.xml,Just so ergeht es mir.,7,29,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,249.0,MALE,suffering,negative,emotions of suffering and empathy
+699,699,699,GerDracor/schiller-wallensteins-lager.xml,"
+            Lustiger freilich mag sichs haben,
+            Über anderer Köpf wegtraben.",0,88,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,250.0,MALE,no_annotation,no_annotation,no_annotation
+700,700,700,GerDracor/schiller-wallensteins-lager.xml,"
+            Kamerad, die Zeiten sind schwer,
+            Das Schwert ist nicht bei der Waage mehr;
+            Aber so mag mirs keiner verdenken,
+            Daß ich mich lieber zum Schwert will lenken.",0,203,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,251.0,MALE,suffering,negative,emotions of suffering and empathy
+701,701,701,GerDracor/schiller-wallensteins-lager.xml,"Kann ich im Krieg mich doch menschlich fassen,
+            Aber nicht auf mir trommeln lassen.",216,310,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,251.0,MALE,suffering,negative,emotions of suffering and empathy
+702,702,702,GerDracor/schiller-wallensteins-lager.xml,"
+            Wer ist dran schuld, als wir Soldaten,
+            Daß der Nährstand in Schimpf geraten?",0,101,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,252.0,MALE,abhorrence,negative,emotions of rejection
+703,703,703,GerDracor/schiller-wallensteins-lager.xml,"Der leidige Krieg, und die Not und Plag
+            In die sechzehn Jahr schon währen mag.",114,204,character_speech,1,11,,ERSTER ARKEBUSIER.,#erster_arkebusier,252.0,MALE,suffering,negative,emotions of suffering and empathy
+704,704,704,GerDracor/schiller-wallensteins-lager.xml,"
+            Bruder, den lieben Gott da droben,
+            Es können ihn alle zugleich nicht loben.",0,100,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,253.0,MALE,"admiration, reverence",positive,emotions of affection
+705,705,705,GerDracor/schiller-wallensteins-lager.xml,"Einer will die Sonn, die den andern beschwert,
+            Dieser wills trocken, was jener feucht begehrt.",113,219,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,253.0,MALE,no_annotation,no_annotation,no_annotation
+706,706,706,GerDracor/schiller-wallensteins-lager.xml,"Wo du nur die Not siehst und die Plag,
+             Da scheint mir des Lebens heller Tag.",232,321,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,253.0,MALE,suffering,negative,emotions of suffering and empathy
+707,707,707,GerDracor/schiller-wallensteins-lager.xml,"Gehts auf Kosten des Bürgers und Bauern,
+            Nun wahrhaftig, sie werden mich dauern;
+            Aber ich kanns nicht ändern – seht,
+            's ist hier just, wies beim Einhaun geht,
+            Die Pferde schnauben und setzen an,
+            Liege wer will mitten in der Bahn,
+            Seis mein Bruder, mein leiblicher Sohn,
+            Zerriß mir die Seele sein Jammerton,
+            Über seinen Leib weg muß ich jagen,
+            Kann ihn nicht sachte beiseitetragen.",334,822,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,253.0,MALE,suffering,negative,emotions of suffering and empathy
+708,708,708,GerDracor/schiller-wallensteins-lager.xml,"Ei, wer wird nach dem andern fragen!",0,36,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,254.0,MALE,no_annotation,no_annotation,no_annotation
+709,709,709,GerDracor/schiller-wallensteins-lager.xml,"
+            Und weil sichs nun einmal so gemacht,
+            Daß das Glück dem Soldaten lacht,
+            Laßts uns mit beiden Händen fassen,
+            Lang werden sies uns nicht so treiben lassen.",0,202,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,255.0,MALE,joy,positive,emotions of pleasure
+710,710,710,GerDracor/schiller-wallensteins-lager.xml,"Der Friede wird kommen über Nacht,
+            Der dem Wesen ein Ende macht;
+            Der Soldat zäumt ab, der Bauer spannt ein,
+            Eh mans denkt, wirds wieder das alte sein.",215,401,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,255.0,MALE,no_annotation,no_annotation,no_annotation
+711,711,711,GerDracor/schiller-wallensteins-lager.xml,"Jetzt sind wir noch beisammen im Land,
+            Wir haben's Heft noch in der Hand,
+            Lassen wir uns auseinander sprengen,
+            Werden sie uns den Brotkorb höher hängen.",414,602,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,255.0,MALE,joy,positive,emotions of pleasure
+712,712,712,GerDracor/schiller-wallensteins-lager.xml,"
+            Nein, das darf nimmermehr geschehn!",0,48,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,256.0,MALE,abhorrence,negative,emotions of rejection
+713,713,713,GerDracor/schiller-wallensteins-lager.xml,"Kommt, laßt uns alle für einen stehn.",61,98,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,256.0,MALE,no_annotation,no_annotation,no_annotation
+714,714,714,GerDracor/schiller-wallensteins-lager.xml,"Ja, laßt uns Abrede nehmen, hört!",0,33,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,257.0,MALE,no_annotation,no_annotation,no_annotation
+715,715,715,GerDracor/schiller-wallensteins-lager.xml,"ein ledernes Beutelchen ziehend, zur Marketenderin.",0,51,stage_direction,1,11,speech_part,,#erster_arkebusier,258.0,MALE,no_annotation,no_annotation,no_annotation
+716,716,716,GerDracor/schiller-wallensteins-lager.xml,"Gevatterin, was hab ich verzehrt,",0,33,character_speech,1,11,,ERSTER ARKEBUSIER,#erster_arkebusier,258.0,MALE,suffering,negative,emotions of suffering and empathy
+717,717,717,GerDracor/schiller-wallensteins-lager.xml,Ach!,0,4,character_speech,1,11,,MARKETENDERIN.,#marketenderin,259.0,FEMALE,suffering,negative,emotions of suffering and empathy
+718,718,718,GerDracor/schiller-wallensteins-lager.xml,es ist nicht der Rede wert!,5,32,character_speech,1,11,,MARKETENDERIN.,#marketenderin,259.0,FEMALE,suffering,negative,emotions of suffering and empathy
+719,719,719,GerDracor/schiller-wallensteins-lager.xml,Sie rechnen.,0,12,stage_direction,1,11,speech_part,,#marketenderin,259.0,FEMALE,no_annotation,no_annotation,no_annotation
+720,720,720,GerDracor/schiller-wallensteins-lager.xml,"
+            Ihr tut wohl, daß ihr weiter geht,
+            Verderbt uns doch nur die Sozietät.",0,95,character_speech,1,11,,TROMPETER.,#trompeter,260.0,MALE,anger,negative,emotions of rejection
+721,721,721,GerDracor/schiller-wallensteins-lager.xml,Arkebusiere gehen ab.,0,21,stage_direction,1,11,speech_part,,#trompeter,260.0,MALE,no_annotation,no_annotation,no_annotation
+722,722,722,GerDracor/schiller-wallensteins-lager.xml,Schad um die Leut!,0,18,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,261.0,MALE,compassion,negative,emotions of suffering and empathy
+723,723,723,GerDracor/schiller-wallensteins-lager.xml,Sind sonst wackre Brüder.,19,44,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,261.0,MALE,no_annotation,no_annotation,no_annotation
+724,724,724,GerDracor/schiller-wallensteins-lager.xml,Aber das denkt wie ein Seifensieder.,0,36,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,262.0,MALE,no_annotation,no_annotation,no_annotation
+725,725,725,GerDracor/schiller-wallensteins-lager.xml,"
+            Jetzt sind wir unter uns, laßt hören,
+            Wie wir den neuen Anschlag stören.",0,97,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,263.0,MALE,no_annotation,no_annotation,no_annotation
+726,726,726,GerDracor/schiller-wallensteins-lager.xml,Was?,0,4,character_speech,1,11,,TROMPETER.,#trompeter,264.0,MALE,no_annotation,no_annotation,no_annotation
+727,727,727,GerDracor/schiller-wallensteins-lager.xml,wir gehen eben nicht hin.,5,30,character_speech,1,11,,TROMPETER.,#trompeter,264.0,MALE,no_annotation,no_annotation,no_annotation
+728,728,728,GerDracor/schiller-wallensteins-lager.xml,"
+            Nichts, ihr Herrn, gegen die Disziplin!",0,52,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,265.0,MALE,no_annotation,no_annotation,no_annotation
+729,729,729,GerDracor/schiller-wallensteins-lager.xml,"Jeder geht jetzt zu seinem Korps,
+            Trägts den Kameraden vernünftig vor,
+            Daß sies begreifen und einsehn lernen.",65,198,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,265.0,MALE,no_annotation,no_annotation,no_annotation
+730,730,730,GerDracor/schiller-wallensteins-lager.xml,Wir dürfen uns nicht so weit entfernen.,211,250,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,265.0,MALE,no_annotation,no_annotation,no_annotation
+731,731,731,GerDracor/schiller-wallensteins-lager.xml,Für meine Wallonen sag ich gut.,263,294,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,265.0,MALE,no_annotation,no_annotation,no_annotation
+732,732,732,GerDracor/schiller-wallensteins-lager.xml,"So, wie ich, jeder denken tut.",307,337,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,265.0,MALE,no_annotation,no_annotation,no_annotation
+733,733,733,GerDracor/schiller-wallensteins-lager.xml,"
+            Terzkas Regimenter zu Roß und Fuß
+            Stimmen alle in diesen Schluß.",0,89,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,266.0,MALE,no_annotation,no_annotation,no_annotation
+734,734,734,GerDracor/schiller-wallensteins-lager.xml,stellt sich zum ersten.,0,23,stage_direction,1,11,speech_part,,#zweiter_kuerassier,267.0,MALE,no_annotation,no_annotation,no_annotation
+735,735,735,GerDracor/schiller-wallensteins-lager.xml,Der Lombard sich nicht vom Wallonen trennt.,0,43,character_speech,1,11,,ZWEITER KÜRASSIER,#zweiter_kuerassier,267.0,MALE,no_annotation,no_annotation,no_annotation
+736,736,736,GerDracor/schiller-wallensteins-lager.xml,Freiheit ist Jägers Element.,0,28,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,268.0,MALE,no_annotation,no_annotation,no_annotation
+737,737,737,GerDracor/schiller-wallensteins-lager.xml,"
+            Freiheit ist bei der Macht allein.",0,47,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,269.0,MALE,no_annotation,no_annotation,no_annotation
+738,738,738,GerDracor/schiller-wallensteins-lager.xml,Ich leb und sterb bei dem Wallenstein.,60,98,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,269.0,MALE,"admiration, reverence",positive,emotions of affection
+739,739,739,GerDracor/schiller-wallensteins-lager.xml,"
+            Der Lothringer geht mit der großen Flut,
+            Wo der leichte Sinn ist und lustiger Mut.",0,107,character_speech,1,11,,ERSTER SCHARFSCHÜTZ.,#erster_scharfschuetz,270.0,MALE,no_annotation,no_annotation,no_annotation
+740,740,740,GerDracor/schiller-wallensteins-lager.xml,Der Irländer folgt des Glückes Stern.,0,37,character_speech,1,11,,DRAGONER.,#erster_dragoner,271.0,MALE,no_annotation,no_annotation,no_annotation
+741,741,741,GerDracor/schiller-wallensteins-lager.xml,Der Tiroler dient nur dem Landesherrn.,0,38,character_speech,1,11,,ZWEITER SCHARFSCHÜTZ.,#zweiter_scharfschuetz,272.0,MALE,no_annotation,no_annotation,no_annotation
+742,742,742,GerDracor/schiller-wallensteins-lager.xml,"
+            Also laßt jedes Regiment
+            Ein Pro memoria reinlich schreiben:
+            Daß wir zusammen wollen bleiben,
+            Daß uns keine Gewalt noch List
+            Von dem Friedländer weg soll treiben,
+            Der ein Soldatenvater ist.",0,262,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,273.0,MALE,"admiration, reverence",positive,emotions of affection
+743,743,743,GerDracor/schiller-wallensteins-lager.xml,"Das reicht man in tiefer Devotion
+            Dem Piccolomini – ich meine den Sohn –
+            Der versteht sich auf solche Sachen,
+            Kann bei dem Friedländer alles machen,
+            Hat auch einen großen Stein im Brett
+            Bei des Kaisers und Königs Majestät.",275,557,character_speech,1,11,,ERSTER KÜRASSIER.,#erster_kuerassier,273.0,MALE,"admiration, reverence",positive,emotions of affection
+744,744,744,GerDracor/schiller-wallensteins-lager.xml,"
+            Kommt!",0,19,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,274.0,MALE,no_annotation,no_annotation,no_annotation
+745,745,745,GerDracor/schiller-wallensteins-lager.xml,Dabei bleibts!,20,34,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,274.0,MALE,no_annotation,no_annotation,no_annotation
+746,746,746,GerDracor/schiller-wallensteins-lager.xml,Schlagt alle ein!,35,52,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,274.0,MALE,anger,negative,emotions of rejection
+747,747,747,GerDracor/schiller-wallensteins-lager.xml,Piccolomini soll unser Sprecher sein.,65,102,character_speech,1,11,,ZWEITER JÄGER.,#zweiter_jaeger,274.0,MALE,no_annotation,no_annotation,no_annotation
+748,748,748,GerDracor/schiller-wallensteins-lager.xml,zugleich.,0,9,stage_direction,1,11,speech_part,,#trompeter #erster_dragoner #erster_jaeger #zweiter_kuerassier #erster_scharfschuetz #zweiter_scharfschuetz,275.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+749,749,749,GerDracor/schiller-wallensteins-lager.xml,Piccolomini soll unser Sprecher sein.,0,37,character_speech,1,11,,"TROMPETER, DRAGONER, ERSTER JÄGER, ZWEITER KÜRASSIER, SCHARFSCHÜTZEN",#trompeter #erster_dragoner #erster_jaeger #zweiter_kuerassier #erster_scharfschuetz #zweiter_scharfschuetz,275.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+750,750,750,GerDracor/schiller-wallensteins-lager.xml,Wollen fort.,0,12,stage_direction,1,11,speech_part,,#trompeter #erster_dragoner #erster_jaeger #zweiter_kuerassier #erster_scharfschuetz #zweiter_scharfschuetz,275.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+751,751,751,GerDracor/schiller-wallensteins-lager.xml,"Erst noch ein Gläschen, Kameraden!",0,34,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,276.0,MALE,no_annotation,no_annotation,no_annotation
+752,752,752,GerDracor/schiller-wallensteins-lager.xml,Trinkt.,0,7,stage_direction,1,11,speech_part,,#wachtmeister,276.0,MALE,no_annotation,no_annotation,no_annotation
+753,753,753,GerDracor/schiller-wallensteins-lager.xml,Des Piccolomini hohe Gnaden!,0,28,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,276.0,MALE,"admiration, reverence",positive,emotions of affection
+754,754,754,GerDracor/schiller-wallensteins-lager.xml,bringt eine Flasche.,0,20,stage_direction,1,11,speech_part,,#marketenderin,277.0,FEMALE,no_annotation,no_annotation,no_annotation
+755,755,755,GerDracor/schiller-wallensteins-lager.xml,"
+            Das kommt nicht aufs Kerbholz.",0,43,character_speech,1,11,,MARKETENDERIN,#marketenderin,277.0,FEMALE,no_annotation,no_annotation,no_annotation
+756,756,756,GerDracor/schiller-wallensteins-lager.xml,Ich geb es gern.,44,60,character_speech,1,11,,MARKETENDERIN,#marketenderin,277.0,FEMALE,no_annotation,no_annotation,no_annotation
+757,757,757,GerDracor/schiller-wallensteins-lager.xml,"Gute Verrichtung, meine Herrn!",73,103,character_speech,1,11,,MARKETENDERIN,#marketenderin,277.0,FEMALE,no_annotation,no_annotation,no_annotation
+758,758,758,GerDracor/schiller-wallensteins-lager.xml,Der Wehrstand soll leben!,0,25,character_speech,1,11,,KÜRASSIERE.,#erster_kuerassier #zweiter_kuerassier,278.0,UNKNOWN,joy,positive,emotions of pleasure
+759,759,759,GerDracor/schiller-wallensteins-lager.xml,Der Nährstand soll geben!,0,25,character_speech,1,11,,BEIDE JÄGER.,#erster_jaeger #zweiter_jaeger,279.0,UNKNOWN,joy,positive,emotions of pleasure
+760,760,760,GerDracor/schiller-wallensteins-lager.xml,Die Armee soll florieren!,0,25,character_speech,1,11,,DRAGONER UND SCHARFSCHÜTZEN.,#erster_dragoner #erster_scharfschuetz #zweiter_scharfschuetz,280.0,UNKNOWN,joy,positive,emotions of pleasure
+761,761,761,GerDracor/schiller-wallensteins-lager.xml,Und der Friedländer soll sie regieren.,0,38,character_speech,1,11,,TROMPETER UND WACHTMEISTER.,#trompeter #wachtmeister,281.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+762,762,762,GerDracor/schiller-wallensteins-lager.xml,singt.,0,6,stage_direction,1,11,speech_part,,#zweiter_kuerassier,282.0,MALE,no_annotation,no_annotation,no_annotation
+763,763,763,GerDracor/schiller-wallensteins-lager.xml,"
+            Wohl auf, Kameraden, aufs Pferd, aufs Pferd!",0,57,character_speech,1,11,,ZWEITER KÜRASSIER,#zweiter_kuerassier,282.0,MALE,no_annotation,no_annotation,no_annotation
+764,764,764,GerDracor/schiller-wallensteins-lager.xml,"Ins Feld, in die Freiheit gezogen.",70,104,character_speech,1,11,,ZWEITER KÜRASSIER,#zweiter_kuerassier,282.0,MALE,no_annotation,no_annotation,no_annotation
+765,765,765,GerDracor/schiller-wallensteins-lager.xml,"Im Felde, da ist der Mann noch was wert,
+            Da wird das Herz noch gewogen.",117,200,character_speech,1,11,,ZWEITER KÜRASSIER,#zweiter_kuerassier,282.0,MALE,"admiration, reverence",positive,emotions of affection
+766,766,766,GerDracor/schiller-wallensteins-lager.xml,"Da tritt kein anderer für ihn ein,
+            Auf sich selber steht er da ganz allein.",213,300,character_speech,1,11,,ZWEITER KÜRASSIER,#zweiter_kuerassier,282.0,MALE,no_annotation,no_annotation,no_annotation
+767,767,767,GerDracor/schiller-wallensteins-lager.xml,"Die Soldaten aus dem Hintergrunde haben sich während des Gesangs herbeigezogen und
+            machen den Chor.",0,111,stage_direction,1,11,speech_part,,#zweiter_kuerassier,282.0,MALE,no_annotation,no_annotation,no_annotation
+768,768,768,GerDracor/schiller-wallensteins-lager.xml,"
+            Da tritt kein anderer für ihn ein,
+            Auf sich selber steht er da ganz allein.",0,100,character_speech,1,11,,CHOR.,#chor,283.0,MALE,no_annotation,no_annotation,no_annotation
+769,769,769,GerDracor/schiller-wallensteins-lager.xml,"
+            Aus der Welt die Freiheit verschwunden ist,
+            Man sieht nur Herren und Knechte;
+            Die Falschheit herrschet, die Hinterlist
+            Bei dem feigen Menschengeschlechte.",0,203,character_speech,1,11,,DRAGONER.,#erster_dragoner,284.0,MALE,abhorrence,negative,emotions of rejection
+770,770,770,GerDracor/schiller-wallensteins-lager.xml,"Der dem Tod ins Angesicht schauen kann,
+            Der Soldat allein ist der freie Mann.",216,305,character_speech,1,11,,DRAGONER.,#erster_dragoner,284.0,MALE,"admiration, reverence",positive,emotions of affection
+771,771,771,GerDracor/schiller-wallensteins-lager.xml,"
+            Der dem Tod ins Angesicht schauen kann,
+            Der Soldat allein ist der freie Mann.",0,102,character_speech,1,11,,CHOR.,#chor,285.0,MALE,"admiration, reverence",positive,emotions of affection
+772,772,772,GerDracor/schiller-wallensteins-lager.xml,"
+            Des Lebens Ängsten, er wirft sie weg,
+            Hat nicht mehr zu fürchten, zu sorgen;
+            Er reitet dem Schicksal entgegen keck,
+            Triffts heute nicht, trifft es doch morgen,
+            Und trifft es morgen, so lasset uns heut
+            Noch schlürfen die Neige der köstlichen Zeit.",0,319,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,286.0,MALE,no_annotation,no_annotation,no_annotation
+773,773,773,GerDracor/schiller-wallensteins-lager.xml,"
+            Und trifft es morgen, so lasset uns heut
+            Noch schlürfen die Neige der köstlichen Zeit.",0,111,character_speech,1,11,,CHOR.,#chor,287.0,MALE,no_annotation,no_annotation,no_annotation
+774,774,774,GerDracor/schiller-wallensteins-lager.xml,"Die Gläser sind aufs neue gefüllt worden, sie stoßen an und trinken.",0,68,stage_direction,1,11,speech_part,,#chor,287.0,MALE,no_annotation,no_annotation,no_annotation
+775,775,775,GerDracor/schiller-wallensteins-lager.xml,"
+            Von dem Himmel fällt ihm sein lustiges Los,
+            Brauchts nicht mit Müh zu erstreben,
+            Der Fröner, der sucht in der Erde Schoß,
+            Da meint er den Schatz zu erheben.",0,205,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,288.0,MALE,"admiration, reverence",positive,emotions of affection
+776,776,776,GerDracor/schiller-wallensteins-lager.xml,"Er gräbt und schaufelt, so lang er lebt,
+            Und gräbt, bis er endlich sein Grab sich gräbt.",218,318,character_speech,1,11,,WACHTMEISTER.,#wachtmeister,288.0,MALE,"admiration, reverence",positive,emotions of affection
+777,777,777,GerDracor/schiller-wallensteins-lager.xml,"
+            Er gräbt und schaufelt, so lang er lebt,
+            Und gräbt, bis er endlich sein Grab sich gräbt.",0,113,character_speech,1,11,,CHOR.,#chor,289.0,MALE,"admiration, reverence",positive,emotions of affection
+778,778,778,GerDracor/schiller-wallensteins-lager.xml,"
+            Der Reiter und sein geschwindes Roß,
+            Sie sind gefürchtete Gäste;
+            Es flimmern die Lampen im Hochzeitschloß,
+            Ungeladen kommt er zum Feste,
+            Er wirbt nicht lange, er zeiget nicht Gold,
+            Im Sturm erringt er den Minnesold.",0,288,character_speech,1,11,,ERSTER JÄGER.,#erster_jaeger,290.0,MALE,no_annotation,no_annotation,no_annotation
+779,779,779,GerDracor/schiller-wallensteins-lager.xml,"
+            Er wirbt nicht lange, er zeiget nicht Gold,
+            Im Sturm erringt er den Minnesold.",0,103,character_speech,1,11,,CHOR.,#chor,291.0,MALE,no_annotation,no_annotation,no_annotation
+780,780,780,GerDracor/schiller-wallensteins-lager.xml,"
+            Warum weint die Dirn und zergrämet sich schier?",0,60,character_speech,1,11,,ZWEITER KÜRASSIER.,#zweiter_kuerassier,292.0,MALE,suffering,negative,emotions of suffering and empathy
+781,781,781,GerDracor/schiller-wallensteins-lager.xml,"Laß fahren dahin, laß fahren!",73,102,character_speech,1,11,,ZWEITER KÜRASSIER.,#zweiter_kuerassier,292.0,MALE,no_annotation,no_annotation,no_annotation
+782,782,782,GerDracor/schiller-wallensteins-lager.xml,"Er hat auf Erden kein bleibend Quartier,
+            Kann treue Lieb nicht bewahren.",115,199,character_speech,1,11,,ZWEITER KÜRASSIER.,#zweiter_kuerassier,292.0,MALE,love,positive,emotions of affection
+783,783,783,GerDracor/schiller-wallensteins-lager.xml,"Das rasche Schicksal, es treibt ihn fort,
+            Seine Ruh läßt er an keinem Ort.",213,299,character_speech,1,11,,ZWEITER KÜRASSIER.,#zweiter_kuerassier,292.0,MALE,no_annotation,no_annotation,no_annotation
+784,784,784,GerDracor/schiller-wallensteins-lager.xml,"
+            Das rasche Schicksal, es treibt ihn fort,
+            Seine Ruh läßt er an keinem Ort.",0,99,character_speech,1,11,,CHOR.,#chor,293.0,MALE,no_annotation,no_annotation,no_annotation
+785,785,785,GerDracor/schiller-wallensteins-lager.xml,"faßt die zwei Nächsten an der Hand, die übrigen ahmen es nach; alle, welche
+            gesprochen, bilden einen großen Halbkreis.",0,130,stage_direction,1,11,speech_part,,#erster_jaeger,294.0,MALE,no_annotation,no_annotation,no_annotation
+786,786,786,GerDracor/schiller-wallensteins-lager.xml,"
+            Drum frisch, Kameraden, den Rappen gezäumt,
+            Die Brust im Gefechte gelüftet.",0,100,character_speech,1,11,,ERSTER JÄGER,#erster_jaeger,294.0,MALE,joy,positive,emotions of pleasure
+787,787,787,GerDracor/schiller-wallensteins-lager.xml,"Die Jugend brauset, das Leben schäumt,
+            Frisch auf!",113,175,character_speech,1,11,,ERSTER JÄGER,#erster_jaeger,294.0,MALE,joy,positive,emotions of pleasure
+788,788,788,GerDracor/schiller-wallensteins-lager.xml,eh der Geist noch verdüftet.,176,204,character_speech,1,11,,ERSTER JÄGER,#erster_jaeger,294.0,MALE,no_annotation,no_annotation,no_annotation
+789,789,789,GerDracor/schiller-wallensteins-lager.xml,"Und setzet ihr nicht das Leben ein,
+            Nie wird euch das Leben gewonnen sein.",217,303,character_speech,1,11,,ERSTER JÄGER,#erster_jaeger,294.0,MALE,joy,positive,emotions of pleasure
+790,790,790,GerDracor/schiller-wallensteins-lager.xml,"
+            Und setzet ihr nicht das Leben ein,
+            Nie wird euch das Leben gewonnen sein.",0,99,character_speech,1,11,,CHOR.,#chor,295.0,MALE,joy,positive,emotions of pleasure
+791,791,791,GerDracor/schiller-wallensteins-lager.xml,"Der Vorhang fällt, ehe der Chor ganz ausgesungen.",0,49,stage_direction,1,11,speech_part,,#chor,295.0,MALE,no_annotation,no_annotation,no_annotation

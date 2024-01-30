@@ -1,0 +1,117 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+1699,1699,1699,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Bilau, Grundmann, die Vorigen.",0,30,stage_direction,4,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+1700,1700,1700,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Später Käthe, noch später der Bauer Hans.",31,72,stage_direction,4,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+1701,1701,1701,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,eilig.,0,6,stage_direction,4,5,speech_part,,#bilau,994.0,MALE,no_annotation,no_annotation,no_annotation
+1702,1702,1702,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Frau Räthin, darf ich es glauben?",0,33,character_speech,4,5,,BILAU,#bilau,994.0,MALE,no_annotation,no_annotation,no_annotation
+1703,1703,1703,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Hat mich der Junge nicht genarrt?,34,67,character_speech,4,5,,BILAU,#bilau,994.0,MALE,anger,negative,emotions of rejection
+1704,1704,1704,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Sie geben meinem
+              Sohne Ihre Tochter?",68,118,character_speech,4,5,,BILAU,#bilau,994.0,MALE,no_annotation,no_annotation,no_annotation
+1705,1705,1705,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Ja?,119,122,character_speech,4,5,,BILAU,#bilau,994.0,MALE,no_annotation,no_annotation,no_annotation
+1706,1706,1706,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"– Antworten Sie nicht, es ist wahr, Freude strahlt aus aller
+              Augen.",123,204,character_speech,4,5,,BILAU,#bilau,994.0,MALE,joy,positive,emotions of pleasure
+1707,1707,1707,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"O ich glücklicher Vater, so werden endlich meine Wünsche erfüllt.",205,270,character_speech,4,5,,BILAU,#bilau,994.0,MALE,joy,positive,emotions of pleasure
+1708,1708,1708,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"– Frau Räthin
+              – Brautmutter – Schwiegermutter – Tochter – Sohn – Freund – kommt her, alle zu mir!",271,382,character_speech,4,5,,BILAU,#bilau,994.0,MALE,no_annotation,no_annotation,no_annotation
+1709,1709,1709,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"–
+              Ihr glaubt ihr seid glücklich?",383,429,character_speech,4,5,,BILAU,#bilau,994.0,MALE,no_annotation,no_annotation,no_annotation
+1710,1710,1710,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Ich bin es mehr.,430,446,character_speech,4,5,,BILAU,#bilau,994.0,MALE,no_annotation,no_annotation,no_annotation
+1711,1711,1711,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Ihr fühlt nur für Euch,
+              ich für Euch alle; Jahre lang habe ich mich nach diesem Augenblick gesehnt – er ist
+              erlebt – er ist gekommen, Gott sei Dank, er ist gekommen!",447,640,character_speech,4,5,,BILAU,#bilau,994.0,MALE,joy,positive,emotions of pleasure
+1712,1712,1712,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Vater!,0,6,character_speech,4,5,,FERDINAND.,#ferdinand,995.0,MALE,being moved,being moved,being moved
+1713,1713,1713,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Diese Braut war doch werth –,7,35,character_speech,4,5,,FERDINAND.,#ferdinand,995.0,MALE,no_annotation,no_annotation,no_annotation
+1714,1714,1714,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Stellt ihm Rosalie vor.,0,23,stage_direction,4,5,inner_speech,,#ferdinand,995.0,MALE,no_annotation,no_annotation,no_annotation
+1715,1715,1715,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Daß Du auf sie gewartet.,0,24,character_speech,4,5,,BILAU.,#bilau,996.0,MALE,no_annotation,no_annotation,no_annotation
+1716,1716,1716,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Dieses Mädchen verdient,0,23,character_speech,4,5,,LANGERS.,#langers,997.0,MALE,"admiration, reverence",positive,emotions of affection
+1717,1717,1717,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Stellt ihm Julie vor.,0,21,stage_direction,4,5,inner_speech,,#langers,997.0,MALE,no_annotation,no_annotation,no_annotation
+1718,1718,1718,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Den Himmel auf Erden.,0,21,character_speech,4,5,,BILAU.,#bilau,998.0,MALE,no_annotation,no_annotation,no_annotation
+1719,1719,1719,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Sie finde ihn bei mir.,0,22,character_speech,4,5,,LANGERS.,#langers,999.0,MALE,no_annotation,no_annotation,no_annotation
+1720,1720,1720,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Nun soll das Morgen ein Spektakel werden – zwei Hochzeiten.,0,59,character_speech,4,5,,BILAU.,#bilau,1000.0,MALE,joy,positive,emotions of pleasure
+1721,1721,1721,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Muß gehorsamst erinnern – drei.,0,31,character_speech,4,5,,GRUNDMANN.,#grundmann,1001.0,MALE,no_annotation,no_annotation,no_annotation
+1722,1722,1722,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Drei?,0,5,character_speech,4,5,,FERDINAND.,#ferdinand,1002.0,MALE,no_annotation,no_annotation,no_annotation
+1723,1723,1723,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Richtig – bald hätte ich vergessen, daß ich selbst Bräutigam bin.",0,65,character_speech,4,5,,BILAU.,#bilau,1003.0,MALE,no_annotation,no_annotation,no_annotation
+1724,1724,1724,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Vater, Sie wollten –",0,20,character_speech,4,5,,FERDINAND.,#ferdinand,1004.0,MALE,no_annotation,no_annotation,no_annotation
+1725,1725,1725,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Drei Hochzeiten feiern.,0,23,character_speech,4,5,,BILAU.,#bilau,1005.0,MALE,joy,positive,emotions of pleasure
+1726,1726,1726,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Sie sagten ja, wenn ich –",0,25,character_speech,4,5,,FERDINAND.,#ferdinand,1006.0,MALE,no_annotation,no_annotation,no_annotation
+1727,1727,1727,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Die Sache ist zu weit gekommen, ich kann nicht mehr zurück.",0,59,character_speech,4,5,,BILAU.,#bilau,1007.0,MALE,no_annotation,no_annotation,no_annotation
+1728,1728,1728,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Wenn ich Sie bitte, beschwöre –",0,31,character_speech,4,5,,FERDINAND.,#ferdinand,1008.0,MALE,no_annotation,no_annotation,no_annotation
+1729,1729,1729,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Alles umsonst – drei Hochzeiten giebts – und  damit Du siehst, daß es
+              mein Ernst ist, so habe ich Dir die Frau Mutter gleich mit gebracht.",0,152,character_speech,4,5,,BILAU.,#bilau,1009.0,MALE,no_annotation,no_annotation,no_annotation
+1730,1730,1730,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Holt Käthe an der Thüre, und stellt sie in die Mitte des Theaters.",0,66,stage_direction,4,5,speech_part,,#bilau,1009.0,MALE,no_annotation,no_annotation,no_annotation
+1731,1731,1731,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Nun, wie gefällt euch die Braut?",0,32,character_speech,4,5,,BILAU.,#bilau,1009.0,MALE,no_annotation,no_annotation,no_annotation
+1732,1732,1732,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Alle sind bestürzt.,0,19,stage_direction,4,5,speech_part,,#bilau,1009.0,MALE,fear,negative,emotions of anxiety
+1733,1733,1733,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Keine Antwort – – alle stehen gewendet – Ihr seht mir das Mädchen nicht einmal an?,0,82,character_speech,4,5,,BILAU.,#bilau,1009.0,MALE,being moved,being moved,being moved
+1734,1734,1734,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"O
+              wartet nur, ich bringe die Köpfe gleich herum.",83,145,character_speech,4,5,,BILAU.,#bilau,1009.0,MALE,no_annotation,no_annotation,no_annotation
+1735,1735,1735,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,– Kinder!,146,155,character_speech,4,5,,BILAU.,#bilau,1009.0,MALE,no_annotation,no_annotation,no_annotation
+1736,1736,1736,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Ich bin nicht der
+              Bräutigam.",156,198,character_speech,4,5,,BILAU.,#bilau,1009.0,MALE,no_annotation,no_annotation,no_annotation
+1737,1737,1737,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,wenden sich.,0,12,stage_direction,4,5,speech_part,,#julie #rosalie #langers #ferdinand #raethin #kaethe,1010.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+1738,1738,1738,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Nicht?,0,6,character_speech,4,5,,ALLE,#julie #rosalie #langers #ferdinand #raethin #kaethe,1010.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+1739,1739,1739,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"holt Hans herein, und stellt ihn neben Käthe.",0,45,stage_direction,4,5,speech_part,,#bilau,1011.0,MALE,no_annotation,no_annotation,no_annotation
+1740,1740,1740,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Dieser ists –,0,13,character_speech,4,5,,BILAU,#bilau,1011.0,MALE,no_annotation,no_annotation,no_annotation
+1741,1741,1741,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Dieser?,0,7,character_speech,4,5,,ALLE.,#julie #rosalie #langers #ferdinand #raethin #kaethe,1012.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+1742,1742,1742,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,lacht vergnügt.,0,15,stage_direction,4,5,speech_part,,#grundmann,1013.0,MALE,joy,positive,emotions of pleasure
+1743,1743,1743,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Endlich im Klarem –,0,19,character_speech,4,5,,GRUNDMANN,#grundmann,1013.0,MALE,no_annotation,no_annotation,no_annotation
+1744,1744,1744,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Alter Herr, ist das wahr?",0,25,character_speech,4,5,,KÄTHE.,#kaethe,1014.0,FEMALE,no_annotation,no_annotation,no_annotation
+1745,1745,1745,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Wahr –,0,6,character_speech,4,5,,BILAU.,#bilau,1015.0,MALE,no_annotation,no_annotation,no_annotation
+1746,1746,1746,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Er will mich nicht heirathen?,0,29,character_speech,4,5,,KÄTHE.,#kaethe,1016.0,FEMALE,being moved,being moved,being moved
+1747,1747,1747,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Ist mir nie in den Sinn gekommen,",0,33,character_speech,4,5,,BILAU.,#bilau,1017.0,MALE,no_annotation,no_annotation,no_annotation
+1748,1748,1748,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,hustet.,0,7,stage_direction,4,5,speech_part,,#grundmann,1018.0,MALE,suffering,negative,emotions of suffering and empathy
+1749,1749,1749,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Hem hem!,0,8,character_speech,4,5,,GRUNDMANN,#grundmann,1018.0,MALE,no_annotation,no_annotation,no_annotation
+1750,1750,1750,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,deutet.,0,7,stage_direction,4,5,speech_part,,#bilau,1019.0,MALE,no_annotation,no_annotation,no_annotation
+1751,1751,1751,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Pst –,0,5,character_speech,4,5,,BILAU,#bilau,1019.0,MALE,no_annotation,no_annotation,no_annotation
+1752,1752,1752,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Und Hans wird mein Mann?,0,24,character_speech,4,5,,KÄTHE.,#kaethe,1020.0,FEMALE,being moved,being moved,being moved
+1753,1753,1753,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Hans – es könnte ja kein anderer mit Dir auskommen.,0,51,character_speech,4,5,,BILAU.,#bilau,1021.0,MALE,"admiration, reverence",positive,emotions of affection
+1754,1754,1754,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Ja, das ist wahr – aber – der Vater wird mich.",0,46,character_speech,4,5,,KÄTHE.,#kaethe,1022.0,FEMALE,no_annotation,no_annotation,no_annotation
+1755,1755,1755,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Deutet Schläge.,0,15,stage_direction,4,5,inner_speech,,#kaethe,1022.0,FEMALE,no_annotation,no_annotation,no_annotation
+1756,1756,1756,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Ohne Sorge, ich habe ihm die Schläge abgekauft.",0,47,character_speech,4,5,,BILAU.,#bilau,1023.0,MALE,anger,negative,emotions of rejection
+1757,1757,1757,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Morgen kommt er in die Stadt, Ihr
+              werdet Mann und Frau.",48,117,character_speech,4,5,,BILAU.,#bilau,1023.0,MALE,no_annotation,no_annotation,no_annotation
+1758,1758,1758,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Hans!,0,5,character_speech,4,5,,KÄTHE.,#kaethe,1024.0,FEMALE,being moved,being moved,being moved
+1759,1759,1759,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Käthe!,0,6,character_speech,4,5,,HANS.,#hans,1025.0,MALE,being moved,being moved,being moved
+1760,1760,1760,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Hast Du es gehört?,0,18,character_speech,4,5,,KÄTHE.,#kaethe,1026.0,FEMALE,no_annotation,no_annotation,no_annotation
+1761,1761,1761,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Mann und Frau?,19,33,character_speech,4,5,,KÄTHE.,#kaethe,1026.0,FEMALE,being moved,being moved,being moved
+1762,1762,1762,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Ihr bekommt Haus und Hof.,0,25,character_speech,4,5,,BILAU.,#bilau,1027.0,MALE,joy,positive,emotions of pleasure
+1763,1763,1763,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Haus und Hof?,0,13,character_speech,4,5,,KÄTHE.,#kaethe,1028.0,FEMALE,being moved,being moved,being moved
+1764,1764,1764,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Wiesen und Felder.,0,18,character_speech,4,5,,BILAU.,#bilau,1029.0,MALE,no_annotation,no_annotation,no_annotation
+1765,1765,1765,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Was?,0,4,character_speech,4,5,,KÄTHE.,#kaethe,1030.0,FEMALE,no_annotation,no_annotation,no_annotation
+1766,1766,1766,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Ich bekomme Haus, Hof, Wiesen, Felder, und meinen Hans?",5,60,character_speech,4,5,,KÄTHE.,#kaethe,1030.0,FEMALE,joy,positive,emotions of pleasure
+1767,1767,1767,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Und Deinen Hans.,0,16,character_speech,4,5,,BILAU.,#bilau,1031.0,MALE,no_annotation,no_annotation,no_annotation
+1768,1768,1768,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,fällt auf die Knie.,0,19,stage_direction,4,5,speech_part,,#kaethe,1032.0,FEMALE,no_annotation,no_annotation,no_annotation
+1769,1769,1769,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Hans!,0,5,character_speech,4,5,,KÄTHE,#kaethe,1032.0,FEMALE,being moved,being moved,being moved
+1770,1770,1770,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Fall auf die Knie, hilf mir danken –",6,42,character_speech,4,5,,KÄTHE,#kaethe,1032.0,FEMALE,Schadenfreude,positive,emotions of pleasure
+1771,1771,1771,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Gott schenk ihm langes Leben.,0,29,character_speech,4,5,,HANS.,#hans,1033.0,MALE,"admiration, reverence",positive,emotions of affection
+1772,1772,1772,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Das ist zu wenig Hans; er ist so gut, er darf gar nicht sterben.",0,64,character_speech,4,5,,KÄTHE.,#kaethe,1034.0,FEMALE,"admiration, reverence",positive,emotions of affection
+1773,1773,1773,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Ists denn auch wahr?,65,85,character_speech,4,5,,KÄTHE.,#kaethe,1034.0,FEMALE,no_annotation,no_annotation,no_annotation
+1774,1774,1774,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Gewiß wahr?,100,111,character_speech,4,5,,KÄTHE.,#kaethe,1034.0,FEMALE,no_annotation,no_annotation,no_annotation
+1775,1775,1775,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Da,",0,3,character_speech,4,5,,BILAU.,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1776,1776,1776,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Giebt Hans und Käthe zusammen.,0,30,stage_direction,4,5,inner_speech,,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1777,1777,1777,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml," und da,",0,8,character_speech,4,5,,BILAU.,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1778,1778,1778,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Giebt Rosalie und
+                Ferdinand zusammen.",0,53,stage_direction,4,5,inner_speech,,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1779,1779,1779,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml," und da,",0,8,character_speech,4,5,,BILAU.,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1780,1780,1780,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Langers und Julie.,0,18,stage_direction,4,5,inner_speech,,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1781,1781,1781,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml," Wie sie
+              gepaart stehen, wie in der Arche Noe.",0,60,character_speech,4,5,,BILAU.,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1782,1782,1782,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Sie Frau Räthin geben mir die Hand; wir treten
+              nicht mehr in den Ehestand, aber wir sind morgen die Ersten in dem Tanzsaale, und
+              eröffnen den Ball.",61,236,character_speech,4,5,,BILAU.,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1783,1783,1783,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Nun –,237,242,character_speech,4,5,,BILAU.,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1784,1784,1784,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Sieht alle an.,0,14,stage_direction,4,5,inner_speech,,#bilau,1035.0,MALE,joy,positive,emotions of pleasure
+1785,1785,1785,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml, hab ichs so recht gemacht?,0,27,character_speech,4,5,,BILAU.,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1786,1786,1786,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Seid
+              Ihr zufrieden?",28,61,character_speech,4,5,,BILAU.,#bilau,1035.0,MALE,no_annotation,no_annotation,no_annotation
+1787,1787,1787,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Glücklich und zufrieden.,0,24,character_speech,4,5,,ALLE DREI PAARE.,#hans #kaethe #rosalie #ferdinand #langers #julie,1036.0,UNKNOWN,joy,positive,emotions of pleasure
+1788,1788,1788,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"Alle Jahre an diesem Tage will ich Euch wieder fragen, und wer mir da nicht offen wie
+              heute in die Augen sehen kann, darf nicht am Ehrentische sitzen.",0,164,character_speech,4,5,,BILAU.,#bilau,1037.0,MALE,no_annotation,no_annotation,no_annotation
+1789,1789,1789,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"– Kinder, haltet fest
+              aneinander – alle Stürme des Lebens trägt man leicht, wenn der Ehestands-Himmel hell
+              und heiter bleibt; und zieht einmal ein Wölkchen auf, so wirke der Mann mit Kraft
+              –",165,397,character_speech,4,5,,BILAU.,#bilau,1037.0,MALE,no_annotation,no_annotation,no_annotation
+1790,1790,1790,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Das Weib – mit Geduld und Liebe.,0,32,character_speech,4,5,,RÄTHIN.,#raethin,1038.0,FEMALE,love,positive,emotions of affection
+1791,1791,1791,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,"geben Langers und Ferdinand die Hand, und sagen.",0,48,stage_direction,4,5,speech_part,,#rosalie #julie,1039.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+1792,1792,1792,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Mit Geduld –,0,12,character_speech,4,5,,ROSALIE UND JULIE,#rosalie #julie,1039.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+1793,1793,1793,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Und Liebe –,0,11,character_speech,4,5,,LANGERS UND FERDINAND.,#langers #ferdinand,1040.0,UNKNOWN,love,positive,emotions of affection
+1794,1794,1794,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Ewig bleib es so!,0,17,character_speech,4,5,,ALLE.,#hans #kaethe #rosalie #ferdinand #langers #julie,1041.0,UNKNOWN,love,positive,emotions of affection
+1795,1795,1795,GerDracor/weissenthurn-welcher-ist-der-braeutigam.xml,Der Vorhang fällt.,0,18,stage_direction,4,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation

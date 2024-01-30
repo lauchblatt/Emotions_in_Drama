@@ -1,0 +1,145 @@
+,Unnamed: 0,Unnamed: 0.1,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+2029,2029,2029,GerDracor/lenz-der-hofmeister.xml,"Der Major, ein Kind auf dem Arm.",0,32,stage_direction,5,12,pre_speech,,,,,no_annotation,K,,1778.0,no_annotation,no_annotation
+2030,2030,2030,GerDracor/lenz-der-hofmeister.xml,Der alte Pätus.,33,48,stage_direction,5,12,pre_speech,,,,,no_annotation,K,,1778.0,no_annotation,no_annotation
+2031,2031,2031,GerDracor/lenz-der-hofmeister.xml,"Kommen Sie, Herr Pätus.",0,23,character_speech,5,12,,MAJOR.,#major,631.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2032,2032,2032,GerDracor/lenz-der-hofmeister.xml,Sie haben mir das Leben wiedergegeben.,24,62,character_speech,5,12,,MAJOR.,#major,631.0,MALE,love,K,,1778.0,positive,emotions of affection
+2033,2033,2033,GerDracor/lenz-der-hofmeister.xml,"Das war der einzige
+              Wurm, der mir noch dran nagte.",63,127,character_speech,5,12,,MAJOR.,#major,631.0,MALE,suffering,K,,1778.0,negative,emotions of suffering and empathy
+2034,2034,2034,GerDracor/lenz-der-hofmeister.xml,"Ich muß Sie meinem Bruder präsentieren, und Ihre alte
+              blinde Großmutter will ich in Gold einfassen lassen.",128,248,character_speech,5,12,,MAJOR.,#major,631.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2035,2035,2035,GerDracor/lenz-der-hofmeister.xml,"O meine Mutter hat mich durch ihren unvermuteten Besuch weit glücklicher gemacht als
+              Sie.",0,103,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,632.0,MALE,joy,K,,1778.0,positive,emotions of pleasure
+2036,2036,2036,GerDracor/lenz-der-hofmeister.xml,"Sie haben nur einen Enkel wiedererhalten, der Sie an traurige Geschichten
+              erinnert; ich aber eine Mutter, die mich an die angenehmsten Szenen meines Lebens
+              erinnert, und deren mütterliche Zärtlichkeit ich leider  noch durch
+              nichts habe erwidern können als Haß und Undankbarkeit.",104,424,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,632.0,MALE,abhorrence,K,,1778.0,negative,emotions of rejection
+2037,2037,2037,GerDracor/lenz-der-hofmeister.xml,"Ich habe sie aus dem Hause
+              gestoßen, nachdem sie mir den ganzen Nachlaß meines Vaters und ihr Vermögen mit
+              übergeben hatte; ich habe ärger gegen sie gehandelt als ein Tiger – Welche Gnade von
+              Gott ist es, daß sie noch lebt, daß sie mir noch verzeihen kann, die großmütige
+              Heilige!",425,761,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,632.0,MALE,abhorrence,K,,1778.0,negative,emotions of rejection
+2038,2038,2038,GerDracor/lenz-der-hofmeister.xml,"daß es noch in meine Gewalt gestellt ist, meine verfluchte Verbrechen wieder
+              gut zu machen.",762,867,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,632.0,MALE,abhorrence,K,,1778.0,negative,emotions of rejection
+2039,2039,2039,GerDracor/lenz-der-hofmeister.xml,Bruder Berg!,0,12,character_speech,5,12,,MAJOR.,#major,633.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2040,2040,2040,GerDracor/lenz-der-hofmeister.xml,wo bist du?,13,24,character_speech,5,12,,MAJOR.,#major,633.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2041,2041,2041,GerDracor/lenz-der-hofmeister.xml,He!,25,28,character_speech,5,12,,MAJOR.,#major,633.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2042,2042,2042,GerDracor/lenz-der-hofmeister.xml,Geheimer Rat kömmt.,0,19,stage_direction,5,12,inner_speech,,#major,633.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2043,2043,2043,GerDracor/lenz-der-hofmeister.xml," Hier ist mein Kind,
+              mein Großsohn.",0,49,character_speech,5,12,,MAJOR.,#major,633.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2044,2044,2044,GerDracor/lenz-der-hofmeister.xml,Wo ist Gustchen?,50,66,character_speech,5,12,,MAJOR.,#major,633.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2045,2045,2045,GerDracor/lenz-der-hofmeister.xml,Mein allerliebstes Großsöhnchen!,67,99,character_speech,5,12,,MAJOR.,#major,633.0,MALE,"admiration, reverence",K,,1778.0,positive,emotions of affection
+2046,2046,2046,GerDracor/lenz-der-hofmeister.xml,"Schmeichelt
+                ihm.",0,32,stage_direction,5,12,inner_speech,,#major,633.0,MALE,"admiration, reverence",K,,1778.0,positive,emotions of affection
+2047,2047,2047,GerDracor/lenz-der-hofmeister.xml, meine allerliebste närrische Puppe!,0,36,character_speech,5,12,,MAJOR.,#major,633.0,MALE,joy,K,,1778.0,positive,emotions of pleasure
+2048,2048,2048,GerDracor/lenz-der-hofmeister.xml,Das ist vortrefflich!,0,21,character_speech,5,12,,GEHEIMER RAT.,#geheimer_rat,634.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2049,2049,2049,GerDracor/lenz-der-hofmeister.xml,"– und Sie, Herr Pätus?",22,44,character_speech,5,12,,GEHEIMER RAT.,#geheimer_rat,634.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2050,2050,2050,GerDracor/lenz-der-hofmeister.xml,"Sie Herr Pätus hat's mir verschafft – – Seine Mutter war das alte blinde Weib, die
+              Bettlerin, von der uns Gustchen so viel erzählt hat.",0,149,character_speech,5,12,,MAJOR.,#major,635.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2051,2051,2051,GerDracor/lenz-der-hofmeister.xml,Und durch mich Bettlerin – – O die Scham bindt mir die Zunge.,0,61,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,636.0,MALE,anger,K,,1778.0,negative,emotions of rejection
+2052,2052,2052,GerDracor/lenz-der-hofmeister.xml,"Aber ich will's der
+              ganzen Welt erzählen, was ich für ein Ungeheuer war –",62,149,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,636.0,MALE,abhorrence,K,,1778.0,negative,emotions of rejection
+2053,2053,2053,GerDracor/lenz-der-hofmeister.xml,"Weißt du was Neues, Major?",0,26,character_speech,5,12,,GEHEIMER RAT.,#geheimer_rat,637.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2054,2054,2054,GerDracor/lenz-der-hofmeister.xml,"Es finden sich Freier für deine Tochter – aber dring nicht
+              in mich, dir den Namen zu sagen.",27,132,character_speech,5,12,,GEHEIMER RAT.,#geheimer_rat,637.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2055,2055,2055,GerDracor/lenz-der-hofmeister.xml,Freier für meine Tochter!,0,25,character_speech,5,12,,MAJOR.,#major,638.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2056,2056,2056,GerDracor/lenz-der-hofmeister.xml,–,26,27,character_speech,5,12,,MAJOR.,#major,638.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2057,2057,2057,GerDracor/lenz-der-hofmeister.xml,Wirft das Kind ins Kanapee.,0,27,stage_direction,5,12,inner_speech,,#major,638.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2058,2058,2058,GerDracor/lenz-der-hofmeister.xml," Wo ist
+              sie?",0,26,character_speech,5,12,,MAJOR.,#major,638.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2059,2059,2059,GerDracor/lenz-der-hofmeister.xml,Sacht!,0,6,character_speech,5,12,,GEHEIMER RAT.,#geheimer_rat,639.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2060,2060,2060,GerDracor/lenz-der-hofmeister.xml,ihr Freier ist bei ihr – Willst du deine Einwilligung geben?,7,67,character_speech,5,12,,GEHEIMER RAT.,#geheimer_rat,639.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2061,2061,2061,GerDracor/lenz-der-hofmeister.xml,Ist's ein Mensch von gutem Hause?,0,33,character_speech,5,12,,MAJOR.,#major,640.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2062,2062,2062,GerDracor/lenz-der-hofmeister.xml,Ist er von Adel?,34,50,character_speech,5,12,,MAJOR.,#major,640.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2063,2063,2063,GerDracor/lenz-der-hofmeister.xml,Ich zweifle.,0,12,character_speech,5,12,,GEHEIMER RAT.,#geheimer_rat,641.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2064,2064,2064,GerDracor/lenz-der-hofmeister.xml,Doch keiner zu weit unter ihrem Stande?,0,39,character_speech,5,12,,MAJOR.,#major,642.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2065,2065,2065,GerDracor/lenz-der-hofmeister.xml,"O sie sollte die erste Partie im Königreich
+              werden.",40,105,character_speech,5,12,,MAJOR.,#major,642.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2066,2066,2066,GerDracor/lenz-der-hofmeister.xml,Das ist ein vermaledeiter Gedanke!,106,140,character_speech,5,12,,MAJOR.,#major,642.0,MALE,anger,K,,1778.0,negative,emotions of rejection
+2067,2067,2067,GerDracor/lenz-der-hofmeister.xml,"wenn ich doch den erst fort hätte; er wird
+              mich noch ins Irrhaus bringen.",141,228,character_speech,5,12,,MAJOR.,#major,642.0,MALE,fear,K,,1778.0,negative,emotions of anxiety
+2068,2068,2068,GerDracor/lenz-der-hofmeister.xml,öffnet die Kammer; auf seinen Wink tritt Fritz mit Gustchen heraus.,0,67,stage_direction,5,12,speech_part,,#geheimer_rat,643.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2069,2069,2069,GerDracor/lenz-der-hofmeister.xml,fällt ihm um den Hals.,0,22,stage_direction,5,12,speech_part,,#major,644.0,MALE,love,K,,1778.0,positive,emotions of affection
+2070,2070,2070,GerDracor/lenz-der-hofmeister.xml,Fritz!,0,6,character_speech,5,12,,MAJOR,#major,644.0,MALE,being moved,K,,1778.0,being moved,being moved
+2071,2071,2071,GerDracor/lenz-der-hofmeister.xml,Zum Geheimen Rat.,0,17,stage_direction,5,12,inner_speech,,#major,644.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2072,2072,2072,GerDracor/lenz-der-hofmeister.xml, Ist's dein Fritz?,0,18,character_speech,5,12,,MAJOR,#major,644.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2073,2073,2073,GerDracor/lenz-der-hofmeister.xml,"Willst du meine Tochter
+              heiraten?",19,66,character_speech,5,12,,MAJOR,#major,644.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2074,2074,2074,GerDracor/lenz-der-hofmeister.xml,– Gott segne dich.,67,85,character_speech,5,12,,MAJOR,#major,644.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2075,2075,2075,GerDracor/lenz-der-hofmeister.xml,"Weißt du noch nichts, oder weißt du alles?",86,128,character_speech,5,12,,MAJOR,#major,644.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2076,2076,2076,GerDracor/lenz-der-hofmeister.xml,"Siehst du, wie
+              mein Haar grau geworden ist vor der Zeit!",129,199,character_speech,5,12,,MAJOR,#major,644.0,MALE,suffering,K,,1778.0,negative,emotions of suffering and empathy
+2077,2077,2077,GerDracor/lenz-der-hofmeister.xml,Führt ihn ans Kanapee.,0,22,stage_direction,5,12,inner_speech,,#major,644.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2078,2078,2078,GerDracor/lenz-der-hofmeister.xml," Siehst
+              du, dort ist das Kind.",0,44,character_speech,5,12,,MAJOR,#major,644.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2079,2079,2079,GerDracor/lenz-der-hofmeister.xml,Bist ein Philosoph?,45,64,character_speech,5,12,,MAJOR,#major,644.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2080,2080,2080,GerDracor/lenz-der-hofmeister.xml,Kannst alles vergessen?,65,88,character_speech,5,12,,MAJOR,#major,644.0,MALE,being moved,K,,1778.0,being moved,being moved
+2081,2081,2081,GerDracor/lenz-der-hofmeister.xml,"Ist Gustchen dir
+              noch schön genug?",89,137,character_speech,5,12,,MAJOR,#major,644.0,MALE,love,K,,1778.0,positive,emotions of affection
+2082,2082,2082,GerDracor/lenz-der-hofmeister.xml,O sie hat bereut.,138,155,character_speech,5,12,,MAJOR,#major,644.0,MALE,suffering,K,,1778.0,negative,emotions of suffering and empathy
+2083,2083,2083,GerDracor/lenz-der-hofmeister.xml,"Jung, ich schwöre dir, sie hat bereut wie keine
+              Nonne und kein Heiliger.",156,242,character_speech,5,12,,MAJOR,#major,644.0,MALE,suffering,K,,1778.0,negative,emotions of suffering and empathy
+2084,2084,2084,GerDracor/lenz-der-hofmeister.xml,Aber was ist zu machen?,243,266,character_speech,5,12,,MAJOR,#major,644.0,MALE,being moved,K,,1778.0,being moved,being moved
+2085,2085,2085,GerDracor/lenz-der-hofmeister.xml,"Sind doch die Engel aus dem Himmel
+              gefallen – Aber Gustchen ist wieder aufgestanden.",267,365,character_speech,5,12,,MAJOR,#major,644.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2086,2086,2086,GerDracor/lenz-der-hofmeister.xml,Lassen Sie mich zum Wort kommen.,0,32,character_speech,5,12,,FRITZ.,#fritz,645.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2087,2087,2087,GerDracor/lenz-der-hofmeister.xml,drückt ihn immer an die Brust.,0,30,stage_direction,5,12,speech_part,,#major,646.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2088,2088,2088,GerDracor/lenz-der-hofmeister.xml,"Nein Junge – Ich möchte dich tot drücken – Daß du so großmütig bist, daß du so edel
+              denkst – daß du – – mein Junge bist –",0,135,character_speech,5,12,,MAJOR,#major,646.0,MALE,"admiration, reverence",K,,1778.0,positive,emotions of affection
+2089,2089,2089,GerDracor/lenz-der-hofmeister.xml,In Gustchens Armen beneid ich keinen König.,0,43,character_speech,5,12,,FRITZ.,#fritz,647.0,MALE,love,K,,1778.0,positive,emotions of affection
+2090,2090,2090,GerDracor/lenz-der-hofmeister.xml,So recht; das ist recht.,0,24,character_speech,5,12,,MAJOR.,#major,648.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2091,2091,2091,GerDracor/lenz-der-hofmeister.xml,"– Sie wird dir schon gestanden haben; sie wird dir alles
+              erzählt haben –",25,111,character_speech,5,12,,MAJOR.,#major,648.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2092,2092,2092,GerDracor/lenz-der-hofmeister.xml,"Dieser Fehltritt macht sie mir nur noch teurer – macht ihr Herz nur noch englischer –
+              Sie darf nur in den Spiegel sehn, um überzeugt zu sein, daß sie mein ganzes Glück
+              machen werde, und doch zittert sie immer vor dem, wie sie sagt, ihr unerträglichen
+              Gedanken: sie werde mich unglücklich machen.",0,337,character_speech,5,12,,FRITZ.,#fritz,649.0,MALE,suffering,K,,1778.0,negative,emotions of suffering and empathy
+2093,2093,2093,GerDracor/lenz-der-hofmeister.xml,"O was hab ich von einer solchen Frau
+              anders zu gewarten als einen Himmel?",338,425,character_speech,5,12,,FRITZ.,#fritz,649.0,MALE,love,K,,1778.0,positive,emotions of affection
+2094,2094,2094,GerDracor/lenz-der-hofmeister.xml,"Ja wohl einen Himmel; wenn's wahr ist, daß die Gerechten nicht allein hineinkommen,
+              sondern auch die Sünder, die Buße tun.",0,136,character_speech,5,12,,MAJOR.,#major,650.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2095,2095,2095,GerDracor/lenz-der-hofmeister.xml,"Meine Tochter hat Buße getan, und ich hab für
+              meine Torheiten und daß ich einem Bruder nicht folgen wollte, der das Ding besser
+              verstund, auch Buße getan; ihr zur Gesellschaft: und darum macht mich der liebe Gott
+              auch ihr zur Gesellschaft mit glücklich.",137,432,character_speech,5,12,,MAJOR.,#major,650.0,MALE,joy,K,,1778.0,positive,emotions of pleasure
+2096,2096,2096,GerDracor/lenz-der-hofmeister.xml,ruft zur Kammer hinein.,0,23,stage_direction,5,12,speech_part,,#geheimer_rat,651.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2097,2097,2097,GerDracor/lenz-der-hofmeister.xml,"Herr Pätus, kommen Sie doch hervor.",0,35,character_speech,5,12,,GEHEIMER RAT,#geheimer_rat,651.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2098,2098,2098,GerDracor/lenz-der-hofmeister.xml,Ihr Vater ist hier.,36,55,character_speech,5,12,,GEHEIMER RAT,#geheimer_rat,651.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2099,2099,2099,GerDracor/lenz-der-hofmeister.xml,Was hör ich – Mein Sohn?,0,24,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,652.0,MALE,being moved,K,,1778.0,being moved,being moved
+2100,2100,2100,GerDracor/lenz-der-hofmeister.xml,fällt ihm um den Hals.,0,22,stage_direction,5,12,speech_part,,#paetus,653.0,MALE,love,K,,1778.0,positive,emotions of affection
+2101,2101,2101,GerDracor/lenz-der-hofmeister.xml,Ihr unglücklicher verstoßener Sohn.,0,35,character_speech,5,12,,PÄTUS,#paetus,653.0,MALE,suffering,K,,1778.0,negative,emotions of suffering and empathy
+2102,2102,2102,GerDracor/lenz-der-hofmeister.xml,"Aber Gott hat sich meiner als eines armen Waisen
+              angenommen.",36,110,character_speech,5,12,,PÄTUS,#paetus,653.0,MALE,compassion,K,,1778.0,negative,emotions of suffering and empathy
+2103,2103,2103,GerDracor/lenz-der-hofmeister.xml,"Hier, Papa, ist das Geld, das Sie zu meiner Erziehung in der Fremde
+              angewandt; hier ist's zurück und mein Dank dazu: es hat doppelte Zinsen getragen, das
+              Kapital hat sich vermehrt und Ihr Sohn ist ein rechtschaffener Kerl worden.",111,368,character_speech,5,12,,PÄTUS,#paetus,653.0,MALE,joy,K,,1778.0,positive,emotions of pleasure
+2104,2104,2104,GerDracor/lenz-der-hofmeister.xml,"Muß denn alles heute wetteifern, mich durch Großmut zu beschämen.",0,65,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,654.0,MALE,anger,K,,1778.0,negative,emotions of rejection
+2105,2105,2105,GerDracor/lenz-der-hofmeister.xml,"Mein Sohn, erkenne
+              deinen Vater wieder, der eine Weile seine menschliche Natur ausgezogen und in ein
+              wildes Tier ausgeartet war.",66,222,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,654.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2106,2106,2106,GerDracor/lenz-der-hofmeister.xml,"Es ging deiner Großmutter wie dir: sie ist auch
+              wiedergekommen und hat mir verziehen und hat mich wieder zum Sohn gemacht, so wie du
+              mich wieder zum Vater machst.",223,413,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,654.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2107,2107,2107,GerDracor/lenz-der-hofmeister.xml,"Nimm mein ganzes Vermögen, Gustav!",414,448,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,654.0,MALE,being moved,K,,1778.0,being moved,being moved
+2108,2108,2108,GerDracor/lenz-der-hofmeister.xml,"schalte damit nach
+              deinem Gefallen, nur laß mich die Undankbarkeit nicht entgelten, die ich bei einem
+              ähnlichen Geschenk gegen deine Großmutter äußerte.",449,629,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,654.0,MALE,anger,K,,1778.0,negative,emotions of rejection
+2109,2109,2109,GerDracor/lenz-der-hofmeister.xml,"Erlauben Sie mir, das tugendhafteste süßeste Mädchen glücklich damit zu machen –",0,80,character_speech,5,12,,PÄTUS.,#paetus,655.0,MALE,joy,K,,1778.0,positive,emotions of pleasure
+2110,2110,2110,GerDracor/lenz-der-hofmeister.xml,Was denn?,0,9,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,656.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2111,2111,2111,GerDracor/lenz-der-hofmeister.xml,Du auch verliebt?,10,27,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,656.0,MALE,love,K,,1778.0,positive,emotions of affection
+2112,2112,2112,GerDracor/lenz-der-hofmeister.xml,Mit Freuden erlaub ich dir alles.,28,61,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,656.0,MALE,joy,K,,1778.0,positive,emotions of pleasure
+2113,2113,2113,GerDracor/lenz-der-hofmeister.xml,"Ich bin alt und möchte
+              vor meinem Tode gern Enkel sehen, denen ich die Treue beweisen könnte, die eure
+              Großmutter für euch bewiesen hat.",62,226,character_speech,5,12,,DER ALTE PÄTUS.,#der_alte_paetus,656.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2114,2114,2114,GerDracor/lenz-der-hofmeister.xml,"umarmt das Kind auf dem Kanapee, küßt's und trägt's zu Gustchen.",0,64,stage_direction,5,12,speech_part,,#fritz,657.0,MALE,love,K,,1778.0,positive,emotions of affection
+2115,2115,2115,GerDracor/lenz-der-hofmeister.xml,"Dies Kind ist jetzt auch das meinige; ein trauriges Pfand der Schwachheit deines
+              Geschlechts und der Torheiten des unsrigen: am meisten aber der vorteilhaften
+              Erziehung junger Frauenzimmer durch Hofmeister.",0,234,character_speech,5,12,,FRITZ,#fritz,657.0,MALE,suffering,K,,1778.0,negative,emotions of suffering and empathy
+2116,2116,2116,GerDracor/lenz-der-hofmeister.xml,"Ja mein lieber Sohn, wie sollen sie denn erzogen werden?",0,56,character_speech,5,12,,MAJOR.,#major,658.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2117,2117,2117,GerDracor/lenz-der-hofmeister.xml,"Gibt's für sie keine Anstalten, keine Nähschulen, keine Klöster, keine
+              Erziehungshäuser?",0,102,character_speech,5,12,,GEHEIMER RAT.,#geheimer_rat,659.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2118,2118,2118,GerDracor/lenz-der-hofmeister.xml,– – Doch davon wollen wir ein andermal sprechen.,103,151,character_speech,5,12,,GEHEIMER RAT.,#geheimer_rat,659.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2119,2119,2119,GerDracor/lenz-der-hofmeister.xml,küßt's abermal.,0,15,stage_direction,5,12,speech_part,,#fritz,660.0,MALE,love,K,,1778.0,positive,emotions of affection
+2120,2120,2120,GerDracor/lenz-der-hofmeister.xml,"Und dennoch mir unendlich schätzbar, weil's das Bild seiner Mutter trägt.",0,73,character_speech,5,12,,FRITZ,#fritz,660.0,MALE,"admiration, reverence",K,,1778.0,positive,emotions of affection
+2121,2121,2121,GerDracor/lenz-der-hofmeister.xml,"Wenigstens,
+              mein süßer Junge!",74,117,character_speech,5,12,,FRITZ,#fritz,660.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
+2122,2122,2122,GerDracor/lenz-der-hofmeister.xml,werd ich dich nie durch Hofmeister erziehen lassen.,118,169,character_speech,5,12,,FRITZ,#fritz,660.0,MALE,no_annotation,K,,1778.0,no_annotation,no_annotation
