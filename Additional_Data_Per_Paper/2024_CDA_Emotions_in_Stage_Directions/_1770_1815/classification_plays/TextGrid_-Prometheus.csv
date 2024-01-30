@@ -1,0 +1,573 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+0,0,TextGrid/-Prometheus.xml,"
+                                 Prometheus.",0,45,stage_direction,1,0,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+1,1,TextGrid/-Prometheus.xml,Merkur.,46,53,stage_direction,1,0,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2,2,TextGrid/-Prometheus.xml,"
+                                    Ich will nicht, sag es ihnen!",0,66,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,1.0,UNKNOWN,anger,negative,emotions of rejection
+3,3,TextGrid/-Prometheus.xml,"Und kurz und gut, ich will nicht!",103,136,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,1.0,UNKNOWN,anger,negative,emotions of rejection
+4,4,TextGrid/-Prometheus.xml,Ihr Wille gegen meinen!,173,196,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,1.0,UNKNOWN,being moved,being moved,being moved
+5,5,TextGrid/-Prometheus.xml,"Eins gegen eins,
+                                    Mich dünkt, es hebt sich!",233,311,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+6,6,TextGrid/-Prometheus.xml,"
+                                    Deinem Vater Zeus das bringen?",0,67,character_speech,1,0,,MERKUR.,MERKUR.,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+7,7,TextGrid/-Prometheus.xml,Deiner Mutter?,104,118,character_speech,1,0,,MERKUR.,MERKUR.,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+8,8,TextGrid/-Prometheus.xml,"
+                                    Was Vater!",0,47,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,3.0,UNKNOWN,being moved,being moved,being moved
+9,9,TextGrid/-Prometheus.xml,Mutter!,48,55,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,3.0,UNKNOWN,being moved,being moved,being moved
+10,10,TextGrid/-Prometheus.xml,"Weißt du, woher du kommst?",92,118,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+11,11,TextGrid/-Prometheus.xml,"Ich stand, als ich zum erstenmal bemerkte
+                                    Die Füße stehn,
+                                    Und reichte, da ich
+                                    Diese Hände reichen fühlte,
+                                    Und fand die achtend meiner Tritte,
+                                    Die du nennst Vater, Mutter.",155,505,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+12,12,TextGrid/-Prometheus.xml,"
+                                    Und reichend dir
+                                    Der Kindheit note Hülfe.",0,114,character_speech,1,0,,MERKUR.,MERKUR.,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+13,13,TextGrid/-Prometheus.xml,"
+                                    Und dafür hatten sie Gehorsam meiner Kindheit.",0,83,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,5.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+14,14,TextGrid/-Prometheus.xml,"Den armen Sprößling zu bilden
+                                    Dahin, dorthin, nach dem Wind ihrer Grillen.",120,230,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+15,15,TextGrid/-Prometheus.xml,Und schützten dich.,0,19,character_speech,1,0,,MERKUR.,MERKUR.,6.0,UNKNOWN,fear,negative,emotions of anxiety
+16,16,TextGrid/-Prometheus.xml,"
+                                    Wovor?",0,43,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+17,17,TextGrid/-Prometheus.xml,"Vor Gefahren,
+                                    Die sie fürchteten.",44,113,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,7.0,UNKNOWN,fear,negative,emotions of anxiety
+18,18,TextGrid/-Prometheus.xml,"Haben sie das Herz bewahrt
+                                    Vor Schlangen, die es heimlich neidschten?",150,255,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,7.0,UNKNOWN,abhorrence,negative,emotions of rejection
+19,19,TextGrid/-Prometheus.xml,"Diesen Busen gestählt,
+                                    Zu trotzen den Titanen?",292,374,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+20,20,TextGrid/-Prometheus.xml,"Hat nicht mich zum Manne geschmiedet
+                                    Die allmächtige Zeit,
+                                    
+                                       Mein Herr und eurer?",411,602,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+21,21,TextGrid/-Prometheus.xml,"
+                                    Elender!",0,45,character_speech,1,0,,MERKUR.,MERKUR.,8.0,UNKNOWN,anger,negative,emotions of rejection
+22,22,TextGrid/-Prometheus.xml,"Deinen Göttern das,
+                                    Den Unendlichen?",46,118,character_speech,1,0,,MERKUR.,MERKUR.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+23,23,TextGrid/-Prometheus.xml,"
+                                    Göttern?",0,45,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,9.0,UNKNOWN,being moved,being moved,being moved
+24,24,TextGrid/-Prometheus.xml,"Ich bin kein Gott
+                                    Und bilde mir so viel ein als einer.",46,136,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+25,25,TextGrid/-Prometheus.xml,Unendlich?,173,183,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,9.0,UNKNOWN,being moved,being moved,being moved
+26,26,TextGrid/-Prometheus.xml,– Allmächtig?,184,197,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+27,27,TextGrid/-Prometheus.xml,"–
+                                    Was könnt ihr?",198,250,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+28,28,TextGrid/-Prometheus.xml,"Könnt ihr den weiten Raum
+                                    Des Himmels und der Erde
+                                    Mir ballen in meine Faust?",287,436,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,9.0,UNKNOWN,being moved,being moved,being moved
+29,29,TextGrid/-Prometheus.xml,"Vermögt ihr mich zu scheiden
+                                    Von mir selbst?",473,553,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,9.0,UNKNOWN,being moved,being moved,being moved
+30,30,TextGrid/-Prometheus.xml,"Vermögt ihr mich auszudehnen,
+                                    Zu erweitern zu einer Welt?",590,683,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+31,31,TextGrid/-Prometheus.xml,Das Schicksal!,0,14,character_speech,1,0,,MERKUR.,MERKUR.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+32,32,TextGrid/-Prometheus.xml,"
+                                    Anerkennst du seine Macht?",0,63,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+33,33,TextGrid/-Prometheus.xml,Ich auch!,100,109,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+34,34,TextGrid/-Prometheus.xml,"–
+                                    Und geh, ich diene nicht Vasallen!",110,182,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+35,35,TextGrid/-Prometheus.xml,"
+                                    Merkur ab.",0,47,stage_direction,1,0,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+36,36,TextGrid/-Prometheus.xml,"
+                                    zu seinen Statuen sich kehrend, die durch den ganzen Hain zerstreut stehen.",0,112,stage_direction,1,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+37,37,TextGrid/-Prometheus.xml,"
+                                    Unersetzlicher Augenblick!",0,63,character_speech,1,0,,PROMETHEUS,PROMETHEUS,12.0,UNKNOWN,being moved,being moved,being moved
+38,38,TextGrid/-Prometheus.xml,"Aus eurer Gesellschaft
+                                    Gerissen von dem Toren,
+                                    Meine Kinder!",100,232,character_speech,1,0,,PROMETHEUS,PROMETHEUS,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+39,39,TextGrid/-Prometheus.xml,"Was es auch ist, das meinen Busen regt –",269,309,character_speech,1,0,,PROMETHEUS,PROMETHEUS,12.0,UNKNOWN,being moved,being moved,being moved
+40,40,TextGrid/-Prometheus.xml,"
+                                    Sich einem Mädchen nahend.",0,63,stage_direction,1,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+41,41,TextGrid/-Prometheus.xml,"
+                                    Der Busen sollte mir entgegen wallen!",0,74,character_speech,1,0,,PROMETHEUS,PROMETHEUS,12.0,UNKNOWN,abhorrence,negative,emotions of rejection
+42,42,TextGrid/-Prometheus.xml,Das Auge spricht schon jetzt!,111,140,character_speech,1,0,,PROMETHEUS,PROMETHEUS,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+43,43,TextGrid/-Prometheus.xml,"Sprich, rede, liebe Lippe, mir!",177,208,character_speech,1,0,,PROMETHEUS,PROMETHEUS,12.0,UNKNOWN,love,positive,emotions of affection
+44,44,TextGrid/-Prometheus.xml,"O, könnt ich euch das fühlen geben,
+                                    Was ihr seid!",245,330,character_speech,1,0,,PROMETHEUS,PROMETHEUS,12.0,UNKNOWN,love,positive,emotions of affection
+45,45,TextGrid/-Prometheus.xml,"
+                                    Epimetheus kommt.",0,54,stage_direction,1,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+46,46,TextGrid/-Prometheus.xml,Merkur beklagt sich bitter.,0,27,character_speech,1,0,,EPIMETHEUS.,EPIMETHEUS.,13.0,UNKNOWN,compassion,negative,emotions of suffering and empathy
+47,47,TextGrid/-Prometheus.xml,"
+                                    Hättest du kein Ohr für Klagen,
+                                    Er wär auch ungeklagt zurückgekehrt.",0,141,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,14.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+48,48,TextGrid/-Prometheus.xml,"
+                                    Mein Bruder!",0,49,character_speech,1,0,,EPIMETHEUS.,EPIMETHEUS.,15.0,UNKNOWN,being moved,being moved,being moved
+49,49,TextGrid/-Prometheus.xml,Alles was recht ist!,50,70,character_speech,1,0,,EPIMETHEUS.,EPIMETHEUS.,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+50,50,TextGrid/-Prometheus.xml,"Der Götter Vorschlag
+                                    War diesmal billig.",107,183,character_speech,1,0,,EPIMETHEUS.,EPIMETHEUS.,15.0,UNKNOWN,joy,positive,emotions of pleasure
+51,51,TextGrid/-Prometheus.xml,"Sie wollen dir Olympus' Spitze räumen,
+                                    Dort sollst du wohnen,
+                                    Sollst der Erde herrschen!",261,421,character_speech,1,0,,EPIMETHEUS.,EPIMETHEUS.,15.0,UNKNOWN,abhorrence,negative,emotions of rejection
+52,52,TextGrid/-Prometheus.xml,"
+                                    Ihr Burggraf sein
+                                    Und ihren Himmel schützen?",0,117,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,16.0,UNKNOWN,being moved,being moved,being moved
+53,53,TextGrid/-Prometheus.xml,"–
+                                    Mein Vorschlag ist viel billiger:
+                                    Sie wollen mit mir teilen, und ich meine,
+                                    Daß ich mit ihnen nichts zu teilen habe.",118,344,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+54,54,TextGrid/-Prometheus.xml,"Das, was ich habe, können sie nicht rauben,
+                                    Und was sie haben, mögen sie beschützen.",381,501,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+55,55,TextGrid/-Prometheus.xml,"Hier Mein und Dein,
+                                    Und so sind wir geschieden.",538,621,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+56,56,TextGrid/-Prometheus.xml,Wie vieles ist denn dein?,0,25,character_speech,1,0,,EPIMETHEUS.,EPIMETHEUS.,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+57,57,TextGrid/-Prometheus.xml,"
+                                    Der Kreis, den meine Wirksamkeit erfüllt!",0,78,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+58,58,TextGrid/-Prometheus.xml,Nichts drunter und nichts drüber!,115,148,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+59,59,TextGrid/-Prometheus.xml,"–
+                                    Was haben diese Sterne droben
+                                    Für ein Recht an mich,
+                                    Daß sie mich begaffen?",149,334,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+60,60,TextGrid/-Prometheus.xml,"
+                                    Du stehst allein!",0,54,character_speech,1,0,,EPIMETHEUS.,EPIMETHEUS.,19.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+61,61,TextGrid/-Prometheus.xml,"Dein Eigensinn verkennt die Wonne,
+                                    Wenn die Götter, du,
+                                    Die Deinigen und Welt und Himmel, all
+                                    Sich all ein innig Ganzes fühlten.",91,327,character_speech,1,0,,EPIMETHEUS.,EPIMETHEUS.,19.0,UNKNOWN,joy,positive,emotions of pleasure
+62,62,TextGrid/-Prometheus.xml,"
+                                    Ich kenne das!",0,51,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+63,63,TextGrid/-Prometheus.xml,"Ich bitte, lieber Bruder,
+                                    Treib's, wie du kannst, und laß mich!",88,187,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+64,64,TextGrid/-Prometheus.xml,"
+                                    Epimetheus ab.",0,51,stage_direction,1,0,speech_part,,,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+65,65,TextGrid/-Prometheus.xml,"
+                                    Hier meine Welt, mein All!",0,63,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+66,66,TextGrid/-Prometheus.xml,"Hier fühl ich mich;
+                                    Hier alle meine Wünsche
+                                    In körperlichen Gestalten.",100,242,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,21.0,UNKNOWN,joy,positive,emotions of pleasure
+67,67,TextGrid/-Prometheus.xml,"Meinen Geist so tausendfach
+                                    Geteilt und ganz in meinen teuern Kindern.",279,385,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,21.0,UNKNOWN,love,positive,emotions of affection
+68,68,TextGrid/-Prometheus.xml,"
+                                    Minerva kommt.",0,51,stage_direction,1,0,speech_part,,,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+69,69,TextGrid/-Prometheus.xml,"
+                                    Du wagst es, meine Göttin?",0,63,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,22.0,UNKNOWN,fear,negative,emotions of anxiety
+70,70,TextGrid/-Prometheus.xml,Wagest zu deines Vaters Feind zu treten?,100,140,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,22.0,UNKNOWN,abhorrence,negative,emotions of rejection
+71,71,TextGrid/-Prometheus.xml,"
+                                    Ich ehre meinen Vater,
+                                    Und liebe dich, Prometheus!",0,123,character_speech,1,0,,MINERVA.,MINERVA.,23.0,UNKNOWN,love,positive,emotions of affection
+72,72,TextGrid/-Prometheus.xml,"
+                                    Und du bist meinem Geist,
+                                    
+                                       
+Was er sich selbst ist;
+                                    Sind von Anbeginn
+                                    Mir deine Worte Himmelslicht gewesen!",0,291,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,24.0,UNKNOWN,love,positive,emotions of affection
+73,73,TextGrid/-Prometheus.xml,"Immer als wenn meine Seele spräche zu sich selbst,
+                                    Sie sich eröffnete
+                                    Und mitgeborne Harmonieen
+                                    In ihr erklängen aus sich selbst:
+                                    Das waren deine Worte.",328,624,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+74,74,TextGrid/-Prometheus.xml,"So war ich selbst nicht selbst,
+                                    Und eine Gottheit sprach,
+                                    Wenn ich zu reden wähnte,
+                                    Und wähnt ich, eine Gottheit spreche,
+                                    Sprach ich selbst.",661,945,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+75,75,TextGrid/-Prometheus.xml,"Und so mit dir und mir
+                                    So ein, so innig
+                                    Ewig meine Liebe dir!",982,1115,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,24.0,UNKNOWN,love,positive,emotions of affection
+76,76,TextGrid/-Prometheus.xml,Und ich dir ewig gegenwärtig!,0,29,character_speech,1,0,,MINERVA.,MINERVA.,25.0,UNKNOWN,love,positive,emotions of affection
+77,77,TextGrid/-Prometheus.xml,"
+                                    Wie der süße Dämmerschein
+                                    Der weggeschiednen Sonne
+                                    Dort heraufschwimmt
+                                    Vom finstern Kaukasus
+                                    Und meine Seel umgibt mit Wonneruh,
+                                    Abwesend auch mir immer gegenwärtig,
+                                    So haben meine Kräfte sich entwickelt
+                                    Mit jedem Atemzug aus deiner Himmelsluft.",0,534,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,26.0,UNKNOWN,love,positive,emotions of affection
+78,78,TextGrid/-Prometheus.xml,"Und welch ein Recht
+                                    Ergeizen sich die stolzen
+                                    Bewohner des Olympus
+                                    Auf meine Kräfte?",571,763,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+79,79,TextGrid/-Prometheus.xml,"Sie sind mein, und mein ist ihr Gebrauch.",800,841,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,26.0,UNKNOWN,love,positive,emotions of affection
+80,80,TextGrid/-Prometheus.xml,"Nicht einen Fußtritt
+                                    Für den obersten der Götter mehr!",878,968,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,26.0,UNKNOWN,abhorrence,negative,emotions of rejection
+81,81,TextGrid/-Prometheus.xml,Für sie?,1005,1013,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+82,82,TextGrid/-Prometheus.xml,Bin ich für sie?,1014,1030,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,26.0,UNKNOWN,being moved,being moved,being moved
+83,83,TextGrid/-Prometheus.xml,So wähnt die Macht.,0,19,character_speech,1,0,,MINERVA.,MINERVA.,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+84,84,TextGrid/-Prometheus.xml,"
+                                    Ich wähne, Göttin, auch
+                                    Und bin auch mächtig.",0,118,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,28.0,UNKNOWN,love,positive,emotions of affection
+85,85,TextGrid/-Prometheus.xml,"–
+                                    Sonst!",119,163,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+86,86,TextGrid/-Prometheus.xml,"– Hast du mich nicht oft gesehn
+                                    In selbst erwählter Knechtschaft
+                                    Die Bürde tragen, die sie
+                                    
+                                       
+In feierlichem Ernst auf meine Schultern legten?",164,452,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+87,87,TextGrid/-Prometheus.xml,"Hab ich die Arbeit nicht vollendet,
+                                    Jedes Tagwerk, auf ihr Geheiß,
+                                    Weil ich glaubte,
+                                    Sie sähen das Vergangne, das Zukünftige
+                                    Im Gegenwärtigen,
+                                    Und ihre Leitung, ihr Gebot
+                                    Sei uranfängliche,
+                                    Uneigennützige Weisheit?",489,955,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+88,88,TextGrid/-Prometheus.xml,"Du dientest, um der Freiheit wert zu sein.",0,42,character_speech,1,0,,MINERVA.,MINERVA.,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+89,89,TextGrid/-Prometheus.xml,"
+                                    Und möcht um vieles nicht
+                                    Mit dem Donnervogel tauschen
+                                    Und meines Herren Blitze stolz
+                                    In Sklavenklauen packen.",0,255,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,30.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+90,90,TextGrid/-Prometheus.xml,Was sind sie?,292,305,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+91,91,TextGrid/-Prometheus.xml,Was ich?,306,314,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+92,92,TextGrid/-Prometheus.xml,"
+                                    Dein Haß ist ungerecht!",0,60,character_speech,1,0,,MINERVA.,MINERVA.,31.0,UNKNOWN,abhorrence,negative,emotions of rejection
+93,93,TextGrid/-Prometheus.xml,"Den Göttern fiel zum Lose Dauer
+                                    Und Macht und Weisheit und Liebe.",97,198,character_speech,1,0,,MINERVA.,MINERVA.,31.0,UNKNOWN,love,positive,emotions of affection
+94,94,TextGrid/-Prometheus.xml,"
+                                    Haben sie das all
+                                    Doch nicht allein!",0,109,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+95,95,TextGrid/-Prometheus.xml,Ich daure so wie sie.,146,167,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+96,96,TextGrid/-Prometheus.xml,Wir alle sind ewig!,204,223,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,love,positive,emotions of affection
+97,97,TextGrid/-Prometheus.xml,"–
+                                    Meines Anfangs erinnr ich mich nicht,
+                                    Zu enden hab ich keinen Beruf
+                                    Und seh das Ende nicht.",224,425,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+98,98,TextGrid/-Prometheus.xml,"So bin ich ewig, denn ich bin!",462,492,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,love,positive,emotions of affection
+99,99,TextGrid/-Prometheus.xml,"–
+                                    Und Weisheit –",493,545,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+100,100,TextGrid/-Prometheus.xml,"
+                                    Sie an den Bildnissen herumführend.",0,72,stage_direction,1,0,speech_part,,,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+101,101,TextGrid/-Prometheus.xml,"
+                                    Sieh diese Stirn an!",0,57,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,love,positive,emotions of affection
+102,102,TextGrid/-Prometheus.xml,"Hat mein Finger nicht
+                                    Sie ausgeprägt?",94,167,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,love,positive,emotions of affection
+103,103,TextGrid/-Prometheus.xml,"Und dieses Busens Macht
+                                    Drängt sich entgegen
+                                    Der allanfallenden Gefahr umher.",204,353,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+104,104,TextGrid/-Prometheus.xml,"
+                                    Bleibt bei einer weiblichen Bildsäule stehen.",0,82,stage_direction,1,0,speech_part,,,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+105,105,TextGrid/-Prometheus.xml,"
+                                    Und du, Pandora,
+                                    Heiliges Gefäß der Gaben alle,
+                                    Die ergötzlich sind
+                                    Unter dem weiten Himmel,
+                                    
+                                       
+Auf der unendlichen Erde,
+                                    Alles, was mich je erquickt von Wonnegefühl,
+                                    Was in des Schattens Kühle
+                                    Mir Labsal ergossen,
+                                    Der Sonne Liebe jemals Frühlingswonne,
+                                    Des Meeres laue Welle
+                                    Jemals Zärtlichkeit an meinen Busen angeschmiegt,
+                                    Und was ich je für reinen Himmelsglanz
+                                    Und Seelenruhgenuß geschmeckt –
+                                    Das all all – – Meine Pandora!",0,970,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,love,positive,emotions of affection
+106,106,TextGrid/-Prometheus.xml,"
+                                    Jupiter hat dir entboten,
+                                    Ihnen allen das Leben zu erteilen,
+                                    Wenn du seinem Antrag
+                                    Gehör gäbst.",0,240,character_speech,1,0,,MINERVA.,MINERVA.,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+107,107,TextGrid/-Prometheus.xml,"
+                                    Das war das einzige, was mich bedenken machte.",0,83,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,34.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+108,108,TextGrid/-Prometheus.xml,"Allein – ich sollte Knecht sein und wir
+                                    All erkennen droben die Macht des Donnrers?",120,239,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+109,109,TextGrid/-Prometheus.xml,Nein!,276,281,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+110,110,TextGrid/-Prometheus.xml,"Sie mögen hier gebunden sein
+                                    Von ihrer Leblosigkeit,
+                                    Sie sind doch frei,
+                                    Und ich fühl ihre Freiheit!",282,490,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,34.0,UNKNOWN,joy,positive,emotions of pleasure
+111,111,TextGrid/-Prometheus.xml,"
+                                    Und sie sollen leben!",0,58,character_speech,1,0,,MINERVA.,MINERVA.,35.0,UNKNOWN,joy,positive,emotions of pleasure
+112,112,TextGrid/-Prometheus.xml,"Dem Schicksal ist es, nicht den Göttern,
+                                    Zu schenken das Leben und zu nehmen;
+                                    Komm, ich leite dich zum Quell des Lebens all,
+                                    Den Jupiter uns nicht verschließt:
+                                    Sie sollen leben, und durch dich!",95,432,character_speech,1,0,,MINERVA.,MINERVA.,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+113,113,TextGrid/-Prometheus.xml,"
+                                    Durch dich, o meine Göttin,
+                                    Leben, frei sich fühlen,
+                                    Leben!",0,168,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,36.0,UNKNOWN,love,positive,emotions of affection
+114,114,TextGrid/-Prometheus.xml,– Ihre Freude wird dein Dank sein!,169,203,character_speech,1,0,,PROMETHEUS.,PROMETHEUS.,36.0,UNKNOWN,joy,positive,emotions of pleasure
+115,115,TextGrid/-Prometheus.xml,"
+                                 Auf Olympus.",0,46,stage_direction,2,0,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+116,116,TextGrid/-Prometheus.xml,"
+                                 Jupiter.",0,42,stage_direction,2,0,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+117,117,TextGrid/-Prometheus.xml,Merkur.,43,50,stage_direction,2,0,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+118,118,TextGrid/-Prometheus.xml,"
+                                    Greuel – Vater Jupiter – Hochverrat!",0,73,character_speech,2,0,,MERKUR.,MERKUR.,1.0,UNKNOWN,abhorrence,negative,emotions of rejection
+119,119,TextGrid/-Prometheus.xml,"Minerva, deine Tochter,
+                                    Steht dem Rebellen bei,
+                                    
+                                       
+Hat ihm den Lebensquell eröffnet
+                                    Und seinen lettnen Hof,
+                                    Seine Welt von Ton
+                                    Um ihn belebt.",110,469,character_speech,2,0,,MERKUR.,MERKUR.,1.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+120,120,TextGrid/-Prometheus.xml,"Gleich uns bewegen sie sich all
+                                    Und weben, jauchzen um ihn her,
+                                    Wie wir um dich.",506,658,character_speech,2,0,,MERKUR.,MERKUR.,1.0,UNKNOWN,joy,positive,emotions of pleasure
+121,121,TextGrid/-Prometheus.xml,"O, deine Donner, Zeus!",695,717,character_speech,2,0,,MERKUR.,MERKUR.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+122,122,TextGrid/-Prometheus.xml,"
+                                    Sie sind!",0,46,character_speech,2,0,,JUPITER.,JUPITER.,2.0,UNKNOWN,joy,positive,emotions of pleasure
+123,123,TextGrid/-Prometheus.xml,und werden sein!,47,63,character_speech,2,0,,JUPITER.,JUPITER.,2.0,UNKNOWN,love,positive,emotions of affection
+124,124,TextGrid/-Prometheus.xml,Und sollen sein!,100,116,character_speech,2,0,,JUPITER.,JUPITER.,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+125,125,TextGrid/-Prometheus.xml,"Über alles, was ist
+                                    Unter dem weiten Himmel,
+                                    Auf der unendlichen Erde,
+                                    Ist mein die Herrschaft.",153,356,character_speech,2,0,,JUPITER.,JUPITER.,2.0,UNKNOWN,love,positive,emotions of affection
+126,126,TextGrid/-Prometheus.xml,"Das Wurmgeschlecht vermehret
+                                    Die Anzahl meiner Knechte.",433,524,character_speech,2,0,,JUPITER.,JUPITER.,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+127,127,TextGrid/-Prometheus.xml,"Wohl ihnen, wenn sie meiner Vatersleitung folgen;
+                                    Weh ihnen, wenn sie meinem Fürstenarm
+                                    Sich widersetzen.",561,738,character_speech,2,0,,JUPITER.,JUPITER.,2.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+128,128,TextGrid/-Prometheus.xml,"
+                                    Allvater!",0,46,character_speech,2,0,,MERKUR.,MERKUR.,3.0,UNKNOWN,being moved,being moved,being moved
+129,129,TextGrid/-Prometheus.xml,"Du Allgütiger,
+                                    Der du die Missetat vergibst Verbrechern,
+                                    Sei Liebe dir und Preis
+                                    Von aller Erd und Himmel!",47,261,character_speech,2,0,,MERKUR.,MERKUR.,3.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+130,130,TextGrid/-Prometheus.xml,"O, sende mich, daß ich verkünde
+                                    Dem armen, erdgebornen Volk
+                                    Dich, Vater, deine Güte, deine Macht!",298,467,character_speech,2,0,,MERKUR.,MERKUR.,3.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+131,131,TextGrid/-Prometheus.xml,"
+                                    Noch nicht!",0,48,character_speech,2,0,,JUPITER.,JUPITER.,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+132,132,TextGrid/-Prometheus.xml,"In neugeborner Jugendwonne
+                                    Wähnt ihre Seele sich göttergleich.",49,147,character_speech,2,0,,JUPITER.,JUPITER.,4.0,UNKNOWN,joy,positive,emotions of pleasure
+133,133,TextGrid/-Prometheus.xml,"Sie werden dich nicht hören, bis sie dein
+                                    Bedürfen.",184,271,character_speech,2,0,,JUPITER.,JUPITER.,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+134,134,TextGrid/-Prometheus.xml,Überlaß sie ihrem Leben!,272,296,character_speech,2,0,,JUPITER.,JUPITER.,4.0,UNKNOWN,love,positive,emotions of affection
+135,135,TextGrid/-Prometheus.xml,So weis' als gütig!,0,19,character_speech,2,0,,MERKUR.,MERKUR.,5.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+136,136,TextGrid/-Prometheus.xml,"
+                                    Tal am Fuße des Olympus",0,60,stage_direction,2,0,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+137,137,TextGrid/-Prometheus.xml,"
+                                    Sieh nieder, Zeus,
+                                    Auf meine Welt: sie lebt!",0,117,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,6.0,UNKNOWN,joy,positive,emotions of pleasure
+138,138,TextGrid/-Prometheus.xml,"Ich habe sie geformt nach meinem Bilde,
+                                    Ein Geschlecht, das mir gleich sei,
+                                    Zu leiden, weinen, zu genießen und zu freuen sich
+                                    
+                                       
+Und dein nicht zu achten
+                                    Wie ich!",154,498,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,6.0,UNKNOWN,love,positive,emotions of affection
+139,139,TextGrid/-Prometheus.xml,"
+                                    Man sieht das Menschengeschlecht durchs ganze Tal verbreitet.",0,98,stage_direction,2,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+140,140,TextGrid/-Prometheus.xml,"Sie sind auf Bäume geklettert, Früchte zu brechen, sie baden sich im Wasser, sie laufen um die Wette auf der Wiese; Mädchen beschäftigen sich, Blumen zu brechen und Kränzgen zu flechten.",99,285,stage_direction,2,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+141,141,TextGrid/-Prometheus.xml,"
+                                    Ein Mann mit abgehauenen jungen Bäumen tritt zu Prometheus.",0,96,stage_direction,2,0,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+142,142,TextGrid/-Prometheus.xml,"
+                                    Sieh hier die Bäume,
+                                    Wie du sie verlangtest.",0,117,character_speech,2,0,,MANN.,MANN.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+143,143,TextGrid/-Prometheus.xml,"
+                                    Wie brachtest du
+                                    Sie von dem Boden?",0,108,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+144,144,TextGrid/-Prometheus.xml,"
+                                    Mit diesem scharfen Steine hab ich sie
+                                    Glatt an der Wurzel weggerissen.",0,144,character_speech,2,0,,MANN.,MANN.,9.0,UNKNOWN,abhorrence,negative,emotions of rejection
+145,145,TextGrid/-Prometheus.xml,"
+                                    Erst ab die Äste!",0,54,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+146,146,TextGrid/-Prometheus.xml,"–
+                                    Dann hier rammle diesen
+                                    Schief in den Boden hier
+                                    Und diesen hier, so gegenüber;
+                                    Und oben verbinde sie!",55,303,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+147,147,TextGrid/-Prometheus.xml,"–
+                                    Dann wieder zwei hier hinten hin
+                                    Und oben einen quer darüber.",304,439,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+148,148,TextGrid/-Prometheus.xml,"Nun die Äste herab von oben
+                                    Bis zur Erde,
+                                    Verbunden und verschlungen die,
+                                    Und Rasen ringsumher,
+                                    Die Äste drüber, mehr,
+                                    Bis daß kein Sonnenlicht,
+                                    Kein Regen, Wind durchdringe.",476,866,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+149,149,TextGrid/-Prometheus.xml,"Hier, lieber Sohn, ein Schutz und eine Hütte!",903,948,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+150,150,TextGrid/-Prometheus.xml,"
+                                    Dank, teurer Vater, tausend Dank!",0,70,character_speech,2,0,,MANN.,MANN.,11.0,UNKNOWN,joy,positive,emotions of pleasure
+151,151,TextGrid/-Prometheus.xml,"Sag, dürfen alle meine Brüder wohnen
+                                    In meiner Hütte?",107,196,character_speech,2,0,,MANN.,MANN.,11.0,UNKNOWN,being moved,being moved,being moved
+152,152,TextGrid/-Prometheus.xml,"
+                                    Nein!",0,42,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+153,153,TextGrid/-Prometheus.xml,Du hast sie dir gebaut und sie ist dein.,79,119,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,12.0,UNKNOWN,love,positive,emotions of affection
+154,154,TextGrid/-Prometheus.xml,"Du kannst sie teilen,
+                                    Mit wem du willst.",156,232,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+155,155,TextGrid/-Prometheus.xml,"Wer wohnen will, der bau sich selber eine.",269,311,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+156,156,TextGrid/-Prometheus.xml,"
+                                    Prometheus ab.",0,51,stage_direction,2,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+157,157,TextGrid/-Prometheus.xml,"
+                                    
+                                       
+Zwei Männer.",0,90,stage_direction,2,0,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+158,158,TextGrid/-Prometheus.xml,"
+                                    Du sollst kein Stück
+                                    Von meinen Ziegen nehmen,
+                                    Sie sind mir, mein!",0,175,character_speech,2,0,,ERSTER.,ERSTER.,13.0,UNKNOWN,love,positive,emotions of affection
+159,159,TextGrid/-Prometheus.xml,Woher?,0,6,character_speech,2,0,,ZWEITER.,ZWEITER.,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+160,160,TextGrid/-Prometheus.xml,"
+                                    Ich habe gestern Tag und Nacht
+                                    Auf dem Gebirg herumgeklettert,
+                                    Und mit saurem Schweiß
+                                    Lebendig sie gefangen,
+                                    Diese Nacht bewacht,
+                                    Sie eingeschlossen hier
+                                    Mit Stein und Ästen.",0,427,character_speech,2,0,,ERSTER.,ERSTER.,15.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+161,161,TextGrid/-Prometheus.xml,"
+                                    Nun gib mir eins!",0,54,character_speech,2,0,,ZWEITER.,ZWEITER.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+162,162,TextGrid/-Prometheus.xml,"Ich habe gestern auch eine erlegt,
+                                    Am Feuer sie gezeitigt
+                                    Und gessen mit meinen Brüdern.",91,251,character_speech,2,0,,ZWEITER.,ZWEITER.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+163,163,TextGrid/-Prometheus.xml,Brauchst du heut mehr als eine?,288,319,character_speech,2,0,,ZWEITER.,ZWEITER.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+164,164,TextGrid/-Prometheus.xml,Wir fangen morgen wieder.,356,381,character_speech,2,0,,ZWEITER.,ZWEITER.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+165,165,TextGrid/-Prometheus.xml,Bleib mir von meinen Schafen!,0,29,character_speech,2,0,,ERSTER.,ERSTER.,17.0,UNKNOWN,friendship,positive,emotions of affection
+166,166,TextGrid/-Prometheus.xml,Doch!,0,5,character_speech,2,0,,ZWEITER.,ZWEITER.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+167,167,TextGrid/-Prometheus.xml,"
+                                    Erster will ihn abhalten, Zweiter gibt ihm einen Stoß, daß er umstürzt, der nimmt eine Ziege und fort.",0,139,stage_direction,2,0,speech_part,,,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+168,168,TextGrid/-Prometheus.xml,Gewalt!,0,7,character_speech,2,0,,ERSTER.,ERSTER.,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+169,169,TextGrid/-Prometheus.xml,Weh!,8,12,character_speech,2,0,,ERSTER.,ERSTER.,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+170,170,TextGrid/-Prometheus.xml,Weh!,13,17,character_speech,2,0,,ERSTER.,ERSTER.,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+171,171,TextGrid/-Prometheus.xml,"
+                                    kommt.",0,43,stage_direction,2,0,speech_part,,,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+172,172,TextGrid/-Prometheus.xml,Was gibt's?,0,11,character_speech,2,0,,PROMETHEUS,PROMETHEUS,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+173,173,TextGrid/-Prometheus.xml,"
+                                    Er raubt mir meine Ziegen!",0,63,character_speech,2,0,,MANN.,MANN.,21.0,UNKNOWN,abhorrence,negative,emotions of rejection
+174,174,TextGrid/-Prometheus.xml,"–
+                                    Blut rieselt sich von meinem Haupt –.",64,139,character_speech,2,0,,MANN.,MANN.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+175,175,TextGrid/-Prometheus.xml,"Er schmetterte
+                                    Mich wider diesen Stein.",176,251,character_speech,2,0,,MANN.,MANN.,21.0,UNKNOWN,anger,negative,emotions of rejection
+176,176,TextGrid/-Prometheus.xml,"
+                                    Reiß da vom Baume diesen Schwamm
+                                    Und leg ihn auf die Wunde!",0,132,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+177,177,TextGrid/-Prometheus.xml,"
+                                    So – teurer Vater!",0,55,character_speech,2,0,,MANN.,MANN.,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+178,178,TextGrid/-Prometheus.xml,Schon ist es gestillt.,92,114,character_speech,2,0,,MANN.,MANN.,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+179,179,TextGrid/-Prometheus.xml,"Geh, wasch dein Angesicht.",0,26,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+180,180,TextGrid/-Prometheus.xml,Und meine Ziege?,0,16,character_speech,2,0,,MANN.,MANN.,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+181,181,TextGrid/-Prometheus.xml,"
+                                    Laß ihn!",0,45,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+182,182,TextGrid/-Prometheus.xml,"Ist seine Hand wider jedermann,
+                                    Wird jedermanns Hand sein wider ihn.",82,186,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+183,183,TextGrid/-Prometheus.xml,"
+                                    Mann ab.",0,45,stage_direction,2,0,speech_part,,,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+184,184,TextGrid/-Prometheus.xml,"
+                                    Ihr seid nicht ausgeartet, meine Kinder,
+                                    
+                                       
+Seid arbeitsam und faul,
+                                    Und grausam mild,
+                                    Freigebig geizig,
+                                    Gleichet all euren Schicksalsbrüdern,
+                                    Gleichet den Tieren und den Göttern.",0,434,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,27.0,UNKNOWN,abhorrence,negative,emotions of rejection
+185,185,TextGrid/-Prometheus.xml,"
+                                    Pandora kommt.",0,51,stage_direction,2,0,speech_part,,,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+186,186,TextGrid/-Prometheus.xml,"
+                                    Was hast du, meine Tochter,
+                                    Wie so bewegt?",0,115,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,28.0,UNKNOWN,being moved,being moved,being moved
+187,187,TextGrid/-Prometheus.xml,"
+                                    Mein Vater!",0,48,character_speech,2,0,,PANDORA.,PANDORA.,29.0,UNKNOWN,being moved,being moved,being moved
+188,188,TextGrid/-Prometheus.xml,"Ach, was ich sah, mein Vater,
+                                    Was ich fühlte!",85,166,character_speech,2,0,,PANDORA.,PANDORA.,29.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+189,189,TextGrid/-Prometheus.xml,Nun?,0,4,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+190,190,TextGrid/-Prometheus.xml,"O, meine arme Mira!",0,19,character_speech,2,0,,PANDORA.,PANDORA.,31.0,UNKNOWN,compassion,negative,emotions of suffering and empathy
+191,191,TextGrid/-Prometheus.xml,–,20,21,character_speech,2,0,,PANDORA.,PANDORA.,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+192,192,TextGrid/-Prometheus.xml,Was ist ihr?,0,12,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+193,193,TextGrid/-Prometheus.xml,"
+                                    Namenlose Gefühle!",0,55,character_speech,2,0,,PANDORA.,PANDORA.,33.0,UNKNOWN,being moved,being moved,being moved
+194,194,TextGrid/-Prometheus.xml,"Ich sah sie zu dem Waldgebüsche gehn,
+                                    Wo wir so oft uns Blumenkränze pflücken;
+                                    Ich folgt ihr nach,
+                                    Und, ach, wie ich vom Hügel komme,
+                                    Seh ich sie, im Tal auf einen Rasen hingesunken.",92,418,character_speech,2,0,,PANDORA.,PANDORA.,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+195,195,TextGrid/-Prometheus.xml,Zum Glück war Arbar ohngefähr im Wald.,455,493,character_speech,2,0,,PANDORA.,PANDORA.,33.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+196,196,TextGrid/-Prometheus.xml,"Er hielt sie fest in seinen Armen,
+                                    Wollte sie nicht sinken lassen,
+                                    Und, ach, sank mit ihr hin.",530,696,character_speech,2,0,,PANDORA.,PANDORA.,33.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+197,197,TextGrid/-Prometheus.xml,"Ihr schönes Haupt entsank,
+                                    Er küßte sie tausendmal
+                                    Und hing an ihrem Munde,
+                                    Um seinen Geist ihr einzuhauchen.",733,950,character_speech,2,0,,PANDORA.,PANDORA.,33.0,UNKNOWN,love,positive,emotions of affection
+198,198,TextGrid/-Prometheus.xml,"Mir ward bang, ich sprang hinzu und schrie,
+                                    Mein Schrei eröffnet ihr die Sinnen.",987,1103,character_speech,2,0,,PANDORA.,PANDORA.,33.0,UNKNOWN,fear,negative,emotions of anxiety
+199,199,TextGrid/-Prometheus.xml,"Arbar ließ sie; sie sprang auf,
+                                    Und, ach, mit halb gebrochnen Augen
+                                    Fiel sie mir um den Hals.",1140,1305,character_speech,2,0,,PANDORA.,PANDORA.,33.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+200,200,TextGrid/-Prometheus.xml,"Ihr Busen schlug,
+                                    Als wollt er reißen,
+                                    Ihre Wangen glühten,
+                                    Es lechzt' ihr Mund, und tausend Tränen stürzten.",1342,1559,character_speech,2,0,,PANDORA.,PANDORA.,33.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+201,201,TextGrid/-Prometheus.xml,"Ich fühlte wieder ihre Kniee wanken
+                                    Und hielt sie, teurer Vater,
+                                    
+                                       
+Und ihre Küsse, ihre Glut
+                                    Hat solch ein neues unbekanntes Gefühl
+                                    Durch meine Adern durchgegossen,
+                                    Daß ich verwirrt, bewegt
+                                    Und weinend endlich sie ließ
+                                    Und Wald und Feld,
+                                    Zu dir, mein Vater!",1596,2180,character_speech,2,0,,PANDORA.,PANDORA.,33.0,UNKNOWN,love,positive,emotions of affection
+202,202,TextGrid/-Prometheus.xml,"Sag,
+                                    Was ist das alles, was sie erschüttert
+                                    Und mich?",2181,2306,character_speech,2,0,,PANDORA.,PANDORA.,33.0,UNKNOWN,being moved,being moved,being moved
+203,203,TextGrid/-Prometheus.xml,Der Tod!,0,8,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,34.0,UNKNOWN,despair,negative,emotions of anxiety
+204,204,TextGrid/-Prometheus.xml,Was ist das?,0,12,character_speech,2,0,,PANDORA.,PANDORA.,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+205,205,TextGrid/-Prometheus.xml,"
+                                    Meine Tochter,
+                                    Du hast der Freuden viel genossen.",0,122,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,36.0,UNKNOWN,joy,positive,emotions of pleasure
+206,206,TextGrid/-Prometheus.xml,Tausendfach!,0,12,character_speech,2,0,,PANDORA.,PANDORA.,37.0,UNKNOWN,joy,positive,emotions of pleasure
+207,207,TextGrid/-Prometheus.xml,Dir dank ich's all.,13,32,character_speech,2,0,,PANDORA.,PANDORA.,37.0,UNKNOWN,joy,positive,emotions of pleasure
+208,208,TextGrid/-Prometheus.xml,"
+                                    Pandora, dein Busen schlug
+                                    Der kommenden Sonne,
+                                    Dem wandlenden Mond entgegen,
+                                    Und in den Küssen deiner Gespielen
+                                    Genossest du die reinste Seligkeit.",0,329,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,38.0,UNKNOWN,love,positive,emotions of affection
+209,209,TextGrid/-Prometheus.xml,Unaussprechlich!,0,16,character_speech,2,0,,PANDORA.,PANDORA.,39.0,UNKNOWN,being moved,being moved,being moved
+210,210,TextGrid/-Prometheus.xml,"
+                                    Was hub im Tanze deinen Körper
+                                    Leicht auf vom Boden?",0,125,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,40.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+211,211,TextGrid/-Prometheus.xml,"
+                                    Freude!",0,44,character_speech,2,0,,PANDORA.,PANDORA.,41.0,UNKNOWN,joy,positive,emotions of pleasure
+212,212,TextGrid/-Prometheus.xml,"Wie jedes Glied gerührt vom Sang und Spiel
+                                    Bewegte, regte sich, ich ganz in Melodie verschwamm.",81,212,character_speech,2,0,,PANDORA.,PANDORA.,41.0,UNKNOWN,being moved,being moved,being moved
+213,213,TextGrid/-Prometheus.xml,"
+                                    Und alles löst sich endlich auf in Schlaf,
+                                    So Freud als Schmerz.",0,137,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,42.0,UNKNOWN,joy,positive,emotions of pleasure
+214,214,TextGrid/-Prometheus.xml,"Du hast gefühlt der Sonne Glut,
+                                    Des Durstes Lechzen,
+                                    Deiner Kniee Müdigkeit,
+                                    Hast über dein verlornes Schaf geweint,
+                                    Und wie geächzt, gezittert,
+                                    Als du im Wald den Dorn dir in die Ferse tratst,
+                                    Eh ich dich heilte.",174,603,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,42.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+215,215,TextGrid/-Prometheus.xml,"
+                                    Mancherlei, mein Vater, ist des Lebens Wonn
+                                    Und Weh!",0,125,character_speech,2,0,,PANDORA.,PANDORA.,43.0,UNKNOWN,love,positive,emotions of affection
+216,216,TextGrid/-Prometheus.xml,"
+                                    Und du fühlst an deinem Herzen,
+                                    Daß noch der Freuden viele sind,
+                                    Noch der Schmerzen, die du nicht kennst.",0,214,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,44.0,UNKNOWN,joy,positive,emotions of pleasure
+217,217,TextGrid/-Prometheus.xml,"
+                                    Wohl, wohl!",0,48,character_speech,2,0,,PANDORA.,PANDORA.,45.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+218,218,TextGrid/-Prometheus.xml,"– Dies Herze sehnt sich oft
+                                    Ach nirgend hin und überall doch hin!",49,150,character_speech,2,0,,PANDORA.,PANDORA.,45.0,UNKNOWN,being moved,being moved,being moved
+219,219,TextGrid/-Prometheus.xml,"
+                                    Da ist ein Augenblick, der alles erfüllt,
+                                    Alles, was wir gesehnt, geträumt, gehofft,
+                                    Gefürchtet, meine Beste, – das ist der Tod!",0,237,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,46.0,UNKNOWN,despair,negative,emotions of anxiety
+220,220,TextGrid/-Prometheus.xml,Der Tod?,0,8,character_speech,2,0,,PANDORA.,PANDORA.,47.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+221,221,TextGrid/-Prometheus.xml,"
+                                    Wenn aus dem innerst tiefsten Grunde
+                                    Du ganz erschüttert alles fühlst,
+                                    Was Freud und Schmerzen jemals dir ergossen,
+                                    Im Sturm dein Herz erschwillt,
+                                    In Tränen sich erleichtern will und seine Glut vermehrt,
+                                    Und alles klingt an dir und bebt und zittert,
+                                    Und all die Sinne dir vergehn,
+                                    Und du dir zu vergehen scheinst
+                                    Und sinkst, und alles um dich her
+                                    Versinkt in Nacht, und du, in inner eigenem Gefühle,
+                                    Umfassest eine Welt:
+                                    Dann stirbt der Mensch.",0,877,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,48.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+222,222,TextGrid/-Prometheus.xml,"
+                                    ihn umhalsend.",0,51,stage_direction,2,0,speech_part,,,49.0,UNKNOWN,joy,positive,emotions of pleasure
+223,223,TextGrid/-Prometheus.xml,"O, Vater, laß uns sterben!",0,26,character_speech,2,0,,PANDORA,PANDORA,49.0,UNKNOWN,despair,negative,emotions of anxiety
+224,224,TextGrid/-Prometheus.xml,Noch nicht.,0,11,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,50.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+225,225,TextGrid/-Prometheus.xml,Und nach dem Tod?,0,17,character_speech,2,0,,PANDORA.,PANDORA.,51.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+226,226,TextGrid/-Prometheus.xml,"
+                                    Wenn alles – Begier und Freud und Schmerz –
+                                    Im stürmenden Genuß sich aufgelöst,
+                                    Dann sich erquickt in Wonneschlaf, –
+                                    Dann lebst du auf, aufs jüngste wieder auf,
+                                    Aufs neue zu fürchten, zu hoffen und zu begehren!",0,391,character_speech,2,0,,PROMETHEUS.,PROMETHEUS.,52.0,UNKNOWN,joy,positive,emotions of pleasure

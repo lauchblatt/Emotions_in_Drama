@@ -1,0 +1,1133 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/goethe-erwin-und-elmire.xml,"Olimpia tritt herein und findet Elmiren traurig an einem Tische sitzen, auf den sie
+          sich stemmt.",0,106,stage_direction,1,1,pre_speech,,,,,suffering,S,,1775.0,negative,emotions of suffering and empathy
+1,1,GerDracor/goethe-erwin-und-elmire.xml,"Die Mutter bezeigt ein zärtliches Mißvergnügen und sucht sie zu
+          ermuntern.",107,191,stage_direction,1,1,pre_speech,,,,,joy,S,,1775.0,positive,emotions of pleasure
+2,2,GerDracor/goethe-erwin-und-elmire.xml,"
+            Liebes Kind, was hast du wieder?",0,45,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+3,3,GerDracor/goethe-erwin-und-elmire.xml,Welch ein Kummer drückt dich nieder?,58,94,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+4,4,GerDracor/goethe-erwin-und-elmire.xml,Sieh!,107,112,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+5,5,GerDracor/goethe-erwin-und-elmire.xml,"wie ist der Tag so schön;
+            Komm, laß uns in Garten gehn.",113,180,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+6,6,GerDracor/goethe-erwin-und-elmire.xml,"War das ein Sehnen,
+            War das ein Erwarten:
+            Blühten doch die Blumen!",193,283,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+7,7,GerDracor/goethe-erwin-und-elmire.xml,Grünte doch mein Garten!,296,320,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+8,8,GerDracor/goethe-erwin-und-elmire.xml,Sieh!,333,338,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+9,9,GerDracor/goethe-erwin-und-elmire.xml,"die Blumen blühen all,
+            Hör!",339,378,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+10,10,GerDracor/goethe-erwin-und-elmire.xml,es schlägt die Nachtigall.,379,405,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+11,11,GerDracor/goethe-erwin-und-elmire.xml,Was hast du?,0,12,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+12,12,GerDracor/goethe-erwin-und-elmire.xml,"ich bitte dich, was hast du?",13,41,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+13,13,GerDracor/goethe-erwin-und-elmire.xml,"klage, solange du willst, nur das Schweigen
+            ist mir unausstehlich.",42,120,character_speech,1,1,,OLIMPIA.,#olimpia,1.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+14,14,GerDracor/goethe-erwin-und-elmire.xml,"Liebe Mama, man gibt sich den Humor nicht selbst.",0,49,character_speech,1,1,,ELMIRE.,#elmire,2.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+15,15,GerDracor/goethe-erwin-und-elmire.xml,"Wenn's Humor wäre, wollt ich kein Wort sagen.",0,45,character_speech,1,1,,OLIMPIA.,#olimpia,3.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+16,16,GerDracor/goethe-erwin-und-elmire.xml,"Wenn dir eine Ratte durch den Kopf läuft,
+            daß du einen Morgen nichts reden magst oder bei Tische das Maul hängst, sag ich da was
+            drüber?",46,206,character_speech,1,1,,OLIMPIA.,#olimpia,3.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+17,17,GerDracor/goethe-erwin-und-elmire.xml,"Hat man jemals eine schönere Haushaltung gesehn als unsre, da man einander aus
+            dem Wege geht, wenn man üblen Humors ist?",207,339,character_speech,1,1,,OLIMPIA.,#olimpia,3.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+18,18,GerDracor/goethe-erwin-und-elmire.xml,"Nein, Liebchen, du sollst nicht lachen, wenn
+            dir's weinerlich ist; aber ich wollte, daß dir's nicht weinerlich wäre.",340,468,character_speech,1,1,,OLIMPIA.,#olimpia,3.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+19,19,GerDracor/goethe-erwin-und-elmire.xml,"Was ist dir, was
+            fehlt dir?",469,508,character_speech,1,1,,OLIMPIA.,#olimpia,3.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+20,20,GerDracor/goethe-erwin-und-elmire.xml,sag's!,509,515,character_speech,1,1,,OLIMPIA.,#olimpia,3.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+21,21,GerDracor/goethe-erwin-und-elmire.xml,rede!,516,521,character_speech,1,1,,OLIMPIA.,#olimpia,3.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+22,22,GerDracor/goethe-erwin-und-elmire.xml,Mir?,0,4,character_speech,1,1,,ELMIRE.,#elmire,4.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+23,23,GerDracor/goethe-erwin-und-elmire.xml,"Nichts, Mama.",5,18,character_speech,1,1,,ELMIRE.,#elmire,4.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+24,24,GerDracor/goethe-erwin-und-elmire.xml,"Da sei Gott vor, daß du so ohne Ursache den Kopf hängst.",0,56,character_speech,1,1,,OLIMPIA.,#olimpia,5.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+25,25,GerDracor/goethe-erwin-und-elmire.xml,"Nein, das ist nichts.",57,78,character_speech,1,1,,OLIMPIA.,#olimpia,5.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+26,26,GerDracor/goethe-erwin-und-elmire.xml,"Und doch
+            begreif ich nicht – daß ein Mädel den Kopf hängt, die auf Erlösung paßt, wenn die nicht
+            kommen will, das ist natürlich!",79,231,character_speech,1,1,,OLIMPIA.,#olimpia,5.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+27,27,GerDracor/goethe-erwin-und-elmire.xml,"daß eine verdrießlich ist, die nach allen Mannsleuten
+            angelt und keinen fängt, sehr natürlich.",232,338,character_speech,1,1,,OLIMPIA.,#olimpia,5.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+28,28,GerDracor/goethe-erwin-und-elmire.xml,– Ist denn das dein Fall?,339,364,character_speech,1,1,,OLIMPIA.,#olimpia,5.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+29,29,GerDracor/goethe-erwin-und-elmire.xml,"Du, die du sechse
+            haben kannst für einen, die du eine Mutter hast, die sagt: nimm, welchen du willt von
+            den sechsen, und wenn dir ein siebenter etwa in die Augen sticht, dir etwa am Herzen
+            liegt, sag mir ihn, nenn mir ihn!",365,623,character_speech,1,1,,OLIMPIA.,#olimpia,5.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+30,30,GerDracor/goethe-erwin-und-elmire.xml,"Wir wollen sehn, wie wir ihm ankommen.",624,662,character_speech,1,1,,OLIMPIA.,#olimpia,5.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+31,31,GerDracor/goethe-erwin-und-elmire.xml,"Und doch immer
+            Tränen in den Augen!",663,710,character_speech,1,1,,OLIMPIA.,#olimpia,5.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+32,32,GerDracor/goethe-erwin-und-elmire.xml,"bist du krank, willst mir's nicht sagen?",711,751,character_speech,1,1,,OLIMPIA.,#olimpia,5.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+33,33,GerDracor/goethe-erwin-und-elmire.xml,Ich bin ja lustig.,0,18,character_speech,1,1,,ELMIRE.,#elmire,6.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+34,34,GerDracor/goethe-erwin-und-elmire.xml,Sie lächelt und wischt sich die Augen.,0,38,stage_direction,1,1,speech_part,,#elmire,6.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+35,35,GerDracor/goethe-erwin-und-elmire.xml,Das ist eine aparte Art von Lustbarkeit.,0,40,character_speech,1,1,,OLIMPIA.,#olimpia,7.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+36,36,GerDracor/goethe-erwin-und-elmire.xml,Unterdes ich will's so annehmen.,41,73,character_speech,1,1,,OLIMPIA.,#olimpia,7.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+37,37,GerDracor/goethe-erwin-und-elmire.xml,Treffend.,0,9,stage_direction,1,1,inner_speech,,#olimpia,7.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+38,38,GerDracor/goethe-erwin-und-elmire.xml," Ich weiß wohl, wo dir's stickt!",0,32,character_speech,1,1,,OLIMPIA.,#olimpia,7.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+39,39,GerDracor/goethe-erwin-und-elmire.xml,lebhaft.,0,8,stage_direction,1,1,speech_part,,#elmire,8.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+40,40,GerDracor/goethe-erwin-und-elmire.xml,Liebe Mama!,0,11,character_speech,1,1,,ELMIRE,#elmire,8.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+41,41,GerDracor/goethe-erwin-und-elmire.xml,nach einer Pause.,0,17,stage_direction,1,1,speech_part,,#olimpia,9.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+42,42,GerDracor/goethe-erwin-und-elmire.xml,"An all dem Mißvergnügen, der üblen Laune unsrer Kinder sind wir selber schuld, ist die
+            neumodische Erziehung schuld.",0,128,character_speech,1,1,,OLIMPIA,#olimpia,9.0,FEMALE,Schadenfreude,S,,1775.0,positive,emotions of pleasure
+43,43,GerDracor/goethe-erwin-und-elmire.xml,Ich fühl's schon lang!,129,151,character_speech,1,1,,OLIMPIA,#olimpia,9.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+44,44,GerDracor/goethe-erwin-und-elmire.xml,"Liebe Mama, daß Sie doch nie die Sorge gereuen möchte, die Sie auf mich verwendet
+            haben.",0,100,character_speech,1,1,,ELMIRE.,#elmire,10.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+45,45,GerDracor/goethe-erwin-und-elmire.xml,"Nicht das, meine Tochter, Ich sagt's deinem Vater oft; er wollte nun einmal ein kleines
+            Meerwunder aus dir gemacht haben, du wurdest's und bist nicht glücklicher.",0,174,character_speech,1,1,,OLIMPIA.,#olimpia,11.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+46,46,GerDracor/goethe-erwin-und-elmire.xml,Sie schienen doch sonst mit mir zufrieden zu sein.,0,50,character_speech,1,1,,ELMIRE.,#elmire,12.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+47,47,GerDracor/goethe-erwin-und-elmire.xml,"Und bin's noch, und hätte gar nichts zu klagen, wenn du nur mit dir selbst zufrieden
+            wärst.",0,103,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+48,48,GerDracor/goethe-erwin-und-elmire.xml,"Wie ich jung war, ich weiß nicht, es war alles ganz anders.",104,163,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+49,49,GerDracor/goethe-erwin-und-elmire.xml,"Zwar wirft man den
+            Alten vor, sie lobten töricht das Vergangene und verachteten das Gegenwärtige, weil sie
+            kein Gefühl dafür haben.",164,319,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+50,50,GerDracor/goethe-erwin-und-elmire.xml,Aber wahr bleibt wahr.,320,342,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+51,51,GerDracor/goethe-erwin-und-elmire.xml,"Wie ich jung war, man wußte von all den
+            Verfeinerungen nichts, sowenig man von dem Staate was wußte, zu dem man jetzt die Kinder
+            gewöhnt.",343,504,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+52,52,GerDracor/goethe-erwin-und-elmire.xml,"Man ließ uns lesen lernen und schreiben, und übrigens hatten wir alle Freiheit
+            und Freuden der ersten Jahre.",505,625,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+53,53,GerDracor/goethe-erwin-und-elmire.xml,"Wir vermengten uns mit Kindern von geringem Stand, ohne
+            daß das unsre Sitten verderbt hätte.",626,730,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+54,54,GerDracor/goethe-erwin-und-elmire.xml,"Wir durften wild sein, und die Mutter fürchtete
+            nicht für unsern Anzug, wir hatten keine Falbalas zu zerreißen, keine Blonden zu
+            verschmutzen, keine Bänder zu verderben; unsre leinene Kleidchen waren bald gewaschen.",731,970,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+55,55,GerDracor/goethe-erwin-und-elmire.xml,"Keine hagre Deutsch-Französin zog hinter uns her, ließ ihren bösen Humor an uns aus und
+            prätendierte etwa, wir sollten so steif, so eitel, so albern tun wie sie.",983,1156,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+56,56,GerDracor/goethe-erwin-und-elmire.xml,"Es wird mir
+            immer übel, die kleinen Mißgeburten in der Allee auf und ab treiben sehn.",1157,1254,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+57,57,GerDracor/goethe-erwin-und-elmire.xml,"Nicht anders
+            sieht's aus, als wenn ein Kerl in der Messe seine Hunde und Affen mit Reifröcken und
+            Fantangen mit der Peitsche vor sich her in Ordnung und auf zwei Beinen hält und es ihnen
+            mit derben Schlägen gesegnet, wenn die Natur wiederkehrt und sie Lust kriegen, einmal à
+            leur aise auf allen vieren zu trappeln.",1255,1617,character_speech,1,1,,OLIMPIA.,#olimpia,13.0,FEMALE,Schadenfreude,S,,1775.0,positive,emotions of pleasure
+58,58,GerDracor/goethe-erwin-und-elmire.xml,"Darf ich sagen, Mama, daß Sie ungerecht sind, ein wenig übertreiben und die gute Seite
+            nicht sehen wollen.",0,118,character_speech,1,1,,ELMIRE.,#elmire,14.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+59,59,GerDracor/goethe-erwin-und-elmire.xml,Welche Vorzüge gibt uns die gegenwärtige Erziehung!,120,171,character_speech,1,1,,ELMIRE.,#elmire,14.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+60,60,GerDracor/goethe-erwin-und-elmire.xml,"die
+            doch noch lang nicht allgemein ist.",172,223,character_speech,1,1,,ELMIRE.,#elmire,14.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+61,61,GerDracor/goethe-erwin-und-elmire.xml,Desto besser!,0,13,character_speech,1,1,,OLIMPIA.,#olimpia,15.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+62,62,GerDracor/goethe-erwin-und-elmire.xml,Vorzüge?,14,22,character_speech,1,1,,OLIMPIA.,#olimpia,15.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+63,63,GerDracor/goethe-erwin-und-elmire.xml,"Ich dächte, der größte Vorzug in der Welt wäre, glücklich und
+            zufrieden zu sein.",23,115,character_speech,1,1,,OLIMPIA.,#olimpia,15.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+64,64,GerDracor/goethe-erwin-und-elmire.xml,So war unsere Jugend.,116,137,character_speech,1,1,,OLIMPIA.,#olimpia,15.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+65,65,GerDracor/goethe-erwin-und-elmire.xml,"Wir spielten, sprangen, lärmten und waren schon
+            ziemlich große Jungfern, da uns noch eine Schaukel, ein Ballspiel ergötzte, und nahmen
+            Männer, ohne kaum was von einer Assemblee, von Kartenspiel und Geld zu wissen.",138,375,character_speech,1,1,,OLIMPIA.,#olimpia,15.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+66,66,GerDracor/goethe-erwin-und-elmire.xml,"Wir
+            liefen in unsern Hauskleidern zusammen und spielten um Nüsse und Stecknadeln und waren
+            herrlich dabei; und eh man sich's versah, paff!",376,538,character_speech,1,1,,OLIMPIA.,#olimpia,15.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+67,67,GerDracor/goethe-erwin-und-elmire.xml,hatten wir einen Mann.,539,561,character_speech,1,1,,OLIMPIA.,#olimpia,15.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+68,68,GerDracor/goethe-erwin-und-elmire.xml,Man kriegt heutzutage auch Männer und ist auch lustig.,0,54,character_speech,1,1,,ELMIRE.,#elmire,16.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+69,69,GerDracor/goethe-erwin-und-elmire.xml,Aber wie?,0,9,character_speech,1,1,,OLIMPIA.,#olimpia,17.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+70,70,GerDracor/goethe-erwin-und-elmire.xml,Da führen sie ihre Kinder zusammen.,10,45,character_speech,1,1,,OLIMPIA.,#olimpia,17.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+71,71,GerDracor/goethe-erwin-und-elmire.xml,"Sie sitzen im Kreis, wie die Damen;
+            trinken ihren Kaffee aus der Hand, wie die Damen, statt daß man sie sonst um einen Tisch
+            setzte und es ihnen bequem machte; so müssen sie anständig sein, wie die Damen; und auch
+            Langeweile haben, wie die Damen; und sind doch Kinder von innen, und werden durchaus
+            verdorben, weil sie gleich von Anfang ihres Lebens nicht sein dürfen, was sie sind.",46,476,character_speech,1,1,,OLIMPIA.,#olimpia,17.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+72,72,GerDracor/goethe-erwin-und-elmire.xml,"Unterdessen, unsre Lebensart verlangt's doch jetzt.",0,51,character_speech,1,1,,ELMIRE.,#elmire,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+73,73,GerDracor/goethe-erwin-und-elmire.xml,"Wenn wir erzogen würden wie vor
+            alters, was für eine Figur würden wir in der Gesellschaft spielen?",52,162,character_speech,1,1,,ELMIRE.,#elmire,18.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+74,74,GerDracor/goethe-erwin-und-elmire.xml,"Was für eine Figur, Mädchen?",0,28,character_speech,1,1,,OLIMPIA.,#olimpia,19.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+75,75,GerDracor/goethe-erwin-und-elmire.xml,"die Figur, die eure Mütter gespielt haben und deren ihr
+            euch nicht zu schämen haben würdet.",29,132,character_speech,1,1,,OLIMPIA.,#olimpia,19.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+76,76,GerDracor/goethe-erwin-und-elmire.xml,"Glaubst du denn nicht, daß man ein angenehmes
+            Mädchen, eine rechtschaffne Frau werden könne, wenn man die Erlaubnis gehabt hat, ein
+            Kind zu sein?",133,302,character_speech,1,1,,OLIMPIA.,#olimpia,19.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+77,77,GerDracor/goethe-erwin-und-elmire.xml,"Dein Vater hat weder Schande an mir in der großen Welt er lebt, noch hatte
+            er sich über mein häuslich Leben zu beklagen.",303,435,character_speech,1,1,,OLIMPIA.,#olimpia,19.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+78,78,GerDracor/goethe-erwin-und-elmire.xml,"Ich sage dir, die Kinderschuhe treten sich
+            von selbst aus, wenn sie einem zu eng werden; und wenn ein Weib Menschenverstand hat,
+            kann sie sich in alles  fügen.",436,619,character_speech,1,1,,OLIMPIA.,#olimpia,19.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+79,79,GerDracor/goethe-erwin-und-elmire.xml,Gewiß!,620,626,character_speech,1,1,,OLIMPIA.,#olimpia,19.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+80,80,GerDracor/goethe-erwin-und-elmire.xml,"die Besten, die ich unter unserm
+            Geschlecht habe kennengelernt, waren eben die, auf deren Erziehung man am wenigsten
+            gewendet hatte.",627,783,character_speech,1,1,,OLIMPIA.,#olimpia,19.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+81,81,GerDracor/goethe-erwin-und-elmire.xml,"Unsre Kenntnisse, unsre Talente!",0,32,character_speech,1,1,,ELMIRE.,#elmire,20.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+82,82,GerDracor/goethe-erwin-und-elmire.xml,"Das ist eben das verfluchte Zeug, das euch entweder nichts hilft oder euch wohl gar
+            unglücklich macht.",0,114,character_speech,1,1,,OLIMPIA.,#olimpia,21.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+83,83,GerDracor/goethe-erwin-und-elmire.xml,"Wir wußten von all der Firlfanzerei nichts; wir tappelten unser
+            Liedchen, unsern Menuett auf dem Klavier und sangen und tanzten dazu; jetzt vergeht den
+            armen Kindern das Singen und Tanzen bei ihren Instrumenten; sie werden auf die
+            Geschwindigkeit dressiert und müssen, statt einfacher Melodien, ein Geklimpere treiben,
+            das sie ängstigt und nicht unterhält; und wozu?",115,529,character_speech,1,1,,OLIMPIA.,#olimpia,21.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+84,84,GerDracor/goethe-erwin-und-elmire.xml,Um sich zu produzieren!,530,553,character_speech,1,1,,OLIMPIA.,#olimpia,21.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+85,85,GerDracor/goethe-erwin-und-elmire.xml,"Um bewundert zu
+            werden!",554,589,character_speech,1,1,,OLIMPIA.,#olimpia,21.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+86,86,GerDracor/goethe-erwin-und-elmire.xml,Vor wem?,590,598,character_speech,1,1,,OLIMPIA.,#olimpia,21.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+87,87,GerDracor/goethe-erwin-und-elmire.xml,wo?,599,602,character_speech,1,1,,OLIMPIA.,#olimpia,21.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+88,88,GerDracor/goethe-erwin-und-elmire.xml,"– Vor Leuten, die' s nicht verstehen oder plaudern oder nur
+            herzlich passen, bis ihr fertig seid, um sich auch zu produzieren und auch nicht
+            geachtet und doch am Ende aus Gewohnheit oder Spott beklatscht zu werden.",603,841,character_speech,1,1,,OLIMPIA.,#olimpia,21.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+89,89,GerDracor/goethe-erwin-und-elmire.xml,Das ist nie meine Art gewesen.,0,30,character_speech,1,1,,ELMIRE.,#elmire,22.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+90,90,GerDracor/goethe-erwin-und-elmire.xml,"Ich habe immer mehr für mich gelebt als für andre, und
+            meine Gefühle, meine Ideen, die sich durch eine frühzeitige Bildung entwickelten,
+            machten von jeher das Glück meines Lebens.",31,234,character_speech,1,1,,ELMIRE.,#elmire,22.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+91,91,GerDracor/goethe-erwin-und-elmire.xml,Und machen jetzt dein Elend.,0,28,character_speech,1,1,,OLIMPIA.,#olimpia,23.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+92,92,GerDracor/goethe-erwin-und-elmire.xml,"Was sind alle die edelsten Triebe und Empfindungen, da ihr
+            in einer Welt lebt, wo sie nicht befriedigt werden können, wo alles dagegen zu arbeiten
+            scheint!",29,208,character_speech,1,1,,OLIMPIA.,#olimpia,23.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+93,93,GerDracor/goethe-erwin-und-elmire.xml,"gibt das nicht Anlage zum tiefsten Mißvergnügen, Anlaß zum ewigen Klagen?",209,282,character_speech,1,1,,OLIMPIA.,#olimpia,23.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+94,94,GerDracor/goethe-erwin-und-elmire.xml,Ich beklage mich nicht.,0,23,character_speech,1,1,,ELMIRE.,#elmire,24.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+95,95,GerDracor/goethe-erwin-und-elmire.xml,"Nicht mit Worten, doch leider mit der Tat.",0,42,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+96,96,GerDracor/goethe-erwin-und-elmire.xml,Was hat ein Mädchen zu wünschen?,43,75,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+97,97,GerDracor/goethe-erwin-und-elmire.xml,"Jugendliche
+            Freuden zu haben?",76,117,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+98,98,GerDracor/goethe-erwin-und-elmire.xml,Die erlaub ich dir.,118,137,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+99,99,GerDracor/goethe-erwin-und-elmire.xml,Ihre kleine Eitelkeit zu befriedigen?,138,175,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+100,100,GerDracor/goethe-erwin-und-elmire.xml,"Ich lasse
+            dir's an nichts fehlen.",176,221,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+101,101,GerDracor/goethe-erwin-und-elmire.xml,Zu gefallen?,222,234,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+102,102,GerDracor/goethe-erwin-und-elmire.xml,"Mich deuchte, du gefielst.",235,261,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+103,103,GerDracor/goethe-erwin-und-elmire.xml,Freier zu haben?,262,278,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+104,104,GerDracor/goethe-erwin-und-elmire.xml,"Daran
+            fehlt dir's nicht.",279,315,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+105,105,GerDracor/goethe-erwin-und-elmire.xml,"Einen gefälligen, rechtschaffnen, wohlhabenden Mann zu bekommen?",316,380,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+106,106,GerDracor/goethe-erwin-und-elmire.xml,"Du
+            darfst nur wählen!",381,414,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+107,107,GerDracor/goethe-erwin-und-elmire.xml,"Und hernach ist es deine Sache, eine brave Frau zu sein, Kinder zu",415,481,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+108,108,GerDracor/goethe-erwin-und-elmire.xml," kriegen, zu erziehen, und deiner Haushaltung vorzustehen; und das gibt sich,
+            dünkt mich, alles von selbst.",0,119,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+109,109,GerDracor/goethe-erwin-und-elmire.xml,Also summa summarum –,120,141,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+110,110,GerDracor/goethe-erwin-und-elmire.xml,"Sie klopft ihr auf die Backen
+              –",0,45,stage_direction,1,1,inner_speech,,#olimpia,25.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+111,111,GerDracor/goethe-erwin-und-elmire.xml, bist du ein Närrchen!,0,22,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+112,112,GerDracor/goethe-erwin-und-elmire.xml,"Nicht wahr, Elmire?",23,42,character_speech,1,1,,OLIMPIA.,#olimpia,25.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+113,113,GerDracor/goethe-erwin-und-elmire.xml,in Bewegung.,0,12,stage_direction,1,1,speech_part,,#elmire,26.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+114,114,GerDracor/goethe-erwin-und-elmire.xml,Ich möchte –,0,12,character_speech,1,1,,ELMIRE,#elmire,26.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+115,115,GerDracor/goethe-erwin-und-elmire.xml,"Nur nicht aus der Welt laufen, das verbitt ich mir.",0,51,character_speech,1,1,,OLIMPIA.,#olimpia,27.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+116,116,GerDracor/goethe-erwin-und-elmire.xml,"Ich glaube, du gingst jetzo ins
+            Kloster, wenn man dir die Freiheit ließe.",52,137,character_speech,1,1,,OLIMPIA.,#olimpia,27.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+117,117,GerDracor/goethe-erwin-und-elmire.xml,Warum nicht?,0,12,character_speech,1,1,,ELMIRE.,#elmire,28.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+118,118,GerDracor/goethe-erwin-und-elmire.xml,"Liebes Kind, ich versichre dich, es würde dir dort nicht besser werden, als dir's hier
+            ist.",0,103,character_speech,1,1,,OLIMPIA.,#olimpia,29.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+119,119,GerDracor/goethe-erwin-und-elmire.xml,"Ein bißchen schwer ist's, sich mit sich selbst vertragen, und doch im Grund das
+            einzige, worauf's ankäme.",104,221,character_speech,1,1,,OLIMPIA.,#olimpia,29.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+120,120,GerDracor/goethe-erwin-und-elmire.xml,"Jetzt da der junge Erwin; der hatte auch solche Knöpfe, es war
+            ihm nirgends wohl.",222,315,character_speech,1,1,,OLIMPIA.,#olimpia,29.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+121,121,GerDracor/goethe-erwin-und-elmire.xml,"Und verzeih ihm Gott den dummen Streich und die Not, die er seiner
+            Mutter macht.",316,408,character_speech,1,1,,OLIMPIA.,#olimpia,29.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+122,122,GerDracor/goethe-erwin-und-elmire.xml,"Ich begreif's nicht, was ihn bewogen haben kann, auf einmal durchzugehen.",409,482,character_speech,1,1,,OLIMPIA.,#olimpia,29.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+123,123,GerDracor/goethe-erwin-und-elmire.xml,"Keine Schulden hatte er nicht, war sonst auch ein Mensch nicht zur Ausschweifung
+            geneigt.",495,596,character_speech,1,1,,OLIMPIA.,#olimpia,29.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+124,124,GerDracor/goethe-erwin-und-elmire.xml,"Nur die Unruhe, die Unzufriedenheit mit sich selbst ist's, die ihn ins Elend
+            stürzt.",597,693,character_speech,1,1,,OLIMPIA.,#olimpia,29.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+125,125,GerDracor/goethe-erwin-und-elmire.xml,bewegt.,0,7,stage_direction,1,1,speech_part,,#elmire,30.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+126,126,GerDracor/goethe-erwin-und-elmire.xml,"Glauben Sie, Mama –",0,19,character_speech,1,1,,ELMIRE,#elmire,30.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+127,127,GerDracor/goethe-erwin-und-elmire.xml,Was ist natürlicher?,0,20,character_speech,1,1,,OLIMPIA.,#olimpia,31.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+128,128,GerDracor/goethe-erwin-und-elmire.xml,"Er wird herumirren, er wird Mangel leiden, er wird in Not kommen,
+            er wird kümmerlich sein Brot verdienen, wird unter die Soldaten gehn.",21,168,character_speech,1,1,,OLIMPIA.,#olimpia,31.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+129,129,GerDracor/goethe-erwin-und-elmire.xml,Gott im Himmel!,0,15,character_speech,1,1,,ELMIRE.,#elmire,32.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+130,130,GerDracor/goethe-erwin-und-elmire.xml,"Ich versichre dich, wenn da draußen in der weiten Welt das Paradies der Dichter
+            auffinden wäre, wir hätten uns in die Städte nicht eingesperrt.",0,155,character_speech,1,1,,OLIMPIA.,#olimpia,33.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+131,131,GerDracor/goethe-erwin-und-elmire.xml,verlegen.,0,9,stage_direction,1,1,speech_part,,#elmire,34.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+132,132,GerDracor/goethe-erwin-und-elmire.xml,Erwin!,0,6,character_speech,1,1,,ELMIRE,#elmire,34.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+133,133,GerDracor/goethe-erwin-und-elmire.xml,"Es war ein lieber, guter Junge.",0,31,character_speech,1,1,,OLIMPIA.,#olimpia,35.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+134,134,GerDracor/goethe-erwin-und-elmire.xml,"Sonst so still, so sanft!",32,57,character_speech,1,1,,OLIMPIA.,#olimpia,35.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+135,135,GerDracor/goethe-erwin-und-elmire.xml,Wie beliebt war er bei Hofe!,58,86,character_speech,1,1,,OLIMPIA.,#olimpia,35.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+136,136,GerDracor/goethe-erwin-und-elmire.xml,"Seine Geschicklichkeit, sein Fleiß ersetzte den Mangel eignes Vermögens.",99,171,character_speech,1,1,,OLIMPIA.,#olimpia,35.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+137,137,GerDracor/goethe-erwin-und-elmire.xml,"Hätte er warten
+            können!",172,207,character_speech,1,1,,OLIMPIA.,#olimpia,35.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+138,138,GerDracor/goethe-erwin-und-elmire.xml,"Er ist von gutem Hause, ihm würd es an Versorgung nicht gefehlt haben.",208,278,character_speech,1,1,,OLIMPIA.,#olimpia,35.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+139,139,GerDracor/goethe-erwin-und-elmire.xml,"Ich
+            begreife nicht, was ihn.",279,319,character_speech,1,1,,OLIMPIA.,#olimpia,35.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+140,140,GerDracor/goethe-erwin-und-elmire.xml,"zu dieser Entschließung gebracht hat –  Höre,
+            Liebchen!",320,387,character_speech,1,1,,OLIMPIA.,#olimpia,35.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+141,141,GerDracor/goethe-erwin-und-elmire.xml,"Wenn du nicht in Garten willst, so geh ich allein.",388,438,character_speech,1,1,,OLIMPIA.,#olimpia,35.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+142,142,GerDracor/goethe-erwin-und-elmire.xml,"Erlauben Sie, Mama –",0,20,character_speech,1,1,,ELMIRE.,#elmire,36.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+143,143,GerDracor/goethe-erwin-und-elmire.xml,Ich will dich nicht irren.,0,26,character_speech,1,1,,OLIMPIA.,#olimpia,37.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+144,144,GerDracor/goethe-erwin-und-elmire.xml,"Komm nach, wenn du willt.",27,52,character_speech,1,1,,OLIMPIA.,#olimpia,37.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+145,145,GerDracor/goethe-erwin-und-elmire.xml,Ab.,0,3,stage_direction,1,1,inner_speech,,#olimpia,37.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+146,146,GerDracor/goethe-erwin-und-elmire.xml,allein.,0,7,stage_direction,1,1,speech_part,,#elmire,38.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+147,147,GerDracor/goethe-erwin-und-elmire.xml,"Liebste, beste Mutter!",0,22,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+148,148,GerDracor/goethe-erwin-und-elmire.xml,"Wieviel Eltern verkennen das Wohl ihrer Kinder und sind für ihre
+            dringendsten Empfindungen taub; und diese Mutter vermöchte mir nicht zu helfen mit all
+            dem wahren Anteil an meinem Innersten Herzen.",23,244,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+149,149,GerDracor/goethe-erwin-und-elmire.xml,Wo bin ich?,245,256,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+150,150,GerDracor/goethe-erwin-und-elmire.xml,Was will ich?,257,270,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+151,151,GerDracor/goethe-erwin-und-elmire.xml,"Warum vertraut
+            ich ihr nicht schon lang meine Liebe und nicht meine Qual?",271,356,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+152,152,GerDracor/goethe-erwin-und-elmire.xml,Warum nicht eh?,357,372,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+153,153,GerDracor/goethe-erwin-und-elmire.xml,Armer Erwin!,373,385,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+154,154,GerDracor/goethe-erwin-und-elmire.xml,"Sie wissen nicht, was ihn quälte, sie kannten sein Herz nicht!",398,460,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+155,155,GerDracor/goethe-erwin-und-elmire.xml,"– Weh dir, Elende, die du
+            ihn zur Verzweiflung brachtest!",461,530,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+156,156,GerDracor/goethe-erwin-und-elmire.xml,"Wie rein, wie zärtlich war seine Liebe!",531,570,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+157,157,GerDracor/goethe-erwin-und-elmire.xml,"War er nicht der
+            Edelste von allen, die mich umgaben, und liebt ich ihn nicht vor allen?",571,671,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+158,158,GerDracor/goethe-erwin-und-elmire.xml,"Und doch könnt
+            ich ihn kränken, konnte ihm mit Kaltsinn, mit anscheinender Verachtung begegnen, bis
+            sein Herz brach, bis er, in dem Überfall des heftigsten Schmerzens, seine Mutter, seine
+            Freunde und ach!",672,912,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+159,159,GerDracor/goethe-erwin-und-elmire.xml,vielleicht die Welt verließ – Schrecklicher Gedanke!,913,965,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+160,160,GerDracor/goethe-erwin-und-elmire.xml,"er wird mich ums
+            Leben bringen.",966,1009,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+161,161,GerDracor/goethe-erwin-und-elmire.xml,Erwin!,0,6,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+162,162,GerDracor/goethe-erwin-und-elmire.xml,"o schau, du wirst gerochen:",7,34,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,Schadenfreude,S,,1775.0,positive,emotions of pleasure
+163,163,GerDracor/goethe-erwin-und-elmire.xml,Kein Gott erhöret meine Not.,0,28,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+164,164,GerDracor/goethe-erwin-und-elmire.xml,"Mein Stolz hat ihm das Herz gebrochen,",0,38,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+165,165,GerDracor/goethe-erwin-und-elmire.xml,O Liebe!,0,8,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+166,166,GerDracor/goethe-erwin-und-elmire.xml,gib mir den Tod.,9,25,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+167,167,GerDracor/goethe-erwin-und-elmire.xml,"
+            So jung, so sittsam zum Entzücken!",0,47,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+168,168,GerDracor/goethe-erwin-und-elmire.xml,Die Wangen!,60,71,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+169,169,GerDracor/goethe-erwin-und-elmire.xml,Welches frische Blut!,72,93,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+170,170,GerDracor/goethe-erwin-und-elmire.xml,Und ach!,106,114,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+171,171,GerDracor/goethe-erwin-und-elmire.xml,"in seinen nassen Blicken,
+            Ihr Götter!",115,164,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+172,172,GerDracor/goethe-erwin-und-elmire.xml,welche Liebesglut.,165,183,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+173,173,GerDracor/goethe-erwin-und-elmire.xml,"
+            Erwin, o schau, du wirst gerochen;
+            Kein Gott erhöret meine Not.",0,88,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+174,174,GerDracor/goethe-erwin-und-elmire.xml,"Mein Stolz hat ihm das Herz gebrochen;
+            O Liebe!",101,160,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+175,175,GerDracor/goethe-erwin-und-elmire.xml,gib mir den Tod.,161,177,character_speech,1,1,,ELMIRE,#elmire,38.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+176,176,GerDracor/goethe-erwin-und-elmire.xml,kommt.,0,6,stage_direction,1,1,speech_part,,#bernardo,39.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+177,177,GerDracor/goethe-erwin-und-elmire.xml,"Gnädiges Fräulein, wie steht's?",0,31,character_speech,1,1,,BERNARDO,#bernardo,39.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+178,178,GerDracor/goethe-erwin-und-elmire.xml,"Um's Himmels willen, welche Miene!",32,66,character_speech,1,1,,BERNARDO,#bernardo,39.0,MALE,being moved,S,,1775.0,being moved,being moved
+179,179,GerDracor/goethe-erwin-und-elmire.xml,"Versprachen Sie mir
+            nicht, sich zu beruhigen?",67,124,character_speech,1,1,,BERNARDO,#bernardo,39.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+180,180,GerDracor/goethe-erwin-und-elmire.xml,"Habt Ihr Nachricht von ihm, Bernardo?",0,37,character_speech,1,1,,ELMIRE.,#elmire,40.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+181,181,GerDracor/goethe-erwin-und-elmire.xml,habt Ihr Nachricht?,38,57,character_speech,1,1,,ELMIRE.,#elmire,40.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+182,182,GerDracor/goethe-erwin-und-elmire.xml,Mein Fräulein –,0,15,character_speech,1,1,,BERNARDO.,#bernardo,41.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+183,183,GerDracor/goethe-erwin-und-elmire.xml,"Ihr habt keine, ich seh's, ich fühl's Euch an, das ist wieder das unerträgliche
+            Alletagsgesicht, das Ihr macht.",0,123,character_speech,1,1,,ELMIRE.,#elmire,42.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+184,184,GerDracor/goethe-erwin-und-elmire.xml,"Sonst war Ihnen doch mein Gesicht nicht unerträglich, Sie schienen die Ruhe der Seele
+            zu schätzen, die mich begleitet.",0,130,character_speech,1,1,,BERNARDO.,#bernardo,43.0,MALE,being moved,S,,1775.0,being moved,being moved
+185,185,GerDracor/goethe-erwin-und-elmire.xml,"Schätzt man doch alles, was man nicht hat.",0,42,character_speech,1,1,,ELMIRE.,#elmire,44.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+186,186,GerDracor/goethe-erwin-und-elmire.xml,"Und einem jungen wühlenden Herzen, wie
+            beneidenswert muß ihm der ewige Sonnenschein über Euern Augenbraunen sein!",43,168,character_speech,1,1,,ELMIRE.,#elmire,44.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+187,187,GerDracor/goethe-erwin-und-elmire.xml,Ist's denn nichts?,0,18,character_speech,1,1,,BERNARDO.,#bernardo,45.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+188,188,GerDracor/goethe-erwin-und-elmire.xml,"Stille nur, du ergrimmst mich.",0,30,character_speech,1,1,,ELMIRE.,#elmire,46.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+189,189,GerDracor/goethe-erwin-und-elmire.xml,"Wenn man euch kennenlernt und so sieht, daß all eure
+            Weisheit Mangel an Teilnehmung ist, und daß ihr in mitleidigem Erbarmen auf uns
+            herabseht, weil euch das mangelt, was wir doch haben –",31,242,character_speech,1,1,,ELMIRE.,#elmire,46.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+190,190,GerDracor/goethe-erwin-und-elmire.xml,Ein allerliebster Humor!,0,24,character_speech,1,1,,BERNARDO.,#bernardo,47.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+191,191,GerDracor/goethe-erwin-und-elmire.xml,Erwin?,0,6,character_speech,1,1,,ELMIRE.,#elmire,48.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+192,192,GerDracor/goethe-erwin-und-elmire.xml,Bernardo schweigt.,0,18,stage_direction,1,1,inner_speech,,#elmire,48.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+193,193,GerDracor/goethe-erwin-und-elmire.xml," Er ist verloren, und ich bin elend auf
+            ewig!",0,57,character_speech,1,1,,ELMIRE.,#elmire,48.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+194,194,GerDracor/goethe-erwin-und-elmire.xml,"Überlassen Sie der Zeit, diesen Schmerz zu lindern.",0,51,character_speech,1,1,,BERNARDO.,#bernardo,49.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+195,195,GerDracor/goethe-erwin-und-elmire.xml,"Glauben Sie mir, alle Empfindungen
+            werden nach und nach schwächer, und wie eine Wunde verwächst, schwindet auch der Kummer
+            aus der Seele.",52,213,character_speech,1,1,,BERNARDO.,#bernardo,49.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+196,196,GerDracor/goethe-erwin-und-elmire.xml,Abscheulich!,0,12,character_speech,1,1,,ELMIRE.,#elmire,50.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+197,197,GerDracor/goethe-erwin-und-elmire.xml,abscheulich!,13,25,character_speech,1,1,,ELMIRE.,#elmire,50.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+198,198,GerDracor/goethe-erwin-und-elmire.xml,"Was hab ich verbrochen, daß Sie auf mich zürnen?",0,48,character_speech,1,1,,BERNARDO.,#bernardo,51.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+199,199,GerDracor/goethe-erwin-und-elmire.xml,"Weil ich Ihnen Mut zuspreche, sind Sie
+            aufgebracht?",49,112,character_speech,1,1,,BERNARDO.,#bernardo,51.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+200,200,GerDracor/goethe-erwin-und-elmire.xml,"Nehm ich nicht am wärmsten Anteil an Erwinens Schicksal, liebt ich den
+            Knaben nicht wie meinen Sohn?",113,225,character_speech,1,1,,BERNARDO.,#bernardo,51.0,MALE,love,S,,1775.0,positive,emotions of affection
+201,201,GerDracor/goethe-erwin-und-elmire.xml,"– Nun, daß wir am Ende alle sterblich sind –",226,270,character_speech,1,1,,BERNARDO.,#bernardo,51.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+202,202,GerDracor/goethe-erwin-und-elmire.xml,Unglücksvogel!,0,14,character_speech,1,1,,ELMIRE.,#elmire,52.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+203,203,GerDracor/goethe-erwin-und-elmire.xml,"
+            Hin ist hin,
+            Und tot ist tot!",0,54,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+204,204,GerDracor/goethe-erwin-und-elmire.xml,"Spare die vergebne Not,
+            Wirst ihn nicht dem Grab entziehn.",67,137,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+205,205,GerDracor/goethe-erwin-und-elmire.xml,Tot ist tot!,150,162,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+206,206,GerDracor/goethe-erwin-und-elmire.xml,Und hin ist hin!,175,191,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+207,207,GerDracor/goethe-erwin-und-elmire.xml,"
+            Verweine nicht die schönsten Zeiten;
+            Ich wett, ich freie dir den zweiten,
+            Jung, schön und reich; keine Gefahr!",0,147,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+208,208,GerDracor/goethe-erwin-und-elmire.xml,"Wie manche trüge kein Bedenken,
+            Dem ändern Herz und Hand zu schenken,
+            So würdig auch der erste war!",160,283,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+209,209,GerDracor/goethe-erwin-und-elmire.xml,"
+            Hin ist hin.",0,25,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+210,210,GerDracor/goethe-erwin-und-elmire.xml,Und tot ist tot!,38,54,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+211,211,GerDracor/goethe-erwin-und-elmire.xml,"Spare die vergebne Not,
+            Wirst ihn nicht dem Grab entziehn.",67,137,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+212,212,GerDracor/goethe-erwin-und-elmire.xml,Tot ist tot!,150,162,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+213,213,GerDracor/goethe-erwin-und-elmire.xml,Und hin ist hin!,175,191,character_speech,1,1,,BERNARDO.,#bernardo,53.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+214,214,GerDracor/goethe-erwin-und-elmire.xml,"Ich erkenne dich nicht, Bernardo!",0,33,character_speech,1,1,,ELMIRE.,#elmire,54.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+215,215,GerDracor/goethe-erwin-und-elmire.xml,Es fällt mir von den Augen wie ein Schleier.,34,78,character_speech,1,1,,ELMIRE.,#elmire,54.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+216,216,GerDracor/goethe-erwin-und-elmire.xml,"So hab
+            ich dich noch nie gesehen.",79,124,character_speech,1,1,,ELMIRE.,#elmire,54.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+217,217,GerDracor/goethe-erwin-und-elmire.xml,Oder bist du betrunken?,125,148,character_speech,1,1,,ELMIRE.,#elmire,54.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+218,218,GerDracor/goethe-erwin-und-elmire.xml,"so geh und laß deinen Rausch bei
+            einem Kammermädchen aus.",149,218,character_speech,1,1,,ELMIRE.,#elmire,54.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+219,219,GerDracor/goethe-erwin-und-elmire.xml,"Mir das, Fräulein?",0,18,character_speech,1,1,,BERNARDO.,#bernardo,55.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+220,220,GerDracor/goethe-erwin-und-elmire.xml,"Du siehst, ich möchte dich verteidigen.",0,39,character_speech,1,1,,ELMIRE.,#elmire,56.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+221,221,GerDracor/goethe-erwin-und-elmire.xml,"Bist du nicht der Mann, der in meiner ersten
+            Jugend mir das Herz zu bessern Empfindungen öffnete, der nicht nur mein französischer
+            Sprachmeister, sondern auch mein Freund und Vertrauter war?",40,254,character_speech,1,1,,ELMIRE.,#elmire,56.0,FEMALE,friendship,S,,1775.0,positive,emotions of affection
+222,222,GerDracor/goethe-erwin-und-elmire.xml,"Du kommst, meines Schmerzens
+            zu spotten, ohngefähr wie ein reicher, wollüstiger Esel seine Gemeinsprüche bei so einer
+            Gelegenheit auskramen würde.",255,425,character_speech,1,1,,ELMIRE.,#elmire,56.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+223,223,GerDracor/goethe-erwin-und-elmire.xml,Soll ich Sie verderben?,0,23,character_speech,1,1,,BERNARDO.,#bernardo,57.0,MALE,fear,S,,1775.0,negative,emotions of anxiety
+224,224,GerDracor/goethe-erwin-und-elmire.xml,Soll ich Ihnen mit leerer Hoffnung schmeicheln?,24,71,character_speech,1,1,,BERNARDO.,#bernardo,57.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+225,225,GerDracor/goethe-erwin-und-elmire.xml,"Handl' ich
+            nicht nach meinem  Gewissen, wenn ich Sie auf alle Weise zu bewegen suche,
+            sich dem Schicksal zu ergeben?",72,212,character_speech,1,1,,BERNARDO.,#bernardo,57.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+226,226,GerDracor/goethe-erwin-und-elmire.xml,"Wenn Ihr nur begreifen könntet, daß das gar nicht angeht.",0,57,character_speech,1,1,,ELMIRE.,#elmire,58.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+227,227,GerDracor/goethe-erwin-und-elmire.xml,"Schmerzenvolle Erinnerung, du
+            bist das Labsal meiner Seele.",58,129,character_speech,1,1,,ELMIRE.,#elmire,58.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+228,228,GerDracor/goethe-erwin-und-elmire.xml,"Wäre er nicht so sittsam, so gut, so demütig gewesen, ich
+            hätte ihn nicht so geliebt, und er wäre nicht unglücklich; er hätte merken müssen, daß
+            ich mich oft nach ihm umsah, wenn er vor dem Schwarm unleidlicher eitler Verehrer
+            zurücktrat.",130,404,character_speech,1,1,,ELMIRE.,#elmire,58.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+229,229,GerDracor/goethe-erwin-und-elmire.xml,"Nahm ich nicht seine Blumen mit Gefälligkeit an, aß ich nicht seine Früchte
+            – doch immer fällt's über mich, unerwartet fällt's über mich in dem Augenblick, da ich
+            mich sehnlichst entschuldigen möchtet Ich habe ihn gepeinigt, ich hab ihn unglücklich
+            gemacht.",405,698,character_speech,1,1,,ELMIRE.,#elmire,58.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+230,230,GerDracor/goethe-erwin-und-elmire.xml,"Wenn das so fortgeht, will ich mich empfehlen.",0,46,character_speech,1,1,,BERNARDO.,#bernardo,59.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+231,231,GerDracor/goethe-erwin-und-elmire.xml,"Das ist nicht auszustehn, wie Sie sich
+            selbst quälen!",47,112,character_speech,1,1,,BERNARDO.,#bernardo,59.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+232,232,GerDracor/goethe-erwin-und-elmire.xml,"Und ihn, ich hab ihn nicht gequält?",0,35,character_speech,1,1,,ELMIRE.,#elmire,60.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+233,233,GerDracor/goethe-erwin-und-elmire.xml,"Habe nicht durch eitle, leichtsinnige Launen ihm
+            den tiefsten Verdruß in die Seele gegraben?",36,140,character_speech,1,1,,ELMIRE.,#elmire,60.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+234,234,GerDracor/goethe-erwin-und-elmire.xml,"Wie er mir die zwei Pfirschen brachte, auf
+            die er so lang ein wachsames Auge gehabt hatte, die ein selbstgepfropftes Bäumchen zum
+            ersten Male trug.",141,312,character_speech,1,1,,ELMIRE.,#elmire,60.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+235,235,GerDracor/goethe-erwin-und-elmire.xml,"Er brachte mir sie, mir klopfte das Herz, ich fühlte, was er mir zu
+            geben glaubte, was er mir gab.",313,423,character_speech,1,1,,ELMIRE.,#elmire,60.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+236,236,GerDracor/goethe-erwin-und-elmire.xml,"Und doch hatte ich Leichtsinn genug, nicht Leichtsinn,
+            Bosheit!",424,499,character_speech,1,1,,ELMIRE.,#elmire,60.0,FEMALE,abhorrence,S,,1775.0,negative,emotions of rejection
+237,237,GerDracor/goethe-erwin-und-elmire.xml,auch das drückt's nicht aus!,500,528,character_speech,1,1,,ELMIRE.,#elmire,60.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+238,238,GerDracor/goethe-erwin-und-elmire.xml,"Gott weiß, was ich wollte – ich präsentierte sie
+            an die gegenwärtige Gesellschaft.",529,623,character_speech,1,1,,ELMIRE.,#elmire,60.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+239,239,GerDracor/goethe-erwin-und-elmire.xml,"Ich sah ihn zurückweichen, erblassen, ich hatte sein
+            Herz mit Füßen getreten.",624,713,character_speech,1,1,,ELMIRE.,#elmire,60.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+240,240,GerDracor/goethe-erwin-und-elmire.xml,"Er hatte so ein Liedchen, mein Fräulein; ein Liedchen, das er wohl in so einem
+            Augenblick dichtete.",0,111,character_speech,1,1,,BERNARDO.,#bernardo,61.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+241,241,GerDracor/goethe-erwin-und-elmire.xml,Erinnerst du mich daran!,0,24,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+242,242,GerDracor/goethe-erwin-und-elmire.xml,Schwebt mir's nicht immer vor Seel und Sinn!,25,69,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+243,243,GerDracor/goethe-erwin-und-elmire.xml,"Sing ich's nicht
+            den ganzen Tag?",70,114,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+244,244,GerDracor/goethe-erwin-und-elmire.xml,"Und jedesmal, da ich's ende, ist mir's, als hätt ich einen Gifttrank
+            eingesogen.",115,207,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+245,245,GerDracor/goethe-erwin-und-elmire.xml," Ein Veilchen auf der Wiese stand,",0,34,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+246,246,GerDracor/goethe-erwin-und-elmire.xml,Gebückt in sich und unbekannt;,0,30,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+247,247,GerDracor/goethe-erwin-und-elmire.xml,Es war ein herzigs Veilchen.,0,28,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+248,248,GerDracor/goethe-erwin-und-elmire.xml,Da kam eine junge Schäferin,0,27,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+249,249,GerDracor/goethe-erwin-und-elmire.xml,Mit leichtem Schritt und munterm Sinn,0,37,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+250,250,GerDracor/goethe-erwin-und-elmire.xml,Daher!,0,6,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+251,251,GerDracor/goethe-erwin-und-elmire.xml,daher!,7,13,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+252,252,GerDracor/goethe-erwin-und-elmire.xml,Die Wiese her und sang.,0,23,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+253,253,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ach!",0,17,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+254,254,GerDracor/goethe-erwin-und-elmire.xml,"denkt das Veilchen, wär ich nur
+            Die schönste Blume der Natur,
+            Ach!",18,108,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+255,255,GerDracor/goethe-erwin-und-elmire.xml,nur ein kleines Weilchen.,109,134,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+256,256,GerDracor/goethe-erwin-und-elmire.xml,"Bis mich das Liebchen abgepflückt
+            Und an dem Busen matt gedrückt,
+            Ach nur!",147,245,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+257,257,GerDracor/goethe-erwin-und-elmire.xml,ach nur!,246,254,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+258,258,GerDracor/goethe-erwin-und-elmire.xml,Ein Viertelstündchen lang.,267,293,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+259,259,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ach aber, ach!",0,27,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+260,260,GerDracor/goethe-erwin-und-elmire.xml,"das Mädchen kam
+            Und nicht in acht das Veilchen nahm,
+            Er trat das arme Veilchen.",28,131,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+261,261,GerDracor/goethe-erwin-und-elmire.xml,"Und sank und starb und freut' sich noch:
+            Und sterb ich denn, so sterb ich doch
+            Durch sie!",144,257,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+262,262,GerDracor/goethe-erwin-und-elmire.xml,durch sie!,258,268,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+263,263,GerDracor/goethe-erwin-und-elmire.xml,Zu ihren Füßen doch!,281,301,character_speech,1,1,,ELMIRE.,#elmire,62.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+264,264,GerDracor/goethe-erwin-und-elmire.xml,"Das wäre denn nun wohl recht gut und schön, nur seh ich kein End in der Sache.",0,78,character_speech,1,1,,BERNARDO.,#bernardo,63.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+265,265,GerDracor/goethe-erwin-und-elmire.xml,"Daß Sie,
+            mein Fräulein, ein zärtliches, liebes Herz haben, das weiß ich lange.",79,169,character_speech,1,1,,BERNARDO.,#bernardo,63.0,MALE,love,S,,1775.0,positive,emotions of affection
+266,266,GerDracor/goethe-erwin-und-elmire.xml,"Daß Sie es unter
+            dieser gleichgültigen, manchmal spottenden Außenseite verbergen können, das ist Ihr
+            Glück; denn dies hat Sie doch von manchem Windbeutel gerettet, der im Anfang vielleicht
+            durch scheinende gute Eigenschaften einigen Eindruck auf Sie gemacht hatte.",170,470,character_speech,1,1,,BERNARDO.,#bernardo,63.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+267,267,GerDracor/goethe-erwin-und-elmire.xml,"Daß nun der
+            arme Erwin drüber unglücklich geworden ist, haben Sie sich nicht zuzuschreiben.",471,574,character_speech,1,1,,BERNARDO.,#bernardo,63.0,MALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+268,268,GerDracor/goethe-erwin-und-elmire.xml,"Ich weiß, daß du unrecht hast, und kann dir doch nicht widersprechen; heißt man das
+            nicht einen Sophisten,  Bernardo?",0,129,character_speech,1,1,,ELMIRE.,#elmire,64.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+269,269,GerDracor/goethe-erwin-und-elmire.xml,"Mit all deinen Vernünfteleien wirst du
+            mein Herz nicht bereden, mir zu vergeben.",130,222,character_speech,1,1,,ELMIRE.,#elmire,64.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+270,270,GerDracor/goethe-erwin-und-elmire.xml,"Gut, wenn Sie von mir nicht absolviert sein wollen, so nehmen Sie Ihre Zuflucht zu
+            einem Beichtiger, zu dem Sie mehr Vertrauen haben.",0,145,character_speech,1,1,,BERNARDO.,#bernardo,65.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+271,271,GerDracor/goethe-erwin-und-elmire.xml,Spottest du?,0,12,character_speech,1,1,,ELMIRE.,#elmire,66.0,FEMALE,anger,S,,1775.0,negative,emotions of rejection
+272,272,GerDracor/goethe-erwin-und-elmire.xml,"Ich sage dir, Alter, daß in solcher Lage der Seele nirgends Trost zu
+            hoffen ist, als den uns der Himmel durch seine heiligen Diener gewährt.",13,165,character_speech,1,1,,ELMIRE.,#elmire,66.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+273,273,GerDracor/goethe-erwin-und-elmire.xml,"Gebet,
+            tränenvolles Gebet, das mich auf meine Knie wirft, wo ich mein ganzes Herz drinne
+            ausgießen kann, ist das einzige Labsal meines gequälten Herzens, der einzige trostvolle
+            Augenblick, den ich noch genieße.",166,412,character_speech,1,1,,ELMIRE.,#elmire,66.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+274,274,GerDracor/goethe-erwin-und-elmire.xml,"Bestes, edelstes Mädchen, mein ganzes Herz wird neu, mein Blut bewegt sich schneller,
+            wenn ich Sie sehe, wenn ich Ihre Stimme höre.",0,143,character_speech,1,1,,BERNARDO.,#bernardo,67.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+275,275,GerDracor/goethe-erwin-und-elmire.xml,"Ich bitte Sie, verkennen Sie mich nicht.",144,184,character_speech,1,1,,BERNARDO.,#bernardo,67.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+276,276,GerDracor/goethe-erwin-und-elmire.xml,"Alles in der Welt, wo ich Güte des Herzens, Größe der Seele finde, erinnert mich an Sie.",197,285,character_speech,1,1,,BERNARDO.,#bernardo,67.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+277,277,GerDracor/goethe-erwin-und-elmire.xml,Jede gute Stunde wünscht ich mit Ihnen zu teilen.,298,347,character_speech,1,1,,BERNARDO.,#bernardo,67.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+278,278,GerDracor/goethe-erwin-und-elmire.xml,Ach!,348,352,character_speech,1,1,,BERNARDO.,#bernardo,67.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+279,279,GerDracor/goethe-erwin-und-elmire.xml,"ehegestern, wie hab ich an Sie
+            gedacht, wie hab ich Sie zu mir gewünscht!",353,438,character_speech,1,1,,BERNARDO.,#bernardo,67.0,MALE,love,S,,1775.0,positive,emotions of affection
+280,280,GerDracor/goethe-erwin-und-elmire.xml,Ist Ihnen auf Ihrer Spazierreise eine treffliche Gegend aufgestoßen?,0,68,character_speech,1,1,,ELMIRE.,#elmire,68.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+281,281,GerDracor/goethe-erwin-und-elmire.xml,"Haben Sie ein
+            Schauspiel reizender Unschuld, einfachen, natürlichen Glücks begegnet?",69,165,character_speech,1,1,,ELMIRE.,#elmire,68.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+282,282,GerDracor/goethe-erwin-und-elmire.xml,O meine Beste!,0,14,character_speech,1,1,,BERNARDO.,#bernardo,69.0,MALE,love,S,,1775.0,positive,emotions of affection
+283,283,GerDracor/goethe-erwin-und-elmire.xml,"wie soll ich's Ihnen ausdrücken, wie soll ich's Ihnen erzählen!",15,78,character_speech,1,1,,BERNARDO.,#bernardo,69.0,MALE,being moved,S,,1775.0,being moved,being moved
+284,284,GerDracor/goethe-erwin-und-elmire.xml,"Ich ritt
+            früh von meinem Freunde, dem Pfarrer, weg, um zeitig in der Stadt zu sein.",79,174,character_speech,1,1,,BERNARDO.,#bernardo,69.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+285,285,GerDracor/goethe-erwin-und-elmire.xml,"Allein bald
+            nach Sonnenaufgang kam ich in das schöne Tal, wo der kleine Fluß lieblich im Morgennebel
+            hinunter wallte; ich ritt über die Furt und sollte nun quer weiter meinen Weg.",175,378,character_speech,1,1,,BERNARDO.,#bernardo,69.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+286,286,GerDracor/goethe-erwin-und-elmire.xml,"Da war's
+            nun, wie ich hinabsah, gar zu schön!",379,436,character_speech,1,1,,BERNARDO.,#bernardo,69.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+287,287,GerDracor/goethe-erwin-und-elmire.xml,"gar zu schön das Tal hin; ich denke: du hast Zeit,
+            findest dich unten schon wieder, und so weiter – ritt ich am Fluß ganz gelassen
+            hinunter.",437,601,character_speech,1,1,,BERNARDO.,#bernardo,69.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+288,288,GerDracor/goethe-erwin-und-elmire.xml,Du wünschtest mich gewiß zu dir; so ein Morgen im Tale!,0,55,character_speech,1,1,,ELMIRE.,#elmire,70.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+289,289,GerDracor/goethe-erwin-und-elmire.xml,"Hören Sie, mein Fräulein!",0,25,character_speech,1,1,,BERNARDO.,#bernardo,71.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+290,290,GerDracor/goethe-erwin-und-elmire.xml,"ja, ich dachte an Sie, an Ihre Trauer, und murrte heimlich
+            über das Schicksal, das die besten Herzen zu solcher Not geschaffen hat.",26,169,character_speech,1,1,,BERNARDO.,#bernardo,71.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+291,291,GerDracor/goethe-erwin-und-elmire.xml,"Ritte dann ein
+            Wäldchen hinein, kam wieder an den Fluß, dann über Hügel, und wollte auf meinen Weg
+            wieder links einlenken und fand, daß ich meine Direktion verloren hatte.",170,365,character_speech,1,1,,BERNARDO.,#bernardo,71.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+292,292,GerDracor/goethe-erwin-und-elmire.xml,"Ich
+            zerstudierte mich nach der Sonne, stieg ab, führte mein Pferd durch unwegsames Gebüsch,
+            zerkratzte mich in den Sträuchen, zerstolperte mich und stund, eh ich mich's versah,
+            wieder mit der Nase vor dem Fluß, der mit wunderbaren Krümmungen da hinabläuft.",366,658,character_speech,1,1,,BERNARDO.,#bernardo,71.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+293,293,GerDracor/goethe-erwin-und-elmire.xml,"Es wurde
+            felsiger, steiler; ich konnte weder auf noch ab, weder hinter mich noch vor mich.",659,761,character_speech,1,1,,BERNARDO.,#bernardo,71.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+294,294,GerDracor/goethe-erwin-und-elmire.xml,Armer Ritter!,0,13,character_speech,1,1,,ELMIRE.,#elmire,72.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+295,295,GerDracor/goethe-erwin-und-elmire.xml,An meiner Stelle hätten Sie gewiß auch nicht gelacht.,0,53,character_speech,1,1,,BERNARDO.,#bernardo,73.0,MALE,Schadenfreude,S,,1775.0,positive,emotions of pleasure
+296,296,GerDracor/goethe-erwin-und-elmire.xml,"Aber wie war's mir, als ich aus
+            dem Gebüsche mit freundlicher, trauriger Stimme einen Gesang schallen hörte!",54,174,character_speech,1,1,,BERNARDO.,#bernardo,73.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+297,297,GerDracor/goethe-erwin-und-elmire.xml,"Es war ein
+            stilles, andächtiges Lied.",175,224,character_speech,1,1,,BERNARDO.,#bernardo,73.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+298,298,GerDracor/goethe-erwin-und-elmire.xml,Ich rufe!,225,234,character_speech,1,1,,BERNARDO.,#bernardo,73.0,MALE,fear,S,,1775.0,negative,emotions of anxiety
+299,299,GerDracor/goethe-erwin-und-elmire.xml,"ich gehe darauf los, ich schleppe mein Pferd hinter
+            mir drein.",235,309,character_speech,1,1,,BERNARDO.,#bernardo,73.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+300,300,GerDracor/goethe-erwin-und-elmire.xml,Siehe!,310,316,character_speech,1,1,,BERNARDO.,#bernardo,73.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+301,301,GerDracor/goethe-erwin-und-elmire.xml,"da erscheint mir ein Mann, voll Würde, edlen Ansehens, mit langem
+            weißem Bart; und Jahre und traurige Erfahrung haben seine Gesichtszüge in unzählige
+            bedeutende Falten gepetzt.",317,517,character_speech,1,1,,BERNARDO.,#bernardo,73.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+302,302,GerDracor/goethe-erwin-und-elmire.xml,Wie wurd's Ihnen bei dem Anblick?,0,33,character_speech,1,1,,ELMIRE.,#elmire,74.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+303,303,GerDracor/goethe-erwin-und-elmire.xml,Wohl!,0,5,character_speech,1,1,,BERNARDO.,#bernardo,75.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+304,304,GerDracor/goethe-erwin-und-elmire.xml,sehr wohl!,6,16,character_speech,1,1,,BERNARDO.,#bernardo,75.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+305,305,GerDracor/goethe-erwin-und-elmire.xml,ich glaubte an Engel und Geister mehr als jemals in diesem Augenblick.,17,87,character_speech,1,1,,BERNARDO.,#bernardo,75.0,MALE,love,S,,1775.0,positive,emotions of affection
+306,306,GerDracor/goethe-erwin-und-elmire.xml,"Als er den Verirrten sah, bat er mich, in seine Hütte einzukehren; ich bedurfte einiger
+            Erholung, und er versprach mir, die Pfade durchs Gebüsch zu zeigen, die mich der Stadt
+            gar bald nahe bringen sollten; und so folgt ich ihm.",100,351,character_speech,1,1,,BERNARDO.,#bernardo,75.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+307,307,GerDracor/goethe-erwin-und-elmire.xml,"O meine Beste, welche Empfindung
+            fiel über mich her!",352,416,character_speech,1,1,,BERNARDO.,#bernardo,75.0,MALE,being moved,S,,1775.0,being moved,being moved
+308,308,GerDracor/goethe-erwin-und-elmire.xml,"alles, was wir von romantischen Gegenden geträumt haben, hält dieses
+            Plätzchen in einem.",417,517,character_speech,1,1,,BERNARDO.,#bernardo,75.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+309,309,GerDracor/goethe-erwin-und-elmire.xml,"Zwischen Felsen, etwas erhaben über den gedrängten Fluß, ein sanft
+            steigender Wald, tiefer hinab eine Wiese, und sein Gärtchen, das alles überschaut, und
+            seine Hütte, die Reinlichkeit, die  Armut, seine Zufriedenheit!",518,759,character_speech,1,1,,BERNARDO.,#bernardo,75.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+310,310,GerDracor/goethe-erwin-und-elmire.xml,"– Was
+            beschreib ich!",760,792,character_speech,1,1,,BERNARDO.,#bernardo,75.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+311,311,GerDracor/goethe-erwin-und-elmire.xml,Was red ich!,793,805,character_speech,1,1,,BERNARDO.,#bernardo,75.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+312,312,GerDracor/goethe-erwin-und-elmire.xml,Sie sollen ihn sehn.,806,826,character_speech,1,1,,BERNARDO.,#bernardo,75.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+313,313,GerDracor/goethe-erwin-und-elmire.xml,Wenn's möglich wäre.,0,20,character_speech,1,1,,ELMIRE.,#elmire,76.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+314,314,GerDracor/goethe-erwin-und-elmire.xml,Sie sollen!,0,11,character_speech,1,1,,BERNARDO.,#bernardo,77.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+315,315,GerDracor/goethe-erwin-und-elmire.xml,Sie müssen!,12,23,character_speech,1,1,,BERNARDO.,#bernardo,77.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+316,316,GerDracor/goethe-erwin-und-elmire.xml,"Nie wird aus meinem Herzen der Eindruck verlöschen, den er
+            drinne zurückließ.",24,113,character_speech,1,1,,BERNARDO.,#bernardo,77.0,MALE,love,S,,1775.0,positive,emotions of affection
+317,317,GerDracor/goethe-erwin-und-elmire.xml,"Ich mag die goldnen Worte nicht wiederholen, die aus seinem Munde
+            flossen.",114,200,character_speech,1,1,,BERNARDO.,#bernardo,77.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+318,318,GerDracor/goethe-erwin-und-elmire.xml,Sie sollen ihn selbst hören.,201,229,character_speech,1,1,,BERNARDO.,#bernardo,77.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+319,319,GerDracor/goethe-erwin-und-elmire.xml,"Sie sollen entzückt werden und beruhigt in Ihrem
+            Herzen zurückkehren.",230,311,character_speech,1,1,,BERNARDO.,#bernardo,77.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+320,320,GerDracor/goethe-erwin-und-elmire.xml,"Du mußt meine Mutter bereden, ja, Bernardo.",0,43,character_speech,1,1,,ELMIRE.,#elmire,78.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+321,321,GerDracor/goethe-erwin-und-elmire.xml,Aber allein mit dir will ich hin!,44,77,character_speech,1,1,,ELMIRE.,#elmire,78.0,FEMALE,friendship,S,,1775.0,positive,emotions of affection
+322,322,GerDracor/goethe-erwin-und-elmire.xml,Will hin!,78,87,character_speech,1,1,,ELMIRE.,#elmire,78.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+323,323,GerDracor/goethe-erwin-und-elmire.xml,"die Würklichkeit des Traums, der Hoffnung zu sehen, die ich mir in einsamen Stunden
+            mache, so entfernt der Welt, in mich selbst gekehrt mein Leben auszuweinen und an dem
+            Busen der Natur eine freundliche Nahrung für meinen Kummer einzusaugen.",100,365,character_speech,1,1,,ELMIRE.,#elmire,78.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+324,324,GerDracor/goethe-erwin-und-elmire.xml,"Ich muß, ich muß ihn sehen,",0,27,character_speech,1,1,,ELMIRE.,#elmire,78.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+325,325,GerDracor/goethe-erwin-und-elmire.xml,Den göttergleichen Mann!,0,24,character_speech,1,1,,ELMIRE.,#elmire,78.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+326,326,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ich will, ich will nur sehen,
+            Ob er nicht trösten kann!",0,80,character_speech,1,1,,BERNARDO.,#bernardo,79.0,MALE,being moved,S,,1775.0,being moved,being moved
+327,327,GerDracor/goethe-erwin-und-elmire.xml,"
+            Keinen Trost aus seinem Munde,
+            Nur Nahrung meinem Schmerz!",0,83,character_speech,1,1,,ELMIRE.,#elmire,80.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+328,328,GerDracor/goethe-erwin-und-elmire.xml,"
+            Er heilet deine Wunde,
+            Beseliget dein Herz.",0,68,character_speech,1,1,,BERNARDO.,#bernardo,81.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+329,329,GerDracor/goethe-erwin-und-elmire.xml,Elmire ab.,0,10,stage_direction,1,1,speech_part,,#bernardo,81.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+330,330,GerDracor/goethe-erwin-und-elmire.xml,allein.,0,7,stage_direction,1,1,speech_part,,#bernardo,82.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+331,331,GerDracor/goethe-erwin-und-elmire.xml,"Wie's uns Alten so wohl wird, wenn wir eine feine Aussicht haben, ein paar gute junge
+            Leute zusammenzubringen!",0,122,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+332,332,GerDracor/goethe-erwin-und-elmire.xml,"Weine nur noch ein Weilchen, liebes Kind!",123,164,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+333,333,GerDracor/goethe-erwin-und-elmire.xml,weine nur!,165,175,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+334,334,GerDracor/goethe-erwin-und-elmire.xml,"es soll
+            dir wohl werden.",176,212,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,fear,S,,1775.0,negative,emotions of anxiety
+335,335,GerDracor/goethe-erwin-und-elmire.xml,– Hab ich ihn doch wieder!,213,239,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+336,336,GerDracor/goethe-erwin-und-elmire.xml,"und die Mutter ist's zufrieden, wenn ich ihm
+            ein Amt schaffe; und das gibt der Minister gern, wenn ich ihm nur Erwinen wieder
+            schaffe.",240,398,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+337,337,GerDracor/goethe-erwin-und-elmire.xml,Sie mag ihm dann noch eine hübsche Aussteuer dazu geben.,399,455,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+338,338,GerDracor/goethe-erwin-und-elmire.xml,Die Sache ist richtig.,456,478,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+339,339,GerDracor/goethe-erwin-und-elmire.xml,Schön!,491,497,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+340,340,GerDracor/goethe-erwin-und-elmire.xml,trefflich schön!,498,514,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+341,341,GerDracor/goethe-erwin-und-elmire.xml,"Wenn's auch so ein paar Geschöpfchen drum zu tun ist, sich zu
+            haben, soll man nicht alles  dazu beitragen?",515,633,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+342,342,GerDracor/goethe-erwin-und-elmire.xml,"So ein alter Kerl ich bin, wo
+            ich Liebe sehe, ist mir's immer, als wär ich im Himmel.",634,731,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,love,S,,1775.0,positive,emotions of affection
+343,343,GerDracor/goethe-erwin-und-elmire.xml,"Ein Schauspiel für Götter,",0,26,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+344,344,GerDracor/goethe-erwin-und-elmire.xml,Zween Liebende zu sehn!,0,23,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,love,S,,1775.0,positive,emotions of affection
+345,345,GerDracor/goethe-erwin-und-elmire.xml,Das liebste Frühlingswetter,0,27,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+346,346,GerDracor/goethe-erwin-und-elmire.xml,"Ist nicht so warm, so schön.",0,28,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+347,347,GerDracor/goethe-erwin-und-elmire.xml,"
+            Wie sie stehn,
+            Nach einander sehn,
+            In vollen Blicken
+            Ihre ganze Seele strebt!",0,126,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,love,S,,1775.0,positive,emotions of affection
+348,348,GerDracor/goethe-erwin-und-elmire.xml,"In schwebendem Entzücken
+            Zieht sich Hand nach Hand,
+            Und ein schaudervolles Drücken
+            Knüpft ein daurend Seelenband.",139,288,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+349,349,GerDracor/goethe-erwin-und-elmire.xml,"
+            Wie um sie ein Frühlingswetter
+            Aus der vollen Seele quillt!",0,84,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+350,350,GerDracor/goethe-erwin-und-elmire.xml,"Das ist euer Bild, ihr Götter!",97,127,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+351,351,GerDracor/goethe-erwin-und-elmire.xml,"Ihr Götter, euer Bild!",140,162,character_speech,1,1,,BERNARDO,#bernardo,82.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+352,352,GerDracor/goethe-erwin-und-elmire.xml,"Zwischen Felsen eine Hütte, davor ein Garten",0,44,stage_direction,1,1,speech_part,,#bernardo,82.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+353,353,GerDracor/goethe-erwin-und-elmire.xml,im Garten arbeitend.,0,20,stage_direction,1,1,speech_part,,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+354,354,GerDracor/goethe-erwin-und-elmire.xml,"Er bleibt vor einem Rosenstock stehen, an dem die Blumen schon abfallen.",0,72,stage_direction,1,1,speech_part,,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+355,355,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ihr verblühet, süße Rosen,
+            Meine Liebe trug euch nicht.",0,80,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,love,S,,1775.0,positive,emotions of affection
+356,356,GerDracor/goethe-erwin-und-elmire.xml,"Blühtet, ach!",93,106,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+357,357,GerDracor/goethe-erwin-und-elmire.xml,"dem Hoffnungslosen,
+            Dem der Gram die Seele bricht.",107,169,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+358,358,GerDracor/goethe-erwin-und-elmire.xml,"
+            Jener Tage denk ich traurend,
+            Als ich, Engel, an dir hing;
+            Auf das erste Knöspchen laurend
+            Früh zu meinem Garten ging,",0,167,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+359,359,GerDracor/goethe-erwin-und-elmire.xml,"
+             Alle Blüten, alle Früchte
+            Noch zu deinen Füßen trug,
+            Und vor deinem Angesichte
+            Hoffnungsvoll die Seele schlug.",0,160,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+360,360,GerDracor/goethe-erwin-und-elmire.xml,"Ihr verblühet, süße Rosen,",0,26,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+361,361,GerDracor/goethe-erwin-und-elmire.xml,Meine Liebe trug euch nicht.,0,28,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,love,S,,1775.0,positive,emotions of affection
+362,362,GerDracor/goethe-erwin-und-elmire.xml,"Blühtet, ach!",0,13,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+363,363,GerDracor/goethe-erwin-und-elmire.xml,"dem Hoffnungslosen,",14,33,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+364,364,GerDracor/goethe-erwin-und-elmire.xml,Dem der Gram die Seele bricht.,0,30,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+365,365,GerDracor/goethe-erwin-und-elmire.xml,Was hab ich getan!,0,18,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,being moved,S,,1775.0,being moved,being moved
+366,366,GerDracor/goethe-erwin-und-elmire.xml,Welchen Entschluß hab ich gefaßt!,19,52,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,being moved,S,,1775.0,being moved,being moved
+367,367,GerDracor/goethe-erwin-und-elmire.xml,Was hab ich getan!,53,71,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,being moved,S,,1775.0,being moved,being moved
+368,368,GerDracor/goethe-erwin-und-elmire.xml,"– Sie nicht
+            mehr sehn!",72,106,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+369,369,GerDracor/goethe-erwin-und-elmire.xml,Abgerissen von ihr!,107,126,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+370,370,GerDracor/goethe-erwin-und-elmire.xml,"Und fühlst du nicht, Armseliger, daß der beste Teil
+            deines Lebens zurückgeblieben ist und das übrige nach und nach traurig absterben wird!",127,277,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+371,371,GerDracor/goethe-erwin-und-elmire.xml,"O
+            mein Herz!",278,302,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,being moved,S,,1775.0,being moved,being moved
+372,372,GerDracor/goethe-erwin-und-elmire.xml,Wohin!,303,309,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+373,373,GerDracor/goethe-erwin-und-elmire.xml,Wo treibst du mich hin!,310,333,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+374,374,GerDracor/goethe-erwin-und-elmire.xml,"Wo willst du Ruhe finden, da du von dem Himmel
+            ausgeschlossen bist, der sie umgibt?",334,429,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+375,375,GerDracor/goethe-erwin-und-elmire.xml,"Täusche mich, Phantasie!",430,454,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,being moved,S,,1775.0,being moved,being moved
+376,376,GerDracor/goethe-erwin-und-elmire.xml,"wohltätige Zauberin,
+            täusche mich!",455,501,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+377,377,GerDracor/goethe-erwin-und-elmire.xml,"Ich sehe sie hier, sie ist immer gegenwärtig vor meiner Seele.",502,564,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,love,S,,1775.0,positive,emotions of affection
+378,378,GerDracor/goethe-erwin-und-elmire.xml,"Die
+            liebliche Gestalt schwebt vor mir Tag und Nacht.",565,629,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,being moved,S,,1775.0,being moved,being moved
+379,379,GerDracor/goethe-erwin-und-elmire.xml,Ihre Augen blinken mich an!,630,657,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,love,S,,1775.0,positive,emotions of affection
+380,380,GerDracor/goethe-erwin-und-elmire.xml,"Ihre
+            heiligen, reinen Augen!",658,698,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+381,381,GerDracor/goethe-erwin-und-elmire.xml,"In denen ich manchmal Güte, Teilnehmung zu lesen glaubte – Und
+            sollte meine Gestalt nicht auch ihr vorschweben, sollte ich, den sie so oft sah, nicht
+            auch in zufälliger Verbindung ihrer Einbildungskraft erscheinen!",699,937,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+382,382,GerDracor/goethe-erwin-und-elmire.xml,"– Elmire, und achtest
+            du nicht auf diesen Schatten?",938,1001,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+383,383,GerDracor/goethe-erwin-und-elmire.xml,Hältst du ihn nicht freundlich einen Augenblick fest?,1002,1055,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,friendship,S,,1775.0,positive,emotions of affection
+384,384,GerDracor/goethe-erwin-und-elmire.xml,"Fragst du nicht: was hast du angefangen, Erwin?",1068,1115,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+385,385,GerDracor/goethe-erwin-und-elmire.xml,"– wo bist du hin, Junge?",1116,1140,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+386,386,GerDracor/goethe-erwin-und-elmire.xml,"– Fragt man
+            doch nach einer Katze, die einem entläuft.",1141,1207,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+387,387,GerDracor/goethe-erwin-und-elmire.xml,– Vergebens!,1208,1220,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+388,388,GerDracor/goethe-erwin-und-elmire.xml,Vergebens!,1221,1231,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+389,389,GerDracor/goethe-erwin-und-elmire.xml,"In den Zerstreuungen
+            ihrer bunten Welt vergißt sie den Abgeschiednen, und mich umgibt die ewig einfache, die
+            ewig neue Qual, dumpfer und peinigender, als die mich in ihrer Gegenwart faßte.",1232,1444,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+390,390,GerDracor/goethe-erwin-und-elmire.xml,Abwechselnde Hoffnung und Verzweiflung bestürmen meine rastlose Seele.,1457,1527,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,being moved,S,,1775.0,being moved,being moved
+391,391,GerDracor/goethe-erwin-und-elmire.xml, Inneres Wühlen,0,15,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+392,392,GerDracor/goethe-erwin-und-elmire.xml,Ewig zu fühlen;,0,15,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,love,S,,1775.0,positive,emotions of affection
+393,393,GerDracor/goethe-erwin-und-elmire.xml,"Immer verlangen,",0,16,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+394,394,GerDracor/goethe-erwin-und-elmire.xml,Nimmer erlangen;,0,16,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+395,395,GerDracor/goethe-erwin-und-elmire.xml,"Fliehen und streben,",0,20,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+396,396,GerDracor/goethe-erwin-und-elmire.xml,"Sterben und leben,",0,18,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+397,397,GerDracor/goethe-erwin-und-elmire.xml,"Höllische Qual,",0,15,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+398,398,GerDracor/goethe-erwin-und-elmire.xml,Endig' einmal.,0,14,character_speech,1,1,,ERWIN,#erwin,83.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+399,399,GerDracor/goethe-erwin-und-elmire.xml,kommt.,0,6,stage_direction,1,1,speech_part,,#bernardo,84.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+400,400,GerDracor/goethe-erwin-und-elmire.xml,Erwin!,0,6,character_speech,1,1,,BERNARDO,#bernardo,84.0,MALE,being moved,S,,1775.0,being moved,being moved
+401,401,GerDracor/goethe-erwin-und-elmire.xml,Bernardo!,0,9,character_speech,1,1,,ERWIN.,#erwin,85.0,MALE,being moved,S,,1775.0,being moved,being moved
+402,402,GerDracor/goethe-erwin-und-elmire.xml,grausamer Bernardo!,10,29,character_speech,1,1,,ERWIN.,#erwin,85.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+403,403,GerDracor/goethe-erwin-und-elmire.xml,verschonst du mich nicht mit deiner Gegenwart!,30,76,character_speech,1,1,,ERWIN.,#erwin,85.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+404,404,GerDracor/goethe-erwin-und-elmire.xml,"ist es
+            nicht genug, daß du meine einsame Wohnung ausspähtest, daß ich nicht mehr ruhig und
+            einsam hier bleiben kann; mußt du mir so oft wieder erscheinen, jedes verklungene, jedes
+            halb eingeschlafene Gefühl auf das menschenfeindlichste wecken!",77,356,character_speech,1,1,,ERWIN.,#erwin,85.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+405,405,GerDracor/goethe-erwin-und-elmire.xml,Was willst du?,357,371,character_speech,1,1,,ERWIN.,#erwin,85.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+406,406,GerDracor/goethe-erwin-und-elmire.xml,"Was hast
+            du mit mir?",372,404,character_speech,1,1,,ERWIN.,#erwin,85.0,MALE,being moved,S,,1775.0,being moved,being moved
+407,407,GerDracor/goethe-erwin-und-elmire.xml,"Laß mich, ich bitte dich!",405,430,character_speech,1,1,,ERWIN.,#erwin,85.0,MALE,fear,S,,1775.0,negative,emotions of anxiety
+408,408,GerDracor/goethe-erwin-und-elmire.xml,"Immer noch in deiner Klause, immer noch fest entschlossen, der Welt abzusagen?",0,78,character_speech,1,1,,BERNARDO.,#bernardo,86.0,MALE,being moved,S,,1775.0,being moved,being moved
+409,409,GerDracor/goethe-erwin-und-elmire.xml,Der Welt?,0,9,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,being moved,S,,1775.0,being moved,being moved
+410,410,GerDracor/goethe-erwin-und-elmire.xml,"wie lieb ist mir's, daß ich mich herausgerettet habe.",10,63,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+411,411,GerDracor/goethe-erwin-und-elmire.xml,"Es hat mich gekostet;
+            nun bin ich geborgen.",64,119,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+412,412,GerDracor/goethe-erwin-und-elmire.xml,"Mein Schmerz ist Labsal gegen das, was ich in dem verfluchten
+            Neste von allen Seiten auszustehen hatte.",120,235,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+413,413,GerDracor/goethe-erwin-und-elmire.xml,Auf dem Land und in der Stadt,0,29,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+414,414,GerDracor/goethe-erwin-und-elmire.xml,Hat man eitel Plagen!,0,21,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+415,415,GerDracor/goethe-erwin-und-elmire.xml,"Muß ums bißchen, was man hat,",0,29,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+416,416,GerDracor/goethe-erwin-und-elmire.xml,Sich mit 'm Nachbar schlagen.,0,29,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+417,417,GerDracor/goethe-erwin-und-elmire.xml,Rings auf Gottes Erde weit,0,26,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+418,418,GerDracor/goethe-erwin-und-elmire.xml,"Ist nur Hunger, Kummer, Neid,",0,29,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+419,419,GerDracor/goethe-erwin-und-elmire.xml,Dich hinauszutreiben.,0,21,character_speech,1,1,,ERWIN.,#erwin,87.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+420,420,GerDracor/goethe-erwin-und-elmire.xml,"
+            Erdennot ist keine Not
+            Als dem Feig' und Matten.",0,73,character_speech,1,1,,BERNARDO.,#bernardo,88.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+421,421,GerDracor/goethe-erwin-und-elmire.xml,"Arbeit schafft dir täglich Brot,
+            Dach und Fach und Schatten.",86,158,character_speech,1,1,,BERNARDO.,#bernardo,88.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+422,422,GerDracor/goethe-erwin-und-elmire.xml,"Rings, wo Gottes Sonne scheint,
+            Findst ein Mädchen, findst einen Freund,
+            Laß uns immer bleiben!",172,291,character_speech,1,1,,BERNARDO.,#bernardo,88.0,MALE,love,S,,1775.0,positive,emotions of affection
+423,423,GerDracor/goethe-erwin-und-elmire.xml,Sehr glücklich!,0,15,character_speech,1,1,,ERWIN.,#erwin,89.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+424,424,GerDracor/goethe-erwin-und-elmire.xml,Sehr weise!,16,27,character_speech,1,1,,ERWIN.,#erwin,89.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+425,425,GerDracor/goethe-erwin-und-elmire.xml,Junge!,0,6,character_speech,1,1,,BERNARDO.,#bernardo,90.0,MALE,being moved,S,,1775.0,being moved,being moved
+426,426,GerDracor/goethe-erwin-und-elmire.xml,Junge!,7,13,character_speech,1,1,,BERNARDO.,#bernardo,90.0,MALE,being moved,S,,1775.0,being moved,being moved
+427,427,GerDracor/goethe-erwin-und-elmire.xml,Wenn ich dich nicht so liebhätte –,14,48,character_speech,1,1,,BERNARDO.,#bernardo,90.0,MALE,love,S,,1775.0,positive,emotions of affection
+428,428,GerDracor/goethe-erwin-und-elmire.xml,"Hast du mich lieb, so schone mich!",0,34,character_speech,1,1,,ERWIN.,#erwin,91.0,MALE,love,S,,1775.0,positive,emotions of affection
+429,429,GerDracor/goethe-erwin-und-elmire.xml,Daß du zugrunde gehst!,0,22,character_speech,1,1,,BERNARDO.,#bernardo,92.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+430,430,GerDracor/goethe-erwin-und-elmire.xml,"Nur nicht, daß ich dir folgen soll, daß ich zurückkehren soll.",0,62,character_speech,1,1,,ERWIN.,#erwin,93.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+431,431,GerDracor/goethe-erwin-und-elmire.xml,"Ich habe geschworen, ich
+            kehre nicht zurück!",63,119,character_speech,1,1,,ERWIN.,#erwin,93.0,MALE,love,S,,1775.0,positive,emotions of affection
+432,432,GerDracor/goethe-erwin-und-elmire.xml,Und weiter?,0,11,character_speech,1,1,,BERNARDO.,#bernardo,94.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+433,433,GerDracor/goethe-erwin-und-elmire.xml,Habe Mitleiden mit mir.,0,23,character_speech,1,1,,ERWIN.,#erwin,95.0,MALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+434,434,GerDracor/goethe-erwin-und-elmire.xml,"Du weißt, wie mein Herz in sich kämpft und bangt, daß Wonne und
+            Verzweiflung es unaufhörlich bestürmen.",24,139,character_speech,1,1,,ERWIN.,#erwin,95.0,MALE,fear,S,,1775.0,negative,emotions of anxiety
+435,435,GerDracor/goethe-erwin-und-elmire.xml,Ach!,140,144,character_speech,1,1,,ERWIN.,#erwin,95.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+436,436,GerDracor/goethe-erwin-und-elmire.xml,"warum bin ich so zärtlich, warum bin ich so
+            treu!",145,206,character_speech,1,1,,ERWIN.,#erwin,95.0,MALE,love,S,,1775.0,positive,emotions of affection
+437,437,GerDracor/goethe-erwin-und-elmire.xml,"Schilt dein Herz nicht, es wird dein Glück machen.",0,50,character_speech,1,1,,BERNARDO.,#bernardo,96.0,MALE,love,S,,1775.0,positive,emotions of affection
+438,438,GerDracor/goethe-erwin-und-elmire.xml,"In dieser Welt, Bernardo?",0,25,character_speech,1,1,,ERWIN.,#erwin,97.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+439,439,GerDracor/goethe-erwin-und-elmire.xml,Wenn ich's nun garantiere?,0,26,character_speech,1,1,,BERNARDO.,#bernardo,98.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+440,440,GerDracor/goethe-erwin-und-elmire.xml,Leichtsinniger!,0,15,character_speech,1,1,,ERWIN.,#erwin,99.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+441,441,GerDracor/goethe-erwin-und-elmire.xml,"Denn, glaub mir, die Mädchen haben alle eine herzliche Neigung nach so einem
+            Herzen.",0,96,character_speech,1,1,,BERNARDO.,#bernardo,100.0,MALE,love,S,,1775.0,positive,emotions of affection
+442,442,GerDracor/goethe-erwin-und-elmire.xml,"
+            Sie scheinen zu spielen,
+            Voll Leichtsinn und Trug;
+            Doch glaub mir!",0,103,character_speech,1,1,,BERNARDO.,#bernardo,100.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+443,443,GerDracor/goethe-erwin-und-elmire.xml,"sie fühlen;
+            Doch glaub, sie sind klug.",104,154,character_speech,1,1,,BERNARDO.,#bernardo,100.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+444,444,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ein feuriges Wesen!",0,32,character_speech,1,1,,BERNARDO.,#bernardo,100.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+445,445,GerDracor/goethe-erwin-und-elmire.xml,Ein trauriger Blick!,45,65,character_speech,1,1,,BERNARDO.,#bernardo,100.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+446,446,GerDracor/goethe-erwin-und-elmire.xml,"Sie ahnden, sie lesen
+            Ihr künftiges Glück.",78,132,character_speech,1,1,,BERNARDO.,#bernardo,100.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+447,447,GerDracor/goethe-erwin-und-elmire.xml,Die Mädchen!,0,12,character_speech,1,1,,ERWIN.,#erwin,101.0,MALE,being moved,S,,1775.0,being moved,being moved
+448,448,GerDracor/goethe-erwin-und-elmire.xml,– Ha!,13,18,character_speech,1,1,,ERWIN.,#erwin,101.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+449,449,GerDracor/goethe-erwin-und-elmire.xml,"was kennen, was fühlen die!",19,46,character_speech,1,1,,ERWIN.,#erwin,101.0,MALE,being moved,S,,1775.0,being moved,being moved
+450,450,GerDracor/goethe-erwin-und-elmire.xml,"Ihre Eitelkeit ist's, die sie etwa
+            höchstens einigen Anteil  an uns nehmen läßt.",47,139,character_speech,1,1,,ERWIN.,#erwin,101.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+451,451,GerDracor/goethe-erwin-und-elmire.xml,"Uns an ihrem Triumphwagen auf
+            und ab zu schleppen!",140,202,character_speech,1,1,,ERWIN.,#erwin,101.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+452,452,GerDracor/goethe-erwin-und-elmire.xml,"– Wenn sie Langeweile haben, wenn sie nicht wissen, was sie wollen,
+            da sehnen sie sich freilich nach etwas; und dann ist ein Liebhaber oder ein Hund ein
+            willkommnes Geschöpf.",203,401,character_speech,1,1,,ERWIN.,#erwin,101.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+453,453,GerDracor/goethe-erwin-und-elmire.xml,"Den streichlen und halten sie wohl, bis es ihnen einfällt, ihn zu
+            necken und von sich zu stoßen; da denn der arme Teufel ein lautes Gepelfere verführt und
+            mit allen Pfötchen kratzt, wieder gnädig aufgenommen zu werden – und dann laßt ihnen
+            einen andern Gegenstand in die Sinnen fallen, auf und davon sind sie und vergessen
+            alles, was man auch glaubte, daß ihnen noch so nah am Herzen läge.",402,839,character_speech,1,1,,ERWIN.,#erwin,101.0,MALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+454,454,GerDracor/goethe-erwin-und-elmire.xml,Wohl gesprochen.,0,16,character_speech,1,1,,BERNARDO.,#bernardo,102.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+455,455,GerDracor/goethe-erwin-und-elmire.xml,"Unterhalten, amüsiert wollen sie sein, das ist alles.",0,53,character_speech,1,1,,ERWIN.,#erwin,103.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+456,456,GerDracor/goethe-erwin-und-elmire.xml,"Sie schätzen dir einen Menschen,
+            der an einem fatalen Abende in der Karte mit ihnen spielt, so hoch als den, der Leib und
+            Leben für sie hingibt.",54,222,character_speech,1,1,,ERWIN.,#erwin,103.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+457,457,GerDracor/goethe-erwin-und-elmire.xml,Wichtiger Mensch!,0,17,character_speech,1,1,,BERNARDO.,#bernardo,104.0,MALE,being moved,S,,1775.0,being moved,being moved
+458,458,GerDracor/goethe-erwin-und-elmire.xml,"Was hast du denn noch für ein Mädchen getan, daß du dich über sie
+            beklagen darfst?",18,112,character_speech,1,1,,BERNARDO.,#bernardo,104.0,MALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+459,459,GerDracor/goethe-erwin-und-elmire.xml,"Nimm ein liebenswürdig Weib, versorge sie und ihre Kinder, trage Freud
+            und Leid des Lebens mit ihr; und ich versichre dich, sie wird dankbar sein, wird jeden
+            Tag mit neuer Liebe und Treue dir um den Hals fallen.",113,348,character_speech,1,1,,BERNARDO.,#bernardo,104.0,MALE,love,S,,1775.0,positive,emotions of affection
+460,460,GerDracor/goethe-erwin-und-elmire.xml,Nein!,0,5,character_speech,1,1,,ERWIN.,#erwin,105.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+461,461,GerDracor/goethe-erwin-und-elmire.xml,Nein!,6,11,character_speech,1,1,,ERWIN.,#erwin,105.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+462,462,GerDracor/goethe-erwin-und-elmire.xml,"Sie sind kalt, sie sind flatterhaft.",12,48,character_speech,1,1,,ERWIN.,#erwin,105.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+463,463,GerDracor/goethe-erwin-und-elmire.xml,"Ist's nicht schlimm für eine, wenn sie warm, wenn sie beständig ist?",0,68,character_speech,1,1,,BERNARDO.,#bernardo,106.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+464,464,GerDracor/goethe-erwin-und-elmire.xml,"wenn sie da, wo
+            ein junger Herr achttägigen Zeitvertreib bei ihr suchte, eine daurende Verbindung hofft,
+            dem lügenhaften Schein traut und sich einbildet, eine Aussicht von ganzem Glück ihres
+            Lebens vor sich zu haben?",69,321,character_speech,1,1,,BERNARDO.,#bernardo,106.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+465,465,GerDracor/goethe-erwin-und-elmire.xml,Ich will nichts hören!,0,22,character_speech,1,1,,ERWIN.,#erwin,107.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+466,466,GerDracor/goethe-erwin-und-elmire.xml,all deine Weisheit paßt nicht auf mich.,23,62,character_speech,1,1,,ERWIN.,#erwin,107.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+467,467,GerDracor/goethe-erwin-und-elmire.xml,Ich liebte sie für ewig!,63,87,character_speech,1,1,,ERWIN.,#erwin,107.0,MALE,love,S,,1775.0,positive,emotions of affection
+468,468,GerDracor/goethe-erwin-und-elmire.xml,Ich gab mein ganzes Herz dahin.,100,131,character_speech,1,1,,ERWIN.,#erwin,107.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+469,469,GerDracor/goethe-erwin-und-elmire.xml,"Aber daß ich arm bin, war ich verachtet.",132,172,character_speech,1,1,,ERWIN.,#erwin,107.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+470,470,GerDracor/goethe-erwin-und-elmire.xml,"Und doch hofft
+            ich durch meinen Fleiß sie so anständig zu versorgen als einer von den übertünchten
+            Windbeuteln.",173,308,character_speech,1,1,,ERWIN.,#erwin,107.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+471,471,GerDracor/goethe-erwin-und-elmire.xml,"– Alles hätte ich getan, um sie zu besitzen.",309,353,character_speech,1,1,,ERWIN.,#erwin,107.0,MALE,love,S,,1775.0,positive,emotions of affection
+472,472,GerDracor/goethe-erwin-und-elmire.xml,Alles getan?,0,12,character_speech,1,1,,BERNARDO.,#bernardo,108.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+473,473,GerDracor/goethe-erwin-und-elmire.xml,– Ja – unter andern gingst du auch auf und davon.,13,62,character_speech,1,1,,BERNARDO.,#bernardo,108.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+474,474,GerDracor/goethe-erwin-und-elmire.xml,"Wenn ich nicht umkommen, nicht an meiner ewig zurückgetriebenen Leidenschaft ersticken
+            wollte!",0,106,character_speech,1,1,,ERWIN.,#erwin,109.0,MALE,love,S,,1775.0,positive,emotions of affection
+475,475,GerDracor/goethe-erwin-und-elmire.xml,"
+            Sein ganzes Herz dahinzugeben
+            Und, Götter, so verachtet sein!",0,86,character_speech,1,1,,ERWIN.,#erwin,109.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+476,476,GerDracor/goethe-erwin-und-elmire.xml,"Das untergräbt das innre Leben,
+            Das ist die tiefste Höllenpein.",99,174,character_speech,1,1,,ERWIN.,#erwin,109.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+477,477,GerDracor/goethe-erwin-und-elmire.xml,"Hier gilt nun freilich nicht, was man sonst zu sagen pflegt: daß Verliebte so ein
+            feines Gefühl haben, wie die Schnecken an den Hörnern, um zu spüren, ob man ihnen wohl
+            will oder nicht.",0,209,character_speech,1,1,,BERNARDO.,#bernardo,110.0,MALE,love,S,,1775.0,positive,emotions of affection
+478,478,GerDracor/goethe-erwin-und-elmire.xml,"Wem auch das sein Herz nicht sagte, der wäre –",0,46,character_speech,1,1,,ERWIN.,#erwin,111.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+479,479,GerDracor/goethe-erwin-und-elmire.xml,"Nur kein Esel, sonst kämst du in Gefahr –",0,41,character_speech,1,1,,BERNARDO.,#bernardo,112.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+480,480,GerDracor/goethe-erwin-und-elmire.xml,Was?,0,4,character_speech,1,1,,ERWIN.,#erwin,113.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+481,481,GerDracor/goethe-erwin-und-elmire.xml,Einen Sack nach der Mühle zu tragen.,0,36,character_speech,1,1,,BERNARDO.,#bernardo,114.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+482,482,GerDracor/goethe-erwin-und-elmire.xml,Ich kann nicht sagen: leb wohl!,0,31,character_speech,1,1,,ERWIN.,#erwin,115.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+483,483,GerDracor/goethe-erwin-und-elmire.xml,denn ich bin zu Hause.,32,54,character_speech,1,1,,ERWIN.,#erwin,115.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+484,484,GerDracor/goethe-erwin-und-elmire.xml,Also wenn ich mich zu Gnaden empföhle –,0,39,character_speech,1,1,,BERNARDO.,#bernardo,116.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+485,485,GerDracor/goethe-erwin-und-elmire.xml,Bernardo –,0,10,character_speech,1,1,,ERWIN.,#erwin,117.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+486,486,GerDracor/goethe-erwin-und-elmire.xml,Nähmst du's nicht übel.,0,23,character_speech,1,1,,BERNARDO.,#bernardo,118.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+487,487,GerDracor/goethe-erwin-und-elmire.xml,Mensch ohne Gefühl!,0,19,character_speech,1,1,,ERWIN.,#erwin,119.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+488,488,GerDracor/goethe-erwin-und-elmire.xml,"der du dies Heiligtum meines Schmerzens mit kalten Sophismen und
+            Spott entweihst; hier, wo eine anhaltende reine Trauer umherschwebt und mich erhält und
+            verzehrt –",20,207,character_speech,1,1,,ERWIN.,#erwin,119.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+489,489,GerDracor/goethe-erwin-und-elmire.xml,"Und damit wir des Wesens ein Ende machen – zog Er nicht den Kopf aus dem schwarzen
+            Loche des Todes wieder zurück, wenn einer Ihn zupfte und rief: sie liebt dich?",0,173,character_speech,1,1,,BERNARDO.,#bernardo,120.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+490,490,GerDracor/goethe-erwin-und-elmire.xml,Es ist falsch!,0,14,character_speech,1,1,,ERWIN.,#erwin,121.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+491,491,GerDracor/goethe-erwin-und-elmire.xml,"
+            Sein ganzes Herz dahinzugeben
+            Und wieder ganz geliebt zu sein,
+            Ist das nicht reines Himmelsleben?",0,134,character_speech,1,1,,BERNARDO.,#bernardo,122.0,MALE,love,S,,1775.0,positive,emotions of affection
+492,492,GerDracor/goethe-erwin-und-elmire.xml,Und welch ein Tor macht sich's zur Pein?,147,187,character_speech,1,1,,BERNARDO.,#bernardo,122.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+493,493,GerDracor/goethe-erwin-und-elmire.xml,"
+            Sein ganzes Herz dahinzugeben
+            Und, Götter, so verachtet sein!",0,86,character_speech,1,1,,ERWIN.,#erwin,123.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+494,494,GerDracor/goethe-erwin-und-elmire.xml,"Das untergräbt das innre Leben,
+            Das ist die tiefste Höllenpein.",99,174,character_speech,1,1,,ERWIN.,#erwin,123.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+495,495,GerDracor/goethe-erwin-und-elmire.xml,Erwin!,0,6,character_speech,1,1,,BERNARDO.,#bernardo,124.0,MALE,being moved,S,,1775.0,being moved,being moved
+496,496,GerDracor/goethe-erwin-und-elmire.xml,Bernardo?,0,9,character_speech,1,1,,ERWIN.,#erwin,125.0,MALE,being moved,S,,1775.0,being moved,being moved
+497,497,GerDracor/goethe-erwin-und-elmire.xml,Sieh mich an!,0,13,character_speech,1,1,,BERNARDO.,#bernardo,126.0,MALE,love,S,,1775.0,positive,emotions of affection
+498,498,GerDracor/goethe-erwin-und-elmire.xml,Nein!,0,5,character_speech,1,1,,ERWIN.,#erwin,127.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+499,499,GerDracor/goethe-erwin-und-elmire.xml,"Nicht wild, nicht wirre!",0,24,character_speech,1,1,,BERNARDO.,#bernardo,128.0,MALE,being moved,S,,1775.0,being moved,being moved
+500,500,GerDracor/goethe-erwin-und-elmire.xml,"sieh mich starr an, und gut, und fest!",25,63,character_speech,1,1,,BERNARDO.,#bernardo,128.0,MALE,being moved,S,,1775.0,being moved,being moved
+501,501,GerDracor/goethe-erwin-und-elmire.xml,Erwin!,64,70,character_speech,1,1,,BERNARDO.,#bernardo,128.0,MALE,being moved,S,,1775.0,being moved,being moved
+502,502,GerDracor/goethe-erwin-und-elmire.xml,"– Erkennst du
+            deinen Bernardo?",71,113,character_speech,1,1,,BERNARDO.,#bernardo,128.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+503,503,GerDracor/goethe-erwin-und-elmire.xml,Was willst du mit mir?,0,22,character_speech,1,1,,ERWIN.,#erwin,129.0,MALE,being moved,S,,1775.0,being moved,being moved
+504,504,GerDracor/goethe-erwin-und-elmire.xml,Sei ruhig und sieh mich an!,0,27,character_speech,1,1,,BERNARDO.,#bernardo,130.0,MALE,love,S,,1775.0,positive,emotions of affection
+505,505,GerDracor/goethe-erwin-und-elmire.xml,"– Bin ich Bernardo, der dein ganzes Zutrauen, dein ganzes
+            Herz hatte?",28,109,character_speech,1,1,,BERNARDO.,#bernardo,130.0,MALE,love,S,,1775.0,positive,emotions of affection
+506,506,GerDracor/goethe-erwin-und-elmire.xml,"Bin ich Bernardo, der dich nie betrog, nie deiner Empfindung spottete, sie
+            nie täuschte, – willst du mir glauben?",110,235,character_speech,1,1,,BERNARDO.,#bernardo,130.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+507,507,GerDracor/goethe-erwin-und-elmire.xml,"Wer widerstünde dieser Stimme, diesem Ausdruck des edelsten Herzens!",0,68,character_speech,1,1,,ERWIN.,#erwin,131.0,MALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+508,508,GerDracor/goethe-erwin-und-elmire.xml,"Rede, Bernardo!",69,84,character_speech,1,1,,ERWIN.,#erwin,131.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+509,509,GerDracor/goethe-erwin-und-elmire.xml,rede!,97,102,character_speech,1,1,,ERWIN.,#erwin,131.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+510,510,GerDracor/goethe-erwin-und-elmire.xml,Erwin!,0,6,character_speech,1,1,,BERNARDO.,#bernardo,132.0,MALE,being moved,S,,1775.0,being moved,being moved
+511,511,GerDracor/goethe-erwin-und-elmire.xml,– Sie liebt dich.,7,24,character_speech,1,1,,BERNARDO.,#bernardo,132.0,MALE,love,S,,1775.0,positive,emotions of affection
+512,512,GerDracor/goethe-erwin-und-elmire.xml,in äußerster Bewegung sich wegwendend.,0,38,stage_direction,1,1,speech_part,,#erwin,133.0,MALE,being moved,S,,1775.0,being moved,being moved
+513,513,GerDracor/goethe-erwin-und-elmire.xml,Nein!,0,5,character_speech,1,1,,ERWIN,#erwin,133.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+514,514,GerDracor/goethe-erwin-und-elmire.xml,Nein!,6,11,character_speech,1,1,,ERWIN,#erwin,133.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+515,515,GerDracor/goethe-erwin-und-elmire.xml,Sie liebt dich!,0,15,character_speech,1,1,,BERNARDO.,#bernardo,134.0,MALE,love,S,,1775.0,positive,emotions of affection
+516,516,GerDracor/goethe-erwin-und-elmire.xml,ihm um den Hals fallend.,0,24,stage_direction,1,1,speech_part,,#erwin,135.0,MALE,love,S,,1775.0,positive,emotions of affection
+517,517,GerDracor/goethe-erwin-und-elmire.xml,"Ich bitte dich, laß mich sterben!",0,33,character_speech,1,1,,ERWIN,#erwin,135.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+518,518,GerDracor/goethe-erwin-und-elmire.xml,"Nach einer Pause hört man von weiten Elmiren singen, Erwin fährt auf.",0,69,stage_direction,1,1,speech_part,,#erwin,135.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+519,519,GerDracor/goethe-erwin-und-elmire.xml,Horch!,0,6,character_speech,1,1,,BERNARDO.,#bernardo,136.0,MALE,being moved,S,,1775.0,being moved,being moved
+520,520,GerDracor/goethe-erwin-und-elmire.xml,Ich vergehe!,0,12,character_speech,1,1,,ERWIN.,#erwin,137.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+521,521,GerDracor/goethe-erwin-und-elmire.xml,– das ist ihre Stimme!,13,35,character_speech,1,1,,ERWIN.,#erwin,137.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+522,522,GerDracor/goethe-erwin-und-elmire.xml,Wie mir der Ton durch alle Sinnen lauft!,36,76,character_speech,1,1,,ERWIN.,#erwin,137.0,MALE,being moved,S,,1775.0,being moved,being moved
+523,523,GerDracor/goethe-erwin-und-elmire.xml,Rede!,77,82,character_speech,1,1,,ERWIN.,#erwin,137.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+524,524,GerDracor/goethe-erwin-und-elmire.xml,Rede!,95,100,character_speech,1,1,,ERWIN.,#erwin,137.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+525,525,GerDracor/goethe-erwin-und-elmire.xml,– Sie ist's!,101,113,character_speech,1,1,,ERWIN.,#erwin,137.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+526,526,GerDracor/goethe-erwin-und-elmire.xml,Sie kommt!,0,10,character_speech,1,1,,BERNARDO.,#bernardo,138.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+527,527,GerDracor/goethe-erwin-und-elmire.xml,Weh mir!,0,8,character_speech,1,1,,ERWIN.,#erwin,139.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+528,528,GerDracor/goethe-erwin-und-elmire.xml,Wohin?,9,15,character_speech,1,1,,ERWIN.,#erwin,139.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+529,529,GerDracor/goethe-erwin-und-elmire.xml,Wohin?,16,22,character_speech,1,1,,ERWIN.,#erwin,139.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+530,530,GerDracor/goethe-erwin-und-elmire.xml,Geschwind in die Hütte.,0,23,character_speech,1,1,,BERNARDO.,#bernardo,140.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+531,531,GerDracor/goethe-erwin-und-elmire.xml,"Du sollst mit eignen Ohren hören, mit eignen Augen sehen.",24,81,character_speech,1,1,,BERNARDO.,#bernardo,140.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+532,532,GerDracor/goethe-erwin-und-elmire.xml,Ungläubiger!,94,106,character_speech,1,1,,BERNARDO.,#bernardo,140.0,MALE,being moved,S,,1775.0,being moved,being moved
+533,533,GerDracor/goethe-erwin-und-elmire.xml,"Er hebt einen Pack auf, den er zu Anfang der Szene an einen Baum
+              geworfen.",0,88,stage_direction,1,1,inner_speech,,#bernardo,140.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+534,534,GerDracor/goethe-erwin-und-elmire.xml, Hier hab ich deine Maske mitgebracht.,0,38,character_speech,1,1,,BERNARDO.,#bernardo,140.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+535,535,GerDracor/goethe-erwin-und-elmire.xml,"Komm, heiliger Mann.",39,59,character_speech,1,1,,BERNARDO.,#bernardo,140.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+536,536,GerDracor/goethe-erwin-und-elmire.xml,"Erhole
+            dich, du bist außer dir.",60,103,character_speech,1,1,,BERNARDO.,#bernardo,140.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+537,537,GerDracor/goethe-erwin-und-elmire.xml,"Er führt Erwinen ab, der ihm in der größten Verwirrung folgt.",0,61,stage_direction,1,1,speech_part,,#bernardo,140.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+538,538,GerDracor/goethe-erwin-und-elmire.xml,kommt singend das Tal her.,0,26,stage_direction,1,1,speech_part,,#elmire,141.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+539,539,GerDracor/goethe-erwin-und-elmire.xml,"
+            Mit vollen Atemzügen
+            Saug ich, Natur, aus dir
+            Ein schmerzliches Vergnügen.",0,111,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+540,540,GerDracor/goethe-erwin-und-elmire.xml,"Wie lebt,
+            Wie bebt,
+            Wie strebt
+            Das Herz in mir!",124,207,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+541,541,GerDracor/goethe-erwin-und-elmire.xml,"
+            Freundlich begleiten
+            Mich Lüftlein gelinde,
+            Flohene Freuden
+            Ach!",0,113,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+542,542,GerDracor/goethe-erwin-und-elmire.xml,"säuseln im Winde,
+            Fassen die bebende,
+            Strebende
+            Brust.",114,204,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+543,543,GerDracor/goethe-erwin-und-elmire.xml,Himmlische Zeiten!,217,235,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+544,544,GerDracor/goethe-erwin-und-elmire.xml,Ach!,248,252,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+545,545,GerDracor/goethe-erwin-und-elmire.xml,"wie so geschwinde
+            Dämmert und blicket
+            Und schwindet die Lust!",253,338,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+546,546,GerDracor/goethe-erwin-und-elmire.xml,"
+            Du lachst mir, liebes Tal,
+            Und du, o reine Himmelssonne,
+            Erfüllst mich wiederum einmal
+            Mit aller süßen Frühlingswonne.",0,167,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+547,547,GerDracor/goethe-erwin-und-elmire.xml,Weh mir!,180,188,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+548,548,GerDracor/goethe-erwin-und-elmire.xml,Ach!,189,193,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+549,549,GerDracor/goethe-erwin-und-elmire.xml,"sonst war meine Seele rein,
+            Genoß so friedlich deinen Segen.",194,266,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+550,550,GerDracor/goethe-erwin-und-elmire.xml,"Verbirg dich, Sonne, meiner Pein,
+            Verwildre dich, Natur, und stürme mir entgegen!",279,372,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+551,551,GerDracor/goethe-erwin-und-elmire.xml,"
+            Die Winde sausen,
+            Die Ströme brausen,
+            Die Blätter rascheln
+            Dürr ab ins Tal.",0,124,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+552,552,GerDracor/goethe-erwin-und-elmire.xml,"Auf steiler Höhe
+            Am nackten Felsen
+            Lieg ich und flehe;
+             Im tiefen Schnee,
+            Auf öden Wegen,
+            Gestöber und Regen,
+            Fühl ich und flieh ich
+            Und suche die Qual.",137,373,character_speech,1,1,,ELMIRE,#elmire,141.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+553,553,GerDracor/goethe-erwin-und-elmire.xml,Ach!,0,4,character_speech,1,1,,BERNARDO.,#bernardo,142.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+554,554,GerDracor/goethe-erwin-und-elmire.xml,"sind Sie da, mein Fräulein?",5,32,character_speech,1,1,,BERNARDO.,#bernardo,142.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+555,555,GerDracor/goethe-erwin-und-elmire.xml,"Ich schlenderte so das Tal herauf, wie du es haben wolltest.",0,60,character_speech,1,1,,ELMIRE.,#elmire,143.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+556,556,GerDracor/goethe-erwin-und-elmire.xml,Was haben Sie?,0,14,character_speech,1,1,,BERNARDO.,#bernardo,144.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+557,557,GerDracor/goethe-erwin-und-elmire.xml,Wie ist Ihnen?,15,29,character_speech,1,1,,BERNARDO.,#bernardo,144.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+558,558,GerDracor/goethe-erwin-und-elmire.xml,sich erholend.,0,14,stage_direction,1,1,speech_part,,#elmire,145.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+559,559,GerDracor/goethe-erwin-und-elmire.xml,"Gut, recht gut.",0,15,character_speech,1,1,,ELMIRE,#elmire,145.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+560,560,GerDracor/goethe-erwin-und-elmire.xml,– Wie im Paradiese!,16,35,character_speech,1,1,,ELMIRE,#elmire,145.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+561,561,GerDracor/goethe-erwin-und-elmire.xml,– und die Hütte – sie ist's!,36,64,character_speech,1,1,,ELMIRE,#elmire,145.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+562,562,GerDracor/goethe-erwin-und-elmire.xml,kann ich ihn sehen!,65,84,character_speech,1,1,,ELMIRE,#elmire,145.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+563,563,GerDracor/goethe-erwin-und-elmire.xml,"–
+            ein Schauer überfällt mich, da ich ihm nahen soll.",85,149,character_speech,1,1,,ELMIRE,#elmire,145.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+564,564,GerDracor/goethe-erwin-und-elmire.xml,Gleich.,0,7,character_speech,1,1,,BERNARDO.,#bernardo,146.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+565,565,GerDracor/goethe-erwin-und-elmire.xml,Er kommt gleich.,8,24,character_speech,1,1,,BERNARDO.,#bernardo,146.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+566,566,GerDracor/goethe-erwin-und-elmire.xml,"– Ich fand ihn im Gebet begriffen – aber was übel ist: er gab
+            mir durch Zeichen zu verstehen, daß er ein Gelübde getan habe, einige Monate kein Wort
+            zu reden.",25,207,character_speech,1,1,,BERNARDO.,#bernardo,146.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+567,567,GerDracor/goethe-erwin-und-elmire.xml,"Eben, da wir kommen?",0,20,character_speech,1,1,,ELMIRE.,#elmire,147.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+568,568,GerDracor/goethe-erwin-und-elmire.xml,"Indessen treten Sie kecklich zu ihm, eröffnen Sie ihm Ihr Herz.",0,63,character_speech,1,1,,BERNARDO.,#bernardo,148.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+569,569,GerDracor/goethe-erwin-und-elmire.xml,"Er wird Ihre Leiden
+            fühlen, und sein Schweigen selbst wird Ihnen Trost sein, seine Gegenwart.",64,169,character_speech,1,1,,BERNARDO.,#bernardo,148.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+570,570,GerDracor/goethe-erwin-und-elmire.xml,"Vielleicht
+            gibt er Ihnen schriftlich ein tröstend Wörtchen, und wenn wir ihn wieder besuchen, so
+            ist die Bekanntschaft gemacht.",170,321,character_speech,1,1,,BERNARDO.,#bernardo,148.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+571,571,GerDracor/goethe-erwin-und-elmire.xml,"Erwin, mit langem Kleide, weißem Bart verhüllt, tritt aus der Hütte.",0,68,stage_direction,1,1,speech_part,,#bernardo,148.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+572,572,GerDracor/goethe-erwin-und-elmire.xml,"Er kommt, ich lasse Sie.",0,24,character_speech,1,1,,BERNARDO.,#bernardo,149.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+573,573,GerDracor/goethe-erwin-und-elmire.xml,Mir vergeht Himmel und Erde bei seinem Anblick!,0,47,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+574,574,GerDracor/goethe-erwin-und-elmire.xml,"Erwin tritt näher; sie grüßt ihn; er ist in der äußersten Verlegenheit, die er zu
+            verbergen sucht.",0,110,stage_direction,1,1,speech_part,,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+575,575,GerDracor/goethe-erwin-und-elmire.xml,"
+            Sieh mich, Heil'ger, wie ich bin,
+            Eine arme Sünderin.",0,78,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+576,576,GerDracor/goethe-erwin-und-elmire.xml,"Angst und Kummer, Reu und Schmerz
+            Quälen dieses arme Herz.",91,161,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+577,577,GerDracor/goethe-erwin-und-elmire.xml,"Sieh mich vor dir unverstellt,
+            Herr, die Schuldigste der Welt.",174,248,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+578,578,GerDracor/goethe-erwin-und-elmire.xml,"
+             Ach!",0,18,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+579,579,GerDracor/goethe-erwin-und-elmire.xml,"es war ein junges Blut,
+            War so lieb, er war so gut,
+            Ach!",19,99,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+580,580,GerDracor/goethe-erwin-und-elmire.xml,"so redlich liebt' er mich,
+            Ach!",100,143,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+581,581,GerDracor/goethe-erwin-und-elmire.xml,"so heimlich quält' er sich –
+            Sieh mich, Heil'ger, wie ich bin,
+            Eine arme Sünderin.",144,250,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+582,582,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ich vernahm sein stummes Flehn,
+            Und ich konnt ihn zehren sehn,
+            Hielte mein Gefühl zurück,
+            Gönnt ihm keinen holden Blick.",0,169,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+583,583,GerDracor/goethe-erwin-und-elmire.xml,"Sieh mich vor dir unverstellt,
+            Herr, die Schuldigste der Welt.",182,256,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+584,584,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ach!",0,17,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+585,585,GerDracor/goethe-erwin-und-elmire.xml,"so neidscht und quält ich ihn,
+            Und so ist der Arme hin!",18,85,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+586,586,GerDracor/goethe-erwin-und-elmire.xml,"Schwebt in Kummer, Mangel, Not,
+            Ist verloren!",98,155,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+587,587,GerDracor/goethe-erwin-und-elmire.xml,Er ist tot!,156,167,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,despair,S,,1775.0,negative,emotions of anxiety
+588,588,GerDracor/goethe-erwin-und-elmire.xml,"Sieh mich, Heil'ger, wie ich bin,
+            Eine arme Sünderin.",180,245,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+589,589,GerDracor/goethe-erwin-und-elmire.xml,"Erwin zieht eine Schreibtafel heraus, schreibt mit eifernder Hand einige Worte,
+            faltet sie zusammen und gibt sie ihr.",0,129,stage_direction,1,1,speech_part,,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+590,590,GerDracor/goethe-erwin-und-elmire.xml,"Sie will es aufmachen, er hält sie ab und macht
+            ihr ein Zeichen, sich zu entfernen.",130,225,stage_direction,1,1,speech_part,,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+591,591,GerDracor/goethe-erwin-und-elmire.xml,"Ich verstehe dich, würdiger Sterblicher; ich soll weg, soll dich deinen heiligen
+            Gefühlen überlassen, soll diese Tafel in deiner Gegenwart nicht eröffnen.",0,166,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+592,592,GerDracor/goethe-erwin-und-elmire.xml,"Wann darf ich
+            es tun?",167,200,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+593,593,GerDracor/goethe-erwin-und-elmire.xml,"Wann darf ich diese heiligen Züge schauen, küssen, in mich trinken?",201,268,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,"admiration, reverence",S,,1775.0,positive,emotions of affection
+594,594,GerDracor/goethe-erwin-und-elmire.xml,Erwin deutet in die Ferne.,0,26,stage_direction,1,1,speech_part,,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+595,595,GerDracor/goethe-erwin-und-elmire.xml,"Wenn ich werde an jene hohe Linde gekommen sein, die an dem Pfade neben dem Fluß
+            steht?",0,99,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+596,596,GerDracor/goethe-erwin-und-elmire.xml,Erwin nickt.,0,12,stage_direction,1,1,speech_part,,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+597,597,GerDracor/goethe-erwin-und-elmire.xml,Leb wohl!,0,9,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+598,598,GerDracor/goethe-erwin-und-elmire.xml,für diesmal wohl!,10,27,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+599,599,GerDracor/goethe-erwin-und-elmire.xml,"du fühlst, daß mein Herz bei dir zurückbleibt.",28,74,character_speech,1,1,,ELMIRE.,#elmire,150.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+600,600,GerDracor/goethe-erwin-und-elmire.xml,Ab.,0,3,stage_direction,1,1,inner_speech,,#elmire,150.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+601,601,GerDracor/goethe-erwin-und-elmire.xml,"mit ausgestreckten Armen schaut ihr einige Augenblicke stumm nach, dann reißt er
+            die Maske weg und den Mantel, und die Musik fällt ein.",0,147,stage_direction,1,1,speech_part,,#erwin,151.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+602,602,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ha!",0,16,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+603,603,GerDracor/goethe-erwin-und-elmire.xml,sie liebt mich!,17,32,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,love,S,,1775.0,positive,emotions of affection
+604,604,GerDracor/goethe-erwin-und-elmire.xml,Sie liebt mich!,45,60,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,love,S,,1775.0,positive,emotions of affection
+605,605,GerDracor/goethe-erwin-und-elmire.xml,Welch schreckliches Beben!,73,99,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+606,606,GerDracor/goethe-erwin-und-elmire.xml,Fühl ich mich selber?,112,133,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,being moved,S,,1775.0,being moved,being moved
+607,607,GerDracor/goethe-erwin-und-elmire.xml,Bin ich am Leben?,146,163,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,being moved,S,,1775.0,being moved,being moved
+608,608,GerDracor/goethe-erwin-und-elmire.xml,Ha!,176,179,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+609,609,GerDracor/goethe-erwin-und-elmire.xml,sie liebt mich!,180,195,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,love,S,,1775.0,positive,emotions of affection
+610,610,GerDracor/goethe-erwin-und-elmire.xml,Sie liebt mich!,208,223,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,love,S,,1775.0,positive,emotions of affection
+611,611,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ha!",0,16,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+612,612,GerDracor/goethe-erwin-und-elmire.xml,rings so anders!,17,33,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+613,613,GerDracor/goethe-erwin-und-elmire.xml,"Bist du's noch, Sonne?",46,68,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,love,S,,1775.0,positive,emotions of affection
+614,614,GerDracor/goethe-erwin-und-elmire.xml,"Bist du's noch, Hütte?",81,103,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+615,615,GerDracor/goethe-erwin-und-elmire.xml,"Trage die Wonne,
+            Seliges Herz!",116,158,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+616,616,GerDracor/goethe-erwin-und-elmire.xml,Sie liebt mich!,171,186,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,love,S,,1775.0,positive,emotions of affection
+617,617,GerDracor/goethe-erwin-und-elmire.xml,Sie liebt mich!,199,214,character_speech,1,1,,ERWIN,#erwin,151.0,MALE,love,S,,1775.0,positive,emotions of affection
+618,618,GerDracor/goethe-erwin-und-elmire.xml,hervortretend.,0,14,stage_direction,1,1,speech_part,,#bernardo,152.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+619,619,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ja, sie liebt dich,
+            Sie liebt dich!",0,60,character_speech,1,1,,BERNARDO,#bernardo,152.0,MALE,love,S,,1775.0,positive,emotions of affection
+620,620,GerDracor/goethe-erwin-und-elmire.xml,"Siehst du, die Seele
+            Hast du betrübet;
+            Immer, ach immer
+            Hat sie dich geliebet.",73,187,character_speech,1,1,,BERNARDO,#bernardo,152.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+621,621,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ich bin so freudig,
+            Fühle so mein Leben!",0,65,character_speech,1,1,,ERWIN.,#erwin,153.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+622,622,GerDracor/goethe-erwin-und-elmire.xml,"Götter, selbst Götter
+            Würden mir vergeben.",78,132,character_speech,1,1,,ERWIN.,#erwin,153.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+623,623,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ach!",0,17,character_speech,1,1,,BERNARDO.,#bernardo,154.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+624,624,GerDracor/goethe-erwin-und-elmire.xml,"ihre Tränen,
+            Tust ihr nicht gut.",18,62,character_speech,1,1,,BERNARDO.,#bernardo,154.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+625,625,GerDracor/goethe-erwin-und-elmire.xml,"
+            Sie zu versöhnen,
+            Fließe mein Blut.",0,60,character_speech,1,1,,ERWIN.,#erwin,155.0,MALE,love,S,,1775.0,positive,emotions of affection
+626,626,GerDracor/goethe-erwin-und-elmire.xml,Sie liebt mich?,73,88,character_speech,1,1,,ERWIN.,#erwin,155.0,MALE,love,S,,1775.0,positive,emotions of affection
+627,627,GerDracor/goethe-erwin-und-elmire.xml,"
+            Sie liebt dich!",0,28,character_speech,1,1,,BERNARDO.,#bernardo,156.0,MALE,love,S,,1775.0,positive,emotions of affection
+628,628,GerDracor/goethe-erwin-und-elmire.xml,Wo ist sie hin?,41,56,character_speech,1,1,,BERNARDO.,#bernardo,156.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+629,629,GerDracor/goethe-erwin-und-elmire.xml,"Ich habe sie den Weg hinab geschickt, um nicht von Füll und Freude des Tods zu sein.",0,84,character_speech,1,1,,ERWIN.,#erwin,157.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+630,630,GerDracor/goethe-erwin-und-elmire.xml,Ich schrieb ihr auf ein Täfelchen: »Er ist nicht weit«.,97,152,character_speech,1,1,,ERWIN.,#erwin,157.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+631,631,GerDracor/goethe-erwin-und-elmire.xml,Sie kömmt!,0,10,character_speech,1,1,,BERNARDO.,#bernardo,158.0,MALE,fear,S,,1775.0,negative,emotions of anxiety
+632,632,GerDracor/goethe-erwin-und-elmire.xml,Nur einen Augenblick in dies Gesträuch!,11,50,character_speech,1,1,,BERNARDO.,#bernardo,158.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+633,633,GerDracor/goethe-erwin-und-elmire.xml,"Sie verbergen
+            sich.",0,31,stage_direction,1,1,inner_speech,,#bernardo,158.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+634,634,GerDracor/goethe-erwin-und-elmire.xml,"
+            Er ist nicht weit!",0,31,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+635,635,GerDracor/goethe-erwin-und-elmire.xml,Wo find ich ihn wieder?,44,67,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+636,636,GerDracor/goethe-erwin-und-elmire.xml,Er ist nicht weit!,80,98,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,fear,S,,1775.0,negative,emotions of anxiety
+637,637,GerDracor/goethe-erwin-und-elmire.xml,"Mir beben die Glieder,
+            O Hoffnung!",111,157,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+638,638,GerDracor/goethe-erwin-und-elmire.xml,o Glück!,158,166,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+639,639,GerDracor/goethe-erwin-und-elmire.xml,Wo geh ich?,179,190,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+640,640,GerDracor/goethe-erwin-und-elmire.xml,Wo such ich?,191,203,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+641,641,GerDracor/goethe-erwin-und-elmire.xml,Wo find ich ihn wieder?,216,239,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+642,642,GerDracor/goethe-erwin-und-elmire.xml,"Ihr Götter, erhört mich!",252,276,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+643,643,GerDracor/goethe-erwin-und-elmire.xml,O gebt ihn zurück!,289,307,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+644,644,GerDracor/goethe-erwin-und-elmire.xml,Erwin!,320,326,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+645,645,GerDracor/goethe-erwin-und-elmire.xml,Erwin!,327,333,character_speech,1,1,,ELMIRE.,#elmire,159.0,FEMALE,being moved,S,,1775.0,being moved,being moved
+646,646,GerDracor/goethe-erwin-und-elmire.xml,Elmire!,0,7,character_speech,1,1,,ERWIN.,#erwin,160.0,MALE,being moved,S,,1775.0,being moved,being moved
+647,647,GerDracor/goethe-erwin-und-elmire.xml,Er springt hervor.,0,18,stage_direction,1,1,inner_speech,,#erwin,160.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+648,648,GerDracor/goethe-erwin-und-elmire.xml,Weh mir!,0,8,character_speech,1,1,,ELMIRE.,#elmire,161.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+649,649,GerDracor/goethe-erwin-und-elmire.xml,zu ihren Füßen.,0,15,stage_direction,1,1,speech_part,,#erwin,162.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+650,650,GerDracor/goethe-erwin-und-elmire.xml,Ich bin's.,0,10,character_speech,1,1,,ERWIN,#erwin,162.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+651,651,GerDracor/goethe-erwin-und-elmire.xml,an seinem Hals.,0,15,stage_direction,1,1,speech_part,,#elmire,163.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+652,652,GerDracor/goethe-erwin-und-elmire.xml,Du bist' s.,0,11,character_speech,1,1,,ELMIRE,#elmire,163.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+653,653,GerDracor/goethe-erwin-und-elmire.xml,"Die Musik wage es, die Gefühle dieser Pausen auszudrücken.",0,58,stage_direction,1,1,speech_part,,#elmire,163.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+654,654,GerDracor/goethe-erwin-und-elmire.xml,"
+            O schauet hernieder,
+            Ihr Götter, dies Glück!",0,69,character_speech,1,1,,BERNARDO.,#bernardo,164.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+655,655,GerDracor/goethe-erwin-und-elmire.xml,"Da hast du ihn wieder,
+            Da nimm sie zurück.",82,136,character_speech,1,1,,BERNARDO.,#bernardo,164.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+656,656,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ich habe dich wieder,
+            Hier bin ich zurück!",0,67,character_speech,1,1,,ERWIN.,#erwin,165.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+657,657,GerDracor/goethe-erwin-und-elmire.xml,"O schauet hernieder
+            Und gönnt mir das Glück.",80,136,character_speech,1,1,,ERWIN.,#erwin,165.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+658,658,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ich habe dich wieder,
+            Mir trübt sich der Blick.",0,72,character_speech,1,1,,ELMIRE.,#elmire,166.0,FEMALE,joy,S,,1775.0,positive,emotions of pleasure
+659,659,GerDracor/goethe-erwin-und-elmire.xml,"Ich sinke darnieder,
+            Mich tötet das Glück.",85,139,character_speech,1,1,,ELMIRE.,#elmire,166.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+660,660,GerDracor/goethe-erwin-und-elmire.xml,"Empfindet, meine Kinder, empfindet den ganzen Umfang eurer Glückseligkeit!",0,74,character_speech,1,1,,BERNARDO.,#bernardo,167.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+661,661,GerDracor/goethe-erwin-und-elmire.xml,"Dieser
+            Augenblick heilet alle Wunden eurer Herzen, die Welt wird wieder neu für euch, und ihr
+            schaut in eine grenzenlose Aussicht von liebevoller, ungetrennter Freude.",75,266,character_speech,1,1,,BERNARDO.,#bernardo,167.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+662,662,GerDracor/goethe-erwin-und-elmire.xml,Mein Vater!,0,11,character_speech,1,1,,ERWIN.,#erwin,168.0,MALE,being moved,S,,1775.0,being moved,being moved
+663,663,GerDracor/goethe-erwin-und-elmire.xml,Hier halt ich sie in meinen Armen!,12,46,character_speech,1,1,,ERWIN.,#erwin,168.0,MALE,love,S,,1775.0,positive,emotions of affection
+664,664,GerDracor/goethe-erwin-und-elmire.xml,Sie ist mein!,47,60,character_speech,1,1,,ERWIN.,#erwin,168.0,MALE,love,S,,1775.0,positive,emotions of affection
+665,665,GerDracor/goethe-erwin-und-elmire.xml,"Ich hab eine Mutter, zwar eine liebevolle Mutter; doch, wird sie in unser Glück
+            willigen?",0,101,character_speech,1,1,,ELMIRE.,#elmire,169.0,FEMALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+666,666,GerDracor/goethe-erwin-und-elmire.xml,Kann ich ihr wert scheinen?,0,27,character_speech,1,1,,ERWIN.,#erwin,170.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+667,667,GerDracor/goethe-erwin-und-elmire.xml,–,28,29,character_speech,1,1,,ERWIN.,#erwin,170.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+668,668,GerDracor/goethe-erwin-und-elmire.xml,Da seid unbesorgt vor!,0,22,character_speech,1,1,,BERNARDO.,#bernardo,171.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+669,669,GerDracor/goethe-erwin-und-elmire.xml,"es ist, war ihr so angelegen als mir, euch Närrchen
+            zusammenzubringen.",23,105,character_speech,1,1,,BERNARDO.,#bernardo,171.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+670,670,GerDracor/goethe-erwin-und-elmire.xml,"Und wir beide haben mit größter Sorgfalt auch schon euern häuslichen
+            und politischen Zustand in Ordnung gebracht, woran sich's meistenteils bei so
+            idealischen Leutchen zu stoßen pflegt.",106,315,character_speech,1,1,,BERNARDO.,#bernardo,171.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+671,671,GerDracor/goethe-erwin-und-elmire.xml,"Himmel und Erde, was soll ich sagen?",0,36,character_speech,1,1,,ERWIN.,#erwin,172.0,MALE,being moved,S,,1775.0,being moved,being moved
+672,672,GerDracor/goethe-erwin-und-elmire.xml,Nichts!,0,7,character_speech,1,1,,BERNARDO.,#bernardo,173.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+673,673,GerDracor/goethe-erwin-und-elmire.xml,"das ist das sicherste Zeichen, daß dir's wohl ist, daß du dankbar bist!",8,79,character_speech,1,1,,BERNARDO.,#bernardo,173.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+674,674,GerDracor/goethe-erwin-und-elmire.xml,"Nun
+            kommt!",80,102,character_speech,1,1,,BERNARDO.,#bernardo,173.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+675,675,GerDracor/goethe-erwin-und-elmire.xml,unser Wagen hält eine Strecke das Tal droben.,103,148,character_speech,1,1,,BERNARDO.,#bernardo,173.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+676,676,GerDracor/goethe-erwin-und-elmire.xml,"Ich bring euch an das Herz eurer
+            Mutter, welcher Jubel für die rechtschaffne, liebevolle Alte!",149,255,character_speech,1,1,,BERNARDO.,#bernardo,173.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+677,677,GerDracor/goethe-erwin-und-elmire.xml,kommt!,256,262,character_speech,1,1,,BERNARDO.,#bernardo,173.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+678,678,GerDracor/goethe-erwin-und-elmire.xml,Kommt!,0,6,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+679,679,GerDracor/goethe-erwin-und-elmire.xml,"Sie gehen, Erwin hält auf einmal und kehrt sich nach der Hütte.",0,63,stage_direction,1,1,inner_speech,,#erwin,174.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+680,680,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ich gehe und schaue mich nicht nach dir um!",0,56,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+681,681,GerDracor/goethe-erwin-und-elmire.xml,danke dir nicht!,57,73,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,anger,S,,1775.0,negative,emotions of rejection
+682,682,GerDracor/goethe-erwin-und-elmire.xml,ehre dich nicht!,74,90,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+683,683,GerDracor/goethe-erwin-und-elmire.xml,"sage dir
+            kein Lebewohl, du freundlichste Wirtin meines Elends –",91,166,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,abhorrence,S,,1775.0,negative,emotions of rejection
+684,684,GerDracor/goethe-erwin-und-elmire.xml,"Entzückt zu
+              Elmiren.",0,34,stage_direction,1,1,inner_speech,,#erwin,174.0,MALE,joy,S,,1775.0,positive,emotions of pleasure
+685,685,GerDracor/goethe-erwin-und-elmire.xml," O Mädchen, Mädchen, was macht ihr uns nicht vergessen!",0,55,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+686,686,GerDracor/goethe-erwin-und-elmire.xml,Gegen die Hütte.,0,16,stage_direction,1,1,speech_part,,#erwin,174.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+687,687,GerDracor/goethe-erwin-und-elmire.xml,"
+            Vergib mir die Eile!",0,33,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,compassion,S,,1775.0,negative,emotions of suffering and empathy
+688,688,GerDracor/goethe-erwin-und-elmire.xml,"Ich weile
+            Nicht länger hier.",46,86,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+689,689,GerDracor/goethe-erwin-und-elmire.xml,Verzeihe!,99,108,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+690,690,GerDracor/goethe-erwin-und-elmire.xml,"Ich weihe
+            Noch diese Träne dir.",121,164,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+691,691,GerDracor/goethe-erwin-und-elmire.xml,"
+            Engel des Himmels!",0,31,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+692,692,GerDracor/goethe-erwin-und-elmire.xml,"Deinem sanften Blicke
+            Dank ich all mein Glücke,
+            Mein Leben dank ich dir!",44,140,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,love,S,,1775.0,positive,emotions of affection
+693,693,GerDracor/goethe-erwin-und-elmire.xml,Gegen die Hütte.,0,16,stage_direction,1,1,speech_part,,#erwin,174.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+694,694,GerDracor/goethe-erwin-und-elmire.xml,"
+            Verzeihe!",0,22,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+695,695,GerDracor/goethe-erwin-und-elmire.xml,"Ich weihe
+            Noch diese Träne dir.",35,78,character_speech,1,1,,ERWIN.,#erwin,174.0,MALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+696,696,GerDracor/goethe-erwin-und-elmire.xml,"
+            Ach!",0,17,character_speech,1,1,,ELMIRE.,#elmire,175.0,FEMALE,suffering,S,,1775.0,negative,emotions of suffering and empathy
+697,697,GerDracor/goethe-erwin-und-elmire.xml,"ich atme freier,
+            Du hast mir vergeben.",18,68,character_speech,1,1,,ELMIRE.,#elmire,175.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+698,698,GerDracor/goethe-erwin-und-elmire.xml,"All mein künftig Leben,
+            Liebster!",81,126,character_speech,1,1,,ELMIRE.,#elmire,175.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+699,699,GerDracor/goethe-erwin-und-elmire.xml,weih ich dir.,127,140,character_speech,1,1,,ELMIRE.,#elmire,175.0,FEMALE,love,S,,1775.0,positive,emotions of affection
+700,700,GerDracor/goethe-erwin-und-elmire.xml,"
+            Zu dem heil'gen Orte
+            Kehrt ihr einst zurücke,
+            Fühlet alles Glücke
+            Alles Lebens hier.",0,133,character_speech,1,1,,BERNARDO.,#bernardo,176.0,MALE,no_annotation,S,,1775.0,no_annotation,no_annotation
+701,701,GerDracor/goethe-erwin-und-elmire.xml,"
+            Engel des Himmels!",0,31,character_speech,1,1,,ERWIN.,#erwin,177.0,MALE,despair,S,,1775.0,negative,emotions of anxiety
+702,702,GerDracor/goethe-erwin-und-elmire.xml,"Deinem sanften Blicke
+            Dank ich all mein Glücke,
+            Mein Leben dank ich dir.",44,140,character_speech,1,1,,ERWIN.,#erwin,177.0,MALE,love,S,,1775.0,positive,emotions of affection

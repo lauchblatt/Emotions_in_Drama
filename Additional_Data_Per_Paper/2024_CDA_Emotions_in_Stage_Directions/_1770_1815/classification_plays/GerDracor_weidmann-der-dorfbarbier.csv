@@ -1,0 +1,1149 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/weidmann-der-dorfbarbier.xml,Adam geht auf und ab und streicht Messer.,0,41,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1796.0,no_annotation,no_annotation
+1,1,GerDracor/weidmann-der-dorfbarbier.xml,Lux kommt aus der hintern Stube.,42,74,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1796.0,no_annotation,no_annotation
+2,2,GerDracor/weidmann-der-dorfbarbier.xml,mit Behagen.,0,12,stage_direction,1,1,speech_part,,#lux,1.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+3,3,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Es ist gewiß und wahr:
+            Gesegnet ist dies Jahr
+            Für Doktor und Barbierer!",0,108,character_speech,1,1,,LUX,#lux,1.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+4,4,GerDracor/weidmann-der-dorfbarbier.xml,bei Seite.,0,10,stage_direction,1,1,speech_part,,#adam,2.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+5,5,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Er foppt die ganze Welt,
+            Der alte Pflasterschmierer,
+            Er prellt' die Leut' um's Geld,
+            Der dumme Dorfbarbierer.",0,158,character_speech,1,1,,ADAM,#adam,2.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+6,6,GerDracor/weidmann-der-dorfbarbier.xml,Adam bemerkend.,0,15,stage_direction,1,1,speech_part,,#lux,3.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+7,7,GerDracor/weidmann-der-dorfbarbier.xml,Steht Er schon wieder müßig da?,0,31,character_speech,1,1,,LUX,#lux,3.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+8,8,GerDracor/weidmann-der-dorfbarbier.xml,Ich schleife meine Messer ja!,0,29,character_speech,1,1,,ADAM.,#adam,4.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+9,9,GerDracor/weidmann-der-dorfbarbier.xml,barsch.,0,7,stage_direction,1,1,speech_part,,#lux,5.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+10,10,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Bedien' Er seine Kunden,
+            Und schleich' Er nicht umher!",0,79,character_speech,1,1,,LUX,#lux,5.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+11,11,GerDracor/weidmann-der-dorfbarbier.xml,für sich.,0,9,stage_direction,1,1,speech_part,,#adam,6.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+12,12,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Er brummt zu allen Stunden,
+            Der alte Zottelbär.",0,72,character_speech,1,1,,ADAM,#adam,6.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+13,13,GerDracor/weidmann-der-dorfbarbier.xml,Margarethe tritt auf.,0,21,stage_direction,1,1,speech_part,,#adam,6.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+14,14,GerDracor/weidmann-der-dorfbarbier.xml,"Ach, Frau Schmiedin!",0,20,character_speech,1,1,,LUX.,#lux,7.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+15,15,GerDracor/weidmann-der-dorfbarbier.xml,grüß Euch Gott!,21,36,character_speech,1,1,,LUX.,#lux,7.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+16,16,GerDracor/weidmann-der-dorfbarbier.xml,weinend.,0,8,stage_direction,1,1,speech_part,,#margarethe,8.0,FEMALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+17,17,GerDracor/weidmann-der-dorfbarbier.xml,Ach!,0,4,character_speech,1,1,,MARGARETHE,#margarethe,8.0,FEMALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+18,18,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, mein Mann ist todt!",5,34,character_speech,1,1,,MARGARETHE,#margarethe,8.0,FEMALE,despair,K,,1796.0,negative,emotions of anxiety
+19,19,GerDracor/weidmann-der-dorfbarbier.xml,erschrocken.,0,12,stage_direction,1,1,speech_part,,#lux,9.0,MALE,being moved,K,,1796.0,being moved,being moved
+20,20,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Was, todt?",0,23,character_speech,1,1,,LUX,#lux,9.0,MALE,being moved,K,,1796.0,being moved,being moved
+21,21,GerDracor/weidmann-der-dorfbarbier.xml,"Hat er auf mein Geheiß
+            Auch Schinken brav gegessen?",24,87,character_speech,1,1,,LUX,#lux,9.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+22,22,GerDracor/weidmann-der-dorfbarbier.xml,Ach ja!,0,7,character_speech,1,1,,MARGARETHE.,#margarethe,10.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+23,23,GerDracor/weidmann-der-dorfbarbier.xml,Er aß ihn centnerweis.,8,30,character_speech,1,1,,MARGARETHE.,#margarethe,10.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+24,24,GerDracor/weidmann-der-dorfbarbier.xml,lachend bei Seite.,0,18,stage_direction,1,1,speech_part,,#adam,11.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+25,25,GerDracor/weidmann-der-dorfbarbier.xml,"Haha, der hat sich todt gefressen.",0,34,character_speech,1,1,,ADAM,#adam,11.0,MALE,Schadenfreude,K,,1796.0,positive,emotions of pleasure
+26,26,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Ich stehe da verwund'rungsvoll
+            Und weiß nicht, was ich sagen soll.",0,91,character_speech,1,1,,LUX.,#lux,12.0,MALE,being moved,K,,1796.0,being moved,being moved
+27,27,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Da steht er ganz verwund'rungsvoll
+            Und weiß nicht, was er sagen soll.",0,94,character_speech,1,1,,ADAM. MARGARETHE.,#adam #margarethe,13.0,UNKNOWN,being moved,K,,1796.0,being moved,being moved
+28,28,GerDracor/weidmann-der-dorfbarbier.xml,Peter tritt auf.,0,16,stage_direction,1,1,speech_part,,#adam #margarethe,13.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+29,29,GerDracor/weidmann-der-dorfbarbier.xml,ihm entgegen.,0,13,stage_direction,1,1,speech_part,,#lux,14.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+30,30,GerDracor/weidmann-der-dorfbarbier.xml,Herr Schneidermeister!,0,22,character_speech,1,1,,LUX,#lux,14.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+31,31,GerDracor/weidmann-der-dorfbarbier.xml,was bringt Er!,23,37,character_speech,1,1,,LUX,#lux,14.0,MALE,being moved,K,,1796.0,being moved,being moved
+32,32,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Herr Lux!",0,22,character_speech,1,1,,SCHNEIDER.,#peter,15.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+33,33,GerDracor/weidmann-der-dorfbarbier.xml,"ich komm' voll Freude her,
+            Ich bin ihm höchst verbunden,
+            Mein Fieber ist verschwunden.",23,133,character_speech,1,1,,SCHNEIDER.,#peter,15.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+34,34,GerDracor/weidmann-der-dorfbarbier.xml,selbstgefällig.,0,15,stage_direction,1,1,speech_part,,#lux,16.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+35,35,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Da hört Sie's selbst, Frau Margareth,
+            Wie meine Kunst von Statten geht.",0,96,character_speech,1,1,,LUX,#lux,16.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+36,36,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Da half nicht Pulver oder Saft,
+            Schon sank mein Muth danieder,
+            Drauf' aß ich Schinken, neue Kraft
+            Gab mir dies Mittel wieder.",0,174,character_speech,1,1,,SCHNEIDER.,#peter,17.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+37,37,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Da hört Sie's selbst, Frau Margareth,
+            Daß meine Kunst mit Ruhm besteht.",0,96,character_speech,1,1,,LUX.,#lux,18.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+38,38,GerDracor/weidmann-der-dorfbarbier.xml,"O esset Schinken nur, das ist die beste Kur.",109,153,character_speech,1,1,,LUX.,#lux,18.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+39,39,GerDracor/weidmann-der-dorfbarbier.xml,Zu Adam.,0,8,stage_direction,1,1,speech_part,,#lux,18.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+40,40,GerDracor/weidmann-der-dorfbarbier.xml,"He, Adam, geschwind mein Protokoll!",0,35,character_speech,1,1,,LUX.,#lux,18.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+41,41,GerDracor/weidmann-der-dorfbarbier.xml,für sich im Abgehen.,0,20,stage_direction,1,1,speech_part,,#adam,19.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+42,42,GerDracor/weidmann-der-dorfbarbier.xml,Das ist von Albernheiten und Schinkenflecken voll.,0,50,character_speech,1,1,,ADAM,#adam,19.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+43,43,GerDracor/weidmann-der-dorfbarbier.xml,Kommt mit dem Buch zurück.,0,26,stage_direction,1,1,speech_part,,#adam,19.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+44,44,GerDracor/weidmann-der-dorfbarbier.xml,schreibt in's Buch.,0,19,stage_direction,1,1,speech_part,,#lux,20.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+45,45,GerDracor/weidmann-der-dorfbarbier.xml,"
+            O du göttliches Rezept.",0,36,character_speech,1,1,,LUX,#lux,20.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+46,46,GerDracor/weidmann-der-dorfbarbier.xml,Welches jede Krankheit hebt.,49,77,character_speech,1,1,,LUX,#lux,20.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+47,47,GerDracor/weidmann-der-dorfbarbier.xml,"Schinken, merkt es Euch, Ihr Leut'!",90,125,character_speech,1,1,,LUX,#lux,20.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+48,48,GerDracor/weidmann-der-dorfbarbier.xml,"Und posaunt es weit und breit,
+            Sind für Schneider unentbehrlich,
+            Und für Schmiede höchst gefährlich.",138,262,character_speech,1,1,,LUX,#lux,20.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+49,49,GerDracor/weidmann-der-dorfbarbier.xml,Traurig ist mein Witwenstand!,0,29,character_speech,1,1,,MARGARETHE.,#margarethe,21.0,FEMALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+50,50,GerDracor/weidmann-der-dorfbarbier.xml,Ach der Tod löst jedes Band!,0,28,character_speech,1,1,,ADAM UND PETER.,#adam #peter,22.0,UNKNOWN,despair,K,,1796.0,negative,emotions of anxiety
+51,51,GerDracor/weidmann-der-dorfbarbier.xml,zu Margarethe.,0,14,stage_direction,1,1,speech_part,,#lux,23.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+52,52,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Munter, Weibchen, wohlgemuth!",0,42,character_speech,1,1,,LUX,#lux,23.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+53,53,GerDracor/weidmann-der-dorfbarbier.xml,"Weint nicht um den Mann, er ruht.",55,88,character_speech,1,1,,LUX,#lux,23.0,MALE,compassion,K,,1796.0,negative,emotions of suffering and empathy
+54,54,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Munter, Weibchen, wohlgemuth!",0,42,character_speech,1,1,,ADAM UND PETER.,#adam #peter,24.0,UNKNOWN,joy,K,,1796.0,positive,emotions of pleasure
+55,55,GerDracor/weidmann-der-dorfbarbier.xml,"Es giebt wack're Männer,
+            Frische Heirath macht das gut,
+            Glaubt, ich bin ein Kenner.",55,162,character_speech,1,1,,ADAM UND PETER.,#adam #peter,24.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+56,56,GerDracor/weidmann-der-dorfbarbier.xml,Euer Mann war ja schon alt!,0,27,character_speech,1,1,,SCHNEIDER.,#peter,25.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+57,57,GerDracor/weidmann-der-dorfbarbier.xml,Und von häßlicher Gestalt.,0,26,character_speech,1,1,,MARGARETHE.,#margarethe,26.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+58,58,GerDracor/weidmann-der-dorfbarbier.xml,Trinken konnt' er auch recht schön.,0,35,character_speech,1,1,,LUX.,#lux,27.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+59,59,GerDracor/weidmann-der-dorfbarbier.xml,Oft konnt' er vor Rausch nicht steh'n.,0,38,character_speech,1,1,,MARGARETHE.,#margarethe,28.0,FEMALE,joy,K,,1796.0,positive,emotions of pleasure
+60,60,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Nun, so quält Euch nicht mit Fleiß,
+            Es kann Euch nicht fehlen;
+            Männer gibt es dutzendweis
+            Ihr dürft ja nur wählen.",0,163,character_speech,1,1,,ADAM. SCHNEIDER.,#adam #peter,29.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+61,61,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Statt weinen muß man lachen
+            Und nur bald Hochzeit machen;
+            Es sei nun wie es sei,
+            Vorbei ist halt vorbei.",0,153,character_speech,1,1,,ALLE VIER.,#lux #adam #margarethe #peter,30.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+62,62,GerDracor/weidmann-der-dorfbarbier.xml,Dialog.,0,7,stage_direction,1,1,speech_part,,#lux #adam #margarethe #peter,30.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+63,63,GerDracor/weidmann-der-dorfbarbier.xml,"Ja, meine liebe Frau Margarethe, Sie ist noch ein wack'res Weibchen, Sie wird gewiß
+            noch einen wackern Mann finden, mit dem sie glücklich leben kann.",0,161,character_speech,1,1,,LUX.,#lux,31.0,MALE,love,K,,1796.0,positive,emotions of affection
+64,64,GerDracor/weidmann-der-dorfbarbier.xml,"Ich bin nur gekommen, meine Schuldigkeit –",0,42,character_speech,1,1,,MARGARETHE.,#margarethe,32.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+65,65,GerDracor/weidmann-der-dorfbarbier.xml,Gibt ihm Geld.,0,14,stage_direction,1,1,inner_speech,,#margarethe,32.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+66,66,GerDracor/weidmann-der-dorfbarbier.xml,Nachbarliche Freundschaftsdienste –,0,35,character_speech,1,1,,LUX.,#lux,33.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+67,67,GerDracor/weidmann-der-dorfbarbier.xml,Er steckt hastig das Geld ein.,0,30,stage_direction,1,1,inner_speech,,#lux,33.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+68,68,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Befehle Sie, Frau Margarethe, über mich bei Tag und Nacht zu allen Stunden.",0,88,character_speech,1,1,,LUX.,#lux,33.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+69,69,GerDracor/weidmann-der-dorfbarbier.xml,Margarethe geht ab.,0,19,stage_direction,1,1,speech_part,,#lux,33.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+70,70,GerDracor/weidmann-der-dorfbarbier.xml,Lux begleitet sie bis zur Thür.,20,51,stage_direction,1,1,speech_part,,#lux,33.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+71,71,GerDracor/weidmann-der-dorfbarbier.xml,für sich.,0,9,stage_direction,1,1,speech_part,,#adam,34.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+72,72,GerDracor/weidmann-der-dorfbarbier.xml,Geld ist unsere Loosung!,0,24,character_speech,1,1,,ADAM,#adam,34.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+73,73,GerDracor/weidmann-der-dorfbarbier.xml,"Wer im Rohre sitzt, hat gut Pfeifen schneiden.",25,71,character_speech,1,1,,ADAM,#adam,34.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+74,74,GerDracor/weidmann-der-dorfbarbier.xml,"Auch ich, Herr Lux, will erkenntlich sein.",0,42,character_speech,1,1,,PETER.,#peter,35.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+75,75,GerDracor/weidmann-der-dorfbarbier.xml,Er bezahlt Lux.,0,15,stage_direction,1,1,inner_speech,,#peter,35.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+76,76,GerDracor/weidmann-der-dorfbarbier.xml,nimmt schnell das Geld.,0,23,stage_direction,1,1,speech_part,,#lux,36.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+77,77,GerDracor/weidmann-der-dorfbarbier.xml,"Laß Er es sein, lieber Peter!",0,29,character_speech,1,1,,LUX,#lux,36.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+78,78,GerDracor/weidmann-der-dorfbarbier.xml,"Wenn ich meinem Nächsten dienen kann, geschieht es auch
+            aus gutem Herzen.",30,115,character_speech,1,1,,LUX,#lux,36.0,MALE,friendship,K,,1796.0,positive,emotions of affection
+79,79,GerDracor/weidmann-der-dorfbarbier.xml,"Esse Er nur wacker Schinken, das ist eine Universalmedizin für alle
+            Krankheiten.",116,208,character_speech,1,1,,LUX,#lux,36.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+80,80,GerDracor/weidmann-der-dorfbarbier.xml,"Es lacht mir das Herz im Leibe, wenn ich daran denke, daß ich
+            der Erfinder  dieses Arcanums bin.",209,317,character_speech,1,1,,LUX,#lux,36.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+81,81,GerDracor/weidmann-der-dorfbarbier.xml,"Leb' Er wohl, lieber Herr Peter!",318,350,character_speech,1,1,,LUX,#lux,36.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+82,82,GerDracor/weidmann-der-dorfbarbier.xml,"Ich habe
+            dringende Geschäfte!",351,392,character_speech,1,1,,LUX,#lux,36.0,MALE,being moved,K,,1796.0,being moved,being moved
+83,83,GerDracor/weidmann-der-dorfbarbier.xml,"Ihr Diener, Herr Peter!",393,416,character_speech,1,1,,LUX,#lux,36.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+84,84,GerDracor/weidmann-der-dorfbarbier.xml,Gehorsamer Diener!,417,435,character_speech,1,1,,LUX,#lux,36.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+85,85,GerDracor/weidmann-der-dorfbarbier.xml,Peter ab.,0,9,stage_direction,1,1,speech_part,,#lux,36.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+86,86,GerDracor/weidmann-der-dorfbarbier.xml,"He, Adam!",0,9,character_speech,1,1,,LUX.,#lux,37.0,MALE,being moved,K,,1796.0,being moved,being moved
+87,87,GerDracor/weidmann-der-dorfbarbier.xml,Wie lange steht Er noch und streicht Messer?,10,54,character_speech,1,1,,LUX.,#lux,37.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+88,88,GerDracor/weidmann-der-dorfbarbier.xml,"– Wie stehts mit den
+            Barbierkunden?",55,102,character_speech,1,1,,LUX.,#lux,37.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+89,89,GerDracor/weidmann-der-dorfbarbier.xml,Schlecht – Ist bald geschliffen.,0,32,character_speech,1,1,,ADAM.,#adam,38.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+90,90,GerDracor/weidmann-der-dorfbarbier.xml,– Ein willig Pferd muß man nicht übertreiben.,33,78,character_speech,1,1,,ADAM.,#adam,38.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+91,91,GerDracor/weidmann-der-dorfbarbier.xml,"– Nur
+            Geduld!",79,104,character_speech,1,1,,ADAM.,#adam,38.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+92,92,GerDracor/weidmann-der-dorfbarbier.xml,– Ein Keil treibt den andern.,105,134,character_speech,1,1,,ADAM.,#adam,38.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+93,93,GerDracor/weidmann-der-dorfbarbier.xml,Ich muß zum Richter nach Zaundorf.,135,169,character_speech,1,1,,ADAM.,#adam,38.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+94,94,GerDracor/weidmann-der-dorfbarbier.xml,War Er denn nicht gestern dort?,0,31,character_speech,1,1,,LUX.,#lux,39.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+95,95,GerDracor/weidmann-der-dorfbarbier.xml,Ich habe mich verspätet.,0,24,character_speech,1,1,,ADAM.,#adam,40.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+96,96,GerDracor/weidmann-der-dorfbarbier.xml,"Wer gern zankt, findet leicht Ursache.",25,63,character_speech,1,1,,ADAM.,#adam,40.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+97,97,GerDracor/weidmann-der-dorfbarbier.xml,Was war's weiter?,0,17,character_speech,1,1,,LUX.,#lux,41.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+98,98,GerDracor/weidmann-der-dorfbarbier.xml,"Ich verweilte mich beim Verwalter, das war gut; der alte Martin, der Scheundrescher,
+            stieg auf den Heuboden; vermuthlich hatte er ein Glas zu viel getrunken, und das war
+            gut; der Kopf war ihm schwindlich, er fiel auf die Tenne herab und schlug sich ein Loch
+            in den Kopf; das war gut.",0,319,character_speech,1,1,,ADAM.,#adam,42.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+99,99,GerDracor/weidmann-der-dorfbarbier.xml,"Narr, das war nicht gut.",0,24,character_speech,1,1,,LUX.,#lux,43.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+100,100,GerDracor/weidmann-der-dorfbarbier.xml,"Ich legte ihm warmen Wein auf, das war gut.",0,43,character_speech,1,1,,ADAM.,#adam,44.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+101,101,GerDracor/weidmann-der-dorfbarbier.xml,"Der besoffene Kerl war aber grob und hieß
+            mich einen Esel, das –",44,120,character_speech,1,1,,ADAM.,#adam,44.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+102,102,GerDracor/weidmann-der-dorfbarbier.xml,einfallend.,0,11,stage_direction,1,1,speech_part,,#lux,45.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+103,103,GerDracor/weidmann-der-dorfbarbier.xml,Das war gut!,0,12,character_speech,1,1,,LUX,#lux,45.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+104,104,GerDracor/weidmann-der-dorfbarbier.xml,Ich wurde toll und lief davon.,0,30,character_speech,1,1,,ADAM.,#adam,46.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+105,105,GerDracor/weidmann-der-dorfbarbier.xml,Wo bleibt aber die Bezahlung?,0,29,character_speech,1,1,,LUX.,#lux,47.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+106,106,GerDracor/weidmann-der-dorfbarbier.xml,Dummkopf!,30,39,character_speech,1,1,,LUX.,#lux,47.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+107,107,GerDracor/weidmann-der-dorfbarbier.xml,"– Man kann seinen Nebenmenschen dienen – aber
+            für Geld.",40,107,character_speech,1,1,,LUX.,#lux,47.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+108,108,GerDracor/weidmann-der-dorfbarbier.xml,Steht Er bei mir umsonst in Brod?,108,141,character_speech,1,1,,LUX.,#lux,47.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+109,109,GerDracor/weidmann-der-dorfbarbier.xml,"Solche Schlingels könnte ich genug
+            haben.",142,195,character_speech,1,1,,LUX.,#lux,47.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+110,110,GerDracor/weidmann-der-dorfbarbier.xml,"brummt für sich,.",0,17,stage_direction,1,1,speech_part,,#adam,48.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+111,111,GerDracor/weidmann-der-dorfbarbier.xml,"Drei Schüsseln gibt er leer, und in der vierten ist nichts drin.",0,64,character_speech,1,1,,ADAM,#adam,48.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+112,112,GerDracor/weidmann-der-dorfbarbier.xml,"Ich glaube, Er brummt noch?",0,27,character_speech,1,1,,LUX.,#lux,49.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+113,113,GerDracor/weidmann-der-dorfbarbier.xml,"Ein Wurm krümmt sich, wenn er getreten wird.",0,44,character_speech,1,1,,ADAM.,#adam,50.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+114,114,GerDracor/weidmann-der-dorfbarbier.xml,"Geh' Er, bedien' er Seine Kunden fleißiger, oder ich jage Ihn seiner Wege.",0,74,character_speech,1,1,,LUX.,#lux,51.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+115,115,GerDracor/weidmann-der-dorfbarbier.xml,"Adam
+              geht.",0,24,stage_direction,1,1,inner_speech,,#lux,51.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+116,116,GerDracor/weidmann-der-dorfbarbier.xml, Noch ein Wort!,0,15,character_speech,1,1,,LUX.,#lux,51.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+117,117,GerDracor/weidmann-der-dorfbarbier.xml,"Wer war gestern hier, indem ich im Schlosse
+            barbierte?",16,82,character_speech,1,1,,LUX.,#lux,51.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+118,118,GerDracor/weidmann-der-dorfbarbier.xml,"Der Herr Joseph, – und das war gut.",0,35,character_speech,1,1,,ADAM.,#adam,52.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+119,119,GerDracor/weidmann-der-dorfbarbier.xml,Der Müßggänger schwärmt stets um mein Haus herum.,0,49,character_speech,1,1,,LUX.,#lux,53.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+120,120,GerDracor/weidmann-der-dorfbarbier.xml,Hat er mit Suschen gesprochen?,50,80,character_speech,1,1,,LUX.,#lux,53.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+121,121,GerDracor/weidmann-der-dorfbarbier.xml,Gelegenheit macht Diebe.,0,24,character_speech,1,1,,ADAM.,#adam,54.0,MALE,Schadenfreude,K,,1796.0,positive,emotions of pleasure
+122,122,GerDracor/weidmann-der-dorfbarbier.xml,Gestohl'nes Gut schmeckt besser.,25,57,character_speech,1,1,,ADAM.,#adam,54.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+123,123,GerDracor/weidmann-der-dorfbarbier.xml,"Er kam herein und grüßte
+            mich; das war gut; dann schlich er zu Suschen, küßte ihr höflich die Hand, und das war
+            gut.",58,198,character_speech,1,1,,ADAM.,#adam,54.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+124,124,GerDracor/weidmann-der-dorfbarbier.xml,"Höll' und Teufel mit Seinem verdammten »das war gut!« Die Maulaffen sollen nicht Hände
+            küssen, ich will diese Leckerei durchaus nicht dulden!",0,153,character_speech,1,1,,LUX.,#lux,55.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+125,125,GerDracor/weidmann-der-dorfbarbier.xml,"Vom Kleinen steigt man zum
+            Größten.",154,201,character_speech,1,1,,LUX.,#lux,55.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+126,126,GerDracor/weidmann-der-dorfbarbier.xml,"– Kerl, Du jagst mir die Galle in's Blut!",202,243,character_speech,1,1,,LUX.,#lux,55.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+127,127,GerDracor/weidmann-der-dorfbarbier.xml,Ich möchte rasend werden!,244,269,character_speech,1,1,,LUX.,#lux,55.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+128,128,GerDracor/weidmann-der-dorfbarbier.xml,"Ich berste
+            noch vor Zorn und Ärgernis.",270,320,character_speech,1,1,,LUX.,#lux,55.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+129,129,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Wuth, Eifersucht und Rache
+            Beherrschen mich allein;
+            Der Schatz, den ich bewache,
+            Soll nur mein eigen sein.",0,155,character_speech,1,2,,LUX.,#lux,56.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+130,130,GerDracor/weidmann-der-dorfbarbier.xml,"Ich will den frechen Laffen
+            Beschämen und bestrafen,
+            Und auch die Buhlerin
+            Mit ihm zur Strafe zieh'n.",168,305,character_speech,1,2,,LUX.,#lux,56.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+131,131,GerDracor/weidmann-der-dorfbarbier.xml,"Er will in Suschens Zimmer eilen, bleibt aber plötzlich stehen.",0,63,stage_direction,1,2,speech_part,,#lux,56.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+132,132,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Doch halt!",0,23,character_speech,1,2,,LUX.,#lux,56.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+133,133,GerDracor/weidmann-der-dorfbarbier.xml,"es wankt mein Fuß –
+            Zu rasch war mein Entschluß.",24,84,character_speech,1,2,,LUX.,#lux,56.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+134,134,GerDracor/weidmann-der-dorfbarbier.xml,"–
+            Nur durch Sanftmuth und durch Güte
+            Wiegt man Weiberherzen ein.",85,173,character_speech,1,2,,LUX.,#lux,56.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+135,135,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Freund bewahre ihre Schritte,
+            Und ich werde dankbar sein.",0,82,character_speech,1,2,,LUX.,#lux,56.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+136,136,GerDracor/weidmann-der-dorfbarbier.xml,Ab.,0,3,stage_direction,1,2,speech_part,,#lux,56.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+137,137,GerDracor/weidmann-der-dorfbarbier.xml,Dialog.,0,7,stage_direction,1,2,speech_part,,#lux,56.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+138,138,GerDracor/weidmann-der-dorfbarbier.xml,"Ja, ja, Deine Dankbarkeit kenne ich schon; viel Geschrei, wenig Wolle.",0,70,character_speech,1,2,,ADAM.,#adam,57.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+139,139,GerDracor/weidmann-der-dorfbarbier.xml,"Versprechen ist
+            herrisch, Halten ist bäurisch.",71,129,character_speech,1,2,,ADAM.,#adam,57.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+140,140,GerDracor/weidmann-der-dorfbarbier.xml,"Schlechter Lohn, magere Kost.",130,159,character_speech,1,2,,ADAM.,#adam,57.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+141,141,GerDracor/weidmann-der-dorfbarbier.xml,"– Hätte ich nicht so kleine
+            Nebenaccidenzeln, so müßte ich barfuß herumlaufen wie die Gänse und Wasser saufen, wie
+            die Frösche.",160,311,character_speech,1,2,,ADAM.,#adam,57.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+142,142,GerDracor/weidmann-der-dorfbarbier.xml,"Aber leider auch die Sporteln werden alle Tage weniger, es will garnicht
+            mehr recht fort mit der Kunst.",312,427,character_speech,1,2,,ADAM.,#adam,57.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+143,143,GerDracor/weidmann-der-dorfbarbier.xml,Nichts wie Unglück und Malheur!,428,459,character_speech,1,2,,ADAM.,#adam,57.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+144,144,GerDracor/weidmann-der-dorfbarbier.xml,"Vor einem halben Jahre
+            kriegte der Gerichtsschreiber eine Lungenentzündung, das war gut.",460,560,character_speech,1,2,,ADAM.,#adam,57.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+145,145,GerDracor/weidmann-der-dorfbarbier.xml,"Ich wurde schleunig
+            zum Aderlaß gerufen, das war gut.",561,626,character_speech,1,2,,ADAM.,#adam,57.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+146,146,GerDracor/weidmann-der-dorfbarbier.xml,"Ich that's; aber aus Versehen schlug ich ihm die
+            Pulsader morsch entzwei, – das war gut.",627,727,character_speech,1,2,,ADAM.,#adam,57.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+147,147,GerDracor/weidmann-der-dorfbarbier.xml,Er wurde freilich ganz kurirt.,728,758,character_speech,1,2,,ADAM.,#adam,57.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+148,148,GerDracor/weidmann-der-dorfbarbier.xml,"denn er geht
+            jetzt mit zwei Krücken mir nichts Dir nichts herum; aber der Kredit ist doch einmal zum
+            Teufel – und so kommt ein Unglück auf das andere.",759,933,character_speech,1,2,,ADAM.,#adam,57.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+149,149,GerDracor/weidmann-der-dorfbarbier.xml,"Erst neulich ist mir mit dem dicken
+            Hans, dem Schlächtergesellen, just so ein fataler Streich passirt.",934,1048,character_speech,1,2,,ADAM.,#adam,57.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+150,150,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Jüngst sprach mein Herr, der Bader
+            Frisch, fasse Muth!",0,79,character_speech,1,3,,ADAM.,#adam,58.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+151,151,GerDracor/weidmann-der-dorfbarbier.xml,"Geh', lasse Hans zur Ader,
+            Und das war gut.",92,147,character_speech,1,3,,ADAM.,#adam,58.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+152,152,GerDracor/weidmann-der-dorfbarbier.xml,"Ich dacht', in großen Massen
+            Find'st du da Blut;
+            Ich ließ ihm hundert Tassen,
+             Und das war gut.",160,291,character_speech,1,3,,ADAM.,#adam,58.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+153,153,GerDracor/weidmann-der-dorfbarbier.xml,"Hans entging der Athem,
+            Wie wunderlich!",304,355,character_speech,1,3,,ADAM.,#adam,58.0,MALE,being moved,K,,1796.0,being moved,being moved
+154,154,GerDracor/weidmann-der-dorfbarbier.xml,"Es war nicht mehr zu rathen,
+            Drum trollt ich mich.",368,430,character_speech,1,3,,ADAM.,#adam,58.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+155,155,GerDracor/weidmann-der-dorfbarbier.xml,"Mein Hans drauf' mußte wandern,
+            Wohl ihm – er ruht!",443,506,character_speech,1,3,,ADAM.,#adam,58.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+156,156,GerDracor/weidmann-der-dorfbarbier.xml,"Sein Weib nahm einen Andern,
+            Und das war gut.",519,576,character_speech,1,3,,ADAM.,#adam,58.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+157,157,GerDracor/weidmann-der-dorfbarbier.xml,"Der Schulz der kriegte Schaden
+            Grad an der Hand
+            Ich sollt ihm etwas rathen
+            Wider den Brand.",589,716,character_speech,1,3,,ADAM.,#adam,58.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+158,158,GerDracor/weidmann-der-dorfbarbier.xml,Ich dacht' ist gehüpft wie gesprungen.,729,767,character_speech,1,3,,ADAM.,#adam,58.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+159,159,GerDracor/weidmann-der-dorfbarbier.xml,Weg mit dem Arm.,780,796,character_speech,1,3,,ADAM.,#adam,58.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+160,160,GerDracor/weidmann-der-dorfbarbier.xml,"Der Kerl hat gräßlich g'sungen,
+            Daß Gott erbarm.",809,869,character_speech,1,3,,ADAM.,#adam,58.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+161,161,GerDracor/weidmann-der-dorfbarbier.xml,"Er schrie voll Wuth und Jammer,
+            Mir starrt das Blut;
+            Ich schlug ihn mit dem Hammer
+            Auf'n Kopf und das war gut.",882,1028,character_speech,1,3,,ADAM.,#adam,58.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+162,162,GerDracor/weidmann-der-dorfbarbier.xml,"Was schreist Du denn Du Lümmel,
+            Schrie ich voll Wuth,
+            Du kommst ja eh'r in Himmel,
+            Und das war gut.",1041,1176,character_speech,1,3,,ADAM.,#adam,58.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+163,163,GerDracor/weidmann-der-dorfbarbier.xml,Wen rühren nicht die Leiden,0,27,character_speech,1,4,,ADAM.,#suschen,59.0,FEMALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+164,164,GerDracor/weidmann-der-dorfbarbier.xml,"Die mir die Liebe beut,",0,23,character_speech,1,4,,ADAM.,#suschen,59.0,FEMALE,love,K,,1796.0,positive,emotions of affection
+165,165,GerDracor/weidmann-der-dorfbarbier.xml,Ich soll den Theuren meiden,0,27,character_speech,1,4,,ADAM.,#suschen,59.0,FEMALE,abhorrence,K,,1796.0,negative,emotions of rejection
+166,166,GerDracor/weidmann-der-dorfbarbier.xml,:| Dem ich mein Herz geweiht.,0,29,character_speech,1,4,,ADAM.,#suschen,59.0,FEMALE,love,K,,1796.0,positive,emotions of affection
+167,167,GerDracor/weidmann-der-dorfbarbier.xml,|:,30,32,character_speech,1,4,,ADAM.,#suschen,59.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+168,168,GerDracor/weidmann-der-dorfbarbier.xml,O Liebe heil' mein Herz,0,23,character_speech,1,4,,ADAM.,#suschen,59.0,FEMALE,love,K,,1796.0,positive,emotions of affection
+169,169,GerDracor/weidmann-der-dorfbarbier.xml,:| Und ende meinen Schmerz.,0,27,character_speech,1,4,,ADAM.,#suschen,59.0,FEMALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+170,170,GerDracor/weidmann-der-dorfbarbier.xml,|:,28,30,character_speech,1,4,,ADAM.,#suschen,59.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+171,171,GerDracor/weidmann-der-dorfbarbier.xml,tritt auf.,0,10,stage_direction,1,4,speech_part,,#lux,60.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+172,172,GerDracor/weidmann-der-dorfbarbier.xml,"Da ist sie, ich will ihr ein wenig auf den Puls fühlen.",0,55,character_speech,1,4,,LUX,#lux,60.0,MALE,being moved,K,,1796.0,being moved,being moved
+173,173,GerDracor/weidmann-der-dorfbarbier.xml,Laut.,0,5,stage_direction,1,4,inner_speech,,#lux,60.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+174,174,GerDracor/weidmann-der-dorfbarbier.xml," Eben
+            recht, mein liebes Schätzchen, ich will im Punkt des Josephs mit Dir reden.",0,93,character_speech,1,4,,LUX,#lux,60.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+175,175,GerDracor/weidmann-der-dorfbarbier.xml,"Recht gut, daß Sie mich an den erinnern.",0,40,character_speech,1,4,,SUSCHEN.,#suschen,61.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+176,176,GerDracor/weidmann-der-dorfbarbier.xml,"Seine Besuche werden mir lästig; d'rum, Herr
+            Lux, bitte ich Sie, lassen Sie sich nicht ferner mit ihm ein.",41,159,character_speech,1,4,,SUSCHEN.,#suschen,61.0,FEMALE,anger,K,,1796.0,negative,emotions of rejection
+177,177,GerDracor/weidmann-der-dorfbarbier.xml,"Ich habe nie einen
+            Gedanken auf den Menschen gehabt.",160,224,character_speech,1,4,,SUSCHEN.,#suschen,61.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+178,178,GerDracor/weidmann-der-dorfbarbier.xml,"Er schwatzt mir verliebte Possen vor, die ich aber als
+            ein albernes Geschmätz betrachte.",225,325,character_speech,1,4,,SUSCHEN.,#suschen,61.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+179,179,GerDracor/weidmann-der-dorfbarbier.xml,"Komm' her, Du Schmuck meines Hauses, Du Ehre meiner Erziehung!",0,62,character_speech,1,4,,LUX.,#lux,62.0,MALE,love,K,,1796.0,positive,emotions of affection
+180,180,GerDracor/weidmann-der-dorfbarbier.xml,"Durch meine weisen
+            Lehren hab' ich Dich zu diesem Meisterstück gebildet.",63,147,character_speech,1,4,,LUX.,#lux,62.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+181,181,GerDracor/weidmann-der-dorfbarbier.xml,"Freue Dich, Deine Tugend erhält
+            heute ihren Lohn!",148,209,character_speech,1,4,,LUX.,#lux,62.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+182,182,GerDracor/weidmann-der-dorfbarbier.xml,"In diesem Augenblicke will ich Dir mein Herz entdecken, sei glücklich!",210,280,character_speech,1,4,,LUX.,#lux,62.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+183,183,GerDracor/weidmann-der-dorfbarbier.xml,"Höre die vortheilhaften Gedanken, die ich für Dich hege.",293,349,character_speech,1,4,,LUX.,#lux,62.0,MALE,being moved,K,,1796.0,being moved,being moved
+184,184,GerDracor/weidmann-der-dorfbarbier.xml,"Ich habe Dich zu meinem
+            Ehegesponst erkieset.",350,407,character_speech,1,4,,LUX.,#lux,62.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+185,185,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Ich bin bewundert und geschätzt
+            Bei Kleinen und bei Großen;
+            Ich bin die Krone und der Schmuck
+            Von meinen Zeitgenossen.",0,167,character_speech,1,5,,LUX.,#lux,63.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+186,186,GerDracor/weidmann-der-dorfbarbier.xml,"Das Weib, das meine Hand begehrt,
+            Ist glücklich und beneidenswerth!",180,259,character_speech,1,5,,LUX.,#lux,63.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+187,187,GerDracor/weidmann-der-dorfbarbier.xml,"Du lächelst, kleiner Schelm?",272,300,character_speech,1,5,,LUX.,#lux,63.0,MALE,Schadenfreude,K,,1796.0,positive,emotions of pleasure
+188,188,GerDracor/weidmann-der-dorfbarbier.xml,"Was gilt's, Du riechst den Braten?",313,347,character_speech,1,5,,LUX.,#lux,63.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+189,189,GerDracor/weidmann-der-dorfbarbier.xml,"Wer, meinst Du, ist die Braut?",360,390,character_speech,1,5,,LUX.,#lux,63.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+190,190,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Ich kann es nicht errathen.",0,40,character_speech,1,5,,SUSCHEN.,#suschen,64.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+191,191,GerDracor/weidmann-der-dorfbarbier.xml,Vielleicht ein Fräulein aus der Stadt?,53,91,character_speech,1,5,,SUSCHEN.,#suschen,64.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+192,192,GerDracor/weidmann-der-dorfbarbier.xml,den Kopf schüttelnd.,0,20,stage_direction,1,5,speech_part,,#lux,65.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+193,193,GerDracor/weidmann-der-dorfbarbier.xml,Die sind zu pfiffig und zu platt.,0,33,character_speech,1,5,,LUX,#lux,65.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+194,194,GerDracor/weidmann-der-dorfbarbier.xml,Vielleicht ein Mädchen von dem Land.,0,36,character_speech,1,5,,SUSCHEN.,#suschen,66.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+195,195,GerDracor/weidmann-der-dorfbarbier.xml,ihr zunickend.,0,14,stage_direction,1,5,speech_part,,#lux,67.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+196,196,GerDracor/weidmann-der-dorfbarbier.xml,Nur die erhält einst meine Hand!,0,32,character_speech,1,5,,LUX,#lux,67.0,MALE,love,K,,1796.0,positive,emotions of affection
+197,197,GerDracor/weidmann-der-dorfbarbier.xml,Ist's Görgen's Käthchen?,0,24,character_speech,1,5,,SUSCHEN.,#suschen,68.0,FEMALE,being moved,K,,1796.0,being moved,being moved
+198,198,GerDracor/weidmann-der-dorfbarbier.xml,Nein!,0,5,character_speech,1,5,,LUX.,#lux,69.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+199,199,GerDracor/weidmann-der-dorfbarbier.xml,Des Schulzen's Nettchen?,0,24,character_speech,1,5,,SUSCHEN.,#suschen,70.0,FEMALE,being moved,K,,1796.0,being moved,being moved
+200,200,GerDracor/weidmann-der-dorfbarbier.xml,Nein!,0,5,character_speech,1,5,,LUX.,#lux,71.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+201,201,GerDracor/weidmann-der-dorfbarbier.xml,Die fromme Ernestine?,0,21,character_speech,1,5,,SUSCHEN.,#suschen,72.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+202,202,GerDracor/weidmann-der-dorfbarbier.xml,Nein!,0,5,character_speech,1,5,,LUX.,#lux,73.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+203,203,GerDracor/weidmann-der-dorfbarbier.xml,Die reiche Wilhelmine?,0,22,character_speech,1,5,,SUSCHEN.,#suschen,74.0,FEMALE,being moved,K,,1796.0,being moved,being moved
+204,204,GerDracor/weidmann-der-dorfbarbier.xml,Nein!,0,5,character_speech,1,5,,LUX.,#lux,75.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+205,205,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Ich sinne hin und her,
+            Ich weiß sonst keine mehr.",0,74,character_speech,1,5,,SUSCHEN.,#suschen,76.0,FEMALE,being moved,K,,1796.0,being moved,being moved
+206,206,GerDracor/weidmann-der-dorfbarbier.xml,Wer sollt' es denn wohl sein?,87,116,character_speech,1,5,,SUSCHEN.,#suschen,76.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+207,207,GerDracor/weidmann-der-dorfbarbier.xml,sich blähend.,0,13,stage_direction,1,5,speech_part,,#lux,77.0,MALE,being moved,K,,1796.0,being moved,being moved
+208,208,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Erstaune, Kind, und höre!",0,38,character_speech,1,5,,LUX,#lux,77.0,MALE,being moved,K,,1796.0,being moved,being moved
+209,209,GerDracor/weidmann-der-dorfbarbier.xml,Nur Dir gebührt die Ehre!,51,76,character_speech,1,5,,LUX,#lux,77.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+210,210,GerDracor/weidmann-der-dorfbarbier.xml,"Nur Dir bin ich bescheert,
+            Nur Du bist meiner werth.",89,153,character_speech,1,5,,LUX,#lux,77.0,MALE,love,K,,1796.0,positive,emotions of affection
+211,211,GerDracor/weidmann-der-dorfbarbier.xml,beide für sich.,0,15,stage_direction,1,5,speech_part,,#suschen #lux,78.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+212,212,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Listig muß ich mich verstellen,
+            Sonst ist's um mich gethan.",0,84,character_speech,1,5,,SUSCHEN. LUX,#suschen #lux,78.0,UNKNOWN,fear,K,,1796.0,negative,emotions of anxiety
+213,213,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Alter Fuchs, Dich muß ich prellen
+            Und nur Joseph wird mein Mann.",0,89,character_speech,1,5,,SUSCHEN.,#suschen,79.0,FEMALE,anger,K,,1796.0,negative,emotions of rejection
+214,214,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Seht sie schlägt die Augen nieder,
+            Ihre Wange färbt die Scham,
+            Ach wie zittern ihre Glieder,
+            Ach, das arme gute Lamm.",0,166,character_speech,1,5,,LUX.,#lux,80.0,MALE,compassion,K,,1796.0,negative,emotions of suffering and empathy
+215,215,GerDracor/weidmann-der-dorfbarbier.xml,zu Lux.,0,7,stage_direction,1,5,speech_part,,#suschen,81.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+216,216,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Ich – Herr – Lux – bin – so – verlegen,
+            Daß – ich – mich – erholen muß.",0,96,character_speech,1,5,,SUSCHEN,#suschen,81.0,FEMALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+217,217,GerDracor/weidmann-der-dorfbarbier.xml,mit Salbung.,0,12,stage_direction,1,5,speech_part,,#lux,82.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+218,218,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Auf Dich strömt des Himmels Segen,
+            Schätzchen gib mir einen Kuß!",0,89,character_speech,1,5,,LUX,#lux,82.0,MALE,love,K,,1796.0,positive,emotions of affection
+219,219,GerDracor/weidmann-der-dorfbarbier.xml,Umarmt das sich sträubende Suschen.,0,35,stage_direction,1,5,speech_part,,#lux,82.0,MALE,love,K,,1796.0,positive,emotions of affection
+220,220,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Glücklich sind nur solche Ehen,
+            Wo das Herz das Jawort spricht,
+            Aber die aus Zwang geschehen,
+            Das ist wahre Liebe nicht.",0,169,character_speech,1,5,,SUSCHEN. LUX.,#suschen #lux,83.0,UNKNOWN,love,K,,1796.0,positive,emotions of affection
+221,221,GerDracor/weidmann-der-dorfbarbier.xml,Dialog.,0,7,stage_direction,1,5,speech_part,,#suschen #lux,83.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+222,222,GerDracor/weidmann-der-dorfbarbier.xml,Du bist erstaunt!?,0,18,character_speech,1,5,,LUX.,#lux,84.0,MALE,being moved,K,,1796.0,being moved,being moved
+223,223,GerDracor/weidmann-der-dorfbarbier.xml,"Ja, Du kannst mit Recht der Vorsehung danken, die Dich gewürdigt
+            hat, das Weib des großen Lux zu werden.",19,135,character_speech,1,5,,LUX.,#lux,84.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+224,224,GerDracor/weidmann-der-dorfbarbier.xml,"Mädchen, Du sollst: glänzen, wie der Sirius am
+            Nordpol und wohnen",136,213,character_speech,1,5,,LUX.,#lux,84.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+225,225,GerDracor/weidmann-der-dorfbarbier.xml,"Joseph tritt
+              ein.",0,31,stage_direction,1,5,inner_speech,,#lux,84.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+226,226,GerDracor/weidmann-der-dorfbarbier.xml,"Ach, da kommt der überlästige Mensch schon wieder.",0,50,character_speech,1,5,,SUSCHEN.,#suschen,85.0,FEMALE,abhorrence,K,,1796.0,negative,emotions of rejection
+227,227,GerDracor/weidmann-der-dorfbarbier.xml,Geht in's Zimmer und holt einen Brief.,0,38,stage_direction,1,5,speech_part,,#suschen,85.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+228,228,GerDracor/weidmann-der-dorfbarbier.xml,O mit dem will ich bald fertig sein!,0,36,character_speech,1,5,,LUX.,#lux,86.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+229,229,GerDracor/weidmann-der-dorfbarbier.xml,"Ich kann nicht vor diesem Hause vorübergehen, ohne meinen lieben Herrn Lux zu
+            begrüßen.",0,99,character_speech,1,5,,JOSEPH.,#joseph,87.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+230,230,GerDracor/weidmann-der-dorfbarbier.xml,"Suschen gibt Joseph den Brief, Joseph winkt ihr.",0,48,stage_direction,1,5,speech_part,,#joseph,87.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+231,231,GerDracor/weidmann-der-dorfbarbier.xml,kalt.,0,5,stage_direction,1,5,speech_part,,#lux,88.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+232,232,GerDracor/weidmann-der-dorfbarbier.xml,"Schönen Dank, ich habe Geschäfte.",0,33,character_speech,1,5,,LUX,#lux,88.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+233,233,GerDracor/weidmann-der-dorfbarbier.xml,"Wo man eintritt, spricht Alles nur von dem weltberühmten Herrn Lux.",0,67,character_speech,1,5,,JOSEPH.,#joseph,89.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+234,234,GerDracor/weidmann-der-dorfbarbier.xml,wird freundlich.,0,16,stage_direction,1,5,speech_part,,#lux,90.0,MALE,friendship,K,,1796.0,positive,emotions of affection
+235,235,GerDracor/weidmann-der-dorfbarbier.xml,Wie so?,0,7,character_speech,1,5,,LUX,#lux,90.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+236,236,GerDracor/weidmann-der-dorfbarbier.xml,"Ich gehe gleich, Jungfer Suschen!",0,33,character_speech,1,5,,JOSEPH.,#joseph,91.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+237,237,GerDracor/weidmann-der-dorfbarbier.xml,"ich weiß wohl, daß ich Ihnen verhaßt bin.",34,75,character_speech,1,5,,JOSEPH.,#joseph,91.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+238,238,GerDracor/weidmann-der-dorfbarbier.xml,"Ich will
+            nur hier mit Herrn Lux, der die Zierde der Arzneikunst ist, ein wenig reden.",76,173,character_speech,1,5,,JOSEPH.,#joseph,91.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+239,239,GerDracor/weidmann-der-dorfbarbier.xml,"– Das neue
+            Wunder mit dem Dorfschneider hat alle Menschen in Erstaunen gesetzt.",174,265,character_speech,1,5,,JOSEPH.,#joseph,91.0,MALE,being moved,K,,1796.0,being moved,being moved
+240,240,GerDracor/weidmann-der-dorfbarbier.xml,"Alle Bauern essen
+            Schinken.",266,305,character_speech,1,5,,JOSEPH.,#joseph,91.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+241,241,GerDracor/weidmann-der-dorfbarbier.xml,"So lange ich auf der Universität war, habe ich nie von einem Arzt gehört, der
+            so viele außerordentliche Kuren verrichtet hätte.",306,445,character_speech,1,5,,JOSEPH.,#joseph,91.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+242,242,GerDracor/weidmann-der-dorfbarbier.xml,Es ist eine besondere Gabe der Natur – Genie!,0,45,character_speech,1,5,,LUX.,#lux,92.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+243,243,GerDracor/weidmann-der-dorfbarbier.xml,"– Es hat Studium gekostet, bis ich es
+            soweit gebracht habe.",46,117,character_speech,1,5,,LUX.,#lux,92.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+244,244,GerDracor/weidmann-der-dorfbarbier.xml,Joseph ist indessen zu Suschen geschlichen.,0,43,stage_direction,1,5,speech_part,,#lux,92.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+245,245,GerDracor/weidmann-der-dorfbarbier.xml,"sieht, das Lux sich zu ihr wendet.",0,34,stage_direction,1,5,speech_part,,#suschen,93.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+246,246,GerDracor/weidmann-der-dorfbarbier.xml,O quälen Sie mich nicht mit Ihren Briefen!,0,42,character_speech,1,5,,SUSCHEN,#suschen,93.0,FEMALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+247,247,GerDracor/weidmann-der-dorfbarbier.xml,"Fort mit diesem Geschmiere; ich will nichts
+            lesen, nichts hören!",43,119,character_speech,1,5,,SUSCHEN,#suschen,93.0,FEMALE,anger,K,,1796.0,negative,emotions of rejection
+248,248,GerDracor/weidmann-der-dorfbarbier.xml,Gibt Joseph ihren eigenen Brief und läuft in das Vorzimmer.,0,59,stage_direction,1,5,speech_part,,#suschen,93.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+249,249,GerDracor/weidmann-der-dorfbarbier.xml,"Danken Sie es meiner guten Laune, sonst –",0,41,character_speech,1,5,,LUX.,#lux,94.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+250,250,GerDracor/weidmann-der-dorfbarbier.xml,Die Bauern kommen.,0,18,stage_direction,1,5,inner_speech,,#lux,94.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+251,251,GerDracor/weidmann-der-dorfbarbier.xml," Was wollt
+            Ihr?",0,27,character_speech,1,5,,LUX.,#lux,94.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+252,252,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Gott grüße Euch in Ehren!",0,38,character_speech,1,6,,BAUERN.,#bauern,95.0,UNKNOWN,"admiration, reverence",K,,1796.0,positive,emotions of affection
+253,253,GerDracor/weidmann-der-dorfbarbier.xml,"Die Bärte uns zu scheeren,
+            Erscheinen wir bei Euch.",51,114,character_speech,1,6,,BAUERN.,#bauern,95.0,UNKNOWN,anger,K,,1796.0,negative,emotions of rejection
+254,254,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Beliebt Euch nur zu setzen,
+            Ich muß mein Messer wetzen,
+            Dann putz' ich Euch sogleich.",0,122,character_speech,1,6,,LUX.,#lux,96.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+255,255,GerDracor/weidmann-der-dorfbarbier.xml,Bei Seite.,0,10,stage_direction,1,6,speech_part,,#lux,96.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+256,256,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Verwünscht sei doch der Geck,
+            Er geht mir nicht vom Fleck.",0,83,character_speech,1,6,,LUX.,#lux,96.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+257,257,GerDracor/weidmann-der-dorfbarbier.xml,"Das Liebeln muß ich enden;
+            Mir geht es nicht von Händen.",96,164,character_speech,1,6,,LUX.,#lux,96.0,MALE,love,K,,1796.0,positive,emotions of affection
+258,258,GerDracor/weidmann-der-dorfbarbier.xml,Laut.,0,5,stage_direction,1,6,speech_part,,#lux,96.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+259,259,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Joseph, leb' Er wohl!",0,26,character_speech,1,6,,LUX.,#lux,96.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+260,260,GerDracor/weidmann-der-dorfbarbier.xml,Für sich.,0,9,stage_direction,1,6,speech_part,,#lux,96.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+261,261,GerDracor/weidmann-der-dorfbarbier.xml,Daß Dich der Teufel hol'!,0,25,character_speech,1,6,,LUX.,#lux,96.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+262,262,GerDracor/weidmann-der-dorfbarbier.xml,Ich gehe schon Herr Lux!,0,24,character_speech,1,6,,JOSEPH.,#joseph,97.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+263,263,GerDracor/weidmann-der-dorfbarbier.xml,für sich.,0,9,stage_direction,1,6,speech_part,,#lux,98.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+264,264,GerDracor/weidmann-der-dorfbarbier.xml,Verdammter schlauer Fuchs!,0,26,character_speech,1,6,,LUX,#lux,98.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+265,265,GerDracor/weidmann-der-dorfbarbier.xml,für sich.,0,9,stage_direction,1,6,speech_part,,#joseph,99.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+266,266,GerDracor/weidmann-der-dorfbarbier.xml,Verdammter alter Fuchs!,0,23,character_speech,1,6,,JOSEPH,#joseph,99.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+267,267,GerDracor/weidmann-der-dorfbarbier.xml,drängend.,0,9,stage_direction,1,6,speech_part,,#bauern,100.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+268,268,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, wir haben keine Zeit.",0,31,character_speech,1,6,,DIE BAUERN,#bauern,100.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+269,269,GerDracor/weidmann-der-dorfbarbier.xml,"Gleich, gleich, ich bin ja schon bereit.",0,40,character_speech,1,6,,LUX.,#lux,101.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+270,270,GerDracor/weidmann-der-dorfbarbier.xml,Für sich.,0,9,stage_direction,1,6,speech_part,,#lux,101.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+271,271,GerDracor/weidmann-der-dorfbarbier.xml,"Seht, wie er heimlich spricht.",0,30,character_speech,1,6,,LUX.,#lux,101.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+272,272,GerDracor/weidmann-der-dorfbarbier.xml,Laut.,0,5,stage_direction,1,6,speech_part,,#lux,101.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+273,273,GerDracor/weidmann-der-dorfbarbier.xml,Jetzt find' ich mein Barbierzeug nicht.,0,39,character_speech,1,6,,LUX.,#lux,101.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+274,274,GerDracor/weidmann-der-dorfbarbier.xml,leise zu Joseph.,0,16,stage_direction,1,6,speech_part,,#suschen,102.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+275,275,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Ich soll Dich künftig meiden,
+            Das soll niemals gescheh'n.",0,82,character_speech,1,6,,SUSCHEN,#suschen,102.0,FEMALE,abhorrence,K,,1796.0,negative,emotions of rejection
+276,276,GerDracor/weidmann-der-dorfbarbier.xml,zu Suschen.,0,11,stage_direction,1,6,speech_part,,#joseph,103.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+277,277,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Dein Anblick bringt mir Freuden,
+            Ich kann nicht von Dir geh'n.",0,87,character_speech,1,6,,JOSEPH,#joseph,103.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+278,278,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, mein Bart!",0,20,character_speech,1,6,,BAUERN.,#bauern,104.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+279,279,GerDracor/weidmann-der-dorfbarbier.xml,suchend.,0,8,stage_direction,1,6,speech_part,,#lux,105.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+280,280,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Mein Messer!",0,25,character_speech,1,6,,LUX,#lux,105.0,MALE,being moved,K,,1796.0,being moved,being moved
+281,281,GerDracor/weidmann-der-dorfbarbier.xml,– gleich!,26,35,character_speech,1,6,,LUX,#lux,105.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+282,282,GerDracor/weidmann-der-dorfbarbier.xml,Das ist doch ein verdammter Streich!,48,84,character_speech,1,6,,LUX,#lux,105.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+283,283,GerDracor/weidmann-der-dorfbarbier.xml,drängend.,0,9,stage_direction,1,6,speech_part,,#bauern,106.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+284,284,GerDracor/weidmann-der-dorfbarbier.xml,Wir haben Session!,0,18,character_speech,1,6,,BAUERN,#bauern,106.0,UNKNOWN,joy,K,,1796.0,positive,emotions of pleasure
+285,285,GerDracor/weidmann-der-dorfbarbier.xml,Verfluchte Konfusion!,0,21,character_speech,1,6,,LUX.,#lux,107.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+286,286,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Potz Narren und kein End'!",0,39,character_speech,1,6,,JOSEPH. SUSCHEN.,#joseph #suschen,108.0,UNKNOWN,joy,K,,1796.0,positive,emotions of pleasure
+287,287,GerDracor/weidmann-der-dorfbarbier.xml,"Seht, wie der Kopf ihm brennt.",52,82,character_speech,1,6,,JOSEPH. SUSCHEN.,#joseph #suschen,108.0,UNKNOWN,being moved,K,,1796.0,being moved,being moved
+288,288,GerDracor/weidmann-der-dorfbarbier.xml,kommt eilig.,0,12,stage_direction,1,6,speech_part,,#rund,109.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+289,289,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Zu Hülfe, zu Hülfe!",0,32,character_speech,1,6,,SCHULMEISTER,#rund,109.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+290,290,GerDracor/weidmann-der-dorfbarbier.xml,"o Jammer, o Noth!",33,50,character_speech,1,6,,SCHULMEISTER,#rund,109.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+291,291,GerDracor/weidmann-der-dorfbarbier.xml,Die Bauern zerschlagen und raufen fich todt.,63,107,character_speech,1,6,,SCHULMEISTER,#rund,109.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+292,292,GerDracor/weidmann-der-dorfbarbier.xml,in Eile auftretend.,0,19,stage_direction,1,6,speech_part,,#adam,110.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+293,293,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Geschwinde, geschwinde, o sehet doch nach,
+            O laufet, es lieget ein Todter im Bach.",0,107,character_speech,1,6,,ADAM,#adam,110.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+294,294,GerDracor/weidmann-der-dorfbarbier.xml,Das Wirthshaus schwimmt im Blut.,0,32,character_speech,1,6,,SCHULMEISTER.,#rund,111.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+295,295,GerDracor/weidmann-der-dorfbarbier.xml,"Man rauft, und das war gut,",0,27,character_speech,1,6,,ADAM.,#adam,112.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+296,296,GerDracor/weidmann-der-dorfbarbier.xml,ungeduldig.,0,11,stage_direction,1,6,speech_part,,#bauern,113.0,UNKNOWN,anger,K,,1796.0,negative,emotions of rejection
+297,297,GerDracor/weidmann-der-dorfbarbier.xml,"Zum Teufel, uns're Bärte!",0,25,character_speech,1,6,,BAUERN,#bauern,113.0,UNKNOWN,anger,K,,1796.0,negative,emotions of rejection
+298,298,GerDracor/weidmann-der-dorfbarbier.xml,außer sich.,0,11,stage_direction,1,6,speech_part,,#lux,114.0,MALE,despair,K,,1796.0,negative,emotions of anxiety
+299,299,GerDracor/weidmann-der-dorfbarbier.xml,"O Plage, o Beschwerde!",0,22,character_speech,1,6,,LUX,#lux,114.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+300,300,GerDracor/weidmann-der-dorfbarbier.xml,Ich muß barbieret sein.,0,23,character_speech,1,6,,BAUERN.,#bauern,115.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+301,301,GerDracor/weidmann-der-dorfbarbier.xml,verwirrt.,0,9,stage_direction,1,6,speech_part,,#lux,116.0,MALE,being moved,K,,1796.0,being moved,being moved
+302,302,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Da schlag' der Donner drein!",0,41,character_speech,1,6,,LUX,#lux,116.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+303,303,GerDracor/weidmann-der-dorfbarbier.xml,"Hier soll ich barbieren, dort Todte kuriren.",54,98,character_speech,1,6,,LUX,#lux,116.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+304,304,GerDracor/weidmann-der-dorfbarbier.xml,Hier einen seciren und dorten klystiren.,111,151,character_speech,1,6,,LUX,#lux,116.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+305,305,GerDracor/weidmann-der-dorfbarbier.xml,Ich werde noch ein Narr.,164,188,character_speech,1,6,,LUX,#lux,116.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+306,306,GerDracor/weidmann-der-dorfbarbier.xml,"Das ist Er schon, fürwahr.",0,26,character_speech,1,6,,ALLE.,#bauern #joseph #suschen #rund #adam,117.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+307,307,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, mein Bart!",0,20,character_speech,1,6,,BAUERN.,#bauern,118.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+308,308,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, die Leich'!",0,21,character_speech,1,6,,ADAM.,#adam,119.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+309,309,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, der Streit!",0,21,character_speech,1,6,,SCHULMEISTER.,#rund,120.0,MALE,being moved,K,,1796.0,being moved,being moved
+310,310,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Ich komme gleich!",0,30,character_speech,1,6,,LUX.,#lux,121.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+311,311,GerDracor/weidmann-der-dorfbarbier.xml,Ich berste noch vor Ärgernis.,43,72,character_speech,1,6,,LUX.,#lux,121.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+312,312,GerDracor/weidmann-der-dorfbarbier.xml,Er geht noch nicht der Hasenfuß.,85,117,character_speech,1,6,,LUX.,#lux,121.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+313,313,GerDracor/weidmann-der-dorfbarbier.xml,Zu Rund.,0,8,stage_direction,1,6,speech_part,,#lux,121.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+314,314,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Bewahren Sie mein Suschen dort!",0,44,character_speech,1,6,,LUX.,#lux,121.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+315,315,GerDracor/weidmann-der-dorfbarbier.xml,"Adieu, Herr Rund, jetzt eil' ich fort.",57,95,character_speech,1,6,,LUX.,#lux,121.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+316,316,GerDracor/weidmann-der-dorfbarbier.xml,Ab.,0,3,stage_direction,1,6,speech_part,,#lux,121.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+317,317,GerDracor/weidmann-der-dorfbarbier.xml,"Adieu, Herr Rund, wir eilen fort.",0,33,character_speech,1,6,,ADAM.,#adam,122.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+318,318,GerDracor/weidmann-der-dorfbarbier.xml,Ab.,0,3,stage_direction,1,6,speech_part,,#adam,122.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+319,319,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Was ist denn das für eine Art,
+            Herr Lux, wo bleibt denn unser Bart?",0,92,character_speech,1,6,,BAUERN.,#bauern,123.0,UNKNOWN,being moved,K,,1796.0,being moved,being moved
+320,320,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, so hören Sie ein Wort,
+            Da läuft er wirklich fort!",105,176,character_speech,1,6,,BAUERN.,#bauern,123.0,UNKNOWN,fear,K,,1796.0,negative,emotions of anxiety
+321,321,GerDracor/weidmann-der-dorfbarbier.xml,Er ist fürwahr ein toller Narr!,0,31,character_speech,1,6,,SCHULMEISTER. JOSEPH. SUSCHEN.,#rund #joseph #suschen,124.0,UNKNOWN,anger,K,,1796.0,negative,emotions of rejection
+322,322,GerDracor/weidmann-der-dorfbarbier.xml,Dialog.,0,7,stage_direction,1,6,speech_part,,#rund #joseph #suschen,124.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+323,323,GerDracor/weidmann-der-dorfbarbier.xml,Kinder nützen wir diesen Augenblick.,0,36,character_speech,1,6,,RUND.,#rund,125.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+324,324,GerDracor/weidmann-der-dorfbarbier.xml,"O mein lieber Joseph, ich bin in tausend Ängsten, Lux will mich heirathen.",0,74,character_speech,1,6,,SUSCHEN.,#suschen,126.0,FEMALE,fear,K,,1796.0,negative,emotions of anxiety
+325,325,GerDracor/weidmann-der-dorfbarbier.xml,"Er will das Vermögen fischen, aber er ist noch nicht da, wo er sein will.",0,73,character_speech,1,6,,RUND.,#rund,127.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+326,326,GerDracor/weidmann-der-dorfbarbier.xml,"Mit Gewalt
+            läßt es sich zwar nicht zwingen, aber List und Verstellung sollen uns zum Zweck
+            führen.",74,196,character_speech,1,6,,RUND.,#rund,127.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+327,327,GerDracor/weidmann-der-dorfbarbier.xml,"O, ja liebster Herr Rund, stehen Sie uns bei, und Sie sollen gewiß mit meiner
+            Erkenntlichkeit zufrieden sein.",0,121,character_speech,1,6,,JOSEPH.,#joseph,128.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+328,328,GerDracor/weidmann-der-dorfbarbier.xml,"Ich mache mir eiue Freude d'raus, ein so hübsches Pärchen zu verbinden.",0,71,character_speech,1,6,,RUND.,#rund,129.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+329,329,GerDracor/weidmann-der-dorfbarbier.xml,"Aber ist es denn wahr, daß Jemand im Bache verunglückt ist?",0,59,character_speech,1,6,,JOSEPH.,#joseph,130.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+330,330,GerDracor/weidmann-der-dorfbarbier.xml,Bewahre!,0,8,character_speech,1,6,,RUND.,#rund,131.0,MALE,being moved,K,,1796.0,being moved,being moved
+331,331,GerDracor/weidmann-der-dorfbarbier.xml,"Die Bauern haben einen ausgestopften Affen, den der Edelmann hatte
+            hineinwerfen lassen, herausgefischt, und glauben nun, daß es ein Mensch ist, der Spaß
+            wäre vollkommen, wenn der Herr Lux einen speciem facti nach der Stadt
+            schickte.",9,277,character_speech,1,6,,RUND.,#rund,131.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+332,332,GerDracor/weidmann-der-dorfbarbier.xml,Das ist vortrefflich.,0,21,character_speech,1,6,,JOSEPH.,#joseph,132.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+333,333,GerDracor/weidmann-der-dorfbarbier.xml,Doch jetzt zur Sache!,0,21,character_speech,1,6,,RUND.,#rund,133.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+334,334,GerDracor/weidmann-der-dorfbarbier.xml,Bei unserm Plane bleibt's!,22,48,character_speech,1,6,,RUND.,#rund,133.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+335,335,GerDracor/weidmann-der-dorfbarbier.xml,Jeder spielt seine Rolle.,49,74,character_speech,1,6,,RUND.,#rund,133.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+336,336,GerDracor/weidmann-der-dorfbarbier.xml,"Sie Herr
+            Joseph nehmen Gift, setzen Suschen zur Erbin ihres Vermögens ein.",75,161,character_speech,1,6,,RUND.,#rund,133.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+337,337,GerDracor/weidmann-der-dorfbarbier.xml,"– Lux wird mit
+            gierigen Augen, die zwiefache Erbschaft verschlingen, aber es soll ihm gehen wie dem
+            Hund in der Fabel!",162,304,character_speech,1,6,,RUND.,#rund,133.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+338,338,GerDracor/weidmann-der-dorfbarbier.xml,"Indeß er nach dem Schatten greift, soll er seinen eignen Knochen
+            verlieren.",305,392,character_speech,1,6,,RUND.,#rund,133.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+339,339,GerDracor/weidmann-der-dorfbarbier.xml,Unser Wohl und Wehe liegt in Ihren Händen.,0,42,character_speech,1,6,,SUSCHEN.,#suschen,134.0,FEMALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+340,340,GerDracor/weidmann-der-dorfbarbier.xml,"Ja liebster Herr Rund, unsre ganze Hoffnung beruht auf Ihnen.",0,61,character_speech,1,6,,JOSEPH.,#joseph,135.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+341,341,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Bald werden die Leiden verschwinden,
+            Bald wird uns der süßeste Lohn.",0,93,character_speech,1,7,,JOSEPH.,#joseph,136.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+342,342,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Wir werden die Hände verbinden,
+            Die Herzen, ach, sind es ja schon.",0,91,character_speech,1,7,,SUSCHEN.,#suschen,137.0,FEMALE,love,K,,1796.0,positive,emotions of affection
+343,343,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Wir werden die Tage verscherzen,
+            Vergnügt, wenn der Morgen erwacht;
+            Wir schlafen mit ruhigem Herzen,
+            Die Tugend ist's, die uns bewacht.",0,184,character_speech,1,7,,JOSEPH. SUSCHEN.,#joseph #suschen,138.0,UNKNOWN,joy,K,,1796.0,positive,emotions of pleasure
+344,344,GerDracor/weidmann-der-dorfbarbier.xml,"Die Tugend ist's, die Euch bewacht.",0,35,character_speech,1,7,,RUND.,#rund,139.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+345,345,GerDracor/weidmann-der-dorfbarbier.xml,zu Joseph.,0,10,stage_direction,1,7,speech_part,,#suschen,140.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+346,346,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Doch wirst Du mich immer so lieben,
+            Und immer vor Allen nur mich?",0,90,character_speech,1,7,,SUSCHEN,#suschen,140.0,FEMALE,love,K,,1796.0,positive,emotions of affection
+347,347,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Tief ist's mir in's Herze geschrieben:
+            Ich liebe o Mädchen nur Dich.",0,93,character_speech,1,7,,JOSEPH.,#joseph,141.0,MALE,love,K,,1796.0,positive,emotions of affection
+348,348,GerDracor/weidmann-der-dorfbarbier.xml,bekräftigend.,0,13,stage_direction,1,7,speech_part,,#rund,142.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+349,349,GerDracor/weidmann-der-dorfbarbier.xml,"Er liebet, o Mädchen nur Dich.",0,30,character_speech,1,7,,RUND,#rund,142.0,MALE,love,K,,1796.0,positive,emotions of affection
+350,350,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Wir werden die Tage verscherzen,
+            Vergnügt, wenn der Morgen erwacht,
+            Wir schlafen mit Frieden im Herzen,
+            Die Tugend ist's, die uns bewacht.",0,187,character_speech,1,7,,JOSEPH. SUSCHEN.,#joseph #suschen,143.0,UNKNOWN,joy,K,,1796.0,positive,emotions of pleasure
+351,351,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Frei von allen Schmerzen,
+            Weil das Glück Euch freundlich lacht,
+            Werdet ihr nur scherzen
+            Durch den Tag und durch die Nacht.",0,171,character_speech,1,7,,RUND.,#rund,144.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+352,352,GerDracor/weidmann-der-dorfbarbier.xml,"Stille, da hat ihn der Henker schon wieder.",0,43,character_speech,1,7,,RUND.,#rund,145.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+353,353,GerDracor/weidmann-der-dorfbarbier.xml,Beginnt Eure Rollen hübsch klug.,44,76,character_speech,1,7,,RUND.,#rund,145.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+354,354,GerDracor/weidmann-der-dorfbarbier.xml,"Lux
+              tritt ein.",0,28,stage_direction,1,7,inner_speech,,#rund,145.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+355,355,GerDracor/weidmann-der-dorfbarbier.xml,indem er sich in Ordnung richtet.,0,33,stage_direction,1,7,speech_part,,#lux,146.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+356,356,GerDracor/weidmann-der-dorfbarbier.xml,"Man hat Mühe, diese Halbmenschen zur Vernunft zu bringen –",0,58,character_speech,1,7,,LUX,#lux,146.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+357,357,GerDracor/weidmann-der-dorfbarbier.xml,Sieht Joseph.,0,13,stage_direction,1,7,inner_speech,,#lux,146.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+358,358,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Ha!",0,16,character_speech,1,7,,LUX,#lux,146.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+359,359,GerDracor/weidmann-der-dorfbarbier.xml,–,17,18,character_speech,1,7,,LUX,#lux,146.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+360,360,GerDracor/weidmann-der-dorfbarbier.xml,geht wild an ihm vorüber und drückt ihm die Hand.,0,49,stage_direction,1,7,speech_part,,#joseph,147.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+361,361,GerDracor/weidmann-der-dorfbarbier.xml,"Leben Sie wohl, Herr Lux, bald sollen Sie von mir hören",0,55,character_speech,1,7,,JOSEPH,#joseph,147.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+362,362,GerDracor/weidmann-der-dorfbarbier.xml,"Eilt heftig
+              fort.",0,31,stage_direction,1,7,inner_speech,,#joseph,147.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+363,363,GerDracor/weidmann-der-dorfbarbier.xml,Der kommt gewiß nicht wieder her!,0,33,character_speech,1,7,,RUND.,#rund,148.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+364,364,GerDracor/weidmann-der-dorfbarbier.xml,"Ihr Suschen, Herr Lux, ist ein braves Mädchen, die
+            hat den Burschen abgeblitzt!",34,125,character_speech,1,7,,RUND.,#rund,148.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+365,365,GerDracor/weidmann-der-dorfbarbier.xml,– Wie pfiffig – Hahaha!,126,149,character_speech,1,7,,RUND.,#rund,148.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+366,366,GerDracor/weidmann-der-dorfbarbier.xml,Mein Suschen?,0,13,character_speech,1,7,,LUX.,#lux,149.0,MALE,being moved,K,,1796.0,being moved,being moved
+367,367,GerDracor/weidmann-der-dorfbarbier.xml,"Reden Sie weiter, Herr Rund.",14,42,character_speech,1,7,,LUX.,#lux,149.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+368,368,GerDracor/weidmann-der-dorfbarbier.xml,"Schnupft Tabak und giebt ihm
+              auch.",0,48,stage_direction,1,7,inner_speech,,#lux,149.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+369,369,GerDracor/weidmann-der-dorfbarbier.xml,ahmt Suschen nach.,0,18,stage_direction,1,7,speech_part,,#rund,150.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+370,370,GerDracor/weidmann-der-dorfbarbier.xml,"»Ei, ein solcher Müßiggänger kommt mir eben recht, da sind mir bessere Aussichten
+            geöffnet.« Ich weiß nicht, was sie damit sagen will.",0,146,character_speech,1,7,,RUND,#rund,150.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+371,371,GerDracor/weidmann-der-dorfbarbier.xml,reibt sich freudig die Hand.,0,28,stage_direction,1,7,speech_part,,#lux,151.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+372,372,GerDracor/weidmann-der-dorfbarbier.xml,Damit meint sie mich – o ich möchte das Mädchen aus Liebe fressen!,0,66,character_speech,1,7,,LUX,#lux,151.0,MALE,love,K,,1796.0,positive,emotions of affection
+373,373,GerDracor/weidmann-der-dorfbarbier.xml,lacht.,0,6,stage_direction,1,7,speech_part,,#rund,152.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+374,374,GerDracor/weidmann-der-dorfbarbier.xml,Nun!,0,4,character_speech,1,7,,RUND,#rund,152.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+375,375,GerDracor/weidmann-der-dorfbarbier.xml,Nun!,5,9,character_speech,1,7,,RUND,#rund,152.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+376,376,GerDracor/weidmann-der-dorfbarbier.xml,Ist auch nur so eine Redensart.,0,31,character_speech,1,7,,LUX.,#lux,153.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+377,377,GerDracor/weidmann-der-dorfbarbier.xml,Bei ihr hat meine Erziehung gute Früchte getragen.,32,82,character_speech,1,7,,LUX.,#lux,153.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+378,378,GerDracor/weidmann-der-dorfbarbier.xml,"Aber
+            was sagte Joseph?",83,117,character_speech,1,7,,LUX.,#lux,153.0,MALE,being moved,K,,1796.0,being moved,being moved
+379,379,GerDracor/weidmann-der-dorfbarbier.xml,Der junge Mensch ward rasend.,0,29,character_speech,1,7,,RUND.,#rund,154.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+380,380,GerDracor/weidmann-der-dorfbarbier.xml,Hahaha!,0,7,character_speech,1,7,,LUX.,#lux,155.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+381,381,GerDracor/weidmann-der-dorfbarbier.xml,So muß man die jungen Herren abweisen.,8,46,character_speech,1,7,,LUX.,#lux,155.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+382,382,GerDracor/weidmann-der-dorfbarbier.xml,Lärm von außen.,0,15,stage_direction,1,7,inner_speech,,#lux,155.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+383,383,GerDracor/weidmann-der-dorfbarbier.xml," Was ist
+            denn schon wieder für ein Lärm?",0,52,character_speech,1,7,,LUX.,#lux,155.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+384,384,GerDracor/weidmann-der-dorfbarbier.xml,Adam tritt auf.,0,15,stage_direction,1,7,inner_speech,,#lux,155.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+385,385,GerDracor/weidmann-der-dorfbarbier.xml,"Stirbt der Fuchs, so gilt der Balg.",0,35,character_speech,1,7,,ADAM.,#adam,156.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+386,386,GerDracor/weidmann-der-dorfbarbier.xml,"Wer keine Pferde hat, muß mit Ochsen fahren.",36,80,character_speech,1,7,,ADAM.,#adam,156.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+387,387,GerDracor/weidmann-der-dorfbarbier.xml,"Herr
+            Lux, der Körper – es muß einmal gestorben sein – die Bauern bringen ihn hierher.",81,178,character_speech,1,7,,ADAM.,#adam,156.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+388,388,GerDracor/weidmann-der-dorfbarbier.xml,Was soll er hier?,0,17,character_speech,1,7,,LUX.,#lux,157.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+389,389,GerDracor/weidmann-der-dorfbarbier.xml,Zum Richter muß man ihn tragen.,18,49,character_speech,1,7,,LUX.,#lux,157.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+390,390,GerDracor/weidmann-der-dorfbarbier.xml,sieht zur Thür hinaus.,0,22,stage_direction,1,7,speech_part,,#adam,158.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+391,391,GerDracor/weidmann-der-dorfbarbier.xml,Da kommen sie schon mit dem Todten.,0,35,character_speech,1,7,,ADAM,#adam,158.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+392,392,GerDracor/weidmann-der-dorfbarbier.xml,schreiend.,0,10,stage_direction,1,7,speech_part,,#lux,159.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+393,393,GerDracor/weidmann-der-dorfbarbier.xml,"Laßt ihn draußen, Ihr Leute, laßt ihn draußen.",0,46,character_speech,1,7,,LUX,#lux,159.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+394,394,GerDracor/weidmann-der-dorfbarbier.xml,"Thomas und Philipp treten
+              auf.",0,44,stage_direction,1,7,inner_speech,,#lux,159.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+395,395,GerDracor/weidmann-der-dorfbarbier.xml,"Es ist ein abscheulicher Spektakel, Herr Lux.",0,45,character_speech,1,7,,THOMAS.,#thomas,160.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+396,396,GerDracor/weidmann-der-dorfbarbier.xml,"Es hat sich nicht umsonst die Sonne
+            gestern verfinstert.",46,114,character_speech,1,7,,THOMAS.,#thomas,160.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+397,397,GerDracor/weidmann-der-dorfbarbier.xml,Und der singende Wind war ein schreckliches Zeichen.,0,52,character_speech,1,7,,PHILIPP.,#philipp,161.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+398,398,GerDracor/weidmann-der-dorfbarbier.xml,"Adam, Feder und Tinte.",0,22,character_speech,1,7,,LUX.,#lux,162.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+399,399,GerDracor/weidmann-der-dorfbarbier.xml,– Ich muß das visum repertum machen.,23,59,character_speech,1,7,,LUX.,#lux,162.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+400,400,GerDracor/weidmann-der-dorfbarbier.xml,"O facta
+              horrenda, die Haare sträuben sich zu Berge!",60,125,character_speech,1,7,,LUX.,#lux,162.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+401,401,GerDracor/weidmann-der-dorfbarbier.xml,bringt Schreibzeug.,0,19,stage_direction,1,7,speech_part,,#adam,163.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+402,402,GerDracor/weidmann-der-dorfbarbier.xml,Niemand kann dem Tode entlaufen.,0,32,character_speech,1,7,,ADAM,#adam,163.0,MALE,despair,K,,1796.0,negative,emotions of anxiety
+403,403,GerDracor/weidmann-der-dorfbarbier.xml,Wie sieht er aus.,0,17,character_speech,1,7,,LUX.,#lux,164.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+404,404,GerDracor/weidmann-der-dorfbarbier.xml,Extemporé.,0,10,stage_direction,1,7,inner_speech,,#lux,164.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+405,405,GerDracor/weidmann-der-dorfbarbier.xml, Er ist schwarz wie ein Mohr!,0,29,character_speech,1,7,,LUX.,#lux,164.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+406,406,GerDracor/weidmann-der-dorfbarbier.xml,"Vermuthlich
+            ist es ein junger Afrikaner.",30,82,character_speech,1,7,,LUX.,#lux,164.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+407,407,GerDracor/weidmann-der-dorfbarbier.xml,Ihr habt ihn doch genau besehen?,83,115,character_speech,1,7,,LUX.,#lux,164.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+408,408,GerDracor/weidmann-der-dorfbarbier.xml,"Ja, wir haben ihn alle genau besehen, er ist schwarz wie ein Mohr.",0,66,character_speech,1,7,,BAUERN.,#bauern,165.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+409,409,GerDracor/weidmann-der-dorfbarbier.xml,setzt sich und schreibt.,0,24,stage_direction,1,7,speech_part,,#lux,166.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+410,410,GerDracor/weidmann-der-dorfbarbier.xml,Heute ist im Rothbach eine Leiche gefunden worden.,0,50,character_speech,1,7,,LUX,#lux,166.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+411,411,GerDracor/weidmann-der-dorfbarbier.xml,"Allen vernünftigen Muthmaßungen nach
+            ist er ein Reisender, der von Straßenräubern grausam ermordet worden –",51,170,character_speech,1,7,,LUX,#lux,166.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+412,412,GerDracor/weidmann-der-dorfbarbier.xml,"Springt
+              auf.",0,26,stage_direction,1,7,inner_speech,,#lux,166.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+413,413,GerDracor/weidmann-der-dorfbarbier.xml," He, Bauern!",0,12,character_speech,1,7,,LUX,#lux,166.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+414,414,GerDracor/weidmann-der-dorfbarbier.xml,"Tragt nur die Leiche zum Richter, damit nun auch die
+            gerichtliche Untersuchung über sie ergehe.",13,120,character_speech,1,7,,LUX,#lux,166.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+415,415,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, ich bin zwar nur ein Barbiergeselle, mir scheint aber die Leiche kein
+            menschlicher Körper zu sein.",0,120,character_speech,1,7,,ADAM.,#adam,167.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+416,416,GerDracor/weidmann-der-dorfbarbier.xml,"Kein Feuer ohne Rauch, kluge Leute fehlen auch.",121,168,character_speech,1,7,,ADAM.,#adam,167.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+417,417,GerDracor/weidmann-der-dorfbarbier.xml,Er ist ein Esel!,0,16,character_speech,1,7,,LUX.,#lux,168.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+418,418,GerDracor/weidmann-der-dorfbarbier.xml,"Will er die Sache besser verstehen als ich, der ich so lange Praxis
+            mit Theorie verbinde?",17,118,character_speech,1,7,,LUX.,#lux,168.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+419,419,GerDracor/weidmann-der-dorfbarbier.xml,"Lese Er einmal die wunderbaren Reisebeschreibungen von den
+            Menschen, die den Kopf unter dem Arme tragen, von den Kranichvölkern, welche die
+            spielende Natur hervorgebracht hat und noch täglich hervorbringt.",119,348,character_speech,1,7,,LUX.,#lux,168.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+420,420,GerDracor/weidmann-der-dorfbarbier.xml,Kein Meister wird geboren!,0,26,character_speech,1,7,,ADAM.,#adam,169.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+421,421,GerDracor/weidmann-der-dorfbarbier.xml,"Ich hätte geschworen, es wäre ein Affe.",27,66,character_speech,1,7,,ADAM.,#adam,169.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+422,422,GerDracor/weidmann-der-dorfbarbier.xml,"Der Topf lacht über
+            den Kessel.",67,110,character_speech,1,7,,ADAM.,#adam,169.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+423,423,GerDracor/weidmann-der-dorfbarbier.xml,– Meinetwegen!,111,125,character_speech,1,7,,ADAM.,#adam,169.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+424,424,GerDracor/weidmann-der-dorfbarbier.xml,"Ein Narr macht zehn Narren – große Worte und nichts
+            dahinter.",126,199,character_speech,1,7,,ADAM.,#adam,169.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+425,425,GerDracor/weidmann-der-dorfbarbier.xml,"Davon versteht Er so viel, wie der Esel vom Flötenblasen.",0,57,character_speech,1,7,,LUX.,#lux,170.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+426,426,GerDracor/weidmann-der-dorfbarbier.xml,Er hört's Gras wachsen und die Flöhe husten.,0,44,character_speech,1,7,,ADAM.,#adam,171.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+427,427,GerDracor/weidmann-der-dorfbarbier.xml,Ich habe so noch mit Ihm abzurechnen wegen der Barbiermesser.,0,61,character_speech,1,7,,LUX.,#lux,172.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+428,428,GerDracor/weidmann-der-dorfbarbier.xml,Wo packt Er alles hin?,62,84,character_speech,1,7,,LUX.,#lux,172.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+429,429,GerDracor/weidmann-der-dorfbarbier.xml,"He, wenn Kunden kommen, soll ich mit der Sense barbieren?",97,154,character_speech,1,7,,LUX.,#lux,172.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+430,430,GerDracor/weidmann-der-dorfbarbier.xml,"Da reißt der Esel das Maul
+            auf!",155,198,character_speech,1,7,,LUX.,#lux,172.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+431,431,GerDracor/weidmann-der-dorfbarbier.xml,Extemporie.,0,11,stage_direction,1,7,inner_speech,,#lux,172.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+432,432,GerDracor/weidmann-der-dorfbarbier.xml, Aus Ihm wird gar nichts.,0,25,character_speech,1,7,,LUX.,#lux,172.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+433,433,GerDracor/weidmann-der-dorfbarbier.xml,Potz Sapperment!,0,16,character_speech,1,7,,ADAM.,#adam,173.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+434,434,GerDracor/weidmann-der-dorfbarbier.xml,Jetzt reißt mir die Geduld!,17,44,character_speech,1,7,,ADAM.,#adam,173.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+435,435,GerDracor/weidmann-der-dorfbarbier.xml,Allzuviel ist ungesund!,45,68,character_speech,1,7,,ADAM.,#adam,173.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+436,436,GerDracor/weidmann-der-dorfbarbier.xml,"Ich soll immer in
+            den sauren Apfel beißen.",69,123,character_speech,1,7,,ADAM.,#adam,173.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+437,437,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Der Teufel hol' die Schererei!",0,43,character_speech,1,8,,ADAM.,#adam,174.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+438,438,GerDracor/weidmann-der-dorfbarbier.xml,"Es ist gar kein Profit dabei,
+            Man rennt und läuft sich müd und matt
+            Und wird dabei nicht froh noch satt.",56,184,character_speech,1,8,,ADAM.,#adam,174.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+439,439,GerDracor/weidmann-der-dorfbarbier.xml,"Bald heißt es: Lauf barbieren,
+            Bald muß ich Pflaster schmieren,
+            Bald muß ich Geister brennen,
+            Bald zu den Kranken rennen;
+            Bald muß ich Egel setzen,
+            Bald muß ich Messer wetzen,
+            Bald schwere Wunden heilen,
+            Und mich doch nicht verweilen,
+            Bald Schröpfen, bald ein Aderlaß,
+            Ein Umschlag, und bald dies, bald das.",197,612,character_speech,1,8,,ADAM.,#adam,174.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+440,440,GerDracor/weidmann-der-dorfbarbier.xml,"Zähn' ausreißen, Federn schleißen,
+            Pudel scheeren, Ofen kehren,
+            Mord Element!",625,726,character_speech,1,8,,ADAM.,#adam,174.0,MALE,Schadenfreude,K,,1796.0,positive,emotions of pleasure
+441,441,GerDracor/weidmann-der-dorfbarbier.xml,Ich mach' ein End'!,727,746,character_speech,1,8,,ADAM.,#adam,174.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+442,442,GerDracor/weidmann-der-dorfbarbier.xml,"Es ist, bei meiner armen Seel',
+            Ein hartes Brod, ein Baderg'sell.",759,836,character_speech,1,8,,ADAM.,#adam,174.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+443,443,GerDracor/weidmann-der-dorfbarbier.xml,Ab.,0,3,stage_direction,1,8,speech_part,,#adam,174.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+444,444,GerDracor/weidmann-der-dorfbarbier.xml,Dialog.,0,7,stage_direction,1,8,speech_part,,#adam,174.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+445,445,GerDracor/weidmann-der-dorfbarbier.xml,Hätte ich doch dem elenden Kerl nicht soviel Courage zugetraut.,0,63,character_speech,1,8,,LUX.,#lux,175.0,MALE,compassion,K,,1796.0,negative,emotions of suffering and empathy
+446,446,GerDracor/weidmann-der-dorfbarbier.xml,"Adam kommt
+              zurück und holt den Hut.",0,49,stage_direction,1,8,inner_speech,,#lux,175.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+447,447,GerDracor/weidmann-der-dorfbarbier.xml," He, Adam!",0,10,character_speech,1,8,,LUX.,#lux,175.0,MALE,being moved,K,,1796.0,being moved,being moved
+448,448,GerDracor/weidmann-der-dorfbarbier.xml,Herr Lux!,0,9,character_speech,1,8,,ADAM.,#adam,176.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+449,449,GerDracor/weidmann-der-dorfbarbier.xml,Komm her!,0,9,character_speech,1,8,,LUX.,#lux,177.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+450,450,GerDracor/weidmann-der-dorfbarbier.xml,War ja nicht so böse gemeint?,10,39,character_speech,1,8,,LUX.,#lux,177.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+451,451,GerDracor/weidmann-der-dorfbarbier.xml,Er sollte mich doch schon kennen.,40,73,character_speech,1,8,,LUX.,#lux,177.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+452,452,GerDracor/weidmann-der-dorfbarbier.xml,"Ich bin ein
+            bischen jähzornig, wie alle Gelehrten, komm' Er her, da hat Er einen Groschen zu
+            Schnupftabak, daß Er nicht sagt ich sei ein Kahlmäuser, ein Knicker, – aber daß sag' ich
+            Ihm – sei Er fleißiger und gewöhne Er sich, das Widersprechen ab, wenn ich einen
+            gelehrten Diskurs führe, ich kann das nicht leiden.",74,436,character_speech,1,8,,LUX.,#lux,177.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+453,453,GerDracor/weidmann-der-dorfbarbier.xml,"Was gibt's, Frau Margarethe?",437,465,character_speech,1,8,,LUX.,#lux,177.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+454,454,GerDracor/weidmann-der-dorfbarbier.xml,"Mein Geselle hat bei den Händeln in der Schenke Frieden stiften wollen, aber die Bauern
+            sind über ihn hergefallen und haben ihn jämmerlich geprügelt; darum, Herr Lux, sei Er
+            doch so gut, ein wenig nachzusehen, es bleibt mir sonst alle Arbeit liegen.",0,273,character_speech,1,8,,MARGARETHE.,#margarethe,178.0,FEMALE,anger,K,,1796.0,negative,emotions of rejection
+455,455,GerDracor/weidmann-der-dorfbarbier.xml,"Adam, geh' Er indessen hin, sobald ich Zeit habe werde ich selbst nachsehen.",0,76,character_speech,1,8,,LUX.,#lux,179.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+456,456,GerDracor/weidmann-der-dorfbarbier.xml,Adam ab.,0,8,stage_direction,1,8,inner_speech,,#lux,179.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+457,457,GerDracor/weidmann-der-dorfbarbier.xml,Schönen Dank!,0,13,character_speech,1,8,,MARGARETHE.,#margarethe,180.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+458,458,GerDracor/weidmann-der-dorfbarbier.xml,nachrufend.,0,11,stage_direction,1,8,speech_part,,#lux,181.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+459,459,GerDracor/weidmann-der-dorfbarbier.xml,"Ihr Diener, Frau Margarethe, besuchen Sie mich bald wieder.",0,59,character_speech,1,8,,LUX,#lux,181.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+460,460,GerDracor/weidmann-der-dorfbarbier.xml,"Zu Suschen; welche
+              aus dem Seitenzimmer kommt.",0,60,stage_direction,1,8,inner_speech,,#lux,181.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+461,461,GerDracor/weidmann-der-dorfbarbier.xml, Suschen!,0,9,character_speech,1,8,,LUX,#lux,181.0,MALE,being moved,K,,1796.0,being moved,being moved
+462,462,GerDracor/weidmann-der-dorfbarbier.xml,"Wie sie so fleißig arbeitet – das Herz
+            lacht mir vor Freuden!",10,83,character_speech,1,8,,LUX,#lux,181.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+463,463,GerDracor/weidmann-der-dorfbarbier.xml,Das wird eine Hauswirthin werden.,84,117,character_speech,1,8,,LUX,#lux,181.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+464,464,GerDracor/weidmann-der-dorfbarbier.xml,"Ein anderes Mädchen wäre
+            neugierig, würde horchen, die Ohren spitzen – sie arbeitet mir nichts Dir nichts.",118,236,character_speech,1,8,,LUX,#lux,181.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+465,465,GerDracor/weidmann-der-dorfbarbier.xml,"Suschen, liebes Suschen!",249,273,character_speech,1,8,,LUX,#lux,181.0,MALE,compassion,K,,1796.0,negative,emotions of suffering and empathy
+466,466,GerDracor/weidmann-der-dorfbarbier.xml,von innen.,0,10,stage_direction,1,8,speech_part,,#suschen,182.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+467,467,GerDracor/weidmann-der-dorfbarbier.xml,Gleich!,0,7,character_speech,1,8,,SUSCHEN,#suschen,182.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+468,468,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Der Kopf ist meine Zierde,
+            Die Stirn voll Ernst und Würde,
+            Das Aug' wirft Feuerstrahlen,
+            Der Bart ist schön zum Malen;
+             Die Nase zeigt Gelehrsamkeit,
+            Der Mund strotzt von Beredtsamkeit:
+            Ich bin vom Kopf bis zum Fuß
+            Gestaltet wie Gott Cerberus.",0,340,character_speech,1,9,,LUX.,#lux,183.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+469,469,GerDracor/weidmann-der-dorfbarbier.xml,"Kein Wunder, wenn mich Suschen liebt,
+            Und mir die Hand mit Freuden giebt;
+            Man sehe mich nur einmal an,
+            Ich bin fürwahr der schönste Mann!",353,526,character_speech,1,9,,LUX.,#lux,183.0,MALE,love,K,,1796.0,positive,emotions of affection
+470,470,GerDracor/weidmann-der-dorfbarbier.xml,Dialog.,0,7,stage_direction,1,9,speech_part,,#lux,183.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+471,471,GerDracor/weidmann-der-dorfbarbier.xml,kommt eilig heraus.,0,19,stage_direction,1,9,speech_part,,#suschen,184.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+472,472,GerDracor/weidmann-der-dorfbarbier.xml,"Was befehlen Sie denn, lieber Herr Vormund!",0,43,character_speech,1,9,,SUSCHEN,#suschen,184.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+473,473,GerDracor/weidmann-der-dorfbarbier.xml,"Ich gehe morgen in die Stadt, um einzukaufen.",0,45,character_speech,1,9,,LUX.,#lux,185.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+474,474,GerDracor/weidmann-der-dorfbarbier.xml,"Was denn, Herr Vormund?",0,23,character_speech,1,9,,SUSCHEN.,#suschen,186.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+475,475,GerDracor/weidmann-der-dorfbarbier.xml,Vormund!,0,8,character_speech,1,9,,LUX.,#lux,187.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+476,476,GerDracor/weidmann-der-dorfbarbier.xml,Vormund!,9,17,character_speech,1,9,,LUX.,#lux,187.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+477,477,GerDracor/weidmann-der-dorfbarbier.xml,"Das Wort höre ich nicht mehr gerne, seitdem wir auf einem andern Fuß
+            stehen.",18,106,character_speech,1,9,,LUX.,#lux,187.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+478,478,GerDracor/weidmann-der-dorfbarbier.xml,"– Vormund, Vater, Onkel – alle diese Ausdrücke klingen so sehr nach dem
+            Großvaterstuhle und machen einen um 20 Jahre älter.",107,242,character_speech,1,9,,LUX.,#lux,187.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+479,479,GerDracor/weidmann-der-dorfbarbier.xml,Ich bin in meinen besten Jahren!,243,275,character_speech,1,9,,LUX.,#lux,187.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+480,480,GerDracor/weidmann-der-dorfbarbier.xml,Wischt sich die die Hände und kneipt Suschen zärtlich in die Backen.,0,68,stage_direction,1,9,inner_speech,,#lux,187.0,MALE,love,K,,1796.0,positive,emotions of affection
+481,481,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Was die kleinen spitzbübischen Augen für einen Aufruhr machen!",0,75,character_speech,1,9,,LUX.,#lux,187.0,MALE,being moved,K,,1796.0,being moved,being moved
+482,482,GerDracor/weidmann-der-dorfbarbier.xml,Hahaha!,76,83,character_speech,1,9,,LUX.,#lux,187.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+483,483,GerDracor/weidmann-der-dorfbarbier.xml,"Den jungen Laffen
+            hast Du abgefertigt?",84,134,character_speech,1,9,,LUX.,#lux,187.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+484,484,GerDracor/weidmann-der-dorfbarbier.xml,"Herzensmädchen, ich danke Dir.",135,165,character_speech,1,9,,LUX.,#lux,187.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+485,485,GerDracor/weidmann-der-dorfbarbier.xml,"Mich freut es um Deinetwillen, daß
+            Du Verstand genug hast, einzusehen, welch' ein Unterschied zwischen mir und ihm ist.",166,297,character_speech,1,9,,LUX.,#lux,187.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+486,486,GerDracor/weidmann-der-dorfbarbier.xml,"–
+            Nicht alle Mädchen besitzen so viel Klugheit und wissen sich so gut zu benehmen, wie
+            mein allerliebstes Suschen.",298,436,character_speech,1,9,,LUX.,#lux,187.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+487,487,GerDracor/weidmann-der-dorfbarbier.xml,"Die sind nicht so glücklich gewesen, so einen guten Unterricht zu erhalten, wie
+            ich.",0,96,character_speech,1,9,,SUSCHEN.,#suschen,188.0,FEMALE,joy,K,,1796.0,positive,emotions of pleasure
+488,488,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Mädchen kann man leicht bethören,
+            Lobt man sie nur in's Gesicht.",0,89,character_speech,1,10,,SUSCHEN.,#suschen,189.0,FEMALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+489,489,GerDracor/weidmann-der-dorfbarbier.xml,"Wenn die Männer Treu' Euch schwören,
+            O so traut den Heuchlern nicht.",103,183,character_speech,1,10,,SUSCHEN.,#suschen,189.0,FEMALE,abhorrence,K,,1796.0,negative,emotions of rejection
+490,490,GerDracor/weidmann-der-dorfbarbier.xml,"Buhler suchen nur zu haschen;
+            Weis't sie ab mit ernstem Blick.",196,270,character_speech,1,10,,SUSCHEN.,#suschen,189.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+491,491,GerDracor/weidmann-der-dorfbarbier.xml,"Späte Reue bringt das Naschen,
+            Nur ein Mann macht unser Glück.",283,357,character_speech,1,10,,SUSCHEN.,#suschen,189.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+492,492,GerDracor/weidmann-der-dorfbarbier.xml,allein.,0,7,stage_direction,1,10,speech_part,,#lux,190.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+493,493,GerDracor/weidmann-der-dorfbarbier.xml,Göttliche Bescheidenheit!,0,25,character_speech,1,10,,LUX,#lux,190.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+494,494,GerDracor/weidmann-der-dorfbarbier.xml,Suschen!,26,34,character_speech,1,10,,LUX,#lux,190.0,MALE,being moved,K,,1796.0,being moved,being moved
+495,495,GerDracor/weidmann-der-dorfbarbier.xml,"Du bist ein goldenes Kleinod; in meinem Herzen will
+            ich Dich tragen.",35,115,character_speech,1,10,,LUX,#lux,190.0,MALE,love,K,,1796.0,positive,emotions of affection
+496,496,GerDracor/weidmann-der-dorfbarbier.xml,Lärm von außen.,0,15,stage_direction,1,10,inner_speech,,#lux,190.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+497,497,GerDracor/weidmann-der-dorfbarbier.xml, Aber wer stört mich schon wieder?,0,34,character_speech,1,10,,LUX,#lux,190.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+498,498,GerDracor/weidmann-der-dorfbarbier.xml,"Kann
+            man denn nicht eine Minute – –",35,82,character_speech,1,10,,LUX,#lux,190.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+499,499,GerDracor/weidmann-der-dorfbarbier.xml,stürzt wild herein.,0,19,stage_direction,1,10,speech_part,,#joseph,191.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+500,500,GerDracor/weidmann-der-dorfbarbier.xml,Nur einen Augenblick will ich mit Euch unter vier Augen sprechen.,0,65,character_speech,1,10,,JOSEPH,#joseph,191.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+501,501,GerDracor/weidmann-der-dorfbarbier.xml,"Es ist ein Geheimnis
+            –",66,100,character_speech,1,10,,JOSEPH,#joseph,191.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+502,502,GerDracor/weidmann-der-dorfbarbier.xml,"Ängstlich,.",0,11,stage_direction,1,10,inner_speech,,#joseph,191.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+503,503,GerDracor/weidmann-der-dorfbarbier.xml, Können wir überrascht werden?,0,30,character_speech,1,10,,JOSEPH,#joseph,191.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+504,504,GerDracor/weidmann-der-dorfbarbier.xml,bei Seite.,0,10,stage_direction,1,10,speech_part,,#lux,192.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+505,505,GerDracor/weidmann-der-dorfbarbier.xml,Was wird das sein?,0,18,character_speech,1,10,,LUX,#lux,192.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+506,506,GerDracor/weidmann-der-dorfbarbier.xml,Verriegelt die Thür.,0,20,stage_direction,1,10,inner_speech,,#lux,192.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+507,507,GerDracor/weidmann-der-dorfbarbier.xml, Wir sind allein.,0,17,character_speech,1,10,,LUX,#lux,192.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+508,508,GerDracor/weidmann-der-dorfbarbier.xml,Herr Lux!,0,9,character_speech,1,10,,JOSEPH.,#joseph,193.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+509,509,GerDracor/weidmann-der-dorfbarbier.xml,Herr Lux!,10,19,character_speech,1,10,,JOSEPH.,#joseph,193.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+510,510,GerDracor/weidmann-der-dorfbarbier.xml,"Nun, was soll der Herr Lux?",0,27,character_speech,1,10,,LUX.,#lux,194.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+511,511,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, ich habe Gift genommen.",0,33,character_speech,1,10,,JOSEPH.,#joseph,195.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+512,512,GerDracor/weidmann-der-dorfbarbier.xml,Gift!,0,5,character_speech,1,10,,LUX.,#lux,196.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+513,513,GerDracor/weidmann-der-dorfbarbier.xml,Gift!,6,11,character_speech,1,10,,LUX.,#lux,196.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+514,514,GerDracor/weidmann-der-dorfbarbier.xml,"Um des Himmels willen, was soll ich thun?",12,53,character_speech,1,10,,LUX.,#lux,196.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+515,515,GerDracor/weidmann-der-dorfbarbier.xml,Schon lange?,54,66,character_speech,1,10,,LUX.,#lux,196.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+516,516,GerDracor/weidmann-der-dorfbarbier.xml,"Sie können mir nicht helfen, und ich will mir auch nicht helfen lassen.",0,71,character_speech,1,10,,JOSEPH.,#joseph,197.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+517,517,GerDracor/weidmann-der-dorfbarbier.xml,"Ich zittere am ganzen Leibe, was kann ich für Sie thun?",0,55,character_speech,1,10,,LUX.,#lux,198.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+518,518,GerDracor/weidmann-der-dorfbarbier.xml,Sie sollen Zeuge meines Testamentes sein.,0,41,character_speech,1,10,,JOSEPH.,#joseph,199.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+519,519,GerDracor/weidmann-der-dorfbarbier.xml,Testament?,0,10,character_speech,1,10,,LUX.,#lux,200.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+520,520,GerDracor/weidmann-der-dorfbarbier.xml,Ihre Erbschaft?,11,26,character_speech,1,10,,LUX.,#lux,200.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+521,521,GerDracor/weidmann-der-dorfbarbier.xml,"Sagen Sie nur, warum nahmen Sie Gift?",27,64,character_speech,1,10,,LUX.,#lux,200.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+522,522,GerDracor/weidmann-der-dorfbarbier.xml,Aus Verzweiflung!,0,17,character_speech,1,10,,JOSEPH.,#joseph,201.0,MALE,despair,K,,1796.0,negative,emotions of anxiety
+523,523,GerDracor/weidmann-der-dorfbarbier.xml,"Er dauert mich, der arme Mensch, ich könnte weinen.",0,51,character_speech,1,10,,LUX.,#lux,202.0,MALE,compassion,K,,1796.0,negative,emotions of suffering and empathy
+524,524,GerDracor/weidmann-der-dorfbarbier.xml,"Trocknet sich die
+              Augen.",0,38,stage_direction,1,10,inner_speech,,#lux,202.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+525,525,GerDracor/weidmann-der-dorfbarbier.xml,Gestern faßte ich sie liebreich am Arm und beschwor sie auf den Knieen.,0,71,character_speech,1,10,,JOSEPH.,#joseph,203.0,MALE,love,K,,1796.0,positive,emotions of affection
+526,526,GerDracor/weidmann-der-dorfbarbier.xml,Und sie –?,0,10,character_speech,1,10,,LUX.,#lux,204.0,MALE,being moved,K,,1796.0,being moved,being moved
+527,527,GerDracor/weidmann-der-dorfbarbier.xml,Lachte.,0,7,character_speech,1,10,,JOSEPH.,#joseph,205.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+528,528,GerDracor/weidmann-der-dorfbarbier.xml,Die kleine Tigerin!,0,19,character_speech,1,10,,LUX.,#lux,206.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+529,529,GerDracor/weidmann-der-dorfbarbier.xml,"Schmerz, Liebe und Verzweiflung stiegen auf's Höchste.",0,54,character_speech,1,10,,JOSEPH.,#joseph,207.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+530,530,GerDracor/weidmann-der-dorfbarbier.xml,"Als ich heute diesen Brief von
+            ihrer Hand erhielt – lesen Sie selbst Ihren Triumph!",55,150,character_speech,1,10,,JOSEPH.,#joseph,207.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+531,531,GerDracor/weidmann-der-dorfbarbier.xml,"– Sie haben mir ein Herz geraubt,
+            das ich anbete.",151,212,character_speech,1,10,,JOSEPH.,#joseph,207.0,MALE,love,K,,1796.0,positive,emotions of affection
+532,532,GerDracor/weidmann-der-dorfbarbier.xml,öffnet neugierig den Brief.,0,27,stage_direction,1,10,speech_part,,#lux,208.0,MALE,being moved,K,,1796.0,being moved,being moved
+533,533,GerDracor/weidmann-der-dorfbarbier.xml,"Ja, das ist ihre Handschrift!",0,29,character_speech,1,10,,LUX,#lux,208.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+534,534,GerDracor/weidmann-der-dorfbarbier.xml,"»Ich will mich mit zwei Worten auf ewig von Ihrer
+            ungestümen Zudringlichkeit befreien; ich sage Ihnen also hiermit kurz und nachdrücklich
+            – ich liebe meinen Vormund!« – O Du Herzensmädchen!",30,243,character_speech,1,10,,LUX,#lux,208.0,MALE,love,K,,1796.0,positive,emotions of affection
+535,535,GerDracor/weidmann-der-dorfbarbier.xml,Liest.,0,6,stage_direction,1,10,inner_speech,,#lux,208.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+536,536,GerDracor/weidmann-der-dorfbarbier.xml," – »und kann
+            nicht sein – Ihre geliebte Susanne!« – Freilich ist es entscheidend.",0,93,character_speech,1,10,,LUX,#lux,208.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+537,537,GerDracor/weidmann-der-dorfbarbier.xml,Dieser Brief hat mir das Herz gebrochen.,0,40,character_speech,1,10,,JOSEPH.,#joseph,209.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+538,538,GerDracor/weidmann-der-dorfbarbier.xml,Lassen Sie's auf meine Kosten repariren.,0,40,character_speech,1,10,,LUX.,#lux,210.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+539,539,GerDracor/weidmann-der-dorfbarbier.xml,"Ich eilte in die Stadt, kaufte das stärkste Gift unter einem Vorwande und verschlang
+            es.",0,100,character_speech,1,10,,JOSEPH.,#joseph,211.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+540,540,GerDracor/weidmann-der-dorfbarbier.xml,Erschrecklich!,0,14,character_speech,1,10,,LUX.,#lux,212.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+541,541,GerDracor/weidmann-der-dorfbarbier.xml,Armer Joseph!,15,28,character_speech,1,10,,LUX.,#lux,212.0,MALE,compassion,K,,1796.0,negative,emotions of suffering and empathy
+542,542,GerDracor/weidmann-der-dorfbarbier.xml,Was denken Sie nun zu thun?,29,56,character_speech,1,10,,LUX.,#lux,212.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+543,543,GerDracor/weidmann-der-dorfbarbier.xml,Vor meinem Tode will ich mich noch rächen.,0,42,character_speech,1,10,,JOSEPH.,#joseph,213.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+544,544,GerDracor/weidmann-der-dorfbarbier.xml,Rächen?,0,7,character_speech,1,10,,LUX.,#lux,214.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+545,545,GerDracor/weidmann-der-dorfbarbier.xml,An wem?,8,15,character_speech,1,10,,LUX.,#lux,214.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+546,546,GerDracor/weidmann-der-dorfbarbier.xml,An mir?,16,23,character_speech,1,10,,LUX.,#lux,214.0,MALE,being moved,K,,1796.0,being moved,being moved
+547,547,GerDracor/weidmann-der-dorfbarbier.xml,An Suschen?,24,35,character_speech,1,10,,LUX.,#lux,214.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+548,548,GerDracor/weidmann-der-dorfbarbier.xml,Springt davon.,0,14,stage_direction,1,10,inner_speech,,#lux,214.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+549,549,GerDracor/weidmann-der-dorfbarbier.xml," Das ist ein
+            verzweifelter Liebhaber.",0,49,character_speech,1,10,,LUX.,#lux,214.0,MALE,despair,K,,1796.0,negative,emotions of anxiety
+550,550,GerDracor/weidmann-der-dorfbarbier.xml,Hören Sie mich an.,0,18,character_speech,1,10,,JOSEPH.,#joseph,215.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+551,551,GerDracor/weidmann-der-dorfbarbier.xml,"Ein Herz, wie das meinige rächt sich edel.",19,61,character_speech,1,10,,JOSEPH.,#joseph,215.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+552,552,GerDracor/weidmann-der-dorfbarbier.xml,"Ich will mein geliebtes
+            Suschen zur Erbin meines ganzen Vermögens einsetzen.",62,150,character_speech,1,10,,JOSEPH.,#joseph,215.0,MALE,love,K,,1796.0,positive,emotions of affection
+553,553,GerDracor/weidmann-der-dorfbarbier.xml,eilt auf ihn zu und umarmt ihn.,0,31,stage_direction,1,10,speech_part,,#lux,216.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+554,554,GerDracor/weidmann-der-dorfbarbier.xml,O Sie herzensliebster Joseph!,0,29,character_speech,1,10,,LUX,#lux,216.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+555,555,GerDracor/weidmann-der-dorfbarbier.xml,"Das ist eine durchlauchtigte Handlung dergleichen man
+            keine in der Geschichte liest.",30,126,character_speech,1,10,,LUX,#lux,216.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+556,556,GerDracor/weidmann-der-dorfbarbier.xml,Die Unsterblichkeit erwartet Sie.,127,160,character_speech,1,10,,LUX,#lux,216.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+557,557,GerDracor/weidmann-der-dorfbarbier.xml,"Ich komme also zu Ihnen, eine Stunde vor meinem Tode, meinen letzten Willen feierlich
+            zu erklären.",0,110,character_speech,1,10,,JOSEPH.,#joseph,217.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+558,558,GerDracor/weidmann-der-dorfbarbier.xml,Nur ein Umstand macht meine Schenkung zweifelhaft.,111,161,character_speech,1,10,,JOSEPH.,#joseph,217.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+559,559,GerDracor/weidmann-der-dorfbarbier.xml,"Ich habe
+            die Landesgesetze studirt und mir ist bekannt, daß meine Blutsfreunde nach meinem Tode
+            der Erbin das Vermögen streitig machen können.",163,329,character_speech,1,10,,JOSEPH.,#joseph,217.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+560,560,GerDracor/weidmann-der-dorfbarbier.xml,"Es ist wahr, daran hab' ich selbst nicht gleich gedacht.",0,56,character_speech,1,10,,LUX.,#lux,218.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+561,561,GerDracor/weidmann-der-dorfbarbier.xml,"Ich bin also gekommen, mich mit Ihnen zu be rathschlagen.",0,57,character_speech,1,10,,JOSEPH.,#joseph,219.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+562,562,GerDracor/weidmann-der-dorfbarbier.xml,"Rund pocht von
+              außen.",0,35,stage_direction,1,10,inner_speech,,#joseph,219.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+563,563,GerDracor/weidmann-der-dorfbarbier.xml,Wer pocht?,0,10,character_speech,1,10,,LUX.,#lux,220.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+564,564,GerDracor/weidmann-der-dorfbarbier.xml,von außen.,0,10,stage_direction,1,10,speech_part,,#rund,221.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+565,565,GerDracor/weidmann-der-dorfbarbier.xml,Herr Lux!,0,9,character_speech,1,10,,RUND,#rund,221.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+566,566,GerDracor/weidmann-der-dorfbarbier.xml,"Das ist unser Schulmeister, soll ich ihn einlassen?",0,51,character_speech,1,10,,LUX.,#lux,222.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+567,567,GerDracor/weidmann-der-dorfbarbier.xml,Der Mensch scheint mir verdächtig.,0,34,character_speech,1,10,,JOSEPH.,#joseph,223.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+568,568,GerDracor/weidmann-der-dorfbarbier.xml,"Es ist ein grundehrlicher Mann und mein spezial guter Freund – ich dächte ein Mann von
+            seiner geprüften Gelehrsamkeit – tres faciunt collegium – so sagt ein altes
+            Sprüchwort.",0,198,character_speech,1,10,,LUX.,#lux,224.0,MALE,friendship,K,,1796.0,positive,emotions of affection
+569,569,GerDracor/weidmann-der-dorfbarbier.xml,Nun meinetwegen!,0,16,character_speech,1,10,,JOSEPH.,#joseph,225.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+570,570,GerDracor/weidmann-der-dorfbarbier.xml,Lux öffnet die Thür.,0,20,stage_direction,1,10,inner_speech,,#joseph,225.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+571,571,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Rund, Sie kommen wie gerufen.",0,34,character_speech,1,10,,LUX.,#lux,226.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+572,572,GerDracor/weidmann-der-dorfbarbier.xml,"Dinge von der äußersten Wichtigkeit – aber geheim,
+            sehr geheim –",35,111,character_speech,1,10,,LUX.,#lux,226.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+573,573,GerDracor/weidmann-der-dorfbarbier.xml,"Legt den Finger an den
+              Mund.",0,42,stage_direction,1,10,inner_speech,,#lux,226.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+574,574,GerDracor/weidmann-der-dorfbarbier.xml,"Ich bin verschwiegen wie der Todte, den man heute im Bache gefunden hat.",0,72,character_speech,1,10,,RUND.,#rund,227.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+575,575,GerDracor/weidmann-der-dorfbarbier.xml,"Joseph
+              setzt sich indeß und hängt den Kopf.",0,57,stage_direction,1,10,inner_speech,,#rund,227.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+576,576,GerDracor/weidmann-der-dorfbarbier.xml,Dieser junge Mann hat heute aus Verzweiflung Gift genommen.,0,59,character_speech,1,10,,LUX.,#lux,228.0,MALE,despair,K,,1796.0,negative,emotions of anxiety
+577,577,GerDracor/weidmann-der-dorfbarbier.xml,prallt zurück.,0,14,stage_direction,1,10,speech_part,,#rund,229.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+578,578,GerDracor/weidmann-der-dorfbarbier.xml,Gift?,0,5,character_speech,1,10,,RUND,#rund,229.0,MALE,being moved,K,,1796.0,being moved,being moved
+579,579,GerDracor/weidmann-der-dorfbarbier.xml,Nur stille.,0,11,character_speech,1,10,,LUX.,#lux,230.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+580,580,GerDracor/weidmann-der-dorfbarbier.xml,Er ist Willens mein Suschen zur Erbin seines Vermögens einzusetzen.,12,79,character_speech,1,10,,LUX.,#lux,230.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+581,581,GerDracor/weidmann-der-dorfbarbier.xml,Das ist gut!,0,12,character_speech,1,10,,RUND.,#rund,231.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+582,582,GerDracor/weidmann-der-dorfbarbier.xml,Ein Umstand macht uns Zweifel.,0,30,character_speech,1,10,,LUX.,#lux,232.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+583,583,GerDracor/weidmann-der-dorfbarbier.xml,Der ist?,0,8,character_speech,1,10,,RUND.,#rund,233.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+584,584,GerDracor/weidmann-der-dorfbarbier.xml,Die Verwandten werden uns die Erbschaft streitig machen.,0,56,character_speech,1,10,,LUX.,#lux,234.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+585,585,GerDracor/weidmann-der-dorfbarbier.xml,nachdenkend.,0,12,stage_direction,1,10,speech_part,,#rund,235.0,MALE,being moved,K,,1796.0,being moved,being moved
+586,586,GerDracor/weidmann-der-dorfbarbier.xml,Hm!,0,3,character_speech,1,10,,RUND,#rund,235.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+587,587,GerDracor/weidmann-der-dorfbarbier.xml,Hm!,4,7,character_speech,1,10,,RUND,#rund,235.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+588,588,GerDracor/weidmann-der-dorfbarbier.xml,Da wüßt' ich wohl ein Mittel.,8,37,character_speech,1,10,,RUND,#rund,235.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+589,589,GerDracor/weidmann-der-dorfbarbier.xml,"Göttlicher Mann, welches?",0,25,character_speech,1,10,,LUX.,#lux,236.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+590,590,GerDracor/weidmann-der-dorfbarbier.xml,"Der arme Teufel stirbt in wenig Minuten; vermählen Sie ihn mit Suschen vor seinem
+            Tode.",0,99,character_speech,1,10,,RUND.,#rund,237.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+591,591,GerDracor/weidmann-der-dorfbarbier.xml,Vermählen?,0,10,character_speech,1,10,,LUX.,#lux,238.0,MALE,being moved,K,,1796.0,being moved,being moved
+592,592,GerDracor/weidmann-der-dorfbarbier.xml,Aber –,11,17,character_speech,1,10,,LUX.,#lux,238.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+593,593,GerDracor/weidmann-der-dorfbarbier.xml,"Sehen Sie denn nicht, daß er schon halb todt ist?",0,49,character_speech,1,10,,RUND.,#rund,239.0,MALE,despair,K,,1796.0,negative,emotions of anxiety
+594,594,GerDracor/weidmann-der-dorfbarbier.xml,"Es ist wahr, der Gedanke ist unvergleichlich!",0,45,character_speech,1,10,,LUX.,#lux,240.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+595,595,GerDracor/weidmann-der-dorfbarbier.xml,Wer kann seiner Witwe das Vermögen streitig machen?,0,51,character_speech,1,10,,RUND.,#rund,241.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+596,596,GerDracor/weidmann-der-dorfbarbier.xml,"Ich setze die Schrift auf, Sie
+            rufen geschwind einige Zeugen und so geht alles in der Stille vor sich.",52,166,character_speech,1,10,,RUND.,#rund,241.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+597,597,GerDracor/weidmann-der-dorfbarbier.xml,"Seh'n Sie mein
+            Gesangbuch – es war mir immer, als wenn mir Jemand zuriefe: Geh', hole Dein Gesangbuch,
+            Du wirst es brauchen.",167,315,character_speech,1,10,,RUND.,#rund,241.0,MALE,being moved,K,,1796.0,being moved,being moved
+598,598,GerDracor/weidmann-der-dorfbarbier.xml,Der arme Joseph!,0,16,character_speech,1,10,,LUX.,#lux,242.0,MALE,compassion,K,,1796.0,negative,emotions of suffering and empathy
+599,599,GerDracor/weidmann-der-dorfbarbier.xml,"Sehen Sie, wie blaß er ist!",17,44,character_speech,1,10,,LUX.,#lux,242.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+600,600,GerDracor/weidmann-der-dorfbarbier.xml,Er athmet kaum noch.,45,65,character_speech,1,10,,LUX.,#lux,242.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+601,601,GerDracor/weidmann-der-dorfbarbier.xml,"Zu
+              Joseph.",0,24,stage_direction,1,10,inner_speech,,#lux,242.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+602,602,GerDracor/weidmann-der-dorfbarbier.xml, Wie ist Ihnen?,0,15,character_speech,1,10,,LUX.,#lux,242.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+603,603,GerDracor/weidmann-der-dorfbarbier.xml,schwach.,0,8,stage_direction,1,10,speech_part,,#joseph,243.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+604,604,GerDracor/weidmann-der-dorfbarbier.xml,Es geht zu Ende!,0,16,character_speech,1,10,,JOSEPH,#joseph,243.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+605,605,GerDracor/weidmann-der-dorfbarbier.xml,"So müssen wir eilen, sonst stirbt er, ehe wir zu Stande kommen.",0,63,character_speech,1,10,,LUX.,#lux,244.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+606,606,GerDracor/weidmann-der-dorfbarbier.xml,"– He, Suschen!",64,78,character_speech,1,10,,LUX.,#lux,244.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+607,607,GerDracor/weidmann-der-dorfbarbier.xml,"– Ja,
+            wenn sie ihn sieht, so kommt sie nicht!",79,136,character_speech,1,10,,LUX.,#lux,244.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+608,608,GerDracor/weidmann-der-dorfbarbier.xml,Ich will sie bereden.,137,158,character_speech,1,10,,LUX.,#lux,244.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+609,609,GerDracor/weidmann-der-dorfbarbier.xml,Ab.,0,3,stage_direction,1,10,inner_speech,,#lux,244.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+610,610,GerDracor/weidmann-der-dorfbarbier.xml,"Alles geht unvergleichlich –, der Gimpel ist gefangen.",0,54,character_speech,1,10,,RUND.,#rund,245.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+611,611,GerDracor/weidmann-der-dorfbarbier.xml,"Ich will mir Wein und Schinken
+            geben lassen; dann springen Sie auf und verschlingen mit Heißhunger einige Stücke,
+            sinken auf einen Stuhl, thun, als wenn Sie entschliefen und nach einer Weile werden Sie
+            gesund.",55,300,character_speech,1,10,,RUND.,#rund,245.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+612,612,GerDracor/weidmann-der-dorfbarbier.xml,Man kommt!,301,311,character_speech,1,10,,RUND.,#rund,245.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+613,613,GerDracor/weidmann-der-dorfbarbier.xml,Setzt sich und schreibt.,0,24,stage_direction,1,10,inner_speech,,#rund,245.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+614,614,GerDracor/weidmann-der-dorfbarbier.xml,"zerrt Suschen herein, welche sich sträubt.",0,42,stage_direction,1,10,speech_part,,#lux,246.0,MALE,being moved,K,,1796.0,being moved,being moved
+615,615,GerDracor/weidmann-der-dorfbarbier.xml,"So gehe doch nur her, liebes Suschen, thue es mir nur zu Liebe.",0,63,character_speech,1,10,,LUX,#lux,246.0,MALE,love,K,,1796.0,positive,emotions of affection
+616,616,GerDracor/weidmann-der-dorfbarbier.xml,Ich will nichts von ihm wissen.,0,31,character_speech,1,10,,SUSCHEN.,#suschen,247.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+617,617,GerDracor/weidmann-der-dorfbarbier.xml,"Schätzchen, ich bitte Dich, gieb mir den Beweis Deiner Liebe.",0,61,character_speech,1,10,,LUX.,#lux,248.0,MALE,love,K,,1796.0,positive,emotions of affection
+618,618,GerDracor/weidmann-der-dorfbarbier.xml,"Nun wohlan, was soll ich thun?",0,30,character_speech,1,10,,SUSCHEN.,#suschen,249.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+619,619,GerDracor/weidmann-der-dorfbarbier.xml,Diesen Menschen heirathen.,0,26,character_speech,1,10,,LUX.,#lux,250.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+620,620,GerDracor/weidmann-der-dorfbarbier.xml,"Nein, das thue ich nicht!",0,25,character_speech,1,10,,SUSCHEN.,#suschen,251.0,FEMALE,fear,K,,1796.0,negative,emotions of anxiety
+621,621,GerDracor/weidmann-der-dorfbarbier.xml,Will fort.,0,10,stage_direction,1,10,inner_speech,,#suschen,251.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+622,622,GerDracor/weidmann-der-dorfbarbier.xml,hält sie zurück.,0,16,stage_direction,1,10,speech_part,,#lux,252.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+623,623,GerDracor/weidmann-der-dorfbarbier.xml,"Herzensmädchen, nur auf einen Augenblick sollst Du ihm die Hand reichen, es ist ja nur
+              pro forma, ein bloßes Spiel.",0,129,character_speech,1,10,,LUX,#lux,252.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+624,624,GerDracor/weidmann-der-dorfbarbier.xml,Und wozu dieses Possenspiel?,0,28,character_speech,1,10,,SUSCHEN.,#suschen,253.0,FEMALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+625,625,GerDracor/weidmann-der-dorfbarbier.xml,Gieb mir Deinen Ring.,0,21,character_speech,1,10,,LUX.,#lux,254.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+626,626,GerDracor/weidmann-der-dorfbarbier.xml,"Zieht ihr den Ring vom Finger und verwechselt ihn mit
+              Josephs Ring.",0,81,stage_direction,1,10,inner_speech,,#lux,254.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+627,627,GerDracor/weidmann-der-dorfbarbier.xml,Der Schmiedegeselle ist verbunden; der arme Teufel ist häßlich verunstaltet.,0,76,character_speech,1,10,,ADAM.,#adam,255.0,MALE,compassion,K,,1796.0,negative,emotions of suffering and empathy
+628,628,GerDracor/weidmann-der-dorfbarbier.xml,"Bei ihm
+            heißt es: Mitgefangen, mitgehangen!",77,132,character_speech,1,10,,ADAM.,#adam,255.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+629,629,GerDracor/weidmann-der-dorfbarbier.xml,"Es ist gut, daß Er kommt!",0,25,character_speech,1,10,,LUX.,#lux,256.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+630,630,GerDracor/weidmann-der-dorfbarbier.xml,"Ruf Er mir geschwind die Nachbarn Thomas und Philipp, wenn
+            sie zu Hause sind.",26,115,character_speech,1,10,,LUX.,#lux,256.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+631,631,GerDracor/weidmann-der-dorfbarbier.xml,Sie stehen bei der Schenke und reden miteinander.,0,49,character_speech,1,10,,ADAM.,#adam,257.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+632,632,GerDracor/weidmann-der-dorfbarbier.xml,Ich will's ihnen sagen.,50,73,character_speech,1,10,,ADAM.,#adam,257.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+633,633,GerDracor/weidmann-der-dorfbarbier.xml,"Wenn der
+            Bauer nicht muß, so rührt er weder Hand noch Fuß.",74,144,character_speech,1,10,,ADAM.,#adam,257.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+634,634,GerDracor/weidmann-der-dorfbarbier.xml,Ab.,0,3,stage_direction,1,10,inner_speech,,#adam,257.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+635,635,GerDracor/weidmann-der-dorfbarbier.xml,Suschen!,0,8,character_speech,1,10,,LUX.,#lux,258.0,MALE,being moved,K,,1796.0,being moved,being moved
+636,636,GerDracor/weidmann-der-dorfbarbier.xml,"Hole Wein und Brot für die Geschworenen, auch Schinken nicht zu vergessen.",9,83,character_speech,1,10,,LUX.,#lux,258.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+637,637,GerDracor/weidmann-der-dorfbarbier.xml,"Ich will Ihnen helfen, Jungfer Suschen!",0,39,character_speech,1,10,,RUND.,#rund,259.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+638,638,GerDracor/weidmann-der-dorfbarbier.xml,"Hier Herr Lux, ist der Aufsatz vom Testamente.",40,86,character_speech,1,10,,RUND.,#rund,259.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+639,639,GerDracor/weidmann-der-dorfbarbier.xml,Lesen Sie indessen.,99,118,character_speech,1,10,,RUND.,#rund,259.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+640,640,GerDracor/weidmann-der-dorfbarbier.xml,Geht mit Suschen ab.,0,20,stage_direction,1,10,inner_speech,,#rund,259.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+641,641,GerDracor/weidmann-der-dorfbarbier.xml,nachdem er gelesen hat.,0,23,stage_direction,1,10,speech_part,,#lux,260.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+642,642,GerDracor/weidmann-der-dorfbarbier.xml,Der Aufsatz ist förmlich und nach den Gesetzen.,0,47,character_speech,1,10,,LUX,#lux,260.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+643,643,GerDracor/weidmann-der-dorfbarbier.xml,"Sie erklären also Suschen zur
+            Besitzerin Ihres Vermögens?",48,117,character_speech,1,10,,LUX,#lux,260.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+644,644,GerDracor/weidmann-der-dorfbarbier.xml,schwach.,0,8,stage_direction,1,10,speech_part,,#joseph,261.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+645,645,GerDracor/weidmann-der-dorfbarbier.xml,Alles für sie!,0,14,character_speech,1,10,,JOSEPH,#joseph,261.0,MALE,love,K,,1796.0,positive,emotions of affection
+646,646,GerDracor/weidmann-der-dorfbarbier.xml,Wie ist Ihnen denn?,0,19,character_speech,1,10,,LUX.,#lux,262.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+647,647,GerDracor/weidmann-der-dorfbarbier.xml,Fühlt ihm nach dem Puls.,0,24,stage_direction,1,10,inner_speech,,#lux,262.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+648,648,GerDracor/weidmann-der-dorfbarbier.xml, Welche Verwirrung!,0,19,character_speech,1,10,,LUX.,#lux,262.0,MALE,being moved,K,,1796.0,being moved,being moved
+649,649,GerDracor/weidmann-der-dorfbarbier.xml,"Der Puls
+            geht im Galopp, wir müssen eilen.",20,74,character_speech,1,10,,LUX.,#lux,262.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+650,650,GerDracor/weidmann-der-dorfbarbier.xml,Der Tod sitzt ihm schon auf der Zunge!,0,38,character_speech,1,11,,LUX.,#lux,263.0,MALE,abhorrence,K,,1796.0,negative,emotions of rejection
+651,651,GerDracor/weidmann-der-dorfbarbier.xml,"
+            O weh!",0,19,character_speech,1,11,,JOSEPH.,#joseph,264.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+652,652,GerDracor/weidmann-der-dorfbarbier.xml,Wie Feuer brennt die Lunge!,20,47,character_speech,1,11,,JOSEPH.,#joseph,264.0,MALE,being moved,K,,1796.0,being moved,being moved
+653,653,GerDracor/weidmann-der-dorfbarbier.xml,Das Gift zerreißt mein Eingeweid'!,60,94,character_speech,1,11,,JOSEPH.,#joseph,264.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+654,654,GerDracor/weidmann-der-dorfbarbier.xml,"Er stirbt, es ist die höchste Zeit.",0,35,character_speech,1,11,,LUX.,#lux,265.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+655,655,GerDracor/weidmann-der-dorfbarbier.xml,"Ach, wie das Gift im Leibe kocht!",0,33,character_speech,1,11,,JOSEPH.,#joseph,266.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+656,656,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Ach, wie sein krankes Herz ihm pocht!",0,50,character_speech,1,11,,LUX.,#lux,267.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+657,657,GerDracor/weidmann-der-dorfbarbier.xml,"Blaß ist sein Angesicht,
+            Seht, wie das Aug' ihm bricht,
+            Und Adam kommt noch nicht.",63,169,character_speech,1,11,,LUX.,#lux,267.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+658,658,GerDracor/weidmann-der-dorfbarbier.xml,Bei Seite.,0,10,stage_direction,1,11,speech_part,,#lux,267.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+659,659,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Er stirbt mir ohne Zweifel,
+            Es geht mit ihm zu End'.",0,77,character_speech,1,11,,LUX.,#lux,267.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+660,660,GerDracor/weidmann-der-dorfbarbier.xml,"Die Erbschaft ist beim Teufel
+            Mit sammt dem Testament.",90,156,character_speech,1,11,,LUX.,#lux,267.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+661,661,GerDracor/weidmann-der-dorfbarbier.xml,Adam und Bauern kommen.,0,23,stage_direction,1,11,speech_part,,#lux,267.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+662,662,GerDracor/weidmann-der-dorfbarbier.xml,Dialog.,0,7,stage_direction,1,11,speech_part,,#lux,267.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+663,663,GerDracor/weidmann-der-dorfbarbier.xml,"Ach, endlich kommen sie!",0,24,character_speech,1,11,,LUX.,#lux,268.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+664,664,GerDracor/weidmann-der-dorfbarbier.xml,"Mein lieber Herr Joseph, suchen Sie sich ein wenig stärker zu
+            machen, als Sie sind.",25,120,character_speech,1,11,,LUX.,#lux,268.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+665,665,GerDracor/weidmann-der-dorfbarbier.xml,Ich will alle meine Kräfte sammeln.,0,35,character_speech,1,11,,JOSEPH.,#joseph,269.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+666,666,GerDracor/weidmann-der-dorfbarbier.xml,Nur herein!,0,11,character_speech,1,11,,ADAM.,#adam,270.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+667,667,GerDracor/weidmann-der-dorfbarbier.xml,Fromme Schafe gehen viele in einen Stall.,12,53,character_speech,1,11,,ADAM.,#adam,270.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+668,668,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, worinnen können wir dienen?",0,37,character_speech,1,11,,PHILIPP.,#philipp,271.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+669,669,GerDracor/weidmann-der-dorfbarbier.xml,Bin allezeit bereit.,0,20,character_speech,1,11,,THOMAS.,#thomas,272.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+670,670,GerDracor/weidmann-der-dorfbarbier.xml,"Schönen Dank, meine Freunde!",0,28,character_speech,1,11,,LUX.,#lux,273.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+671,671,GerDracor/weidmann-der-dorfbarbier.xml,"Zuerst ein Glas Wein – Suschen, hurtig!",29,68,character_speech,1,11,,LUX.,#lux,273.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+672,672,GerDracor/weidmann-der-dorfbarbier.xml,"Adam, Stühle!",69,82,character_speech,1,11,,LUX.,#lux,273.0,MALE,being moved,K,,1796.0,being moved,being moved
+673,673,GerDracor/weidmann-der-dorfbarbier.xml,"Die Bauern setzen sich, jeder zu einem Glas Wein.",0,49,stage_direction,1,11,inner_speech,,#lux,273.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+674,674,GerDracor/weidmann-der-dorfbarbier.xml," Daß ich mehr Vater
+            als Vormund bei meinem lieben Suschen gewesen bin, weiß die ganze Dorfgemeinde.",0,111,character_speech,1,11,,LUX.,#lux,273.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+675,675,GerDracor/weidmann-der-dorfbarbier.xml,Bin lebendiger Zeuge.,0,21,character_speech,1,11,,THOMAS.,#thomas,274.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+676,676,GerDracor/weidmann-der-dorfbarbier.xml,Kann's mit einem Eide bekräftigen.,0,34,character_speech,1,11,,PHILIPP.,#philipp,275.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+677,677,GerDracor/weidmann-der-dorfbarbier.xml,"Weil es dem Himmel gefallen hat, habe ich mich entschlossen, als Pflegevater meiner
+            lieben Mündel, sie mit einem wackern Mann zu verheirathen; und da ich die Neigung des
+            Herrn Joseph kenne, so ist meine Wahl auf den gefallen.",0,249,character_speech,1,11,,LUX.,#lux,276.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+678,678,GerDracor/weidmann-der-dorfbarbier.xml,"Es fehlen freilich einige
+            Formalitäten, aber der Bräutigam hat eine dringende Reise vor.",250,350,character_speech,1,11,,LUX.,#lux,276.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+679,679,GerDracor/weidmann-der-dorfbarbier.xml,"Wir wollen jetzt in's
+            Himmelsnamen zum Werke schreiten.",351,418,character_speech,1,11,,LUX.,#lux,276.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+680,680,GerDracor/weidmann-der-dorfbarbier.xml,trinken.,0,8,stage_direction,1,11,speech_part,,#bauern,277.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+681,681,GerDracor/weidmann-der-dorfbarbier.xml,Es lebe das Brautpaar!,0,22,character_speech,1,11,,BAUERN,#bauern,277.0,UNKNOWN,joy,K,,1796.0,positive,emotions of pleasure
+682,682,GerDracor/weidmann-der-dorfbarbier.xml,trinkt.,0,7,stage_direction,1,11,speech_part,,#rund,278.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+683,683,GerDracor/weidmann-der-dorfbarbier.xml,Sie leben.,0,10,character_speech,1,11,,RUND,#rund,278.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+684,684,GerDracor/weidmann-der-dorfbarbier.xml,Gelehrten ist gut predigen.,0,27,character_speech,1,11,,ADAM.,#adam,279.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+685,685,GerDracor/weidmann-der-dorfbarbier.xml,"Liebt Euch, meine Kinder, und der Himmel segne Euch!",0,52,character_speech,1,11,,LUX.,#lux,280.0,MALE,love,K,,1796.0,positive,emotions of affection
+686,686,GerDracor/weidmann-der-dorfbarbier.xml,Alles hat seine Richtigkeit; jetzt zur Unterschrift!,0,52,character_speech,1,11,,RUND.,#rund,281.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+687,687,GerDracor/weidmann-der-dorfbarbier.xml,"– Zuerst Herr Lux – dann der
+            Bräutigam und die Braut – hernach die Zeugen.",53,139,character_speech,1,11,,RUND.,#rund,281.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+688,688,GerDracor/weidmann-der-dorfbarbier.xml,"Zum Glück sind es Geschworne und können
+            schreiben.",140,202,character_speech,1,11,,RUND.,#rund,281.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+689,689,GerDracor/weidmann-der-dorfbarbier.xml,Daran fehlt es nicht.,0,21,character_speech,1,11,,THOMAS.,#thomas,282.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+690,690,GerDracor/weidmann-der-dorfbarbier.xml,Trag' Er Jedem ein Maß Bier in's Haus.,22,60,character_speech,1,11,,THOMAS.,#thomas,282.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+691,691,GerDracor/weidmann-der-dorfbarbier.xml,"Alle
+              unterschreiben.",0,34,stage_direction,1,11,inner_speech,,#thomas,282.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+692,692,GerDracor/weidmann-der-dorfbarbier.xml,gehen mit Adam fort.,0,20,stage_direction,1,11,speech_part,,#bauern,283.0,UNKNOWN,no_annotation,K,,1796.0,no_annotation,no_annotation
+693,693,GerDracor/weidmann-der-dorfbarbier.xml,Wir danken schön!,0,17,character_speech,1,11,,BAUERN,#bauern,283.0,UNKNOWN,joy,K,,1796.0,positive,emotions of pleasure
+694,694,GerDracor/weidmann-der-dorfbarbier.xml,Dies Geschäft wäre nun glücklich vollendet.,0,43,character_speech,1,11,,LUX.,#lux,284.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+695,695,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Rund, auf ein Wort.",44,68,character_speech,1,11,,LUX.,#lux,284.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+696,696,GerDracor/weidmann-der-dorfbarbier.xml,"Ich denke, wir
+            dürfen unsern Kranken nicht mehr aus dem Gesichte lassen.",69,153,character_speech,1,11,,LUX.,#lux,284.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+697,697,GerDracor/weidmann-der-dorfbarbier.xml,Das wäre ein Fehler wider die Politik; lassen Sie mich nur machen!,0,66,character_speech,1,11,,RUND.,#rund,285.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+698,698,GerDracor/weidmann-der-dorfbarbier.xml,"Jetzt will ich ihn
+            zur letzten Reise vorbereiten.",67,128,character_speech,1,11,,RUND.,#rund,285.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+699,699,GerDracor/weidmann-der-dorfbarbier.xml,"Führen Sie ihr Suschen weg, der Sterbende möchte
+            gräßliche Grimmassen machen.",129,218,character_speech,1,11,,RUND.,#rund,285.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+700,700,GerDracor/weidmann-der-dorfbarbier.xml,Wohlgedacht!,0,12,character_speech,1,11,,LUX.,#lux,286.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+701,701,GerDracor/weidmann-der-dorfbarbier.xml,"Komm, Suschen, wir wollen diese Herren allein lassen, sie haben wichtige
+            Geschäfte mit einander.",13,121,character_speech,1,11,,LUX.,#lux,286.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+702,702,GerDracor/weidmann-der-dorfbarbier.xml,"Geht mit Suschen in's Nebenzimmer, guckt aber öfters heraus.",0,60,stage_direction,1,11,speech_part,,#lux,286.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+703,703,GerDracor/weidmann-der-dorfbarbier.xml,"Rund setzt sich gravitätisch an den Tisch, schlägt das Buch auf, nimmt die Brille
+            und beginnt in salmodirenden Tone zu singen",0,137,stage_direction,1,11,speech_part,,#lux,286.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+704,704,GerDracor/weidmann-der-dorfbarbier.xml,mit Salbung.,0,12,stage_direction,1,12,speech_part,,#rund,287.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+705,705,GerDracor/weidmann-der-dorfbarbier.xml,"
+            1.",0,15,character_speech,1,12,,RUND,#rund,287.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+706,706,GerDracor/weidmann-der-dorfbarbier.xml,"Gedenk, o Mensch, du bist aus Staub,
+            Dein Leib wird einst der Würmer Raub,
+            Das Kind, der Jüngling und der Greis
+            Muß nolens volens auf die Reis';
+            Das modernde Gebein
+            Bedeckt der Leichenstein.",16,266,character_speech,1,12,,RUND,#rund,287.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+707,707,GerDracor/weidmann-der-dorfbarbier.xml,Er trinkt.,0,10,stage_direction,1,12,speech_part,,#rund,287.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+708,708,GerDracor/weidmann-der-dorfbarbier.xml,Dialog.,0,7,stage_direction,1,12,speech_part,,#rund,287.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+709,709,GerDracor/weidmann-der-dorfbarbier.xml,springt auf.,0,12,stage_direction,1,12,speech_part,,#joseph,288.0,MALE,being moved,K,,1796.0,being moved,being moved
+710,710,GerDracor/weidmann-der-dorfbarbier.xml,Luft!,0,5,character_speech,1,12,,JOSEPH,#joseph,288.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+711,711,GerDracor/weidmann-der-dorfbarbier.xml,Luft!,6,11,character_speech,1,12,,JOSEPH,#joseph,288.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+712,712,GerDracor/weidmann-der-dorfbarbier.xml,"Eilt zum Tisch und verschlingt gierig den Schinken, setzt sich dann
+              nieder und beginnt zu schlafen.",0,113,stage_direction,1,12,inner_speech,,#joseph,288.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+713,713,GerDracor/weidmann-der-dorfbarbier.xml,"der es sieht, eilt herbei.",0,26,stage_direction,1,12,speech_part,,#lux,289.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+714,714,GerDracor/weidmann-der-dorfbarbier.xml,Um des Himmels willen was ist das?,0,34,character_speech,1,12,,LUX,#lux,289.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+715,715,GerDracor/weidmann-der-dorfbarbier.xml,"Lassen Sie ihn nur austoben; sehen Sie, er wird schon sanfter.",0,62,character_speech,1,12,,RUND.,#rund,290.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+716,716,GerDracor/weidmann-der-dorfbarbier.xml,Ich will den Ausgang abwarten.,0,30,character_speech,1,12,,LUX.,#lux,291.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+717,717,GerDracor/weidmann-der-dorfbarbier.xml,Ab.,0,3,stage_direction,1,12,inner_speech,,#lux,291.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+718,718,GerDracor/weidmann-der-dorfbarbier.xml,"
+            2.",0,15,character_speech,1,12,,RUND.,#rund,292.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+719,719,GerDracor/weidmann-der-dorfbarbier.xml,"O Mensch, der Schöpfung Meisterstück,
+            Wirf in die Zukunft einen Blick.",16,98,character_speech,1,12,,RUND.,#rund,292.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+720,720,GerDracor/weidmann-der-dorfbarbier.xml,"Die Seele krönt Unsterblichkeit,
+            Sie wandert in die Ewigkeit.",111,184,character_speech,1,12,,RUND.,#rund,292.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+721,721,GerDracor/weidmann-der-dorfbarbier.xml,"Und schwingt sich freudenvoll
+            Hinauf zum Sternenpol.",197,261,character_speech,1,12,,RUND.,#rund,292.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+722,722,GerDracor/weidmann-der-dorfbarbier.xml,Er trinkt.,0,10,stage_direction,1,12,speech_part,,#rund,292.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+723,723,GerDracor/weidmann-der-dorfbarbier.xml,Dialog.,0,7,stage_direction,1,12,speech_part,,#rund,292.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+724,724,GerDracor/weidmann-der-dorfbarbier.xml,schleicht herein.,0,17,stage_direction,1,12,speech_part,,#lux,293.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+725,725,GerDracor/weidmann-der-dorfbarbier.xml,Er scheint zu schlafen.,0,23,character_speech,1,12,,LUX,#lux,293.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+726,726,GerDracor/weidmann-der-dorfbarbier.xml,Vermuthlich der Todesschlaf.,0,28,character_speech,1,12,,RUND.,#rund,294.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+727,727,GerDracor/weidmann-der-dorfbarbier.xml,Requiescat!,29,40,character_speech,1,12,,RUND.,#rund,294.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+728,728,GerDracor/weidmann-der-dorfbarbier.xml,tritt ein.,0,10,stage_direction,1,12,speech_part,,#adam,295.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+729,729,GerDracor/weidmann-der-dorfbarbier.xml,Alles ist geschehen!,0,20,character_speech,1,12,,ADAM,#adam,295.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+730,730,GerDracor/weidmann-der-dorfbarbier.xml,St!,0,3,character_speech,1,12,,LUX.,#lux,296.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+731,731,GerDracor/weidmann-der-dorfbarbier.xml,St!,4,7,character_speech,1,12,,LUX.,#lux,296.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+732,732,GerDracor/weidmann-der-dorfbarbier.xml,Hält ihm den Finger auf den Mund.,0,33,stage_direction,1,12,speech_part,,#lux,296.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+733,733,GerDracor/weidmann-der-dorfbarbier.xml,"Adam, komm' Er her!",0,19,character_speech,1,12,,LUX.,#lux,296.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+734,734,GerDracor/weidmann-der-dorfbarbier.xml,"Sehe Er einmal, so sieht ein Mensch aus, wenn er die Welt
+            verläßt.",20,98,character_speech,1,12,,LUX.,#lux,296.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+735,735,GerDracor/weidmann-der-dorfbarbier.xml,mit offnem Munde.,0,17,stage_direction,1,12,speech_part,,#adam,297.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+736,736,GerDracor/weidmann-der-dorfbarbier.xml,Der Tod sieht ihm aus den Augen.,0,32,character_speech,1,12,,ADAM,#adam,297.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+737,737,GerDracor/weidmann-der-dorfbarbier.xml,wie aus einem Traum erwachend.,0,30,stage_direction,1,12,speech_part,,#joseph,298.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+738,738,GerDracor/weidmann-der-dorfbarbier.xml,Wo bin ich?,0,11,character_speech,1,12,,JOSEPH,#joseph,298.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+739,739,GerDracor/weidmann-der-dorfbarbier.xml,Leb' ich?,12,21,character_speech,1,12,,JOSEPH,#joseph,298.0,MALE,being moved,K,,1796.0,being moved,being moved
+740,740,GerDracor/weidmann-der-dorfbarbier.xml,"Aller Schmerz von mir gewichen, – ich bin munter – jugendlich –
+            stark – ach, wie leicht athme ich.",22,132,character_speech,1,12,,JOSEPH,#joseph,298.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+741,741,GerDracor/weidmann-der-dorfbarbier.xml,Welch' ein Wunder?,0,18,character_speech,1,12,,LUX.,#lux,299.0,MALE,being moved,K,,1796.0,being moved,being moved
+742,742,GerDracor/weidmann-der-dorfbarbier.xml,Das begreife ich nicht.,0,23,character_speech,1,12,,RUND.,#rund,300.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+743,743,GerDracor/weidmann-der-dorfbarbier.xml,"Herr Lux, haben Sie ihm Arznei gegeben?",24,63,character_speech,1,12,,RUND.,#rund,300.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+744,744,GerDracor/weidmann-der-dorfbarbier.xml,Nicht einen Tropfen.,0,20,character_speech,1,12,,LUX.,#lux,301.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+745,745,GerDracor/weidmann-der-dorfbarbier.xml,Tausend!,0,8,character_speech,1,12,,RUND.,#rund,302.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+746,746,GerDracor/weidmann-der-dorfbarbier.xml,Jetzt fällt mir ein.,9,29,character_speech,1,12,,RUND.,#rund,302.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+747,747,GerDracor/weidmann-der-dorfbarbier.xml,"– Haben Sie nicht gesehen, wie hastig er den Schinken
+            verschlungen hat?",30,113,character_speech,1,12,,RUND.,#rund,302.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+748,748,GerDracor/weidmann-der-dorfbarbier.xml,War das Schinken?,0,17,character_speech,1,12,,LUX.,#lux,303.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+749,749,GerDracor/weidmann-der-dorfbarbier.xml,O jetzt weiß ich Alles!,18,41,character_speech,1,12,,LUX.,#lux,303.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+750,750,GerDracor/weidmann-der-dorfbarbier.xml,O göttliches Arcanum!,42,63,character_speech,1,12,,LUX.,#lux,303.0,MALE,love,K,,1796.0,positive,emotions of affection
+751,751,GerDracor/weidmann-der-dorfbarbier.xml,"Ich bin
+            außer mir vor Freuden über diese Entdeckung!",64,128,character_speech,1,12,,LUX.,#lux,303.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+752,752,GerDracor/weidmann-der-dorfbarbier.xml,– Schinken wider Gift!,129,151,character_speech,1,12,,LUX.,#lux,303.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+753,753,GerDracor/weidmann-der-dorfbarbier.xml,Wo ist denn meine Braut?,0,24,character_speech,1,12,,JOSEPH.,#joseph,304.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+754,754,GerDracor/weidmann-der-dorfbarbier.xml,Kommen Sie geliebtes Suschen.,25,54,character_speech,1,12,,JOSEPH.,#joseph,304.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+755,755,GerDracor/weidmann-der-dorfbarbier.xml,Suschen geht zu Joseph und umarmt ihn.,0,38,stage_direction,1,12,speech_part,,#joseph,304.0,MALE,joy,K,,1796.0,positive,emotions of pleasure
+756,756,GerDracor/weidmann-der-dorfbarbier.xml,"Sachte, Herr Joseph!",0,20,character_speech,1,12,,LUX.,#lux,305.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+757,757,GerDracor/weidmann-der-dorfbarbier.xml,Die Hitze könnte Ihnen schaden!,21,52,character_speech,1,12,,LUX.,#lux,305.0,MALE,fear,K,,1796.0,negative,emotions of anxiety
+758,758,GerDracor/weidmann-der-dorfbarbier.xml,"Jetzt geht es aus einem andern
+            Tone!",53,101,character_speech,1,12,,LUX.,#lux,305.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+759,759,GerDracor/weidmann-der-dorfbarbier.xml,Aus der Heirath wird nichts.,102,130,character_speech,1,12,,LUX.,#lux,305.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+760,760,GerDracor/weidmann-der-dorfbarbier.xml,"Da der Himmel durch seinen Diener Lux an mir seine Güte übte, so kann ich nicht
+            undankbar sein und eine Verbindung trennen, die ich als ein heiliges Gelübde
+            betrachte.",0,191,character_speech,1,12,,JOSEPH.,#joseph,306.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+761,761,GerDracor/weidmann-der-dorfbarbier.xml,Wie wäre das?,0,13,character_speech,1,12,,LUX.,#lux,307.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+762,762,GerDracor/weidmann-der-dorfbarbier.xml,Zum Wetter Herr Rund!,14,35,character_speech,1,12,,LUX.,#lux,307.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+763,763,GerDracor/weidmann-der-dorfbarbier.xml,"Vermeiden Sie das Aufsehen, Herr Lux.",0,37,character_speech,1,12,,RUND.,#rund,308.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+764,764,GerDracor/weidmann-der-dorfbarbier.xml,"Sie wissen den weisen Spruch: Was der Himmel
+            zusammenfügt.",38,108,character_speech,1,12,,RUND.,#rund,308.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+765,765,GerDracor/weidmann-der-dorfbarbier.xml,sollen die Menschen nicht trennen.,109,143,character_speech,1,12,,RUND.,#rund,308.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+766,766,GerDracor/weidmann-der-dorfbarbier.xml,Ich war ein Dummkopf!,0,21,character_speech,1,12,,LUX.,#lux,309.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+767,767,GerDracor/weidmann-der-dorfbarbier.xml,Höll' und Teufel!,22,39,character_speech,1,12,,LUX.,#lux,309.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+768,768,GerDracor/weidmann-der-dorfbarbier.xml,Darinnen liegt eben das Wunderbere!,0,35,character_speech,1,12,,RUND.,#rund,310.0,MALE,being moved,K,,1796.0,being moved,being moved
+769,769,GerDracor/weidmann-der-dorfbarbier.xml,Ehen werden im Himmel geschlossen!,36,70,character_speech,1,12,,RUND.,#rund,310.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+770,770,GerDracor/weidmann-der-dorfbarbier.xml,"Sie, Herr Lux,
+            als der größte Kenner der Natur, als ein außerordentliches Genie, sind vom Schicksal zu
+            höhern Arbeiten bestimmt.",71,223,character_speech,1,12,,RUND.,#rund,310.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+771,771,GerDracor/weidmann-der-dorfbarbier.xml,Sie sollen nur für die Menschheit arbeiten.,224,267,character_speech,1,12,,RUND.,#rund,310.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+772,772,GerDracor/weidmann-der-dorfbarbier.xml,Sie öffnen mir die Augen.,0,25,character_speech,1,12,,LUX.,#lux,311.0,MALE,love,K,,1796.0,positive,emotions of affection
+773,773,GerDracor/weidmann-der-dorfbarbier.xml,Ich will mich dem Vaterlande aufopfern.,26,65,character_speech,1,12,,LUX.,#lux,311.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+774,774,GerDracor/weidmann-der-dorfbarbier.xml,Fieber!,66,73,character_speech,1,12,,LUX.,#lux,311.0,MALE,suffering,K,,1796.0,negative,emotions of suffering and empathy
+775,775,GerDracor/weidmann-der-dorfbarbier.xml,– Gift!,74,81,character_speech,1,12,,LUX.,#lux,311.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+776,776,GerDracor/weidmann-der-dorfbarbier.xml,–,82,83,character_speech,1,12,,LUX.,#lux,311.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+777,777,GerDracor/weidmann-der-dorfbarbier.xml,Vielleicht auch Pest!,0,21,character_speech,1,12,,RUND.,#rund,312.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+778,778,GerDracor/weidmann-der-dorfbarbier.xml,Wenn nur jetzt gleich Pest wäre!,0,32,character_speech,1,12,,LUX.,#lux,313.0,MALE,anger,K,,1796.0,negative,emotions of rejection
+779,779,GerDracor/weidmann-der-dorfbarbier.xml,"Schinken, die Wunderarznei wider Fieber, Gift und
+            Pest.",33,100,character_speech,1,12,,LUX.,#lux,313.0,MALE,"admiration, reverence",K,,1796.0,positive,emotions of affection
+780,780,GerDracor/weidmann-der-dorfbarbier.xml,– Du verewigst meinen Namen!,101,129,character_speech,1,12,,LUX.,#lux,313.0,MALE,no_annotation,K,,1796.0,no_annotation,no_annotation
+781,781,GerDracor/weidmann-der-dorfbarbier.xml,"Küsset, Freunde, dieses Buch, in welchem ich für die
+            Nachwelt den Stein der Weisen aufbewahre!",130,236,character_speech,1,12,,LUX.,#lux,313.0,MALE,friendship,K,,1796.0,positive,emotions of affection
+782,782,GerDracor/weidmann-der-dorfbarbier.xml,"Reicht Das Buch einem Jeden zum Kusse –
+              Rund zuerst.",0,66,stage_direction,1,12,inner_speech,,#lux,313.0,MALE,love,K,,1796.0,positive,emotions of affection
+783,783,GerDracor/weidmann-der-dorfbarbier.xml,"
+            Es lebe Lux, der Wundermann,
+            Der Gift und Pest vertreiben kann,
+            Er leb', gekrönt mit Ehr' und Ruhm,
+            Berühmt bis in das Alterthum!",0,178,character_speech,1,13,,CHOR.,#chor,314.0,UNKNOWN,"admiration, reverence",K,,1796.0,positive,emotions of affection

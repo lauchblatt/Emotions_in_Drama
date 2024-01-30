@@ -1,0 +1,899 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/heyne-die-beiden-billets.xml,"Gürge (allein, springt hervor.)",0,31,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+1,1,GerDracor/heyne-die-beiden-billets.xml,"Heysa, Gürge!",0,13,character_speech,1,1,,,#guerge,1.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+2,2,GerDracor/heyne-die-beiden-billets.xml,heysa!,14,20,character_speech,1,1,,,#guerge,1.0,MALE,being moved,K,,1783.0,being moved,being moved
+3,3,GerDracor/heyne-die-beiden-billets.xml,"– Ins Wasser möcht’ ich für Freuden springen – Röse, allerliebste
+            Goldröse!",21,108,character_speech,1,1,,,#guerge,1.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+4,4,GerDracor/heyne-die-beiden-billets.xml,"– Nun, habe Dank, lieber Schulmeister, daß du mich so lange geblaut hast, bis
+            ich habe lesen lernen.",109,221,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+5,5,GerDracor/heyne-die-beiden-billets.xml,"– Nein, nun ist es gewiß, daß sie mir gut ist.",222,268,character_speech,1,1,,,#guerge,1.0,MALE,love,K,,1783.0,positive,emotions of affection
+6,6,GerDracor/heyne-die-beiden-billets.xml,"Da stehts – mit
+            ihren eignen beiden runden allerliebsten Patschgen geschrieben.",269,360,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+7,7,GerDracor/heyne-die-beiden-billets.xml,"– Ach, ich muß nur noch
+            einmal lesen.",361,410,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+8,8,GerDracor/heyne-die-beiden-billets.xml,–,411,412,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+9,9,GerDracor/heyne-die-beiden-billets.xml,(Liest.),0,8,stage_direction,1,1,inner_speech,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+10,10,GerDracor/heyne-die-beiden-billets.xml," „Lieber Freund!“ – Jemine, man sieht gleich an
+            den vornehmen Redensarten, daß sie in der Stadt gewesen ist – „diesen Augenblick hat mir
+            mein Vater gesagt, er stellte mirs frey, ob ich unter meinen Freyern den",0,233,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+11,11,GerDracor/heyne-die-beiden-billets.xml,"
+            Balbier Schnapps oder Gürgen haben wollte.",0,55,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+12,12,GerDracor/heyne-die-beiden-billets.xml,"Ich habe dirs gleich schreiben wollen, damit
+            du’s recht bald wüßtest.",56,137,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+13,13,GerDracor/heyne-die-beiden-billets.xml,"Du kannst nun thun was du willst, lieber Freund.“ – Nichts als
+            lieber Freund!",138,227,character_speech,1,1,,,#guerge,1.0,MALE,friendship,K,,1783.0,positive,emotions of affection
+14,14,GerDracor/heyne-die-beiden-billets.xml,(Wischt sich die Thränen ab.),0,29,stage_direction,1,1,inner_speech,,#guerge,1.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+15,15,GerDracor/heyne-die-beiden-billets.xml," Nu, wenn ichs überlebe, so
+            weiß ich, was ich thun will.",0,68,character_speech,1,1,,,#guerge,1.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+16,16,GerDracor/heyne-die-beiden-billets.xml,"Und vor Ihm, Mosge Schnapps, fürcht’ ich mich nun auch
+            nicht mehr.",69,147,character_speech,1,1,,,#guerge,1.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+17,17,GerDracor/heyne-die-beiden-billets.xml,"Er hat mir lange genug Angst gemacht: Sein Maul geht immer wie eine Breche,
+            und vor solchen Leuten kommt unser einer immer nicht fort.",148,294,character_speech,1,1,,,#guerge,1.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+18,18,GerDracor/heyne-die-beiden-billets.xml,"Aber nu meinetwegen, ich will
+            mich drein ergeben, will hingehen und meinen Schwiegervater fragen, wenn Verlöbde seyn
+            soll.",295,441,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+19,19,GerDracor/heyne-die-beiden-billets.xml,"Und auf die Hochzeit – Nein, ich falle in Ohnmacht, wenn ich an die Hochzeit mit
+            Rösgen denken soll.",442,554,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+20,20,GerDracor/heyne-die-beiden-billets.xml,–,555,556,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+21,21,GerDracor/heyne-die-beiden-billets.xml,"(Er will gehn, kommt zurück.)",0,29,stage_direction,1,1,inner_speech,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+22,22,GerDracor/heyne-die-beiden-billets.xml," Aber es geht mir doch
+            noch was im Kopfe herum.",0,59,character_speech,1,1,,,#guerge,1.0,MALE,being moved,K,,1783.0,being moved,being moved
+23,23,GerDracor/heyne-die-beiden-billets.xml,"Röse hat ein schönes Gut, den schönsten Stall voll Kühe im
+            Dorfe, volle Böden, und ein fünfzehnhundert Gulden baar Geld: und ich habe – nichts, als
+            ein armseliges Häusgen mit einem Gärtgen dran.",60,278,character_speech,1,1,,,#guerge,1.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+24,24,GerDracor/heyne-die-beiden-billets.xml,"– Ich wollte, Gott verzeih mirs, lieber,
+            sie wäre so arm als ich, und ich so reich als sie.",279,382,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+25,25,GerDracor/heyne-die-beiden-billets.xml,Freilich wenn mir das Lotto,383,410,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+26,26,GerDracor/heyne-die-beiden-billets.xml," zusagte – Ich habe mich vom Schulmeister beschwazen lassen, und einen Speziesthaler
+            auf eine Terne gesetzt – ich habe doch den Zettel noch?",0,152,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+27,27,GerDracor/heyne-die-beiden-billets.xml,"(Sucht ihn und bringt ihn
+              hervor.)",0,48,stage_direction,1,1,inner_speech,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+28,28,GerDracor/heyne-die-beiden-billets.xml," Ja, da ist er: 27, 19, und 48 – Ja, ja, ich denke, die Herrn
+            Lottodirektors werdens wohl so karten, daß sie meinen Thaler behalten.",0,144,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+29,29,GerDracor/heyne-die-beiden-billets.xml,"Aber ich weiß –
+            was ich mache.",145,187,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+30,30,GerDracor/heyne-die-beiden-billets.xml,"Gewinn ich nichts, so nehm’ ich alle neunzig Nummern mit einander, und
+            wenn ich hernach nicht herauskomme, so sprech’ ich selber, daß das ganze Lotto eine
+            Beutelschneiderey auf vornehmen Fuß ist.",188,407,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+31,31,GerDracor/heyne-die-beiden-billets.xml,"– Nun, ich will fort zu Rösgen.",408,439,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+32,32,GerDracor/heyne-die-beiden-billets.xml,–,440,441,character_speech,1,1,,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+33,33,GerDracor/heyne-die-beiden-billets.xml,"(Sieht
+              Schnappsen kommen.)",0,40,stage_direction,1,1,inner_speech,,#guerge,1.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+34,34,GerDracor/heyne-die-beiden-billets.xml," Kommt mir der Hasenfuß gleich in den Weg: ich muß nur
+            geschwind meine Papiere einstecken.",0,102,character_speech,1,1,,,#guerge,1.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+35,35,GerDracor/heyne-die-beiden-billets.xml,Gürge.,0,6,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+36,36,GerDracor/heyne-die-beiden-billets.xml,Schnapps.,7,16,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+37,37,GerDracor/heyne-die-beiden-billets.xml,"Guten Tag, mein lieber Gürge, guten Tag.",0,40,character_speech,1,2,,Schnapps.,#schnapps,2.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+38,38,GerDracor/heyne-die-beiden-billets.xml,Schön Dank!,0,11,character_speech,1,2,,Gürge.,#guerge,3.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+39,39,GerDracor/heyne-die-beiden-billets.xml,"(nach einigen Stillschweigen, während deßen Gürge in Gedanken steht.)",0,69,stage_direction,1,2,speech_part,,#schnapps,4.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+40,40,GerDracor/heyne-die-beiden-billets.xml,Wie gehn denn die Affären?,0,26,character_speech,1,2,,Schnapps,#schnapps,4.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+41,41,GerDracor/heyne-die-beiden-billets.xml,Meinetwegen.,0,12,character_speech,1,2,,Gürge.,#guerge,5.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+42,42,GerDracor/heyne-die-beiden-billets.xml,Meinetwegen?,0,12,character_speech,1,2,,Schnapps.,#schnapps,6.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+43,43,GerDracor/heyne-die-beiden-billets.xml,"– Ich fragte, wie die Affären gehn.",13,48,character_speech,1,2,,Schnapps.,#schnapps,6.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+44,44,GerDracor/heyne-die-beiden-billets.xml,"Und ich verstand, Er wollte an seine Affären gehn, und da sagt’ ich: Meinetwegen!",0,81,character_speech,1,2,,Gürge.,#guerge,7.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+45,45,GerDracor/heyne-die-beiden-billets.xml,"Aber sagt mir doch, lieber Gürge,",0,33,character_speech,1,2,,Schnapps.,#schnapps,8.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+46,46,GerDracor/heyne-die-beiden-billets.xml,(ergreift ihn bey der Hand),0,27,stage_direction,1,2,inner_speech,,#schnapps,8.0,MALE,"admiration, reverence",K,,1783.0,positive,emotions of affection
+47,47,GerDracor/heyne-die-beiden-billets.xml," warum Ihr
+            allemal so grämisch seyd, wenn ich mit Euch rede.",0,72,character_speech,1,2,,Schnapps.,#schnapps,8.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+48,48,GerDracor/heyne-die-beiden-billets.xml,Was habt Ihr denn?,73,91,character_speech,1,2,,Schnapps.,#schnapps,8.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+49,49,GerDracor/heyne-die-beiden-billets.xml,Meine Ursachen hab’ ich.,0,24,character_speech,1,2,,Gürge.,#guerge,9.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+50,50,GerDracor/heyne-die-beiden-billets.xml,"Je nun, lieber Gürge, ich hätte wohl die nämlichen Ursachen.",0,60,character_speech,1,2,,Schnapps.,#schnapps,10.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+51,51,GerDracor/heyne-die-beiden-billets.xml,"Aber ich mach’ es, wie Ihr
+            seht, ganz anders.",61,118,character_speech,1,2,,Schnapps.,#schnapps,10.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+52,52,GerDracor/heyne-die-beiden-billets.xml,Weil wir überhaupt einander nicht ähnlich sind.,0,47,character_speech,1,2,,Gürge.,#guerge,11.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+53,53,GerDracor/heyne-die-beiden-billets.xml,Seyd kein Närrgen.,0,18,character_speech,1,2,,Schnapps.,#schnapps,12.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+54,54,GerDracor/heyne-die-beiden-billets.xml,"– Weil wir beide um Ein Mädel freyn: müßen wir denn deßwegen
+            einander gram seyn?",19,111,character_speech,1,2,,Schnapps.,#schnapps,12.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+55,55,GerDracor/heyne-die-beiden-billets.xml,"Es verlohnt sich ja nicht der Mühe, daß sich zwey ehrliche Leute um
+            so eines Trudels willen veruneinigen.",112,229,character_speech,1,2,,Schnapps.,#schnapps,12.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+56,56,GerDracor/heyne-die-beiden-billets.xml,"Wenn sich zwey ehrliche Leute veruneinigen  sollen, so gehören auch allemal
+            zwei ehrliche Leute dazu.",0,113,character_speech,1,2,,Gürge.,#guerge,13.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+57,57,GerDracor/heyne-die-beiden-billets.xml,Mosge Gürge?,0,12,character_speech,1,2,,Schnapps.,#schnapps,14.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+58,58,GerDracor/heyne-die-beiden-billets.xml,Mosge Schnapps?,0,15,character_speech,1,2,,Gürge.,#guerge,15.0,MALE,being moved,K,,1783.0,being moved,being moved
+59,59,GerDracor/heyne-die-beiden-billets.xml,Ich verbitte mir alle anzügliche Reden.,0,39,character_speech,1,2,,Schnapps.,#schnapps,16.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+60,60,GerDracor/heyne-die-beiden-billets.xml,"Mit einem Wort, ich kann Ihn nicht leiden, und damit Holla!",0,59,character_speech,1,2,,Gürge.,#guerge,17.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+61,61,GerDracor/heyne-die-beiden-billets.xml,"Armer Gürge, Ihr dauert mich.",0,29,character_speech,1,2,,Schnapps.,#schnapps,18.0,MALE,compassion,K,,1783.0,negative,emotions of suffering and empathy
+62,62,GerDracor/heyne-die-beiden-billets.xml,"Ihr seyd freilich ein hübscher schmucker, schlanker
+            junger Bursche: aber es giebt denn doch Leute, die sich nicht abschrecken lassen.",30,175,character_speech,1,2,,Schnapps.,#schnapps,18.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+63,63,GerDracor/heyne-die-beiden-billets.xml,"– Auf
+            allen Fall thätet Ihr immer wohl, wenn Ihr Euch einen guten Strick anschaftet.",176,272,character_speech,1,2,,Schnapps.,#schnapps,18.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+64,64,GerDracor/heyne-die-beiden-billets.xml,"Ich werde mir einen zulegen, damit ich aushelfen kann.",0,54,character_speech,1,2,,Gürge.,#guerge,19.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+65,65,GerDracor/heyne-die-beiden-billets.xml,(Will gehen.),0,13,stage_direction,1,2,inner_speech,,#guerge,19.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+66,66,GerDracor/heyne-die-beiden-billets.xml,"Nu, nu, Gürge!",0,14,character_speech,1,2,,Schnapps.,#schnapps,20.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+67,67,GerDracor/heyne-die-beiden-billets.xml,Ihr werdet mich doch wenigstens bis an die Schulmeisterey mitnehmen.,15,83,character_speech,1,2,,Schnapps.,#schnapps,20.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+68,68,GerDracor/heyne-die-beiden-billets.xml,"Ich
+            habe dem Schulmeister die Lottolisten mit aus der Stadt gebracht.",84,165,character_speech,1,2,,Schnapps.,#schnapps,20.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+69,69,GerDracor/heyne-die-beiden-billets.xml,(kehrt um.),0,11,stage_direction,1,2,inner_speech,,#guerge,21.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+70,70,GerDracor/heyne-die-beiden-billets.xml, Die Lottolisten?,0,17,character_speech,1,2,,Gürge,#guerge,21.0,MALE,being moved,K,,1783.0,being moved,being moved
+71,71,GerDracor/heyne-die-beiden-billets.xml,Habt Ihr etwa auch eingelegt?,0,29,character_speech,1,2,,Schnapps.,#schnapps,22.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+72,72,GerDracor/heyne-die-beiden-billets.xml,Je nu!,0,6,character_speech,1,2,,Gürge.,#guerge,23.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+73,73,GerDracor/heyne-die-beiden-billets.xml,Welche Nummern sind denn gekommen?,7,41,character_speech,1,2,,Gürge.,#guerge,23.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+74,74,GerDracor/heyne-die-beiden-billets.xml,Gleich!,0,7,character_speech,1,2,,Schnapps.,#schnapps,24.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+75,75,GerDracor/heyne-die-beiden-billets.xml,"– 27, 20, 48, 12, 19.",8,29,character_speech,1,2,,Schnapps.,#schnapps,24.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+76,76,GerDracor/heyne-die-beiden-billets.xml,Wa – was?,0,9,character_speech,1,2,,Gürge.,#guerge,25.0,MALE,being moved,K,,1783.0,being moved,being moved
+77,77,GerDracor/heyne-die-beiden-billets.xml,Wart’ Er doch ein bißgen!,10,35,character_speech,1,2,,Gürge.,#guerge,25.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+78,78,GerDracor/heyne-die-beiden-billets.xml,(Zieht sein Billet heraus.),0,27,stage_direction,1,2,inner_speech,,#guerge,25.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+79,79,GerDracor/heyne-die-beiden-billets.xml," Ist die
+            27 dabey?",0,30,character_speech,1,2,,Gürge.,#guerge,25.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+80,80,GerDracor/heyne-die-beiden-billets.xml,Ja.,0,3,character_speech,1,2,,Schnapps.,#schnapps,26.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+81,81,GerDracor/heyne-die-beiden-billets.xml,Die 19?,0,7,character_speech,1,2,,Gürge.,#guerge,27.0,MALE,being moved,K,,1783.0,being moved,being moved
+82,82,GerDracor/heyne-die-beiden-billets.xml,Ja.,0,3,character_speech,1,2,,Schnapps.,#schnapps,28.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+83,83,GerDracor/heyne-die-beiden-billets.xml,Und die 48 auch?,0,16,character_speech,1,2,,Gürge.,#guerge,29.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+84,84,GerDracor/heyne-die-beiden-billets.xml,Und die 48 auch.,0,16,character_speech,1,2,,Schnapps.,#schnapps,30.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+85,85,GerDracor/heyne-die-beiden-billets.xml,"Geh’ Er, Mosge Schnapps, Er hat mich zum Besten.",0,48,character_speech,1,2,,Gürge.,#guerge,31.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+86,86,GerDracor/heyne-die-beiden-billets.xml,(ärgerlich.),0,12,stage_direction,1,2,inner_speech,,#schnapps,32.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+87,87,GerDracor/heyne-die-beiden-billets.xml," Ach, warum nicht gar?",0,22,character_speech,1,2,,Schnapps,#schnapps,32.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+88,88,GerDracor/heyne-die-beiden-billets.xml,Da seht selber her.,23,42,character_speech,1,2,,Schnapps,#schnapps,32.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+89,89,GerDracor/heyne-die-beiden-billets.xml,"Ja, es ist, Gott verzeih mir meine Sünde, wahr.",0,47,character_speech,1,2,,Gürge.,#guerge,33.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+90,90,GerDracor/heyne-die-beiden-billets.xml,–,48,49,character_speech,1,2,,Gürge.,#guerge,33.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+91,91,GerDracor/heyne-die-beiden-billets.xml,"(Fällt ihm um den
+              Hals.)",0,38,stage_direction,1,2,inner_speech,,#guerge,33.0,MALE,love,K,,1783.0,positive,emotions of affection
+92,92,GerDracor/heyne-die-beiden-billets.xml," Schnapps, ich habe eine Terne: allerliebstes Schnappgen, eine Terne –
+            eine Terne, allerbestes Goldschnappgens – höre, nun will ich Dir ein halb Dutzend
+            Balbiermeßer kaufen, so groß wie die Scharfrichterschwerter, und einen scharlachnen
+            Balbiersack, in dem Du sollst ein paar Scheffel Korn zur Mühle reiten können, und
+            Trotteln dran, wie an unsers Grafen Kutschpferden",0,416,character_speech,1,2,,Gürge.,#guerge,33.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+93,93,GerDracor/heyne-die-beiden-billets.xml," – Allerschönstes
+            Schnappsgen, eine Terne, eine Terne!",0,66,character_speech,1,2,,Gürge.,#guerge,33.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+94,94,GerDracor/heyne-die-beiden-billets.xml,"Nu, erwürgt mich nur nicht.",0,27,character_speech,1,2,,Schnapps.,#schnapps,34.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+95,95,GerDracor/heyne-die-beiden-billets.xml,(Bey Seite.),0,12,stage_direction,1,2,inner_speech,,#schnapps,34.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+96,96,GerDracor/heyne-die-beiden-billets.xml," Ich möchte vor Aergerniß
+            schwarz werden.",0,53,character_speech,1,2,,Schnapps.,#schnapps,34.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+97,97,GerDracor/heyne-die-beiden-billets.xml,"Heysa, nun bin ich der glücklichste Kerl in Europa – ach, was will ich sagen, in
+            Europa?",0,100,character_speech,1,2,,Gürge.,#guerge,35.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+98,98,GerDracor/heyne-die-beiden-billets.xml,– der glücklichste Kerl im ganzen römischen Reiche.,101,152,character_speech,1,2,,Gürge.,#guerge,35.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+99,99,GerDracor/heyne-die-beiden-billets.xml,(bey Seite.),0,12,stage_direction,1,2,inner_speech,,#schnapps,36.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+100,100,GerDracor/heyne-die-beiden-billets.xml," Wenn ich nun sähe, ob ich auf eine honette Manier das
+            Billet wegschnappen könnte?",0,94,character_speech,1,2,,Schnapps,#schnapps,36.0,MALE,Schadenfreude,K,,1783.0,positive,emotions of pleasure
+101,101,GerDracor/heyne-die-beiden-billets.xml,"Nun leb Er wohl unterdessen, Mosge Schnapps:",0,44,character_speech,1,2,,Gürge.,#guerge,37.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+102,102,GerDracor/heyne-die-beiden-billets.xml,(Steckt sein Billet ein.),0,25,stage_direction,1,2,inner_speech,,#guerge,37.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+103,103,GerDracor/heyne-die-beiden-billets.xml,"
+            Nun will ich gleich nach der Stadt gehen, will mir mein Geld auszahlen lassen, und es
+            denn zu den Füssen der niedlichsten Füßgen hinlegen, die seit der Sündfluth auf dem
+            Erdboden herum getrampelt sind.",0,238,character_speech,1,2,,Gürge.,#guerge,37.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+104,104,GerDracor/heyne-die-beiden-billets.xml,(Will gehn.),0,12,stage_direction,1,2,inner_speech,,#guerge,37.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+105,105,GerDracor/heyne-die-beiden-billets.xml,"Die Freude macht Euch verwirrt, Gürge.",0,38,character_speech,1,2,,Schnapps.,#schnapps,38.0,MALE,being moved,K,,1783.0,being moved,being moved
+106,106,GerDracor/heyne-die-beiden-billets.xml,So wartet doch.,39,54,character_speech,1,2,,Schnapps.,#schnapps,38.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+107,107,GerDracor/heyne-die-beiden-billets.xml,"Wißt Ihr denn, wo Ihr das Geld
+            holt?",55,103,character_speech,1,2,,Schnapps.,#schnapps,38.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+108,108,GerDracor/heyne-die-beiden-billets.xml,"Nein, der Geyer, das weiß ich nicht.",0,36,character_speech,1,2,,Gürge.,#guerge,39.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+109,109,GerDracor/heyne-die-beiden-billets.xml,Nun ich wills Euch sagen.,0,25,character_speech,1,2,,Schnapps.,#schnapps,40.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+110,110,GerDracor/heyne-die-beiden-billets.xml,"(Sucht Gürgen das Billet zu stehlen: dieser aber stört
+              ihn immer durch seine Bewegungen.)",0,103,stage_direction,1,2,inner_speech,,#schnapps,40.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+111,111,GerDracor/heyne-die-beiden-billets.xml," Seht Ihr – wo die lange Straße ist, das
+            wißt Ihr wohl?",0,67,character_speech,1,2,,Schnapps.,#schnapps,40.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+112,112,GerDracor/heyne-die-beiden-billets.xml,"Ja, die lange Straße weiß ich.",0,30,character_speech,1,2,,Gürge.,#guerge,41.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+113,113,GerDracor/heyne-die-beiden-billets.xml,"Nu, da wird das Geld ausgezahlt.",0,32,character_speech,1,2,,Schnapps.,#schnapps,42.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+114,114,GerDracor/heyne-die-beiden-billets.xml,"Gut, gut, ich gehe in die lange Straße, zeige mein Billet, und kriege mein Geld.",0,80,character_speech,1,2,,Gürge.,#guerge,43.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+115,115,GerDracor/heyne-die-beiden-billets.xml,Ja.,0,3,character_speech,1,2,,Schnapps.,#schnapps,44.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+116,116,GerDracor/heyne-die-beiden-billets.xml,"– Aber Ihr müßt mich nur recht verstehn: seht Ihr – eh’ Ihr in die Straße kommt –
+            so rechter Hand – da ist ein großer Thorweg – Seht Ihr – zum Exempel hier wäre die lange
+            Straße – so ist hier ein bißgen Rechts ein großer Thorweg, mit Gänsekothfarbe
+            angestrichen, nach der allerneusten Mode –",4,331,character_speech,1,2,,Schnapps.,#schnapps,44.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+117,117,GerDracor/heyne-die-beiden-billets.xml,"Gut, gut, ein Thorweg mit Gänsekothe.",0,37,character_speech,1,2,,Gürge.,#guerge,45.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+118,118,GerDracor/heyne-die-beiden-billets.xml,"Ja, er fällt Euch gleich in die Augen.",0,38,character_speech,1,2,,Schnapps.,#schnapps,46.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+119,119,GerDracor/heyne-die-beiden-billets.xml,"– Da geht Ihr hinein, hinter in den Hof, und
+            alsdenn linker Hand eine Treppe hinauf – oben rechter Hand ist eine graumarmorirte
+            Saalthüre, und eine Klingel mit einem Rehfüßgen",39,238,character_speech,1,2,,Schnapps.,#schnapps,46.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+120,120,GerDracor/heyne-die-beiden-billets.xml," – Ihr klingelt, da kommt
+            ein Bedienter, blau mit Silber.",0,69,character_speech,1,2,,Schnapps.,#schnapps,46.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+121,121,GerDracor/heyne-die-beiden-billets.xml,"– „Ich wollte gern mit Ihre Hochwürden, dem Herrn
+            Lottodirektor sprechen.“ – „Kommt nur herein, guter Freund!“ man führt Euch in die
+            Expedition, Ihr zeigt Euer Billet – »Geschwind, so und so viel tausend Dukaten für den
+            ehrlichen Mann, und alle in Fleischergewichte!“ –",70,375,character_speech,1,2,,Schnapps.,#schnapps,46.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+122,122,GerDracor/heyne-die-beiden-billets.xml,"(Er erwischt endlich das
+              Billet.)",0,47,stage_direction,1,2,inner_speech,,#schnapps,46.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+123,123,GerDracor/heyne-die-beiden-billets.xml," Man nimmt Euch euer Billet ab, und die ganze Freude hat ein Ende.",0,66,character_speech,1,2,,Schnapps.,#schnapps,46.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+124,124,GerDracor/heyne-die-beiden-billets.xml,"Gut, gut, so ists recht.",0,24,character_speech,1,2,,Gürge.,#guerge,47.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+125,125,GerDracor/heyne-die-beiden-billets.xml,"– Ein Thorweg, eine graumarmorirte Klingel, ein Rehfuß, Ihr
+            Hochwürden, und das Fleischergewichte.",25,135,character_speech,1,2,,Gürge.,#guerge,47.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+126,126,GerDracor/heyne-die-beiden-billets.xml,"– Ja, ja.",136,145,character_speech,1,2,,Gürge.,#guerge,47.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+127,127,GerDracor/heyne-die-beiden-billets.xml,"– Nun will ich machen, daß ich
+            fortkomme.",146,199,character_speech,1,2,,Gürge.,#guerge,47.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+128,128,GerDracor/heyne-die-beiden-billets.xml,"Ich bedanke mich tausendmal, allerliebster Mosge Schnapps: ohne Ihn wär ich
+            meiner Treun so dumm gewesen, wie eine Gans.",200,332,character_speech,1,2,,Gürge.,#guerge,47.0,MALE,"admiration, reverence",K,,1783.0,positive,emotions of affection
+129,129,GerDracor/heyne-die-beiden-billets.xml,"Leb Er wohl unterdessen: ich bedanke mich
+            tausendmal.",333,398,character_speech,1,2,,Gürge.,#guerge,47.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+130,130,GerDracor/heyne-die-beiden-billets.xml,"Ihr habts nicht Ursache, Gürge, Adjeh, adjeh, vergeßt nur nichts.",0,65,character_speech,1,2,,Schnapps.,#schnapps,48.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+131,131,GerDracor/heyne-die-beiden-billets.xml,"Nein, nein, bey Ihro Hochwürden im großen Thorwege.",0,51,character_speech,1,2,,Gürge.,#guerge,49.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+132,132,GerDracor/heyne-die-beiden-billets.xml,(Ab.),0,5,stage_direction,1,2,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+133,133,GerDracor/heyne-die-beiden-billets.xml,Schnapps (allein.),0,18,stage_direction,1,3,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+134,134,GerDracor/heyne-die-beiden-billets.xml,"Wenn sich unser einer nicht manchmal ins Mittel schlüge, so käme niemand auf einen
+            grünen Zweig, als solche Dummköpfe.",0,130,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+135,135,GerDracor/heyne-die-beiden-billets.xml,Das Glück ist blind: freilich!,131,161,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+136,136,GerDracor/heyne-die-beiden-billets.xml,"Aber die Blinden muß
+            man leiten.",162,206,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+137,137,GerDracor/heyne-die-beiden-billets.xml,"– Wohl dreisigmal hab’ ich meine blanken Spezies zu den verdammten
+            Kollekteurs getragen, aber meintage nicht Einen von ihren beschnittenen Dukaten dafür
+            gekriegt.",207,393,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+138,138,GerDracor/heyne-die-beiden-billets.xml,"Nun dem Himmel sey Preis und Dank, daß ich doch endlich einmal gewonnen habe.",394,471,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+139,139,GerDracor/heyne-die-beiden-billets.xml,"Laß doch sehn, aus welcher Kollekte bist du denn?",484,533,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+140,140,GerDracor/heyne-die-beiden-billets.xml,"(Er macht das Billet
+              auf.)",0,40,stage_direction,1,3,inner_speech,,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+141,141,GerDracor/heyne-die-beiden-billets.xml," Alle Wetter, ich habe mich vergriffen; ich bin ganz erbärmlich geprellt
+            – Nu, zum Henker, das nenn’ ich doch Malheur.",0,130,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+142,142,GerDracor/heyne-die-beiden-billets.xml,"Nicht einmal zu gewinnen, wenn man die
+            Billets stielt, die gewonnen haben.",131,217,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+143,143,GerDracor/heyne-die-beiden-billets.xml,–,218,219,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+144,144,GerDracor/heyne-die-beiden-billets.xml,(Liest.),0,8,stage_direction,1,3,inner_speech,,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+145,145,GerDracor/heyne-die-beiden-billets.xml," „Lieber Freund, diesen
+            Augenblick – – – den Balbier Schnapps oder Gürgen – thue, was du willst, lieber Freund.“
+            – Der Kerl hat den Teufel im Leibe.",0,172,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+146,146,GerDracor/heyne-die-beiden-billets.xml,– Der,173,178,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+147,147,GerDracor/heyne-die-beiden-billets.xml, Wisch ist von Rösen.,0,21,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+148,148,GerDracor/heyne-die-beiden-billets.xml,"– Ja, wenn
+            das Wetterweibsen nur schreiben kann, und halbwege ein Jahr in der Stadt gewesen ist –
+            so ist kein ehrlicher Mann mit seiner Stirne sicher – Eine Terne und ein reich Mädel an
+            Einem Tage!",22,255,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+149,149,GerDracor/heyne-die-beiden-billets.xml,"– Nein, Mosge Gürge, das geht, hol mich der Henker nicht an.",256,316,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+150,150,GerDracor/heyne-die-beiden-billets.xml,"In einem
+            wohlpolizirten Staate darf das Geld nicht auf Einen Klumpen kommen.",317,405,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+151,151,GerDracor/heyne-die-beiden-billets.xml,"Als ein guter Bürger
+            muß ich mich ins Mittel schlagen.",406,472,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+152,152,GerDracor/heyne-die-beiden-billets.xml,"– Still, du verdammter Wisch sollst mir doch zu was
+            helfen.",473,544,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+153,153,GerDracor/heyne-die-beiden-billets.xml,–,545,546,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+154,154,GerDracor/heyne-die-beiden-billets.xml,(Klopft an Rösgens Hausthür.),0,29,stage_direction,1,3,inner_speech,,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+155,155,GerDracor/heyne-die-beiden-billets.xml, Rösgen!,0,8,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+156,156,GerDracor/heyne-die-beiden-billets.xml,Rösgen!,9,16,character_speech,1,3,,Gürge.,#schnapps,50.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+157,157,GerDracor/heyne-die-beiden-billets.xml,"Schnapps, Rösgen.",0,17,stage_direction,1,4,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+158,158,GerDracor/heyne-die-beiden-billets.xml,(inwendig.),0,11,stage_direction,1,4,speech_part,,#roesgen,51.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+159,159,GerDracor/heyne-die-beiden-billets.xml,Gleich!,0,7,character_speech,1,4,,Rösgen,#roesgen,51.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+160,160,GerDracor/heyne-die-beiden-billets.xml,was ists denn?,8,22,character_speech,1,4,,Rösgen,#roesgen,51.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+161,161,GerDracor/heyne-die-beiden-billets.xml,"(da sie heraus kommt, ärgerlich.)",0,33,stage_direction,1,4,inner_speech,,#roesgen,51.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+162,162,GerDracor/heyne-die-beiden-billets.xml," Ach, ist Er’s,
+            Mosge Schnapps?",0,43,character_speech,1,4,,Rösgen,#roesgen,51.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+163,163,GerDracor/heyne-die-beiden-billets.xml,"Zu dienen, allerschönstes Rösgen: und ich komme nur mir das Herz auf einen Augenblick
+            zu stärken.",0,109,character_speech,1,4,,Schnapps.,#schnapps,52.0,MALE,"admiration, reverence",K,,1783.0,positive,emotions of affection
+164,164,GerDracor/heyne-die-beiden-billets.xml,Die Schenke liegt drausen an der Straße.,0,40,character_speech,1,4,,Rösgen.,#roesgen,53.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+165,165,GerDracor/heyne-die-beiden-billets.xml,"Kleiner, süßer Schelm!",0,22,character_speech,1,4,,Schnapps.,#schnapps,54.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+166,166,GerDracor/heyne-die-beiden-billets.xml,– Meine Herzstärkung steht schon vor mir.,23,64,character_speech,1,4,,Schnapps.,#schnapps,54.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+167,167,GerDracor/heyne-die-beiden-billets.xml,"– Meiner Treun, wenn
+            ich so ein allerliebstes Mädchen sehe, das solche schöne schwarzbraune Augen, soviel
+            Verstand, so ein scharmantes Wesen, solche niedliche Füßgen, und solche schnurrige
+            Einfälle hat, da – da weiß ich gleich, wo ich meine zukünftige Jungefrau suchen soll.",65,375,character_speech,1,4,,Schnapps.,#schnapps,54.0,MALE,"admiration, reverence",K,,1783.0,positive,emotions of affection
+168,168,GerDracor/heyne-die-beiden-billets.xml,"–
+            Glaube Sie mir, mein Engel, ich bin so ein aufrichtiger Anbeter von Ihr – – –",376,467,character_speech,1,4,,Schnapps.,#schnapps,54.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+169,169,GerDracor/heyne-die-beiden-billets.xml,"Geh’ Er auf den Abend in die Stadt, Mosge Schnapps, und tret’ Er bey den Bürgermädchen
+            vor die Thür.",0,112,character_speech,1,4,,Rösgen.,#roesgen,55.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+170,170,GerDracor/heyne-die-beiden-billets.xml,Da kommen solche Anbeter beßer an.,113,147,character_speech,1,4,,Rösgen.,#roesgen,55.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+171,171,GerDracor/heyne-die-beiden-billets.xml,"Gestehs nur, mein Zuckerpüppgen, Du mußt mir doch im Herzen gut seyn.",0,69,character_speech,1,4,,Schnapps.,#schnapps,56.0,MALE,love,K,,1783.0,positive,emotions of affection
+172,172,GerDracor/heyne-die-beiden-billets.xml,"Mosge, mach’ Er sich nicht so gemein.",0,37,character_speech,1,4,,Rösgen.,#roesgen,57.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+173,173,GerDracor/heyne-die-beiden-billets.xml,Wir sind nicht mit einander auf Du und Du.,38,80,character_speech,1,4,,Rösgen.,#roesgen,57.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+174,174,GerDracor/heyne-die-beiden-billets.xml,Aber ein gewißer Gürge und ein gewißes Rösgen sind Du und Du?,0,61,character_speech,1,4,,Schnapps.,#schnapps,58.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+175,175,GerDracor/heyne-die-beiden-billets.xml,Das geht niemanden was an.,0,26,character_speech,1,4,,Rösgen.,#roesgen,59.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+176,176,GerDracor/heyne-die-beiden-billets.xml,"Und  wenn Er sonst nichts hier zu suchen hat, so
+            wünsch’ ich Ihm glückliche Reise.",27,121,character_speech,1,4,,Rösgen.,#roesgen,59.0,FEMALE,joy,K,,1783.0,positive,emotions of pleasure
+177,177,GerDracor/heyne-die-beiden-billets.xml,Es bleibt ewig wahr: Undank ist der Welt Lohn.,0,46,character_speech,1,4,,Schnapps.,#schnapps,60.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+178,178,GerDracor/heyne-die-beiden-billets.xml,"Da kam ich aus gutem Herzen und wollte
+            Ihr ein gewißes Briefgen bringen, das im Dorfe herum läuft – – –",47,162,character_speech,1,4,,Schnapps.,#schnapps,60.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+179,179,GerDracor/heyne-die-beiden-billets.xml,Ein Briefgen?,0,13,character_speech,1,4,,Rösgen.,#roesgen,61.0,FEMALE,being moved,K,,1783.0,being moved,being moved
+180,180,GerDracor/heyne-die-beiden-billets.xml,– im Dorfe herum läuft?,14,37,character_speech,1,4,,Rösgen.,#roesgen,61.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+181,181,GerDracor/heyne-die-beiden-billets.xml,"– was gehn mich denn die Briefgen im Dorfe
+            an?",38,96,character_speech,1,4,,Rösgen.,#roesgen,61.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+182,182,GerDracor/heyne-die-beiden-billets.xml,"Es ist zwar kein Brief an Sie, sondern er ist an Gürgen: aber wie es allenthalben
+            Lästermäuler giebt, so spricht das ganze Dorf, er wäre von dem hübschen Rösgen
+            geschrieben.",0,197,character_speech,1,4,,Schnapps.,#schnapps,62.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+183,183,GerDracor/heyne-die-beiden-billets.xml,"Aus Respekt für Ihren guten Namen wollt’ ich Ihr den Brief selber zu lesen
+            geben: aber weil ich für meine Ehrlichkeit solche schlechte Reden kriege, so kann ich
+            ihn wohl wieder hintragen, wo ich ihn hergekriegt habe.",198,438,character_speech,1,4,,Schnapps.,#schnapps,62.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+184,184,GerDracor/heyne-die-beiden-billets.xml,(Will gehn.),0,12,stage_direction,1,4,inner_speech,,#schnapps,62.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+185,185,GerDracor/heyne-die-beiden-billets.xml,"Aber, lieber Mosge Schnapps, wo hat Er ihn denn her?",0,52,character_speech,1,4,,Rösgen.,#roesgen,63.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+186,186,GerDracor/heyne-die-beiden-billets.xml,– Zeig’ Er doch nur einmal!,53,80,character_speech,1,4,,Rösgen.,#roesgen,63.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+187,187,GerDracor/heyne-die-beiden-billets.xml,"Aber, liebes Jungfer Rösgen, wird Sie denn nun bald einsehen lernen, wers ehrlich
+            meynt, und wer ein Schelm ist?",0,124,character_speech,1,4,,Schnapps.,#schnapps,64.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+188,188,GerDracor/heyne-die-beiden-billets.xml,"–  A propos, Sie kennt doch Richters
+            Reginen?",125,182,character_speech,1,4,,Schnapps.,#schnapps,64.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+189,189,GerDracor/heyne-die-beiden-billets.xml,Nun?,0,4,character_speech,1,4,,Rösgen.,#roesgen,65.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+190,190,GerDracor/heyne-die-beiden-billets.xml,"Das ist bekannt, daß Gürge und Regine schon lange mit einander eins sind.",0,73,character_speech,1,4,,Schnapps.,#schnapps,66.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+191,191,GerDracor/heyne-die-beiden-billets.xml,"Aber nun
+            denke Sie einmal: heute kommt Gürge in vollen Lachen zu Reginen gelaufen, zeigt ihr das
+            Briefchen hier, und spricht – aber Sie muß mirs nicht übel nehmen – die großthuige Röse
+            hätte das Briefchen geschrieben, und sie würfe sich ihm ordentlich nach.",74,367,character_speech,1,4,,Schnapps.,#schnapps,66.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+192,192,GerDracor/heyne-die-beiden-billets.xml,"– Da, seh Sie
+            einmal, es steht auch von mir was drinne.",368,435,character_speech,1,4,,Schnapps.,#schnapps,66.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+193,193,GerDracor/heyne-die-beiden-billets.xml,"Ach, du abscheulicher Bube; ach, du Ungeheuer!",0,46,character_speech,1,4,,Rösgen.,#roesgen,67.0,FEMALE,abhorrence,K,,1783.0,negative,emotions of rejection
+194,194,GerDracor/heyne-die-beiden-billets.xml,"Ja, so ein Kerl verdient nicht, daß man ihn zu Pulver brennt, und hernach des Landes
+            verweißt.",0,106,character_speech,1,4,,Schnapps.,#schnapps,68.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+195,195,GerDracor/heyne-die-beiden-billets.xml,"Ach, du niederträchtiger Abschaum!",0,34,character_speech,1,4,,Rösgen.,#roesgen,69.0,FEMALE,abhorrence,K,,1783.0,negative,emotions of rejection
+196,196,GerDracor/heyne-die-beiden-billets.xml,"Höre Sie, wie es war.",0,21,character_speech,1,4,,Schnapps.,#schnapps,70.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+197,197,GerDracor/heyne-die-beiden-billets.xml,"Vorhin hör’ ich auf dem Dorfe ein ganz rasendes Gelächter, und
+            weil es gar nicht aufhören will, so geh’ ich hin.",22,146,character_speech,1,4,,Schnapps.,#schnapps,70.0,MALE,Schadenfreude,K,,1783.0,positive,emotions of pleasure
+198,198,GerDracor/heyne-die-beiden-billets.xml,"Zuerst seh’ ich Richters Reginen mit
+            Schwarzens Anneliesen, und mit Langens Maredoren  hinter einer Hecke stehn:
+            und die Menscher schreyen vor Lachen, als wenn sie am Spiese stäcken.",147,353,character_speech,1,4,,Schnapps.,#schnapps,70.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+199,199,GerDracor/heyne-die-beiden-billets.xml,"Auf einmal seh’
+            ich auf dem Dorfe die Schulkinder, und mitten darunter einen großen langen Bengel, der
+            einen Zettel abliest.",354,502,character_speech,1,4,,Schnapps.,#schnapps,70.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+200,200,GerDracor/heyne-die-beiden-billets.xml,"Ich frag’ ihn, was er hat, und er spricht treuherzig: „die schöne
+            Röse hat einen Brief an Gürgen geschrieben, und Gürge hat ihn Richters Reginen gebracht,
+            und Regine hat mir ihn gegeben, daß ich ihn ablesen soll.“ – Ich seze mich sogleich in
+            Autorität, nehme dem Jungen den Zettel ab, jage die Kinder auseinander, und laufe, was
+            ich kann, um Ihr den Zettel in die Hände zu liefern.",503,932,character_speech,1,4,,Schnapps.,#schnapps,70.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+201,201,GerDracor/heyne-die-beiden-billets.xml,"– Aber nun, Jungfer Rösgen, sag’
+            ich nicht immer: die Schelme nimmt man ins Haus, und die ehrlichen Leute weißt man vor
+            die Thüre?",933,1087,character_speech,1,4,,Schnapps.,#schnapps,70.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+202,202,GerDracor/heyne-die-beiden-billets.xml,"Ach, lieber Mosge Schnapps, sey Er ja nicht böse, ich bedanke mich tausendmal für sein
+            gutes Herz.",0,110,character_speech,1,4,,Rösgen.,#roesgen,71.0,FEMALE,friendship,K,,1783.0,positive,emotions of affection
+203,203,GerDracor/heyne-die-beiden-billets.xml,"– O, das abscheuliche Ungeheuer – ein ehrliches Mädchen so in Schimpf und
+            Schande zu bringen –",111,217,character_speech,1,4,,Rösgen.,#roesgen,71.0,FEMALE,abhorrence,K,,1783.0,negative,emotions of rejection
+204,204,GerDracor/heyne-die-beiden-billets.xml,(Weint.),0,8,stage_direction,1,4,inner_speech,,#roesgen,71.0,FEMALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+205,205,GerDracor/heyne-die-beiden-billets.xml,"Das ist wahr, es wird sich nun mancher an die häßliche Geschichte stoßen – Aber ich
+            will mich nicht dran stoßen, ich will ein treuer  Liebhaber bleiben.",0,164,character_speech,1,4,,Schnapps.,#schnapps,72.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+206,206,GerDracor/heyne-die-beiden-billets.xml,"– Was
+            sagt Sie dazu, mein Engelgen?",165,212,character_speech,1,4,,Schnapps.,#schnapps,72.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+207,207,GerDracor/heyne-die-beiden-billets.xml,"Nein, das vergeb’ ich dem Buben in meinem Leben nicht, und wenn er mir zu Füssen
+            fiele.",0,99,character_speech,1,4,,Rösgen.,#roesgen,73.0,FEMALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+208,208,GerDracor/heyne-die-beiden-billets.xml,"Nun, schönes Rösgen, krieg’ ich keine Antwort?",0,46,character_speech,1,4,,Schnapps.,#schnapps,74.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+209,209,GerDracor/heyne-die-beiden-billets.xml,"– Wenn wir beide in der Geschwindigkeit
+            verlobt würden, so könnt’ ich hernach aussprengen, meine Braut hätte Gürgen mit dem
+            Briefe nur zum besten gehabt – oder, der Brief wäre gar an mich geschrieben und falsch
+            bestellt worden.",47,310,character_speech,1,4,,Schnapps.,#schnapps,74.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+210,210,GerDracor/heyne-die-beiden-billets.xml,Das wäre der einzige Weg die Schande zu verhindern.,311,362,character_speech,1,4,,Schnapps.,#schnapps,74.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+211,211,GerDracor/heyne-die-beiden-billets.xml,"Ach, ich weiß nicht, wo mir der Kopf steht.",0,43,character_speech,1,4,,Rösgen.,#roesgen,75.0,FEMALE,being moved,K,,1783.0,being moved,being moved
+212,212,GerDracor/heyne-die-beiden-billets.xml,"In zwey Stunden kommt mein Vater nach
+            Hause: komm’ Er dann zu uns, Mosge Schnapps.",44,138,character_speech,1,4,,Rösgen.,#roesgen,75.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+213,213,GerDracor/heyne-die-beiden-billets.xml,"– O, der entsezliche Ehrenschänder!",139,174,character_speech,1,4,,Rösgen.,#roesgen,75.0,FEMALE,abhorrence,K,,1783.0,negative,emotions of rejection
+214,214,GerDracor/heyne-die-beiden-billets.xml,"Ich will ihn schon noch züchtigen, wenn du mein bist, ich will ihn schon – Tausend
+            sapperlot, da kommt er.",0,118,character_speech,1,4,,Schnapps.,#schnapps,76.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+215,215,GerDracor/heyne-die-beiden-billets.xml,"– Thu, als wenn du nichts wüßtest, mein Herzgen; Hörst du?",119,177,character_speech,1,4,,Schnapps.,#schnapps,76.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+216,216,GerDracor/heyne-die-beiden-billets.xml,"– Da
+            können wir ihn recht ausholen.",178,225,character_speech,1,4,,Schnapps.,#schnapps,76.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+217,217,GerDracor/heyne-die-beiden-billets.xml,"Ach, ich kann ihn unmöglich vor Augen sehn.",0,43,character_speech,1,4,,Rösgen.,#roesgen,77.0,FEMALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+218,218,GerDracor/heyne-die-beiden-billets.xml,(Will gehn.),0,12,stage_direction,1,4,inner_speech,,#roesgen,77.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+219,219,GerDracor/heyne-die-beiden-billets.xml,"Nein, nein, bleib da, und stelle dich nur recht dumm.",0,53,character_speech,1,4,,Schnapps.,#schnapps,78.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+220,220,GerDracor/heyne-die-beiden-billets.xml,Die Vorigen.,0,12,stage_direction,1,5,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+221,221,GerDracor/heyne-die-beiden-billets.xml,Gürge.,13,19,stage_direction,1,5,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+222,222,GerDracor/heyne-die-beiden-billets.xml,(außer Othem.),0,14,stage_direction,1,5,speech_part,,#guerge,79.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+223,223,GerDracor/heyne-die-beiden-billets.xml,"Ach, ist Er noch da, allerliebster Mosge Schnapps?",0,50,character_speech,1,5,,Gürge,#guerge,79.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+224,224,GerDracor/heyne-die-beiden-billets.xml,"Ja, ich bin noch da – ich – bin ein wenig aufgehalten worden.",0,61,character_speech,1,5,,Schnapps.,#schnapps,80.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+225,225,GerDracor/heyne-die-beiden-billets.xml,"Hör’ Er, es ist mir unterwegs eingefallen, ob ich nicht erst zum Schulmeister gehn
+            müßte: und hernach – hernach möcht’ ich auch vorher noch mit Jemanden reden.",0,171,character_speech,1,5,,Gürge.,#guerge,81.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+226,226,GerDracor/heyne-die-beiden-billets.xml,(Sieht nach Rösgens Hause und erblickt sie selbst.),0,51,stage_direction,1,5,inner_speech,,#guerge,81.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+227,227,GerDracor/heyne-die-beiden-billets.xml," Ach, der Himmel sey
+            bey uns, da ist sie ja – bin ich nicht erschrocken?",0,84,character_speech,1,5,,Gürge.,#guerge,81.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+228,228,GerDracor/heyne-die-beiden-billets.xml,"– Höre, Rösgen, ja, was wollt’ ich
+            denn sagen?",85,143,character_speech,1,5,,Gürge.,#guerge,81.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+229,229,GerDracor/heyne-die-beiden-billets.xml,"– Ja, wenn ich dich nicht sehe, so möchte mirs das Herz abdrücken – und
+            sobald Du vor mir stehst, da pocht mir das Herz,",144,276,character_speech,1,5,,Gürge.,#guerge,81.0,MALE,love,K,,1783.0,positive,emotions of affection
+230,230,GerDracor/heyne-die-beiden-billets.xml, wie ein Eisenhammer.,0,21,character_speech,1,5,,Gürge.,#guerge,81.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+231,231,GerDracor/heyne-die-beiden-billets.xml,"– Ich
+            werde nur künftig die Augen zumachen müssen, wenn ich mit Dir reden will.",22,113,character_speech,1,5,,Gürge.,#guerge,81.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+232,232,GerDracor/heyne-die-beiden-billets.xml,"Denn sonst
+            besinn’ ich mich auf nichts –",114,166,character_speech,1,5,,Gürge.,#guerge,81.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+233,233,GerDracor/heyne-die-beiden-billets.xml,(Halblaut zu ihr.),0,18,stage_direction,1,5,inner_speech,,#guerge,81.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+234,234,GerDracor/heyne-die-beiden-billets.xml," Aber höre, Rösgen, sags
+            doch Schnappsen, daß er uns im Wege ist.",0,77,character_speech,1,5,,Gürge.,#guerge,81.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+235,235,GerDracor/heyne-die-beiden-billets.xml,(laut.),0,7,stage_direction,1,5,inner_speech,,#roesgen,82.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+236,236,GerDracor/heyne-die-beiden-billets.xml," Mosge Schnapps kann immer bleiben: mir ist er nicht im
+            geringsten im Wege.",0,87,character_speech,1,5,,Rösgen,#roesgen,82.0,FEMALE,"admiration, reverence",K,,1783.0,positive,emotions of affection
+237,237,GerDracor/heyne-die-beiden-billets.xml,"Tausendsapperlot, wenn das schöne Rösgen so einen Brief an mich geschrieben hätte, als
+            an einen gewißen hübschen jungen Burschen im Dorfe; ich scheute mich nicht, ihr im
+            Antlitz der ganzen medizinischen Fakultät ein Küßgen zu geben.",0,256,character_speech,1,5,,Schnapps.,#schnapps,83.0,MALE,love,K,,1783.0,positive,emotions of affection
+238,238,GerDracor/heyne-die-beiden-billets.xml,"(Küßt
+              sie.)",0,25,stage_direction,1,5,inner_speech,,#schnapps,83.0,MALE,love,K,,1783.0,positive,emotions of affection
+239,239,GerDracor/heyne-die-beiden-billets.xml,(stößt ihn weg.),0,16,stage_direction,1,5,speech_part,,#guerge,84.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+240,240,GerDracor/heyne-die-beiden-billets.xml,Aber nur nicht noch einmal vor,0,30,character_speech,1,5,,Gürge,#guerge,84.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+241,241,GerDracor/heyne-die-beiden-billets.xml,(Leise zu Rösgen.),0,18,stage_direction,1,5,inner_speech,,#guerge,84.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+242,242,GerDracor/heyne-die-beiden-billets.xml," Du hast es ihm
+            erzählt?",0,36,character_speech,1,5,,Gürge,#guerge,84.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+243,243,GerDracor/heyne-die-beiden-billets.xml,He?,37,40,character_speech,1,5,,Gürge,#guerge,84.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+244,244,GerDracor/heyne-die-beiden-billets.xml,Er weiß also alles?,41,60,character_speech,1,5,,Gürge,#guerge,84.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+245,245,GerDracor/heyne-die-beiden-billets.xml,(Laut zu Schnappsen.),0,21,stage_direction,1,5,inner_speech,,#guerge,84.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+246,246,GerDracor/heyne-die-beiden-billets.xml," Lach’ Er nur,
+            lach’ Er nur!",0,40,character_speech,1,5,,Gürge,#guerge,84.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+247,247,GerDracor/heyne-die-beiden-billets.xml,"Mags Ers doch wißen, daß mir Rösgen ein Billet geschrieben hat.",41,104,character_speech,1,5,,Gürge,#guerge,84.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+248,248,GerDracor/heyne-die-beiden-billets.xml,"Aber hör
+            Er, ich will Ihm was sagen.",105,153,character_speech,1,5,,Gürge,#guerge,84.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+249,249,GerDracor/heyne-die-beiden-billets.xml,"Nu, da werd’ ich was hören.",0,27,character_speech,1,5,,Schnapps.,#schnapps,85.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+250,250,GerDracor/heyne-die-beiden-billets.xml,"Nicht wahr, Er giebt bey Rösen Freyens vor?",0,43,character_speech,1,5,,Gürge.,#guerge,86.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+251,251,GerDracor/heyne-die-beiden-billets.xml,"Kann wohl seyn, hähähä!",0,23,character_speech,1,5,,Schnapps.,#schnapps,87.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+252,252,GerDracor/heyne-die-beiden-billets.xml,"Nun so hör’ Er, ich gebe auch Freyens bey ihr vor.",0,50,character_speech,1,5,,Gürge.,#guerge,88.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+253,253,GerDracor/heyne-die-beiden-billets.xml,"Damit nun das Ding ein Ende hat – –
+            –",51,100,character_speech,1,5,,Gürge.,#guerge,88.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+254,254,GerDracor/heyne-die-beiden-billets.xml,"Ja, ja, damit es ein Ende hat, hm, hm!",0,38,character_speech,1,5,,Schnapps.,#schnapps,89.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+255,255,GerDracor/heyne-die-beiden-billets.xml,"Nun was soll denn da geschehn, damit es ein Ende
+            hat?",39,104,character_speech,1,5,,Schnapps.,#schnapps,89.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+256,256,GerDracor/heyne-die-beiden-billets.xml,"Wir stehn izt alle Beide hier, und Röse ist auch da.",0,52,character_speech,1,5,,Gürge.,#guerge,90.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+257,257,GerDracor/heyne-die-beiden-billets.xml,"Wir wollen sie fragen, wer von uns
+            Beiden ihr am meisten gefallen hat; sie soll uns und der Wahrheit die Ehre anthun, und
+            solls offenherzig sagen, und hernach soll der von uns Beiden, den sie nicht will, ganz
+            sachte abtrappen, und auch, notabene, dem andern",53,346,character_speech,1,5,,Gürge.,#guerge,90.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+258,258,GerDracor/heyne-die-beiden-billets.xml,(spuckt in die Hand),0,20,stage_direction,1,5,inner_speech,,#guerge,90.0,MALE,Schadenfreude,K,,1783.0,positive,emotions of pleasure
+259,259,GerDracor/heyne-die-beiden-billets.xml,"
+            nicht wieder ins Gehege kommen.",0,44,character_speech,1,5,,Gürge.,#guerge,90.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+260,260,GerDracor/heyne-die-beiden-billets.xml,"– Ist er das zufrieden, Mosge Schnapps?",45,84,character_speech,1,5,,Gürge.,#guerge,90.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+261,261,GerDracor/heyne-die-beiden-billets.xml,"Das war ein Wort, Gürge: topp, es bleibt dabey.",0,47,character_speech,1,5,,Schnapps.,#schnapps,91.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+262,262,GerDracor/heyne-die-beiden-billets.xml,"– Das schöne Rösgen soll sich einen
+            unter uns auslesen, und der andre soll hernach kein laut Wort mehr sagen dürfen.",48,176,character_speech,1,5,,Schnapps.,#schnapps,91.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+263,263,GerDracor/heyne-die-beiden-billets.xml,"So wars
+            doch gemeint?",177,210,character_speech,1,5,,Schnapps.,#schnapps,91.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+264,264,GerDracor/heyne-die-beiden-billets.xml,(heimlich lachend.),0,19,stage_direction,1,5,speech_part,,#guerge,92.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+265,265,GerDracor/heyne-die-beiden-billets.xml,"Ja, ja, so wars gemeint.",0,24,character_speech,1,5,,Gürge,#guerge,92.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+266,266,GerDracor/heyne-die-beiden-billets.xml,(Bey Seite.),0,12,stage_direction,1,5,inner_speech,,#guerge,92.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+267,267,GerDracor/heyne-die-beiden-billets.xml, O du alberner Schöppschristel!,0,31,character_speech,1,5,,Gürge,#guerge,92.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+268,268,GerDracor/heyne-die-beiden-billets.xml,"Nun, schönes Rösgen, Sie hat gehört, was wir miteinander ausgemacht haben.",0,74,character_speech,1,5,,Schnapps.,#schnapps,93.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+269,269,GerDracor/heyne-die-beiden-billets.xml,"Sey Sie so
+            barmherzig, und spreche sie unser Urtheil.",75,140,character_speech,1,5,,Schnapps.,#schnapps,93.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+270,270,GerDracor/heyne-die-beiden-billets.xml,"Martre uns nicht länger, süßer
+            Zuckerengel.",141,196,character_speech,1,5,,Schnapps.,#schnapps,93.0,MALE,compassion,K,,1783.0,negative,emotions of suffering and empathy
+271,271,GerDracor/heyne-die-beiden-billets.xml,"Ja, ja, Röse, thu mirs zu Gefallen, und sags rein heraus.",0,57,character_speech,1,5,,Gürge.,#guerge,94.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+272,272,GerDracor/heyne-die-beiden-billets.xml,(Bey Seite.),0,12,stage_direction,1,5,inner_speech,,#guerge,94.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+273,273,GerDracor/heyne-die-beiden-billets.xml,"
+            Der Kerl ist so dumm, daß er mich bald dauert.",0,59,character_speech,1,5,,Gürge.,#guerge,94.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+274,274,GerDracor/heyne-die-beiden-billets.xml,(bey Seite.),0,12,stage_direction,1,5,inner_speech,,#roesgen,95.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+275,275,GerDracor/heyne-die-beiden-billets.xml, Ich möchte bersten vor Bosheit.,0,32,character_speech,1,5,,Rösgen,#roesgen,95.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+276,276,GerDracor/heyne-die-beiden-billets.xml,"Nun, scharmantes Rösgen, wer ists unter uns Beiden?",0,51,character_speech,1,5,,Schnapps.,#schnapps,96.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+277,277,GerDracor/heyne-die-beiden-billets.xml,(mit halberstickter Stimme.),0,28,stage_direction,1,5,inner_speech,,#roesgen,97.0,FEMALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+278,278,GerDracor/heyne-die-beiden-billets.xml, Meinetwegen!,0,13,character_speech,1,5,,Rösgen,#roesgen,97.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+279,279,GerDracor/heyne-die-beiden-billets.xml,"– Wer ein Billet von mir
+            aufzuweisen hat, der ists.",14,77,character_speech,1,5,,Rösgen,#roesgen,97.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+280,280,GerDracor/heyne-die-beiden-billets.xml,Nun das war klar und deutlich.,0,30,character_speech,1,5,,Gürge.,#guerge,98.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+281,281,GerDracor/heyne-die-beiden-billets.xml,"(Sieht Schnappsen zu, der in der Tasche
+              sucht.)",0,61,stage_direction,1,5,inner_speech,,#guerge,98.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+282,282,GerDracor/heyne-die-beiden-billets.xml," Ja suche Du, suche, suche du ewig und drey Tage: Du wirsts bald
+            finden.",0,84,character_speech,1,5,,Gürge.,#guerge,98.0,MALE,Schadenfreude,K,,1783.0,positive,emotions of pleasure
+283,283,GerDracor/heyne-die-beiden-billets.xml,(Schlägt an seine Tasche.),0,26,stage_direction,1,5,inner_speech,,#guerge,98.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+284,284,GerDracor/heyne-die-beiden-billets.xml," Hier sizen die Musikanten, hier!",0,33,character_speech,1,5,,Gürge.,#guerge,98.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+285,285,GerDracor/heyne-die-beiden-billets.xml,"–
+            Nun, Mosge Schnapps, Sein Diener, wünsche wohl zu leben: gut Wetter zur Reise und
+            gesunde Feyertage!",34,160,character_speech,1,5,,Gürge.,#guerge,98.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+286,286,GerDracor/heyne-die-beiden-billets.xml," – Da, liebe Röse, da!",0,22,character_speech,1,5,,Gürge.,#guerge,98.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+287,287,GerDracor/heyne-die-beiden-billets.xml,"(Giebt ihr ein
+              Billet.)",0,37,stage_direction,1,5,inner_speech,,#guerge,98.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+288,288,GerDracor/heyne-die-beiden-billets.xml,Was wäre denn das?,0,18,character_speech,1,5,,Rösgen.,#roesgen,99.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+289,289,GerDracor/heyne-die-beiden-billets.xml,(Wirft es ihm vor die Füße.),0,28,stage_direction,1,5,inner_speech,,#roesgen,99.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+290,290,GerDracor/heyne-die-beiden-billets.xml," Das ist ja ein
+            Lotterieloos.",0,41,character_speech,1,5,,Rösgen.,#roesgen,99.0,FEMALE,joy,K,,1783.0,positive,emotions of pleasure
+291,291,GerDracor/heyne-die-beiden-billets.xml,"Ach, der Geyer!",0,15,character_speech,1,5,,Gürge.,#guerge,100.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+292,292,GerDracor/heyne-die-beiden-billets.xml,"ja, daran hab’ ich nicht wieder gedacht.",16,56,character_speech,1,5,,Gürge.,#guerge,100.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+293,293,GerDracor/heyne-die-beiden-billets.xml,"– Du weißt gar noch nicht –
+            das Glück hat mich heute ordentlich zum Narren gemacht – ich habe im Lotto – Aber der
+            Geyer und seine Großmutter!",57,222,character_speech,1,5,,Gürge.,#guerge,100.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+294,294,GerDracor/heyne-die-beiden-billets.xml,wo hab’ ich denn das andre Billet hingetrudelt?,223,270,character_speech,1,5,,Gürge.,#guerge,100.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+295,295,GerDracor/heyne-die-beiden-billets.xml,"– Es ist mir
+            doch tausendmal lieber gewesen, als das da – Ich werd’ es doch nicht etwa verloren
+            haben.",271,397,character_speech,1,5,,Gürge.,#guerge,100.0,MALE,love,K,,1783.0,positive,emotions of affection
+296,296,GerDracor/heyne-die-beiden-billets.xml,Das wäre ewig Schade um so ein Liebesbillet.,0,44,character_speech,1,5,,Schnapps.,#schnapps,101.0,MALE,love,K,,1783.0,positive,emotions of affection
+297,297,GerDracor/heyne-die-beiden-billets.xml,– Ich habe das meinige beßer verwahrt.,45,83,character_speech,1,5,,Schnapps.,#schnapps,101.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+298,298,GerDracor/heyne-die-beiden-billets.xml,"–
+            Hier, schönstes Rösgen, sieh, ob das deine Hand ist.",84,150,character_speech,1,5,,Schnapps.,#schnapps,101.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+299,299,GerDracor/heyne-die-beiden-billets.xml,(liest.),0,8,stage_direction,1,5,inner_speech,,#roesgen,102.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+300,300,GerDracor/heyne-die-beiden-billets.xml," „Lieber Freund, diesen Augenblick“ – – –",0,41,character_speech,1,5,,Rösgen,#roesgen,102.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+301,301,GerDracor/heyne-die-beiden-billets.xml,"Ah, das ist mein Billet, das ist mein Billet: das geht nicht von rechten Dingen zu –
+            das muß mir einer gestohlen haben.",0,131,character_speech,1,5,,Gürge.,#guerge,103.0,MALE,being moved,K,,1783.0,being moved,being moved
+302,302,GerDracor/heyne-die-beiden-billets.xml,Gestohlen haben?,0,16,character_speech,1,5,,Rösgen.,#roesgen,104.0,FEMALE,being moved,K,,1783.0,being moved,being moved
+303,303,GerDracor/heyne-die-beiden-billets.xml,Du willst mich also noch bis auf den lezten Augenblick belügen?,17,80,character_speech,1,5,,Rösgen.,#roesgen,104.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+304,304,GerDracor/heyne-die-beiden-billets.xml,"– Nein, Betrüger, ich kenne Dich.",82,115,character_speech,1,5,,Rösgen.,#roesgen,104.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+305,305,GerDracor/heyne-die-beiden-billets.xml,"Geh zu deiner Regine, geh, trag’ ihr meine
+            Briefe zu, die sie nicht einmal lesen kann, geh, sag’ ihr, daß Du Dir aus mir nichts
+            machst, und hernach komm wieder zu mir, und sprich, Du könntest nicht ohne mich leben –
+            Bösewicht, heimtükischer Bube, untersteh Dich nicht, mir wieder vor die Augen zu kommen
+            – Du hast ein ehrliches Mädchen belogen – betrogen – beschimpft – in der Leute Mäuler
+            gebracht.",116,575,character_speech,1,5,,Rösgen.,#roesgen,104.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+306,306,GerDracor/heyne-die-beiden-billets.xml,"– Aber es soll Dir nicht ungerochen hingehn – meinem Vater will ichs sagen,
+            sobald er ins Haus tritt, und dann sollst Du sehn, wie man solche Buben bezahlt.",576,744,character_speech,1,5,,Rösgen.,#roesgen,104.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+307,307,GerDracor/heyne-die-beiden-billets.xml,"– Und
+            Er, Mosge Schnapps, behalt’ Er das Billet; ich habe Einmal gesagt, wer es vorzeigte,
+            sollte mein Mann werden, und ich will mein Wort halten.",745,915,character_speech,1,5,,Rösgen.,#roesgen,104.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+308,308,GerDracor/heyne-die-beiden-billets.xml,(Geht ab.),0,10,stage_direction,1,5,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+309,309,GerDracor/heyne-die-beiden-billets.xml,Gürge.,0,6,stage_direction,1,6,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+310,310,GerDracor/heyne-die-beiden-billets.xml,Schnapps.,7,16,stage_direction,1,6,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+311,311,GerDracor/heyne-die-beiden-billets.xml,"(nach einer Stille, während welcher Beide",0,41,stage_direction,1,6,speech_part,,#guerge,105.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+312,312,GerDracor/heyne-die-beiden-billets.xml,"Lieber Mosge Schnapps, fühl’ Er mir doch einmal nach dem Pulse.",0,63,character_speech,1,6,,Gürge,#guerge,105.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+313,313,GerDracor/heyne-die-beiden-billets.xml,(befühlt den Puls sehr bedenklich.),0,35,stage_direction,1,6,inner_speech,,#schnapps,106.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+314,314,GerDracor/heyne-die-beiden-billets.xml," Der tausend, Gürge – Ich dächte, Ihr
+            gingt nach Hause – Ich will nachkommen: und mit einem halben Dutzend tüchtigen Aderläßen
+            wollen wir dem Dinge schon ein Ende machen.",0,194,character_speech,1,6,,Schnapps,#schnapps,106.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+315,315,GerDracor/heyne-die-beiden-billets.xml,(wischt sich die Thränen aus den Augen.),0,40,stage_direction,1,6,inner_speech,,#guerge,107.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+316,316,GerDracor/heyne-die-beiden-billets.xml," Aber hab’ ich denn recht
+            gesehn?",0,45,character_speech,1,6,,Gürge,#guerge,107.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+317,317,GerDracor/heyne-die-beiden-billets.xml,hab’ ich denn recht gehört?,46,73,character_speech,1,6,,Gürge,#guerge,107.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+318,318,GerDracor/heyne-die-beiden-billets.xml,Ich bin selber noch erstaunt: ich begreife die ganze Geschichte nicht.,0,70,character_speech,1,6,,Schnapps.,#schnapps,108.0,MALE,being moved,K,,1783.0,being moved,being moved
+319,319,GerDracor/heyne-die-beiden-billets.xml,Aber wie bin ich denn um mein Billet gekommen?,0,46,character_speech,1,6,,Gürge.,#guerge,109.0,MALE,being moved,K,,1783.0,being moved,being moved
+320,320,GerDracor/heyne-die-beiden-billets.xml,und wie ist Er denn dazu gekommen?,47,81,character_speech,1,6,,Gürge.,#guerge,109.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+321,321,GerDracor/heyne-die-beiden-billets.xml,"Und
+            wie ist denn Röse – verzeih mir meine Sünde – zu dem Schandrachen gekommen?",82,173,character_speech,1,6,,Gürge.,#guerge,109.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+322,322,GerDracor/heyne-die-beiden-billets.xml,"Wie gesagt, ich verstehe den ganzen Handel nicht.",0,49,character_speech,1,6,,Schnapps.,#schnapps,110.0,MALE,being moved,K,,1783.0,being moved,being moved
+323,323,GerDracor/heyne-die-beiden-billets.xml,"Rösgen hat mir vorhin das Briefgen
+            selbst gegeben, und hat dazu gesagt, sie wollte keinen andern als mich zum Manne
+            haben.",50,196,character_speech,1,6,,Schnapps.,#schnapps,110.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+324,324,GerDracor/heyne-die-beiden-billets.xml,"Aber das Briefgen ist ja meine gewesen:  ich kenn’ es recht gut: es ist
+            noch ganz zerknötert, so lieb hab’ ichs gehabt.",0,131,character_speech,1,6,,Gürge.,#guerge,111.0,MALE,love,K,,1783.0,positive,emotions of affection
+325,325,GerDracor/heyne-die-beiden-billets.xml,"– Wie hats denn Rösen wieder können in
+            die Hände kommen?",132,200,character_speech,1,6,,Gürge.,#guerge,111.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+326,326,GerDracor/heyne-die-beiden-billets.xml,"– Und was sie mit der Regine will, weiß ich gar nicht.",201,255,character_speech,1,6,,Gürge.,#guerge,111.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+327,327,GerDracor/heyne-die-beiden-billets.xml,"– Ich hab’ in
+            meinem Leben keinem Mädel zu tief in die Augen geguckt, als Rösen.",256,348,character_speech,1,6,,Gürge.,#guerge,111.0,MALE,love,K,,1783.0,positive,emotions of affection
+328,328,GerDracor/heyne-die-beiden-billets.xml,"– Es hat mir
+            geschwant, daß meine Freude nicht lange dauern würde: es war zu viel Glück auf einmal.",349,460,character_speech,1,6,,Gürge.,#guerge,111.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+329,329,GerDracor/heyne-die-beiden-billets.xml,"–
+            Er will sie also heurathen, in allem Ernste heurathen?",461,529,character_speech,1,6,,Gürge.,#guerge,111.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+330,330,GerDracor/heyne-die-beiden-billets.xml,Freilich!,0,9,character_speech,1,6,,Schnapps.,#schnapps,112.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+331,331,GerDracor/heyne-die-beiden-billets.xml,"wenn ich sie heurathe, so heurath’ ich sie in allem Ernste.",10,69,character_speech,1,6,,Schnapps.,#schnapps,112.0,MALE,love,K,,1783.0,positive,emotions of affection
+332,332,GerDracor/heyne-die-beiden-billets.xml,(weinerlich.),0,13,stage_direction,1,6,inner_speech,,#guerge,113.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+333,333,GerDracor/heyne-die-beiden-billets.xml," Hör’ Er, ich will Ihm einen guten Rath geben: Er thut
+            wohl, wenn Er sich vor der Hand seiner Wege packt.",0,117,character_speech,1,6,,Gürge,#guerge,113.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+334,334,GerDracor/heyne-die-beiden-billets.xml,"Denn ich stehe Ihm nicht dafür, daß
+            michs nicht anfängt in den Fäusten zu jucken.",118,211,character_speech,1,6,,Gürge,#guerge,113.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+335,335,GerDracor/heyne-die-beiden-billets.xml,"Und da könnt’ Er leicht so
+            zusammengedroschen werden, daß Er in einem Jahre nicht ans Heurathen denken dürfte.",212,334,character_speech,1,6,,Gürge,#guerge,113.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+336,336,GerDracor/heyne-die-beiden-billets.xml,"Und
+            apperpoh!",335,360,character_speech,1,6,,Gürge,#guerge,113.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+337,337,GerDracor/heyne-die-beiden-billets.xml,was mir alleweile einfällt!,361,388,character_speech,1,6,,Gürge,#guerge,113.0,MALE,being moved,K,,1783.0,being moved,being moved
+338,338,GerDracor/heyne-die-beiden-billets.xml,"Wenn nun das alles etwa eine Spitzbüberey von Ihm
+            wäre?",389,456,character_speech,1,6,,Gürge,#guerge,113.0,MALE,being moved,K,,1783.0,being moved,being moved
+339,339,GerDracor/heyne-die-beiden-billets.xml,He?,457,460,character_speech,1,6,,Gürge,#guerge,113.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+340,340,GerDracor/heyne-die-beiden-billets.xml,– Ich habe das Briefgen in der Tasche gehabt; das weiß ich gewiß.,461,526,character_speech,1,6,,Gürge,#guerge,113.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+341,341,GerDracor/heyne-die-beiden-billets.xml,"Wenn Ers nun
+            herauspraktizirt hätte?",527,575,character_speech,1,6,,Gürge,#guerge,113.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+342,342,GerDracor/heyne-die-beiden-billets.xml,He?,576,579,character_speech,1,6,,Gürge,#guerge,113.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+343,343,GerDracor/heyne-die-beiden-billets.xml,"Närrgen, Ihr schwazt, als wenn’s in eurem Kopfe nicht so gar richtig wäre.",0,74,character_speech,1,6,,Schnapps.,#schnapps,114.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+344,344,GerDracor/heyne-die-beiden-billets.xml,"Wenn ich
+            Euch hätte bestehlen wollen, so hätt’ ich doch lieber das Lotterieloos genommen.",75,176,character_speech,1,6,,Schnapps.,#schnapps,114.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+345,345,GerDracor/heyne-die-beiden-billets.xml,"Ein
+            Mädchen ist ja hunderttausendmal eher zu haben, als eine Terne.",177,256,character_speech,1,6,,Schnapps.,#schnapps,114.0,MALE,love,K,,1783.0,positive,emotions of affection
+346,346,GerDracor/heyne-die-beiden-billets.xml,"Ach, wollte der Himmel, der Spizbube hätte das Loos genommen, und mir den Brief
+            gelaßen.",0,100,character_speech,1,6,,Gürge.,#guerge,115.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+347,347,GerDracor/heyne-die-beiden-billets.xml,Was soll nun aus dem armen Gürgen werden?,101,142,character_speech,1,6,,Gürge.,#guerge,115.0,MALE,compassion,K,,1783.0,negative,emotions of suffering and empathy
+348,348,GerDracor/heyne-die-beiden-billets.xml,"Sie ist mir nicht mehr gut, sie will
+            einen andern zum Manne nehmen.",143,222,character_speech,1,6,,Gürge.,#guerge,115.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+349,349,GerDracor/heyne-die-beiden-billets.xml,(Weint.),0,8,stage_direction,1,6,inner_speech,,#guerge,115.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+350,350,GerDracor/heyne-die-beiden-billets.xml," Ich werde keine Freude mehr
+            haben, so lang ich lebe: ich werde mutterseelenallein auf dem ganzen Erdboden seyn.",0,124,character_speech,1,6,,Gürge.,#guerge,115.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+351,351,GerDracor/heyne-die-beiden-billets.xml,"Nun,
+            ich will machen, daß ich sterbe, ehe die Hochzeit vor sich geht.",125,206,character_speech,1,6,,Gürge.,#guerge,115.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+352,352,GerDracor/heyne-die-beiden-billets.xml,"Ehrlicher Gürge, Ihr dauert mich.",0,33,character_speech,1,6,,Schnapps.,#schnapps,116.0,MALE,friendship,K,,1783.0,positive,emotions of affection
+353,353,GerDracor/heyne-die-beiden-billets.xml,"Ihr könnt es glauben, daß ich Euch wegen Eurer guten
+            Eigenschaften beständig ganz besonders lieb gehabt habe.",34,155,character_speech,1,6,,Schnapps.,#schnapps,116.0,MALE,"admiration, reverence",K,,1783.0,positive,emotions of affection
+354,354,GerDracor/heyne-die-beiden-billets.xml,"Wahrhaftig, ich wüßte nicht,
+            was ich aus Freundschaft für Euch thäte.",156,237,character_speech,1,6,,Schnapps.,#schnapps,116.0,MALE,friendship,K,,1783.0,positive,emotions of affection
+355,355,GerDracor/heyne-die-beiden-billets.xml,Hört einmal an.,238,253,character_speech,1,6,,Schnapps.,#schnapps,116.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+356,356,GerDracor/heyne-die-beiden-billets.xml,"Rösgen hat versprochen, den zu
+            nehmen, der den Brief aufweisen kann: Der Brief ist in meiner Hand: gebt Ihr mir das
+            Loos, und ich gebe Euch den Brief.",254,428,character_speech,1,6,,Schnapps.,#schnapps,116.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+357,357,GerDracor/heyne-die-beiden-billets.xml,"Was, allerliebster Goldschnapps?",0,32,character_speech,1,6,,Gürge.,#guerge,117.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+358,358,GerDracor/heyne-die-beiden-billets.xml,ist das der Ernst?,33,51,character_speech,1,6,,Gürge.,#guerge,117.0,MALE,being moved,K,,1783.0,being moved,being moved
+359,359,GerDracor/heyne-die-beiden-billets.xml,Der völlige Ernst.,0,18,character_speech,1,6,,Schnapps.,#schnapps,118.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+360,360,GerDracor/heyne-die-beiden-billets.xml,"Aber Ihr seht, daß ich mehr für Euch thue, als ein ehrlicher Mann
+            für seinen Bruder thäte.",19,121,character_speech,1,6,,Schnapps.,#schnapps,118.0,MALE,love,K,,1783.0,positive,emotions of affection
+361,361,GerDracor/heyne-die-beiden-billets.xml,"Da, da ist der Bettel!",0,22,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+362,362,GerDracor/heyne-die-beiden-billets.xml,"Geschwind gieb her, Zuckerschnäppsgen, eh’ es Dich reut!",23,79,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+363,363,GerDracor/heyne-die-beiden-billets.xml,(Sie vertauschen die Billets.),0,30,stage_direction,1,6,inner_speech,,#guerge,119.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+364,364,GerDracor/heyne-die-beiden-billets.xml," Nun, da hab’ ich dich wieder, du
+            allerliebstes Briefgen: nun sag mir, du kleiner Schelm, warum du mir davon gelaufen
+            bist.",0,147,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+365,365,GerDracor/heyne-die-beiden-billets.xml,"Willst du mir noch einmal den Spas machen, du Flattergeist?",148,207,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+366,366,GerDracor/heyne-die-beiden-billets.xml,Höre!,208,213,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+367,367,GerDracor/heyne-die-beiden-billets.xml,"Wirst du noch
+            einmal desertiren, damit ich dich ranzioniren muß?",214,290,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+368,368,GerDracor/heyne-die-beiden-billets.xml,"– Thue mirs nicht wieder, du Aeffgen;
+            denn nun hab’ ich im Leben nichts mehr als dich.",291,389,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,love,K,,1783.0,positive,emotions of affection
+369,369,GerDracor/heyne-die-beiden-billets.xml,"Dasmal will ich dir den Streich noch
+            vergeben: komm her, du Herzgen: einen Schmaz!",390,484,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+370,370,GerDracor/heyne-die-beiden-billets.xml,und noch einen!,485,500,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+371,371,GerDracor/heyne-die-beiden-billets.xml,und noch einen!,501,516,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+372,372,GerDracor/heyne-die-beiden-billets.xml,"und nun
+            ist alles vergessen und vergeben.",517,570,character_speech,1,6,,Gürge.,#guerge,119.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+373,373,GerDracor/heyne-die-beiden-billets.xml,Das Loos ist also nunmehr mein?,0,31,character_speech,1,6,,Schnapps.,#schnapps,120.0,MALE,love,K,,1783.0,positive,emotions of affection
+374,374,GerDracor/heyne-die-beiden-billets.xml,ganz und gar mein?,32,50,character_speech,1,6,,Schnapps.,#schnapps,120.0,MALE,love,K,,1783.0,positive,emotions of affection
+375,375,GerDracor/heyne-die-beiden-billets.xml,"Ganz und gar, Schnäppgens, mit Haut und Haar.",0,45,character_speech,1,6,,Gürge.,#guerge,121.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+376,376,GerDracor/heyne-die-beiden-billets.xml,"Er hat das Billet auf die Terne, und ich
+            habe das Billet auf Rösen.",46,125,character_speech,1,6,,Gürge.,#guerge,121.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+377,377,GerDracor/heyne-die-beiden-billets.xml,"Der Himmel  gebe nur, daß ich so geschwind
+            ausgezahlt werde als Er.",126,205,character_speech,1,6,,Gürge.,#guerge,121.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+378,378,GerDracor/heyne-die-beiden-billets.xml,"– Aber wahrhaftig, ich traue den kleinen Schelm da gar nicht:
+            ich denke immer, er läuft mir noch einmal davon.",206,328,character_speech,1,6,,Gürge.,#guerge,121.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+379,379,GerDracor/heyne-die-beiden-billets.xml,"Weiß Er was, Mosge Schnapps, geh’ Er
+            nur fort, damit ich mit Rösen allein reden kann.",329,426,character_speech,1,6,,Gürge.,#guerge,121.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+380,380,GerDracor/heyne-die-beiden-billets.xml,"Ey freilich, freilich.",0,22,character_speech,1,6,,Schnapps.,#schnapps,122.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+381,381,GerDracor/heyne-die-beiden-billets.xml,Das ist nicht mehr als billig.,23,53,character_speech,1,6,,Schnapps.,#schnapps,122.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+382,382,GerDracor/heyne-die-beiden-billets.xml,"Adjeh, lieber Gürge, adjeh:",54,81,character_speech,1,6,,Schnapps.,#schnapps,122.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+383,383,GerDracor/heyne-die-beiden-billets.xml,(umarmt ihn),0,12,stage_direction,1,6,inner_speech,,#schnapps,122.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+384,384,GerDracor/heyne-die-beiden-billets.xml," es freut mich recht, daß ich Euch einen solchen
+            Liebesdienst erzeugt habe.",0,87,character_speech,1,6,,Schnapps.,#schnapps,122.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+385,385,GerDracor/heyne-die-beiden-billets.xml,"Seht Ihr, so bin ich nun: ich habe so ein weiches Herz, daß
+            ich alles aus dem Leben gebe, sobald ich jemand weinen sehe.",88,220,character_speech,1,6,,Schnapps.,#schnapps,122.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+386,386,GerDracor/heyne-die-beiden-billets.xml,"Er ist ein braver Mann, Mosge Schnapps, wenn ich Ihm wieder dienen kann, so komm’ Er zu
+            mir.",0,104,character_speech,1,6,,Gürge.,#guerge,123.0,MALE,"admiration, reverence",K,,1783.0,positive,emotions of affection
+387,387,GerDracor/heyne-die-beiden-billets.xml,"Aber izt geh’ Er, damit ich Rösen rufen kann.",105,150,character_speech,1,6,,Gürge.,#guerge,123.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+388,388,GerDracor/heyne-die-beiden-billets.xml,Adjeh!,151,157,character_speech,1,6,,Gürge.,#guerge,123.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+389,389,GerDracor/heyne-die-beiden-billets.xml,"– Ein Kompliment unbekannter
+            Weise an Ihre Hochwürden.",158,224,character_speech,1,6,,Gürge.,#guerge,123.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+390,390,GerDracor/heyne-die-beiden-billets.xml,"Wills ausrichten, wills ausrichten.",0,35,character_speech,1,6,,Schnapps.,#schnapps,124.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+391,391,GerDracor/heyne-die-beiden-billets.xml,(Bey Seite.),0,12,stage_direction,1,6,inner_speech,,#schnapps,124.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+392,392,GerDracor/heyne-die-beiden-billets.xml," Wir wollen doch einen
+            Augenblick an der Ecke da lauern, und zusehn, wie Herr Gürge anlaufen wird.",0,110,character_speech,1,6,,Schnapps.,#schnapps,124.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+393,393,GerDracor/heyne-die-beiden-billets.xml,Gürge.,0,6,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+394,394,GerDracor/heyne-die-beiden-billets.xml,Rösgen.,7,14,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+395,395,GerDracor/heyne-die-beiden-billets.xml,Schnapps (versteckt.),15,36,stage_direction,1,7,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+396,396,GerDracor/heyne-die-beiden-billets.xml,(klopft an der Hausthür.),0,25,stage_direction,1,7,speech_part,,#guerge,125.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+397,397,GerDracor/heyne-die-beiden-billets.xml,Ist niemand zu Hause?,0,21,character_speech,1,7,,Gürge,#guerge,125.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+398,398,GerDracor/heyne-die-beiden-billets.xml,(am Fenster.),0,13,stage_direction,1,7,inner_speech,,#roesgen,126.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+399,399,GerDracor/heyne-die-beiden-billets.xml, Was?,0,5,character_speech,1,7,,Rösgen,#roesgen,126.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+400,400,GerDracor/heyne-die-beiden-billets.xml,Du bists?,6,15,character_speech,1,7,,Rösgen,#roesgen,126.0,FEMALE,being moved,K,,1783.0,being moved,being moved
+401,401,GerDracor/heyne-die-beiden-billets.xml,"Du unterstehst Dich noch, Dich hier sehn zu
+            laßen?",16,78,character_speech,1,7,,Rösgen,#roesgen,126.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+402,402,GerDracor/heyne-die-beiden-billets.xml,"Du kannst noch glauben, daß Du wieder einen Fuß wirst ins Haus sezen dürfen?",79,155,character_speech,1,7,,Rösgen,#roesgen,126.0,FEMALE,joy,K,,1783.0,positive,emotions of pleasure
+403,403,GerDracor/heyne-die-beiden-billets.xml,"Du
+            bildest Dir ein – – –",156,192,character_speech,1,7,,Rösgen,#roesgen,126.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+404,404,GerDracor/heyne-die-beiden-billets.xml,"Nein, nein, Röse, ich will nicht ins Haus, ich will haußen bleiben: aber laß nur ein
+            vernünftig Wort mit Dir reden: was ich Dir zu sagen habe, ist gleich geschehn: thu mir
+            nur den Gefallen, und komm auf ein paar Augenblickgen herunter: Du wirst sehn – – –",0,279,character_speech,1,7,,Gürge.,#guerge,127.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+405,405,GerDracor/heyne-die-beiden-billets.xml,"Ich mag nichts sehn, und nichts hören, und nichts wißen.",0,56,character_speech,1,7,,Rösgen.,#roesgen,128.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+406,406,GerDracor/heyne-die-beiden-billets.xml,"Laß mich in Ruh, und komm mir
+            nicht wieder vor die Augen.",57,126,character_speech,1,7,,Rösgen.,#roesgen,128.0,FEMALE,being moved,K,,1783.0,being moved,being moved
+407,407,GerDracor/heyne-die-beiden-billets.xml,(Schlägt das Fenster zu.),0,25,stage_direction,1,7,inner_speech,,#roesgen,128.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+408,408,GerDracor/heyne-die-beiden-billets.xml,(schleicht hervor: bey Seite.),0,30,stage_direction,1,7,inner_speech,,#schnapps,129.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+409,409,GerDracor/heyne-die-beiden-billets.xml, Bravo!,0,7,character_speech,1,7,,Schnapps,#schnapps,129.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+410,410,GerDracor/heyne-die-beiden-billets.xml,"nun will ich mein Geld holen, und
+            hab’ ich",8,62,character_speech,1,7,,Schnapps,#schnapps,129.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+411,411,GerDracor/heyne-die-beiden-billets.xml," das einmal, so komm’ ich wieder, und hole das Mädel hinterher.",0,63,character_speech,1,7,,Schnapps,#schnapps,129.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+412,412,GerDracor/heyne-die-beiden-billets.xml,Gürge.,0,6,stage_direction,1,8,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+413,413,GerDracor/heyne-die-beiden-billets.xml,(Hernach) Rösgen.,7,24,stage_direction,1,8,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+414,414,GerDracor/heyne-die-beiden-billets.xml,(allein.),0,9,stage_direction,1,8,speech_part,,#guerge,130.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+415,415,GerDracor/heyne-die-beiden-billets.xml,Das ist aber doch wahrhaftig zu arg.,0,36,character_speech,1,8,,Gürge,#guerge,130.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+416,416,GerDracor/heyne-die-beiden-billets.xml,"– Ihr nicht einmal das Briefgen vorzeigen zu
+            können!",37,101,character_speech,1,8,,Gürge,#guerge,130.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+417,417,GerDracor/heyne-die-beiden-billets.xml,"– Und wenn ich die Zeit verstreichen laße, so hilft beym Himmel keine Gnade – so
+            ist alles verloren.",102,214,character_speech,1,8,,Gürge,#guerge,130.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+418,418,GerDracor/heyne-die-beiden-billets.xml,"Denn Schnappsen trau ich nicht über den Weg; und wenn der einmal
+            wieder da ist, so kommt der arme Gürge gewiß nicht auf den Erdboden.",215,360,character_speech,1,8,,Gürge,#guerge,130.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+419,419,GerDracor/heyne-die-beiden-billets.xml,"Nun, ich muß mir
+            das Herz nehmen: geh’ es in des Himmels Namen, wie es wolle, ich will mich nicht eher zu
+            Tode grämen, als bis ich noch einen Versuch gemacht habe.",361,548,character_speech,1,8,,Gürge,#guerge,130.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+420,420,GerDracor/heyne-die-beiden-billets.xml,"(Pocht noch einmal
+              an.)",0,37,stage_direction,1,8,inner_speech,,#guerge,130.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+421,421,GerDracor/heyne-die-beiden-billets.xml," Nun gewagt war’s: Frisch zu, Gürge!",0,36,character_speech,1,8,,Gürge,#guerge,130.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+422,422,GerDracor/heyne-die-beiden-billets.xml,(am Fenster.),0,13,stage_direction,1,8,inner_speech,,#roesgen,131.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+423,423,GerDracor/heyne-die-beiden-billets.xml, Was?,0,5,character_speech,1,8,,Rösgen,#roesgen,131.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+424,424,GerDracor/heyne-die-beiden-billets.xml,Noch keine Ruhe?,6,22,character_speech,1,8,,Rösgen,#roesgen,131.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+425,425,GerDracor/heyne-die-beiden-billets.xml,"Soll ich nach den Gerichten
+            schicken?",23,72,character_speech,1,8,,Rösgen,#roesgen,131.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+426,426,GerDracor/heyne-die-beiden-billets.xml,"Aergere Dich nur nicht, liebe Röse  ich komme gar nicht mehr um mit Dir zu
+            schwazen: Denn Du willsts einmal nicht haben: sondern ich komme nur um Dir deinen Brief
+            wieder zu bringen.",0,205,character_speech,1,8,,Gürge.,#guerge,132.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+427,427,GerDracor/heyne-die-beiden-billets.xml,Meinen Brief?,0,13,character_speech,1,8,,Rösgen.,#roesgen,133.0,FEMALE,being moved,K,,1783.0,being moved,being moved
+428,428,GerDracor/heyne-die-beiden-billets.xml,Und den hast,14,26,character_speech,1,8,,Rösgen.,#roesgen,133.0,FEMALE,love,K,,1783.0,positive,emotions of affection
+429,429,GerDracor/heyne-die-beiden-billets.xml,(Macht das Fenster zu.),0,23,stage_direction,1,8,inner_speech,,#roesgen,133.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+430,430,GerDracor/heyne-die-beiden-billets.xml,(allein.),0,9,stage_direction,1,8,inner_speech,,#guerge,134.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+431,431,GerDracor/heyne-die-beiden-billets.xml, Nun schöpf’ ich wieder ein bisgen Athen.,0,41,character_speech,1,8,,Gürge,#guerge,134.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+432,432,GerDracor/heyne-die-beiden-billets.xml,"Ich hab’ ein gutes
+            Gewißen, ich bin ihr gut, ich bin ihr beständig gut gewesen: sie ist",42,141,character_speech,1,8,,Gürge,#guerge,134.0,MALE,love,K,,1783.0,positive,emotions of affection
+433,433,GerDracor/heyne-die-beiden-billets.xml,(kommt aus dem Hause.),0,22,stage_direction,1,8,inner_speech,,#roesgen,135.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+434,434,GerDracor/heyne-die-beiden-billets.xml," Aber das sag’ ich gleich, von dem Vergangnen mag
+            ich nichts hören und nichts wißen.",0,96,character_speech,1,8,,Rösgen,#roesgen,135.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+435,435,GerDracor/heyne-die-beiden-billets.xml,"Nur das möcht’ ich erfahren, wie es zugeht, daß Du
+            meinen Brief wieder hast.",97,185,character_speech,1,8,,Rösgen,#roesgen,135.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+436,436,GerDracor/heyne-die-beiden-billets.xml,(giebt ihr das Billet.),0,23,stage_direction,1,8,inner_speech,,#guerge,136.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+437,437,GerDracor/heyne-die-beiden-billets.xml," Da, Röse!",0,10,character_speech,1,8,,Gürge,#guerge,136.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+438,438,GerDracor/heyne-die-beiden-billets.xml,hier ist er: nimm ihn wieder.,11,40,character_speech,1,8,,Gürge,#guerge,136.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+439,439,GerDracor/heyne-die-beiden-billets.xml,"Er ist
+            zwar mein, ich hatte meine ganze Hoffnung drein gesezt, mein",41,120,character_speech,1,8,,Gürge,#guerge,136.0,MALE,love,K,,1783.0,positive,emotions of affection
+440,440,GerDracor/heyne-die-beiden-billets.xml," ganzes Glück
+            darauf gebaut – aber",0,46,character_speech,1,8,,Gürge,#guerge,136.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+441,441,GerDracor/heyne-die-beiden-billets.xml,(weinend),0,9,stage_direction,1,8,inner_speech,,#guerge,136.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+442,442,GerDracor/heyne-die-beiden-billets.xml," ich soll einmal nicht glücklich seyn –
+            und, wenn Du nicht sprichst, daß ich ihn behalten soll – – –",0,112,character_speech,1,8,,Gürge,#guerge,136.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+443,443,GerDracor/heyne-die-beiden-billets.xml,"Nein, ich spreche, daß Du mir ihn wieder geben sollst.",0,54,character_speech,1,8,,Rösgen.,#roesgen,137.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+444,444,GerDracor/heyne-die-beiden-billets.xml,– Sieh doch!,55,67,character_speech,1,8,,Rösgen.,#roesgen,137.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+445,445,GerDracor/heyne-die-beiden-billets.xml,"damit er ihn etwa
+            noch in der Schenke vorlesen könnte?",68,134,character_speech,1,8,,Rösgen.,#roesgen,137.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+446,446,GerDracor/heyne-die-beiden-billets.xml,– Pfuy!,135,142,character_speech,1,8,,Rösgen.,#roesgen,137.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+447,447,GerDracor/heyne-die-beiden-billets.xml,"meinen Brief, den ich aus gutem ehrlichen
+            Herzen schreibe, zu nehmen und sich mit einem andern Mädchen drüber lustig zu machen?",143,282,character_speech,1,8,,Rösgen.,#roesgen,137.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+448,448,GerDracor/heyne-die-beiden-billets.xml,"–
+            Pfuy!",283,302,character_speech,1,8,,Rösgen.,#roesgen,137.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+449,449,GerDracor/heyne-die-beiden-billets.xml,"Röse, liebe Röse, allerliebste Röse!",0,36,character_speech,1,8,,Gürge.,#guerge,138.0,MALE,love,K,,1783.0,positive,emotions of affection
+450,450,GerDracor/heyne-die-beiden-billets.xml,was bringst Du da für Zeug vor?,37,68,character_speech,1,8,,Gürge.,#guerge,138.0,MALE,being moved,K,,1783.0,being moved,being moved
+451,451,GerDracor/heyne-die-beiden-billets.xml,"Ich und ein ander
+            Mädchen als Du?",69,114,character_speech,1,8,,Gürge.,#guerge,138.0,MALE,being moved,K,,1783.0,being moved,being moved
+452,452,GerDracor/heyne-die-beiden-billets.xml,"Geh, Du willst mich in meiner Noth noch zum Besten haben.",115,172,character_speech,1,8,,Gürge.,#guerge,138.0,MALE,compassion,K,,1783.0,negative,emotions of suffering and empathy
+453,453,GerDracor/heyne-die-beiden-billets.xml,"Aber heute früh schick’ ich Dir das Billetgen, und ein paar Stunden drauf bringt mirs
+            Schnapps wieder?",0,114,character_speech,1,8,,Rösgen.,#roesgen,139.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+454,454,GerDracor/heyne-die-beiden-billets.xml,"Wie kommt denn das, wenn Du so gewaltig unschuldig bist?",115,171,character_speech,1,8,,Rösgen.,#roesgen,139.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+455,455,GerDracor/heyne-die-beiden-billets.xml,Schnapps hat Dir’s wieder gebracht?,0,35,character_speech,1,8,,Gürge.,#guerge,140.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+456,456,GerDracor/heyne-die-beiden-billets.xml,Da seh man den Schurken!,36,60,character_speech,1,8,,Gürge.,#guerge,140.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+457,457,GerDracor/heyne-die-beiden-billets.xml,"und zu mir hat er gesagt,
+            Du hättest es ihm gegeben.",61,125,character_speech,1,8,,Gürge.,#guerge,140.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+458,458,GerDracor/heyne-die-beiden-billets.xml,"O,  nun ists gewiß – ja, nun ists gewiß, daß er
+            mirs gestohlen hat.",126,205,character_speech,1,8,,Gürge.,#guerge,140.0,MALE,fear,K,,1783.0,negative,emotions of anxiety
+459,459,GerDracor/heyne-die-beiden-billets.xml,(bey Seite.),0,12,stage_direction,1,8,inner_speech,,#roesgen,141.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+460,460,GerDracor/heyne-die-beiden-billets.xml, Wenn’s wahr wäre?,0,18,character_speech,1,8,,Rösgen,#roesgen,141.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+461,461,GerDracor/heyne-die-beiden-billets.xml,"Der Balbier ist so was im Stande – Ich
+            gäbe was drum, wenn Gürge unschuldig wäre.",19,112,character_speech,1,8,,Rösgen,#roesgen,141.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+462,462,GerDracor/heyne-die-beiden-billets.xml,"Aber überlege einmal, liebe Röse, überlege nur einmal: wir sind nun schon zwey Jahre
+            mit einander bekannt, und hast Du mich in der ganzen Zeit ein einziges mal auf einem
+            verschmizten Streiche ertappt?",0,224,character_speech,1,8,,Gürge.,#guerge,142.0,MALE,being moved,K,,1783.0,being moved,being moved
+463,463,GerDracor/heyne-die-beiden-billets.xml,"– Höre, liebe Röse, vergieb mirs, daß ich mich habe
+            bestehlen lassen: ich wills nicht wieder thun: habe Barmherzigkeit, liebe Röse.",225,368,character_speech,1,8,,Gürge.,#guerge,142.0,MALE,compassion,K,,1783.0,negative,emotions of suffering and empathy
+464,464,GerDracor/heyne-die-beiden-billets.xml,Aber wie kommst Du denn wieder zu dem Briefe?,0,45,character_speech,1,8,,Rösgen.,#roesgen,143.0,FEMALE,being moved,K,,1783.0,being moved,being moved
+465,465,GerDracor/heyne-die-beiden-billets.xml,Wer hat Dir ihn denn gegeben?,46,75,character_speech,1,8,,Rösgen.,#roesgen,143.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+466,466,GerDracor/heyne-die-beiden-billets.xml,Das Lotto.,0,10,character_speech,1,8,,Gürge.,#guerge,144.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+467,467,GerDracor/heyne-die-beiden-billets.xml,Das Lotto?,0,10,character_speech,1,8,,Rösgen.,#roesgen,145.0,FEMALE,being moved,K,,1783.0,being moved,being moved
+468,468,GerDracor/heyne-die-beiden-billets.xml,"– Ich glaube, Du weißt nicht mehr was Du redst.",11,58,character_speech,1,8,,Rösgen.,#roesgen,145.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+469,469,GerDracor/heyne-die-beiden-billets.xml,"– Schnapps hatte ja den
+            Augenblick den Brief: hat er Dir ihn denn wieder gegeben?",59,152,character_speech,1,8,,Rösgen.,#roesgen,145.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+470,470,GerDracor/heyne-die-beiden-billets.xml,"Ich hab’ ihn Schnappsen abgekauft,  und da hat er mir ihn wieder
+            gegeben.",0,85,character_speech,1,8,,Gürge.,#guerge,146.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+471,471,GerDracor/heyne-die-beiden-billets.xml,Abgekauft?,0,10,character_speech,1,8,,Rösgen.,#roesgen,147.0,FEMALE,being moved,K,,1783.0,being moved,being moved
+472,472,GerDracor/heyne-die-beiden-billets.xml,wie denn?,11,20,character_speech,1,8,,Rösgen.,#roesgen,147.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+473,473,GerDracor/heyne-die-beiden-billets.xml,wofür denn?,21,32,character_speech,1,8,,Rösgen.,#roesgen,147.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+474,474,GerDracor/heyne-die-beiden-billets.xml,"Ich will Dir’s sagen, liebe Röse.",0,33,character_speech,1,8,,Gürge.,#guerge,148.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+475,475,GerDracor/heyne-die-beiden-billets.xml,"Du mußt wißen, daß ich heute früh eine Terne gewonnen
+            habe, die mit einem Speziesthaler besezt war.",34,145,character_speech,1,8,,Gürge.,#guerge,148.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+476,476,GerDracor/heyne-die-beiden-billets.xml,Du?,0,3,character_speech,1,8,,Rösgen.,#roesgen,149.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+477,477,GerDracor/heyne-die-beiden-billets.xml,eine Terne?,4,15,character_speech,1,8,,Rösgen.,#roesgen,149.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+478,478,GerDracor/heyne-die-beiden-billets.xml,– Jemine!,16,25,character_speech,1,8,,Rösgen.,#roesgen,149.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+479,479,GerDracor/heyne-die-beiden-billets.xml,"das soll ja was Großes seyn, wenn man eine Terne gewinnt.",26,83,character_speech,1,8,,Rösgen.,#roesgen,149.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+480,480,GerDracor/heyne-die-beiden-billets.xml,"Ja, es ging so ziemlich in die acht tausend.",0,44,character_speech,1,8,,Gürge.,#guerge,150.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+481,481,GerDracor/heyne-die-beiden-billets.xml,"Jemine, eine Terne von achttausend Thalern!",0,43,character_speech,1,8,,Rösgen.,#roesgen,151.0,FEMALE,being moved,K,,1783.0,being moved,being moved
+482,482,GerDracor/heyne-die-beiden-billets.xml,"– Je, Gürge, was willst Du denn mit alle
+            dem Gelde machen?",44,114,character_speech,1,8,,Rösgen.,#roesgen,151.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+483,483,GerDracor/heyne-die-beiden-billets.xml,Höre nur.,0,9,character_speech,1,8,,Gürge.,#guerge,152.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+484,484,GerDracor/heyne-die-beiden-billets.xml,– Zum größten Glücke hatt’ ich das Geld noch nicht.,10,61,character_speech,1,8,,Gürge.,#guerge,152.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+485,485,GerDracor/heyne-die-beiden-billets.xml,"Schnapps sah, daß ich
+            mich über deinen Brief gar nicht zufrieden geben wollte, und schlug mir endlich vor, daß
+            wir mit den Billets tauschen wollten.",62,234,character_speech,1,8,,Gürge.,#guerge,152.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+486,486,GerDracor/heyne-die-beiden-billets.xml,Und Du hast es gethan?,0,22,character_speech,1,8,,Rösgen.,#roesgen,153.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+487,487,GerDracor/heyne-die-beiden-billets.xml,"Je, wahrhaftig, ich gäb ihm  mein Häusgen noch dazu, wenn ers
+            verlangte.",0,84,character_speech,1,8,,Gürge.,#guerge,154.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+488,488,GerDracor/heyne-die-beiden-billets.xml,"Guter, lieber Gürge,",0,20,character_speech,1,8,,Rösgen.,#roesgen,155.0,FEMALE,joy,K,,1783.0,positive,emotions of pleasure
+489,489,GerDracor/heyne-die-beiden-billets.xml,(umarmt ihn),0,12,stage_direction,1,8,inner_speech,,#roesgen,155.0,FEMALE,joy,K,,1783.0,positive,emotions of pleasure
+490,490,GerDracor/heyne-die-beiden-billets.xml," vergieb mir, sey nicht böse: so lang
+            ich lebe, will ich Dir gut seyn – so lang’ ich lebe, will ich Dich lieb haben.",0,128,character_speech,1,8,,Rösgen.,#roesgen,155.0,FEMALE,love,K,,1783.0,positive,emotions of affection
+491,491,GerDracor/heyne-die-beiden-billets.xml,"Der Geyer, Röse, Du mußt gewaltig viel auf Leute halten, die einen guten Handel
+            treffen.",0,100,character_speech,1,8,,Gürge.,#guerge,156.0,MALE,abhorrence,K,,1783.0,negative,emotions of rejection
+492,492,GerDracor/heyne-die-beiden-billets.xml,"O vergieb mir, lieber Gürge, daß ich Dir Unrecht gethan habe: behalte meinen Brief,
+            wenn Du ihn noch behalten willst – ich schwöre Dir’s zu, daß ich Dich lieb habe, daß ich
+            niemanden haben will als Dich, und daß ich mich noch heute Abend mit Dir verloben will,
+            wenn Du es haben willst, und wenn Du mir nicht gram geworden bist.",0,363,character_speech,1,8,,Rösgen.,#roesgen,157.0,FEMALE,love,K,,1783.0,positive,emotions of affection
+493,493,GerDracor/heyne-die-beiden-billets.xml,Du hast mich wieder lieb?,0,25,character_speech,1,8,,Gürge.,#guerge,158.0,MALE,love,K,,1783.0,positive,emotions of affection
+494,494,GerDracor/heyne-die-beiden-billets.xml,"Ach, ich bin des Todes für Freuden!",26,61,character_speech,1,8,,Gürge.,#guerge,158.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+495,495,GerDracor/heyne-die-beiden-billets.xml,"– Höre, liebe Röse, sags
+            nicht noch einmal, daß du mich lieb hast: es könnte mir wieder ein Unglück begegnen.",62,183,character_speech,1,8,,Gürge.,#guerge,158.0,MALE,love,K,,1783.0,positive,emotions of affection
+496,496,GerDracor/heyne-die-beiden-billets.xml,"Laß
+            mich Dich nur ansehen: ich will es schon aus deinen hübschen Augen herausstudiren, ohne
+            daß Du mir es sagst.",184,320,character_speech,1,8,,Gürge.,#guerge,158.0,MALE,love,K,,1783.0,positive,emotions of affection
+497,497,GerDracor/heyne-die-beiden-billets.xml,"Nur vergieb mir, lieber Gürge, daß ich Dir so weh gethan habe.",0,62,character_speech,1,8,,Rösgen.,#roesgen,159.0,FEMALE,compassion,K,,1783.0,negative,emotions of suffering and empathy
+498,498,GerDracor/heyne-die-beiden-billets.xml,Was das für allerliebste hübsche Augen sind!,0,44,character_speech,1,8,,Gürge.,#guerge,160.0,MALE,"admiration, reverence",K,,1783.0,positive,emotions of affection
+499,499,GerDracor/heyne-die-beiden-billets.xml,"Ich weiß nicht, was ich sagen soll: aber
+            ich möchte gleich ganz und gar hineinspringen.",45,144,character_speech,1,8,,Gürge.,#guerge,160.0,MALE,joy,K,,1783.0,positive,emotions of pleasure
+500,500,GerDracor/heyne-die-beiden-billets.xml,"– Aber höre, thu mir einmal den Gefallen,
+            und sage mir, wie die beiden ersten Worte hier heißen: He?",145,257,character_speech,1,8,,Gürge.,#guerge,160.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+501,501,GerDracor/heyne-die-beiden-billets.xml,"(Zeigt ihr den
+              Brief.)",0,36,stage_direction,1,8,inner_speech,,#guerge,160.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+502,502,GerDracor/heyne-die-beiden-billets.xml,„Lieber Freund.“,0,16,character_speech,1,8,,Rösgen.,#roesgen,161.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+503,503,GerDracor/heyne-die-beiden-billets.xml,Wie war’s?,0,10,character_speech,1,8,,Gürge.,#guerge,162.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+504,504,GerDracor/heyne-die-beiden-billets.xml,Ich hab’s nicht recht verstanden.,11,44,character_speech,1,8,,Gürge.,#guerge,162.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+505,505,GerDracor/heyne-die-beiden-billets.xml,„Lieber Freund!“,0,16,character_speech,1,8,,Rösgen.,#roesgen,163.0,FEMALE,friendship,K,,1783.0,positive,emotions of affection
+506,506,GerDracor/heyne-die-beiden-billets.xml,"Warte, ich muß es selber lesen.",0,31,character_speech,1,8,,Gürge.,#guerge,164.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+507,507,GerDracor/heyne-die-beiden-billets.xml,"– L, i, e, lie, b, e, r, ber, lieber, F, r, e, u, n, d,
+            Freund, lieber Freund – Ah, wenn’s nur nicht so bald alle wäre!",32,163,character_speech,1,8,,Gürge.,#guerge,164.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+508,508,GerDracor/heyne-die-beiden-billets.xml,"wenn die beiden Worte
+            nur so lang wären, als das dicke Historienbuch, das unser Schulmeister hat!",164,273,character_speech,1,8,,Gürge.,#guerge,164.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+509,509,GerDracor/heyne-die-beiden-billets.xml,"Laß es gut seyn, lieber Gürge: Du sollst es noch viel tausendmal hören, wenn Du es nur
+            niemals überdrüßig werden willst.",0,132,character_speech,1,8,,Rösgen.,#roesgen,165.0,FEMALE,joy,K,,1783.0,positive,emotions of pleasure
+510,510,GerDracor/heyne-die-beiden-billets.xml,"– Aber höre einmal, wir können dem Balbier seine
+            Betrügerey nicht so hingehn lassen.",133,229,character_speech,1,8,,Rösgen.,#roesgen,165.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+511,511,GerDracor/heyne-die-beiden-billets.xml,Warum denn?,0,11,character_speech,1,8,,Gürge.,#guerge,166.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+512,512,GerDracor/heyne-die-beiden-billets.xml,"Er muß das Billet herausgeben, um das er Dich betrogen hat.",0,59,character_speech,1,8,,Rösgen.,#roesgen,167.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+513,513,GerDracor/heyne-die-beiden-billets.xml,Was denn für ein Billet?,0,24,character_speech,1,8,,Gürge.,#guerge,168.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+514,514,GerDracor/heyne-die-beiden-billets.xml,Dein Lotterieloos.,0,18,character_speech,1,8,,Rösgen.,#roesgen,169.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+515,515,GerDracor/heyne-die-beiden-billets.xml,"Nein, liebe Röse, nein, der Handel ist einmal gemacht – wir wollen nicht weiter davon
+            reden: er könnte rappelköpfisch werden, und den Brief wieder haben wollen – Nein, nein,
+            es ist so recht gut.",0,218,character_speech,1,8,,Gürge.,#guerge,170.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+516,516,GerDracor/heyne-die-beiden-billets.xml,"Du hast mich lieb, nicht wahr?",219,249,character_speech,1,8,,Gürge.,#guerge,170.0,MALE,love,K,,1783.0,positive,emotions of affection
+517,517,GerDracor/heyne-die-beiden-billets.xml,"– Nun, und weiter verlang’ ich
+            nichts.",250,300,character_speech,1,8,,Gürge.,#guerge,170.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+518,518,GerDracor/heyne-die-beiden-billets.xml,"Stille, stille!",0,15,character_speech,1,8,,Rösgen.,#roesgen,171.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+519,519,GerDracor/heyne-die-beiden-billets.xml,"da seh’ ich ihn kommen: verstecke Dich geschwind ins Haus, und komm
+            nicht eher hervor, als bis ich Dich rufe.",16,137,character_speech,1,8,,Rösgen.,#roesgen,171.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+520,520,GerDracor/heyne-die-beiden-billets.xml,Aber rufe mich nur ja recht bald.,0,33,character_speech,1,8,,Gürge.,#guerge,172.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+521,521,GerDracor/heyne-die-beiden-billets.xml,Hörst Du?,34,43,character_speech,1,8,,Gürge.,#guerge,172.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+522,522,GerDracor/heyne-die-beiden-billets.xml,(Ab.),0,5,stage_direction,1,8,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+523,523,GerDracor/heyne-die-beiden-billets.xml,"Ja, ja, geh nur, daß er Dich nicht sieht.",0,41,character_speech,1,8,,Rösgen.,#roesgen,173.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+524,524,GerDracor/heyne-die-beiden-billets.xml,"– Ah, da kommt der Schurke, und hat das
+            Billet in der Hand.",42,113,character_speech,1,8,,Rösgen.,#roesgen,173.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+525,525,GerDracor/heyne-die-beiden-billets.xml,Rösgen.,0,7,stage_direction,1,9,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+526,526,GerDracor/heyne-die-beiden-billets.xml,Schnapps.,8,17,stage_direction,1,9,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+527,527,GerDracor/heyne-die-beiden-billets.xml,(vor sich.),0,11,stage_direction,1,9,speech_part,,#schnapps,174.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+528,528,GerDracor/heyne-die-beiden-billets.xml,"Muß der verdammte Schulmeister heute just Gevatterbriefe herumtragen: und so elend der
+            Kerl ist, so kann ich doch heute ohne ihn nichts machen –",0,156,character_speech,1,9,,Schnapps,#schnapps,174.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+529,529,GerDracor/heyne-die-beiden-billets.xml,"(Sieht Rösgen und
+              versteckt das Billet.)",0,54,stage_direction,1,9,inner_speech,,#schnapps,174.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+530,530,GerDracor/heyne-die-beiden-billets.xml," Ach, mein schöner Goldengel, ich wollte eben zu
+            Ihr.",0,65,character_speech,1,9,,Schnapps,#schnapps,174.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+531,531,GerDracor/heyne-die-beiden-billets.xml,"Es ist mir recht lieb, Mosge Schnapps, daß ich ihn sehe.",0,56,character_speech,1,9,,Rösgen.,#roesgen,175.0,FEMALE,joy,K,,1783.0,positive,emotions of pleasure
+532,532,GerDracor/heyne-die-beiden-billets.xml,"Weiß Er wohl, was hier
+            vorgefallen ist, seitdem wir uns nicht gesehn haben?",57,144,character_speech,1,9,,Rösgen.,#roesgen,175.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+533,533,GerDracor/heyne-die-beiden-billets.xml,"Nein, ich weiß nicht – was wäre denn vorgefallen?",0,49,character_speech,1,9,,Schnapps.,#schnapps,176.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+534,534,GerDracor/heyne-die-beiden-billets.xml,"Denk’ Er einmal an; der Mensch, der Gürge, untersteht sich mir wieder unter die Augen
+            zu kommen: aber ich habe ihn so heimgeschickt, daß er gewiß in seinem Leben nicht
+            wiederkommt.",0,204,character_speech,1,9,,Rösgen.,#roesgen,177.0,FEMALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+535,535,GerDracor/heyne-die-beiden-billets.xml,"Das ist scharmant, hähähä.",0,26,character_speech,1,9,,Schnapps.,#schnapps,178.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+536,536,GerDracor/heyne-die-beiden-billets.xml,"Ja, ich hab’ es gleich gedacht, hähähä, und da hab’ ich mich
+            hier versteckt, und da hab’ ich gesehn, hähähä, wie Sie ihm das Fenster vor der Nase
+            zuschlug, hähähä.",27,214,character_speech,1,9,,Schnapps.,#schnapps,178.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+537,537,GerDracor/heyne-die-beiden-billets.xml,"– Aber den dummen Gürgen izt bey Seite; mein Engelgen, Du weißt doch
+            wohl, was Du mir vorhin versprochen hast?",215,337,character_speech,1,9,,Schnapps.,#schnapps,178.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+538,538,GerDracor/heyne-die-beiden-billets.xml,(bey Seite.),0,12,stage_direction,1,9,inner_speech,,#roesgen,179.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+539,539,GerDracor/heyne-die-beiden-billets.xml," Ah, nun hab’ ich Dich.",0,23,character_speech,1,9,,Rösgen,#roesgen,179.0,FEMALE,joy,K,,1783.0,positive,emotions of pleasure
+540,540,GerDracor/heyne-die-beiden-billets.xml,(Laut.),0,7,stage_direction,1,9,inner_speech,,#roesgen,179.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+541,541,GerDracor/heyne-die-beiden-billets.xml," Ja, Mosge
+            Schnapps, das weiß ich recht wohl.",0,57,character_speech,1,9,,Rösgen,#roesgen,179.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+542,542,GerDracor/heyne-die-beiden-billets.xml,"Aber ich gesteh’ es, ich habe nur noch ein paar
+            Skrupel, die er mir vorher auflösen muß.",58,158,character_speech,1,9,,Rösgen,#roesgen,179.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+543,543,GerDracor/heyne-die-beiden-billets.xml,"Auflösen, resolviren, dissolviren, obstruiren, rektifiziren, wie Du es haben willst,
+            mein Kröngen.",0,110,character_speech,1,9,,Schnapps.,#schnapps,180.0,MALE,anger,K,,1783.0,negative,emotions of rejection
+544,544,GerDracor/heyne-die-beiden-billets.xml,"Ich nehme freilich einen Mann, damit er mir gut ist: und wenn Ers also ehrlich meynt,
+            Mosge Schnapps – aber ehrlich muß Ers meynen – so denk’ ich, daß wir ein Paar sind.",0,181,character_speech,1,9,,Rösgen.,#roesgen,181.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+545,545,GerDracor/heyne-die-beiden-billets.xml,"Ich
+            habe ein bisgen Vermögen, aber ich verlange eben nicht, daß mein Mann welches hat.",182,280,character_speech,1,9,,Rösgen.,#roesgen,181.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+546,546,GerDracor/heyne-die-beiden-billets.xml,"Was
+            ich verlange, das ist, daß mich mein  Mann einzig und allein lieb hat.",281,367,character_speech,1,9,,Rösgen.,#roesgen,181.0,FEMALE,love,K,,1783.0,positive,emotions of affection
+547,547,GerDracor/heyne-die-beiden-billets.xml,"Sag’
+            Er mir offenherzig, Mosge Schnapps, ist Er außer mir keiner andern gut?",368,456,character_speech,1,9,,Rösgen.,#roesgen,181.0,FEMALE,"admiration, reverence",K,,1783.0,positive,emotions of affection
+548,548,GerDracor/heyne-die-beiden-billets.xml,"Nun so wollt’ ich, daß ich alle Flüche und alle Schwüre wüßte, die es in der ganzen
+            Reichsarmee giebt, um Ihr, allerschönstes Rösgen, zu beschwören, daß ich – – –",0,174,character_speech,1,9,,Schnapps.,#schnapps,182.0,MALE,love,K,,1783.0,positive,emotions of affection
+549,549,GerDracor/heyne-die-beiden-billets.xml,Hör’ Er mich an.,0,16,character_speech,1,9,,Rösgen.,#roesgen,183.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+550,550,GerDracor/heyne-die-beiden-billets.xml,"Ich habe Einmal den Fehler an mir, daß ich erschrecklich mistrauisch
+            bin.",17,102,character_speech,1,9,,Rösgen.,#roesgen,183.0,FEMALE,abhorrence,K,,1783.0,negative,emotions of rejection
+551,551,GerDracor/heyne-die-beiden-billets.xml,"– Da Er hieher kam, hatt’ Er ein Papier in der Hand; und das versteckt’ Er, sobald
+            Er mich gewahr wurde.",103,219,character_speech,1,9,,Rösgen.,#roesgen,183.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+552,552,GerDracor/heyne-die-beiden-billets.xml,Was war das?,220,232,character_speech,1,9,,Rösgen.,#roesgen,183.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+553,553,GerDracor/heyne-die-beiden-billets.xml,"Wenn Er will, daß ich Ihm trauen soll, so muß er mirs
+            sehn lassen.",233,311,character_speech,1,9,,Rösgen.,#roesgen,183.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+554,554,GerDracor/heyne-die-beiden-billets.xml,"Hat doch wohl Regine einen Liebsten gefunden, der ihr die Briefe andrer
+            Mädchen zeigte.",312,411,character_speech,1,9,,Rösgen.,#roesgen,183.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+555,555,GerDracor/heyne-die-beiden-billets.xml,"Ja wahrhaftig, schönes Rösgen, ich wäre des Todes, wenn ich Ihr durchaus einen
+            Liebesbrief zeigen sollte.",0,117,character_speech,1,9,,Schnapps.,#schnapps,184.0,MALE,being moved,K,,1783.0,being moved,being moved
+556,556,GerDracor/heyne-die-beiden-billets.xml,"Denn in meinem ganzen Leben hat noch kein Frauenzimmer an
+            mich geschrieben.",118,205,character_speech,1,9,,Schnapps.,#schnapps,184.0,MALE,love,K,,1783.0,positive,emotions of affection
+557,557,GerDracor/heyne-die-beiden-billets.xml,"Nichts, nichts!",0,15,character_speech,1,9,,Rösgen.,#roesgen,185.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+558,558,GerDracor/heyne-die-beiden-billets.xml,"das sind kahle Ausflüchte: und mit Einem Worte, wenn Er 
+            haben will, daß ich Ihn für einen ehrlichen Mann halten soll: so muß er mir das Papier
+            zeigen – so muß er mirs in die Hand geben.",16,226,character_speech,1,9,,Rösgen.,#roesgen,185.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+559,559,GerDracor/heyne-die-beiden-billets.xml,"Meiner Treun, ich wollte, daß Sie meine Liebe auf derbere Probe stellte, hähähä.",0,80,character_speech,1,9,,Schnapps.,#schnapps,186.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+560,560,GerDracor/heyne-die-beiden-billets.xml,"Sie
+            wird die Augen ganz gewaltig aufsperren, hähähä, wenn Sie sieht, daß es weiter nichts,
+            als –",81,201,character_speech,1,9,,Schnapps.,#schnapps,186.0,MALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+561,561,GerDracor/heyne-die-beiden-billets.xml,(giebt ihr das Loos),0,20,stage_direction,1,9,inner_speech,,#schnapps,186.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+562,562,GerDracor/heyne-die-beiden-billets.xml," ein Lotterieloos ist, hähähä.",0,30,character_speech,1,9,,Schnapps.,#schnapps,186.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+563,563,GerDracor/heyne-die-beiden-billets.xml,(sieht es an und versteckt es.),0,31,stage_direction,1,9,inner_speech,,#roesgen,187.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+564,564,GerDracor/heyne-die-beiden-billets.xml," Nun hab’ ichs, nun hab’ ichs.",0,30,character_speech,1,9,,Rösgen,#roesgen,187.0,FEMALE,joy,K,,1783.0,positive,emotions of pleasure
+565,565,GerDracor/heyne-die-beiden-billets.xml,"– Weiß Er,
+            Mosge Schnapps, daß alleweile ein einfältiges Mädchen den Schurken aller Schurken
+            betrogen hat?",31,161,character_speech,1,9,,Rösgen,#roesgen,187.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+566,566,GerDracor/heyne-die-beiden-billets.xml,– Gürge!,162,170,character_speech,1,9,,Rösgen,#roesgen,187.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+567,567,GerDracor/heyne-die-beiden-billets.xml,Gürge!,171,177,character_speech,1,9,,Rösgen,#roesgen,187.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+568,568,GerDracor/heyne-die-beiden-billets.xml,Rösgen.,0,7,stage_direction,1,10,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+569,569,GerDracor/heyne-die-beiden-billets.xml,Schnapps.,8,17,stage_direction,1,10,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+570,570,GerDracor/heyne-die-beiden-billets.xml,Gürge.,18,24,stage_direction,1,10,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+571,571,GerDracor/heyne-die-beiden-billets.xml,Was giebt’s?,0,12,character_speech,1,10,,Gürge.,#guerge,188.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+572,572,GerDracor/heyne-die-beiden-billets.xml,was giebt’s?,13,25,character_speech,1,10,,Gürge.,#guerge,188.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+573,573,GerDracor/heyne-die-beiden-billets.xml,Hat er Dir was gestohlen?,26,51,character_speech,1,10,,Gürge.,#guerge,188.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+574,574,GerDracor/heyne-die-beiden-billets.xml,"Nein, lieber Gürge: aber ich habe was wieder, das er Dir gestohlen hat.",0,71,character_speech,1,10,,Rösgen.,#roesgen,189.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+575,575,GerDracor/heyne-die-beiden-billets.xml,"– Da ist dein
+            Loos, da!",72,107,character_speech,1,10,,Rösgen.,#roesgen,189.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+576,576,GerDracor/heyne-die-beiden-billets.xml,"– Du wirst mich doch noch nehmen, Gürge, da Du so ein reicher Kauz bist?",108,180,character_speech,1,10,,Rösgen.,#roesgen,189.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+577,577,GerDracor/heyne-die-beiden-billets.xml,"– Und
+            Ihm, Mosge Schnapps, wünsch’ ich alle Tage so einen guten Schacher als heute.",181,276,character_speech,1,10,,Rösgen.,#roesgen,189.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+578,578,GerDracor/heyne-die-beiden-billets.xml,"Nur muß Er
+            sich nicht wieder so übertölpeln laßen.",277,339,character_speech,1,10,,Rösgen.,#roesgen,189.0,FEMALE,anger,K,,1783.0,negative,emotions of rejection
+579,579,GerDracor/heyne-die-beiden-billets.xml,Der arme Teufel!,0,16,character_speech,1,10,,Gürge.,#guerge,190.0,MALE,compassion,K,,1783.0,negative,emotions of suffering and empathy
+580,580,GerDracor/heyne-die-beiden-billets.xml,er dauert mich.,17,32,character_speech,1,10,,Gürge.,#guerge,190.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+581,581,GerDracor/heyne-die-beiden-billets.xml,"– Hör’ Er, mein lieber Mosge Schnapps, wenn ich einmal
+            einen Reitknecht brauche, und es fehlt Ihm etwa; so meld’ Er sich getrost auf meinem
+            Rittergute.",33,208,character_speech,1,10,,Gürge.,#guerge,190.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+582,582,GerDracor/heyne-die-beiden-billets.xml,"Daß er uns die Pferde in die Schwemme ritte, und nicht wieder käme?",0,67,character_speech,1,10,,Rösgen.,#roesgen,191.0,FEMALE,suffering,K,,1783.0,negative,emotions of suffering and empathy
+583,583,GerDracor/heyne-die-beiden-billets.xml,"Nein, nein, Gürge,
+            das wollen wir beschlafen.",68,125,character_speech,1,10,,Rösgen.,#roesgen,191.0,FEMALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+584,584,GerDracor/heyne-die-beiden-billets.xml,(Beide ab.),0,11,stage_direction,1,10,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+585,585,GerDracor/heyne-die-beiden-billets.xml,Schnapps (allein.),0,18,stage_direction,1,11,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation
+586,586,GerDracor/heyne-die-beiden-billets.xml,Daraus will ich mir zweyerley ad notam nehmen.,0,46,character_speech,1,11,,Rösgen.,#schnapps,192.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+587,587,GerDracor/heyne-die-beiden-billets.xml,"Erstlich, es giebt kein
+            ärger Keßelflickervolk, als ein paar Liebesleute: und zweytens, es gelingen nicht alle
+            honette Pfiffe.",47,197,character_speech,1,11,,Rösgen.,#schnapps,192.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+588,588,GerDracor/heyne-die-beiden-billets.xml,Denn wo wollten sonst die Fußgänger vor lauter Equipagen hin?,198,259,character_speech,1,11,,Rösgen.,#schnapps,192.0,MALE,no_annotation,K,,1783.0,no_annotation,no_annotation
+589,589,GerDracor/heyne-die-beiden-billets.xml,(Der Vorhang fällt.),0,20,stage_direction,1,11,pre_speech,,,,,no_annotation,K,,1783.0,no_annotation,no_annotation

@@ -1,0 +1,734 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/kotzebue-maedchenfreundschaft.xml,"Madam Braun, (auf dem Catheder, giebt Unterricht und ist von allen ihren Pensionairs
+          umgeben; die wenigsten derselben haben Acht auf die Lection; sie plaudern, sie necken
+          sich, u. s.",0,202,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+1,1,GerDracor/kotzebue-maedchenfreundschaft.xml,w.),203,206,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2,2,GerDracor/kotzebue-maedchenfreundschaft.xml,"Still, Kinder!",0,14,character_speech,1,1,,Madam Braun.,#madam_braun,1.0,FEMALE,anger,negative,emotions of rejection
+3,3,GerDracor/kotzebue-maedchenfreundschaft.xml,still!,15,21,character_speech,1,1,,Madam Braun.,#madam_braun,1.0,FEMALE,anger,negative,emotions of rejection
+4,4,GerDracor/kotzebue-maedchenfreundschaft.xml,Man kann ja sein eigenes Wort nicht hören.,22,64,character_speech,1,1,,Madam Braun.,#madam_braun,1.0,FEMALE,anger,negative,emotions of rejection
+5,5,GerDracor/kotzebue-maedchenfreundschaft.xml,"Mamsell Lenore, Sie
+            sind die älteste, Sie sollten mit guten Beyspiel vorgehn.",65,154,character_speech,1,1,,Madam Braun.,#madam_braun,1.0,FEMALE,no_annotation,no_annotation,no_annotation
+6,6,GerDracor/kotzebue-maedchenfreundschaft.xml,Wir haben alles gehört.,0,23,character_speech,1,1,,Lenore.,#lenore,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+7,7,GerDracor/kotzebue-maedchenfreundschaft.xml,Nun?,0,4,character_speech,1,1,,M. Braun.,#madam_braun,3.0,FEMALE,no_annotation,no_annotation,no_annotation
+8,8,GerDracor/kotzebue-maedchenfreundschaft.xml,wovon hab’ ich zuletzt gesprochen?,5,39,character_speech,1,1,,M. Braun.,#madam_braun,3.0,FEMALE,no_annotation,no_annotation,no_annotation
+9,9,GerDracor/kotzebue-maedchenfreundschaft.xml,Von der spanischen Poesie.,0,26,character_speech,1,1,,Len.,#lenore,4.0,FEMALE,no_annotation,no_annotation,no_annotation
+10,10,GerDracor/kotzebue-maedchenfreundschaft.xml,Da haben wir’s!,0,15,character_speech,1,1,,M. Braun.,#madam_braun,5.0,FEMALE,Schadenfreude,positive,emotions of pleasure
+11,11,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich war schon längst bey der griechischen!,16,58,character_speech,1,1,,M. Braun.,#madam_braun,5.0,FEMALE,no_annotation,no_annotation,no_annotation
+12,12,GerDracor/kotzebue-maedchenfreundschaft.xml,He!,59,62,character_speech,1,1,,M. Braun.,#madam_braun,5.0,FEMALE,no_annotation,no_annotation,no_annotation
+13,13,GerDracor/kotzebue-maedchenfreundschaft.xml,"wer weiß mir zu sagen,
+            wovon zuletzt die Rede war?",63,125,character_speech,1,1,,M. Braun.,#madam_braun,5.0,FEMALE,no_annotation,no_annotation,no_annotation
+14,14,GerDracor/kotzebue-maedchenfreundschaft.xml,Von der Naturgeschichte.,0,24,character_speech,1,1,,Nat.,#natalie,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+15,15,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ja, von den Thieren, die den Moschus in einem Beutel tragen.",0,60,character_speech,1,1,,Wilh.,#wilhelmine,7.0,FEMALE,no_annotation,no_annotation,no_annotation
+16,16,GerDracor/kotzebue-maedchenfreundschaft.xml,O leichtsinnige Jugend!,0,23,character_speech,1,1,,M. Braun.,#madam_braun,8.0,FEMALE,abhorrence,negative,emotions of rejection
+17,17,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich sprach freylich von Moschus, aber von einen Idyllendichter,
+            der vor 2000 Jahren in Syrakus lebte.",24,137,character_speech,1,1,,M. Braun.,#madam_braun,8.0,FEMALE,no_annotation,no_annotation,no_annotation
+18,18,GerDracor/kotzebue-maedchenfreundschaft.xml,Kinder!,138,145,character_speech,1,1,,M. Braun.,#madam_braun,8.0,FEMALE,anger,negative,emotions of rejection
+19,19,GerDracor/kotzebue-maedchenfreundschaft.xml,Kinder!,146,153,character_speech,1,1,,M. Braun.,#madam_braun,8.0,FEMALE,anger,negative,emotions of rejection
+20,20,GerDracor/kotzebue-maedchenfreundschaft.xml,"wenn Ihr nicht mit Ernst
+            dergleichen wichtige Dinge zu erlangen strebt, wie wollt Ihr denn einst liebenswürdige
+            Gattinnen werden?",154,307,character_speech,1,1,,M. Braun.,#madam_braun,8.0,FEMALE,no_annotation,no_annotation,no_annotation
+21,21,GerDracor/kotzebue-maedchenfreundschaft.xml,"– Ihr tanzt, Ihr singt, Ihr spielt auf der Guitarre, das ist alles
+            recht gut, und gehört allerdings zur häuslichen Zufriedenheit; aber um Eure Männer ganz
+            zu beglücken, müßt Ihr auch wissen wer Moschus war, und müßt gleich ihm, süße Verse
+            dichten lernen.",308,598,character_speech,1,1,,M. Braun.,#madam_braun,8.0,FEMALE,no_annotation,no_annotation,no_annotation
+22,22,GerDracor/kotzebue-maedchenfreundschaft.xml,Hab’ ich nicht am Sonnabend ein Liedchen auf meinen Dompfaffen gemacht?,0,71,character_speech,1,1,,Lenore.,#lenore,9.0,FEMALE,no_annotation,no_annotation,no_annotation
+23,23,GerDracor/kotzebue-maedchenfreundschaft.xml,Ja die Gedanken waren ganz artig aber die Reime noch so à la Gellert.,0,69,character_speech,1,1,,M. Braun.,#madam_braun,10.0,FEMALE,no_annotation,no_annotation,no_annotation
+24,24,GerDracor/kotzebue-maedchenfreundschaft.xml,Heutzutage verlangt ein Ehemann –,82,115,character_speech,1,1,,M. Braun.,#madam_braun,10.0,FEMALE,no_annotation,no_annotation,no_annotation
+25,25,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ey was kümert es uns, was ein Ehemann verlangt?",0,47,character_speech,1,1,,Nat.,#natalie,11.0,FEMALE,being moved,being moved,being moved
+26,26,GerDracor/kotzebue-maedchenfreundschaft.xml,Wir drey heurathen doch nie!,48,76,character_speech,1,1,,Nat.,#natalie,11.0,FEMALE,suffering,negative,emotions of suffering and empathy
+27,27,GerDracor/kotzebue-maedchenfreundschaft.xml,Alberner Schnack!,0,17,character_speech,1,1,,M. Braun.,#madam_braun,12.0,FEMALE,no_annotation,no_annotation,no_annotation
+28,28,GerDracor/kotzebue-maedchenfreundschaft.xml,Lenore ist ja schon Braut.,18,44,character_speech,1,1,,M. Braun.,#madam_braun,12.0,FEMALE,no_annotation,no_annotation,no_annotation
+29,29,GerDracor/kotzebue-maedchenfreundschaft.xml,Bewahre der Himmel!,0,19,character_speech,1,1,,Len.,#lenore,13.0,FEMALE,no_annotation,no_annotation,no_annotation
+30,30,GerDracor/kotzebue-maedchenfreundschaft.xml,"Oncles und Tanten mögen das wohl untereinander so aus gemacht
+            haben, aber ich thue es nicht.",20,124,character_speech,1,1,,Len.,#lenore,13.0,FEMALE,no_annotation,no_annotation,no_annotation
+31,31,GerDracor/kotzebue-maedchenfreundschaft.xml,Da müßte ich mich ja von meinen Freundinnen trennen?,125,177,character_speech,1,1,,Len.,#lenore,13.0,FEMALE,being moved,being moved,being moved
+32,32,GerDracor/kotzebue-maedchenfreundschaft.xml,"–
+            Das geschieht nimmermehr.",178,217,character_speech,1,1,,Len.,#lenore,13.0,FEMALE,no_annotation,no_annotation,no_annotation
+33,33,GerDracor/kotzebue-maedchenfreundschaft.xml,"Nein, Madam Braun, das thut keine von uns.",0,42,character_speech,1,1,,Nat.,#natalie,14.0,FEMALE,no_annotation,no_annotation,no_annotation
+34,34,GerDracor/kotzebue-maedchenfreundschaft.xml,Eher sagen wir Nein am Altare.,43,73,character_speech,1,1,,Nat.,#natalie,14.0,FEMALE,love,positive,emotions of affection
+35,35,GerDracor/kotzebue-maedchenfreundschaft.xml,"Nun, nun, das wird sich schon finden.",0,37,character_speech,1,1,,M. Braun.,#madam_braun,15.0,FEMALE,no_annotation,no_annotation,no_annotation
+36,36,GerDracor/kotzebue-maedchenfreundschaft.xml,"Jetzt wieder auf den Idyllendichter Moschus zu
+            kommen –",38,105,character_speech,1,1,,M. Braun.,#madam_braun,15.0,FEMALE,no_annotation,no_annotation,no_annotation
+37,37,GerDracor/kotzebue-maedchenfreundschaft.xml,(man hört eine Uhr drey schlagen),0,33,stage_direction,1,1,inner_speech,,#madam_braun,15.0,FEMALE,no_annotation,no_annotation,no_annotation
+38,38,GerDracor/kotzebue-maedchenfreundschaft.xml,(indem sie die Bücher wegwerfen und davon laufen.),0,50,stage_direction,1,1,speech_part,,#alle_pensionairs,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+39,39,GerDracor/kotzebue-maedchenfreundschaft.xml,Es hat drey geschlagen!,0,23,character_speech,1,1,,Alle Pensionairs.,#alle_pensionairs,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+40,40,GerDracor/kotzebue-maedchenfreundschaft.xml,es hat drey geschlagen!,24,47,character_speech,1,1,,Alle Pensionairs.,#alle_pensionairs,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+41,41,GerDracor/kotzebue-maedchenfreundschaft.xml,(allein.),0,9,stage_direction,1,1,speech_part,,#madam_braun,17.0,FEMALE,no_annotation,no_annotation,no_annotation
+42,42,GerDracor/kotzebue-maedchenfreundschaft.xml,Prrr!,0,5,character_speech,1,1,,M. Braun.,#madam_braun,17.0,FEMALE,no_annotation,no_annotation,no_annotation
+43,43,GerDracor/kotzebue-maedchenfreundschaft.xml,"Das kann die Zeit nicht erwarten, bis die gymnastischen Uebungen anfangen.",6,80,character_speech,1,1,,M. Braun.,#madam_braun,17.0,FEMALE,no_annotation,no_annotation,no_annotation
+44,44,GerDracor/kotzebue-maedchenfreundschaft.xml,Maulwurf (ein wenig betrunken.),0,31,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+45,45,GerDracor/kotzebue-maedchenfreundschaft.xml,Madam Braun.,32,44,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+46,46,GerDracor/kotzebue-maedchenfreundschaft.xml,"Madam aus dem Rasenplatz vor der Gartenthür kann nichts vernünftiges werden; denn wenn
+            das junge Volk so mit einenmahle aus der Schule stürzt wie jetzt eben, da fallen sie
+            drauf wie die Heuschrecken, und tanzen mir das junge Gras gleich zu Schanden.",0,273,character_speech,1,2,,Maulw.,#maulwurf,18.0,MALE,suffering,negative,emotions of suffering and empathy
+47,47,GerDracor/kotzebue-maedchenfreundschaft.xml,"Kinder müssen froh seyn, hüpfen, springen.",0,42,character_speech,1,2,,M. Braun.,#madam_braun,19.0,FEMALE,joy,positive,emotions of pleasure
+48,48,GerDracor/kotzebue-maedchenfreundschaft.xml,Freylich; aber die Mamsellchens hier im Hause tanzen gar nicht wie andere Kinder.,0,81,character_speech,1,2,,Maulw.,#maulwurf,20.0,MALE,no_annotation,no_annotation,no_annotation
+49,49,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sie
+            falten die Hände über den Kopf, und strecken die Beine bald vorne bald hinten hinaus und
+            machen mit den Halstüchern so kuriose Posituren, daß ich meinen Gärtnerburschen nur
+            immer weit weg schicke.",82,318,character_speech,1,2,,Maulw.,#maulwurf,20.0,MALE,abhorrence,negative,emotions of rejection
+50,50,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sie lernen Ballet tanzen, wie es jetzt unter sittsamen jungen Frauenzimmern Mode
+            ist.",0,97,character_speech,1,2,,M. Braun.,#madam_braun,21.0,FEMALE,no_annotation,no_annotation,no_annotation
+51,51,GerDracor/kotzebue-maedchenfreundschaft.xml,Meinetwegen!,0,12,character_speech,1,2,,Maulw.,#maulwurf,22.0,MALE,no_annotation,no_annotation,no_annotation
+52,52,GerDracor/kotzebue-maedchenfreundschaft.xml,Da hab’ ich auch im Gartenhause ein Buch versteckt gefunden.,13,73,character_speech,1,2,,Maulw.,#maulwurf,22.0,MALE,no_annotation,no_annotation,no_annotation
+53,53,GerDracor/kotzebue-maedchenfreundschaft.xml,Laß sehen.,0,10,character_speech,1,2,,M. Braun.,#madam_braun,23.0,FEMALE,no_annotation,no_annotation,no_annotation
+54,54,GerDracor/kotzebue-maedchenfreundschaft.xml,(Sie sieht den Titel an.),0,25,stage_direction,1,2,inner_speech,,#madam_braun,23.0,FEMALE,no_annotation,no_annotation,no_annotation
+55,55,GerDracor/kotzebue-maedchenfreundschaft.xml, Lucinde.,0,9,character_speech,1,2,,M. Braun.,#madam_braun,23.0,FEMALE,no_annotation,no_annotation,no_annotation
+56,56,GerDracor/kotzebue-maedchenfreundschaft.xml,"O das hat nichts zu sagen,
+            das ist ein Buch, in welchem sich die höhere Poesie mit der Religion der Liebe vermählt.",10,137,character_speech,1,2,,M. Braun.,#madam_braun,23.0,FEMALE,no_annotation,no_annotation,no_annotation
+57,57,GerDracor/kotzebue-maedchenfreundschaft.xml,"Leg es nur wieder dahin, wo du es gefunden hast.",150,198,character_speech,1,2,,M. Braun.,#madam_braun,23.0,FEMALE,no_annotation,no_annotation,no_annotation
+58,58,GerDracor/kotzebue-maedchenfreundschaft.xml,Sehr wohl.,0,10,character_speech,1,2,,Maulw.,#maulwurf,24.0,MALE,no_annotation,no_annotation,no_annotation
+59,59,GerDracor/kotzebue-maedchenfreundschaft.xml,"Draußen steht aber auch ein junger Herr, der gern herein möchte, und der mir
+            noch gefährlicher aussieht als ein Buch.",11,140,character_speech,1,2,,Maulw.,#maulwurf,24.0,MALE,fear,negative,emotions of anxiety
+60,60,GerDracor/kotzebue-maedchenfreundschaft.xml,Wie heißt er?,0,13,character_speech,1,2,,M. Braun.,#madam_braun,25.0,FEMALE,no_annotation,no_annotation,no_annotation
+61,61,GerDracor/kotzebue-maedchenfreundschaft.xml,Ja Gott weiß!,0,13,character_speech,1,2,,Maulw.,#maulwurf,26.0,MALE,no_annotation,no_annotation,no_annotation
+62,62,GerDracor/kotzebue-maedchenfreundschaft.xml,"Er nannte sich Rose; das that er aber wohl nur mir zu gefallen, weil er
+            sah, daß ich der Gärtner bin.",14,127,character_speech,1,2,,Maulw.,#maulwurf,26.0,MALE,no_annotation,no_annotation,no_annotation
+63,63,GerDracor/kotzebue-maedchenfreundschaft.xml,"Nein, nein, ich kenne ihn.",0,26,character_speech,1,2,,M. Braun.,#madam_braun,27.0,FEMALE,no_annotation,no_annotation,no_annotation
+64,64,GerDracor/kotzebue-maedchenfreundschaft.xml,Es ist des Lenorens bestimmter Bräutigam.,27,68,character_speech,1,2,,M. Braun.,#madam_braun,27.0,FEMALE,no_annotation,no_annotation,no_annotation
+65,65,GerDracor/kotzebue-maedchenfreundschaft.xml,"Las’ ihn
+            kommen.",69,97,character_speech,1,2,,M. Braun.,#madam_braun,27.0,FEMALE,no_annotation,no_annotation,no_annotation
+66,66,GerDracor/kotzebue-maedchenfreundschaft.xml,In Gottes Nahmen.,0,17,character_speech,1,2,,Maulw.,#maulwurf,28.0,MALE,"admiration, reverence",positive,emotions of affection
+67,67,GerDracor/kotzebue-maedchenfreundschaft.xml,Bleib in der Nähe wenn ich dich brauche.,0,40,character_speech,1,2,,M. Braun.,#madam_braun,29.0,FEMALE,fear,negative,emotions of anxiety
+68,68,GerDracor/kotzebue-maedchenfreundschaft.xml,(Maulwurf ab.),0,14,stage_direction,1,2,inner_speech,,#madam_braun,29.0,FEMALE,no_annotation,no_annotation,no_annotation
+69,69,GerDracor/kotzebue-maedchenfreundschaft.xml,(allein),0,8,stage_direction,1,2,speech_part,,#madam_braun,30.0,FEMALE,no_annotation,no_annotation,no_annotation
+70,70,GerDracor/kotzebue-maedchenfreundschaft.xml,"Er wird erstaunen, wenn er sieht wie schön sie tanzt.",0,53,character_speech,1,2,,M. Braun.,#madam_braun,30.0,FEMALE,joy,positive,emotions of pleasure
+71,71,GerDracor/kotzebue-maedchenfreundschaft.xml,"Da liegt auch eine Zeichnung von
+            ihr, ein nackender Apoll, der gewiß nichts zu wünschen übrig läßt.",54,165,character_speech,1,2,,M. Braun.,#madam_braun,30.0,FEMALE,"admiration, reverence",positive,emotions of affection
+72,72,GerDracor/kotzebue-maedchenfreundschaft.xml,"(Sie findet
+              einen Strickstrumpf, den sie verbirgt)",0,64,stage_direction,1,2,inner_speech,,#madam_braun,30.0,FEMALE,no_annotation,no_annotation,no_annotation
+73,73,GerDracor/kotzebue-maedchenfreundschaft.xml," Nur ihren Strickstrumpf müssen wir bey
+            Seite thun, denn da sieht es übel aus.",0,90,character_speech,1,2,,M. Braun.,#madam_braun,30.0,FEMALE,fear,negative,emotions of anxiety
+74,74,GerDracor/kotzebue-maedchenfreundschaft.xml,Rose.,0,5,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+75,75,GerDracor/kotzebue-maedchenfreundschaft.xml,Madame Braun.,6,19,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+76,76,GerDracor/kotzebue-maedchenfreundschaft.xml,(überbringt ihr einen Brief),0,28,stage_direction,1,3,speech_part,,#rose,31.0,MALE,no_annotation,no_annotation,no_annotation
+77,77,GerDracor/kotzebue-maedchenfreundschaft.xml,"Madam dieses Schreiben von Lenorens Oheim wird Ihnen  sagen, wer ich bin,
+            und mit welchen süßen Erwartungen ich hieher komme.",0,137,character_speech,1,3,,Rose.,#rose,31.0,MALE,joy,positive,emotions of pleasure
+78,78,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich freue mich die Bekanntschaft eines so gebildeten jungen Mannes zu machen, obgleich
+            er kommt mir eine meiner liebenswürdigsten Zöglinge zu entführen.",0,164,character_speech,1,3,,M. Braun.,#madam_braun,32.0,FEMALE,joy,positive,emotions of pleasure
+79,79,GerDracor/kotzebue-maedchenfreundschaft.xml,Meine Familie bestimmt mir Lenoren zur Braut.,0,45,character_speech,1,3,,Rose.,#rose,33.0,MALE,no_annotation,no_annotation,no_annotation
+80,80,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich kenne sie noch nicht, aber da sie
+            ihrer Erziehung anvertraut war –",46,128,character_speech,1,3,,Rose.,#rose,33.0,MALE,no_annotation,no_annotation,no_annotation
+81,81,GerDracor/kotzebue-maedchenfreundschaft.xml,Allzu gütig.,0,12,character_speech,1,3,,M. Braun.,#madam_braun,34.0,FEMALE,no_annotation,no_annotation,no_annotation
+82,82,GerDracor/kotzebue-maedchenfreundschaft.xml,Einen kleinen Schrecken hat mir der Oheim dennoch eingejagt.,0,60,character_speech,1,3,,Rose.,#rose,35.0,MALE,fear,negative,emotions of anxiety
+83,83,GerDracor/kotzebue-maedchenfreundschaft.xml,Wie so?,0,7,character_speech,1,3,,M. Braun.,#madam_braun,36.0,FEMALE,no_annotation,no_annotation,no_annotation
+84,84,GerDracor/kotzebue-maedchenfreundschaft.xml,"Er sagte mir, Lenore habe einen unüberwindlichen Widerwillen gegen das Heurathen.",0,81,character_speech,1,3,,Rose.,#rose,37.0,MALE,abhorrence,negative,emotions of rejection
+85,85,GerDracor/kotzebue-maedchenfreundschaft.xml,Kinderey.,0,9,character_speech,1,3,,M. Braun.,#madam_braun,38.0,FEMALE,no_annotation,no_annotation,no_annotation
+86,86,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sie hat mit zwey jungen Mädchen ihres Alters eine felsenfeste, ewige
+            Freundschaft errichtet.",10,114,character_speech,1,3,,M. Braun.,#madam_braun,38.0,FEMALE,friendship,positive,emotions of affection
+87,87,GerDracor/kotzebue-maedchenfreundschaft.xml,"Alle drey sind schwärmerisch gleichsam in einander verliebt, hat
+            die Eine einen Fehler begangen, so nehmen die andern beyden die Strafe auf sich.",115,272,character_speech,1,3,,M. Braun.,#madam_braun,38.0,FEMALE,love,positive,emotions of affection
+88,88,GerDracor/kotzebue-maedchenfreundschaft.xml,"Alles
+            theilen sie schwesterlich, keine kann vergnügt seyn ohne die andere.",273,359,character_speech,1,3,,M. Braun.,#madam_braun,38.0,FEMALE,joy,positive,emotions of pleasure
+89,89,GerDracor/kotzebue-maedchenfreundschaft.xml,Und diese zarten Freundschaftsbande soll ich zerreißen?,0,55,character_speech,1,3,,Rose.,#rose,39.0,MALE,friendship,positive,emotions of affection
+90,90,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich habe sie freylich schon auf eine nahe Trennung vorbereiten wollen, man hat mir nur
+            durch Thränenströme geantwortet; – aber Ihre Gegenwart –",0,155,character_speech,1,3,,M. Braun.,#madam_braun,40.0,FEMALE,suffering,negative,emotions of suffering and empathy
+91,91,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wenn es weiter nichts ist, als Mädchenfreundschaft, die kenne ich, und fürchte sie
+            nicht.",0,101,character_speech,1,3,,Rose.,#rose,41.0,MALE,fear,negative,emotions of anxiety
+92,92,GerDracor/kotzebue-maedchenfreundschaft.xml,Maulwurf!,0,9,character_speech,1,3,,M. Braun.,#madam_braun,42.0,FEMALE,anger,negative,emotions of rejection
+93,93,GerDracor/kotzebue-maedchenfreundschaft.xml,geh und rufe Lenoren hieher.,10,38,character_speech,1,3,,M. Braun.,#madam_braun,42.0,FEMALE,no_annotation,no_annotation,no_annotation
+94,94,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sag ihr aber nichts von diesen jungen Herrn,
+            sonst kommt sie nicht.",39,118,character_speech,1,3,,M. Braun.,#madam_braun,42.0,FEMALE,no_annotation,no_annotation,no_annotation
+95,95,GerDracor/kotzebue-maedchenfreundschaft.xml,Sie steht da draußen und redet mit der Pfirsichblüthe,0,53,character_speech,1,3,,Maulw.,#maulwurf,43.0,MALE,no_annotation,no_annotation,no_annotation
+96,96,GerDracor/kotzebue-maedchenfreundschaft.xml,"(indem er
+              fortstolpert)",0,37,stage_direction,1,3,inner_speech,,#maulwurf,43.0,MALE,no_annotation,no_annotation,no_annotation
+97,97,GerDracor/kotzebue-maedchenfreundschaft.xml, Mamsell Lenore!,0,16,character_speech,1,3,,Maulw.,#maulwurf,43.0,MALE,being moved,being moved,being moved
+98,98,GerDracor/kotzebue-maedchenfreundschaft.xml,Mamsell Lenore!,17,32,character_speech,1,3,,Maulw.,#maulwurf,43.0,MALE,being moved,being moved,being moved
+99,99,GerDracor/kotzebue-maedchenfreundschaft.xml,Kommen Sie geschwind!,33,54,character_speech,1,3,,Maulw.,#maulwurf,43.0,MALE,being moved,being moved,being moved
+100,100,GerDracor/kotzebue-maedchenfreundschaft.xml,"da ist ein
+            junger Herr, der Sie heurathen will!",55,114,character_speech,1,3,,Maulw.,#maulwurf,43.0,MALE,compassion,negative,emotions of suffering and empathy
+101,101,GerDracor/kotzebue-maedchenfreundschaft.xml,Tölpel!,0,7,character_speech,1,3,,M. Braun.,#madam_braun,44.0,FEMALE,anger,negative,emotions of rejection
+102,102,GerDracor/kotzebue-maedchenfreundschaft.xml,(zu Rose),0,9,stage_direction,1,3,inner_speech,,#madam_braun,44.0,FEMALE,no_annotation,no_annotation,no_annotation
+103,103,GerDracor/kotzebue-maedchenfreundschaft.xml," Ich hoffe mein Herr, Sie werden sowohl durch Gestalt
+            als Geistesbildung Ihrer Braut sehr angenehm überrascht werden.",0,129,character_speech,1,3,,M. Braun.,#madam_braun,44.0,FEMALE,no_annotation,no_annotation,no_annotation
+104,104,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich habe ohne Ruhm zu
+            melden nichts verabsäumt, um das häusliche Glück eines braven Gatten zu gründen.",130,244,character_speech,1,3,,M. Braun.,#madam_braun,44.0,FEMALE,no_annotation,no_annotation,no_annotation
+105,105,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich
+            darf sogar versichern, daß sie an jeden ihrer Geburtstage Sie mit einem selbst
+            verfertigten Gedicht erfreuen wird.",245,387,character_speech,1,3,,M. Braun.,#madam_braun,44.0,FEMALE,joy,positive,emotions of pleasure
+106,106,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich werde mir alle Mühe geben, unser Glück aus der Dichterwelt in die wirkliche zu
+            versetzen.",0,105,character_speech,1,3,,Rose.,#rose,45.0,MALE,no_annotation,no_annotation,no_annotation
+107,107,GerDracor/kotzebue-maedchenfreundschaft.xml,(kommt zurück),0,14,stage_direction,1,3,speech_part,,#maulwurf,46.0,MALE,no_annotation,no_annotation,no_annotation
+108,108,GerDracor/kotzebue-maedchenfreundschaft.xml,Der Henker mag sie einholen.,0,28,character_speech,1,3,,Maulw.,#maulwurf,46.0,MALE,no_annotation,no_annotation,no_annotation
+109,109,GerDracor/kotzebue-maedchenfreundschaft.xml,"Als sie vom Heurathen hörte, da rannte sie fort, als
+            hätten die Wespen sie gestochen.",29,126,character_speech,1,3,,Maulw.,#maulwurf,46.0,MALE,fear,negative,emotions of anxiety
+110,110,GerDracor/kotzebue-maedchenfreundschaft.xml,"Mein Freund, du bist ein Esel.",0,30,character_speech,1,3,,M. Braun.,#madam_braun,47.0,FEMALE,no_annotation,no_annotation,no_annotation
+111,111,GerDracor/kotzebue-maedchenfreundschaft.xml,"Geh und sag ihr, der junge Herr sey fort, ich wolle sie
+            sprechen.",31,108,character_speech,1,3,,M. Braun.,#madam_braun,47.0,FEMALE,no_annotation,no_annotation,no_annotation
+112,112,GerDracor/kotzebue-maedchenfreundschaft.xml,(forttaumelnd),0,14,stage_direction,1,3,speech_part,,#maulwurf,48.0,MALE,being moved,being moved,being moved
+113,113,GerDracor/kotzebue-maedchenfreundschaft.xml,Kurios!,0,7,character_speech,1,3,,Maulw.,#maulwurf,48.0,MALE,being moved,being moved,being moved
+114,114,GerDracor/kotzebue-maedchenfreundschaft.xml,"sich so vor dem Heurathen zu fürchten, als ob Lebensgefahr dabey wäre.",8,78,character_speech,1,3,,Maulw.,#maulwurf,48.0,MALE,fear,negative,emotions of anxiety
+115,115,GerDracor/kotzebue-maedchenfreundschaft.xml,(zu Rose),0,9,stage_direction,1,3,speech_part,,#madam_braun,49.0,FEMALE,no_annotation,no_annotation,no_annotation
+116,116,GerDracor/kotzebue-maedchenfreundschaft.xml,Gehen Sie unterdessen  in dieses Nebenzimmer.,0,45,character_speech,1,3,,M. Braun,#madam_braun,49.0,FEMALE,no_annotation,no_annotation,no_annotation
+117,117,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich werde ihr das Köpfchen
+            zurecht setzen.",46,100,character_speech,1,3,,M. Braun,#madam_braun,49.0,FEMALE,no_annotation,no_annotation,no_annotation
+118,118,GerDracor/kotzebue-maedchenfreundschaft.xml,Und dann werde ich mit dem Herzchen mein Heil versuchen.,0,56,character_speech,1,3,,Rose.,#rose,50.0,MALE,love,positive,emotions of affection
+119,119,GerDracor/kotzebue-maedchenfreundschaft.xml,(ab),0,4,stage_direction,1,3,inner_speech,,#rose,50.0,MALE,no_annotation,no_annotation,no_annotation
+120,120,GerDracor/kotzebue-maedchenfreundschaft.xml,(allein),0,8,stage_direction,1,3,speech_part,,#madam_braun,51.0,FEMALE,no_annotation,no_annotation,no_annotation
+121,121,GerDracor/kotzebue-maedchenfreundschaft.xml,Halsstärriges Mädchen!,0,22,character_speech,1,3,,M. Braun,#madam_braun,51.0,FEMALE,anger,negative,emotions of rejection
+122,122,GerDracor/kotzebue-maedchenfreundschaft.xml,"hundertmal hab’ ich ihr gesagt, daß die Freundschaft in der
+            großen Welt eine lächerliche Schwärmerey ist.",23,140,character_speech,1,3,,M. Braun,#madam_braun,51.0,FEMALE,friendship,positive,emotions of affection
+123,123,GerDracor/kotzebue-maedchenfreundschaft.xml,"Man sieht sich gern so lange man sich die
+            Zeit vertreibt, man hört auf sich zu sehen, wenn andere Verhältnisse eintreten.",141,274,character_speech,1,3,,M. Braun,#madam_braun,51.0,FEMALE,no_annotation,no_annotation,no_annotation
+124,124,GerDracor/kotzebue-maedchenfreundschaft.xml,Lenore kommt schüchtern.,0,24,stage_direction,1,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+125,125,GerDracor/kotzebue-maedchenfreundschaft.xml,Natalie und Wilhelmine folgen ihr von Ferne.,25,69,stage_direction,1,4,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+126,126,GerDracor/kotzebue-maedchenfreundschaft.xml,Nun?,0,4,character_speech,1,4,,M. Braun.,#madam_braun,52.0,FEMALE,no_annotation,no_annotation,no_annotation
+127,127,GerDracor/kotzebue-maedchenfreundschaft.xml,"warum so schüchtern, Nur näher, Mamsell!",5,45,character_speech,1,4,,M. Braun.,#madam_braun,52.0,FEMALE,no_annotation,no_annotation,no_annotation
+128,128,GerDracor/kotzebue-maedchenfreundschaft.xml,Der alte Maulwurf hat mich so erschreckt.,0,41,character_speech,1,4,,Len.,#lenore,53.0,FEMALE,fear,negative,emotions of anxiety
+129,129,GerDracor/kotzebue-maedchenfreundschaft.xml,"Es brachte mir jemand einen Brief von Ihrem Oheim, der Sie durchaus verheurathen
+            will.",0,98,character_speech,1,4,,M. Braun.,#madam_braun,54.0,FEMALE,no_annotation,no_annotation,no_annotation
+130,130,GerDracor/kotzebue-maedchenfreundschaft.xml,"Dacht’ ichs doch, Sie würden mir Kummer machen.",0,47,character_speech,1,4,,Len.,#lenore,55.0,FEMALE,suffering,negative,emotions of suffering and empathy
+131,131,GerDracor/kotzebue-maedchenfreundschaft.xml,"Antworten Sie meinen Oheim, eher wollt’
+            ich ins Wasser springen.",48,124,character_speech,1,4,,Len.,#lenore,55.0,FEMALE,no_annotation,no_annotation,no_annotation
+132,132,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sie wissen doch, daß Sie Ihren Oheim Ihren ganzen Wohlstand verdanken?",0,70,character_speech,1,4,,M. Braun.,#madam_braun,56.0,FEMALE,no_annotation,no_annotation,no_annotation
+133,133,GerDracor/kotzebue-maedchenfreundschaft.xml,"Das weiß ich, und erkenne es dankbar.",0,37,character_speech,1,4,,Len.,#lenore,57.0,FEMALE,joy,positive,emotions of pleasure
+134,134,GerDracor/kotzebue-maedchenfreundschaft.xml,Wenn er Sie nun aber enterbt?,0,29,character_speech,1,4,,M. Braun.,#madam_braun,58.0,FEMALE,no_annotation,no_annotation,no_annotation
+135,135,GerDracor/kotzebue-maedchenfreundschaft.xml,Was wollen Sie anfangen?,31,55,character_speech,1,4,,M. Braun.,#madam_braun,58.0,FEMALE,no_annotation,no_annotation,no_annotation
+136,136,GerDracor/kotzebue-maedchenfreundschaft.xml,"Bey wem eine
+            Zuflucht finden?",56,97,character_speech,1,4,,M. Braun.,#madam_braun,58.0,FEMALE,no_annotation,no_annotation,no_annotation
+137,137,GerDracor/kotzebue-maedchenfreundschaft.xml,O ich habe zwey Freundinnen –,0,29,character_speech,1,4,,Len.,#lenore,59.0,FEMALE,friendship,positive,emotions of affection
+138,138,GerDracor/kotzebue-maedchenfreundschaft.xml,Die sich auch verheurathen werden.,0,34,character_speech,1,4,,M. Braun.,#madam_braun,60.0,FEMALE,no_annotation,no_annotation,no_annotation
+139,139,GerDracor/kotzebue-maedchenfreundschaft.xml,Nimmermehr!,0,11,character_speech,1,4,,Len.,#lenore,61.0,FEMALE,suffering,negative,emotions of suffering and empathy
+140,140,GerDracor/kotzebue-maedchenfreundschaft.xml,Wir haben einander feyerlich zugeschworen –,12,55,character_speech,1,4,,Len.,#lenore,61.0,FEMALE,love,positive,emotions of affection
+141,141,GerDracor/kotzebue-maedchenfreundschaft.xml,Kinderey.,0,9,character_speech,1,4,,M. Braun.,#madam_braun,62.0,FEMALE,no_annotation,no_annotation,no_annotation
+142,142,GerDracor/kotzebue-maedchenfreundschaft.xml,Sehr wohl.,0,10,character_speech,1,4,,Len.,#lenore,63.0,FEMALE,no_annotation,no_annotation,no_annotation
+143,143,GerDracor/kotzebue-maedchenfreundschaft.xml,"Bin ich noch ein Kind, so kann ich auch nicht heurathen, und bin ich kein
+            Kind mehr, so darf ich meinen Eid nicht brechen.",11,145,character_speech,1,4,,Len.,#lenore,63.0,FEMALE,no_annotation,no_annotation,no_annotation
+144,144,GerDracor/kotzebue-maedchenfreundschaft.xml,Genug der Albernheiten.,0,23,character_speech,1,4,,M. Braun.,#madam_braun,64.0,FEMALE,no_annotation,no_annotation,no_annotation
+145,145,GerDracor/kotzebue-maedchenfreundschaft.xml,"Jetzt im Ernste Mamsel, Sie werden heurathen.",24,69,character_speech,1,4,,M. Braun.,#madam_braun,64.0,FEMALE,compassion,negative,emotions of suffering and empathy
+146,146,GerDracor/kotzebue-maedchenfreundschaft.xml,Lieber sterben!,0,15,character_speech,1,4,,Len.,#lenore,65.0,FEMALE,despair,negative,emotions of anxiety
+147,147,GerDracor/kotzebue-maedchenfreundschaft.xml,"So muß ich Sie binnen drey Tagen Ihrem Oheim zurückschicken, und dann werden Sie doch
+            von ihren Freundinnen getrennt.",0,129,character_speech,1,4,,M. Braun.,#madam_braun,66.0,FEMALE,no_annotation,no_annotation,no_annotation
+148,148,GerDracor/kotzebue-maedchenfreundschaft.xml,(Sie geht ab.),0,14,stage_direction,1,4,inner_speech,,#madam_braun,66.0,FEMALE,no_annotation,no_annotation,no_annotation
+149,149,GerDracor/kotzebue-maedchenfreundschaft.xml,Ach!,0,4,character_speech,1,4,,Len.,#lenore,67.0,FEMALE,suffering,negative,emotions of suffering and empathy
+150,150,GerDracor/kotzebue-maedchenfreundschaft.xml,ich Unglückliche!,5,22,character_speech,1,4,,Len.,#lenore,67.0,FEMALE,suffering,negative,emotions of suffering and empathy
+151,151,GerDracor/kotzebue-maedchenfreundschaft.xml,"(die bisher im Hintergrunde lauschten, kommen herbey.)",0,54,stage_direction,1,4,speech_part,,#natalie #wilhelmine,68.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+152,152,GerDracor/kotzebue-maedchenfreundschaft.xml,Meine geliebte Freundin!,0,24,character_speech,1,4,,Nat. und Wilh.,#natalie #wilhelmine,68.0,UNKNOWN,friendship,positive,emotions of affection
+153,153,GerDracor/kotzebue-maedchenfreundschaft.xml,wir haben alles gehört.,25,48,character_speech,1,4,,Nat. und Wilh.,#natalie #wilhelmine,68.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+154,154,GerDracor/kotzebue-maedchenfreundschaft.xml,Madam Braun ist ein Tiger.,0,26,character_speech,1,4,,Wilh.,#wilhelmine,69.0,FEMALE,no_annotation,no_annotation,no_annotation
+155,155,GerDracor/kotzebue-maedchenfreundschaft.xml,Und dein Oheim ein Leopard.,0,27,character_speech,1,4,,Nat.,#natalie,70.0,FEMALE,no_annotation,no_annotation,no_annotation
+156,156,GerDracor/kotzebue-maedchenfreundschaft.xml,Die zweyzüngige!,0,16,character_speech,1,4,,Wilh.,#wilhelmine,71.0,FEMALE,anger,negative,emotions of rejection
+157,157,GerDracor/kotzebue-maedchenfreundschaft.xml,"Hundertmahl hat sie uns gesagt, die Männer wären flatterhaft,
+            Betrüger, wir sollten uns vor ihnen hüten –",17,134,character_speech,1,4,,Wilh.,#wilhelmine,71.0,FEMALE,abhorrence,negative,emotions of rejection
+158,158,GerDracor/kotzebue-maedchenfreundschaft.xml,Und nun will sie dich dem ersten besten an den Hals werfen.,0,59,character_speech,1,4,,Nat.,#natalie,72.0,FEMALE,abhorrence,negative,emotions of rejection
+159,159,GerDracor/kotzebue-maedchenfreundschaft.xml,(schluchzend),0,13,stage_direction,1,4,speech_part,,#lenore,73.0,FEMALE,suffering,negative,emotions of suffering and empathy
+160,160,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich Unglückliche!,0,17,character_speech,1,4,,Len.,#lenore,73.0,FEMALE,suffering,negative,emotions of suffering and empathy
+161,161,GerDracor/kotzebue-maedchenfreundschaft.xml,Von Euch mich trennen!,18,40,character_speech,1,4,,Len.,#lenore,73.0,FEMALE,love,positive,emotions of affection
+162,162,GerDracor/kotzebue-maedchenfreundschaft.xml,Das überlebt keine von uns.,0,27,character_speech,1,4,,Wilh.,#wilhelmine,74.0,FEMALE,suffering,negative,emotions of suffering and empathy
+163,163,GerDracor/kotzebue-maedchenfreundschaft.xml,"Weißt du was, wir laufen davon.",0,31,character_speech,1,4,,Nat.,#natalie,75.0,FEMALE,fear,negative,emotions of anxiety
+164,164,GerDracor/kotzebue-maedchenfreundschaft.xml,O ich bin es zufrieden.,0,23,character_speech,1,4,,Wilh.,#wilhelmine,76.0,FEMALE,joy,positive,emotions of pleasure
+165,165,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich auch.,0,9,character_speech,1,4,,Len.,#lenore,77.0,FEMALE,no_annotation,no_annotation,no_annotation
+166,166,GerDracor/kotzebue-maedchenfreundschaft.xml,Aber wohin?,10,21,character_speech,1,4,,Len.,#lenore,77.0,FEMALE,no_annotation,no_annotation,no_annotation
+167,167,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ja, wohin?",0,10,character_speech,1,4,,Nat.,#natalie,78.0,FEMALE,no_annotation,no_annotation,no_annotation
+168,168,GerDracor/kotzebue-maedchenfreundschaft.xml,"Laß uns geschwinde Kriegsrath halten, denn wir haben keine Zeit zu
+            verlieren.",11,100,character_speech,1,4,,Nat.,#natalie,78.0,FEMALE,no_annotation,no_annotation,no_annotation
+169,169,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wenn wir katholisch wären, so gingen wir alle drey ins Kloster.",0,63,character_speech,1,4,,Wilh.,#wilhelmine,79.0,FEMALE,no_annotation,no_annotation,no_annotation
+170,170,GerDracor/kotzebue-maedchenfreundschaft.xml,Wir könnten ja allenfalls katholisch werden?,0,44,character_speech,1,4,,Len.,#lenore,80.0,FEMALE,no_annotation,no_annotation,no_annotation
+171,171,GerDracor/kotzebue-maedchenfreundschaft.xml,"Immer besser, als einen Mann nehmen.",0,36,character_speech,1,4,,Nat.,#natalie,81.0,FEMALE,no_annotation,no_annotation,no_annotation
+172,172,GerDracor/kotzebue-maedchenfreundschaft.xml,Halt!,0,5,character_speech,1,4,,Len.,#lenore,82.0,FEMALE,being moved,being moved,being moved
+173,173,GerDracor/kotzebue-maedchenfreundschaft.xml,ich habe einen köstlichen Einfall.,6,40,character_speech,1,4,,Len.,#lenore,82.0,FEMALE,joy,positive,emotions of pleasure
+174,174,GerDracor/kotzebue-maedchenfreundschaft.xml,"Was erzählte Madam Braun gestern in der
+            geographischen Stunde von den Türken?",41,130,character_speech,1,4,,Len.,#lenore,82.0,FEMALE,no_annotation,no_annotation,no_annotation
+175,175,GerDracor/kotzebue-maedchenfreundschaft.xml,Daß sie viele Weiber nehmen –,0,29,character_speech,1,4,,Nat.,#natalie,83.0,FEMALE,no_annotation,no_annotation,no_annotation
+176,176,GerDracor/kotzebue-maedchenfreundschaft.xml,Die in prächtigen Harems wohnen –,0,33,character_speech,1,4,,Wilh.,#wilhelmine,84.0,FEMALE,no_annotation,no_annotation,no_annotation
+177,177,GerDracor/kotzebue-maedchenfreundschaft.xml,Alle Schätze und Wohlgerüche Arabiens verschwenden.,0,51,character_speech,1,4,,Len.,#lenore,85.0,FEMALE,no_annotation,no_annotation,no_annotation
+178,178,GerDracor/kotzebue-maedchenfreundschaft.xml,Von einer Menge Sklaven bedient werden –,0,40,character_speech,1,4,,Nat.,#natalie,86.0,FEMALE,no_annotation,no_annotation,no_annotation
+179,179,GerDracor/kotzebue-maedchenfreundschaft.xml,Die hübschesten Mädchen aus allen Ländern –,0,43,character_speech,1,4,,Wilh.,#wilhelmine,87.0,FEMALE,no_annotation,no_annotation,no_annotation
+180,180,GerDracor/kotzebue-maedchenfreundschaft.xml,Und vor allen Dingen daß sie stets beysammen wohnen.,0,52,character_speech,1,4,,Len.,#lenore,88.0,FEMALE,no_annotation,no_annotation,no_annotation
+181,181,GerDracor/kotzebue-maedchenfreundschaft.xml,Nun?,53,57,character_speech,1,4,,Len.,#lenore,88.0,FEMALE,no_annotation,no_annotation,no_annotation
+182,182,GerDracor/kotzebue-maedchenfreundschaft.xml,"errathet Ihr nicht, was ich
+            im Sinne habe?",58,112,character_speech,1,4,,Len.,#lenore,88.0,FEMALE,no_annotation,no_annotation,no_annotation
+183,183,GerDracor/kotzebue-maedchenfreundschaft.xml,O vortrefflich!,0,15,character_speech,1,4,,Nat. Wilh.,#natalie #wilhelmine,89.0,UNKNOWN,joy,positive,emotions of pleasure
+184,184,GerDracor/kotzebue-maedchenfreundschaft.xml,vortrefflich!,16,29,character_speech,1,4,,Nat. Wilh.,#natalie #wilhelmine,89.0,UNKNOWN,joy,positive,emotions of pleasure
+185,185,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wir sind ohne Ruhm zu melden, alle drey auch recht hübsch.",0,58,character_speech,1,4,,Len.,#lenore,90.0,FEMALE,"admiration, reverence",positive,emotions of affection
+186,186,GerDracor/kotzebue-maedchenfreundschaft.xml,O gewiß.,0,8,character_speech,1,4,,Nat.,#natalie,91.0,FEMALE,no_annotation,no_annotation,no_annotation
+187,187,GerDracor/kotzebue-maedchenfreundschaft.xml,"Aber Constantinopel ist weit, wie kommen wir dahin?",9,60,character_speech,1,4,,Nat.,#natalie,91.0,FEMALE,no_annotation,no_annotation,no_annotation
+188,188,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wenn wir auch an den Großsultan schrieben, es währt so lange, ehe die Antwort
+            kommt.",0,96,character_speech,1,4,,Wilh.,#wilhelmine,92.0,FEMALE,no_annotation,no_annotation,no_annotation
+189,189,GerDracor/kotzebue-maedchenfreundschaft.xml,Unterdessen müßtest du fort –,0,29,character_speech,1,4,,Nat.,#natalie,93.0,FEMALE,no_annotation,no_annotation,no_annotation
+190,190,GerDracor/kotzebue-maedchenfreundschaft.xml,"Nein, nein, ich weiß ein Mittel.",0,32,character_speech,1,4,,Len.,#lenore,94.0,FEMALE,no_annotation,no_annotation,no_annotation
+191,191,GerDracor/kotzebue-maedchenfreundschaft.xml,"An unserm Hofe ist ein türkischer Gesandter, er wohnt
+            in dieser Strasse, an den schreiben wir.",33,139,character_speech,1,4,,Len.,#lenore,94.0,FEMALE,no_annotation,no_annotation,no_annotation
+192,192,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ja, ja, wir schreiben.",0,22,character_speech,1,4,,Nat. Wilh.,#natalie #wilhelmine,95.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+193,193,GerDracor/kotzebue-maedchenfreundschaft.xml,Und unser Tanzmeister Hopsa bestellt wohl den Brief.,0,52,character_speech,1,4,,Len.,#lenore,96.0,FEMALE,no_annotation,no_annotation,no_annotation
+194,194,GerDracor/kotzebue-maedchenfreundschaft.xml,"Auf jeden Fall laßt uns den feyerlichen Schwur wiederholen, uns nie zu trennen.",0,79,character_speech,1,4,,Nat.,#natalie,97.0,FEMALE,love,positive,emotions of affection
+195,195,GerDracor/kotzebue-maedchenfreundschaft.xml,"(Alle drey legen die rechten Hände in einander, heben die linken zum Schwur in
+              die Höhe, und sagen mit hohler Stimme)",0,131,stage_direction,1,4,inner_speech,,#natalie,97.0,FEMALE,no_annotation,no_annotation,no_annotation
+196,196,GerDracor/kotzebue-maedchenfreundschaft.xml, Wir schwören!,0,14,character_speech,1,4,,Nat.,#natalie,97.0,FEMALE,no_annotation,no_annotation,no_annotation
+197,197,GerDracor/kotzebue-maedchenfreundschaft.xml,So.,0,3,character_speech,1,4,,Len.,#lenore,98.0,FEMALE,no_annotation,no_annotation,no_annotation
+198,198,GerDracor/kotzebue-maedchenfreundschaft.xml,Es ist vollbracht.,4,22,character_speech,1,4,,Len.,#lenore,98.0,FEMALE,joy,positive,emotions of pleasure
+199,199,GerDracor/kotzebue-maedchenfreundschaft.xml,Nun will ich schnell an den Gesandten schreiben.,23,71,character_speech,1,4,,Len.,#lenore,98.0,FEMALE,no_annotation,no_annotation,no_annotation
+200,200,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich höre den
+            Tanzmeister schon auf der Treppe.",72,130,character_speech,1,4,,Len.,#lenore,98.0,FEMALE,no_annotation,no_annotation,no_annotation
+201,201,GerDracor/kotzebue-maedchenfreundschaft.xml,(Sie setzt sich und schreibt.),0,30,stage_direction,1,4,inner_speech,,#lenore,98.0,FEMALE,no_annotation,no_annotation,no_annotation
+202,202,GerDracor/kotzebue-maedchenfreundschaft.xml,Hopsa.,0,6,stage_direction,1,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+203,203,GerDracor/kotzebue-maedchenfreundschaft.xml,Die Vorigen.,7,19,stage_direction,1,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+204,204,GerDracor/kotzebue-maedchenfreundschaft.xml,(mit einem tiefen Knix),0,23,stage_direction,1,5,speech_part,,#natalie,99.0,FEMALE,no_annotation,no_annotation,no_annotation
+205,205,GerDracor/kotzebue-maedchenfreundschaft.xml,"Monsieur Hopsa, vos très humbles servantes.",0,43,character_speech,1,5,,Nat.,#natalie,99.0,FEMALE,"admiration, reverence",positive,emotions of affection
+206,206,GerDracor/kotzebue-maedchenfreundschaft.xml,(mit einem tiefen Knix),0,23,stage_direction,1,5,speech_part,,#wilhelmine,100.0,FEMALE,no_annotation,no_annotation,no_annotation
+207,207,GerDracor/kotzebue-maedchenfreundschaft.xml,"Monsieur Hopsa, je suis charmée de vous voir.",0,45,character_speech,1,5,,Wilh.,#wilhelmine,100.0,FEMALE,"admiration, reverence",positive,emotions of affection
+208,208,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ei, ey, Mesdemoiselles was mak Sie for slekte Reverence?",0,56,character_speech,1,5,,Hopsa.,#hopsa,101.0,MALE,being moved,being moved,being moved
+209,209,GerDracor/kotzebue-maedchenfreundschaft.xml,"wer
+            woll so  präsentir der Hinter?",57,103,character_speech,1,5,,Hopsa.,#hopsa,101.0,MALE,no_annotation,no_annotation,no_annotation
+210,210,GerDracor/kotzebue-maedchenfreundschaft.xml,sein wie ein Ent der wakel mit die Stuß.,104,144,character_speech,1,5,,Hopsa.,#hopsa,101.0,MALE,anger,negative,emotions of rejection
+211,211,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wir machen es, wie Sie uns gelehrt haben.",0,41,character_speech,1,5,,Nat.,#natalie,102.0,FEMALE,no_annotation,no_annotation,no_annotation
+212,212,GerDracor/kotzebue-maedchenfreundschaft.xml,Klein Impertinente sein nix wahr.,0,33,character_speech,1,5,,Hopsa.,#hopsa,103.0,MALE,anger,negative,emotions of rejection
+213,213,GerDracor/kotzebue-maedchenfreundschaft.xml,"Der Brust ein wenik heraus, der Hinter avec
+              grace inwendik vermakt, so aben ich kesakt.",34,135,character_speech,1,5,,Hopsa.,#hopsa,103.0,MALE,no_annotation,no_annotation,no_annotation
+214,214,GerDracor/kotzebue-maedchenfreundschaft.xml,(giebt den andern beyden ein Zeichen zu unterschreiben.),0,56,stage_direction,1,5,speech_part,,#lenore,104.0,FEMALE,no_annotation,no_annotation,no_annotation
+215,215,GerDracor/kotzebue-maedchenfreundschaft.xml,Mein lieber Monsieur Hopsa wir wollen heute gar keine Stund nehmen.,0,67,character_speech,1,5,,Len.,#lenore,104.0,FEMALE,no_annotation,no_annotation,no_annotation
+216,216,GerDracor/kotzebue-maedchenfreundschaft.xml,Kein Lection?,0,13,character_speech,1,5,,Hopsa.,#hopsa,105.0,MALE,no_annotation,no_annotation,no_annotation
+217,217,GerDracor/kotzebue-maedchenfreundschaft.xml,"sein der pure Fauleit, muß ich rapportir an Madam Braun.",14,70,character_speech,1,5,,Hopsa.,#hopsa,105.0,MALE,no_annotation,no_annotation,no_annotation
+218,218,GerDracor/kotzebue-maedchenfreundschaft.xml,"Es ist Ihnen ja doch nur um unsere Karten mit dem Pettschaft zu thun; da nehmen
+            Sie.",0,96,character_speech,1,5,,Len.,#lenore,106.0,FEMALE,no_annotation,no_annotation,no_annotation
+219,219,GerDracor/kotzebue-maedchenfreundschaft.xml,Wofür seh’ Sie mik an?,0,22,character_speech,1,5,,Hopsa.,#hopsa,107.0,MALE,no_annotation,no_annotation,no_annotation
+220,220,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wer da nix keben Lektion und nehme die Kart, der sein Spissebub.",23,87,character_speech,1,5,,Hopsa.,#hopsa,107.0,MALE,anger,negative,emotions of rejection
+221,221,GerDracor/kotzebue-maedchenfreundschaft.xml,Keb sie man her die Kart.,100,125,character_speech,1,5,,Hopsa.,#hopsa,107.0,MALE,no_annotation,no_annotation,no_annotation
+222,222,GerDracor/kotzebue-maedchenfreundschaft.xml,(Er steckt sie ein.),0,20,stage_direction,1,5,inner_speech,,#hopsa,107.0,MALE,no_annotation,no_annotation,no_annotation
+223,223,GerDracor/kotzebue-maedchenfreundschaft.xml,(giebt Lenoren den Brief von hinten),0,36,stage_direction,1,5,speech_part,,#wilhelmine,108.0,FEMALE,no_annotation,no_annotation,no_annotation
+224,224,GerDracor/kotzebue-maedchenfreundschaft.xml,"Apropos, Monsieur Hopsa, besuchen Sie noch fleißig den türkischen Gesandten?",0,76,character_speech,1,5,,Len.,#lenore,109.0,FEMALE,no_annotation,no_annotation,no_annotation
+225,225,GerDracor/kotzebue-maedchenfreundschaft.xml,Parbleu!,0,8,character_speech,1,5,,Hopsa.,#hopsa,110.0,MALE,no_annotation,no_annotation,no_annotation
+226,226,GerDracor/kotzebue-maedchenfreundschaft.xml,"Freilik, ik seyn sein Sprakmeister.",9,44,character_speech,1,5,,Hopsa.,#hopsa,110.0,MALE,no_annotation,no_annotation,no_annotation
+227,227,GerDracor/kotzebue-maedchenfreundschaft.xml,"Lieber Monsieur Hopsa, Sie sind ein so gefälliger, artiger Mann; wollten Sie wohl so
+            gut seyn diesen Brief an den Gesandten zu bestellen?",0,149,character_speech,1,5,,Len.,#lenore,111.0,FEMALE,"admiration, reverence",positive,emotions of affection
+228,228,GerDracor/kotzebue-maedchenfreundschaft.xml,Que diable!,0,11,character_speech,1,5,,Hopsa.,#hopsa,112.0,MALE,no_annotation,no_annotation,no_annotation
+229,229,GerDracor/kotzebue-maedchenfreundschaft.xml,"was ab Sie su schreib an die türkisch
+            Ambassadeur?",12,74,character_speech,1,5,,Hopsa.,#hopsa,112.0,MALE,no_annotation,no_annotation,no_annotation
+230,230,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wir lernen jetzt türkisch und wollen ihn um Rath fragen wegen eines Ausdruckes, den wir
+            nicht verstehen.",0,116,character_speech,1,5,,Len.,#lenore,113.0,FEMALE,no_annotation,no_annotation,no_annotation
+231,231,GerDracor/kotzebue-maedchenfreundschaft.xml,Aha!,0,4,character_speech,1,5,,Hopsa.,#hopsa,114.0,MALE,no_annotation,no_annotation,no_annotation
+232,232,GerDracor/kotzebue-maedchenfreundschaft.xml,Sie lernen turque?,5,23,character_speech,1,5,,Hopsa.,#hopsa,114.0,MALE,no_annotation,no_annotation,no_annotation
+233,233,GerDracor/kotzebue-maedchenfreundschaft.xml,von die todte Sprak?,24,44,character_speech,1,5,,Hopsa.,#hopsa,114.0,MALE,no_annotation,no_annotation,no_annotation
+234,234,GerDracor/kotzebue-maedchenfreundschaft.xml,"Eh bien, ik
+            maken Ihr Commission.",45,90,character_speech,1,5,,Hopsa.,#hopsa,114.0,MALE,joy,positive,emotions of pleasure
+235,235,GerDracor/kotzebue-maedchenfreundschaft.xml,Aber ja reinen Mund halten.,0,27,character_speech,1,5,,Len.,#lenore,115.0,FEMALE,anger,negative,emotions of rejection
+236,236,GerDracor/kotzebue-maedchenfreundschaft.xml,"Verlaß sik auf mein Discretion, ick sein Francmaçon.",0,52,character_speech,1,5,,Hopsa.,#hopsa,116.0,MALE,no_annotation,no_annotation,no_annotation
+237,237,GerDracor/kotzebue-maedchenfreundschaft.xml,(leise zu den andern.),0,22,stage_direction,1,5,inner_speech,,#lenore,117.0,FEMALE,no_annotation,no_annotation,no_annotation
+238,238,GerDracor/kotzebue-maedchenfreundschaft.xml, Er ist ein Dummkopf.,0,21,character_speech,1,5,,Len.,#lenore,117.0,FEMALE,abhorrence,negative,emotions of rejection
+239,239,GerDracor/kotzebue-maedchenfreundschaft.xml,Aber er tanzt schön.,0,20,character_speech,1,5,,Nat.,#natalie,118.0,FEMALE,joy,positive,emotions of pleasure
+240,240,GerDracor/kotzebue-maedchenfreundschaft.xml,(zu Hopsa),0,10,stage_direction,1,5,inner_speech,,#natalie,118.0,FEMALE,no_annotation,no_annotation,no_annotation
+241,241,GerDracor/kotzebue-maedchenfreundschaft.xml, Adieu!,0,7,character_speech,1,5,,Nat.,#natalie,118.0,FEMALE,no_annotation,no_annotation,no_annotation
+242,242,GerDracor/kotzebue-maedchenfreundschaft.xml,(wirft ihm neckend einen Kuß zu.),0,33,stage_direction,1,5,speech_part,,#wilhelmine,119.0,FEMALE,desire,positive,emotions of affection
+243,243,GerDracor/kotzebue-maedchenfreundschaft.xml,(Alle drey ab.),0,15,stage_direction,1,5,inner_speech,,#wilhelmine,119.0,FEMALE,no_annotation,no_annotation,no_annotation
+244,244,GerDracor/kotzebue-maedchenfreundschaft.xml,(allein),0,8,stage_direction,1,5,speech_part,,#hopsa,120.0,MALE,no_annotation,no_annotation,no_annotation
+245,245,GerDracor/kotzebue-maedchenfreundschaft.xml,"Das seyn malisiös petites creatures, drey Stück.",0,48,character_speech,1,5,,Hopsa.,#hopsa,120.0,MALE,abhorrence,negative,emotions of rejection
+246,246,GerDracor/kotzebue-maedchenfreundschaft.xml,"Arm pauvre
+              mari, der werden viel aben fon Chagrin.",49,113,character_speech,1,5,,Hopsa.,#hopsa,120.0,MALE,compassion,negative,emotions of suffering and empathy
+247,247,GerDracor/kotzebue-maedchenfreundschaft.xml,Madam Braun und Hopsa.,0,22,stage_direction,1,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+248,248,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sieh da, Monsieur Hopsa!",0,24,character_speech,1,6,,M. Braun.,#madam_braun,121.0,FEMALE,no_annotation,no_annotation,no_annotation
+249,249,GerDracor/kotzebue-maedchenfreundschaft.xml,Wo sind denn die drey Unzertrennlichen?,25,64,character_speech,1,6,,M. Braun.,#madam_braun,121.0,FEMALE,no_annotation,no_annotation,no_annotation
+250,250,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sind Sie zufrieden mit
+            ihren Fortschritten?",65,120,character_speech,1,6,,M. Braun.,#madam_braun,121.0,FEMALE,no_annotation,no_annotation,no_annotation
+251,251,GerDracor/kotzebue-maedchenfreundschaft.xml,"O sie danse wie der Engel in diese moment sie ab kenomm ihr
+            Lektion, da sein die Kart.",0,98,character_speech,1,6,,Hopsa.,#hopsa,122.0,MALE,joy,positive,emotions of pleasure
+252,252,GerDracor/kotzebue-maedchenfreundschaft.xml,– Et voilà encore quelque chose.,99,131,character_speech,1,6,,Hopsa.,#hopsa,122.0,MALE,no_annotation,no_annotation,no_annotation
+253,253,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sie ab mir
+            ferbot, Madam ick soll nick sein der porteur von verdäcktik Brief?",132,221,character_speech,1,6,,Hopsa.,#hopsa,122.0,MALE,anger,negative,emotions of rejection
+254,254,GerDracor/kotzebue-maedchenfreundschaft.xml,"Dieser
+            aben ein solk Physiognomie.",222,268,character_speech,1,6,,Hopsa.,#hopsa,122.0,MALE,no_annotation,no_annotation,no_annotation
+255,255,GerDracor/kotzebue-maedchenfreundschaft.xml,Geschwind zeigen Sie her.,0,25,character_speech,1,6,,M. Braun.,#madam_braun,123.0,FEMALE,no_annotation,no_annotation,no_annotation
+256,256,GerDracor/kotzebue-maedchenfreundschaft.xml,(Sie liest die Adresse.),0,24,stage_direction,1,6,inner_speech,,#madam_braun,123.0,FEMALE,no_annotation,no_annotation,no_annotation
+257,257,GerDracor/kotzebue-maedchenfreundschaft.xml," „An seine Excellenz,
+            den türkischen Herrn Gesandten allhier?“ – Was soll das heißen?",0,97,character_speech,1,6,,M. Braun.,#madam_braun,123.0,FEMALE,no_annotation,no_annotation,no_annotation
+258,258,GerDracor/kotzebue-maedchenfreundschaft.xml,Sie woll studir der türkisch Sprak.,0,35,character_speech,1,6,,Hopsa.,#hopsa,124.0,MALE,no_annotation,no_annotation,no_annotation
+259,259,GerDracor/kotzebue-maedchenfreundschaft.xml,(öffnet den Brief und liest.),0,29,stage_direction,1,6,speech_part,,#madam_braun,125.0,FEMALE,no_annotation,no_annotation,no_annotation
+260,260,GerDracor/kotzebue-maedchenfreundschaft.xml,„Herr Ambassadeur!,0,18,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,no_annotation,no_annotation,no_annotation
+261,261,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wir haben in der Geographie gelesen, daß Sie mehrere Frauen
+            heurathen dürfen.",19,108,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,no_annotation,no_annotation,no_annotation
+262,262,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wir sind drey junge hübsche Mädchen in Ihrer Nachbarschaft, wir haben
+            geschworen uns nie zu trennen und da Sie, wie wir hören, unsern Hof nächstens verlassen,
+            um in Ihr Vaterland zurück zu reisen, so fragen wir hiemit an, ob Sie uns mitnehmen
+            wollen?",109,395,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,no_annotation,no_annotation,no_annotation
+263,263,GerDracor/kotzebue-maedchenfreundschaft.xml,"– Antworten Sie uns durch Monsieur Hopsa, oder kömmen Sie lieber selbst, uns zu
+            sehen.",396,494,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,no_annotation,no_annotation,no_annotation
+264,264,GerDracor/kotzebue-maedchenfreundschaft.xml,"Auf jeden Fall sind wir entschlossen nach Constantinopel zu reisen,
+            sobald wir zum Erstenmahl zur Beichte gewesen sind.",495,626,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,no_annotation,no_annotation,no_annotation
+265,265,GerDracor/kotzebue-maedchenfreundschaft.xml,Herr Ambassadeur!,627,644,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,no_annotation,no_annotation,no_annotation
+266,266,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ihre gehorsamen
+            Dienerinnen.",645,685,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,"admiration, reverence",positive,emotions of affection
+267,267,GerDracor/kotzebue-maedchenfreundschaft.xml,Lenore.,686,693,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,no_annotation,no_annotation,no_annotation
+268,268,GerDracor/kotzebue-maedchenfreundschaft.xml,Natalie.,694,702,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,no_annotation,no_annotation,no_annotation
+269,269,GerDracor/kotzebue-maedchenfreundschaft.xml,Wilhelmine.“ Sind die Mädchen toll?,703,738,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,no_annotation,no_annotation,no_annotation
+270,270,GerDracor/kotzebue-maedchenfreundschaft.xml,"Soll ich lachen, oder
+            böse werden?",739,785,character_speech,1,6,,M. Braun,#madam_braun,125.0,FEMALE,anger,negative,emotions of rejection
+271,271,GerDracor/kotzebue-maedchenfreundschaft.xml,Monsieur l’Ambassadeur werde laken.,0,35,character_speech,1,6,,Hopsa.,#hopsa,126.0,MALE,no_annotation,no_annotation,no_annotation
+272,272,GerDracor/kotzebue-maedchenfreundschaft.xml,"Trois jolies Filles, mais
+            sie werd ihm eiß mack sein Kop.",36,105,character_speech,1,6,,Hopsa.,#hopsa,126.0,MALE,no_annotation,no_annotation,no_annotation
+273,273,GerDracor/kotzebue-maedchenfreundschaft.xml,"Mir fällt ein herrliches Mittel ein, die Mädchen zu bestrafen; und zwar gleich.",0,79,character_speech,1,6,,M. Braun.,#madam_braun,127.0,FEMALE,Schadenfreude,positive,emotions of pleasure
+274,274,GerDracor/kotzebue-maedchenfreundschaft.xml,"–
+            Apropos, Sie versprachen mir ja Kleider zu Zaire, die meine Pensionairs in einigen Tagen
+            aufführen wollen?",80,212,character_speech,1,6,,M. Braun.,#madam_braun,127.0,FEMALE,no_annotation,no_annotation,no_annotation
+275,275,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sein schon kester arrivir, ein ganz Trödelbud.",0,46,character_speech,1,6,,Hopsa.,#hopsa,128.0,MALE,no_annotation,no_annotation,no_annotation
+276,276,GerDracor/kotzebue-maedchenfreundschaft.xml,"Desto besser, folgen Sie mir.",0,29,character_speech,1,6,,M. Braun.,#madam_braun,129.0,FEMALE,no_annotation,no_annotation,no_annotation
+277,277,GerDracor/kotzebue-maedchenfreundschaft.xml,Auf der Stelle will ich den Einfall ausführen.,30,76,character_speech,1,6,,M. Braun.,#madam_braun,129.0,FEMALE,no_annotation,no_annotation,no_annotation
+278,278,GerDracor/kotzebue-maedchenfreundschaft.xml,Ik folge mit groß,0,17,character_speech,1,6,,Hopsa.,#hopsa,130.0,MALE,no_annotation,no_annotation,no_annotation
+279,279,GerDracor/kotzebue-maedchenfreundschaft.xml,(Beyde ab.),0,11,stage_direction,1,6,inner_speech,,#hopsa,130.0,MALE,no_annotation,no_annotation,no_annotation
+280,280,GerDracor/kotzebue-maedchenfreundschaft.xml,"Lenore, Natalie, Wilhelmine.",0,28,stage_direction,1,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+281,281,GerDracor/kotzebue-maedchenfreundschaft.xml,(schleichen herein.),29,49,stage_direction,1,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+282,282,GerDracor/kotzebue-maedchenfreundschaft.xml,Der Tanzmeister ist fort.,0,25,character_speech,1,7,,Len.,#lenore,131.0,FEMALE,no_annotation,no_annotation,no_annotation
+283,283,GerDracor/kotzebue-maedchenfreundschaft.xml,Mir klopft das Herz.,26,46,character_speech,1,7,,Len.,#lenore,131.0,FEMALE,being moved,being moved,being moved
+284,284,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sage mir doch, Lenore, wenn der Ambassadeur uns heurathet, müßen wir uns den auch
+            türkisch kleiden?",0,111,character_speech,1,7,,Nat.,#natalie,132.0,FEMALE,no_annotation,no_annotation,no_annotation
+285,285,GerDracor/kotzebue-maedchenfreundschaft.xml,Freylich.,0,9,character_speech,1,7,,Len.,#lenore,133.0,FEMALE,no_annotation,no_annotation,no_annotation
+286,286,GerDracor/kotzebue-maedchenfreundschaft.xml,O das ist allerliebst!,0,22,character_speech,1,7,,Wilh.,#wilhelmine,134.0,FEMALE,joy,positive,emotions of pleasure
+287,287,GerDracor/kotzebue-maedchenfreundschaft.xml,Der Turban wird mir recht hübsch stehen.,23,63,character_speech,1,7,,Wilh.,#wilhelmine,134.0,FEMALE,joy,positive,emotions of pleasure
+288,288,GerDracor/kotzebue-maedchenfreundschaft.xml,Mir auch.,0,9,character_speech,1,7,,Lenore.,#lenore,135.0,FEMALE,no_annotation,no_annotation,no_annotation
+289,289,GerDracor/kotzebue-maedchenfreundschaft.xml,Mir auch.,0,9,character_speech,1,7,,Nat.,#natalie,136.0,FEMALE,no_annotation,no_annotation,no_annotation
+290,290,GerDracor/kotzebue-maedchenfreundschaft.xml,Wir wollen uns auch in Constantinopel nie einzeln sehen lassen.,0,63,character_speech,1,7,,Len.,#lenore,137.0,FEMALE,no_annotation,no_annotation,no_annotation
+291,291,GerDracor/kotzebue-maedchenfreundschaft.xml,"Alle Abend
+            fahren wir zusammen in die Komödie.",64,122,character_speech,1,7,,Len.,#lenore,137.0,FEMALE,no_annotation,no_annotation,no_annotation
+292,292,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich hoffe, unser Türke wird so galant seyn, eine Loge zu aboniren.",0,66,character_speech,1,7,,Nat.,#natalie,138.0,FEMALE,no_annotation,no_annotation,no_annotation
+293,293,GerDracor/kotzebue-maedchenfreundschaft.xml,(spöttisch.),0,12,stage_direction,1,7,speech_part,,#wilhelmine,139.0,FEMALE,abhorrence,negative,emotions of rejection
+294,294,GerDracor/kotzebue-maedchenfreundschaft.xml,Daß versteht sich; ich wollt ihm nicht rathen uns ins Parterre zu führen.,0,73,character_speech,1,7,,Wilh.,#wilhelmine,139.0,FEMALE,no_annotation,no_annotation,no_annotation
+295,295,GerDracor/kotzebue-maedchenfreundschaft.xml,Im Winter fahren wir täglich auf den Schlitten.,0,47,character_speech,1,7,,Len.,#lenore,140.0,FEMALE,joy,positive,emotions of pleasure
+296,296,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ach ja, in Zobelpelzen.",0,23,character_speech,1,7,,Nat.,#natalie,141.0,FEMALE,no_annotation,no_annotation,no_annotation
+297,297,GerDracor/kotzebue-maedchenfreundschaft.xml,Das soll eine Lust werden.,0,26,character_speech,1,7,,Wilh.,#wilhelmine,142.0,FEMALE,joy,positive,emotions of pleasure
+298,298,GerDracor/kotzebue-maedchenfreundschaft.xml,Dann sind wir aber verschleiert.,0,32,character_speech,1,7,,Len.,#lenore,143.0,FEMALE,no_annotation,no_annotation,no_annotation
+299,299,GerDracor/kotzebue-maedchenfreundschaft.xml,"Thut nichts, wir können doch von der Seite ein wenig lüften.",0,60,character_speech,1,7,,Nat.,#natalie,144.0,FEMALE,no_annotation,no_annotation,no_annotation
+300,300,GerDracor/kotzebue-maedchenfreundschaft.xml,"Siehst du so,",61,74,character_speech,1,7,,Nat.,#natalie,144.0,FEMALE,no_annotation,no_annotation,no_annotation
+301,301,GerDracor/kotzebue-maedchenfreundschaft.xml,"(Sie
+              macht die Pantomine, als hübe sie den Schleier auf.",0,70,stage_direction,1,7,inner_speech,,#natalie,144.0,FEMALE,no_annotation,no_annotation,no_annotation
+302,302,GerDracor/kotzebue-maedchenfreundschaft.xml,"Die andern Beyden machen ihr es
+              nach.)",71,123,stage_direction,1,7,inner_speech,,#natalie,144.0,FEMALE,no_annotation,no_annotation,no_annotation
+303,303,GerDracor/kotzebue-maedchenfreundschaft.xml," Ja, so.",0,8,character_speech,1,7,,Nat.,#natalie,144.0,FEMALE,no_annotation,no_annotation,no_annotation
+304,304,GerDracor/kotzebue-maedchenfreundschaft.xml,O wir werden die glücklichsten Tage verleben.,0,45,character_speech,1,7,,Len.,#lenore,145.0,FEMALE,joy,positive,emotions of pleasure
+305,305,GerDracor/kotzebue-maedchenfreundschaft.xml,"Umarmt mich, Schwestern!",46,70,character_speech,1,7,,Len.,#lenore,145.0,FEMALE,joy,positive,emotions of pleasure
+306,306,GerDracor/kotzebue-maedchenfreundschaft.xml,"Mir habt Ihr den
+            herrlichen Einfall zu verdanken.",71,132,character_speech,1,7,,Len.,#lenore,145.0,FEMALE,joy,positive,emotions of pleasure
+307,307,GerDracor/kotzebue-maedchenfreundschaft.xml,(Sie umarmen sich.),0,19,stage_direction,1,7,inner_speech,,#lenore,145.0,FEMALE,joy,positive,emotions of pleasure
+308,308,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ewige, ewige Freundschaft!",0,26,character_speech,1,7,,Nat.,#natalie,146.0,FEMALE,friendship,positive,emotions of affection
+309,309,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ewig, ewig.",0,11,character_speech,1,7,,Lenore und Wilhelmine.,#lenore #wilhelmine,147.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+310,310,GerDracor/kotzebue-maedchenfreundschaft.xml,Madam Braun.,0,12,stage_direction,1,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+311,311,GerDracor/kotzebue-maedchenfreundschaft.xml,Die Vorigen.,13,25,stage_direction,1,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+312,312,GerDracor/kotzebue-maedchenfreundschaft.xml,"Kinder, ich bin in der größten Verlegenheit!",0,44,character_speech,1,8,,M. Braun.,#madam_braun,148.0,FEMALE,suffering,negative,emotions of suffering and empathy
+313,313,GerDracor/kotzebue-maedchenfreundschaft.xml,"So eben läßt mich der türkische Gesandte
+            um Erlaubniß bitten, meine Pension zu besehen.",45,144,character_speech,1,8,,M. Braun.,#madam_braun,148.0,FEMALE,no_annotation,no_annotation,no_annotation
+314,314,GerDracor/kotzebue-maedchenfreundschaft.xml,(zupfen sich verstohlen.),0,25,stage_direction,1,8,speech_part,,#lenore #natalie #wilhelmine,149.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+315,315,GerDracor/kotzebue-maedchenfreundschaft.xml,Aha!,0,4,character_speech,1,8,,Die Mädchen,#lenore #natalie #wilhelmine,149.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+316,316,GerDracor/kotzebue-maedchenfreundschaft.xml,– Merkst du was?,5,21,character_speech,1,8,,Die Mädchen,#lenore #natalie #wilhelmine,149.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+317,317,GerDracor/kotzebue-maedchenfreundschaft.xml,– Er hat unsern Brief empfangen – er kommt –,22,66,character_speech,1,8,,Die Mädchen,#lenore #natalie #wilhelmine,149.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+318,318,GerDracor/kotzebue-maedchenfreundschaft.xml,Er kommt mir so unvermuthet über den Hals – ich kann ihn aber doch nicht abweisen.,0,82,character_speech,1,8,,M. Braun.,#madam_braun,150.0,FEMALE,being moved,being moved,being moved
+319,319,GerDracor/kotzebue-maedchenfreundschaft.xml,"–
+            Jetzt meine schönen Mamsells, haben Sie Gelegenheit Ihre Talente zu zeigen.",83,172,character_speech,1,8,,M. Braun.,#madam_braun,150.0,FEMALE,no_annotation,no_annotation,no_annotation
+320,320,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sie sind die
+            ältesten in der Pension,  Sie müssen die Honneurs machen.",173,255,character_speech,1,8,,M. Braun.,#madam_braun,150.0,FEMALE,no_annotation,no_annotation,no_annotation
+321,321,GerDracor/kotzebue-maedchenfreundschaft.xml,"Der
+            Gesandte ist ein vornehmer Herr, er besieht alle Merkwürdigkeiten der Stadt; von Ihnen
+            erwarte ich, daß Sie ihm eine gute Idee von meinem Institut beybringen.",256,442,character_speech,1,8,,M. Braun.,#madam_braun,150.0,FEMALE,no_annotation,no_annotation,no_annotation
+322,322,GerDracor/kotzebue-maedchenfreundschaft.xml,Sollen wir uns nicht besser kleiden?,0,36,character_speech,1,8,,Len.,#lenore,151.0,FEMALE,being moved,being moved,being moved
+323,323,GerDracor/kotzebue-maedchenfreundschaft.xml,Das ist gar nicht nöthig.,0,25,character_speech,1,8,,M. Braun.,#madam_braun,152.0,FEMALE,no_annotation,no_annotation,no_annotation
+324,324,GerDracor/kotzebue-maedchenfreundschaft.xml,"In Ihren Jahren je einfacher, je besser.",26,66,character_speech,1,8,,M. Braun.,#madam_braun,152.0,FEMALE,joy,positive,emotions of pleasure
+325,325,GerDracor/kotzebue-maedchenfreundschaft.xml,(zu Lenoren),0,12,stage_direction,1,8,speech_part,,#natalie,153.0,FEMALE,no_annotation,no_annotation,no_annotation
+326,326,GerDracor/kotzebue-maedchenfreundschaft.xml,"Was meinst du liebe Freundinn, wie sitzt mir die Chemise?",0,57,character_speech,1,8,,Nat.,#natalie,153.0,FEMALE,no_annotation,no_annotation,no_annotation
+327,327,GerDracor/kotzebue-maedchenfreundschaft.xml,Recht gut; aber stecke mir doch die Blumen ein wenig anders.,0,60,character_speech,1,8,,Len.,#lenore,154.0,FEMALE,no_annotation,no_annotation,no_annotation
+328,328,GerDracor/kotzebue-maedchenfreundschaft.xml,(bey Seite),0,11,stage_direction,1,8,speech_part,,#madam_braun,155.0,FEMALE,no_annotation,no_annotation,no_annotation
+329,329,GerDracor/kotzebue-maedchenfreundschaft.xml,Schon Koketterie?,0,17,character_speech,1,8,,M. Braun.,#madam_braun,155.0,FEMALE,being moved,being moved,being moved
+330,330,GerDracor/kotzebue-maedchenfreundschaft.xml,Ein gutes Zeichen.,18,36,character_speech,1,8,,M. Braun.,#madam_braun,155.0,FEMALE,no_annotation,no_annotation,no_annotation
+331,331,GerDracor/kotzebue-maedchenfreundschaft.xml,Maulwurf.,0,9,stage_direction,1,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+332,332,GerDracor/kotzebue-maedchenfreundschaft.xml,Die Vorigen.,10,22,stage_direction,1,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+333,333,GerDracor/kotzebue-maedchenfreundschaft.xml,Zu Hülfe!,0,9,character_speech,1,9,,Maulw.,#maulwurf,156.0,MALE,fear,negative,emotions of anxiety
+334,334,GerDracor/kotzebue-maedchenfreundschaft.xml,zu Hülfe!,10,19,character_speech,1,9,,Maulw.,#maulwurf,156.0,MALE,fear,negative,emotions of anxiety
+335,335,GerDracor/kotzebue-maedchenfreundschaft.xml,Was giebts?,0,11,character_speech,1,9,,M. Braun.,#madam_braun,157.0,FEMALE,no_annotation,no_annotation,no_annotation
+336,336,GerDracor/kotzebue-maedchenfreundschaft.xml,Ach das Unglück!,0,16,character_speech,1,9,,Maulw.,#maulwurf,158.0,MALE,suffering,negative,emotions of suffering and empathy
+337,337,GerDracor/kotzebue-maedchenfreundschaft.xml,"Da haben nun wir alle Sonntag in der Litaney gebetet: vor den Türken
+            uns bewahre Gott!",17,115,character_speech,1,9,,Maulw.,#maulwurf,158.0,MALE,Schadenfreude,positive,emotions of pleasure
+338,338,GerDracor/kotzebue-maedchenfreundschaft.xml,"und da steht auf einmahl eine ganze türkische Armee unten vor der Thür
+            und wollen mit des Teufels Gewalt einbrechen.",116,244,character_speech,1,9,,Maulw.,#maulwurf,158.0,MALE,fear,negative,emotions of anxiety
+339,339,GerDracor/kotzebue-maedchenfreundschaft.xml,Dummkopf!,0,9,character_speech,1,9,,M. Braun.,#madam_braun,159.0,FEMALE,anger,negative,emotions of rejection
+340,340,GerDracor/kotzebue-maedchenfreundschaft.xml,es ist der Gesandte.,10,30,character_speech,1,9,,M. Braun.,#madam_braun,159.0,FEMALE,no_annotation,no_annotation,no_annotation
+341,341,GerDracor/kotzebue-maedchenfreundschaft.xml,Führ’ ihn geschwind herein.,31,58,character_speech,1,9,,M. Braun.,#madam_braun,159.0,FEMALE,no_annotation,no_annotation,no_annotation
+342,342,GerDracor/kotzebue-maedchenfreundschaft.xml,Was einen türkischen Wolf in diesen christlichen Schaafstall?,0,61,character_speech,1,9,,Maulw.,#maulwurf,160.0,MALE,being moved,being moved,being moved
+343,343,GerDracor/kotzebue-maedchenfreundschaft.xml,Thu was ich dir sage.,0,21,character_speech,1,9,,M. Braun.,#madam_braun,161.0,FEMALE,anger,negative,emotions of rejection
+344,344,GerDracor/kotzebue-maedchenfreundschaft.xml,"Nun, ich wasche meine Hände in  Unschuld.",0,41,character_speech,1,9,,Maulw.,#maulwurf,162.0,MALE,no_annotation,no_annotation,no_annotation
+345,345,GerDracor/kotzebue-maedchenfreundschaft.xml,"Aber all mein Lebstage habe ich
+            gehört, ein Iltis im Taubenschlag, und ein Türke unter jungen Mädchen –",42,157,character_speech,1,9,,Maulw.,#maulwurf,162.0,MALE,no_annotation,no_annotation,no_annotation
+346,346,GerDracor/kotzebue-maedchenfreundschaft.xml,Wirst du gehn?,0,14,character_speech,1,9,,M. Braun.,#madam_braun,163.0,FEMALE,no_annotation,no_annotation,no_annotation
+347,347,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich gehe schon.,0,15,character_speech,1,9,,Maulw.,#maulwurf,164.0,MALE,no_annotation,no_annotation,no_annotation
+348,348,GerDracor/kotzebue-maedchenfreundschaft.xml,Gott sey den armen Kindern gnädig!,16,50,character_speech,1,9,,Maulw.,#maulwurf,164.0,MALE,compassion,negative,emotions of suffering and empathy
+349,349,GerDracor/kotzebue-maedchenfreundschaft.xml,Solche Barbaren –,51,68,character_speech,1,9,,Maulw.,#maulwurf,164.0,MALE,abhorrence,negative,emotions of rejection
+350,350,GerDracor/kotzebue-maedchenfreundschaft.xml,(ab),0,4,stage_direction,1,9,inner_speech,,#maulwurf,164.0,MALE,no_annotation,no_annotation,no_annotation
+351,351,GerDracor/kotzebue-maedchenfreundschaft.xml,(untereinander.),0,16,stage_direction,1,9,speech_part,,#lenore #natalie #wilhelmine,165.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+352,352,GerDracor/kotzebue-maedchenfreundschaft.xml,Fühle wie mir das Herz pocht – Mir auch – Mir auch –,0,52,character_speech,1,9,,Die drey Mädchen,#lenore #natalie #wilhelmine,165.0,UNKNOWN,being moved,being moved,being moved
+353,353,GerDracor/kotzebue-maedchenfreundschaft.xml,Nur Muth gefaßt.,0,16,character_speech,1,9,,Len.,#lenore,166.0,FEMALE,fear,negative,emotions of anxiety
+354,354,GerDracor/kotzebue-maedchenfreundschaft.xml,Ein Türke ist ja doch nur eine Mannsperson.,17,60,character_speech,1,9,,Len.,#lenore,166.0,FEMALE,no_annotation,no_annotation,no_annotation
+355,355,GerDracor/kotzebue-maedchenfreundschaft.xml,Was zischeln Sie da untereinander?,0,34,character_speech,1,9,,M. Braun.,#madam_braun,167.0,FEMALE,no_annotation,no_annotation,no_annotation
+356,356,GerDracor/kotzebue-maedchenfreundschaft.xml,"Setzen Sie sich in Positur, ich höre kommen.",35,79,character_speech,1,9,,M. Braun.,#madam_braun,167.0,FEMALE,no_annotation,no_annotation,no_annotation
+357,357,GerDracor/kotzebue-maedchenfreundschaft.xml,"Rose und Hopsa (als Türken verkleidet, mit Gefolge, Rose grüßt nach türkischer Sitte
+          und läßt sich dann auf ein Kissen nieder, welches ein Sklave ihm nachtrug.)",0,170,stage_direction,1,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+358,358,GerDracor/kotzebue-maedchenfreundschaft.xml,(unter sich.),0,13,stage_direction,1,10,speech_part,,#lenore #natalie #wilhelmine,168.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+359,359,GerDracor/kotzebue-maedchenfreundschaft.xml,Ein hübscher Mann – Er geht wohl an – Er ist nicht häßlich.,0,59,character_speech,1,10,,Die drey Mädchen,#lenore #natalie #wilhelmine,168.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+360,360,GerDracor/kotzebue-maedchenfreundschaft.xml,(leise zu Rose.),0,16,stage_direction,1,10,speech_part,,#madam_braun,169.0,FEMALE,no_annotation,no_annotation,no_annotation
+361,361,GerDracor/kotzebue-maedchenfreundschaft.xml,Die Blondine ist ihre Braut.,0,28,character_speech,1,10,,M. Braun.,#madam_braun,169.0,FEMALE,no_annotation,no_annotation,no_annotation
+362,362,GerDracor/kotzebue-maedchenfreundschaft.xml,Reden Sie jetzt im orientalischen Styl.,29,68,character_speech,1,10,,M. Braun.,#madam_braun,169.0,FEMALE,no_annotation,no_annotation,no_annotation
+363,363,GerDracor/kotzebue-maedchenfreundschaft.xml,(zu Madam Braun),0,16,stage_direction,1,10,speech_part,,#rose,170.0,MALE,no_annotation,no_annotation,no_annotation
+364,364,GerDracor/kotzebue-maedchenfreundschaft.xml,Springbrunnen der Weisheit!,0,27,character_speech,1,10,,Rose.,#rose,170.0,MALE,no_annotation,no_annotation,no_annotation
+365,365,GerDracor/kotzebue-maedchenfreundschaft.xml,Quelle der Sittsamkeit!,28,51,character_speech,1,10,,Rose.,#rose,170.0,MALE,"admiration, reverence",positive,emotions of affection
+366,366,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wenn mein Auge dich betrachtet, so
+            sehe ich den Pomeranzenbaum, in dessen Schatten die Lilien wachsen.",52,166,character_speech,1,10,,Rose.,#rose,170.0,MALE,no_annotation,no_annotation,no_annotation
+367,367,GerDracor/kotzebue-maedchenfreundschaft.xml,(zu den andern beyden.),0,23,stage_direction,1,10,speech_part,,#lenore,171.0,FEMALE,no_annotation,no_annotation,no_annotation
+368,368,GerDracor/kotzebue-maedchenfreundschaft.xml,Er spricht ziemlich gut deutsch.,0,32,character_speech,1,10,,Len.,#lenore,171.0,FEMALE,no_annotation,no_annotation,no_annotation
+369,369,GerDracor/kotzebue-maedchenfreundschaft.xml,Ein schlechter Gärtner.,0,23,character_speech,1,10,,Maulw.,#maulwurf,172.0,MALE,abhorrence,negative,emotions of rejection
+370,370,GerDracor/kotzebue-maedchenfreundschaft.xml,Wer Teufel setzt Lilien unter einen Pomeranzenbaum.,24,75,character_speech,1,10,,Maulw.,#maulwurf,172.0,MALE,no_annotation,no_annotation,no_annotation
+371,371,GerDracor/kotzebue-maedchenfreundschaft.xml,Ew: Excellenz drücken sich sehr gnädig aus.,0,43,character_speech,1,10,,M. Braun.,#madam_braun,173.0,FEMALE,no_annotation,no_annotation,no_annotation
+372,372,GerDracor/kotzebue-maedchenfreundschaft.xml,"Erlauben Sie, daß diese meine Zöglinge,
+            einige Talente in Ihrer Gegenwart üben um zu beweisen, daß die jungen Frauenzimmer in
+            meiner Pension zu wackern Hausfrauen gebildet werden.",44,247,character_speech,1,10,,M. Braun.,#madam_braun,173.0,FEMALE,no_annotation,no_annotation,no_annotation
+373,373,GerDracor/kotzebue-maedchenfreundschaft.xml,(nickt mit dem Kopfe.),0,22,stage_direction,1,10,speech_part,,#rose,174.0,MALE,no_annotation,no_annotation,no_annotation
+374,374,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wohlan, Wilhelmine, tanzen Sie ein Solo.",0,40,character_speech,1,10,,M. Braun.,#madam_braun,175.0,FEMALE,no_annotation,no_annotation,no_annotation
+375,375,GerDracor/kotzebue-maedchenfreundschaft.xml,(empfindlich bey Seite.),0,24,stage_direction,1,10,speech_part,,#lenore,176.0,FEMALE,no_annotation,no_annotation,no_annotation
+376,376,GerDracor/kotzebue-maedchenfreundschaft.xml,"Das ist doch auch sonderbar, daß man die Jüngste zuerst auftreten läßt.",0,71,character_speech,1,10,,Len.,#lenore,176.0,FEMALE,no_annotation,no_annotation,no_annotation
+377,377,GerDracor/kotzebue-maedchenfreundschaft.xml,(tanzt.),0,8,stage_direction,1,10,speech_part,,#wilhelmine,177.0,FEMALE,no_annotation,no_annotation,no_annotation
+378,378,GerDracor/kotzebue-maedchenfreundschaft.xml,(leise zu Rose.),0,16,stage_direction,1,10,speech_part,,#hopsa,178.0,MALE,no_annotation,no_annotation,no_annotation
+379,379,GerDracor/kotzebue-maedchenfreundschaft.xml,Sie aben von mir kelernt.,0,25,character_speech,1,10,,Hopsa,#hopsa,178.0,MALE,no_annotation,no_annotation,no_annotation
+380,380,GerDracor/kotzebue-maedchenfreundschaft.xml,Beym Mahomed!,0,13,character_speech,1,10,,Rose.,#rose,179.0,MALE,no_annotation,no_annotation,no_annotation
+381,381,GerDracor/kotzebue-maedchenfreundschaft.xml,sie schwebt wie ein Paradisvogel und hüpft wie eine Gazelle.,14,74,character_speech,1,10,,Rose.,#rose,179.0,MALE,no_annotation,no_annotation,no_annotation
+382,382,GerDracor/kotzebue-maedchenfreundschaft.xml,"(Er
+              giebt Hopsa einen Diamantring, der ihn Wilhelminen überreicht.)",0,81,stage_direction,1,10,inner_speech,,#rose,179.0,MALE,no_annotation,no_annotation,no_annotation
+383,383,GerDracor/kotzebue-maedchenfreundschaft.xml,Brillanten?,0,11,character_speech,1,10,,Len.,#lenore,180.0,FEMALE,being moved,being moved,being moved
+384,384,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich hoffe für uns drey.,12,35,character_speech,1,10,,Len.,#lenore,180.0,FEMALE,no_annotation,no_annotation,no_annotation
+385,385,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sachte, Mamsell, der Ring ist für mich allein.",0,46,character_speech,1,10,,Wilh.,#wilhelmine,181.0,FEMALE,no_annotation,no_annotation,no_annotation
+386,386,GerDracor/kotzebue-maedchenfreundschaft.xml,"Jetzt, Natalie, singen Sie.",0,27,character_speech,1,10,,M. Braun.,#madam_braun,182.0,FEMALE,joy,positive,emotions of pleasure
+387,387,GerDracor/kotzebue-maedchenfreundschaft.xml,(bey Seite),0,11,stage_direction,1,10,speech_part,,#lenore,183.0,FEMALE,no_annotation,no_annotation,no_annotation
+388,388,GerDracor/kotzebue-maedchenfreundschaft.xml,Das ist abscheulich.,0,20,character_speech,1,10,,Len.,#lenore,183.0,FEMALE,abhorrence,negative,emotions of rejection
+389,389,GerDracor/kotzebue-maedchenfreundschaft.xml,Am Ende kommt die Reihe gar nicht an mich.,21,63,character_speech,1,10,,Len.,#lenore,183.0,FEMALE,suffering,negative,emotions of suffering and empathy
+390,390,GerDracor/kotzebue-maedchenfreundschaft.xml,(singt ein Liedchen oder eine Romanze),0,38,stage_direction,1,10,speech_part,,#natalie,184.0,FEMALE,no_annotation,no_annotation,no_annotation
+391,391,GerDracor/kotzebue-maedchenfreundschaft.xml,Allah!,0,6,character_speech,1,10,,Rose.,#rose,185.0,MALE,being moved,being moved,being moved
+392,392,GerDracor/kotzebue-maedchenfreundschaft.xml,Allah!,7,13,character_speech,1,10,,Rose.,#rose,185.0,MALE,being moved,being moved,being moved
+393,393,GerDracor/kotzebue-maedchenfreundschaft.xml,ich bin entzückt!,14,31,character_speech,1,10,,Rose.,#rose,185.0,MALE,joy,positive,emotions of pleasure
+394,394,GerDracor/kotzebue-maedchenfreundschaft.xml,So,32,34,character_speech,1,10,,Rose.,#rose,185.0,MALE,no_annotation,no_annotation,no_annotation
+395,395,GerDracor/kotzebue-maedchenfreundschaft.xml, singen die Huris im Paradiese!,0,31,character_speech,1,10,,Rose.,#rose,185.0,MALE,joy,positive,emotions of pleasure
+396,396,GerDracor/kotzebue-maedchenfreundschaft.xml,"(er giebt Hopsa ein Fläschchen mit Rosenessenz, der es Natalien
+              überreicht.)",0,90,stage_direction,1,10,inner_speech,,#rose,185.0,MALE,no_annotation,no_annotation,no_annotation
+397,397,GerDracor/kotzebue-maedchenfreundschaft.xml,(bey Seite),0,11,stage_direction,1,10,speech_part,,#lenore,186.0,FEMALE,no_annotation,no_annotation,no_annotation
+398,398,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich ersticke.,0,13,character_speech,1,10,,Len.,#lenore,186.0,FEMALE,being moved,being moved,being moved
+399,399,GerDracor/kotzebue-maedchenfreundschaft.xml,Um Ew.,0,6,character_speech,1,10,,M. Braun.,#madam_braun,187.0,FEMALE,no_annotation,no_annotation,no_annotation
+400,400,GerDracor/kotzebue-maedchenfreundschaft.xml,Excellenz nicht zu ermüden –,7,35,character_speech,1,10,,M. Braun.,#madam_braun,187.0,FEMALE,no_annotation,no_annotation,no_annotation
+401,401,GerDracor/kotzebue-maedchenfreundschaft.xml,(zupft sie und sagt empfindlich.),0,33,stage_direction,1,10,speech_part,,#lenore,188.0,FEMALE,no_annotation,no_annotation,no_annotation
+402,402,GerDracor/kotzebue-maedchenfreundschaft.xml,So Madam!,0,9,character_speech,1,10,,Len.,#lenore,188.0,FEMALE,no_annotation,no_annotation,no_annotation
+403,403,GerDracor/kotzebue-maedchenfreundschaft.xml,Mich wollen sie gar nicht erscheinen lassen?,10,54,character_speech,1,10,,Len.,#lenore,188.0,FEMALE,being moved,being moved,being moved
+404,404,GerDracor/kotzebue-maedchenfreundschaft.xml,(bey Seite),0,11,stage_direction,1,10,speech_part,,#madam_braun,189.0,FEMALE,no_annotation,no_annotation,no_annotation
+405,405,GerDracor/kotzebue-maedchenfreundschaft.xml,Sie ist empfindlich; desto besser.,0,34,character_speech,1,10,,M. Braun.,#madam_braun,189.0,FEMALE,no_annotation,no_annotation,no_annotation
+406,406,GerDracor/kotzebue-maedchenfreundschaft.xml,(laut),0,6,stage_direction,1,10,inner_speech,,#madam_braun,189.0,FEMALE,no_annotation,no_annotation,no_annotation
+407,407,GerDracor/kotzebue-maedchenfreundschaft.xml, Wenn Se.,0,9,character_speech,1,10,,M. Braun.,#madam_braun,189.0,FEMALE,no_annotation,no_annotation,no_annotation
+408,408,GerDracor/kotzebue-maedchenfreundschaft.xml,"Excellenz erlauben –
+            Declamiren Sie den schönen Monolog aus Schillers Jungfrau von Orleans.",10,113,character_speech,1,10,,M. Braun.,#madam_braun,189.0,FEMALE,no_annotation,no_annotation,no_annotation
+409,409,GerDracor/kotzebue-maedchenfreundschaft.xml,(thut es.),0,10,stage_direction,1,10,speech_part,,#lenore,190.0,FEMALE,no_annotation,no_annotation,no_annotation
+410,410,GerDracor/kotzebue-maedchenfreundschaft.xml,"(nickt zwar seinen Beyfall, als aber Hopsa sich ihm nähert, um auch ein Geschenk
+            für Lenoren zu empfangen, steht er auf, ohne etwas zu geben.)",0,154,stage_direction,1,10,speech_part,,#rose,191.0,MALE,no_annotation,no_annotation,no_annotation
+411,411,GerDracor/kotzebue-maedchenfreundschaft.xml,(bey Seite.),0,12,stage_direction,1,10,speech_part,,#lenore,192.0,FEMALE,no_annotation,no_annotation,no_annotation
+412,412,GerDracor/kotzebue-maedchenfreundschaft.xml,Mein Gott!,0,10,character_speech,1,10,,Len.,#lenore,192.0,FEMALE,being moved,being moved,being moved
+413,413,GerDracor/kotzebue-maedchenfreundschaft.xml,er geht fort.,11,24,character_speech,1,10,,Len.,#lenore,192.0,FEMALE,no_annotation,no_annotation,no_annotation
+414,414,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich werde jetzt die Ehre haben, Ew.",0,35,character_speech,1,10,,Mad. Braun.,#madam_braun,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+415,415,GerDracor/kotzebue-maedchenfreundschaft.xml,Excellenz mein ganzes Haus zu zeigen.,36,73,character_speech,1,10,,Mad. Braun.,#madam_braun,193.0,FEMALE,no_annotation,no_annotation,no_annotation
+416,416,GerDracor/kotzebue-maedchenfreundschaft.xml,(Das Gefolge entfernt sich.,0,27,stage_direction,1,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+417,417,GerDracor/kotzebue-maedchenfreundschaft.xml,"Rose reicht Madam Braun die Hand, kehrt aber noch einmahl
+          um, betrachtet die drey Freundinnen und wirft endlich Lenoren das Schnupftuch zu, die mit
+          einem solchen Geschenke sehr unzufrieden scheint.",28,245,stage_direction,1,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+418,418,GerDracor/kotzebue-maedchenfreundschaft.xml,"Darauf geht er mit Madam Braun
+          ab.)",246,291,stage_direction,1,10,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+419,419,GerDracor/kotzebue-maedchenfreundschaft.xml,Lenore.,0,7,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+420,420,GerDracor/kotzebue-maedchenfreundschaft.xml,Natalie.,8,16,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+421,421,GerDracor/kotzebue-maedchenfreundschaft.xml,Wilhelmine.,17,28,stage_direction,1,11,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+422,422,GerDracor/kotzebue-maedchenfreundschaft.xml,"Nun, liebe Freundinnen, was sagt Ihr dazu?",0,42,character_speech,1,11,,Nat.,#natalie,194.0,FEMALE,no_annotation,no_annotation,no_annotation
+423,423,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich bin zufrieden; aber die arme Lenore!,0,40,character_speech,1,11,,Wilh.,#wilhelmine,195.0,FEMALE,compassion,negative,emotions of suffering and empathy
+424,424,GerDracor/kotzebue-maedchenfreundschaft.xml,"Er hat nicht einmahl aus Höflichkeit gethan,
+            als ob er zuhörte.",41,116,character_speech,1,11,,Wilh.,#wilhelmine,195.0,FEMALE,no_annotation,no_annotation,no_annotation
+425,425,GerDracor/kotzebue-maedchenfreundschaft.xml,Weil er vor lauter sehen nicht zum hören kommen konnte.,0,55,character_speech,1,11,,Len.,#lenore,196.0,FEMALE,no_annotation,no_annotation,no_annotation
+426,426,GerDracor/kotzebue-maedchenfreundschaft.xml,"Er hat mich ja immer fort starr
+            angeblickt.",56,111,character_speech,1,11,,Len.,#lenore,196.0,FEMALE,love,positive,emotions of affection
+427,427,GerDracor/kotzebue-maedchenfreundschaft.xml,"Da irrst du dich, Lorchen.",0,26,character_speech,1,11,,Wilh.,#wilhelmine,197.0,FEMALE,no_annotation,no_annotation,no_annotation
+428,428,GerDracor/kotzebue-maedchenfreundschaft.xml,Auf mich hat er die Augen geheftet.,27,62,character_speech,1,11,,Wilh.,#wilhelmine,197.0,FEMALE,love,positive,emotions of affection
+429,429,GerDracor/kotzebue-maedchenfreundschaft.xml,Ihr seyd doch in der That alle beyde sehr leicht zu täuschen.,0,61,character_speech,1,11,,Nat.,#natalie,198.0,FEMALE,no_annotation,no_annotation,no_annotation
+430,430,GerDracor/kotzebue-maedchenfreundschaft.xml,"Habt Ihr denn nicht
+            bemerkt, als ich sang –",62,117,character_speech,1,11,,Nat.,#natalie,198.0,FEMALE,no_annotation,no_annotation,no_annotation
+431,431,GerDracor/kotzebue-maedchenfreundschaft.xml,Du?,0,3,character_speech,1,11,,Len.,#lenore,199.0,FEMALE,no_annotation,no_annotation,no_annotation
+432,432,GerDracor/kotzebue-maedchenfreundschaft.xml,gesungen?,4,13,character_speech,1,11,,Len.,#lenore,199.0,FEMALE,no_annotation,no_annotation,no_annotation
+433,433,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ach ich bitte dich, rede doch davon nicht, du hattest heute gar keine
+            Stimme.",14,103,character_speech,1,11,,Len.,#lenore,199.0,FEMALE,suffering,negative,emotions of suffering and empathy
+434,434,GerDracor/kotzebue-maedchenfreundschaft.xml,Das ist wahr.,0,13,character_speech,1,11,,Wilh.,#wilhelmine,200.0,FEMALE,no_annotation,no_annotation,no_annotation
+435,435,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich stand deinetwegen wie auf Nadeln.,14,51,character_speech,1,11,,Wilh.,#wilhelmine,200.0,FEMALE,suffering,negative,emotions of suffering and empathy
+436,436,GerDracor/kotzebue-maedchenfreundschaft.xml,(spöttisch.),0,12,stage_direction,1,11,speech_part,,#natalie,201.0,FEMALE,abhorrence,negative,emotions of rejection
+437,437,GerDracor/kotzebue-maedchenfreundschaft.xml,"Liebes Minchen, hast du denn etwa heute gut getanzt?",0,52,character_speech,1,11,,Nat.,#natalie,201.0,FEMALE,joy,positive,emotions of pleasure
+438,438,GerDracor/kotzebue-maedchenfreundschaft.xml,O erbärmlich.,0,13,character_speech,1,11,,Len.,#lenore,202.0,FEMALE,anger,negative,emotions of rejection
+439,439,GerDracor/kotzebue-maedchenfreundschaft.xml,Mein Tanz war doch wohl besser als deine Deklamation.,0,53,character_speech,1,11,,Wilh.,#wilhelmine,203.0,FEMALE,no_annotation,no_annotation,no_annotation
+440,440,GerDracor/kotzebue-maedchenfreundschaft.xml,Den besten Beweis geben ja wohl die Geschenke.,0,46,character_speech,1,11,,Nat.,#natalie,204.0,FEMALE,no_annotation,no_annotation,no_annotation
+441,441,GerDracor/kotzebue-maedchenfreundschaft.xml,"Das Meinige ist allerliebst, und riecht
+            und duftet –",47,111,character_speech,1,11,,Nat.,#natalie,204.0,FEMALE,joy,positive,emotions of pleasure
+442,442,GerDracor/kotzebue-maedchenfreundschaft.xml,Und das Meinige glänzt und schimmert.,0,37,character_speech,1,11,,Wilh.,#wilhelmine,205.0,FEMALE,"admiration, reverence",positive,emotions of affection
+443,443,GerDracor/kotzebue-maedchenfreundschaft.xml,"Deines, liebe Lenore, ist eben nicht sonderlich.",0,48,character_speech,1,11,,Nat.,#natalie,206.0,FEMALE,no_annotation,no_annotation,no_annotation
+444,444,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sehr einfach; aber er hat es mir selbst gegeben, und mit welcher Grazie!",0,72,character_speech,1,11,,Len.,#lenore,207.0,FEMALE,"admiration, reverence",positive,emotions of affection
+445,445,GerDracor/kotzebue-maedchenfreundschaft.xml,"Euch hat er
+            durch seinen Sklaven bedienen lassen.",73,134,character_speech,1,11,,Len.,#lenore,207.0,FEMALE,no_annotation,no_annotation,no_annotation
+446,446,GerDracor/kotzebue-maedchenfreundschaft.xml,"Seht doch, wie eingebildet!",0,27,character_speech,1,11,,Wilh.,#wilhelmine,208.0,FEMALE,anger,negative,emotions of rejection
+447,447,GerDracor/kotzebue-maedchenfreundschaft.xml,"Und du, wie eifersüchtig!",0,25,character_speech,1,11,,Len.,#lenore,209.0,FEMALE,love,positive,emotions of affection
+448,448,GerDracor/kotzebue-maedchenfreundschaft.xml,"Und Du, wie übermüthig!",0,23,character_speech,1,11,,Nat.,#natalie,210.0,FEMALE,no_annotation,no_annotation,no_annotation
+449,449,GerDracor/kotzebue-maedchenfreundschaft.xml,"Schon gut, ich sag es dem Gesandten.",0,36,character_speech,1,11,,Wilh.,#wilhelmine,211.0,FEMALE,no_annotation,no_annotation,no_annotation
+450,450,GerDracor/kotzebue-maedchenfreundschaft.xml,"Mamsell hat üble Laune, wir wollen sie lieber allein lassen.",0,60,character_speech,1,11,,Nat.,#natalie,212.0,FEMALE,anger,negative,emotions of rejection
+451,451,GerDracor/kotzebue-maedchenfreundschaft.xml,"Unsere Schuld ist es ja nicht, daß der Gesandte ihr bloß ein Schnupftuch gegeben.",0,81,character_speech,1,11,,Wilh.,#wilhelmine,213.0,FEMALE,no_annotation,no_annotation,no_annotation
+452,452,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich bitte Euch, geht wohin es Euch beliebt, Ihr ärgert mich.",0,60,character_speech,1,11,,Len.,#lenore,214.0,FEMALE,anger,negative,emotions of rejection
+453,453,GerDracor/kotzebue-maedchenfreundschaft.xml,"(indem sie abgeht, hält sie Lenoren den Ring vor die Augen.)",0,60,stage_direction,1,11,speech_part,,#wilhelmine,215.0,FEMALE,no_annotation,no_annotation,no_annotation
+454,454,GerDracor/kotzebue-maedchenfreundschaft.xml,Wie das flimmert!,0,17,character_speech,1,11,,Wilh.,#wilhelmine,215.0,FEMALE,being moved,being moved,being moved
+455,455,GerDracor/kotzebue-maedchenfreundschaft.xml,(macht es eben so mit der Rosenessenz),0,38,stage_direction,1,11,speech_part,,#natalie,216.0,FEMALE,no_annotation,no_annotation,no_annotation
+456,456,GerDracor/kotzebue-maedchenfreundschaft.xml,Wie das duftet!,0,15,character_speech,1,11,,Nat.,#natalie,216.0,FEMALE,joy,positive,emotions of pleasure
+457,457,GerDracor/kotzebue-maedchenfreundschaft.xml,(Beyde ab.),0,11,stage_direction,1,11,inner_speech,,#natalie,216.0,FEMALE,no_annotation,no_annotation,no_annotation
+458,458,GerDracor/kotzebue-maedchenfreundschaft.xml,"(allein, fast weinend)",0,22,stage_direction,1,11,speech_part,,#lenore,217.0,FEMALE,suffering,negative,emotions of suffering and empathy
+459,459,GerDracor/kotzebue-maedchenfreundschaft.xml,Unausstehliche Eitelkeit!,0,25,character_speech,1,11,,Len.,#lenore,217.0,FEMALE,anger,negative,emotions of rejection
+460,460,GerDracor/kotzebue-maedchenfreundschaft.xml,Ach!,26,30,character_speech,1,11,,Len.,#lenore,217.0,FEMALE,suffering,negative,emotions of suffering and empathy
+461,461,GerDracor/kotzebue-maedchenfreundschaft.xml,wenn ich sie doch ein wenig demüthigen könnte!,31,77,character_speech,1,11,,Len.,#lenore,217.0,FEMALE,"admiration, reverence",positive,emotions of affection
+462,462,GerDracor/kotzebue-maedchenfreundschaft.xml,"– Ich
+            weiß nicht – seit einer Viertelstunde – ist mir so wunderlich zu Muthe – ich empfinde
+            etwas, das ich noch nie empfunden habe – Mein Gott, da kommt der Gesandte.",78,268,character_speech,1,11,,Len.,#lenore,217.0,FEMALE,being moved,being moved,being moved
+463,463,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich zittre
+            und bebe.",269,301,character_speech,1,11,,Len.,#lenore,217.0,FEMALE,being moved,being moved,being moved
+464,464,GerDracor/kotzebue-maedchenfreundschaft.xml,"Rose, und Lenore.",0,17,stage_direction,1,12,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+465,465,GerDracor/kotzebue-maedchenfreundschaft.xml,Liebenswürdige Lenore!,0,22,character_speech,1,12,,Rose.,#rose,218.0,MALE,love,positive,emotions of affection
+466,466,GerDracor/kotzebue-maedchenfreundschaft.xml,ich bin dem lästigen Gedränge entschlüpft.,23,65,character_speech,1,12,,Rose.,#rose,218.0,MALE,joy,positive,emotions of pleasure
+467,467,GerDracor/kotzebue-maedchenfreundschaft.xml,Mein Herz führt  mich hieher zurück.,66,102,character_speech,1,12,,Rose.,#rose,218.0,MALE,love,positive,emotions of affection
+468,468,GerDracor/kotzebue-maedchenfreundschaft.xml,Sie sind allein?,103,119,character_speech,1,12,,Rose.,#rose,218.0,MALE,being moved,being moved,being moved
+469,469,GerDracor/kotzebue-maedchenfreundschaft.xml,Wo sind Ihre beyden Freundinnen?,120,152,character_speech,1,12,,Rose.,#rose,218.0,MALE,no_annotation,no_annotation,no_annotation
+470,470,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich weiß es nicht.,0,18,character_speech,1,12,,Len.,#lenore,219.0,FEMALE,no_annotation,no_annotation,no_annotation
+471,471,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sollt’ ich so unglücklich seyn, daß sie vor mir flöhen?",0,55,character_speech,1,12,,Rose.,#rose,220.0,MALE,suffering,negative,emotions of suffering and empathy
+472,472,GerDracor/kotzebue-maedchenfreundschaft.xml,Davon haben sie nichts gesagt.,0,30,character_speech,1,12,,Len.,#lenore,221.0,FEMALE,no_annotation,no_annotation,no_annotation
+473,473,GerDracor/kotzebue-maedchenfreundschaft.xml,"Aber Sie, schöne Lenore, Sie scheinen so bewegt?",0,48,character_speech,1,12,,Rose.,#rose,222.0,MALE,being moved,being moved,being moved
+474,474,GerDracor/kotzebue-maedchenfreundschaft.xml,Ach!,0,4,character_speech,1,12,,Len.,#lenore,223.0,FEMALE,suffering,negative,emotions of suffering and empathy
+475,475,GerDracor/kotzebue-maedchenfreundschaft.xml,lassen Sie mich zufrieden.,5,31,character_speech,1,12,,Len.,#lenore,223.0,FEMALE,joy,positive,emotions of pleasure
+476,476,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich habe mich geärgert, so geärgert – Sie sind Schuld,
+            daß wir uns gezankt haben.",32,125,character_speech,1,12,,Len.,#lenore,223.0,FEMALE,anger,negative,emotions of rejection
+477,477,GerDracor/kotzebue-maedchenfreundschaft.xml,Wär es möglich!,0,15,character_speech,1,12,,Rose.,#rose,224.0,MALE,suffering,negative,emotions of suffering and empathy
+478,478,GerDracor/kotzebue-maedchenfreundschaft.xml,die unzertrennlichen Freundinnen?,16,49,character_speech,1,12,,Rose.,#rose,224.0,MALE,being moved,being moved,being moved
+479,479,GerDracor/kotzebue-maedchenfreundschaft.xml,"Die Verfasserinnen jenes
+            allerliebsten Briefes?",50,109,character_speech,1,12,,Rose.,#rose,224.0,MALE,no_annotation,no_annotation,no_annotation
+480,480,GerDracor/kotzebue-maedchenfreundschaft.xml,Darf man fragen warum?,110,132,character_speech,1,12,,Rose.,#rose,224.0,MALE,no_annotation,no_annotation,no_annotation
+481,481,GerDracor/kotzebue-maedchenfreundschaft.xml,Mamsell Wilhelmine –,0,20,character_speech,1,12,,Len.,#lenore,225.0,FEMALE,no_annotation,no_annotation,no_annotation
+482,482,GerDracor/kotzebue-maedchenfreundschaft.xml,Unmöglich kann sie Schuld daran seyn.,0,37,character_speech,1,12,,Rose.,#rose,226.0,MALE,no_annotation,no_annotation,no_annotation
+483,483,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ihre lebhafte Physiognomie, ihre Grazie, die süße
+            Unschuld, der kein Herz widersteht –",38,136,character_speech,1,12,,Rose.,#rose,226.0,MALE,"admiration, reverence",positive,emotions of affection
+484,484,GerDracor/kotzebue-maedchenfreundschaft.xml,Es ist ja nur ein Kind.,0,23,character_speech,1,12,,Len.,#lenore,227.0,FEMALE,no_annotation,no_annotation,no_annotation
+485,485,GerDracor/kotzebue-maedchenfreundschaft.xml,Aber ein sehr liebenswürdiges Kind.,0,35,character_speech,1,12,,Rose.,#rose,228.0,MALE,love,positive,emotions of affection
+486,486,GerDracor/kotzebue-maedchenfreundschaft.xml,(bey Seite.),0,12,stage_direction,1,12,speech_part,,#lenore,229.0,FEMALE,no_annotation,no_annotation,no_annotation
+487,487,GerDracor/kotzebue-maedchenfreundschaft.xml,Er ist rasend in sie verliebt.,0,30,character_speech,1,12,,Len.,#lenore,229.0,FEMALE,love,positive,emotions of affection
+488,488,GerDracor/kotzebue-maedchenfreundschaft.xml,"Natalie hingegen sieht so gut aus, ist ein Engel von Sanftmuth.",0,63,character_speech,1,12,,Rose.,#rose,230.0,MALE,"admiration, reverence",positive,emotions of affection
+489,489,GerDracor/kotzebue-maedchenfreundschaft.xml,(gleichgültig),0,14,stage_direction,1,12,speech_part,,#lenore,231.0,FEMALE,being moved,being moved,being moved
+490,490,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ja, es ist ein recht gutes Mädchen!",0,35,character_speech,1,12,,Len.,#lenore,231.0,FEMALE,no_annotation,no_annotation,no_annotation
+491,491,GerDracor/kotzebue-maedchenfreundschaft.xml,"Es wird nicht schwer halten, Sie wieder zu versöhnen.",0,53,character_speech,1,12,,Rose.,#rose,232.0,MALE,no_annotation,no_annotation,no_annotation
+492,492,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sind wir nur erst auf dem Wege
+            nach Konstantinopel –",54,118,character_speech,1,12,,Rose.,#rose,232.0,MALE,no_annotation,no_annotation,no_annotation
+493,493,GerDracor/kotzebue-maedchenfreundschaft.xml,"Auf mich, Herr Ambassadeur, dürfen Sie bey dieser Reise nicht zählen.",0,69,character_speech,1,12,,Len.,#lenore,233.0,FEMALE,no_annotation,no_annotation,no_annotation
+494,494,GerDracor/kotzebue-maedchenfreundschaft.xml,Himmel!,0,7,character_speech,1,12,,Rose.,#rose,234.0,MALE,being moved,being moved,being moved
+495,495,GerDracor/kotzebue-maedchenfreundschaft.xml,was sagen Sie!,8,22,character_speech,1,12,,Rose.,#rose,234.0,MALE,anger,negative,emotions of rejection
+496,496,GerDracor/kotzebue-maedchenfreundschaft.xml,Reisen Sie in Gottes Nahmen mit meinen beyden Freundinnen.,0,58,character_speech,1,12,,Len.,#lenore,235.0,FEMALE,friendship,positive,emotions of affection
+497,497,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich habe keine Lust mich
+            aufopfern zu lassen.",59,116,character_speech,1,12,,Len.,#lenore,235.0,FEMALE,abhorrence,negative,emotions of rejection
+498,498,GerDracor/kotzebue-maedchenfreundschaft.xml,Aufopfern?,0,10,character_speech,1,12,,Rose.,#rose,236.0,MALE,no_annotation,no_annotation,no_annotation
+499,499,GerDracor/kotzebue-maedchenfreundschaft.xml,Wilhelmine ist so schön.,0,24,character_speech,1,12,,Len.,#lenore,237.0,FEMALE,"admiration, reverence",positive,emotions of affection
+500,500,GerDracor/kotzebue-maedchenfreundschaft.xml,"Natalie ist so gut – Sie nähmen mich doch nur aus Höflichkeit
+            mit.",25,103,character_speech,1,12,,Len.,#lenore,237.0,FEMALE,no_annotation,no_annotation,no_annotation
+501,501,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wer wagt es, solche Lästerungen auszustoßen?",0,44,character_speech,1,12,,Rose.,#rose,238.0,MALE,anger,negative,emotions of rejection
+502,502,GerDracor/kotzebue-maedchenfreundschaft.xml,Die beyden Mamsells.,0,20,character_speech,1,12,,Len.,#lenore,239.0,FEMALE,no_annotation,no_annotation,no_annotation
+503,503,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sie behaupten, ich hätte nicht einmahl die Ehre gehabt, von Ihnen
+            bemerkt zu werden.",21,117,character_speech,1,12,,Len.,#lenore,239.0,FEMALE,no_annotation,no_annotation,no_annotation
+504,504,GerDracor/kotzebue-maedchenfreundschaft.xml,Ha!,0,3,character_speech,1,12,,Rose.,#rose,240.0,MALE,no_annotation,no_annotation,no_annotation
+505,505,GerDracor/kotzebue-maedchenfreundschaft.xml,schöne Lenore!,4,18,character_speech,1,12,,Rose.,#rose,240.0,MALE,joy,positive,emotions of pleasure
+506,506,GerDracor/kotzebue-maedchenfreundschaft.xml,und das könnten Sie glauben?,19,47,character_speech,1,12,,Rose.,#rose,240.0,MALE,no_annotation,no_annotation,no_annotation
+507,507,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sie wissen nicht, wie tief der Eindruck
+            ist, den Sie auf mein Herz gemacht haben.",48,141,character_speech,1,12,,Rose.,#rose,240.0,MALE,suffering,negative,emotions of suffering and empathy
+508,508,GerDracor/kotzebue-maedchenfreundschaft.xml,Sie täuschen mich.,0,18,character_speech,1,12,,Len.,#lenore,241.0,FEMALE,no_annotation,no_annotation,no_annotation
+509,509,GerDracor/kotzebue-maedchenfreundschaft.xml,"Natalie und Wilhelmine mögen uns begleiten, aber Sie werden über ihre Freundinnen
+            herrschen, wie über mich.",0,119,character_speech,1,12,,Rose.,#rose,242.0,MALE,no_annotation,no_annotation,no_annotation
+510,510,GerDracor/kotzebue-maedchenfreundschaft.xml,(mit ausbrechender Freude.),0,27,stage_direction,1,12,speech_part,,#lenore,243.0,FEMALE,joy,positive,emotions of pleasure
+511,511,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich werde über sie herrschen?,0,29,character_speech,1,12,,Len.,#lenore,243.0,FEMALE,being moved,being moved,being moved
+512,512,GerDracor/kotzebue-maedchenfreundschaft.xml,(Sie faßt sich.),0,16,stage_direction,1,12,inner_speech,,#lenore,243.0,FEMALE,no_annotation,no_annotation,no_annotation
+513,513,GerDracor/kotzebue-maedchenfreundschaft.xml," Nicht doch, – wir sind zu
+            vertraute Freundinnen – um alles in der Welt möchte ich keine von beyden kränken.",0,120,character_speech,1,12,,Len.,#lenore,243.0,FEMALE,friendship,positive,emotions of affection
+514,514,GerDracor/kotzebue-maedchenfreundschaft.xml,"– In
+            der That, Herr Ambassadeur, wenn ich es recht bedenke – so thun Sie wohl am Besten,
+            beyde hier zu lassen.",121,255,character_speech,1,12,,Len.,#lenore,243.0,FEMALE,no_annotation,no_annotation,no_annotation
+515,515,GerDracor/kotzebue-maedchenfreundschaft.xml,(bey Seite.),0,12,stage_direction,1,12,speech_part,,#rose,244.0,MALE,no_annotation,no_annotation,no_annotation
+516,516,GerDracor/kotzebue-maedchenfreundschaft.xml,Sie ist allerliebst!,0,20,character_speech,1,12,,Rose,#rose,244.0,MALE,joy,positive,emotions of pleasure
+517,517,GerDracor/kotzebue-maedchenfreundschaft.xml,(laut),0,6,stage_direction,1,12,inner_speech,,#rose,244.0,MALE,no_annotation,no_annotation,no_annotation
+518,518,GerDracor/kotzebue-maedchenfreundschaft.xml, Wie?,0,5,character_speech,1,12,,Rose,#rose,244.0,MALE,no_annotation,no_annotation,no_annotation
+519,519,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sie wollten sich allein mit mir
+            verbinden?",6,60,character_speech,1,12,,Rose,#rose,244.0,MALE,no_annotation,no_annotation,no_annotation
+520,520,GerDracor/kotzebue-maedchenfreundschaft.xml,Sie hätten Neigung zu mir?,61,87,character_speech,1,12,,Rose,#rose,244.0,MALE,love,positive,emotions of affection
+521,521,GerDracor/kotzebue-maedchenfreundschaft.xml,"nicht mein Rang, mein Reichthum –",88,121,character_speech,1,12,,Rose,#rose,244.0,MALE,no_annotation,no_annotation,no_annotation
+522,522,GerDracor/kotzebue-maedchenfreundschaft.xml,"(halb ärgerlich, halb freundlich).",0,34,stage_direction,1,12,speech_part,,#lenore,245.0,FEMALE,anger,negative,emotions of rejection
+523,523,GerDracor/kotzebue-maedchenfreundschaft.xml,Ach Gott!,0,9,character_speech,1,12,,Len.,#lenore,245.0,FEMALE,being moved,being moved,being moved
+524,524,GerDracor/kotzebue-maedchenfreundschaft.xml,nein!,10,15,character_speech,1,12,,Len.,#lenore,245.0,FEMALE,no_annotation,no_annotation,no_annotation
+525,525,GerDracor/kotzebue-maedchenfreundschaft.xml,Sie sprechen das Glück meines Lebens aus.,0,41,character_speech,1,12,,Rose.,#rose,246.0,MALE,love,positive,emotions of affection
+526,526,GerDracor/kotzebue-maedchenfreundschaft.xml,"Der treueste Liebhaber schwört zu Ihren
+            Füßen, nie für eine andere, als für Sie zu athmen.",42,144,character_speech,1,12,,Rose.,#rose,246.0,MALE,love,positive,emotions of affection
+527,527,GerDracor/kotzebue-maedchenfreundschaft.xml,"(Er kniet, faßt ihre Hand, und
+              drückt sie an seine Lippen.)",0,73,stage_direction,1,12,inner_speech,,#rose,246.0,MALE,no_annotation,no_annotation,no_annotation
+528,528,GerDracor/kotzebue-maedchenfreundschaft.xml,Madam Braun.,0,12,stage_direction,1,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+529,529,GerDracor/kotzebue-maedchenfreundschaft.xml,"Natalie, Wilhelmine.",13,33,stage_direction,1,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+530,530,GerDracor/kotzebue-maedchenfreundschaft.xml,Die Vorigen.,34,46,stage_direction,1,13,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+531,531,GerDracor/kotzebue-maedchenfreundschaft.xml,"Himmel, was seh’ ich!",0,21,character_speech,1,13,,M. Braun.,#madam_braun,247.0,FEMALE,being moved,being moved,being moved
+532,532,GerDracor/kotzebue-maedchenfreundschaft.xml,(bey Seite.),0,12,stage_direction,1,13,speech_part,,#lenore,248.0,FEMALE,no_annotation,no_annotation,no_annotation
+533,533,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich bin verloren!,0,17,character_speech,1,13,,Len.,#lenore,248.0,FEMALE,despair,negative,emotions of anxiety
+534,534,GerDracor/kotzebue-maedchenfreundschaft.xml,"Wie, Mademoisell!",0,17,character_speech,1,13,,M. Braun.,#madam_braun,249.0,FEMALE,no_annotation,no_annotation,no_annotation
+535,535,GerDracor/kotzebue-maedchenfreundschaft.xml,"waren Sie es nicht, die den Befehlen Ihres Oheims so halsstarrig
+            widerstrebte?",18,108,character_speech,1,13,,M. Braun.,#madam_braun,249.0,FEMALE,anger,negative,emotions of rejection
+536,536,GerDracor/kotzebue-maedchenfreundschaft.xml,O das ist ganz abscheulich.,0,27,character_speech,1,13,,Nat.,#natalie,250.0,FEMALE,abhorrence,negative,emotions of rejection
+537,537,GerDracor/kotzebue-maedchenfreundschaft.xml,Lesen Sie ihr den Text nur recht tüchtig.,0,41,character_speech,1,13,,Wilh.,#wilhelmine,251.0,FEMALE,no_annotation,no_annotation,no_annotation
+538,538,GerDracor/kotzebue-maedchenfreundschaft.xml,"Madam, Sie kennen mich und meine Absichten.",0,43,character_speech,1,13,,Rose.,#rose,252.0,MALE,no_annotation,no_annotation,no_annotation
+539,539,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich wünsche dies liebenswürdige Kind zu
+            heirathen.",44,106,character_speech,1,13,,Rose.,#rose,252.0,MALE,love,positive,emotions of affection
+540,540,GerDracor/kotzebue-maedchenfreundschaft.xml,"Vergessen Sie nicht die Bedingung, Herr Ambassadeur.",0,52,character_speech,1,13,,Nat.,#natalie,253.0,FEMALE,no_annotation,no_annotation,no_annotation
+541,541,GerDracor/kotzebue-maedchenfreundschaft.xml,Wir gehen alle drey mit.,53,77,character_speech,1,13,,Nat.,#natalie,253.0,FEMALE,no_annotation,no_annotation,no_annotation
+542,542,GerDracor/kotzebue-maedchenfreundschaft.xml,Darüber hat nur meine Geliebte zu entscheiden.,0,46,character_speech,1,13,,Rose.,#rose,254.0,MALE,love,positive,emotions of affection
+543,543,GerDracor/kotzebue-maedchenfreundschaft.xml,Liebe Freundinnen!,0,18,character_speech,1,13,,Len.,#lenore,255.0,FEMALE,friendship,positive,emotions of affection
+544,544,GerDracor/kotzebue-maedchenfreundschaft.xml,"es würde wir allerdings unendlich angenehm seyn – Euch um mich zu
+            sehn –",19,103,character_speech,1,13,,Len.,#lenore,255.0,FEMALE,joy,positive,emotions of pleasure
+545,545,GerDracor/kotzebue-maedchenfreundschaft.xml,(leise zu Rose.),0,16,stage_direction,1,13,inner_speech,,#lenore,255.0,FEMALE,no_annotation,no_annotation,no_annotation
+546,546,GerDracor/kotzebue-maedchenfreundschaft.xml, Nehmen Sie sie nicht mit.,0,26,character_speech,1,13,,Len.,#lenore,255.0,FEMALE,no_annotation,no_annotation,no_annotation
+547,547,GerDracor/kotzebue-maedchenfreundschaft.xml,(laut),0,6,stage_direction,1,13,inner_speech,,#lenore,255.0,FEMALE,no_annotation,no_annotation,no_annotation
+548,548,GerDracor/kotzebue-maedchenfreundschaft.xml,"
+            Aber ich muß den Befehlen",0,38,character_speech,1,13,,Len.,#lenore,255.0,FEMALE,"admiration, reverence",positive,emotions of affection
+549,549,GerDracor/kotzebue-maedchenfreundschaft.xml, meines künftigen Gemahls gehorchen.,0,36,character_speech,1,13,,Len.,#lenore,255.0,FEMALE,no_annotation,no_annotation,no_annotation
+550,550,GerDracor/kotzebue-maedchenfreundschaft.xml,(leise),0,7,stage_direction,1,13,inner_speech,,#lenore,255.0,FEMALE,no_annotation,no_annotation,no_annotation
+551,551,GerDracor/kotzebue-maedchenfreundschaft.xml," Sagen Sie, es gehe nicht an.",0,29,character_speech,1,13,,Len.,#lenore,255.0,FEMALE,anger,negative,emotions of rejection
+552,552,GerDracor/kotzebue-maedchenfreundschaft.xml,"Schön, Mamsell, recht schön!",0,28,character_speech,1,13,,Wilh.,#wilhelmine,256.0,FEMALE,no_annotation,no_annotation,no_annotation
+553,553,GerDracor/kotzebue-maedchenfreundschaft.xml,so etwas Schlangenartiges!,29,55,character_speech,1,13,,Wilh.,#wilhelmine,256.0,FEMALE,no_annotation,no_annotation,no_annotation
+554,554,GerDracor/kotzebue-maedchenfreundschaft.xml,Wo bleibt der feyerliche Schwur?,0,32,character_speech,1,13,,Nat.,#natalie,257.0,FEMALE,no_annotation,no_annotation,no_annotation
+555,555,GerDracor/kotzebue-maedchenfreundschaft.xml,Eidbrüchige!,33,45,character_speech,1,13,,Nat.,#natalie,257.0,FEMALE,suffering,negative,emotions of suffering and empathy
+556,556,GerDracor/kotzebue-maedchenfreundschaft.xml,Maulwurf (führt Hopsa beym Ohr herein).,0,39,stage_direction,1,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+557,557,GerDracor/kotzebue-maedchenfreundschaft.xml,Die Vorigen.,40,52,stage_direction,1,14,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+558,558,GerDracor/kotzebue-maedchenfreundschaft.xml,Madam!,0,6,character_speech,1,14,,Maulw.,#maulwurf,258.0,MALE,no_annotation,no_annotation,no_annotation
+559,559,GerDracor/kotzebue-maedchenfreundschaft.xml,Madam!,7,13,character_speech,1,14,,Maulw.,#maulwurf,258.0,MALE,no_annotation,no_annotation,no_annotation
+560,560,GerDracor/kotzebue-maedchenfreundschaft.xml,es sind keine Türken.,14,35,character_speech,1,14,,Maulw.,#maulwurf,258.0,MALE,no_annotation,no_annotation,no_annotation
+561,561,GerDracor/kotzebue-maedchenfreundschaft.xml,"Soeben hab’ ich diesen Schelm erwischt, wie er
+            meinen Wein aussoff.",36,115,character_speech,1,14,,Maulw.,#maulwurf,258.0,MALE,Schadenfreude,positive,emotions of pleasure
+562,562,GerDracor/kotzebue-maedchenfreundschaft.xml,Aber so laß Sie dok nur los mein Ohr.,0,37,character_speech,1,14,,Hopsa.,#hopsa,259.0,MALE,anger,negative,emotions of rejection
+563,563,GerDracor/kotzebue-maedchenfreundschaft.xml,Es ist der Musje Hopsa.,0,23,character_speech,1,14,,Maulw.,#maulwurf,260.0,MALE,no_annotation,no_annotation,no_annotation
+564,564,GerDracor/kotzebue-maedchenfreundschaft.xml,(stellt sich verwundert.),0,25,stage_direction,1,14,speech_part,,#madam_braun,261.0,FEMALE,being moved,being moved,being moved
+565,565,GerDracor/kotzebue-maedchenfreundschaft.xml,Was bedeutet das?,0,17,character_speech,1,14,,M. Braun.,#madam_braun,261.0,FEMALE,no_annotation,no_annotation,no_annotation
+566,566,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich bekenne die Schelmerey.,0,27,character_speech,1,14,,Rose.,#rose,262.0,MALE,no_annotation,no_annotation,no_annotation
+567,567,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich bin kein Muselmann, sondern ein ehrlicher
+            Deutscher.",28,96,character_speech,1,14,,Rose.,#rose,262.0,MALE,no_annotation,no_annotation,no_annotation
+568,568,GerDracor/kotzebue-maedchenfreundschaft.xml,Himmel!,0,7,character_speech,1,14,,Len.,#lenore,263.0,FEMALE,being moved,being moved,being moved
+569,569,GerDracor/kotzebue-maedchenfreundschaft.xml,Desto besser.,0,13,character_speech,1,14,,Nat.,#natalie,264.0,FEMALE,joy,positive,emotions of pleasure
+570,570,GerDracor/kotzebue-maedchenfreundschaft.xml,Er hat sie nur für einen Narren gehalten.,0,41,character_speech,1,14,,Wilh.,#wilhelmine,265.0,FEMALE,anger,negative,emotions of rejection
+571,571,GerDracor/kotzebue-maedchenfreundschaft.xml,Geliebte Lenore!,0,16,character_speech,1,14,,Rose.,#rose,266.0,MALE,love,positive,emotions of affection
+572,572,GerDracor/kotzebue-maedchenfreundschaft.xml,"ich bin der Mann, den Ihr Oheim Ihnen bestimmte.",17,65,character_speech,1,14,,Rose.,#rose,266.0,MALE,no_annotation,no_annotation,no_annotation
+573,573,GerDracor/kotzebue-maedchenfreundschaft.xml,"Möchte Ihr Herz nicht
+            widersprechen.",66,114,character_speech,1,14,,Rose.,#rose,266.0,MALE,no_annotation,no_annotation,no_annotation
+574,574,GerDracor/kotzebue-maedchenfreundschaft.xml,(bey Seite.),0,12,stage_direction,1,14,speech_part,,#lenore,267.0,FEMALE,no_annotation,no_annotation,no_annotation
+575,575,GerDracor/kotzebue-maedchenfreundschaft.xml,Ha!,0,3,character_speech,1,14,,Len.,#lenore,267.0,FEMALE,no_annotation,no_annotation,no_annotation
+576,576,GerDracor/kotzebue-maedchenfreundschaft.xml,ich erhole mich!,4,20,character_speech,1,14,,Len.,#lenore,267.0,FEMALE,joy,positive,emotions of pleasure
+577,577,GerDracor/kotzebue-maedchenfreundschaft.xml,"Ich könnte mit Reichthum prahlen, ich könnte Ihnen sagen, daß ich die schönsten Güter
+            im Rheingau besitze –",0,119,character_speech,1,14,,Rose.,#rose,268.0,MALE,no_annotation,no_annotation,no_annotation
+578,578,GerDracor/kotzebue-maedchenfreundschaft.xml,Im Rheingau?,0,12,character_speech,1,14,,Maulw.,#maulwurf,269.0,MALE,no_annotation,no_annotation,no_annotation
+579,579,GerDracor/kotzebue-maedchenfreundschaft.xml,Sapperment!,13,24,character_speech,1,14,,Maulw.,#maulwurf,269.0,MALE,no_annotation,no_annotation,no_annotation
+580,580,GerDracor/kotzebue-maedchenfreundschaft.xml,da liegt der Johannisberg.,25,51,character_speech,1,14,,Maulw.,#maulwurf,269.0,MALE,no_annotation,no_annotation,no_annotation
+581,581,GerDracor/kotzebue-maedchenfreundschaft.xml,Aber nur meiner Liebe will ich Ihren Besitz verdanken.,0,54,character_speech,1,14,,Rose.,#rose,270.0,MALE,love,positive,emotions of affection
+582,582,GerDracor/kotzebue-maedchenfreundschaft.xml,(giebt ihm verschämt die Hand),0,30,stage_direction,1,14,speech_part,,#lenore,271.0,FEMALE,Schadenfreude,positive,emotions of pleasure
+583,583,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich gehorche meinen Oheim.,0,26,character_speech,1,14,,Len.,#lenore,271.0,FEMALE,no_annotation,no_annotation,no_annotation
+584,584,GerDracor/kotzebue-maedchenfreundschaft.xml,(schließt sie in seine Arme.),0,29,stage_direction,1,14,speech_part,,#rose,272.0,MALE,no_annotation,no_annotation,no_annotation
+585,585,GerDracor/kotzebue-maedchenfreundschaft.xml,Es soll sie nie gereuen.,0,24,character_speech,1,14,,Rose,#rose,272.0,MALE,love,positive,emotions of affection
+586,586,GerDracor/kotzebue-maedchenfreundschaft.xml,"Keb sie ackt, er werde sie heurathen.",0,37,character_speech,1,14,,Hopsa.,#hopsa,273.0,MALE,suffering,negative,emotions of suffering and empathy
+587,587,GerDracor/kotzebue-maedchenfreundschaft.xml,"Sie tanzen kut, das werden seyn ein glücklich
+            Eh.",38,99,character_speech,1,14,,Hopsa.,#hopsa,273.0,MALE,joy,positive,emotions of pleasure
+588,588,GerDracor/kotzebue-maedchenfreundschaft.xml,In meinem Leben glaube ich nicht mehr an die Freundschaft.,0,58,character_speech,1,14,,Nat.,#natalie,274.0,FEMALE,friendship,positive,emotions of affection
+589,589,GerDracor/kotzebue-maedchenfreundschaft.xml,Ich auch nicht.,0,15,character_speech,1,14,,Wilh.,#wilhelmine,275.0,FEMALE,no_annotation,no_annotation,no_annotation
+590,590,GerDracor/kotzebue-maedchenfreundschaft.xml,"Vergessen Sie wenigstens nie, daß die Freundschaft bey unserm Geschlecht zwey
+            gefährliche Feinde hat: Eigenliebe und Koketterie.",0,140,character_speech,1,14,,M. Braun.,#madam_braun,276.0,FEMALE,friendship,positive,emotions of affection

@@ -1,0 +1,946 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/lenz-der-englaender.xml,Robert Hot spaziert mit der Flinte vor dem Palast auf und ab.,0,61,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+1,1,GerDracor/lenz-der-englaender.xml,Es ist Nacht.,62,75,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+2,2,GerDracor/lenz-der-englaender.xml,"In dem
+            einen Flügel des Palasts schimmert hinter einer roten Gardine ein Licht durch.",76,173,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+3,3,GerDracor/lenz-der-englaender.xml,"Da steck ich nun im Musketierrock, ich armer Proteus.",0,53,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,compassion,S,,1776.0,negative,emotions of suffering and empathy
+4,4,GerDracor/lenz-der-englaender.xml,"Habe die Soldaten und ihre
+              Knechtschaft und ihre Pünktlichkeit sonst ärger gehaßt wie den Teufel!",54,165,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+5,5,GerDracor/lenz-der-englaender.xml,– Ha!,166,171,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+6,6,GerDracor/lenz-der-englaender.xml,"was täte
+              man nicht um dich, Armida?",172,221,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,compassion,S,,1776.0,negative,emotions of suffering and empathy
+7,7,GerDracor/lenz-der-englaender.xml,Es ist kalt.,222,234,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+8,8,GerDracor/lenz-der-englaender.xml,"Brennt doch ein ewigs Feuer in dieser Brust,
+              und wie vor einem Schmelzofen glüh ich, wenn ich meine Augen zu jenen roten Gardinen
+              erhebe.",235,400,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+9,9,GerDracor/lenz-der-englaender.xml,"Dort schläft sie, dort schlummert sie jetzt vielleicht.",401,456,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+10,10,GerDracor/lenz-der-englaender.xml,"O, der Kissen zu sein,
+              der ihre Wange wiegt!",457,515,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,love,S,,1776.0,positive,emotions of affection
+11,11,GerDracor/lenz-der-englaender.xml,"– – Wenn der Mond, der so dreist in ihr Zimmer darf, sie weckte,
+              wenn er sie ans Fenster führte!",516,626,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+12,12,GerDracor/lenz-der-englaender.xml,– Götter!,627,636,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+13,13,GerDracor/lenz-der-englaender.xml,"– – – Mein Vater kommt morgen an, mich nach
+              England zurückzuführen – Komm, schöne Armida, rette mich!",637,752,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+14,14,GerDracor/lenz-der-englaender.xml,"laß mich dich noch einmal
+              demütig anschauen, dann mit diesem Gewehr mir den Tod geben; meinem Vater auf ewig die
+              grausame Gewalt nehmen, die er über mich hat.",753,939,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,despair,S,,1776.0,negative,emotions of anxiety
+15,15,GerDracor/lenz-der-englaender.xml,Mich nach England zurückführen!,940,971,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+16,16,GerDracor/lenz-der-englaender.xml,"mich zu
+              den öffentlichen Geschäften brauchen!",972,1031,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+17,17,GerDracor/lenz-der-englaender.xml,mich mit Lord Hamiltons Tochter verheuraten.,1032,1076,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,love,S,,1776.0,positive,emotions of affection
+18,18,GerDracor/lenz-der-englaender.xml,Schlägt auf sein Gewehr.,0,24,stage_direction,1,1,inner_speech,,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+19,19,GerDracor/lenz-der-englaender.xml, Kommt nur!,0,11,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+20,20,GerDracor/lenz-der-englaender.xml,"Eher möchtet ihr mich mit dem
+              Teufel verheuraten.",12,75,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+21,21,GerDracor/lenz-der-englaender.xml,Geht lange stumm auf und ab.,0,28,stage_direction,1,1,inner_speech,,#robert,1.0,MALE,being moved,S,,1776.0,being moved,being moved
+22,22,GerDracor/lenz-der-englaender.xml," O wie unglücklich ist
+              doch der Mensch!",0,53,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+23,23,GerDracor/lenz-der-englaender.xml,"In der ganzen Natur folgt alles seinem Triebe, der Sperber fliegt auf
+              seine Beute, die Biene auf ihre Blume, der Adler in die Sonne selber – der Mensch, nur
+              der Mensch – – Wer will mir's verbieten?",54,279,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+24,24,GerDracor/lenz-der-englaender.xml,"Hab ich nicht zwanzig Jahre mir alles
+              versagt, was die Menschen sich wünschen und erstreben?",280,386,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+25,25,GerDracor/lenz-der-englaender.xml,"Pflanzenleben gelebt,
+              Steinleben?",387,434,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+26,26,GerDracor/lenz-der-englaender.xml,bloß um die,435,446,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+27,27,GerDracor/lenz-der-englaender.xml," törichten Wünsche meines Vaters auszuführen;
+              alle sterbliche Schönheit hintan gesetzt und wie ein Schulmeister mir den Kopf
+              zerbrochen; ohne Haar auf dem Kinn wie ein Greis gelebt, über nichts als Büchern und
+              leblosen, wesenlosen Dingen, wie ein abgezogner Spiritus in einer Flasche, der in sich
+              selbst verraucht.",0,370,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+28,28,GerDracor/lenz-der-englaender.xml,"Und nun, da ich das Gesicht finde, das mich für alles das
+              entschädigen kann, das Gesicht, auf dem alle Glückseligkeit der Erde und des Himmels,
+              wie in einem Brennpunkt vereinigt, mir entgegen winkt, das Lächeln, das mein ganzes
+              unglückliches, sterbendes, verschmachtendes Herz umfaßt und meinen ausgetrockneten,
+              versteinerten Sinnen auf einmal zuzuwinken scheint: Hier ist Leben, Freude ohne Ende,
+              Seligkeit ohne Grenzen – Ach!",371,868,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+29,29,GerDracor/lenz-der-englaender.xml,"ich muß hinauf – so wahr ein jeder Mensch einen Himmel
+              sucht, weil er auf Erden nicht zufrieden werden kann.",869,991,character_speech,1,1,,ROBERT.,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+30,30,GerDracor/lenz-der-englaender.xml,"Er schießt sein Gewehr ab, das Fenster öffnet sich, die Prinzessin sieht
+              heraus.",0,94,stage_direction,1,1,speech_part,,#robert,1.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+31,31,GerDracor/lenz-der-englaender.xml,kniet.,0,6,stage_direction,1,1,speech_part,,#robert,2.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+32,32,GerDracor/lenz-der-englaender.xml,"Sind Sie's, göttliche Armida?",0,29,character_speech,1,1,,ROBERT,#robert,2.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+33,33,GerDracor/lenz-der-englaender.xml,– O zürnen Sie nicht über diese Verwegenheit!,30,75,character_speech,1,1,,ROBERT,#robert,2.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+34,34,GerDracor/lenz-der-englaender.xml,"Sehen Sie
+              herab auf einen Unglücklichen, der zu sterben entschlossen ist und kein anderes Mittel
+              wußte, Sie vor seinem Tod noch einmal zu sehen, Ihnen zu sagen, daß er für Sie stirbt.",76,287,character_speech,1,1,,ROBERT,#robert,2.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+35,35,GerDracor/lenz-der-englaender.xml,"Die Sonne zürnt nicht, wenn ein dreister Vogel ihr entgegen fliegt und, von ihrem
+              Glanz betäubt, sodann tot herab ins Meer fällt.",302,445,character_speech,1,1,,ROBERT,#robert,2.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+36,36,GerDracor/lenz-der-englaender.xml,Wer spricht dort mit mir?,0,25,character_speech,1,1,,ARMIDA.,#prinzessin,3.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+37,37,GerDracor/lenz-der-englaender.xml,"Erlauben Sie mir, daß ich herauf komme, Ihnen meinen Namen zu nennen, meine
+              Geschichte zu erzählen.",0,113,character_speech,1,1,,ROBERT.,#robert,4.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+38,38,GerDracor/lenz-der-englaender.xml,"Das tote Schweigen der Natur und die feierliche Stille dieser
+              meiner Sterbestunde flößt mir Mut ein.",114,228,character_speech,1,1,,ROBERT.,#robert,4.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+39,39,GerDracor/lenz-der-englaender.xml,"Ich gehe zum Himmel, wenn es einen gibt, und
+              einem Sterbenden muß alles erlaubt sein.",229,328,character_speech,1,1,,ROBERT.,#robert,4.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+40,40,GerDracor/lenz-der-englaender.xml,–,329,330,character_speech,1,1,,ROBERT.,#robert,4.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+41,41,GerDracor/lenz-der-englaender.xml,Will aufstehen.,0,15,stage_direction,1,1,speech_part,,#robert,4.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+42,42,GerDracor/lenz-der-englaender.xml,Verwegner!,0,10,character_speech,1,1,,ARMIDA.,#prinzessin,5.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+43,43,GerDracor/lenz-der-englaender.xml,Wer seid Ihr?,11,24,character_speech,1,1,,ARMIDA.,#prinzessin,5.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+44,44,GerDracor/lenz-der-englaender.xml,"Ich bin ein Engländer, Prinzessin; bin der Stolz und die Hoffnung meines Vaters, des
+              Lord Hot, Pair  von England.",0,127,character_speech,1,1,,ROBERT.,#robert,6.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+45,45,GerDracor/lenz-der-englaender.xml,"Auf der letzten Maskerade bei Hof hab ich
+              Sie gesehen, hab ich mit Ihnen getanzt; Sie haben es vergessen, ich aber nicht.",128,263,character_speech,1,1,,ROBERT.,#robert,6.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+46,46,GerDracor/lenz-der-englaender.xml,"Ich
+              kann und darf nicht hoffen, Sie jemals zu besitzen, doch kann ich nicht leben ohne
+              diese Hoffnung.",264,394,character_speech,1,1,,ROBERT.,#robert,6.0,MALE,love,S,,1776.0,positive,emotions of affection
+47,47,GerDracor/lenz-der-englaender.xml,"Morgen kommt mein Vater an und will mich nach England zurückführen und
+              mit Lord Hamiltons Tochter verheuraten.",395,519,character_speech,1,1,,ROBERT.,#robert,6.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+48,48,GerDracor/lenz-der-englaender.xml,"Urteilen Sie nun, wie unglücklich ich bin.",520,562,character_speech,1,1,,ROBERT.,#robert,6.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+49,49,GerDracor/lenz-der-englaender.xml,"Er
+              darf's nicht wissen, daß ich Soldat bin, sonst kauft er mich los; und wo denn Schutz
+              finden, was denn anfangen, wenn mich dieser heilige Stand vor ihm und Lord Hamilton
+              nicht mehr sicher stellen kann?",563,808,character_speech,1,1,,ROBERT.,#robert,6.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+50,50,GerDracor/lenz-der-englaender.xml,"– Bedauern Sie mich, Prinzessin; ich sehe, ich sehe
+              das Mitleid aus Ihren schwarzen Augen zittern; ich kann diesen süßen Seufzer mit
+              meinen Lippen auffangen, der ihren Busen mir so göttlich weiß entgegen hebt.",809,1046,character_speech,1,1,,ROBERT.,#robert,6.0,MALE,compassion,S,,1776.0,negative,emotions of suffering and empathy
+51,51,GerDracor/lenz-der-englaender.xml,"– O in
+              diesem Augenblick zu sterben ist alle Glückseligkeit des Lebens wert.",1047,1137,character_speech,1,1,,ROBERT.,#robert,6.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+52,52,GerDracor/lenz-der-englaender.xml,Mein Herr!,0,10,character_speech,1,1,,ARMIDA.,#prinzessin,7.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+53,53,GerDracor/lenz-der-englaender.xml,"ich sehe wohl, daß Sie was anders sind, als Sie zu sein scheinen – daß Sie
+              Bedauern verdienen – Sind Sie damit zufrieden, wenn ich Sie bedauere?",11,169,character_speech,1,1,,ARMIDA.,#prinzessin,7.0,FEMALE,compassion,S,,1776.0,negative,emotions of suffering and empathy
+54,54,GerDracor/lenz-der-englaender.xml,"Ist Ihnen diese
+              Versicherung nicht genug, so bedenken Sie doch, daß mehr verlangen, mein Unglück
+              verlangen hieße.",170,311,character_speech,1,1,,ARMIDA.,#prinzessin,7.0,FEMALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+55,55,GerDracor/lenz-der-englaender.xml,"Ach, schöne Prinzessin!",0,23,character_speech,1,1,,ROBERT.,#robert,8.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+56,56,GerDracor/lenz-der-englaender.xml,nichts als bedauren?,24,44,character_speech,1,1,,ROBERT.,#robert,8.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+57,57,GerDracor/lenz-der-englaender.xml,"Und wenn auch das Sie nicht glücklich
+              macht, so will ich den Urheber Ihres Unglücks strafen.",45,151,character_speech,1,1,,ROBERT.,#robert,8.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+58,58,GerDracor/lenz-der-englaender.xml,"Springt auf, nimmt sein
+                Gewehr wieder und geht herum.",0,69,stage_direction,1,1,inner_speech,,#robert,8.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+59,59,GerDracor/lenz-der-englaender.xml,Die Runde kommt.,0,16,stage_direction,1,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+60,60,GerDracor/lenz-der-englaender.xml,Wer da?,0,7,character_speech,1,1,,ROBERT.,#robert,9.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+61,61,GerDracor/lenz-der-englaender.xml,Runde!,0,6,character_speech,1,1,,RUNDE.,#runde,10.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+62,62,GerDracor/lenz-der-englaender.xml,"Steh, Runde!",0,12,character_speech,1,1,,ROBERT.,#robert,11.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+63,63,GerDracor/lenz-der-englaender.xml,Heimlich mit dem Major.,0,23,stage_direction,1,1,speech_part,,#robert,11.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+64,64,GerDracor/lenz-der-englaender.xml,laut.,0,5,stage_direction,1,1,speech_part,,#major,12.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+65,65,GerDracor/lenz-der-englaender.xml,"Was ist vorgegangen, daß Ihr geschossen habt?",0,45,character_speech,1,1,,MAJOR,#major,12.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+66,66,GerDracor/lenz-der-englaender.xml,Ich habe einen Deserteur ertappt.,0,33,character_speech,1,1,,ROBERT.,#robert,13.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+67,67,GerDracor/lenz-der-englaender.xml,Es hat doch niemand beim Appell gefehlt.,0,40,character_speech,1,1,,MAJOR.,#major,14.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+68,68,GerDracor/lenz-der-englaender.xml,Wer war's?,41,51,character_speech,1,1,,MAJOR.,#major,14.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+69,69,GerDracor/lenz-der-englaender.xml,Ich.,0,4,character_speech,1,1,,ROBERT.,#robert,15.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+70,70,GerDracor/lenz-der-englaender.xml,"Kerl, habt Ihr den Verstand verloren?",0,37,character_speech,1,1,,MAJOR.,#major,16.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+71,71,GerDracor/lenz-der-englaender.xml,"Löst ihn ab, führt ihn in die Hauptwache.",38,79,character_speech,1,1,,MAJOR.,#major,16.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+72,72,GerDracor/lenz-der-englaender.xml,Der Prinzessin Palast.,0,22,stage_direction,2,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+73,73,GerDracor/lenz-der-englaender.xml,Major Borgia.,0,13,stage_direction,2,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+74,74,GerDracor/lenz-der-englaender.xml,Prinzessin von Carignan.,14,38,stage_direction,2,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+75,75,GerDracor/lenz-der-englaender.xml,"Eure Hoheit verzeihen, daß ich mich untertänigst beurlaube.",0,59,character_speech,2,1,,MAJOR.,#major,17.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+76,76,GerDracor/lenz-der-englaender.xml,"Es wird Kriegsrat über
+              einen Deserteur gehalten, bei dem ich unumgänglich gegenwärtig sein muß.",60,169,character_speech,2,1,,MAJOR.,#major,17.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+77,77,GerDracor/lenz-der-englaender.xml,"Eben deswegen, Herr Major, habe ich Sie rufen lassen.",0,53,character_speech,2,1,,ARMIDA.,#prinzessin,18.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+78,78,GerDracor/lenz-der-englaender.xml,"Er ist unter meinem Fenster in
+              Verhaft genommen worden, ich war wach, als der Schuß geschah.",54,160,character_speech,2,1,,ARMIDA.,#prinzessin,18.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+79,79,GerDracor/lenz-der-englaender.xml,"Der Mensch muß eine
+              verborgene Melancholei haben, die ihn zu dergleichen gewaltsamen Entschließungen
+              bringt.",161,297,character_speech,2,1,,ARMIDA.,#prinzessin,18.0,FEMALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+80,80,GerDracor/lenz-der-englaender.xml,"Man will sagen, daß er nicht von geringem Herkommen sein soll.",0,62,character_speech,2,1,,MAJOR.,#major,19.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+81,81,GerDracor/lenz-der-englaender.xml,"Einige haben mir sogar
+              behaupten wollen, er sei ein Lord und von einem der ersten Häuser in England.",63,177,character_speech,2,1,,MAJOR.,#major,19.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+82,82,GerDracor/lenz-der-englaender.xml,Desto behutsamer müssen Sie gehen.,0,34,character_speech,2,1,,PRINZESSIN.,#prinzessin,20.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+83,83,GerDracor/lenz-der-englaender.xml,"Erkundigen Sie sich sorgfältig nach seiner Familie
+              bei ihm.",35,108,character_speech,2,1,,PRINZESSIN.,#prinzessin,20.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+84,84,GerDracor/lenz-der-englaender.xml,Es ist schon geschehen.,0,23,character_speech,2,1,,MAJOR.,#major,21.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+85,85,GerDracor/lenz-der-englaender.xml,"Er will aber nichts sagen, und die Strenge der königlichen
+              Verordnungen –",24,111,character_speech,2,1,,MAJOR.,#major,21.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+86,86,GerDracor/lenz-der-englaender.xml,"Ich gelte auch etwas bei dem König und mein Bruder; und ich will, daß Sie ihm das
+              Leben nicht absprechen, Herr Major, wenn Ihnen Ihr zeitlich Glück lieb ist.",0,171,character_speech,2,1,,PRINZESSIN.,#prinzessin,22.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+87,87,GerDracor/lenz-der-englaender.xml,Nach dem Kriegsreglement hat er das Leben verwirkt –,0,52,character_speech,2,1,,MAJOR.,#major,23.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+88,88,GerDracor/lenz-der-englaender.xml,"Ich gehe, mich dem Könige deswegen zu Füßen zu werfen, unterdessen erkundigen Sie
+              sich aufs sorgfältigste nach seinen Eltern und sehen Sie, daß Sie ihnen, so geschwind
+              es sein kann, Nachricht von diesem Vorfall geben.",0,245,character_speech,2,1,,PRINZESSIN.,#prinzessin,24.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+89,89,GerDracor/lenz-der-englaender.xml,"Ich bitte mir's von Ihnen zu Gnaden
+              aus, Herr Major!",246,312,character_speech,2,1,,PRINZESSIN.,#prinzessin,24.0,FEMALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+90,90,GerDracor/lenz-der-englaender.xml,Eurer Hoheit Befehle sind mir in allen andern Stücken heilig –,0,62,character_speech,2,1,,MAJOR.,#major,25.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+91,91,GerDracor/lenz-der-englaender.xml,Sie gibt ihm noch einen Blick und geht ab.,0,42,stage_direction,2,1,speech_part,,#major,25.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+92,92,GerDracor/lenz-der-englaender.xml,"Der Major gleichfalls von der andern
+              Seite.",43,100,stage_direction,2,1,speech_part,,#major,25.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+93,93,GerDracor/lenz-der-englaender.xml,Roberts Gefängnis.,0,18,stage_direction,2,2,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+94,94,GerDracor/lenz-der-englaender.xml,In der Dämmerung.,19,36,stage_direction,2,2,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+95,95,GerDracor/lenz-der-englaender.xml,spielt die Violine und singt dazu.,0,34,stage_direction,2,2,speech_part,,#robert,26.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+96,96,GerDracor/lenz-der-englaender.xml,"
+              So geht's denn aus dem Weltchen 'raus,
+              O Wollust, zu vergehen!",0,91,character_speech,2,2,,ROBERT,#robert,26.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+97,97,GerDracor/lenz-der-englaender.xml,"Ich sterbe sonder Furcht und Graus,
+              Ich habe sie gesehen.",106,177,character_speech,2,2,,ROBERT,#robert,26.0,MALE,despair,S,,1776.0,negative,emotions of anxiety
+98,98,GerDracor/lenz-der-englaender.xml,"Brust und Gedanke voll von ihr:
+              So komm, o Tod!",192,253,character_speech,2,2,,ROBERT,#robert,26.0,MALE,despair,S,,1776.0,negative,emotions of anxiety
+99,99,GerDracor/lenz-der-englaender.xml,"ich geige dir;
+              So komm, o Tod!",254,298,character_speech,2,2,,ROBERT,#robert,26.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+100,100,GerDracor/lenz-der-englaender.xml,und tanze mir.,299,313,character_speech,2,2,,ROBERT,#robert,26.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+101,101,GerDracor/lenz-der-englaender.xml,"Nur um ein paar Ellen hätt ich ihr näher sein sollen, ihre Mienen auf mich
+              herabscheinen zu sehen – ihren Atem zu trinken – Man muß genügsam sein – Das Leben ist
+              mir gut genug worden, es ist Zeit, daß ich gehe, eh es schlimmer wird.",0,260,character_speech,2,2,,ROBERT,#robert,26.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+102,102,GerDracor/lenz-der-englaender.xml,"Spielt
+                wieder.",0,30,stage_direction,2,2,inner_speech,,#robert,26.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+103,103,GerDracor/lenz-der-englaender.xml,"
+              O Wollust – o Wollust, zu vergehen!",0,50,character_speech,2,2,,ROBERT,#robert,26.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+104,104,GerDracor/lenz-der-englaender.xml,Ich habe – habe sie gesehen.,65,93,character_speech,2,2,,ROBERT,#robert,26.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+105,105,GerDracor/lenz-der-englaender.xml,"Die Prinzessin von Carignan tritt ins Gefängnis, verkleidet als ein junger
+            Offizier.",0,96,stage_direction,2,2,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+106,106,GerDracor/lenz-der-englaender.xml,Ihr Bruder als Gemeiner.,97,121,stage_direction,2,2,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+107,107,GerDracor/lenz-der-englaender.xml,"Himmliches Licht, das mich umgibt!",0,34,character_speech,2,2,,ROBERT.,#robert,27.0,MALE,love,S,,1776.0,positive,emotions of affection
+108,108,GerDracor/lenz-der-englaender.xml,"Läßt die Geige fallen, kniet.",0,29,stage_direction,2,2,speech_part,,#robert,27.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+109,109,GerDracor/lenz-der-englaender.xml,"Stehen Sie auf, mein Herr!",0,26,character_speech,2,2,,PRINZESSIN.,#prinzessin,28.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+110,110,GerDracor/lenz-der-englaender.xml,ich bring Ihnen Ihr Urteil – Ihre Begnadigung vielmehr.,27,82,character_speech,2,2,,PRINZESSIN.,#prinzessin,28.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+111,111,GerDracor/lenz-der-englaender.xml,"Ich war die Ursache  der unglücklichen Verirrung Ihrer Einbildungskraft,
+              ich mußte dafür sorgen, daß sie nicht von zu traurigen Folgen für Sie würde.",97,260,character_speech,2,2,,PRINZESSIN.,#prinzessin,28.0,FEMALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+112,112,GerDracor/lenz-der-englaender.xml,"Sie
+              werden nicht sterben.",261,300,character_speech,2,2,,PRINZESSIN.,#prinzessin,28.0,FEMALE,despair,S,,1776.0,negative,emotions of anxiety
+113,113,GerDracor/lenz-der-englaender.xml,Stehen Sie auf.,301,316,character_speech,2,2,,PRINZESSIN.,#prinzessin,28.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+114,114,GerDracor/lenz-der-englaender.xml,Als ob sie ihn aufrichtete.,0,27,stage_direction,2,2,speech_part,,#prinzessin,28.0,FEMALE,joy,S,,1776.0,positive,emotions of pleasure
+115,115,GerDracor/lenz-der-englaender.xml,bleibt kniend.,0,14,stage_direction,2,2,speech_part,,#robert,29.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+116,116,GerDracor/lenz-der-englaender.xml,Nicht sterben?,0,14,character_speech,2,2,,ROBERT,#robert,29.0,MALE,despair,S,,1776.0,negative,emotions of anxiety
+117,117,GerDracor/lenz-der-englaender.xml,und das nennen Sie Gnade!,15,40,character_speech,2,2,,ROBERT,#robert,29.0,MALE,being moved,S,,1776.0,being moved,being moved
+118,118,GerDracor/lenz-der-englaender.xml,"– Oft ist das Leben ein Tod, Prinzessin, und
+              der Tod ein besseres Leben.",41,127,character_speech,2,2,,ROBERT,#robert,29.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+119,119,GerDracor/lenz-der-englaender.xml,"Das Leben ist das höchste Gut, das wir besitzen.",0,48,character_speech,2,2,,PRINZESSIN.,#prinzessin,30.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+120,120,GerDracor/lenz-der-englaender.xml,"Freilich hört mit dem Tod alles auf, aber im höchsten Genuß aufhören, heißt
+              tausendfach genießen.",0,111,character_speech,2,2,,ROBERT.,#robert,31.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+121,121,GerDracor/lenz-der-englaender.xml,"Gönnen Sie mir dieses Glück, Prinzessin,",112,152,character_speech,2,2,,ROBERT.,#robert,31.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+122,122,GerDracor/lenz-der-englaender.xml,"Ihr einen Dolch
+                reichend, der auf einem Sessel liegt.",0,69,stage_direction,2,2,inner_speech,,#robert,31.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+123,123,GerDracor/lenz-der-englaender.xml," lassen Sie mich den Tod aus diesen
+              Händen nehmen, von denen er mir allein Wohltat ist.",0,101,character_speech,2,2,,ROBERT.,#robert,31.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+124,124,GerDracor/lenz-der-englaender.xml,"Ich will meinen entfliehenden Atem
+              in diese Hände zurückgeben, die ihn schon lange gefesselt hatten, die zu berühren
+              meine scheidende Seele schon tausendmal auf meinen Lippen geschwebt ist.",102,319,character_speech,2,2,,ROBERT.,#robert,31.0,MALE,love,S,,1776.0,positive,emotions of affection
+125,125,GerDracor/lenz-der-englaender.xml,setzt sich.,0,11,stage_direction,2,2,speech_part,,#prinzessin,32.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+126,126,GerDracor/lenz-der-englaender.xml,Mein Freund!,0,12,character_speech,2,2,,PRINZESSIN,#prinzessin,32.0,FEMALE,friendship,S,,1776.0,positive,emotions of affection
+127,127,GerDracor/lenz-der-englaender.xml,–,13,14,character_speech,2,2,,PRINZESSIN,#prinzessin,32.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+128,128,GerDracor/lenz-der-englaender.xml,Knöpft sich ein Armband ab.,0,27,stage_direction,2,2,inner_speech,,#prinzessin,32.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+129,129,GerDracor/lenz-der-englaender.xml," hier haben Sie etwas, das
+              Ihnen das Leben angenehmer machen soll; nehmen Sie es mit in Ihre Gefangenschaft,
+              versüßen Sie sich die Einsamkeit damit; und bilden Sie sich ein, daß das Urbild von
+              diesem Gemälde vielleicht nicht so fühllos bei Ihren Leiden würde gewesen sein, als es
+              dieser ungetreue Schatten von ihm sein wird.",0,380,character_speech,2,2,,PRINZESSIN,#prinzessin,32.0,FEMALE,joy,S,,1776.0,positive,emotions of pleasure
+130,130,GerDracor/lenz-der-englaender.xml,"Gibt ihm das Porträt und eilt
+                jählings ab.",0,58,stage_direction,2,2,inner_speech,,#prinzessin,32.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+131,131,GerDracor/lenz-der-englaender.xml,"in die Knie sinkend, das Bild am Gesicht.",0,41,stage_direction,2,2,speech_part,,#robert,33.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+132,132,GerDracor/lenz-der-englaender.xml,"Ach, nun Ewigkeiten zu leben!",0,29,character_speech,2,2,,ROBERT,#robert,33.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+133,133,GerDracor/lenz-der-englaender.xml,– – mit diesem Bilde!,30,51,character_speech,2,2,,ROBERT,#robert,33.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+134,134,GerDracor/lenz-der-englaender.xml,– – Wesen!,52,62,character_speech,2,2,,ROBERT,#robert,33.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+135,135,GerDracor/lenz-der-englaender.xml,"wenn eins da ist,
+              furchtbarstes aller Wesen!",63,121,character_speech,2,2,,ROBERT,#robert,33.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+136,136,GerDracor/lenz-der-englaender.xml,"könntest du so grausam gegen einen handhohen Sterblichen
+              sein und mir dies im Tode nehmen – Wenn ein Leben nach dem Tode wäre – dies ist das
+              erstemal, daß mich der Gedanke bei den Haaren faßt und in einen grauenvollen Abgrund
+              hinabschüttelt – Ein Leben nach dem Tode, und ohne sie – Nein, sie wußte, was sie mir
+              brachte, Leben und ihr Bild.",122,518,character_speech,2,2,,ROBERT,#robert,33.0,MALE,despair,S,,1776.0,negative,emotions of anxiety
+137,137,GerDracor/lenz-der-englaender.xml,"Es ist ihr dran gelegen, daß",519,547,character_speech,2,2,,ROBERT,#robert,33.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+138,138,GerDracor/lenz-der-englaender.xml," ich sie nicht
+              aus diesem Herzen verliere, und wenn ich verginge, verging ein Teil ihres Glücks mit.",0,114,character_speech,2,2,,ROBERT,#robert,33.0,MALE,love,S,,1776.0,positive,emotions of affection
+139,139,GerDracor/lenz-der-englaender.xml,Ich will also die Begnadigung um ihretwillen annehmen.,129,183,character_speech,2,2,,ROBERT,#robert,33.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+140,140,GerDracor/lenz-der-englaender.xml,"Steht auf, nimmt das
+                Urteil von dem Tisch und liest.",0,68,stage_direction,2,2,inner_speech,,#robert,33.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+141,141,GerDracor/lenz-der-englaender.xml," » ... in eine lebenslängliche Verweisung auf
+              die Festung.« Lebenslänglich!",0,89,character_speech,2,2,,ROBERT,#robert,33.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+142,142,GerDracor/lenz-der-englaender.xml,"das ist genug – aber sie wird vor mir stehn, ihre Hand
+              wird mir den Schweiß von der Stirne trocknen, die Tränen von den Backen wischen – die
+              Augen mir zudrücken, wenn ich ausgelitten habe.",90,306,character_speech,2,2,,ROBERT,#robert,33.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+143,143,GerDracor/lenz-der-englaender.xml,"Überall werd ich sie hören, sie sehen,
+              sie sprechen, und die Kette, an der ich arbeite, wird ihre Kette sein.",307,430,character_speech,2,2,,ROBERT,#robert,33.0,MALE,love,S,,1776.0,positive,emotions of affection
+144,144,GerDracor/lenz-der-englaender.xml,"Fährt
+                zusammen.",0,31,stage_direction,2,2,inner_speech,,#robert,33.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+145,145,GerDracor/lenz-der-englaender.xml, Wen seh ich!,0,13,character_speech,2,2,,ROBERT,#robert,33.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+146,146,GerDracor/lenz-der-englaender.xml,Der alte Lord Hot tritt herein.,0,31,stage_direction,2,2,inner_speech,,#robert,33.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+147,147,GerDracor/lenz-der-englaender.xml,Unwürdiger!,0,11,character_speech,2,2,,LORD.,#lord_hot,34.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+148,148,GerDracor/lenz-der-englaender.xml,"ist das der Ort, wo ich dich anzutreffen hoffte?",12,60,character_speech,2,2,,LORD.,#lord_hot,34.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+149,149,GerDracor/lenz-der-englaender.xml,"fällt ihm zu Füßen, eine Weile stumm.",0,37,stage_direction,2,2,speech_part,,#robert,35.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+150,150,GerDracor/lenz-der-englaender.xml,"Lassen Sie mich zu mir selber kommen, mein Vater –",0,50,character_speech,2,2,,ROBERT,#robert,35.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+151,151,GerDracor/lenz-der-englaender.xml,hebt ihn auf und umarmt ihn.,0,28,stage_direction,2,2,speech_part,,#lord_hot,36.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+152,152,GerDracor/lenz-der-englaender.xml,"Armer, wahnwitziger, kranker Schulknabe!",0,40,character_speech,2,2,,LORD,#lord_hot,36.0,MALE,compassion,S,,1776.0,negative,emotions of suffering and empathy
+153,153,GerDracor/lenz-der-englaender.xml,du ein Pair im Parlement?,41,66,character_speech,2,2,,LORD,#lord_hot,36.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+154,154,GerDracor/lenz-der-englaender.xml,–,67,68,character_speech,2,2,,LORD,#lord_hot,36.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+155,155,GerDracor/lenz-der-englaender.xml,Hören Sie mich an –,0,19,character_speech,2,2,,ROBERT.,#robert,37.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+156,156,GerDracor/lenz-der-englaender.xml,Ich weiß alles.,0,15,character_speech,2,2,,LORD.,#lord_hot,38.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+157,157,GerDracor/lenz-der-englaender.xml,Ich komme von der Prinzessin von Carignan.,16,58,character_speech,2,2,,LORD.,#lord_hot,38.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+158,158,GerDracor/lenz-der-englaender.xml,"Robert
+                zittert.",0,31,stage_direction,2,2,inner_speech,,#lord_hot,38.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+159,159,GerDracor/lenz-der-englaender.xml," Du hast die Dame unglücklich gemacht, sie kann es sich und ihren
+              Reizungen nicht verzeihen, einen Menschen so gänzlich um seinen Verstand gebracht zu
+              haben, der jung, hoffnungsvoll, in der Blüte seiner Jahre und Fähigkeiten, seinen
+              Vater und Vaterland in den größten Erwartungen hintergeht.",0,333,character_speech,2,2,,LORD.,#lord_hot,38.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+160,160,GerDracor/lenz-der-englaender.xml,Hier ist deine Befreiung!,334,359,character_speech,2,2,,LORD.,#lord_hot,38.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+161,161,GerDracor/lenz-der-englaender.xml,"Willst du der Prinzessin nicht auf ewig einen Dorn in ihr Herz drücken, so steh auf,
+              setz dich ein mit mir und kehr nach England zurück.",374,524,character_speech,2,2,,LORD.,#lord_hot,38.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+162,162,GerDracor/lenz-der-englaender.xml,"eine Weile außer Fassung, dann fährt er plötzlich nach der Ordre in des Vaters
+              Händen und will sie zerreißen.",0,123,stage_direction,2,2,speech_part,,#robert,39.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+163,163,GerDracor/lenz-der-englaender.xml,Nichtswürdiger!,0,15,character_speech,2,2,,LORD.,#lord_hot,40.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+164,164,GerDracor/lenz-der-englaender.xml,– deine Begnadigung!,16,36,character_speech,2,2,,LORD.,#lord_hot,40.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+165,165,GerDracor/lenz-der-englaender.xml,–,37,38,character_speech,2,2,,LORD.,#lord_hot,40.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+166,166,GerDracor/lenz-der-englaender.xml,"Nein, die Begnadigung meiner Prinzessin war viel gnädiger.",0,58,character_speech,2,2,,ROBERT.,#robert,41.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+167,167,GerDracor/lenz-der-englaender.xml,"Ich habe die Festung
+              verdient, weil ich mich  unterstanden, ihre Ruhe zu stören.",59,153,character_speech,2,2,,ROBERT.,#robert,41.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+168,168,GerDracor/lenz-der-englaender.xml,"Aber ich
+              blieb ihr nah; derselbe Himmel umwölbte mich, dieselbe Luft wehte mich an – es waren
+              keine Länder, kein ungetreues Meer zwischen uns; ich konnte wenigstens von Zeit zu
+              Zeit Neuigkeiten von ihr zu hören hoffen – Aber nun auf ewig von ihr hinweggerissen,
+              in den Strudel der öffentlichen Geschäfte; vom König und Ihnen und Lord Hamilton
+              gezwungen, in den Armen der Lady Hamilton – sie zu vergessen!",154,628,character_speech,2,2,,ROBERT.,#robert,41.0,MALE,love,S,,1776.0,positive,emotions of affection
+169,169,GerDracor/lenz-der-englaender.xml,"– Behalten Sie Ihre
+              Begnadigung für sich und gehen in die Wälder, von wilden Tieren Zärtlichkeit für ihre
+              Jungen zu lernen.",629,780,character_speech,2,2,,ROBERT.,#robert,41.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+170,170,GerDracor/lenz-der-englaender.xml,Elender!,0,8,character_speech,2,2,,LORD.,#lord_hot,42.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+171,171,GerDracor/lenz-der-englaender.xml,"so machst du die menschenfreundlichsten Bemühungen zu nichte und stößest die
+              Hände, die dich von dem Sturze des Abgrundes weghaschen wollen, mit Undankbarkeit von
+              dir.",9,204,character_speech,2,2,,LORD.,#lord_hot,42.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+172,172,GerDracor/lenz-der-englaender.xml,Wisse!,205,211,character_speech,2,2,,LORD.,#lord_hot,42.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+173,173,GerDracor/lenz-der-englaender.xml,"es ist nicht meine Hand, die du zurückstößt, es ist die Hand deiner
+              Prinzessin selber.",212,312,character_speech,2,2,,LORD.,#lord_hot,42.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+174,174,GerDracor/lenz-der-englaender.xml,"Sie hat dir diese Befreiung ausgewirkt, und damit sie deine
+              unsinnige Leidenschaft durch diese Großmut nicht nährte, hat sie mich gebeten, ihr
+              meinen Namen dazu zu leihen, hat sie sich gestellt, dir eine zweideutige Begnadigung
+              ausgewirkt zu haben, um sich dadurch in deiner Phantasei einen widerwärtigen Schatten
+              zu geben.",313,692,character_speech,2,2,,LORD.,#lord_hot,42.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+175,175,GerDracor/lenz-der-englaender.xml,"Aber deine Raserei ist unheilbar; wenigstens zittre, ihren großmütigen
+              Absichten entgegen zu stehen, und wenn du nicht willst, daß sie dich als den Störer
+              ihres ganzen Glücks auf ewig hassen soll – flieh!",693,925,character_speech,2,2,,LORD.,#lord_hot,42.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+176,176,GerDracor/lenz-der-englaender.xml,"sie befiehlt es dir aus meinem
+              Munde.",926,977,character_speech,2,2,,LORD.,#lord_hot,42.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+177,177,GerDracor/lenz-der-englaender.xml,–,978,979,character_speech,2,2,,LORD.,#lord_hot,42.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+178,178,GerDracor/lenz-der-englaender.xml,lange vor sich hinsehend.,0,25,stage_direction,2,2,speech_part,,#robert,43.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+179,179,GerDracor/lenz-der-englaender.xml,Das ist in der Tat fürchterlich!,0,32,character_speech,2,2,,ROBERT,#robert,43.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+180,180,GerDracor/lenz-der-englaender.xml,"diese Klarheit, die mich umgibt und mir die liebe
+              Dunkelheit, die mich so glücklich machte, auf immer entreißt.",33,158,character_speech,2,2,,ROBERT,#robert,43.0,MALE,love,S,,1776.0,positive,emotions of affection
+181,181,GerDracor/lenz-der-englaender.xml,"Also die Prinzessin
+              selber arbeitet dran, daß ich fortkomme, daß ich nach England gehen und sie in den
+              Armen einer andern auf ewig vergessen soll.",159,333,character_speech,2,2,,ROBERT,#robert,43.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+182,182,GerDracor/lenz-der-englaender.xml,"Sie hat mich in ganz Turin aufsuchen lassen, da sie unter der Liste der
+              Durchreisenden meinen Namen gefunden.",0,123,character_speech,2,2,,LORD.,#lord_hot,44.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+183,183,GerDracor/lenz-der-englaender.xml,"Sie muß von meiner Ankunft
+              unterrichtet gewesen sein.",125,192,character_speech,2,2,,LORD.,#lord_hot,44.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+184,184,GerDracor/lenz-der-englaender.xml,"Das ist viel Sorgfalt für mein Glück, für meine Heilung.",0,56,character_speech,2,2,,ROBERT.,#robert,45.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+185,185,GerDracor/lenz-der-englaender.xml,"– Ich bin freilich ein
+              großer Tor – Aber wenn Sie sie gesehn hätten, Lord Hot – und mit meinen Augen –, das
+              erstemal, als ich sie auf der Maskerade sah – wie sie so da stand in ihrer ganzen
+              Jugend und alles um sie lachte und gaukelte und glänzte, die roten Bänder an ihrem
+              Kopfschmucke von ihren Wangen die Röte stahlen, die Diamanten aus ihren Augen das
+              Feuer bettelten und alles um sie her verlosch und man wie bei einer göttlichen
+              Erscheinung für die ganze Natur die Sinne verlor und nur sie und ihre Reize aus der
+              weit verschwundenen Schöpfung übrig behielt.",57,717,character_speech,2,2,,ROBERT.,#robert,45.0,MALE,love,S,,1776.0,positive,emotions of affection
+186,186,GerDracor/lenz-der-englaender.xml,"Und was für ein Herz diese Schönheit
+              bedeckt.",718,777,character_speech,2,2,,ROBERT.,#robert,45.0,MALE,love,S,,1776.0,positive,emotions of affection
+187,187,GerDracor/lenz-der-englaender.xml,"Jedermann in Turin kennet sie, jedermann spricht von ihr mit Bewunderung und
+              Liebe.",778,875,character_speech,2,2,,ROBERT.,#robert,45.0,MALE,love,S,,1776.0,positive,emotions of affection
+188,188,GerDracor/lenz-der-englaender.xml,"Es ist ein Engel, Lord Hot!",876,903,character_speech,2,2,,ROBERT.,#robert,45.0,MALE,love,S,,1776.0,positive,emotions of affection
+189,189,GerDracor/lenz-der-englaender.xml,"ich weiß Züge von ihr, die kalte Weltweise haben
+              schauernd gemacht.",904,985,character_speech,2,2,,ROBERT.,#robert,45.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+190,190,GerDracor/lenz-der-englaender.xml,"– Mein Vater, ich kann noch nicht mit nach England.",986,1037,character_speech,2,2,,ROBERT.,#robert,45.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+191,191,GerDracor/lenz-der-englaender.xml,"Ich werde
+              heilen, ich muß heilen, aber ich muß mich noch erst erholen, eh ich so stark bin, es
+              selber zu wollen.",1038,1178,character_speech,2,2,,ROBERT.,#robert,45.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+192,192,GerDracor/lenz-der-englaender.xml,faßt ihn an der Hand.,0,21,stage_direction,2,2,speech_part,,#lord_hot,46.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+193,193,GerDracor/lenz-der-englaender.xml,Komm!,0,5,character_speech,2,2,,LORD,#lord_hot,46.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+194,194,GerDracor/lenz-der-englaender.xml,"so bald du vernünftig wirst, wirst du glücklich sein und mich und uns alle
+              glücklich machen, am meisten aber die, die du anbetest.",6,150,character_speech,2,2,,LORD,#lord_hot,46.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+195,195,GerDracor/lenz-der-englaender.xml,"legt beide Arme über einander, den Himmel lang ansehend.",0,56,stage_direction,2,2,speech_part,,#robert,47.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+196,196,GerDracor/lenz-der-englaender.xml,Ich glücklich?,0,14,character_speech,2,2,,ROBERT,#robert,47.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+197,197,GerDracor/lenz-der-englaender.xml,Zuckt die Achseln und geht mit Lord Hot ab.,0,43,stage_direction,2,2,inner_speech,,#robert,47.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+198,198,GerDracor/lenz-der-englaender.xml,"Robert in einem Domino ganz ermüdet nach Hause kommend und sich in Lehnstuhl
+            werfend.",0,97,stage_direction,3,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+199,199,GerDracor/lenz-der-englaender.xml,"Es ist Mitternacht, mehr gegen die Morgenstunde.",98,146,stage_direction,3,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+200,200,GerDracor/lenz-der-englaender.xml,"Sie wollen mich durch Mummereien und Vergnügen und Rasereien wieder zu meinem
+              Verstand bringen.",0,109,character_speech,3,1,,ROBERT.,#robert,48.0,MALE,Schadenfreude,S,,1776.0,positive,emotions of pleasure
+201,201,GerDracor/lenz-der-englaender.xml,"Sie haben recht gehabt, sie haben mich wenigstens so weit gebracht,
+              daß ich durch eine verstellte Gleichgültigkeit ihr Argusauge betrügen und ihren
+              bittern Spöttereien über die schönste Torheit meines Lebens ausweichen kann.",110,362,character_speech,3,1,,ROBERT.,#robert,48.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+202,202,GerDracor/lenz-der-englaender.xml,"Ha, unter
+              allen Foltern des Lebens, auf die der Scharfsinn der Menschen gesonnen haben kann,
+              kenn ich keine größere, als zu lieben und ausgelacht zu werden.",363,547,character_speech,3,1,,ROBERT.,#robert,48.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+203,203,GerDracor/lenz-der-englaender.xml,"Und die Marmorherzen
+              machen ihrem Gewissen diese Peinigung ihrer Nebenmenschen so leicht, weil sie ihnen so
+              wenig Mühe kostet, weil sie ihrem Stolz und eingebildeten Weisheit so sehr
+              schmeichelt, weil sie die schlechteste Erdensöhne mit so geringen Kosten über den
+              würdigsten Göttersohn hinaus setzt.",548,904,character_speech,3,1,,ROBERT.,#robert,48.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+204,204,GerDracor/lenz-der-englaender.xml,Ha!,905,908,character_speech,3,1,,ROBERT.,#robert,48.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+205,205,GerDracor/lenz-der-englaender.xml,sie sollen diese Freude nicht mehr haben.,909,950,character_speech,3,1,,ROBERT.,#robert,48.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+206,206,GerDracor/lenz-der-englaender.xml,"–
+              Mich auslachen!",951,982,character_speech,3,1,,ROBERT.,#robert,48.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+207,207,GerDracor/lenz-der-englaender.xml,"– mich dünkt, ein Teil von dem Hohn fällt auch auf den Gegenstand
+              zurück, den ich anbete –",983,1087,character_speech,3,1,,ROBERT.,#robert,48.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+208,208,GerDracor/lenz-der-englaender.xml,Springt auf.,0,12,stage_direction,3,1,inner_speech,,#robert,48.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+209,209,GerDracor/lenz-der-englaender.xml," und das ist ärger, als wenn
+              Himmel und Erde zusammen fielen und die Götter ein Spiel der Säue würden – Ruhig,
+              Robert!",0,146,character_speech,3,1,,ROBERT.,#robert,48.0,MALE,being moved,S,,1776.0,being moved,being moved
+210,210,GerDracor/lenz-der-englaender.xml,da kommen sie.,147,161,character_speech,3,1,,ROBERT.,#robert,48.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+211,211,GerDracor/lenz-der-englaender.xml,"Wirft sich wieder in den Lehnstuhl und scheint zu
+                schlummern.",0,77,stage_direction,3,1,inner_speech,,#robert,48.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+212,212,GerDracor/lenz-der-englaender.xml,Lord Hot und Lord Hamilton kommen.,0,34,stage_direction,3,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+213,213,GerDracor/lenz-der-englaender.xml,"Sie haben's gesehen und lächeln einander
+            zu.",35,91,stage_direction,3,1,pre_speech,,,,,joy,S,,1776.0,positive,emotions of pleasure
+214,214,GerDracor/lenz-der-englaender.xml,Es läßt sich doch zur Besserung mit ihm an.,0,43,character_speech,3,1,,LORD HOT.,#lord_hot,49.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+215,215,GerDracor/lenz-der-englaender.xml,"Wenn nur ein Mittel wäre, ihm den Geschmack an Wollust und Behäglichkeit
+              beizubringen; er hat sie noch nie gekostet; und wenn das so fortstürmt in seiner
+              Seele, kann er sie auch nie kosten lernen.",0,224,character_speech,3,1,,LORD HAMILTON.,#lord_hamilton,50.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+216,216,GerDracor/lenz-der-englaender.xml,Wenn ich ihn nur in England hätte!,0,34,character_speech,3,1,,LORD HOT.,#lord_hot,51.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+217,217,GerDracor/lenz-der-englaender.xml,Hier!,0,5,character_speech,3,1,,LORD HAMILTON.,#lord_hamilton,52.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+218,218,GerDracor/lenz-der-englaender.xml,Hier!,6,11,character_speech,3,1,,LORD HAMILTON.,#lord_hamilton,52.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+219,219,GerDracor/lenz-der-englaender.xml,"Die italienische Augen haben eine große Beredsamkeit, besonders für ein
+              britisches Herz.",12,114,character_speech,3,1,,LORD HAMILTON.,#lord_hamilton,52.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+220,220,GerDracor/lenz-der-englaender.xml,zwischen den Zähnen.,0,20,stage_direction,3,1,speech_part,,#robert,53.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+221,221,GerDracor/lenz-der-englaender.xml,Der Verräter!,0,13,character_speech,3,1,,ROBERT,#robert,53.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+222,222,GerDracor/lenz-der-englaender.xml,"Es tut mir leid, daß ich ihm keine mitgegeben, als er von Hause ging.",0,69,character_speech,3,1,,LORD HOT.,#lord_hot,54.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+223,223,GerDracor/lenz-der-englaender.xml,"Ich kenne hier eine, die einen Antonius von Padua verführt haben würde.",0,71,character_speech,3,1,,LORD HAMILTON.,#lord_hamilton,55.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+224,224,GerDracor/lenz-der-englaender.xml,"Augen, so
+              jugendlich schmachtend, als Venus zum erstenmal aufschlug, da sie aus dem Meerschaum
+              sich loswand und die Götter brünstig vom Himmel zog.",72,247,character_speech,3,1,,LORD HAMILTON.,#lord_hamilton,55.0,MALE,being moved,S,,1776.0,being moved,being moved
+225,225,GerDracor/lenz-der-englaender.xml,"Es ist ein so vollkommnes
+              Meisterstück der Natur, daß alle Pinsel unserer Maler an ihr verzweifelt sind.",248,366,character_speech,3,1,,LORD HAMILTON.,#lord_hamilton,55.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+226,226,GerDracor/lenz-der-englaender.xml,"Ihre
+              Arme, ihr Busen, ihr Wuchs, ihre Stellungen – Ach wenn sie sich einladend zurück lehnt
+              und tausend zärtliche Regungen den Schnee ihres Busen aufzuarbeiten anfangen –",367,565,character_speech,3,1,,LORD HAMILTON.,#lord_hamilton,55.0,MALE,love,S,,1776.0,positive,emotions of affection
+227,227,GerDracor/lenz-der-englaender.xml,wirft ihm seine Uhr an den Kopf.,0,32,stage_direction,3,1,speech_part,,#robert,56.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+228,228,GerDracor/lenz-der-englaender.xml,Nichtswürdiger!,0,15,character_speech,3,1,,ROBERT,#robert,56.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+229,229,GerDracor/lenz-der-englaender.xml,"läuft ganz erhitzt auf ihn zu, als ob er ihn schlagen wollte.",0,61,stage_direction,3,1,speech_part,,#lord_hot,57.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+230,230,GerDracor/lenz-der-englaender.xml,Nichtswürdiger du selber!,0,25,character_speech,3,1,,LORD HOT,#lord_hot,57.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+231,231,GerDracor/lenz-der-englaender.xml,"Du verdienst, daß man dich in das tiefste Loch unter der
+              Erde steckte.",26,110,character_speech,3,1,,LORD HOT,#lord_hot,57.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+232,232,GerDracor/lenz-der-englaender.xml,"der sich erholt hat, faßt Lord Hot an.",0,38,stage_direction,3,1,speech_part,,#lord_hamilton,58.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+233,233,GerDracor/lenz-der-englaender.xml,"Geduld, Lord Hot!",0,17,character_speech,3,1,,LORD HAMILTON,#lord_hamilton,58.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+234,234,GerDracor/lenz-der-englaender.xml,ich bitte dich.,18,33,character_speech,3,1,,LORD HAMILTON,#lord_hamilton,58.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+235,235,GerDracor/lenz-der-englaender.xml,"Geduld, Mann!",34,47,character_speech,3,1,,LORD HAMILTON,#lord_hamilton,58.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+236,236,GerDracor/lenz-der-englaender.xml,Es wird sich alles von selber geben.,48,84,character_speech,3,1,,LORD HAMILTON,#lord_hamilton,58.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+237,237,GerDracor/lenz-der-englaender.xml,"Ich billige diese Hitze an Roberten, er hat sie von dir.",99,155,character_speech,3,1,,LORD HAMILTON,#lord_hamilton,58.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+238,238,GerDracor/lenz-der-englaender.xml,"Du hättest es nicht besser
+              gemacht, wenn du in seinen Jahren wärst – Es wird sich legen, ich versichere dich.",156,279,character_speech,3,1,,LORD HAMILTON,#lord_hamilton,58.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+239,239,GerDracor/lenz-der-englaender.xml,"Ich
+              hoffe noch die Zeit zu erleben, da Robert über sich lachen wird.",280,362,character_speech,3,1,,LORD HAMILTON,#lord_hamilton,58.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+240,240,GerDracor/lenz-der-englaender.xml,kniend.,0,7,stage_direction,3,1,speech_part,,#robert,59.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+241,241,GerDracor/lenz-der-englaender.xml,Götter!,0,7,character_speech,3,1,,ROBERT,#robert,59.0,MALE,being moved,S,,1776.0,being moved,being moved
+242,242,GerDracor/lenz-der-englaender.xml,Beißt sich in die Hände.,0,24,stage_direction,3,1,inner_speech,,#robert,59.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+243,243,GerDracor/lenz-der-englaender.xml,"Wir wollen ihn seinem Nachdenken überlassen, er ist kein Kind mehr.",0,67,character_speech,3,1,,LORD HAMILTON.,#lord_hamilton,60.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+244,244,GerDracor/lenz-der-englaender.xml,Führt Lord Hot ab.,0,18,stage_direction,3,1,speech_part,,#lord_hamilton,60.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+245,245,GerDracor/lenz-der-englaender.xml,"Das mein ich, daß er kein Kind ist.",0,35,character_speech,3,1,,ROBERT.,#robert,61.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+246,246,GerDracor/lenz-der-englaender.xml,"Wie hoch diese Leute über mich sind, wie sie über
+              mich wegschreiten!",36,118,character_speech,3,1,,ROBERT.,#robert,61.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+247,247,GerDracor/lenz-der-englaender.xml,wie man über eine verächtliche Made wegschreitet,119,167,character_speech,3,1,,ROBERT.,#robert,61.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+248,248,GerDracor/lenz-der-englaender.xml," – Und
+              ihr Vorzug!",0,32,character_speech,3,1,,ROBERT.,#robert,61.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+249,249,GerDracor/lenz-der-englaender.xml,"daß sie kalt sind; daß sie lachen können, wo ich nicht lachen kann – Nun,
+              es wird sich alles von selbst geben, Robert wird ein gescheuter, vernünftiger Mann
+              werden!",33,225,character_speech,3,1,,ROBERT.,#robert,61.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+250,250,GerDracor/lenz-der-englaender.xml,"Es wird schon kommen, nur Geduld!",226,259,character_speech,3,1,,ROBERT.,#robert,61.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+251,251,GerDracor/lenz-der-englaender.xml,– Unterdessen –,260,275,character_speech,3,1,,ROBERT.,#robert,61.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+252,252,GerDracor/lenz-der-englaender.xml,"Öffnet ein Fenster
+                und springt heraus.",0,54,stage_direction,3,1,inner_speech,,#robert,61.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+253,253,GerDracor/lenz-der-englaender.xml,"Robert Hot, als ein Savoyard gekleidet, unter dem Fenster der Prinzessin von
+            Carignan in der schönsten sternhellen Nacht.",0,133,stage_direction,4,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+254,254,GerDracor/lenz-der-englaender.xml,"Hast du kein Mitleiden mit mir, Unbarmherzige?",0,46,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,compassion,S,,1776.0,negative,emotions of suffering and empathy
+255,255,GerDracor/lenz-der-englaender.xml,"Fühlst du nicht, wer hier herumgeht,
+              so trostlos, so trostlos, daß die Steine sich für Erbarmen bewegen.",47,165,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+256,256,GerDracor/lenz-der-englaender.xml,"Was hab ich
+              begangen, was hab ich verbrochen, daß ich so viel ausstehen muß?",166,256,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+257,257,GerDracor/lenz-der-englaender.xml,"Womit hab ich dich
+              beleidigt, erzürnter Himmel, ihr kalten und freundlichen Sterne, die ihr so schön und
+              so grausam auf mich niederseht?",257,421,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+258,258,GerDracor/lenz-der-englaender.xml,Auch in dem Stück ihr ähnlich.,422,452,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+259,259,GerDracor/lenz-der-englaender.xml,"Muß denn alles
+              gefühllos sein, was vollkommen ist; nur darum anbetenswert, weil es, in sich selbst
+              glücklich, seine Anbeter nicht der Aufmerksamkeit würdig achtet.",453,644,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+260,260,GerDracor/lenz-der-englaender.xml,–,645,646,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+261,261,GerDracor/lenz-der-englaender.xml,"Wirft sich
+                nieder auf sein Angesicht, dann hebt er sich auf.",0,76,stage_direction,4,1,inner_speech,,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+262,262,GerDracor/lenz-der-englaender.xml," Ja, Hamilton hat recht
+              geweissagt, ich bin so weit gekommen, daß ich über mich selbst lachen muß.",0,112,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+263,263,GerDracor/lenz-der-englaender.xml,"Ist es
+              nicht höchst lächerlich, so da zu liegen, dem Spott aller Vorübergehenden, selbst dem
+              Geknurr und Gemurr der Hunde ausgesetzt; ich, der Einzige meiner Familie, auf dessen
+              sich entwickelnde Talente ganz England harrte?",113,379,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+264,264,GerDracor/lenz-der-englaender.xml,"Robert, du bist in der Tat ein Narr.",380,416,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+265,265,GerDracor/lenz-der-englaender.xml,Zurück!,431,438,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+266,266,GerDracor/lenz-der-englaender.xml,zurück!,439,446,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+267,267,GerDracor/lenz-der-englaender.xml,"zu deinem Vater, und werd einmal klug.",447,485,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+268,268,GerDracor/lenz-der-englaender.xml,"Leiert auf seiner
+                Marmotte.",0,43,stage_direction,4,1,inner_speech,,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+269,269,GerDracor/lenz-der-englaender.xml,"
+               a di di dal da
+              a di didda dalli di da.",0,68,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+270,270,GerDracor/lenz-der-englaender.xml,"Ach, gnädigste Prinzessin, einen Heller!",0,40,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+271,271,GerDracor/lenz-der-englaender.xml,allergnädigste königliche Majestät.,41,76,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+272,272,GerDracor/lenz-der-englaender.xml,"
+              a di di dal da
+              di di didda dallidida.",0,66,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+273,273,GerDracor/lenz-der-englaender.xml,O – o!,0,6,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,being moved,S,,1776.0,being moved,being moved
+274,274,GerDracor/lenz-der-englaender.xml,"geben Sie mir doch einen Heller, Eure kaiserliche Majestät – Eure päpstliche
+              Heiligkeit – O – o!",7,117,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,being moved,S,,1776.0,being moved,being moved
+275,275,GerDracor/lenz-der-englaender.xml,"Das Fenster geht auf, es fliegt etwas heraus in Papier
+                gewickelt.",0,81,stage_direction,4,1,inner_speech,,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+276,276,GerDracor/lenz-der-englaender.xml,Robert fängt's begierig auf.,82,110,stage_direction,4,1,inner_speech,,#robert,62.0,MALE,being moved,S,,1776.0,being moved,being moved
+277,277,GerDracor/lenz-der-englaender.xml," O, das Geld kommt von ihr –",0,28,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+278,278,GerDracor/lenz-der-englaender.xml,Küßt es.,0,8,stage_direction,4,1,inner_speech,,#robert,62.0,MALE,love,S,,1776.0,positive,emotions of affection
+279,279,GerDracor/lenz-der-englaender.xml," In Papier – Wer weiß, was drauf geschrieben steht.",0,51,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+280,280,GerDracor/lenz-der-englaender.xml,Macht das Papier auf und tritt an eine Laterne.,0,47,stage_direction,4,1,inner_speech,,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+281,281,GerDracor/lenz-der-englaender.xml, Nichts!,0,8,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+282,282,GerDracor/lenz-der-englaender.xml,– Robert!,9,18,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+283,283,GerDracor/lenz-der-englaender.xml,"–
+              weiß – ganz weiß!",19,52,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+284,284,GerDracor/lenz-der-englaender.xml,"– Du hast nichts, Robert, du verdienst nichts.",53,99,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+285,285,GerDracor/lenz-der-englaender.xml,"– Wer weiß, warf's
+              ein Bedienter heraus.",100,154,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+286,286,GerDracor/lenz-der-englaender.xml,"– Ja doch; es kam nicht aus ihrem Fenster; es kam aus dem obern
+              Stock, und wo mir recht ist, sah ich einen roten Ärmel.",155,288,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+287,287,GerDracor/lenz-der-englaender.xml,"Geh zurück in deines Vaters
+              Haus, Robert!",289,344,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+288,288,GerDracor/lenz-der-englaender.xml,"es ist eben so gut – – – Wenn nur die Bedienten meines Vaters ihm von
+              diesem Aufzug nichts sagen, sonst bin ich verloren.",345,480,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+289,289,GerDracor/lenz-der-englaender.xml,"Ich schleiche mich noch wohl
+              hinein.",481,531,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+290,290,GerDracor/lenz-der-englaender.xml,–,532,533,character_speech,4,1,,ROBERT.,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+291,291,GerDracor/lenz-der-englaender.xml,Ab.,0,3,stage_direction,4,1,speech_part,,#robert,62.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+292,292,GerDracor/lenz-der-englaender.xml,"Robert in seinem Zimmer, krank auf seinem Bette.",0,48,stage_direction,5,1,pre_speech,,,,,suffering,S,,1776.0,negative,emotions of suffering and empathy
+293,293,GerDracor/lenz-der-englaender.xml,Lord Hot tritt herein.,49,71,stage_direction,5,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+294,294,GerDracor/lenz-der-englaender.xml,"Nun, wie steht's?",0,17,character_speech,5,1,,LORD HOT.,#lord_hot,63.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+295,295,GerDracor/lenz-der-englaender.xml,Haben die Kopfschmerzen nachgelassen?,18,55,character_speech,5,1,,LORD HOT.,#lord_hot,63.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+296,296,GerDracor/lenz-der-englaender.xml,"So etwas, Mylord.",0,17,character_speech,5,1,,ROBERT.,#robert,64.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+297,297,GerDracor/lenz-der-englaender.xml,"Nun, es wird schon besser werden; ich hoff,  ich vertreib sie dir.",0,66,character_speech,5,1,,LORD HOT.,#lord_hot,65.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+298,298,GerDracor/lenz-der-englaender.xml,"Steh
+              auf, und zieh dich an, du sollst mit mir zur Prinzessin von Carginan.",67,155,character_speech,5,1,,LORD HOT.,#lord_hot,65.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+299,299,GerDracor/lenz-der-englaender.xml,faßt ihn hastig an beide Hände.,0,31,stage_direction,5,1,speech_part,,#robert,66.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+300,300,GerDracor/lenz-der-englaender.xml,Was sagten Sie?,0,15,character_speech,5,1,,ROBERT,#robert,66.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+301,301,GerDracor/lenz-der-englaender.xml,Sie spotten meiner.,16,35,character_speech,5,1,,ROBERT,#robert,66.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+302,302,GerDracor/lenz-der-englaender.xml,Ich spotte nicht; du sollst dich zugleich von ihr beurlauben.,0,61,character_speech,5,1,,LORD HOT.,#lord_hot,67.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+303,303,GerDracor/lenz-der-englaender.xml,Hat sie mich verlangt?,0,22,character_speech,5,1,,ROBERT.,#robert,68.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+304,304,GerDracor/lenz-der-englaender.xml,"Verlangt – sie hat wohl viel Zeit, an dich zu denken.",0,53,character_speech,5,1,,LORD HOT.,#lord_hot,69.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+305,305,GerDracor/lenz-der-englaender.xml,"Sie empfängt gegenwärtig die
+              Glückwünschungen des ganzen Hofs, und du wirst doch auch nicht der letzte sein, vor
+              deiner Abreise nach London ihr auch die deinige abzulegen.",54,253,character_speech,5,1,,LORD HOT.,#lord_hot,69.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+306,306,GerDracor/lenz-der-englaender.xml,Glückwünschungen – und wozu?,0,28,character_speech,5,1,,ROBERT.,#robert,70.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+307,307,GerDracor/lenz-der-englaender.xml,Sie vermählt sich –,0,19,character_speech,5,1,,LORD HOT.,#lord_hot,71.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+308,308,GerDracor/lenz-der-englaender.xml,schreit.,0,8,stage_direction,5,1,speech_part,,#robert,72.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+309,309,GerDracor/lenz-der-englaender.xml,Vermählt sich!,0,14,character_speech,5,1,,ROBERT,#robert,72.0,MALE,love,S,,1776.0,positive,emotions of affection
+310,310,GerDracor/lenz-der-englaender.xml,Fällt zurück in Ohnmacht.,0,25,stage_direction,5,1,inner_speech,,#robert,72.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+311,311,GerDracor/lenz-der-englaender.xml,"Wie nun, Robert?",0,16,character_speech,5,1,,LORD HOT.,#lord_hot,73.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+312,312,GerDracor/lenz-der-englaender.xml,"– was ist dir, Robert?",17,39,character_speech,5,1,,LORD HOT.,#lord_hot,73.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+313,313,GerDracor/lenz-der-englaender.xml,– Ich Unglücklicher!,40,60,character_speech,5,1,,LORD HOT.,#lord_hot,73.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+314,314,GerDracor/lenz-der-englaender.xml,– Hülfe!,61,69,character_speech,5,1,,LORD HOT.,#lord_hot,73.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+315,315,GerDracor/lenz-der-englaender.xml,"Sucht
+                ihn zu ermuntern.",0,39,stage_direction,5,1,inner_speech,,#lord_hot,73.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+316,316,GerDracor/lenz-der-englaender.xml,Lord Hamilton kommt.,0,20,stage_direction,5,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+317,317,GerDracor/lenz-der-englaender.xml,Wie steht's?,0,12,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,74.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+318,318,GerDracor/lenz-der-englaender.xml,hat's angeschlagen?,13,32,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,74.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+319,319,GerDracor/lenz-der-englaender.xml,Er ist tot.,0,11,character_speech,5,1,,LORD HOT.,#lord_hot,75.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+320,320,GerDracor/lenz-der-englaender.xml,–,12,13,character_speech,5,1,,LORD HOT.,#lord_hot,75.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+321,321,GerDracor/lenz-der-englaender.xml,nähert sich.,0,12,stage_direction,5,1,speech_part,,#lord_hamilton,76.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+322,322,GerDracor/lenz-der-englaender.xml,Nun er wird wieder aufleben.,0,28,character_speech,5,1,,LORD HAMILTON,#lord_hamilton,76.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+323,323,GerDracor/lenz-der-englaender.xml,"Ihn gleichfalls vergeblich zu ermuntern
+                suchend.",0,64,stage_direction,5,1,inner_speech,,#lord_hamilton,76.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+324,324,GerDracor/lenz-der-englaender.xml, Man muß ihm eine Ader schlagen.,0,32,character_speech,5,1,,LORD HAMILTON,#lord_hamilton,76.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+325,325,GerDracor/lenz-der-englaender.xml,"Streift ihm den Arm
+                auf.",0,40,stage_direction,5,1,inner_speech,,#lord_hamilton,76.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+326,326,GerDracor/lenz-der-englaender.xml," Geschwind, Bediente, eine Lanzett oder einen Chirurgus, was ihr am
+              ersten bekommen könnt.",0,104,character_speech,5,1,,LORD HAMILTON,#lord_hamilton,76.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+327,327,GerDracor/lenz-der-englaender.xml,erwacht und sieht wild umher.,0,29,stage_direction,5,1,speech_part,,#robert,77.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+328,328,GerDracor/lenz-der-englaender.xml,Wer ist da?,0,11,character_speech,5,1,,ROBERT,#robert,77.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+329,329,GerDracor/lenz-der-englaender.xml,bekümmert.,0,10,stage_direction,5,1,speech_part,,#lord_hot,78.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+330,330,GerDracor/lenz-der-englaender.xml,Dein Vater – deine guten Freunde.,0,33,character_speech,5,1,,LORD HOT,#lord_hot,78.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+331,331,GerDracor/lenz-der-englaender.xml,stößt ihn von sich.,0,19,stage_direction,5,1,speech_part,,#robert,79.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+332,332,GerDracor/lenz-der-englaender.xml,Weg mit den Vätern!,0,19,character_speech,5,1,,ROBERT,#robert,79.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+333,333,GerDracor/lenz-der-englaender.xml,– Laßt mich allein!,20,39,character_speech,5,1,,ROBERT,#robert,79.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+334,334,GerDracor/lenz-der-englaender.xml,–,40,41,character_speech,5,1,,ROBERT,#robert,79.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+335,335,GerDracor/lenz-der-englaender.xml,Sehr hitzig.,0,12,stage_direction,5,1,inner_speech,,#robert,79.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+336,336,GerDracor/lenz-der-englaender.xml," Laßt mich
+              allein!",0,32,character_speech,5,1,,ROBERT,#robert,79.0,MALE,being moved,S,,1776.0,being moved,being moved
+337,337,GerDracor/lenz-der-englaender.xml,sag ich!,33,41,character_speech,5,1,,ROBERT,#robert,79.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+338,338,GerDracor/lenz-der-englaender.xml,"Wir müssen ihn allein lassen, daß er sich erholen kann; der Zwang, den er sich in
+              unserer Gegenwart antut, ist ihm tödlich.",0,137,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,80.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+339,339,GerDracor/lenz-der-englaender.xml,– Es wird sich alles von selbst legen.,138,176,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,80.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+340,340,GerDracor/lenz-der-englaender.xml,"Du bist immer mit dem alles von selber – Wenigstens  alles Gewehr ihm
+              weggenommen.",0,96,character_speech,5,1,,LORD HOT.,#lord_hot,81.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+341,341,GerDracor/lenz-der-englaender.xml,Greift an den Tisch und um die Wände umher und geht mit Lord Hamilton ab.,0,73,stage_direction,5,1,speech_part,,#lord_hot,81.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+342,342,GerDracor/lenz-der-englaender.xml,Also vermählt!,0,14,character_speech,5,1,,ROBERT.,#robert,82.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+343,343,GerDracor/lenz-der-englaender.xml,"Das Schwert, das am letzten Haar über meinem Kopfe hing, fällt.",15,78,character_speech,5,1,,ROBERT.,#robert,82.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+344,344,GerDracor/lenz-der-englaender.xml,– Aus!,79,85,character_speech,5,1,,ROBERT.,#robert,82.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+345,345,GerDracor/lenz-der-englaender.xml,– alles aus.,100,112,character_speech,5,1,,ROBERT.,#robert,82.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+346,346,GerDracor/lenz-der-englaender.xml,Springt auf und tappt nach einem Gewehr.,0,40,stage_direction,5,1,inner_speech,,#robert,82.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+347,347,GerDracor/lenz-der-englaender.xml," Ich vergaß es – O
+              deine elende väterliche Vorsicht!",0,66,character_speech,5,1,,ROBERT.,#robert,82.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+348,348,GerDracor/lenz-der-englaender.xml,"Rennt mit dem Kopf gegen die Wand und sinkt
+                auf den Boden.",0,74,stage_direction,5,1,inner_speech,,#robert,82.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+349,349,GerDracor/lenz-der-englaender.xml," Also ein anderer – ein anderer – und vermutlich ein junger,
+              schöner, liebenswürdiger, vollkommener – einer, den sie lang geliebt hat, weil sie so
+              ernstlich auf meine Heilung bedacht war.",0,215,character_speech,5,1,,ROBERT.,#robert,82.0,MALE,love,S,,1776.0,positive,emotions of affection
+350,350,GerDracor/lenz-der-englaender.xml,"– Desto schlimmer, wenn er vollkommen ist,
+              desto schlimmer!",216,289,character_speech,5,1,,ROBERT.,#robert,82.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+351,351,GerDracor/lenz-der-englaender.xml,"– er wird ihr ganzes Herz fesseln, und was wird für mich übrig
+              bleiben?",290,375,character_speech,5,1,,ROBERT.,#robert,82.0,MALE,love,S,,1776.0,positive,emotions of affection
+352,352,GerDracor/lenz-der-englaender.xml,"nicht einmal Mitleid, nicht ein einziger armer verirrter Gedanke für mich –
+              Ganz aus ihrem Andenken verschwunden, vernichtet – Daß ich mich nicht selbst
+              vernichten kann!",376,573,character_speech,5,1,,ROBERT.,#robert,82.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+353,353,GerDracor/lenz-der-englaender.xml,–,574,575,character_speech,5,1,,ROBERT.,#robert,82.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+354,354,GerDracor/lenz-der-englaender.xml,"Springt auf und will sich zum Fenster hinaus stürzen, Hamilton stürzt herein und
+              hält ihn zurück.",0,111,stage_direction,5,1,speech_part,,#robert,82.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+355,355,GerDracor/lenz-der-englaender.xml,"Wohin, Wahnwitziger?",0,20,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,83.0,MALE,despair,S,,1776.0,negative,emotions of anxiety
+356,356,GerDracor/lenz-der-englaender.xml,ganz kalt.,0,10,stage_direction,5,1,speech_part,,#robert,84.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+357,357,GerDracor/lenz-der-englaender.xml,"Ich wollte sehen, was es für Wetter gäbe – Ich bin dein Herzensfreund, Hamilton; ich
+              wollt, ich hätte deinen Sohn oder deine Tochter hier.",0,152,character_speech,5,1,,ROBERT,#robert,84.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+358,358,GerDracor/lenz-der-englaender.xml,Was wolltest du mit ihnen?,0,26,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,85.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+359,359,GerDracor/lenz-der-englaender.xml,sehr gelassen.,0,14,stage_direction,5,1,speech_part,,#robert,86.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+360,360,GerDracor/lenz-der-englaender.xml,Ich wollte deine Tochter heuraten.,0,34,character_speech,5,1,,ROBERT,#robert,86.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+361,361,GerDracor/lenz-der-englaender.xml,– Laß mich los!,35,50,character_speech,5,1,,ROBERT,#robert,86.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+362,362,GerDracor/lenz-der-englaender.xml,Ihr sollt Euch zu Bette legen.,0,30,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,87.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+363,363,GerDracor/lenz-der-englaender.xml,Ihr seid in einem gefährlichen fiebrischen Zustand.,31,82,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,87.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+364,364,GerDracor/lenz-der-englaender.xml,"Kommt, legt Euch!",97,114,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,87.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+365,365,GerDracor/lenz-der-englaender.xml,Zu Bette?,0,9,character_speech,5,1,,ROBERT.,#robert,88.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+366,366,GerDracor/lenz-der-englaender.xml,"– Ja, mit deiner Tochter!",10,35,character_speech,5,1,,ROBERT.,#robert,88.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+367,367,GerDracor/lenz-der-englaender.xml,– Laß mich los!,36,51,character_speech,5,1,,ROBERT.,#robert,88.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+368,368,GerDracor/lenz-der-englaender.xml,Zu Bette!,0,9,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,89.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+369,369,GerDracor/lenz-der-englaender.xml,oder ich werd Euch binden lassen.,10,43,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,89.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+370,370,GerDracor/lenz-der-englaender.xml,Mich binden?,0,12,character_speech,5,1,,ROBERT.,#robert,90.0,MALE,being moved,S,,1776.0,being moved,being moved
+371,371,GerDracor/lenz-der-englaender.xml,Kehrt sich hastig um und faßt ihn an der Kehle.,0,47,stage_direction,5,1,inner_speech,,#robert,90.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+372,372,GerDracor/lenz-der-englaender.xml,"
+              Schottischer Teufel!",0,35,character_speech,5,1,,ROBERT.,#robert,90.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+373,373,GerDracor/lenz-der-englaender.xml,windt sich von ihm los und schiebt ihn aufs Bett.,0,49,stage_direction,5,1,speech_part,,#lord_hamilton,91.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+374,374,GerDracor/lenz-der-englaender.xml,He!,0,3,character_speech,5,1,,LORD HAMILTON,#lord_hamilton,91.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+375,375,GerDracor/lenz-der-englaender.xml,Wer ist da!,4,15,character_speech,5,1,,LORD HAMILTON,#lord_hamilton,91.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+376,376,GerDracor/lenz-der-englaender.xml,Bediente!,16,25,character_speech,5,1,,LORD HAMILTON,#lord_hamilton,91.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+377,377,GerDracor/lenz-der-englaender.xml,Lord Hot!,26,35,character_speech,5,1,,LORD HAMILTON,#lord_hamilton,91.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+378,378,GerDracor/lenz-der-englaender.xml,Ihr seid der Stärkere.,0,22,character_speech,5,1,,ROBERT.,#robert,92.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+379,379,GerDracor/lenz-der-englaender.xml,Gewalt geht vor Recht.,23,45,character_speech,5,1,,ROBERT.,#robert,92.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+380,380,GerDracor/lenz-der-englaender.xml,"Legt sich freiwillig nieder und
+                fängt an zu rufen.",0,66,stage_direction,5,1,inner_speech,,#robert,92.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+381,381,GerDracor/lenz-der-englaender.xml, Georg!,0,7,character_speech,5,1,,ROBERT.,#robert,92.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+382,382,GerDracor/lenz-der-englaender.xml,Johann!,8,15,character_speech,5,1,,ROBERT.,#robert,92.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+383,383,GerDracor/lenz-der-englaender.xml,Eduard!,16,23,character_speech,5,1,,ROBERT.,#robert,92.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+384,384,GerDracor/lenz-der-englaender.xml,"He, wer ist da!",24,39,character_speech,5,1,,ROBERT.,#robert,92.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+385,385,GerDracor/lenz-der-englaender.xml,"Kommt und fragt
+              den Lord Hamilton, was er von euch haben will!",40,116,character_speech,5,1,,ROBERT.,#robert,92.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+386,386,GerDracor/lenz-der-englaender.xml,Bediente kommen herein.,0,23,stage_direction,5,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+387,387,GerDracor/lenz-der-englaender.xml,Ihr sollt mir den jungen Herrn hier bewachen.,0,45,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,93.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+388,388,GerDracor/lenz-der-englaender.xml,"Seht zu, daß ihr ihn zum Einschlafen
+              bringt – Ihr sollt mir Red und Antwort für ihn geben.",46,150,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,93.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+389,389,GerDracor/lenz-der-englaender.xml,Hahaha!,0,7,character_speech,5,1,,ROBERT.,#robert,94.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+390,390,GerDracor/lenz-der-englaender.xml,"und bindt ihm nur die Hände, ich rat es euch, denn er hat einen kleinen
+              Fehler hier",8,105,character_speech,5,1,,ROBERT.,#robert,94.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+391,391,GerDracor/lenz-der-englaender.xml,Sich auf die Stirn schlagend.,0,29,stage_direction,5,1,speech_part,,#robert,94.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+392,392,GerDracor/lenz-der-englaender.xml,"Gebt Acht auf ihn; ihr sollt mir für alles stehen, ich sag's euch!",0,66,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,95.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+393,393,GerDracor/lenz-der-englaender.xml,"und wenn er's zu
+              arg macht, so ruft mich nur – und ich will den Junker an sein Bett schließen
+              lassen.",67,196,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,95.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+394,394,GerDracor/lenz-der-englaender.xml,"Robert sieht ihn wild an, ohne ein Wort zu sagen.",0,49,stage_direction,5,1,speech_part,,#lord_hamilton,95.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+395,395,GerDracor/lenz-der-englaender.xml,Hamilton geht ab.,50,67,stage_direction,5,1,speech_part,,#lord_hamilton,95.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+396,396,GerDracor/lenz-der-englaender.xml,zu den beiden Bedienten.,0,24,stage_direction,5,1,speech_part,,#robert,96.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+397,397,GerDracor/lenz-der-englaender.xml,"Nicht wahr, Williams, der Mensch ist nicht gescheut.",0,52,character_speech,5,1,,ROBERT,#robert,96.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+398,398,GerDracor/lenz-der-englaender.xml,"Sagt mir aufrichtig, scheint er
+              euch nicht ein wenig verrückt zu sein, der Lord Hamilton?",53,156,character_speech,5,1,,ROBERT,#robert,96.0,MALE,being moved,S,,1776.0,being moved,being moved
+399,399,GerDracor/lenz-der-englaender.xml,"Er bildt sich wohl ein, daß
+              ich ein Kind oder ein Narr oder noch was Schlimmers bin, weil ich nicht",157,270,character_speech,5,1,,ROBERT,#robert,96.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+400,400,GerDracor/lenz-der-englaender.xml,"Sich
+                ehrerbietig bückend.",0,41,stage_direction,5,1,inner_speech,,#robert,96.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+401,401,GerDracor/lenz-der-englaender.xml, Lord Hamilton sein kann.,0,25,character_speech,5,1,,ROBERT,#robert,96.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+402,402,GerDracor/lenz-der-englaender.xml,"Halten Sie sich ruhig, junger Herr.",0,35,character_speech,5,1,,WILLIAMS.,#williams,97.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+403,403,GerDracor/lenz-der-englaender.xml,Maulaffe!,0,9,character_speech,5,1,,ROBERT.,#robert,98.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+404,404,GerDracor/lenz-der-englaender.xml,bist du auch angesteckt?,10,34,character_speech,5,1,,ROBERT.,#robert,98.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+405,405,GerDracor/lenz-der-englaender.xml,"– Komm du her, Peter, du bist mir immer lieber
+              gewesen als der weise Esel da.",35,126,character_speech,5,1,,ROBERT.,#robert,98.0,MALE,love,S,,1776.0,positive,emotions of affection
+406,406,GerDracor/lenz-der-englaender.xml,"Sagt mir doch, habt ihr nichts von Feierlichkeiten
+              gehört, die in der Stadt angestellt werden sollen, von Illuminationen, Freudenfeuer?",127,276,character_speech,5,1,,ROBERT.,#robert,98.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+407,407,GerDracor/lenz-der-englaender.xml,–,291,292,character_speech,5,1,,ROBERT.,#robert,98.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+408,408,GerDracor/lenz-der-englaender.xml,"Wenn Sie doch könnten in Schlaf kommen, mein lieber junger Herr!",0,64,character_speech,5,1,,PETER.,#peter,99.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+409,409,GerDracor/lenz-der-englaender.xml,"Immer dieselbe Leier; wenn ich nicht närrisch wäre, könntet ihr mich dazu machen.",0,81,character_speech,5,1,,ROBERT.,#robert,100.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+410,410,GerDracor/lenz-der-englaender.xml,"–
+              Die Prinzessin  von Carignan soll morgen Hochzeit halten, ob was dran
+              ist?",82,186,character_speech,5,1,,ROBERT.,#robert,100.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+411,411,GerDracor/lenz-der-englaender.xml,Habt ihr nichts gehört?,187,210,character_speech,5,1,,ROBERT.,#robert,100.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+412,412,GerDracor/lenz-der-englaender.xml,Peter und Williams sehen sich mit verwunderungsvollen großen Augen an.,0,70,stage_direction,5,1,speech_part,,#robert,100.0,MALE,being moved,S,,1776.0,being moved,being moved
+413,413,GerDracor/lenz-der-englaender.xml,"Seid ihr denn stumm geworden, ihr Holzköpf?",0,43,character_speech,5,1,,ROBERT.,#robert,101.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+414,414,GerDracor/lenz-der-englaender.xml,"Ist's euch verboten, mir's zu sagen?",44,80,character_speech,5,1,,ROBERT.,#robert,101.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+415,415,GerDracor/lenz-der-englaender.xml,"Wer
+              hat's euch verboten?",81,119,character_speech,5,1,,ROBERT.,#robert,101.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+416,416,GerDracor/lenz-der-englaender.xml,Geschwind!,120,130,character_speech,5,1,,ROBERT.,#robert,101.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+417,417,GerDracor/lenz-der-englaender.xml,"Lieber junger Herr, wenn Sie sich zudeckten und sähen in Schweiß zu kommen.",0,75,character_speech,5,1,,PETER.,#peter,102.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+418,418,GerDracor/lenz-der-englaender.xml,"Er
+                will ihn anfassen, Robert stößt ihn von sich.",0,64,stage_direction,5,1,inner_speech,,#peter,102.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+419,419,GerDracor/lenz-der-englaender.xml," Wenn Sie nur in Ruh kommen
+              könnten, allerliebster junger Herr.",0,77,character_speech,5,1,,PETER.,#peter,102.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+420,420,GerDracor/lenz-der-englaender.xml,"Daß dich Gott verdamm, mit deiner Ruh!",0,38,character_speech,5,1,,ROBERT.,#robert,103.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+421,421,GerDracor/lenz-der-englaender.xml,– Setz dich!,39,51,character_speech,5,1,,ROBERT.,#robert,103.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+422,422,GerDracor/lenz-der-englaender.xml,"Er setzt sich aufs Bett,
+                Robert faßt ihn an Kragen.",0,67,stage_direction,5,1,inner_speech,,#robert,103.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+423,423,GerDracor/lenz-der-englaender.xml," Den Augenblick sag mir, Bestie, wie heißt der
+              Gemahl der Prinzessin von Carignan?",0,96,character_speech,5,1,,ROBERT.,#robert,103.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+424,424,GerDracor/lenz-der-englaender.xml,"kommt von der andern Seite, faßt ihn gewaltsam an und kehrt ihn um.",0,67,stage_direction,5,1,speech_part,,#williams,104.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+425,425,GerDracor/lenz-der-englaender.xml,"Will Er wohl ruhig sein, oder ich nehm Ihn augenblicklich und bind Ihn fest ans
+              Bett.",0,99,character_speech,5,1,,WILLIAMS,#williams,104.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+426,426,GerDracor/lenz-der-englaender.xml,Robert schweigt ganz stille.,0,28,stage_direction,5,1,speech_part,,#williams,104.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+427,427,GerDracor/lenz-der-englaender.xml,zu Williams.,0,12,stage_direction,5,1,speech_part,,#peter,105.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+428,428,GerDracor/lenz-der-englaender.xml,Gott und Herr!,0,14,character_speech,5,1,,PETER,#peter,105.0,MALE,being moved,S,,1776.0,being moved,being moved
+429,429,GerDracor/lenz-der-englaender.xml,er phantasiert erschrecklich.,15,44,character_speech,5,1,,PETER,#peter,105.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+430,430,GerDracor/lenz-der-englaender.xml,nachdem er eine Weile stille gelegen.,0,37,stage_direction,5,1,speech_part,,#robert,106.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+431,431,GerDracor/lenz-der-englaender.xml,"Gut, daß ich mit dir reden darf, mitleidige Wand.",0,49,character_speech,5,1,,ROBERT,#robert,106.0,MALE,compassion,S,,1776.0,negative,emotions of suffering and empathy
+432,432,GerDracor/lenz-der-englaender.xml,"Es ist mir doch, als ob du dich
+              gegen mich bewegtest, dich herab zu mir neigtest und stumm, aber gefühlig zu meiner
+              Verzweiflung zittertest.",50,218,character_speech,5,1,,ROBERT,#robert,106.0,MALE,despair,S,,1776.0,negative,emotions of anxiety
+433,433,GerDracor/lenz-der-englaender.xml,"Sieh, wie ich verraten daliege!",219,250,character_speech,5,1,,ROBERT,#robert,106.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+434,434,GerDracor/lenz-der-englaender.xml,"alles, alles verrät mich –",251,277,character_speech,5,1,,ROBERT,#robert,106.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+435,435,GerDracor/lenz-der-englaender.xml,"Zieht das Bild der Prinzessin aus seinem Busen und macht das Futteral
+                auf.",0,90,stage_direction,5,1,inner_speech,,#robert,106.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+436,436,GerDracor/lenz-der-englaender.xml, Auch dies.,0,11,character_speech,5,1,,ROBERT,#robert,106.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+437,437,GerDracor/lenz-der-englaender.xml,"Auch diese schwarzen Augen, die keinen Menschen scheinen
+              unglücklich sehen zu können, die Liebe und Wohltun wie die Gottheit selber sind.",12,163,character_speech,5,1,,ROBERT,#robert,106.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+438,438,GerDracor/lenz-der-englaender.xml,"Sie
+              hat alles das angestellt.",164,207,character_speech,5,1,,ROBERT,#robert,106.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+439,439,GerDracor/lenz-der-englaender.xml,– Sie will mich wahnwitzig haben – Sie heuraten!,208,256,character_speech,5,1,,ROBERT,#robert,106.0,MALE,love,S,,1776.0,positive,emotions of affection
+440,440,GerDracor/lenz-der-englaender.xml,"könnte sie
+              das, wenn ihr Herz weich und menschlich wäre.",257,327,character_speech,5,1,,ROBERT,#robert,106.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+441,441,GerDracor/lenz-der-englaender.xml,"Nein, sie ist grausamer als alle wilde
+              Tiere, grausamer als ein Tyrann, grausamer als das Schicksal",328,441,character_speech,5,1,,ROBERT,#robert,106.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+442,442,GerDracor/lenz-der-englaender.xml," selbst, das
+              Weinen und Beten nie verändern kann.",0,63,character_speech,5,1,,ROBERT,#robert,106.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+443,443,GerDracor/lenz-der-englaender.xml,"Sie kann mich leiden sehen und an Hochzeitfreuden
+              denken – Und doch, wenn sie muß!",64,160,character_speech,5,1,,ROBERT,#robert,106.0,MALE,love,S,,1776.0,positive,emotions of affection
+444,444,GerDracor/lenz-der-englaender.xml,"wenn sie glücklicher dadurch wird – Ja, ich will gern
+              leiden, will das Schlachtopfer ihres Glücks sein – Stirb, stirb, stirb, Robert!",161,308,character_speech,5,1,,ROBERT,#robert,106.0,MALE,despair,S,,1776.0,negative,emotions of anxiety
+445,445,GerDracor/lenz-der-englaender.xml,"es war
+              dein Schicksal, du mußt nicht darüber murren, sonst wirst du ausgelacht.",309,402,character_speech,5,1,,ROBERT,#robert,106.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+446,446,GerDracor/lenz-der-englaender.xml,"Bleibt
+                mit dem Bild ans Gesicht gedrückt eine Weile stumm auf seinem Kissen
+              liegen.",0,113,stage_direction,5,1,inner_speech,,#robert,106.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+447,447,GerDracor/lenz-der-englaender.xml,"Tognina, eine Buhlerin, schön geputzt, tritt leise herein.",0,58,stage_direction,5,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+448,448,GerDracor/lenz-der-englaender.xml,"Peter geht ihr auf den
+            Zehen entgegen.",59,109,stage_direction,5,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+449,449,GerDracor/lenz-der-englaender.xml,"Still, er schläft!",0,18,character_speech,5,1,,PETER.,#peter,107.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+450,450,GerDracor/lenz-der-englaender.xml,– das ist ein Glück.,19,39,character_speech,5,1,,PETER.,#peter,107.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+451,451,GerDracor/lenz-der-englaender.xml,"Wir dachten schon, er sollt uns zum Fenster
+              heraus springen.",40,114,character_speech,5,1,,PETER.,#peter,107.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+452,452,GerDracor/lenz-der-englaender.xml,Die Hitze ist gar zu groß bei ihm.,115,149,character_speech,5,1,,PETER.,#peter,107.0,MALE,being moved,S,,1776.0,being moved,being moved
+453,453,GerDracor/lenz-der-englaender.xml,Laßt mich nur!,0,14,character_speech,5,1,,TOGNINA.,#tognina,108.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+454,454,GerDracor/lenz-der-englaender.xml,ich werd ihn nicht wecken.,15,41,character_speech,5,1,,TOGNINA.,#tognina,108.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+455,455,GerDracor/lenz-der-englaender.xml,"Ich werd an seinem Bette warten, bis er
+              aufwacht.",42,105,character_speech,5,1,,TOGNINA.,#tognina,108.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+456,456,GerDracor/lenz-der-englaender.xml,Setzt sich ans Bett.,0,20,stage_direction,5,1,speech_part,,#tognina,108.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+457,457,GerDracor/lenz-der-englaender.xml,kehrt sich hastig um.,0,21,stage_direction,5,1,speech_part,,#robert,109.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+458,458,GerDracor/lenz-der-englaender.xml,Wer ist da?,0,11,character_speech,5,1,,ROBERT,#robert,109.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+459,459,GerDracor/lenz-der-englaender.xml,Schöner junger Herr!,0,20,character_speech,5,1,,TOGNINA.,#tognina,110.0,FEMALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+460,460,GerDracor/lenz-der-englaender.xml,"werden Sie nicht böse, daß ich so ungebeten herein komme.",21,78,character_speech,5,1,,TOGNINA.,#tognina,110.0,FEMALE,anger,S,,1776.0,negative,emotions of rejection
+461,461,GerDracor/lenz-der-englaender.xml,"Ich
+              bin hieher gewiesen, ich bin eine arme Waise, die Vater und Mutter verloren hat und
+              sich kümmerlich von ihrer Hände Arbeit nähren muß.",79,245,character_speech,5,1,,TOGNINA.,#tognina,110.0,FEMALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+462,462,GerDracor/lenz-der-englaender.xml,Das sieht man Euch nicht an.,0,28,character_speech,5,1,,ROBERT.,#robert,111.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+463,463,GerDracor/lenz-der-englaender.xml,"Alles, was ich mir verdiene, wend ich auf meine Kleidung.",0,57,character_speech,5,1,,TOGNINA.,#tognina,112.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+464,464,GerDracor/lenz-der-englaender.xml,"Ich denke, es steht einem
+              jungen Mädchen nichts so übel an, als wenn sie das bißchen Schönheit, das ihr der
+              Himmel gab, nicht einmal sucht an den Tag zu legen.",58,245,character_speech,5,1,,TOGNINA.,#tognina,112.0,FEMALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+465,465,GerDracor/lenz-der-englaender.xml,"Ich will nicht gefallen, gnädiger
+              Herr,",246,299,character_speech,5,1,,TOGNINA.,#tognina,112.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+466,466,GerDracor/lenz-der-englaender.xml,Ihn zärtlich ansehend.,0,22,stage_direction,5,1,inner_speech,,#tognina,112.0,FEMALE,love,S,,1776.0,positive,emotions of affection
+467,467,GerDracor/lenz-der-englaender.xml," ich weiß wohl, daß ich nicht im Stande
+              bin, Zärtlichkeit einzuflößen; aber zum wenigsten bin ich hochmütig genug, daß ich
+              niemand durch meine Gestalt beleidigen mag.",0,194,character_speech,5,1,,TOGNINA.,#tognina,112.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+468,468,GerDracor/lenz-der-englaender.xml,Was wollt Ihr von mir?,0,22,character_speech,5,1,,ROBERT.,#robert,113.0,MALE,being moved,S,,1776.0,being moved,being moved
+469,469,GerDracor/lenz-der-englaender.xml,etwas verwirrt.,0,15,stage_direction,5,1,speech_part,,#tognina,114.0,FEMALE,being moved,S,,1776.0,being moved,being moved
+470,470,GerDracor/lenz-der-englaender.xml,Von Ihnen?,0,10,character_speech,5,1,,TOGNINA,#tognina,114.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+471,471,GerDracor/lenz-der-englaender.xml,– was ich von Ihnen will?,11,36,character_speech,5,1,,TOGNINA,#tognina,114.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+472,472,GerDracor/lenz-der-englaender.xml,"– Das ist eine seltsame Frage, die ich Ihnen so
+              geschwind nicht beantworten kann.",37,132,character_speech,5,1,,TOGNINA,#tognina,114.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+473,473,GerDracor/lenz-der-englaender.xml,"Ich höre, daß Sie  krank sind, schöner
+              junger Herr, Sie brauchen Pflege, Sie brauchen Aufwartung; Sie brauchen vielleicht auf
+              die Nacht eine Wärterin.",133,311,character_speech,5,1,,TOGNINA,#tognina,114.0,FEMALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+474,474,GerDracor/lenz-der-englaender.xml,die Zähne knirschend.,0,21,stage_direction,5,1,speech_part,,#robert,115.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+475,475,GerDracor/lenz-der-englaender.xml,"Wer hat Euch gesagt, daß ich krank sei?",0,39,character_speech,5,1,,ROBERT,#robert,115.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+476,476,GerDracor/lenz-der-englaender.xml,"Niemand, gnädiger Herr – die Frau vom Hause hat es mir gesagt – und in der Tat, man
+              sieht es Ihnen an.",0,116,character_speech,5,1,,TOGNINA.,#tognina,116.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+477,477,GerDracor/lenz-der-englaender.xml,Seine Hand fassend.,0,19,stage_direction,5,1,inner_speech,,#tognina,116.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+478,478,GerDracor/lenz-der-englaender.xml," Dieser Puls will mir nicht
+              gefallen.",0,51,character_speech,5,1,,TOGNINA.,#tognina,116.0,FEMALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+479,479,GerDracor/lenz-der-englaender.xml,Streift ihm den Arm auf.,0,24,stage_direction,5,1,inner_speech,,#tognina,116.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+480,480,GerDracor/lenz-der-englaender.xml," Was für einen schönen weißen Arm Sie
+              haben – und wie nervigt!",0,76,character_speech,5,1,,TOGNINA.,#tognina,116.0,FEMALE,anger,S,,1776.0,negative,emotions of rejection
+481,481,GerDracor/lenz-der-englaender.xml,dieser Arm könnte Herkules' Keule tragen.,77,118,character_speech,5,1,,TOGNINA.,#tognina,116.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+482,482,GerDracor/lenz-der-englaender.xml,"reißt sich los von ihr, richtet sich auf und sieht sie starr an.",0,64,stage_direction,5,1,speech_part,,#robert,117.0,MALE,being moved,S,,1776.0,being moved,being moved
+483,483,GerDracor/lenz-der-englaender.xml,Wer seid Ihr?,0,13,character_speech,5,1,,ROBERT,#robert,117.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+484,484,GerDracor/lenz-der-englaender.xml,"Ich bin – ich habe es Ihnen ja schon gesagt, wer ich bin.",0,57,character_speech,5,1,,TOGNINA.,#tognina,118.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+485,485,GerDracor/lenz-der-englaender.xml,Ihr seid eine Zauberin; aber,0,28,character_speech,5,1,,ROBERT.,#robert,119.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+486,486,GerDracor/lenz-der-englaender.xml,Auf sein Herz weisend.,0,22,stage_direction,5,1,inner_speech,,#robert,119.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+487,487,GerDracor/lenz-der-englaender.xml," hier ist Stein,
+              Kieselstein.",0,43,character_speech,5,1,,ROBERT.,#robert,119.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+488,488,GerDracor/lenz-der-englaender.xml,Wißt ihr das?,44,57,character_speech,5,1,,ROBERT.,#robert,119.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+489,489,GerDracor/lenz-der-englaender.xml,Das gesteh ich.,0,15,character_speech,5,1,,TOGNINA.,#tognina,120.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+490,490,GerDracor/lenz-der-englaender.xml,– Haben Sie noch nie geliebt?,16,45,character_speech,5,1,,TOGNINA.,#tognina,120.0,FEMALE,love,S,,1776.0,positive,emotions of affection
+491,491,GerDracor/lenz-der-englaender.xml,"– Ich muß Ihnen doch sagen, hier ward
+              gestern eine neue Oper gegeben – Die Scythen, oder der Sieg des Liebesgottes –
+              Unvergleichlich, Mylord; gewiß – Es war auch so ein junger Herr drinne wie Sie, der
+              alles Frauenzimmer verachtete.",46,319,character_speech,5,1,,TOGNINA.,#tognina,120.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+492,492,GerDracor/lenz-der-englaender.xml,"Aber was meinen Sie wohl, womit die Liebesgöttin und
+              die Amors ihn bekämpften?",320,412,character_speech,5,1,,TOGNINA.,#tognina,120.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+493,493,GerDracor/lenz-der-englaender.xml,"Raten Sie einmal, ich bitte Sie, was für fürchterliche
+              Waffen sie seiner knotigten Keule entgegen setzten?",413,533,character_speech,5,1,,TOGNINA.,#tognina,120.0,FEMALE,abhorrence,S,,1776.0,negative,emotions of rejection
+494,494,GerDracor/lenz-der-englaender.xml,Vergiftete Blicke wie die Eurigen.,0,34,character_speech,5,1,,ROBERT.,#robert,121.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+495,495,GerDracor/lenz-der-englaender.xml,"Blumen, junger Herr, nichts als arme Blumen –",0,45,character_speech,5,1,,TOGNINA.,#tognina,122.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+496,496,GerDracor/lenz-der-englaender.xml,"Reißt sich eine Rose von der
+                Brust und wirft ihn damit.",0,71,stage_direction,5,1,inner_speech,,#tognina,122.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+497,497,GerDracor/lenz-der-englaender.xml," Sehen Sie, so machten sie's – Spielend",0,39,character_speech,5,1,,TOGNINA.,#tognina,122.0,FEMALE,joy,S,,1776.0,positive,emotions of pleasure
+498,498,GerDracor/lenz-der-englaender.xml,Eine aus ihrem Haarputze.,0,25,stage_direction,5,1,inner_speech,,#tognina,122.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+499,499,GerDracor/lenz-der-englaender.xml, spielend,0,9,character_speech,5,1,,TOGNINA.,#tognina,122.0,FEMALE,joy,S,,1776.0,positive,emotions of pleasure
+500,500,GerDracor/lenz-der-englaender.xml,"Wieder eine andere von
+                ihrer Brust.",0,51,stage_direction,5,1,inner_speech,,#tognina,122.0,FEMALE,love,S,,1776.0,positive,emotions of affection
+501,501,GerDracor/lenz-der-englaender.xml, spielend überwanden sie ihn.,0,29,character_speech,5,1,,TOGNINA.,#tognina,122.0,FEMALE,joy,S,,1776.0,positive,emotions of pleasure
+502,502,GerDracor/lenz-der-englaender.xml,"Hahaha,",30,37,character_speech,5,1,,TOGNINA.,#tognina,122.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+503,503,GerDracor/lenz-der-englaender.xml,"Ihn an die Hand
+                fassend.",0,40,stage_direction,5,1,inner_speech,,#tognina,122.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+504,504,GerDracor/lenz-der-englaender.xml," ist das nicht lustig, mein kleines Herzchen?",0,45,character_speech,5,1,,TOGNINA.,#tognina,122.0,FEMALE,joy,S,,1776.0,positive,emotions of pleasure
+505,505,GerDracor/lenz-der-englaender.xml,verstohlen die Zähne knirschend.,0,32,stage_direction,5,1,speech_part,,#robert,123.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+506,506,GerDracor/lenz-der-englaender.xml,O unbarmherziger Himmel!,0,24,character_speech,5,1,,ROBERT,#robert,123.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+507,507,GerDracor/lenz-der-englaender.xml,– Armida!,25,34,character_speech,5,1,,ROBERT,#robert,123.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+508,508,GerDracor/lenz-der-englaender.xml,–,35,36,character_speech,5,1,,ROBERT,#robert,123.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+509,509,GerDracor/lenz-der-englaender.xml,Tognina ans Kinn fassend.,0,25,stage_direction,5,1,inner_speech,,#robert,123.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+510,510,GerDracor/lenz-der-englaender.xml," Ihr seid gefährlich, Kleine!",0,29,character_speech,5,1,,ROBERT,#robert,123.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+511,511,GerDracor/lenz-der-englaender.xml,voll Lüsternheit!,30,47,character_speech,5,1,,ROBERT,#robert,123.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+512,512,GerDracor/lenz-der-englaender.xml,voll Liebreiz!,48,62,character_speech,5,1,,ROBERT,#robert,123.0,MALE,love,S,,1776.0,positive,emotions of affection
+513,513,GerDracor/lenz-der-englaender.xml,"Laßt uns
+              allein bleiben, ich habe Euch viel zu sagen.",63,130,character_speech,5,1,,ROBERT,#robert,123.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+514,514,GerDracor/lenz-der-englaender.xml,"Sie winkt den Bedienten, die gehen heraus.",0,42,stage_direction,5,1,speech_part,,#robert,123.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+515,515,GerDracor/lenz-der-englaender.xml,zieht das Porträt aus dem Busen.,0,32,stage_direction,5,1,speech_part,,#robert,124.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+516,516,GerDracor/lenz-der-englaender.xml,"Seht, hier hab ich ein Bild, das allein ist Euch im Wege.",0,57,character_speech,5,1,,ROBERT,#robert,124.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+517,517,GerDracor/lenz-der-englaender.xml,"Wenn Ihr Meisterin von
+              meinem Herzen werden wollt, gebt mir eine Schere, daß ich es von diesem Halse löse, an
+              den ich es damals leider, ach, auf ewig knüpfte!",58,244,character_speech,5,1,,ROBERT,#robert,124.0,MALE,love,S,,1776.0,positive,emotions of affection
+518,518,GerDracor/lenz-der-englaender.xml,"Ich bin nicht im Stande, Euch in Euer
+              zauberreiches Auge zu sehen, Eure weiche Hand gegen mein Herz zu drücken, Euren
+              glühenden Lippen meinen zitternden Mund entgegen zu strecken, so lang dies Bild an
+              meinem Halse hängt.",245,507,character_speech,5,1,,ROBERT,#robert,124.0,MALE,love,S,,1776.0,positive,emotions of affection
+519,519,GerDracor/lenz-der-englaender.xml,"Gleich, gnädiger Herr!",0,22,character_speech,5,1,,TOGNINA.,#tognina,125.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+520,520,GerDracor/lenz-der-englaender.xml,"Zieht eine Schere aus ihrem Etui und setzt sich aufs Bett, ihm das Bild
+              abzulösen.",0,96,stage_direction,5,1,speech_part,,#tognina,125.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+521,521,GerDracor/lenz-der-englaender.xml,"reißt ihr die Schere aus der Hand und gibt sich einen Stich in die
+              Gurgel.",0,88,stage_direction,5,1,speech_part,,#robert,126.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+522,522,GerDracor/lenz-der-englaender.xml,Grisette!,0,9,character_speech,5,1,,ROBERT,#robert,126.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+523,523,GerDracor/lenz-der-englaender.xml,hab ich dich endlich doch überlistet.,10,47,character_speech,5,1,,ROBERT,#robert,126.0,MALE,Schadenfreude,S,,1776.0,positive,emotions of pleasure
+524,524,GerDracor/lenz-der-englaender.xml,Ich bin des Todes!,0,18,character_speech,5,1,,TOGNINA.,#tognina,127.0,FEMALE,despair,S,,1776.0,negative,emotions of anxiety
+525,525,GerDracor/lenz-der-englaender.xml,Hülfe!,19,25,character_speech,5,1,,TOGNINA.,#tognina,127.0,FEMALE,fear,S,,1776.0,negative,emotions of anxiety
+526,526,GerDracor/lenz-der-englaender.xml,–,26,27,character_speech,5,1,,TOGNINA.,#tognina,127.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+527,527,GerDracor/lenz-der-englaender.xml,Läuft heraus.,0,13,stage_direction,5,1,speech_part,,#tognina,127.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+528,528,GerDracor/lenz-der-englaender.xml,Ist's denn so weit!,0,19,character_speech,5,1,,ROBERT.,#robert,128.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+529,529,GerDracor/lenz-der-englaender.xml,–,20,21,character_speech,5,1,,ROBERT.,#robert,128.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+530,530,GerDracor/lenz-der-englaender.xml,Breitet die Arme aus.,0,21,stage_direction,5,1,inner_speech,,#robert,128.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+531,531,GerDracor/lenz-der-englaender.xml," Ich komme, ich komme!",0,22,character_speech,5,1,,ROBERT.,#robert,128.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+532,532,GerDracor/lenz-der-englaender.xml,"–
+              Furchtbarstes aller Wesen!",23,65,character_speech,5,1,,ROBERT.,#robert,128.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+533,533,GerDracor/lenz-der-englaender.xml,"an dessen Dasein ich so lange zweifelte; das ich zu meinem
+              Trost leugnete, ich fühle dich – du, der du meine Seele hieher gesetzt!",66,210,character_speech,5,1,,ROBERT.,#robert,128.0,MALE,love,S,,1776.0,positive,emotions of affection
+534,534,GerDracor/lenz-der-englaender.xml,"du, der sie
+              wieder in seine grausame Gewalt nimmt.",211,275,character_speech,5,1,,ROBERT.,#robert,128.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+535,535,GerDracor/lenz-der-englaender.xml,"Nur nicht verbiete mir, daß ich ihrer nicht
+              mehr denken darf.",276,351,character_speech,5,1,,ROBERT.,#robert,128.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+536,536,GerDracor/lenz-der-englaender.xml,"Eine lange, furchtbare Ewigkeit ohne sie.",352,393,character_speech,5,1,,ROBERT.,#robert,128.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+537,537,GerDracor/lenz-der-englaender.xml,"Sieh, wenn ich gesündigt
+              habe, ich will gern Straf und Marter dulden; Höllenqualen dulden, wie du sie mir
+              auflegen magst; nur laß das Andenken an sie sie mir versüßen.",394,589,character_speech,5,1,,ROBERT.,#robert,128.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+538,538,GerDracor/lenz-der-englaender.xml,"Lord Hot, Lord Hamilton, Bedienten und Tognina kommen.",0,54,stage_direction,5,1,speech_part,,#robert,128.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+539,539,GerDracor/lenz-der-englaender.xml,Ich unglücklicher Vater!,0,24,character_speech,5,1,,LORD HOT.,#lord_hot,129.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+540,540,GerDracor/lenz-der-englaender.xml,Er wird sich nur geritzt haben.,0,31,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,130.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+541,541,GerDracor/lenz-der-englaender.xml,Verbindt ihn; er verblutet sich.,0,32,character_speech,5,1,,LORD HOT.,#lord_hot,131.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+542,542,GerDracor/lenz-der-englaender.xml,"Reißt ein Schnupftuch aus der Tasche und
+                sucht das Blut aufzuhalten.",0,84,stage_direction,5,1,inner_speech,,#lord_hot,131.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+543,543,GerDracor/lenz-der-englaender.xml, Kommt denn der Wundarzt noch nicht?,0,36,character_speech,5,1,,LORD HOT.,#lord_hot,131.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+544,544,GerDracor/lenz-der-englaender.xml,"So lauft
+              denn jemand anderswo nach ihm!",37,90,character_speech,5,1,,LORD HOT.,#lord_hot,131.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+545,545,GerDracor/lenz-der-englaender.xml,lauft alle mitnander nach ihm!,91,121,character_speech,5,1,,LORD HOT.,#lord_hot,131.0,MALE,fear,S,,1776.0,negative,emotions of anxiety
+546,546,GerDracor/lenz-der-englaender.xml,"– Das sind die Folgen
+              deiner Politik, Hamilton.",122,183,character_speech,5,1,,LORD HOT.,#lord_hot,131.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+547,547,GerDracor/lenz-der-englaender.xml,zu Tognina.,0,11,stage_direction,5,1,speech_part,,#lord_hamilton,132.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+548,548,GerDracor/lenz-der-englaender.xml,"Ihr wart rasend, daß Ihr ihm das Messer in die Hand gabt.",0,57,character_speech,5,1,,LORD HAMILTON,#lord_hamilton,132.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+549,549,GerDracor/lenz-der-englaender.xml,"Er tat so ruhig, gnädiger Herr.",0,31,character_speech,5,1,,TOGNINA.,#tognina,133.0,FEMALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+550,550,GerDracor/lenz-der-englaender.xml,Mörder!,0,7,character_speech,5,1,,LORD HOT.,#lord_hot,134.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+551,551,GerDracor/lenz-der-englaender.xml,Mörder!,8,15,character_speech,5,1,,LORD HOT.,#lord_hot,134.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+552,552,GerDracor/lenz-der-englaender.xml,allezusammen!,16,29,character_speech,5,1,,LORD HOT.,#lord_hot,134.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+553,553,GerDracor/lenz-der-englaender.xml,ihr habt mich um meinen Sohn gebracht.,30,68,character_speech,5,1,,LORD HOT.,#lord_hot,134.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+554,554,GerDracor/lenz-der-englaender.xml,Es kann unmöglich so gefährlich sein.,0,37,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,135.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+555,555,GerDracor/lenz-der-englaender.xml,im Wundfieber.,0,14,stage_direction,5,1,speech_part,,#robert,136.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+556,556,GerDracor/lenz-der-englaender.xml,"Nein, Armida!",0,13,character_speech,5,1,,ROBERT,#robert,136.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+557,557,GerDracor/lenz-der-englaender.xml,nein!,14,19,character_speech,5,1,,ROBERT,#robert,136.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+558,558,GerDracor/lenz-der-englaender.xml,– so viel Augen haben nach mir gefunkelt!,20,61,character_speech,5,1,,ROBERT,#robert,136.0,MALE,love,S,,1776.0,positive,emotions of affection
+559,559,GerDracor/lenz-der-englaender.xml,"so viel Busen nach mir
+              sich ausgedehnt!",62,115,character_speech,5,1,,ROBERT,#robert,136.0,MALE,love,S,,1776.0,positive,emotions of affection
+560,560,GerDracor/lenz-der-englaender.xml,"ich hätte so viel Vergnügen haben können – nein, das ist nicht
+              dankbar.",116,201,character_speech,5,1,,ROBERT,#robert,136.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+561,561,GerDracor/lenz-der-englaender.xml,Kommt denn der Wundarzt nicht?,0,30,character_speech,5,1,,LORD HOT.,#lord_hot,137.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+562,562,GerDracor/lenz-der-englaender.xml,"Nein, das ist nicht artig – Ich war jung, ich war schön!",0,56,character_speech,5,1,,ROBERT.,#robert,138.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+563,563,GerDracor/lenz-der-englaender.xml,o schön!,57,65,character_speech,5,1,,ROBERT.,#robert,138.0,MALE,joy,S,,1776.0,positive,emotions of pleasure
+564,564,GerDracor/lenz-der-englaender.xml,schön!,66,72,character_speech,5,1,,ROBERT.,#robert,138.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+565,565,GerDracor/lenz-der-englaender.xml,"ich war zum
+              Fressen, sagten sie – Sie wurden rot, wenn sie mit mir sprachen, sie stotterten, sie
+              stammelten, sie zitterten – nur eine, sagte ich, nur eine – und das mein Lohn!",73,276,character_speech,5,1,,ROBERT.,#robert,138.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+566,566,GerDracor/lenz-der-englaender.xml,Geschwind lauft zu meinem Beichtvater!,0,38,character_speech,5,1,,LORD HOT.,#lord_hot,139.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+567,567,GerDracor/lenz-der-englaender.xml,Bediente ab.,0,12,stage_direction,5,1,speech_part,,#lord_hot,139.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+568,568,GerDracor/lenz-der-englaender.xml,Wundarzt kommt; nähert sich und untersucht die Wunde.,13,66,stage_direction,5,1,speech_part,,#lord_hot,139.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+569,569,GerDracor/lenz-der-englaender.xml,"Nun, wie ist's?",0,15,character_speech,5,1,,LORD HOT.,#lord_hot,140.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+570,570,GerDracor/lenz-der-englaender.xml,ist Hoffnung da?,16,32,character_speech,5,1,,LORD HOT.,#lord_hot,140.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+571,571,GerDracor/lenz-der-englaender.xml,blickt auf und sieht ihn eine Weile bedenklich an.,0,50,stage_direction,5,1,speech_part,,#wundarzt,141.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+572,572,GerDracor/lenz-der-englaender.xml,fällt auf einen Stuhl.,0,22,stage_direction,5,1,speech_part,,#lord_hot,142.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+573,573,GerDracor/lenz-der-englaender.xml,Aus!,0,4,character_speech,5,1,,LORD HOT,#lord_hot,142.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+574,574,GerDracor/lenz-der-englaender.xml,Warum soll ich Ihnen mit vergeblicher Hoffnung schmeicheln?,0,59,character_speech,5,1,,WUNDARZT.,#wundarzt,143.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+575,575,GerDracor/lenz-der-englaender.xml,"– die Luftröhre ist
+              beschädigt.",60,105,character_speech,5,1,,WUNDARZT.,#wundarzt,143.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+576,576,GerDracor/lenz-der-englaender.xml,legt die Hand vors Gesicht und weint.,0,37,stage_direction,5,1,speech_part,,#lord_hot,144.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+577,577,GerDracor/lenz-der-englaender.xml,Nun – nun – nun – meine Armida!,0,31,character_speech,5,1,,ROBERT.,#robert,145.0,MALE,compassion,S,,1776.0,negative,emotions of suffering and empathy
+578,578,GerDracor/lenz-der-englaender.xml,"jetzt gilt es dir zu beweisen, wer unter uns beiden
+              recht hat – jetzt – jetzt – Laß meinen Vater sagen!",32,149,character_speech,5,1,,ROBERT.,#robert,145.0,MALE,Schadenfreude,S,,1776.0,positive,emotions of pleasure
+579,579,GerDracor/lenz-der-englaender.xml,laß die ganze Welt sagen –,150,176,character_speech,5,1,,ROBERT.,#robert,145.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+580,580,GerDracor/lenz-der-englaender.xml,"steht auf, zu Hamilton.",0,23,stage_direction,5,1,speech_part,,#lord_hot,146.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+581,581,GerDracor/lenz-der-englaender.xml,"Du hast mich um meinen Sohn gebracht, Hamilton – Dein waren alle diese Anschläge!",0,81,character_speech,5,1,,LORD HOT,#lord_hot,146.0,MALE,abhorrence,S,,1776.0,negative,emotions of rejection
+582,582,GerDracor/lenz-der-englaender.xml,"–
+              du sollst mir dran glauben, oder ich –",82,136,character_speech,5,1,,LORD HOT,#lord_hot,146.0,MALE,anger,S,,1776.0,negative,emotions of rejection
+583,583,GerDracor/lenz-der-englaender.xml,"Besser ihn tot beweint, als ihn wahnwitzig herum geschleppt.",0,60,character_speech,5,1,,LORD HAMILTON.,#lord_hamilton,147.0,MALE,compassion,S,,1776.0,negative,emotions of suffering and empathy
+584,584,GerDracor/lenz-der-englaender.xml,"Geht
+              ab.",0,22,stage_direction,5,1,inner_speech,,#lord_hamilton,147.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+585,585,GerDracor/lenz-der-englaender.xml,Lord Hot zieht den Degen und will ihm nach.,0,43,stage_direction,5,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+586,586,GerDracor/lenz-der-englaender.xml,"Sein Beichtvater, der herein tritt,
+            hält ihn zurück.",44,108,stage_direction,5,1,pre_speech,,,,,no_annotation,S,,1776.0,no_annotation,no_annotation
+587,587,GerDracor/lenz-der-englaender.xml,"Wohin, Lord Hot?",0,16,character_speech,5,1,,BEICHTVATER.,#beichtvater,148.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+588,588,GerDracor/lenz-der-englaender.xml,Der Mörder meines Sohns –,0,25,character_speech,5,1,,LORD HOT.,#lord_hot,149.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+589,589,GerDracor/lenz-der-englaender.xml,Kommen Sie!,0,11,character_speech,5,1,,BEICHTVATER.,#beichtvater,150.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+590,590,GerDracor/lenz-der-englaender.xml,"der Verlust tut Ihnen noch zu weh, als daß Sie gesund davon urteilen
+              können.",12,102,character_speech,5,1,,BEICHTVATER.,#beichtvater,150.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+591,591,GerDracor/lenz-der-englaender.xml,So helfen Sie uns wenigstens seine junge Seele retten.,0,54,character_speech,5,1,,LORD HOT.,#lord_hot,151.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+592,592,GerDracor/lenz-der-englaender.xml,"Es war sein Unglück, daß er in
+              der Kindheit über gewisse Bücher kam, die ihm Zweifel an seiner Religion beibrachten.",55,185,character_speech,5,1,,LORD HOT.,#lord_hot,151.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+593,593,GerDracor/lenz-der-englaender.xml,"Aber er zweifelt nicht aus Libertinage, das kann ich Ihnen versichern.",200,270,character_speech,5,1,,LORD HOT.,#lord_hot,151.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+594,594,GerDracor/lenz-der-englaender.xml,"Reden Sie ihm
+              zu, Mann Gottes, da er am Rande der Ewigkeit steht.",271,350,character_speech,5,1,,LORD HOT.,#lord_hot,151.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+595,595,GerDracor/lenz-der-englaender.xml,tritt näher und setzt sich auf sein Bett.,0,41,stage_direction,5,1,speech_part,,#beichtvater,152.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+596,596,GerDracor/lenz-der-englaender.xml,"Lord Robert, ich weiß nicht, ob Sie mich noch verstehen, aber ich hoffe zu Gott, der
+              Sie erschaffen hat, er wird wenigstens einige meiner Worte den Weg zu Ihrem Herzen
+              finden lassen, wenn Ihr Verstand sie gleich nicht mehr fassen kann.",0,263,character_speech,5,1,,BEICHTVATER,#beichtvater,152.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+597,597,GerDracor/lenz-der-englaender.xml,"Bedenken Sie, wenn
+              Sie noch Kräfte übrig haben, welchem entscheidenden Augenblick Sie nahe sind, und
+              wenden Sie die letzte dieser Kräfte an, das, was ich Ihnen sage, zu beherzigen.",264,472,character_speech,5,1,,BEICHTVATER,#beichtvater,152.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+598,598,GerDracor/lenz-der-englaender.xml,nimmt das Bild hervor und küßt es.,0,34,stage_direction,5,1,speech_part,,#robert,153.0,MALE,love,S,,1776.0,positive,emotions of affection
+599,599,GerDracor/lenz-der-englaender.xml,Daß ich das hier lassen muß.,0,28,character_speech,5,1,,ROBERT,#robert,153.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+600,600,GerDracor/lenz-der-englaender.xml,Sie gehen in die Ewigkeit über!,0,31,character_speech,5,1,,BEICHTVATER.,#beichtvater,154.0,MALE,"admiration, reverence",S,,1776.0,positive,emotions of affection
+601,601,GerDracor/lenz-der-englaender.xml,"Lord Robert, Lord Robert, machen Sie Ihr Herz los von
+              allem Irdischen.",32,116,character_speech,5,1,,BEICHTVATER.,#beichtvater,154.0,MALE,despair,S,,1776.0,negative,emotions of anxiety
+602,602,GerDracor/lenz-der-englaender.xml,"Sie sind jung, Sie sind liebenswürdig, Sie haben Ihrem Vaterlande die
+              reizendste Hoffnungen vernichtet; aber Ihr Herz ist noch Ihre; wenden Sie das von den
+              Geschöpfen, an denen Sie zu sehr hingen, zu dem Schöpfer, den Sie beleidiget haben,
+              der Ihnen verzeihen  will, der Sie noch liebt, wenn Sie ihm das Herz
+              wieder ganz weihen, das Sie ihm entrissen haben.",117,530,character_speech,5,1,,BEICHTVATER.,#beichtvater,154.0,MALE,love,S,,1776.0,positive,emotions of affection
+603,603,GerDracor/lenz-der-englaender.xml,kehrt sich auf die andere Seite.,0,32,stage_direction,5,1,speech_part,,#robert,155.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+604,604,GerDracor/lenz-der-englaender.xml,Unglücklicher!,0,14,character_speech,5,1,,BEICHTVATER.,#beichtvater,156.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+605,605,GerDracor/lenz-der-englaender.xml,Sie wollen nicht?,15,32,character_speech,5,1,,BEICHTVATER.,#beichtvater,156.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+606,606,GerDracor/lenz-der-englaender.xml,"Bedenken Sie, wo Sie stehen, und vor wem.",33,74,character_speech,5,1,,BEICHTVATER.,#beichtvater,156.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+607,607,GerDracor/lenz-der-englaender.xml,"– Wollen
+              Sie mir die Hand drauf reichen, daß Sie sich seinem Willen unterwerfen wollen – noch
+              ist es Zeit – Sie bewegen die Lippen.",75,234,character_speech,5,1,,BEICHTVATER.,#beichtvater,156.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+608,608,GerDracor/lenz-der-englaender.xml,– Sie wollten mir etwas sagen.,235,265,character_speech,5,1,,BEICHTVATER.,#beichtvater,156.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+609,609,GerDracor/lenz-der-englaender.xml,"kehrt sich um, der Beichtvater hält ihm das Ohr hin, er flüstert ihm
+              unvernehmlich zu.",0,100,stage_direction,5,1,speech_part,,#robert,157.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+610,610,GerDracor/lenz-der-englaender.xml,Unter Bedingungen!,0,18,character_speech,5,1,,BEICHTVATER.,#beichtvater,158.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+611,611,GerDracor/lenz-der-englaender.xml,"– Bedenken Sie, was Sie verlangen – Bedingungen mit Ihrem
+              Schöpfer?",19,100,character_speech,5,1,,BEICHTVATER.,#beichtvater,158.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+612,612,GerDracor/lenz-der-englaender.xml,"Robert hält ihm die Hand, er reicht ihm das Ohr noch einmal
+                hin.",0,80,stage_direction,5,1,inner_speech,,#beichtvater,158.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+613,613,GerDracor/lenz-der-englaender.xml," – Daß er Ihnen erlaube, Armiden nicht zu vergessen – O lieber Lord
+              Robert!",0,89,character_speech,5,1,,BEICHTVATER.,#beichtvater,158.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+614,614,GerDracor/lenz-der-englaender.xml,in den letzten Augenblicken!,90,118,character_speech,5,1,,BEICHTVATER.,#beichtvater,158.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+615,615,GerDracor/lenz-der-englaender.xml,"– Bedenken Sie, daß der Himmel Güter hat, die
+              Ihnen noch unbekannt sind; Güter, die die irdischen so weit übertreffen, als die Sonne
+              das Licht der Kerzen übertrifft.",119,312,character_speech,5,1,,BEICHTVATER.,#beichtvater,158.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+616,616,GerDracor/lenz-der-englaender.xml,"Wollten Sie denen entsagen, um einen Gegenstand, den
+              Sie nicht mehr besitzen können, zu Ihrer Marter auf ewig im Gedächtnis zu
+              behalten?",313,477,character_speech,5,1,,BEICHTVATER.,#beichtvater,158.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+617,617,GerDracor/lenz-der-englaender.xml,"hebt das Bild in die Höhe und drückt es ans Gesicht, mit äußerster Anstrengung
+              halb röchelnd.",0,107,stage_direction,5,1,speech_part,,#robert,159.0,MALE,suffering,S,,1776.0,negative,emotions of suffering and empathy
+618,618,GerDracor/lenz-der-englaender.xml,Armida!,0,7,character_speech,5,1,,ROBERT,#robert,159.0,MALE,compassion,S,,1776.0,negative,emotions of suffering and empathy
+619,619,GerDracor/lenz-der-englaender.xml,Armida.,8,15,character_speech,5,1,,ROBERT,#robert,159.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+620,620,GerDracor/lenz-der-englaender.xml,– Behaltet euren Himmel für euch.,16,49,character_speech,5,1,,ROBERT,#robert,159.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation
+621,621,GerDracor/lenz-der-englaender.xml,Er stirbt.,0,10,stage_direction,5,1,inner_speech,,#robert,159.0,MALE,no_annotation,S,,1776.0,no_annotation,no_annotation

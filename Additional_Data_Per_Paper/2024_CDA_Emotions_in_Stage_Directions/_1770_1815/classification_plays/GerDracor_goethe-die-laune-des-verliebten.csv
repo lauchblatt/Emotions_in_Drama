@@ -1,0 +1,1045 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/goethe-die-laune-des-verliebten.xml,Amine und Egle sitzen an der einen Seite des Theaters und winden Kränze.,0,72,stage_direction,1,1,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+1,1,GerDracor/goethe-die-laune-des-verliebten.xml,Lamon kommt dazu und bringt ein Körbchen mit Blumen.,0,52,stage_direction,1,1,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+2,2,GerDracor/goethe-die-laune-des-verliebten.xml,indem er das Körbchen niedersetzt.,0,34,stage_direction,1,1,speech_part,,#lamon,1.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+3,3,GerDracor/goethe-die-laune-des-verliebten.xml,Hier sind noch Blumen.,0,22,character_speech,1,1,,LAMON,#lamon,1.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+4,4,GerDracor/goethe-die-laune-des-verliebten.xml,Gut!,0,4,character_speech,1,1,,EGLE.,#egle,2.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+5,5,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Seht doch, wie schön sie sind!",0,43,character_speech,1,1,,LAMON.,#lamon,3.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+6,6,GerDracor/goethe-die-laune-des-verliebten.xml,Die Nelke brach ich dir.,56,80,character_speech,1,1,,LAMON.,#lamon,3.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+7,7,GerDracor/goethe-die-laune-des-verliebten.xml,Die Rose!,0,9,character_speech,1,1,,EGLE.,#egle,4.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+8,8,GerDracor/goethe-die-laune-des-verliebten.xml,–,10,11,character_speech,1,1,,EGLE.,#egle,4.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+9,9,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nein, mein Kind!",0,29,character_speech,1,1,,LAMON.,#lamon,5.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+10,10,GerDracor/goethe-die-laune-des-verliebten.xml,"Aminen reich ich heut das Seltene vom Jahr;
+            Die Rose seh ich gern in einem schwarzen Haar.",42,144,character_speech,1,1,,LAMON.,#lamon,5.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+11,11,GerDracor/goethe-die-laune-des-verliebten.xml,"Und das soll ich wohl gar verbindlich, artig nennen?",0,52,character_speech,1,1,,EGLE.,#egle,6.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+12,12,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wie lange liebst du mich schon, ohne mich zu kennen?",0,65,character_speech,1,1,,LAMON.,#lamon,7.0,MALE,love,SS,,1779.0,positive,emotions of affection
+13,13,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich weiß es ganz gewiß, du liebst nur mich allein,
+            Und dieses muntre Herz ist auch auf ewig dein,
+            Du weißt es.",78,212,character_speech,1,1,,LAMON.,#lamon,7.0,MALE,love,SS,,1779.0,positive,emotions of affection
+14,14,GerDracor/goethe-die-laune-des-verliebten.xml,Doch verlangst du mich noch mehr zu binden?,213,256,character_speech,1,1,,LAMON.,#lamon,7.0,MALE,love,SS,,1779.0,positive,emotions of affection
+15,15,GerDracor/goethe-die-laune-des-verliebten.xml,"Ist es wohl scheltenswert, auch andre schön zu finden?",269,323,character_speech,1,1,,LAMON.,#lamon,7.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+16,16,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich wehre dir ja nicht, zu sagen: der ist schön,
+             Der artig, scherzhaft der – ich will es eingestehn.",336,449,character_speech,1,1,,LAMON.,#lamon,7.0,MALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+17,17,GerDracor/goethe-die-laune-des-verliebten.xml,Nicht böse sein.,462,478,character_speech,1,1,,LAMON.,#lamon,7.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+18,18,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Sei's nicht, ich will es auch nicht werden.",0,56,character_speech,1,1,,EGLE.,#egle,8.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+19,19,GerDracor/goethe-die-laune-des-verliebten.xml,Wir fehlen beide gleich.,69,93,character_speech,1,1,,EGLE.,#egle,8.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+20,20,GerDracor/goethe-die-laune-des-verliebten.xml,"Mit freundlichen Gebärden
+            Hör ich gar manchen an, und mancher Schäferin
+            Sagst du was Süßes vor, wenn ich nicht bei dir bin.",94,241,character_speech,1,1,,EGLE.,#egle,8.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+21,21,GerDracor/goethe-die-laune-des-verliebten.xml,"Dem Herzen läßt sich wohl, dem Scherze nicht gebieten;
+            Vor Unbeständigkeit muß uns der Leichtsinn hüten.",254,370,character_speech,1,1,,EGLE.,#egle,8.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+22,22,GerDracor/goethe-die-laune-des-verliebten.xml,Mich kleidet Eifersucht noch weniger als dich.,383,429,character_speech,1,1,,EGLE.,#egle,8.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+23,23,GerDracor/goethe-die-laune-des-verliebten.xml,Zu Aminen.,0,10,stage_direction,1,1,speech_part,,#egle,8.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+24,24,GerDracor/goethe-die-laune-des-verliebten.xml,Du lächelst über uns!,0,21,character_speech,1,1,,EGLE.,#egle,8.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+25,25,GerDracor/goethe-die-laune-des-verliebten.xml,"Was denkst du, Liebe?",22,43,character_speech,1,1,,EGLE.,#egle,8.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+26,26,GerDracor/goethe-die-laune-des-verliebten.xml,sprich!,44,51,character_speech,1,1,,EGLE.,#egle,8.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+27,27,GerDracor/goethe-die-laune-des-verliebten.xml,Nicht viel.,0,11,character_speech,1,1,,AMINE.,#amine,9.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+28,28,GerDracor/goethe-die-laune-des-verliebten.xml,"Genug, mein Glück und deine Qual zu fühlen.",0,43,character_speech,1,1,,EGLE.,#egle,10.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+29,29,GerDracor/goethe-die-laune-des-verliebten.xml,Wieso?,0,6,character_speech,1,1,,AMINE.,#amine,11.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+30,30,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wieso!",0,19,character_speech,1,1,,EGLE.,#egle,12.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+31,31,GerDracor/goethe-die-laune-des-verliebten.xml,"Anstatt daß wir zusammen spielen,
+            Daß Amors Schläfrigkeit bei unserm Lachen flieht,
+            Beginnet deine Qual, wenn dich dein Liebster sieht.",20,179,character_speech,1,1,,EGLE.,#egle,12.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+32,32,GerDracor/goethe-die-laune-des-verliebten.xml,Nie war der Eigensinn bei einem Menschen größer.,192,240,character_speech,1,1,,EGLE.,#egle,12.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+33,33,GerDracor/goethe-die-laune-des-verliebten.xml,"Du denkst, er liebe dich.",253,278,character_speech,1,1,,EGLE.,#egle,12.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+34,34,GerDracor/goethe-die-laune-des-verliebten.xml,"O nein, ich kenn ihn besser;
+            Er sieht, daß du gehorchst, drum liebt dich der Tyrann,
+            Damit er jemand hat, dem er befehlen kann.",279,430,character_speech,1,1,,EGLE.,#egle,12.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+35,35,GerDracor/goethe-die-laune-des-verliebten.xml,"Ach, er gehorcht mir oft.",0,25,character_speech,1,1,,AMINE.,#amine,13.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+36,36,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Um wieder zu befehlen.",0,35,character_speech,1,1,,EGLE.,#egle,14.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+37,37,GerDracor/goethe-die-laune-des-verliebten.xml,Mußt du nicht jeden Blick von seinen Augen stehlen?,48,99,character_speech,1,1,,EGLE.,#egle,14.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+38,38,GerDracor/goethe-die-laune-des-verliebten.xml,"Die Macht, von der Natur in unsern Blick gelegt,
+            Daß er den Mann entzückt, daß er ihn niederschlägt,
+            Hast du an ihn geschenkt und mußt dich glücklich halten,
+            Wenn er nur freundlich sieht.",112,335,character_speech,1,1,,EGLE.,#egle,14.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+39,39,GerDracor/goethe-die-laune-des-verliebten.xml,"Die Stirne voller Falten,
+            Die Augenbraunen tief, die Augen düster, wild,
+            Die Lippen aufgedrückt, ein liebenswürdig Bild,
+            Wie er sich täglich zeigt, bis Bitten, Küsse, Klagen
+            Den rauhen Winterzug von seiner Stirne jagen.",336,603,character_speech,1,1,,EGLE.,#egle,14.0,FEMALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+40,40,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Du kennst ihn nicht genug, du hast ihn nicht geliebt.",0,66,character_speech,1,1,,AMINE.,#amine,15.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+41,41,GerDracor/goethe-die-laune-des-verliebten.xml,"Es ist nicht Eigensinn, der seine Stirne trübt;
+            Ein launischer Verdruß ist seines Herzens Plage
+             Und trübet mir und ihm die besten Sommertage;
+            Und doch vergnüg ich mich, da, wenn er mich nur sieht,
+            Wenn er mein Schmeicheln hört, bald seine Laune flieht.",79,380,character_speech,1,1,,AMINE.,#amine,15.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+42,42,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Fürwahr ein großes Glück, das man entbehren könnte.",0,64,character_speech,1,1,,EGLE.,#egle,16.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+43,43,GerDracor/goethe-die-laune-des-verliebten.xml,"Doch nenne mir die Lust, die er dir je vergönnte?",77,126,character_speech,1,1,,EGLE.,#egle,16.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+44,44,GerDracor/goethe-die-laune-des-verliebten.xml,"Wie pochte deine Brust, wenn man vom Tanze sprach;
+            Dein Liebster flieht den Tanz und zieht dich Arme nach.",139,257,character_speech,1,1,,EGLE.,#egle,16.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+45,45,GerDracor/goethe-die-laune-des-verliebten.xml,"Kein Wunder, daß er dich bei keinem Feste leitet,
+            Da er der Wiese Gras um deine Tritte neidet,
+            Den Vogel, den du liebst, als Nebenbuhler haßt;
+            Wie könnt er ruhig sein, wenn dich ein andrer faßt
+            Und gar, indem er sich mit dir im Reihen kräuselt,
+            Dich zärtlich an sich drückt und Liebesworte säuselt.",270,628,character_speech,1,1,,EGLE.,#egle,16.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+46,46,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Sei auch nicht ungerecht, da er mich dieses Fest,
+            Weil ich ihn darum bat, mit euch begehen läßt.",0,121,character_speech,1,1,,AMINE.,#amine,17.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+47,47,GerDracor/goethe-die-laune-des-verliebten.xml,Das wirst du fühlen.,0,20,character_speech,1,1,,EGLE.,#egle,18.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+48,48,GerDracor/goethe-die-laune-des-verliebten.xml,Wie?,0,4,character_speech,1,1,,AMINE.,#amine,19.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+49,49,GerDracor/goethe-die-laune-des-verliebten.xml,Warum bleibt er zurücke?,0,24,character_speech,1,1,,EGLE.,#egle,20.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+50,50,GerDracor/goethe-die-laune-des-verliebten.xml,Er liebt den Tanz nicht sehr.,0,29,character_speech,1,1,,AMINE.,#amine,21.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+51,51,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nein, es ist eine Tücke.",0,37,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+52,52,GerDracor/goethe-die-laune-des-verliebten.xml,"Kommst tu vergnügt zurück, fängt er halb spöttisch an:
+            Ihr wart wohl sehr vergnügt?",50,145,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,Schadenfreude,SS,,1779.0,positive,emotions of pleasure
+53,53,GerDracor/goethe-die-laune-des-verliebten.xml,– Sehr.,146,153,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+54,54,GerDracor/goethe-die-laune-des-verliebten.xml,– Das war wohlgetan.,154,174,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+55,55,GerDracor/goethe-die-laune-des-verliebten.xml,Ihr spieltet?,187,200,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+56,56,GerDracor/goethe-die-laune-des-verliebten.xml,– Pfänder.,201,211,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+57,57,GerDracor/goethe-die-laune-des-verliebten.xml,– So!,212,217,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+58,58,GerDracor/goethe-die-laune-des-verliebten.xml,Damöt war auch zugegen?,218,241,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+59,59,GerDracor/goethe-die-laune-des-verliebten.xml,Und tanztet?,254,266,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+60,60,GerDracor/goethe-die-laune-des-verliebten.xml,– Um den Baum.,267,281,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+61,61,GerDracor/goethe-die-laune-des-verliebten.xml,– Ich hätt euch sehen mögen.,282,310,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+62,62,GerDracor/goethe-die-laune-des-verliebten.xml,Er tanzte wohl recht schön?,323,350,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+63,63,GerDracor/goethe-die-laune-des-verliebten.xml,Was gabst du ihm zum Lohn?,351,377,character_speech,1,1,,EGLE.,#egle,22.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+64,64,GerDracor/goethe-die-laune-des-verliebten.xml,lächelnd.,0,9,stage_direction,1,1,speech_part,,#amine,23.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+65,65,GerDracor/goethe-die-laune-des-verliebten.xml,Ja.,0,3,character_speech,1,1,,AMINE,#amine,23.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+66,66,GerDracor/goethe-die-laune-des-verliebten.xml,Lachst du?,0,10,character_speech,1,1,,EGLE.,#egle,24.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+67,67,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Freundin, ja, das ist sein ganzer Ton.",0,51,character_speech,1,1,,AMINE.,#amine,25.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+68,68,GerDracor/goethe-die-laune-des-verliebten.xml,"–
+            Noch Blumen!",52,78,character_speech,1,1,,AMINE.,#amine,25.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+69,69,GerDracor/goethe-die-laune-des-verliebten.xml,Hier!,0,5,character_speech,1,1,,LAMON.,#lamon,26.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+70,70,GerDracor/goethe-die-laune-des-verliebten.xml,das sind die besten.,6,26,character_speech,1,1,,LAMON.,#lamon,26.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+71,71,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Doch mit Freuden
+            Seh ich ihn meinen Blick der ganzen Welt beneiden;
+             Ich seh an diesem Neid, wie mich mein Liebster schätzt,
+            Und meinem kleinen Stolz wird alle Qual ersetzt.",0,222,character_speech,1,1,,AMINE.,#amine,27.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+72,72,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Kind, ich bedaure dich, du bist nicht mehr zu retten,
+            Da du dein Elend liebst; du klirrst mit deinen Ketten
+            Und überredest dich, es sei Musik.",0,179,character_speech,1,1,,EGLE.,#egle,28.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+73,73,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ein Band
+            Zur Schleife fehlt mir noch.",0,62,character_speech,1,1,,AMINE.,#amine,29.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+74,74,GerDracor/goethe-die-laune-des-verliebten.xml,zu Lamon.,0,9,stage_direction,1,1,speech_part,,#egle,30.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+75,75,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Du hast mir eins entwandt,
+            Das ich vom Maienkranz beim Frühlingsfest bekommen.",0,103,character_speech,1,1,,EGLE,#egle,30.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+76,76,GerDracor/goethe-die-laune-des-verliebten.xml,Ich will es holen.,0,18,character_speech,1,1,,LAMON.,#lamon,31.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+77,77,GerDracor/goethe-die-laune-des-verliebten.xml,Doch du mußt bald wiederkommen.,0,31,character_speech,1,1,,EGLE.,#egle,32.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+78,78,GerDracor/goethe-die-laune-des-verliebten.xml,Egle.,0,5,stage_direction,1,2,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+79,79,GerDracor/goethe-die-laune-des-verliebten.xml,Amine.,6,12,stage_direction,1,2,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+80,80,GerDracor/goethe-die-laune-des-verliebten.xml,"Er achtet das nicht viel, was ihm sein Mädchen schenkt.",0,55,character_speech,1,2,,AMINE.,#amine,33.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+81,81,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Mir selbst gefällt es nicht, wie mein Geliebter denkt;
+            Zu wenig rühren ihn der Liebe Tändeleien,
+            Die ein empfindlich Herz, so klein sie sind, erfreuen.",0,188,character_speech,1,2,,EGLE.,#egle,34.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+82,82,GerDracor/goethe-die-laune-des-verliebten.xml,"Doch, Freundin, glaube mir, es ist geringre Pein,
+            Nicht gar so sehr geliebt, als es zu sehr zu sein.",201,313,character_speech,1,2,,EGLE.,#egle,34.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+83,83,GerDracor/goethe-die-laune-des-verliebten.xml,"Die Treue lob ich gern; doch muß sie unserm Leben,
+            Bei voller Sicherheit, die volle Ruhe geben.",326,433,character_speech,1,2,,EGLE.,#egle,34.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+84,84,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ach, Freundin!",0,27,character_speech,1,2,,AMINE.,#amine,35.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+85,85,GerDracor/goethe-die-laune-des-verliebten.xml,schätzenswert ist solch ein zärtlich Herz.,28,70,character_speech,1,2,,AMINE.,#amine,35.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+86,86,GerDracor/goethe-die-laune-des-verliebten.xml,"Zwar oft betrübt er mich, doch rührt ihn auch mein Schmerz.",83,142,character_speech,1,2,,AMINE.,#amine,35.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+87,87,GerDracor/goethe-die-laune-des-verliebten.xml,"Wirft er mir etwas vor, fängt er an, mich zu plagen,
+            So darf ich nur ein Wort, ein gutes Wort nur sagen,
+            Gleich ist er umgekehrt, die wilde Zanksucht flieht,
+            Er weint sogar mit mir, wenn er mich weinen sieht,
+            Fällt zärtlich vor mir hin und fleht, ihm zu vergeben.",155,466,character_speech,1,2,,AMINE.,#amine,35.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+88,88,GerDracor/goethe-die-laune-des-verliebten.xml,Und du vergibst ihm?,0,20,character_speech,1,2,,EGLE.,#egle,36.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+89,89,GerDracor/goethe-die-laune-des-verliebten.xml,Stets.,0,6,character_speech,1,2,,AMINE.,#amine,37.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+90,90,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Heißt das nicht elend leben?",0,41,character_speech,1,2,,EGLE.,#egle,38.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+91,91,GerDracor/goethe-die-laune-des-verliebten.xml,"Dem Liebsten, der uns stets beleidigt, stets verzeihn,
+            Um Liebe sich bemühn und nie belohnt zu sein!",54,166,character_speech,1,2,,EGLE.,#egle,38.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+92,92,GerDracor/goethe-die-laune-des-verliebten.xml,Was man nicht ändern kann –,0,27,character_speech,1,2,,AMINE.,#amine,39.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+93,93,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nicht ändern?",0,26,character_speech,1,2,,EGLE.,#egle,40.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+94,94,GerDracor/goethe-die-laune-des-verliebten.xml,"Ihn bekehren
+            Ist keine Schwierigkeit.",27,76,character_speech,1,2,,EGLE.,#egle,40.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+95,95,GerDracor/goethe-die-laune-des-verliebten.xml,Wie das?,0,8,character_speech,1,2,,AMINE.,#amine,41.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+96,96,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich will dich's lehren.",0,36,character_speech,1,2,,EGLE.,#egle,42.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+97,97,GerDracor/goethe-die-laune-des-verliebten.xml,"Es stammet deine Not, die Unzufriedenheit
+            Des Eridons –",49,116,character_speech,1,2,,EGLE.,#egle,42.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+98,98,GerDracor/goethe-die-laune-des-verliebten.xml,Von was?,0,8,character_speech,1,2,,AMINE.,#amine,43.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+99,99,GerDracor/goethe-die-laune-des-verliebten.xml,Von deiner Zärtlichkeit.,0,24,character_speech,1,2,,EGLE.,#egle,44.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+100,100,GerDracor/goethe-die-laune-des-verliebten.xml,"Die, dächt ich, sollte nichts als Gegenlieb entzünden.",0,54,character_speech,1,2,,AMINE.,#amine,45.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+101,101,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Du irrst; sei hart und streng, du wirst ihn zärtlich finden.",0,73,character_speech,1,2,,EGLE.,#egle,46.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+102,102,GerDracor/goethe-die-laune-des-verliebten.xml,"Versuch es nur einmal, bereit ihm kleine Pein:
+            Erringen will der Mensch, er will nicht sicher sein.",86,197,character_speech,1,2,,EGLE.,#egle,46.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+103,103,GerDracor/goethe-die-laune-des-verliebten.xml,"Kommt Eridon, mit dir ein Stündchen zu verbringen,
+            So weiß er nur zu gut, es muß ihm stets gelingen.",210,322,character_speech,1,2,,EGLE.,#egle,46.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+104,104,GerDracor/goethe-die-laune-des-verliebten.xml,"Der Nebenbuhler Zahl ist ihm nicht fürchterlich;
+            Er weiß, du liebest ihn weit stärker als er dich.",335,445,character_speech,1,2,,EGLE.,#egle,46.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+105,105,GerDracor/goethe-die-laune-des-verliebten.xml,"Sein Glück ist ihm zu groß, und er ist zu belachen,
+            Da er kein Elend hat, will er sich Elend machen.",458,570,character_speech,1,2,,EGLE.,#egle,46.0,FEMALE,Schadenfreude,SS,,1779.0,positive,emotions of pleasure
+106,106,GerDracor/goethe-die-laune-des-verliebten.xml,"Er sieht, daß du nichts mehr als ihn auf Erden liebst,
+            Und zweifelt nur, weil du ihm nichts zu zweifeln gibst.",583,705,character_speech,1,2,,EGLE.,#egle,46.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+107,107,GerDracor/goethe-die-laune-des-verliebten.xml,"Begegn' ihm, daß er glaubt, du könntest ihn entbehren;
+            Zwar wird er rasen, doch das wird nicht lange währen,
+            Dann wird ein Blick ihn mehr als jetzt ein Kuß erfreun;
+            Mach, daß er fürchten muß, und er wird glücklich sein.",718,973,character_speech,1,2,,EGLE.,#egle,46.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+108,108,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ja, das ist alles gut; allein es auszuführen
+            Vermag ich nicht.",0,87,character_speech,1,2,,AMINE.,#amine,47.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+109,109,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wer wird auch gleich den Mut verlieren.",0,52,character_speech,1,2,,EGLE.,#egle,48.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+110,110,GerDracor/goethe-die-laune-des-verliebten.xml,"Geh, du bist allzu schwach.",65,92,character_speech,1,2,,EGLE.,#egle,48.0,FEMALE,despair,SS,,1779.0,negative,emotions of anxiety
+111,111,GerDracor/goethe-die-laune-des-verliebten.xml,Sieh dort!,93,103,character_speech,1,2,,EGLE.,#egle,48.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+112,112,GerDracor/goethe-die-laune-des-verliebten.xml,Mein Eridon!,0,12,character_speech,1,2,,AMINE.,#amine,49.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+113,113,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Das dacht ich.",0,27,character_speech,1,2,,EGLE.,#egle,50.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+114,114,GerDracor/goethe-die-laune-des-verliebten.xml,Armes Kind!,28,39,character_speech,1,2,,EGLE.,#egle,50.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+115,115,GerDracor/goethe-die-laune-des-verliebten.xml,"er kommt, du zitterst schon
+            Vor Freude, das ist nichts; willst du ihn je bekehren,
+             Mußt du ihn ruhig sehn sich nahn, ihn ruhig hören.",40,198,character_speech,1,2,,EGLE.,#egle,50.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+116,116,GerDracor/goethe-die-laune-des-verliebten.xml,Das Wallen aus der Brust!,211,236,character_speech,1,2,,EGLE.,#egle,50.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+117,117,GerDracor/goethe-die-laune-des-verliebten.xml,die Röte vom Gesicht!,237,258,character_speech,1,2,,EGLE.,#egle,50.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+118,118,GerDracor/goethe-die-laune-des-verliebten.xml,Und dann –,271,281,character_speech,1,2,,EGLE.,#egle,50.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+119,119,GerDracor/goethe-die-laune-des-verliebten.xml,O laß mich los!,0,15,character_speech,1,2,,AMINE.,#amine,51.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+120,120,GerDracor/goethe-die-laune-des-verliebten.xml,So liebt Amine nicht.,16,37,character_speech,1,2,,AMINE.,#amine,51.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+121,121,GerDracor/goethe-die-laune-des-verliebten.xml,"Eridon kommt langsam mit übereinandergelegten Armen, Amine steht auf und läuft ihm
+          entgegen.",0,102,stage_direction,1,3,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+122,122,GerDracor/goethe-die-laune-des-verliebten.xml,Egle bleibt in ihrer Beschäftigung sitzen.,0,42,stage_direction,1,3,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+123,123,GerDracor/goethe-die-laune-des-verliebten.xml,ihn bei der Hand fassend.,0,25,stage_direction,1,3,speech_part,,#amine,52.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+124,124,GerDracor/goethe-die-laune-des-verliebten.xml,Geliebter Eridon!,0,17,character_speech,1,3,,AMINE,#amine,52.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+125,125,GerDracor/goethe-die-laune-des-verliebten.xml,küßt ihr die Hand.,0,18,stage_direction,1,3,speech_part,,#eridon,53.0,MALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+126,126,GerDracor/goethe-die-laune-des-verliebten.xml,Mein Mädchen!,0,13,character_speech,1,3,,ERIDON,#eridon,53.0,MALE,being moved,SS,,1779.0,being moved,being moved
+127,127,GerDracor/goethe-die-laune-des-verliebten.xml,für sich.,0,9,stage_direction,1,3,speech_part,,#egle,54.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+128,128,GerDracor/goethe-die-laune-des-verliebten.xml,Ach wie süße!,0,13,character_speech,1,3,,EGLE,#egle,54.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+129,129,GerDracor/goethe-die-laune-des-verliebten.xml,Die schönen Blumen!,0,19,character_speech,1,3,,AMINE.,#amine,55.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+130,130,GerDracor/goethe-die-laune-des-verliebten.xml,"Sprich, mein Freund, wer gab dir diese!",20,59,character_speech,1,3,,AMINE.,#amine,55.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+131,131,GerDracor/goethe-die-laune-des-verliebten.xml,Wer?,0,4,character_speech,1,3,,ERIDON.,#eridon,56.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+132,132,GerDracor/goethe-die-laune-des-verliebten.xml,Meine Liebste.,5,19,character_speech,1,3,,ERIDON.,#eridon,56.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+133,133,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wie?",0,17,character_speech,1,3,,AMINE.,#amine,57.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+134,134,GerDracor/goethe-die-laune-des-verliebten.xml,"– Ah, sind das die von mir?",18,45,character_speech,1,3,,AMINE.,#amine,57.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+135,135,GerDracor/goethe-die-laune-des-verliebten.xml,So frisch von gestern noch?,58,85,character_speech,1,3,,AMINE.,#amine,57.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+136,136,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Erhalt ich was von dir,
+            So ist mir's wert.",0,67,character_speech,1,3,,ERIDON.,#eridon,58.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+137,137,GerDracor/goethe-die-laune-des-verliebten.xml,Doch die von mir?,68,85,character_speech,1,3,,ERIDON.,#eridon,58.0,MALE,being moved,SS,,1779.0,being moved,being moved
+138,138,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Zu jenen Kränzen
+            Fürs Fest gebraucht ich sie.",0,70,character_speech,1,3,,AMINE.,#amine,59.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+139,139,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Dazu!",0,18,character_speech,1,3,,ERIDON.,#eridon,60.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+140,140,GerDracor/goethe-die-laune-des-verliebten.xml,Wie wirst du glänzen!,19,40,character_speech,1,3,,ERIDON.,#eridon,60.0,MALE,Schadenfreude,SS,,1779.0,positive,emotions of pleasure
+141,141,GerDracor/goethe-die-laune-des-verliebten.xml,"Lieb in des Jünglings Herz und bei den Mädchen Neid
+            Erregen!",53,125,character_speech,1,3,,ERIDON.,#eridon,60.0,MALE,love,SS,,1779.0,positive,emotions of affection
+142,142,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Freue dich, daß du die Zärtlichkeit
+            So eines Mädchens hast, um die so viele streiten.",0,110,character_speech,1,3,,EGLE.,#egle,61.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+143,143,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich kann nicht glücklich sein, wenn viele mich beneiden.",0,56,character_speech,1,3,,ERIDON.,#eridon,62.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+144,144,GerDracor/goethe-die-laune-des-verliebten.xml,Und könntest doch; denn wer ist sicherer als du?,0,48,character_speech,1,3,,EGLE.,#egle,63.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+145,145,GerDracor/goethe-die-laune-des-verliebten.xml,zu Aminen.,0,10,stage_direction,1,3,speech_part,,#eridon,64.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+146,146,GerDracor/goethe-die-laune-des-verliebten.xml,Erzähl mir doch vom Fest; kommt wohl Damöt dazu?,0,48,character_speech,1,3,,ERIDON,#eridon,64.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+147,147,GerDracor/goethe-die-laune-des-verliebten.xml,einfallend.,0,11,stage_direction,1,3,speech_part,,#egle,65.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+148,148,GerDracor/goethe-die-laune-des-verliebten.xml,"Er sagte mir es schon, er werde heut nicht fehlen.",0,50,character_speech,1,3,,EGLE,#egle,65.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+149,149,GerDracor/goethe-die-laune-des-verliebten.xml,zu Aminen.,0,10,stage_direction,1,3,speech_part,,#eridon,66.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+150,150,GerDracor/goethe-die-laune-des-verliebten.xml,"Mein Kind, wen wirst du dir zu deinem Tänzer wählen?",0,52,character_speech,1,3,,ERIDON,#eridon,66.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+151,151,GerDracor/goethe-die-laune-des-verliebten.xml,"Amine schweigt, er wendet sich zu Eglen.",0,40,stage_direction,1,3,speech_part,,#eridon,66.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+152,152,GerDracor/goethe-die-laune-des-verliebten.xml,"O sorge, gib ihr den, der ihr am liebsten sei!",0,46,character_speech,1,3,,ERIDON,#eridon,66.0,MALE,love,SS,,1779.0,positive,emotions of affection
+153,153,GerDracor/goethe-die-laune-des-verliebten.xml,"Das ist unmöglich, Freund, denn du bist nicht dabei!",0,52,character_speech,1,3,,AMINE.,#amine,67.0,FEMALE,friendship,SS,,1779.0,positive,emotions of affection
+154,154,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nein, hör nur, Eridon, ich kann's nicht mehr ertragen,
+            Welch eine Lust ist das, Aminen so zu plagen?",0,125,character_speech,1,3,,EGLE.,#egle,68.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+155,155,GerDracor/goethe-die-laune-des-verliebten.xml,"Verlaß sie, wenn du glaubst, daß sie die Treue bricht;
+            Glaubst du, daß sie dich liebt, nun gut, so plag sie nicht.",138,264,character_speech,1,3,,EGLE.,#egle,68.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+156,156,GerDracor/goethe-die-laune-des-verliebten.xml,Ich plage sie ja nicht.,0,23,character_speech,1,3,,ERIDON.,#eridon,69.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+157,157,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wie?",0,17,character_speech,1,3,,EGLE.,#egle,70.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+158,158,GerDracor/goethe-die-laune-des-verliebten.xml,Heißt das sie erfreuen?,18,41,character_speech,1,3,,EGLE.,#egle,70.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+159,159,GerDracor/goethe-die-laune-des-verliebten.xml,"Aus Eifersucht Verdruß auf ihr Vergnügen streuen,
+            Stets zweifeln, da sie dir doch niemals Ursach gibt,
+            Daß sie –",54,190,character_speech,1,3,,EGLE.,#egle,70.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+160,160,GerDracor/goethe-die-laune-des-verliebten.xml,"Bürgst du mir denn, daß sie mich wirklich liebt?",0,48,character_speech,1,3,,ERIDON.,#eridon,71.0,MALE,love,SS,,1779.0,positive,emotions of affection
+161,161,GerDracor/goethe-die-laune-des-verliebten.xml,Ich dich nicht lieben!,0,22,character_speech,1,3,,AMINE.,#amine,72.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+162,162,GerDracor/goethe-die-laune-des-verliebten.xml,Ich!,23,27,character_speech,1,3,,AMINE.,#amine,72.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+163,163,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wenn lehrst du mich es glauben?",0,44,character_speech,1,3,,ERIDON.,#eridon,73.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+164,164,GerDracor/goethe-die-laune-des-verliebten.xml,Wer ließ sich einen Strauß vom kecken Damon rauben?,57,108,character_speech,1,3,,ERIDON.,#eridon,73.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+165,165,GerDracor/goethe-die-laune-des-verliebten.xml,Wer nahm das schöne Band vom jungen Thyrsis an?,121,168,character_speech,1,3,,ERIDON.,#eridon,73.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+166,166,GerDracor/goethe-die-laune-des-verliebten.xml,Mein Eridon!,0,12,character_speech,1,3,,AMINE.,#amine,74.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+167,167,GerDracor/goethe-die-laune-des-verliebten.xml,–,13,14,character_speech,1,3,,AMINE.,#amine,74.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+168,168,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nicht wahr, das hast du nicht getan?",0,49,character_speech,1,3,,ERIDON.,#eridon,75.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+169,169,GerDracor/goethe-die-laune-des-verliebten.xml,Belohntest du sie denn?,62,85,character_speech,1,3,,ERIDON.,#eridon,75.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+170,170,GerDracor/goethe-die-laune-des-verliebten.xml,"O ja, du weißt zu küssen.",86,111,character_speech,1,3,,ERIDON.,#eridon,75.0,MALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+171,171,GerDracor/goethe-die-laune-des-verliebten.xml,"Mein Bester, weißt du nicht?",0,28,character_speech,1,3,,AMINE.,#amine,76.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+172,172,GerDracor/goethe-die-laune-des-verliebten.xml,–,29,30,character_speech,1,3,,AMINE.,#amine,76.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+173,173,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            O schweig, er will nichts wissen!",0,46,character_speech,1,3,,EGLE.,#egle,77.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+174,174,GerDracor/goethe-die-laune-des-verliebten.xml,"Was du ihm sagen kannst, hast du ihm längst gesagt,
+            Er hat es angehört und doch aufs neu geklagt.",59,168,character_speech,1,3,,EGLE.,#egle,77.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+175,175,GerDracor/goethe-die-laune-des-verliebten.xml,Was hilft's dich?,181,198,character_speech,1,3,,EGLE.,#egle,77.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+176,176,GerDracor/goethe-die-laune-des-verliebten.xml,"Magst du's ihm auch heut noch einmal sagen;
+            Er wird beruhigt gehn und morgen wieder klagen.",199,302,character_speech,1,3,,EGLE.,#egle,77.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+177,177,GerDracor/goethe-die-laune-des-verliebten.xml,Und das vielleicht mit Recht.,0,29,character_speech,1,3,,ERIDON.,#eridon,78.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+178,178,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Mit Recht?",0,23,character_speech,1,3,,AMINE.,#amine,79.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+179,179,GerDracor/goethe-die-laune-des-verliebten.xml,Ich!,24,28,character_speech,1,3,,AMINE.,#amine,79.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+180,180,GerDracor/goethe-die-laune-des-verliebten.xml,Untreu sein?,29,41,character_speech,1,3,,AMINE.,#amine,79.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+181,181,GerDracor/goethe-die-laune-des-verliebten.xml,Amine dir?,54,64,character_speech,1,3,,AMINE.,#amine,79.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+182,182,GerDracor/goethe-die-laune-des-verliebten.xml,"Mein Freund, kannst du es glauben?",65,99,character_speech,1,3,,AMINE.,#amine,79.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+183,183,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nein!",0,18,character_speech,1,3,,ERIDON.,#eridon,80.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+184,184,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich kann, ich will es nicht.",31,59,character_speech,1,3,,ERIDON.,#eridon,80.0,MALE,despair,SS,,1779.0,negative,emotions of anxiety
+185,185,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Gab ich in meinem Leben
+            Dir je Gelegenheit?",0,68,character_speech,1,3,,AMINE.,#amine,81.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+186,186,GerDracor/goethe-die-laune-des-verliebten.xml,Die hast du oft gegeben.,0,24,character_speech,1,3,,ERIDON.,#eridon,82.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+187,187,GerDracor/goethe-die-laune-des-verliebten.xml,Wenn war ich untreu?,0,20,character_speech,1,3,,AMINE.,#amine,83.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+188,188,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nie!",0,17,character_speech,1,3,,ERIDON.,#eridon,84.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+189,189,GerDracor/goethe-die-laune-des-verliebten.xml,"das ist es, was mich quält.",18,45,character_speech,1,3,,ERIDON.,#eridon,84.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+190,190,GerDracor/goethe-die-laune-des-verliebten.xml,"Aus Vorsatz hast du nie, aus Leichtsinn stets gefehlt.",58,112,character_speech,1,3,,ERIDON.,#eridon,84.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+191,191,GerDracor/goethe-die-laune-des-verliebten.xml,"Das, was mir wichtig scheint, hältst du für Kleinigkeiten;
+            Das, was mich ärgert, hat bei dir nichts zu bedeuten.",125,249,character_speech,1,3,,ERIDON.,#eridon,84.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+192,192,GerDracor/goethe-die-laune-des-verliebten.xml,Gut!,0,4,character_speech,1,3,,EGLE.,#egle,85.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+193,193,GerDracor/goethe-die-laune-des-verliebten.xml,"nimmt's Amine leicht, so sag, was schadet's dir?",5,53,character_speech,1,3,,EGLE.,#egle,85.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+194,194,GerDracor/goethe-die-laune-des-verliebten.xml,Das hat sie oft gefragt; ja freilich schadet's mir!,0,51,character_speech,1,3,,ERIDON.,#eridon,86.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+195,195,GerDracor/goethe-die-laune-des-verliebten.xml,Was denn?,0,9,character_speech,1,3,,EGLE.,#egle,87.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+196,196,GerDracor/goethe-die-laune-des-verliebten.xml,Amine wird nie andern viel erlauben.,10,46,character_speech,1,3,,EGLE.,#egle,87.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+197,197,GerDracor/goethe-die-laune-des-verliebten.xml,"Zuwenig zum Verdacht, zuviel, sie treu zu glauben.",0,50,character_speech,1,3,,ERIDON.,#eridon,88.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+198,198,GerDracor/goethe-die-laune-des-verliebten.xml,"Mehr, als ein weiblich Herz je liebte, liebt sie dich.",0,54,character_speech,1,3,,EGLE.,#egle,89.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+199,199,GerDracor/goethe-die-laune-des-verliebten.xml,"Und liebt den Tanz, die Lust, den Scherz so sehr als mich.",0,58,character_speech,1,3,,ERIDON.,#eridon,90.0,MALE,love,SS,,1779.0,positive,emotions of affection
+200,200,GerDracor/goethe-die-laune-des-verliebten.xml,"Wer das nicht leiden kann, mag unsre Mütter lieben!",0,51,character_speech,1,3,,EGLE.,#egle,91.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+201,201,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Schweig, Egle!",0,27,character_speech,1,3,,AMINE.,#amine,92.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+202,202,GerDracor/goethe-die-laune-des-verliebten.xml,"Eridon, hör auf, mich zu betrüben!",28,62,character_speech,1,3,,AMINE.,#amine,92.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+203,203,GerDracor/goethe-die-laune-des-verliebten.xml,"Frag unsre Freunde nur, wie ich an dich gedacht,
+            Selbst wenn wir fern von dir getändelt und gelacht;
+            Wie oft ich mit Verdruß, der mein Vergnügen nagte,
+            Weil du nicht bei mir warst, »Was mag er machen?« fragte.",75,320,character_speech,1,3,,AMINE.,#amine,92.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+204,204,GerDracor/goethe-die-laune-des-verliebten.xml,"O wenn du es nicht glaubst, komm heute mit mir hin,
+            Und dann sag noch einmal, daß ich dir untreu bin.",333,446,character_speech,1,3,,AMINE.,#amine,92.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+205,205,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich tanze nur mit dir, ich will dich nie verlassen,
+            Dich nur soll dieser Arm, dich diese Hand nur fassen.",459,576,character_speech,1,3,,AMINE.,#amine,92.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+206,206,GerDracor/goethe-die-laune-des-verliebten.xml,Wenn mein Betragen dir den kleinsten Argwohn gibt,589,638,character_speech,1,3,,AMINE.,#amine,92.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+207,207,GerDracor/goethe-die-laune-des-verliebten.xml,"Daß man sich zwingen kann, beweist nicht, daß man liebt.",0,56,character_speech,1,3,,ERIDON.,#eridon,93.0,MALE,love,SS,,1779.0,positive,emotions of affection
+208,208,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Sieh ihre Tränen an, sie fließen dir zur Ehre!",0,59,character_speech,1,3,,EGLE.,#egle,94.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+209,209,GerDracor/goethe-die-laune-des-verliebten.xml,"Nie dacht ich, daß dein Herz im Grund so böse wäre.",72,123,character_speech,1,3,,EGLE.,#egle,94.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+210,210,GerDracor/goethe-die-laune-des-verliebten.xml,"Die Unzufriedenheit, die keine Grenzen kennt
+            Und immer mehr verlangt, je mehr man ihr vergönnt,
+            Der Stolz, in ihrer Brust der Jugend kleine Freuden,
+            Die ganz unschuldig sind, nicht neben dir zu leiden,
+            Beherrschen wechselsweis dein hassenswürdig Herz;
+            Nicht ihre Liebe rührt, dich rühret nicht ihr Schmerz.",136,502,character_speech,1,3,,EGLE.,#egle,94.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+211,211,GerDracor/goethe-die-laune-des-verliebten.xml,"Sie ist mir wert, du sollst hinfort sie nicht betrüben:
+            Schwer wird es sein; dich fliehn, doch schwerer ist's, dich lieben.",515,650,character_speech,1,3,,EGLE.,#egle,94.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+212,212,GerDracor/goethe-die-laune-des-verliebten.xml,für sich.,0,9,stage_direction,1,3,speech_part,,#amine,95.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+213,213,GerDracor/goethe-die-laune-des-verliebten.xml,Ach!,0,4,character_speech,1,3,,AMINE,#amine,95.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+214,214,GerDracor/goethe-die-laune-des-verliebten.xml,warum muß mein Herz so voll von Liebe sein!,5,48,character_speech,1,3,,AMINE,#amine,95.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+215,215,GerDracor/goethe-die-laune-des-verliebten.xml,"steht einen Augenblick still, dann naht er sich furchtsam Aminen und faßt sie bei
+            der Hand.",0,103,stage_direction,1,3,speech_part,,#eridon,96.0,MALE,fear,SS,,1779.0,negative,emotions of anxiety
+216,216,GerDracor/goethe-die-laune-des-verliebten.xml,Amine!,0,6,character_speech,1,3,,ERIDON,#eridon,96.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+217,217,GerDracor/goethe-die-laune-des-verliebten.xml,"liebstes Kind, kannst du mir noch verzeihn?",7,50,character_speech,1,3,,ERIDON,#eridon,96.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+218,218,GerDracor/goethe-die-laune-des-verliebten.xml,"Ach, hab ich dir es nicht schon allzuoft bewiesen?",0,50,character_speech,1,3,,AMINE.,#amine,97.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+219,219,GerDracor/goethe-die-laune-des-verliebten.xml,"Großmüt'ges, bestes Herz, laß mich zu deinen Füßen –",0,52,character_speech,1,3,,ERIDON.,#eridon,98.0,MALE,love,SS,,1779.0,positive,emotions of affection
+220,220,GerDracor/goethe-die-laune-des-verliebten.xml,"Steh auf, mein Eridon!",0,22,character_speech,1,3,,AMINE.,#amine,99.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+221,221,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Jetzt nicht so vielen Dank!",0,40,character_speech,1,3,,EGLE.,#egle,100.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+222,222,GerDracor/goethe-die-laune-des-verliebten.xml,"Was man zu heftig fühlt, fühlt man nicht allzu lang.",53,105,character_speech,1,3,,EGLE.,#egle,100.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+223,223,GerDracor/goethe-die-laune-des-verliebten.xml,"Und diese Heftigkeit, mit der ich sie verehre –",0,47,character_speech,1,3,,ERIDON.,#eridon,101.0,MALE,love,SS,,1779.0,positive,emotions of affection
+224,224,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wär weit ein größer Glück, wenn sie so groß nicht wäre.",0,68,character_speech,1,3,,EGLE.,#egle,102.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+225,225,GerDracor/goethe-die-laune-des-verliebten.xml,"Ihr lebtet ruhiger, und dein und ihre Pein –",81,125,character_speech,1,3,,EGLE.,#egle,102.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+226,226,GerDracor/goethe-die-laune-des-verliebten.xml,"Vergib mir diesmal noch, ich werde klüger sein.",0,47,character_speech,1,3,,ERIDON.,#eridon,103.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+227,227,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Geh, lieber Eridon, mir einen Strauß zu pflücken!",0,62,character_speech,1,3,,AMINE.,#amine,104.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+228,228,GerDracor/goethe-die-laune-des-verliebten.xml,"Ist er von deiner Hand, wie schön wird er mich schmücken!",75,132,character_speech,1,3,,AMINE.,#amine,104.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+229,229,GerDracor/goethe-die-laune-des-verliebten.xml,Du hast die Rose ja!,0,20,character_speech,1,3,,ERIDON.,#eridon,105.0,MALE,love,SS,,1779.0,positive,emotions of affection
+230,230,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ihr Lamon gab sie mir.",0,35,character_speech,1,3,,AMINE.,#amine,106.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+231,231,GerDracor/goethe-die-laune-des-verliebten.xml,Sie steht mir schön.,48,68,character_speech,1,3,,AMINE.,#amine,106.0,FEMALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+232,232,GerDracor/goethe-die-laune-des-verliebten.xml,empfindlich.,0,12,stage_direction,1,3,speech_part,,#eridon,107.0,MALE,being moved,SS,,1779.0,being moved,being moved
+233,233,GerDracor/goethe-die-laune-des-verliebten.xml,Jawohl –,0,8,character_speech,1,3,,ERIDON,#eridon,107.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+234,234,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Doch, Freund, ich geb sie dir,
+            Daß du nicht böse wirst.",0,80,character_speech,1,3,,AMINE.,#amine,108.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+235,235,GerDracor/goethe-die-laune-des-verliebten.xml,nimmt sie an und küßt ihr die Hand.,0,35,stage_direction,1,3,speech_part,,#eridon,109.0,MALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+236,236,GerDracor/goethe-die-laune-des-verliebten.xml,Gleich will ich Blumen bringen.,0,31,character_speech,1,3,,ERIDON,#eridon,109.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+237,237,GerDracor/goethe-die-laune-des-verliebten.xml,Amine.,0,6,stage_direction,1,4,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+238,238,GerDracor/goethe-die-laune-des-verliebten.xml,Egle.,7,12,stage_direction,1,4,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+239,239,GerDracor/goethe-die-laune-des-verliebten.xml,Hernach.,13,21,stage_direction,1,4,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+240,240,GerDracor/goethe-die-laune-des-verliebten.xml,Lamon.,22,28,stage_direction,1,4,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+241,241,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Gutherzig armes Kind, so wird dir's nicht gelingen!",0,64,character_speech,1,4,,EGLE.,#egle,110.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+242,242,GerDracor/goethe-die-laune-des-verliebten.xml,"Sein stolzer Hunger wächst, je mehr daß du ihm gibst.",77,130,character_speech,1,4,,EGLE.,#egle,110.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+243,243,GerDracor/goethe-die-laune-des-verliebten.xml,"Gib acht, er raubt zuletzt dir alles, was du liebst.",143,195,character_speech,1,4,,EGLE.,#egle,110.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+244,244,GerDracor/goethe-die-laune-des-verliebten.xml,"Verlier ich ihn nur nicht, das eine macht mir bange.",0,52,character_speech,1,4,,AMINE.,#amine,111.0,FEMALE,fear,SS,,1779.0,negative,emotions of anxiety
+245,245,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wie schön!",0,23,character_speech,1,4,,EGLE.,#egle,112.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+246,246,GerDracor/goethe-die-laune-des-verliebten.xml,"Man sieht es wohl, du liebst noch nicht gar lange.",24,74,character_speech,1,4,,EGLE.,#egle,112.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+247,247,GerDracor/goethe-die-laune-des-verliebten.xml,"Im Anfang geht es so; hat man sein Herz verschenkt,
+            So denkt man nichts, wenn man nicht an den Liebsten denkt.",87,209,character_speech,1,4,,EGLE.,#egle,112.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+248,248,GerDracor/goethe-die-laune-des-verliebten.xml,"Ein seufzender Roman, zu dieser Zeit gelesen,
+            Wie zärtlich der geliebt, wie jener treu gewesen,
+            Wie fühlbar jener Held, wie groß in der Gefahr,
+            Wie mächtig zu dem Streit er durch die Liebe war,
+            Verdreht uns gar den Kopf; wir glauben uns zu finden,
+            Wir wollen elend sein, wir wollen überwinden.",222,575,character_speech,1,4,,EGLE.,#egle,112.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+249,249,GerDracor/goethe-die-laune-des-verliebten.xml,"Ein junges Herz nimmt leicht den Eindruck vom Roman;
+            Allein ein Herz, das liebt, nimmt ihn noch leichter an.",588,708,character_speech,1,4,,EGLE.,#egle,112.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+250,250,GerDracor/goethe-die-laune-des-verliebten.xml,"Wir lieben lange so, bis wir zuletzt erfahren,
+            Daß wir, statt treu zu sein, von Herzen närrisch waren.",721,835,character_speech,1,4,,EGLE.,#egle,112.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+251,251,GerDracor/goethe-die-laune-des-verliebten.xml,Doch das ist nicht mein Fall.,0,29,character_speech,1,4,,AMINE.,#amine,113.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+252,252,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ja, in der Hitze spricht
+            Ein Kranker oft zum Arzt: »Ich hab das Fieber nicht.«
+            Glaubt man ihm das?",0,135,character_speech,1,4,,EGLE.,#egle,114.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+253,253,GerDracor/goethe-die-laune-des-verliebten.xml,Niemals.,136,144,character_speech,1,4,,EGLE.,#egle,114.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+254,254,GerDracor/goethe-die-laune-des-verliebten.xml,"Trotz allem Widerstreben
+            Gibt man ihm Arzenei.",145,203,character_speech,1,4,,EGLE.,#egle,114.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+255,255,GerDracor/goethe-die-laune-des-verliebten.xml,So muß man dir sie geben.,204,229,character_speech,1,4,,EGLE.,#egle,114.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+256,256,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Von Kindern spricht man so, von mir klingt's lächerlich;
+            Bin ich ein Kind?",0,99,character_speech,1,4,,AMINE.,#amine,115.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+257,257,GerDracor/goethe-die-laune-des-verliebten.xml,Du liebst!,0,10,character_speech,1,4,,EGLE.,#egle,116.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+258,258,GerDracor/goethe-die-laune-des-verliebten.xml,Du auch!,0,8,character_speech,1,4,,AMINE.,#amine,117.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+259,259,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ja, lieb wie ich!",0,30,character_speech,1,4,,EGLE.,#egle,118.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+260,260,GerDracor/goethe-die-laune-des-verliebten.xml,"Besänftige den Sturm, der dich bisher getrieben!",43,91,character_speech,1,4,,EGLE.,#egle,118.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+261,261,GerDracor/goethe-die-laune-des-verliebten.xml,Man kann sehr ruhig sein und doch sehr zärtlich lieben.,104,159,character_speech,1,4,,EGLE.,#egle,118.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+262,262,GerDracor/goethe-die-laune-des-verliebten.xml,Da ist das Band!,0,16,character_speech,1,4,,LAMON.,#lamon,119.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+263,263,GerDracor/goethe-die-laune-des-verliebten.xml,Sehr schön!,0,11,character_speech,1,4,,AMINE.,#amine,120.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+264,264,GerDracor/goethe-die-laune-des-verliebten.xml,Wie lange zauderst du!,0,22,character_speech,1,4,,EGLE.,#egle,121.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+265,265,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich ging am Hügel hin, da rief mir Chloris zu.",0,59,character_speech,1,4,,LAMON.,#lamon,122.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+266,266,GerDracor/goethe-die-laune-des-verliebten.xml,Da hab ich ihr den Hut mit Blumen schmücken müssen.,72,123,character_speech,1,4,,LAMON.,#lamon,122.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+267,267,GerDracor/goethe-die-laune-des-verliebten.xml,Was gab sie dir dafür?,0,22,character_speech,1,4,,EGLE.,#egle,123.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+268,268,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Was?",0,17,character_speech,1,4,,LAMON.,#lamon,124.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+269,269,GerDracor/goethe-die-laune-des-verliebten.xml,Nichts!,18,25,character_speech,1,4,,LAMON.,#lamon,124.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+270,270,GerDracor/goethe-die-laune-des-verliebten.xml,Sie ließ sich küssen.,26,47,character_speech,1,4,,LAMON.,#lamon,124.0,MALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+271,271,GerDracor/goethe-die-laune-des-verliebten.xml,"Man tu auch, was man will, man trägt doch nie zum Lohn
+            Von einem Mädchen mehr als einen Kuß davon.",60,170,character_speech,1,4,,LAMON.,#lamon,124.0,MALE,love,SS,,1779.0,positive,emotions of affection
+272,272,GerDracor/goethe-die-laune-des-verliebten.xml,zeigt Eglen den Kranz mit der Schleife.,0,39,stage_direction,1,4,speech_part,,#amine,125.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+273,273,GerDracor/goethe-die-laune-des-verliebten.xml,Ist es so recht?,0,16,character_speech,1,4,,AMINE,#amine,125.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+274,274,GerDracor/goethe-die-laune-des-verliebten.xml,"Ja, gib!",0,8,character_speech,1,4,,EGLE.,#egle,126.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+275,275,GerDracor/goethe-die-laune-des-verliebten.xml,"Sie hängt Aminen den Kranz um, so daß die Schleife auf die rechte Schulter kommt.",0,81,stage_direction,1,4,speech_part,,#egle,126.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+276,276,GerDracor/goethe-die-laune-des-verliebten.xml,Mittlerweile redet sie mit Lamon.,94,127,stage_direction,1,4,speech_part,,#egle,126.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+277,277,GerDracor/goethe-die-laune-des-verliebten.xml,Hör!,0,4,character_speech,1,4,,EGLE.,#egle,126.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+278,278,GerDracor/goethe-die-laune-des-verliebten.xml,nur recht lustig heute!,5,28,character_speech,1,4,,EGLE.,#egle,126.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+279,279,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nur heute recht gelärmt!",0,37,character_speech,1,4,,LAMON.,#lamon,127.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+280,280,GerDracor/goethe-die-laune-des-verliebten.xml,"Man fühlt nur halbe Freude,
+            Wenn man sie sittsam fühlt und lang sich's überlegt,
+            Ob unser Liebster das, der Wohlstand jens erträgt.",38,193,character_speech,1,4,,LAMON.,#lamon,127.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+281,281,GerDracor/goethe-die-laune-des-verliebten.xml,Du hast wohl recht.,0,19,character_speech,1,4,,EGLE.,#egle,128.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+282,282,GerDracor/goethe-die-laune-des-verliebten.xml,Jawohl!,0,7,character_speech,1,4,,LAMON.,#lamon,129.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+283,283,GerDracor/goethe-die-laune-des-verliebten.xml,Amine!,0,6,character_speech,1,4,,EGLE.,#egle,130.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+284,284,GerDracor/goethe-die-laune-des-verliebten.xml,setz dich nieder!,7,24,character_speech,1,4,,EGLE.,#egle,130.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+285,285,GerDracor/goethe-die-laune-des-verliebten.xml,"Amine setzt sich, Egle steckt ihr Blumen in die Haare, indem sie fortredet.",0,75,stage_direction,1,4,speech_part,,#egle,130.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+286,286,GerDracor/goethe-die-laune-des-verliebten.xml,"Komm, gib mir doch den Kuß von deiner Chloris wieder.",0,53,character_speech,1,4,,EGLE.,#egle,130.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+287,287,GerDracor/goethe-die-laune-des-verliebten.xml,küßt sie.,0,9,stage_direction,1,4,speech_part,,#lamon,131.0,MALE,love,SS,,1779.0,positive,emotions of affection
+288,288,GerDracor/goethe-die-laune-des-verliebten.xml,Von Herzen gerne.,0,17,character_speech,1,4,,LAMON,#lamon,131.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+289,289,GerDracor/goethe-die-laune-des-verliebten.xml,Hier!,18,23,character_speech,1,4,,LAMON,#lamon,131.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+290,290,GerDracor/goethe-die-laune-des-verliebten.xml,Seid ihr nicht wunderlich!,0,26,character_speech,1,4,,AMINE.,#amine,132.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+291,291,GerDracor/goethe-die-laune-des-verliebten.xml,"Wär Eridon es so, es wär ein Glück für dich.",0,44,character_speech,1,4,,EGLE.,#egle,133.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+292,292,GerDracor/goethe-die-laune-des-verliebten.xml,"Gewiß, er dürfte mir kein fremdes Mädchen küssen.",0,49,character_speech,1,4,,AMINE.,#amine,134.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+293,293,GerDracor/goethe-die-laune-des-verliebten.xml,Wo ist die Rose?,0,16,character_speech,1,4,,LAMON.,#lamon,135.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+294,294,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Sie hat sie ihm geben müssen,
+            Ihn zu besänftigen.",0,74,character_speech,1,4,,EGLE.,#egle,136.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+295,295,GerDracor/goethe-die-laune-des-verliebten.xml,Ich muß gefällig sein.,0,22,character_speech,1,4,,AMINE.,#amine,137.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+296,296,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Gar recht!",0,23,character_speech,1,4,,LAMON.,#lamon,138.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+297,297,GerDracor/goethe-die-laune-des-verliebten.xml,"Verzeih du ihm, so wird er dir verzeihn.",24,64,character_speech,1,4,,LAMON.,#lamon,138.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+298,298,GerDracor/goethe-die-laune-des-verliebten.xml,"Ja, ja!",77,84,character_speech,1,4,,LAMON.,#lamon,138.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+299,299,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich merk es wohl, ihr plagt euch um die Wette.",85,131,character_speech,1,4,,LAMON.,#lamon,138.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+300,300,GerDracor/goethe-die-laune-des-verliebten.xml,"als ein Zeichen, daß sie mit dem Kopfputze fertig ist.",0,54,stage_direction,1,4,speech_part,,#egle,139.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+301,301,GerDracor/goethe-die-laune-des-verliebten.xml,So!,0,3,character_speech,1,4,,EGLE,#egle,139.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+302,302,GerDracor/goethe-die-laune-des-verliebten.xml,Schön!,0,6,character_speech,1,4,,LAMON.,#lamon,140.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+303,303,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ach, daß ich doch jetzt schon die Blumen hätte,
+            Die Eridon mir bringt.",0,95,character_speech,1,4,,AMINE.,#amine,141.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+304,304,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Erwart ihn immer hier.",0,35,character_speech,1,4,,EGLE.,#egle,142.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+305,305,GerDracor/goethe-die-laune-des-verliebten.xml,Ich geh und putze mich.,48,71,character_speech,1,4,,EGLE.,#egle,142.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+306,306,GerDracor/goethe-die-laune-des-verliebten.xml,"Komm, Lamon, geh mit mir!",72,97,character_speech,1,4,,EGLE.,#egle,142.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+307,307,GerDracor/goethe-die-laune-des-verliebten.xml,Wir lassen dich allein und kommen bald zurücke.,110,157,character_speech,1,4,,EGLE.,#egle,142.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+308,308,GerDracor/goethe-die-laune-des-verliebten.xml,Amine.,0,6,stage_direction,1,5,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+309,309,GerDracor/goethe-die-laune-des-verliebten.xml,Hernach Eridon.,7,22,stage_direction,1,5,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+310,310,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            O welche Zärtlichkeit, beneidenswürd'ges Glücke!",0,61,character_speech,1,5,,AMINE.,#amine,143.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+311,311,GerDracor/goethe-die-laune-des-verliebten.xml,"Wie wünscht ich – sollt es wohl in meinen Kräften stehn –,
+            Den Eridon vergnügt und mich beglückt zu sehn!",74,191,character_speech,1,5,,AMINE.,#amine,143.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+312,312,GerDracor/goethe-die-laune-des-verliebten.xml,"Hätt ich nicht soviel Macht ihm über mich gegeben,
+            Er würde glücklicher und ich zufriedner leben.",204,313,character_speech,1,5,,AMINE.,#amine,143.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+313,313,GerDracor/goethe-die-laune-des-verliebten.xml,"Versuch, ihm diese Macht durch Kaltsinn zu entziehn!",326,378,character_speech,1,5,,AMINE.,#amine,143.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+314,314,GerDracor/goethe-die-laune-des-verliebten.xml,Doch wie wird seine Wut bei meiner Kälte glühn!,391,438,character_speech,1,5,,AMINE.,#amine,143.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+315,315,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich kenne seinen Zorn, wie zittr' ich, ihn zu fühlen!",451,504,character_speech,1,5,,AMINE.,#amine,143.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+316,316,GerDracor/goethe-die-laune-des-verliebten.xml,"Wie schlecht wirst du, mein Herz, die schwere Rolle spielen!",517,577,character_speech,1,5,,AMINE.,#amine,143.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+317,317,GerDracor/goethe-die-laune-des-verliebten.xml,"Doch wenn du es so weit wie deine Freundin bringst,
+            Da er dich sonst bezwang, du künftig ihn bezwingst –
+            Heut ist Gelegenheit; sie nicht vorbei zu lassen,
+            Will ich gleich jetzt – er kommt!",590,814,character_speech,1,5,,AMINE.,#amine,143.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+318,318,GerDracor/goethe-die-laune-des-verliebten.xml,"mein Herz, du mußt dich fassen.",815,846,character_speech,1,5,,AMINE.,#amine,143.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+319,319,GerDracor/goethe-die-laune-des-verliebten.xml,gibt ihr Blumen.,0,16,stage_direction,1,5,speech_part,,#eridon,144.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+320,320,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Sie sind nicht gar zu schön, mein Kind!",0,52,character_speech,1,5,,ERIDON,#eridon,144.0,MALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+321,321,GerDracor/goethe-die-laune-des-verliebten.xml,"verzeih es mir,
+            Aus Eile nahm ich sie.",53,103,character_speech,1,5,,ERIDON,#eridon,144.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+322,322,GerDracor/goethe-die-laune-des-verliebten.xml,"Genug, sie sind von dir.",0,24,character_speech,1,5,,AMINE.,#amine,145.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+323,323,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            So blühend sind sie nicht, wie jene Rosen waren,
+            Die Damon dir geraubt.",0,96,character_speech,1,5,,ERIDON.,#eridon,146.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+324,324,GerDracor/goethe-die-laune-des-verliebten.xml,steckt sie an den Busen.,0,24,stage_direction,1,5,speech_part,,#amine,147.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+325,325,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich will sie schon bewahren;
+            Hier, wo du wohnst, soll auch der Blumen Wohnplatz sein.",0,110,character_speech,1,5,,AMINE,#amine,147.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+326,326,GerDracor/goethe-die-laune-des-verliebten.xml,Ist ihre Sicherheit da –,0,24,character_speech,1,5,,ERIDON.,#eridon,148.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+327,327,GerDracor/goethe-die-laune-des-verliebten.xml,Glaubst du etwa?,0,16,character_speech,1,5,,AMINE.,#amine,149.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+328,328,GerDracor/goethe-die-laune-des-verliebten.xml,–,17,18,character_speech,1,5,,AMINE.,#amine,149.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+329,329,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nein!",0,18,character_speech,1,5,,ERIDON.,#eridon,150.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+330,330,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich glaube nichts, mein Kind; nur Furcht ist's, was ich fühle.",31,93,character_speech,1,5,,ERIDON.,#eridon,150.0,MALE,fear,SS,,1779.0,negative,emotions of anxiety
+331,331,GerDracor/goethe-die-laune-des-verliebten.xml,"Das allerbeste Herz vergißt bei munterm Spiele,
+            Wenn es des Tanzes Lust, des Festes Lärm zerstreut,
+            Was ihm die Klugheit rät und ihm die Pflicht gebeut.",106,282,character_speech,1,5,,ERIDON.,#eridon,150.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+332,332,GerDracor/goethe-die-laune-des-verliebten.xml,"Du magst wohl oft an mich auch beim Vergnügen denken;
+            Doch fehlt es dir an Ernst, die Freiheit einzuschränken,
+            Zu der das junge Volk sich bald berechtigt glaubt,
+             Wenn ihm ein Mädchen nur im Scherze was erlaubt.",295,542,character_speech,1,5,,ERIDON.,#eridon,150.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+333,333,GerDracor/goethe-die-laune-des-verliebten.xml,"Es hält ihr eitler Stolz ein tändelndes Vergnügen
+            Sehr leicht für Zärtlichkeit.",555,646,character_speech,1,5,,ERIDON.,#eridon,150.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+334,334,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Gnug, daß sie sich betrügen!",0,41,character_speech,1,5,,AMINE.,#amine,151.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+335,335,GerDracor/goethe-die-laune-des-verliebten.xml,"Wohl schleicht ein seufzend Volk Liebhaber um mich her;
+            Doch du nur hast mein Herz, und sag, was willst du mehr?",54,178,character_speech,1,5,,AMINE.,#amine,151.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+336,336,GerDracor/goethe-die-laune-des-verliebten.xml,"Du kannst den Armen wohl mich anzusehn erlauben,
+            Sie glauben, wunder –",191,273,character_speech,1,5,,AMINE.,#amine,151.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+337,337,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nein, sie sollen gar nichts glauben!",0,49,character_speech,1,5,,ERIDON.,#eridon,152.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+338,338,GerDracor/goethe-die-laune-des-verliebten.xml,"Das ist's, was mich verdrießt.",62,92,character_speech,1,5,,ERIDON.,#eridon,152.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+339,339,GerDracor/goethe-die-laune-des-verliebten.xml,"Zwar weiß ich, du bist mein;
+            Doch einer denkt vielleicht, beglückt wie ich zu sein,
+            Schaut in das Auge dir und glaubt dich schon zu küssen
+            Und triumphiert wohl gar, daß er dich mir entrissen.",93,320,character_speech,1,5,,ERIDON.,#eridon,152.0,MALE,love,SS,,1779.0,positive,emotions of affection
+340,340,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            So störe den Triumph!",0,34,character_speech,1,5,,AMINE.,#amine,153.0,FEMALE,Schadenfreude,SS,,1779.0,positive,emotions of pleasure
+341,341,GerDracor/goethe-die-laune-des-verliebten.xml,"Geliebter, geh mit mir,
+            Laß sie den Vorzug sehn, den du –",35,104,character_speech,1,5,,AMINE.,#amine,153.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+342,342,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich danke dir.",0,27,character_speech,1,5,,ERIDON.,#eridon,154.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+343,343,GerDracor/goethe-die-laune-des-verliebten.xml,"Es würde grausam sein, das Opfer anzunehmen;
+            Mein Kind, du würdest dich des schlechten Tänzers schämen;
+            Ich weiß, wem euer Stolz beim Tanz den Vorzug gibt:
+            Dem, der mit Anmut tanzt, und nicht dem, den ihr liebt.",40,287,character_speech,1,5,,ERIDON.,#eridon,154.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+344,344,GerDracor/goethe-die-laune-des-verliebten.xml,Das ist die Wahrheit.,0,21,character_speech,1,5,,AMINE.,#amine,155.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+345,345,GerDracor/goethe-die-laune-des-verliebten.xml,mit zurückgehaltenem Spott.,0,27,stage_direction,1,5,speech_part,,#eridon,156.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+346,346,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ja!",0,16,character_speech,1,5,,ERIDON,#eridon,156.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+347,347,GerDracor/goethe-die-laune-des-verliebten.xml,"Ach, daß ich nicht die Gabe
+            Des leichten Damarens, des vielgepriesnen, habe!",17,105,character_speech,1,5,,ERIDON,#eridon,156.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+348,348,GerDracor/goethe-die-laune-des-verliebten.xml,Wie reizend tanzt er nicht!,118,145,character_speech,1,5,,ERIDON,#eridon,156.0,MALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+349,349,GerDracor/goethe-die-laune-des-verliebten.xml,Schön!,0,6,character_speech,1,5,,AMINE.,#amine,157.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+350,350,GerDracor/goethe-die-laune-des-verliebten.xml,daß ihm niemand gleicht.,7,31,character_speech,1,5,,AMINE.,#amine,157.0,FEMALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+351,351,GerDracor/goethe-die-laune-des-verliebten.xml,Und jedes Mädchen –,0,19,character_speech,1,5,,ERIDON.,#eridon,158.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+352,352,GerDracor/goethe-die-laune-des-verliebten.xml,Schätzt –,0,9,character_speech,1,5,,AMINE.,#amine,159.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+353,353,GerDracor/goethe-die-laune-des-verliebten.xml,Liebe ihn darum!,0,16,character_speech,1,5,,ERIDON.,#eridon,160.0,MALE,love,SS,,1779.0,positive,emotions of affection
+354,354,GerDracor/goethe-die-laune-des-verliebten.xml,Vielleicht.,0,11,character_speech,1,5,,AMINE.,#amine,161.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+355,355,GerDracor/goethe-die-laune-des-verliebten.xml,Vielleicht?,0,11,character_speech,1,5,,ERIDON.,#eridon,162.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+356,356,GerDracor/goethe-die-laune-des-verliebten.xml,Verflucht!,12,22,character_speech,1,5,,ERIDON.,#eridon,162.0,MALE,fear,SS,,1779.0,negative,emotions of anxiety
+357,357,GerDracor/goethe-die-laune-des-verliebten.xml,Gewiß!,23,29,character_speech,1,5,,ERIDON.,#eridon,162.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+358,358,GerDracor/goethe-die-laune-des-verliebten.xml,Was machst du für Gebärden?,0,27,character_speech,1,5,,AMINE.,#amine,163.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+359,359,GerDracor/goethe-die-laune-des-verliebten.xml,Du fragst?,0,10,character_speech,1,5,,ERIDON.,#eridon,164.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+360,360,GerDracor/goethe-die-laune-des-verliebten.xml,Plagst du mich nicht?,11,32,character_speech,1,5,,ERIDON.,#eridon,164.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+361,361,GerDracor/goethe-die-laune-des-verliebten.xml,Ich möchte rasend werden.,33,58,character_speech,1,5,,ERIDON.,#eridon,164.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+362,362,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich?",0,17,character_speech,1,5,,AMINE.,#amine,165.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+363,363,GerDracor/goethe-die-laune-des-verliebten.xml,"Sag, bist du nicht schuld an mein und deiner Pein?",18,68,character_speech,1,5,,AMINE.,#amine,165.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+364,364,GerDracor/goethe-die-laune-des-verliebten.xml,Grausamer Eridon!,81,98,character_speech,1,5,,AMINE.,#amine,165.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+365,365,GerDracor/goethe-die-laune-des-verliebten.xml,wie kannst du nur so sein?,99,125,character_speech,1,5,,AMINE.,#amine,165.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+366,366,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich muß; ich liebe dich.",0,37,character_speech,1,5,,ERIDON.,#eridon,166.0,MALE,love,SS,,1779.0,positive,emotions of affection
+367,367,GerDracor/goethe-die-laune-des-verliebten.xml,"Die Liebe lehrt mich klagen;
+            Liebt ich dich nicht so sehr, ich würde dich nicht plagen!",38,137,character_speech,1,5,,ERIDON.,#eridon,166.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+368,368,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich fühl mein zärtlich Herz von Wonne hoch entzückt,
+            Wenn mir dein Auge lacht, wenn deine Hand mich drückt.",150,269,character_speech,1,5,,ERIDON.,#eridon,166.0,MALE,love,SS,,1779.0,positive,emotions of affection
+369,369,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich dank den Göttern, die mir dieses Glücke gaben;
+            Doch ich verlang's allein, kein andrer soll es haben.",282,398,character_speech,1,5,,ERIDON.,#eridon,166.0,MALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+370,370,GerDracor/goethe-die-laune-des-verliebten.xml,"Nun gut, was klagst du denn?",0,28,character_speech,1,5,,AMINE.,#amine,167.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+371,371,GerDracor/goethe-die-laune-des-verliebten.xml,Kein andrer hat es nie.,29,52,character_speech,1,5,,AMINE.,#amine,167.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+372,372,GerDracor/goethe-die-laune-des-verliebten.xml,"Und du erträgst sie doch; nein, hassen sollst du sie.",0,53,character_speech,1,5,,ERIDON.,#eridon,168.0,MALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+373,373,GerDracor/goethe-die-laune-des-verliebten.xml,Sie hassen?,0,11,character_speech,1,5,,AMINE.,#amine,169.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+374,374,GerDracor/goethe-die-laune-des-verliebten.xml,und warum?,12,22,character_speech,1,5,,AMINE.,#amine,169.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+375,375,GerDracor/goethe-die-laune-des-verliebten.xml,Darum!,0,6,character_speech,1,5,,ERIDON.,#eridon,170.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+376,376,GerDracor/goethe-die-laune-des-verliebten.xml,weil sie sich lieben.,7,28,character_speech,1,5,,ERIDON.,#eridon,170.0,MALE,love,SS,,1779.0,positive,emotions of affection
+377,377,GerDracor/goethe-die-laune-des-verliebten.xml,Der schöne Grund!,0,17,character_speech,1,5,,AMINE.,#amine,171.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+378,378,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich seh's, du willst sie nicht betrüben,
+            Du mußt sie schonen; sonst wird deine Lust geschwächt,
+            Wenn du nicht –",0,148,character_speech,1,5,,ERIDON.,#eridon,172.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+379,379,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Eridon, du bist sehr ungerecht.",0,44,character_speech,1,5,,AMINE.,#amine,173.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+380,380,GerDracor/goethe-die-laune-des-verliebten.xml,Heißt uns die Liebe denn die Menschlichkeit verlassen?,57,111,character_speech,1,5,,AMINE.,#amine,173.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+381,381,GerDracor/goethe-die-laune-des-verliebten.xml,"Ein Herz, das einen liebt, kann keinen Menschen hassen.",124,179,character_speech,1,5,,AMINE.,#amine,173.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+382,382,GerDracor/goethe-die-laune-des-verliebten.xml,"Dies zärtliche Gefühl läßt kein so schrecklichs zu,
+            Zum wenigsten bei mir.",192,278,character_speech,1,5,,AMINE.,#amine,173.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+383,383,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wie schön verteidigst du
+            Des zärtlichen Geschlechts hochmütiges Vergnügen,
+            Wenn zwanzig Toren knien, die zwanzig zu betrügen!",0,162,character_speech,1,5,,ERIDON.,#eridon,174.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+384,384,GerDracor/goethe-die-laune-des-verliebten.xml,"Heut ist ein großer Tag, der deinen Hochmut nährt,
+            Heut wirst du manchen sehn, der dich als Göttin ehrt;
+            Noch manches junge Herz wird sich für dich entzünden,
+            Kaum wirst du Blicke gnug für alle Diener finden.",175,419,character_speech,1,5,,ERIDON.,#eridon,174.0,MALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+385,385,GerDracor/goethe-die-laune-des-verliebten.xml,"Gedenk an mich, wenn dich der Toren Schwarm vergnügt,
+            Ich bin der größte!",432,517,character_speech,1,5,,ERIDON.,#eridon,174.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+386,386,GerDracor/goethe-die-laune-des-verliebten.xml,Geh!,518,522,character_speech,1,5,,ERIDON.,#eridon,174.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+387,387,GerDracor/goethe-die-laune-des-verliebten.xml,für sich.,0,9,stage_direction,1,5,speech_part,,#amine,175.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+388,388,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Flieh, schwaches Herz!",0,35,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,despair,SS,,1779.0,negative,emotions of anxiety
+389,389,GerDracor/goethe-die-laune-des-verliebten.xml,Er siegt.,36,45,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+390,390,GerDracor/goethe-die-laune-des-verliebten.xml,Ihr Götter!,58,69,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+391,391,GerDracor/goethe-die-laune-des-verliebten.xml,"Lebt er denn, mir jede Lust zu stören?",70,108,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+392,392,GerDracor/goethe-die-laune-des-verliebten.xml,"Währt denn mein Elend fort, um niemals aufzuhören?",121,171,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+393,393,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Der liebe leichtes Band machst du zum schweren Joch,
+            Du quälst mich als Tyrann, und ich?",0,113,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+394,394,GerDracor/goethe-die-laune-des-verliebten.xml,ich lieb dich noch!,114,133,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+395,395,GerDracor/goethe-die-laune-des-verliebten.xml,"Mit aller Zärtlichkeit antwort ich auf dein Wüten,
+            In allem geb ich nach; doch du bist nicht zufrieden.",146,261,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+396,396,GerDracor/goethe-die-laune-des-verliebten.xml,Was opfert ich nicht auf!,274,299,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+397,397,GerDracor/goethe-die-laune-des-verliebten.xml,Ach!,300,304,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+398,398,GerDracor/goethe-die-laune-des-verliebten.xml,dir genügt es nie.,305,323,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+399,399,GerDracor/goethe-die-laune-des-verliebten.xml,Du willst die heut'ge Lust!,336,363,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+400,400,GerDracor/goethe-die-laune-des-verliebten.xml,"Nun gut, hier hast du sie!",364,390,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+401,401,GerDracor/goethe-die-laune-des-verliebten.xml,"Sie nimmt die Kränze aus den Haaren und von der Schulter, wirft sie weg und fährt
+            in einem gezwungen ruhigen Ton fort.",0,130,stage_direction,1,5,speech_part,,#amine,175.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+402,402,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nicht wahr, mein Eridon?",0,37,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+403,403,GerDracor/goethe-die-laune-des-verliebten.xml,"so siehst du mich viel lieber
+            Als zu dem Fest geputzt.",38,104,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+404,404,GerDracor/goethe-die-laune-des-verliebten.xml,Ist nicht dein Zorn vorüber?,105,133,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+405,405,GerDracor/goethe-die-laune-des-verliebten.xml,Du stehst!,146,156,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+406,406,GerDracor/goethe-die-laune-des-verliebten.xml,siehst mich nicht an!,157,178,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+407,407,GerDracor/goethe-die-laune-des-verliebten.xml,Bist du erzürnt auf mich?,179,204,character_speech,1,5,,AMINE,#amine,175.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+408,408,GerDracor/goethe-die-laune-des-verliebten.xml,fällt vor ihr nieder.,0,21,stage_direction,1,5,speech_part,,#eridon,176.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+409,409,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Amine!",0,19,character_speech,1,5,,ERIDON,#eridon,176.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+410,410,GerDracor/goethe-die-laune-des-verliebten.xml,Scham und Reu!,20,34,character_speech,1,5,,ERIDON,#eridon,176.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+411,411,GerDracor/goethe-die-laune-des-verliebten.xml,"Verzeih, ich liebe dich!",35,59,character_speech,1,5,,ERIDON,#eridon,176.0,MALE,love,SS,,1779.0,positive,emotions of affection
+412,412,GerDracor/goethe-die-laune-des-verliebten.xml,Geh zu dem Fest!,72,88,character_speech,1,5,,ERIDON,#eridon,176.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+413,413,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Mein Freund, ich werde bei dir bleiben;
+            Ein zärtlicher Gesang soll uns die Zeit vertreiben.",0,116,character_speech,1,5,,AMINE.,#amine,177.0,FEMALE,friendship,SS,,1779.0,positive,emotions of affection
+414,414,GerDracor/goethe-die-laune-des-verliebten.xml,"Geliebtes Kind, geh!",0,20,character_speech,1,5,,ERIDON.,#eridon,178.0,MALE,love,SS,,1779.0,positive,emotions of affection
+415,415,GerDracor/goethe-die-laune-des-verliebten.xml,Geh!,0,4,character_speech,1,5,,AMINE.,#amine,179.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+416,416,GerDracor/goethe-die-laune-des-verliebten.xml,hol deine Flöte her.,5,25,character_speech,1,5,,AMINE.,#amine,179.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+417,417,GerDracor/goethe-die-laune-des-verliebten.xml,Du willst's!,0,12,character_speech,1,5,,ERIDON.,#eridon,180.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+418,418,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Er scheint betrübt, und heimlich jauchzet er.",0,58,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+419,419,GerDracor/goethe-die-laune-des-verliebten.xml,An ihn wirst du umsonst die Zärtlichkeit verlieren.,71,122,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+420,420,GerDracor/goethe-die-laune-des-verliebten.xml,"Dies Opfer, rührt es ihn?",135,160,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+421,421,GerDracor/goethe-die-laune-des-verliebten.xml,"Es schien ihn kaum zu rühren;
+            Er hielt's für Schuldigkeit.",161,231,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+422,422,GerDracor/goethe-die-laune-des-verliebten.xml,"Was willst du, armes Herz?",232,258,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+423,423,GerDracor/goethe-die-laune-des-verliebten.xml,"Du murrst, drückst diese Brust.",271,302,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+424,424,GerDracor/goethe-die-laune-des-verliebten.xml,Verdient ich diesen Schmerz?,303,331,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+425,425,GerDracor/goethe-die-laune-des-verliebten.xml,"Ja, wohl verdienst du ihn!",344,370,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+426,426,GerDracor/goethe-die-laune-des-verliebten.xml,"Du siehst, dich zu betrüben
+            Hört er nicht auf, und doch hörst du nicht auf zu lieben.",371,468,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+427,427,GerDracor/goethe-die-laune-des-verliebten.xml,Ich trag's nicht lange mehr.,481,509,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+428,428,GerDracor/goethe-die-laune-des-verliebten.xml,Still!,510,516,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+429,429,GerDracor/goethe-die-laune-des-verliebten.xml,Ha!,517,520,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+430,430,GerDracor/goethe-die-laune-des-verliebten.xml,"ich höre dort
+            Schon die Musik.",521,563,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+431,431,GerDracor/goethe-die-laune-des-verliebten.xml,"Es hüpft mein Herz, mein Fuß will fort.",564,603,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+432,432,GerDracor/goethe-die-laune-des-verliebten.xml,Ich will!,616,625,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+433,433,GerDracor/goethe-die-laune-des-verliebten.xml,Was drückt mir so die bange Brust zusammen!,626,669,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,fear,SS,,1779.0,negative,emotions of anxiety
+434,434,GerDracor/goethe-die-laune-des-verliebten.xml,Wie ängstlich wird es mir!,682,708,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,fear,SS,,1779.0,negative,emotions of anxiety
+435,435,GerDracor/goethe-die-laune-des-verliebten.xml,"Es zehren heft'ge Flammen
+             Am Herzen.",709,758,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+436,436,GerDracor/goethe-die-laune-des-verliebten.xml,"Fort, zum Fest!",759,774,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+437,437,GerDracor/goethe-die-laune-des-verliebten.xml,"Ach, er hält mich zurück!",775,800,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+438,438,GerDracor/goethe-die-laune-des-verliebten.xml,Armsel'ges Mädchen!,813,832,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+439,439,GerDracor/goethe-die-laune-des-verliebten.xml,"Sieh, das ist der Liebe Glück!",833,863,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+440,440,GerDracor/goethe-die-laune-des-verliebten.xml,"Sie wirft sich auf einen Rasen und weint; da die andern auftreten, wischt sie sich
+            die Augen und steht auf.",0,119,stage_direction,1,6,speech_part,,#amine,181.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+441,441,GerDracor/goethe-die-laune-des-verliebten.xml,"Weh mir, da kommen sie!",0,23,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,fear,SS,,1779.0,negative,emotions of anxiety
+442,442,GerDracor/goethe-die-laune-des-verliebten.xml,wie werden sie mich höhnen!,24,51,character_speech,1,6,,AMINE.,#amine,181.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+443,443,GerDracor/goethe-die-laune-des-verliebten.xml,Amine.,0,6,stage_direction,1,7,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+444,444,GerDracor/goethe-die-laune-des-verliebten.xml,Egle.,7,12,stage_direction,1,7,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+445,445,GerDracor/goethe-die-laune-des-verliebten.xml,Lamon.,13,19,stage_direction,1,7,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+446,446,GerDracor/goethe-die-laune-des-verliebten.xml,Geschwind!,0,10,character_speech,1,7,,EGLE.,#egle,182.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+447,447,GerDracor/goethe-die-laune-des-verliebten.xml,Der Zug geht fort!,11,29,character_speech,1,7,,EGLE.,#egle,182.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+448,448,GerDracor/goethe-die-laune-des-verliebten.xml,Amine!,30,36,character_speech,1,7,,EGLE.,#egle,182.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+449,449,GerDracor/goethe-die-laune-des-verliebten.xml,wie?,37,41,character_speech,1,7,,EGLE.,#egle,182.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+450,450,GerDracor/goethe-die-laune-des-verliebten.xml,in Tränen?,42,52,character_speech,1,7,,EGLE.,#egle,182.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+451,451,GerDracor/goethe-die-laune-des-verliebten.xml,hebt die Kränze auf.,0,20,stage_direction,1,7,speech_part,,#lamon,183.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+452,452,GerDracor/goethe-die-laune-des-verliebten.xml,Die Kränze?,0,11,character_speech,1,7,,LAMON,#lamon,183.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+453,453,GerDracor/goethe-die-laune-des-verliebten.xml,Was ist das?,0,12,character_speech,1,7,,EGLE.,#egle,184.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+454,454,GerDracor/goethe-die-laune-des-verliebten.xml,Wer riß sie dir vom Haupt?,13,39,character_speech,1,7,,EGLE.,#egle,184.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+455,455,GerDracor/goethe-die-laune-des-verliebten.xml,Ich!,0,4,character_speech,1,7,,AMINE.,#amine,185.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+456,456,GerDracor/goethe-die-laune-des-verliebten.xml,Willst du denn nicht mit?,0,25,character_speech,1,7,,EGLE.,#egle,186.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+457,457,GerDracor/goethe-die-laune-des-verliebten.xml,"Gern, wär es mir erlaubt.",0,25,character_speech,1,7,,AMINE.,#amine,187.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+458,458,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wer hat dir denn was zu erlauben?",0,46,character_speech,1,7,,EGLE.,#egle,188.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+459,459,GerDracor/goethe-die-laune-des-verliebten.xml,"Geh und rede
+            Nicht so geheimnisvoll!",47,95,character_speech,1,7,,EGLE.,#egle,188.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+460,460,GerDracor/goethe-die-laune-des-verliebten.xml,Sei gegen uns nicht blöde!,96,122,character_speech,1,7,,EGLE.,#egle,188.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+461,461,GerDracor/goethe-die-laune-des-verliebten.xml,Hat Eridon –?,135,148,character_speech,1,7,,EGLE.,#egle,188.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+462,462,GerDracor/goethe-die-laune-des-verliebten.xml,Ja!,0,3,character_speech,1,7,,AMINE.,#amine,189.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+463,463,GerDracor/goethe-die-laune-des-verliebten.xml,Er!,4,7,character_speech,1,7,,AMINE.,#amine,189.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+464,464,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Das hatt ich wohl gedacht.",0,39,character_speech,1,7,,EGLE.,#egle,190.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+465,465,GerDracor/goethe-die-laune-des-verliebten.xml,"Du Närrin, daß dich nicht der Schaden klüger macht!",52,103,character_speech,1,7,,EGLE.,#egle,190.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+466,466,GerDracor/goethe-die-laune-des-verliebten.xml,"Versprachst du ihm vielleicht, du wolltest bei ihm bleiben,
+            Um diesen schönen Tag mit Seufzern zu vertreiben?",116,237,character_speech,1,7,,EGLE.,#egle,190.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+467,467,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich zweifle nicht, mein Kind, daß du ihm so gefällst.",250,303,character_speech,1,7,,EGLE.,#egle,190.0,FEMALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+468,468,GerDracor/goethe-die-laune-des-verliebten.xml,"Nach einigem Stillschweigen, indem sie Lamon einen Wink gibt.",0,61,stage_direction,1,7,speech_part,,#egle,190.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+469,469,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Doch du siehst besser aus, wenn du den Kranz behältst.",0,67,character_speech,1,7,,EGLE.,#egle,190.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+470,470,GerDracor/goethe-die-laune-des-verliebten.xml,"Komm, setz ihn auf!",80,99,character_speech,1,7,,EGLE.,#egle,190.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+471,471,GerDracor/goethe-die-laune-des-verliebten.xml,"und den, sieh!",100,114,character_speech,1,7,,EGLE.,#egle,190.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+472,472,GerDracor/goethe-die-laune-des-verliebten.xml,den häng hier herüber!,115,137,character_speech,1,7,,EGLE.,#egle,190.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+473,473,GerDracor/goethe-die-laune-des-verliebten.xml,Nun bist du schön.,150,168,character_speech,1,7,,EGLE.,#egle,190.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+474,474,GerDracor/goethe-die-laune-des-verliebten.xml,Amine steht mit niedergeschlagenen Augen und läßt Egle machen.,0,62,stage_direction,1,7,speech_part,,#egle,190.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+475,475,GerDracor/goethe-die-laune-des-verliebten.xml,"Egle gibt Lamon ein
+            Zeichen.",63,103,stage_direction,1,7,speech_part,,#egle,190.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+476,476,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Doch ach, es läuft die Zeit vorüber,
+            Ich muß zum Zug!",0,78,character_speech,1,7,,EGLE.,#egle,190.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+477,477,GerDracor/goethe-die-laune-des-verliebten.xml,Jawohl!,0,7,character_speech,1,7,,LAMON.,#lamon,191.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+478,478,GerDracor/goethe-die-laune-des-verliebten.xml,"Dein Diener, gutes Kind.",8,32,character_speech,1,7,,LAMON.,#lamon,191.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+479,479,GerDracor/goethe-die-laune-des-verliebten.xml,beklemmt.,0,9,stage_direction,1,7,speech_part,,#amine,192.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+480,480,GerDracor/goethe-die-laune-des-verliebten.xml,Lebt wohl!,0,10,character_speech,1,7,,AMINE,#amine,192.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+481,481,GerDracor/goethe-die-laune-des-verliebten.xml,im Weggehen.,0,12,stage_direction,1,7,speech_part,,#egle,193.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+482,482,GerDracor/goethe-die-laune-des-verliebten.xml,Amine!,0,6,character_speech,1,7,,EGLE,#egle,193.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+483,483,GerDracor/goethe-die-laune-des-verliebten.xml,"nun, gehst du nicht mit?",7,31,character_speech,1,7,,EGLE,#egle,193.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+484,484,GerDracor/goethe-die-laune-des-verliebten.xml,Geschwind!,32,42,character_speech,1,7,,EGLE,#egle,193.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+485,485,GerDracor/goethe-die-laune-des-verliebten.xml,Amine sieht sie traurig an und schweigt.,0,40,stage_direction,1,7,speech_part,,#egle,193.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+486,486,GerDracor/goethe-die-laune-des-verliebten.xml,"faßt Egle bei der Hand, sie fortzuführen.",0,41,stage_direction,1,7,speech_part,,#lamon,194.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+487,487,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ach, laß sie doch nur gehn!",0,40,character_speech,1,7,,LAMON,#lamon,194.0,MALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+488,488,GerDracor/goethe-die-laune-des-verliebten.xml,"Vor Bosheit möcht ich sterben;
+            Da muß sie einem nun den schönen Tanz verderben!",41,132,character_speech,1,7,,LAMON,#lamon,194.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+489,489,GerDracor/goethe-die-laune-des-verliebten.xml,"Den Tanz mit rechts und links, sie kann ihn ganz allein,
+            Wie sich's gehört; ich hofft auf sie, nun fällt's ihr ein,
+            Zu Haus zu bleiben!",145,304,character_speech,1,7,,LAMON,#lamon,194.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+490,490,GerDracor/goethe-die-laune-des-verliebten.xml,"Komm, ich mag ihr nichts mehr sagen.",305,341,character_speech,1,7,,LAMON,#lamon,194.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+491,491,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Den Tanz versäumst du!",0,35,character_speech,1,7,,EGLE.,#egle,195.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+492,492,GerDracor/goethe-die-laune-des-verliebten.xml,"Ja, du bist wohl zu beklagen.",36,65,character_speech,1,7,,EGLE.,#egle,195.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+493,493,GerDracor/goethe-die-laune-des-verliebten.xml,Er tanzt sich schön.,78,98,character_speech,1,7,,EGLE.,#egle,195.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+494,494,GerDracor/goethe-die-laune-des-verliebten.xml,Leb wohl!,99,108,character_speech,1,7,,EGLE.,#egle,195.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+495,495,GerDracor/goethe-die-laune-des-verliebten.xml,Egle will Aminen küssen.,0,24,stage_direction,1,7,speech_part,,#egle,195.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+496,496,GerDracor/goethe-die-laune-des-verliebten.xml,Amine fällt ihr um den Hals und weint.,25,63,stage_direction,1,7,speech_part,,#egle,195.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+497,497,GerDracor/goethe-die-laune-des-verliebten.xml,Ich kann's nicht mehr ertragen.,0,31,character_speech,1,7,,AMINE.,#amine,196.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+498,498,GerDracor/goethe-die-laune-des-verliebten.xml,Du weinst?,0,10,character_speech,1,7,,EGLE.,#egle,197.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+499,499,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            So weint mein Herz, und ängstlich drückt es mich.",0,62,character_speech,1,7,,AMINE.,#amine,198.0,FEMALE,fear,SS,,1779.0,negative,emotions of anxiety
+500,500,GerDracor/goethe-die-laune-des-verliebten.xml,Ich möchte!,75,86,character_speech,1,7,,AMINE.,#amine,198.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+501,501,GerDracor/goethe-die-laune-des-verliebten.xml,"– Eridon, ich glaub, ich hasse dich.",87,123,character_speech,1,7,,AMINE.,#amine,198.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+502,502,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Er hätt's verdient.",0,32,character_speech,1,7,,EGLE.,#egle,199.0,FEMALE,Schadenfreude,SS,,1779.0,positive,emotions of pleasure
+503,503,GerDracor/goethe-die-laune-des-verliebten.xml,Doch nein!,33,43,character_speech,1,7,,EGLE.,#egle,199.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+504,504,GerDracor/goethe-die-laune-des-verliebten.xml,Wer wird den Liebsten hassen?,44,73,character_speech,1,7,,EGLE.,#egle,199.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+505,505,GerDracor/goethe-die-laune-des-verliebten.xml,"Du mußt ihn lieben, doch dich nicht beherrschen lassen.",86,141,character_speech,1,7,,EGLE.,#egle,199.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+506,506,GerDracor/goethe-die-laune-des-verliebten.xml,Das sagt ich lange schon!,154,179,character_speech,1,7,,EGLE.,#egle,199.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+507,507,GerDracor/goethe-die-laune-des-verliebten.xml,Komm mit!,180,189,character_speech,1,7,,EGLE.,#egle,199.0,FEMALE,fear,SS,,1779.0,negative,emotions of anxiety
+508,508,GerDracor/goethe-die-laune-des-verliebten.xml,"Zum Tanz, zum Fest!",0,19,character_speech,1,7,,LAMON.,#lamon,200.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+509,509,GerDracor/goethe-die-laune-des-verliebten.xml,Und Eridon?,0,11,character_speech,1,7,,AMINE.,#amine,201.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+510,510,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Geh nur!",0,21,character_speech,1,7,,EGLE.,#egle,202.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+511,511,GerDracor/goethe-die-laune-des-verliebten.xml,ich bleib.,22,32,character_speech,1,7,,EGLE.,#egle,202.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+512,512,GerDracor/goethe-die-laune-des-verliebten.xml,"Gib acht, er läßt
+            Sich fangen und geht mit.",33,88,character_speech,1,7,,EGLE.,#egle,202.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+513,513,GerDracor/goethe-die-laune-des-verliebten.xml,"Sag, würde dich's nicht freuen?",89,120,character_speech,1,7,,EGLE.,#egle,202.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+514,514,GerDracor/goethe-die-laune-des-verliebten.xml,Unendlich!,0,10,character_speech,1,7,,AMINE.,#amine,203.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+515,515,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nun, so komm!",0,26,character_speech,1,7,,LAMON.,#lamon,204.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+516,516,GerDracor/goethe-die-laune-des-verliebten.xml,Hörst du dort die Schalmeien?,27,56,character_speech,1,7,,LAMON.,#lamon,204.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+517,517,GerDracor/goethe-die-laune-des-verliebten.xml,Die schöne Melodie?,69,88,character_speech,1,7,,LAMON.,#lamon,204.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+518,518,GerDracor/goethe-die-laune-des-verliebten.xml,"Er faßt Aminen bei der Hand, singt und tanzt.",0,45,stage_direction,1,7,speech_part,,#lamon,204.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+519,519,GerDracor/goethe-die-laune-des-verliebten.xml,singt.,0,6,stage_direction,1,7,speech_part,,#egle,205.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+520,520,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Und wenn euch der Liebste mit Eifersucht plagt,
+            Sich über ein Nicken, ein Lächeln beklagt,
+             Mit Falschheit euch necket, von Wankelmut spricht,
+            Dann singet und tanzet, da hört ihr ihn nicht.",0,238,character_speech,1,7,,EGLE,#egle,205.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+521,521,GerDracor/goethe-die-laune-des-verliebten.xml,Lamon zieht im Tanz Aminen mit sich fort.,0,41,stage_direction,1,7,speech_part,,#egle,205.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+522,522,GerDracor/goethe-die-laune-des-verliebten.xml,im Abgehen.,0,11,stage_direction,1,7,speech_part,,#amine,206.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+523,523,GerDracor/goethe-die-laune-des-verliebten.xml,O bring ihn ja mit dir!,0,23,character_speech,1,7,,AMINE,#amine,206.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+524,524,GerDracor/goethe-die-laune-des-verliebten.xml,Egle.,0,5,stage_direction,1,8,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+525,525,GerDracor/goethe-die-laune-des-verliebten.xml,Hernach Eridon mit einer Flöte und Liedern.,6,49,stage_direction,1,8,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+526,526,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Schon gut!",0,23,character_speech,1,8,,EGLE.,#egle,207.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+527,527,GerDracor/goethe-die-laune-des-verliebten.xml,Wir wollen sehn!,24,40,character_speech,1,8,,EGLE.,#egle,207.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+528,528,GerDracor/goethe-die-laune-des-verliebten.xml,"Schon lange wünscht ich mir
+            Gelegenheit und Glück, den Schäfer zu bekehren.",41,128,character_speech,1,8,,EGLE.,#egle,207.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+529,529,GerDracor/goethe-die-laune-des-verliebten.xml,"Heut wird mein Wunsch erfüllt; wart nur, ich will dich lehren!",141,203,character_speech,1,8,,EGLE.,#egle,207.0,FEMALE,Schadenfreude,SS,,1779.0,positive,emotions of pleasure
+530,530,GerDracor/goethe-die-laune-des-verliebten.xml,"Dir zeigen, wer du bist; und wenn du dann sie plagst!",216,269,character_speech,1,8,,EGLE.,#egle,207.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+531,531,GerDracor/goethe-die-laune-des-verliebten.xml,"–
+            Er kommt!",270,293,character_speech,1,8,,EGLE.,#egle,207.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+532,532,GerDracor/goethe-die-laune-des-verliebten.xml,"Hör, Eridon!",294,306,character_speech,1,8,,EGLE.,#egle,207.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+533,533,GerDracor/goethe-die-laune-des-verliebten.xml,Wo ist sie?,0,11,character_speech,1,8,,ERIDON.,#eridon,208.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+534,534,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wie!",0,17,character_speech,1,8,,EGLE.,#egle,209.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+535,535,GerDracor/goethe-die-laune-des-verliebten.xml,du fragst?,18,28,character_speech,1,8,,EGLE.,#egle,209.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+536,536,GerDracor/goethe-die-laune-des-verliebten.xml,"Mit meinem Lamon dort, wo die Schalmeien blasen.",41,89,character_speech,1,8,,EGLE.,#egle,209.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+537,537,GerDracor/goethe-die-laune-des-verliebten.xml,wirft die Flöte auf die Erde und zerreißt die Lieder.,0,53,stage_direction,1,8,speech_part,,#eridon,210.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+538,538,GerDracor/goethe-die-laune-des-verliebten.xml,Verfluchte Untreu!,0,18,character_speech,1,8,,ERIDON,#eridon,210.0,MALE,fear,SS,,1779.0,negative,emotions of anxiety
+539,539,GerDracor/goethe-die-laune-des-verliebten.xml,Rasest du?,0,10,character_speech,1,8,,EGLE.,#egle,211.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+540,540,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Sollt ich nicht rasen!",0,35,character_speech,1,8,,ERIDON.,#eridon,212.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+541,541,GerDracor/goethe-die-laune-des-verliebten.xml,"Da reißt die Heuchlerin mit lächelndem Gesicht
+            Die Kränze von dem Haupt und sagt: »Ich tanze nicht!«
+            Verlangt ich das?",48,190,character_speech,1,8,,ERIDON.,#eridon,212.0,MALE,Schadenfreude,SS,,1779.0,positive,emotions of pleasure
+542,542,GerDracor/goethe-die-laune-des-verliebten.xml,Und – Oh!,191,200,character_speech,1,8,,ERIDON.,#eridon,212.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+543,543,GerDracor/goethe-die-laune-des-verliebten.xml,Er stampft mit dem Fuße und wirft die zerrissenen Lieder weg.,0,61,stage_direction,1,8,speech_part,,#eridon,212.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+544,544,GerDracor/goethe-die-laune-des-verliebten.xml,in einem gesetzten Tone.,0,24,stage_direction,1,8,speech_part,,#egle,213.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+545,545,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Erlaub mir doch zu fragen:
+            Was hast du für ein Recht, den Tanz ihr zu versagen?",0,104,character_speech,1,8,,EGLE,#egle,213.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+546,546,GerDracor/goethe-die-laune-des-verliebten.xml,"Willst du denn, daß ein Herz, von deiner Liebe voll,
+            Kein Glück als nur das Glück um dich empfinden soll?",117,234,character_speech,1,8,,EGLE,#egle,213.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+547,547,GerDracor/goethe-die-laune-des-verliebten.xml,"Meinst du, es sei der Trieb nach jeder Lust gestillet,
+            Sobald die Zärtlichkeit das Herz des Mädchens füllet?",247,367,character_speech,1,8,,EGLE,#egle,213.0,FEMALE,desire,SS,,1779.0,positive,emotions of affection
+548,548,GerDracor/goethe-die-laune-des-verliebten.xml,"Genug ist's, daß sie dir die besten Stunden schenkt,
+             Mit dir am liebsten weilt, abwesend an dich denkt.",380,496,character_speech,1,8,,EGLE,#egle,213.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+549,549,GerDracor/goethe-die-laune-des-verliebten.xml,"Drum ist es Torheit, Freund, sie ewig zu betrüben;
+            Sie kann den Tanz, das Spiel und doch dich immer lieben.",509,628,character_speech,1,8,,EGLE,#egle,213.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+550,550,GerDracor/goethe-die-laune-des-verliebten.xml,schlägt die Arme unter und sieht in die Höhe.,0,45,stage_direction,1,8,speech_part,,#eridon,214.0,MALE,being moved,SS,,1779.0,being moved,being moved
+551,551,GerDracor/goethe-die-laune-des-verliebten.xml,Ah!,0,3,character_speech,1,8,,ERIDON,#eridon,214.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+552,552,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Sag mir, glaubst du denn, daß dieses Liebe sei,
+            Wenn du sie bei dir hältst?",0,100,character_speech,1,8,,EGLE.,#egle,215.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+553,553,GerDracor/goethe-die-laune-des-verliebten.xml,"Nein, das ist Sklaverei.",101,125,character_speech,1,8,,EGLE.,#egle,215.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+554,554,GerDracor/goethe-die-laune-des-verliebten.xml,"Du kommst: nun soll sie dich, nur dich beim Feste sehen;
+            Du gehst: nun soll sie gleich mit dir von dannen gehen;
+            Sie zaudert: alsobald verdüstert sich dein Blick;
+            Nun folgt sie dir, doch bleibt ihr Herz gar oft zurück.",138,392,character_speech,1,8,,EGLE.,#egle,215.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+555,555,GerDracor/goethe-die-laune-des-verliebten.xml,Wohl immer!,0,11,character_speech,1,8,,ERIDON.,#eridon,216.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+556,556,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Hört man doch, wenn die Verbittrung redet:
+            Wo keine Freiheit ist, wird jede Lust getötet.",0,114,character_speech,1,8,,EGLE.,#egle,217.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+557,557,GerDracor/goethe-die-laune-des-verliebten.xml,Wir sind nun so.,127,143,character_speech,1,8,,EGLE.,#egle,217.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+558,558,GerDracor/goethe-die-laune-des-verliebten.xml,"Ein Kind ist zum Gesang geneigt;
+            Man sagt ihm: »Sing mir doch!« Es wird bestürzt und schweigt.",144,250,character_speech,1,8,,EGLE.,#egle,217.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+559,559,GerDracor/goethe-die-laune-des-verliebten.xml,"Wenn du ihr Freiheit läßt, so wird sie dich nicht lassen;
+            Doch machst du's ihr zu arg, gib acht, sie wird dich hassen.",263,393,character_speech,1,8,,EGLE.,#egle,217.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+560,560,GerDracor/goethe-die-laune-des-verliebten.xml,Mich hassen!,0,12,character_speech,1,8,,ERIDON.,#eridon,218.0,MALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+561,561,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Nach Verdienst.",0,28,character_speech,1,8,,EGLE.,#egle,219.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+562,562,GerDracor/goethe-die-laune-des-verliebten.xml,"Ergreife diese Zeit,
+            Und schaffe dir das Glück der echten Zärtlichkeit!",29,112,character_speech,1,8,,EGLE.,#egle,219.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+563,563,GerDracor/goethe-die-laune-des-verliebten.xml,"Denn nur ein zärtlich Herz, von eigner Glut getrieben,
+            Das kann beständig sein, das nur kann wirklich lieben.",125,246,character_speech,1,8,,EGLE.,#egle,219.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+564,564,GerDracor/goethe-die-laune-des-verliebten.xml,"Bekenne, weißt du denn, ob dir der Vogel treu,
+            Den du im Käfig hältst?",259,341,character_speech,1,8,,EGLE.,#egle,219.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+565,565,GerDracor/goethe-die-laune-des-verliebten.xml,Nein!,0,5,character_speech,1,8,,ERIDON.,#eridon,220.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+566,566,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Aber wenn er frei
+            Durch Feld und Garten fliegt und doch zurücke kehret?",0,96,character_speech,1,8,,EGLE.,#egle,221.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+567,567,GerDracor/goethe-die-laune-des-verliebten.xml,Ja!,0,3,character_speech,1,8,,ERIDON.,#eridon,222.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+568,568,GerDracor/goethe-die-laune-des-verliebten.xml,Gut!,4,8,character_speech,1,8,,ERIDON.,#eridon,222.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+569,569,GerDracor/goethe-die-laune-des-verliebten.xml,da weiß ich's.,9,23,character_speech,1,8,,ERIDON.,#eridon,222.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+570,570,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Wird nicht deine Lust vermehret,
+            Wenn du das Tierchen siehst, das dich so zärtlich liebt,
+            Die Freiheit kennt und dir dennoch den Vorzug gibt?",0,178,character_speech,1,8,,EGLE.,#egle,223.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+571,571,GerDracor/goethe-die-laune-des-verliebten.xml,"Und kommt dein Mädchen einst von einem Fest zurücke,
+            Noch von dem Tanz bewegt, und sucht dich; ihre Blicke
+            Verraten, daß die Lust nie ganz vollkommen sei,
+             Wenn du, ihr Liebling, du, ihr Einz'ger, nicht dabei;
+            Wenn sie dir schwört, ein Kuß von dir sei mehr als Freuden
+            Von tausend Festen: bist du da nicht zu beneiden?",191,569,character_speech,1,8,,EGLE.,#egle,223.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+572,572,GerDracor/goethe-die-laune-des-verliebten.xml,gerührt.,0,8,stage_direction,1,8,speech_part,,#eridon,224.0,MALE,being moved,SS,,1779.0,being moved,being moved
+573,573,GerDracor/goethe-die-laune-des-verliebten.xml,O Egle!,0,7,character_speech,1,8,,ERIDON,#eridon,224.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+574,574,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Fürchte, daß der Götter Zorn entbrennt,
+            Da der Beglückteste sein Glück so wenig kennt.",0,111,character_speech,1,8,,EGLE.,#egle,225.0,FEMALE,fear,SS,,1779.0,negative,emotions of anxiety
+575,575,GerDracor/goethe-die-laune-des-verliebten.xml,Auf!,124,128,character_speech,1,8,,EGLE.,#egle,225.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+576,576,GerDracor/goethe-die-laune-des-verliebten.xml,"sei zufrieden, Freund!",129,151,character_speech,1,8,,EGLE.,#egle,225.0,FEMALE,friendship,SS,,1779.0,positive,emotions of affection
+577,577,GerDracor/goethe-die-laune-des-verliebten.xml,"Sie rächen sonst die Tränen
+            Des Mädchens, das dich liebt.",152,221,character_speech,1,8,,EGLE.,#egle,225.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+578,578,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Könnt ich mich nur gewöhnen,
+            Zu sehn, daß mancher ihr beim Tanz die Hände drückt,
+            Der eine nach ihr sieht, sie nach dem andern blickt.",0,171,character_speech,1,8,,ERIDON.,#eridon,226.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+579,579,GerDracor/goethe-die-laune-des-verliebten.xml,"Denk ich nur dran, mein Herz möcht da vor Bosheit reißen!",184,241,character_speech,1,8,,ERIDON.,#eridon,226.0,MALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+580,580,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Eh!",0,16,character_speech,1,8,,EGLE.,#egle,227.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+581,581,GerDracor/goethe-die-laune-des-verliebten.xml,laß das immer sein!,17,36,character_speech,1,8,,EGLE.,#egle,227.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+582,582,GerDracor/goethe-die-laune-des-verliebten.xml,das will noch gar nichts heißen.,37,69,character_speech,1,8,,EGLE.,#egle,227.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+583,583,GerDracor/goethe-die-laune-des-verliebten.xml,Sogar ein Kuß ist nichts!,82,107,character_speech,1,8,,EGLE.,#egle,227.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+584,584,GerDracor/goethe-die-laune-des-verliebten.xml,Was sagst du?,0,13,character_speech,1,8,,ERIDON.,#eridon,228.0,MALE,being moved,SS,,1779.0,being moved,being moved
+585,585,GerDracor/goethe-die-laune-des-verliebten.xml,Nichts ein Kuß?,14,29,character_speech,1,8,,ERIDON.,#eridon,228.0,MALE,love,SS,,1779.0,positive,emotions of affection
+586,586,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich glaube, daß man viel im Herzen fühlen muß,
+            Wenn er was sagen soll – Doch!",0,102,character_speech,1,8,,EGLE.,#egle,229.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+587,587,GerDracor/goethe-die-laune-des-verliebten.xml,willst du ihr verzeihen?,103,127,character_speech,1,8,,EGLE.,#egle,229.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+588,588,GerDracor/goethe-die-laune-des-verliebten.xml,"Denn wenn du böse tust, so kann sie nichts erfreuen.",140,192,character_speech,1,8,,EGLE.,#egle,229.0,FEMALE,Schadenfreude,SS,,1779.0,positive,emotions of pleasure
+589,589,GerDracor/goethe-die-laune-des-verliebten.xml,"Ach, Freundin!",0,14,character_speech,1,8,,ERIDON.,#eridon,230.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+590,590,GerDracor/goethe-die-laune-des-verliebten.xml,schmeichelnd.,0,13,stage_direction,1,8,speech_part,,#egle,231.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+591,591,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Tu es nicht, mein Freund; du bist auch gut.",0,56,character_speech,1,8,,EGLE,#egle,231.0,FEMALE,friendship,SS,,1779.0,positive,emotions of affection
+592,592,GerDracor/goethe-die-laune-des-verliebten.xml,Leb wohl!,69,78,character_speech,1,8,,EGLE,#egle,231.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+593,593,GerDracor/goethe-die-laune-des-verliebten.xml,Sie faßt ihn bei der Hand.,0,26,stage_direction,1,8,speech_part,,#egle,231.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+594,594,GerDracor/goethe-die-laune-des-verliebten.xml,Du bist erhitzt!,0,16,character_speech,1,8,,EGLE,#egle,231.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+595,595,GerDracor/goethe-die-laune-des-verliebten.xml,Es schlägt mein wallend Blut –,0,30,character_speech,1,8,,ERIDON.,#eridon,232.0,MALE,being moved,SS,,1779.0,being moved,being moved
+596,596,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Noch von dem Zorn?",0,31,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+597,597,GerDracor/goethe-die-laune-des-verliebten.xml,Genug!,32,38,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+598,598,GerDracor/goethe-die-laune-des-verliebten.xml,Du hast es ihr vergeben.,39,63,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+599,599,GerDracor/goethe-die-laune-des-verliebten.xml,Ich eile jetzt zu ihr.,76,98,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+600,600,GerDracor/goethe-die-laune-des-verliebten.xml,"Sie fragt nach dir mit Beben;
+            Ich sag ihr: »Er ist gut«, und sie beruhigt sich,
+            Ihr Herz wallt zärtlicher, und heißer liebt sie dich.",99,256,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+601,601,GerDracor/goethe-die-laune-des-verliebten.xml,Sie sieht ihn mit Empfindung an.,0,32,stage_direction,1,8,speech_part,,#egle,233.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+602,602,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Gib acht, sie sucht dich auf, sobald das Fest vorüber,
+            Und durch das Suchen selbst wirst du ihr immer lieber.",0,134,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+603,603,GerDracor/goethe-die-laune-des-verliebten.xml,"Egle stellt sich immer zärtlicher, lehnt sich auf seine Schulter.",0,65,stage_direction,1,8,speech_part,,#egle,233.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+604,604,GerDracor/goethe-die-laune-des-verliebten.xml,"Er nimmt ihre
+            Hand und küßt sie.",66,110,stage_direction,1,8,speech_part,,#egle,233.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+605,605,GerDracor/goethe-die-laune-des-verliebten.xml,"
+             Und endlich sieht sie dich!",0,41,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+606,606,GerDracor/goethe-die-laune-des-verliebten.xml,"Oh, welcher Augenblick!",42,65,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+607,607,GerDracor/goethe-die-laune-des-verliebten.xml,Drück sie an deine Brust und fühl dein ganzes Glück!,78,130,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+608,608,GerDracor/goethe-die-laune-des-verliebten.xml,"Ein Mädchen wird beim Tanz verschönert, rote Wangen,
+            Ein Mund, der lächelnd haucht, gesunkne Locken hangen
+            Um die bewegte Brust, ein sanfter Reiz umzieht
+            Den Körper tausendfach, wie er im Tanze flieht,
+            Die vollen Adern glühn, und bei des Körpers Schweben
+            Scheint jede Nerve sich lebendiger zu heben.",143,502,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+609,609,GerDracor/goethe-die-laune-des-verliebten.xml,"Sie affektiert eine zärtliche Entzückung und sinkt an seine Brust, er schlingt
+            seinen Arm um sie.",0,109,stage_direction,1,8,speech_part,,#egle,233.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+610,610,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Die Wollust, dies zu sehn, was überwiegt wohl die?",0,63,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+611,611,GerDracor/goethe-die-laune-des-verliebten.xml,Du gehst nicht mit zum Fest und fühlst die Rührung nie.,76,131,character_speech,1,8,,EGLE.,#egle,233.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+612,612,GerDracor/goethe-die-laune-des-verliebten.xml,"Zu sehr an deiner Brust, o Freundin, fühl ich sie!",0,50,character_speech,1,8,,ERIDON.,#eridon,234.0,MALE,friendship,SS,,1779.0,positive,emotions of affection
+613,613,GerDracor/goethe-die-laune-des-verliebten.xml,"Er fällt Eglen um den Hals und küßt sie, sie läßt es geschehn.",0,62,stage_direction,1,8,speech_part,,#eridon,234.0,MALE,love,SS,,1779.0,positive,emotions of affection
+614,614,GerDracor/goethe-die-laune-des-verliebten.xml,"Dann tritt sie
+            einige Schritte zurück und fragt mit einem leichtfertigen Ton.",63,152,stage_direction,1,8,speech_part,,#eridon,234.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+615,615,GerDracor/goethe-die-laune-des-verliebten.xml,Liebst du Aminen?,0,17,character_speech,1,8,,EGLE.,#egle,235.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+616,616,GerDracor/goethe-die-laune-des-verliebten.xml,"Sie, wie mich!",0,14,character_speech,1,8,,ERIDON.,#eridon,236.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+617,617,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Und kannst mich küssen?",0,36,character_speech,1,8,,EGLE.,#egle,237.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+618,618,GerDracor/goethe-die-laune-des-verliebten.xml,"O warte nur, du sollst mir diese Falschheit büßen!",49,99,character_speech,1,8,,EGLE.,#egle,237.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+619,619,GerDracor/goethe-die-laune-des-verliebten.xml,Du ungetreuer Mensch!,112,133,character_speech,1,8,,EGLE.,#egle,237.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+620,620,GerDracor/goethe-die-laune-des-verliebten.xml,Wie?,0,4,character_speech,1,8,,ERIDON.,#eridon,238.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+621,621,GerDracor/goethe-die-laune-des-verliebten.xml,"glaubst du denn, daß ich –",5,31,character_speech,1,8,,ERIDON.,#eridon,238.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+622,622,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich glaube, was ich kann.",0,38,character_speech,1,8,,EGLE.,#egle,239.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+623,623,GerDracor/goethe-die-laune-des-verliebten.xml,"Mein Freund, du küßtest mich
+            Recht zärtlich, das ist wahr.",39,109,character_speech,1,8,,EGLE.,#egle,239.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+624,624,GerDracor/goethe-die-laune-des-verliebten.xml,Ich bin damit zufrieden.,110,134,character_speech,1,8,,EGLE.,#egle,239.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+625,625,GerDracor/goethe-die-laune-des-verliebten.xml,Schmeckt dir mein Kuß?,147,169,character_speech,1,8,,EGLE.,#egle,239.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+626,626,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich denk's; die heißen Lippen glühten
+            Nach mehr.",170,230,character_speech,1,8,,EGLE.,#egle,239.0,FEMALE,being moved,SS,,1779.0,being moved,being moved
+627,627,GerDracor/goethe-die-laune-des-verliebten.xml,Du armes Kind!,231,245,character_speech,1,8,,EGLE.,#egle,239.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+628,628,GerDracor/goethe-die-laune-des-verliebten.xml,"Amine, wärst du hier!",246,267,character_speech,1,8,,EGLE.,#egle,239.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+629,629,GerDracor/goethe-die-laune-des-verliebten.xml,Wär sie's!,0,10,character_speech,1,8,,ERIDON.,#eridon,240.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+630,630,GerDracor/goethe-die-laune-des-verliebten.xml,Nur noch getrutzt!,0,18,character_speech,1,8,,EGLE.,#egle,241.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+631,631,GerDracor/goethe-die-laune-des-verliebten.xml,Wie schlimm erging' es dir!,19,46,character_speech,1,8,,EGLE.,#egle,241.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+632,632,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ja, keifen würde sie.",0,34,character_speech,1,8,,ERIDON.,#eridon,242.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+633,633,GerDracor/goethe-die-laune-des-verliebten.xml,Du mußt mich nicht verraten.,35,63,character_speech,1,8,,ERIDON.,#eridon,242.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+634,634,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich habe dich geküßt, jedoch was kann's ihr schaden?",76,128,character_speech,1,8,,ERIDON.,#eridon,242.0,MALE,love,SS,,1779.0,positive,emotions of affection
+635,635,GerDracor/goethe-die-laune-des-verliebten.xml,"Und wenn Amine mich auch noch so reizend küßt,
+            Darf ich nicht fühlen, daß dein Kuß auch reizend ist?",141,253,character_speech,1,8,,ERIDON.,#eridon,242.0,MALE,love,SS,,1779.0,positive,emotions of affection
+636,636,GerDracor/goethe-die-laune-des-verliebten.xml,Da frag sie selbst.,0,19,character_speech,1,8,,EGLE.,#egle,243.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+637,637,GerDracor/goethe-die-laune-des-verliebten.xml,Amine.,0,6,stage_direction,1,9,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+638,638,GerDracor/goethe-die-laune-des-verliebten.xml,Egle.,7,12,stage_direction,1,9,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+639,639,GerDracor/goethe-die-laune-des-verliebten.xml,Eridon.,13,20,stage_direction,1,9,pre_speech,,,,,no_annotation,SS,,1779.0,no_annotation,no_annotation
+640,640,GerDracor/goethe-die-laune-des-verliebten.xml,Weh mir!,0,8,character_speech,1,9,,ERIDON.,#eridon,244.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+641,641,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich muß, ich muß ihn sehen!",0,40,character_speech,1,9,,AMINE.,#amine,245.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+642,642,GerDracor/goethe-die-laune-des-verliebten.xml,Geliebter Eridon!,53,70,character_speech,1,9,,AMINE.,#amine,245.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+643,643,GerDracor/goethe-die-laune-des-verliebten.xml,"Es hieß mich Egle gehen,
+            Ich brach mein Wort, mich reut's; mein Freund, ich gehe nicht!",71,170,character_speech,1,9,,AMINE.,#amine,245.0,FEMALE,friendship,SS,,1779.0,positive,emotions of affection
+644,644,GerDracor/goethe-die-laune-des-verliebten.xml,für sich.,0,9,stage_direction,1,9,speech_part,,#eridon,246.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+645,645,GerDracor/goethe-die-laune-des-verliebten.xml,Ich Falscher!,0,13,character_speech,1,9,,ERIDON,#eridon,246.0,MALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+646,646,GerDracor/goethe-die-laune-des-verliebten.xml,Zürnst du noch?,0,15,character_speech,1,9,,AMINE.,#amine,247.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+647,647,GerDracor/goethe-die-laune-des-verliebten.xml,Du wendest dein Gesicht!,16,40,character_speech,1,9,,AMINE.,#amine,247.0,FEMALE,anger,SS,,1779.0,negative,emotions of rejection
+648,648,GerDracor/goethe-die-laune-des-verliebten.xml,für sich.,0,9,stage_direction,1,9,speech_part,,#eridon,248.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+649,649,GerDracor/goethe-die-laune-des-verliebten.xml,Was werd ich sagen!,0,19,character_speech,1,9,,ERIDON,#eridon,248.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+650,650,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ach, verdient sie diese Rache,
+            So eine kleine Schuld?",0,78,character_speech,1,9,,AMINE.,#amine,249.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+651,651,GerDracor/goethe-die-laune-des-verliebten.xml,"Du hast gerechte Sache,
+            Doch laß –",79,125,character_speech,1,9,,AMINE.,#amine,249.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+652,652,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            O laß ihn gehn!",0,28,character_speech,1,9,,EGLE.,#egle,250.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+653,653,GerDracor/goethe-die-laune-des-verliebten.xml,"Er hat mich erst geküßt;
+            Das schmeckt ihm noch.",29,88,character_speech,1,9,,EGLE.,#egle,250.0,FEMALE,desire,SS,,1779.0,positive,emotions of affection
+654,654,GerDracor/goethe-die-laune-des-verliebten.xml,Geküßt!,0,7,character_speech,1,9,,AMINE.,#amine,251.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+655,655,GerDracor/goethe-die-laune-des-verliebten.xml,Recht zärtlich!,0,15,character_speech,1,9,,EGLE.,#egle,252.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+656,656,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ah!",0,16,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+657,657,GerDracor/goethe-die-laune-des-verliebten.xml,"das ist
+            Zuviel für dieses Herz!",17,60,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+658,658,GerDracor/goethe-die-laune-des-verliebten.xml,So schnell kannst du mich hassen?,61,94,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,abhorrence,SS,,1779.0,negative,emotions of rejection
+659,659,GerDracor/goethe-die-laune-des-verliebten.xml,Ich Unglückselige!,107,125,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+660,660,GerDracor/goethe-die-laune-des-verliebten.xml,Mein Freund hat mich verlassen!,126,157,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+661,661,GerDracor/goethe-die-laune-des-verliebten.xml,"Wer andre Mädchen küßt, fängt seins zu fliehen an.",170,220,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+662,662,GerDracor/goethe-die-laune-des-verliebten.xml,Ach!,233,237,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+663,663,GerDracor/goethe-die-laune-des-verliebten.xml,"seit ich dich geliebt, hab ich so was getan?",238,282,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+664,664,GerDracor/goethe-die-laune-des-verliebten.xml,"Kein Jüngling durfte mehr nach meinen Lippen streben;
+            Kaum hab ich einen Kuß beim Pfänderspiel gegeben.",295,410,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+665,665,GerDracor/goethe-die-laune-des-verliebten.xml,"Mir nagt die Eifersucht so gut das Herz wie dir;
+            Und doch verzeih ich dir's, nur wende dich zu mir!",423,534,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+666,666,GerDracor/goethe-die-laune-des-verliebten.xml,"Doch, armes Herz, umsonst bist du so sehr verteidigt!",547,600,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,compassion,SS,,1779.0,negative,emotions of suffering and empathy
+667,667,GerDracor/goethe-die-laune-des-verliebten.xml,"Er fühlt nicht Liebe mehr, seitdem du ihn beleidigt.",613,665,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+668,668,GerDracor/goethe-die-laune-des-verliebten.xml,Die mächt'ge Rednerin spricht nun umsonst für dich.,678,729,character_speech,1,9,,AMINE.,#amine,253.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+669,669,GerDracor/goethe-die-laune-des-verliebten.xml,O welche Zärtlichkeit!,0,22,character_speech,1,9,,ERIDON.,#eridon,254.0,MALE,love,SS,,1779.0,positive,emotions of affection
+670,670,GerDracor/goethe-die-laune-des-verliebten.xml,wie sehr beschämt sie mich!,23,50,character_speech,1,9,,ERIDON.,#eridon,254.0,MALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+671,671,GerDracor/goethe-die-laune-des-verliebten.xml,"O Freundin, konntest du mir meinen Freund verführen!",0,52,character_speech,1,9,,AMINE.,#amine,255.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+672,672,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Getrost, mein gutes Kind, du sollst ihn nicht verlieren.",0,69,character_speech,1,9,,EGLE.,#egle,256.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+673,673,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich kenn den Eridon und weiß, wie treu er ist.",82,128,character_speech,1,9,,EGLE.,#egle,256.0,FEMALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+674,674,GerDracor/goethe-die-laune-des-verliebten.xml,Und hat –,0,9,character_speech,1,9,,AMINE.,#amine,257.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+675,675,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ja, das ist wahr, und hat mich doch geküßt.",0,56,character_speech,1,9,,EGLE.,#egle,258.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+676,676,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich weiß, wie es geschah, du kannst ihm wohl vergeben.",69,123,character_speech,1,9,,EGLE.,#egle,258.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+677,677,GerDracor/goethe-die-laune-des-verliebten.xml,Sieh!,136,141,character_speech,1,9,,EGLE.,#egle,258.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+678,678,GerDracor/goethe-die-laune-des-verliebten.xml,wie er es bereut!,142,159,character_speech,1,9,,EGLE.,#egle,258.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+679,679,GerDracor/goethe-die-laune-des-verliebten.xml,fällt vor Aminen nieder.,0,24,stage_direction,1,9,speech_part,,#eridon,259.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+680,680,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Amine!",0,19,character_speech,1,9,,ERIDON,#eridon,259.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+681,681,GerDracor/goethe-die-laune-des-verliebten.xml,liebstes Leben!,20,35,character_speech,1,9,,ERIDON,#eridon,259.0,MALE,love,SS,,1779.0,positive,emotions of affection
+682,682,GerDracor/goethe-die-laune-des-verliebten.xml,O zürne du mit ihr!,48,67,character_speech,1,9,,ERIDON,#eridon,259.0,MALE,anger,SS,,1779.0,negative,emotions of rejection
+683,683,GerDracor/goethe-die-laune-des-verliebten.xml,"sie machte sich so schön;
+            Ich war dem Mund so nah und konnt nicht widerstehn.",68,157,character_speech,1,9,,ERIDON,#eridon,259.0,MALE,love,SS,,1779.0,positive,emotions of affection
+684,684,GerDracor/goethe-die-laune-des-verliebten.xml,"Doch kennest du mein Herz, mir kannst du das erlauben,
+            So eine kleine Lust wird dir mein Herz nicht rauben.",170,289,character_speech,1,9,,ERIDON,#eridon,259.0,MALE,joy,SS,,1779.0,positive,emotions of pleasure
+685,685,GerDracor/goethe-die-laune-des-verliebten.xml,"Amine, küß ihn!",0,15,character_speech,1,9,,EGLE.,#egle,260.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+686,686,GerDracor/goethe-die-laune-des-verliebten.xml,weil er so vernünftig spricht.,16,46,character_speech,1,9,,EGLE.,#egle,260.0,FEMALE,"admiration, reverence",SS,,1779.0,positive,emotions of affection
+687,687,GerDracor/goethe-die-laune-des-verliebten.xml,Zu Eridon.,0,10,stage_direction,1,9,speech_part,,#egle,260.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+688,688,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Lust raubt ihr nicht dein Herz, dir raubt sie ihres nicht.",0,71,character_speech,1,9,,EGLE.,#egle,260.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+689,689,GerDracor/goethe-die-laune-des-verliebten.xml,"So, Freund!",84,95,character_speech,1,9,,EGLE.,#egle,260.0,FEMALE,friendship,SS,,1779.0,positive,emotions of affection
+690,690,GerDracor/goethe-die-laune-des-verliebten.xml,"du mußtest dir dein eigen Urteil sprechen;
+            Du siehst, liebt sie den Tanz, so ist es kein Verbrechen.",96,208,character_speech,1,9,,EGLE.,#egle,260.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+691,691,GerDracor/goethe-die-laune-des-verliebten.xml,Ihn nachahmend.,0,15,stage_direction,1,9,speech_part,,#egle,260.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+692,692,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Und wenn ein Jüngling ihr beim Tanz die Hände drückt,
+            Der eine nach ihr sieht, sie nach dem andern blickt,
+            Auch das hat, wie du weißt, nicht gar soviel zu sagen.",0,198,character_speech,1,9,,EGLE.,#egle,260.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+693,693,GerDracor/goethe-die-laune-des-verliebten.xml,"Ich hoffe, du wirst nie Aminen wieder plagen,
+            Und denke, du gehst mit.",211,293,character_speech,1,9,,EGLE.,#egle,260.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy
+694,694,GerDracor/goethe-die-laune-des-verliebten.xml,Komm mit zum Fest!,0,18,character_speech,1,9,,AMINE.,#amine,261.0,FEMALE,joy,SS,,1779.0,positive,emotions of pleasure
+695,695,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Ich muß;
+            Ein Kuß belehrte mich.",0,56,character_speech,1,9,,ERIDON.,#eridon,262.0,MALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+696,696,GerDracor/goethe-die-laune-des-verliebten.xml,zu Aminen.,0,10,stage_direction,1,9,speech_part,,#egle,263.0,FEMALE,no_annotation,SS,,1779.0,no_annotation,no_annotation
+697,697,GerDracor/goethe-die-laune-des-verliebten.xml,"
+            Verzeih uns diesen Kuß.",0,36,character_speech,1,9,,EGLE,#egle,263.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+698,698,GerDracor/goethe-die-laune-des-verliebten.xml,"Und kehrt die Eifersucht in seinen Busen wieder,
+            So sprich von diesem Kuß, dies Mittel schlag ihn nieder.",49,166,character_speech,1,9,,EGLE,#egle,263.0,FEMALE,love,SS,,1779.0,positive,emotions of affection
+699,699,GerDracor/goethe-die-laune-des-verliebten.xml,"–
+            Ihr Eifersüchtigen, die ihr ein Mädchen plagt,
+            Denkt euren Streichen nach, dann habt das Herz und klagt.",167,297,character_speech,1,9,,EGLE,#egle,263.0,FEMALE,suffering,SS,,1779.0,negative,emotions of suffering and empathy

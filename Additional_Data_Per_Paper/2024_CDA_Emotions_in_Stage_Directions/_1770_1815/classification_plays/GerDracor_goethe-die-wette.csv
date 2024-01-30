@@ -1,0 +1,520 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/goethe-die-wette.xml,"Dorn, nachher Förster",0,21,stage_direction,1,1,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+1,1,GerDracor/goethe-die-wette.xml,"Habe ich es doch so oft gesagt, und wem ist es nicht bekannt, daß man etwas leicht
+            unternimmt und nachher mit großer Unbequemlichkeit ausführt.",0,155,character_speech,1,1,,Dorn,#dorn,1.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+2,2,GerDracor/goethe-die-wette.xml,"Was hilft es, wenn man noch
+            so verständig denkt und spricht!",156,228,character_speech,1,1,,Dorn,#dorn,1.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+3,3,GerDracor/goethe-die-wette.xml,"Nun laß ich mich wieder in einen Handel ein, der mich
+            ganz aus dem Geschicke bringt.",229,325,character_speech,1,1,,Dorn,#dorn,1.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+4,4,GerDracor/goethe-die-wette.xml,"Zur schönsten Jahrszeit verlasse ich meinen Landsitz; ich
+            eile in die Stadt, dort wird mir die Zeit lang, und die Ungeduld treibt mich wieder
+            hierher.",326,500,character_speech,1,1,,Dorn,#dorn,1.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+5,5,GerDracor/goethe-die-wette.xml,"Nun sehe ich aus den Fenstern dieses schlechten Wirtshauses mein Schloß, meine
+            Gärten und darf nicht hin.",501,618,character_speech,1,1,,Dorn,#dorn,1.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+6,6,GerDracor/goethe-die-wette.xml,Wenns nur hier nicht gar zu unbequem wäre.,619,661,character_speech,1,1,,Dorn,#dorn,1.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+7,7,GerDracor/goethe-die-wette.xml,"Jeder Stuhl
+            wackelt, auf den ich mich setzen will, ich finde für meinen Hut keinen Haken und
+            wahrhaftig kaum eine Ecke für meinen Stock.",662,822,character_speech,1,1,,Dorn,#dorn,1.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+8,8,GerDracor/goethe-die-wette.xml,Doch alles mag hingehen!,823,847,character_speech,1,1,,Dorn,#dorn,1.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+9,9,GerDracor/goethe-die-wette.xml,"wenn ich nur meine
+            Absicht erreiche, wenn das junge Paar glücklich wird.",848,932,character_speech,1,1,,Dorn,#dorn,1.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+10,10,GerDracor/goethe-die-wette.xml,außen,0,5,stage_direction,1,1,speech_part,,#foerster,2.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+11,11,GerDracor/goethe-die-wette.xml,Kann man hier unterkommen?,0,26,character_speech,1,1,,Förster,#foerster,2.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+12,12,GerDracor/goethe-die-wette.xml,Ist niemand vom Hause da?,27,52,character_speech,1,1,,Förster,#foerster,2.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+13,13,GerDracor/goethe-die-wette.xml,Hör ich recht?,0,14,character_speech,1,1,,Dorn,#dorn,3.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+14,14,GerDracor/goethe-die-wette.xml,Förster!,15,23,character_speech,1,1,,Dorn,#dorn,3.0,MALE,anger,SS,,1812.0,negative,emotions of rejection
+15,15,GerDracor/goethe-die-wette.xml,"Da finde ich doch wenigstens einen Gefährten in meiner
+            seltsamen Lage.",24,106,character_speech,1,1,,Dorn,#dorn,3.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+16,16,GerDracor/goethe-die-wette.xml,eintretend,0,10,stage_direction,1,1,speech_part,,#foerster,4.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+17,17,GerDracor/goethe-die-wette.xml,Dorn!,0,5,character_speech,1,1,,Förster,#foerster,4.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+18,18,GerDracor/goethe-die-wette.xml,"Ists möglich, bist dus?",6,29,character_speech,1,1,,Förster,#foerster,4.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+19,19,GerDracor/goethe-die-wette.xml,warum nicht auf dem Schlosse?,30,59,character_speech,1,1,,Förster,#foerster,4.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+20,20,GerDracor/goethe-die-wette.xml,warum hier im Wirtshause?,60,85,character_speech,1,1,,Förster,#foerster,4.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+21,21,GerDracor/goethe-die-wette.xml,"Man sagte mir, du seist in der Stadt.",98,135,character_speech,1,1,,Förster,#foerster,4.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+22,22,GerDracor/goethe-die-wette.xml,"In deinem Schlosse fand ich alles einsam und
+            öde.",136,197,character_speech,1,1,,Förster,#foerster,4.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+23,23,GerDracor/goethe-die-wette.xml,"Nicht so öde, als du glaubst.",0,29,character_speech,1,1,,Dorn,#dorn,5.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+24,24,GerDracor/goethe-die-wette.xml,Die Liebenden sind drinnen.,30,57,character_speech,1,1,,Dorn,#dorn,5.0,MALE,love,SS,,1812.0,positive,emotions of affection
+25,25,GerDracor/goethe-die-wette.xml,Wer!,0,4,character_speech,1,1,,Förster,#foerster,6.0,MALE,being moved,SS,,1812.0,being moved,being moved
+26,26,GerDracor/goethe-die-wette.xml,"Leonore und Eduard, festgebannt.",0,32,character_speech,1,1,,Dorn,#dorn,7.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+27,27,GerDracor/goethe-die-wette.xml,Die zwei jungen Leute?,0,22,character_speech,1,1,,Förster,#foerster,8.0,MALE,being moved,SS,,1812.0,being moved,being moved
+28,28,GerDracor/goethe-die-wette.xml,zusammen?,23,32,character_speech,1,1,,Förster,#foerster,8.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+29,29,GerDracor/goethe-die-wette.xml,"Zusammen oder getrennt, wie du willst.",0,38,character_speech,1,1,,Dorn,#dorn,9.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+30,30,GerDracor/goethe-die-wette.xml,Erkläre mir das Rätsel.,0,23,character_speech,1,1,,Förster,#foerster,10.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+31,31,GerDracor/goethe-die-wette.xml,So höre denn.,0,13,character_speech,1,1,,Dorn,#dorn,11.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+32,32,GerDracor/goethe-die-wette.xml,"Es gilt eine Wette, sie müssen eine Probe bestehn, die ihr künftiges
+            Glück befestigen soll.",14,117,character_speech,1,1,,Dorn,#dorn,11.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+33,33,GerDracor/goethe-die-wette.xml,Du machst mich immer neugieriger.,0,33,character_speech,1,1,,Förster,#foerster,12.0,MALE,being moved,SS,,1812.0,being moved,being moved
+34,34,GerDracor/goethe-die-wette.xml,"Eduard und Leonore lieben sich, und ich nährte gern diese keimenden Gefühle, da eine
+            engere Verbindung mir sehr willkommen wäre.",0,140,character_speech,1,1,,Dorn,#dorn,13.0,MALE,love,SS,,1812.0,positive,emotions of affection
+35,35,GerDracor/goethe-die-wette.xml,Ich gab hierzu von jeher meinen Beifall.,0,40,character_speech,1,1,,Förster,#foerster,14.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+36,36,GerDracor/goethe-die-wette.xml,"Eduard ist ein edler Junge, voll Geist und Fähigkeiten, sehr gebildet, vom besten
+            Herzen, vom lebhaftesten Gefühl, doch etwas rasch und eigendünklig.",0,161,character_speech,1,1,,Dorn,#dorn,15.0,MALE,"admiration, reverence",SS,,1812.0,positive,emotions of affection
+37,37,GerDracor/goethe-die-wette.xml,"Gestehs nur, diese Zusammensetzung macht einen ganz liebenswürdigen jungen Mann.",0,80,character_speech,1,1,,Förster,#foerster,16.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+38,38,GerDracor/goethe-die-wette.xml,"Nun, wir hatten auch etwas davon.",0,33,character_speech,1,1,,Dorn,#dorn,17.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+39,39,GerDracor/goethe-die-wette.xml,"Leonore ist sanft und gefühlvoll, dabei tätig,
+            häuslich, doch nicht ohne Eitelkeit; sie liebt ihn wahrhaft, doch überläßt sie sich
+            manchmal einem Hang zur üblen Laune; sie zeigt ein mürrisches Wesen, das mit der
+            Hastigkeit Eduards nicht vereinbarlich ist, und so entstand in der angenehmen Liebes-
+            und Brautzeit öfters Zwietracht, Widerwärtigkeit und gegenseitige Unzufriedenheiten.",34,464,character_speech,1,1,,Dorn,#dorn,17.0,MALE,love,SS,,1812.0,positive,emotions of affection
+40,40,GerDracor/goethe-die-wette.xml,Das wird sich nach der Trauung schon geben.,0,43,character_speech,1,1,,Förster,#foerster,18.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+41,41,GerDracor/goethe-die-wette.xml,"Ich wollte, es gäbe sich vorher, und das ist gerade die Absicht dieser wunderlichen
+            Anstalt.",0,104,character_speech,1,1,,Dorn,#dorn,19.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+42,42,GerDracor/goethe-die-wette.xml,"Oft machte ich die jungen Leute auf ihre Fehler aufmerksam und verlangte, daß
+            jeder Teil den seinigen anerkennen, daß sie sich nachgeben, sich wechselseitig
+            ausgleichen sollten.",105,306,character_speech,1,1,,Dorn,#dorn,19.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+43,43,GerDracor/goethe-die-wette.xml,Ich predigte in die Luft.,307,332,character_speech,1,1,,Dorn,#dorn,19.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+44,44,GerDracor/goethe-die-wette.xml,"Und doch konnte ichs nicht lassen, meine
+            Ermahnungen zu wiederholen, und vor acht Tagen, da ich sie hartnäckiger fand als sonst,
+            erklärte ich ihnen ernstlich die Unart und Unschicklichkeit ihres Betragens, da sie doch
+            ein für allemal ohne einander nicht sein und leben könnten.",333,646,character_speech,1,1,,Dorn,#dorn,19.0,MALE,anger,SS,,1812.0,negative,emotions of rejection
+45,45,GerDracor/goethe-die-wette.xml,"Dies nahmen sie etwas hoch
+            auf und versicherten, es dürfte doch wohl möglich sein, auch ohne einander zu existieren
+            und auch abgesondert für sich zu leben.",647,826,character_speech,1,1,,Dorn,#dorn,19.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+46,46,GerDracor/goethe-die-wette.xml,Dergleichen Reden kommen wohl vor; so trotzt man aber nicht lange.,0,66,character_speech,1,1,,Förster,#foerster,20.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+47,47,GerDracor/goethe-die-wette.xml,"So nahm ichs auch, scherzte darüber, drohte, ihre Neigung auf die Probe zu setzen, um
+            zu sehen, wer das andere am ersten aufsuchen, sich dem andern am ersten wieder nähern
+            würde?",0,202,character_speech,1,1,,Dorn,#dorn,21.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+48,48,GerDracor/goethe-die-wette.xml,"Nun kam die Eitelkeit ins Spiel, und jedes versicherte in einem solchen Fall die
+            stärkste Beharrlichkeit.",203,320,character_speech,1,1,,Dorn,#dorn,21.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+49,49,GerDracor/goethe-die-wette.xml,"Worte, nichts als Worte.",0,24,character_speech,1,1,,Förster,#foerster,22.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+50,50,GerDracor/goethe-die-wette.xml,"Um nun zu erfahren, ob es etwas mehr wäre, tat ich folgenden Vorschlag: ihr kennt,
+            sagte ich, die beiden aneinander stoßenden Zimmer, die ich mit meiner selgen Frau
+            bewohnte; eine Türe, die beide verbindet, hat ein Gitter, welches durch einen Vorhang
+            bedeckt ist, der sowohl hüben als drüben aufgezogen werden kann; wenn wir Eheleute uns
+            sprechen wollten, so zog bald das eine, bald das andere diesen Vorhang.",0,457,character_speech,1,1,,Dorn,#dorn,23.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+51,51,GerDracor/goethe-die-wette.xml,"Nun sollt ihr
+            Brautleute diese beiden Zimmer bewohnen, und es gilt eine Wette, welcher von beiden
+            Teilen die Entbehrung schmerzlicher fühlt, das andere mehr vermißt und den ersten
+            Schritt zum Wiedersehn tut.",458,701,character_speech,1,1,,Dorn,#dorn,23.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+52,52,GerDracor/goethe-die-wette.xml,"Nun wurde mit gegenseitiger Einwilligung zur Probe
+            geschritten, sie zogen ein, ich zog den Vorhang zu.",702,816,character_speech,1,1,,Dorn,#dorn,23.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+53,53,GerDracor/goethe-die-wette.xml,So steht die Sache.,817,836,character_speech,1,1,,Dorn,#dorn,23.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+54,54,GerDracor/goethe-die-wette.xml,Und wie lange?,0,14,character_speech,1,1,,Förster,#foerster,24.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+55,55,GerDracor/goethe-die-wette.xml,Seit acht Tagen.,0,16,character_speech,1,1,,Dorn,#dorn,25.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+56,56,GerDracor/goethe-die-wette.xml,Und noch nichts vorgefallen?,0,28,character_speech,1,1,,Förster,#foerster,26.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+57,57,GerDracor/goethe-die-wette.xml,Ich glaube nicht.,0,17,character_speech,1,1,,Dorn,#dorn,27.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+58,58,GerDracor/goethe-die-wette.xml,"Denn Johann und Friederike, welche ihre Herrschaften aufmerksam
+            bewachen, hatten Befehl, mir es gleich in die Stadt melden zu lassen.",18,163,character_speech,1,1,,Dorn,#dorn,27.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+59,59,GerDracor/goethe-die-wette.xml,"Ich hörte nichts,
+            und nun komm ich aus Ungeduld zurück, um in der Nähe das Weitere zu vernehmen.",164,272,character_speech,1,1,,Dorn,#dorn,27.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+60,60,GerDracor/goethe-die-wette.xml,"Und ich komme grade recht zu diesem wunderlichen Abenteuer und lasse mir wegen der
+            Sonderbarkeit  gern gefallen, mit dir in einem schlechten Wirtshause
+            anstatt in einem wohleingerichteten Schlosse zu verweilen.",0,234,character_speech,1,1,,Förster,#foerster,28.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+61,61,GerDracor/goethe-die-wette.xml,"Ich hoffe, die Unbequemlichkeit soll nicht lange dauern; richte dich ein, so gut du
+            kannst.",0,103,character_speech,1,1,,Dorn,#dorn,29.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+62,62,GerDracor/goethe-die-wette.xml,Indessen werden wohl auch unsere Aufpasser herankommen.,104,159,character_speech,1,1,,Dorn,#dorn,29.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+63,63,GerDracor/goethe-die-wette.xml,"Ich bin selbst neugierig auf den Ausgang; denn im ganzen will mir der Spaß nicht recht
+            gefallen.",0,108,character_speech,1,1,,Förster,#foerster,30.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+64,64,GerDracor/goethe-die-wette.xml,Es lassen sich ja wohl bedenkliche Folgen erwarten.,109,160,character_speech,1,1,,Förster,#foerster,30.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+65,65,GerDracor/goethe-die-wette.xml,Keineswegs!,0,11,character_speech,1,1,,Dorn,#dorn,31.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+66,66,GerDracor/goethe-die-wette.xml,"ich bin überzeugt, daß alles zum Vorteil beider Liebenden enden muß.",12,80,character_speech,1,1,,Dorn,#dorn,31.0,MALE,love,SS,,1812.0,positive,emotions of affection
+67,67,GerDracor/goethe-die-wette.xml,"Welcher Teil sich auch als der schwächste zeigt, verliert nichts, denn er beweist
+            zugleich die Stärke seiner Liebe.",93,220,character_speech,1,1,,Dorn,#dorn,31.0,MALE,love,SS,,1812.0,positive,emotions of affection
+68,68,GerDracor/goethe-die-wette.xml,"Bildet sich der stärkere etwas ein, so wird er sich
+            bei einigem Nachdenken durch den schwächern beschämt halten.",221,345,character_speech,1,1,,Dorn,#dorn,31.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+69,69,GerDracor/goethe-die-wette.xml,"Sie werden fühlen, wie
+            liebenswürdig es sei, nachzugeben und sich ineinander zu finden; sie werden sich tief
+            überzeugen, wie sehr man eines gegenseitigen Umgangs, einer wahren Seelenvertraulichkeit
+            bedarf, und wie töricht es ist, zu glauben, daß Beschäftigungen, Unterhaltungen ein
+            liebevolles Herz entschädigen könnten.",346,714,character_speech,1,1,,Dorn,#dorn,31.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+70,70,GerDracor/goethe-die-wette.xml,"Man wird ihnen eindringlicher vorstellen dürfen,
+            wie sehr üble Laune das häusliche Glück stört, allzu große Raschheit trübe Stunden nach
+            sich zieht.",715,887,character_speech,1,1,,Dorn,#dorn,31.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+71,71,GerDracor/goethe-die-wette.xml,"Sind diese Fehler beseitigt, so wird jedes den Wert des andern rein erkennen
+            und schätzen und gewiß jede Gelegenheit zu ernsteren Trennungen vermeiden.",888,1051,character_speech,1,1,,Dorn,#dorn,31.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+72,72,GerDracor/goethe-die-wette.xml,Wir wollen das Beste hoffen.,0,28,character_speech,1,1,,Förster,#foerster,32.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+73,73,GerDracor/goethe-die-wette.xml,"Indessen bleibt das Mittel immer sonderbar, doch
+            vielleicht lernen wir alten Welterfahrnen auch etwas dabei.",29,149,character_speech,1,1,,Förster,#foerster,32.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+74,74,GerDracor/goethe-die-wette.xml,"Wir wollen sehen, welcher
+            Teil den Druck der Langenweile und des unbefriedigten Gefühls am längsten aushält.",150,270,character_speech,1,1,,Förster,#foerster,32.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+75,75,GerDracor/goethe-die-wette.xml,"Da poltern sie mit deinen Sachen die Treppe herauf; komm, ich muß dich einrichten
+            helfen.",0,101,character_speech,1,1,,Dorn,#dorn,33.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+76,76,GerDracor/goethe-die-wette.xml,Beide ab.,0,9,stage_direction,1,1,inner_speech,,#dorn,33.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+77,77,GerDracor/goethe-die-wette.xml,Johann.,0,7,stage_direction,1,2,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+78,78,GerDracor/goethe-die-wette.xml,Friederike,8,18,stage_direction,1,2,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+79,79,GerDracor/goethe-die-wette.xml,Auch hier ist der gnädge Herr nicht.,0,36,character_speech,1,2,,Johann,#johann,34.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+80,80,GerDracor/goethe-die-wette.xml,"Nicht im Garten, und wo denn?",37,66,character_speech,1,2,,Johann,#johann,34.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+81,81,GerDracor/goethe-die-wette.xml,"Ich habe ihm manches
+            Drollige zu erzählen.",67,121,character_speech,1,2,,Johann,#johann,34.0,MALE,anger,SS,,1812.0,negative,emotions of rejection
+82,82,GerDracor/goethe-die-wette.xml,Vom jungen Paar?,0,16,character_speech,1,2,,Friederike,#friederike,35.0,FEMALE,being moved,SS,,1812.0,being moved,being moved
+83,83,GerDracor/goethe-die-wette.xml,"Nun gut, wenn du gesprochen hast, kommt die Reihe an mich.",17,75,character_speech,1,2,,Friederike,#friederike,35.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+84,84,GerDracor/goethe-die-wette.xml,"Das
+            Fräulein macht mir viel Kummer.",76,123,character_speech,1,2,,Friederike,#friederike,35.0,FEMALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+85,85,GerDracor/goethe-die-wette.xml,Wieso?,0,6,character_speech,1,2,,Johann,#johann,36.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+86,86,GerDracor/goethe-die-wette.xml,"Ja, sieh einmal.",0,16,character_speech,1,2,,Friederike,#friederike,37.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+87,87,GerDracor/goethe-die-wette.xml,"Die ersten Tage ihres neuen Lebenswandels, da ging es still und ruhig
+            zu; sie schien vergnügt, beschäftigte sich, frohlockte, des jungen Herrn nicht zu
+            bedürfen, um fröhlich zu sein, glaubte sich gegen Liebesanfälle wohl gerüstet; auch hätt
+            ich nie merken können, welches Gefühl sie für ihn hegt, wenn sie nicht auf künstliche
+            Weise das Gespräch auf dich gelenkt hätte.",17,434,character_speech,1,2,,Friederike,#friederike,37.0,FEMALE,joy,SS,,1812.0,positive,emotions of pleasure
+88,88,GerDracor/goethe-die-wette.xml,"Nun, was braucht es da viel Kunst?",0,34,character_speech,1,2,,Johann,#johann,38.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+89,89,GerDracor/goethe-die-wette.xml,"ich find es vielmehr ganz natürlich, daß man an mich
+            denkt und gelegentlich von mir spricht.",35,139,character_speech,1,2,,Johann,#johann,38.0,MALE,love,SS,,1812.0,positive,emotions of affection
+90,90,GerDracor/goethe-die-wette.xml,"Sei nur ruhig, diesmal gehst du leer aus, diesmal zielte sie nur dahin, um unbemerkt zu
+            erfahren, ob du viel um deinen Herrn seist, und wie es ihm gehe?",0,164,character_speech,1,2,,Friederike,#friederike,39.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+91,91,GerDracor/goethe-die-wette.xml,"Wenn ich nicht darauf
+            zu achten schien, so wurde sie anfangs anhaltender im Fragen; schien ich Liebe zu
+            vermuten, einen Wunsch nach Wiedersehn zu ahnden, so schwieg sie rasch, ward mürrisch
+            und sprach kein Wort.",165,412,character_speech,1,2,,Friederike,#friederike,39.0,FEMALE,anger,SS,,1812.0,negative,emotions of rejection
+92,92,GerDracor/goethe-die-wette.xml,Die schöne Unterhaltung!,0,24,character_speech,1,2,,Johann,#johann,40.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+93,93,GerDracor/goethe-die-wette.xml,So vergingen die ersten Tage.,0,29,character_speech,1,2,,Friederike,#friederike,41.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+94,94,GerDracor/goethe-die-wette.xml,"Jetzt spricht sie gar nichts, ist und schläft
+            ebensowenig, verläßt eine Beschäftigung um die andere und sieht so krank aus, daß sie
+            einen ängstet.",30,200,character_speech,1,2,,Friederike,#friederike,41.0,FEMALE,fear,SS,,1812.0,negative,emotions of anxiety
+95,95,GerDracor/goethe-die-wette.xml,"Geh, was wird es nun wieder sein?",0,33,character_speech,1,2,,Johann,#johann,42.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+96,96,GerDracor/goethe-die-wette.xml,Launen!,34,41,character_speech,1,2,,Johann,#johann,42.0,MALE,being moved,SS,,1812.0,being moved,being moved
+97,97,GerDracor/goethe-die-wette.xml,nichts als Launen!,42,60,character_speech,1,2,,Johann,#johann,42.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+98,98,GerDracor/goethe-die-wette.xml,"Da scheinen die Weiber
+            immer krank.",61,108,character_speech,1,2,,Johann,#johann,42.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+99,99,GerDracor/goethe-die-wette.xml,Sie sind alle so.,109,126,character_speech,1,2,,Johann,#johann,42.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+100,100,GerDracor/goethe-die-wette.xml,"Meinst du mich auch, Johann?",0,28,character_speech,1,2,,Friederike,#friederike,43.0,FEMALE,friendship,SS,,1812.0,positive,emotions of affection
+101,101,GerDracor/goethe-die-wette.xml,Ich will nicht hoffen!,29,51,character_speech,1,2,,Friederike,#friederike,43.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+102,102,GerDracor/goethe-die-wette.xml,"Sei nicht böse, ich spreche nur von den vornehmen Frauen, die haben alle solche
+            Grillen, wenn man ihren Eitelkeiten nicht recht schmeichelt.",0,152,character_speech,1,2,,Johann,#johann,44.0,MALE,anger,SS,,1812.0,negative,emotions of rejection
+103,103,GerDracor/goethe-die-wette.xml,Nein!,0,5,character_speech,1,2,,Friederike,#friederike,45.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+104,104,GerDracor/goethe-die-wette.xml,"mein Fräulein ist nicht unter dieser Zahl; es ist nur zu wahrscheinlich, daß die
+            Liebe an ihr zehrt.",6,118,character_speech,1,2,,Friederike,#friederike,45.0,FEMALE,love,SS,,1812.0,positive,emotions of affection
+105,105,GerDracor/goethe-die-wette.xml,Die Liebe!,0,10,character_speech,1,2,,Johann,#johann,46.0,MALE,love,SS,,1812.0,positive,emotions of affection
+106,106,GerDracor/goethe-die-wette.xml,warum verbirgt sie selbe?,11,36,character_speech,1,2,,Johann,#johann,46.0,MALE,being moved,SS,,1812.0,being moved,being moved
+107,107,GerDracor/goethe-die-wette.xml,Ja!,0,3,character_speech,1,2,,Friederike,#friederike,47.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+108,108,GerDracor/goethe-die-wette.xml,es gilt aber eine Wette.,4,28,character_speech,1,2,,Friederike,#friederike,47.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+109,109,GerDracor/goethe-die-wette.xml,Was Wette!,0,10,character_speech,1,2,,Johann,#johann,48.0,MALE,anger,SS,,1812.0,negative,emotions of rejection
+110,110,GerDracor/goethe-die-wette.xml,wenn man sich einmal liebt.,11,38,character_speech,1,2,,Johann,#johann,48.0,MALE,love,SS,,1812.0,positive,emotions of affection
+111,111,GerDracor/goethe-die-wette.xml,Aber die Eitelkeit!,0,19,character_speech,1,2,,Friederike,#friederike,49.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+112,112,GerDracor/goethe-die-wette.xml,Die taugt bei der Liebe nichts.,0,31,character_speech,1,2,,Johann,#johann,50.0,MALE,love,SS,,1812.0,positive,emotions of affection
+113,113,GerDracor/goethe-die-wette.xml,"Da sind wir gemeinen Leute weit glücklicher, wir kennen
+            jenes Raffinement nicht.",32,124,character_speech,1,2,,Johann,#johann,50.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+114,114,GerDracor/goethe-die-wette.xml,"Ich sage: Friederike, liebst du mich?",125,162,character_speech,1,2,,Johann,#johann,50.0,MALE,love,SS,,1812.0,positive,emotions of affection
+115,115,GerDracor/goethe-die-wette.xml,Du sagst: Ja!,163,176,character_speech,1,2,,Johann,#johann,50.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+116,116,GerDracor/goethe-die-wette.xml,"und nun bin
+            ich dein –",177,211,character_speech,1,2,,Johann,#johann,50.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+117,117,GerDracor/goethe-die-wette.xml,Er umarmt sie.,0,14,stage_direction,1,2,pre_speech,,,,,joy,SS,,1812.0,positive,emotions of pleasure
+118,118,GerDracor/goethe-die-wette.xml,"Wenn das Schicksal unsrer jungen Herrschaft entschieden ist, wenn das Heiratsgut
+            ausgezahlt ist, das wir durch die Aufmerksamkeit auf unsere jungen Liebenden verdienen
+            sollen.",0,199,character_speech,1,2,,Friederike,#friederike,51.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+119,119,GerDracor/goethe-die-wette.xml,Dorn.,0,5,stage_direction,1,3,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+120,120,GerDracor/goethe-die-wette.xml,Förster.,6,14,stage_direction,1,3,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+121,121,GerDracor/goethe-die-wette.xml,Die Vorigen,15,26,stage_direction,1,3,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+122,122,GerDracor/goethe-die-wette.xml,"Willkommen, ihr Leute!",0,22,character_speech,1,3,,Dorn,#dorn,52.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+123,123,GerDracor/goethe-die-wette.xml,"Sprecht, was ist vorgefallen?",23,52,character_speech,1,3,,Dorn,#dorn,52.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+124,124,GerDracor/goethe-die-wette.xml,"Nichts Besonderes, gnädger Herr!",0,32,character_speech,1,3,,Johann,#johann,53.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+125,125,GerDracor/goethe-die-wette.xml,"Nur ist mein Gefangener bald bewegt und aufbrausend,
+            bald nachdenkend und in sich gekehrt.",33,135,character_speech,1,3,,Johann,#johann,53.0,MALE,being moved,SS,,1812.0,being moved,being moved
+126,126,GerDracor/goethe-die-wette.xml,"Jetzt bleibt er still, sinnt, 
+            scheint sich zu entschließen, eilt gegen die verschlossene Türe; jetzt kehrt er wieder
+            zurück und verschmäht den Gedanken.",136,313,character_speech,1,3,,Johann,#johann,53.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+127,127,GerDracor/goethe-die-wette.xml,"Förster, hörst du?",0,18,character_speech,1,3,,Dorn,#dorn,54.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+128,128,GerDracor/goethe-die-wette.xml,Nur weiter!,0,11,character_speech,1,3,,Förster,#foerster,55.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+129,129,GerDracor/goethe-die-wette.xml,"Erzählt uns, Johann, wies ging, seit ich abreiste!",0,50,character_speech,1,3,,Dorn,#dorn,56.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+130,130,GerDracor/goethe-die-wette.xml,"Ach Gott, wie sollt ich mir das alles merken, die hundertfältigen Sachen, die ich
+            gesehen, gehört – ich weiß nicht, wo mir der Kopf steht!",0,150,character_speech,1,3,,Johann,#johann,57.0,MALE,being moved,SS,,1812.0,being moved,being moved
+131,131,GerDracor/goethe-die-wette.xml,Wenn das lieben heißt!,151,173,character_speech,1,3,,Johann,#johann,57.0,MALE,love,SS,,1812.0,positive,emotions of affection
+132,132,GerDracor/goethe-die-wette.xml,"wenn das
+            bei vornehmen Leuten Gebrauch ist, so gelobe ich, der arme Johann immer und ewig zu
+            bleiben und meiner Friederike ganz einfach zu beteuern, daß ich sie lieb habe.",174,369,character_speech,1,3,,Johann,#johann,57.0,MALE,love,SS,,1812.0,positive,emotions of affection
+133,133,GerDracor/goethe-die-wette.xml,"Nun, was gabs denn für Wunderdinge?",0,35,character_speech,1,3,,Dorn,#dorn,58.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+134,134,GerDracor/goethe-die-wette.xml,Erkläre dich.,0,13,character_speech,1,3,,Förster,#foerster,59.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+135,135,GerDracor/goethe-die-wette.xml,"Ich will erzählen, so gut ichs vermag.",0,38,character_speech,1,3,,Johann,#johann,60.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+136,136,GerDracor/goethe-die-wette.xml,"Als Sie abreisten, versperrte sich der junge
+            Herr, las und schrieb und beschäftigte sich.",39,140,character_speech,1,3,,Johann,#johann,60.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+137,137,GerDracor/goethe-die-wette.xml,"Nur fand ich ihn sehr gespannt; er ging in
+            der Gegend spazieren, kam spät nach Hause, war fröhlich, und so zog sichs einige Tage.",141,282,character_speech,1,3,,Johann,#johann,60.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+138,138,GerDracor/goethe-die-wette.xml,Nun ging er auf die Jagd und wechselte mit Beschäftigungen.,295,354,character_speech,1,3,,Johann,#johann,60.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+139,139,GerDracor/goethe-die-wette.xml,"Da konnt ich leicht
+            bemerken, daß er bei keiner verblieb.",355,424,character_speech,1,3,,Johann,#johann,60.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+140,140,GerDracor/goethe-die-wette.xml,"Er schritt im Zimmer auf und ab, warf ein Buch weg
+            und holte das andere, und wenn er schmälte, so mochte es wohl manchmal mit Grund
+            geschehen.",425,591,character_speech,1,3,,Johann,#johann,60.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+141,141,GerDracor/goethe-die-wette.xml,"Aber gewiß und wahrhaftig, oft ohne Grund; er wollte nur den heftigen
+            Empfindungen Raum schaffen, die in ihm vorgingen.",592,723,character_speech,1,3,,Johann,#johann,60.0,MALE,being moved,SS,,1812.0,being moved,being moved
+142,142,GerDracor/goethe-die-wette.xml,Schon gut.,0,10,character_speech,1,3,,Dorn,#dorn,61.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+143,143,GerDracor/goethe-die-wette.xml,So verstrichen die Tage.,0,24,character_speech,1,3,,Johann,#johann,62.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+144,144,GerDracor/goethe-die-wette.xml,"Vom Spaziergang sehnt er sich nach dem Schlosse, er kürzte die
+            Jagd ab und kam nach Hause, aber auch da zauderte er auf dem Wege, ward immer
+            unbestimmter und sprach mit sich allein; er machte Gesichter, die mich erschreckten; nun
+            stand er starr,  nun schien er im Zweifel; nähert sich dem gefährlichen
+            Vorhang, schnell kehrt er wieder zurück, über sich selbst erzürnt; Ungeduld und
+            Ungewißheit foltern ihn, er wird kleinmütig, und ich besorge Wahnsinn.",25,537,character_speech,1,3,,Johann,#johann,62.0,MALE,being moved,SS,,1812.0,being moved,being moved
+145,145,GerDracor/goethe-die-wette.xml,"Genug, genug!",0,13,character_speech,1,3,,Dorn,#dorn,63.0,MALE,anger,SS,,1812.0,negative,emotions of rejection
+146,146,GerDracor/goethe-die-wette.xml,Was!,0,4,character_speech,1,3,,Johann,#johann,64.0,MALE,being moved,SS,,1812.0,being moved,being moved
+147,147,GerDracor/goethe-die-wette.xml,soll ich nicht mehr erzählen?,5,34,character_speech,1,3,,Johann,#johann,64.0,MALE,anger,SS,,1812.0,negative,emotions of rejection
+148,148,GerDracor/goethe-die-wette.xml,Für diesmal bedarfs nicht mehr.,0,31,character_speech,1,3,,Dorn,#dorn,65.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+149,149,GerDracor/goethe-die-wette.xml,"Gehe und besorge den Jüngling und melde ferner, was
+            vorgeht.",32,104,character_speech,1,3,,Dorn,#dorn,65.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+150,150,GerDracor/goethe-die-wette.xml,Ich hätte noch gar viel zu sagen.,0,33,character_speech,1,3,,Johann,#johann,66.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+151,151,GerDracor/goethe-die-wette.xml,"Ein andermal, gehe!",0,19,character_speech,1,3,,Dorn,#dorn,67.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+152,152,GerDracor/goethe-die-wette.xml,Wenns nicht anders ist.,0,23,character_speech,1,3,,Johann,#johann,68.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+153,153,GerDracor/goethe-die-wette.xml,"Ich kam soeben recht in Zug und glaube, daß, wenn ich solche
+            Dinge oft sehe und oft erzähle, so könnte ich selbst so wunderlich werden.",24,171,character_speech,1,3,,Johann,#johann,68.0,MALE,being moved,SS,,1812.0,being moved,being moved
+154,154,GerDracor/goethe-die-wette.xml,"Was meinst
+            du, Friederike?",172,210,character_speech,1,3,,Johann,#johann,68.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+155,155,GerDracor/goethe-die-wette.xml,Wir wollens beim alten belassen.,0,32,character_speech,1,3,,Friederike,#friederike,69.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+156,156,GerDracor/goethe-die-wette.xml,Topp!,0,5,character_speech,1,3,,Johann,#johann,70.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+157,157,GerDracor/goethe-die-wette.xml,"Er reicht ihr die Hand und zieht sie, indem er abgeht, in den Hintergrund,
+              wo sie stehen bleibt.",0,110,stage_direction,1,3,inner_speech,,#johann,70.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+158,158,GerDracor/goethe-die-wette.xml,"Nun, Förster, was sagen Sie zu diesem Anfang?",0,45,character_speech,1,3,,Dorn,#dorn,71.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+159,159,GerDracor/goethe-die-wette.xml,Nicht viel.,0,11,character_speech,1,3,,Förster,#foerster,72.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+160,160,GerDracor/goethe-die-wette.xml,Es läßt sich nichts Bestimmtes sagen.,12,49,character_speech,1,3,,Förster,#foerster,72.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+161,161,GerDracor/goethe-die-wette.xml,"Verzeihen Sie, mein Freund, wir sind dem Ziele näher, als Sie glauben.",0,70,character_speech,1,3,,Dorn,#dorn,73.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+162,162,GerDracor/goethe-die-wette.xml,"Eduard scheint
+            seinen Stolz gemäßigt zu haben, das Gefühl bemeistert sich seiner, es wird bald die
+            Oberhand behalten.",71,212,character_speech,1,3,,Dorn,#dorn,73.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+163,163,GerDracor/goethe-die-wette.xml,Woraus schließen Sie das?,0,25,character_speech,1,3,,Förster,#foerster,74.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+164,164,GerDracor/goethe-die-wette.xml,"Aus allem, was Johann erzählt, aus dem Einzelnen wie dem Ganzen.",0,64,character_speech,1,3,,Dorn,#dorn,75.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+165,165,GerDracor/goethe-die-wette.xml,"Er wird gewiß derjenige nicht sein, der den ersten Schritt tut; ich kenne ihn zu gut,
+            er ist zu eitel dazu.",0,119,character_speech,1,3,,Förster,#foerster,76.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+166,166,GerDracor/goethe-die-wette.xml,"Er hat einen zu hohen Begriff von seinem Wert und gibt nicht
+            nach.",120,198,character_speech,1,3,,Förster,#foerster,76.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+167,167,GerDracor/goethe-die-wette.xml,"Das wäre mir leid; er müßte meine Tochter wenig lieben, wenig Seele und lebhaftes
+            Gefühl, keine Energie haben, um länger in diesem peinlichen Zustande zu verharren.",0,176,character_speech,1,3,,Dorn,#dorn,77.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+168,168,GerDracor/goethe-die-wette.xml,"Und Leonore, könnte sie nicht gleichfalls?",0,42,character_speech,1,3,,Förster,#foerster,78.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+169,169,GerDracor/goethe-die-wette.xml,–,43,44,character_speech,1,3,,Förster,#foerster,78.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+170,170,GerDracor/goethe-die-wette.xml,"Nein, mein Bester!",0,18,character_speech,1,3,,Dorn,#dorn,79.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+171,171,GerDracor/goethe-die-wette.xml,"Die Frauen haben eine gewisse Zurückhaltung aus Bescheidenheit, die
+            ihre größte Zierde ist; sie hindert sie, ihre Gefühle frei zu äußern, und diese werden
+            sie am wenigsten zutage legen, wenn Eitelkeit im Spiel ist, wie bei dieser Wette.",19,279,character_speech,1,3,,Dorn,#dorn,79.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+172,172,GerDracor/goethe-die-wette.xml,"Sie
+            können das Äußerste dulden, ehe sie diesen Stolz beseitigen; sie finden es unter ihrer
+            Würde, einem Manne zu zeigen, wie sehr sie an ihm hängen, ihn zärtlich lieben; sie
+            fühlen im verborgenen ebenso lebhaft wie wir, vielleicht anhaltender, aber sie sind
+            ihrer Neigung mehr Meister.",280,613,character_speech,1,3,,Dorn,#dorn,79.0,MALE,love,SS,,1812.0,positive,emotions of affection
+173,173,GerDracor/goethe-die-wette.xml,"Du kannst recht haben; aber laß uns erst erfahren, was Leonore macht, dann können wir
+            in unsern Vermutungen schon sicherer fortschreiten.",0,149,character_speech,1,3,,Förster,#foerster,80.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+174,174,GerDracor/goethe-die-wette.xml,"Sprich also, Friederike.",0,24,character_speech,1,3,,Dorn,#dorn,81.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+175,175,GerDracor/goethe-die-wette.xml,"Gnädige Herren, ich fürchte sehr für die Gesundheit der Fräulein.",0,65,character_speech,1,3,,Friederike,#friederike,82.0,FEMALE,fear,SS,,1812.0,negative,emotions of anxiety
+176,176,GerDracor/goethe-die-wette.xml,rasch,0,5,stage_direction,1,3,speech_part,,#dorn,83.0,MALE,being moved,SS,,1812.0,being moved,being moved
+177,177,GerDracor/goethe-die-wette.xml,Ist sie krank?,0,14,character_speech,1,3,,Dorn,#dorn,83.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+178,178,GerDracor/goethe-die-wette.xml,"Das nicht gerade, aber sie kann weder essen noch schlafen, sie schleicht herum wie ein
+            Halbgespenst, verschmäht ihre Lieblingsbeschäftigungen, rührt die Gitarre nicht an, auf
+            der sie Eduard sonst akkompagnierte, singt auch nicht wie sonst ein freies Liedchen vor
+            sich hin.",0,308,character_speech,1,3,,Friederike,#friederike,84.0,FEMALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+179,179,GerDracor/goethe-die-wette.xml,Spricht sie was?,0,16,character_speech,1,3,,Dorn,#dorn,85.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+180,180,GerDracor/goethe-die-wette.xml,Nur wenig Worte.,0,16,character_speech,1,3,,Friederike,#friederike,86.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+181,181,GerDracor/goethe-die-wette.xml,Was sagt sie denn?,0,18,character_speech,1,3,,Dorn,#dorn,87.0,MALE,being moved,SS,,1812.0,being moved,being moved
+182,182,GerDracor/goethe-die-wette.xml,Fast gar nichts.,0,16,character_speech,1,3,,Friederike,#friederike,88.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+183,183,GerDracor/goethe-die-wette.xml,"Manchmal fragt sie nach Johann, dabei denkt sie aber immer an
+            Eduarden, merk ich wohl.",17,115,character_speech,1,3,,Friederike,#friederike,88.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+184,184,GerDracor/goethe-die-wette.xml,War das die ganzen acht Tage so?,0,32,character_speech,1,3,,Dorn,#dorn,89.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+185,185,GerDracor/goethe-die-wette.xml,O nein!,0,7,character_speech,1,3,,Friederike,#friederike,90.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+186,186,GerDracor/goethe-die-wette.xml,"Anfangs war sie fröhlich, mehr als sonst, beschäftigte sich mit häuslichen
+            Arbeiten, mit Musik  und dergleichen; sie entbehrte den Geliebten nicht,
+            sie freute sich, ihm beweisen zu können, wie stark sie sei.",8,239,character_speech,1,3,,Friederike,#friederike,90.0,FEMALE,joy,SS,,1812.0,positive,emotions of pleasure
+187,187,GerDracor/goethe-die-wette.xml,"Siehst du, Förster, was ich sagte?",0,34,character_speech,1,3,,Dorn,#dorn,91.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+188,188,GerDracor/goethe-die-wette.xml,Hier bestimmte sie der weibliche Stolz.,35,74,character_speech,1,3,,Dorn,#dorn,91.0,MALE,love,SS,,1812.0,positive,emotions of affection
+189,189,GerDracor/goethe-die-wette.xml,"Aber wie kommts, daß sie anfangs die Beschäftigung liebte und sie jetzt
+            vernachlässigt?",0,99,character_speech,1,3,,Förster,#foerster,92.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+190,190,GerDracor/goethe-die-wette.xml,Auch dies ist mir erklärbar.,0,28,character_speech,1,3,,Dorn,#dorn,93.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+191,191,GerDracor/goethe-die-wette.xml,Frauen sind zur Arbeitsamkeit gewöhnt.,29,67,character_speech,1,3,,Dorn,#dorn,93.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+192,192,GerDracor/goethe-die-wette.xml,"Mit dem Bewußtsein,
+            geliebt zu werden, scheuen sie die Einsamkeit nicht, ein einziger froher Augenblick der
+            Gegenwart gewährt ihnen reichlichen Trost; nur der gänzliche Abgang eines Mitgefühls
+            wird ihnen schwer und zehrt an ihnen; dann versinken sie in einen grämlichen leidenden
+            Zustand, der, je mehr sie ihn zu verbergen trachten, desto mehr an ihrer Existenz nagt.",68,483,character_speech,1,3,,Dorn,#dorn,93.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+193,193,GerDracor/goethe-die-wette.xml,Sie verblühen.,496,510,character_speech,1,3,,Dorn,#dorn,93.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+194,194,GerDracor/goethe-die-wette.xml,"Richtig, so wird es auch bei Fräulein Leonoren sein.",0,52,character_speech,1,3,,Friederike,#friederike,94.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+195,195,GerDracor/goethe-die-wette.xml,"Denn daß sie Eduarden liebt, davon
+            habe ich viele Beweise.",53,123,character_speech,1,3,,Friederike,#friederike,94.0,FEMALE,love,SS,,1812.0,positive,emotions of affection
+196,196,GerDracor/goethe-die-wette.xml,"Oft tritt sie wie zufällig an die Türe und zaudert schamhaft,
+            sich wieder zu entfernen.",124,223,character_speech,1,3,,Friederike,#friederike,94.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+197,197,GerDracor/goethe-die-wette.xml,"Ihre Augen sind voll Tränen, sie scheint ihn zu behorchen,
+            seine Schritte, seine Gedanken erraten zu wollen; sie kämpft zwischen Liebe und
+            Festigkeit.",224,398,character_speech,1,3,,Friederike,#friederike,94.0,FEMALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+198,198,GerDracor/goethe-die-wette.xml,Aber warum fragt sie dich nicht um ihn?,0,39,character_speech,1,3,,Förster,#foerster,95.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+199,199,GerDracor/goethe-die-wette.xml,"Sagte nicht Johann, Eduard spreche sehr oft mit
+            Heftigkeit von Leonoren?",40,124,character_speech,1,3,,Förster,#foerster,95.0,MALE,being moved,SS,,1812.0,being moved,being moved
+200,200,GerDracor/goethe-die-wette.xml,Er liebt sie folglich mehr als sie ihn.,125,164,character_speech,1,3,,Förster,#foerster,95.0,MALE,love,SS,,1812.0,positive,emotions of affection
+201,201,GerDracor/goethe-die-wette.xml,"Da sieht man, daß du die Frauen wenig kennst.",0,45,character_speech,1,3,,Dorn,#dorn,96.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+202,202,GerDracor/goethe-die-wette.xml,"Wann nehmen sie Vertraute zu ihren
+            Gefühlen?",46,102,character_speech,1,3,,Dorn,#dorn,96.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+203,203,GerDracor/goethe-die-wette.xml,"Sie wachen sorgfältig darüber und suchen dieselben vor allen Augen zu
+            verbergen; über alles fürchten sie den eiteln Triumph der anmaßlichen männlichen
+            Herrschkraft.",103,291,character_speech,1,3,,Dorn,#dorn,96.0,MALE,fear,SS,,1812.0,negative,emotions of anxiety
+204,204,GerDracor/goethe-die-wette.xml,"Allem wollen sie lieber entsagen, als sich verraten.",292,344,character_speech,1,3,,Dorn,#dorn,96.0,MALE,fear,SS,,1812.0,negative,emotions of anxiety
+205,205,GerDracor/goethe-die-wette.xml,"Im stillen können sie
+            für sich allein lieben, und um so heftiger sind ihre Gefühle und um so dauerhafter.",345,462,character_speech,1,3,,Dorn,#dorn,96.0,MALE,love,SS,,1812.0,positive,emotions of affection
+206,206,GerDracor/goethe-die-wette.xml,"Die
+            Männer hingegen sind  rascher, keine Bescheidenheit verwehrt ihnen, laut zu
+            denken; darum verbarg auch Eduard sich vor Johann nicht.",463,623,character_speech,1,3,,Dorn,#dorn,96.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+207,207,GerDracor/goethe-die-wette.xml,"Wollen Sie noch einen Beweis, daß sie ihn liebt?",0,48,character_speech,1,3,,Friederike,#friederike,97.0,FEMALE,love,SS,,1812.0,positive,emotions of affection
+208,208,GerDracor/goethe-die-wette.xml,"Sie kennen das hübsche
+            Gartenplätzchen, das Eduard zu Eleonorens Namenstag ausschmückte.",49,149,character_speech,1,3,,Friederike,#friederike,97.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+209,209,GerDracor/goethe-die-wette.xml,"Dieses besucht sie
+            täglich.",150,189,character_speech,1,3,,Friederike,#friederike,97.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+210,210,GerDracor/goethe-die-wette.xml,"Stillschweigend, die Augen an den Boden geheftet, bleibt sie stundenlang dort,
+            und jede Kleinigkeit, die er ihr schenkte, liegt immer auf ihrem Tisch.",190,352,character_speech,1,3,,Friederike,#friederike,97.0,FEMALE,being moved,SS,,1812.0,being moved,being moved
+211,211,GerDracor/goethe-die-wette.xml,"Oft scheint sie
+            in einiger Unruhe, die sich in Seufzern äußert.",353,428,character_speech,1,3,,Friederike,#friederike,97.0,FEMALE,being moved,SS,,1812.0,being moved,being moved
+212,212,GerDracor/goethe-die-wette.xml,Ja!,429,432,character_speech,1,3,,Friederike,#friederike,97.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+213,213,GerDracor/goethe-die-wette.xml,"sie ist aus Liebe krank, ich
+            verharre dabei, und wird sie nicht aus dieser Lage befreit –",433,534,character_speech,1,3,,Friederike,#friederike,97.0,FEMALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+214,214,GerDracor/goethe-die-wette.xml,"Laß es gut sein, Friederike!",0,28,character_speech,1,3,,Dorn,#dorn,98.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+215,215,GerDracor/goethe-die-wette.xml,Es wird sich alles zur rechten Zeit auflösen.,29,74,character_speech,1,3,,Dorn,#dorn,98.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+216,216,GerDracor/goethe-die-wette.xml,"Wär ich an der Stelle, es wäre schon lange aufgelöst.",0,53,character_speech,1,3,,Friederike,#friederike,99.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+217,217,GerDracor/goethe-die-wette.xml,Ab.,0,3,stage_direction,1,3,inner_speech,,#friederike,99.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+218,218,GerDracor/goethe-die-wette.xml,Dorn.,0,5,stage_direction,1,4,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+219,219,GerDracor/goethe-die-wette.xml,Förster,6,13,stage_direction,1,4,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+220,220,GerDracor/goethe-die-wette.xml,"Ich bin zufrieden, alles geht nach Wunsch.",0,42,character_speech,1,4,,Dorn,#dorn,100.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+221,221,GerDracor/goethe-die-wette.xml,Aber wenn die Tochter erkrankt?,0,31,character_speech,1,4,,Förster,#foerster,101.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+222,222,GerDracor/goethe-die-wette.xml,"Glaub es nicht, es wird nicht lange mehr währen.",0,48,character_speech,1,4,,Dorn,#dorn,102.0,MALE,despair,SS,,1812.0,negative,emotions of anxiety
+223,223,GerDracor/goethe-die-wette.xml,Das meinst du?,0,14,character_speech,1,4,,Förster,#foerster,103.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+224,224,GerDracor/goethe-die-wette.xml,"Sie werden nachgeben, sich sehen, sich lieben und geprüfter lieben.",0,67,character_speech,1,4,,Dorn,#dorn,104.0,MALE,love,SS,,1812.0,positive,emotions of affection
+225,225,GerDracor/goethe-die-wette.xml,"Ich möchte doch wissen, was dich so heiter stimmt!",0,50,character_speech,1,4,,Förster,#foerster,105.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+226,226,GerDracor/goethe-die-wette.xml,Daß ich mein Werk vollendet sehe.,0,33,character_speech,1,4,,Dorn,#dorn,106.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+227,227,GerDracor/goethe-die-wette.xml,"Sie sind beide, wo ich sie wollte, wie ich sie
+            wollte.",34,100,character_speech,1,4,,Dorn,#dorn,106.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+228,228,GerDracor/goethe-die-wette.xml,"Ihre wenigen Reden, alle ihre Handlungen sind ihrer Lage, ihren Gefühlen
+            angemessen.",101,197,character_speech,1,4,,Dorn,#dorn,106.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+229,229,GerDracor/goethe-die-wette.xml,Wie das?,0,8,character_speech,1,4,,Förster,#foerster,107.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+230,230,GerDracor/goethe-die-wette.xml,"Eduard, ein feuriger junger Mensch, zeigt sich noch unmutig, er kämpft zwischen
+            Eitelkeit und Liebe, allein die Liebe wird siegen.",0,142,character_speech,1,4,,Dorn,#dorn,108.0,MALE,love,SS,,1812.0,positive,emotions of affection
+231,231,GerDracor/goethe-die-wette.xml,Er fühlt die Pein des Alleinseins.,143,177,character_speech,1,4,,Dorn,#dorn,108.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+232,232,GerDracor/goethe-die-wette.xml,"Die Gestalt, die Reize Eleonorens stellen sich lebhaft ihm vor die Augen, er duldet es
+            nicht länger.",190,302,character_speech,1,4,,Dorn,#dorn,108.0,MALE,being moved,SS,,1812.0,being moved,being moved
+233,233,GerDracor/goethe-die-wette.xml,"Keiner Zerstreuung mehr fähig, wird er die Pforte öffnen, er wird als
+            überwunden sich erklären.",303,410,character_speech,1,4,,Dorn,#dorn,108.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+234,234,GerDracor/goethe-die-wette.xml,vor sich,0,8,stage_direction,1,4,speech_part,,#foerster,109.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+235,235,GerDracor/goethe-die-wette.xml,Dies scheint mir noch nicht ganz gewiß.,0,39,character_speech,1,4,,Förster,#foerster,109.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+236,236,GerDracor/goethe-die-wette.xml,"Leonore, ein edles bescheidenes Mädchen, nur etwas launig, dachte anfangs, durch
+            Beschäftigung seiner zu vergessen, standhaft die Probezeit auszuharren; allein es
+            verstrich ein Tag um den andern: von seiten ihres Geliebten mußte sie Kälte besorgen,
+            fragen wollte sie nicht, sie blieb also in sich gekehrt, der bangen Ungewißheit
+            überlassen.",0,388,character_speech,1,4,,Dorn,#dorn,110.0,MALE,fear,SS,,1812.0,negative,emotions of anxiety
+237,237,GerDracor/goethe-die-wette.xml,"Die Leere, den Abgang zärtlichen Mitgefühls empfand sie lebhaft; bei ihr ist
+            kein Mittel vorhanden, wie sie den ersten Schritt beginne, Zurückhaltung verwehrt es
+            ihr, und sie wählt zu leiden; daher entstehen Seufzer, Tränen, Mangel an Schlaf und
+            Eßlust; sie denkt, sich durch Betrachtung lebloser Sachen zu entschädigen, die den
+            einzigen Gegenstand ihrer Sehnsucht zurückrufen.",389,814,character_speech,1,4,,Dorn,#dorn,110.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+238,238,GerDracor/goethe-die-wette.xml,"Leonore liebt Eduarden vielleicht noch
+            zärtlicher als vorher, sie erwartet nur den Augenblick, um in ihre vorigen Rechte
+            zurückzutreten.",815,975,character_speech,1,4,,Dorn,#dorn,110.0,MALE,love,SS,,1812.0,positive,emotions of affection
+239,239,GerDracor/goethe-die-wette.xml,Das wird sich zeigen!,0,21,character_speech,1,4,,Förster,#foerster,111.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+240,240,GerDracor/goethe-die-wette.xml,"Nun, so laßt uns beide behorchen.",0,33,character_speech,1,4,,Dorn,#dorn,112.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+241,241,GerDracor/goethe-die-wette.xml,"An der Decke jener Zimmer ist eine geheime Öffnung,
+            laßt uns dahin gehen und uns selbst überzeugen.",34,145,character_speech,1,4,,Dorn,#dorn,112.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+242,242,GerDracor/goethe-die-wette.xml,Gehen ab.,0,9,stage_direction,1,4,inner_speech,,#dorn,112.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+243,243,GerDracor/goethe-die-wette.xml,"Geteilte Zimmer, wohlmöbliert, mit allerlei Gegenständen zur Unterhaltung versehen,
+          als: Pulte, Bücher, Instrumente und dergleichen.",0,142,stage_direction,1,5,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+244,244,GerDracor/goethe-die-wette.xml,"Tür, Gitter und Vorhang wie oben
+          beschrieben.",143,198,stage_direction,1,5,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+245,245,GerDracor/goethe-die-wette.xml,"Eleonore an der rechten Seite, Eduard an der linken.",0,52,stage_direction,1,5,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+246,246,GerDracor/goethe-die-wette.xml,Dorn und Förster in der Höhe.,53,82,stage_direction,1,5,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+247,247,GerDracor/goethe-die-wette.xml,Zuletzt Johann und Friederike.,93,123,stage_direction,1,5,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+248,248,GerDracor/goethe-die-wette.xml,"Eduard geht schnell auf und ab, spricht heftig mit sich selbst, sieht bald verwirrt,
+          bald unentschlossen aus.",0,119,stage_direction,1,5,pre_speech,,,,,being moved,SS,,1812.0,being moved,being moved
+249,249,GerDracor/goethe-die-wette.xml,"Leonore traurig, eine Arbeit in der Hand, blickt halb seufzend
+          nach der Tür, dann besieht sie eine Brieftasche mit Eduards Chiffre und benetzt sie mit
+          heißen Tränen.",120,305,stage_direction,1,5,pre_speech,,,,,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+250,250,GerDracor/goethe-die-wette.xml,"Nein, ich gehe nicht aus!",0,25,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+251,251,GerDracor/goethe-die-wette.xml,"Wo soll ich hin, was anfangen?",26,56,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+252,252,GerDracor/goethe-die-wette.xml,"Nichts freut mich, alles ist
+            mir zuwider, sie mangelt mir!",57,127,character_speech,1,5,,Eduard,#eduard,113.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+253,253,GerDracor/goethe-die-wette.xml,"Leonore, du, das edelste, wärmste, liebevollste Geschöpf!",128,185,character_speech,1,5,,Eduard,#eduard,113.0,MALE,love,SS,,1812.0,positive,emotions of affection
+254,254,GerDracor/goethe-die-wette.xml,"Wo sind die frohen Augenblicke, die ich bei ihr zubrachte?",198,256,character_speech,1,5,,Eduard,#eduard,113.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+255,255,GerDracor/goethe-die-wette.xml,"wo sie mich durch ihre
+            herrliche Gestalt, durch ihr sanftes Wesen ankettete?",257,345,character_speech,1,5,,Eduard,#eduard,113.0,MALE,love,SS,,1812.0,positive,emotions of affection
+256,256,GerDracor/goethe-die-wette.xml,"Sie war mein erster und letzter
+            Gedanke, ihre Teilnahme, ihre Zärtlichkeit erhöheten mir jedes Vergnügen, bei ihr fand
+            ich Erholung nach der Arbeit; jetzt bin ich unmutig!",346,541,character_speech,1,5,,Eduard,#eduard,113.0,MALE,love,SS,,1812.0,positive,emotions of affection
+257,257,GerDracor/goethe-die-wette.xml,"Wie oft erheiterte sie trübe
+            Stunden durch lieblichen Gesang, und jedes Wort, das nach Liebe lautete, vereinigte sich
+            wohltätig mit meinem Herzen.",542,712,character_speech,1,5,,Eduard,#eduard,113.0,MALE,love,SS,,1812.0,positive,emotions of affection
+258,258,GerDracor/goethe-die-wette.xml,Welcher Wonne war ich fähig!,713,741,character_speech,1,5,,Eduard,#eduard,113.0,MALE,"admiration, reverence",SS,,1812.0,positive,emotions of affection
+259,259,GerDracor/goethe-die-wette.xml,"Selbst ihre augenblicklichen
+            Launen sind nicht so arg, als ich ungeduldig mir einbildete.",742,843,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+260,260,GerDracor/goethe-die-wette.xml,"Warum war ich so rasch, wie
+            konnte ich aus Eitelkeit in die Probe willigen!",844,931,character_speech,1,5,,Eduard,#eduard,113.0,MALE,being moved,SS,,1812.0,being moved,being moved
+261,261,GerDracor/goethe-die-wette.xml,"– Nun, wer wird nachgeben?",932,958,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+262,262,GerDracor/goethe-die-wette.xml,Sie nicht!,959,969,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+263,263,GerDracor/goethe-die-wette.xml,"–
+            Ich?",970,988,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+264,264,GerDracor/goethe-die-wette.xml,– Ja!,989,994,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+265,265,GerDracor/goethe-die-wette.xml,mit Heiterkeit,0,14,stage_direction,1,5,inner_speech,,#eduard,113.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+266,266,GerDracor/goethe-die-wette.xml, und warum zögre ich?,0,21,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+267,267,GerDracor/goethe-die-wette.xml,"Die Türe geöffnet, zu ihr,
+            der Göttlichen, an ihren Füßen ewige Liebe beschworen, gestehend, daß ich ohne sie nicht
+            leben kann!",22,173,character_speech,1,5,,Eduard,#eduard,113.0,MALE,love,SS,,1812.0,positive,emotions of affection
+268,268,GerDracor/goethe-die-wette.xml,– Doch was wird man sagen?,174,200,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+269,269,GerDracor/goethe-die-wette.xml,Dich für feig und schwach halten?,201,234,character_speech,1,5,,Eduard,#eduard,113.0,MALE,anger,SS,,1812.0,negative,emotions of rejection
+270,270,GerDracor/goethe-die-wette.xml,"Deine Freunde
+            werden sich über dich lustig machen – was tuts!",235,308,character_speech,1,5,,Eduard,#eduard,113.0,MALE,Schadenfreude,SS,,1812.0,positive,emotions of pleasure
+271,271,GerDracor/goethe-die-wette.xml,"– Aber Leonore, du selbst könntest
+            frohlocken, mich für überwunden halten, herrschen wollen,",309,413,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+272,272,GerDracor/goethe-die-wette.xml," und dann wehe
+            mir, wenn ich will Mann sein!",0,56,character_speech,1,5,,Eduard,#eduard,113.0,MALE,anger,SS,,1812.0,negative,emotions of rejection
+273,273,GerDracor/goethe-die-wette.xml,"Ich kann es wohl, warum bleib ich müßig?",57,97,character_speech,1,5,,Eduard,#eduard,113.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+274,274,GerDracor/goethe-die-wette.xml,"hier ist noch
+            Arbeit genug!",98,137,character_speech,1,5,,Eduard,#eduard,113.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+275,275,GerDracor/goethe-die-wette.xml,"Er setzt sich an den Schreibtisch, nimmt die Feder, doch statt zu schreiben, vertieft
+          er sich in Gedanken.",0,116,stage_direction,1,5,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+276,276,GerDracor/goethe-die-wette.xml,"Schon wieder ein Tag verflossen, und Eduard erscheint nicht.",0,60,character_speech,1,5,,Leonore,#leonore,114.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+277,277,GerDracor/goethe-die-wette.xml,O welche Pein!,61,75,character_speech,1,5,,Leonore,#leonore,114.0,FEMALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+278,278,GerDracor/goethe-die-wette.xml,"Er hat mich
+            vergessen, und er kann mich nicht so zärtlich lieben, als ich glaubte; fühlte er nur die
+            Hälfte meiner Qualen, er würde eilen, die Wette zu verlieren, ich wäre ihm reiche
+            Entschädigung für die gekränkte Eitelkeit; und was ist dieses Gefühl im Vergleich mit
+            warmer Liebe, mit Glückseligkeit, die man nur in der Gegenliebe findet?",76,464,character_speech,1,5,,Leonore,#leonore,114.0,FEMALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+279,279,GerDracor/goethe-die-wette.xml,"Da vergehen die
+            Tage, die Stunden wie süße Träume; da fühlt ich mich glücklich, als nach geendigten
+            häuslichen Geschäften ich durch sein Gespräch erheitert wurde.",465,651,character_speech,1,5,,Leonore,#leonore,114.0,FEMALE,joy,SS,,1812.0,positive,emotions of pleasure
+280,280,GerDracor/goethe-die-wette.xml,"Grausamer Vater, wie
+            konntest du mich durch eine Probe so unglücklich machen!",652,741,character_speech,1,5,,Leonore,#leonore,114.0,FEMALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+281,281,GerDracor/goethe-die-wette.xml,"Wollt ich nicht lieber Eduards
+            Anmaßungen dulden?",742,803,character_speech,1,5,,Leonore,#leonore,114.0,FEMALE,anger,SS,,1812.0,negative,emotions of rejection
+282,282,GerDracor/goethe-die-wette.xml,Jetzt kann ich den ersten Schritt nicht tun.,804,848,character_speech,1,5,,Leonore,#leonore,114.0,FEMALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+283,283,GerDracor/goethe-die-wette.xml,"Mein Herz stimmt dafür,
+            aber die Bescheidenheit, der Mädchen Zierde, lehrt es, und ich muß gehorchen, dulden –
+            und wie lange noch!",849,1003,character_speech,1,5,,Leonore,#leonore,114.0,FEMALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+284,284,GerDracor/goethe-die-wette.xml,Sie läßt die Arbeit fallen und seufzt.,0,38,stage_direction,1,5,pre_speech,,,,,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+285,285,GerDracor/goethe-die-wette.xml,vom Pulte hastig aufstehend,0,27,stage_direction,1,5,speech_part,,#eduard,115.0,MALE,being moved,SS,,1812.0,being moved,being moved
+286,286,GerDracor/goethe-die-wette.xml,Schreiben kann ich nicht!,0,25,character_speech,1,5,,Eduard,#eduard,115.0,MALE,suffering,SS,,1812.0,negative,emotions of suffering and empathy
+287,287,GerDracor/goethe-die-wette.xml,Wo Sinn und Mut holen!,26,48,character_speech,1,5,,Eduard,#eduard,115.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+288,288,GerDracor/goethe-die-wette.xml,"Wenn nur Johann käme, daß ich von
+            Leonoren sprechen könnte.",49,120,character_speech,1,5,,Eduard,#eduard,115.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+289,289,GerDracor/goethe-die-wette.xml,"Freilich versteht er wenig von meinem Gefühl, aber er meint es
+            doch gut, und Leonoren verehrt er wie eine Gottheit, wie jeder, der sie kennt.",121,274,character_speech,1,5,,Eduard,#eduard,115.0,MALE,"admiration, reverence",SS,,1812.0,positive,emotions of affection
+290,290,GerDracor/goethe-die-wette.xml,"Mir
+            scheint, ich höre ihn!",275,313,character_speech,1,5,,Eduard,#eduard,115.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+291,291,GerDracor/goethe-die-wette.xml,indem sie das Portefeuille mit Anmut ansieht und an ihr Herz drückt,0,67,stage_direction,1,5,speech_part,,#leonore,116.0,FEMALE,"admiration, reverence",SS,,1812.0,positive,emotions of affection
+292,292,GerDracor/goethe-die-wette.xml,"Ja, hier ist das Pfand deiner Liebe, hier dein Name, und du konntest mich vergessen,
+            Eduard?",0,104,character_speech,1,5,,Leonore,#leonore,116.0,FEMALE,being moved,SS,,1812.0,being moved,being moved
+293,293,GerDracor/goethe-die-wette.xml,"– – Was soll ich machen, wie ihn zurückführen?",105,151,character_speech,1,5,,Leonore,#leonore,116.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+294,294,GerDracor/goethe-die-wette.xml,"– Ach, herrlich!",152,168,character_speech,1,5,,Leonore,#leonore,116.0,FEMALE,joy,SS,,1812.0,positive,emotions of pleasure
+295,295,GerDracor/goethe-die-wette.xml,"vielleicht wirkt
+            es.",169,201,character_speech,1,5,,Leonore,#leonore,116.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+296,296,GerDracor/goethe-die-wette.xml,"Sie eilt, ihre Gitarre zu nehmen, setzt sich ganz nahe an die Wand, neben die Türe,
+          so daß man sie aus dem Gitter nicht sehen",0,135,stage_direction,1,5,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+297,297,GerDracor/goethe-die-wette.xml,"Ich habe dich wieder, ich bleibe dein!",0,38,character_speech,1,5,,Beide,#eduard #leonore,117.0,UNKNOWN,love,SS,,1812.0,positive,emotions of affection
+298,298,GerDracor/goethe-die-wette.xml,hereintretend,0,13,stage_direction,1,5,speech_part,,#dorn #foerster,118.0,UNKNOWN,no_annotation,SS,,1812.0,no_annotation,no_annotation
+299,299,GerDracor/goethe-die-wette.xml,Bravo!,0,6,character_speech,1,5,,Dorn und Förster,#dorn #foerster,118.0,UNKNOWN,joy,SS,,1812.0,positive,emotions of pleasure
+300,300,GerDracor/goethe-die-wette.xml,bravo!,7,13,character_speech,1,5,,Dorn und Förster,#dorn #foerster,118.0,UNKNOWN,joy,SS,,1812.0,positive,emotions of pleasure
+301,301,GerDracor/goethe-die-wette.xml,Leonore und Eduard stehen verzagt.,0,34,stage_direction,1,5,pre_speech,,,,,no_annotation,SS,,1812.0,no_annotation,no_annotation
+302,302,GerDracor/goethe-die-wette.xml,"Kinder, was hab ich gesagt!",0,27,character_speech,1,5,,Dorn,#dorn,119.0,MALE,anger,SS,,1812.0,negative,emotions of rejection
+303,303,GerDracor/goethe-die-wette.xml,"Eduard wars, der zu mir kam.",0,28,character_speech,1,5,,Leonore,#leonore,120.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+304,304,GerDracor/goethe-die-wette.xml,"Nein, sie war es, die sehen wollte, ob ich horchte.",0,51,character_speech,1,5,,Eduard,#eduard,121.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+305,305,GerDracor/goethe-die-wette.xml,Ihr habt beide recht.,0,21,character_speech,1,5,,Dorn,#dorn,122.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+306,306,GerDracor/goethe-die-wette.xml,Keines hat im Grund die Wette verloren.,22,61,character_speech,1,5,,Dorn,#dorn,122.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+307,307,GerDracor/goethe-die-wette.xml,"Gleiches Gefühl hat euch
+            beseelt, eure Handlungen waren einem Jüngling, einem Mädchen angemessen.",62,171,character_speech,1,5,,Dorn,#dorn,122.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+308,308,GerDracor/goethe-die-wette.xml,"Leonore suchte
+            dich durch Feinheit dahin zu bewegen, daß du den Vorhang zogst; lebhafter hast du dem
+            Gefühl angehört, Leonore wollte bloß im verborgenen dich prüfen.",172,361,character_speech,1,5,,Dorn,#dorn,122.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+309,309,GerDracor/goethe-die-wette.xml,"Ihr habt bewiesen, daß
+            bei edlen gefühlvollen Herzen gleiche Bewegungen vorgehn, nur äußern sich dieselben
+            verschieden und angemessen.",362,520,character_speech,1,5,,Dorn,#dorn,122.0,MALE,"admiration, reverence",SS,,1812.0,positive,emotions of affection
+310,310,GerDracor/goethe-die-wette.xml,Ihr seid euch wert!,521,540,character_speech,1,5,,Dorn,#dorn,122.0,MALE,"admiration, reverence",SS,,1812.0,positive,emotions of affection
+311,311,GerDracor/goethe-die-wette.xml,Liebt euch!,541,552,character_speech,1,5,,Dorn,#dorn,122.0,MALE,love,SS,,1812.0,positive,emotions of affection
+312,312,GerDracor/goethe-die-wette.xml,"und verzeiht euch kleine
+            Schwachheiten und trachtet, daß euch die gegenseitige Liebe alles ersetzt.",553,664,character_speech,1,5,,Dorn,#dorn,122.0,MALE,love,SS,,1812.0,positive,emotions of affection
+313,313,GerDracor/goethe-die-wette.xml,Dieser Tag soll uns heilig sein!,0,32,character_speech,1,5,,Leonore,#leonore,123.0,FEMALE,"admiration, reverence",SS,,1812.0,positive,emotions of affection
+314,314,GerDracor/goethe-die-wette.xml,Du hast uns wirklich lieben gelehrt.,0,36,character_speech,1,5,,Eduard,#eduard,124.0,MALE,love,SS,,1812.0,positive,emotions of affection
+315,315,GerDracor/goethe-die-wette.xml,Und ich habe heute mehr erfahren als durch mein ganzes Leben.,0,61,character_speech,1,5,,Förster,#foerster,125.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure
+316,316,GerDracor/goethe-die-wette.xml,Und ich auch.,0,13,character_speech,1,5,,Friederike,#friederike,126.0,FEMALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+317,317,GerDracor/goethe-die-wette.xml,Du!,0,3,character_speech,1,5,,Johann,#johann,127.0,MALE,abhorrence,SS,,1812.0,negative,emotions of rejection
+318,318,GerDracor/goethe-die-wette.xml,und was hast du denn erfahren?,4,34,character_speech,1,5,,Johann,#johann,127.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+319,319,GerDracor/goethe-die-wette.xml,Geh!,35,39,character_speech,1,5,,Johann,#johann,127.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+320,320,GerDracor/goethe-die-wette.xml,"das ist alles zu erhaben und zu studiert für
+            uns.",40,101,character_speech,1,5,,Johann,#johann,127.0,MALE,no_annotation,SS,,1812.0,no_annotation,no_annotation
+321,321,GerDracor/goethe-die-wette.xml,"Laß uns einfach lieben und glücklich; und dazu ist nichts Einfacheres in der Welt,
+            gnädiger Herr, als ein hübsches Heiratsgut.",102,240,character_speech,1,5,,Johann,#johann,127.0,MALE,love,SS,,1812.0,positive,emotions of affection
+322,322,GerDracor/goethe-die-wette.xml,Das sollt ihr haben!,0,20,character_speech,1,5,,Dorn,#dorn,128.0,MALE,joy,SS,,1812.0,positive,emotions of pleasure

@@ -1,0 +1,503 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,genre,subgenre,date,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/goethe-goetter-helden-und-wieland.xml,Merkurius am Ufer des Kozytus mit zwei Schatten.,0,48,stage_direction,1,1,pre_speech,,,,,no_annotation,K,,1773.0,no_annotation,no_annotation
+1,1,GerDracor/goethe-goetter-helden-und-wieland.xml,Charon!,0,7,character_speech,1,1,,MERKURIUS.,#merkurius,1.0,MALE,being moved,K,,1773.0,being moved,being moved
+2,2,GerDracor/goethe-goetter-helden-und-wieland.xml,"he, Charon!",8,19,character_speech,1,1,,MERKURIUS.,#merkurius,1.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+3,3,GerDracor/goethe-goetter-helden-und-wieland.xml,"Mach, daß du rüberkommst.",20,45,character_speech,1,1,,MERKURIUS.,#merkurius,1.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+4,4,GerDracor/goethe-goetter-helden-und-wieland.xml,Geschwind!,46,56,character_speech,1,1,,MERKURIUS.,#merkurius,1.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+5,5,GerDracor/goethe-goetter-helden-und-wieland.xml,"Meine Leutchen da beklagen
+            sich zum Erbarmen, wie ihnen das Gras die Füße netzt und sie den Schnuppen kriegen.",57,179,character_speech,1,1,,MERKURIUS.,#merkurius,1.0,MALE,compassion,K,,1773.0,negative,emotions of suffering and empathy
+6,6,GerDracor/goethe-goetter-helden-und-wieland.xml,Saubre Nation!,0,14,character_speech,1,1,,CHARON.,#charon,2.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+7,7,GerDracor/goethe-goetter-helden-und-wieland.xml,Woher?,15,21,character_speech,1,1,,CHARON.,#charon,2.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+8,8,GerDracor/goethe-goetter-helden-und-wieland.xml,Das ist einmal wieder von der rechten Rasse.,22,66,character_speech,1,1,,CHARON.,#charon,2.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+9,9,GerDracor/goethe-goetter-helden-und-wieland.xml,"Die könnten immer
+            leben.",67,103,character_speech,1,1,,CHARON.,#charon,2.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+10,10,GerDracor/goethe-goetter-helden-und-wieland.xml,Droben reden sie umgekehrt.,0,27,character_speech,1,1,,MERKURIUS.,#merkurius,3.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+11,11,GerDracor/goethe-goetter-helden-und-wieland.xml,"Doch mit allem dem war das Paar nicht unangesehen auf der
+            Oberwelt.",28,107,character_speech,1,1,,MERKURIUS.,#merkurius,3.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+12,12,GerDracor/goethe-goetter-helden-und-wieland.xml,"Dem Herrn Literator hier fehlt nichts als seine Perücke und seine Bücher und
+            der Megäre da nur Schminke und Dukaten.",108,236,character_speech,1,1,,MERKURIUS.,#merkurius,3.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+13,13,GerDracor/goethe-goetter-helden-und-wieland.xml,Wie steht's drüben?,237,256,character_speech,1,1,,MERKURIUS.,#merkurius,3.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+14,14,GerDracor/goethe-goetter-helden-und-wieland.xml,"Nimm dich in acht, sie haben dir's geschworen, wenn du hinüberkommst.",0,69,character_speech,1,1,,CHARON.,#charon,4.0,MALE,fear,K,,1773.0,negative,emotions of anxiety
+15,15,GerDracor/goethe-goetter-helden-und-wieland.xml,Wieso?,0,6,character_speech,1,1,,MERKURIUS.,#merkurius,5.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+16,16,GerDracor/goethe-goetter-helden-und-wieland.xml,"Admet und Alceste sind übel auf dich zu sprechen, am ärgsten Euripides.",0,71,character_speech,1,1,,CHARON.,#charon,6.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+17,17,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und Herkules
+            hat dich im Anfall seiner Hitze einen dummen Buben geheißen, der nie gescheit werden
+            würde.",72,200,character_speech,1,1,,CHARON.,#charon,6.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+18,18,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich versteh kein Wort davon.,0,28,character_speech,1,1,,MERKURIUS.,#merkurius,7.0,MALE,being moved,K,,1773.0,being moved,being moved
+19,19,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich auch nicht.,0,15,character_speech,1,1,,CHARON.,#charon,8.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+20,20,GerDracor/goethe-goetter-helden-und-wieland.xml,"Du hast in Deutschland jetzt ein Geträtsch mit einem gewissen
+            Wieland?",16,98,character_speech,1,1,,CHARON.,#charon,8.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+21,21,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich kenn so keinen.,0,19,character_speech,1,1,,MERKURIUS.,#merkurius,9.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+22,22,GerDracor/goethe-goetter-helden-und-wieland.xml,Was schiert's mich?,0,19,character_speech,1,1,,CHARON.,#charon,10.0,MALE,being moved,K,,1773.0,being moved,being moved
+23,23,GerDracor/goethe-goetter-helden-und-wieland.xml,"Gnug, sie sind fuchswild.",20,45,character_speech,1,1,,CHARON.,#charon,10.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+24,24,GerDracor/goethe-goetter-helden-und-wieland.xml,"Laß mich in Kahn, ich will mit hinüber, muß doch sehen, was gibt.",0,65,character_speech,1,1,,MERKURIUS.,#merkurius,11.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+25,25,GerDracor/goethe-goetter-helden-und-wieland.xml,Sie fahren über.,0,16,stage_direction,1,1,speech_part,,#merkurius,11.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+26,26,GerDracor/goethe-goetter-helden-und-wieland.xml,"Es ist nicht fein, daß du's uns so spielst.",0,43,character_speech,1,1,,EURIPIDES.,#euripides,12.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+27,27,GerDracor/goethe-goetter-helden-und-wieland.xml,"Alten guten Freunden und deinen Brüdern und
+            Kindern.",44,108,character_speech,1,1,,EURIPIDES.,#euripides,12.0,MALE,friendship,K,,1773.0,positive,emotions of affection
+28,28,GerDracor/goethe-goetter-helden-und-wieland.xml,"Dich mit Kerls zu gesellen, die keine Ader griechisch Blut im Leibe haben, und
+            an uns zu necken und neidschen, als wenn uns noch was übrig wäre außer dem bißchen Ruhm
+            und dem Respekt, den die Kinder droben für unserm Bart haben.",109,361,character_speech,1,1,,EURIPIDES.,#euripides,12.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+29,29,GerDracor/goethe-goetter-helden-und-wieland.xml,"Beim Jupiter, ich versteh Euch nicht.",0,37,character_speech,1,1,,MERKURIUS.,#merkurius,13.0,MALE,being moved,K,,1773.0,being moved,being moved
+30,30,GerDracor/goethe-goetter-helden-und-wieland.xml,Sollte etwa die Rede vom Deutschen Merkur sein?,0,47,character_speech,1,1,,LITERATOR.,#literator,14.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+31,31,GerDracor/goethe-goetter-helden-und-wieland.xml,Kommt Ihr daher?,0,16,character_speech,1,1,,EURIPIDES.,#euripides,15.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+32,32,GerDracor/goethe-goetter-helden-und-wieland.xml,Ihr bezeugt's also?,17,36,character_speech,1,1,,EURIPIDES.,#euripides,15.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+33,33,GerDracor/goethe-goetter-helden-und-wieland.xml,"O ja, das ist jetzo die Wonne und Hoffnung von ganz Deutschland, was der Götterbote für
+            goldne Papierchen der Aristarchen und Aoiden herumträgt.",0,156,character_speech,1,1,,LITERATOR.,#literator,16.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+34,34,GerDracor/goethe-goetter-helden-und-wieland.xml,Da hört ihr's.,0,14,character_speech,1,1,,EURIPIDES.,#euripides,17.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+35,35,GerDracor/goethe-goetter-helden-und-wieland.xml,Und mir ist übel mitgespielt in denen goldenen Blättchens.,15,73,character_speech,1,1,,EURIPIDES.,#euripides,17.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+36,36,GerDracor/goethe-goetter-helden-und-wieland.xml,"Das nicht sowohl, Herr W. zeigt nur, daß er nach Ihnen habe wagen dürfen, eine
+            »Alceste« zu schreiben; und daß, wenn er Ihre Fehler vermieden und größere Schönheiten
+            aufempfunden, man die Schuld Ihrem Jahrhunderte und dessen Gesinnungen zuschreiben
+            müsse.",0,291,character_speech,1,1,,LITERATOR.,#literator,18.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+37,37,GerDracor/goethe-goetter-helden-und-wieland.xml,Fehler!,0,7,character_speech,1,1,,EURIPIDES.,#euripides,19.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+38,38,GerDracor/goethe-goetter-helden-und-wieland.xml,Schuld!,8,15,character_speech,1,1,,EURIPIDES.,#euripides,19.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+39,39,GerDracor/goethe-goetter-helden-und-wieland.xml,Jahrhundert!,16,28,character_speech,1,1,,EURIPIDES.,#euripides,19.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+40,40,GerDracor/goethe-goetter-helden-und-wieland.xml,O du hohes herrliches Gewölbe des unendlichen Himmels!,29,83,character_speech,1,1,,EURIPIDES.,#euripides,19.0,MALE,love,K,,1773.0,positive,emotions of affection
+41,41,GerDracor/goethe-goetter-helden-und-wieland.xml,"was
+            ist aus uns geworden!",84,121,character_speech,1,1,,EURIPIDES.,#euripides,19.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+42,42,GerDracor/goethe-goetter-helden-und-wieland.xml,"Merkur, und du trägst dich damit!",122,155,character_speech,1,1,,EURIPIDES.,#euripides,19.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+43,43,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich stehe versteinert.,0,22,character_speech,1,1,,MERKURIUS.,#merkurius,20.0,MALE,being moved,K,,1773.0,being moved,being moved
+44,44,GerDracor/goethe-goetter-helden-und-wieland.xml,"Du bist in übler Gesellschaft, und ich werde sie nicht verbessern.",0,66,character_speech,1,1,,ALCESTE.,#alceste,21.0,FEMALE,abhorrence,K,,1773.0,negative,emotions of rejection
+45,45,GerDracor/goethe-goetter-helden-und-wieland.xml,Pfui!,67,72,character_speech,1,1,,ALCESTE.,#alceste,21.0,FEMALE,anger,K,,1773.0,negative,emotions of rejection
+46,46,GerDracor/goethe-goetter-helden-und-wieland.xml,"Merkur, das hätt ich dir nicht zugetraut.",0,41,character_speech,1,1,,ADMET.,#admet,22.0,MALE,being moved,K,,1773.0,being moved,being moved
+47,47,GerDracor/goethe-goetter-helden-und-wieland.xml,"Redt deutlich, oder ich gehe fort.",0,34,character_speech,1,1,,MERKURIUS.,#merkurius,23.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+48,48,GerDracor/goethe-goetter-helden-und-wieland.xml,Was hab ich mit Rasenden zu tun!,35,67,character_speech,1,1,,MERKURIUS.,#merkurius,23.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+49,49,GerDracor/goethe-goetter-helden-und-wieland.xml,Du scheinst betroffen?,0,22,character_speech,1,1,,ALCESTE.,#alceste,24.0,FEMALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+50,50,GerDracor/goethe-goetter-helden-und-wieland.xml,So höre denn.,23,36,character_speech,1,1,,ALCESTE.,#alceste,24.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+51,51,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wir gingen neulich, mein Gemahl und ich, in dem
+            Hain jenseits des Kozytus, wo, wie du weißt, die Gestalten der Träume sich lebhaft
+            darstellen und hören lassen.",37,220,character_speech,1,1,,ALCESTE.,#alceste,24.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+52,52,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wir hatten uns eine Weile an den phantastischen Gestalten
+            ergötzt, als  ich auf einmal meinen Namen mit einem unleidlichen Tone
+            ausrufen hörte.",221,388,character_speech,1,1,,ALCESTE.,#alceste,24.0,FEMALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+53,53,GerDracor/goethe-goetter-helden-und-wieland.xml,Wir wandten uns.,389,405,character_speech,1,1,,ALCESTE.,#alceste,24.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+54,54,GerDracor/goethe-goetter-helden-und-wieland.xml,"Da erschienen zwei abgeschmackte gezierte hagre blasse
+            Püppchens, die sich einander Alceste!",406,510,character_speech,1,1,,ALCESTE.,#alceste,24.0,FEMALE,abhorrence,K,,1773.0,negative,emotions of rejection
+55,55,GerDracor/goethe-goetter-helden-und-wieland.xml,Admet!,511,517,character_speech,1,1,,ALCESTE.,#alceste,24.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+56,56,GerDracor/goethe-goetter-helden-und-wieland.xml,"nannten, voreinander sterben
+            wollten, ein Geklingele mit ihren Stimmen machten als die Vögel und zuletzt mit einem
+            traurigen Gekrächz verschwanden.",518,689,character_speech,1,1,,ALCESTE.,#alceste,24.0,FEMALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+57,57,GerDracor/goethe-goetter-helden-und-wieland.xml,Es war lächerlich anzusehen.,0,28,character_speech,1,1,,ADMET.,#admet,25.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+58,58,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wir verstunden das nicht, bis erst kurz ein junger
+            Studiosus herunterkam, der uns die große Neuigkeit brachte, ein gewisser Wieland habe
+            uns ungebeten wie Euripides die Ehre angetan, dem Volke unsre Masken zu prostituieren.",29,276,character_speech,1,1,,ADMET.,#admet,25.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+59,59,GerDracor/goethe-goetter-helden-und-wieland.xml,Und der sagte das Stück auswendig von Anfang bis zu Ende her.,289,350,character_speech,1,1,,ADMET.,#admet,25.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+60,60,GerDracor/goethe-goetter-helden-und-wieland.xml,"Es hat's aber niemand
+            ausgehalten als Euripides, der neugierig und Autor genug dazu war.",351,451,character_speech,1,1,,ADMET.,#admet,25.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+61,61,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ja, und was das schlimmste ist, so soll er in eben den Wischen, die du herumträgst,
+            seine Alceste vor der meinigen herausgestrichen, mich herunter und lächerlich gemacht
+            haben.",0,200,character_speech,1,1,,EURIPIDES.,#euripides,26.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+62,62,GerDracor/goethe-goetter-helden-und-wieland.xml,Wer ist der Wieland?,0,20,character_speech,1,1,,MERKURIUS.,#merkurius,27.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+63,63,GerDracor/goethe-goetter-helden-und-wieland.xml,Hofrat und Prinzen-Hofmeister zu Weimar.,0,40,character_speech,1,1,,LITERATOR.,#literator,28.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+64,64,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und wenn er Ganymeds Hofmeister wäre, sollt er mir her.",0,55,character_speech,1,1,,MERKURIUS.,#merkurius,29.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+65,65,GerDracor/goethe-goetter-helden-und-wieland.xml,"Es ist just Schlafenszeit, und
+            mein Stab führt eine Seele leicht aus ihrem Körper.",56,150,character_speech,1,1,,MERKURIUS.,#merkurius,29.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+66,66,GerDracor/goethe-goetter-helden-und-wieland.xml,"Mir wird's angenehm sein, solch einen großen Mann bei dieser Gelegenheit
+            kennenzulernen.",0,100,character_speech,1,1,,LITERATOR.,#literator,30.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+67,67,GerDracor/goethe-goetter-helden-und-wieland.xml,Wielands Schatten in der Nachtmütze tritt auf.,0,46,stage_direction,1,1,speech_part,,#literator,30.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+68,68,GerDracor/goethe-goetter-helden-und-wieland.xml,"Lassen Sie uns, mein lieber Jacobi.",0,35,character_speech,1,1,,WIELAND.,#wieland,31.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+69,69,GerDracor/goethe-goetter-helden-und-wieland.xml,Er spricht im Traum.,0,20,character_speech,1,1,,ALCESTE.,#alceste,32.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+70,70,GerDracor/goethe-goetter-helden-und-wieland.xml,"Man sieht doch, mit was für Leuten er umgeht.",0,45,character_speech,1,1,,EURIPIDES.,#euripides,33.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+71,71,GerDracor/goethe-goetter-helden-und-wieland.xml,Ermuntert Euch!,0,15,character_speech,1,1,,MERKURIUS.,#merkurius,34.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+72,72,GerDracor/goethe-goetter-helden-und-wieland.xml,Es ist hier von keinen Jacobis die Rede.,16,56,character_speech,1,1,,MERKURIUS.,#merkurius,34.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+73,73,GerDracor/goethe-goetter-helden-und-wieland.xml,Wie ist's mit dem Merkur?,57,82,character_speech,1,1,,MERKURIUS.,#merkurius,34.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+74,74,GerDracor/goethe-goetter-helden-und-wieland.xml,Ihrem Merkur?,95,108,character_speech,1,1,,MERKURIUS.,#merkurius,34.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+75,75,GerDracor/goethe-goetter-helden-und-wieland.xml,dem Deutschen Merkur?,109,130,character_speech,1,1,,MERKURIUS.,#merkurius,34.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+76,76,GerDracor/goethe-goetter-helden-und-wieland.xml,kläglich.,0,9,stage_direction,1,1,speech_part,,#wieland,35.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+77,77,GerDracor/goethe-goetter-helden-und-wieland.xml,Sie haben mir ihn nachgedruckt.,0,31,character_speech,1,1,,WIELAND,#wieland,35.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+78,78,GerDracor/goethe-goetter-helden-und-wieland.xml,"Was tut uns das, So hört denn und seht.",0,39,character_speech,1,1,,MERKURIUS.,#merkurius,36.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+79,79,GerDracor/goethe-goetter-helden-und-wieland.xml,Wo bin ich?,0,11,character_speech,1,1,,WIELAND.,#wieland,37.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+80,80,GerDracor/goethe-goetter-helden-und-wieland.xml,Wohin führt mich der Traum?,12,39,character_speech,1,1,,WIELAND.,#wieland,37.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+81,81,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich bin Alceste.,0,16,character_speech,1,1,,ALCESTE.,#alceste,38.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+82,82,GerDracor/goethe-goetter-helden-und-wieland.xml,Und ich Admet.,0,14,character_speech,1,1,,ADMET.,#admet,39.0,MALE,love,K,,1773.0,positive,emotions of affection
+83,83,GerDracor/goethe-goetter-helden-und-wieland.xml,Solltet Ihr mich wohl kennen?,0,29,character_speech,1,1,,EURIPIDES.,#euripides,40.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+84,84,GerDracor/goethe-goetter-helden-und-wieland.xml,Woher?,0,6,character_speech,1,1,,MERKURIUS.,#merkurius,41.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+85,85,GerDracor/goethe-goetter-helden-und-wieland.xml,"– Das ist Euripides, und ich bin Merkur.",7,47,character_speech,1,1,,MERKURIUS.,#merkurius,41.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+86,86,GerDracor/goethe-goetter-helden-und-wieland.xml,Was steht Ihr so verwundert?,48,76,character_speech,1,1,,MERKURIUS.,#merkurius,41.0,MALE,being moved,K,,1773.0,being moved,being moved
+87,87,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ist das Traum, was ich wie wachend fühle?",0,41,character_speech,1,1,,WIELAND.,#wieland,42.0,MALE,being moved,K,,1773.0,being moved,being moved
+88,88,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und doch hat meine Einbildungskraft niemals
+            solche Bilder hervorgebracht.",42,127,character_speech,1,1,,WIELAND.,#wieland,42.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+89,89,GerDracor/goethe-goetter-helden-und-wieland.xml,Ihr Alceste?,128,140,character_speech,1,1,,WIELAND.,#wieland,42.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+90,90,GerDracor/goethe-goetter-helden-und-wieland.xml,Mit dieser Taille!,141,159,character_speech,1,1,,WIELAND.,#wieland,42.0,MALE,love,K,,1773.0,positive,emotions of affection
+91,91,GerDracor/goethe-goetter-helden-und-wieland.xml,Verzeiht!,160,169,character_speech,1,1,,WIELAND.,#wieland,42.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+92,92,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich weiß nicht,
+            was ich sagen soll.",170,217,character_speech,1,1,,WIELAND.,#wieland,42.0,MALE,being moved,K,,1773.0,being moved,being moved
+93,93,GerDracor/goethe-goetter-helden-und-wieland.xml,"Die eigentliche Frage ist, warum Ihr meinen Namen prostituiert und diesen ehrlichen
+            Leuten zusammen so übel begegnet.",0,129,character_speech,1,1,,MERKURIUS.,#merkurius,43.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+94,94,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich bin mir nichts bewußt.,0,26,character_speech,1,1,,WIELAND.,#wieland,44.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+95,95,GerDracor/goethe-goetter-helden-und-wieland.xml,"Was Euch betrifft, Ihr könntet, dünkt mich, wissen, daß wir
+            Euerm Namen keine Achtung schuldig sind.",27,139,character_speech,1,1,,WIELAND.,#wieland,44.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+96,96,GerDracor/goethe-goetter-helden-und-wieland.xml,"Unsre Religion verbietet uns, irgendeine
+            Wahrheit, Größe, Güte, Schönheit anzuerkennen und anzubeten außer ihr.",140,263,character_speech,1,1,,WIELAND.,#wieland,44.0,MALE,"admiration, reverence",K,,1773.0,positive,emotions of affection
+97,97,GerDracor/goethe-goetter-helden-und-wieland.xml,"Daher sind Eure
+            Namen wie Eure Bildsäulen zerstümmelt und preisgegeben.",264,347,character_speech,1,1,,WIELAND.,#wieland,44.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+98,98,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und ich versichre Euch, nicht
+            einmal der griechische Hermes, wie ihn uns die Mythologen geben, ist mir je dabei in
+            Sinn gekommen.",348,501,character_speech,1,1,,WIELAND.,#wieland,44.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+99,99,GerDracor/goethe-goetter-helden-und-wieland.xml,Man denkt gar nichts dabei.,502,529,character_speech,1,1,,WIELAND.,#wieland,44.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+100,100,GerDracor/goethe-goetter-helden-und-wieland.xml,"Es ist, als wenn einer sagte: Recueil,
+            Portefeuille.",530,594,character_speech,1,1,,WIELAND.,#wieland,44.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+101,101,GerDracor/goethe-goetter-helden-und-wieland.xml,Es ist doch immer mein Name.,0,28,character_speech,1,1,,MERKURIUS.,#merkurius,45.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+102,102,GerDracor/goethe-goetter-helden-und-wieland.xml,"Haben Sie niemals Ihre Gestalt mit Flügeln an Haupt und Füßen, den Schlangenstab in der
+            Hand, sitzend auf Warenballen und Tonnen, im Vorbeigehn auf einer Tabaksbüchse
+            figurieren sehn?",0,207,character_speech,1,1,,WIELAND.,#wieland,46.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+103,103,GerDracor/goethe-goetter-helden-und-wieland.xml,Das läßt sich hören.,0,20,character_speech,1,1,,MERKURIUS.,#merkurius,47.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+104,104,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich sprech Euch los.,21,41,character_speech,1,1,,MERKURIUS.,#merkurius,47.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+105,105,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und ihr andern werdet mich künftig ungeplagt
+            lassen.",42,106,character_speech,1,1,,MERKURIUS.,#merkurius,47.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+106,106,GerDracor/goethe-goetter-helden-und-wieland.xml,"So weiß ich, war auf dem letzten Maskenballe ein gnädiger Herr, der über seine
+            Hosen und Weste noch einen fleischfarbnen Jobs gezogen hatte und vermittelst Flügeln an
+            Haupt und Sohlen seine Molchsgestalt für einen Merkurius an Mann bringen wollte.",107,378,character_speech,1,1,,MERKURIUS.,#merkurius,47.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+107,107,GerDracor/goethe-goetter-helden-und-wieland.xml,Das ist die Meinung.,0,20,character_speech,1,1,,WIELAND.,#wieland,48.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+108,108,GerDracor/goethe-goetter-helden-und-wieland.xml,"Sowenig mein Vignettenschneider  auf Eure Statue
+            Rücksicht nahm, die Florenz aufbewahrt, sowenig auch ich.",21,139,character_speech,1,1,,WIELAND.,#wieland,48.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+109,109,GerDracor/goethe-goetter-helden-und-wieland.xml,So gehabt Euch wohl.,0,20,character_speech,1,1,,MERKURIUS.,#merkurius,49.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+110,110,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und so seid Ihr überzeugt, daß der Sohn Jupiters noch nicht so
+            bankrutt gemacht hat, um sich mit allerlei Leuten zu assoziieren.",21,161,character_speech,1,1,,MERKURIUS.,#merkurius,49.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+111,111,GerDracor/goethe-goetter-helden-und-wieland.xml,Merkurius ab.,0,13,stage_direction,1,1,speech_part,,#merkurius,49.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+112,112,GerDracor/goethe-goetter-helden-und-wieland.xml,So empfehl ich mich dann.,0,25,character_speech,1,1,,WIELAND.,#wieland,50.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+113,113,GerDracor/goethe-goetter-helden-und-wieland.xml,Nicht uns so.,0,13,character_speech,1,1,,EURIPIDES.,#euripides,51.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+114,114,GerDracor/goethe-goetter-helden-und-wieland.xml,Wir haben noch erst ein Glas zusammen zu leeren.,14,62,character_speech,1,1,,EURIPIDES.,#euripides,51.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+115,115,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ihr seid Euripides, und meine Hochachtung für Euch hab ich öffentlich gestanden.",0,80,character_speech,1,1,,WIELAND.,#wieland,52.0,MALE,"admiration, reverence",K,,1773.0,positive,emotions of affection
+116,116,GerDracor/goethe-goetter-helden-und-wieland.xml,Viel Ehre!,0,10,character_speech,1,1,,EURIPIDES.,#euripides,53.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+117,117,GerDracor/goethe-goetter-helden-und-wieland.xml,"Es fragt sich, inwiefern Euch Eure Arbeit berechtigt, von der meinigen Übels
+            zu reden.",11,109,character_speech,1,1,,EURIPIDES.,#euripides,53.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+118,118,GerDracor/goethe-goetter-helden-und-wieland.xml,"Fünf Briefe zu schreiben, um Euer Drama, das so mittelmäßig ist, daß ich als
+            kompromittierter Nebenbuhler fast drüber eingeschlafen bin, Euern Herren und Damen nicht
+            allein vorzustreichen, das man noch verzeihen könnte, sondern den guten Euripides als
+            einen verunglückten Mitstreiter hinzustellen, dem Ihr den Rang abgelaufen habt.",110,477,character_speech,1,1,,EURIPIDES.,#euripides,53.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+119,119,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich will's Euch gestehen, Euripides ist auch ein Poet, und ich habe mein Tage die
+            Poeten für nichts mehr gehalten, als sie sind.",0,140,character_speech,1,1,,ADMET.,#admet,54.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+120,120,GerDracor/goethe-goetter-helden-und-wieland.xml,"Aber ein braver Mensch ist er, und unser
+            Landsmann.",141,204,character_speech,1,1,,ADMET.,#admet,54.0,MALE,"admiration, reverence",K,,1773.0,positive,emotions of affection
+121,121,GerDracor/goethe-goetter-helden-und-wieland.xml,"Es hätte Euch doch sollen bedenklich scheinen, ob der Mann, der geboren
+            wurde, da Griechenland den Xerxes bemeisterte, der ein Freund des Sokrates war, dessen
+            Stücke eine Würkung auf sein Jahrhundert hatten wie Eure wohl schwerlich, ob der Mann
+            nicht eher die Schatten von Alceste und Admet habe herbeibeschwören können als Ihr.",205,569,character_speech,1,1,,ADMET.,#admet,54.0,MALE,"admiration, reverence",K,,1773.0,positive,emotions of affection
+122,122,GerDracor/goethe-goetter-helden-und-wieland.xml,"Das
+            verdiente einige ahndungsvolle Ehrfurcht.",570,627,character_speech,1,1,,ADMET.,#admet,54.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+123,123,GerDracor/goethe-goetter-helden-und-wieland.xml,"Der zwar Euer ganzes aberweises Jahrhundert
+            von Literatoren nicht fähig ist.",628,716,character_speech,1,1,,ADMET.,#admet,54.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+124,124,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wenn Eure Stücke einmal soviel Menschen das Leben gerettet haben als meine, dann sollt
+            Ihr auch reden.",0,114,character_speech,1,1,,EURIPIDES.,#euripides,55.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+125,125,GerDracor/goethe-goetter-helden-und-wieland.xml,"Mein Publikum, Euripides, ist nicht das Eurige.",0,47,character_speech,1,1,,WIELAND.,#wieland,56.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+126,126,GerDracor/goethe-goetter-helden-und-wieland.xml,Das ist die Sache nicht.,0,24,character_speech,1,1,,EURIPIDES.,#euripides,57.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+127,127,GerDracor/goethe-goetter-helden-und-wieland.xml,"Von meinen Fehlern und Unvollkommenheiten ist die Rede, die
+            Ihr vermieden habt.",25,116,character_speech,1,1,,EURIPIDES.,#euripides,57.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+128,128,GerDracor/goethe-goetter-helden-und-wieland.xml,"Daß ich's Euch sage als ein Weib, die eh ein Wort reden darf, daß es nicht auffällt.",0,84,character_speech,1,1,,ALCESTE.,#alceste,58.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+129,129,GerDracor/goethe-goetter-helden-und-wieland.xml,"Eure Alceste mag gut sein und Eure Weibchen und Männchen amüsiert, auch wohl gekützelt
+            haben, was Ihr Rührung nennt.",97,225,character_speech,1,1,,ALCESTE.,#alceste,58.0,FEMALE,joy,K,,1773.0,positive,emotions of pleasure
+130,130,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich bin drüber weggegangen, wie man von einer verstimmten
+            Zither wegweicht.",226,313,character_speech,1,1,,ALCESTE.,#alceste,58.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+131,131,GerDracor/goethe-goetter-helden-und-wieland.xml,"Des Euripides seine hab ich doch ganz ausgehört, mich manchmal drüber
+            gefreut und auch drüber gelächelt.",314,430,character_speech,1,1,,ALCESTE.,#alceste,58.0,FEMALE,joy,K,,1773.0,positive,emotions of pleasure
+132,132,GerDracor/goethe-goetter-helden-und-wieland.xml,Meine Fürstin.,0,14,character_speech,1,1,,WIELAND.,#wieland,59.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+133,133,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ihr solltet wissen, daß Fürsten hier nichts gelten.",0,51,character_speech,1,1,,ALCESTE.,#alceste,60.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+134,134,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich wünschte, Ihr könntet fühlen,
+            wieviel glücklicher Euripides in Ausführung unsrer Geschichte gewesen als Ihr.",52,176,character_speech,1,1,,ALCESTE.,#alceste,60.0,FEMALE,joy,K,,1773.0,positive,emotions of pleasure
+135,135,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich bin
+            für meinen Mann gestorben; wie und wo, das ist nicht die Frage.",177,260,character_speech,1,1,,ALCESTE.,#alceste,60.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+136,136,GerDracor/goethe-goetter-helden-und-wieland.xml,"Die Frage ist von Eurer
+            »Alceste«, von Euripides' »Alceste«.",261,333,character_speech,1,1,,ALCESTE.,#alceste,60.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+137,137,GerDracor/goethe-goetter-helden-und-wieland.xml,"Könnt Ihr mir absprechen, daß ich das Ganze delikater behandelt habe?",0,69,character_speech,1,1,,WIELAND.,#wieland,61.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+138,138,GerDracor/goethe-goetter-helden-und-wieland.xml,Was heißt das?,0,14,character_speech,1,1,,ALCESTE.,#alceste,62.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+139,139,GerDracor/goethe-goetter-helden-und-wieland.xml,"Genug, Euripides hat gewußt, warum er eine Alceste aufs Theater bringt.",15,86,character_speech,1,1,,ALCESTE.,#alceste,62.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+140,140,GerDracor/goethe-goetter-helden-und-wieland.xml,Ihr nicht.,99,109,character_speech,1,1,,ALCESTE.,#alceste,62.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+141,141,GerDracor/goethe-goetter-helden-und-wieland.xml,"Sowenig Ihr die Größe des Opfers, das ich meinem Manne tat, darzustellen
+            wußtet.",110,202,character_speech,1,1,,ALCESTE.,#alceste,62.0,FEMALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+142,142,GerDracor/goethe-goetter-helden-und-wieland.xml,Wie meint Ihr das?,0,18,character_speech,1,1,,WIELAND.,#wieland,63.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+143,143,GerDracor/goethe-goetter-helden-und-wieland.xml,"Laßt mich reden, Alceste.",0,25,character_speech,1,1,,EURIPIDES.,#euripides,64.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+144,144,GerDracor/goethe-goetter-helden-und-wieland.xml,"Sieh her, das sind meine Fehler.",26,58,character_speech,1,1,,EURIPIDES.,#euripides,64.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+145,145,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ein junger blühender König,
+            ersterbend mitten im Genuß aller Glückseligkeit.",59,147,character_speech,1,1,,EURIPIDES.,#euripides,64.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+146,146,GerDracor/goethe-goetter-helden-und-wieland.xml,"Sein Haus, sein Volk in Verzweiflung,
+            den Guten, Trefflichen zu verlieren, und über dem Jammer Apoll bewegt, den Parzen einen
+            Wechseltod abdringend.",148,320,character_speech,1,1,,EURIPIDES.,#euripides,64.0,MALE,despair,K,,1773.0,negative,emotions of anxiety
+147,147,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und nun – alles verstummt und Vater und Mutter und Freunde und
+            Volk – alles – und er lechzend am Rande des Tods, umherschauend nach einem willigen
+            Auge, und überall Schweigen – bis sie auftritt, die Einzige, ihre Schönheit und Kraft
+            aufzuopfern dem Gatten, hinunterzusteigen zu den hoffnungslosen Toten.",321,660,character_speech,1,1,,EURIPIDES.,#euripides,64.0,MALE,despair,K,,1773.0,negative,emotions of anxiety
+148,148,GerDracor/goethe-goetter-helden-und-wieland.xml,Das hab ich alles auch.,0,23,character_speech,1,1,,WIELAND.,#wieland,65.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+149,149,GerDracor/goethe-goetter-helden-und-wieland.xml,Nicht gar.,0,10,character_speech,1,1,,EURIPIDES.,#euripides,66.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+150,150,GerDracor/goethe-goetter-helden-und-wieland.xml,"Eure Leute sind erstlich alle zusammen  aus der großen Familie,
+            der ihr Würde der Menschheit, ein Ding, das Gott weiß woher abstrahiert ist, zum Erbe
+            gegeben habt, ihr Dichter auf unsern Trümmern!",11,231,character_speech,1,1,,EURIPIDES.,#euripides,66.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+151,151,GerDracor/goethe-goetter-helden-und-wieland.xml,"Sie sehn einander ähnlich wie die Eier,
+            und Ihr habt sie zum unbedeutenden Breie zusammengerührt.",232,341,character_speech,1,1,,EURIPIDES.,#euripides,66.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+152,152,GerDracor/goethe-goetter-helden-und-wieland.xml,"Da ist eine Frau, die für
+            ihren Mann sterben will, ein Mann, der für seine Frau sterben will, ein Held, der für
+            sie beide sterben will, daß nichts übrigbleibt als das langweilige Stück Parthenia, die
+            man gerne wie den Widder aus 'em Busche bei den Hörnern kriegte, um dem Elend ein Ende
+            zu machen.",342,687,character_speech,1,1,,EURIPIDES.,#euripides,66.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+153,153,GerDracor/goethe-goetter-helden-und-wieland.xml,Ihr seht das anders an als ich.,0,31,character_speech,1,1,,WIELAND.,#wieland,67.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+154,154,GerDracor/goethe-goetter-helden-und-wieland.xml,Das vermut ich.,0,15,character_speech,1,1,,ALCESTE.,#alceste,68.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+155,155,GerDracor/goethe-goetter-helden-und-wieland.xml,"Nur sagt mir: was war Alcestens Tat, wenn ihr Mann sie mehr liebte als
+            sein Leben?",16,110,character_speech,1,1,,ALCESTE.,#alceste,68.0,FEMALE,love,K,,1773.0,positive,emotions of affection
+156,156,GerDracor/goethe-goetter-helden-und-wieland.xml,"Der Mensch, der sein ganzes Glück in seiner Gattin genösse, wie Euer Admet,
+            würde durch ihre Tat in den doppelt bittern Tod gestürzt werden.",111,263,character_speech,1,1,,ALCESTE.,#alceste,68.0,FEMALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+157,157,GerDracor/goethe-goetter-helden-und-wieland.xml,"Philemon und Baucis
+            erbaten sich zusammen den Tod, und euer Klopstock, der doch immer unter euch ein Mensch
+            ist, läßt seine Liebenden wetteifern – »Daphnis, ich sterbe zuletzt«.",264,465,character_speech,1,1,,ALCESTE.,#alceste,68.0,FEMALE,love,K,,1773.0,positive,emotions of affection
+158,158,GerDracor/goethe-goetter-helden-und-wieland.xml,"Also mußte Admet
+            gerne leben, sehr gerne leben, oder ich war – was?",466,545,character_speech,1,1,,ALCESTE.,#alceste,68.0,FEMALE,being moved,K,,1773.0,being moved,being moved
+159,159,GerDracor/goethe-goetter-helden-und-wieland.xml,"– eine Komödiantin – ein Kind –
+            genug, macht aus mir, was Euch gefällt.",546,629,character_speech,1,1,,ALCESTE.,#alceste,68.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+160,160,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und den Admet, der Euch so ekelhaft ist, weil er nicht sterben mag.",0,67,character_speech,1,1,,ADMET.,#admet,69.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+161,161,GerDracor/goethe-goetter-helden-und-wieland.xml,"Seid Ihr jemals
+            gestorben?",68,106,character_speech,1,1,,ADMET.,#admet,69.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+162,162,GerDracor/goethe-goetter-helden-und-wieland.xml,Oder seid Ihr jemals ganz glücklich gewesen?,107,151,character_speech,1,1,,ADMET.,#admet,69.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+163,163,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ihr redt wie großmütige
+            Hungerleider.",152,201,character_speech,1,1,,ADMET.,#admet,69.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+164,164,GerDracor/goethe-goetter-helden-und-wieland.xml,Nur Feige fürchten den Tod.,0,27,character_speech,1,1,,WIELAND.,#wieland,70.0,MALE,fear,K,,1773.0,negative,emotions of anxiety
+165,165,GerDracor/goethe-goetter-helden-und-wieland.xml,"Den Heldentod, ja!",0,18,character_speech,1,1,,ADMET.,#admet,71.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+166,166,GerDracor/goethe-goetter-helden-und-wieland.xml,"Aber den Hausvatertod fürchtet jeder, selbst der Held.",19,73,character_speech,1,1,,ADMET.,#admet,71.0,MALE,fear,K,,1773.0,negative,emotions of anxiety
+167,167,GerDracor/goethe-goetter-helden-und-wieland.xml,"So ist's in
+            der Natur.",74,108,character_speech,1,1,,ADMET.,#admet,71.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+168,168,GerDracor/goethe-goetter-helden-und-wieland.xml,"Glaubt Ihr denn, ich würde mein Leben geschont haben, meine Frau dem Feinde
+            zu entreißen, meine Besitztümer zu verteidigen?",109,244,character_speech,1,1,,ADMET.,#admet,71.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+169,169,GerDracor/goethe-goetter-helden-und-wieland.xml,Und doch –,245,255,character_speech,1,1,,ADMET.,#admet,71.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+170,170,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ihr redet wie Leute einer andern Welt, eine Sprache, deren Worte ich vernehme, deren
+            Sinn ich nicht fasse.",0,118,character_speech,1,1,,WIELAND.,#wieland,72.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+171,171,GerDracor/goethe-goetter-helden-und-wieland.xml,Wir reden Griechisch.,0,21,character_speech,1,1,,ADMET.,#admet,73.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+172,172,GerDracor/goethe-goetter-helden-und-wieland.xml,Ist Euch das so unbegreiflich?,22,52,character_speech,1,1,,ADMET.,#admet,73.0,MALE,being moved,K,,1773.0,being moved,being moved
+173,173,GerDracor/goethe-goetter-helden-und-wieland.xml,Admet –,53,60,character_speech,1,1,,ADMET.,#admet,73.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+174,174,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ihr bedenkt nicht, daß er zu einer Sekte gehört, die allen Wassersüchtigen,
+            Auszehrenden, an Hals und Bein tödlich Verwundeten einreden will, tot würden ihre Herzen
+            voller, ihre Geister mächtiger, ihre Knochen markiger sein.",0,248,character_speech,1,1,,EURIPIDES.,#euripides,74.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+175,175,GerDracor/goethe-goetter-helden-und-wieland.xml,Das glaubt er.,249,263,character_speech,1,1,,EURIPIDES.,#euripides,74.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+176,176,GerDracor/goethe-goetter-helden-und-wieland.xml,Er tut nur so.,0,14,character_speech,1,1,,ADMET.,#admet,75.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+177,177,GerDracor/goethe-goetter-helden-und-wieland.xml,"Nein, Ihr seid noch Mensch genug, Euch zu Euripides' Admeten zu
+            versetzen.",15,101,character_speech,1,1,,ADMET.,#admet,75.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+178,178,GerDracor/goethe-goetter-helden-und-wieland.xml,"Merkt auf, und fragt Eure Frau darüber.",0,39,character_speech,1,1,,ALCESTE.,#alceste,76.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+179,179,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ein junger, ganz glücklicher, wohlbehaglicher Fürst, der von seinem Vater Reich und
+            Erbe und Herde und Güter empfangen hatte und drinne saß mit Genüglichkeit und genoß und
+            ganz war und nichts bedurfte als Leute, die mit ihm genossen, und sie, wie natürlich,
+            fand und des Hergebens nicht satt wurde und alle liebte, daß sie ihn lieben sollten, und
+            sich Götter und Menschen so zu Freunden gemacht hatte, und Apoll den Himmel an seinem
+            Tische vergaß – der sollte nicht ewig zu leben wünschen!",0,549,character_speech,1,1,,ADMET.,#admet,77.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+180,180,GerDracor/goethe-goetter-helden-und-wieland.xml,"– Und der Mensch hatte auch
+            eine Frau –",550,601,character_speech,1,1,,ADMET.,#admet,77.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+181,181,GerDracor/goethe-goetter-helden-und-wieland.xml,Ihr habt eine und begreift das nicht.,0,37,character_speech,1,1,,ALCESTE.,#alceste,78.0,FEMALE,being moved,K,,1773.0,being moved,being moved
+182,182,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich wollte das dem schwarzaugigen jungen Ding
+            dort begreiflich machen.",38,120,character_speech,1,1,,ALCESTE.,#alceste,78.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+183,183,GerDracor/goethe-goetter-helden-und-wieland.xml,"Schöne Kleine, willst du ein Wort hören?",121,161,character_speech,1,1,,ALCESTE.,#alceste,78.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+184,184,GerDracor/goethe-goetter-helden-und-wieland.xml,Was verlangt Ihr?,0,17,character_speech,1,1,,DAS MÄDCHEN.,#das_maedchen,79.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+185,185,GerDracor/goethe-goetter-helden-und-wieland.xml,Du hattest einen Liebhaber.,0,27,character_speech,1,1,,ALCESTE.,#alceste,80.0,FEMALE,love,K,,1773.0,positive,emotions of affection
+186,186,GerDracor/goethe-goetter-helden-und-wieland.xml,Ach ja!,0,7,character_speech,1,1,,MÄDCHEN.,#das_maedchen,81.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+187,187,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und liebtest ihn von Herzen, so daß du in mancher guten Stunde Beruf fühltest, für ihn
+            zu sterben?",0,110,character_speech,1,1,,ALCESTE.,#alceste,82.0,FEMALE,love,K,,1773.0,positive,emotions of affection
+188,188,GerDracor/goethe-goetter-helden-und-wieland.xml,Ach und ich bin um ihn gestorben.,0,33,character_speech,1,1,,MÄDCHEN.,#das_maedchen,83.0,FEMALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+189,189,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ein feindseliges Schicksal trennte uns, das ich nicht
+            lang überlebte.",34,115,character_speech,1,1,,MÄDCHEN.,#das_maedchen,83.0,FEMALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+190,190,GerDracor/goethe-goetter-helden-und-wieland.xml,"Da habt Ihr Eure Alceste, Wieland.",0,34,character_speech,1,1,,ALCESTE.,#alceste,84.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+191,191,GerDracor/goethe-goetter-helden-und-wieland.xml,"Nun sage mir, liebe Kleine, du hattest Eltern, die
+            sich zärtlich liebten?",35,120,character_speech,1,1,,ALCESTE.,#alceste,84.0,FEMALE,love,K,,1773.0,positive,emotions of affection
+192,192,GerDracor/goethe-goetter-helden-und-wieland.xml,Gegen unsre Liebe war's kein Schatten.,0,38,character_speech,1,1,,MÄDCHEN.,#das_maedchen,85.0,FEMALE,love,K,,1773.0,positive,emotions of affection
+193,193,GerDracor/goethe-goetter-helden-und-wieland.xml,Aber sie ehrten einander von Herzen.,39,75,character_speech,1,1,,MÄDCHEN.,#das_maedchen,85.0,FEMALE,"admiration, reverence",K,,1773.0,positive,emotions of affection
+194,194,GerDracor/goethe-goetter-helden-und-wieland.xml,"Glaubst du wohl, wenn deine Mutter in Todsgefahr gewesen wäre und dein Vater hätte für
+            sie mit seinem Leben bezahlt, daß sie's mit Dank angenommen hätte?",0,165,character_speech,1,1,,ALCESTE.,#alceste,86.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+195,195,GerDracor/goethe-goetter-helden-und-wieland.xml,Ganz gewiß.,0,11,character_speech,1,1,,MÄDCHEN.,#das_maedchen,87.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+196,196,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und wechselsweise, Wieland, ebenso, da habt Ihr Euripidens Alceste.",0,67,character_speech,1,1,,ALCESTE.,#alceste,88.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+197,197,GerDracor/goethe-goetter-helden-und-wieland.xml,"Die Eurige wäre denn für Kinder, die andere für ehrliche Leute, die schon ein bis zwei
+            Weiber begraben haben.",0,121,character_speech,1,1,,ADMET.,#admet,89.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+198,198,GerDracor/goethe-goetter-helden-und-wieland.xml,"Daß Ihr nun mit Eurem Auditorio sympathisiert, ist nötig und
+            billig.",122,202,character_speech,1,1,,ADMET.,#admet,89.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+199,199,GerDracor/goethe-goetter-helden-und-wieland.xml,"Laßt mich, Ihr seid widersinnige rohe Leute, mit denen ich nichts gemein habe.",0,78,character_speech,1,1,,WIELAND.,#wieland,90.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+200,200,GerDracor/goethe-goetter-helden-und-wieland.xml,Erst höre mich noch ein paar Worte.,0,35,character_speech,1,1,,EURIPIDES.,#euripides,91.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+201,201,GerDracor/goethe-goetter-helden-und-wieland.xml,Mach's kurz.,0,12,character_speech,1,1,,WIELAND.,#wieland,92.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+202,202,GerDracor/goethe-goetter-helden-und-wieland.xml,"Keine fünf Briefe, aber Stoff dazu.",0,35,character_speech,1,1,,EURIPIDES.,#euripides,93.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+203,203,GerDracor/goethe-goetter-helden-und-wieland.xml,"Das, worauf Ihr Euch soviel zugute tut, ein
+            Theaterstück so zu lenken und zu runden, daß es sich sehen lassen darf, ist ein Talent,
+            ja, aber ein sehr geringes.",36,219,character_speech,1,1,,EURIPIDES.,#euripides,93.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+204,204,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ihr kennt die Mühe nicht, die's kostet.",0,39,character_speech,1,1,,WIELAND.,#wieland,94.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+205,205,GerDracor/goethe-goetter-helden-und-wieland.xml,"Du hast ja genug davon vorgeprahlt, daß alles, wenn man's bei Licht besieht, nichts ist
+            als eine Fähigkeit, nach Sitten und Theaterkonventionen und nach und nach aufgeflickten
+            Statuten Natur und Wahrheit zu verschneiden und einzugleichen.",0,262,character_speech,1,1,,EURIPIDES.,#euripides,95.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+206,206,GerDracor/goethe-goetter-helden-und-wieland.xml,Ihr werdet mich das nicht überreden.,0,36,character_speech,1,1,,WIELAND.,#wieland,96.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+207,207,GerDracor/goethe-goetter-helden-und-wieland.xml,So genieße deines Ruhms unter den Deinigen und laß uns in Ruh.,0,62,character_speech,1,1,,EURIPIDES.,#euripides,97.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+208,208,GerDracor/goethe-goetter-helden-und-wieland.xml,"Begib dich zur Gelassenheit, Euripides!",0,39,character_speech,1,1,,ADMET.,#admet,98.0,MALE,being moved,K,,1773.0,being moved,being moved
+209,209,GerDracor/goethe-goetter-helden-und-wieland.xml,"Die Stellen, an denen er deiner spottet, sind
+            so viel Flecken, mit denen er sein eigen Gewand beschmitzt.",40,157,character_speech,1,1,,ADMET.,#admet,98.0,MALE,Schadenfreude,K,,1773.0,positive,emotions of pleasure
+210,210,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wär er klug und er könnte
+            sie und die Noten zum Shakespeare mit Blut abkaufen, er würde es tun.",158,265,character_speech,1,1,,ADMET.,#admet,98.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+211,211,GerDracor/goethe-goetter-helden-und-wieland.xml,"So stellt er sich
+            dar und bekennt: da hab ich nichts gefühlt.",266,339,character_speech,1,1,,ADMET.,#admet,98.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+212,212,GerDracor/goethe-goetter-helden-und-wieland.xml,"Nichts gefühlt bei meinem Prolog, der ein Meisterstück ist.",0,59,character_speech,1,1,,EURIPIDES.,#euripides,99.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+213,213,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich darf wohl von meiner
+            Arbeit so  reden, tust du's ja.",60,128,character_speech,1,1,,EURIPIDES.,#euripides,99.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+214,214,GerDracor/goethe-goetter-helden-und-wieland.xml,"Du fühlst nichts, da du in den gastoffnen
+            Hof Admetens trittst.",129,204,character_speech,1,1,,EURIPIDES.,#euripides,99.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+215,215,GerDracor/goethe-goetter-helden-und-wieland.xml,"Er hat keinen Sinn für Gastfreiheit, hörst du ja.",0,49,character_speech,1,1,,ALCESTE.,#alceste,100.0,FEMALE,anger,K,,1773.0,negative,emotions of rejection
+216,216,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und auf der Schwelle begegnet dir Apollo, die freundliche Gottheit des Hauses, die,
+            ganz voll Liebe zum Admet, ihn erst dem Tod entreißt und nun, o Jammer!",0,167,character_speech,1,1,,EURIPIDES.,#euripides,101.0,MALE,compassion,K,,1773.0,negative,emotions of suffering and empathy
+217,217,GerDracor/goethe-goetter-helden-und-wieland.xml,"sein bestes Weib
+            für ihn dahingegeben sieht.",168,224,character_speech,1,1,,EURIPIDES.,#euripides,101.0,MALE,love,K,,1773.0,positive,emotions of affection
+218,218,GerDracor/goethe-goetter-helden-und-wieland.xml,"Er kann nichts weiter retten und entfernt sich wehmütig, daß
+            nicht die Gemeinschaft mit Toten seine Reinigkeit beflecke.",225,357,character_speech,1,1,,EURIPIDES.,#euripides,101.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+219,219,GerDracor/goethe-goetter-helden-und-wieland.xml,"Da tritt herein, schwarz
+            gehüllt, das Schwert ihrer heimtückischen Macht in der Faust, die Königin der Toten, die
+            Geleiterin zum Orkus, das unerbittliche Schicksal, und schilt auf die gütig verweilende
+            Gottheit, droht schon der Alceste, und Apoll verläßt das Haus und uns.",358,666,character_speech,1,1,,EURIPIDES.,#euripides,101.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+220,220,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und wir mit dem
+            verlassenen Chor seufzen: »Ach, daß Äskulap noch lebte, der Sohn Apollos, der die
+            Kräuter kannte und jeden Balsam, sie würde gerettet werden; denn er erweckte die Toten;
+            aber er ist erschlagen von Jupiters Blitz, der nicht duldete, daß jener weckte vom
+            ewigen Schlaf, die in Staub gestreckt hatte nieder sein unerbittlicher Ratschluß.«",667,1066,character_speech,1,1,,EURIPIDES.,#euripides,101.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+221,221,GerDracor/goethe-goetter-helden-und-wieland.xml,"Bist du nicht ganz entrückt gewesen in die Phantasie der Menschen, die aus ihrer Väter
+            Munde vernommen hatten von einem so wundertätigen Manne, dem Macht gegeben war über den
+            allmächtigen Tod?",0,216,character_speech,1,1,,ALCESTE.,#alceste,102.0,FEMALE,being moved,K,,1773.0,being moved,being moved
+222,222,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ist dir nicht da Wunsch, Hoffnung, Glauben aufgegangen: käme einer aus
+            diesem Geschlechte!",217,319,character_speech,1,1,,ALCESTE.,#alceste,102.0,FEMALE,joy,K,,1773.0,positive,emotions of pleasure
+223,223,GerDracor/goethe-goetter-helden-und-wieland.xml,käme der Halbgott seinen Brüdern zu Hülfe!,320,362,character_speech,1,1,,ALCESTE.,#alceste,102.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+224,224,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und da er nun kommt, nun Herkules auftritt und ruft: »Sie ist tot!",0,66,character_speech,1,1,,EURIPIDES.,#euripides,103.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+225,225,GerDracor/goethe-goetter-helden-und-wieland.xml,tot!,67,71,character_speech,1,1,,EURIPIDES.,#euripides,103.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+226,226,GerDracor/goethe-goetter-helden-und-wieland.xml,"Hast sie
+            weggeführt, schwarze gräßliche Geleiterin zum Orkus, hast mit deinem verzehrenden
+            Schwerte abgeweihet ihre Haare.",72,218,character_speech,1,1,,EURIPIDES.,#euripides,103.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+227,227,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich bin Jupiters Sohn und traue mir Kraft zu über dich.,219,274,character_speech,1,1,,EURIPIDES.,#euripides,103.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+228,228,GerDracor/goethe-goetter-helden-und-wieland.xml,"An dem Grabe will ich dir auflauschen, wo du das Blut trinkst der abgeschlachteten
+            Totenopfer, fassen will ich dich Todesgöttin, umknüpfen mit meinen Armen, die kein
+            Sterblicher  und kein Unsterblicher löset, und du sollst mir herausgeben
+            das Weib, Admetens liebes Weib, oder ich bin nicht Jupiters Sohn.«",287,628,character_speech,1,1,,EURIPIDES.,#euripides,103.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+229,229,GerDracor/goethe-goetter-helden-und-wieland.xml,tritt auf.,0,10,stage_direction,1,1,speech_part,,#herkules,104.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+230,230,GerDracor/goethe-goetter-helden-und-wieland.xml,Was redt ihr von Jupiters Sohn?,0,31,character_speech,1,1,,HERKULES,#herkules,104.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+231,231,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich bin Jupiters Sohn.,32,54,character_speech,1,1,,HERKULES,#herkules,104.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+232,232,GerDracor/goethe-goetter-helden-und-wieland.xml,Haben wir dich in deinem Rauschschläfchen gestört?,0,50,character_speech,1,1,,ADMET.,#admet,105.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+233,233,GerDracor/goethe-goetter-helden-und-wieland.xml,Was soll der Lärm?,0,18,character_speech,1,1,,HERKULES.,#herkules,106.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+234,234,GerDracor/goethe-goetter-helden-und-wieland.xml,Ei da ist der Wieland.,0,22,character_speech,1,1,,ALCESTE.,#alceste,107.0,FEMALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+235,235,GerDracor/goethe-goetter-helden-und-wieland.xml,Ei wo?,0,6,character_speech,1,1,,HERKULES.,#herkules,108.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+236,236,GerDracor/goethe-goetter-helden-und-wieland.xml,Da steht er.,0,12,character_speech,1,1,,ADMET.,#admet,109.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+237,237,GerDracor/goethe-goetter-helden-und-wieland.xml,Der!,0,4,character_speech,1,1,,HERKULES.,#herkules,110.0,MALE,being moved,K,,1773.0,being moved,being moved
+238,238,GerDracor/goethe-goetter-helden-und-wieland.xml,Nun der ist klein genug.,5,29,character_speech,1,1,,HERKULES.,#herkules,110.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+239,239,GerDracor/goethe-goetter-helden-und-wieland.xml,Hab ich mir ihn doch so vorgestellt.,30,66,character_speech,1,1,,HERKULES.,#herkules,110.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+240,240,GerDracor/goethe-goetter-helden-und-wieland.xml,"Seid Ihr der Mann,
+            der den Herkules immer im Munde führt?",67,136,character_speech,1,1,,HERKULES.,#herkules,110.0,MALE,being moved,K,,1773.0,being moved,being moved
+241,241,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich habe nichts mit Euch zu schaffen, Koloß.",0,44,character_speech,1,1,,WIELAND.,#wieland,111.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+242,242,GerDracor/goethe-goetter-helden-und-wieland.xml,Bin ich dir als Zwerg erschienen?,0,33,character_speech,1,1,,HERKULES.,#herkules,112.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+243,243,GerDracor/goethe-goetter-helden-und-wieland.xml,Als wohlgestalter Mann mittlerer Größe tritt mein Herkules auf.,0,63,character_speech,1,1,,WIELAND.,#wieland,113.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+244,244,GerDracor/goethe-goetter-helden-und-wieland.xml,Mittlerer Größe!,0,16,character_speech,1,1,,HERKULES.,#herkules,114.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+245,245,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich!,17,21,character_speech,1,1,,HERKULES.,#herkules,114.0,MALE,being moved,K,,1773.0,being moved,being moved
+246,246,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wenn Ihr der Herkules seid, so seid Ihr's nicht gemeint.",0,56,character_speech,1,1,,WIELAND.,#wieland,115.0,MALE,being moved,K,,1773.0,being moved,being moved
+247,247,GerDracor/goethe-goetter-helden-und-wieland.xml,"Es ist mein Name, und auf den bin ich stolz.",0,44,character_speech,1,1,,HERKULES.,#herkules,116.0,MALE,"admiration, reverence",K,,1773.0,positive,emotions of affection
+248,248,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich weiß wohl, wenn ein Fratze keinen
+            Schildhalter unter den Bären, Greifen und Schweinen finden kann, so nimmt er einen
+            Herkules dazu.",45,204,character_speech,1,1,,HERKULES.,#herkules,116.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+249,249,GerDracor/goethe-goetter-helden-und-wieland.xml,Denn meine Gottheit ist dir niemals im Traum erschienen.,205,261,character_speech,1,1,,HERKULES.,#herkules,116.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+250,250,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich gestehe, das ist der erste Traum, den ich so habe.",0,54,character_speech,1,1,,WIELAND.,#wieland,117.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+251,251,GerDracor/goethe-goetter-helden-und-wieland.xml,"So geh in dich, und bitte den Göttern ab deine Noten übern Homer, wo wir dir zu groß
+            sind.",0,102,character_speech,1,1,,HERKULES.,#herkules,118.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+252,252,GerDracor/goethe-goetter-helden-und-wieland.xml,"Das glaub ich, zu groß!",103,126,character_speech,1,1,,HERKULES.,#herkules,118.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+253,253,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wahrhaftig, Ihr seid ungeheuer.",0,31,character_speech,1,1,,WIELAND.,#wieland,119.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+254,254,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich hab mir Euch niemals so imaginiert.,32,71,character_speech,1,1,,WIELAND.,#wieland,119.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+255,255,GerDracor/goethe-goetter-helden-und-wieland.xml,"Was kann ich davor, daß Er so eine engbrüstige Imagination hat.",0,63,character_speech,1,1,,HERKULES.,#herkules,120.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+256,256,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wer ist denn Sein
+            Herkules, auf den Er sich soviel zugute tut?",64,138,character_speech,1,1,,HERKULES.,#herkules,120.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+257,257,GerDracor/goethe-goetter-helden-und-wieland.xml,Und was will er?,139,155,character_speech,1,1,,HERKULES.,#herkules,120.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+258,258,GerDracor/goethe-goetter-helden-und-wieland.xml,"Für die
+              Tugend!",156,185,character_speech,1,1,,HERKULES.,#herkules,120.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+259,259,GerDracor/goethe-goetter-helden-und-wieland.xml,Was heißt die Devise?,199,220,character_speech,1,1,,HERKULES.,#herkules,120.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+260,260,GerDracor/goethe-goetter-helden-und-wieland.xml,"Hast du die Tugend gesehn, Wieland?",221,256,character_speech,1,1,,HERKULES.,#herkules,120.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+261,261,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich bin doch
+            auch in der Welt herumgekommen, und ist mir nichts so begegnet.",257,345,character_speech,1,1,,HERKULES.,#herkules,120.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+262,262,GerDracor/goethe-goetter-helden-und-wieland.xml,"Die Tugend, für die mein Herkules alles tut, alles wagt, Ihr kennt sie nicht!",0,77,character_speech,1,1,,WIELAND.,#wieland,121.0,MALE,"admiration, reverence",K,,1773.0,positive,emotions of affection
+263,263,GerDracor/goethe-goetter-helden-und-wieland.xml,Tugend!,0,7,character_speech,1,1,,HERKULES.,#herkules,122.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+264,264,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich hab das Wort erst hier unten von ein paar albernen Kerls gehört, die keine
+            Rechenschaft davon zu geben wußten.",8,134,character_speech,1,1,,HERKULES.,#herkules,122.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+265,265,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich bin's ebensowenig imstande.,0,31,character_speech,1,1,,WIELAND.,#wieland,123.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+266,266,GerDracor/goethe-goetter-helden-und-wieland.xml,Doch laßt uns darüber keine Worte verderben.,32,76,character_speech,1,1,,WIELAND.,#wieland,123.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+267,267,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ich
+            wollte, Ihr hättet meine Gedichte gelesen, und Ihr würdet finden, daß ich selbst die
+            Tugend wenig achte.",77,209,character_speech,1,1,,WIELAND.,#wieland,123.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+268,268,GerDracor/goethe-goetter-helden-und-wieland.xml,Sie ist ein zweideutiges Ding.,210,240,character_speech,1,1,,WIELAND.,#wieland,123.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+269,269,GerDracor/goethe-goetter-helden-und-wieland.xml,"Ein Unding ist sie wie alle Phantasie, die mit dem Gang der Welt nicht bestehen kann.",0,85,character_speech,1,1,,HERKULES.,#herkules,124.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+270,270,GerDracor/goethe-goetter-helden-und-wieland.xml,"Eure Tugend kommt mir vor wie ein Zentaur; solang der vor Eurer Imagination herumtrabt,
+            wie herrlich, wie kräftig!",98,224,character_speech,1,1,,HERKULES.,#herkules,124.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+271,271,GerDracor/goethe-goetter-helden-und-wieland.xml,"und wenn der Bildhauer Euch ihn hinstellt, welch
+            übermenschliche Form!",225,307,character_speech,1,1,,HERKULES.,#herkules,124.0,MALE,"admiration, reverence",K,,1773.0,positive,emotions of affection
+272,272,GerDracor/goethe-goetter-helden-und-wieland.xml,"– Anatomiert ihn und findet vier Lungen, zwei Herzen, zwei Mägen.",308,373,character_speech,1,1,,HERKULES.,#herkules,124.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+273,273,GerDracor/goethe-goetter-helden-und-wieland.xml,"Er stirbt im Augenblicke der Geburt wie ein andres Mißgeschöpf oder ist nie außer Eurem
+            Kopf erzeugt worden.",386,506,character_speech,1,1,,HERKULES.,#herkules,124.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+274,274,GerDracor/goethe-goetter-helden-und-wieland.xml,"Tugend muß doch was sein, sie muß wo sein.",0,42,character_speech,1,1,,WIELAND.,#wieland,125.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+275,275,GerDracor/goethe-goetter-helden-und-wieland.xml,Bei meines Vaters ewigem Bart!,0,30,character_speech,1,1,,HERKULES.,#herkules,126.0,MALE,love,K,,1773.0,positive,emotions of affection
+276,276,GerDracor/goethe-goetter-helden-und-wieland.xml,Wer hat daran gezweifelt?,31,56,character_speech,1,1,,HERKULES.,#herkules,126.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+277,277,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und mich dünkt, bei uns wohnte
+            sie, Halbgöttern und Helden.",57,128,character_speech,1,1,,HERKULES.,#herkules,126.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+278,278,GerDracor/goethe-goetter-helden-und-wieland.xml,"Meinst du, wir lebten wie das Vieh, weil eure Bürger sich
+            vor den Faustrechtszeiten kreuzigen?",129,235,character_speech,1,1,,HERKULES.,#herkules,126.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+279,279,GerDracor/goethe-goetter-helden-und-wieland.xml,Wir hatten die bravsten Kerls unter uns.,236,276,character_speech,1,1,,HERKULES.,#herkules,126.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+280,280,GerDracor/goethe-goetter-helden-und-wieland.xml,Was nennt Ihr brave Kerls?,0,26,character_speech,1,1,,WIELAND.,#wieland,127.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+281,281,GerDracor/goethe-goetter-helden-und-wieland.xml,"Einen, der mitteilt, was er hat.",0,32,character_speech,1,1,,HERKULES.,#herkules,128.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+282,282,GerDracor/goethe-goetter-helden-und-wieland.xml,Und der reichste ist der bravste.,33,66,character_speech,1,1,,HERKULES.,#herkules,128.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+283,283,GerDracor/goethe-goetter-helden-und-wieland.xml,"Hatte einer Überfluß
+            an Kräften, so prügelte er die andern aus.",67,142,character_speech,1,1,,HERKULES.,#herkules,128.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+284,284,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und versteht sich, ein rechter Mann gibt sich
+            nie mit geringern ab, nur mit seinesgleichen, auch größern wohl.",143,265,character_speech,1,1,,HERKULES.,#herkules,128.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+285,285,GerDracor/goethe-goetter-helden-und-wieland.xml,"Hatte einer denn
+            Überfluß an Säften, machte er den Weibern soviel Kinder, als sie begehrten, auch wohl
+            ungebeten.",266,403,character_speech,1,1,,HERKULES.,#herkules,128.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+286,286,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wie ich denn selbst in  einer Nacht funfzig Buben ausgearbeitet
+            habe.",404,485,character_speech,1,1,,HERKULES.,#herkules,128.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+287,287,GerDracor/goethe-goetter-helden-und-wieland.xml,"Fehlt' es einem denn an beiden und der Himmel hatte ihm, oder auch wohl dazu, Erb
+            und Hab vor Tausenden gegeben, eröffnete er seine Türen und hieß Tausende willkommen,
+            mit ihm zu genießen.",486,698,character_speech,1,1,,HERKULES.,#herkules,128.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+288,288,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und da steht Admet, der wohl der bravste in diesem Stücke genannt
+            werden kann.",699,789,character_speech,1,1,,HERKULES.,#herkules,128.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+289,289,GerDracor/goethe-goetter-helden-und-wieland.xml,Das meiste davon wird zu unsern Zeiten für Laster gerechnet.,0,60,character_speech,1,1,,WIELAND.,#wieland,129.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+290,290,GerDracor/goethe-goetter-helden-und-wieland.xml,"Laster, das ist wieder ein schönes Wort.",0,40,character_speech,1,1,,HERKULES.,#herkules,130.0,MALE,suffering,K,,1773.0,negative,emotions of suffering and empathy
+291,291,GerDracor/goethe-goetter-helden-und-wieland.xml,"Dadurch wird eben alles so halb bei euch, daß
+            ihr euch Tugend und Laster als zwei Extrema vorstellt, zwischen denen ihr schwankt.",41,182,character_speech,1,1,,HERKULES.,#herkules,130.0,MALE,being moved,K,,1773.0,being moved,being moved
+292,292,GerDracor/goethe-goetter-helden-und-wieland.xml,"Anstatt euern Mittelzustand als den positiven anzusehn und den besten, wie's eure Bauern
+            und Knechte und Mägde noch tun.",195,327,character_speech,1,1,,HERKULES.,#herkules,130.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+293,293,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wenn Ihr diese Gesinnungen in meinem Jahrhunderte merken ließet, man würde Euch
+            steinigen.",0,102,character_speech,1,1,,WIELAND.,#wieland,131.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+294,294,GerDracor/goethe-goetter-helden-und-wieland.xml,"Haben sie mich wegen meiner kleinen Angriffe an Tugend und Religion so
+            entsetzlich verketzert.",103,209,character_speech,1,1,,WIELAND.,#wieland,131.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+295,295,GerDracor/goethe-goetter-helden-und-wieland.xml,Was ist da viel anzugreifen?,0,28,character_speech,1,1,,HERKULES.,#herkules,132.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+296,296,GerDracor/goethe-goetter-helden-und-wieland.xml,"Die Pferde, Menschenfresser und Drachen, mit denen hab
+            ich's aufgenommen, mit Wolken niemals, sie wollten eine Gestalt haben, wie sie mochten.",29,183,character_speech,1,1,,HERKULES.,#herkules,132.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+297,297,GerDracor/goethe-goetter-helden-und-wieland.xml,"Die überläßt ein gescheiter Mann dem Winde, der sie zusammengeführt hat, wieder zu
+            verwehen.",196,300,character_speech,1,1,,HERKULES.,#herkules,132.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+298,298,GerDracor/goethe-goetter-helden-und-wieland.xml,Ihr seid ein Unmensch!,0,22,character_speech,1,1,,WIELAND.,#wieland,133.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+299,299,GerDracor/goethe-goetter-helden-und-wieland.xml,ein Gotteslästrer.,23,41,character_speech,1,1,,WIELAND.,#wieland,133.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+300,300,GerDracor/goethe-goetter-helden-und-wieland.xml,Will dir das nicht in Kopf?,0,27,character_speech,1,1,,HERKULES.,#herkules,134.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+301,301,GerDracor/goethe-goetter-helden-und-wieland.xml,"Aber des Prodikus Herkules, das ist dein Mann.",28,74,character_speech,1,1,,HERKULES.,#herkules,134.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+302,302,GerDracor/goethe-goetter-helden-und-wieland.xml,"Eines
+            Schulmeisters Herkules.",75,116,character_speech,1,1,,HERKULES.,#herkules,134.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+303,303,GerDracor/goethe-goetter-helden-und-wieland.xml,Ein unbärtiger Sylvio am Scheideweg.,117,153,character_speech,1,1,,HERKULES.,#herkules,134.0,MALE,being moved,K,,1773.0,being moved,being moved
+304,304,GerDracor/goethe-goetter-helden-und-wieland.xml,"Wären mir die Weiber
+            begegnet, siehst du, eine unter den Arm, eine unter den, und alle beide hätten mit
+            fortgemußt.",154,293,character_speech,1,1,,HERKULES.,#herkules,134.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+305,305,GerDracor/goethe-goetter-helden-und-wieland.xml,"Darin ist dein Amadis kein Narr, ich laß dir Gerechtigkeit widerfahren.",294,365,character_speech,1,1,,HERKULES.,#herkules,134.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+306,306,GerDracor/goethe-goetter-helden-und-wieland.xml,"Kenntet Ihr meine Gesinnungen, Ihr würdet noch anders denken.",0,61,character_speech,1,1,,WIELAND.,#wieland,135.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+307,307,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich weiß genug.,0,15,character_speech,1,1,,HERKULES.,#herkules,136.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+308,308,GerDracor/goethe-goetter-helden-und-wieland.xml,"Hättest du nicht zu lang unter der Knechtschaft deiner Religion und
+            Sittenlehre geseufzt,  es hätte noch was aus dir werden können.",16,159,character_speech,1,1,,HERKULES.,#herkules,136.0,MALE,joy,K,,1773.0,positive,emotions of pleasure
+309,309,GerDracor/goethe-goetter-helden-und-wieland.xml,"Denn jetzt
+            hängen dir immer noch die scheelen Ideale an.",160,228,character_speech,1,1,,HERKULES.,#herkules,136.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+310,310,GerDracor/goethe-goetter-helden-und-wieland.xml,"Kannst nicht verdauen, daß ein Halbgott
+            sich betrinkt und ein Flegel ist, seiner Gottheit ohnbeschadet.",229,344,character_speech,1,1,,HERKULES.,#herkules,136.0,MALE,abhorrence,K,,1773.0,negative,emotions of rejection
+311,311,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und wunder meinst, wie
+            du einen Kerl prostituiert hättest, wenn du ihn untern Tisch oder zum Mädel auf die
+            Streu bringst.",345,490,character_speech,1,1,,HERKULES.,#herkules,136.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+312,312,GerDracor/goethe-goetter-helden-und-wieland.xml,Weil Eure Hochwürden das nicht Wort haben wollen.,491,540,character_speech,1,1,,HERKULES.,#herkules,136.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+313,313,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich empfehle mich.,0,18,character_speech,1,1,,WIELAND.,#wieland,137.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+314,314,GerDracor/goethe-goetter-helden-und-wieland.xml,Du möchtest aufwachen.,0,22,character_speech,1,1,,HERKULES.,#herkules,138.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+315,315,GerDracor/goethe-goetter-helden-und-wieland.xml,Noch ein Wort.,23,37,character_speech,1,1,,HERKULES.,#herkules,138.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+316,316,GerDracor/goethe-goetter-helden-und-wieland.xml,"Was soll ich von eines Menschen Verstand denken,
+            der in seinem vierzigsten Jahr ein groß Werks und Wesens draus machen kann und fünf,
+            sechs Bücher vollschreiben, davon, daß ein Maidel mit kaltem Blut kann bei drei, vier
+            Kerls liegen und sie eben in der Reihe herum liebhaben.",38,349,character_speech,1,1,,HERKULES.,#herkules,138.0,MALE,"admiration, reverence",K,,1773.0,positive,emotions of affection
+317,317,GerDracor/goethe-goetter-helden-und-wieland.xml,"Und daß die Kerls sich drüber
+            beleidigt finden und doch wieder anbeißen.",350,434,character_speech,1,1,,HERKULES.,#herkules,138.0,MALE,Schadenfreude,K,,1773.0,positive,emotions of pleasure
+318,318,GerDracor/goethe-goetter-helden-und-wieland.xml,Ich sehe gar nicht –,435,455,character_speech,1,1,,HERKULES.,#herkules,138.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+319,319,GerDracor/goethe-goetter-helden-und-wieland.xml,inwendig.,0,9,stage_direction,1,1,speech_part,,#pluto,139.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+320,320,GerDracor/goethe-goetter-helden-und-wieland.xml,He!,0,3,character_speech,1,1,,PLUTO,#pluto,139.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+321,321,GerDracor/goethe-goetter-helden-und-wieland.xml,Ho!,4,7,character_speech,1,1,,PLUTO,#pluto,139.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+322,322,GerDracor/goethe-goetter-helden-und-wieland.xml,Was für ein verfluchter Lärm da draußen.,8,48,character_speech,1,1,,PLUTO,#pluto,139.0,MALE,anger,K,,1773.0,negative,emotions of rejection
+323,323,GerDracor/goethe-goetter-helden-und-wieland.xml,"Herkules, dich hört man überall vor.",49,85,character_speech,1,1,,PLUTO,#pluto,139.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+324,324,GerDracor/goethe-goetter-helden-und-wieland.xml,"Kann man denn nicht einmal ruhig liegen bei seinem Weibe, wenn sie nichts dagegen
+            hat.",98,196,character_speech,1,1,,PLUTO,#pluto,139.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+325,325,GerDracor/goethe-goetter-helden-und-wieland.xml,"So gehabt Euch wohl, Herr Hofrat.",0,33,character_speech,1,1,,HERKULES.,#herkules,140.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+326,326,GerDracor/goethe-goetter-helden-und-wieland.xml,erwachend.,0,10,stage_direction,1,1,speech_part,,#wieland,141.0,MALE,no_annotation,K,,1773.0,no_annotation,no_annotation
+327,327,GerDracor/goethe-goetter-helden-und-wieland.xml,"Sie reden, was sie wollen: mögen sie doch reden, was kümmert's mich.",0,68,character_speech,1,1,,WIELAND,#wieland,141.0,MALE,anger,K,,1773.0,negative,emotions of rejection

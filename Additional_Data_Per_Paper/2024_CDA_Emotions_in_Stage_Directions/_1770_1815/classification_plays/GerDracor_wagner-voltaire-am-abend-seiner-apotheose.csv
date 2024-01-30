@@ -1,0 +1,606 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+0,0,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Des Dichters Schlafzimmer in Paris; Voltaire schwankt nach obigem Kostüm gekleidet
+          mit einem Lorbeerkranz um den Kopf mit Mütze, Stock und Degen seinem Schreibtisch zu;
+          wirft sich starr und atemlos in den daran stehenden Armstuhl, sieht steif gen Himmel, läßt
+          was er in Händen hat fallen, schlägt sie mit theatralischer Grimasse dem Kopf parallel
+          zusammen und lallt mit gebrochener Stimme.",0,429,stage_direction,1,1,pre_speech,,,,,being moved,being moved,being moved
+1,1,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Jetzt – jetzt will ich gerne sterben!,0,37,character_speech,1,1,,VOLTAIRE.,#voltaire,1.0,MALE,despair,negative,emotions of anxiety
+2,2,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,38,39,character_speech,1,1,,VOLTAIRE.,#voltaire,1.0,MALE,no_annotation,no_annotation,no_annotation
+3,3,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Die Hände entsinken ihm in ihre natürliche Lage, er bleibt unbeweglich sitzen; regt
+            kein Auge mehr.",0,111,stage_direction,1,1,speech_part,,#voltaire,1.0,MALE,suffering,negative,emotions of suffering and empathy
+4,4,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Seine Amme holcht ihm ganz langsam nach, hört nur das letzte Wort
+            noch.",112,195,stage_direction,1,1,speech_part,,#voltaire,1.0,MALE,no_annotation,no_annotation,no_annotation
+5,5,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sterben!,0,8,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,despair,negative,emotions of anxiety
+6,6,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– schwatzt er schon wieder von Sterben?,9,48,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+7,7,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Kann gewiß den Reim wieder nicht
+            finden!",49,103,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+8,8,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Wenn er beim Wort sterben was denkt, soll mir's ergehen, wie seiner Alten im
+            »Candide«!",104,205,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+9,9,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Aber freilich, so gut wird's nicht jeder!",206,247,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+10,10,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"hab's ja auch immer gesagt, daß es
+            ein abgeschmackter, unwahrscheinlicher Roman wäre.",248,345,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,abhorrence,negative,emotions of rejection
+11,11,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Die Fiktion in der »Pucelle« gegen
+            das Ende zu, mit dem Esel hat mir von jeher weit besser gefallen; die ist doch aus der
+            Natur gegriffen, ist wahr!",346,520,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,joy,positive,emotions of pleasure
+12,12,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"so was erlebt man denn doch noch täglich; sollt's auch nur in
+            den Klöstern sein!",521,613,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,suffering,negative,emotions of suffering and empathy
+13,13,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sie wird den Kranz gewahr.,0,26,stage_direction,1,1,inner_speech,,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+14,14,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, Um 's Himmels willen!,0,22,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,fear,negative,emotions of anxiety
+15,15,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,sollt's denn diesmal sein Ernst sein?,35,72,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+16,16,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,hat ja würklich den Totenkranz auf –,73,109,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+17,17,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Sie
+              riecht an die Blätter.",0,40,stage_direction,1,1,inner_speech,,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+18,18,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, pfui!,0,6,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,anger,negative,emotions of rejection
+19,19,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,das riecht ja wie nur halb zeitig.,7,41,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+20,20,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Pfah!,42,49,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+21,21,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"er
+            will uns doch nur uzen; den Schreckenputz kenn ich schon!",50,122,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,fear,negative,emotions of anxiety
+22,22,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Hat mir schon in den Windeln
+            jede verwelkte Blume aus der Hand gerissen, und seine Stumpfhaare mit zieren wollen; hat
+            mir seither oft angelegen ihm seinen Junggesellenkranz zu verfertigen, damit er noch bei
+            Lebzeiten an den Stinkrosen sich laben könne – da müßt ich aber nicht wissen, was ich
+            weiß!",123,471,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,abhorrence,negative,emotions of rejection
+23,23,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"kann er sich doch selbst nicht mehr erinnern, wenn er aufgehört hat ein
+            Junggeselle zu sein?",472,576,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+24,24,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Freilich, solang die Académie françoise allen den Grauköpfen, die
+            zu stolz oder zu schwach waren sich eine Frau antrauen zu lassen, den Unnamen garçons
+            beilegt, hat er allemal gleich jedem andern ein Recht garçon heißen zu wollen; – wird
+            auch als garçon begraben werden, sollt er noch einmal so lang leben – Sitzt er nicht
+            wieder in voller Entzückung da!",577,981,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,joy,positive,emotions of pleasure
+25,25,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,He Arouetchen!,982,996,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,joy,positive,emotions of pleasure
+26,26,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Arouetchen!,997,1008,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+27,27,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Gott stärke mir morgen
+            meine Ohren und mein Genick: jene werden sich wieder",1009,1098,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+28,28,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," was vorkeichen
+            lassen, dieses wird wieder was zunicken müssen!",0,75,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+29,29,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Ich muß dem Traum ein Ende machen; je
+            länger die Windstille dauert, je stärker wütet der auf sie folgende Sturm; ich will ihn
+            aus seinem poetischen Schlaf aufwecken, sonst kann ich den morgenden Tag nicht
+            überleben, das ewige Gewühl und Getümmel auf der Straße hat mich ohnehin schon halb taub
+            gemacht.",76,428,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+30,30,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– He Monsieur Arouet de Voltaire – Seigneur de Ferney-Auteur de la »Henriade« –,429,508,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+31,31,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Schlägt sich aufs Maul.,0,23,stage_direction,1,1,inner_speech,,#amme,2.0,FEMALE,anger,negative,emotions of rejection
+32,32,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, das hab ich gut gemacht!,0,25,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,joy,positive,emotions of pleasure
+33,33,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"wenn ich ihn auf keine
+            Weise in Schlaf zu singen weiß, darf ich ihm nur ein Dutzend Verse draus vorleiern, wenn
+            ich anders vor Gähnen so weit lesen kann –",26,204,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+34,34,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sie gähnt würklich.,0,19,stage_direction,1,1,inner_speech,,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+35,35,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," Jetzt aber
+            will ich ihn ja aufwecken, sonst kann ich bis morgen bei ihm hier sitzen, –",0,99,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+36,36,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Halblaut.,0,9,stage_direction,1,1,inner_speech,,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+37,37,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," Rival de Racine – nein das geht auch nicht an; den will er ja
+            nicht für voll erkennen, hat ihn nicht einmal gewürdigt einen Kommentar – bald hätt ich
+            Pasquill gesagt – über seine Werke zu machen; gut daß ich nicht lauter gesprochen!",0,257,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,anger,negative,emotions of rejection
+38,38,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,258,259,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+39,39,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Laut.,0,5,stage_direction,1,1,inner_speech,,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+40,40,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, Commentateur de Pierre Corneille!,0,34,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+41,41,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Hört er doch nicht?,35,56,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+42,42,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Voilà
+            sa nièce!",57,86,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+43,43,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Nun wahrhaftig so tief sah ich ihn noch nie schlafen; auch,87,147,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+44,44,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, Generalpachter« – wenn ich nun nach dieser Melodie?,0,52,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+45,45,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,53,54,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+46,46,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Zählt an Fingern, und murmelt etwas in sich hinein.",0,51,stage_direction,1,1,inner_speech,,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+47,47,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, Vortrefflich!,0,14,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,anger,negative,emotions of rejection
+48,48,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"es
+            paßt auf ein Haar!",15,48,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+49,49,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"wir wollen ein wenig annehmen, es wär jetzt grade von",49,102,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+50,50,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Naht sich und
+              schreit ihm ins Ohr.",0,48,stage_direction,1,1,inner_speech,,#amme,2.0,FEMALE,fear,negative,emotions of anxiety
+51,51,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, »Es war einmal ein Herr von Voltaire.«,0,39,character_speech,1,1,,AMME.,#amme,2.0,FEMALE,no_annotation,no_annotation,no_annotation
+52,52,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,ohne sich übrigens zu regen.,0,28,stage_direction,1,1,speech_part,,#voltaire,3.0,MALE,being moved,being moved,being moved
+53,53,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Irene!,0,6,character_speech,1,1,,VOLTAIRE,#voltaire,3.0,MALE,being moved,being moved,being moved
+54,54,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,göttliche Irene!,7,23,character_speech,1,1,,VOLTAIRE,#voltaire,3.0,MALE,love,positive,emotions of affection
+55,55,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Wie dumm ich auch bin!,0,22,character_speech,1,1,,AMME.,#amme,4.0,FEMALE,anger,negative,emotions of rejection
+56,56,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"weiß, daß er seitdem wir wieder hier sind, ganz zur Irene
+            geworden ist, ihr bald die Zähne geputzt und bald die Füße gesäubert hat; daß er in
+            seiner Krankheit nur von ihr phantasiert, nur ihr zulieb zu gehöriger Zeit seine Ptisane
+            und Bouillon verschluckt hat, und dachte doch nicht daran ihm diese zu nennen!",23,368,character_speech,1,1,,AMME.,#amme,4.0,FEMALE,love,positive,emotions of affection
+57,57,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Der
+            Verfasser von »Irene«!",369,409,character_speech,1,1,,AMME.,#amme,4.0,FEMALE,no_annotation,no_annotation,no_annotation
+58,58,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,von »Irene«!,410,422,character_speech,1,1,,AMME.,#amme,4.0,FEMALE,no_annotation,no_annotation,no_annotation
+59,59,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,wie oben.,0,9,stage_direction,1,1,speech_part,,#voltaire,5.0,MALE,no_annotation,no_annotation,no_annotation
+60,60,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"So ist's denn beschlossen, meine Herren!",0,40,character_speech,1,1,,VOLTAIRE,#voltaire,5.0,MALE,no_annotation,no_annotation,no_annotation
+61,61,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,ich muß sterben?,41,57,character_speech,1,1,,VOLTAIRE,#voltaire,5.0,MALE,despair,negative,emotions of anxiety
+62,62,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sagt ich's nicht?,0,17,character_speech,1,1,,AMME.,#amme,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+63,63,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"das ist der ewige Refrain, sooft er nichts denken will!",18,73,character_speech,1,1,,AMME.,#amme,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+64,64,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,74,75,character_speech,1,1,,AMME.,#amme,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+65,65,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Schüttelt ihn.,0,14,stage_direction,1,1,inner_speech,,#amme,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+66,66,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, Verfasser von »Irene«!,0,23,character_speech,1,1,,AMME.,#amme,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+67,67,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Wie sie ihn hin und her
+              rückt, bleibt er steif sitzen.",0,68,stage_direction,1,1,inner_speech,,#amme,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+68,68,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," Was Henkers hat Ihn der Schlag gerührt, daß Er
+            so klotzartig dasitzt, so stier dahin guckt!",0,104,character_speech,1,1,,AMME.,#amme,6.0,FEMALE,anger,negative,emotions of rejection
+69,69,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Wie aufgedunsen, schwarzbraun,
+            verschwollen Er im Gesicht ist!",105,181,character_speech,1,1,,AMME.,#amme,6.0,FEMALE,suffering,negative,emotions of suffering and empathy
+70,70,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,182,183,character_speech,1,1,,AMME.,#amme,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+71,71,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Greift ihm an die Halsbinde.,0,28,stage_direction,1,1,inner_speech,,#amme,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+72,72,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," – Da
+            steckt's wieder!",0,34,character_speech,1,1,,AMME.,#amme,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+73,73,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,die verdammte Eitelkeit!,35,59,character_speech,1,1,,AMME.,#amme,6.0,FEMALE,abhorrence,negative,emotions of rejection
+74,74,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Er wird gewiß noch ihr Märtyrer: Hat Er sich
+            nicht wieder um ein bißchen Farbe zu bekommen die Halsbinde bis zum Erdrosseln
+            zugeschnürt!",60,220,character_speech,1,1,,AMME.,#amme,6.0,FEMALE,abhorrence,negative,emotions of rejection
+75,75,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Macht sie ihm locker, er fängt an freier zu atmen und nach und nach
+              zu sich selbst zu kommen.",0,107,stage_direction,1,1,inner_speech,,#amme,6.0,FEMALE,no_annotation,no_annotation,no_annotation
+76,76,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ha!,0,3,character_speech,1,1,,VOLTAIRE.,#voltaire,7.0,MALE,no_annotation,no_annotation,no_annotation
+77,77,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– bald – bald hättest du mich das Leben gekostet, teure Irene!",4,66,character_speech,1,1,,VOLTAIRE.,#voltaire,7.0,MALE,abhorrence,negative,emotions of rejection
+78,78,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Hat man sie ausgepfiffen?,0,25,character_speech,1,1,,AMME.,#amme,8.0,FEMALE,anger,negative,emotions of rejection
+79,79,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– ist sie gefallen?,26,45,character_speech,1,1,,AMME.,#amme,8.0,FEMALE,no_annotation,no_annotation,no_annotation
+80,80,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Gefallen!,0,9,character_speech,1,1,,VOLTAIRE.,#voltaire,9.0,MALE,no_annotation,no_annotation,no_annotation
+81,81,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Je nun!,0,7,character_speech,1,1,,AMME.,#amme,10.0,FEMALE,no_annotation,no_annotation,no_annotation
+82,82,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"das wäre ja nicht die erste Dame, deren Fall Sie zu verantworten hätten.",8,80,character_speech,1,1,,AMME.,#amme,10.0,FEMALE,compassion,negative,emotions of suffering and empathy
+83,83,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Bist du toll Amme!,0,18,character_speech,1,1,,VOLTAIRE.,#voltaire,11.0,MALE,joy,positive,emotions of pleasure
+84,84,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sich langsam aufrecht setzend.,0,30,stage_direction,1,1,inner_speech,,#voltaire,11.0,MALE,no_annotation,no_annotation,no_annotation
+85,85,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, Gefallen!,0,10,character_speech,1,1,,VOLTAIRE.,#voltaire,11.0,MALE,no_annotation,no_annotation,no_annotation
+86,86,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– ob »Irene«
+            gefallen hat?",11,49,character_speech,1,1,,VOLTAIRE.,#voltaire,11.0,MALE,no_annotation,no_annotation,no_annotation
+87,87,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,50,51,character_speech,1,1,,VOLTAIRE.,#voltaire,11.0,MALE,no_annotation,no_annotation,no_annotation
+88,88,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Nimmt seinen Kranz ab.,0,22,stage_direction,1,1,inner_speech,,#voltaire,11.0,MALE,no_annotation,no_annotation,no_annotation
+89,89,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," Hier, der sei dir Zeuge!",0,25,character_speech,1,1,,VOLTAIRE.,#voltaire,11.0,MALE,no_annotation,no_annotation,no_annotation
+90,90,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– der
+            spreche!",26,52,character_speech,1,1,,VOLTAIRE.,#voltaire,11.0,MALE,no_annotation,no_annotation,no_annotation
+91,91,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Jedes Blatt das hineingebunden ist, wird der Nachwelt meinen heut
+            eingeerndeten Ruhm zuposaunen, ihn und mich zur Unsterblichkeit begleiten!",53,207,character_speech,1,1,,VOLTAIRE.,#voltaire,11.0,MALE,no_annotation,no_annotation,no_annotation
+92,92,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,208,209,character_speech,1,1,,VOLTAIRE.,#voltaire,11.0,MALE,no_annotation,no_annotation,no_annotation
+93,93,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Was sind denn das für Blätter?,0,30,character_speech,1,1,,AMME.,#amme,12.0,FEMALE,no_annotation,no_annotation,no_annotation
+94,94,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,ich soll sie ja kennen.,31,54,character_speech,1,1,,AMME.,#amme,12.0,FEMALE,no_annotation,no_annotation,no_annotation
+95,95,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Wie hohl du hier bist!,0,22,character_speech,1,1,,VOLTAIRE.,#voltaire,13.0,MALE,anger,negative,emotions of rejection
+96,96,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Auf die Stirne deutend.,0,23,stage_direction,1,1,inner_speech,,#voltaire,13.0,MALE,no_annotation,no_annotation,no_annotation
+97,97,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, dem,0,4,character_speech,1,1,,VOLTAIRE.,#voltaire,13.0,MALE,no_annotation,no_annotation,no_annotation
+98,98,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," Apoll
+            geweihte, nur seinen liebsten Zöglingen aufbehaltene, unvergängliche Lorbeern
+            sind's!",0,116,character_speech,1,1,,VOLTAIRE.,#voltaire,13.0,MALE,no_annotation,no_annotation,no_annotation
+99,99,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Lorbeern!,0,9,character_speech,1,1,,AMME.,#amme,14.0,FEMALE,joy,positive,emotions of pleasure
+100,100,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Bravo!,10,18,character_speech,1,1,,AMME.,#amme,14.0,FEMALE,no_annotation,no_annotation,no_annotation
+101,101,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– da kann ich wieder manches boeuf à la mode wohlschmeckend mit
+            machen.",19,102,character_speech,1,1,,AMME.,#amme,14.0,FEMALE,no_annotation,no_annotation,no_annotation
+102,102,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,aufgebracht.,0,12,stage_direction,1,1,speech_part,,#voltaire,15.0,MALE,anger,negative,emotions of rejection
+103,103,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Mit diesen Lorbeern?,0,20,character_speech,1,1,,VOLTAIRE,#voltaire,15.0,MALE,no_annotation,no_annotation,no_annotation
+104,104,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Verflucht sei ins hundertste Glied, wer ein Blatt davon zu
+            knicken sich erkühnt!",21,115,character_speech,1,1,,VOLTAIRE,#voltaire,15.0,MALE,abhorrence,negative,emotions of rejection
+105,105,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Den Kranz eines gekrönten Poeten zum boeuf à la mode!,116,171,character_speech,1,1,,VOLTAIRE,#voltaire,15.0,MALE,no_annotation,no_annotation,no_annotation
+106,106,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Verzeihen Sie!,0,14,character_speech,1,1,,AMME.,#amme,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+107,107,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Sie sind also in Ihren alten Tagen noch ein gekrönter Poet geworden?,15,85,character_speech,1,1,,AMME.,#amme,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+108,108,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Wer hätte das denken sollen!,98,126,character_speech,1,1,,AMME.,#amme,16.0,FEMALE,anger,negative,emotions of rejection
+109,109,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Und zwar mit Hülfe dieses Kranzes?,127,163,character_speech,1,1,,AMME.,#amme,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+110,110,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Ei ei!,164,172,character_speech,1,1,,AMME.,#amme,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+111,111,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"ich kann mich
+            nicht satt wundern.",173,218,character_speech,1,1,,AMME.,#amme,16.0,FEMALE,being moved,being moved,being moved
+112,112,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– In Ihren jüngern Jahren hätten Sie freilich auf eine weit
+            leichtere und unerwartetere Weise zu diesem Ehrentitel gelangen können.",219,362,character_speech,1,1,,AMME.,#amme,16.0,FEMALE,no_annotation,no_annotation,no_annotation
+113,113,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,betrachtet den Kranz von allen Seiten und lächelt selbstzufrieden.,0,66,stage_direction,1,1,speech_part,,#voltaire,17.0,MALE,joy,positive,emotions of pleasure
+114,114,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Leichter und unerwarteter nicht als heute!,0,42,character_speech,1,1,,VOLTAIRE,#voltaire,17.0,MALE,joy,positive,emotions of pleasure
+115,115,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,gewiß nicht!,43,55,character_speech,1,1,,VOLTAIRE,#voltaire,17.0,MALE,no_annotation,no_annotation,no_annotation
+116,116,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,O ganz gewiß!,0,13,character_speech,1,1,,AMME.,#amme,18.0,FEMALE,no_annotation,no_annotation,no_annotation
+117,117,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Sie hätten nur ein hübsches Weibchen nehmen dörfen; das Krönen würde
+            sich alsdann von selbst gefunden haben.",14,136,character_speech,1,1,,AMME.,#amme,18.0,FEMALE,no_annotation,no_annotation,no_annotation
+118,118,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,lacht aus vollem Hals.,0,22,stage_direction,1,1,speech_part,,#voltaire,19.0,MALE,joy,positive,emotions of pleasure
+119,119,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Gut gesagt, Amme!",0,17,character_speech,1,1,,VOLTAIRE,#voltaire,19.0,MALE,no_annotation,no_annotation,no_annotation
+120,120,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,das Recht der Wiedervergeltung!,18,49,character_speech,1,1,,VOLTAIRE,#voltaire,19.0,MALE,no_annotation,no_annotation,no_annotation
+121,121,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Wo ist meine Schreibtafel?,50,78,character_speech,1,1,,VOLTAIRE,#voltaire,19.0,MALE,no_annotation,no_annotation,no_annotation
+122,122,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"den
+            Gedanken muß ich mir aufschreiben; damit kann ich wieder halb Paris auf einem Bein
+            herumhüpfen machen.",79,209,character_speech,1,1,,VOLTAIRE,#voltaire,19.0,MALE,joy,positive,emotions of pleasure
+123,123,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,210,211,character_speech,1,1,,VOLTAIRE,#voltaire,19.0,MALE,no_annotation,no_annotation,no_annotation
+124,124,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Er schreibt.,0,12,stage_direction,1,1,inner_speech,,#voltaire,19.0,MALE,no_annotation,no_annotation,no_annotation
+125,125,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," Meiner Nachtigall werf ich bisweilen
+            einen Mehlwurm, meinen Nachbetern ein solches Bonmot vor, beide schlagen dann nur desto
+            lauter!",0,157,character_speech,1,1,,VOLTAIRE,#voltaire,19.0,MALE,abhorrence,negative,emotions of rejection
+126,126,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,158,159,character_speech,1,1,,VOLTAIRE,#voltaire,19.0,MALE,no_annotation,no_annotation,no_annotation
+127,127,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Macht die Schreibtafel zu.,0,26,stage_direction,1,1,inner_speech,,#voltaire,19.0,MALE,no_annotation,no_annotation,no_annotation
+128,128,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," Hier Amme, leg weg!",0,20,character_speech,1,1,,VOLTAIRE,#voltaire,19.0,MALE,love,positive,emotions of affection
+129,129,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Sie will den Kranz nehmen, er zieht ihn aber zurück, und reicht mit der andern Hand
+            die Schreibtafel ihr dar.",0,121,stage_direction,1,1,speech_part,,#voltaire,19.0,MALE,no_annotation,no_annotation,no_annotation
+130,130,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Nein, diese Trophäe darf keine profane Hand betasten, darf keiner berühren, der nicht
+            wenigstens eins meiner Trauerspiele auswendig kann.",0,149,character_speech,1,1,,VOLTAIRE.,#voltaire,20.0,MALE,no_annotation,no_annotation,no_annotation
+131,131,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Wenn das ist, so geben Sie nur immer her; ich kann ihrer wohl ein ganzes halbes Dutzend
+            im Schlaf hertragieren.",0,123,character_speech,1,1,,AMME.,#amme,21.0,FEMALE,no_annotation,no_annotation,no_annotation
+132,132,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Du?,0,3,character_speech,1,1,,VOLTAIRE.,#voltaire,22.0,MALE,no_annotation,no_annotation,no_annotation
+133,133,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Ja, ich!",0,8,character_speech,1,1,,AMME.,#amme,23.0,FEMALE,no_annotation,no_annotation,no_annotation
+134,134,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Wundert Sie's etwa?,9,28,character_speech,1,1,,AMME.,#amme,23.0,FEMALE,being moved,being moved,being moved
+135,135,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Sie kauen es einem ja oft genug vor.,29,67,character_speech,1,1,,AMME.,#amme,23.0,FEMALE,no_annotation,no_annotation,no_annotation
+136,136,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Braten will ich
+            mich lassen lebendig, wenn ich nicht die Zaïre diesen Abend noch ohne ein Wort zu fehlen
+            trotz Ihrer Clairon spielen wollte.",68,232,character_speech,1,1,,AMME.,#amme,23.0,FEMALE,anger,negative,emotions of rejection
+137,137,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Trotz der Clairon!,0,18,character_speech,1,1,,VOLTAIRE.,#voltaire,24.0,MALE,no_annotation,no_annotation,no_annotation
+138,138,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,du die Zaïre?,19,32,character_speech,1,1,,VOLTAIRE.,#voltaire,24.0,MALE,no_annotation,no_annotation,no_annotation
+139,139,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,wo denkst du hin  Alte?,33,56,character_speech,1,1,,VOLTAIRE.,#voltaire,24.0,MALE,being moved,being moved,being moved
+140,140,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Kein Haar mehr
+            auf dem Kopf; kein Zahn im Mund!",57,118,character_speech,1,1,,VOLTAIRE.,#voltaire,24.0,MALE,no_annotation,no_annotation,no_annotation
+141,141,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Wer sollte denn Orosman sein?,119,150,character_speech,1,1,,VOLTAIRE.,#voltaire,24.0,MALE,no_annotation,no_annotation,no_annotation
+142,142,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ei Sie!,0,7,character_speech,1,1,,AMME.,#amme,25.0,FEMALE,being moved,being moved,being moved
+143,143,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ha ha ha!,0,9,character_speech,1,1,,VOLTAIRE.,#voltaire,26.0,MALE,no_annotation,no_annotation,no_annotation
+144,144,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ich Orosman mit meiner Glatze!,10,40,character_speech,1,1,,VOLTAIRE.,#voltaire,26.0,MALE,abhorrence,negative,emotions of rejection
+145,145,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Da müßte Methusalem wohl den Lusignan
+            machen.",41,100,character_speech,1,1,,VOLTAIRE.,#voltaire,26.0,MALE,no_annotation,no_annotation,no_annotation
+146,146,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Was bekümmert mich der?,0,23,character_speech,1,1,,AMME.,#amme,27.0,FEMALE,compassion,negative,emotions of suffering and empathy
+147,147,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Genug, daß ich, wenn Sie Orosman sind, gewiß
+            meine Zaïre nicht verderben werde.",24,117,character_speech,1,1,,AMME.,#amme,27.0,FEMALE,no_annotation,no_annotation,no_annotation
+148,148,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Die funfzehn Jährchen, die ich mehr auf dem Buckel
+            hab als Sie, werden sich doch auch noch verbergen lassen!",118,238,character_speech,1,1,,AMME.,#amme,27.0,FEMALE,being moved,being moved,being moved
+149,149,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Her mit dem Kranz!,239,259,character_speech,1,1,,AMME.,#amme,27.0,FEMALE,no_annotation,no_annotation,no_annotation
+150,150,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Noch nicht, liebe Amme!",0,23,character_speech,1,1,,VOLTAIRE.,#voltaire,28.0,MALE,no_annotation,no_annotation,no_annotation
+151,151,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"laß mich noch etwas mit dem Zeugen meiner unsterblichen
+            Verdienste um die Bühne allein; doch nein, bleib immer!",24,147,character_speech,1,1,,VOLTAIRE.,#voltaire,28.0,MALE,love,positive,emotions of affection
+152,152,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Ich bin außer mir,
+            wonnetrunken bin ich, das ist wahr: Meine Freude ist aber zu gerecht als daß ich mich
+            derselben zu schämen hätte.",148,306,character_speech,1,1,,VOLTAIRE.,#voltaire,28.0,MALE,joy,positive,emotions of pleasure
+153,153,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Es ist keine Schande, Gefühl für Ehre zu haben.",307,354,character_speech,1,1,,VOLTAIRE.,#voltaire,28.0,MALE,no_annotation,no_annotation,no_annotation
+154,154,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Eine schöne Sentenz, die ich bei Gelegenheit wo einzuflicken gedenke!",367,438,character_speech,1,1,,VOLTAIRE.,#voltaire,28.0,MALE,no_annotation,no_annotation,no_annotation
+155,155,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Du weißt
+            nicht, Amme, wie glücklich für mich der heutige Tag war!",439,518,character_speech,1,1,,VOLTAIRE.,#voltaire,28.0,MALE,joy,positive,emotions of pleasure
+156,156,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Er allein hält mich für alle
+            bittre, mißvergnügte Stunden, die Paris mir ehmals verursachte, schadlos.",519,633,character_speech,1,1,,VOLTAIRE.,#voltaire,28.0,MALE,joy,positive,emotions of pleasure
+157,157,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,für sich.,0,9,stage_direction,1,1,speech_part,,#amme,29.0,FEMALE,no_annotation,no_annotation,no_annotation
+158,158,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Auch für die Stockschläge, mit denen der Marquis von – wie heißt er doch gleich?",0,80,character_speech,1,1,,AMME,#amme,29.0,FEMALE,abhorrence,negative,emotions of rejection
+159,159,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– ein
+            gewisses beißendes Bonmot bezahlte?",81,134,character_speech,1,1,,AMME,#amme,29.0,FEMALE,no_annotation,no_annotation,no_annotation
+160,160,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,135,136,character_speech,1,1,,AMME,#amme,29.0,FEMALE,no_annotation,no_annotation,no_annotation
+161,161,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Was murmelst in dich hinein dort?,0,33,character_speech,1,1,,VOLTAIRE.,#voltaire,30.0,MALE,anger,negative,emotions of rejection
+162,162,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Komme her, setz dich auf den Arm von meinem
+            Lehnstuhl hier zu mir; ich will dir haarklein alles erzählen, was heut vorgefallen ist;
+            sollst dich mit mir freuen, teil an meiner Zufriedenheit nehmen, wie du ihn jederzeit
+            auch an meinem Kummer genommen.",34,321,character_speech,1,1,,VOLTAIRE.,#voltaire,30.0,MALE,joy,positive,emotions of pleasure
+163,163,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Wirst gewiß zwanzig Jahr jünger dich fühlen, wenn du
+            mich erst angehört hast.",322,411,character_speech,1,1,,VOLTAIRE.,#voltaire,30.0,MALE,joy,positive,emotions of pleasure
+164,164,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Komm guts Ammchen!,412,430,character_speech,1,1,,VOLTAIRE.,#voltaire,30.0,MALE,joy,positive,emotions of pleasure
+165,165,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ja wenn das ist,0,15,character_speech,1,1,,AMME.,#amme,31.0,FEMALE,no_annotation,no_annotation,no_annotation
+166,166,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Im Hingehen für sich.,0,21,stage_direction,1,1,inner_speech,,#amme,31.0,FEMALE,no_annotation,no_annotation,no_annotation
+167,167,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," nun gnade GOtt heut meinen Ohren;
+            dacht ich, sie müßten erst morgen dran!",0,86,character_speech,1,1,,AMME.,#amme,31.0,FEMALE,joy,positive,emotions of pleasure
+168,168,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Setzt sich zu ihm auf den Arm des
+              Stuhls.",0,55,stage_direction,1,1,inner_speech,,#amme,31.0,FEMALE,no_annotation,no_annotation,no_annotation
+169,169,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Hier erzählt nun der eigenliebige Alte seiner Amme, welche sooft er sie ansieht nur
+          mit dem Kopf nicket – was man in allen französischen und teutschen Zeitungsblättern
+          weitläuftig lesen kann, mit der ihm eigenen Suada: Wie er nämlich den 30.",0,261,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+170,170,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"März 1778 die
+          Versammlung der Académie françoise mit seiner Gegenwart beehrt hätte, von seinen
+          sämtlichen Herren Kollegen auf halbem Weg empfangen, alsobald auf den Platz des Directeur",262,466,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+171,171,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Noch weit beredter wurde er aber bei Schilderung des Nachspiels.,0,64,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+172,172,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Worte, meinte er,
+          reichten nicht hin seine und des ganzen Publikums Überraschung nur im Schatten zu
+          entwerfen, oder die Rührung zu beschreiben, mit welcher die Akteurs und Aktricen, dieweil
+          sie dem Brustbild des Herrn Erzählers einer um den andern Lorbeerkränze aufsetzten, von
+          allen Gegenwärtigen begleitet wurden; – wie großen allgemeinen Beifall diese neue noch
+          keinem als ihm zuteil gewordene Ehrenbezeugung erhalten, ließe sich gar nicht sagen.",65,564,stage_direction,1,1,pre_speech,,,,,suffering,negative,emotions of suffering and empathy
+173,173,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Kaum
+          hätt es der Madame Vestris (seiner göttlichen Irene, an der er sich so manche Nacht marode
+          gefeilt, an der er seine letzten Kräften verschwendet) nach langem Harren geglückt, den
+          unaufhörlichen Applaudissements Einhalt zu tun und einige ganz vortreffliche Verse, die
+          der Herr Marquis von St.",565,901,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+174,174,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Marc auf ihn Voltaire gemacht hätte, und die zwar Lobs genug,
+          aber keine übertriebene Schmeichelei enthielten, dem nun zum drittenmal entzückten Publiko
+          vorlesen zu können, das sie dann ancora zu hören verlangt hätte.",902,1139,stage_direction,1,1,pre_speech,,,,,joy,positive,emotions of pleasure
+175,175,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"So wär er in einem Abend
+          begafft,",1140,1183,stage_direction,1,1,pre_speech,,,,,Schadenfreude,positive,emotions of pleasure
+176,176,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Nicht wahr Amme!,0,16,character_speech,1,1,,VOLTAIRE.,#voltaire,32.0,MALE,no_annotation,no_annotation,no_annotation
+177,177,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,das war ein schöner Tag für mich!,17,50,character_speech,1,1,,VOLTAIRE.,#voltaire,32.0,MALE,joy,positive,emotions of pleasure
+178,178,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,gewiß der schönste meines Lebens!,51,84,character_speech,1,1,,VOLTAIRE.,#voltaire,32.0,MALE,love,positive,emotions of affection
+179,179,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Bist du nicht stolz darauf mich an deinen Brüsten gesäugt zu haben?,97,164,character_speech,1,1,,VOLTAIRE.,#voltaire,32.0,MALE,love,positive,emotions of affection
+180,180,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Unstreitig!,0,11,character_speech,1,1,,AMME.,#amme,33.0,FEMALE,no_annotation,no_annotation,no_annotation
+181,181,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Es ist aber auch zehn gegen eines zu wetten, daß Er nicht halb der Mann
+            geworden wäre, wenn Er an einer andern getrunken hätte.",12,151,character_speech,1,1,,AMME.,#amme,33.0,FEMALE,no_annotation,no_annotation,no_annotation
+182,182,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,sich in seine erste nachdenkliche Stellung setzend.,0,51,stage_direction,1,1,speech_part,,#voltaire,34.0,MALE,no_annotation,no_annotation,no_annotation
+183,183,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Meinen Triumph vollkommen zu machen, meine Autorseligkeit in ihrem ganzen Umfang zu
+            genießen, wünscht ich nichts mehr als gleich jetzt einen Blick in das künftige
+            Jahrhundert tun, an den Lobsprüchen, die man mir alsdann nachrufen wird, nur einige
+            Sekunden lang mich weiden zu können.",0,319,character_speech,1,1,,VOLTAIRE,#voltaire,34.0,MALE,joy,positive,emotions of pleasure
+184,184,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,320,321,character_speech,1,1,,VOLTAIRE,#voltaire,34.0,MALE,no_annotation,no_annotation,no_annotation
+185,185,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Bei diesem Gedanken vertieft er sich wieder ebensosehr in sich selbst als er's zu
+            Anfang der Szene war, kein Rufen noch Schütteln kann ihn seiner Starrheit
+            entreißen.",0,190,stage_direction,1,1,speech_part,,#voltaire,34.0,MALE,being moved,being moved,being moved
+186,186,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Da ist er wieder in seine vorige Entzückung versunken!,0,54,character_speech,1,1,,AMME.,#amme,35.0,FEMALE,joy,positive,emotions of pleasure
+187,187,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Heut scheint's komm ich wieder
+            einmal um meine Nachtruh!",55,125,character_speech,1,1,,AMME.,#amme,35.0,FEMALE,no_annotation,no_annotation,no_annotation
+188,188,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– – In das künftige Jahrhundert möchte er sehen!,126,174,character_speech,1,1,,AMME.,#amme,35.0,FEMALE,no_annotation,no_annotation,no_annotation
+189,189,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– ob ich's
+            wage mein Zauberbuch herbeizuholen, und ihn in einer Erscheinung seines Wunschs zu
+            gewähren?",175,302,character_speech,1,1,,AMME.,#amme,35.0,FEMALE,no_annotation,no_annotation,no_annotation
+190,190,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,vielleicht dankt er mir's hinterdrein?,303,341,character_speech,1,1,,AMME.,#amme,35.0,FEMALE,anger,negative,emotions of rejection
+191,191,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Es sei!,342,351,character_speech,1,1,,AMME.,#amme,35.0,FEMALE,no_annotation,no_annotation,no_annotation
+192,192,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"ob ein beißendes Sinngedicht
+            mehr oder weniger auf mich gemacht wird, was liegt mir dran, wenn ich tot bin?",352,471,character_speech,1,1,,AMME.,#amme,35.0,FEMALE,abhorrence,negative,emotions of rejection
+193,193,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,472,473,character_speech,1,1,,AMME.,#amme,35.0,FEMALE,no_annotation,no_annotation,no_annotation
+194,194,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Sie schleicht zum Zimmer hinaus, kommt in einer kleinen Welle mit einer Kohlpfanne,
+          einem Zauberstab und offnem Buch in der Hand wieder, schließt die Tür hinter sich zu,
+          zieht einen Kreis um sich, zeichnet allerhand Figuren hinein, murmelt unverständliches
+          Zeug halblaut aus dem Buch her, wirft ein versiegeltes Päckchen auf die glühenden Kohlen,
+          macht nach allen vier Weltgegenden sonderbare Kontorsionen, murmelt wieder aus dem Buch.",0,475,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+195,195,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"–
+          Auf einmal hört man einen fürchterlichen Knall; in dem nämlichen Augenblick stürzt die
+          Amme wie tot zu Boden, fällt aber zum Unglück mit dem Kopf und Oberleib außer den
+          magischen Kreis; Voltaire fährt erschreckt auf, will an Kopf nach seinem Kranz greifen,
+          der ihm mittlerweile aus der Hand fällt.",476,815,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+196,196,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Indem,816,823,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+197,197,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Rede!,0,5,character_speech,1,1,,GESPENST.,#gespenst,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+198,198,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,hier bin ich!,6,19,character_speech,1,1,,GESPENST.,#gespenst,36.0,UNKNOWN,joy,positive,emotions of pleasure
+199,199,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Frag!,20,27,character_speech,1,1,,GESPENST.,#gespenst,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+200,200,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,ich muß antworten.,28,46,character_speech,1,1,,GESPENST.,#gespenst,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+201,201,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,zurückbebend.,0,13,stage_direction,1,1,speech_part,,#voltaire,37.0,MALE,no_annotation,no_annotation,no_annotation
+202,202,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Nichte!,0,7,character_speech,1,1,,VOLTAIRE,#voltaire,37.0,MALE,no_annotation,no_annotation,no_annotation
+203,203,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Nichte!,8,15,character_speech,1,1,,VOLTAIRE,#voltaire,37.0,MALE,no_annotation,no_annotation,no_annotation
+204,204,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Madame Denis!,16,29,character_speech,1,1,,VOLTAIRE,#voltaire,37.0,MALE,no_annotation,no_annotation,no_annotation
+205,205,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Marquis!,30,38,character_speech,1,1,,VOLTAIRE,#voltaire,37.0,MALE,no_annotation,no_annotation,no_annotation
+206,206,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Kein Mensch da?,39,56,character_speech,1,1,,VOLTAIRE,#voltaire,37.0,MALE,no_annotation,no_annotation,no_annotation
+207,207,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Rede!,0,5,character_speech,1,1,,GESPENST.,#gespenst,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+208,208,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,hier bin ich!,6,19,character_speech,1,1,,GESPENST.,#gespenst,38.0,UNKNOWN,joy,positive,emotions of pleasure
+209,209,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Frag!,20,27,character_speech,1,1,,GESPENST.,#gespenst,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+210,210,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,ich muß antworten.,28,46,character_speech,1,1,,GESPENST.,#gespenst,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+211,211,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"immer weiter zurückhufend; er kratzt sich hinter den Ohren, die Allongeperücke
+            fällt ihm ab; er steht im Kahlkopf.",0,126,stage_direction,1,1,speech_part,,#voltaire,39.0,MALE,no_annotation,no_annotation,no_annotation
+212,212,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Wa – Was bist du?,0,19,character_speech,1,1,,VOLTAIRE,#voltaire,39.0,MALE,no_annotation,no_annotation,no_annotation
+213,213,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ein Geist!,0,10,character_speech,1,1,,GESPENST.,#gespenst,40.0,UNKNOWN,being moved,being moved,being moved
+214,214,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,ein noch ungeborner Geist!,11,37,character_speech,1,1,,GESPENST.,#gespenst,40.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+215,215,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,faßt nach und nach Mut.,0,23,stage_direction,1,1,speech_part,,#voltaire,41.0,MALE,no_annotation,no_annotation,no_annotation
+216,216,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Nur ein Geist!,0,16,character_speech,1,1,,VOLTAIRE,#voltaire,41.0,MALE,no_annotation,no_annotation,no_annotation
+217,217,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– – vor dem brauch ich mich nicht zu fürchten.,17,63,character_speech,1,1,,VOLTAIRE,#voltaire,41.0,MALE,fear,negative,emotions of anxiety
+218,218,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Der Pfarrer von St.,64,85,character_speech,1,1,,VOLTAIRE,#voltaire,41.0,MALE,no_annotation,no_annotation,no_annotation
+219,219,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sulpice lehrte mich ja vor einigen Wochen das Kreuz machen.,98,157,character_speech,1,1,,VOLTAIRE,#voltaire,41.0,MALE,joy,positive,emotions of pleasure
+220,220,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Nähert sich aber doch
+              noch etwas furchtsam.",0,57,stage_direction,1,1,inner_speech,,#voltaire,41.0,MALE,fear,negative,emotions of anxiety
+221,221,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, In nomine †††!,0,15,character_speech,1,1,,VOLTAIRE,#voltaire,41.0,MALE,no_annotation,no_annotation,no_annotation
+222,222,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"All sein Herz
+              zusammennehmend.",0,44,stage_direction,1,1,inner_speech,,#voltaire,41.0,MALE,being moved,being moved,being moved
+223,223,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, Wer bist du?,0,13,character_speech,1,1,,VOLTAIRE,#voltaire,41.0,MALE,no_annotation,no_annotation,no_annotation
+224,224,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,14,15,character_speech,1,1,,VOLTAIRE,#voltaire,41.0,MALE,no_annotation,no_annotation,no_annotation
+225,225,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Der Genius des neunzehnten Jahrhunderts.,0,40,character_speech,1,1,,GESPENST.,#gespenst,42.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+226,226,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Frag!,41,46,character_speech,1,1,,GESPENST.,#gespenst,42.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+227,227,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,ich muß antworten.,47,65,character_speech,1,1,,GESPENST.,#gespenst,42.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+228,228,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"erholt sich vollends von seinem Schrecken, und sucht in der Geschwindigkeit die
+            Falten am Mund sich zum Lächeln zurechtzulegen.",0,139,stage_direction,1,1,speech_part,,#voltaire,43.0,MALE,no_annotation,no_annotation,no_annotation
+229,229,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Ein unerwarteter aber höchst willkommner Besuch;,0,50,character_speech,1,1,,VOLTAIRE,#voltaire,43.0,MALE,no_annotation,no_annotation,no_annotation
+230,230,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Hebt seine Mütze von der Erd
+              auf, nimmt sie ohne an seinen Kahlkopf zu denken, gravitätisch unter den Arm und
+              empfängt den Genius, wie er selbst allerwärts empfangen zu werden wünschte – mit
+              hundert Verbeugungen.",0,254,stage_direction,1,1,inner_speech,,#voltaire,43.0,MALE,"admiration, reverence",positive,emotions of affection
+231,231,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,schon bei der ersten.,0,21,stage_direction,1,1,speech_part,,#gespenst,44.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+232,232,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Spar, was vergebens ist!",0,24,character_speech,1,1,,GESPENST,#gespenst,44.0,UNKNOWN,anger,negative,emotions of rejection
+233,233,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Frag!,25,30,character_speech,1,1,,GESPENST,#gespenst,44.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+234,234,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,ich muß antworten.,31,49,character_speech,1,1,,GESPENST,#gespenst,44.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+235,235,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ich hätte also die Ehre den Herrn Genius des neunzehnten Jahrhunderts vor mir zu sehn?,0,86,character_speech,1,1,,VOLTAIRE.,#voltaire,45.0,MALE,"admiration, reverence",positive,emotions of affection
+236,236,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– O ich hab viel auf dem Herzen; hab allerlei zu fragen.,99,155,character_speech,1,1,,VOLTAIRE.,#voltaire,45.0,MALE,being moved,being moved,being moved
+237,237,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ist's gefällig Platz zu nehmen?,156,187,character_speech,1,1,,VOLTAIRE.,#voltaire,45.0,MALE,no_annotation,no_annotation,no_annotation
+238,238,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,200,201,character_speech,1,1,,VOLTAIRE.,#voltaire,45.0,MALE,no_annotation,no_annotation,no_annotation
+239,239,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sieht sich um.,0,14,stage_direction,1,1,inner_speech,,#voltaire,45.0,MALE,no_annotation,no_annotation,no_annotation
+240,240,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, Nur ein Stuhl da?,0,18,character_speech,1,1,,VOLTAIRE.,#voltaire,45.0,MALE,no_annotation,no_annotation,no_annotation
+241,241,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– tut nichts; eh ich gestört sein
+            will, nehmen Sie immer Platz drin; ich setz mich – –",19,117,character_speech,1,1,,VOLTAIRE.,#voltaire,45.0,MALE,no_annotation,no_annotation,no_annotation
+242,242,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"sieht ihn mitleidsvoll an, legt seine rechte Hand auf den Schreibtisch, die linke
+            auf den Lehnstuhl; beide fallen ohne daß man die mindeste Anstrengung von seiten des
+            Genius gewahr wird in tausend Stücke und Splitter zusammen; Voltaire macht verdammt
+            große Augen.",0,299,stage_direction,1,1,speech_part,,#gespenst,46.0,UNKNOWN,compassion,negative,emotions of suffering and empathy
+243,243,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Zum letztenmal!,0,17,character_speech,1,1,,GESPENST,#gespenst,46.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+244,244,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Frag!,18,23,character_speech,1,1,,GESPENST,#gespenst,46.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+245,245,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,ich muß antworten.,24,42,character_speech,1,1,,GESPENST,#gespenst,46.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+246,246,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Nun ja, ich frag, ich frag ja!",0,30,character_speech,1,1,,VOLTAIRE.,#voltaire,47.0,MALE,no_annotation,no_annotation,no_annotation
+247,247,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Was frag ich doch geschwind zuerst?,31,68,character_speech,1,1,,VOLTAIRE.,#voltaire,47.0,MALE,no_annotation,no_annotation,no_annotation
+248,248,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Kennen Sie
+            mich?",69,99,character_speech,1,1,,VOLTAIRE.,#voltaire,47.0,MALE,no_annotation,no_annotation,no_annotation
+249,249,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Vom Hörsagen, ja!",0,17,character_speech,1,1,,GESPENST.,#gespenst,48.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+250,250,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,18,19,character_speech,1,1,,GESPENST.,#gespenst,48.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+251,251,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Wie – was – wie wird Ihr Jahrhundert heißen?,0,44,character_speech,1,1,,VOLTAIRE.,#voltaire,49.0,MALE,being moved,being moved,being moved
+252,252,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Das läuternde!,0,14,character_speech,1,1,,GESPENST.,#gespenst,50.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+253,253,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Werden mich Ihre Zeitgenossen auch schätzen, wie die meinen?",0,60,character_speech,1,1,,VOLTAIRE.,#voltaire,51.0,MALE,"admiration, reverence",positive,emotions of affection
+254,254,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Empfehlen Sie mich doch,
+            ich bitte –",61,111,character_speech,1,1,,VOLTAIRE.,#voltaire,51.0,MALE,no_annotation,no_annotation,no_annotation
+255,255,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sofern du's verdienst.,0,22,character_speech,1,1,,GESPENST.,#gespenst,52.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+256,256,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Wenn ich's wagen dürfte Ihnen mit meinen sämtlichen Schriften –,0,63,character_speech,1,1,,VOLTAIRE.,#voltaire,53.0,MALE,no_annotation,no_annotation,no_annotation
+257,257,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Spar die Mühe; was gut ist, werd ich zu seiner Zeit schon vorfinden.",0,68,character_speech,1,1,,GESPENST.,#gespenst,54.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+258,258,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Will sich umdrehen und fortgehen.,0,33,stage_direction,1,1,speech_part,,#gespenst,54.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+259,259,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,stellt sich ihm in den Weg.,0,27,stage_direction,1,1,speech_part,,#voltaire,55.0,MALE,anger,negative,emotions of rejection
+260,260,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Nur eine Frag noch, was wird Ihr Jahrhundert von mir denken, sagen, schreiben?",0,78,character_speech,1,1,,VOLTAIRE,#voltaire,55.0,MALE,no_annotation,no_annotation,no_annotation
+261,261,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,79,80,character_speech,1,1,,VOLTAIRE,#voltaire,55.0,MALE,no_annotation,no_annotation,no_annotation
+262,262,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Hier lies, was dich angeht; aber keine Zeile von den andern Artikeln;
+            sonst wird das Buch in deinen Händen zum weißen Papier wieder.",0,144,character_speech,1,1,,GESPENST.,#gespenst,56.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+263,263,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sei klug!,145,154,character_speech,1,1,,GESPENST.,#gespenst,56.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+264,264,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,155,156,character_speech,1,1,,GESPENST.,#gespenst,56.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+265,265,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Gibt ihm ein Buch, schreitet, weil Voltaire das Buch anstaunend ihm auszuweichen
+            vergißt, ihm über den Kopf weg, und verschwindet an der Tür.",0,153,stage_direction,1,1,speech_part,,#gespenst,56.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+266,266,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,ganz heiter.,0,12,stage_direction,1,1,speech_part,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+267,267,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ha!,0,3,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+268,268,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– alle meine Wünsche auf einen Tag erfüllt!,4,47,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,joy,positive,emotions of pleasure
+269,269,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Glücklicher Voltaire!,48,71,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,joy,positive,emotions of pleasure
+270,270,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Den Titel
+            werde ich doch auch lesen dörfen?",72,129,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+271,271,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– o ja!,130,137,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+272,272,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Liest.,0,6,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+273,273,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," Dictionnaire raisonné de
+            la littérature Françoise – immer noch mit dem oi geschrieben!",0,99,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+274,274,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"das ist ja zum Tollwerden
+            – du XVIII ème siècle; où se trouvent les noms les plus remarquables de tous les savants
+            et beaux-esprits de cet âge-là, avec le précis de leur vie et une courte critique de
+            leurs œuvres en tant qu'elles nous sont parvenues: le tout rangé selon l'ordre de
+            l'alphabet.",100,441,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,joy,positive,emotions of pleasure
+275,275,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Édition revue, corrigée et raccourcie de deux tiers; avec approbation de la
+            nátion.",442,537,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+276,276,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Paris, de l'Imprimerie Royale l'an 1875.",0,40,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+277,277,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Das ist:,0,8,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+278,278,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Räsoniertes Verzeichnis der französischen Literatur im achtzehnten Jahrhundert, worin
+            die merkwürdigsten Namen aller Gelehrten und Schöngeister jener Zeit, nebst ihrer kurzen
+            Lebensbeschreibung und ebenso kurzen Kritik ihrer Werke, insofern sie bis auf
+              uns gekommen, enthalten sind; alles nach dem Alphabet geordnet.",0,354,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+279,279,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Neuerdings übersehne, verbesserte und um zwei Drittel verkürzte Ausgabe: mit
+            Genehmhaltung der ganzen Nation.",367,488,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+280,280,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Paris in der Königlichen Druckerei, 1875.",0,41,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+281,281,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sonderbar!,0,10,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,being moved,being moved,being moved
+282,282,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"hat doch jedes Jahrhundert seine Eigenheiten: im achtzehnten glaubte man
+            keine zwote Auflage",11,115,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+283,283,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Er blättert.,0,12,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+284,284,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," B – C – Corneille, Peter Corneille, das wär ich wohl
+            neugierig – doch ich darf nicht –",0,99,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+285,285,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Blättert fort.,0,14,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+286,286,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, Wahrhaftig kurz genug!,0,23,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+287,287,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"oft nur sechs, acht Zeilen –",36,64,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+288,288,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Schlägt immer um.,0,17,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+289,289,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," – D – Diderot – Dorat – E
+            – E – F – Fréron.",0,56,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+290,290,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Pfui Teufel!,57,69,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,anger,negative,emotions of rejection
+291,291,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,der auch da?,70,82,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+292,292,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,83,84,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+293,293,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Überschlägt viel.,0,17,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+294,294,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," N – R – R
+            – Racine!",0,32,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+295,295,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"der süße harmonische Racine – Weiter – immer noch R – Rousseau Jean Jacques –
+            Sapperment!",33,134,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,joy,positive,emotions of pleasure
+296,296,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,sechs ganze Blätter für den allein!,135,170,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,"admiration, reverence",positive,emotions of affection
+297,297,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Wieviel wird mein Artikel erst
+            einnehmen!",171,224,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,being moved,being moved,being moved
+298,298,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Wenn ich dörfte!,225,241,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+299,299,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Nichts!,242,251,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+300,300,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Nichts!,252,259,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+301,301,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,weiter!,260,267,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+302,302,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,weiter!,268,275,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+303,303,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Schlägt immer
+              schneller um.",0,41,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+304,304,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, S – T – U – U – Voltaire – Wohlan!,0,35,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+305,305,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"da muß ich mich setzen dazu:
+            –",36,78,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,anger,negative,emotions of rejection
+306,306,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Setzt sich mit großer Selbstzufriedenheit auf die Trümmer seines Armstuhls, und
+              liest.",0,100,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+307,307,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,»Arouet von Voltaire Herr usw.,0,30,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+308,308,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– war geboren – im Jahr – den –«,31,63,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+309,309,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Nun das wissen wir!,0,19,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+310,310,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,»Und starb endlich nachdem man ihn oft genug totgesagt hatte würklich.,0,70,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+311,311,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– –«,71,75,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+312,312,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Nun das Datum mag ich nicht wissen!,0,35,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,anger,negative,emotions of rejection
+313,313,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Schlägt das Blatt um.,0,21,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+314,314,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Hier kommt's.,0,15,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+315,315,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– »Kurze Kritik.,16,32,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+316,316,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Er war zu seiner Zeit ein Vielschreiber«, Das hab ich schon oft hören müssen!",0,77,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+317,317,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"»und mengte sich, weil er selbst sich für einen Vielwisser hielt in alles: Philosoph
+            ohne reine Logik, Geschichtschreiber ohne Beurteilungsgeist konnte er's freilich in
+            diesen zwei Fächern nicht weit bringen; auch war alles was er von der Art« –",0,269,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+318,318,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Er
+              liest langsamer.",0,33,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+319,319,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," – »hingeschrieben hatte, vergessen, noch eh er selbst starb.",0,61,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+320,320,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Den einzigen ›Traité sur la tolérance‹ müssen wir hier ausnehmen, als welcher seinem
+            Verfasser ebensosehr zur Ehre gereicht, als schwach und barbarisch die Zeiten müssen
+            gewesen sein, die eines solchen Traktats bedurften.«",74,320,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+321,321,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Das ließ sich noch hören; der Marquis de St.,0,44,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+322,322,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Marc hätte aber mehr darüber gesagt, die
+            Sache besser herausgehoben.",45,125,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+323,323,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Ferner!,126,135,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+324,324,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,136,137,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+325,325,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"»Unsern guten Heinrich, den die Nation ewig regrettieren müßte, wenn's nicht schon
+            Herkommens wäre jedesmal den würklich regierenden König ihm zur Seite zu setzen, hat er
+            in einer« –",0,206,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+326,326,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ängstlich.,0,10,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,fear,negative,emotions of anxiety
+327,327,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, »sein sollenden Epopee ganz unverantwortlich,0,45,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,abhorrence,negative,emotions of rejection
+328,328,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," mißhandelt, dafür ihm auch im Fegfeuer die grausame Strafe angesetzt wurde,
+            sich seine ›Henriade‹ in der lateinischen Übersetzung so viele Jahr lang, als Verse oder
+            gereimte Zeilen drin sind, von einem End bis ans andre vorlesen zu lassen.«",0,265,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,suffering,negative,emotions of suffering and empathy
+329,329,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Vor kurzer Zeit noch hätt ich das ungespöttelt nicht lesen dörfen; – jetzt aber hab ich
+            mein Wort von mir gegeben – Fort, es wird doch nicht immer in dem Ton fortgehn.",0,179,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,anger,negative,emotions of rejection
+330,330,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"»Als witziger Kopf hätte er immer noch vor vielen andern ein großes Verdienst
+            vorausgehabt, wenn er« –",0,114,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+331,331,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ängstlicher.,0,12,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,fear,negative,emotions of anxiety
+332,332,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," »ein besseres Herz gehabt hätte: –
+            Da er aber seinen Witz meist dazu gebrauchte Religion und Sitten lächerlich zu machen,
+            und zu verderben, so glich sein Autorleben einer Rakete, die steigt, und kurze Zeit
+            leuchtet, hinterdrein aber desto länger stinkt –«",0,292,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+333,333,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Pah!,0,4,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+334,334,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"der Kerl ist ein sauertöpfischer Brummbär, das merk ich – aber!",5,68,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,anger,negative,emotions of rejection
+335,335,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"avec approbation
+            de la nation!",69,111,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+336,336,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,das ist der Teufel!,112,131,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,being moved,being moved,being moved
+337,337,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Es wird mir kalt und warm;,132,160,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+338,338,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Reißt sich ein
+              paar Westenknöpf auf und liest weiter; von dieser Periode aber bis ans Ende immer
+              decrescendo, bis ihm auf die letzt unter einem tremulierten Pizzikato die letzte Silbe
+              im Hals steckenbleibt.",0,248,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+339,339,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"»Als theatralischer Dichter hatte er mit den damaligen Comédiens du Roi, und diese mit
+            ihm gar viel Getreibs.",0,121,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+340,340,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Er erhob sie, sie erhoben ihn und so wusch wie das Sprüchwort
+            sagt, eine Hand die andre: Solang man noch mehr auf zierlich gedrehte wohlklingende
+            Verse, denn auf Plan, Handlung und Zweck sah, machte er ziemliches Aufsehen.",122,368,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,"admiration, reverence",positive,emotions of affection
+341,341,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Heutzutag
+            sind die besten seiner dramatischen Geburten ad modum Minellii gesammlet, mit Noten
+            erläutert bei verschiedenen fremden Nationen als ein Schulbuch um rein Französisch draus
+            zu lernen eingeführt.",369,611,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+342,342,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"In Teutschland und England aber zieht man doch den Racinischen
+            Vers seines melodischen Gangs halben dem Voltairischen noch vor.« –",612,754,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+343,343,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Hab's ja immer gesagt, daß es lauter Dummköpfe sind; schon ihre barbarische Sprache,
+            die ich nie lernen konnte, verrät sie.",0,135,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,abhorrence,negative,emotions of rejection
+344,344,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"»Aufgeführt wird von ihm nichts mehr, als etwa in
+            Fastenzeit um mit ›Polyeucte‹ und ›Athalie‹ zu wechseln sein ›Mahomed‹.",136,269,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+345,345,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Dem großen
+            Corneille hat er eine Schandsäule gesetzt; den denkenden philosophischen Rousseau
+            allenthalben verfolgt, und am ersten Schauspieldichter neuerer Zeiten am Shakespeare hat
+            er sich ganz erbärmlich versündigt; dafür mußte er aber auch bei seinen Lebzeiten noch
+            büßen.",270,593,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,abhorrence,negative,emotions of rejection
+346,346,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– – Wenn anders,594,609,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+347,347,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," den Annalen des vorigen Jahrhunderts, die zu groß
+            und zu weitläufig sind um vollkommenen Glauben verdienen zu können, hierin zu trauen
+            ist, so ist er wenig Tage vor seinem Ende kindisch geworden; die Schauspieler merkten's,
+            setzten was unserm Jahrhundert doch eigentlich hätte überlassen wer den sollen ihm –
+            weil sie seine belachenswerte Ruhmsucht kannten – vor der Vorstellung eines seiner
+            letzten Stücke –",0,469,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+348,348,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Mit Tränen im Aug liest er weiter.,0,34,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,suffering,negative,emotions of suffering and empathy
+349,349,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," – dessen Namen sogar
+            verlorengegangen – –«",0,55,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+350,350,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ist's möglich »Irene«!,0,22,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,being moved,being moved,being moved
+351,351,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,dich teure »Irene« zu vergessen!,23,55,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,love,positive,emotions of affection
+352,352,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Ob ich den Namen in perpetuam
+            rei memoriam dazuschreibe?",56,126,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+353,353,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Ich dächte ja!,127,143,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+354,354,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– Vielleicht findet von ohngefähr ein
+            künftiger Salmasius dies Exemplar und ist stolz darauf meine Ehre retten zu können.",144,277,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+355,355,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,278,279,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+356,356,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Schreibt's mit zitternder Hand.,0,31,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,suffering,negative,emotions of suffering and empathy
+357,357,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," – GOTT weiß es, ein wenig Herzstärkung
+            von der Gattung war mir höchst nötig –",0,90,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+358,358,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Ganz weichherzig.,0,17,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+359,359,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," Hätte sonst den
+            Artikel gewiß nicht auslesen können!",0,65,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+360,360,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Nun frisch daran –,66,86,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+361,361,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Sucht den Zusammenhang
+              heimlich, liest laut fort.",0,63,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+362,362,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," »setzten ihm also und seinem Brustbild –« Ach
+            Madame Necker, das war ein Einfall von Ihnen!",0,104,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+363,363,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– »das allein im alten nun öde stehenden
+            Schauspielsaal der Comédiens du Roi zurückgeblieben ist und noch allda zu sehen sein
+            soll, Kränze auf; hüpften zum Nachspiel um das letzte wie Bacchanten herum; lasen
+            öffentlich in seiner Gegenwart überladene Lobsprüche auf ihn, die handgreifliche Satiren
+            waren, ab: –",105,462,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+364,364,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Nun kommt das Tremulando.,0,25,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+365,365,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," Kurz machten dem ohnehin schon
+            schwachen Greis, durch ihr Gaukelspiel den Kopf so toll, daß er über seinen im
+            Gewächshaus getriebenen mehr als hundert Jahr zu früh gebrochenen Lorbeern ganz aus dem
+            Häuschen kam, und mit einem faden Bonmot seinen ausgedörrten Geist ausblies.«",0,312,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,suffering,negative,emotions of suffering and empathy
+366,366,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,O könnt ich doch eins auf dich machen!,0,38,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,anger,negative,emotions of rejection
+367,367,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,– Doch schwerlich verdienst du eins – –,39,78,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+368,368,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Sieht wieder ins Buch.,0,22,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+369,369,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, – Noch ein Nachsatz?,0,21,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+370,370,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"– vielleicht limitiert der,
+            was oben zu scharf gesagt war; – ganz sicher; wofür wär er denn da?",22,129,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+371,371,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,»Postskriptum.,0,14,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+372,372,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Auf Befehl der ganzen auf dem großen Reichstag durch ihre Abgeordnete
+            repräsentierten Nation hat dieser in der vorigen zwoten Auflage vom Jahr 1850 noch lang
+            nicht genug gereinigte Artikel aufs strengste gesäubert und beschnitten werden müssen.",15,283,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+373,373,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Bei einer neuen Edition, die wie schon bekannt in andern 25 Jahren und also zu Anfang",296,381,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+374,374,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," des zwanzigsten Jahrhunderts gewiß erscheinen wird, wird sich's weisen,
+            ob diese Rubrik die undankbare Mühe einer Verkürzung noch verdient, oder ob man sich
+            ganz allein auf den ›Esprit de Voltaire‹ einschränken wird.",0,241,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+375,375,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,–,242,243,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+376,376,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Hier wird das
+              Pizzikato immer stärker im Lesen.",0,61,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+377,377,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml," – Dieser ›Esprit de Voltaire‹ macht mehr
+            nicht als zween artige Duodezbändchen aus, in deren erstem sein Meisterstück der ›Traité
+            sur la tolérance‹ zur ewigen Schande des damaligen Jahrhunderts Wort für Wort abgedruckt
+            ist: in den andern hat der Abt R** mit der größten Treue und unglaublicher
+            unbeschreiblicher Mühe alles Gute und das wenige Neue, was in mehr als vierzig großen
+            und dicken Oktavbänden zerstreut und zum Betrug der Buchhändler und Käufer oft
+            zwanzigmal in einer andern Brüh aufgewärmt war, zusammengelesen – –«",0,600,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+378,378,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Das Buch
+              entfällt ihm und in dem Augenblick ist kein Buchstab Gedrucktes mehr drin zu sehn: Mit
+              den Worten.",0,135,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+379,379,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml, –,0,2,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+380,380,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,»Ah Dieux!,0,10,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+381,381,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,Vous voulez donc me faire mour---ir-- «,11,50,character_speech,1,1,,VOLTAIRE,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+382,382,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Die ihm schon im
+              Schauspielhaus entwischten, sinkt er rückwärts auf die umherliegende Trümmer.",0,108,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation
+383,383,GerDracor/wagner-voltaire-am-abend-seiner-apotheose.xml,"Solang
+              aber noch zweifelhaft ist, ob dieses ein seiner würdiges Bonmot genennt werden kann,
+              bleibt's auch noch unentschieden, ob er würklich schon tot oder – noch sterbend
+              ist?.",109,328,stage_direction,1,1,inner_speech,,#voltaire,57.0,MALE,no_annotation,no_annotation,no_annotation

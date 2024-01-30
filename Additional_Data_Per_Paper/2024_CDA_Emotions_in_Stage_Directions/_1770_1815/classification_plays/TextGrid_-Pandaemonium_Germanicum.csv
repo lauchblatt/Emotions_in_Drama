@@ -1,0 +1,811 @@
+,Unnamed: 0,file,text,start,end,type,act,scene,sd_subtype,speaker,speaker_id,speech_number,gender,pre1_tag_type,pre1_base_polarity,pre1_main_emotion_class
+0,0,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Der steil' Berg",0,52,stage_direction,1,1,pre_speech,,,,,suffering,negative,emotions of suffering and empathy
+1,1,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Goethe.",0,44,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+2,2,TextGrid/-Pandaemonium_Germanicum.xml,Lenz im Reis'kleid.,45,64,stage_direction,1,1,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+3,3,TextGrid/-Pandaemonium_Germanicum.xml, Was ist das für ein steil Gebirg mit sovielen Zugängen?,0,56,character_speech,1,1,,GOETHE.,GOETHE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+4,4,TextGrid/-Pandaemonium_Germanicum.xml," Ich weiß nicht, Goethe, ich komm erst hier an.",0,47,character_speech,1,1,,LENZ.,LENZ.,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+5,5,TextGrid/-Pandaemonium_Germanicum.xml," Ist's doch herrlich, dort von oben zuzusehn, wie die Leutlein ansetzen und immer wieder zurückrutschen.",0,104,character_speech,1,1,,GOETHE.,GOETHE.,3.0,UNKNOWN,joy,positive,emotions of pleasure
+6,6,TextGrid/-Pandaemonium_Germanicum.xml,Ich will hinauf.,105,121,character_speech,1,1,,GOETHE.,GOETHE.,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+7,7,TextGrid/-Pandaemonium_Germanicum.xml," Wart doch, wo willt du hin, ich hab dir noch so manches zu erzählen.",0,69,character_speech,1,1,,LENZ.,LENZ.,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+8,8,TextGrid/-Pandaemonium_Germanicum.xml, Ein andermal.,0,14,character_speech,1,1,,GOETHE.,GOETHE.,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+9,9,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Goethe geht um den Berg herum und verschwindt.",0,86,stage_direction,1,1,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+10,10,TextGrid/-Pandaemonium_Germanicum.xml," Wenn er hinaufkommt, werd ich ihn schon zu sehen kriegen.",0,58,character_speech,1,1,,LENZ.,LENZ.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+11,11,TextGrid/-Pandaemonium_Germanicum.xml,"Hätt ihn gern kennen lernen, er war mir wie eine Erscheinung.",59,120,character_speech,1,1,,LENZ.,LENZ.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+12,12,TextGrid/-Pandaemonium_Germanicum.xml,Ich denk er wird mir winken wenn er auf jenen Felsen kommt.,121,180,character_speech,1,1,,LENZ.,LENZ.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+13,13,TextGrid/-Pandaemonium_Germanicum.xml,Unterdessen will ich den Regen von meinem Reiserock schütteln.,181,243,character_speech,1,1,,LENZ.,LENZ.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+14,14,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Erscheint eine andere Seite des Berges, ganz mit Busch überwachsen.",0,107,stage_direction,1,1,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+15,15,TextGrid/-Pandaemonium_Germanicum.xml,Lenz kriecht auf allen Vieren.,108,138,stage_direction,1,1,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+16,16,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       sich umkehrend und ausruhend.",0,69,stage_direction,1,1,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+17,17,TextGrid/-Pandaemonium_Germanicum.xml, Das ist böse Arbeit.,0,21,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,anger,negative,emotions of rejection
+18,18,TextGrid/-Pandaemonium_Germanicum.xml,Seh ich doch niemand hier mit dem ich reden könnte.,22,73,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+19,19,TextGrid/-Pandaemonium_Germanicum.xml,"Goethe, Goethe!",74,89,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,being moved,being moved,being moved
+20,20,TextGrid/-Pandaemonium_Germanicum.xml,wenn wir zusammenblieben wären.,90,121,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+21,21,TextGrid/-Pandaemonium_Germanicum.xml,Ich fühl's mit dir wär ich gesprungen wo ich itzt klettern muß.,122,185,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,joy,positive,emotions of pleasure
+22,22,TextGrid/-Pandaemonium_Germanicum.xml,"Es sollte mich einer der stolzen Kritiker sehn, wie würd er die Nase rümpfen!",186,263,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,anger,negative,emotions of rejection
+23,23,TextGrid/-Pandaemonium_Germanicum.xml,"Was gehn sie mich an, kommen sie mir hier doch nicht nach und sieht mich hier keiner.",264,349,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,anger,negative,emotions of rejection
+24,24,TextGrid/-Pandaemonium_Germanicum.xml,Aber weh!,350,359,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+25,25,TextGrid/-Pandaemonium_Germanicum.xml,es fängt wieder an zu regnen.,360,389,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+26,26,TextGrid/-Pandaemonium_Germanicum.xml,Himmel!,390,397,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,being moved,being moved,being moved
+27,27,TextGrid/-Pandaemonium_Germanicum.xml,"bist du so erbost über einen handhohen Sterblichen, der nichts als sich umsehen will.",398,483,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,anger,negative,emotions of rejection
+28,28,TextGrid/-Pandaemonium_Germanicum.xml,Fort!,484,489,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+29,29,TextGrid/-Pandaemonium_Germanicum.xml,das Nachdenken macht Kopfweh.,490,519,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+30,30,TextGrid/-Pandaemonium_Germanicum.xml,Klettert von neuem.,520,539,character_speech,1,1,,LENZ,LENZ,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+31,31,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       
+                                          
+Wieder eine andere Seite des Berges aus der ein kahler Fels hervorsticht.",0,157,stage_direction,1,1,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+32,32,TextGrid/-Pandaemonium_Germanicum.xml,Goethe springt 'nauf.,158,179,stage_direction,1,1,speech_part,,,7.0,UNKNOWN,joy,positive,emotions of pleasure
+33,33,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       sich umsehend.",0,54,stage_direction,1,1,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+34,34,TextGrid/-Pandaemonium_Germanicum.xml, Lenz!,0,6,character_speech,1,1,,GOETHE,GOETHE,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+35,35,TextGrid/-Pandaemonium_Germanicum.xml,Lenz!,7,12,character_speech,1,1,,GOETHE,GOETHE,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+36,36,TextGrid/-Pandaemonium_Germanicum.xml,daß er da wäre – Welch herrliche Aussicht!,13,55,character_speech,1,1,,GOETHE,GOETHE,8.0,UNKNOWN,joy,positive,emotions of pleasure
+37,37,TextGrid/-Pandaemonium_Germanicum.xml,– Da – o da steht Klopstock.,56,84,character_speech,1,1,,GOETHE,GOETHE,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+38,38,TextGrid/-Pandaemonium_Germanicum.xml,Wie daß ich ihn von unten nicht wahrnahm?,85,126,character_speech,1,1,,GOETHE,GOETHE,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+39,39,TextGrid/-Pandaemonium_Germanicum.xml,Ich will zu ihm.,127,143,character_speech,1,1,,GOETHE,GOETHE,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+40,40,TextGrid/-Pandaemonium_Germanicum.xml,Er deucht mich auszuruhen auf dem Ellbogen gestützt.,144,196,character_speech,1,1,,GOETHE,GOETHE,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+41,41,TextGrid/-Pandaemonium_Germanicum.xml,Edler Mann!,197,208,character_speech,1,1,,GOETHE,GOETHE,8.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+42,42,TextGrid/-Pandaemonium_Germanicum.xml,wie wird's dich freuen jemand Lebendiges hier zu sehn.,209,263,character_speech,1,1,,GOETHE,GOETHE,8.0,UNKNOWN,joy,positive,emotions of pleasure
+43,43,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Wieder eine andere Seite des Berges.",0,76,stage_direction,1,1,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+44,44,TextGrid/-Pandaemonium_Germanicum.xml,Lenz versucht zu stehen.,77,101,stage_direction,1,1,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+45,45,TextGrid/-Pandaemonium_Germanicum.xml, Gottlob daß ich einmal wieder auf meine Füße kommen darf.,0,58,character_speech,1,1,,LENZ.,LENZ.,9.0,UNKNOWN,joy,positive,emotions of pleasure
+46,46,TextGrid/-Pandaemonium_Germanicum.xml,Mir ist vom Klettern das Blut in den Kopf geschossen.,59,112,character_speech,1,1,,LENZ.,LENZ.,9.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+47,47,TextGrid/-Pandaemonium_Germanicum.xml,O so allein.,113,125,character_speech,1,1,,LENZ.,LENZ.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+48,48,TextGrid/-Pandaemonium_Germanicum.xml,Daß ich stürbe!,126,141,character_speech,1,1,,LENZ.,LENZ.,9.0,UNKNOWN,despair,negative,emotions of anxiety
+49,49,TextGrid/-Pandaemonium_Germanicum.xml,"Ich sehe hier wohl Fußtapfen, aber alle hinunter, keinen herauf.",142,206,character_speech,1,1,,LENZ.,LENZ.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+50,50,TextGrid/-Pandaemonium_Germanicum.xml,Gütiger Gott so allein.,207,230,character_speech,1,1,,LENZ.,LENZ.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+51,51,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       In einiger Entfernung Goethe auf einem Felsen der ihn gewahr wird.",0,106,stage_direction,1,1,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+52,52,TextGrid/-Pandaemonium_Germanicum.xml,Mit einem Sprung ist er bei ihm.,107,139,stage_direction,1,1,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+53,53,TextGrid/-Pandaemonium_Germanicum.xml, Lenz was Teutscher machst du denn hier.,0,40,character_speech,1,1,,GOETHE.,GOETHE.,10.0,UNKNOWN,being moved,being moved,being moved
+54,54,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       ihm entgegen.",0,53,stage_direction,1,1,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+55,55,TextGrid/-Pandaemonium_Germanicum.xml, Bruder Goethe.,0,15,character_speech,1,1,,LENZ,LENZ,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+56,56,TextGrid/-Pandaemonium_Germanicum.xml,Drückt ihn ans Herz.,16,36,character_speech,1,1,,LENZ,LENZ,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+57,57,TextGrid/-Pandaemonium_Germanicum.xml, Wo zum Henker bist du mir nachkommen?,0,38,character_speech,1,1,,GOETHE.,GOETHE.,12.0,UNKNOWN,anger,negative,emotions of rejection
+58,58,TextGrid/-Pandaemonium_Germanicum.xml," Ich weiß nicht wo du gegangen bist, aber ich hab einen beschwerlichen Weg gemacht.",0,83,character_speech,1,1,,LENZ.,LENZ.,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+59,59,TextGrid/-Pandaemonium_Germanicum.xml, Ruh hier aus – und dann weiter.,0,32,character_speech,1,1,,GOETHE.,GOETHE.,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+60,60,TextGrid/-Pandaemonium_Germanicum.xml, An deiner Brust.,0,17,character_speech,1,1,,LENZ.,LENZ.,15.0,UNKNOWN,love,positive,emotions of affection
+61,61,TextGrid/-Pandaemonium_Germanicum.xml,"Goethe, es ist mir, als ob ich meine ganze Reise gemacht um dich zu finden.",18,93,character_speech,1,1,,LENZ.,LENZ.,15.0,UNKNOWN,joy,positive,emotions of pleasure
+62,62,TextGrid/-Pandaemonium_Germanicum.xml, Wo kommst du denn her?,0,23,character_speech,1,1,,GOETHE.,GOETHE.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+63,63,TextGrid/-Pandaemonium_Germanicum.xml, Aus dem hintersten Norden.,0,27,character_speech,1,1,,LENZ.,LENZ.,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+64,64,TextGrid/-Pandaemonium_Germanicum.xml,Ist mir's doch als ob ich mit dir geboren und erzogen wäre.,28,87,character_speech,1,1,,LENZ.,LENZ.,17.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+65,65,TextGrid/-Pandaemonium_Germanicum.xml,Wer bist du denn?,88,105,character_speech,1,1,,LENZ.,LENZ.,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+66,66,TextGrid/-Pandaemonium_Germanicum.xml, Ich bin hier geboren.,0,22,character_speech,1,1,,GOETHE.,GOETHE.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+67,67,TextGrid/-Pandaemonium_Germanicum.xml,Weiß ich wo ich her bin.,23,47,character_speech,1,1,,GOETHE.,GOETHE.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+68,68,TextGrid/-Pandaemonium_Germanicum.xml,Was wissen wir alle wo wir herstammen?,48,86,character_speech,1,1,,GOETHE.,GOETHE.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+69,69,TextGrid/-Pandaemonium_Germanicum.xml, Du edler Junge!,0,16,character_speech,1,1,,LENZ.,LENZ.,19.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+70,70,TextGrid/-Pandaemonium_Germanicum.xml,Ich fühl kein Haar mehr von all meinen Mühseligkeiten.,17,71,character_speech,1,1,,LENZ.,LENZ.,19.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+71,71,TextGrid/-Pandaemonium_Germanicum.xml, Tatst du die Reise für deinen Kopf?,0,36,character_speech,1,1,,GOETHE.,GOETHE.,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+72,72,TextGrid/-Pandaemonium_Germanicum.xml, Wohl für meinen.,0,17,character_speech,1,1,,LENZ.,LENZ.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+73,73,TextGrid/-Pandaemonium_Germanicum.xml,"Alle kluge und erfahrne Leute 
+widerrieten's mir.",18,67,character_speech,1,1,,LENZ.,LENZ.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+74,74,TextGrid/-Pandaemonium_Germanicum.xml,"Sie sagten, ich suche zu sehr, was zum Gutsein gehöre und versäume dar über das Sein.",68,153,character_speech,1,1,,LENZ.,LENZ.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+75,75,TextGrid/-Pandaemonium_Germanicum.xml,Ich dachte: seid!,154,171,character_speech,1,1,,LENZ.,LENZ.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+76,76,TextGrid/-Pandaemonium_Germanicum.xml,und ich will gut sein.,172,194,character_speech,1,1,,LENZ.,LENZ.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+77,77,TextGrid/-Pandaemonium_Germanicum.xml, Bis mir willkommen Bübchen!,0,28,character_speech,1,1,,GOETHE.,GOETHE.,22.0,UNKNOWN,joy,positive,emotions of pleasure
+78,78,TextGrid/-Pandaemonium_Germanicum.xml,Es ist mir als ob ich mich in dir bespiegelte.,29,75,character_speech,1,1,,GOETHE.,GOETHE.,22.0,UNKNOWN,anger,negative,emotions of rejection
+79,79,TextGrid/-Pandaemonium_Germanicum.xml, O mach mich nicht rot.,0,23,character_speech,1,1,,LENZ.,LENZ.,23.0,UNKNOWN,anger,negative,emotions of rejection
+80,80,TextGrid/-Pandaemonium_Germanicum.xml, Weiter!,0,8,character_speech,1,1,,GOETHE.,GOETHE.,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+81,81,TextGrid/-Pandaemonium_Germanicum.xml," Weiß es der Henker, wie mir mein Schwindel vergangen ist, seitdem ich dich unter den Armen habe.",0,97,character_speech,1,1,,LENZ.,LENZ.,25.0,UNKNOWN,joy,positive,emotions of pleasure
+82,82,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Gehn beide einer Anhöhe zu.",0,67,stage_direction,1,1,speech_part,,,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+83,83,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Die Nachahmer",0,50,stage_direction,1,2,pre_speech,,,,,joy,positive,emotions of pleasure
+84,84,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Goethe steht auf einem Felsen und ruft herunter zu einem ganzen Haufen Gaffer.",0,115,stage_direction,1,2,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+85,85,TextGrid/-Pandaemonium_Germanicum.xml, Meine werte Herrn!,0,19,character_speech,1,2,,GOETHE.,GOETHE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+86,86,TextGrid/-Pandaemonium_Germanicum.xml,"wollt ihr's auch so gut haben, dürft nur da herumkommen – denn daherum und denn daherum, 's ist gar nicht hoch ich versichere euch und die Aussicht ist herrlich.",20,181,character_speech,1,2,,GOETHE.,GOETHE.,1.0,UNKNOWN,joy,positive,emotions of pleasure
+87,87,TextGrid/-Pandaemonium_Germanicum.xml,– Lenz nun sollst du deinen Spaß haben.,182,221,character_speech,1,2,,GOETHE.,GOETHE.,1.0,UNKNOWN,joy,positive,emotions of pleasure
+88,88,TextGrid/-Pandaemonium_Germanicum.xml,Geht ein jämmerlich Gepurzel an.,222,254,character_speech,1,2,,GOETHE.,GOETHE.,1.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+89,89,TextGrid/-Pandaemonium_Germanicum.xml,Bleiben ihrer etliche am Fuß des Berges auf Feldsteinen stehen und rufen den andern zu.,255,342,character_speech,1,2,,GOETHE.,GOETHE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+90,90,TextGrid/-Pandaemonium_Germanicum.xml,"Meine Herren wollt ihr's auch so gut haben, dürft nur daherum kommen.",343,412,character_speech,1,2,,GOETHE.,GOETHE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+91,91,TextGrid/-Pandaemonium_Germanicum.xml," Sollst gleich herunter sein, Hanns Pickelhäring, bist ja nur um eine Hand hoch höher als wir.",0,94,character_speech,1,2,,ANDERE VON DEM HAUFEN.,ANDERE VON DEM HAUFEN.,2.0,UNKNOWN,abhorrence,negative,emotions of rejection
+92,92,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Stoßen einander herunter, jene wehren sich mit den Steinen, auf welchen sie stunden.",0,124,stage_direction,1,2,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+93,93,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       schlägt in die Hände.",0,61,stage_direction,1,2,speech_part,,,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+94,94,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                        Zu Lenz.",0,49,character_speech,1,2,,GOETHE,GOETHE,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+95,95,TextGrid/-Pandaemonium_Germanicum.xml,Ist das nicht ein Gaudium?,50,76,character_speech,1,2,,GOETHE,GOETHE,3.0,UNKNOWN,joy,positive,emotions of pleasure
+96,96,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Die so jene vorher heruntergestoßen sagen.",0,82,stage_direction,1,2,speech_part,,,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+97,97,TextGrid/-Pandaemonium_Germanicum.xml,"Wollen doch sehen ob wir die von oben nicht auch hinabbekommen können, ist's uns doch mit diesen gelungen.",0,106,character_speech,1,2,,GOETHE,GOETHE,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+98,98,TextGrid/-Pandaemonium_Germanicum.xml," Hör, hast du nicht eine Lorgnette bei dir, ich kann sie nicht recht unterscheiden dort oben, ich möchte dem einen zu Leibe der uns herabgerufen hat.",0,149,character_speech,1,2,,EINER.,EINER.,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+99,99,TextGrid/-Pandaemonium_Germanicum.xml," Mensch wo denkst du hin, wie willst du an ihn kommen?",0,54,character_speech,1,2,,DER ANDERE.,DER ANDERE.,5.0,UNKNOWN,being moved,being moved,being moved
+100,100,TextGrid/-Pandaemonium_Germanicum.xml, Kam doch David mit der Schleuder bis an Goliath herauf und ich bin doch auch so niedrig nicht.,0,95,character_speech,1,2,,ERSTER.,ERSTER.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+101,101,TextGrid/-Pandaemonium_Germanicum.xml,Ich will mich auf jenen Stein stellen dort gegen mich über.,96,155,character_speech,1,2,,ERSTER.,ERSTER.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+102,102,TextGrid/-Pandaemonium_Germanicum.xml, Probier's.,0,11,character_speech,1,2,,DER ANDERE.,DER ANDERE.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+103,103,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Goethe stößt Lenzen an, der lauert gleichfalls hinunter.",0,96,stage_direction,1,2,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+104,104,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       schwingt einen Stein.",0,61,stage_direction,1,2,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+105,105,TextGrid/-Pandaemonium_Germanicum.xml," Hör du dort, halt mir ein wenig den Arm fest, er ist mir aus dem Gelenk gegangen.",0,82,character_speech,1,2,,ERSTER,ERSTER,8.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+106,106,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       durch die Lorgnette guckend.",0,68,stage_direction,1,2,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+107,107,TextGrid/-Pandaemonium_Germanicum.xml," Da da oben, gerade wo ich mit dem Finger hindeute, da steht der Goethe, ich kenn ihn eigentlich mit seinen großen schwarzen Augen, er paßt auf, er wird sich wohl bücken wenn der Stein kommt, und der andere hat sich hinter ihm verkrochen.",0,238,character_speech,1,2,,ZWEITER,ZWEITER,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+108,108,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       schleudert aus aller seiner Macht.",0,74,stage_direction,1,2,speech_part,,,10.0,UNKNOWN,anger,negative,emotions of rejection
+109,109,TextGrid/-Pandaemonium_Germanicum.xml, Da mag er's denn darnach haben.,0,32,character_speech,1,2,,ERSTER,ERSTER,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+110,110,TextGrid/-Pandaemonium_Germanicum.xml,Der Stein fällt wieder zurück und ihm auf den Fuß.,33,83,character_speech,1,2,,ERSTER,ERSTER,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+111,111,TextGrid/-Pandaemonium_Germanicum.xml,Hinkt herum.,84,96,character_speech,1,2,,ERSTER,ERSTER,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+112,112,TextGrid/-Pandaemonium_Germanicum.xml,Aye!,97,101,character_speech,1,2,,ERSTER,ERSTER,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+113,113,TextGrid/-Pandaemonium_Germanicum.xml,Aye!,102,106,character_speech,1,2,,ERSTER,ERSTER,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+114,114,TextGrid/-Pandaemonium_Germanicum.xml,was hab ich doch gemacht?,107,132,character_speech,1,2,,ERSTER,ERSTER,10.0,UNKNOWN,being moved,being moved,being moved
+115,115,TextGrid/-Pandaemonium_Germanicum.xml, O du alte Hure!,0,16,character_speech,1,2,,ZWEITER.,ZWEITER.,11.0,UNKNOWN,abhorrence,negative,emotions of rejection
+116,116,TextGrid/-Pandaemonium_Germanicum.xml,hat grade soviel Kraft in seiner Hand als meine alte Großmutter.,17,81,character_speech,1,2,,ZWEITER.,ZWEITER.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+117,117,TextGrid/-Pandaemonium_Germanicum.xml,"Wirft die Lorgnette weg, faßt den Stein ganz wütend und wirft blindlings über die Schulter seinem Nachbar ins Gesicht, daß der tot zur Erde fällt.",82,228,character_speech,1,2,,ZWEITER.,ZWEITER.,11.0,UNKNOWN,anger,negative,emotions of rejection
+118,118,TextGrid/-Pandaemonium_Germanicum.xml,Der Teufel!,229,240,character_speech,1,2,,ZWEITER.,ZWEITER.,11.0,UNKNOWN,being moved,being moved,being moved
+119,119,TextGrid/-Pandaemonium_Germanicum.xml,ich dacht ihn doch recht gezielt zu haben.,241,283,character_speech,1,2,,ZWEITER.,ZWEITER.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+120,120,TextGrid/-Pandaemonium_Germanicum.xml,So hat mich die Lorgnette betrogen.,284,319,character_speech,1,2,,ZWEITER.,ZWEITER.,11.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+121,121,TextGrid/-Pandaemonium_Germanicum.xml,Es wird heutzutage doch kein vernünftig Glas mehr geschliffen.,320,382,character_speech,1,2,,ZWEITER.,ZWEITER.,11.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+122,122,TextGrid/-Pandaemonium_Germanicum.xml, Wollen uns doch die Lust machen und was herunterwerfen!,0,56,character_speech,1,2,,GOETHE.,GOETHE.,12.0,UNKNOWN,joy,positive,emotions of pleasure
+123,123,TextGrid/-Pandaemonium_Germanicum.xml,Hast du ein Bogen Papier bei dir?,57,90,character_speech,1,2,,GOETHE.,GOETHE.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+124,124,TextGrid/-Pandaemonium_Germanicum.xml, Da ist.,0,8,character_speech,1,2,,LENZ.,LENZ.,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+125,125,TextGrid/-Pandaemonium_Germanicum.xml, Sie werden meinen es sei ein Felsstück.,0,40,character_speech,1,2,,GOETHE.,GOETHE.,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+126,126,TextGrid/-Pandaemonium_Germanicum.xml,Du sollst dich zu Tode lachen.,41,71,character_speech,1,2,,GOETHE.,GOETHE.,14.0,UNKNOWN,joy,positive,emotions of pleasure
+127,127,TextGrid/-Pandaemonium_Germanicum.xml,Läßt den Bogen herabfallen.,72,99,character_speech,1,2,,GOETHE.,GOETHE.,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+128,128,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       
+                                          
+Sie laufen alle mit erbärmlichem Geschrei.",0,126,stage_direction,1,2,speech_part,,,14.0,UNKNOWN,abhorrence,negative,emotions of rejection
+129,129,TextGrid/-Pandaemonium_Germanicum.xml,O weh!,0,6,character_speech,1,2,,GOETHE.,GOETHE.,14.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+130,130,TextGrid/-Pandaemonium_Germanicum.xml,"er zermalmt uns die Eingeweide, er wird einen zweiten Ätna auf uns werfen.",7,81,character_speech,1,2,,GOETHE.,GOETHE.,14.0,UNKNOWN,fear,negative,emotions of anxiety
+131,131,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Einige springen ins Wasser, andere kehren alle Vier in die Höhe, als ob der Berg schon auf ihnen läge.",0,142,stage_direction,1,2,speech_part,,,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+132,132,TextGrid/-Pandaemonium_Germanicum.xml," Wir wollen sehen, ob wir uns nicht Schilde flechten können, testudines nach Art der Alten.",0,91,character_speech,1,2,,EIN PAAR PEDANTEN.,EIN PAAR PEDANTEN.,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+133,133,TextGrid/-Pandaemonium_Germanicum.xml,Es werden solcher mehr kommen.,92,122,character_speech,1,2,,EIN PAAR PEDANTEN.,EIN PAAR PEDANTEN.,15.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+134,134,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Verlieren sich in ein Weidengebüsch.",0,76,stage_direction,1,2,speech_part,,,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+135,135,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       auf Knien, die Hände in die Höhe.",0,73,stage_direction,1,2,speech_part,,,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+136,136,TextGrid/-Pandaemonium_Germanicum.xml," O schone, schone!",0,18,character_speech,1,2,,EIN GANZER HAUFEN,EIN GANZER HAUFEN,16.0,UNKNOWN,fear,negative,emotions of anxiety
+137,137,TextGrid/-Pandaemonium_Germanicum.xml,weitwerfender Apoll!,19,39,character_speech,1,2,,EIN GANZER HAUFEN,EIN GANZER HAUFEN,16.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+138,138,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       kehrt sich lachend um, zu Lenz.",0,71,stage_direction,1,2,speech_part,,,17.0,UNKNOWN,joy,positive,emotions of pleasure
+139,139,TextGrid/-Pandaemonium_Germanicum.xml, Die Narren!,0,12,character_speech,1,2,,GOETHE,GOETHE,17.0,UNKNOWN,abhorrence,negative,emotions of rejection
+140,140,TextGrid/-Pandaemonium_Germanicum.xml, Ich möchte fast herunter zu ihnen und sie bedeuten.,0,52,character_speech,1,2,,LENZ.,LENZ.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+141,141,TextGrid/-Pandaemonium_Germanicum.xml, Laß sie doch.,0,14,character_speech,1,2,,GOETHE.,GOETHE.,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+142,142,TextGrid/-Pandaemonium_Germanicum.xml,"Wenn keine Narren auf der Welt wären, was wär die Welt!",15,70,character_speech,1,2,,GOETHE.,GOETHE.,19.0,UNKNOWN,abhorrence,negative,emotions of rejection
+143,143,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Der ganze Haufe kommt den Berg herangekrochen wie Ameisen, rutschen alle Augenblick zurück und machen die possierlichsten Capriolen.",0,172,stage_direction,1,2,speech_part,,,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+144,144,TextGrid/-Pandaemonium_Germanicum.xml, Das ist ein Berg!,0,18,character_speech,1,2,,UNTEN.,UNTEN.,20.0,UNKNOWN,being moved,being moved,being moved
+145,145,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Der Henker hol den Berg!",0,64,character_speech,1,2,,UNTEN.,UNTEN.,20.0,UNKNOWN,anger,negative,emotions of rejection
+146,146,TextGrid/-Pandaemonium_Germanicum.xml,Ist ein Schwerenotsberg.,104,128,character_speech,1,2,,UNTEN.,UNTEN.,20.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+147,147,TextGrid/-Pandaemonium_Germanicum.xml,"Ei was ist dran zu steigen, wollen gehen und sagen wir sind droben gewesen.",0,75,character_speech,1,2,,UNTEN.,UNTEN.,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+148,148,TextGrid/-Pandaemonium_Germanicum.xml, Das wird das gescheutste sein.,0,31,character_speech,1,2,,ALLE.,ALLE.,21.0,UNKNOWN,fear,negative,emotions of anxiety
+149,149,TextGrid/-Pandaemonium_Germanicum.xml,"Kommt ein Haufen Fremde zu ihnen, sie komplimentieren sich.",32,91,character_speech,1,2,,ALLE.,ALLE.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+150,150,TextGrid/-Pandaemonium_Germanicum.xml,Kennen Sie den Herrn Goethe?,92,120,character_speech,1,2,,ALLE.,ALLE.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+151,151,TextGrid/-Pandaemonium_Germanicum.xml,Und seinen Nachahmer den Lenz?,121,151,character_speech,1,2,,ALLE.,ALLE.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+152,152,TextGrid/-Pandaemonium_Germanicum.xml,"Wir sind eben bei ihnen gewesen, die Narren wollten nicht mit herunterkommen, sie sagten es gefiel ihnen so wohl da in der dünnen Luft.",152,287,character_speech,1,2,,ALLE.,ALLE.,21.0,UNKNOWN,joy,positive,emotions of pleasure
+153,153,TextGrid/-Pandaemonium_Germanicum.xml," Wo geht man hinauf meine Herren, ich möchte sie gern besuchen.",0,63,character_speech,1,2,,EIN FREMDER.,EIN FREMDER.,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+154,154,TextGrid/-Pandaemonium_Germanicum.xml, Ich rat es Ihnen nicht.,0,24,character_speech,1,2,,EINER.,EINER.,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+155,155,TextGrid/-Pandaemonium_Germanicum.xml,Wenn Sie zum Schwindel geneigt sind –,25,62,character_speech,1,2,,EINER.,EINER.,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+156,156,TextGrid/-Pandaemonium_Germanicum.xml, Ich bin nicht schwindligt.,0,27,character_speech,1,2,,FREMDER.,FREMDER.,24.0,UNKNOWN,being moved,being moved,being moved
+157,157,TextGrid/-Pandaemonium_Germanicum.xml," Schadt nichts, Sie werden's schon werden.",0,42,character_speech,1,2,,ERSTER.,ERSTER.,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+158,158,TextGrid/-Pandaemonium_Germanicum.xml,"Unter uns gesagt, die Wege sind auch verflucht verworren 
+durcheinander, wir müßten Sie bis oben hinauf begleiten.",43,157,character_speech,1,2,,ERSTER.,ERSTER.,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+159,159,TextGrid/-Pandaemonium_Germanicum.xml,Der Lenz selber soll sich einmal verirrt haben ganzer drei Tage lang.,158,227,character_speech,1,2,,ERSTER.,ERSTER.,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+160,160,TextGrid/-Pandaemonium_Germanicum.xml," Wer ist denn der Lenz, den kenn ich ja gar nicht.",0,50,character_speech,1,2,,FREMDER.,FREMDER.,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+161,161,TextGrid/-Pandaemonium_Germanicum.xml," Ein junges aufkeimendes Genie aus Kurland, der bald wieder nach Hause zurückreisen wird.",0,89,character_speech,1,2,,ERSTER.,ERSTER.,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+162,162,TextGrid/-Pandaemonium_Germanicum.xml,"Er ist von meinen vertrautsten Freunden und schreibt kein Blatt, das er nicht vorher mir weist.",90,185,character_speech,1,2,,ERSTER.,ERSTER.,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+163,163,TextGrid/-Pandaemonium_Germanicum.xml, Und der ist so hoch heraufkommen?,0,34,character_speech,1,2,,FREMDER.,FREMDER.,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+164,164,TextGrid/-Pandaemonium_Germanicum.xml," Der Goethe hat ihn mitgenommen, er hat mir's auch angetragen, aber ich wollte nicht, meine Lunge ist mir zu lieb.",0,114,character_speech,1,2,,ERSTER.,ERSTER.,29.0,UNKNOWN,love,positive,emotions of affection
+165,165,TextGrid/-Pandaemonium_Germanicum.xml,Doch hab ich ihn besucht oben.,115,145,character_speech,1,2,,ERSTER.,ERSTER.,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+166,166,TextGrid/-Pandaemonium_Germanicum.xml," Ich möchte doch die beiden Leute gern kennen lernen, es müssen sonderbare Menschen sein.",0,89,character_speech,1,2,,FREMDER.,FREMDER.,30.0,UNKNOWN,being moved,being moved,being moved
+167,167,TextGrid/-Pandaemonium_Germanicum.xml," Ach sie werden gleich herunterkommen, wenn wir ihnen winken werden.",0,68,character_speech,1,2,,ERSTER.,ERSTER.,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+168,168,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Winken mit Schnupftüchern, jene kehren sich um und gehen fort.",0,102,stage_direction,1,2,speech_part,,,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+169,169,TextGrid/-Pandaemonium_Germanicum.xml, Sehn Sie?,0,10,character_speech,1,2,,ERSTER.,ERSTER.,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+170,170,TextGrid/-Pandaemonium_Germanicum.xml,"Warten Sie nur einen Augenblick, sie werden gleich da sein.",11,70,character_speech,1,2,,ERSTER.,ERSTER.,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+171,171,TextGrid/-Pandaemonium_Germanicum.xml, Wart du bis morgen früh.,0,25,character_speech,1,2,,ZWEITER.,ZWEITER.,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+172,172,TextGrid/-Pandaemonium_Germanicum.xml,Da sind sie schon auf einem andern Hügel.,26,67,character_speech,1,2,,ZWEITER.,ZWEITER.,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+173,173,TextGrid/-Pandaemonium_Germanicum.xml, Das ist impertinent.,0,21,character_speech,1,2,,FREMDER.,FREMDER.,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+174,174,TextGrid/-Pandaemonium_Germanicum.xml,"Wenn man bei uns Auteur ruft und er kommt nicht, wird er ausgepfiffen.",22,92,character_speech,1,2,,FREMDER.,FREMDER.,34.0,UNKNOWN,anger,negative,emotions of rejection
+175,175,TextGrid/-Pandaemonium_Germanicum.xml, Wollen wir auch pfeifen?,0,25,character_speech,1,2,,ERSTER.,ERSTER.,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+176,176,TextGrid/-Pandaemonium_Germanicum.xml," Was hilft's, sie hören's doch nicht.",0,37,character_speech,1,2,,ZWEITER.,ZWEITER.,36.0,UNKNOWN,anger,negative,emotions of rejection
+177,177,TextGrid/-Pandaemonium_Germanicum.xml, Desto besser.,0,14,character_speech,1,2,,ERSTER.,ERSTER.,37.0,UNKNOWN,joy,positive,emotions of pleasure
+178,178,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Die Philister",0,50,stage_direction,1,3,pre_speech,,,,,abhorrence,negative,emotions of rejection
+179,179,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Lenz sitzt an einem einsamen Ort ins Tal hinabsehend, seinen Hofmeister im Arm.",0,116,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+180,180,TextGrid/-Pandaemonium_Germanicum.xml,Einige Bürger aus dem Tal reden mit ihm.,117,157,stage_direction,1,3,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+181,181,TextGrid/-Pandaemonium_Germanicum.xml, Es freut uns daß wir Sie näher kennen lernen.,0,46,character_speech,1,3,,EINER.,EINER.,1.0,UNKNOWN,joy,positive,emotions of pleasure
+182,182,TextGrid/-Pandaemonium_Germanicum.xml," Es verdrießt mich aber doch in der Tat, daß Ihre Stücke meist unter einem andern Namen herumlaufen.",0,100,character_speech,1,3,,ZWEITER.,ZWEITER.,2.0,UNKNOWN,anger,negative,emotions of rejection
+183,183,TextGrid/-Pandaemonium_Germanicum.xml, Und mich freut's.,0,18,character_speech,1,3,,LENZ.,LENZ.,3.0,UNKNOWN,joy,positive,emotions of pleasure
+184,184,TextGrid/-Pandaemonium_Germanicum.xml,"Wenn sie so geschwinder ihr Glück machen, soll ich's meinen Kindern mißgönnen?",19,97,character_speech,1,3,,LENZ.,LENZ.,3.0,UNKNOWN,joy,positive,emotions of pleasure
+185,185,TextGrid/-Pandaemonium_Germanicum.xml,"Würd ein Vater sich grämen wenn sein Sohn seinen Namen veränderte, um desto leichter emporzukommen?",98,197,character_speech,1,3,,LENZ.,LENZ.,3.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+186,186,TextGrid/-Pandaemonium_Germanicum.xml," Wenn man nun aber zu zweifeln anfinge, ob Sie allein im Stande gewesen wären –",0,79,character_speech,1,3,,DRITTER.,DRITTER.,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+187,187,TextGrid/-Pandaemonium_Germanicum.xml, Laß sie zweifeln.,0,18,character_speech,1,3,,LENZ.,LENZ.,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+188,188,TextGrid/-Pandaemonium_Germanicum.xml,Was würd ich durch ihren Glauben gewinnen?,19,61,character_speech,1,3,,LENZ.,LENZ.,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+189,189,TextGrid/-Pandaemonium_Germanicum.xml,"Das Gefühl, an diesem Herzen ist er warm geworden, hier hat er sein Feuer und alle gutartige Mienen bekommen, die andern Leuten an seinem Gesicht Vergnügen machen, ist stärker und göttlicher als alles Schnettern der Trompete der Fama eins aufschütteln kann.",62,319,character_speech,1,3,,LENZ.,LENZ.,5.0,UNKNOWN,joy,positive,emotions of pleasure
+190,190,TextGrid/-Pandaemonium_Germanicum.xml,Dies Gefühl ist mein Preis und der angenehme Taumel in den mich der Anblick eines solchen Sohnes bisweilen zurücksetzt und der fast der Entzückung gleicht mit der er geboren ward.,320,499,character_speech,1,3,,LENZ.,LENZ.,5.0,UNKNOWN,joy,positive,emotions of pleasure
+191,191,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Goethe, über ein Tal herabhängend, in welchem eine Menge Bürger emporgucken und die Hände in die Höhe strecken.",0,151,stage_direction,1,3,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+192,192,TextGrid/-Pandaemonium_Germanicum.xml, Traut ihm nicht.,0,17,character_speech,1,3,,EINER.,EINER.,6.0,UNKNOWN,fear,negative,emotions of anxiety
+193,193,TextGrid/-Pandaemonium_Germanicum.xml, Da bewegt er sich.,0,19,character_speech,1,3,,ZWEITER.,ZWEITER.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+194,194,TextGrid/-Pandaemonium_Germanicum.xml,"Gewiß in der andern Hand, die er auf dem Rücken hat, hält er nichts Guts.",20,93,character_speech,1,3,,ZWEITER.,ZWEITER.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+195,195,TextGrid/-Pandaemonium_Germanicum.xml, Es scheint der Mann will gar nicht rezensiert sein.,0,52,character_speech,1,3,,EIN GELEHRTER UNTER IHNEN.,EIN GELEHRTER UNTER IHNEN.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+196,196,TextGrid/-Pandaemonium_Germanicum.xml," Ihr Narren, wenn er euch auch freien Willen 
+ließe, er würde bald unter die Füße kommen.",0,89,character_speech,1,3,,EIN PHILISTER.,EIN PHILISTER.,9.0,UNKNOWN,abhorrence,negative,emotions of rejection
+197,197,TextGrid/-Pandaemonium_Germanicum.xml,"Und er streitet nicht für sich allein, sondern auch für seine Freunde.",90,160,character_speech,1,3,,EIN PHILISTER.,EIN PHILISTER.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+198,198,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Die Journalisten",0,53,stage_direction,1,4,pre_speech,,,,,abhorrence,negative,emotions of rejection
+199,199,TextGrid/-Pandaemonium_Germanicum.xml, Es fängt da oben an bald zu wölken bald zu tagen.,0,50,character_speech,1,4,,EINER.,EINER.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+200,200,TextGrid/-Pandaemonium_Germanicum.xml,"Hört Kinder, es ist euch kein andrer Rat, wir müssen hinauf und sehen wie die Leute das machen.",51,146,character_speech,1,4,,EINER.,EINER.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+201,201,TextGrid/-Pandaemonium_Germanicum.xml," Ganz gut, wie kommen wir aber hinauf.",0,38,character_speech,1,4,,ZWEITER.,ZWEITER.,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+202,202,TextGrid/-Pandaemonium_Germanicum.xml, Wollen wir ein Luftschiff machen wie die bösen Geister im Noah das uns in die Höhe hebt.,0,89,character_speech,1,4,,ERSTER.,ERSTER.,3.0,UNKNOWN,joy,positive,emotions of pleasure
+203,203,TextGrid/-Pandaemonium_Germanicum.xml, Ein fürtrefflicher Einfall.,0,28,character_speech,1,4,,ZWEITER.,ZWEITER.,4.0,UNKNOWN,joy,positive,emotions of pleasure
+204,204,TextGrid/-Pandaemonium_Germanicum.xml,"Es kommt auch so ein Wind von oben herab, der uns schon heben wird.",29,96,character_speech,1,4,,ZWEITER.,ZWEITER.,4.0,UNKNOWN,joy,positive,emotions of pleasure
+205,205,TextGrid/-Pandaemonium_Germanicum.xml, Ich hab auch eben nichts Bessers zu tun und es wäre doch kurios den Leuten auf die Finger zu sehen.,0,100,character_speech,1,4,,ERSTER.,ERSTER.,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+206,206,TextGrid/-Pandaemonium_Germanicum.xml," Mir wird die Zeit auch so verflucht lang hier unten, ich weiß wahrhaftig nicht mehr was ich angreifen soll.",0,108,character_speech,1,4,,DRITTER.,DRITTER.,6.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+207,207,TextGrid/-Pandaemonium_Germanicum.xml, So können wir uns auch mit leichter Mühe berühmt machen.,0,57,character_speech,1,4,,VIERTER.,VIERTER.,7.0,UNKNOWN,joy,positive,emotions of pleasure
+208,208,TextGrid/-Pandaemonium_Germanicum.xml," Und ich will meine Akten und all ins Feuer werfen, was Henkers nützen einem auch die Brodstudia.",0,97,character_speech,1,4,,FÜNFTER.,FÜNFTER.,8.0,UNKNOWN,anger,negative,emotions of rejection
+209,209,TextGrid/-Pandaemonium_Germanicum.xml,Es soll uns so an Geld nicht fehlen.,98,134,character_speech,1,4,,FÜNFTER.,FÜNFTER.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+210,210,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       zum Siebenten.",0,54,stage_direction,1,4,speech_part,,,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+211,211,TextGrid/-Pandaemonium_Germanicum.xml," Wenn die droben sind, wollen wir einen Geist der Journale schreiben.",0,69,character_speech,1,4,,SECHSTER,SECHSTER,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+212,212,TextGrid/-Pandaemonium_Germanicum.xml,"Das geneigte Publikum wird doch gescheut sein und pränumerieren, wie dem Klopstock da.",70,156,character_speech,1,4,,SECHSTER,SECHSTER,9.0,UNKNOWN,fear,negative,emotions of anxiety
+213,213,TextGrid/-Pandaemonium_Germanicum.xml, Wenn aber ein Achter käm und schrieb einen Geist des Geists?,0,61,character_speech,1,4,,SIEBENTER.,SIEBENTER.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+214,214,TextGrid/-Pandaemonium_Germanicum.xml, Es ist der Geist der Zeit.,0,27,character_speech,1,4,,SECHSTER.,SECHSTER.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+215,215,TextGrid/-Pandaemonium_Germanicum.xml,"Laß uns keine Zeit verlieren, wer zuerst kommt der mahlt erst.",28,90,character_speech,1,4,,SECHSTER.,SECHSTER.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+216,216,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       
+                                          
+Heben sich auf ihrem Luftschiff mit Goethens Wind und machen ihm Komplimente.",0,161,stage_direction,1,4,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+217,217,TextGrid/-Pandaemonium_Germanicum.xml," Landt an, landt an!",0,20,character_speech,1,4,,GOETHE.,GOETHE.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+218,218,TextGrid/-Pandaemonium_Germanicum.xml,Zu Lenz.,21,29,character_speech,1,4,,GOETHE.,GOETHE.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+219,219,TextGrid/-Pandaemonium_Germanicum.xml,Wollen den Spaß mit den Kerlen haben.,30,67,character_speech,1,4,,GOETHE.,GOETHE.,12.0,UNKNOWN,joy,positive,emotions of pleasure
+220,220,TextGrid/-Pandaemonium_Germanicum.xml,"Wirft ihnen ein Seil zu, die Journalisten verwandeln sich alle in Schmeißfliegen und besetzen ihn von oben bis unten.",68,185,character_speech,1,4,,GOETHE.,GOETHE.,12.0,UNKNOWN,abhorrence,negative,emotions of rejection
+221,221,TextGrid/-Pandaemonium_Germanicum.xml,Nun zum Sackerment.,186,205,character_speech,1,4,,GOETHE.,GOETHE.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+222,222,TextGrid/-Pandaemonium_Germanicum.xml,Schüttelt sie ab.,206,223,character_speech,1,4,,GOETHE.,GOETHE.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+223,223,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Sie bekommen die Gestalt kleiner Jungen und laufen auf dem Berg herum, Hügelein auf, Hügelein ab.",0,137,stage_direction,1,4,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+224,224,TextGrid/-Pandaemonium_Germanicum.xml,"Goethe steigt eine neue Erhöhung hinan, eine Menge von ihnen umklammert ihm die Füße.",138,223,stage_direction,1,4,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+225,225,TextGrid/-Pandaemonium_Germanicum.xml,"Nimm mich mit, nimm mich mit.",0,29,character_speech,1,4,,GOETHE.,GOETHE.,12.0,UNKNOWN,being moved,being moved,being moved
+226,226,TextGrid/-Pandaemonium_Germanicum.xml," Liebe Jungens laßt mich los, ich kann ja sonst nicht weiter kommen.",0,68,character_speech,1,4,,GOETHE.,GOETHE.,13.0,UNKNOWN,anger,negative,emotions of rejection
+227,227,TextGrid/-Pandaemonium_Germanicum.xml, Womit soll ich dich vergleichen?,0,33,character_speech,1,4,,EINER.,EINER.,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+228,228,TextGrid/-Pandaemonium_Germanicum.xml,"Alexander, Cäsar, Friedrich: o das waren alles kleine Leute gegen dich.",34,105,character_speech,1,4,,EINER.,EINER.,14.0,UNKNOWN,anger,negative,emotions of rejection
+229,229,TextGrid/-Pandaemonium_Germanicum.xml," Wo sind die großen Genieen der Nachbarn, die Shakespear, die Voltaire, die Rousseau.",0,85,character_speech,1,4,,ZWEITER.,ZWEITER.,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+230,230,TextGrid/-Pandaemonium_Germanicum.xml, Was sind die so sehr gerühmten Alten selber?,0,45,character_speech,1,4,,DRITTER.,DRITTER.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+231,231,TextGrid/-Pandaemonium_Germanicum.xml,"der Schwätzer Ovid, der elende Virgil und dein so sehr erhabner Homer selbst.",46,123,character_speech,1,4,,DRITTER.,DRITTER.,16.0,UNKNOWN,abhorrence,negative,emotions of rejection
+232,232,TextGrid/-Pandaemonium_Germanicum.xml,Du du bist der Dichter der Deutschen und soviel Vorzüge unsere Nation vor den alten Griechen –,124,218,character_speech,1,4,,DRITTER.,DRITTER.,16.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+233,233,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       sein Haupt verhüllend.",0,62,stage_direction,1,4,speech_part,,,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+234,234,TextGrid/-Pandaemonium_Germanicum.xml, O weh sie verderben mir meinen Goethe.,0,39,character_speech,1,4,,LENZ,LENZ,17.0,UNKNOWN,fear,negative,emotions of anxiety
+235,235,TextGrid/-Pandaemonium_Germanicum.xml, Daß euch die schwere Not.,0,26,character_speech,1,4,,GOETHE.,GOETHE.,18.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+236,236,TextGrid/-Pandaemonium_Germanicum.xml,Schüttelt sie von den Beinen und wirft sie alle kopflängs den Berg hinunter.,27,103,character_speech,1,4,,GOETHE.,GOETHE.,18.0,UNKNOWN,abhorrence,negative,emotions of rejection
+237,237,TextGrid/-Pandaemonium_Germanicum.xml,"Ihr Schurken, daß ihr euch immer mit fremder Größe beschäftigt und nie eure eigene ausstudiert.",104,199,character_speech,1,4,,GOETHE.,GOETHE.,18.0,UNKNOWN,abhorrence,negative,emotions of rejection
+238,238,TextGrid/-Pandaemonium_Germanicum.xml,"Wie seid ihr im Stande zu fühlen was Alexander war, oder was Cäsar war, wie seid ihr im Stande zu fühlen was ich bin.",200,317,character_speech,1,4,,GOETHE.,GOETHE.,18.0,UNKNOWN,being moved,being moved,being moved
+239,239,TextGrid/-Pandaemonium_Germanicum.xml,"Wie unendlich anders die Größe eines Helden, eines Staatsmannes eines Gelehrten und eines Künstlers!",318,418,character_speech,1,4,,GOETHE.,GOETHE.,18.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+240,240,TextGrid/-Pandaemonium_Germanicum.xml,Ich bin Künstler dumme Bestien und verlangte nie mehr zu sein.,419,481,character_speech,1,4,,GOETHE.,GOETHE.,18.0,UNKNOWN,abhorrence,negative,emotions of rejection
+241,241,TextGrid/-Pandaemonium_Germanicum.xml,"Sagt mir ob's mir in meiner Kunst geglückt ist, ob ich wo einen Strich wider die Natur gemacht habe, 
+und denn sollt ihr mir willkommen sein.",482,623,character_speech,1,4,,GOETHE.,GOETHE.,18.0,UNKNOWN,joy,positive,emotions of pleasure
+242,242,TextGrid/-Pandaemonium_Germanicum.xml,"Übrigens aber haltt's Maul mit euren wahnwitzigen Ausrufungen von Groß Göttlich und merkt euch die Antwort die der König von Preußen einem gab, der ihn zum Halbgott machen wollte.",624,803,character_speech,1,4,,GOETHE.,GOETHE.,18.0,UNKNOWN,anger,negative,emotions of rejection
+243,243,TextGrid/-Pandaemonium_Germanicum.xml,Und der König von Preußen ist doch ein ganz andrer Mann als ich.,804,868,character_speech,1,4,,GOETHE.,GOETHE.,18.0,UNKNOWN,being moved,being moved,being moved
+244,244,TextGrid/-Pandaemonium_Germanicum.xml, Wir wollen alle Künstler werden.,0,33,character_speech,1,4,,DIE JOURNALISTEN.,DIE JOURNALISTEN.,19.0,UNKNOWN,joy,positive,emotions of pleasure
+245,245,TextGrid/-Pandaemonium_Germanicum.xml," In Gottes Namen, ich will euch dazu behülflich sein.",0,53,character_speech,1,4,,GOETHE.,GOETHE.,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+246,246,TextGrid/-Pandaemonium_Germanicum.xml, Wir brauchen Eurer Hülfe nicht.,0,32,character_speech,1,4,,EINER.,EINER.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+247,247,TextGrid/-Pandaemonium_Germanicum.xml,Ich bin schon ein zehnmal größrer Mann als du bist.,33,84,character_speech,1,4,,EINER.,EINER.,21.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+248,248,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       sieht wieder hervor.",0,60,stage_direction,1,4,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+249,249,TextGrid/-Pandaemonium_Germanicum.xml," Also auch als alle die, die er unter dich gestellt hat.",0,56,character_speech,1,4,,LENZ,LENZ,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+250,250,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       lacht.",0,46,stage_direction,1,4,speech_part,,,23.0,UNKNOWN,joy,positive,emotions of pleasure
+251,251,TextGrid/-Pandaemonium_Germanicum.xml, So aber gefällt mir der Kerl.,0,30,character_speech,1,4,,GOETHE,GOETHE,23.0,UNKNOWN,love,positive,emotions of affection
+252,252,TextGrid/-Pandaemonium_Germanicum.xml," Lieber Goethe, ich möchte mein Dasein verwünschen, wenn's lauter Leute so da unten gäbe.",0,89,character_speech,1,4,,LENZ.,LENZ.,24.0,UNKNOWN,abhorrence,negative,emotions of rejection
+253,253,TextGrid/-Pandaemonium_Germanicum.xml, Haben sie's andern Nationen besser gemacht?,0,44,character_speech,1,4,,GOETHE.,GOETHE.,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+254,254,TextGrid/-Pandaemonium_Germanicum.xml,"Woher denn der Verfall der Künste, wenn sie zu einer gewissen Höhe gestiegen waren.",45,128,character_speech,1,4,,GOETHE.,GOETHE.,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+255,255,TextGrid/-Pandaemonium_Germanicum.xml, Ich wünschte denn lieber mit Rousseau wir hätten gar keine und kröchen auf allen Vieren herum.,0,95,character_speech,1,4,,LENZ.,LENZ.,26.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+256,256,TextGrid/-Pandaemonium_Germanicum.xml, Wer kann davor?,0,16,character_speech,1,4,,GOETHE.,GOETHE.,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+257,257,TextGrid/-Pandaemonium_Germanicum.xml, Ach ich nahm mir vor hinabzugehn und ein Maler der menschlichen Gesellschaft zu werden: aber wer mag da malen wenn lauter solche Fratzengesichter unten anzutreffen.,0,165,character_speech,1,4,,LENZ.,LENZ.,28.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+258,258,TextGrid/-Pandaemonium_Germanicum.xml,"Glücklicher Aristophanes, glücklicher Plautus, der noch Leser und Zuschauer fand.",166,247,character_speech,1,4,,LENZ.,LENZ.,28.0,UNKNOWN,joy,positive,emotions of pleasure
+259,259,TextGrid/-Pandaemonium_Germanicum.xml,"Wir finden, weh uns, nichts als Rezensenten und könnten eben so gut in die Tollhäuser gehen um menschliche Natur zu malen.",248,370,character_speech,1,4,,LENZ.,LENZ.,28.0,UNKNOWN,anger,negative,emotions of rejection
+260,260,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Hagedorn spaziert einsam herum und pfeift zum Zeitvertreib Liederchen.",0,107,stage_direction,2,5,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+261,261,TextGrid/-Pandaemonium_Germanicum.xml," Wie wird mir die Zeit so lang, Gesellschaft zu finden.",0,55,character_speech,2,5,,HAGEDORN.,HAGEDORN.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+262,262,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Setzt sich an eine schwarze Tafel und malt einige Tiere hin.",0,100,stage_direction,2,5,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+263,263,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       der mit einigen andern Franzosen hinter einem Gitter auf dem Chor sitzt, bückt sich über dasselbe hervor und ruft indem er in die Hände patscht.",0,184,stage_direction,2,5,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+264,264,TextGrid/-Pandaemonium_Germanicum.xml, Bon!,0,5,character_speech,2,5,,LAFONTAINE,LAFONTAINE,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+265,265,TextGrid/-Pandaemonium_Germanicum.xml,bon!,6,10,character_speech,2,5,,LAFONTAINE,LAFONTAINE,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+266,266,TextGrid/-Pandaemonium_Germanicum.xml,cela passe!,11,22,character_speech,2,5,,LAFONTAINE,LAFONTAINE,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+267,267,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Tritt herein ein schmächtiger Philosoph, ducknackigt, mit hagerem Gesicht, großer Nase, eingefallenen hellblauen Augen, die Hände auf die Brust gefaltet.",0,193,stage_direction,2,5,speech_part,,,2.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+268,268,TextGrid/-Pandaemonium_Germanicum.xml,Bleibt verwundernd Hagedorn gegenüber stehen ohn aus seiner Stellung zu kommen.,194,273,stage_direction,2,5,speech_part,,,2.0,UNKNOWN,being moved,being moved,being moved
+269,269,TextGrid/-Pandaemonium_Germanicum.xml,"Auf einmal erblickt er Lafontainen, kehrt sich weg und tritt in den Winkel um nicht gesehen zu werden.",274,376,stage_direction,2,5,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+270,270,TextGrid/-Pandaemonium_Germanicum.xml,Nach einer Weile kommt er,377,402,stage_direction,2,5,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+271,271,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                        mit einigen Papieren voll Zeichnungen hervor, die er sich vor die Stirne hält.",0,119,stage_direction,2,5,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+272,272,TextGrid/-Pandaemonium_Germanicum.xml,"Hagedorn läßt die Kreide fallen, eine Menge Menschen umringen und bewundern ihn, der Haufe wird immer größer, er verzieht seine sauertöpfische Miene und sagt mit hohler Stimme und hypochondrischem Lachen.",120,324,stage_direction,2,5,speech_part,,,2.0,UNKNOWN,abhorrence,negative,emotions of rejection
+273,273,TextGrid/-Pandaemonium_Germanicum.xml,Was seht ihr da?,0,16,character_speech,2,5,,LAFONTAINE,LAFONTAINE,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+274,274,TextGrid/-Pandaemonium_Germanicum.xml,"– Wenn ihr mir gute Worte gebt, mal ich euch Menschen.",17,71,character_speech,2,5,,LAFONTAINE,LAFONTAINE,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+275,275,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Gleich drängen sich verschiedene die sein frommes Aussehen dreist macht zu ihm, unter denen ein großer Haufe alter Weiber und zutätiger Mütterchen.",0,187,stage_direction,2,5,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+276,276,TextGrid/-Pandaemonium_Germanicum.xml,"Er wendt sich um – und flugs steht eine von ihnen auf dem Papier da, die er darnach vorzeigt.",188,281,stage_direction,2,5,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+277,277,TextGrid/-Pandaemonium_Germanicum.xml,Da geht ein überlautes Gelächter von einer und ein Geschimpf von der andern Seite an.,282,367,stage_direction,2,5,speech_part,,,2.0,UNKNOWN,anger,negative,emotions of rejection
+278,278,TextGrid/-Pandaemonium_Germanicum.xml, Der Gotteslästerer!,0,20,character_speech,2,5,,ALTES WEIB.,ALTES WEIB.,3.0,UNKNOWN,abhorrence,negative,emotions of rejection
+279,279,TextGrid/-Pandaemonium_Germanicum.xml,"Er hat keinen Glauben, 
+er hat keine Religion, sonst würd er das ehrwürdige Alter nicht spotten.",21,117,character_speech,2,5,,ALTES WEIB.,ALTES WEIB.,3.0,UNKNOWN,abhorrence,negative,emotions of rejection
+280,280,TextGrid/-Pandaemonium_Germanicum.xml,Es ist ein Atheist.,118,137,character_speech,2,5,,ALTES WEIB.,ALTES WEIB.,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+281,281,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Bei diesen Worten fällt Gellert auf die Knie und bittet um Gotteswillen man soll ihm das Bild zurückgeben, das man ihm schon aus den Händen gewunden hat, er wolle es verbrennen.",0,217,stage_direction,2,5,speech_part,,,3.0,UNKNOWN,fear,negative,emotions of anxiety
+282,282,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       hinterm Gitter.",0,55,stage_direction,2,5,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+283,283,TextGrid/-Pandaemonium_Germanicum.xml, Oh l'original!,0,15,character_speech,2,5,,EINIGE FRANZOSEN,EINIGE FRANZOSEN,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+284,284,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       sich den Stutzbart streichend.",0,70,stage_direction,2,5,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+285,285,TextGrid/-Pandaemonium_Germanicum.xml, Je ne puis pas concevoir ces Allemands là.,0,43,character_speech,2,5,,MOLIÈRE,MOLIÈRE,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+286,286,TextGrid/-Pandaemonium_Germanicum.xml,Il se fait un crime d'avoir si bien réussi.,44,87,character_speech,2,5,,MOLIÈRE,MOLIÈRE,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+287,287,TextGrid/-Pandaemonium_Germanicum.xml,"Il n'aurait qu'à venir à Paris, il se corrigerait bien de cette maudite timidité.",88,169,character_speech,2,5,,MOLIÈRE,MOLIÈRE,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+288,288,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Herr Weiße, einer aus dem Haufen, sehr weiß gepudert, mit Steinschnallen in den Schuhen, läuft schnell heraus und nimmt sich ein Billet auf die Landkutsche nach Paris.",0,207,stage_direction,2,5,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+289,289,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Gellert unterdessen dringt durch den Haufen zu seinem Winkel, wo er sich auf die Knie wirft und die bittersten Tränen weint.",0,164,stage_direction,2,5,speech_part,,,5.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+290,290,TextGrid/-Pandaemonium_Germanicum.xml,"Auf einmal fängt er an geistliche Lieder zu singen, worauf er am Ende in ein gänzlich trübsinniges Stillschweigen verfällt, als ob er ein schwer Verbrechen auf dem Gewissen hätte.",165,344,stage_direction,2,5,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+291,291,TextGrid/-Pandaemonium_Germanicum.xml,Ein Engel fliegt vorbei und küßt ihm die Augen zu.,345,395,stage_direction,2,5,speech_part,,,5.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+292,292,TextGrid/-Pandaemonium_Germanicum.xml, Redliche Seele!,0,16,character_speech,2,5,,EINE STIMME.,EINE STIMME.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+293,293,TextGrid/-Pandaemonium_Germanicum.xml,"selbst in deinen Ausschweifungen ein Beweis, daß eine deutsche Seele keiner unedlen Narrheit fähig sei.",17,120,character_speech,2,5,,EINE STIMME.,EINE STIMME.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+294,294,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Als er stirbt.",0,54,stage_direction,2,5,speech_part,,,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+295,295,TextGrid/-Pandaemonium_Germanicum.xml, Il est fou.,0,12,character_speech,2,5,,DIE FRANZOSEN.,DIE FRANZOSEN.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+296,296,TextGrid/-Pandaemonium_Germanicum.xml,Am äußersten Ende des Gitters Rousseau auf beide Ellbogen gestützt.,13,80,character_speech,2,5,,DIE FRANZOSEN.,DIE FRANZOSEN.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+297,297,TextGrid/-Pandaemonium_Germanicum.xml,C'est un ange.,81,95,character_speech,2,5,,DIE FRANZOSEN.,DIE FRANZOSEN.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+298,298,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Rabener tritt herein, den Haufen um Gellert zerstreuend.",0,93,stage_direction,2,6,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+299,299,TextGrid/-Pandaemonium_Germanicum.xml," Platz, Platz für meinen Bauch Mit der Hand.",0,44,character_speech,2,6,,RABENER.,RABENER.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+300,300,TextGrid/-Pandaemonium_Germanicum.xml,"und nun noch mehr für meinen Satyr, daß er gemächlich auslachen kann.",45,114,character_speech,2,6,,RABENER.,RABENER.,1.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+301,301,TextGrid/-Pandaemonium_Germanicum.xml,Was in aller Welt sind das Gesichter hier.,115,157,character_speech,2,6,,RABENER.,RABENER.,1.0,UNKNOWN,being moved,being moved,being moved
+302,302,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       
+                                          
+Zieht einen zylindrischen Spiegel hervor.",0,125,stage_direction,2,6,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+303,303,TextGrid/-Pandaemonium_Germanicum.xml,Sie halten sich alle die Köpfe und entlaufen mit großem Geschrei wie eine Herde gescheuchter Schafe.,126,226,stage_direction,2,6,speech_part,,,1.0,UNKNOWN,fear,negative,emotions of anxiety
+304,304,TextGrid/-Pandaemonium_Germanicum.xml,Einige ermannen sich und treten sehr gravitätisch näher.,227,283,stage_direction,2,6,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+305,305,TextGrid/-Pandaemonium_Germanicum.xml,"Als sie nah kommen, können sie sich doch nicht enthalten, mit den Köpfen zurückzufahren.",284,372,stage_direction,2,6,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+306,306,TextGrid/-Pandaemonium_Germanicum.xml,Als vernünftige Leute lachen sie aber selbst über die Grimassen die sie machen.,373,452,stage_direction,2,6,speech_part,,,1.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+307,307,TextGrid/-Pandaemonium_Germanicum.xml, Seid ihr's bald müde?,0,22,character_speech,2,6,,RABENER.,RABENER.,2.0,UNKNOWN,anger,negative,emotions of rejection
+308,308,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Gibt einem nach dem andern den Spiegel in die Hand, sie erschröcken sich mit ihren eigenen Gesichtern.",0,142,stage_direction,2,6,speech_part,,,2.0,UNKNOWN,fear,negative,emotions of anxiety
+309,309,TextGrid/-Pandaemonium_Germanicum.xml, So gefällt's uns doch besser als nach dem Leben.,0,49,character_speech,2,6,,ALLE.,ALLE.,3.0,UNKNOWN,joy,positive,emotions of pleasure
+310,310,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       von oben.",0,49,stage_direction,2,6,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+311,311,TextGrid/-Pandaemonium_Germanicum.xml," Au lieu du miroir, s'il s'était ôté la culotte, il aurait mieux fait.",0,70,character_speech,2,6,,RABELAIS UND SCARRON,RABELAIS UND SCARRON,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+312,312,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Liscow horcht herauf, und da eben ein paar Waisenhäuserstudenten neben ihm stehen, zieht er sich die Hosen ab, die schlagen ein Kreuz, er jägt sie so rücklings zum Tempel hinaus.",0,218,stage_direction,2,6,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+313,313,TextGrid/-Pandaemonium_Germanicum.xml,"Ein ganzer Wisch junger Rezensenten bereden sich, bei erster Gelegenheit ein gleiches zu tun.",219,312,stage_direction,2,6,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+314,314,TextGrid/-Pandaemonium_Germanicum.xml,"Klotz bittet sie, nur solang zu warten bis er sich zu jenen drei Stufen hervorgedrängt, auf die er steigen und sodann zu allgemeiner Niederlassung der Hosen das Signal geben will.",313,492,stage_direction,2,6,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+315,315,TextGrid/-Pandaemonium_Germanicum.xml, Das wird einen Teufels-Jokus geben.,0,36,character_speech,2,6,,KLOTZ.,KLOTZ.,5.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+316,316,TextGrid/-Pandaemonium_Germanicum.xml,Es bleibt keine einzige Dame in der Kirche.,37,80,character_speech,2,6,,KLOTZ.,KLOTZ.,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+317,317,TextGrid/-Pandaemonium_Germanicum.xml, Die Komödiantinnen bleiben doch.,0,33,character_speech,2,6,,EINER.,EINER.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+318,318,TextGrid/-Pandaemonium_Germanicum.xml, Und die H*ren.,0,15,character_speech,2,6,,ZWEITER.,ZWEITER.,7.0,UNKNOWN,abhorrence,negative,emotions of rejection
+319,319,TextGrid/-Pandaemonium_Germanicum.xml,Wir wollen Oden auf sie machen.,16,47,character_speech,2,6,,ZWEITER.,ZWEITER.,7.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+320,320,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Anakreons Leier wird hervorgesucht und gestimmt.",0,88,stage_direction,2,6,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+321,321,TextGrid/-Pandaemonium_Germanicum.xml,Die honetten Damen die was merken entfernen sich in eine Ecke der Kirche.,89,162,stage_direction,2,6,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+322,322,TextGrid/-Pandaemonium_Germanicum.xml,Die andern treten näher.,163,187,stage_direction,2,6,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+323,323,TextGrid/-Pandaemonium_Germanicum.xml,Rost spielt auf.,188,204,stage_direction,2,6,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+324,324,TextGrid/-Pandaemonium_Germanicum.xml,Zu gleicher Zeit zieht Klotz die Hosen ab.,205,247,stage_direction,2,6,speech_part,,,7.0,UNKNOWN,anger,negative,emotions of rejection
+325,325,TextGrid/-Pandaemonium_Germanicum.xml,Eine Menge folgen ihm.,248,270,stage_direction,2,6,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+326,326,TextGrid/-Pandaemonium_Germanicum.xml,"Das Gelächter, Gekreisch und Geschimpf wird allgemein.",271,325,stage_direction,2,6,speech_part,,,7.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+327,327,TextGrid/-Pandaemonium_Germanicum.xml,Die honetten Damen und die Herren von gutem Ton machen einen Zirkel um Rabener und lassen sich mit ihm in tiefsinnige Diskurse ein.,326,457,stage_direction,2,6,speech_part,,,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+328,328,TextGrid/-Pandaemonium_Germanicum.xml, Flor der deutschen Literatur.,0,30,character_speech,2,6,,EINE STIMME.,EINE STIMME.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+329,329,TextGrid/-Pandaemonium_Germanicum.xml, Saeculum Augusti.,0,18,character_speech,2,6,,EINE ANDERE.,EINE ANDERE.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+330,330,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       von oben.",0,49,stage_direction,2,6,speech_part,,,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+331,331,TextGrid/-Pandaemonium_Germanicum.xml, Voilà ce qui me plaît.,0,23,character_speech,2,6,,DIE FRANZOSEN,DIE FRANZOSEN,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+332,332,TextGrid/-Pandaemonium_Germanicum.xml,"Ils commencent à avoir de l'esprit, ces gueux d'Allemands là.",24,85,character_speech,2,6,,DIE FRANZOSEN,DIE FRANZOSEN,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+333,333,TextGrid/-Pandaemonium_Germanicum.xml," En voila un qui ne dit pas le mot, mais il semble bon enfant, voyez comme il se plaît à tout cela, comme il sourit secouant la tête.",0,133,character_speech,2,6,,CHAULIEU UND CHAPELLE.,CHAULIEU UND CHAPELLE.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+334,334,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Stoßen ihn mit dem Stock an, winken ihm heraufzukommen, er geht hinauf.",0,111,stage_direction,2,6,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+335,335,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Gleim tritt herein, mit Lorbeern ums Haupt, ganz erhitzt in Waffen.",0,107,stage_direction,2,6,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+336,336,TextGrid/-Pandaemonium_Germanicum.xml,"Als er den neckischen tollen Haufen sieht, wirft er Rüstung und Lorbeer weg, setzt sich zu der Leier und spielt, jedermann klatscht.",108,240,stage_direction,2,6,speech_part,,,11.0,UNKNOWN,joy,positive,emotions of pleasure
+337,337,TextGrid/-Pandaemonium_Germanicum.xml,"Der ernsthafte Zirkel wird auch aufmerksam, Uz tritt daraus hervor; wie Gleim aufgehört hat, setzt er sich gleichfalls an die Leier.",241,373,stage_direction,2,6,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+338,338,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       tritt aus dem ernsthaften Haufen hervor, mit verdrehten Augen, die Hände über dem Haupt zusammengeschlagen sagt.",0,152,stage_direction,2,6,speech_part,,,12.0,UNKNOWN,being moved,being moved,being moved
+339,339,TextGrid/-Pandaemonium_Germanicum.xml, Ω ποποι!,0,9,character_speech,2,6,,EIN JUNGER MENSCH,EIN JUNGER MENSCH,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+340,340,TextGrid/-Pandaemonium_Germanicum.xml,"was für ein Unterfangen, was für eine zahmlose und schamlose Frechheit ist das?",10,89,character_speech,2,6,,EIN JUNGER MENSCH,EIN JUNGER MENSCH,12.0,UNKNOWN,being moved,being moved,being moved
+341,341,TextGrid/-Pandaemonium_Germanicum.xml,"Habt ihr so wenig Achtung, so wenig Entsehen für diese würdige Personen, ihre Ohren und Augen mit solchen Unflätereien zu verwunden?",90,222,character_speech,2,6,,EIN JUNGER MENSCH,EIN JUNGER MENSCH,12.0,UNKNOWN,anger,negative,emotions of rejection
+342,342,TextGrid/-Pandaemonium_Germanicum.xml,"Schämt euch, verkriecht euch, ihr sollt diese Stelle nicht länger schänden die ihr usurpiert habt, heraus mit euch Bänkelsängern, Wollustsängern, Bordellsängern, heraus aus dem Tempel des Ruhms.",223,417,character_speech,2,6,,EIN JUNGER MENSCH,EIN JUNGER MENSCH,12.0,UNKNOWN,abhorrence,negative,emotions of rejection
+343,343,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Ein paar Priester folgen dicht hinter ihm drein, trommeln mit den Fäusten auf die Bänke, zerschlagen die Leier und jagen sie alle zum Tempel hinaus.",0,188,stage_direction,2,6,speech_part,,,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+344,344,TextGrid/-Pandaemonium_Germanicum.xml,"Wieland bleibt stehen, die Herren und Damen umringen ihn und erweisen ihm viel Höflichkeiten für die Achtung so er ihnen bewiesen.",189,319,stage_direction,2,6,speech_part,,,12.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+345,345,TextGrid/-Pandaemonium_Germanicum.xml," Womit kann ich den Damen itzt aufwarten, ich weiß in der Geschwindigkeit wahrhaftig nicht – sind Ihnen Sympathien gefällig – Briefe der Verstorbnen an die Lebendigen, oder befehlen Sie ein Heldengedicht, eine Tragödie.",0,219,character_speech,2,6,,WIELAND.,WIELAND.,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+346,346,TextGrid/-Pandaemonium_Germanicum.xml, Was von Ihnen kommt muß alles vortrefflich sein.,0,49,character_speech,2,6,,DIE GESELLSCHAFT.,DIE GESELLSCHAFT.,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+347,347,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Er kramt seine Taschen aus.",0,67,stage_direction,2,6,speech_part,,,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+348,348,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Die Herrn und Dames besehen die Bücher und loben sie höchlich.",0,102,stage_direction,2,6,speech_part,,,14.0,UNKNOWN,joy,positive,emotions of pleasure
+349,349,TextGrid/-Pandaemonium_Germanicum.xml,"Endlich weht sich die eine mit dem Fächer, die andere gähnend.",103,165,stage_direction,2,6,speech_part,,,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+350,350,TextGrid/-Pandaemonium_Germanicum.xml,Haben Sie nicht noch mehr Sympathien?,0,37,character_speech,2,6,,DIE GESELLSCHAFT.,DIE GESELLSCHAFT.,14.0,UNKNOWN,friendship,positive,emotions of affection
+351,351,TextGrid/-Pandaemonium_Germanicum.xml," Nein wahrhaftig gnädige Frau – o lassen Sie sich doch die Zeit nur nicht lang werden – Warten Sie nur noch einen Augenblick, wir wollen sehen ob wir nicht etwas finden können.",0,176,character_speech,2,6,,WIELAND.,WIELAND.,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+352,352,TextGrid/-Pandaemonium_Germanicum.xml,"Geht herum und sucht, findt die zerbrochne Leier die er zu reparieren anfängt.",177,255,character_speech,2,6,,WIELAND.,WIELAND.,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+353,353,TextGrid/-Pandaemonium_Germanicum.xml,"Sogleich, sogleich – nur einen Augenblick – ich will sehen ob ich noch was herausbringe.",256,344,character_speech,2,6,,WIELAND.,WIELAND.,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+354,354,TextGrid/-Pandaemonium_Germanicum.xml,Spielt.,345,352,character_speech,2,6,,WIELAND.,WIELAND.,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+355,355,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Alle Damen halten die Fächer vor den Gesichtern, man hört hin und wieder ein Gekreisch.",0,127,stage_direction,2,6,speech_part,,,15.0,UNKNOWN,joy,positive,emotions of pleasure
+356,356,TextGrid/-Pandaemonium_Germanicum.xml,Um Gottes willen hören Sie doch auf.,0,36,character_speech,2,6,,WIELAND.,WIELAND.,15.0,UNKNOWN,fear,negative,emotions of anxiety
+357,357,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Er läßt sich nicht stören, sondern spielt nur immer rasender.",0,101,stage_direction,2,6,speech_part,,,15.0,UNKNOWN,abhorrence,negative,emotions of rejection
+358,358,TextGrid/-Pandaemonium_Germanicum.xml, Ah le gaillard!,0,16,character_speech,2,6,,DIE FRANZOSEN.,DIE FRANZOSEN.,16.0,UNKNOWN,joy,positive,emotions of pleasure
+359,359,TextGrid/-Pandaemonium_Germanicum.xml,"Les autres s'amusaient avec des grisettes, cela débauche les honnêtes femmes.",17,94,character_speech,2,6,,DIE FRANZOSEN.,DIE FRANZOSEN.,16.0,UNKNOWN,love,positive,emotions of affection
+360,360,TextGrid/-Pandaemonium_Germanicum.xml,Il a pourtant bien pris son parti.,95,129,character_speech,2,6,,DIE FRANZOSEN.,DIE FRANZOSEN.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+361,361,TextGrid/-Pandaemonium_Germanicum.xml," Je ne crois pas que ce soit un Allemand, c'est un Italien.",0,59,character_speech,2,6,,EINER.,EINER.,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+362,362,TextGrid/-Pandaemonium_Germanicum.xml," Ah ça – pour rire – descendons notre petit Lassen Jacobi auf einer Wolke von Nesseltuch nieder, wie einen Amor gekleidt.",0,121,character_speech,2,6,,CHAPELLE UND CHAULIEU.,CHAPELLE UND CHAULIEU.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+363,363,TextGrid/-Pandaemonium_Germanicum.xml,cela changera bien la machine.,122,152,character_speech,2,6,,CHAPELLE UND CHAULIEU.,CHAPELLE UND CHAULIEU.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+364,364,TextGrid/-Pandaemonium_Germanicum.xml, Ach sehen Sie doch um Himmelswillen.,0,37,character_speech,2,6,,JEDERMANN.,JEDERMANN.,19.0,UNKNOWN,fear,negative,emotions of anxiety
+365,365,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Jacobi spielt in der Wolke auf einer kleinen Sackvioline.",0,97,stage_direction,2,6,speech_part,,,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+366,366,TextGrid/-Pandaemonium_Germanicum.xml,Einige aus der Gesellschaft fangen an zu tanzen.,98,146,stage_direction,2,6,speech_part,,,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+367,367,TextGrid/-Pandaemonium_Germanicum.xml,Er läßt eine erschröckliche Menge Papillons fliegen.,147,199,stage_direction,2,6,speech_part,,,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+368,368,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       haschen nach ihnen und rufen.",0,69,stage_direction,2,6,speech_part,,,20.0,UNKNOWN,fear,negative,emotions of anxiety
+369,369,TextGrid/-Pandaemonium_Germanicum.xml, Liebesgötterchen!,0,18,character_speech,2,6,,DIE DAMES,DIE DAMES,20.0,UNKNOWN,love,positive,emotions of affection
+370,370,TextGrid/-Pandaemonium_Germanicum.xml,Liebesgötterchen!,19,36,character_speech,2,6,,DIE DAMES,DIE DAMES,20.0,UNKNOWN,love,positive,emotions of affection
+371,371,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       springt aus der Wolke und schlägt die Arme kreuzweis übereinander, schmachtend zusehend.",0,128,stage_direction,2,6,speech_part,,,21.0,UNKNOWN,being moved,being moved,being moved
+372,372,TextGrid/-Pandaemonium_Germanicum.xml, O mit welcher Grazie!,0,22,character_speech,2,6,,JACOBI,JACOBI,21.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+373,373,TextGrid/-Pandaemonium_Germanicum.xml, Von Grazie hab ich auch noch ein Wort zu sagen.,0,48,character_speech,2,6,,WIELAND.,WIELAND.,22.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+374,374,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Spielt.",0,47,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+375,375,TextGrid/-Pandaemonium_Germanicum.xml,"Die Damen minaudieren erschröcklich, die Herren setzen sich einer nach dem andern in des Jacobi Wolke und schaukeln damit herum.",48,176,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+376,376,TextGrid/-Pandaemonium_Germanicum.xml,Andere lassen gleichfalls Papillons fliegen.,177,221,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+377,377,TextGrid/-Pandaemonium_Germanicum.xml,Die Alten tun sie unter das Vergrößerungsglas und einige Philosophen legen den Finger an die Nase um die Unsterblichkeit der Seele aus ihnen zu beweisen.,222,375,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+378,378,TextGrid/-Pandaemonium_Germanicum.xml,"Eine Menge Offiziers machen sich Kokarden von Papillonsflügeln, andere kratzen mit dem Degen an der Leier sobald Wieland zu spielen aufhört.",376,516,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+379,379,TextGrid/-Pandaemonium_Germanicum.xml,Endlich gähnen sie alle.,517,541,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+380,380,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Eine Dame die, um nicht gesehen zu werden, hinter Wielands Rücken unaufmerksam auf alles was vorging gezeichnet hatte, gibt ihm das Bild zum Sehen, er zuckt die Schultern, lächelt, macht ihr ein halbes Kompliment und reicht es großmütig herum.",0,283,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,joy,positive,emotions of pleasure
+381,381,TextGrid/-Pandaemonium_Germanicum.xml,"Jedermann macht ihm Komplimente darüber, er bedankt sich schönstens, steckt es wie halbzerstreut in die Tasche und fängt wieder zu spielen an.",284,426,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+382,382,TextGrid/-Pandaemonium_Germanicum.xml,Die Dame errötet.,427,444,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+383,383,TextGrid/-Pandaemonium_Germanicum.xml,Die Palatinen der,445,462,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+384,384,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                        andern Damen die Wieland zuhören kommen in Unordnung, weil die Herrchen zu ungezogen werden.",0,133,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,anger,negative,emotions of rejection
+385,385,TextGrid/-Pandaemonium_Germanicum.xml,Wieland winkt ihnen lächelnd zu und Jacobi hüpft wie unsinnig von einer zur andern herum.,134,223,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,joy,positive,emotions of pleasure
+386,386,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Indessen klatscht die ganze Gesellschaft und ruft gähnend.",0,98,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+387,387,TextGrid/-Pandaemonium_Germanicum.xml,Bravo!,0,6,character_speech,2,6,,WIELAND.,WIELAND.,22.0,UNKNOWN,joy,positive,emotions of pleasure
+388,388,TextGrid/-Pandaemonium_Germanicum.xml,bravo!,7,13,character_speech,2,6,,WIELAND.,WIELAND.,22.0,UNKNOWN,joy,positive,emotions of pleasure
+389,389,TextGrid/-Pandaemonium_Germanicum.xml,bravo!,14,20,character_speech,2,6,,WIELAND.,WIELAND.,22.0,UNKNOWN,joy,positive,emotions of pleasure
+390,390,TextGrid/-Pandaemonium_Germanicum.xml,le moyen d'ouïr quelque chose de plus ravissant.,21,69,character_speech,2,6,,WIELAND.,WIELAND.,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+391,391,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Goethe stürzt herein in Tempel, glühend, einen Knochen in der Hand.",0,107,stage_direction,2,6,speech_part,,,22.0,UNKNOWN,being moved,being moved,being moved
+392,392,TextGrid/-Pandaemonium_Germanicum.xml, Ihr Deutsche?,0,14,character_speech,2,6,,GOETHE.,GOETHE.,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+393,393,TextGrid/-Pandaemonium_Germanicum.xml,– – Hier ist eine Reliquie eurer Vorfahren.,15,58,character_speech,2,6,,GOETHE.,GOETHE.,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+394,394,TextGrid/-Pandaemonium_Germanicum.xml,"Zu Boden mit euch und angebetet, was ihr nicht werden könnt.",59,119,character_speech,2,6,,GOETHE.,GOETHE.,23.0,UNKNOWN,love,positive,emotions of affection
+395,395,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Wieland macht ein höhnisch Gesicht und spielt fort.",0,91,stage_direction,2,6,speech_part,,,23.0,UNKNOWN,anger,negative,emotions of rejection
+396,396,TextGrid/-Pandaemonium_Germanicum.xml,Jacobi bleibt mit offenem Mund und niederhangenden Händen stehen.,92,157,stage_direction,2,6,speech_part,,,23.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+397,397,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       auf Wieland zu.",0,55,stage_direction,2,6,speech_part,,,24.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+398,398,TextGrid/-Pandaemonium_Germanicum.xml, Ha daß du Hektor wärst und ich dich so um die Mauren von Troja schleppen könnte.,0,81,character_speech,2,6,,GOETHE,GOETHE,24.0,UNKNOWN,joy,positive,emotions of pleasure
+399,399,TextGrid/-Pandaemonium_Germanicum.xml,Zieht ihn an den Haaren herum.,82,112,character_speech,2,6,,GOETHE,GOETHE,24.0,UNKNOWN,anger,negative,emotions of rejection
+400,400,TextGrid/-Pandaemonium_Germanicum.xml," Um Gotteswillen Herr Goethe, was machen Sie?",0,45,character_speech,2,6,,DIE DAMEN.,DIE DAMEN.,25.0,UNKNOWN,fear,negative,emotions of anxiety
+401,401,TextGrid/-Pandaemonium_Germanicum.xml," Ich will euch spielen, obschon's ein verstimmtes Instrument ist.",0,65,character_speech,2,6,,GOETHE.,GOETHE.,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+402,402,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Setzt sich hin, stimmt ein wenig und spielt.",0,84,stage_direction,2,6,speech_part,,,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+403,403,TextGrid/-Pandaemonium_Germanicum.xml,Jedermann weint.,85,101,stage_direction,2,6,speech_part,,,26.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+404,404,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       auf den Knien.",0,54,stage_direction,2,6,speech_part,,,27.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+405,405,TextGrid/-Pandaemonium_Germanicum.xml, Das ist göttlich.,0,18,character_speech,2,6,,WIELAND,WIELAND,27.0,UNKNOWN,joy,positive,emotions of pleasure
+406,406,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       hinter Wieland gleichfalls auf Knien.",0,77,stage_direction,2,6,speech_part,,,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+407,407,TextGrid/-Pandaemonium_Germanicum.xml," Das ist eine Grazie, eine Wonneglut.",0,37,character_speech,2,6,,JACOBI,JACOBI,28.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+408,408,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       stehn auf und umarmen Goethe.",0,69,stage_direction,2,6,speech_part,,,29.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+409,409,TextGrid/-Pandaemonium_Germanicum.xml, O Herr Göthe!,0,14,character_speech,2,6,,EINE GANZE MENGE DAMEN,EINE GANZE MENGE DAMEN,29.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+410,410,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Die Chapeaux werden alle ernsthaft.",0,75,stage_direction,2,6,speech_part,,,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+411,411,TextGrid/-Pandaemonium_Germanicum.xml,"Eine Menge laufen heraus, andere setzen sich Pistolen an die Köpfe, setzen aber gleich wieder ab.",76,173,stage_direction,2,6,speech_part,,,29.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+412,412,TextGrid/-Pandaemonium_Germanicum.xml,"Der Küster, der das sieht, läuft und stolpert aus der Kirche.",174,235,stage_direction,2,6,speech_part,,,29.0,UNKNOWN,fear,negative,emotions of anxiety
+413,413,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Küster.",0,44,stage_direction,2,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+414,414,TextGrid/-Pandaemonium_Germanicum.xml,Pfarrer.,45,53,stage_direction,2,7,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+415,415,TextGrid/-Pandaemonium_Germanicum.xml," O Herr Pfarrer um Gotteswillen, es geschieht Mord und Totschlag in der Kirche wenn Sie nicht zu Hülfe kommen.",0,110,character_speech,2,7,,KÜSTER.,KÜSTER.,1.0,UNKNOWN,fear,negative,emotions of anxiety
+416,416,TextGrid/-Pandaemonium_Germanicum.xml,"Da ist der Antichrist plötzlich hereingetreten, der ihnen allen die Köpfe umgedreht hat, daß sie sich das Leben nehmen wollen.",111,237,character_speech,2,7,,KÜSTER.,KÜSTER.,1.0,UNKNOWN,fear,negative,emotions of anxiety
+417,417,TextGrid/-Pandaemonium_Germanicum.xml,"Sie haben alle Schießgewehr bei sich, meine arme Frau, meine arme Kinder sind auch drunter, wer weiß wie leicht ein Fehlschuß sie treffen kann.",238,381,character_speech,2,7,,KÜSTER.,KÜSTER.,1.0,UNKNOWN,compassion,negative,emotions of suffering and empathy
+418,418,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       zitternd und bebend.",0,60,stage_direction,2,7,speech_part,,,2.0,UNKNOWN,being moved,being moved,being moved
+419,419,TextGrid/-Pandaemonium_Germanicum.xml," Meine Frau ist auch da, Gott steh mir bei.",0,43,character_speech,2,7,,PFARRER,PFARRER,2.0,UNKNOWN,fear,negative,emotions of anxiety
+420,420,TextGrid/-Pandaemonium_Germanicum.xml,Kann Er sie nicht herausrufen.,44,74,character_speech,2,7,,PFARRER,PFARRER,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+421,421,TextGrid/-Pandaemonium_Germanicum.xml," Nein Herr Pfarrer Sie müssen selber kommen, das ganze Ministerium muß kommen, es ist als ob der Teufel in sie alle gefahren wäre, ich glaube Gott verzeih mir, der Jüngste Tag ist nahe.",0,185,character_speech,2,7,,KÜSTER.,KÜSTER.,3.0,UNKNOWN,fear,negative,emotions of anxiety
+422,422,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       einmal über das andere sich trostlos umsehend.",0,86,stage_direction,2,7,speech_part,,,4.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+423,423,TextGrid/-Pandaemonium_Germanicum.xml, Wenn meine Frau nur kommen wollte!,0,35,character_speech,2,7,,PFARRER,PFARRER,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+424,424,TextGrid/-Pandaemonium_Germanicum.xml,Konnt Er ihr nicht zurufen?,36,63,character_speech,2,7,,PFARRER,PFARRER,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+425,425,TextGrid/-Pandaemonium_Germanicum.xml,Die Hände ringend.,64,82,character_speech,2,7,,PFARRER,PFARRER,4.0,UNKNOWN,being moved,being moved,being moved
+426,426,TextGrid/-Pandaemonium_Germanicum.xml,"Hab ich das in meinem Leben gehört, sie wollen sich erschießen und warum denn?",83,161,character_speech,2,7,,PFARRER,PFARRER,4.0,UNKNOWN,being moved,being moved,being moved
+427,427,TextGrid/-Pandaemonium_Germanicum.xml, Um unsrer Weiber willen allerliebster Herr Pfarrer!,0,52,character_speech,2,7,,KÜSTER.,KÜSTER.,5.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+428,428,TextGrid/-Pandaemonium_Germanicum.xml,"Das ist Gott zu klagen, ich glaube es ist ein Hexenmeister der unter sie gekommen ist.",53,139,character_speech,2,7,,KÜSTER.,KÜSTER.,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+429,429,TextGrid/-Pandaemonium_Germanicum.xml,"Vorhin saßen sie da in aller Eintracht und hatten ihren Spaß mit den Papillons, da führt ihn der böse Feind hinein, und sagt, wenn's doch gespielt sein soll, so spielt mit Pistolen.",140,321,character_speech,2,7,,KÜSTER.,KÜSTER.,5.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+430,430,TextGrid/-Pandaemonium_Germanicum.xml, Ob sie aber auch geladen sind?,0,31,character_speech,2,7,,PFARRER.,PFARRER.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+431,431,TextGrid/-Pandaemonium_Germanicum.xml, Das weiß ich nun freilich nicht.,0,33,character_speech,2,7,,KÜSTER.,KÜSTER.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+432,432,TextGrid/-Pandaemonium_Germanicum.xml,Aber auch mit ungeladenen ist's doch sündlich.,34,80,character_speech,2,7,,KÜSTER.,KÜSTER.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+433,433,TextGrid/-Pandaemonium_Germanicum.xml,Man weiß wie leicht der Böse sein Spiel haben kann.,81,132,character_speech,2,7,,KÜSTER.,KÜSTER.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+434,434,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       sehr wichtig und nachdenklich.",0,70,stage_direction,2,7,speech_part,,,8.0,UNKNOWN,being moved,being moved,being moved
+435,435,TextGrid/-Pandaemonium_Germanicum.xml, Wir wollen ein Mandat vom Consistorio auswirken.,0,49,character_speech,2,7,,PFARRER,PFARRER,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+436,436,TextGrid/-Pandaemonium_Germanicum.xml, Das wär meine Meinung auch Herr Pfarrer so.,0,44,character_speech,2,7,,KÜSTER.,KÜSTER.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+437,437,TextGrid/-Pandaemonium_Germanicum.xml,"Und daß sie den Prometheus verbrennen sollen, oder den höllischen Proteus wie er da heißt.",45,135,character_speech,2,7,,KÜSTER.,KÜSTER.,9.0,UNKNOWN,abhorrence,negative,emotions of rejection
+438,438,TextGrid/-Pandaemonium_Germanicum.xml,Andern zur Warnung mein ich.,136,164,character_speech,2,7,,KÜSTER.,KÜSTER.,9.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+439,439,TextGrid/-Pandaemonium_Germanicum.xml, Wenn meine Frau nur kommen wollte.,0,35,character_speech,2,7,,PFARRER.,PFARRER.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+440,440,TextGrid/-Pandaemonium_Germanicum.xml," Sie wird sich noch in ihn verlieben und meine Frau auf den Kauf mit ein, die Weiber sind all wie bestürzt auf das Ding, sie sagen sie haben sowas in ihrem Leben noch nicht gehört.",0,180,character_speech,2,7,,KÜSTER.,KÜSTER.,11.0,UNKNOWN,being moved,being moved,being moved
+441,441,TextGrid/-Pandaemonium_Germanicum.xml,"Denn sehn Sie es ist kein einzig Weib das nicht glaubt, heimlich in der Stille haben sich schon ein zehn zwölf arme Buben um sie zu Tode gegrämt, und dieser erschießt sich gar, das ist ihnen nun ein gar zu gefundenes Fressen das.",181,410,character_speech,2,7,,KÜSTER.,KÜSTER.,11.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+442,442,TextGrid/-Pandaemonium_Germanicum.xml,"In Böhmen ist neuerdings wieder ein Baurenkrieg angebrochen, gebt acht Herr Pfarrer, dieser Mensch gibt uns einen Weiberkrieg wo am Ende keine Mannsseele mehr am Leben bleibt als ich und der Herr Pfarrer.",411,615,character_speech,2,7,,KÜSTER.,KÜSTER.,11.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+443,443,TextGrid/-Pandaemonium_Germanicum.xml,Wir wollten endlich das menschliche Geschlecht auch nicht ausgehen lassen.,616,690,character_speech,2,7,,KÜSTER.,KÜSTER.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+444,444,TextGrid/-Pandaemonium_Germanicum.xml, Seid unbesorgt.,0,16,character_speech,2,7,,PFARRER.,PFARRER.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+445,445,TextGrid/-Pandaemonium_Germanicum.xml,"Wenn ich mich nur durch die 
+Hintertür in die Kirche schleichen und dem Unwesen zusehen könnte.",17,112,character_speech,2,7,,PFARRER.,PFARRER.,12.0,UNKNOWN,fear,negative,emotions of anxiety
+446,446,TextGrid/-Pandaemonium_Germanicum.xml,Ich wollte sodann ganz in der Stille die Kanzel heraufkriechen und auf einmal zu donnern anfangen.,113,211,character_speech,2,7,,PFARRER.,PFARRER.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+447,447,TextGrid/-Pandaemonium_Germanicum.xml,"Das tut seine gewisse Wirkung, glaubt es mir.",212,257,character_speech,2,7,,PFARRER.,PFARRER.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+448,448,TextGrid/-Pandaemonium_Germanicum.xml," Sicher Herr Pfarrer, ich mein es auch so, und ich will den Glauben zu gleicher Zeit anstimmen, daß der Teufel aus der Kirche fährt.",0,132,character_speech,2,7,,KÜSTER.,KÜSTER.,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+449,449,TextGrid/-Pandaemonium_Germanicum.xml," Ihr könnt das Te Deum laudamus hernach singen, wenn ich fertig bin.",0,68,character_speech,2,7,,PFARRER.,PFARRER.,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+450,450,TextGrid/-Pandaemonium_Germanicum.xml,Gehn ab.,69,77,character_speech,2,7,,PFARRER.,PFARRER.,14.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+451,451,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Goethe zieht Wieland das Blatt Zeichnung aus der Tasche das er vorhin von der Dame eingesteckt.",0,132,stage_direction,2,8,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+452,452,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       hält's hoch.",0,52,stage_direction,2,8,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+453,453,TextGrid/-Pandaemonium_Germanicum.xml, Seht dieses Blatt – und hier ist die Hand die es gezeichnet hat.,0,65,character_speech,2,8,,GOETHE,GOETHE,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+454,454,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Die Verfasserin der Sternheim ehrerbietig an die Hand fassend.",0,102,stage_direction,2,8,speech_part,,,1.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+455,455,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       weht sich mit dem Fächer.",0,65,stage_direction,2,8,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+456,456,TextGrid/-Pandaemonium_Germanicum.xml, O das wäre sie nimmer im Stande gewesen allein zu machen.,0,58,character_speech,2,8,,EINE PRÜDE,EINE PRÜDE,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+457,457,TextGrid/-Pandaemonium_Germanicum.xml," Wenn man ein so groß Genie zum Beistand hat, wird es nicht schwer einen Roman zu schreiben.",0,92,character_speech,2,8,,EINE KOKETTE.,EINE KOKETTE.,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+458,458,TextGrid/-Pandaemonium_Germanicum.xml, Errötest du nicht Wieland?,0,27,character_speech,2,8,,GOETHE.,GOETHE.,4.0,UNKNOWN,being moved,being moved,being moved
+459,459,TextGrid/-Pandaemonium_Germanicum.xml,verstummst du nicht?,28,48,character_speech,2,8,,GOETHE.,GOETHE.,4.0,UNKNOWN,being moved,being moved,being moved
+460,460,TextGrid/-Pandaemonium_Germanicum.xml,"Kannst du ein Lob ruhig anhören, das soviel Schande über dich zusammenhäuft?",49,125,character_speech,2,8,,GOETHE.,GOETHE.,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+461,461,TextGrid/-Pandaemonium_Germanicum.xml,"Wie daß du nicht deine Leier in den Winkel warfst, als die Dame dir das Bild gab, demütig vor ihr hinknietest und gestandst du seist ein Pfuscher?",126,272,character_speech,2,8,,GOETHE.,GOETHE.,4.0,UNKNOWN,anger,negative,emotions of rejection
+462,462,TextGrid/-Pandaemonium_Germanicum.xml,Das allein hätte dir Gnade beim Publikum erworben das deinem Wert nur zu viel zugestand.,273,361,character_speech,2,8,,GOETHE.,GOETHE.,4.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+463,463,TextGrid/-Pandaemonium_Germanicum.xml,Seht dieses Bild an.,362,382,character_speech,2,8,,GOETHE.,GOETHE.,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+464,464,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Stellt es auf eine Höhe.",0,64,stage_direction,2,8,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+465,465,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       fallen auf ihr Angesicht, rufen.",0,72,stage_direction,2,8,speech_part,,,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+466,466,TextGrid/-Pandaemonium_Germanicum.xml," Sternheim wenn du einen Werther hättest, tausend Leben müßten ihm nicht zu kostbar sein.",0,89,character_speech,2,8,,ALLE MÄNNER,ALLE MÄNNER,5.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+467,467,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       von der Kanzel herunter mit Händen und Füßen 
+schlagend.",0,96,stage_direction,2,8,speech_part,,,6.0,UNKNOWN,anger,negative,emotions of rejection
+468,468,TextGrid/-Pandaemonium_Germanicum.xml, Bösewichter!,0,13,character_speech,2,8,,PFARRER,PFARRER,6.0,UNKNOWN,anger,negative,emotions of rejection
+469,469,TextGrid/-Pandaemonium_Germanicum.xml,Unholde!,14,22,character_speech,2,8,,PFARRER,PFARRER,6.0,UNKNOWN,abhorrence,negative,emotions of rejection
+470,470,TextGrid/-Pandaemonium_Germanicum.xml,Ungeheuer!,23,33,character_speech,2,8,,PFARRER,PFARRER,6.0,UNKNOWN,fear,negative,emotions of anxiety
+471,471,TextGrid/-Pandaemonium_Germanicum.xml,Von wem habt ihr das Leben?,34,61,character_speech,2,8,,PFARRER,PFARRER,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+472,472,TextGrid/-Pandaemonium_Germanicum.xml,Ist es euer?,62,74,character_speech,2,8,,PFARRER,PFARRER,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+473,473,TextGrid/-Pandaemonium_Germanicum.xml,"Habt ihr das Recht, drüber zu schalten?",75,114,character_speech,2,8,,PFARRER,PFARRER,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+474,474,TextGrid/-Pandaemonium_Germanicum.xml, Herr Pfarrer halten Sie das Maul.,0,34,character_speech,2,8,,EINER AUS DER GESELLSCHAFT.,EINER AUS DER GESELLSCHAFT.,7.0,UNKNOWN,anger,negative,emotions of rejection
+475,475,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       mischt sich unter sie.",0,62,stage_direction,2,8,speech_part,,,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+476,476,TextGrid/-Pandaemonium_Germanicum.xml," Ja erlauben Sie meine großgünstige Herren, es ist aber auch ein Unterscheid zwischen einer schönen Liebe und einer solchen gottsvergessenen, und denn so mit Ihrer großgünstigen Erlaubnis, der Herr Pfarrer hat auch so unrecht nicht, denn sehn Sie einmal, meine arme Frau steht auch in Gefahr, eines Menschen Leben auf ihr Gewissen zu laden, und da ich mit den Gespenstern nichts gern zu teilen habe –",0,400,character_speech,2,8,,KÜSTER,KÜSTER,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+477,477,TextGrid/-Pandaemonium_Germanicum.xml," Ei freilich, ich bin auch von des Herrn Küsters Partei, meine Nachtruhe ist mir lieb auch.",0,91,character_speech,2,8,,EIN BUCHBINDER.,EIN BUCHBINDER.,9.0,UNKNOWN,joy,positive,emotions of pleasure
+478,478,TextGrid/-Pandaemonium_Germanicum.xml," Also mit Ihrer gnädigen Erlaubnis meine Herren, wäre mein Rat wohl, wir gingen fein alle nach Hause und schlössen die Kirchtür zu.",0,131,character_speech,2,8,,KÜSTER.,KÜSTER.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+479,479,TextGrid/-Pandaemonium_Germanicum.xml,"Wer Lust hat den Werther zu machen kann immer drin bleiben, he he he ich denk er wird doch in der Einsamkeit schon zu Verstand kommen, wir andere ehrliche Bürgersleut aber gehen heim nach dem Sprüchlein Lutheri:",132,343,character_speech,2,8,,KÜSTER.,KÜSTER.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+480,480,TextGrid/-Pandaemonium_Germanicum.xml,"Ein jedes lern sein Lektion,",0,28,character_speech,2,8,,KÜSTER.,KÜSTER.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+481,481,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       So wird es wohl im Hause stohn.",0,71,character_speech,2,8,,KÜSTER.,KÜSTER.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+482,482,TextGrid/-Pandaemonium_Germanicum.xml, Geht in Gottes Namen.,0,22,character_speech,2,8,,GOETHE.,GOETHE.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+483,483,TextGrid/-Pandaemonium_Germanicum.xml,Ich bleib allein hier.,23,45,character_speech,2,8,,GOETHE.,GOETHE.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+484,484,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Es bleiben einige bei ihm im Tempel.",0,76,stage_direction,2,8,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+485,485,TextGrid/-Pandaemonium_Germanicum.xml,Die meisten gehn heraus und der Küster schließt die Kirchtür zu.,77,141,stage_direction,2,8,speech_part,,,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+486,486,TextGrid/-Pandaemonium_Germanicum.xml, So.,0,4,character_speech,2,8,,KÜSTER.,KÜSTER.,12.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+487,487,TextGrid/-Pandaemonium_Germanicum.xml,Du sollst mir nicht mehr herauskommen.,5,43,character_speech,2,8,,KÜSTER.,KÜSTER.,12.0,UNKNOWN,fear,negative,emotions of anxiety
+488,488,TextGrid/-Pandaemonium_Germanicum.xml, Nur die Schlüssel der Frau nicht gegeben.,0,42,character_speech,2,8,,PFARR.,PFARR.,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+489,489,TextGrid/-Pandaemonium_Germanicum.xml, Mannchen!,0,10,character_speech,2,8,,FRAU PFARR.,FRAU PFARR.,14.0,UNKNOWN,anger,negative,emotions of rejection
+490,490,TextGrid/-Pandaemonium_Germanicum.xml,der arme Werther.,11,28,character_speech,2,8,,FRAU PFARR.,FRAU PFARR.,14.0,UNKNOWN,compassion,negative,emotions of suffering and empathy
+491,491,TextGrid/-Pandaemonium_Germanicum.xml," Da haben wir's, da wirkt das höllische Gift.",0,45,character_speech,2,8,,PFARR UND KÜSTER.,PFARR UND KÜSTER.,15.0,UNKNOWN,abhorrence,negative,emotions of rejection
+492,492,TextGrid/-Pandaemonium_Germanicum.xml,"Ich wollt er läg auf unserm Kirchhof, oder der verachtungswürdige Proteus an seiner Stelle.",46,137,character_speech,2,8,,PFARR UND KÜSTER.,PFARR UND KÜSTER.,15.0,UNKNOWN,abhorrence,negative,emotions of rejection
+493,493,TextGrid/-Pandaemonium_Germanicum.xml,"Wir wollten die Knochen ausgraben lassen, verbrennen und die Asche aufs Meer streuen.",138,223,character_speech,2,8,,PFARR UND KÜSTER.,PFARR UND KÜSTER.,15.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+494,494,TextGrid/-Pandaemonium_Germanicum.xml, Ich wollt einen Mühlstein an die Asche hängen und sie ersäufen lassen.,0,71,character_speech,2,8,,KÜSTER.,KÜSTER.,16.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+495,495,TextGrid/-Pandaemonium_Germanicum.xml,Er hat mich in die Seele hinein geärgert.,72,113,character_speech,2,8,,KÜSTER.,KÜSTER.,16.0,UNKNOWN,anger,negative,emotions of rejection
+496,496,TextGrid/-Pandaemonium_Germanicum.xml,Mein armes Weibchen was machst du denn?,114,153,character_speech,2,8,,KÜSTER.,KÜSTER.,16.0,UNKNOWN,compassion,negative,emotions of suffering and empathy
+497,497,TextGrid/-Pandaemonium_Germanicum.xml,"Du wirst doch nicht toll sein und dir auch deinen Werther schon angelegt haben, ich wollte dich – Es ist wohl gut, daß in Teutschland keine Inquisition ist, aber es ist doch nicht gar zu gut.",154,345,character_speech,2,8,,KÜSTER.,KÜSTER.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+498,498,TextGrid/-Pandaemonium_Germanicum.xml,"Ich wollte mein Leben dran setzen einen solchen Rebellen, einen solchen –",346,419,character_speech,2,8,,KÜSTER.,KÜSTER.,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+499,499,TextGrid/-Pandaemonium_Germanicum.xml, Er ein Rebell?,0,15,character_speech,2,8,,KÜSTERS FRAU.,KÜSTERS FRAU.,17.0,UNKNOWN,being moved,being moved,being moved
+500,500,TextGrid/-Pandaemonium_Germanicum.xml, Red mir nicht.,0,15,character_speech,2,8,,KÜSTER.,KÜSTER.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+501,501,TextGrid/-Pandaemonium_Germanicum.xml,Was für schnöde Worte er im Munde führt.,16,56,character_speech,2,8,,KÜSTER.,KÜSTER.,18.0,UNKNOWN,anger,negative,emotions of rejection
+502,502,TextGrid/-Pandaemonium_Germanicum.xml,Wenn man das alles auseinandersetzte was der Werther sagt.,57,115,character_speech,2,8,,KÜSTER.,KÜSTER.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+503,503,TextGrid/-Pandaemonium_Germanicum.xml," Er sagt es ja aber in der Raserei, da er nicht recht bei sich war.",0,67,character_speech,2,8,,KÜSTERS FRAU.,KÜSTERS FRAU.,19.0,UNKNOWN,anger,negative,emotions of rejection
+504,504,TextGrid/-Pandaemonium_Germanicum.xml, Er soll aber bei sich bleiben der Hund.,0,40,character_speech,2,8,,KÜSTER.,KÜSTER.,20.0,UNKNOWN,abhorrence,negative,emotions of rejection
+505,505,TextGrid/-Pandaemonium_Germanicum.xml,"Wart nur ich will ein Buch schreiben, da will ich dich lehren und alle die den Werther mir so gelobt haben – kurz und gut Weib, lieber doch einen Schwager als einen Werther, kurz von der Sache zu reden.",41,243,character_speech,2,8,,KÜSTER.,KÜSTER.,20.0,UNKNOWN,anger,negative,emotions of rejection
+506,506,TextGrid/-Pandaemonium_Germanicum.xml,Und damit so weißt du meine Meinung und laß mich mit Frieden.,244,305,character_speech,2,8,,KÜSTER.,KÜSTER.,20.0,UNKNOWN,anger,negative,emotions of rejection
+507,507,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    Weiße und Küsters Frau vor der Kirchentür.",0,79,stage_direction,2,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+508,508,TextGrid/-Pandaemonium_Germanicum.xml," Liebe Frau, ich bin eben aus Welschland zurückgekommen, mach Sie mir nur auf, Ihr Mann wird nichts dawider haben.",0,114,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+509,509,TextGrid/-Pandaemonium_Germanicum.xml,"Ich hab die Taschen voll, ich muß hinein.",115,156,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+510,510,TextGrid/-Pandaemonium_Germanicum.xml,"Ich werd dort gewiß keinen Unfug anrichten, das sei Sie versichert.",157,224,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+511,511,TextGrid/-Pandaemonium_Germanicum.xml,Sie macht auf.,225,239,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+512,512,TextGrid/-Pandaemonium_Germanicum.xml,"Er tritt herein in einem französischen Sammetkleide mit einer kurzen englischen Perücke, macht im Zirkel herum viel Scharrfüße und fängt folgendergestalten an.",240,399,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+513,513,TextGrid/-Pandaemonium_Germanicum.xml,"Meine werte Gesellschaft, ist es Ihnen gefälliger zu lachen oder zu weinen.",400,475,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+514,514,TextGrid/-Pandaemonium_Germanicum.xml,Beides sollen Sie in kurzer Zeit auf eine wunderbare Art an sich erfahren.,477,551,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,joy,positive,emotions of pleasure
+515,515,TextGrid/-Pandaemonium_Germanicum.xml,"Kehrt sich weg, zieht einige Papiere heraus und murmelt die Expressionen, als ob er sie repetierte.",552,651,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+516,516,TextGrid/-Pandaemonium_Germanicum.xml,Hell!,652,657,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,being moved,being moved,being moved
+517,517,TextGrid/-Pandaemonium_Germanicum.xml,destruction!,658,670,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,anger,negative,emotions of rejection
+518,518,TextGrid/-Pandaemonium_Germanicum.xml,damnation!,671,681,character_speech,2,9,,WEISSE.,WEISSE.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+519,519,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Darauf tritt er hervor und deklamiert in einem unleidlich hohlen Ton mit erstaunenden Kontorsionen.",0,139,stage_direction,2,9,speech_part,,,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+520,520,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       ein Kunstrichter, steht vor ihm beide Finger auf den Mund gelegt.",0,105,stage_direction,2,9,speech_part,,,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+521,521,TextGrid/-Pandaemonium_Germanicum.xml, Es ist mir als ob ich die Engländer selber hörte.,0,50,character_speech,2,9,,HERR SCHMIDT,HERR SCHMIDT,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+522,522,TextGrid/-Pandaemonium_Germanicum.xml, Es ist unser deutsche Shakespear.,0,34,character_speech,2,9,,MICHAELIS.,MICHAELIS.,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+523,523,TextGrid/-Pandaemonium_Germanicum.xml," Sehen Sie nur was für eine wunderbare Vereinigung aller Vollkommenheiten, die das englische sowohl als das französische Theater auszeichnen.",0,141,character_speech,2,9,,SCHMIDT.,SCHMIDT.,4.0,UNKNOWN,joy,positive,emotions of pleasure
+524,524,TextGrid/-Pandaemonium_Germanicum.xml,Das griechische mit eingeschlossen.,142,177,character_speech,2,9,,SCHMIDT.,SCHMIDT.,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+525,525,TextGrid/-Pandaemonium_Germanicum.xml,Ich wünschte Garricken hier.,178,206,character_speech,2,9,,SCHMIDT.,SCHMIDT.,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+526,526,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       mit vielen Kratzfüßen sehr freundlich.",0,78,stage_direction,2,9,speech_part,,,5.0,UNKNOWN,friendship,positive,emotions of affection
+527,527,TextGrid/-Pandaemonium_Germanicum.xml," So sehr es meiner Bescheidenheit kostet, mich mit in diesen Streit zu mengen, so muß ich doch gestehn daß ich glaube, Herr Schmidt habe mich am richtigsten beurteilt.",0,167,character_speech,2,9,,WEISSE,WEISSE,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+528,528,TextGrid/-Pandaemonium_Germanicum.xml," Herr Schmidt ist unser deutsche Aristarch, er hört nicht auf das was andere sagen sondern fällt sein Urteil mit einer Festigkeit und Gründlichkeit die eines Scaliger würdig ist.",0,178,character_speech,2,9,,MICHAELIS.,MICHAELIS.,6.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+529,529,TextGrid/-Pandaemonium_Germanicum.xml," O ich bitte um Vergebung, ich richte mich mit meinem Urteil immer nach der allgemeinen Stimme von Deutschland.",0,111,character_speech,2,9,,SCHMIDT.,SCHMIDT.,7.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+530,530,TextGrid/-Pandaemonium_Germanicum.xml,Zu dem Ende korrespondiere ich mit den Pedellen von fast allen deutschen Akademien und bleibt mir nicht viel Zeit übrig im Scaliger zu lesen und seine Manier anzunehmen.,112,281,character_speech,2,9,,SCHMIDT.,SCHMIDT.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+531,531,TextGrid/-Pandaemonium_Germanicum.xml,Ich bin ein Original.,282,303,character_speech,2,9,,SCHMIDT.,SCHMIDT.,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+532,532,TextGrid/-Pandaemonium_Germanicum.xml," Belieben Sie, nun noch ein Pröbchen von einer andern Art zu sehen.",0,67,character_speech,2,9,,WEISSE.,WEISSE.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+533,533,TextGrid/-Pandaemonium_Germanicum.xml,Nimmt den Hut untern Arm und trippt auf den Zehen herum.,68,124,character_speech,2,9,,WEISSE.,WEISSE.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+534,534,TextGrid/-Pandaemonium_Germanicum.xml,Mais mon Dieu!,125,139,character_speech,2,9,,WEISSE.,WEISSE.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+535,535,TextGrid/-Pandaemonium_Germanicum.xml,"hi, hi, hi!",140,151,character_speech,2,9,,WEISSE.,WEISSE.,8.0,UNKNOWN,joy,positive,emotions of pleasure
+536,536,TextGrid/-Pandaemonium_Germanicum.xml,Im Soubrettenton.,152,169,character_speech,2,9,,WEISSE.,WEISSE.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+537,537,TextGrid/-Pandaemonium_Germanicum.xml,Vous êtes un sot animal.,170,194,character_speech,2,9,,WEISSE.,WEISSE.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+538,538,TextGrid/-Pandaemonium_Germanicum.xml,Trillert und singt.,195,214,character_speech,2,9,,WEISSE.,WEISSE.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+539,539,TextGrid/-Pandaemonium_Germanicum.xml,Monseigneur voyez mes larmes.,215,244,character_speech,2,9,,WEISSE.,WEISSE.,8.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+540,540,TextGrid/-Pandaemonium_Germanicum.xml, Das sollen Deutsche sein?,0,26,character_speech,2,9,,EINE STIMME AUS DEM WINKEL.,EINE STIMME AUS DEM WINKEL.,9.0,UNKNOWN,being moved,being moved,being moved
+541,541,TextGrid/-Pandaemonium_Germanicum.xml," Sehen Sie doch, es ist mir als ob ich in Paris 
+wäre.",0,54,character_speech,2,9,,SCHMIDT.,SCHMIDT.,10.0,UNKNOWN,joy,positive,emotions of pleasure
+542,542,TextGrid/-Pandaemonium_Germanicum.xml,"Es ist wahr, alle die Züge sind nachgeahmt, aber mit solcher Delikatesse als man die blaue Haut einer Pflaume anfaßt,  
+                                       ohne sie abzustreifen.",55,236,character_speech,2,9,,SCHMIDT.,SCHMIDT.,10.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+543,543,TextGrid/-Pandaemonium_Germanicum.xml, O wunderbarer Ausspruch eines wahren kritischen Genies.,0,56,character_speech,2,9,,MICHAELIS.,MICHAELIS.,11.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+544,544,TextGrid/-Pandaemonium_Germanicum.xml,– – Ich habe solche Kopfschmerzen.,57,91,character_speech,2,9,,MICHAELIS.,MICHAELIS.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+545,545,TextGrid/-Pandaemonium_Germanicum.xml,"Herr Schmidt, wollen Sie mich denn nicht auch kritisieren vor meinem Tode.",92,166,character_speech,2,9,,MICHAELIS.,MICHAELIS.,11.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+546,546,TextGrid/-Pandaemonium_Germanicum.xml, Mir sind die letzten Briefe ausgeblieben.,0,42,character_speech,2,9,,SCHMIDT.,SCHMIDT.,12.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+547,547,TextGrid/-Pandaemonium_Germanicum.xml, Ei Sie sind ja wohl Manns genug selber ein Urteil zu fällen.,0,61,character_speech,2,9,,MICHAELIS.,MICHAELIS.,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+548,548,TextGrid/-Pandaemonium_Germanicum.xml,Sehen Sie hier hab ich auch eine Operette.,62,104,character_speech,2,9,,MICHAELIS.,MICHAELIS.,13.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+549,549,TextGrid/-Pandaemonium_Germanicum.xml, Nein nein erlauben Sie mir das wag ich nicht.,0,46,character_speech,2,9,,SCHMIDT.,SCHMIDT.,14.0,UNKNOWN,fear,negative,emotions of anxiety
+550,550,TextGrid/-Pandaemonium_Germanicum.xml,Seit der selige Klotz vor mir die Hosen abgezogen hat bin ich ein wenig geschröckt worden.,47,137,character_speech,2,9,,SCHMIDT.,SCHMIDT.,14.0,UNKNOWN,Schadenfreude,positive,emotions of pleasure
+551,551,TextGrid/-Pandaemonium_Germanicum.xml,"Herr Lessing hat mir auch einmal einen Faustschlag unter die Rippen gegeben, von dem ich zehn Tag lang engen Atem behielt.",138,260,character_speech,2,9,,SCHMIDT.,SCHMIDT.,14.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+552,552,TextGrid/-Pandaemonium_Germanicum.xml,"Ich habe hernach alles anwenden müssen, die beiden Herren zu besänftigen: besonders Herrn Lessing zu gefallen hab ich wohl zehn Nächte nach einander aufgesessen um nach seiner Idee zehn englische Stücke in eines zu bringen, und der fürchterliche Plan hat mir eine solche Migräne verursacht, daß ich fürchte, Herr Lessing hat sich auf die Art schlimmer an mir gerochen als auf die erstere.",261,649,character_speech,2,9,,SCHMIDT.,SCHMIDT.,14.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+553,553,TextGrid/-Pandaemonium_Germanicum.xml, So muß ich denn wohl unbeurteilt sterben.,0,42,character_speech,2,9,,MICHAELIS.,MICHAELIS.,15.0,UNKNOWN,despair,negative,emotions of anxiety
+554,554,TextGrid/-Pandaemonium_Germanicum.xml,Deinen Segen deutscher Shakespear.,43,77,character_speech,2,9,,MICHAELIS.,MICHAELIS.,15.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+555,555,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       mit feiner Stimme, wie unter der Maske.",0,79,stage_direction,2,9,speech_part,,,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+556,556,TextGrid/-Pandaemonium_Germanicum.xml, Bon voyage mon cher Monsieur!,0,30,character_speech,2,9,,WEISSE,WEISSE,16.0,UNKNOWN,joy,positive,emotions of pleasure
+557,557,TextGrid/-Pandaemonium_Germanicum.xml,je vous suis bien obligé de toutes vos politesses.,31,81,character_speech,2,9,,WEISSE,WEISSE,16.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+558,558,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       aus den deutschen Literaturbriefen.",0,75,stage_direction,2,9,speech_part,,,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+559,559,TextGrid/-Pandaemonium_Germanicum.xml, Der Mann hat eine wunderbare Gabe sich in alle Formen zu passen.,0,65,character_speech,2,9,,SCHMIDT,SCHMIDT,17.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+560,560,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Lessing, Klopstock, Herder treten herein umarmt, Klopstock in der Mitte, in sehr tiefsinnigen Gesprächen, ohne Weißen gewahr zu werden.",0,175,stage_direction,2,9,speech_part,,,17.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+561,561,TextGrid/-Pandaemonium_Germanicum.xml," Was ist das, was haben die Leute?",0,34,character_speech,2,9,,LESSING.,LESSING.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+562,562,TextGrid/-Pandaemonium_Germanicum.xml,Weiße macht seine Kunststücke fort.,35,70,character_speech,2,9,,LESSING.,LESSING.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+563,563,TextGrid/-Pandaemonium_Germanicum.xml,Soll das Nachahmung der Franzosen sein oder der Griechen?,71,128,character_speech,2,9,,LESSING.,LESSING.,18.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+564,564,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       scharrfüßelnd.",0,54,stage_direction,2,9,speech_part,,,19.0,UNKNOWN,abhorrence,negative,emotions of rejection
+565,565,TextGrid/-Pandaemonium_Germanicum.xml, Beides.,0,8,character_speech,2,9,,WEISSE,WEISSE,19.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+566,566,TextGrid/-Pandaemonium_Germanicum.xml, Wißt ihr was die Franzosen für Leute sind?,0,43,character_speech,2,9,,LESSING.,LESSING.,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+567,567,TextGrid/-Pandaemonium_Germanicum.xml,Laßt uns einmal ihre Bilderchen besehen.,44,84,character_speech,2,9,,LESSING.,LESSING.,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+568,568,TextGrid/-Pandaemonium_Germanicum.xml,Tritt vor eine Galerie und examiniert.,85,123,character_speech,2,9,,LESSING.,LESSING.,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+569,569,TextGrid/-Pandaemonium_Germanicum.xml,"Da zu hoch, da zu breit, da zu schmal, nirgends Zusammenhang, nirgends Ordnung, nirgends Wahrheit.",124,222,character_speech,2,9,,LESSING.,LESSING.,20.0,UNKNOWN,being moved,being moved,being moved
+570,570,TextGrid/-Pandaemonium_Germanicum.xml,Und das sind eure Muster?,223,248,character_speech,2,9,,LESSING.,LESSING.,20.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+571,571,TextGrid/-Pandaemonium_Germanicum.xml, Ich hörte da was von Shakespear raunen.,0,40,character_speech,2,9,,HERDER.,HERDER.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+572,572,TextGrid/-Pandaemonium_Germanicum.xml,Kennt ihr den Mann?,41,60,character_speech,2,9,,HERDER.,HERDER.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+573,573,TextGrid/-Pandaemonium_Germanicum.xml,"– Tritt unter uns Shakespear, seliger Geist!",61,105,character_speech,2,9,,HERDER.,HERDER.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+574,574,TextGrid/-Pandaemonium_Germanicum.xml,steig herab von deinen Himmelshöhen.,106,142,character_speech,2,9,,HERDER.,HERDER.,21.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+575,575,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       einen Arm um Herder geschlungen.",0,72,stage_direction,2,9,speech_part,,,22.0,UNKNOWN,love,positive,emotions of affection
+576,576,TextGrid/-Pandaemonium_Germanicum.xml, Da bin ich.,0,12,character_speech,2,9,,SHAKESPEAR,SHAKESPEAR,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+577,577,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Weiße schleicht zum Tempel heraus.",0,74,stage_direction,2,9,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+578,578,TextGrid/-Pandaemonium_Germanicum.xml,Sein ganzer Anhang folgt ihm.,75,104,stage_direction,2,9,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+579,579,TextGrid/-Pandaemonium_Germanicum.xml,"Jedermann drängt zu, Shakespearn zu sehen, einige fallen vor ihm nieder.",105,177,stage_direction,2,9,speech_part,,,22.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+580,580,TextGrid/-Pandaemonium_Germanicum.xml,"Aus einer Reihe französischer Dramendichter, die auf einer langen Bank sitzen und alle kritzeln oder zeichnen, hebt sich einer nach dem andern wechselsweise hervor und guckt nach Shakespear, setzt sich aber gleich wieder mit einer verachtungsvollen Miene und zeichnet fort nach griechischen Mustern.",178,477,stage_direction,2,9,speech_part,,,22.0,UNKNOWN,abhorrence,negative,emotions of rejection
+581,581,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       vor Shakespearn, sieht ihm lange ins Gesicht.",0,85,stage_direction,2,9,speech_part,,,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+582,582,TextGrid/-Pandaemonium_Germanicum.xml, Ich kenne dies Gesicht.,0,24,character_speech,2,9,,KLOPSTOCK,KLOPSTOCK,23.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+583,583,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       schlägt den andern Arm um Klopstock.",0,76,stage_direction,2,9,speech_part,,,24.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+584,584,TextGrid/-Pandaemonium_Germanicum.xml, Wir wollen Freunde sein.,0,25,character_speech,2,9,,SHAKESPEAR,SHAKESPEAR,24.0,UNKNOWN,friendship,positive,emotions of affection
+585,585,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       umarmt ihn brünstig, zuckt auf einmal und sieht sich umher.",0,99,stage_direction,2,9,speech_part,,,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+586,586,TextGrid/-Pandaemonium_Germanicum.xml, Wo sind meine Griechen?,0,24,character_speech,2,9,,KLOPSTOCK,KLOPSTOCK,25.0,UNKNOWN,being moved,being moved,being moved
+587,587,TextGrid/-Pandaemonium_Germanicum.xml,Verlaßt mich nicht.,25,44,character_speech,2,9,,KLOPSTOCK,KLOPSTOCK,25.0,UNKNOWN,fear,negative,emotions of anxiety
+588,588,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Shakespear verschwindt wieder.",0,70,stage_direction,2,9,speech_part,,,25.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+589,589,TextGrid/-Pandaemonium_Germanicum.xml,Herder wischt sich die Augen.,71,100,stage_direction,2,9,speech_part,,,25.0,UNKNOWN,being moved,being moved,being moved
+590,590,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       in sanfter Melancholei vorwärts gehend.",0,79,stage_direction,2,9,speech_part,,,26.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+591,591,TextGrid/-Pandaemonium_Germanicum.xml," Was der Junge dort haben mag, der so im Winkel sitzt und Gesichter über Gesichter schneidt.",0,92,character_speech,2,9,,HERDER,HERDER,26.0,UNKNOWN,being moved,being moved,being moved
+592,592,TextGrid/-Pandaemonium_Germanicum.xml,Ich glaub es gilt den Franzosen.,93,125,character_speech,2,9,,HERDER,HERDER,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+593,593,TextGrid/-Pandaemonium_Germanicum.xml,Bübchen was machst du da?,126,151,character_speech,2,9,,HERDER,HERDER,26.0,UNKNOWN,being moved,being moved,being moved
+594,594,TextGrid/-Pandaemonium_Germanicum.xml,Lenz steht auf und antwortet nicht.,152,187,character_speech,2,9,,HERDER,HERDER,26.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+595,595,TextGrid/-Pandaemonium_Germanicum.xml,Was ist dir?,188,200,character_speech,2,9,,HERDER,HERDER,26.0,UNKNOWN,being moved,being moved,being moved
+596,596,TextGrid/-Pandaemonium_Germanicum.xml," Es macht mich zu lachen und zu ärgern, beides zusammen.",0,56,character_speech,2,9,,LENZ.,LENZ.,27.0,UNKNOWN,anger,negative,emotions of rejection
+597,597,TextGrid/-Pandaemonium_Germanicum.xml, Was denn?,0,10,character_speech,2,9,,HERDER.,HERDER.,28.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+598,598,TextGrid/-Pandaemonium_Germanicum.xml," Die Primaner dort, die uns weismachen wollen sie wären was, und der große hagere Primus in ihrer Mitte, und sind Schulknaben wie ich und andere.",0,145,character_speech,2,9,,LENZ.,LENZ.,29.0,UNKNOWN,abhorrence,negative,emotions of rejection
+599,599,TextGrid/-Pandaemonium_Germanicum.xml,"Zeichnen da ängstlich und emsig nach Bildern die vor ihnen liegen, und sagen das soll unsern Leuten ähnlich sehen.",146,260,character_speech,2,9,,LENZ.,LENZ.,29.0,UNKNOWN,fear,negative,emotions of anxiety
+600,600,TextGrid/-Pandaemonium_Germanicum.xml,Und die Leut sind solche Narren und glauben's ihnen.,261,313,character_speech,2,9,,LENZ.,LENZ.,29.0,UNKNOWN,joy,positive,emotions of pleasure
+601,601,TextGrid/-Pandaemonium_Germanicum.xml, Was verlangst du denn.,0,23,character_speech,2,9,,HERDER.,HERDER.,30.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+602,602,TextGrid/-Pandaemonium_Germanicum.xml, Ich will nicht hinterherzeichnen – oder gar nichts.,0,52,character_speech,2,9,,LENZ.,LENZ.,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+603,603,TextGrid/-Pandaemonium_Germanicum.xml,"Wenn Ihr wollt Herr, stell ich Euch gleich ein paar Menschen hin, wie Ihr sie da so vor Euch seht.",53,151,character_speech,2,9,,LENZ.,LENZ.,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+604,604,TextGrid/-Pandaemonium_Germanicum.xml,"Was den Alten galt mit ihren Leuten, soll uns doch auch gelten mit unseren.",152,227,character_speech,2,9,,LENZ.,LENZ.,31.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+605,605,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       gütig.",0,46,stage_direction,2,9,speech_part,,,32.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+606,606,TextGrid/-Pandaemonium_Germanicum.xml, Probiert's einmal.,0,19,character_speech,2,9,,HERDER,HERDER,32.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+607,607,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       kratzt sich in den Kopf.",0,64,stage_direction,2,9,speech_part,,,33.0,UNKNOWN,anger,negative,emotions of rejection
+608,608,TextGrid/-Pandaemonium_Germanicum.xml, Ja da müßt ich einen Augenblick allein sein.,0,45,character_speech,2,9,,LENZ,LENZ,33.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+609,609,TextGrid/-Pandaemonium_Germanicum.xml," So geh in deinen Winkel, und wenn du fertig bist, bring mir's.",0,63,character_speech,2,9,,HERDER.,HERDER.,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+610,610,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       Lenz kommt und bringt einen Menschen nach dem andern keichend und stellt sie vor sie hin.",0,129,stage_direction,2,9,speech_part,,,34.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+611,611,TextGrid/-Pandaemonium_Germanicum.xml," Mensch, die sind viel zu groß für unsre Zeit.",0,46,character_speech,2,9,,HERDER.,HERDER.,35.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+612,612,TextGrid/-Pandaemonium_Germanicum.xml, So sind sie für die kommende.,0,30,character_speech,2,9,,LENZ.,LENZ.,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+613,613,TextGrid/-Pandaemonium_Germanicum.xml,Sie sehn doch wenigstens ähnlich.,31,64,character_speech,2,9,,LENZ.,LENZ.,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+614,614,TextGrid/-Pandaemonium_Germanicum.xml,Und Herr!,65,74,character_speech,2,9,,LENZ.,LENZ.,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+615,615,TextGrid/-Pandaemonium_Germanicum.xml,"die Welt sollte doch auch itzt anfangen, größere Leute zu haben als ehemals.",75,151,character_speech,2,9,,LENZ.,LENZ.,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+616,616,TextGrid/-Pandaemonium_Germanicum.xml,Ist doch solang gelebt worden.,152,182,character_speech,2,9,,LENZ.,LENZ.,36.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+617,617,TextGrid/-Pandaemonium_Germanicum.xml, Eure Leute sind für ein Trauerspiel.,0,37,character_speech,2,9,,LESSING.,LESSING.,37.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+618,618,TextGrid/-Pandaemonium_Germanicum.xml, Herr was ehmals auf dem Kothurn ging sollte doch heutzutag mit unsern im Soccus reichen.,0,89,character_speech,2,9,,LENZ.,LENZ.,38.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+619,619,TextGrid/-Pandaemonium_Germanicum.xml,"Soviel Trauerspiele sind doch nicht umsonst gespielt worden, was ehmals grausen machte, das soll uns lächeln machen.",90,206,character_speech,2,9,,LENZ.,LENZ.,38.0,UNKNOWN,joy,positive,emotions of pleasure
+620,620,TextGrid/-Pandaemonium_Germanicum.xml, Und unser heutiges Trauerspiel?,0,32,character_speech,2,9,,LESSING.,LESSING.,39.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+621,621,TextGrid/-Pandaemonium_Germanicum.xml, O da darf ich mal nicht nach heraufsehn.,0,41,character_speech,2,9,,LENZ.,LENZ.,40.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+622,622,TextGrid/-Pandaemonium_Germanicum.xml,"Das hohe Tragische von heut, ahndet ihr's nicht?",42,90,character_speech,2,9,,LENZ.,LENZ.,40.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+623,623,TextGrid/-Pandaemonium_Germanicum.xml,"Geht in die Geschichte, seht einen emporsteigenden Halbgott auf der 
+letzten Staffel seiner Größe gleiten oder einen wohltätigen Gott schimpflich sterben.",91,245,character_speech,2,9,,LENZ.,LENZ.,40.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+624,624,TextGrid/-Pandaemonium_Germanicum.xml,"Die Leiden griechischer Helden sind für uns bürgerlich, die Leiden unserer sollten sich einer verkannten und duldenden Gottheit nähern.",246,381,character_speech,2,9,,LENZ.,LENZ.,40.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+625,625,TextGrid/-Pandaemonium_Germanicum.xml,"Oder führtet ihr Leiden der Alten auf, so wären es biblische, wie dieser tat Klopstock ansehend.",382,478,character_speech,2,9,,LENZ.,LENZ.,40.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+626,626,TextGrid/-Pandaemonium_Germanicum.xml,"Leiden wie der Götter, wenn eine höhere Macht ihnen entgegenwirkt.",479,545,character_speech,2,9,,LENZ.,LENZ.,40.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+627,627,TextGrid/-Pandaemonium_Germanicum.xml,"Gebt ihnen alle tiefe, voraussehende, Raum und Zeit durchdringende Weisheit der Bibel, gebt ihnen alle Wirksamkeit, Feuer und Leidenschaften von Homers Halbgöttern, und mit Geist und Leib stehn eure Helden da.",546,755,character_speech,2,9,,LENZ.,LENZ.,40.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+628,628,TextGrid/-Pandaemonium_Germanicum.xml,Möcht ich die Zeiten erleben!,756,785,character_speech,2,9,,LENZ.,LENZ.,40.0,UNKNOWN,joy,positive,emotions of pleasure
+629,629,TextGrid/-Pandaemonium_Germanicum.xml, Gott segne dich.,0,17,character_speech,2,9,,KLOPSTOCK.,KLOPSTOCK.,41.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+630,630,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                       springt von hinten zu und umarmt ihn.",0,77,stage_direction,2,9,speech_part,,,42.0,UNKNOWN,joy,positive,emotions of pleasure
+631,631,TextGrid/-Pandaemonium_Germanicum.xml, Mein Bruder.,0,13,character_speech,2,9,,GOETHE,GOETHE,42.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+632,632,TextGrid/-Pandaemonium_Germanicum.xml, Wär' ich alles dessen würdig!,0,30,character_speech,2,9,,LENZ.,LENZ.,43.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+633,633,TextGrid/-Pandaemonium_Germanicum.xml,Laßt mich in meinen Winkel.,31,58,character_speech,2,9,,LENZ.,LENZ.,43.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+634,634,TextGrid/-Pandaemonium_Germanicum.xml,Auf dem halben Wege steht er still und betet.,59,104,character_speech,2,9,,LENZ.,LENZ.,43.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+635,635,TextGrid/-Pandaemonium_Germanicum.xml,Zeit!,105,110,character_speech,2,9,,LENZ.,LENZ.,43.0,UNKNOWN,anger,negative,emotions of rejection
+636,636,TextGrid/-Pandaemonium_Germanicum.xml,"du große Vollenderin aller geheimen Ratschlüsse des Himmels, Zeit, ewig wie Gott, allmächtig wie er, immer fortwirkend immer verzehrend, immer umschaffend erhöhend vollendend – laß mich – laß mich's erleben.",111,318,character_speech,2,9,,LENZ.,LENZ.,43.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+637,637,TextGrid/-Pandaemonium_Germanicum.xml,Ab.,319,322,character_speech,2,9,,LENZ.,LENZ.,43.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+638,638,TextGrid/-Pandaemonium_Germanicum.xml,"KLOPSTOCK, HERDER UND LESSING.",0,30,character_speech,2,9,,LENZ.,LENZ.,43.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+639,639,TextGrid/-Pandaemonium_Germanicum.xml,Der brave Junge.,31,47,character_speech,2,9,,LENZ.,LENZ.,43.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+640,640,TextGrid/-Pandaemonium_Germanicum.xml,"Leistet er nichts, so hat er doch groß geahndet.",48,96,character_speech,2,9,,LENZ.,LENZ.,43.0,UNKNOWN,anger,negative,emotions of rejection
+641,641,TextGrid/-Pandaemonium_Germanicum.xml, Ich will's leisten.,0,20,character_speech,2,9,,GOETHE.,GOETHE.,44.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+642,642,TextGrid/-Pandaemonium_Germanicum.xml,– Eine Menge junger Leute stürmen herein mit verstörten Haaren.,21,84,character_speech,2,9,,GOETHE.,GOETHE.,44.0,UNKNOWN,being moved,being moved,being moved
+643,643,TextGrid/-Pandaemonium_Germanicum.xml,Wir wollen's auch leisten.,85,111,character_speech,2,9,,GOETHE.,GOETHE.,44.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+644,644,TextGrid/-Pandaemonium_Germanicum.xml,"Bringen mit Ungestüm Papier her, Farben her, schmieren Figuren zusammen, heben die Papiere hoch empor.",112,214,character_speech,2,9,,GOETHE.,GOETHE.,44.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+645,645,TextGrid/-Pandaemonium_Germanicum.xml,Sind sie das nicht?,215,234,character_speech,2,9,,GOETHE.,GOETHE.,44.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+646,646,TextGrid/-Pandaemonium_Germanicum.xml, Hört lieben Kinder!,0,20,character_speech,2,9,,GOETHE.,GOETHE.,45.0,UNKNOWN,joy,positive,emotions of pleasure
+647,647,TextGrid/-Pandaemonium_Germanicum.xml,ich will euch eine Fabel erzählen.,21,55,character_speech,2,9,,GOETHE.,GOETHE.,45.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+648,648,TextGrid/-Pandaemonium_Germanicum.xml,"Als Gott der Herr Adam erschuf, macht' er ihn aus Erde und Wasser sehr sorgfältig, bildete all seine Gliedmaßen, seine Eingeweide, seine Adern, seine Nerven, blies ihm einen lebendigen Odem in die Nase, da ging der Mensch herum und wandelte und freute sich und alle Tiere hatten Respekt vor ihm.",56,351,character_speech,2,9,,GOETHE.,GOETHE.,45.0,UNKNOWN,joy,positive,emotions of pleasure
+649,649,TextGrid/-Pandaemonium_Germanicum.xml,"Kam der Teufel, 
+sagte: Ei was eine große Kunst ist denn das, solche Figuren zu machen, darf ich nur ein bissel Mörtel zusammenkneten und darauf blosen, wird's gleich herumgehn und leben und die Tiere in Respekt erhalten.",352,573,character_speech,2,9,,GOETHE.,GOETHE.,45.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+650,650,TextGrid/-Pandaemonium_Germanicum.xml,"Tät er dem auch also, pappte eine Menge Leim zusammen, rollt's in seinen Händen, behaucht' und begeiferte es, blies sich fast den Othem aus, fu fi fi fu – aber geskizzen wor nit gemolen.",574,760,character_speech,2,9,,GOETHE.,GOETHE.,45.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+651,651,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                 Nacht.",0,40,stage_direction,3,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+652,652,TextGrid/-Pandaemonium_Germanicum.xml,Geister.,41,49,stage_direction,3,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+653,653,TextGrid/-Pandaemonium_Germanicum.xml,Stimmen.,50,58,stage_direction,3,9,pre_speech,,,,,no_annotation,no_annotation,no_annotation
+654,654,TextGrid/-Pandaemonium_Germanicum.xml, Ist Tugend der Müh wert?,0,25,character_speech,3,9,,ERSTE STIMME.,ERSTE STIMME.,1.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+655,655,TextGrid/-Pandaemonium_Germanicum.xml, Machen Künst und Wissenschaften besser?,0,40,character_speech,3,9,,ZWEITE STIMME.,ZWEITE STIMME.,2.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+656,656,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    rufen.",0,43,stage_direction,3,9,speech_part,,,3.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+657,657,TextGrid/-Pandaemonium_Germanicum.xml, Tugend ist der Müh nicht wert.,0,31,character_speech,3,9,,EINE MENGE GEISTER,EINE MENGE GEISTER,3.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+658,658,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    rufen.",0,43,stage_direction,3,9,speech_part,,,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+659,659,TextGrid/-Pandaemonium_Germanicum.xml, Künst und Wissenschaften machen schlechter.,0,44,character_speech,3,9,,EINE MENGE GEISTER,EINE MENGE GEISTER,4.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+660,660,TextGrid/-Pandaemonium_Germanicum.xml," Eßt, liebt und streitet!",0,25,character_speech,3,9,,WELTGEIST.,WELTGEIST.,5.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+661,661,TextGrid/-Pandaemonium_Germanicum.xml,euer Lohn ist sicher.,26,47,character_speech,3,9,,WELTGEIST.,WELTGEIST.,5.0,UNKNOWN,joy,positive,emotions of pleasure
+662,662,TextGrid/-Pandaemonium_Germanicum.xml, Euer Lohn ist klein.,0,21,character_speech,3,9,,EWIGER GEIST.,EWIGER GEIST.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+663,663,TextGrid/-Pandaemonium_Germanicum.xml,"– Schaut an Klopstock, der auf jene steinigten Pfade Rosen warf.",22,86,character_speech,3,9,,EWIGER GEIST.,EWIGER GEIST.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+664,664,TextGrid/-Pandaemonium_Germanicum.xml,"Der muß tugendhaft gewesen sein, der von gegenwärtigem Genuß auf seine Brust hinverweisen kann, auf sein Auge gen Himmel gewandt.",87,216,character_speech,3,9,,EWIGER GEIST.,EWIGER GEIST.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+665,665,TextGrid/-Pandaemonium_Germanicum.xml,"Schaut an Herdern, der jene Labyrinthe mit einem ebnen Wege durchschnitt die nur immer um Künste herum, nie zur Kunst selber führten.",217,350,character_speech,3,9,,EWIGER GEIST.,EWIGER GEIST.,6.0,UNKNOWN,"admiration, reverence",positive,emotions of affection
+666,666,TextGrid/-Pandaemonium_Germanicum.xml,"Tausend Unglücklichen Verirrten ein Retter, die sonst nicht wußten wo sie hinaus wollten und in dieser tödlichen Ungewißheit an Felsenwänden kratzten.",351,501,character_speech,3,9,,EWIGER GEIST.,EWIGER GEIST.,6.0,UNKNOWN,suffering,negative,emotions of suffering and empathy
+667,667,TextGrid/-Pandaemonium_Germanicum.xml,–,502,503,character_speech,3,9,,EWIGER GEIST.,EWIGER GEIST.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+668,668,TextGrid/-Pandaemonium_Germanicum.xml,"Wer von euch schweigt, bekennt, er sei nicht fähig euch zu loben.",0,65,character_speech,3,9,,EWIGER GEIST.,EWIGER GEIST.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+669,669,TextGrid/-Pandaemonium_Germanicum.xml,"Schweig, Säkulum!",66,83,character_speech,3,9,,EWIGER GEIST.,EWIGER GEIST.,6.0,UNKNOWN,anger,negative,emotions of rejection
+670,670,TextGrid/-Pandaemonium_Germanicum.xml,*,0,1,character_speech,3,9,,EWIGER GEIST.,EWIGER GEIST.,6.0,UNKNOWN,no_annotation,no_annotation,no_annotation
+671,671,TextGrid/-Pandaemonium_Germanicum.xml,"
+                                    aus dem Traum erwachend, ganz erhitzt.",0,75,stage_direction,3,9,speech_part,,,7.0,UNKNOWN,being moved,being moved,being moved
+672,672,TextGrid/-Pandaemonium_Germanicum.xml, Soll ich dem kommenden rufen?,0,30,character_speech,3,9,,LENZ,LENZ,7.0,UNKNOWN,no_annotation,no_annotation,no_annotation
