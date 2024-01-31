@@ -81,6 +81,9 @@ This folder contains additional data seperated by papers and publications:
   <li><b>2024_CDA_Emotions_in_Stage_Directions</b>:All additional material for Dennerlein, Schmidt and Wolff (2024) including distribution tables, visualizations, classification results, and word frequency data like word clouds. Please note that data regarding stage directions uses the abbreviation _stages and character speeches (spoken text) cp. The model used in this study can be found in the <b>Classification_Model</b> folder of the main branch. </li>
 </ul>
 
+## CLS_Meetings
+In this folder, you can find all presentation slides that were used for meetings of the <a href="https://dfg-spp-cls.github.io/">priority program computational literary studies</a> including meetings of the working group annotation and sentiment analysis.
+
 ## Publications
 
 Brandes, Ph., Dennerlein, K., Jacke, J., Marshall, S., Pielström, St., Schneider, F. (2022). Modelling and Operationalizing Concepts in Computational Literary Studies. In DH2022 Local Organizing Committee (Ed.), Responding to Asian Diversity. Digital Humanities 2022 Conference Abstracts. (pp. 70–73). Alliance of Digital Humanities Organizations (ADHO). https://dh-abstracts.library.virginia.edu/works/11818 
