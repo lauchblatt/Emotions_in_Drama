@@ -2,7 +2,7 @@
 
 This is a GitHub-repository for the research project <a href="https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Emotions_in_Drama/">Emotions in Drama</a> (EmoDrama).
 
-The repository is used to store data and other material that is created during the project and meant to be published or serves as additional material for papers.
+The repository is used to store data and other material that was created during the project and meant to be published or serves as additional material for papers.
 
 Please refer to the reference section for information about all publications and scientific contributions. 
 
@@ -27,24 +27,24 @@ The annotation folder contains the final annotations of 18 plays according to ou
     <li><b>Filtered_Emotion_Annotations_withNoAnnotation</b>: Emotion annotations filterd by disagreements and including the no annotation class (non-annotated material).
     These are the annotations used to train the final classification model.</li>
    </ul>
-    <li><b>Source_Target</b>: Implicit and explicit source/target annotations for 18 plays and overall.</li>
+    <li><b>Source_Target</b>: Implicit and explicit source/target annotations for 18 plays and for all plays summed up.</li>
   </ul>
   Some information regarding the annotations:
     <ul>
-      <li>Please refer to <a href="https://doi.org/10.5281/zenodo.6228152">Dennerlein, Schmidt and Wolff (2022c)</a> for explanations of annotation data, processes and German/English translations.</li>
+      <li>Please refer to <a href="https://doi.org/10.5281/zenodo.6228152">Dennerlein, Schmidt and Wolff (2022c)</a>, <a href="https://doi.org/10.17175/2023_010">Dennerlein, Schmidt and Wolff (2023b)</a> and <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> for explanations of annotation data, processes and German/English translations.</li>
       <li>Main annotation attributes are: tag_type (sub-emotions), main_emotion_class, base_polarity (positive, negative, being moved, eventually no annotation)</li>
       <li>Annotations of different annotators are seperable via the annotator attribute and consist of 2-letter-abbreviations (e.g. VH, LS)</li>
-      <li>The annotations were performed under guidance by the following students: Carlina Eizenberger, Viola Hippler, Nadine Kastenhofer, Julia Jäger, Emma Russ, Leon Sautter, Lisa Schattmann.</li>
+      <li>The annotations were performed under guidance (technical issues: Thomas Schmidt, history of drama: Katrin Dennerlein) by the following students: Carlina Eizenberger, Viola Hippler, Nadine Kastenhofer, Julia Jäger, Emma Russ, Leon Sautter, Lisa Schattmann.</li>
     </ul>
 
 ## Classification_Model
-This folder contains a link to the model used in <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> and Dennerlein, Schmidt and Wolff (2024) as well as evaluation information. The model achieves an average F1-score for sub-emotion classification of 72% and was fine-tuned for four epochs with a batch size of 32, a learning rate of 4e-5, and the Adam optimizer, utilizing a Tesla P100 GPU with the filtered annotations. 
+This folder contains a link to the transformer-based large language model used in <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> and Dennerlein, Schmidt and Wolff (2024) as well as evaluation information. This model (based on gbert-large by <a href="https://www.deepset.ai/">deepset</a>t) achieves am average F1-score for sub-emotion classification of 72% and was fine-tuned for four epochs with a batch size of 32, a learning rate of 4e-5, and the Adam optimizer, utilizing a Tesla P100 GPU with the filtered annotations. 
 
 Please refer to the <a href="https://huggingface.co/">hugging face library</a> on how to use the unzipped model and the models in this repository in general. We also included a link to a <a href="https://colab.research.google.com/drive/1c8so9bADbwluPC4M1bT351L5qpRCHp--?usp=sharing">google colab</a> for a basic usage example in this folder.
 
 ## Classification_Results
 
-The results of the application of the classification model on the sentences of 313 plays. Subsets of these results are used in <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> and Dennerlein, Schmidt and Wolff (2024). The original plays are from <a href="https://dracor.org/ger">GerDracor</a>, <a href="https://textgrid.de/">TextGrid</a> or based on our own work.
+This folder contains the results of the application of the classification model on the sentences of 313 plays. Subsets of these results are used in <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> and Dennerlein, Schmidt and Wolff (2024). The original plays are from <a href="https://dracor.org/ger">GerDracor</a>, <a href="https://textgrid.de/">TextGrid</a> or based on our own work.
 
 Some information regarding the classification results:
 <ul>
@@ -78,7 +78,7 @@ This folder contains additional data seperated by papers and publications:
   <li><b>2023_DH_Results_Of_Emotion_Annotation</b>: All relevant data for <a href="https://doi.org/10.5281/ZENODO.8107952">Schmidt, Dennerlein and Wolff (2023)</a> can be found in the <b>Annotations</b>-folder in the main branch.</li>
   <li><b>2023_DSH_Computational_Emotion_Classification_For_Genre_Corpora</b>: All additional material for <a href="https://doi.org/10.1093/llc/fqad046">Dennerlein, Schmidt and Wolff (2023a)</a> including distribution analysis, visualizations, and classification results. The model used in this study can be found in the <b>Classification_Model</b> folder of the main branch.</li>
   <li><b>2023_ZfdG_EmoDrama_Ein_Korpus_mit_Emotionsinformationen</b>: All relevant data for <a href="https://doi.org/10.5281/ZENODO.8107952">Dennerlein, Schmidt and Wolff (2023b)</a> can be found in the <b>Annotations</b>-folder in the main branch.</li>
-  <li><b>2024_CDA_Emotions_in_Stage_Directions</b>:All additional material for Dennerlein, Schmidt and Wolff (2024) including distribution tables, visualizations, classification results, and word frequency data like word clouds. Please note that data regarding stage directions uses the abbreviation _stages and character speeches (spoken text) cp. The model used in this study can be found in the <b>Classification_Model</b> folder of the main branch. </li>
+  <li><b>2024_CDA_Emotions_in_Stage_Directions</b>: All additional material for Dennerlein, Schmidt and Wolff (2024) including distribution tables, visualizations, classification results, and word frequency data like word clouds. Please note that data regarding stage directions uses the abbreviation _stages and character speeches (spoken text) cp. The model used in this study can be found in the <b>Classification_Model</b> folder of the main branch. </li>
 </ul>
 
 ## CLS_Meetings
